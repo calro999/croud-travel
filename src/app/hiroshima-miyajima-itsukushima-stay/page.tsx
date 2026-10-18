@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hiroshima-miyajima-itsukushima-stay/" },
-  title: "広島・宮島＆嚴島神社：海に浮かぶ大鳥居・弥山＆牡蠣・穴子飯宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "広島・宮島＆嚴島神社：海に浮かぶ大鳥居・弥山＆牡蠣・穴子飯宿 厳選ガイド",
   description: "日本三景・安芸の宮島エリア完全特化！世界遺産「嚴島神社」大鳥居の潮干狩り・満潮の絶景、宮島ロープウエー弥山登山、揚げもみじ・焼き牡蠣食べ歩きと老舗温泉旅館を徹底解説。",
   keywords: ["広島", "宮島", "嚴島神社", "海に浮かぶ大鳥居", "弥山", "牡蠣", "穴子飯宿"],
   openGraph: {
-    title: "広島・宮島＆嚴島神社：海に浮かぶ大鳥居・弥山＆牡蠣・穴子飯宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "広島・宮島＆嚴島神社：海に浮かぶ大鳥居・弥山＆牡蠣・穴子飯宿 厳選ガイド",
     description: "日本三景・安芸の宮島エリア完全特化！世界遺産「嚴島神社」大鳥居の潮干狩り・満潮の絶景、宮島ロープウエー弥山登山、揚げもみじ・焼き牡蠣食べ歩きと老舗温泉旅館を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "広島・宮島＆嚴島神社：海に浮かぶ大鳥居・弥山＆牡蠣・穴子飯宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "広島・宮島＆嚴島神社：海に浮かぶ大鳥居・弥山＆牡蠣・穴子飯宿 厳選ガイド",
     description: "日本三景・安芸の宮島エリア完全特化！世界遺産「嚴島神社」大鳥居の潮干狩り・満潮の絶景、宮島ロープウエー弥山登山、揚げもみじ・焼き牡蠣食べ歩きと老舗温泉旅館を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（1299件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,050〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18848%2F18848.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18848%2F18848.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 宮島　神撰の宿　ホテルみや離宮</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">交通規制があり駐車不可。乗船前に宮島口の駐車場をご利用下さい。（1泊約2000円）</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（1046件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11125%2F11125.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11125%2F11125.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 安芸の御宿　みやじま庵廣島</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">【専用無料駐車場有り】　チェクイン前チェクアウト後も駐車可能　キャンピングカーも駐車可能</td>
                 <td className="p-3 font-bold text-amber-600">★3.99（248件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172823%2F172823.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172823%2F172823.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 宮島コーラルホテル</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　55台　到着日の15時〜出立日の正午まで無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（2049件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,550〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17769%2F17769.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17769%2F17769.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 宮島　ホテル菊乃家</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">駐車場なし（フェリーご乗船前の一般の駐車場にお止めください）</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（630件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,320〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F129976%2F129976.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F129976%2F129976.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. リブマックスリゾート宮浜温泉Ｏｃｅａｎ</td>
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（911件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178590%2F178590.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178590%2F178590.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

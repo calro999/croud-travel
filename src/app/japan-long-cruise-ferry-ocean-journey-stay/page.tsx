@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-long-cruise-ferry-ocean-journey-stay/" },
-  title: "優雅な船旅・長距離カーフェリー＆離島航路：太平洋・日本海クルーズ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "優雅な船旅・長距離カーフェリー＆離島航路：太平洋・日本海クルーズ 厳選ガイド",
   description: "海上の動く洋上ホテル！長距離フェリー＆離島航路完全特化！太平洋フェリー（名古屋〜仙台〜苫小牧・いしかり）、新日本海フェリー（新潟・敦賀〜小樽）、佐渡汽船ジェットフォイル、フェリー発着港至近の温泉ホテルを徹底解説。",
   keywords: ["優雅な船旅", "長距離カーフェリー", "離島航路", "太平洋", "日本海クルーズ", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "優雅な船旅・長距離カーフェリー＆離島航路：太平洋・日本海クルーズ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "優雅な船旅・長距離カーフェリー＆離島航路：太平洋・日本海クルーズ 厳選ガイド",
     description: "海上の動く洋上ホテル！長距離フェリー＆離島航路完全特化！太平洋フェリー（名古屋〜仙台〜苫小牧・いしかり）、新日本海フェリー（新潟・敦賀〜小樽）、佐渡汽船ジェットフォイル、フェリー発着港至近の温泉ホテルを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "優雅な船旅・長距離カーフェリー＆離島航路：太平洋・日本海クルーズ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "優雅な船旅・長距離カーフェリー＆離島航路：太平洋・日本海クルーズ 厳選ガイド",
     description: "海上の動く洋上ホテル！長距離フェリー＆離島航路完全特化！太平洋フェリー（名古屋〜仙台〜苫小牧・いしかり）、新日本海フェリー（新潟・敦賀〜小樽）、佐渡汽船ジェットフォイル、フェリー発着港至近の温泉ホテルを徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function RailwayActivityHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">平面駐車場１泊2,000円(15台分)高さ２．３ｍ以下まで（要電話予約）満車時は近隣駐車場案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（5694件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F57055%2F57055.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F57055%2F57055.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 仙台　秋保温泉　ホテル瑞鳳</td>
@@ -261,7 +261,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">約３００台駐車可能な無料駐車場完備。少し離れた当館駐車場へは送迎あり。</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（6863件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30766%2F30766.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30766%2F30766.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天然温泉　杜都の湯　御宿　野乃仙台（ドーミーイン・御宿野乃　ホテルズグループ）</td>
@@ -270,7 +270,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（684件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,230〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183803%2F183803.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183803%2F183803.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 天然温泉　青葉の湯　ドーミーイン仙台ＡＮＮＥＸ（ドーミーイン・御宿野乃　ホテルズグループ）</td>
@@ -279,7 +279,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">要電話予約　契約駐車場15台2000円。満車時は近隣駐車場案内。</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（4820件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,875〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50926%2F50926.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50926%2F50926.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテル　水明閣</td>
@@ -288,7 +288,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">有り　６０台（青空駐車）　無料　大型バス・トラックなど歓迎（建物向かって右側スペース）</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（428件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41017%2F41017.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41017%2F41017.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 湖畔の宿　吉田家　＜佐渡島＞</td>
@@ -297,7 +297,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">有り　６０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（462件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,680〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10682%2F10682.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10682%2F10682.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

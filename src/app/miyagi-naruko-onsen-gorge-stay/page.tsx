@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/miyagi-naruko-onsen-gorge-stay/" },
-  title: "宮城・鳴子温泉郷＆鳴子峡：日本屈指の多彩な泉質・紅葉深雪橋＆栗だんご宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "宮城・鳴子温泉郷＆鳴子峡：日本屈指の多彩な泉質・紅葉深雪橋＆栗だんご宿 厳選ガイド",
   description: "奥州三名湯・国内屈指の泉質の宝庫・宮城鳴子温泉郷エリア完全特化！東北屈指の紅葉名所「鳴子峡（大深沢橋）」、鳴子こけしの里散策、多彩な源泉（重曹泉・硫黄泉・食塩泉）、名物「元祖栗だんご・鳴子温泉旅館」を徹底解説。",
   keywords: ["宮城", "鳴子温泉郷", "鳴子峡", "日本屈指の多彩な泉質", "紅葉深雪橋", "栗だんご宿", "温泉宿"],
   openGraph: {
-    title: "宮城・鳴子温泉郷＆鳴子峡：日本屈指の多彩な泉質・紅葉深雪橋＆栗だんご宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "宮城・鳴子温泉郷＆鳴子峡：日本屈指の多彩な泉質・紅葉深雪橋＆栗だんご宿 厳選ガイド",
     description: "奥州三名湯・国内屈指の泉質の宝庫・宮城鳴子温泉郷エリア完全特化！東北屈指の紅葉名所「鳴子峡（大深沢橋）」、鳴子こけしの里散策、多彩な源泉（重曹泉・硫黄泉・食塩泉）、名物「元祖栗だんご・鳴子温泉旅館」を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "宮城・鳴子温泉郷＆鳴子峡：日本屈指の多彩な泉質・紅葉深雪橋＆栗だんご宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "宮城・鳴子温泉郷＆鳴子峡：日本屈指の多彩な泉質・紅葉深雪橋＆栗だんご宿 厳選ガイド",
     description: "奥州三名湯・国内屈指の泉質の宝庫・宮城鳴子温泉郷エリア完全特化！東北屈指の紅葉名所「鳴子峡（大深沢橋）」、鳴子こけしの里散策、多彩な源泉（重曹泉・硫黄泉・食塩泉）、名物「元祖栗だんご・鳴子温泉旅館」を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">施設前に無料駐車場あり。40台まで。予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（190件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109391%2F109391.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109391%2F109391.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 鳴子・中山平温泉　旅館　三之亟湯（さんのじょうゆ）</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　20台　無料　先着順  バイク用車庫有り 無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（745件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19373%2F19373.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19373%2F19373.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 鳴子温泉郷　極上の貸切露天風呂　旅館大沼</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（614件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,530〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F106139%2F106139.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F106139%2F106139.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 赤倉温泉　みどりや旅館</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★5（15件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F134823%2F134823.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F134823%2F134823.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 鳴子温泉　和みの湯　民宿旅館　二宮荘</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　１５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（86件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F111169%2F111169.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F111169%2F111169.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 鳴子温泉　鳴子旅館</td>
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（49件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,370〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31108%2F31108.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31108%2F31108.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

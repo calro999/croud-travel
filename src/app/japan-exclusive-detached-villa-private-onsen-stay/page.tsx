@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-exclusive-detached-villa-private-onsen-stay/" },
-  title: "全室離れ・源泉かけ流し露天風呂付き隠れ家宿：大人の静寂＆名門温泉割烹 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "全室離れ・源泉かけ流し露天風呂付き隠れ家宿：大人の静寂＆名門温泉割烹 厳選ガイド",
   description: "静寂とプライベートを極めた大人のための聖域！全室離れ・客室専用源泉かけ流し露天風呂付き名旅館完全特化！由布院・黒川温泉・箱根・伊豆・飛騨高山、誰にも会わずに部屋食と名湯を堪能する極上宿を徹底解説。",
   keywords: ["全室離れ", "大人の静寂", "名門温泉割烹", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "全室離れ・源泉かけ流し露天風呂付き隠れ家宿：大人の静寂＆名門温泉割烹 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "全室離れ・源泉かけ流し露天風呂付き隠れ家宿：大人の静寂＆名門温泉割烹 厳選ガイド",
     description: "静寂とプライベートを極めた大人のための聖域！全室離れ・客室専用源泉かけ流し露天風呂付き名旅館完全特化！由布院・黒川温泉・箱根・伊豆・飛騨高山、誰にも会わずに部屋食と名湯を堪能する極上宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "全室離れ・源泉かけ流し露天風呂付き隠れ家宿：大人の静寂＆名門温泉割烹 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "全室離れ・源泉かけ流し露天風呂付き隠れ家宿：大人の静寂＆名門温泉割烹 厳選ガイド",
     description: "静寂とプライベートを極めた大人のための聖域！全室離れ・客室専用源泉かけ流し露天風呂付き名旅館完全特化！由布院・黒川温泉・箱根・伊豆・飛騨高山、誰にも会わずに部屋食と名湯を堪能する極上宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function LuxuryPremiumHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-700 to-amber-900 hover:from-amber-600 hover:to-amber-800 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">有り　１５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（70件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137862%2F137862.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137862%2F137862.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 箱根湯本温泉　離れ山家荘</td>
@@ -261,7 +261,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">有り（本館仙景の駐車場をご利用ください。水車が目印です。無料　予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（53件）</td>
                 <td className="p-3 font-bold text-rose-600">¥41,950〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165731%2F165731.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165731%2F165731.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＫＵＯＮ　箱根強羅　（オープンハウス・ホテルズ＆リゾーツ）</td>
@@ -270,7 +270,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">あり　11台(到着順)　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥28,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F197971%2F197971.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F197971%2F197971.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 箱根温泉　鶴井の宿　紫雲荘</td>
@@ -279,7 +279,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">２２台収容可能な無料駐車場有。(要事前予約)</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（1151件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,830〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29488%2F29488.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29488%2F29488.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 箱根湯本温泉　あうら橘</td>
@@ -288,7 +288,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">有り　30台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（1827件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,437〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13791%2F13791.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13791%2F13791.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 有馬温泉　月光園　鴻朧館</td>
@@ -297,7 +297,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">有り　４０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（1693件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,280〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18252%2F18252.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18252%2F18252.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

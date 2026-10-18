@@ -5,7 +5,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '勝沼ぶどう郷のワイナリー巡りと石和温泉！山梨の新酒甲州ワイン・甲州牛＆ほうとうを味わう秋旅 | クラウドトラベルふるさと納税',
+  title: '勝沼ぶどう郷のワイナリー巡りと石和温泉！山梨の新酒甲州ワイン・甲州牛＆ほうとうを味わう秋旅',
   description: '10月・11月の山梨・勝沼＆石和温泉特集！ブドウ畑が黄金に染まる勝沼ぶどう郷と11月3日解禁の「山梨ヌーボー（甲州新酒ワイン）」、山梨随一の湧出量を誇る石和温泉の美肌美人の湯、甲州牛ステーキや具だくさん名物ほうとうをふるさと納税で巡る大人の秋旅。',
   keywords: ["甲州牛", "ほうとうを味わう秋旅", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
@@ -239,7 +239,7 @@ export default function Page() {
                 <a
                   href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72719%2F72719.html"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="sponsored noopener noreferrer"
                   className="w-full sm:w-auto inline-flex items-center justify-center bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold px-8 py-3.5 rounded-xl shadow-md transition transform active:scale-95 text-sm"
                 >
                   楽天トラベルでプラン・空室を確認する →
@@ -293,7 +293,7 @@ export default function Page() {
                 <a
                   href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39460%2F39460.html"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="sponsored noopener noreferrer"
                   className="w-full sm:w-auto inline-flex items-center justify-center bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold px-8 py-3.5 rounded-xl shadow-md transition transform active:scale-95 text-sm"
                 >
                   楽天トラベルでプラン・空室を確認する →
@@ -347,7 +347,7 @@ export default function Page() {
                 <a
                   href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29786%2F29786.html"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="sponsored noopener noreferrer"
                   className="w-full sm:w-auto inline-flex items-center justify-center bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold px-8 py-3.5 rounded-xl shadow-md transition transform active:scale-95 text-sm"
                 >
                   楽天トラベルでプラン・空室を確認する →
@@ -487,7 +487,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り　６０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.48（212件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72719%2F72719.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72719%2F72719.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 石和温泉　石和びゅーほてる</td>
@@ -496,7 +496,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り 120台 無料 予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（1734件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,050〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39460%2F39460.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39460%2F39460.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. リブマックスリゾート石和温泉</td>
@@ -505,7 +505,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.22（737件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,803〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29786%2F29786.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29786%2F29786.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

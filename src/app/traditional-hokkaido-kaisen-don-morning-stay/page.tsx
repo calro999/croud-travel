@@ -5,7 +5,7 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '2026年：朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選 | 日本全国・旅宿クラウド',
+  title: '2026年：朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選',
   description: '2026年最新！朝食の美味しさ日本一を競う函館・札幌・小樽の海鮮バイキング！いくら盛り放題の絶品勝手丼と天然温泉展望風呂が自慢の宿5選。',
   keywords: ["2026年", "朝からいくら", "ウニ", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
@@ -263,7 +263,7 @@ export default function FeatureDetailPage() {
                       <span>函館市湯川町3-1-17</span>
                     </div>
                     <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137023%2F137023.html" target="_blank" rel="noopener noreferrer">
+                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137023%2F137023.html" target="_blank" rel="sponsored noopener noreferrer">
                         イマジンホテル＆リゾート函館
                       </a>
                     </h3>
@@ -290,7 +290,7 @@ export default function FeatureDetailPage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137023%2F137023.html%26f_flg%3DPLAN"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-1 bg-amber-600 hover:bg-amber-700 text-white font-bold text-sm px-5 py-2.5 rounded-xl shadow-sm transition-all"
                     >
                       <span>プラン・空室を見る</span>
@@ -322,7 +322,7 @@ export default function FeatureDetailPage() {
                       <span>函館市若松町19-11</span>
                     </div>
                     <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1477%2F1477.html" target="_blank" rel="noopener noreferrer">
+                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1477%2F1477.html" target="_blank" rel="sponsored noopener noreferrer">
                         Ｔａｂｉｓｔ　ホテルテトラ函館駅前
                       </a>
                     </h3>
@@ -349,7 +349,7 @@ export default function FeatureDetailPage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1477%2F1477.html%26f_flg%3DPLAN"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-1 bg-amber-600 hover:bg-amber-700 text-white font-bold text-sm px-5 py-2.5 rounded-xl shadow-sm transition-all"
                     >
                       <span>プラン・空室を見る</span>
@@ -381,7 +381,7 @@ export default function FeatureDetailPage() {
                       <span>函館市大手町5-10</span>
                     </div>
                     <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1341%2F1341.html" target="_blank" rel="noopener noreferrer">
+                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1341%2F1341.html" target="_blank" rel="sponsored noopener noreferrer">
                         函館国際ホテル
                       </a>
                     </h3>
@@ -408,7 +408,7 @@ export default function FeatureDetailPage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1341%2F1341.html%26f_flg%3DPLAN"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-1 bg-amber-600 hover:bg-amber-700 text-white font-bold text-sm px-5 py-2.5 rounded-xl shadow-sm transition-all"
                     >
                       <span>プラン・空室を見る</span>
@@ -440,7 +440,7 @@ export default function FeatureDetailPage() {
                       <span>函館市大手町22-13</span>
                     </div>
                     <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168681%2F168681.html" target="_blank" rel="noopener noreferrer">
+                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168681%2F168681.html" target="_blank" rel="sponsored noopener noreferrer">
                         センチュリーマリーナ函館
                       </a>
                     </h3>
@@ -467,7 +467,7 @@ export default function FeatureDetailPage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168681%2F168681.html%26f_flg%3DPLAN"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-1 bg-amber-600 hover:bg-amber-700 text-white font-bold text-sm px-5 py-2.5 rounded-xl shadow-sm transition-all"
                     >
                       <span>プラン・空室を見る</span>
@@ -499,7 +499,7 @@ export default function FeatureDetailPage() {
                       <span>函館市湯川町2-6-22</span>
                     </div>
                     <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67479%2F67479.html" target="_blank" rel="noopener noreferrer">
+                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67479%2F67479.html" target="_blank" rel="sponsored noopener noreferrer">
                         Ｔａｂｉｓｔ　竹葉新葉亭　函館　湯の川温泉
                       </a>
                     </h3>
@@ -526,7 +526,7 @@ export default function FeatureDetailPage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67479%2F67479.html%26f_flg%3DPLAN"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-1 bg-amber-600 hover:bg-amber-700 text-white font-bold text-sm px-5 py-2.5 rounded-xl shadow-sm transition-all"
                     >
                       <span>プラン・空室を見る</span>
@@ -666,25 +666,25 @@ export default function FeatureDetailPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/gunma"
+                href="/prefectures/gunma/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 群馬県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamanashi"
+                href="/prefectures/yamanashi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 山梨県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ehime"
+                href="/prefectures/ehime/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 愛媛県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ibaraki"
+                href="/prefectures/ibaraki/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 茨城県の宿・温泉
@@ -729,7 +729,7 @@ export default function FeatureDetailPage() {
                 <td className="p-3 text-stone-600">有り　無料　約90台　湯の川最大級青空平面</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（2336件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,259〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137023%2F137023.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137023%2F137023.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. Ｔａｂｉｓｔ　ホテルテトラ函館駅前</td>
@@ -738,7 +738,7 @@ export default function FeatureDetailPage() {
                 <td className="p-3 text-stone-600">1台１泊800円　 数に限りあり　 GWなど特別期間は別料金。</td>
                 <td className="p-3 font-bold text-amber-600">★3.74（1857件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1477%2F1477.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1477%2F1477.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 函館国際ホテル</td>
@@ -747,7 +747,7 @@ export default function FeatureDetailPage() {
                 <td className="p-3 text-stone-600">1泊1000円 (宿泊日当日の11時〜出発日の14時まで出し入れ自由／先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（4102件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,804〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1341%2F1341.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1341%2F1341.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. センチュリーマリーナ函館</td>
@@ -756,7 +756,7 @@ export default function FeatureDetailPage() {
                 <td className="p-3 text-stone-600">有り(1,000円/日）</td>
                 <td className="p-3 font-bold text-amber-600">★4.66（4064件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168681%2F168681.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168681%2F168681.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. Ｔａｂｉｓｔ　竹葉新葉亭　函館　湯の川温泉</td>
@@ -765,7 +765,7 @@ export default function FeatureDetailPage() {
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（338件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67479%2F67479.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67479%2F67479.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

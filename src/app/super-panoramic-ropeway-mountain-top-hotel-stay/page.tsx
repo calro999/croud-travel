@@ -6,7 +6,7 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '2026年：標高1,000m以上の絶景パノラマ！ロープウェイ直結＆雲上展望山頂ホテル5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：標高1,000m以上の絶景パノラマ！ロープウェイ直結＆雲上展望山頂ホテル5選',
   description: '2026年最新！中央アルプス・蔵王・八甲田など、ロープウェイで登る雲上の山頂リゾートホテル5選。眼下に広がる雲海とパノラマ展望露天風呂の感動。',
   keywords: ["2026年", "雲上展望山頂ホテル5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
@@ -402,25 +402,25 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/okinawa"
+                href="/prefectures/okinawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 沖縄県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gunma"
+                href="/prefectures/gunma/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 群馬県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tochigi"
+                href="/prefectures/tochigi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 栃木県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukushima"
+                href="/prefectures/fukushima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 福島県の宿・温泉
@@ -465,7 +465,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">400台（無料）／駐車場はホテルより離れた場所にございます。詳しくは交通案内ページをご覧ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（6497件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54556%2F54556.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54556%2F54556.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 八甲田城ヶ倉温泉　ホテル城ヶ倉－ＨＯＴＥＬ　Ｊｏｇａｋｕｒａ－</td>
@@ -474,7 +474,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り　１００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（403件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79432%2F79432.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79432%2F79432.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 下田温泉　下田伊東園ホテルはな岬</td>
@@ -483,7 +483,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.78（1170件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,248〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50545%2F50545.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50545%2F50545.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 鬼首温泉　リゾートパーク　ホテル　オニコウベ</td>
@@ -492,7 +492,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り　８５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（460件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,850〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13890%2F13890.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13890%2F13890.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 白馬姫川温泉　白馬ハイランドホテル</td>
@@ -501,7 +501,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有100台（無料）※全面舗装ですが、屋根日影はありません</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（1310件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68532%2F68532.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68532%2F68532.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

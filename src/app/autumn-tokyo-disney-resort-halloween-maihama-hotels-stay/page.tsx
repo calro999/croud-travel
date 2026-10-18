@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,7 +256,7 @@ export default function TdrHalloweenFeaturePage() {
             <span>/</span>
             <Link href="/features" className="hover:text-amber-600 transition">特集一覧</Link>
             <span>/</span>
-            <Link href="/prefectures/chiba" className="hover:text-amber-600 transition">千葉県</Link>
+            <Link href="/prefectures/chiba/" className="hover:text-amber-600 transition">千葉県</Link>
             <span>/</span>
             <span className="text-stone-800 font-medium">東京ディズニーリゾート・ハロウィーン特集</span>
           </div>
@@ -589,7 +590,7 @@ export default function TdrHalloweenFeaturePage() {
               <Link href="/features" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 ← 特集一覧に戻る
               </Link>
-              <Link href="/prefectures/chiba" className="px-4 py-2 rounded-full bg-orange-50 hover:bg-orange-100 text-orange-700 font-semibold transition">
+              <Link href="/prefectures/chiba/" className="px-4 py-2 rounded-full bg-orange-50 hover:bg-orange-100 text-orange-700 font-semibold transition">
                 千葉県の旅行ガイド・ホテル一覧
               </Link>
               <Link href="/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay" className="px-4 py-2 rounded-full bg-amber-50 hover:bg-amber-100 text-amber-700 font-semibold transition">

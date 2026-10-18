@@ -213,7 +213,7 @@ export default function FurusatoUpgradedPage() {
                         {h.label}
                       </div>
                       <h3 className="text-2xl font-black text-white mb-3 hover:text-amber-400 transition">
-                        <a href={h.affiliateUrl} target="_blank" rel="noopener noreferrer">
+                        <a href={h.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer">
                           {h.hotelName}
                         </a>
                       </h3>
@@ -237,7 +237,7 @@ export default function FurusatoUpgradedPage() {
                       <a
                         href={h.affiliateUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="flex-1 text-center bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-stone-950 font-black py-3 px-6 rounded-xl shadow-lg transition duration-150 text-sm"
                       >
                         楽天ふるさと納税で宿を予約する
@@ -374,7 +374,7 @@ export default function FurusatoUpgradedPage() {
                 <td className="p-3 text-stone-600">有り　７５台　880円（税込／泊）</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（3704件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,098〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15154%2F15154.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15154%2F15154.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルモントレ姫路</td>
@@ -383,7 +383,7 @@ export default function FurusatoUpgradedPage() {
                 <td className="p-3 text-stone-600">提携駐車場（タイムズマルイト姫路ビル）有。　１９０台　有料　先着順 　満車時は館外提携駐車場へ案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（2611件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F163181%2F163181.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F163181%2F163181.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 熊本ホテルキャッスル</td>
@@ -392,7 +392,7 @@ export default function FurusatoUpgradedPage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（1709件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

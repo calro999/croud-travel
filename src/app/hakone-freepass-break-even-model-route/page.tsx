@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hakone-freepass-break-even-model-route/" },
-  title: "箱根フリーパスは本当に元が取れる？：徹底検証！通常運賃との差額シミュレーション＆1泊2日黄金ルート ｜ 日本全国・旅宿クラウド",
+  title: "箱根フリーパスは本当に元が取れる？：徹底検証！通常運賃との差額シミュレーション＆1泊2日黄金ルート",
   description:
     "箱根フリーパス（新宿発6,100円）でいくら得する？登山電車・ケーブルカー・ロープウェイ・海賊船・登山バスを通常料金で個別購入した場合（合計約8,200円）との差額比較、元が取れる王道モデルコースと強羅・湯本温泉宿。",
   keywords: ["1泊2日黄金ルート", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: "箱根フリーパスは本当に元が取れる？：徹底検証！通常運賃との差額シミュレーション＆1泊2日黄金ルート ｜ 日本全国・旅宿クラウド",
+    title: "箱根フリーパスは本当に元が取れる？：徹底検証！通常運賃との差額シミュレーション＆1泊2日黄金ルート",
     description: "箱根フリーパス（新宿発6,100円）でいくら得する？登山電車・ケーブルカー・ロープウェイ・海賊船・登山バスを通常料金で個別購入した場合（合計約8,200円）との差額比較、元が取れる王道モデルコースと強羅・湯本温泉宿。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "箱根フリーパスは本当に元が取れる？：徹底検証！通常運賃との差額シミュレーション＆1泊2日黄金ルート ｜ 日本全国・旅宿クラウド",
+    title: "箱根フリーパスは本当に元が取れる？：徹底検証！通常運賃との差額シミュレーション＆1泊2日黄金ルート",
     description: "箱根フリーパス（新宿発6,100円）でいくら得する？登山電車・ケーブルカー・ロープウェイ・海賊船・登山バスを通常料金で個別購入した場合（合計約8,200円）との差額比較、元が取れる王道モデルコースと強羅・湯本温泉宿。",
   }
 };
@@ -529,7 +529,7 @@ export default function HakoneFreepassBreakEvenRoutePage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center px-4 py-2 bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-700 hover:to-teal-700 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5"
                     >
                       空室・プラン確認

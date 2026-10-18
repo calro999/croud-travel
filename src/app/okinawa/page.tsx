@@ -28,19 +28,19 @@ interface RakutenCategoryData {
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "沖縄旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆那覇・恩納村・美ら海水族館・ビーチリゾートホテル・レンタカー ｜ 旅宿クラウド",
+  title: "沖縄旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆那覇・恩納村・美ら海水族館・ビーチリゾートホテル・レンタカー",
   description:
     "沖縄旅行の計画を完全サポート！2泊3日・3泊4日の王道モデルコース、恩納村や北部の絶景ビーチリゾート、カップル・子連れプール付きホテル、那覇国際通り周辺宿からレンタカー＆雨の日観光まで、おすすめの宿泊プランまで徹底網羅。",
   keywords: ["沖縄旅行", "完全計画ガイド", "2026", "2泊3日", "3泊4日モデルコース", "那覇", "恩納村"],
   alternates: { canonical: "https://croud-travel.pages.dev/okinawa/" },
   openGraph: {
-    title: "沖縄旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆那覇・恩納村・美ら海水族館・ビーチリゾートホテル・レンタカー ｜ 旅宿クラウド",
+    title: "沖縄旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆那覇・恩納村・美ら海水族館・ビーチリゾートホテル・レンタカー",
     description: "沖縄旅行の計画を完全サポート！2泊3日・3泊4日の王道モデルコース、恩納村や北部の絶景ビーチリゾート、カップル・子連れプール付きホテル、那覇国際通り周辺宿からレンタカー＆雨の日観光まで、おすすめの宿泊プランまで徹底網羅。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "沖縄旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆那覇・恩納村・美ら海水族館・ビーチリゾートホテル・レンタカー ｜ 旅宿クラウド",
+    title: "沖縄旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆那覇・恩納村・美ら海水族館・ビーチリゾートホテル・レンタカー",
     description: "沖縄旅行の計画を完全サポート！2泊3日・3泊4日の王道モデルコース、恩納村や北部の絶景ビーチリゾート、カップル・子連れプール付きホテル、那覇国際通り周辺宿からレンタカー＆雨の日観光まで、おすすめの宿泊プランまで徹底網羅。",
   }
 };
@@ -109,7 +109,7 @@ export default function OkinawaHubPage() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/prefectures/okinawa" className="hover:text-teal-800 transition">沖縄県</Link>
+        <Link href="/prefectures/okinawa/" className="hover:text-teal-800 transition">沖縄県</Link>
         <span>/</span>
         <span className="text-emerald-950 font-bold">沖縄旅行 完全ガイド</span>
       </nav>
@@ -194,7 +194,7 @@ export default function OkinawaHubPage() {
                   </div>
                 </div>
                 <div className="p-4 pt-0">
-                  <a href={hotel.affiliateUrl} target="_blank" rel="noopener noreferrer" className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-cyan-600 to-teal-700 hover:from-cyan-500 hover:to-teal-600 rounded-xl shadow transition">
+                  <a href={hotel.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer" className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-cyan-600 to-teal-700 hover:from-cyan-500 hover:to-teal-600 rounded-xl shadow transition">
                     ✈️ 楽天トラベルで空室・プランを見る
                   </a>
                 </div>
@@ -234,7 +234,7 @@ export default function OkinawaHubPage() {
                 <td className="p-3 text-stone-600">有＊予約制＊1泊1,000円(税込)、2026年2月から￥1200円に改定</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（738件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,975〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166949%2F166949.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166949%2F166949.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 琉球オリオンホテル　那覇国際通り（旧：オリオンホテル那覇）</td>
@@ -243,7 +243,7 @@ export default function OkinawaHubPage() {
                 <td className="p-3 text-stone-600">有り（先着順）　1泊1台1,500円</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（837件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2906%2F2906.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2906%2F2906.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルＪＡＬシティ那覇（国際通り）</td>
@@ -252,7 +252,7 @@ export default function OkinawaHubPage() {
                 <td className="p-3 text-stone-600">（1泊1台）1,800円</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（1503件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,863〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50220%2F50220.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50220%2F50220.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテル　サン・クイーン（那覇／国際通り沿い）</td>
@@ -261,7 +261,7 @@ export default function OkinawaHubPage() {
                 <td className="p-3 text-stone-600">電話・メールにてご予約下さい。メッセージでは受付致しません。満車時は近隣コイン駐車場をご利用下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★3.88（599件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52511%2F52511.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52511%2F52511.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルアートステイ那覇国際通り</td>
@@ -270,7 +270,7 @@ export default function OkinawaHubPage() {
                 <td className="p-3 text-stone-600">提携のコインパーキングが1箇所ございます。詳しくはフロントまでお問い合わせ下さいませ。</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（1193件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,770〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F73895%2F73895.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F73895%2F73895.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ＨＯＴＥＬ　ＴＨＥ　ＣＵＢＥ　那覇国際通り</td>
@@ -279,7 +279,7 @@ export default function OkinawaHubPage() {
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★3.89（361件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158644%2F158644.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158644%2F158644.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

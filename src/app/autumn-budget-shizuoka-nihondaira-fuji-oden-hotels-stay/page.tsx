@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetShizuokaHotelsPage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"静岡：日本平の富士山絶景と黒おでん！1,000円台〜泊まれる格安ホテル5選\",\"description\":\"澄み渡る秋空に映える霊峰富士と日本平の秋景色、青葉横丁で熱々の静岡黒おでんを堪能！静岡駅前で1泊1,000円台〜3,000円台で泊まれる超高コスパ格安ホテル厳選5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-nihondaira-fuji-oden-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"静岡：日本平の富士山絶景と黒おでん！1,000円台〜泊まれる格安ホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-nihondaira-fuji-oden-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"静岡：日本平の富士山絶景と黒おでん！1,000円台〜泊まれる格安ホテル5選\",\"numberOfItems\":9,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"アパホテル〈静岡駅北〉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-nihondaira-fuji-oden-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ガーデンホテル静岡\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-nihondaira-fuji-oden-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"富士宮　富士急ホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-nihondaira-fuji-oden-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ハイセットホテル静岡インター\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-nihondaira-fuji-oden-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"熱海温泉　月の栖　熱海聚楽ホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-nihondaira-fuji-oden-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"三島スカイウォーク\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-nihondaira-fuji-oden-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"熱海温泉・サンビーチ\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-nihondaira-fuji-oden-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"伊豆シャボテン動物公園\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-nihondaira-fuji-oden-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"白糸の滝\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-nihondaira-fuji-oden-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -133,7 +137,7 @@ export default function AutumnBudgetShizuokaHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187219%2F187219.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-teal-600 to-cyan-600 hover:from-teal-700 hover:to-cyan-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187219%2F187219.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-teal-600 to-cyan-600 hover:from-teal-700 hover:to-cyan-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -173,7 +177,7 @@ export default function AutumnBudgetShizuokaHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13725%2F13725.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-teal-600 to-cyan-600 hover:from-teal-700 hover:to-cyan-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13725%2F13725.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-teal-600 to-cyan-600 hover:from-teal-700 hover:to-cyan-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -213,7 +217,7 @@ export default function AutumnBudgetShizuokaHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4611%2F4611.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-teal-600 to-cyan-600 hover:from-teal-700 hover:to-cyan-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4611%2F4611.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-teal-600 to-cyan-600 hover:from-teal-700 hover:to-cyan-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -253,7 +257,7 @@ export default function AutumnBudgetShizuokaHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172407%2F172407.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-teal-600 to-cyan-600 hover:from-teal-700 hover:to-cyan-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172407%2F172407.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-teal-600 to-cyan-600 hover:from-teal-700 hover:to-cyan-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -293,7 +297,7 @@ export default function AutumnBudgetShizuokaHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F161182%2F161182.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-teal-600 to-cyan-600 hover:from-teal-700 hover:to-cyan-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F161182%2F161182.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-teal-600 to-cyan-600 hover:from-teal-700 hover:to-cyan-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -354,7 +358,7 @@ export default function AutumnBudgetShizuokaHotelsPage() {
                 <td className="p-3 text-stone-600">提携駐車場『稲森パーキング』を1泊　1,800円（先着順） でご案内いたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.11（537件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,420〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172407%2F172407.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172407%2F172407.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ガーデンホテル静岡</td>
@@ -363,7 +367,7 @@ export default function AutumnBudgetShizuokaHotelsPage() {
                 <td className="p-3 text-stone-600">有料提携駐車場有</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（1528件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,575〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F161182%2F161182.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F161182%2F161182.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 富士宮　富士急ホテル</td>
@@ -372,7 +376,7 @@ export default function AutumnBudgetShizuokaHotelsPage() {
                 <td className="p-3 text-stone-600">有（先着順）30台 有料  乗用車1泊1台600円(税込)。</td>
                 <td className="p-3 font-bold text-amber-600">★3.84（764件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F210%2F210.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F210%2F210.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ハイセットホテル静岡インター</td>
@@ -381,7 +385,7 @@ export default function AutumnBudgetShizuokaHotelsPage() {
                 <td className="p-3 text-stone-600">普通車まで無料でお停めいただけます。※大型車（2t車以上）は事前の申込みが必要です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（1970件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,510〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F619%2F619.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F619%2F619.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 熱海温泉　月の栖　熱海聚楽ホテル</td>
@@ -390,7 +394,7 @@ export default function AutumnBudgetShizuokaHotelsPage() {
                 <td className="p-3 text-stone-600">有り（有料）１泊　1760円（税込）　お車は当館の玄関前に直接お寄せください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（2598件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F859%2F859.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F859%2F859.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -567,6 +571,9 @@ export default function AutumnBudgetShizuokaHotelsPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-shizuoka-nihondaira-fuji-oden-hotels-stay" />
+        </div>
 
       </main>
   );

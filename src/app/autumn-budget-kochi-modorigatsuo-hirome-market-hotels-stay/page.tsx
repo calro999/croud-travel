@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetKochiHotelsPage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"高知：高知城の秋紅葉と戻り鰹の塩タタキ！3,000円台〜格安ホテル5選\",\"description\":\"追手門と天守閣を彩る高知城の錦秋と、脂が乗り切った秋の「戻り鰹（かつお）の塩タタキ」！ひろめ市場で豪快な昼飲み＆屋台餃子。高知駅・はりまや橋周辺で1泊3,000円台〜5,000円台の高評価宿5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kochi-modorigatsuo-hirome-market-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"高知：高知城の秋紅葉と戻り鰹の塩タタキ！3,000円台〜格安ホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-kochi-modorigatsuo-hirome-market-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"高知：高知城の秋紅葉と戻り鰹の塩タタキ！3,000円台〜格安ホテル5選\",\"numberOfItems\":9,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"サウスブリーズホテル　高知海月\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kochi-modorigatsuo-hirome-market-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ホテルベストプライス高知\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kochi-modorigatsuo-hirome-market-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"高知ホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kochi-modorigatsuo-hirome-market-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ホテル高砂＜高知県＞\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kochi-modorigatsuo-hirome-market-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"高知パシフィックホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kochi-modorigatsuo-hirome-market-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"桂浜（坂本龍馬像）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kochi-modorigatsuo-hirome-market-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"高知城\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kochi-modorigatsuo-hirome-market-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"四万十川（沈下橋）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kochi-modorigatsuo-hirome-market-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"柏島（かしわじま）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kochi-modorigatsuo-hirome-market-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -133,7 +137,7 @@ export default function AutumnBudgetKochiHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8682%2F8682.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-rose-600 to-amber-600 hover:from-rose-700 hover:to-amber-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8682%2F8682.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-rose-600 to-amber-600 hover:from-rose-700 hover:to-amber-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -173,7 +177,7 @@ export default function AutumnBudgetKochiHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182859%2F182859.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-rose-600 to-amber-600 hover:from-rose-700 hover:to-amber-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182859%2F182859.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-rose-600 to-amber-600 hover:from-rose-700 hover:to-amber-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -213,7 +217,7 @@ export default function AutumnBudgetKochiHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10771%2F10771.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-rose-600 to-amber-600 hover:from-rose-700 hover:to-amber-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10771%2F10771.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-rose-600 to-amber-600 hover:from-rose-700 hover:to-amber-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -253,7 +257,7 @@ export default function AutumnBudgetKochiHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16087%2F16087.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-rose-600 to-amber-600 hover:from-rose-700 hover:to-amber-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16087%2F16087.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-rose-600 to-amber-600 hover:from-rose-700 hover:to-amber-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -293,7 +297,7 @@ export default function AutumnBudgetKochiHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8584%2F8584.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-rose-600 to-amber-600 hover:from-rose-700 hover:to-amber-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8584%2F8584.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-rose-600 to-amber-600 hover:from-rose-700 hover:to-amber-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -354,7 +358,7 @@ export default function AutumnBudgetKochiHotelsPage() {
                 <td className="p-3 text-stone-600">車５００円（トラック・大型車・キャンピングカー駐車不可）バイク３００円お車の鍵をお預かりし移動有り。</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（2991件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,570〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8682%2F8682.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8682%2F8682.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルベストプライス高知</td>
@@ -363,7 +367,7 @@ export default function AutumnBudgetKochiHotelsPage() {
                 <td className="p-3 text-stone-600">屋根付駐車場を【500円／1泊・先着順】でご利用いただけます。（台数に限りがございます）</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（696件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,085〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182859%2F182859.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182859%2F182859.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 高知ホテル</td>
@@ -372,7 +376,7 @@ export default function AutumnBudgetKochiHotelsPage() {
                 <td className="p-3 text-stone-600">立体Ｐ・先着順３４台！車高１５５ｃｍ以下制限有【８００円／泊】入らないお車は契約Ｐへ【８００円／泊】</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（2294件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,525〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10771%2F10771.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10771%2F10771.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテル高砂＜高知県＞</td>
@@ -381,7 +385,7 @@ export default function AutumnBudgetKochiHotelsPage() {
                 <td className="p-3 text-stone-600">先着順25台/駐車料金：1000円、大型・中型バス、ＲＶ車も可(バス等は料金が異なります)</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（691件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16087%2F16087.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16087%2F16087.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 高知パシフィックホテル</td>
@@ -390,7 +394,7 @@ export default function AutumnBudgetKochiHotelsPage() {
                 <td className="p-3 text-stone-600">◆平面駐車場40台【900円/泊】※先着順※満車時は契約Pあり※バイク不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（3432件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,625〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8584%2F8584.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8584%2F8584.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -567,6 +571,9 @@ export default function AutumnBudgetKochiHotelsPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-kochi-modorigatsuo-hirome-market-hotels-stay" />
+        </div>
 
       </main>
   );

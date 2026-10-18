@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/dog-room-dining-special-course-hotel-stay/" },
-  title: "愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添加ごちそう＆記念日 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添加ごちそう＆記念日 厳選ガイド",
   description: "愛犬も一緒にお祝いする美食の旅！愛犬用特製フルコース＆お部屋食・レストラン同伴宿完全特化！獣医師・ペット栄養管理士監修の無添加ワンちゃんごはん、バースデーケーキ、飼い主用極上会席・フレンチディナー宿を徹底解説。",
   keywords: ["愛犬同伴OK", "お部屋食", "愛犬用特製フルコース宿", "無添加ごちそう", "記念日", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添加ごちそう＆記念日 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添加ごちそう＆記念日 厳選ガイド",
     description: "愛犬も一緒にお祝いする美食の旅！愛犬用特製フルコース＆お部屋食・レストラン同伴宿完全特化！獣医師・ペット栄養管理士監修の無添加ワンちゃんごはん、バースデーケーキ、飼い主用極上会席・フレンチディナー宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添加ごちそう＆記念日 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添加ごちそう＆記念日 厳選ガイド",
     description: "愛犬も一緒にお祝いする美食の旅！愛犬用特製フルコース＆お部屋食・レストラン同伴宿完全特化！獣医師・ペット栄養管理士監修の無添加ワンちゃんごはん、バースデーケーキ、飼い主用極上会席・フレンチディナー宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function PetDogResortHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-emerald-700 hover:from-amber-500 hover:to-emerald-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで愛犬同伴プランを見る
@@ -252,7 +252,7 @@ export default function PetDogResortHubPage() {
                 <td className="p-3 text-stone-600">有り　14台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（77件）</td>
                 <td className="p-3 font-bold text-rose-600">¥43,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183473%2F183473.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183473%2F183473.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 愛犬と泊まれる海と夕陽の楽園　頬杖の刻</td>
@@ -261,7 +261,7 @@ export default function PetDogResortHubPage() {
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（802件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137970%2F137970.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137970%2F137970.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 静かな湖畔の愛犬同伴専門宿「ペロはまなこ」</td>
@@ -270,7 +270,7 @@ export default function PetDogResortHubPage() {
                 <td className="p-3 text-stone-600">有り　１0台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（113件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F129403%2F129403.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F129403%2F129403.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 伊勢二見　愛犬と泊まれる旅館　まつしん</td>
@@ -279,7 +279,7 @@ export default function PetDogResortHubPage() {
                 <td className="p-3 text-stone-600">有り　２０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（726件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7564%2F7564.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7564%2F7564.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 下田温泉　黒船ホテル</td>
@@ -288,7 +288,7 @@ export default function PetDogResortHubPage() {
                 <td className="p-3 text-stone-600">当館の駐車場は建物の地下部分にございます。(高さ制限2.3ｍ/狭めのスペース/台数制限有り/無料)</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（2266件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,165〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1307%2F1307.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1307%2F1307.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. Ｈｏｔｅｌ　Ｓｅａ　Ｓｈｅｌｌ</td>
@@ -297,7 +297,7 @@ export default function PetDogResortHubPage() {
                 <td className="p-3 text-stone-600">有り　室数分　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（137件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F142536%2F142536.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F142536%2F142536.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

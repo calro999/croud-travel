@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-furano-biei-lavender-stay/" },
-  title: "北海道・富良野＆美瑛：青い池・ファーム富田ラベンダー＆白金温泉・富良野牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "北海道・富良野＆美瑛：青い池・ファーム富田ラベンダー＆白金温泉・富良野牛宿 厳選ガイド",
   description: "パッチワークの丘と紫の絨毯・北海道富良野＆美瑛エリア完全特化！「ファーム富田」のラベンダー畑、神秘のコバルトブルー「白金青い池」、白ひげの滝、源泉100%白金温泉、ふらの和牛・富良野メロン会席宿を徹底解説。",
   keywords: ["北海道", "富良野", "美瑛", "青い池", "ファーム富田ラベンダー", "白金温泉", "富良野牛宿"],
   openGraph: {
-    title: "北海道・富良野＆美瑛：青い池・ファーム富田ラベンダー＆白金温泉・富良野牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "北海道・富良野＆美瑛：青い池・ファーム富田ラベンダー＆白金温泉・富良野牛宿 厳選ガイド",
     description: "パッチワークの丘と紫の絨毯・北海道富良野＆美瑛エリア完全特化！「ファーム富田」のラベンダー畑、神秘のコバルトブルー「白金青い池」、白ひげの滝、源泉100%白金温泉、ふらの和牛・富良野メロン会席宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "北海道・富良野＆美瑛：青い池・ファーム富田ラベンダー＆白金温泉・富良野牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "北海道・富良野＆美瑛：青い池・ファーム富田ラベンダー＆白金温泉・富良野牛宿 厳選ガイド",
     description: "パッチワークの丘と紫の絨毯・北海道富良野＆美瑛エリア完全特化！「ファーム富田」のラベンダー畑、神秘のコバルトブルー「白金青い池」、白ひげの滝、源泉100%白金温泉、ふらの和牛・富良野メロン会席宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（428件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,470〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16240%2F16240.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16240%2F16240.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 美瑛白金温泉　ホテルパークヒルズ</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　120台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（1452件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,340〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9611%2F9611.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9611%2F9611.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. Ｂ　ｃｙｃｌｅ</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　１台　無料　要予約</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥3,433〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F197268%2F197268.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F197268%2F197268.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. Ｂ＆Ｂ　ケンとメリー</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　６台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★5（7件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F74730%2F74730.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F74730%2F74730.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. コテージクローバー</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　１台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F151124%2F151124.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F151124%2F151124.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 天然温泉　紫雲の湯　ラビスタ富良野ヒルズ（ドーミーイン・御宿野乃　ホテルズグループ）</td>
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有　ホテル駐車場無料（先着順）　※満車時は近隣パーキングにご案内致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（719件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,560〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F176997%2F176997.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F176997%2F176997.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

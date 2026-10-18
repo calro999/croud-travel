@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetKagoshimaHotelsPage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"鹿児島：桜島一望と黒豚しゃぶしゃぶを満喫！秋の温泉・高コスパ格安宿5選\",\"description\":\"秋の鹿児島旅を満喫する格安＆高コスパな温泉・ビジネスホテル厳選5選！桜島の雄大な絶景や名物黒豚しゃぶしゃぶ、天然温泉を1人1泊3,000円台〜5,000円台でお得に楽しむ滞在プランをご案内。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kagoshima-sakurajima-onsen-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"鹿児島：桜島一望と黒豚しゃぶしゃぶを満喫！秋の温泉・高コスパ格安宿5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-kagoshima-sakurajima-onsen-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"鹿児島：桜島一望と黒豚しゃぶしゃぶを満喫！秋の温泉・高コスパ格安宿5選\",\"numberOfItems\":9,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホテル　サンフレックス鹿児島\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kagoshima-sakurajima-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ホテル京セラ\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kagoshima-sakurajima-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ホテルゲートイン鹿児島（ＨＯＴＥＬ　ＧＡＴＥ　ＩＮ　ＫＡＧＯＳＨＩＭＡ）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kagoshima-sakurajima-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ビジネスホテル鶴\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kagoshima-sakurajima-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"天然温泉サウナ　ニューニシノ\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kagoshima-sakurajima-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"桜島（有村溶岩展望所）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kagoshima-sakurajima-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"指宿温泉（砂むし温泉）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kagoshima-sakurajima-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"屋久島（縄文杉）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kagoshima-sakurajima-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"仙厳園（磯庭園）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kagoshima-sakurajima-onsen-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -133,7 +137,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178972%2F178972.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-700 hover:to-emerald-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178972%2F178972.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-700 hover:to-emerald-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -173,7 +177,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44439%2F44439.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-700 hover:to-emerald-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44439%2F44439.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-700 hover:to-emerald-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -213,7 +217,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10904%2F10904.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-700 hover:to-emerald-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10904%2F10904.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-700 hover:to-emerald-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -253,7 +257,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5304%2F5304.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-700 hover:to-emerald-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5304%2F5304.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-700 hover:to-emerald-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -293,7 +297,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F141974%2F141974.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-700 hover:to-emerald-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F141974%2F141974.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-700 hover:to-emerald-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -354,7 +358,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                 <td className="p-3 text-stone-600">外部提携駐車場「マイアミパーク駐車場」1泊1000円　※途中出庫ある場合別途精算が必要となります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（2236件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F207%2F207.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F207%2F207.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル京セラ</td>
@@ -363,7 +367,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                 <td className="p-3 text-stone-600">無料駐車場３００台。週末は混雑する場合がございます。予めご了承くださいませ。</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（2695件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,480〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1374%2F1374.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1374%2F1374.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルゲートイン鹿児島（ＨＯＴＥＬ　ＧＡＴＥ　ＩＮ　ＫＡＧＯＳＨＩＭＡ）</td>
@@ -372,7 +376,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                 <td className="p-3 text-stone-600">提携駐車場：センテラスパーキング・丸屋第一駐車場</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（1267件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1527%2F1527.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1527%2F1527.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ビジネスホテル鶴</td>
@@ -381,7 +385,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                 <td className="p-3 text-stone-600">２８台分　普通車無料（５m以上のトラック、バスは１泊1,000円）先着順となっております。</td>
                 <td className="p-3 font-bold text-amber-600">★3.43（120件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1599%2F1599.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1599%2F1599.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 天然温泉サウナ　ニューニシノ</td>
@@ -390,7 +394,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                 <td className="p-3 text-stone-600">コインパーキング10台　ホテル利用時1泊1,000円　14：30〜11：30　予約不可・高さ制限2m</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（1185件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,876〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1642%2F1642.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1642%2F1642.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -567,6 +571,9 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-kagoshima-sakurajima-onsen-hotels-stay" />
+        </div>
 
       </main>
   );

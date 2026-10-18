@@ -5,11 +5,11 @@ import Image from 'next/image';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagasaki-unzen-shimabara-castle-volcano-stay/" },
-  title: '長崎・雲仙＆島原城：雲仙地獄・名水湧水武家屋敷＆小浜夕日温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
+  title: '長崎・雲仙＆島原城：雲仙地獄・名水湧水武家屋敷＆小浜夕日温泉宿 厳選ガイド',
   description: '立ち込める湯けむりと硫黄の香り「雲仙地獄」、日本最初の国立公園に指定された高原リゾート、名水百選の水路が流れる「島原武家屋敷」と五層白亜の「島原城」、伝統名物「具雑煮」、日本一長い足湯と橘湾の夕日を望む小浜温泉を徹底解説。',
   keywords: ["長崎", "雲仙", "島原城", "雲仙地獄", "名水湧水武家屋敷", "小浜夕日温泉宿", "温泉宿"],
   openGraph: {
-    title: '長崎・雲仙＆島原城：雲仙地獄・名水湧水武家屋敷＆小浜夕日温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド',
+    title: '長崎・雲仙＆島原城：雲仙地獄・名水湧水武家屋敷＆小浜夕日温泉宿 厳選ガイド',
     description: '立ち込める湯けむりと硫黄の香り「雲仙地獄」、日本最初の国立公園に指定された高原リゾート、名水百選の水路が流れる「島原武家屋敷」と五層白亜の「島原城」、伝統名物「具雑煮」、日本一長い足湯と橘湾の夕日を望む小浜温泉を徹底解説。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/nagasaki-unzen-shimabara-castle-volcano-stay',
@@ -148,7 +148,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31749%2F31749.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
                       >
                         楽天トラベルで空室確認
@@ -241,7 +241,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4733%2F4733.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
                       >
                         楽天トラベルで空室確認
@@ -287,7 +287,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F162772%2F162772.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
                       >
                         楽天トラベルで空室確認
@@ -333,7 +333,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31933%2F31933.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
                       >
                         楽天トラベルで空室確認
@@ -379,7 +379,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20136%2F20136.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
                       >
                         楽天トラベルで空室確認
@@ -472,7 +472,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54690%2F54690.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
                       >
                         楽天トラベルで空室確認
@@ -518,7 +518,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13421%2F13421.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-bold px-4 py-2 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-stone-950 rounded-xl transition shadow-md shadow-amber-900/30"
                       >
                         楽天トラベルで空室確認
@@ -657,25 +657,25 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kumamoto"
+                href="/prefectures/kumamoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 熊本県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tokyo"
+                href="/prefectures/tokyo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 東京都の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagawa"
+                href="/prefectures/kagawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 香川県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukuoka"
+                href="/prefectures/fukuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 福岡県の宿・温泉

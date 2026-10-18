@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-brewery-sake-tour/" },
-  title: "新酒の季節：日本酒酒蔵めぐり＆地酒飲み比べ温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "新酒の季節：日本酒酒蔵めぐり＆地酒飲み比べ温泉宿 厳選ガイド",
   description: "秋のひやおろしから冬の搾りたて新酒まで！新潟越後湯沢（ぽんしゅ館）、福島会津東山温泉、京都伏見酒蔵通り、広島西条酒蔵通りなど、名門酒蔵めぐりと地酒ペアリング会席を堪能する極上温泉宿を徹底解説。",
   keywords: ["新酒の季節", "日本酒酒蔵めぐり", "地酒飲み比べ温泉宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "新酒の季節：日本酒酒蔵めぐり＆地酒飲み比べ温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "新酒の季節：日本酒酒蔵めぐり＆地酒飲み比べ温泉宿 厳選ガイド",
     description: "秋のひやおろしから冬の搾りたて新酒まで！新潟越後湯沢（ぽんしゅ館）、福島会津東山温泉、京都伏見酒蔵通り、広島西条酒蔵通りなど、名門酒蔵めぐりと地酒ペアリング会席を堪能する極上温泉宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "新酒の季節：日本酒酒蔵めぐり＆地酒飲み比べ温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "新酒の季節：日本酒酒蔵めぐり＆地酒飲み比べ温泉宿 厳選ガイド",
     description: "秋のひやおろしから冬の搾りたて新酒まで！新潟越後湯沢（ぽんしゅ館）、福島会津東山温泉、京都伏見酒蔵通り、広島西条酒蔵通りなど、名門酒蔵めぐりと地酒ペアリング会席を堪能する極上温泉宿を徹底解説。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -261,7 +261,7 @@ export default function SeasonalFeaturePage() {
                 <td className="p-3 text-stone-600">第1～第4駐車場まで82台駐車可能　（無料・予約不要）。</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（1591件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52880%2F52880.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52880%2F52880.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アルミュール</td>
@@ -270,7 +270,7 @@ export default function SeasonalFeaturePage() {
                 <td className="p-3 text-stone-600">専用駐車場0分：無料（チェックイン前とアウト後も駐車ＯＫです）</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（117件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2671%2F2671.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2671%2F2671.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 会津東山温泉　くつろぎ宿　新滝</td>
@@ -279,7 +279,7 @@ export default function SeasonalFeaturePage() {
                 <td className="p-3 text-stone-600">駐車場は80台まで無料で可能です★予約は不要です★大型車でのご来館は事前にご相談ください★</td>
                 <td className="p-3 font-bold text-amber-600">★4.65（2487件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7526%2F7526.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7526%2F7526.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 会津東山温泉　いろりの宿　芦名</td>
@@ -288,7 +288,7 @@ export default function SeasonalFeaturePage() {
                 <td className="p-3 text-stone-600">有り　10台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（203件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,470〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5887%2F5887.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5887%2F5887.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 会津東山温泉　くつろぎ宿　千代滝</td>
@@ -297,7 +297,7 @@ export default function SeasonalFeaturePage() {
                 <td className="p-3 text-stone-600">駐車場：70台有り／ 無料／すべて野外駐車場／予約は不要です</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（2544件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5675%2F5675.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5675%2F5675.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ホテル佐野家</td>
@@ -306,7 +306,7 @@ export default function SeasonalFeaturePage() {
                 <td className="p-3 text-stone-600">無し。近くの有料駐車場のご案内となります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（446件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,920〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8099%2F8099.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8099%2F8099.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

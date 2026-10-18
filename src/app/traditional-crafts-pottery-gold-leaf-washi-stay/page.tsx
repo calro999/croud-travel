@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/traditional-crafts-pottery-gold-leaf-washi-stay/" },
-  title: '伝統工芸体験宿厳選ガイド「金沢金箔・越前和紙・有田焼陶芸ステイ」 | クラウドトラベル',
+  title: '伝統工芸体験宿厳選ガイド「金沢金箔・越前和紙・有田焼陶芸ステイ」',
   description: '金沢の金箔貼り＆九谷焼絵付け、福井の越前和紙漉き・越前焼、佐賀の有田焼・波佐見焼の窯元巡りを特集。職人の手仕事を間近で体感し、自作の器や工芸品を持ち帰る特別なクラフトリゾート。',
   openGraph: {
-    title: '伝統工芸体験宿厳選ガイド「金沢金箔・越前和紙・有田焼陶芸ステイ」 | クラウドトラベル',
+    title: '伝統工芸体験宿厳選ガイド「金沢金箔・越前和紙・有田焼陶芸ステイ」',
     description: '金沢の金箔貼り＆九谷焼絵付け、福井の越前和紙漉き・越前焼、佐賀の有田焼・波佐見焼の窯元巡りを特集。職人の手仕事を間近で体感し、自作の器や工芸品を持ち帰る特別なクラフトリゾート。',
     type: 'article',
   },
@@ -17,6 +17,20 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['traditional-crafts-pottery-gold-leaf-washi-stay'] || {};
+
+  const allSecHotels = Object.values(secData).flatMap((s: any) => (s && Array.isArray(s.hotels) ? s.hotels : []));
+  const jsonLdItemList = allSecHotels.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": (metadata.title as string) || "traditional-crafts-pottery-gold-leaf-washi-stay",
+    "numberOfItems": allSecHotels.length,
+    "itemListElement": allSecHotels.map((h: any, idx: number) => ({
+      "@type": "ListItem",
+      "position": idx + 1,
+      "name": h.hotelName || "厳選宿",
+      "url": h.affiliateUrl || h.hotelInformationUrl || "https://croud-travel.pages.dev/traditional-crafts-pottery-gold-leaf-washi-stay/"
+    }))
+  } : null;
 
 
   const jsonLdArticle = {
@@ -46,6 +60,9 @@ export default function Page() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「山代温泉 ゆのくに天祥」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「山代温泉 ゆのくに天祥」へは、車 北陸自動車道加賀IC、片山津ICより約15分 電車 JR・IRいしかわ鉄道加賀温泉駅より無料送迎 予約制。最寄りの加賀温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「山代温泉 ゆのくに天祥」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「山代温泉 ゆのくに天祥」は『プロが選ぶホテル・旅館100選(全国総合4位) 楽天・日本の宿アワード2025 W受賞！風。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「山代温泉 ゆのくに天祥」と「山代温泉 料理自慢の宿 ホテルききょう」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
+      {jsonLdItemList && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdItemList) }} />}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">
@@ -125,7 +142,7 @@ export default function Page() {
                       <a
                         href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1 px-4 py-2 bg-stone-900 hover:bg-amber-900 text-amber-100 rounded-lg text-xs font-bold transition"
                       >
                         詳細・宿泊プラン
@@ -203,7 +220,7 @@ export default function Page() {
                       <a
                         href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1 px-4 py-2 bg-stone-900 hover:bg-amber-900 text-amber-100 rounded-lg text-xs font-bold transition"
                       >
                         詳細・宿泊プラン
@@ -281,7 +298,7 @@ export default function Page() {
                       <a
                         href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1 px-4 py-2 bg-stone-900 hover:bg-amber-900 text-amber-100 rounded-lg text-xs font-bold transition"
                       >
                         詳細・宿泊プラン
@@ -486,25 +503,25 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/wakayama"
+                href="/prefectures/wakayama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 和歌山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/chiba"
+                href="/prefectures/chiba/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 千葉県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/toyama"
+                href="/prefectures/toyama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 富山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/miyagi"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 宮城県の宿・温泉

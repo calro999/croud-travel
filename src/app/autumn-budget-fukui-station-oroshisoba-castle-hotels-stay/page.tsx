@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetFukuiStationHotelsPage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"福井駅前：越前おろしそば＆ソースカツ丼・福井城跡！3,000円台〜泊まれる格安ホテル5選\",\"description\":\"ピリッと辛み大根が効いた越前おろしそばと元祖ソースカツ丼！北陸新幹線延伸で注目の福井駅・福井城址周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukui-station-oroshisoba-castle-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"福井駅前：越前おろしそば＆ソースカツ丼・福井城跡！3,000円台〜泊まれる格安ホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-fukui-station-oroshisoba-castle-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"福井駅前：越前おろしそば＆ソースカツ丼・福井城跡！3,000円台〜泊まれる格安ホテル5選\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"家康の次男・結城秀康が築いた名城・巨大な内堀と御廊下橋\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukui-station-oroshisoba-castle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"東尋坊温泉　三国オーシャンリゾート＆ホテル（旧：三国観光ホテル）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukui-station-oroshisoba-castle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"あわら温泉　伝統旅館のぬくもり　灰屋\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukui-station-oroshisoba-castle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ホテルクラウンヒルズ武生駅前（ＢＢＨホテルグループ）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukui-station-oroshisoba-castle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"北陸　福井　あわら温泉　美松\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukui-station-oroshisoba-castle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"若狭美浜温泉　悠久乃碧　ホテル湾彩\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukui-station-oroshisoba-castle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"福井県立恐竜博物館\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukui-station-oroshisoba-castle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"東尋坊\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukui-station-oroshisoba-castle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"大本山 永平寺\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukui-station-oroshisoba-castle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"三方五湖（レインボーライン）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukui-station-oroshisoba-castle-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -149,7 +153,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8373%2F8373.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -204,7 +208,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1999%2F1999.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -259,7 +263,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F160794%2F160794.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -314,7 +318,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181073%2F181073.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -369,7 +373,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68558%2F68558.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -429,7 +433,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                 <td className="p-3 text-stone-600">有り　２００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（644件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4898%2F4898.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4898%2F4898.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. あわら温泉　伝統旅館のぬくもり　灰屋</td>
@@ -438,7 +442,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                 <td className="p-3 text-stone-600">有り　１００台　無料 （エントランスにはスロープもございます。係がご案内いたします。）</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（756件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,950〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5677%2F5677.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5677%2F5677.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルクラウンヒルズ武生駅前（ＢＢＨホテルグループ）</td>
@@ -447,7 +451,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                 <td className="p-3 text-stone-600">有り　40台　840円／泊</td>
                 <td className="p-3 font-bold text-amber-600">★4（915件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6113%2F6113.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6113%2F6113.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 北陸　福井　あわら温泉　美松</td>
@@ -456,7 +460,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                 <td className="p-3 text-stone-600">先着順の無料駐車場（100台）お体の不自由なお客様には駐車場の確保も致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（2961件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8114%2F8114.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8114%2F8114.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 若狭美浜温泉　悠久乃碧　ホテル湾彩</td>
@@ -465,7 +469,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                 <td className="p-3 text-stone-600">有り　８０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（1195件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10952%2F10952.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10952%2F10952.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -642,6 +646,9 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-fukui-station-oroshisoba-castle-hotels-stay" />
+        </div>
 
       </main>
   );

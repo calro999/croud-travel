@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetHotelsPage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"山形駅前：名物芋煮鍋＆霞城公園紅葉！3,000円台〜泊まれる格安ホテル5選\",\"description\":\"秋の山形名物・里芋と山形牛の絶品芋煮鍋、最上義光公ゆかりの国指定史跡・霞城公園（山形城跡）の紅葉！山形新幹線・山形駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-yamagata-station-imoni-kajyo-castle-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"山形駅前：名物芋煮鍋＆霞城公園紅葉！3,000円台〜泊まれる格安ホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-yamagata-station-imoni-kajyo-castle-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"山形駅前：名物芋煮鍋＆霞城公園紅葉！3,000円台〜泊まれる格安ホテル5選\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"二の丸東大手門と復元本丸一文字門・濠沿いを彩る秋の紅葉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-yamagata-station-imoni-kajyo-castle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"平日泊で更なる割引\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-yamagata-station-imoni-kajyo-castle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"直前割＆早割を活用\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-yamagata-station-imoni-kajyo-castle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"浮いた予算で旬の味覚\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-yamagata-station-imoni-kajyo-castle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"リッチモンドホテル山形駅前\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-yamagata-station-imoni-kajyo-castle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"ダイワロイネットホテル山形駅前\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-yamagata-station-imoni-kajyo-castle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"天然温泉　花笠の湯　スーパーホテル山形駅西口天然温泉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-yamagata-station-imoni-kajyo-castle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"ホテルルートイン山形駅前\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-yamagata-station-imoni-kajyo-castle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"宝珠山 立石寺（山寺）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-yamagata-station-imoni-kajyo-castle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"銀山温泉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-yamagata-station-imoni-kajyo-castle-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -149,7 +153,7 @@ export default function AutumnBudgetHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68631%2F68631.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-2 py-3 px-6 bg-gradient-to-r from-rose-500 to-rose-600 hover:from-rose-600 hover:to-rose-700 text-white font-bold rounded-xl shadow-sm hover:shadow transition"
               >
                 <span>楽天トラベルで最安プランをチェック</span>
@@ -205,7 +209,7 @@ export default function AutumnBudgetHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182853%2F182853.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-2 py-3 px-6 bg-gradient-to-r from-rose-500 to-rose-600 hover:from-rose-600 hover:to-rose-700 text-white font-bold rounded-xl shadow-sm hover:shadow transition"
               >
                 <span>楽天トラベルで最安プランをチェック</span>
@@ -261,7 +265,7 @@ export default function AutumnBudgetHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F69258%2F69258.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-2 py-3 px-6 bg-gradient-to-r from-rose-500 to-rose-600 hover:from-rose-600 hover:to-rose-700 text-white font-bold rounded-xl shadow-sm hover:shadow transition"
               >
                 <span>楽天トラベルで最安プランをチェック</span>
@@ -317,7 +321,7 @@ export default function AutumnBudgetHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54874%2F54874.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-2 py-3 px-6 bg-gradient-to-r from-rose-500 to-rose-600 hover:from-rose-600 hover:to-rose-700 text-white font-bold rounded-xl shadow-sm hover:shadow transition"
               >
                 <span>楽天トラベルで最安プランをチェック</span>
@@ -373,7 +377,7 @@ export default function AutumnBudgetHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12655%2F12655.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-2 py-3 px-6 bg-gradient-to-r from-rose-500 to-rose-600 hover:from-rose-600 hover:to-rose-700 text-white font-bold rounded-xl shadow-sm hover:shadow transition"
               >
                 <span>楽天トラベルで最安プランをチェック</span>
@@ -449,7 +453,7 @@ export default function AutumnBudgetHotelsPage() {
                 <td className="p-3 text-stone-600">有り　先着順36台　700円（税込み/泊）　満車の場合は隣接の提携駐車場へご案内致します</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（4869件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,350〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68631%2F68631.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68631%2F68631.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ダイワロイネットホテル山形駅前</td>
@@ -458,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <td className="p-3 text-stone-600">普通・ハイルーフ各16台（先着順）1,200円/泊（税込）※満車時は近隣提携外駐車場をご利用ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（1487件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182853%2F182853.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182853%2F182853.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天然温泉　花笠の湯　スーパーホテル山形駅西口天然温泉</td>
@@ -467,7 +471,7 @@ export default function AutumnBudgetHotelsPage() {
                 <td className="p-3 text-stone-600">72台　普通車600円・大型車1000円　先着順（大型車は事前予約制）</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（2147件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,310〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F69258%2F69258.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F69258%2F69258.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルルートイン山形駅前</td>
@@ -476,7 +480,7 @@ export default function AutumnBudgetHotelsPage() {
                 <td className="p-3 text-stone-600">有り　計102台　平面1,000円/日・立体600円/日　先着順・予約不可</td>
                 <td className="p-3 font-bold text-amber-600">★3.98（1351件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54874%2F54874.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54874%2F54874.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -631,6 +635,9 @@ export default function AutumnBudgetHotelsPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-yamagata-station-imoni-kajyo-castle-hotels-stay" />
+        </div>
 
       </main>
   );

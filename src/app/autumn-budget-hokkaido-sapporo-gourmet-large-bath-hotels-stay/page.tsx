@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の札幌×格安：紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選「2026最新」',
     description: '北大イチョウ並木とすすきのグルメ！大浴場・サウナ付き1泊3,000円台〜のコスパ最強札幌ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-budget-hokkaido-sapporo-gourmet-large-bath-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-hokkaido-sapporo-gourmet-large-bath-hotels-stay',
   }
 };
 
 export default function SapporoBudgetAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の札幌×格安：紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選「2026最新」\",\"description\":\"北海道大学イチョウ並木の黄金トンネルや中島公園の紅葉！夜はすすきので秋鮭・味噌ラーメン・ジンギスカンを満喫。サウナ＆大浴場完備で1泊3,000円〜5,000円台で泊まれる札幌のコスパ最強ホテル5選をご紹介。ベッセルホテル、三井ガーデン、リソルトリニティを徹底比較！\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-sapporo-gourmet-large-bath-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の札幌×格安：紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-sapporo-gourmet-large-bath-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の札幌×格安：紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選「2026最新」\",\"numberOfItems\":8,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ベッセルホテルカンパーナすすきの｜サウナ付大浴場（札幌・すすきの）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-sapporo-gourmet-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ティアラホテル札幌すすきの\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-sapporo-gourmet-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ホテル京阪　札幌\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-sapporo-gourmet-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ホテルリソルトリニティ札幌\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-sapporo-gourmet-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"函館山（夜景）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-sapporo-gourmet-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"富良野 ファーム富田\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-sapporo-gourmet-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"小樽運河\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-sapporo-gourmet-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"旭川市旭山動物園\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-sapporo-gourmet-large-bath-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/172398/172398.jpg"
@@ -142,7 +146,7 @@ export default function SapporoBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67324%2F67324.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function SapporoBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104743%2F104743.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function SapporoBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79254%2F79254.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function SapporoBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70234%2F70234.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function SapporoBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172398%2F172398.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function SapporoBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">立体駐車場(先着順)／８０台１5００円（税込／泊）　平面駐車場(要予約)／２台１５００円(税込／泊)</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（738件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,866〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172398%2F172398.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172398%2F172398.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ティアラホテル札幌すすきの</td>
@@ -396,7 +400,7 @@ export default function SapporoBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">提携駐車場　1泊/1,600円　入庫後出入不可/予約不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.11（2525件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,850〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67324%2F67324.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67324%2F67324.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル京阪　札幌</td>
@@ -405,7 +409,7 @@ export default function SapporoBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">20台有り予約不可・先着順　一泊1,500円　満車時は同料金にて提携駐車場をご案内いたします</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（3638件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79254%2F79254.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79254%2F79254.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルリソルトリニティ札幌</td>
@@ -414,7 +418,7 @@ export default function SapporoBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">ホテル立体(1泊1800円)・提携(1泊1500円)車高2m/幅1.8ｍ以内・予約不可(当日案内)</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（3278件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,590〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70234%2F70234.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70234%2F70234.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -569,6 +573,9 @@ export default function SapporoBudgetAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-hokkaido-sapporo-gourmet-large-bath-hotels-stay" />
+        </div>
 
       </article>
   );

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetFuranoHotelsPage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"富良野：秋の収穫祭・ふらのワイン＆丘陵紅葉！4,000円台〜泊まれる格安リゾートホテル5選\",\"description\":\"秋限定の「ふらのワイン」新酒や名物オムカレー、十勝岳連峰を望むファーム富田の秋花畑！北の大地・富良野で1泊4,000円台〜泊まれる格安・高コスパホテル厳選5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-furano-wine-tomita-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"富良野：秋の収穫祭・ふらのワイン＆丘陵紅葉！4,000円台〜泊まれる格安リゾートホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-furano-wine-tomita-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"富良野：秋の収穫祭・ふらのワイン＆丘陵紅葉！4,000円台〜泊まれる格安リゾートホテル5選\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"秋のサルビアやマリーゴールドが彩る丘・日本最大級のドライフラワー館\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-furano-wine-tomita-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ホテルムニン富良野（Ｈｏｔｅｌ　Ｍｕｎｉｎ　Ｆｕｒａｎｏ）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-furano-wine-tomita-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"新富良野プリンスホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-furano-wine-tomita-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ＦＵＲＡＮＯ　ＮＡＴＵＬＵＸ　ＨＯＴＥＬ（富良野　ナチュラクス　ホテル）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-furano-wine-tomita-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"富良野リゾートホテル　エーデルヴェルメ\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-furano-wine-tomita-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"ホテル　ナトゥールヴァルト富良野\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-furano-wine-tomita-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"函館山（夜景）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-furano-wine-tomita-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"富良野 ファーム富田\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-furano-wine-tomita-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"小樽運河\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-furano-wine-tomita-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"旭川市旭山動物園\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-furano-wine-tomita-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -149,7 +153,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172266%2F172266.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -204,7 +208,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30804%2F30804.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -259,7 +263,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67066%2F67066.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -314,7 +318,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16240%2F16240.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -369,7 +373,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F75270%2F75270.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -429,7 +433,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
                 <td className="p-3 text-stone-600">有り　隣接駐車場１７台(無料)　他、近隣に提携駐車場有(無料)</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（232件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,720〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172266%2F172266.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172266%2F172266.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 新富良野プリンスホテル</td>
@@ -438,7 +442,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
                 <td className="p-3 text-stone-600">有　390台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（1555件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,834〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30804%2F30804.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30804%2F30804.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＦＵＲＡＮＯ　ＮＡＴＵＬＵＸ　ＨＯＴＥＬ（富良野　ナチュラクス　ホテル）</td>
@@ -447,7 +451,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
                 <td className="p-3 text-stone-600">有り　30台 （ハイルーフ車もOK）　無料　予約不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.1（1102件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67066%2F67066.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67066%2F67066.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 富良野リゾートホテル　エーデルヴェルメ</td>
@@ -456,7 +460,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（428件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,470〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16240%2F16240.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16240%2F16240.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテル　ナトゥールヴァルト富良野</td>
@@ -465,7 +469,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
                 <td className="p-3 text-stone-600">有り（もちろんハイルーフ車もOK）　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（1382件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F75270%2F75270.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F75270%2F75270.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -642,6 +646,9 @@ export default function AutumnBudgetFuranoHotelsPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-hokkaido-furano-wine-tomita-hotels-stay" />
+        </div>
 
       </main>
   );

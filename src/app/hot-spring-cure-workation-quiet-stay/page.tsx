@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hot-spring-cure-workation-quiet-stay/" },
-  title: "静寂の長期滞在＆温泉ワーケーション宿：高速Wi-Fi・書斎デスク＆美肌湯 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "静寂の長期滞在＆温泉ワーケーション宿：高速Wi-Fi・書斎デスク＆美肌湯 厳選ガイド",
   description: "働きながら心身をととのえる現代のリトリートステイ完全特化！高速Wi-Fi完備、集中できる書斎デスク、24時間温泉入浴、疲労回復サウナ、キッチン付きコンドミニアム・長期連泊優待プランを徹底解説。",
   keywords: ["静寂の長期滞在", "温泉ワーケーション宿", "高速Wi-Fi", "書斎デスク", "美肌湯", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "静寂の長期滞在＆温泉ワーケーション宿：高速Wi-Fi・書斎デスク＆美肌湯 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "静寂の長期滞在＆温泉ワーケーション宿：高速Wi-Fi・書斎デスク＆美肌湯 厳選ガイド",
     description: "働きながら心身をととのえる現代のリトリートステイ完全特化！高速Wi-Fi完備、集中できる書斎デスク、24時間温泉入浴、疲労回復サウナ、キッチン付きコンドミニアム・長期連泊優待プランを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "静寂の長期滞在＆温泉ワーケーション宿：高速Wi-Fi・書斎デスク＆美肌湯 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "静寂の長期滞在＆温泉ワーケーション宿：高速Wi-Fi・書斎デスク＆美肌湯 厳選ガイド",
     description: "働きながら心身をととのえる現代のリトリートステイ完全特化！高速Wi-Fi完備、集中できる書斎デスク、24時間温泉入浴、疲労回復サウナ、キッチン付きコンドミニアム・長期連泊優待プランを徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function WellnessRetreatHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function WellnessRetreatHubPage() {
                 <td className="p-3 text-stone-600">有り　８０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（980件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,810〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29133%2F29133.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29133%2F29133.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 中町にあるホテル　池田屋</td>
@@ -261,7 +261,7 @@ export default function WellnessRetreatHubPage() {
                 <td className="p-3 text-stone-600">１台500円(込)／泊　●入出庫可●高さ制限無※大型車・バイクは駐車不可</td>
                 <td className="p-3 font-bold text-amber-600">★3.58（893件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,950〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F973%2F973.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F973%2F973.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 山代温泉　吉田屋　山王閣</td>
@@ -270,7 +270,7 @@ export default function WellnessRetreatHubPage() {
                 <td className="p-3 text-stone-600">無料駐車場有あり。バイク向け屋根付きスペースも有あり。</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（2200件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11043%2F11043.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11043%2F11043.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ほったらかしの宿　ゆうふり伊豆高原</td>
@@ -279,7 +279,7 @@ export default function WellnessRetreatHubPage() {
                 <td className="p-3 text-stone-600">有　80台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.11（917件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,591〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29811%2F29811.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29811%2F29811.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 綾ニセコ</td>
@@ -288,7 +288,7 @@ export default function WellnessRetreatHubPage() {
                 <td className="p-3 text-stone-600">有り　約25台　無料　(先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（52件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,450〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F151479%2F151479.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F151479%2F151479.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 箱根リトリート　ｖｉｌｌａ　１／ｆ</td>
@@ -297,7 +297,7 @@ export default function WellnessRetreatHubPage() {
                 <td className="p-3 text-stone-600">有り　４５台　宿泊のお客様ならびにお食事をご利用のお客様は無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥38,426〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F192089%2F192089.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F192089%2F192089.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

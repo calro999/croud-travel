@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '国指定天然記念物・長瀞岩畳の紅葉舟下り！秩父夜祭・錦秋ハイキング＆秩父七湯温泉宿×ふるさと納税厳選ガイド埼玉 | 旅宿クラウド',
+  title: '国指定天然記念物・長瀞岩畳の紅葉舟下り！秩父夜祭・錦秋ハイキング＆秩父七湯温泉宿×ふるさと納税厳選ガイド埼玉',
   description: '11月上旬〜11月下旬に見頃を迎える首都圏屈指の紅葉名所「長瀞岩畳（ながとろいわだたみ）」。和舟で豪快に下る「長瀞ラインくだり」と「月の石もみじ公園」のライトアップ、江戸時代から続く秩父七湯の名湯「新木鉱泉」「梁山泊」「宮本の湯」！名物豚味噌漬けや秩父そばを、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
   keywords: ["国指定天然記念物", "長瀞岩畳の紅葉舟下り！秩父夜祭", "錦秋ハイキング", "秩父七湯温泉宿×ふるさと納税", "2026年最新秋旅", "埼玉", "旅宿クラウド"],
   alternates: {
@@ -49,6 +49,8 @@ export default function FurusatoChichibuNagatoroAutumnLeavesStayPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「秩父七湯『御代の湯』 新木鉱泉旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「秩父七湯『御代の湯』 新木鉱泉旅館」へは、◆送迎有◆その他、西武秩父駅よりタクシー10分又は定峰行きバス25分金昌寺下車徒歩4分●関越道花園ICより40分●。最寄りの西武秩父駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「秩父七湯『御代の湯』 新木鉱泉旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「秩父七湯『御代の湯』 新木鉱泉旅館」は『2025楽天トラベルアワード13度目の受賞！民芸調のほのぼの宿！滑らかな卵水と云われる温泉。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「秩父七湯『御代の湯』 新木鉱泉旅館」と「秩父小鹿野温泉旅館 梁山泊」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
@@ -212,7 +214,7 @@ export default function FurusatoChichibuNagatoroAutumnLeavesStayPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5828%2F5828.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="flex-1 bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-700 hover:to-amber-800 text-white font-bold py-3.5 px-6 rounded-2xl shadow-md text-center transition flex items-center justify-center gap-2 text-sm"
                   >
                     <span>🏨 楽天トラベルで空室・宿泊プランを見る</span>
@@ -281,7 +283,7 @@ export default function FurusatoChichibuNagatoroAutumnLeavesStayPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14195%2F14195.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="flex-1 bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-700 hover:to-amber-800 text-white font-bold py-3.5 px-6 rounded-2xl shadow-md text-center transition flex items-center justify-center gap-2 text-sm"
                   >
                     <span>🏨 楽天トラベルで空室・宿泊プランを見る</span>
@@ -350,7 +352,7 @@ export default function FurusatoChichibuNagatoroAutumnLeavesStayPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20394%2F20394.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="flex-1 bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-700 hover:to-amber-800 text-white font-bold py-3.5 px-6 rounded-2xl shadow-md text-center transition flex items-center justify-center gap-2 text-sm"
                   >
                     <span>🏨 楽天トラベルで空室・宿泊プランを見る</span>
@@ -553,25 +555,25 @@ export default function FurusatoChichibuNagatoroAutumnLeavesStayPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/osaka"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kumamoto"
+                href="/prefectures/kumamoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 熊本県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tokushima"
+                href="/prefectures/tokushima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 徳島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/wakayama"
+                href="/prefectures/wakayama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 和歌山県の宿・温泉

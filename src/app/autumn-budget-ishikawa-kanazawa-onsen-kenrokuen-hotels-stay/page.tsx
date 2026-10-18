@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の金沢×格安：兼六園の雪吊りと秋のカニ解禁！天然温泉付き1泊3,000円〜6,000円台の高コスパホテル5選「2026最新」',
     description: '兼六園の雪吊りと秋のカニ解禁！天然温泉付き1泊3,000円〜6,000円台の金沢コスパ最強ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-budget-ishikawa-kanazawa-onsen-kenrokuen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-ishikawa-kanazawa-onsen-kenrokuen-hotels-stay',
   }
 };
 
 export default function KanazawaBudgetAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の金沢×格安：兼六園の雪吊りと秋のカニ解禁！天然温泉付き1泊3,000円〜6,000円台の高コスパホテル5選「2026最新」\",\"description\":\"11月1日から始まる兼六園の「雪吊り」と北陸のカニ解禁！宿泊費を賢く抑えつつ、天然温泉やサウナで極上の癒やしを満喫できる金沢のコスパ最強ホテル5選。the b金沢片町、スーパーホテルPremier、御宿野乃金沢など高評価宿を徹底比較！\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-ishikawa-kanazawa-onsen-kenrokuen-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の金沢×格安：兼六園の雪吊りと秋のカニ解禁！天然温泉付き1泊3,000円〜6,000円台の高コスパホテル5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-ishikawa-kanazawa-onsen-kenrokuen-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の金沢×格安：兼六園の雪吊りと秋のカニ解禁！天然温泉付き1泊3,000円〜6,000円台の高コスパホテル5選「2026最新」\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"金沢格安旅行の知恵袋\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-ishikawa-kanazawa-onsen-kenrokuen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"天然温泉　鼓門の湯　スーパーホテルＰｒｅｍｉｅｒ金沢駅東口\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-ishikawa-kanazawa-onsen-kenrokuen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ｔｈｅ　ｂ　金沢片町\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-ishikawa-kanazawa-onsen-kenrokuen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"アパホテル〈金沢中央〉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-ishikawa-kanazawa-onsen-kenrokuen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"天然温泉・健康ランド　金沢ゆめのゆ\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-ishikawa-kanazawa-onsen-kenrokuen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"天然温泉　加賀の宝泉　御宿　野乃金沢（ドーミーイン・御宿野乃　ホテルズグループ）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-ishikawa-kanazawa-onsen-kenrokuen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"兼六園\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-ishikawa-kanazawa-onsen-kenrokuen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"金沢21世紀美術館\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-ishikawa-kanazawa-onsen-kenrokuen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"ひがし茶屋街\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-ishikawa-kanazawa-onsen-kenrokuen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"白米千枚田（しろよねせんまいだ）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-ishikawa-kanazawa-onsen-kenrokuen-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/180588/180588.jpg"
@@ -142,7 +146,7 @@ export default function KanazawaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4806%2F4806.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function KanazawaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18391%2F18391.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function KanazawaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180588%2F180588.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function KanazawaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147855%2F147855.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function KanazawaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182423%2F182423.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function KanazawaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">ホテル専用駐車場、駐輪場はございません。近隣駐車場のご案内となります</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1660件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,450〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180588%2F180588.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180588%2F180588.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ｔｈｅ　ｂ　金沢片町</td>
@@ -396,7 +400,7 @@ export default function KanazawaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">提携①270台(16時間1,200円 24時間1,700円)②139台(15時〜11時1,200円)</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（1270件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,850〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4806%2F4806.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4806%2F4806.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. アパホテル〈金沢中央〉</td>
@@ -405,7 +409,7 @@ export default function KanazawaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">ホテル駐車場1泊1650円(入庫から24時間まで)高さ制限あり。</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（7316件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,960〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18391%2F18391.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18391%2F18391.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 天然温泉・健康ランド　金沢ゆめのゆ</td>
@@ -414,7 +418,7 @@ export default function KanazawaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">１４００台　無料駐車場は予約不要でご利用できます。　大型車も駐車OK!（有料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（576件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147855%2F147855.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147855%2F147855.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 天然温泉　加賀の宝泉　御宿　野乃金沢（ドーミーイン・御宿野乃　ホテルズグループ）</td>
@@ -423,7 +427,7 @@ export default function KanazawaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">有り　先着順(76台)　1泊1,500円　長さ:5300㎜　全幅:1940㎜　高さ:2000㎜</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（1955件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,030〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182423%2F182423.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182423%2F182423.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -600,6 +604,9 @@ export default function KanazawaBudgetAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-ishikawa-kanazawa-onsen-kenrokuen-hotels-stay" />
+        </div>
 
       </article>
   );

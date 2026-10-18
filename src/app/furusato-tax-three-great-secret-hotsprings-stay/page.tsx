@@ -528,25 +528,25 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/osaka"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagasaki"
+                href="/prefectures/nagasaki/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 長崎県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hokkaido"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kyoto"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 京都府の宿・温泉
@@ -591,7 +591,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り　６０台　無料　予約不要【マップコード：704 471 581*58】</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（331件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,560〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149172%2F149172.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149172%2F149172.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 新祖谷温泉　ホテルかずら橋</td>
@@ -600,7 +600,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.71（987件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20228%2F20228.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20228%2F20228.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 田沢湖高原温泉　ロッジアイリス</td>
@@ -609,7 +609,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り　１５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（68件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130001%2F130001.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130001%2F130001.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

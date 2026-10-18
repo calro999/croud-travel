@@ -6,7 +6,7 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '2026年：専属バリスタのスペシャリティコーヒー！自家焙煎BAR＆カフェラウンジ付き温泉宿5選 ｜ 日本全国・旅宿クラウド',
+  title: '2026年：専属バリスタのスペシャリティコーヒー！自家焙煎BAR＆カフェラウンジ付き温泉宿5選',
   description: '2026年最新！世界各国のシングルオリジンコーヒーのハンドドリップや自家焙煎BAR、絶品スイーツが自慢の珈琲好きにおすすめの温泉リゾート5選。',
   keywords: ["2026年", "カフェラウンジ付き温泉宿5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
@@ -402,25 +402,25 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/wakayama"
+                href="/prefectures/wakayama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 和歌山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nara"
+                href="/prefectures/nara/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 奈良県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kumamoto"
+                href="/prefectures/kumamoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 熊本県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/mie"
+                href="/prefectures/mie/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 三重県の宿・温泉

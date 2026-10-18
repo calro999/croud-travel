@@ -5,7 +5,7 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '2026年：激流の爽快アクティビティ！ラフティング体験＆渓谷美一望の露天風呂リゾート5選 | 日本全国・旅宿クラウド',
+  title: '2026年：激流の爽快アクティビティ！ラフティング体験＆渓谷美一望の露天風呂リゾート5選',
   description: '2026年最新！吉野川・保津川・みなかみ等の清流で白熱ラフティング！大自然の激流を楽しんだ後に渓谷露天風呂とサウナで極上ととのうアドベンチャー宿5選。',
   keywords: ["2026年", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
@@ -263,7 +263,7 @@ export default function FeatureDetailPage() {
                       <span>人吉市上青井町180</span>
                     </div>
                     <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16280%2F16280.html" target="_blank" rel="noopener noreferrer">
+                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16280%2F16280.html" target="_blank" rel="sponsored noopener noreferrer">
                         国登録有形文化財の宿　人吉温泉　芳野旅館
                       </a>
                     </h3>
@@ -290,7 +290,7 @@ export default function FeatureDetailPage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16280%2F16280.html%26f_flg%3DPLAN"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-1 bg-amber-600 hover:bg-amber-700 text-white font-bold text-sm px-5 py-2.5 rounded-xl shadow-sm transition-all"
                     >
                       <span>プラン・空室を見る</span>
@@ -322,7 +322,7 @@ export default function FeatureDetailPage() {
                       <span>利根郡みなかみ町藤原4957-1</span>
                     </div>
                     <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9340%2F9340.html" target="_blank" rel="noopener noreferrer">
+                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9340%2F9340.html" target="_blank" rel="sponsored noopener noreferrer">
                         １１種類の貸切露天風呂　水上高原／奥利根温泉　ホテルサンバード
                       </a>
                     </h3>
@@ -349,7 +349,7 @@ export default function FeatureDetailPage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9340%2F9340.html%26f_flg%3DPLAN"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-1 bg-amber-600 hover:bg-amber-700 text-white font-bold text-sm px-5 py-2.5 rounded-xl shadow-sm transition-all"
                     >
                       <span>プラン・空室を見る</span>
@@ -381,7 +381,7 @@ export default function FeatureDetailPage() {
                       <span>富士宮市内房385</span>
                     </div>
                     <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F144534%2F144534.html" target="_blank" rel="noopener noreferrer">
+                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F144534%2F144534.html" target="_blank" rel="sponsored noopener noreferrer">
                         瓜島温泉　翠紅苑さくら
                       </a>
                     </h3>
@@ -408,7 +408,7 @@ export default function FeatureDetailPage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F144534%2F144534.html%26f_flg%3DPLAN"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-1 bg-amber-600 hover:bg-amber-700 text-white font-bold text-sm px-5 py-2.5 rounded-xl shadow-sm transition-all"
                     >
                       <span>プラン・空室を見る</span>
@@ -440,7 +440,7 @@ export default function FeatureDetailPage() {
                       <span>利根郡みなかみ町藤原6152-1</span>
                     </div>
                     <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30696%2F30696.html" target="_blank" rel="noopener noreferrer">
+                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30696%2F30696.html" target="_blank" rel="sponsored noopener noreferrer">
                         水上温泉郷　水上高原ホテル２００
                       </a>
                     </h3>
@@ -467,7 +467,7 @@ export default function FeatureDetailPage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30696%2F30696.html%26f_flg%3DPLAN"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-1 bg-amber-600 hover:bg-amber-700 text-white font-bold text-sm px-5 py-2.5 rounded-xl shadow-sm transition-all"
                     >
                       <span>プラン・空室を見る</span>
@@ -499,7 +499,7 @@ export default function FeatureDetailPage() {
                       <span>上川郡新得町屈足808番地</span>
                     </div>
                     <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109036%2F109036.html" target="_blank" rel="noopener noreferrer">
+                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109036%2F109036.html" target="_blank" rel="sponsored noopener noreferrer">
                         湯宿くったり温泉レイク・イン
                       </a>
                     </h3>
@@ -526,7 +526,7 @@ export default function FeatureDetailPage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109036%2F109036.html%26f_flg%3DPLAN"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-1 bg-amber-600 hover:bg-amber-700 text-white font-bold text-sm px-5 py-2.5 rounded-xl shadow-sm transition-all"
                     >
                       <span>プラン・空室を見る</span>
@@ -665,25 +665,25 @@ export default function FeatureDetailPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/tokyo"
+                href="/prefectures/tokyo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 東京都の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagoshima"
+                href="/prefectures/kagoshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 鹿児島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/saga"
+                href="/prefectures/saga/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 佐賀県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tochigi"
+                href="/prefectures/tochigi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 栃木県の宿・温泉
@@ -728,7 +728,7 @@ export default function FeatureDetailPage() {
                 <td className="p-3 text-stone-600">有り　30台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（135件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16280%2F16280.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16280%2F16280.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. １１種類の貸切露天風呂　水上高原／奥利根温泉　ホテルサンバード</td>
@@ -737,7 +737,7 @@ export default function FeatureDetailPage() {
                 <td className="p-3 text-stone-600">有り ３００台 無料 先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（825件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9340%2F9340.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9340%2F9340.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 水上温泉郷　水上高原ホテル２００</td>
@@ -746,7 +746,7 @@ export default function FeatureDetailPage() {
                 <td className="p-3 text-stone-600">有　７００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（2324件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30696%2F30696.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30696%2F30696.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 湯宿くったり温泉レイク・イン</td>
@@ -755,7 +755,7 @@ export default function FeatureDetailPage() {
                 <td className="p-3 text-stone-600">有り　60台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（709件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109036%2F109036.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109036%2F109036.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 瓜島温泉　翠紅苑さくら</td>
@@ -764,7 +764,7 @@ export default function FeatureDetailPage() {
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（71件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,480〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F144534%2F144534.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F144534%2F144534.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

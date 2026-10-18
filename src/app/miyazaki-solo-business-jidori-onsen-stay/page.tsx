@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: 'T12:30:00+09:00',
-    dateModified: 'T12:30:00+09:00',
+    datePublished: '2026-10-18T12:30:00+09:00',
+    dateModified: '2026-10-19T12:30:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/miyazaki-solo-business-jidori-onsen-stay',
   };
 
@@ -171,7 +171,7 @@ export default function ArticlePage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F162643%2F162643.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="w-full sm:w-auto text-center bg-gradient-to-r from-red-600 to-red-700 hover:from-red-700 hover:to-red-800 text-white font-bold text-sm px-6 py-3 rounded-xl shadow-md transition-all duration-200"
                   >
                     楽天トラベルで空室・プランを見る →
@@ -246,7 +246,7 @@ export default function ArticlePage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17916%2F17916.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="w-full sm:w-auto text-center bg-gradient-to-r from-red-600 to-red-700 hover:from-red-700 hover:to-red-800 text-white font-bold text-sm px-6 py-3 rounded-xl shadow-md transition-all duration-200"
                   >
                     楽天トラベルで空室・プランを見る →
@@ -321,7 +321,7 @@ export default function ArticlePage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16531%2F16531.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="w-full sm:w-auto text-center bg-gradient-to-r from-red-600 to-red-700 hover:from-red-700 hover:to-red-800 text-white font-bold text-sm px-6 py-3 rounded-xl shadow-md transition-all duration-200"
                   >
                     楽天トラベルで空室・プランを見る →
@@ -483,25 +483,25 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/aichi"
+                href="/prefectures/aichi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 愛知県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ehime"
+                href="/prefectures/ehime/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 愛媛県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/saga"
+                href="/prefectures/saga/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 佐賀県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gunma"
+                href="/prefectures/gunma/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 群馬県の宿・温泉

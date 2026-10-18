@@ -96,6 +96,8 @@ export default function FeatureArticlePage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「天童温泉 湯の香 松の湯」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「天童温泉 湯の香 松の湯」へは、山形新幹線東京駅から天童駅まで約2時間45分。最寄りの天童駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「天童温泉 湯の香 松の湯」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「天童温泉 湯の香 松の湯」は『天童唯一二種類の源泉100%を掛流し☆山形牛付お部屋食。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「天童温泉 湯の香 松の湯」と「天童温泉 美味求真の宿 天童ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずナビ */}
       <nav className="max-w-6xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-600 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:underline text-stone-500">トップ</Link>
@@ -520,25 +522,25 @@ export default function FeatureArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/shizuoka"
+                href="/prefectures/shizuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 静岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/miyagi"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 宮城県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shiga"
+                href="/prefectures/shiga/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 滋賀県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tokyo"
+                href="/prefectures/tokyo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 東京都の宿・温泉

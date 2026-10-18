@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/planetarium-private-cinema-theater-room-hotel-stay/" },
-  title: "プラネタリウム＆大画面シアタールーム完備宿：部屋ごもり・星空上映 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "プラネタリウム＆大画面シアタールーム完備宿：部屋ごもり・星空上映 厳選ガイド",
   description: "お部屋の中が満天の星空に！客室プラネタリウム＆大画面プロジェクター完備ホテル完全特化！東京、大阪、京都、軽井沢、家庭用最高峰ホームスター設置ルーム、天井いっぱいの星座パノラマ、映画・星空鑑賞カップル＆ファミリー記念日ステイを徹底解説。",
   keywords: ["プラネタリウム", "大画面シアタールーム完備宿", "部屋ごもり", "星空上映", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "プラネタリウム＆大画面シアタールーム完備宿：部屋ごもり・星空上映 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "プラネタリウム＆大画面シアタールーム完備宿：部屋ごもり・星空上映 厳選ガイド",
     description: "お部屋の中が満天の星空に！客室プラネタリウム＆大画面プロジェクター完備ホテル完全特化！東京、大阪、京都、軽井沢、家庭用最高峰ホームスター設置ルーム、天井いっぱいの星座パノラマ、映画・星空鑑賞カップル＆ファミリー記念日ステイを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "プラネタリウム＆大画面シアタールーム完備宿：部屋ごもり・星空上映 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "プラネタリウム＆大画面シアタールーム完備宿：部屋ごもり・星空上映 厳選ガイド",
     description: "お部屋の中が満天の星空に！客室プラネタリウム＆大画面プロジェクター完備ホテル完全特化！東京、大阪、京都、軽井沢、家庭用最高峰ホームスター設置ルーム、天井いっぱいの星座パノラマ、映画・星空鑑賞カップル＆ファミリー記念日ステイを徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function StargazingHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-indigo-700 to-purple-800 hover:from-indigo-600 hover:to-purple-700 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-private-pool-jacuzzi-guide/" },
-  title: "プライベートプール＆温水ジャグジー付きグランピング：シルバーウィークに楽しむ極上リゾートヴィラ ｜ 日本全国・旅宿クラウド",
+  title: "プライベートプール＆温水ジャグジー付きグランピング：シルバーウィークに楽しむ極上リゾートヴィラ",
   description:
     "まだまだ暖かい9月シルバーウィークにプライベートプールを独占！客室専用温水プール、ジェットバスジャグジー、プールサイドでのBBQとシャンパンを楽しむラグジュアリーステイ特集。",
   keywords: ["プライベートプール", "温水ジャグジー付きグランピング", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: "プライベートプール＆温水ジャグジー付きグランピング：シルバーウィークに楽しむ極上リゾートヴィラ ｜ 日本全国・旅宿クラウド",
+    title: "プライベートプール＆温水ジャグジー付きグランピング：シルバーウィークに楽しむ極上リゾートヴィラ",
     description: "まだまだ暖かい9月シルバーウィークにプライベートプールを独占！客室専用温水プール、ジェットバスジャグジー、プールサイドでのBBQとシャンパンを楽しむラグジュアリーステイ特集。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "プライベートプール＆温水ジャグジー付きグランピング：シルバーウィークに楽しむ極上リゾートヴィラ ｜ 日本全国・旅宿クラウド",
+    title: "プライベートプール＆温水ジャグジー付きグランピング：シルバーウィークに楽しむ極上リゾートヴィラ",
     description: "まだまだ暖かい9月シルバーウィークにプライベートプールを独占！客室専用温水プール、ジェットバスジャグジー、プールサイドでのBBQとシャンパンを楽しむラグジュアリーステイ特集。",
   }
 };
@@ -173,6 +173,8 @@ export default function SilverWeekGlampingPrivatePoolJacuzziPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 
       {/* ヒーローセクション（Cyan/Teal × Deep Navy パレット） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-cyan-950 via-slate-950 to-teal-950 text-white p-8 md:p-14 shadow-2xl border border-cyan-500/30">
@@ -355,7 +357,7 @@ export default function SilverWeekGlampingPrivatePoolJacuzziPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="inline-flex items-center justify-center px-4 py-2.5 bg-gradient-to-r from-cyan-600 to-teal-700 hover:from-cyan-500 hover:to-teal-600 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5 shrink-0"
                   >
                     楽天トラベルで空室確認 🏊

@@ -213,7 +213,7 @@ export default function FurusatoUpgradedPage() {
                         {h.label}
                       </div>
                       <h3 className="text-2xl font-black text-white mb-3 hover:text-amber-400 transition">
-                        <a href={h.affiliateUrl} target="_blank" rel="noopener noreferrer">
+                        <a href={h.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer">
                           {h.hotelName}
                         </a>
                       </h3>
@@ -237,7 +237,7 @@ export default function FurusatoUpgradedPage() {
                       <a
                         href={h.affiliateUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="flex-1 text-center bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-stone-950 font-black py-3 px-6 rounded-xl shadow-lg transition duration-150 text-sm"
                       >
                         楽天ふるさと納税で宿を予約する
@@ -359,7 +359,7 @@ export default function FurusatoUpgradedPage() {
                 <td className="p-3 text-stone-600">有り　１00台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（1522件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,286〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F875%2F875.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F875%2F875.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 海のサウナ＆スパ　オールインクルーシブ　島原温泉ホテル南風楼</td>
@@ -368,7 +368,7 @@ export default function FurusatoUpgradedPage() {
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（2793件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F878%2F878.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F878%2F878.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 甲斐のホテル</td>
@@ -377,7 +377,7 @@ export default function FurusatoUpgradedPage() {
                 <td className="p-3 text-stone-600">有り　無料 （大型車は２日前までに要連絡）車いすや杖等対応の駐車は必ず事前にご相談ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（2391件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,750〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F991%2F991.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F991%2F991.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 城のホテル甲府</td>
@@ -386,7 +386,7 @@ export default function FurusatoUpgradedPage() {
                 <td className="p-3 text-stone-600">お車は提携駐車場にご案内致します。玄関前は駐車不可。詳細は公式HPのアクセスページをご確認ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（5467件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F992%2F992.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F992%2F992.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルニューオータニ博多</td>
@@ -395,7 +395,7 @@ export default function FurusatoUpgradedPage() {
                 <td className="p-3 text-stone-600">有り／370台／１泊(入庫時間より24時間）／1500円（税込み）</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（3622件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1017%2F1017.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1017%2F1017.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               </tbody>
             </table>

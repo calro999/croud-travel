@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の大阪×格安：御堂筋の黄金イチョウ並木と道頓堀グルメ！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
     description: '御堂筋のイチョウ並木と道頓堀グルメ！天然温泉付き1泊3,000円〜6,000円台のコスパ最強大阪ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay',
   }
 };
 
 export default function OsakaBudgetAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の大阪×格安：御堂筋の黄金イチョウ並木と道頓堀グルメ！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」\",\"description\":\"約4kmにわたる御堂筋のイチョウ並木と大阪城公園の紅葉、USJの秋イベント！たこ焼きや串カツのグルメを食べ歩き、地下から湧き出る天然温泉大浴場で寛げる大阪のコスパ最強格安ホテル5選。スーパーホテル花乃井、リーベルホテル大阪などを徹底比較！\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の大阪×格安：御堂筋の黄金イチョウ並木と道頓堀グルメ！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の大阪×格安：御堂筋の黄金イチョウ並木と道頓堀グルメ！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"大阪秋旅の散策アドバイス\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"湯元「花乃井」スーパーホテル大阪天然温泉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"天然温泉　秀吉ゆかりの天下取りの湯　スーパーホテルＪＲ新大阪東口\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"天然温泉　四季彩の湯　スーパーホテルＰｒｅｍｉｅｒ大阪本町駅前\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"シティプラザ大阪〜ＨＯＴＥＬ＆ＳＰＡ〜\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"リーベルホテル大阪\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"大阪城公園（大阪城天守閣）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"道頓堀・グリコサイン\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"ユニバーサル・スタジオ・ジャパン（USJ）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"通天閣・新世界\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/217/217.jpg"
@@ -142,7 +146,7 @@ export default function OsakaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52852%2F52852.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function OsakaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F217%2F217.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function OsakaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F151344%2F151344.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function OsakaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52940%2F52940.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function OsakaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172378%2F172378.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function OsakaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">近隣の一般コインパーキングのご案内となります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（7012件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F217%2F217.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F217%2F217.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天然温泉　秀吉ゆかりの天下取りの湯　スーパーホテルＪＲ新大阪東口</td>
@@ -396,7 +400,7 @@ export default function OsakaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">２台、要電話予約、連泊利用不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（3487件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,480〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52852%2F52852.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52852%2F52852.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天然温泉　四季彩の湯　スーパーホテルＰｒｅｍｉｅｒ大阪本町駅前</td>
@@ -405,7 +409,7 @@ export default function OsakaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">専用駐車場はございません。周辺コインパーキングをご利用ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1774件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F151344%2F151344.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F151344%2F151344.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. シティプラザ大阪〜ＨＯＴＥＬ＆ＳＰＡ〜</td>
@@ -414,7 +418,7 @@ export default function OsakaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">有り（予約不要）170台 1,000円／24時間（車高制限2.1ｍ以下） バイク・自転車駐輪場なし</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（4387件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,020〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52940%2F52940.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52940%2F52940.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. リーベルホテル大阪</td>
@@ -423,7 +427,7 @@ export default function OsakaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">ご宿泊当日12:00〜翌12:00迄3,000円 上記時間外は500円/30分</td>
                 <td className="p-3 font-bold text-amber-600">★4.71（7119件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172378%2F172378.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172378%2F172378.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -600,6 +604,9 @@ export default function OsakaBudgetAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay" />
+        </div>
 
       </article>
   );

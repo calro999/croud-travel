@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fuji-q-highland-fujigoko-activity-stay/" },
-  title: "富士急ハイランド＆富士五湖アクティビティ宿：絶叫アトラクション＆グランピング 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "富士急ハイランド＆富士五湖アクティビティ宿：絶叫アトラクション＆グランピング 厳選ガイド",
   description: "世界最高峰の絶叫マシンと富士山麓大自然アクティビティ完全特化！富士急ハイランド優先入園付きオフィシャルホテル、富士五湖（河口湖・山中湖）カヤック・SUP・バギー体験、富士山ビューグランピング＆露天風呂宿を徹底解説。",
   keywords: ["富士急ハイランド", "富士五湖アクティビティ宿", "絶叫アトラクション", "グランピング", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "富士急ハイランド＆富士五湖アクティビティ宿：絶叫アトラクション＆グランピング 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "富士急ハイランド＆富士五湖アクティビティ宿：絶叫アトラクション＆グランピング 厳選ガイド",
     description: "世界最高峰の絶叫マシンと富士山麓大自然アクティビティ完全特化！富士急ハイランド優先入園付きオフィシャルホテル、富士五湖（河口湖・山中湖）カヤック・SUP・バギー体験、富士山ビューグランピング＆露天風呂宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "富士急ハイランド＆富士五湖アクティビティ宿：絶叫アトラクション＆グランピング 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "富士急ハイランド＆富士五湖アクティビティ宿：絶叫アトラクション＆グランピング 厳選ガイド",
     description: "世界最高峰の絶叫マシンと富士山麓大自然アクティビティ完全特化！富士急ハイランド優先入園付きオフィシャルホテル、富士五湖（河口湖・山中湖）カヤック・SUP・バギー体験、富士山ビューグランピング＆露天風呂宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function ThemeParkActivityHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

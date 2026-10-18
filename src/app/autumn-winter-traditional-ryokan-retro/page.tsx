@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-traditional-ryokan-retro/" },
-  title: "大正ロマンの宿：文化財建築美と木造意匠！老舗名門旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "大正ロマンの宿：文化財建築美と木造意匠！老舗名門旅館 厳選ガイド",
   description: "時を超えて愛される日本の美。山形・銀山温泉、長野・渋温泉金具屋、静岡・伊東温泉、兵庫・城崎温泉など、国の登録有形文化財や宮大工の粋が息づく木造建築旅館を徹底解説。",
   keywords: ["大正ロマンの宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: "大正ロマンの宿：文化財建築美と木造意匠！老舗名門旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "大正ロマンの宿：文化財建築美と木造意匠！老舗名門旅館 厳選ガイド",
     description: "時を超えて愛される日本の美。山形・銀山温泉、長野・渋温泉金具屋、静岡・伊東温泉、兵庫・城崎温泉など、国の登録有形文化財や宮大工の粋が息づく木造建築旅館を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "大正ロマンの宿：文化財建築美と木造意匠！老舗名門旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "大正ロマンの宿：文化財建築美と木造意匠！老舗名門旅館 厳選ガイド",
     description: "時を超えて愛される日本の美。山形・銀山温泉、長野・渋温泉金具屋、静岡・伊東温泉、兵庫・城崎温泉など、国の登録有形文化財や宮大工の粋が息づく木造建築旅館を徹底解説。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -261,7 +261,7 @@ export default function SeasonalFeaturePage() {
                 <td className="p-3 text-stone-600">有り　20台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183204%2F183204.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183204%2F183204.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 渋温泉　歴史の宿　金具屋</td>
@@ -270,7 +270,7 @@ export default function SeasonalFeaturePage() {
                 <td className="p-3 text-stone-600">有　３０台　無料　屋外のみ　マイクロバス以上は有料</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（981件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F32044%2F32044.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F32044%2F32044.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 渋温泉かどや</td>
@@ -279,7 +279,7 @@ export default function SeasonalFeaturePage() {
                 <td className="p-3 text-stone-600">渋温泉公共駐車場(湯めぐりパーキング)をご利用ください（1000円/24時間）</td>
                 <td className="p-3 font-bold text-amber-600">★3.46（26件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182752%2F182752.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182752%2F182752.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 伊東温泉　陽気館</td>
@@ -288,7 +288,7 @@ export default function SeasonalFeaturePage() {
                 <td className="p-3 text-stone-600">有り　20台　無料　※カーナビは名称・電話ではなく住所（静岡県伊東市末広町1－21）で検索して下さい</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（702件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7473%2F7473.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7473%2F7473.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 城崎温泉　扇屋旅館</td>
@@ -297,7 +297,7 @@ export default function SeasonalFeaturePage() {
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（54件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F135390%2F135390.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F135390%2F135390.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 城崎温泉　旨し隠れ家　湯宿　山よし</td>
@@ -306,7 +306,7 @@ export default function SeasonalFeaturePage() {
                 <td className="p-3 text-stone-600">有り　５台　無料　お手数ですがチェックイン前に一度お電話下さい。ご案内します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.7（135件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F138019%2F138019.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F138019%2F138019.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

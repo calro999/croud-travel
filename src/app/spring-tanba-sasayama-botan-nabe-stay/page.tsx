@@ -5,7 +5,7 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '2026年：本場・丹波篠山の極上ぼたん鍋！丹波黒豆スイーツ＆城下町古民家分散型ホテル5選 | 日本全国・旅宿クラウド',
+  title: '2026年：本場・丹波篠山の極上ぼたん鍋！丹波黒豆スイーツ＆城下町古民家分散型ホテル5選',
   description: '2026年最新！職人が美しく盛り付ける天然猪肉の「ぼたん鍋」！丹波栗・黒豆スイーツと城下町の歴史的古民家を再生した上質ホテル＆名湯宿5選。',
   keywords: ["2026年", "本場", "城下町古民家分散型ホテル5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
@@ -263,7 +263,7 @@ export default function FeatureDetailPage() {
                       <span>丹波篠山市二階町6</span>
                     </div>
                     <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F134758%2F134758.html" target="_blank" rel="noopener noreferrer">
+                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F134758%2F134758.html" target="_blank" rel="sponsored noopener noreferrer">
                         丹波篠山・料理旅館　たかさご
                       </a>
                     </h3>
@@ -290,7 +290,7 @@ export default function FeatureDetailPage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F134758%2F134758.html%26f_flg%3DPLAN"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-1 bg-amber-600 hover:bg-amber-700 text-white font-bold text-sm px-5 py-2.5 rounded-xl shadow-sm transition-all"
                     >
                       <span>プラン・空室を見る</span>
@@ -322,7 +322,7 @@ export default function FeatureDetailPage() {
                       <span>丹波篠山市二階町81</span>
                     </div>
                     <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8534%2F8534.html" target="_blank" rel="noopener noreferrer">
+                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8534%2F8534.html" target="_blank" rel="sponsored noopener noreferrer">
                         丹波篠山　近又
                       </a>
                     </h3>
@@ -349,7 +349,7 @@ export default function FeatureDetailPage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8534%2F8534.html%26f_flg%3DPLAN"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-1 bg-amber-600 hover:bg-amber-700 text-white font-bold text-sm px-5 py-2.5 rounded-xl shadow-sm transition-all"
                     >
                       <span>プラン・空室を見る</span>
@@ -381,7 +381,7 @@ export default function FeatureDetailPage() {
                       <span>丹波篠山市二階町79</span>
                     </div>
                     <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18267%2F18267.html" target="_blank" rel="noopener noreferrer">
+                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18267%2F18267.html" target="_blank" rel="sponsored noopener noreferrer">
                         丹波篠山　潯陽楼
                       </a>
                     </h3>
@@ -408,7 +408,7 @@ export default function FeatureDetailPage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18267%2F18267.html%26f_flg%3DPLAN"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-1 bg-amber-600 hover:bg-amber-700 text-white font-bold text-sm px-5 py-2.5 rounded-xl shadow-sm transition-all"
                     >
                       <span>プラン・空室を見る</span>
@@ -440,7 +440,7 @@ export default function FeatureDetailPage() {
                       <span>生駒市門前町15-12</span>
                     </div>
                     <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F129481%2F129481.html" target="_blank" rel="noopener noreferrer">
+                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F129481%2F129481.html" target="_blank" rel="sponsored noopener noreferrer">
                         生駒のお宿　城山旅館
                       </a>
                     </h3>
@@ -467,7 +467,7 @@ export default function FeatureDetailPage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F129481%2F129481.html%26f_flg%3DPLAN"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-1 bg-amber-600 hover:bg-amber-700 text-white font-bold text-sm px-5 py-2.5 rounded-xl shadow-sm transition-all"
                     >
                       <span>プラン・空室を見る</span>
@@ -499,7 +499,7 @@ export default function FeatureDetailPage() {
                       <span>丹波篠山市遠方122-1</span>
                     </div>
                     <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52878%2F52878.html" target="_blank" rel="noopener noreferrer">
+                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52878%2F52878.html" target="_blank" rel="sponsored noopener noreferrer">
                         ｔａｎｏｓｈｉｃ　ｒｅｓｏｒｔ　西紀荘
                       </a>
                     </h3>
@@ -526,7 +526,7 @@ export default function FeatureDetailPage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52878%2F52878.html%26f_flg%3DPLAN"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center gap-1 bg-amber-600 hover:bg-amber-700 text-white font-bold text-sm px-5 py-2.5 rounded-xl shadow-sm transition-all"
                     >
                       <span>プラン・空室を見る</span>
@@ -666,25 +666,25 @@ export default function FeatureDetailPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/tochigi"
+                href="/prefectures/tochigi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 栃木県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hokkaido"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ishikawa"
+                href="/prefectures/ishikawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 石川県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tokushima"
+                href="/prefectures/tokushima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 徳島県の宿・温泉
@@ -729,7 +729,7 @@ export default function FeatureDetailPage() {
                 <td className="p-3 text-stone-600">有り　４台まで先着無料。満車の場合は、(有料 500円/1日)</td>
                 <td className="p-3 font-bold text-amber-600">★4（4件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F134758%2F134758.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F134758%2F134758.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 丹波篠山　近又</td>
@@ -738,7 +738,7 @@ export default function FeatureDetailPage() {
                 <td className="p-3 text-stone-600">有り　4台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（88件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8534%2F8534.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8534%2F8534.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 丹波篠山　潯陽楼</td>
@@ -747,7 +747,7 @@ export default function FeatureDetailPage() {
                 <td className="p-3 text-stone-600">有り　１１台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（50件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18267%2F18267.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18267%2F18267.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 生駒のお宿　城山旅館</td>
@@ -756,7 +756,7 @@ export default function FeatureDetailPage() {
                 <td className="p-3 text-stone-600">駐車場（2台）はアルス駐車場（生駒市門前町16-52）26・27番/その他旅館組合の駐車場あり　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4（119件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F129481%2F129481.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F129481%2F129481.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ｔａｎｏｓｈｉｃ　ｒｅｓｏｒｔ　西紀荘</td>
@@ -765,7 +765,7 @@ export default function FeatureDetailPage() {
                 <td className="p-3 text-stone-600">有り　40台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.89（218件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,940〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52878%2F52878.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52878%2F52878.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

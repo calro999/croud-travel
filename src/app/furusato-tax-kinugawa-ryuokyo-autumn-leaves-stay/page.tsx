@@ -96,6 +96,8 @@ export default function FeatureArticlePage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「鬼怒川温泉 ホテルサンシャイン鬼怒川」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「鬼怒川温泉 ホテルサンシャイン鬼怒川」へは、東北自動車道宇都宮ICから宇都宮・日光有料道路今市IC下車R121より30分。最寄りの鬼怒川温泉駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「鬼怒川温泉 ホテルサンシャイン鬼怒川」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「鬼怒川温泉 ホテルサンシャイン鬼怒川」は『『でっかい。けど、あったかい。』これが、宿のスローガン！鬼怒川立岩は眼前☆全室渓谷沿いで風』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「鬼怒川温泉 ホテルサンシャイン鬼怒川」と「鬼怒川温泉 鬼怒川グランドホテル 夢の季」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* パンくずナビ */}
       <nav className="max-w-6xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-600 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:underline text-stone-500">トップ</Link>
@@ -520,25 +522,25 @@ export default function FeatureArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/miyagi"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 宮城県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukuoka"
+                href="/prefectures/fukuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 福岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ishikawa"
+                href="/prefectures/ishikawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 石川県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hokkaido"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 北海道の宿・温泉

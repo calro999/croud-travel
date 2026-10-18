@@ -393,25 +393,25 @@ export default function FeaturePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/mie"
+                href="/prefectures/mie/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 三重県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nara"
+                href="/prefectures/nara/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 奈良県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kumamoto"
+                href="/prefectures/kumamoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 熊本県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/aichi"
+                href="/prefectures/aichi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 愛知県の宿・温泉
@@ -458,7 +458,7 @@ export default function FeaturePage() {
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.66（2533件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F3165%2F3165.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F3165%2F3165.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 湖畔の宿　雄琴荘</td>
@@ -467,7 +467,7 @@ export default function FeaturePage() {
                 <td className="p-3 text-stone-600">有り　10台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（122件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67839%2F67839.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67839%2F67839.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ─都心の天然温泉─　名古屋クラウンホテル</td>
@@ -476,7 +476,7 @@ export default function FeaturePage() {
                 <td className="p-3 text-stone-600">タワー式（車高155cm・タイヤ幅175cm以下）約40台　1泊1200円（15時~翌10時）先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（9463件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F622%2F622.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F622%2F622.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 小牧セントラルホテル</td>
@@ -485,7 +485,7 @@ export default function FeaturePage() {
                 <td className="p-3 text-stone-600">有り　50台　無料 (満車となりましたら徒歩3〜4分の第二駐車場となります）</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（2696件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F927%2F927.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F927%2F927.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ハミルトンホテル　－ブラック－</td>
@@ -494,7 +494,7 @@ export default function FeaturePage() {
                 <td className="p-3 text-stone-600">有料の提携駐車場1か所（事前予約不可）。詳細はホテルにお問合せください。</td>
                 <td className="p-3 font-bold text-amber-600">★3.81（3254件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F970%2F970.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F970%2F970.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

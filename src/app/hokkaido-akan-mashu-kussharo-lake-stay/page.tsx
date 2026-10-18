@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-akan-mashu-kussharo-lake-stay/" },
-  title: "北海道・阿寒湖＆摩周湖・屈斜路湖：神秘のカルデラ三湖・阿寒アイヌコタン＆まりも・硫黄山温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "北海道・阿寒湖＆摩周湖・屈斜路湖：神秘のカルデラ三湖・阿寒アイヌコタン＆まりも・硫黄山温泉宿 厳選ガイド",
   description: "阿寒摩周国立公園の神秘の湖めぐり完全特化！特別天然記念物「阿寒湖のマリモ」、北海道最大のアイヌ集落「阿寒湖アイヌコタン」、奇跡の透明度「摩周ブルー・摩周湖」、日本最大のカルデラ湖「屈斜路湖・砂湯」、阿寒湖温泉・川湯温泉宿を徹底解説。",
   keywords: ["北海道", "阿寒湖", "摩周湖", "屈斜路湖", "神秘のカルデラ三湖", "阿寒アイヌコタン", "まりも"],
   openGraph: {
-    title: "北海道・阿寒湖＆摩周湖・屈斜路湖：神秘のカルデラ三湖・阿寒アイヌコタン＆まりも・硫黄山温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "北海道・阿寒湖＆摩周湖・屈斜路湖：神秘のカルデラ三湖・阿寒アイヌコタン＆まりも・硫黄山温泉宿 厳選ガイド",
     description: "阿寒摩周国立公園の神秘の湖めぐり完全特化！特別天然記念物「阿寒湖のマリモ」、北海道最大のアイヌ集落「阿寒湖アイヌコタン」、奇跡の透明度「摩周ブルー・摩周湖」、日本最大のカルデラ湖「屈斜路湖・砂湯」、阿寒湖温泉・川湯温泉宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "北海道・阿寒湖＆摩周湖・屈斜路湖：神秘のカルデラ三湖・阿寒アイヌコタン＆まりも・硫黄山温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "北海道・阿寒湖＆摩周湖・屈斜路湖：神秘のカルデラ三湖・阿寒アイヌコタン＆まりも・硫黄山温泉宿 厳選ガイド",
     description: "阿寒摩周国立公園の神秘の湖めぐり完全特化！特別天然記念物「阿寒湖のマリモ」、北海道最大のアイヌ集落「阿寒湖アイヌコタン」、奇跡の透明度「摩周ブルー・摩周湖」、日本最大のカルデラ湖「屈斜路湖・砂湯」、阿寒湖温泉・川湯温泉宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　３０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.87（249件）</td>
                 <td className="p-3 font-bold text-rose-600">¥42,531〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37362%2F37362.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37362%2F37362.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. あかん遊久の里鶴雅</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り（無料）150台※駐車場は当館から離れた場所にあります（駐車場とホテル間はシャトルバス運行あり）</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（1917件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,520〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40045%2F40045.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40045%2F40045.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 知床天然温泉ルートイングランティア知床斜里駅前</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　６４台（敷地内２０台・第２駐車場４４台）　無料　予約不要（先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（1038件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68130%2F68130.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68130%2F68130.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. お宿欣喜湯　別邸　すいかずら</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　40台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（458件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182124%2F182124.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182124%2F182124.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ファームイン　トーチ　Ｂ棟　＾</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥9,512〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F170992%2F170992.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F170992%2F170992.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

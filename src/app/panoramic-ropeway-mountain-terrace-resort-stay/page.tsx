@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/panoramic-ropeway-mountain-terrace-resort-stay/" },
-  title: "絶景ロープウェイ＆山頂テラス宿：びわ湖バレイ・蔵王・富士山パノラマ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "絶景ロープウェイ＆山頂テラス宿：びわ湖バレイ・蔵王・富士山パノラマ 厳選ガイド",
   description: "空へと駆け上がる感動の空中散歩！絶景ロープウェイ＆山頂天空テラス宿完全特化！滋賀「びわ湖バレイ（びわ湖テラス）」、山形「蔵王ロープウェイ（樹氷原）」、長野「竜王ソラテラス（雲海）」、静岡「碧テラス（伊豆パノラマパーク）」を徹底解説。",
   keywords: ["絶景ロープウェイ", "山頂テラス宿", "びわ湖バレイ", "蔵王", "富士山パノラマ", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "絶景ロープウェイ＆山頂テラス宿：びわ湖バレイ・蔵王・富士山パノラマ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "絶景ロープウェイ＆山頂テラス宿：びわ湖バレイ・蔵王・富士山パノラマ 厳選ガイド",
     description: "空へと駆け上がる感動の空中散歩！絶景ロープウェイ＆山頂天空テラス宿完全特化！滋賀「びわ湖バレイ（びわ湖テラス）」、山形「蔵王ロープウェイ（樹氷原）」、長野「竜王ソラテラス（雲海）」、静岡「碧テラス（伊豆パノラマパーク）」を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "絶景ロープウェイ＆山頂テラス宿：びわ湖バレイ・蔵王・富士山パノラマ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "絶景ロープウェイ＆山頂テラス宿：びわ湖バレイ・蔵王・富士山パノラマ 厳選ガイド",
     description: "空へと駆け上がる感動の空中散歩！絶景ロープウェイ＆山頂天空テラス宿完全特化！滋賀「びわ湖バレイ（びわ湖テラス）」、山形「蔵王ロープウェイ（樹氷原）」、長野「竜王ソラテラス（雲海）」、静岡「碧テラス（伊豆パノラマパーク）」を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function RailwayActivityHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">有り　３５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（205件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,650〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107682%2F107682.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107682%2F107682.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 蔵王温泉　堺屋森のホテルヴァルトベルク</td>
@@ -261,7 +261,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（904件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38663%2F38663.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38663%2F38663.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 竜王マウンテンホテル</td>
@@ -270,7 +270,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">冬季シーズンはゲレンデ内となる為、竜王スキーパークの駐車場をご利用ください。</td>
                 <td className="p-3 font-bold text-amber-600">★3（18件）</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183171%2F183171.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183171%2F183171.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 信州湯田中温泉　ホテルゆだなか　～大浴場「吉の湯」～</td>
@@ -279,7 +279,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">有り　６０台　無料　コンビニまで徒歩5分　 湯田中駅徒歩3分</td>
                 <td className="p-3 font-bold text-amber-600">★3.71（281件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,380〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38584%2F38584.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38584%2F38584.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 湯田中温泉　一茶のこみち　美湯の宿</td>
@@ -288,7 +288,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">旅館前にあり事前予約は必要ございません。バイクの駐車も可能。</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（419件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2441%2F2441.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2441%2F2441.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 信州・湯田中温泉　清風荘</td>
@@ -297,7 +297,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">有り 10台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（107件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41634%2F41634.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41634%2F41634.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

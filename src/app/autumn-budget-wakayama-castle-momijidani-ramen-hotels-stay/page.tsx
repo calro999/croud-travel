@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetWakayamaHotelsPage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"和歌山：和歌山城紅葉渓庭園と中華そば！2,000円台〜泊まれる格安ホテル5選\",\"description\":\"名勝和歌山城「紅葉渓庭園」の水鏡紅葉と御橋廊下、豚骨醤油のコク深い本場和歌山ラーメン！和歌山駅前で1泊2,000円台〜4,000円台で泊まれる格安・高コスパホテル厳選5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-wakayama-castle-momijidani-ramen-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"和歌山：和歌山城紅葉渓庭園と中華そば！2,000円台〜泊まれる格安ホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-wakayama-castle-momijidani-ramen-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"和歌山：和歌山城紅葉渓庭園と中華そば！2,000円台〜泊まれる格安ホテル5選\",\"numberOfItems\":9,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホテルグランヴィア和歌山\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-wakayama-castle-momijidani-ramen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"川湯温泉　冨士屋\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-wakayama-castle-momijidani-ramen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"メルキュール和歌山串本リゾート＆スパ\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-wakayama-castle-momijidani-ramen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"白浜温泉　白良荘グランドホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-wakayama-castle-momijidani-ramen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"一乗院\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-wakayama-castle-momijidani-ramen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"高野山（奥の院・壇上伽藍）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-wakayama-castle-momijidani-ramen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"熊野那智大社・那智の滝\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-wakayama-castle-momijidani-ramen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"南紀白浜・千畳敷・三段壁\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-wakayama-castle-momijidani-ramen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"和歌山城\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-wakayama-castle-momijidani-ramen-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -133,7 +137,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166251%2F166251.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-orange-600 to-amber-600 hover:from-orange-700 hover:to-amber-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166251%2F166251.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-orange-600 to-amber-600 hover:from-orange-700 hover:to-amber-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -173,7 +177,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F167527%2F167527.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-orange-600 to-amber-600 hover:from-orange-700 hover:to-amber-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F167527%2F167527.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-orange-600 to-amber-600 hover:from-orange-700 hover:to-amber-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -213,7 +217,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149215%2F149215.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-orange-600 to-amber-600 hover:from-orange-700 hover:to-amber-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149215%2F149215.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-orange-600 to-amber-600 hover:from-orange-700 hover:to-amber-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -253,7 +257,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70935%2F70935.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-orange-600 to-amber-600 hover:from-orange-700 hover:to-amber-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70935%2F70935.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-orange-600 to-amber-600 hover:from-orange-700 hover:to-amber-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -293,7 +297,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F74638%2F74638.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-orange-600 to-amber-600 hover:from-orange-700 hover:to-amber-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F74638%2F74638.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-orange-600 to-amber-600 hover:from-orange-700 hover:to-amber-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -354,7 +358,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
                 <td className="p-3 text-stone-600">1泊1000円★近鉄百貨店様と同じ立体駐車場の最上階からホテル連絡通路利用★24時間入出庫自由</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（3886件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,175〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1191%2F1191.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1191%2F1191.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 川湯温泉　冨士屋</td>
@@ -363,7 +367,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
                 <td className="p-3 text-stone-600">有（無料・３０台・屋外）</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1256%2F1256.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1256%2F1256.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. メルキュール和歌山串本リゾート＆スパ</td>
@@ -372,7 +376,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
                 <td className="p-3 text-stone-600">乗用車駐車台数198台(内　障がい者用3台) 屋外駐車場無料　事前予約は承っておりません。</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（3590件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,050〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1537%2F1537.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1537%2F1537.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 白浜温泉　白良荘グランドホテル</td>
@@ -381,7 +385,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
                 <td className="p-3 text-stone-600">屋外無料駐車場（約70台）13時&amp;amp;#12316;翌11時。時間外は有料につき公式HPを御確認下さい</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（2465件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,910〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2909%2F2909.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2909%2F2909.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 一乗院</td>
@@ -390,7 +394,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
                 <td className="p-3 text-stone-600">有り　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（628件）</td>
                 <td className="p-3 font-bold text-rose-600">¥55,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4737%2F4737.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4737%2F4737.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -567,6 +571,9 @@ export default function AutumnBudgetWakayamaHotelsPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-wakayama-castle-momijidani-ramen-hotels-stay" />
+        </div>
 
       </main>
   );

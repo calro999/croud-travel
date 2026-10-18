@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/pure-100-percent-kakenagashi-onsen-stay/" },
-  title: "自家源泉かけ流し100%の宿：加水なし・加温なし・循環なし！本物の名湯 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "自家源泉かけ流し100%の宿：加水なし・加温なし・循環なし！本物の名湯 厳選ガイド",
   description: "温泉通が選ぶ「自家源泉100%完全かけ流し」宿完全特化！加水なし・加温なし・循環ろ過なし・消毒なしの純生温泉。毎分数百リットルの湧出量、湯の花が舞う鮮度抜群の湯口、飲泉許可、湯守のこだわり宿を徹底解説。",
   keywords: ["自家源泉かけ流し100%の宿", "加水なし", "加温なし", "循環なし！本物の名湯", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "自家源泉かけ流し100%の宿：加水なし・加温なし・循環なし！本物の名湯 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "自家源泉かけ流し100%の宿：加水なし・加温なし・循環なし！本物の名湯 厳選ガイド",
     description: "温泉通が選ぶ「自家源泉100%完全かけ流し」宿完全特化！加水なし・加温なし・循環ろ過なし・消毒なしの純生温泉。毎分数百リットルの湧出量、湯の花が舞う鮮度抜群の湯口、飲泉許可、湯守のこだわり宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "自家源泉かけ流し100%の宿：加水なし・加温なし・循環なし！本物の名湯 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "自家源泉かけ流し100%の宿：加水なし・加温なし・循環なし！本物の名湯 厳選ガイド",
     description: "温泉通が選ぶ「自家源泉100%完全かけ流し」宿完全特化！加水なし・加温なし・循環ろ過なし・消毒なしの純生温泉。毎分数百リットルの湧出量、湯の花が舞う鮮度抜群の湯口、飲泉許可、湯守のこだわり宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function HeritageOnsenHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">有り　８０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.5（29件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F135448%2F135448.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F135448%2F135448.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 黒川温泉　いこい旅館</td>
@@ -261,7 +261,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">１５台収容。無料にてご用意致しております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.72（769件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F55943%2F55943.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F55943%2F55943.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 川古温泉　浜屋旅館</td>
@@ -270,7 +270,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4（152件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68654%2F68654.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68654%2F68654.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 沢渡温泉　まるほん旅館</td>
@@ -279,7 +279,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（160件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,850〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108987%2F108987.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108987%2F108987.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 二岐温泉　柏屋旅館</td>
@@ -288,7 +288,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（149件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,650〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F106182%2F106182.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F106182%2F106182.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 塩原温泉　湯守田中屋</td>
@@ -297,7 +297,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">有　30台　無料（車高が低い車や、大型車、車椅子利用時などは事前にご連絡ください）</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（515件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31902%2F31902.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31902%2F31902.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

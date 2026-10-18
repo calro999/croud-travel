@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/okinawa-miyakojima-irabu-kurima-stay/" },
-  title: "沖縄・宮古島＆伊良部島・来間島：宮古ブルー・与那覇前浜＆伊良部大橋・宮古牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "沖縄・宮古島＆伊良部島・来間島：宮古ブルー・与那覇前浜＆伊良部大橋・宮古牛宿 厳選ガイド",
   description: "東洋一の白い砂浜と透き通る宮古ブルー完全特化！東洋一美しい「与那覇前浜ビーチ」、絶景の無料橋「伊良部大橋」、下地島空港17END、来間島竜宮城展望台、シギラセブンマイルズリゾート、最高級宮古牛＆宮古島産マンゴー宿を徹底解説。",
   keywords: ["沖縄", "宮古島", "伊良部島", "来間島", "宮古ブルー", "与那覇前浜", "伊良部大橋"],
   openGraph: {
-    title: "沖縄・宮古島＆伊良部島・来間島：宮古ブルー・与那覇前浜＆伊良部大橋・宮古牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "沖縄・宮古島＆伊良部島・来間島：宮古ブルー・与那覇前浜＆伊良部大橋・宮古牛宿 厳選ガイド",
     description: "東洋一の白い砂浜と透き通る宮古ブルー完全特化！東洋一美しい「与那覇前浜ビーチ」、絶景の無料橋「伊良部大橋」、下地島空港17END、来間島竜宮城展望台、シギラセブンマイルズリゾート、最高級宮古牛＆宮古島産マンゴー宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "沖縄・宮古島＆伊良部島・来間島：宮古ブルー・与那覇前浜＆伊良部大橋・宮古牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "沖縄・宮古島＆伊良部島・来間島：宮古ブルー・与那覇前浜＆伊良部大橋・宮古牛宿 厳選ガイド",
     description: "東洋一の白い砂浜と透き通る宮古ブルー完全特化！東洋一美しい「与那覇前浜ビーチ」、絶景の無料橋「伊良部大橋」、下地島空港17END、来間島竜宮城展望台、シギラセブンマイルズリゾート、最高級宮古牛＆宮古島産マンゴー宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　10台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4（10件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,540〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183727%2F183727.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183727%2F183727.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 下地島コーラルホテル　＜伊良部島＞</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　２０台無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.43（91件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,236〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147595%2F147595.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147595%2F147595.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＨＯＴＥＬ　Ｋｕｕ＜伊良部島＞</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　本館24台、 別館10台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（73件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,850〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183958%2F183958.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183958%2F183958.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテル　サウス　アイランド　＜伊良部島＞</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">★有り★　約10台無料　予約不要！</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（195件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,660〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130627%2F130627.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130627%2F130627.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ウォーターマークホテル沖縄　宮古島＜伊良部島＞</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　50台　1室につき1台無料　（予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（249件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,265〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184118%2F184118.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184118%2F184118.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ｔｈｅ　ｒｅｓｃａｐｅ（ザ・リスケープ）＜宮古島＞</td>
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.68（123件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,220〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F171984%2F171984.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F171984%2F171984.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

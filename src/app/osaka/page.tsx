@@ -28,19 +28,19 @@ interface RakutenCategoryData {
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "大阪観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆梅田・なんば・USJ・道頓堀グルメ・おすすめホテル ｜ 旅宿クラウド",
+  title: "大阪観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆梅田・なんば・USJ・道頓堀グルメ・おすすめホテル",
   description:
     "大阪観光の計画を完全サポート！梅田・なんば・道頓堀・USJ（ユニバーサル・スタジオ・ジャパン）の1泊2日/2泊3日モデルコース、たこ焼き・串カツ食べ歩き、夜景ホテルから駅チカ格安宿までおすすめの宿泊プランまで徹底網羅。",
   keywords: ["大阪観光", "完全計画ガイド", "2026", "1泊2日", "2泊3日モデルコース", "梅田", "なんば"],
   alternates: { canonical: "https://croud-travel.pages.dev/osaka/" },
   openGraph: {
-    title: "大阪観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆梅田・なんば・USJ・道頓堀グルメ・おすすめホテル ｜ 旅宿クラウド",
+    title: "大阪観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆梅田・なんば・USJ・道頓堀グルメ・おすすめホテル",
     description: "大阪観光の計画を完全サポート！梅田・なんば・道頓堀・USJ（ユニバーサル・スタジオ・ジャパン）の1泊2日/2泊3日モデルコース、たこ焼き・串カツ食べ歩き、夜景ホテルから駅チカ格安宿までおすすめの宿泊プランまで徹底網羅。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "大阪観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆梅田・なんば・USJ・道頓堀グルメ・おすすめホテル ｜ 旅宿クラウド",
+    title: "大阪観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆梅田・なんば・USJ・道頓堀グルメ・おすすめホテル",
     description: "大阪観光の計画を完全サポート！梅田・なんば・道頓堀・USJ（ユニバーサル・スタジオ・ジャパン）の1泊2日/2泊3日モデルコース、たこ焼き・串カツ食べ歩き、夜景ホテルから駅チカ格安宿までおすすめの宿泊プランまで徹底網羅。",
   }
 };
@@ -90,7 +90,7 @@ export default function OsakaHubPage() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/prefectures/osaka" className="hover:text-teal-800 transition">大阪府</Link>
+        <Link href="/prefectures/osaka/" className="hover:text-teal-800 transition">大阪府</Link>
         <span>/</span>
         <span className="text-emerald-950 font-bold">大阪観光 完全ガイド</span>
       </nav>
@@ -148,7 +148,7 @@ export default function OsakaHubPage() {
                   </div>
                 </div>
                 <div className="p-4 pt-0">
-                  <a href={hotel.affiliateUrl} target="_blank" rel="noopener noreferrer" className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-rose-700 to-rose-800 hover:from-rose-600 hover:to-rose-700 rounded-xl shadow transition">
+                  <a href={hotel.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer" className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-rose-700 to-rose-800 hover:from-rose-600 hover:to-rose-700 rounded-xl shadow transition">
                     ✈️ 楽天トラベルで空室・プランを見る
                   </a>
                 </div>
@@ -188,7 +188,7 @@ export default function OsakaHubPage() {
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（255件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,610〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184013%2F184013.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184013%2F184013.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 梅田ホリックホテル</td>
@@ -197,7 +197,7 @@ export default function OsakaHubPage() {
                 <td className="p-3 text-stone-600">有り　4台　2,000円／日 （先着順）※ご宿泊以外に関しましてはホテルにお問合せください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（363件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181504%2F181504.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181504%2F181504.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルビナリオ梅田</td>
@@ -206,7 +206,7 @@ export default function OsakaHubPage() {
                 <td className="p-3 text-stone-600">先着順24時間1500円(高155cm幅185㎝長505㎝重1.6ｔ未満)入出庫7：00～22：00</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（3834件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,760〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1210%2F1210.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1210%2F1210.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アパホテル〈新大阪駅前タワー〉</td>
@@ -215,7 +215,7 @@ export default function OsakaHubPage() {
                 <td className="p-3 text-stone-600">￥2,000（税込）／泊　宿泊者専用。台数 16台。（先着順）　入出庫不可時間 22時～翌朝7時</td>
                 <td className="p-3 font-bold text-amber-600">★4.1（1400件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,960〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182440%2F182440.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182440%2F182440.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルジオメティック大阪梅田，ａｎ　Ａｓｃｅｎｄ　Ｃｏｌｌｅｃｔｉｏｎ　Ｈｏｔｅｌ</td>
@@ -224,7 +224,7 @@ export default function OsakaHubPage() {
                 <td className="p-3 text-stone-600">なし</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（117件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,725〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F198933%2F198933.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F198933%2F198933.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ハートンホテル西梅田</td>
@@ -233,7 +233,7 @@ export default function OsakaHubPage() {
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（7434件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,960〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1008%2F1008.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1008%2F1008.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

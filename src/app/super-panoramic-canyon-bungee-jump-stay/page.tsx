@@ -420,25 +420,25 @@ export default function FeaturePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kagawa"
+                href="/prefectures/kagawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 香川県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/mie"
+                href="/prefectures/mie/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 三重県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/osaka"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagoshima"
+                href="/prefectures/kagoshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 鹿児島県の宿・温泉

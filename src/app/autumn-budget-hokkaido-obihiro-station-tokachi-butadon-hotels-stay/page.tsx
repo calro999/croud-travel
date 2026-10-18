@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetHotelsPage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"帯広駅前：ばんえい十勝の迫力＆名物十勝豚丼・モール温泉！3,000円台〜泊まれる格安ホテル5選\",\"description\":\"世界唯一のばんえい競馬・帯広競馬場の秋の熱気！秘湯・植物性天然モール温泉、炭火の香ばしさと甘辛タレが絶品の名物十勝豚丼や六花亭スイーツ。JR根室本線・帯広駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-obihiro-station-tokachi-butadon-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"帯広駅前：ばんえい十勝の迫力＆名物十勝豚丼・モール温泉！3,000円台〜泊まれる格安ホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-obihiro-station-tokachi-butadon-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"帯広駅前：ばんえい十勝の迫力＆名物十勝豚丼・モール温泉！3,000円台〜泊まれる格安ホテル5選\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"開拓時代の農耕馬の歴史を伝える鉄ソリレース・秋のナイター競馬の白熱\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-obihiro-station-tokachi-butadon-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"平日泊で更なる割引\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-obihiro-station-tokachi-butadon-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"直前割＆早割を活用\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-obihiro-station-tokachi-butadon-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"浮いた予算で旬の味覚\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-obihiro-station-tokachi-butadon-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"ホテル法華クラブ函館\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-obihiro-station-tokachi-butadon-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"ＡＮＡクラウンプラザホテル札幌　ｂｙ　ＩＨＧ\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-obihiro-station-tokachi-butadon-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"旭川トーヨーホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-obihiro-station-tokachi-butadon-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"備長炭の湯　ホテルクラウンヒルズ釧路駅前（ＢＢＨホテルグループ）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-obihiro-station-tokachi-butadon-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"薬湯風呂　ホテルグランテラス帯広（ＢＢＨホテルグループ）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-obihiro-station-tokachi-butadon-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"函館山（夜景）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-obihiro-station-tokachi-butadon-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -149,7 +153,7 @@ export default function AutumnBudgetHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70757%2F70757.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-2 py-3 px-6 bg-gradient-to-r from-rose-500 to-rose-600 hover:from-rose-600 hover:to-rose-700 text-white font-bold rounded-xl shadow-sm hover:shadow transition"
               >
                 <span>楽天トラベルで最安プランをチェック</span>
@@ -205,7 +209,7 @@ export default function AutumnBudgetHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147515%2F147515.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-2 py-3 px-6 bg-gradient-to-r from-rose-500 to-rose-600 hover:from-rose-600 hover:to-rose-700 text-white font-bold rounded-xl shadow-sm hover:shadow transition"
               >
                 <span>楽天トラベルで最安プランをチェック</span>
@@ -261,7 +265,7 @@ export default function AutumnBudgetHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F193233%2F193233.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-2 py-3 px-6 bg-gradient-to-r from-rose-500 to-rose-600 hover:from-rose-600 hover:to-rose-700 text-white font-bold rounded-xl shadow-sm hover:shadow transition"
               >
                 <span>楽天トラベルで最安プランをチェック</span>
@@ -317,7 +321,7 @@ export default function AutumnBudgetHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50752%2F50752.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-2 py-3 px-6 bg-gradient-to-r from-rose-500 to-rose-600 hover:from-rose-600 hover:to-rose-700 text-white font-bold rounded-xl shadow-sm hover:shadow transition"
               >
                 <span>楽天トラベルで最安プランをチェック</span>
@@ -373,7 +377,7 @@ export default function AutumnBudgetHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17944%2F17944.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-2 py-3 px-6 bg-gradient-to-r from-rose-500 to-rose-600 hover:from-rose-600 hover:to-rose-700 text-white font-bold rounded-xl shadow-sm hover:shadow transition"
               >
                 <span>楽天トラベルで最安プランをチェック</span>
@@ -449,7 +453,7 @@ export default function AutumnBudgetHotelsPage() {
                 <td className="p-3 text-stone-600">◆1泊 800円（先着順）地下（10台）屋外（40台）※バイク500円　バス・トラック2400円</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（3179件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F126%2F126.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F126%2F126.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＡＮＡクラウンプラザホテル札幌　ｂｙ　ＩＨＧ</td>
@@ -458,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <td className="p-3 text-stone-600">79台収容（1泊￥2,000/地下駐車場：車高1.9m迄/国道5号線北方面沿い）</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（4655件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F169%2F169.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F169%2F169.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 旭川トーヨーホテル</td>
@@ -467,7 +471,7 @@ export default function AutumnBudgetHotelsPage() {
                 <td className="p-3 text-stone-600">提携駐車場含めて100台収容（１泊800円）ページ内に「駐車場」案内有り</td>
                 <td className="p-3 font-bold text-amber-600">★3.67（3178件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F238%2F238.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F238%2F238.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 備長炭の湯　ホテルクラウンヒルズ釧路駅前（ＢＢＨホテルグループ）</td>
@@ -476,7 +480,7 @@ export default function AutumnBudgetHotelsPage() {
                 <td className="p-3 text-stone-600">１泊 ５００円（先着順・ご予約不可）連泊中も先着順での対応でございます。ご了承くださいませ。</td>
                 <td className="p-3 font-bold text-amber-600">★3.74（2125件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,080〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F499%2F499.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F499%2F499.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 薬湯風呂　ホテルグランテラス帯広（ＢＢＨホテルグループ）</td>
@@ -485,7 +489,7 @@ export default function AutumnBudgetHotelsPage() {
                 <td className="p-3 text-stone-600">ホテル駐車場＆提携駐車場（徒歩10分圏内）合わせて約100台収容可！【先着順】1泊700円</td>
                 <td className="p-3 font-bold text-amber-600">★3.95（2341件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,375〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F500%2F500.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F500%2F500.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -662,6 +666,9 @@ export default function AutumnBudgetHotelsPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-hokkaido-obihiro-station-tokachi-butadon-hotels-stay" />
+        </div>
 
       </main>
   );

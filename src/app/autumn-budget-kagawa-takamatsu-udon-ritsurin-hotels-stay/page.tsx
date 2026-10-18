@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetTakamatsuHotelsPage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"高松：秋の讃岐うどん巡り＆栗林公園紅葉！3,000円台〜泊まれる格安ホテル5選\",\"description\":\"いりこ出汁が染みる本場の讃岐うどんハシゴ旅と、一歩一景の美を誇る大名庭園・栗林公園の秋紅葉！高松駅・瓦町周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kagawa-takamatsu-udon-ritsurin-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"高松：秋の讃岐うどん巡り＆栗林公園紅葉！3,000円台〜泊まれる格安ホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-kagawa-takamatsu-udon-ritsurin-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"高松：秋の讃岐うどん巡り＆栗林公園紅葉！3,000円台〜泊まれる格安ホテル5選\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"大名庭園の最高峰・紫雲山を借景にした錦秋の絵巻\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kagawa-takamatsu-udon-ritsurin-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ホテルエリアワン高松シティ（ホテルエリアワングループ）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kagawa-takamatsu-udon-ritsurin-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"高松国際ホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kagawa-takamatsu-udon-ritsurin-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"リーガホテルゼスト高松\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kagawa-takamatsu-udon-ritsurin-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"天然温泉　讃岐の湯　スーパーホテル高松・田町\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kagawa-takamatsu-udon-ritsurin-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"ＫＯＫＯ　ＨＯＴＥＬ　高松\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kagawa-takamatsu-udon-ritsurin-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"栗林公園（りつりんこうえん）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kagawa-takamatsu-udon-ritsurin-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"金刀比羅宮（こんぴらさん）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kagawa-takamatsu-udon-ritsurin-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"小豆島（エンジェルロード・オリーブ公園）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kagawa-takamatsu-udon-ritsurin-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"直島（現代アートの島）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kagawa-takamatsu-udon-ritsurin-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -149,7 +153,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183326%2F183326.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -204,7 +208,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13730%2F13730.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -259,7 +263,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8869%2F8869.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -314,7 +318,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50215%2F50215.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -369,7 +373,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181859%2F181859.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -429,7 +433,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 <td className="p-3 text-stone-600">提携駐車場有　【丸亀町壱番街駐車場／香川県高松市内町2‐1】　1泊1,000円　※予約不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.02（1178件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183326%2F183326.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183326%2F183326.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 高松国際ホテル</td>
@@ -438,7 +442,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 <td className="p-3 text-stone-600">【無料】平面駐車場200台　大型バス/トラック可　車で高松駅・サンメッセ15分、高松中央IC10分</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（3248件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13730%2F13730.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13730%2F13730.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. リーガホテルゼスト高松</td>
@@ -447,7 +451,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 <td className="p-3 text-stone-600">立体駐車場タワーパーキング30台　￥1,200（税込／泊）</td>
                 <td className="p-3 font-bold text-amber-600">★4.05（2056件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8869%2F8869.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8869%2F8869.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 天然温泉　讃岐の湯　スーパーホテル高松・田町</td>
@@ -456,7 +460,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 <td className="p-3 text-stone-600">提携Ｐ田町駐車場 ℡087-831-5590 立体・平面1泊1000円先着順（7：30～24：00）</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（3545件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,240〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50215%2F50215.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50215%2F50215.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＫＯＫＯ　ＨＯＴＥＬ　高松</td>
@@ -465,7 +469,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 <td className="p-3 text-stone-600">なし。徒歩圏内に提携駐車場あり(予約不可)。フロントにて割引券販売 ※途中出庫不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（558件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,160〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181859%2F181859.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181859%2F181859.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -642,6 +646,9 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-kagawa-takamatsu-udon-ritsurin-hotels-stay" />
+        </div>
 
       </main>
   );

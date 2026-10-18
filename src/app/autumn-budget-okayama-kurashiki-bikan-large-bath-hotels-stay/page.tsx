@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の倉敷美観地区×格安：白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」',
     description: '白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強倉敷ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-budget-okayama-kurashiki-bikan-large-bath-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-okayama-kurashiki-bikan-large-bath-hotels-stay',
   }
 };
 
 export default function KurashikiBudgetAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の倉敷美観地区×格安：白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」\",\"description\":\"倉敷川沿いの柳並木と紅葉のコントラスト、レトロな白壁の町並み散策！名物ぶっかけうどんや岡山フルーツパフェを満喫。大浴場や天然温泉付きで1泊4,000円〜7,000円台で泊まれる倉敷のコスパ最強ホテル5選。ロイヤルパークホテル倉敷、ドーミーイン倉敷などを徹底比較！\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okayama-kurashiki-bikan-large-bath-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の倉敷美観地区×格安：白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-okayama-kurashiki-bikan-large-bath-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の倉敷美観地区×格安：白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」\",\"numberOfItems\":9,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"たびのホテル倉敷水島\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okayama-kurashiki-bikan-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ホテル　グラン・ココエ倉敷\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okayama-kurashiki-bikan-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"岡山ビューホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okayama-kurashiki-bikan-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"倉敷シーサイドホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okayama-kurashiki-bikan-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"ホテルグランヴィア岡山\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okayama-kurashiki-bikan-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"倉敷美観地区\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okayama-kurashiki-bikan-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"岡山後楽園\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okayama-kurashiki-bikan-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"国宝 岡山城（烏城）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okayama-kurashiki-bikan-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"瀬戸大橋（鷲羽山）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okayama-kurashiki-bikan-large-bath-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/181244/181244.jpg"
@@ -142,7 +146,7 @@ export default function KurashikiBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F80773%2F80773.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function KurashikiBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178392%2F178392.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function KurashikiBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181244%2F181244.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function KurashikiBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182714%2F182714.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function KurashikiBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72042%2F72042.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function KurashikiBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">施設内、隣地に合計120台分の無料駐車場有（トラック・バス等の大型車は有料2000円／泊・要予約）</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（837件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,180〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178392%2F178392.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178392%2F178392.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル　グラン・ココエ倉敷</td>
@@ -396,7 +400,7 @@ export default function KurashikiBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">◆駐車場なし　近隣駐車場：市営あちてらす倉敷駐車場（ホテルから徒歩２分）1２時間830円</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（968件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182714%2F182714.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182714%2F182714.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 岡山ビューホテル</td>
@@ -405,7 +409,7 @@ export default function KurashikiBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">ホテル１Ｆ(フロントは2F)　約20台収容　一泊800~1000円　高さ2.5m迄2t車も可　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（2550件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F684%2F684.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F684%2F684.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 倉敷シーサイドホテル</td>
@@ -414,7 +418,7 @@ export default function KurashikiBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（1646件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F799%2F799.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F799%2F799.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルグランヴィア岡山</td>
@@ -423,7 +427,7 @@ export default function KurashikiBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">ホテル地下に有り　171台　24時間1,300円　事前予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（6596件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,450〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F822%2F822.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F822%2F822.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -600,6 +604,9 @@ export default function KurashikiBudgetAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-okayama-kurashiki-bikan-large-bath-hotels-stay" />
+        </div>
 
       </article>
   );

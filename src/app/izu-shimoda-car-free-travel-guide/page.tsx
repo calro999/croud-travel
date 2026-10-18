@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/izu-shimoda-car-free-travel-guide/" },
-  title: "伊豆・下田 車なし観光 1泊2日モデルコース：伊豆急行＆路線バスで巡る白浜海岸・ペリーロード・金目鯛旅 ｜ 日本全国・旅宿クラウド",
+  title: "伊豆・下田 車なし観光 1泊2日モデルコース：伊豆急行＆路線バスで巡る白浜海岸・ペリーロード・金目鯛旅",
   description: "レンタカーなしで楽しむ伊豆急下田の旅！特急踊り子直通、伊豆急行フリーきっぷ、東海バスを活用して白浜大浜海岸、ペリーロードのレトロカフェ、下田海中水族館、駅前＆海一望の温泉宿を満喫する完全ガイド。",
   keywords: ["伊豆", "下田", "車なし観光", "1泊2日モデルコース", "伊豆急行", "路線バスで巡る白浜海岸", "ペリーロード"],
   openGraph: {
-    title: "伊豆・下田 車なし観光 1泊2日モデルコース：伊豆急行＆路線バスで巡る白浜海岸・ペリーロード・金目鯛旅 ｜ 日本全国・旅宿クラウド",
+    title: "伊豆・下田 車なし観光 1泊2日モデルコース：伊豆急行＆路線バスで巡る白浜海岸・ペリーロード・金目鯛旅",
     description: "レンタカーなしで楽しむ伊豆急下田の旅！特急踊り子直通、伊豆急行フリーきっぷ、東海バスを活用して白浜大浜海岸、ペリーロードのレトロカフェ、下田海中水族館、駅前＆海一望の温泉宿を満喫する完全ガイド。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "伊豆・下田 車なし観光 1泊2日モデルコース：伊豆急行＆路線バスで巡る白浜海岸・ペリーロード・金目鯛旅 ｜ 日本全国・旅宿クラウド",
+    title: "伊豆・下田 車なし観光 1泊2日モデルコース：伊豆急行＆路線バスで巡る白浜海岸・ペリーロード・金目鯛旅",
     description: "レンタカーなしで楽しむ伊豆急下田の旅！特急踊り子直通、伊豆急行フリーきっぷ、東海バスを活用して白浜大浜海岸、ペリーロードのレトロカフェ、下田海中水族館、駅前＆海一望の温泉宿を満喫する完全ガイド。",
   }
 };
@@ -368,7 +368,7 @@ export default function IzuShimodaCarFreeTravelGuidePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fcoupon%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-500 hover:to-rose-500 text-white font-black text-xs px-4 py-2.5 rounded-xl shadow-md transition shrink-0"
           >
             <span>🎟️</span> 楽天トラベル温泉宿クーポンを獲得する
@@ -453,7 +453,7 @@ export default function IzuShimodaCarFreeTravelGuidePage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full block text-center bg-gradient-to-r from-cyan-600 to-blue-600 hover:from-cyan-500 hover:to-blue-500 text-white font-black text-sm py-3 px-4 rounded-xl shadow-md transition-all group-hover:shadow-cyan-200"
                     >
                       楽天トラベルでプラン空室を見る ➜

@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '冬の贅沢の極み！本場下関の天然とらふぐ刺し・白子焼き・ひれ酒を堪能する名宿 ｜ 日本全国・旅宿クラウド',
+  title: '冬の贅沢の極み！本場下関の天然とらふぐ刺し・白子焼き・ひれ酒を堪能する名宿',
   description: '下関・臼杵・日間賀島など本場のとらふぐを贅沢に味わい尽くす冬の温泉旅。皿が透けるほど美しいふぐ刺し（てっさ）、香ばしい焼き白子とひれ酒。',
   keywords: ["白子焼き", "ひれ酒を堪能する名宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fugu-pufferfish-gourmet-onsen-stay/",
   },
   openGraph: {
-    title: '冬の贅沢の極み！本場下関の天然とらふぐ刺し・白子焼き・ひれ酒を堪能する名宿 ｜ 日本全国・旅宿クラウド',
+    title: '冬の贅沢の極み！本場下関の天然とらふぐ刺し・白子焼き・ひれ酒を堪能する名宿',
     description: '下関・臼杵・日間賀島など本場のとらふぐを贅沢に味わい尽くす冬の温泉旅。皿が透けるほど美しいふぐ刺し（てっさ）、香ばしい焼き白子とひれ酒。',
     url: 'https://croud-travel.pages.dev/winter-fugu-pufferfish-gourmet-onsen-stay',
     siteName: '日本全国・旅宿クラウド',
@@ -239,7 +239,7 @@ export default function Page() {
                       <a
                         href={h.affiliateUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-block w-full sm:w-auto text-center px-6 py-3.5 bg-gradient-to-r from-amber-600 via-amber-700 to-amber-800 hover:from-amber-500 hover:to-amber-700 text-white font-black text-xs md:text-sm rounded-2xl shadow-md transition transform hover:-translate-y-0.5"
                       >
                         ✈️ {h.hotelName} の最新空室＆宿泊プランを見る
@@ -319,7 +319,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">60台（無料）／予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（5230件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54096%2F54096.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54096%2F54096.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 宮島グランドホテル　有もと</td>
@@ -328,7 +328,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り　５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（1299件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,050〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18848%2F18848.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18848%2F18848.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. リーガロイヤルホテル広島</td>
@@ -337,7 +337,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">1泊1台3000円　15:00-翌11:00以外の時間 追加料金250円/30分</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（7554件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,970〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109%2F109.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109%2F109.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. オリエンタルホテル広島</td>
@@ -346,7 +346,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">先着順（予約不可）／1泊1,800円／高さ制限1.55mまで</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（4890件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,397〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F428%2F428.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F428%2F428.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 尾道国際ホテル</td>
@@ -355,7 +355,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り／駐車料金無料（チェックイン日15:00～翌11:00）／先着順／大型車は有料で要予約</td>
                 <td className="p-3 font-bold text-amber-600">★3.99（827件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F470%2F470.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F470%2F470.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

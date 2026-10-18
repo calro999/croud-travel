@@ -227,7 +227,7 @@ export default function OkinawaTravelBudgetPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center bg-orange-500 hover:bg-orange-600 text-white text-xs font-bold py-2.5 rounded-xl transition"
                   >
                     空室・プランを見る
@@ -275,7 +275,7 @@ export default function OkinawaTravelBudgetPage() {
                 <td className="p-3 text-stone-600">立体駐車場36台（内ハイルーフ8台）／1,500円税込（1泊：14時〜翌11時）／先着順（予約不可）</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（1605件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,037〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104526%2F104526.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104526%2F104526.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＢＬＩＳＳＴＩＡ　ＳＵＩＴＥＳ＆ＲＥＳＯＲＴ　沖縄恩納村（２０２６年７月１５日開業）</td>
@@ -284,7 +284,7 @@ export default function OkinawaTravelBudgetPage() {
                 <td className="p-3 text-stone-600">あり　124台　１泊１台1,000円（最大2,000円）　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（41件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F198402%2F198402.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F198402%2F198402.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 綺麗な海Ｖｉｌｌａ　オーシャンビュー～広々一軒家貸切３００ｍ２沖縄屈指のリゾートエリア恩納村　＾</td>
@@ -293,7 +293,7 @@ export default function OkinawaTravelBudgetPage() {
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F173949%2F173949.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F173949%2F173949.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ブルーシャローズ恩納村リゾート</td>
@@ -302,7 +302,7 @@ export default function OkinawaTravelBudgetPage() {
                 <td className="p-3 text-stone-600">有り　２台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥8,070〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F191787%2F191787.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F191787%2F191787.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 琉球オリオンホテル　那覇国際通り（旧：オリオンホテル那覇）</td>
@@ -311,7 +311,7 @@ export default function OkinawaTravelBudgetPage() {
                 <td className="p-3 text-stone-600">有り（先着順）　1泊1台1,500円</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（837件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2906%2F2906.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2906%2F2906.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ワイズキャビン＆ホテル那覇国際通り</td>
@@ -320,7 +320,7 @@ export default function OkinawaTravelBudgetPage() {
                 <td className="p-3 text-stone-600">有＊予約制＊1泊1,000円(税込)、2026年2月から￥1200円に改定</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（738件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,975〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166949%2F166949.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166949%2F166949.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

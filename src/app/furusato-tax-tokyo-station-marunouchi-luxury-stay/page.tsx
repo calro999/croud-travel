@@ -39,8 +39,8 @@ export default function FurusatoArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: 'T01:00:00+09:00',
-    dateModified: 'T01:00:00+09:00',
+    datePublished: '2026-10-18T01:00:00+09:00',
+    dateModified: '2026-10-19T01:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-tokyo-station-marunouchi-luxury-stay',
   };
 
@@ -216,7 +216,7 @@ export default function FurusatoArticlePage() {
                 <a
                   href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137869%2F137869.html"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="sponsored noopener noreferrer"
                   className="block w-full text-center bg-gradient-to-r from-amber-700 to-amber-900 hover:from-amber-800 hover:to-stone-900 text-white font-bold py-3.5 px-6 rounded-xl shadow transition"
                 >
                   【楽天トラベル】東京ステーションホテル の宿泊プランとクーポン適用はこちら →
@@ -300,7 +300,7 @@ export default function FurusatoArticlePage() {
                 <a
                   href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184685%2F184685.html"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="sponsored noopener noreferrer"
                   className="block w-full text-center bg-gradient-to-r from-amber-700 to-amber-900 hover:from-amber-800 hover:to-stone-900 text-white font-bold py-3.5 px-6 rounded-xl shadow transition"
                 >
                   【楽天トラベル】パレスホテル東京 の宿泊プランとクーポン適用はこちら →
@@ -384,7 +384,7 @@ export default function FurusatoArticlePage() {
                 <a
                   href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28576%2F28576.html"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="sponsored noopener noreferrer"
                   className="block w-full text-center bg-gradient-to-r from-amber-700 to-amber-900 hover:from-amber-800 hover:to-stone-900 text-white font-bold py-3.5 px-6 rounded-xl shadow transition"
                 >
                   【楽天トラベル】帝国ホテル東京 の宿泊プランとクーポン適用はこちら →
@@ -475,7 +475,7 @@ export default function FurusatoArticlePage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="inline-flex items-center gap-2 bg-gradient-to-r from-red-500 to-amber-500 text-white font-extrabold px-8 py-3.5 rounded-xl shadow-lg hover:opacity-95 transition"
             >
               <span>楽天ふるさと納税トラベルクーポンを獲得する</span>
@@ -616,25 +616,25 @@ export default function FurusatoArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/ibaraki"
+                href="/prefectures/ibaraki/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 茨城県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/mie"
+                href="/prefectures/mie/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 三重県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/toyama"
+                href="/prefectures/toyama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 富山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/miyagi"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 宮城県の宿・温泉

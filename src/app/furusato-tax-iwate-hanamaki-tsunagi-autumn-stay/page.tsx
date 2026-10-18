@@ -5,7 +5,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '岩手・花巻温泉郷＆盛岡つなぎ温泉！奥羽山脈の紅葉渓谷と前沢牛・いわて牛 | クラウドトラベルふるさと納税',
+  title: '岩手・花巻温泉郷＆盛岡つなぎ温泉！奥羽山脈の紅葉渓谷と前沢牛・いわて牛',
   description: '10月・11月の岩手・花巻温泉郷＆盛岡つなぎ温泉を特集。宮沢賢治ゆかりのイーハトーブの山々が黄金色に染まる紅葉絶景、12の個性豊かな名湯、前沢牛や白金豚を堪能できる厳選3宿と楽天ふるさと納税の活用術をご紹介。',
   keywords: ["岩手", "花巻温泉郷", "いわて牛", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
@@ -225,7 +225,7 @@ export default function Page() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13482%2F13482.html"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="inline-flex items-center justify-center w-full md:w-auto px-6 py-3 bg-gradient-to-r from-red-600 to-amber-600 hover:from-red-700 hover:to-amber-700 text-white font-bold rounded-lg shadow-md transition text-sm text-center"
             >
               楽天トラベルで空室・プラン・ふるさと納税クーポンを見る →
@@ -275,7 +275,7 @@ export default function Page() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13483%2F13483.html"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="inline-flex items-center justify-center w-full md:w-auto px-6 py-3 bg-gradient-to-r from-red-600 to-amber-600 hover:from-red-700 hover:to-amber-700 text-white font-bold rounded-lg shadow-md transition text-sm text-center"
             >
               楽天トラベルで空室・プラン・ふるさと納税クーポンを見る →
@@ -325,7 +325,7 @@ export default function Page() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10689%2F10689.html"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="inline-flex items-center justify-center w-full md:w-auto px-6 py-3 bg-gradient-to-r from-red-600 to-amber-600 hover:from-red-700 hover:to-amber-700 text-white font-bold rounded-lg shadow-md transition text-sm text-center"
             >
               楽天トラベルで空室・プラン・ふるさと納税クーポンを見る →
@@ -485,25 +485,25 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/fukui"
+                href="/prefectures/fukui/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 福井県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukuoka"
+                href="/prefectures/fukuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 福岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/saitama"
+                href="/prefectures/saitama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 埼玉県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/toyama"
+                href="/prefectures/toyama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 富山県の宿・温泉
@@ -548,7 +548,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り　30台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.69（1120件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13482%2F13482.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13482%2F13482.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 花巻温泉　ホテル紅葉館</td>
@@ -557,7 +557,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り　600台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（3653件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13483%2F13483.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13483%2F13483.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 花巻温泉　割烹旅館　廣美亭</td>
@@ -566,7 +566,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り　２０台　先着順　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（328件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10689%2F10689.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10689%2F10689.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

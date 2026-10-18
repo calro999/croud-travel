@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の伊豆・修善寺温泉：竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選「2026最新」',
     description: '「伊豆の小京都」修善寺温泉の竹林の小径と桂川に架かる朱塗りの橋を彩る鮮やかな紅葉。歴史薫る名旅館5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay',
   }
 };
 
 export default function IzuShuzenjiAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の伊豆・修善寺温泉：竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選「2026最新」\",\"description\":\"「伊豆の小京都」修善寺温泉の竹林の小径と桂川に架かる朱塗りの橋を彩る鮮やかな紅葉。文化財の老舗宿や野趣あふれる離れ宿など厳選5宿をご紹介。柳生の庄、宙SORA、新井旅館の魅力を徹底比較！\",\"url\":\"https://croud-travel.pages.dev/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の伊豆・修善寺温泉：竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の伊豆・修善寺温泉：竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選「2026最新」\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"修善寺温泉の秋の過ごし方\",\"url\":\"https://croud-travel.pages.dev/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"修善寺温泉　宙ＳＯＲＡ　渡月荘金龍\",\"url\":\"https://croud-travel.pages.dev/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"修善寺温泉　柳生の庄\",\"url\":\"https://croud-travel.pages.dev/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"修善寺温泉　国の登録文化財の宿　新井旅館\",\"url\":\"https://croud-travel.pages.dev/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"修善寺温泉　五葉館\",\"url\":\"https://croud-travel.pages.dev/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"湯めぐりの宿　修善寺温泉　桂川（共立リゾート）\",\"url\":\"https://croud-travel.pages.dev/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"三島スカイウォーク\",\"url\":\"https://croud-travel.pages.dev/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"熱海温泉・サンビーチ\",\"url\":\"https://croud-travel.pages.dev/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"伊豆シャボテン動物公園\",\"url\":\"https://croud-travel.pages.dev/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"白糸の滝\",\"url\":\"https://croud-travel.pages.dev/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/27983/27983.jpg"
@@ -142,7 +146,7 @@ export default function IzuShuzenjiAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72797%2F72797.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function IzuShuzenjiAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F27983%2F27983.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function IzuShuzenjiAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31865%2F31865.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function IzuShuzenjiAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130639%2F130639.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function IzuShuzenjiAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1645%2F1645.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function IzuShuzenjiAutumnPage() {
                 <td className="p-3 text-stone-600">有り　４０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.66（614件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F27983%2F27983.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F27983%2F27983.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 修善寺温泉　柳生の庄</td>
@@ -396,7 +400,7 @@ export default function IzuShuzenjiAutumnPage() {
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★5（36件）</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72797%2F72797.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72797%2F72797.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 修善寺温泉　国の登録文化財の宿　新井旅館</td>
@@ -405,7 +409,7 @@ export default function IzuShuzenjiAutumnPage() {
                 <td className="p-3 text-stone-600">あり　40台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（267件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,420〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31865%2F31865.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31865%2F31865.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 修善寺温泉　五葉館</td>
@@ -414,7 +418,7 @@ export default function IzuShuzenjiAutumnPage() {
                 <td className="p-3 text-stone-600">有り　１５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（125件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,740〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130639%2F130639.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130639%2F130639.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 湯めぐりの宿　修善寺温泉　桂川（共立リゾート）</td>
@@ -423,7 +427,7 @@ export default function IzuShuzenjiAutumnPage() {
                 <td className="p-3 text-stone-600">有り　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（1944件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1645%2F1645.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1645%2F1645.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -600,6 +604,9 @@ export default function IzuShuzenjiAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay" />
+        </div>
 
       </article>
   );

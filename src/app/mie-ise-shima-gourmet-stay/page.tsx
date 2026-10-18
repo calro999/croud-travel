@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/mie-ise-shima-gourmet-stay/" },
-  title: "三重・伊勢志摩：お伊勢参り＆伊勢海老・的矢かき極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "三重・伊勢志摩：お伊勢参り＆伊勢海老・的矢かき極上宿 厳選ガイド",
   description: "伊勢神宮・鳥羽志摩エリア完全特化！内宮・外宮の両参り、おかげ横丁食べ歩き、英虞湾パノラマと、本場伊勢海老・松阪牛・的矢かきを堪能する名宿を徹底解説。",
   keywords: ["三重", "伊勢志摩", "お伊勢参り", "伊勢海老", "的矢かき極上宿", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "三重・伊勢志摩：お伊勢参り＆伊勢海老・的矢かき極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "三重・伊勢志摩：お伊勢参り＆伊勢海老・的矢かき極上宿 厳選ガイド",
     description: "伊勢神宮・鳥羽志摩エリア完全特化！内宮・外宮の両参り、おかげ横丁食べ歩き、英虞湾パノラマと、本場伊勢海老・松阪牛・的矢かきを堪能する名宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "三重・伊勢志摩：お伊勢参り＆伊勢海老・的矢かき極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "三重・伊勢志摩：お伊勢参り＆伊勢海老・的矢かき極上宿 厳選ガイド",
     description: "伊勢神宮・鳥羽志摩エリア完全特化！内宮・外宮の両参り、おかげ横丁食べ歩き、英虞湾パノラマと、本場伊勢海老・松阪牛・的矢かきを堪能する名宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">35台（無料、先着順、予約不可）※チェックアウト後の駐車不可</td>
                 <td className="p-3 font-bold text-amber-600">★3.61（3078件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,650〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F740%2F740.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F740%2F740.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルキャッスルイン伊勢夫婦岩（旧：ホテルリゾートイン二見）</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　無料の自走式平面駐車場80台</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（2293件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40176%2F40176.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40176%2F40176.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルキャッスルイン伊勢</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　120台　無料　大型の場合、お電話で問い合わせ下さい</td>
                 <td className="p-3 font-bold text-amber-600">★3.75（2925件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,704〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1360%2F1360.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1360%2F1360.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテル　キャッスルイン津</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">無料駐車場80台。ご利用は先着順となります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.11（1474件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,688〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F43998%2F43998.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F43998%2F43998.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 鳥羽ビューホテル　花真珠</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　50台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（1717件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,884〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15548%2F15548.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15548%2F15548.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. おもてなし処　龍宮之宿（旧　伊良湖リゾートホテル　龍宮之宿）</td>
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　30台　無料　(正面駐車場が満車の際は、建物すぐ裏の駐車場をご利用くださいませ。)</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（186件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5889%2F5889.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5889%2F5889.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

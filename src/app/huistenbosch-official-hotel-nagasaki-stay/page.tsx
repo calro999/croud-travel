@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/huistenbosch-official-hotel-nagasaki-stay/" },
-  title: "ハウステンボス直営＆オフィシャルホテル：ヨーロッパの街並み＆イルミネーション宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "ハウステンボス直営＆オフィシャルホテル：ヨーロッパの街並み＆イルミネーション宿 厳選ガイド",
   description: "日本一の広さを誇るテーマパーク完全特化！長崎ハウステンボス直営・オフィシャルホテル！パーク内運河に佇む「ホテルヨーロッパ」、場内唯一の天然温泉宿、1300万球の光の王国イルミネーション確約ビューホテルを徹底解説。",
   keywords: ["ハウステンボス直営", "オフィシャルホテル", "ヨーロッパの街並み", "イルミネーション宿", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "ハウステンボス直営＆オフィシャルホテル：ヨーロッパの街並み＆イルミネーション宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "ハウステンボス直営＆オフィシャルホテル：ヨーロッパの街並み＆イルミネーション宿 厳選ガイド",
     description: "日本一の広さを誇るテーマパーク完全特化！長崎ハウステンボス直営・オフィシャルホテル！パーク内運河に佇む「ホテルヨーロッパ」、場内唯一の天然温泉宿、1300万球の光の王国イルミネーション確約ビューホテルを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "ハウステンボス直営＆オフィシャルホテル：ヨーロッパの街並み＆イルミネーション宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "ハウステンボス直営＆オフィシャルホテル：ヨーロッパの街並み＆イルミネーション宿 厳選ガイド",
     description: "日本一の広さを誇るテーマパーク完全特化！長崎ハウステンボス直営・オフィシャルホテル！パーク内運河に佇む「ホテルヨーロッパ」、場内唯一の天然温泉宿、1300万球の光の王国イルミネーション確約ビューホテルを徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function ThemeParkActivityHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function ThemeParkActivityHubPage() {
                 <td className="p-3 text-stone-600">フロントにて無料券を発行しますので「宿泊者専用駐車場」をご利用ください。必ず出庫前にご精算ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（2434件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9159%2F9159.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9159%2F9159.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルアムステルダム　ハウステンボス</td>
@@ -261,7 +261,7 @@ export default function ThemeParkActivityHubPage() {
                 <td className="p-3 text-stone-600">フロントにて無料券を発行しますので「宿泊者専用駐車場」をご利用ください。必ず出庫前にご精算ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（2569件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9157%2F9157.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9157%2F9157.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. フォレストヴィラ　ハウステンボス</td>
@@ -270,7 +270,7 @@ export default function ThemeParkActivityHubPage() {
                 <td className="p-3 text-stone-600">フロントにて無料券を発行しますので「宿泊者専用駐車場」をご利用ください。必ず出庫前にご精算ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（1075件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9156%2F9156.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9156%2F9156.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルオークラＪＲハウステンボス</td>
@@ -279,7 +279,7 @@ export default function ThemeParkActivityHubPage() {
                 <td className="p-3 text-stone-600">有、1泊1台あたり1000円 *到着日の朝から翌日正午まで。*2027年4月1日より1500円</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（3289件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,750〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9057%2F9057.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9057%2F9057.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 弓張の丘ホテル</td>
@@ -288,7 +288,7 @@ export default function ThemeParkActivityHubPage() {
                 <td className="p-3 text-stone-600">有り：１００台（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1716件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,336〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7808%2F7808.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7808%2F7808.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 長崎スカイホテル</td>
@@ -297,7 +297,7 @@ export default function ThemeParkActivityHubPage() {
                 <td className="p-3 text-stone-600">有り　20台　お車１台につき、普通車800円/中型車1,600円/大型車2,000円（税込）</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（417件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,980〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15312%2F15312.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15312%2F15312.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

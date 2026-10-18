@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/izu-ocean-view-couple-anniversary-guide/" },
-  title: "熱海・伊豆 カップル客室露天風呂宿おすすめ：相模湾一望オーシャンビュー＆記念日ディナーの隠れ家 ｜ 日本全国・旅宿クラウド",
+  title: "熱海・伊豆 カップル客室露天風呂宿おすすめ：相模湾一望オーシャンビュー＆記念日ディナーの隠れ家",
   description:
     "二人だけの海絶景を独占する熱海・伊豆高原のカップル向け客室露天風呂宿！水平線から昇る朝日や夜の海上花火を眺めながら過ごす贅沢な時間。記念日特典付きの大人限定リゾート旅館まとめ。",
   keywords: ["熱海", "伊豆", "カップル客室露天風呂宿おすすめ", "相模湾一望オーシャンビュー", "記念日ディナーの隠れ家", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "熱海・伊豆 カップル客室露天風呂宿おすすめ：相模湾一望オーシャンビュー＆記念日ディナーの隠れ家 ｜ 日本全国・旅宿クラウド",
+    title: "熱海・伊豆 カップル客室露天風呂宿おすすめ：相模湾一望オーシャンビュー＆記念日ディナーの隠れ家",
     description: "二人だけの海絶景を独占する熱海・伊豆高原のカップル向け客室露天風呂宿！水平線から昇る朝日や夜の海上花火を眺めながら過ごす贅沢な時間。記念日特典付きの大人限定リゾート旅館まとめ。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "熱海・伊豆 カップル客室露天風呂宿おすすめ：相模湾一望オーシャンビュー＆記念日ディナーの隠れ家 ｜ 日本全国・旅宿クラウド",
+    title: "熱海・伊豆 カップル客室露天風呂宿おすすめ：相模湾一望オーシャンビュー＆記念日ディナーの隠れ家",
     description: "二人だけの海絶景を独占する熱海・伊豆高原のカップル向け客室露天風呂宿！水平線から昇る朝日や夜の海上花火を眺めながら過ごす贅沢な時間。記念日特典付きの大人限定リゾート旅館まとめ。",
   }
 };
@@ -342,7 +342,7 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-cyan-600 to-teal-600 hover:from-cyan-700 hover:to-teal-700 text-white font-black px-6 py-3.5 rounded-xl shadow-md hover:shadow-lg transition-all duration-200 text-sm group/btn cursor-pointer"
                     >
                       <span>楽天トラベルで空室・記念日プランを見る</span>

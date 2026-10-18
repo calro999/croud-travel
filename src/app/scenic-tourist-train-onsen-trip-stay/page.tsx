@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/scenic-tourist-train-onsen-trip-stay/" },
-  title: "観光列車＆極上温泉宿：サフィール踊り子・しまかぜ・ゆふいんの森で行く名旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "観光列車＆極上温泉宿：サフィール踊り子・しまかぜ・ゆふいんの森で行く名旅館 厳選ガイド",
   description: "プレミアム観光列車で行く極上温泉旅完全特化！「サフィール踊り子」「観光特急しまかぜ」「特急ゆふいんの森」「ろくもん」「雪月花」の豪華車内体験、プレミアムシート、カフェ車両と沿線の名門温泉旅館を徹底解説。",
   keywords: ["観光列車", "極上温泉宿", "サフィール踊り子", "しまかぜ", "ゆふいんの森で行く名旅館", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "観光列車＆極上温泉宿：サフィール踊り子・しまかぜ・ゆふいんの森で行く名旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "観光列車＆極上温泉宿：サフィール踊り子・しまかぜ・ゆふいんの森で行く名旅館 厳選ガイド",
     description: "プレミアム観光列車で行く極上温泉旅完全特化！「サフィール踊り子」「観光特急しまかぜ」「特急ゆふいんの森」「ろくもん」「雪月花」の豪華車内体験、プレミアムシート、カフェ車両と沿線の名門温泉旅館を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "観光列車＆極上温泉宿：サフィール踊り子・しまかぜ・ゆふいんの森で行く名旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "観光列車＆極上温泉宿：サフィール踊り子・しまかぜ・ゆふいんの森で行く名旅館 厳選ガイド",
     description: "プレミアム観光列車で行く極上温泉旅完全特化！「サフィール踊り子」「観光特急しまかぜ」「特急ゆふいんの森」「ろくもん」「雪月花」の豪華車内体験、プレミアムシート、カフェ車両と沿線の名門温泉旅館を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function TransitStyleHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">当館の駐車場は建物の地下部分にございます。(高さ制限2.3ｍ/狭めのスペース/台数制限有り/無料)</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（2266件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,165〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1307%2F1307.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1307%2F1307.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 松崎温泉　御宿しんしま</td>
@@ -261,7 +261,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">・1部屋1台無料でご利用いただけます。◆予約不要　◆追加1台につき1100円　◆マイクロバス利用可能</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（77件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108114%2F108114.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108114%2F108114.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. グランドメルキュール伊勢志摩リゾート＆スパ</td>
@@ -270,7 +270,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">220台あり（無料・予約不可）</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（4177件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,120〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13971%2F13971.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13971%2F13971.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 源泉掛け流しの離れ宿　由布院別邸　風の森</td>
@@ -279,7 +279,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">◆◇ 無料の駐車場が有ります。予約は不要です。 ◆◇ １３台分停められます◆◇</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（127件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54134%2F54134.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54134%2F54134.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 由布院温泉　旅館　冨季の舎</td>
@@ -288,7 +288,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">有　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4（126件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F32186%2F32186.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F32186%2F32186.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 由布院温泉　湯富里の宿　一壷天</td>
@@ -297,7 +297,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">無料で15台停められます。予約は不要です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.75（263件）</td>
                 <td className="p-3 font-bold text-rose-600">¥33,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72871%2F72871.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72871%2F72871.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

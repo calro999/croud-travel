@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/all-inclusive-sake-free-flow-tasting-bar-stay/" },
-  title: "日本酒飲み放題＆利き酒Bar完備温泉宿：インクルーシブ・銘酒ラウンジ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "日本酒飲み放題＆利き酒Bar完備温泉宿：インクルーシブ・銘酒ラウンジ 厳選ガイド",
   description: "追加料金なしで全国の銘酒を心ゆくまで！日本酒インクルーシブ＆利き酒バー完備温泉宿完全特化！新潟越後湯沢、山形天童、群馬草津、石川加賀温泉、厳選10〜30種の地酒サーバー、湯上がりラウンジ酒、おつまみペアリングを徹底解説。",
   keywords: ["日本酒飲み放題", "利き酒Bar完備温泉宿", "インクルーシブ", "銘酒ラウンジ", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "日本酒飲み放題＆利き酒Bar完備温泉宿：インクルーシブ・銘酒ラウンジ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "日本酒飲み放題＆利き酒Bar完備温泉宿：インクルーシブ・銘酒ラウンジ 厳選ガイド",
     description: "追加料金なしで全国の銘酒を心ゆくまで！日本酒インクルーシブ＆利き酒バー完備温泉宿完全特化！新潟越後湯沢、山形天童、群馬草津、石川加賀温泉、厳選10〜30種の地酒サーバー、湯上がりラウンジ酒、おつまみペアリングを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "日本酒飲み放題＆利き酒Bar完備温泉宿：インクルーシブ・銘酒ラウンジ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "日本酒飲み放題＆利き酒Bar完備温泉宿：インクルーシブ・銘酒ラウンジ 厳選ガイド",
     description: "追加料金なしで全国の銘酒を心ゆくまで！日本酒インクルーシブ＆利き酒バー完備温泉宿完全特化！新潟越後湯沢、山形天童、群馬草津、石川加賀温泉、厳選10〜30種の地酒サーバー、湯上がりラウンジ酒、おつまみペアリングを徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function SakeTourismHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-700 to-stone-800 hover:from-amber-600 hover:to-stone-700 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function SakeTourismHubPage() {
                 <td className="p-3 text-stone-600">有り　約８０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（2402件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,375〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38764%2F38764.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38764%2F38764.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 岩室温泉　高志の宿　高島屋</td>
@@ -261,7 +261,7 @@ export default function SakeTourismHubPage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（418件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,468〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38827%2F38827.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38827%2F38827.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天童温泉　美味求真の宿　天童ホテル</td>
@@ -270,7 +270,7 @@ export default function SakeTourismHubPage() {
                 <td className="p-3 text-stone-600">無料200台・予約不要｜ホテル玄関前で荷下ろし後、当館から東に約130mの駐車場へご駐車ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（1912件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5954%2F5954.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5954%2F5954.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 山代温泉　瑠璃光</td>
@@ -279,7 +279,7 @@ export default function SakeTourismHubPage() {
                 <td className="p-3 text-stone-600">有り　無料200台　※正面玄関へお越しください。スタッフが駐車場をご案内いたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（1496件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,470〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6191%2F6191.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6191%2F6191.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

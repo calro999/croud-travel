@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fuji-climbing-packing-regrets-worst5-guide/" },
-  title: "富士登山で後悔したことワースト5：高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリスト ｜ 日本全国・旅宿クラウド",
+  title: "富士登山で後悔したことワースト5：高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリスト",
   description:
     "初心者が最も後悔する富士登山の落とし穴！登りより辛い下山時のつま先激痛、山小屋の寒暖差、小銭（トイレチップ用100円玉）切れ、ヘッドライトの電池切れ、五合目前泊・後泊におすすめの温泉宿まとめ。",
   keywords: ["高山病", "下山時の爪割れ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: "富士登山で後悔したことワースト5：高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリスト ｜ 日本全国・旅宿クラウド",
+    title: "富士登山で後悔したことワースト5：高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリスト",
     description: "初心者が最も後悔する富士登山の落とし穴！登りより辛い下山時のつま先激痛、山小屋の寒暖差、小銭（トイレチップ用100円玉）切れ、ヘッドライトの電池切れ、五合目前泊・後泊におすすめの温泉宿まとめ。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "富士登山で後悔したことワースト5：高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリスト ｜ 日本全国・旅宿クラウド",
+    title: "富士登山で後悔したことワースト5：高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリスト",
     description: "初心者が最も後悔する富士登山の落とし穴！登りより辛い下山時のつま先激痛、山小屋の寒暖差、小銭（トイレチップ用100円玉）切れ、ヘッドライトの電池切れ、五合目前泊・後泊におすすめの温泉宿まとめ。",
   }
 };
@@ -478,7 +478,7 @@ export default function FujiClimbingPackingRegretsPage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center px-4 py-2 bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-700 hover:to-teal-700 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5"
                     >
                       楽天トラベルで空室を見る
@@ -632,25 +632,25 @@ export default function FujiClimbingPackingRegretsPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kyoto"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 京都府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shimane"
+                href="/prefectures/shimane/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 島根県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamaguchi"
+                href="/prefectures/yamaguchi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 山口県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ishikawa"
+                href="/prefectures/ishikawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 石川県の宿・温泉

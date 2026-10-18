@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/glamping-first-time-regrets-packing-guide/" },
-  title: "初めてのグランピングで後悔したことワースト5：夜の冷え込み・虫対策・煙で服崩壊！持って行くべき神グッズ ｜ 日本全国・旅宿クラウド",
+  title: "初めてのグランピングで後悔したことワースト5：夜の冷え込み・虫対策・煙で服崩壊！持って行くべき神グッズ",
   description:
     "手ぶらOKの謳い文句を信じて後悔したリアル体験談！標高の高い高原グランピングの夜間極寒、焚き火の火の粉で穴あき服、夜間トイレ移動のランタン不足、虫除けスプレー選びと温泉付きグランピングヴィラ。",
   keywords: ["夜の冷え込み", "虫対策", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: "初めてのグランピングで後悔したことワースト5：夜の冷え込み・虫対策・煙で服崩壊！持って行くべき神グッズ ｜ 日本全国・旅宿クラウド",
+    title: "初めてのグランピングで後悔したことワースト5：夜の冷え込み・虫対策・煙で服崩壊！持って行くべき神グッズ",
     description: "手ぶらOKの謳い文句を信じて後悔したリアル体験談！標高の高い高原グランピングの夜間極寒、焚き火の火の粉で穴あき服、夜間トイレ移動のランタン不足、虫除けスプレー選びと温泉付きグランピングヴィラ。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "初めてのグランピングで後悔したことワースト5：夜の冷え込み・虫対策・煙で服崩壊！持って行くべき神グッズ ｜ 日本全国・旅宿クラウド",
+    title: "初めてのグランピングで後悔したことワースト5：夜の冷え込み・虫対策・煙で服崩壊！持って行くべき神グッズ",
     description: "手ぶらOKの謳い文句を信じて後悔したリアル体験談！標高の高い高原グランピングの夜間極寒、焚き火の火の粉で穴あき服、夜間トイレ移動のランタン不足、虫除けスプレー選びと温泉付きグランピングヴィラ。",
   }
 };
@@ -444,7 +444,7 @@ export default function GlampingFirstTimeRegretsPage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center px-4 py-2 bg-gradient-to-r from-teal-600 to-cyan-600 hover:from-teal-700 hover:to-cyan-700 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5"
                     >
                       楽天トラベルで空室を見る
@@ -585,25 +585,25 @@ export default function GlampingFirstTimeRegretsPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/ibaraki"
+                href="/prefectures/ibaraki/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 茨城県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hokkaido"
+                href="/prefectures/hokkaido/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 北海道の宿・温泉
               </Link>
               <Link
-                href="/prefectures/chiba"
+                href="/prefectures/chiba/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 千葉県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagoshima"
+                href="/prefectures/kagoshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 鹿児島県の宿・温泉

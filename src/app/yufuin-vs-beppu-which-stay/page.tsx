@@ -7,17 +7,17 @@ import Image from "next/image";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yufuin-vs-beppu-which-stay/" },
-  title: "由布院 vs 別府 どっちに泊まる？：温泉の泉質・宿のタイプ・観光スポット・費用を完全比較 ｜ 日本全国・旅宿クラウド",
+  title: "由布院 vs 別府 どっちに泊まる？：温泉の泉質・宿のタイプ・観光スポット・費用を完全比較",
   description: "由布院と別府、大分の温泉二大巨頭はどっちに泊まるべき？由布院（おしゃれな隠れ家宿＆金鱗湖朝霧）と別府（地獄めぐり＆砂湯＆とり天）を温泉の泉質・宿のタイプ・グルメ・費用で徹底比較。「1泊ずつハシゴ」プランも紹介。",
   keywords: ["由布院", "vs", "別府", "どっちに泊まる？", "温泉の泉質", "宿のタイプ", "観光スポット"],
   openGraph: {
-    title: "由布院 vs 別府 どっちに泊まる？：温泉の泉質・宿のタイプ・観光スポット・費用を完全比較 ｜ 日本全国・旅宿クラウド",
+    title: "由布院 vs 別府 どっちに泊まる？：温泉の泉質・宿のタイプ・観光スポット・費用を完全比較",
     description: "由布院と別府、大分の温泉二大巨頭はどっちに泊まるべき？由布院（おしゃれな隠れ家宿＆金鱗湖朝霧）と別府（地獄めぐり＆砂湯＆とり天）を温泉の泉質・宿のタイプ・グルメ・費用で徹底比較。「1泊ずつハシゴ」プランも紹介。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "由布院 vs 別府 どっちに泊まる？：温泉の泉質・宿のタイプ・観光スポット・費用を完全比較 ｜ 日本全国・旅宿クラウド",
+    title: "由布院 vs 別府 どっちに泊まる？：温泉の泉質・宿のタイプ・観光スポット・費用を完全比較",
     description: "由布院と別府、大分の温泉二大巨頭はどっちに泊まるべき？由布院（おしゃれな隠れ家宿＆金鱗湖朝霧）と別府（地獄めぐり＆砂湯＆とり天）を温泉の泉質・宿のタイプ・グルメ・費用で徹底比較。「1泊ずつハシゴ」プランも紹介。",
   }
 };
@@ -249,7 +249,7 @@ export default function YufuinVsBeppuPage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="mt-auto block text-center bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-6 rounded-full transition-colors"
                     >
                       楽天トラベルで詳細を見る
@@ -298,7 +298,7 @@ export default function YufuinVsBeppuPage() {
                 <td className="p-3 text-stone-600">有り　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（121件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14835%2F14835.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14835%2F14835.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 由布院温泉　旅館　めばえ荘</td>
@@ -307,7 +307,7 @@ export default function YufuinVsBeppuPage() {
                 <td className="p-3 text-stone-600">有り　２５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（95件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70229%2F70229.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70229%2F70229.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 由布院温泉　旅館　冨季の舎</td>
@@ -316,7 +316,7 @@ export default function YufuinVsBeppuPage() {
                 <td className="p-3 text-stone-600">有　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4（126件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F32186%2F32186.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F32186%2F32186.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 天然温泉　鉄輪の湯　スーパーホテル別府駅前</td>
@@ -325,7 +325,7 @@ export default function YufuinVsBeppuPage() {
                 <td className="p-3 text-stone-600">有り/５００円（１泊１台あたり）　先着順/予約不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（1170件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,280〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180258%2F180258.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180258%2F180258.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 別府温泉　ホテルニューツルタ</td>
@@ -334,7 +334,7 @@ export default function YufuinVsBeppuPage() {
                 <td className="p-3 text-stone-600">入庫後21時間：最大700円・駐車場は有料＆先着順。満車の場合はご利用いただけないことがございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（1215件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1938%2F1938.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1938%2F1938.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 別府鉄輪温泉　ホテル山水館</td>
@@ -343,7 +343,7 @@ export default function YufuinVsBeppuPage() {
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（244件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,550〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107764%2F107764.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107764%2F107764.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

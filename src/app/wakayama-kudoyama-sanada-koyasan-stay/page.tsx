@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/wakayama-kudoyama-sanada-koyasan-stay/" },
-  title: "和歌山・高野山山麓＆九度山：真田幸村蟄居の地・善名称院＆世界遺産慈尊院・富有柿宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "和歌山・高野山山麓＆九度山：真田幸村蟄居の地・善名称院＆世界遺産慈尊院・富有柿宿 厳選ガイド",
   description: "戦国最後の英雄・真田幸村が14年間過ごした隠れ里・和歌山九度山エリア完全特化！真田屋敷跡「善名称院（真田庵）」、九度山・真田ミュージアム、世界遺産「慈尊院・丹生官省符神社」、高野参詣道町石道、名産「九度山の富有柿宿」を徹底解説。",
   keywords: ["和歌山", "高野山山麓", "九度山", "真田幸村蟄居の地", "善名称院", "世界遺産慈尊院", "富有柿宿"],
   openGraph: {
-    title: "和歌山・高野山山麓＆九度山：真田幸村蟄居の地・善名称院＆世界遺産慈尊院・富有柿宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "和歌山・高野山山麓＆九度山：真田幸村蟄居の地・善名称院＆世界遺産慈尊院・富有柿宿 厳選ガイド",
     description: "戦国最後の英雄・真田幸村が14年間過ごした隠れ里・和歌山九度山エリア完全特化！真田屋敷跡「善名称院（真田庵）」、九度山・真田ミュージアム、世界遺産「慈尊院・丹生官省符神社」、高野参詣道町石道、名産「九度山の富有柿宿」を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "和歌山・高野山山麓＆九度山：真田幸村蟄居の地・善名称院＆世界遺産慈尊院・富有柿宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "和歌山・高野山山麓＆九度山：真田幸村蟄居の地・善名称院＆世界遺産慈尊院・富有柿宿 厳選ガイド",
     description: "戦国最後の英雄・真田幸村が14年間過ごした隠れ里・和歌山九度山エリア完全特化！真田屋敷跡「善名称院（真田庵）」、九度山・真田ミュージアム、世界遺産「慈尊院・丹生官省符神社」、高野参詣道町石道、名産「九度山の富有柿宿」を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">２台枠有り。1泊５００円予約要。隣接塩看板前横道路際とその隣。無料駐車広場は南へ15ｍ3台枠。</td>
                 <td className="p-3 font-bold text-amber-600">★3.5（75件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107720%2F107720.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107720%2F107720.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. くどやま旅館　玉川亭</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　５台</td>
                 <td className="p-3 font-bold text-amber-600">★4.75（75件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,580〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172303%2F172303.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172303%2F172303.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. くどやま旅館　玉川亭町石道別館</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">宿泊施設「別館」にはございません。くどやま旅館玉川亭本館に駐車場をご利用下さい。</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172304%2F172304.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172304%2F172304.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 〜真田昌幸・幸村父子の隠れ宿〜紀伊見荘</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　３３台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（348件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,530〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137866%2F137866.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137866%2F137866.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテル　ルートイン橋本</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　108台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（984件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F145476%2F145476.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F145476%2F145476.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. かめや旅館　＜和歌山県＞</td>
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108568%2F108568.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108568%2F108568.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

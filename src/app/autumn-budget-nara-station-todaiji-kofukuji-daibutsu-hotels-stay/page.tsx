@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetHotelsPage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"奈良駅前：東大寺大仏殿＆古都紅葉・三輪そうめん・大和牛！3,000円台〜泊まれる格安ホテル5選\",\"description\":\"世界遺産・東大寺の大仏殿と奈良公園の鹿・錦秋の紅葉！名物柿の葉寿司や大和牛、三輪そうめん。JR・近鉄奈良駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nara-station-todaiji-kofukuji-daibutsu-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"奈良駅前：東大寺大仏殿＆古都紅葉・三輪そうめん・大和牛！3,000円台〜泊まれる格安ホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-nara-station-todaiji-kofukuji-daibutsu-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"奈良駅前：東大寺大仏殿＆古都紅葉・三輪そうめん・大和牛！3,000円台〜泊まれる格安ホテル5選\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"世界最大級の木造建築と盧舎那仏・大仏池に映える錦秋の紅葉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nara-station-todaiji-kofukuji-daibutsu-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"平日泊で更なる割引\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nara-station-todaiji-kofukuji-daibutsu-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"直前割＆早割を活用\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nara-station-todaiji-kofukuji-daibutsu-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"浮いた予算で旬の味覚\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nara-station-todaiji-kofukuji-daibutsu-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"いろはグランホテル近鉄奈良駅前\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nara-station-todaiji-kofukuji-daibutsu-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"アパホテル〈近鉄奈良駅前〉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nara-station-todaiji-kofukuji-daibutsu-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"変なホテルプレミア　奈良\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nara-station-todaiji-kofukuji-daibutsu-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"奈良　万葉若草の宿　三笠\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nara-station-todaiji-kofukuji-daibutsu-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"奈良白鹿荘\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nara-station-todaiji-kofukuji-daibutsu-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"東大寺（大仏殿）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nara-station-todaiji-kofukuji-daibutsu-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -149,7 +153,7 @@ export default function AutumnBudgetHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183843%2F183843.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-2 py-3 px-6 bg-gradient-to-r from-rose-500 to-rose-600 hover:from-rose-600 hover:to-rose-700 text-white font-bold rounded-xl shadow-sm hover:shadow transition"
               >
                 <span>楽天トラベルで最安プランをチェック</span>
@@ -205,7 +209,7 @@ export default function AutumnBudgetHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183057%2F183057.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-2 py-3 px-6 bg-gradient-to-r from-rose-500 to-rose-600 hover:from-rose-600 hover:to-rose-700 text-white font-bold rounded-xl shadow-sm hover:shadow transition"
               >
                 <span>楽天トラベルで最安プランをチェック</span>
@@ -261,7 +265,7 @@ export default function AutumnBudgetHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180976%2F180976.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-2 py-3 px-6 bg-gradient-to-r from-rose-500 to-rose-600 hover:from-rose-600 hover:to-rose-700 text-white font-bold rounded-xl shadow-sm hover:shadow transition"
               >
                 <span>楽天トラベルで最安プランをチェック</span>
@@ -317,7 +321,7 @@ export default function AutumnBudgetHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16815%2F16815.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-2 py-3 px-6 bg-gradient-to-r from-rose-500 to-rose-600 hover:from-rose-600 hover:to-rose-700 text-white font-bold rounded-xl shadow-sm hover:shadow transition"
               >
                 <span>楽天トラベルで最安プランをチェック</span>
@@ -373,7 +377,7 @@ export default function AutumnBudgetHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7850%2F7850.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-2 py-3 px-6 bg-gradient-to-r from-rose-500 to-rose-600 hover:from-rose-600 hover:to-rose-700 text-white font-bold rounded-xl shadow-sm hover:shadow transition"
               >
                 <span>楽天トラベルで最安プランをチェック</span>
@@ -449,7 +453,7 @@ export default function AutumnBudgetHotelsPage() {
                 <td className="p-3 text-stone-600">敷地外/有料提携駐車場16時～10時の18時間利用に限り1,300円の優待あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（1177件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183843%2F183843.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183843%2F183843.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アパホテル〈近鉄奈良駅前〉</td>
@@ -458,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（580件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183057%2F183057.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183057%2F183057.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 変なホテルプレミア　奈良</td>
@@ -467,7 +471,7 @@ export default function AutumnBudgetHotelsPage() {
                 <td className="p-3 text-stone-600">敷地外:有料提携駐車場(金子モータープール)16時～翌11時まで1,300円　※23～翌7時利用不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（1162件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,540〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180976%2F180976.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180976%2F180976.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 奈良　万葉若草の宿　三笠</td>
@@ -476,7 +480,7 @@ export default function AutumnBudgetHotelsPage() {
                 <td className="p-3 text-stone-600">有り　３０台（無料）　奈良奥山ドライブウェイ料金所で発券される通行券をフロントへお持ちください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（1041件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,150〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16815%2F16815.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16815%2F16815.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 奈良白鹿荘</td>
@@ -485,7 +489,7 @@ export default function AutumnBudgetHotelsPage() {
                 <td className="p-3 text-stone-600">なし／周辺駐車場のご利用については、当館ホームページをご覧ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（248件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,750〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7850%2F7850.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7850%2F7850.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -662,6 +666,9 @@ export default function AutumnBudgetHotelsPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-nara-station-todaiji-kofukuji-daibutsu-hotels-stay" />
+        </div>
 
       </main>
   );

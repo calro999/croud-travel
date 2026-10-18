@@ -357,25 +357,25 @@ export default function FeaturePage() {
           </div>
           <div className="flex flex-wrap gap-2">
             <Link
-              href="/prefectures/shiga"
+              href="/prefectures/shiga/"
               className="text-xs px-3.5 py-2 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
             >
               滋賀県のおすすめ宿・温泉一覧 →
             </Link>
             <Link
-              href="/prefectures/saitama"
+              href="/prefectures/saitama/"
               className="text-xs px-3.5 py-2 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
             >
               埼玉県のおすすめ宿・温泉一覧 →
             </Link>
             <Link
-              href="/prefectures/nagano"
+              href="/prefectures/nagano/"
               className="text-xs px-3.5 py-2 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
             >
               長野県のおすすめ宿・温泉一覧 →
             </Link>
             <Link
-              href="/prefectures/shimane"
+              href="/prefectures/shimane/"
               className="text-xs px-3.5 py-2 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
             >
               島根県のおすすめ宿・温泉一覧 →
@@ -514,25 +514,25 @@ export default function FeaturePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamaguchi"
+                href="/prefectures/yamaguchi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 山口県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kumamoto"
+                href="/prefectures/kumamoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 熊本県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/miyazaki"
+                href="/prefectures/miyazaki/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 宮崎県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukui"
+                href="/prefectures/fukui/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 福井県の宿・温泉

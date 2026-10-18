@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/three-generation-family-celebration-stay/" },
-  title: "三世代旅行＆還暦・長寿祝い温泉宿：バリアフリー・個室宴会＆二間続き客室 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "三世代旅行＆還暦・長寿祝い温泉宿：バリアフリー・個室宴会＆二間続き客室 厳選ガイド",
   description: "祖父母・両親・孫の三世代旅行＆還暦・古希・喜寿・米寿のお祝い温泉宿完全特化！車椅子対応バリアフリー客室、大人数で泊まれる二間続き・コネクティングルーム、祝い膳＆赤いちゃんちゃんこ貸出、個室宴会場付き名門旅館を徹底解説。",
   keywords: ["三世代旅行", "還暦", "長寿祝い温泉宿", "バリアフリー", "個室宴会", "二間続き客室", "温泉宿"],
   openGraph: {
-    title: "三世代旅行＆還暦・長寿祝い温泉宿：バリアフリー・個室宴会＆二間続き客室 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "三世代旅行＆還暦・長寿祝い温泉宿：バリアフリー・個室宴会＆二間続き客室 厳選ガイド",
     description: "祖父母・両親・孫の三世代旅行＆還暦・古希・喜寿・米寿のお祝い温泉宿完全特化！車椅子対応バリアフリー客室、大人数で泊まれる二間続き・コネクティングルーム、祝い膳＆赤いちゃんちゃんこ貸出、個室宴会場付き名門旅館を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "三世代旅行＆還暦・長寿祝い温泉宿：バリアフリー・個室宴会＆二間続き客室 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "三世代旅行＆還暦・長寿祝い温泉宿：バリアフリー・個室宴会＆二間続き客室 厳選ガイド",
     description: "祖父母・両親・孫の三世代旅行＆還暦・古希・喜寿・米寿のお祝い温泉宿完全特化！車椅子対応バリアフリー客室、大人数で泊まれる二間続き・コネクティングルーム、祝い膳＆赤いちゃんちゃんこ貸出、個室宴会場付き名門旅館を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function TargetAudienceHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function TargetAudienceHubPage() {
                 <td className="p-3 text-stone-600">15台　無料　★要予約※駐車場所についてはご到着先着順です。近くの空地スペースになる場合がございます</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（132件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196489%2F196489.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196489%2F196489.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 嬉野温泉　割烹旅館　鯉登苑（りとうえん）</td>
@@ -261,7 +261,7 @@ export default function TargetAudienceHubPage() {
                 <td className="p-3 text-stone-600">有り　25台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（285件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,130〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F80886%2F80886.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F80886%2F80886.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 伊香保温泉　森秋旅館</td>
@@ -270,7 +270,7 @@ export default function TargetAudienceHubPage() {
                 <td className="p-3 text-stone-600">有（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（2256件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17741%2F17741.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17741%2F17741.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 赤穂温泉　料理旅館　呑海楼</td>
@@ -279,7 +279,7 @@ export default function TargetAudienceHubPage() {
                 <td className="p-3 text-stone-600">有り　２５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（763件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147688%2F147688.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147688%2F147688.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 赤穂温泉　絶景露天風呂の宿　銀波荘</td>
@@ -288,7 +288,7 @@ export default function TargetAudienceHubPage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（1381件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19403%2F19403.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19403%2F19403.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 湯田川温泉　つかさや旅館</td>
@@ -297,7 +297,7 @@ export default function TargetAudienceHubPage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.83（104件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79497%2F79497.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79497%2F79497.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

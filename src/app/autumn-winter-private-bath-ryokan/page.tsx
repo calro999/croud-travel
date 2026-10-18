@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-private-bath-ryokan/" },
-  title: "おこもり贅沢：貸切露天風呂＆お部屋食の極上温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "おこもり贅沢：貸切露天風呂＆お部屋食の極上温泉旅館 厳選ガイド",
   description: "誰にも気兼ねしない二人だけの至福の時間。箱根強羅、伊豆修善寺、熊本黒川温泉、京都嵯峨嵐山など、無料貸切露天風呂や贅沢な部屋食会席プランを備えた秋・冬のおこもり人気宿を徹底解説。",
   keywords: ["おこもり贅沢", "貸切露天風呂", "お部屋食の極上温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "おこもり贅沢：貸切露天風呂＆お部屋食の極上温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "おこもり贅沢：貸切露天風呂＆お部屋食の極上温泉旅館 厳選ガイド",
     description: "誰にも気兼ねしない二人だけの至福の時間。箱根強羅、伊豆修善寺、熊本黒川温泉、京都嵯峨嵐山など、無料貸切露天風呂や贅沢な部屋食会席プランを備えた秋・冬のおこもり人気宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "おこもり贅沢：貸切露天風呂＆お部屋食の極上温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "おこもり贅沢：貸切露天風呂＆お部屋食の極上温泉旅館 厳選ガイド",
     description: "誰にも気兼ねしない二人だけの至福の時間。箱根強羅、伊豆修善寺、熊本黒川温泉、京都嵯峨嵐山など、無料貸切露天風呂や贅沢な部屋食会席プランを備えた秋・冬のおこもり人気宿を徹底解説。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

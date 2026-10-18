@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shiga-biwako-hikone-castle-nagahama-kurokabe-stay/" },
-  title: "滋賀・琵琶湖＆彦根・長浜：国宝彦根城・黒壁＆湖畔温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "滋賀・琵琶湖＆彦根・長浜：国宝彦根城・黒壁＆湖畔温泉宿 厳選ガイド",
   description: "現存十二天守・国宝「彦根城」と名園玄宮園、ガラスの街「長浜黒壁スクエア」、琵琶湖一望パノラマと美肌の「おごと温泉」、最高峰の近江牛懐石を徹底解説。湖畔の高級リゾートホテルや伝統温泉旅館を厳選。",
   keywords: ["滋賀", "琵琶湖", "彦根", "長浜", "国宝彦根城", "黒壁", "湖畔温泉宿"],
   openGraph: {
-    title: "滋賀・琵琶湖＆彦根・長浜：国宝彦根城・黒壁＆湖畔温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "滋賀・琵琶湖＆彦根・長浜：国宝彦根城・黒壁＆湖畔温泉宿 厳選ガイド",
     description: "現存十二天守・国宝「彦根城」と名園玄宮園、ガラスの街「長浜黒壁スクエア」、琵琶湖一望パノラマと美肌の「おごと温泉」、最高峰の近江牛懐石を徹底解説。湖畔の高級リゾートホテルや伝統温泉旅館を厳選。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "滋賀・琵琶湖＆彦根・長浜：国宝彦根城・黒壁＆湖畔温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "滋賀・琵琶湖＆彦根・長浜：国宝彦根城・黒壁＆湖畔温泉宿 厳選ガイド",
     description: "現存十二天守・国宝「彦根城」と名園玄宮園、ガラスの街「長浜黒壁スクエア」、琵琶湖一望パノラマと美肌の「おごと温泉」、最高峰の近江牛懐石を徹底解説。湖畔の高級リゾートホテルや伝統温泉旅館を厳選。",
   }
 };
@@ -214,7 +214,7 @@ export default function MicroTouristHubPage() {
                           <a
                             href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                             target="_blank"
-                            rel="noopener noreferrer"
+                            rel="sponsored noopener noreferrer"
                             className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-teal-700 to-teal-800 hover:from-teal-600 hover:to-teal-700 rounded-xl shadow transition"
                           >
                             ✈️ 楽天トラベルで宿泊プラン・空室を見る

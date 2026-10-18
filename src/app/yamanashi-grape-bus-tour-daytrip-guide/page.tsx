@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamanashi-grape-bus-tour-daytrip-guide/" },
-  title: "山梨 シャインマスカット狩り 日帰りバスツアー2026：巨峰食べ放題＆勝沼ワイナリー・温泉付き最安比較 ｜ 日本全国・旅宿クラウド",
+  title: "山梨 シャインマスカット狩り 日帰りバスツアー2026：巨峰食べ放題＆勝沼ワイナリー・温泉付き最安比較",
   description: "2026年秋の山梨シャインマスカット狩り日帰りバスツアー特集！高級シャインマスカット食べ放題、勝沼ワイナリー試飲、ハーブ庭園散策、ほったらかし温泉立ち寄りなど、人気ツアーの最安値予約ガイド。",
   keywords: ["山梨", "シャインマスカット狩り", "日帰りバスツアー2026", "巨峰食べ放題", "勝沼ワイナリー", "温泉付き最安比較", "温泉宿"],
   openGraph: {
-    title: "山梨 シャインマスカット狩り 日帰りバスツアー2026：巨峰食べ放題＆勝沼ワイナリー・温泉付き最安比較 ｜ 日本全国・旅宿クラウド",
+    title: "山梨 シャインマスカット狩り 日帰りバスツアー2026：巨峰食べ放題＆勝沼ワイナリー・温泉付き最安比較",
     description: "2026年秋の山梨シャインマスカット狩り日帰りバスツアー特集！高級シャインマスカット食べ放題、勝沼ワイナリー試飲、ハーブ庭園散策、ほったらかし温泉立ち寄りなど、人気ツアーの最安値予約ガイド。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "山梨 シャインマスカット狩り 日帰りバスツアー2026：巨峰食べ放題＆勝沼ワイナリー・温泉付き最安比較 ｜ 日本全国・旅宿クラウド",
+    title: "山梨 シャインマスカット狩り 日帰りバスツアー2026：巨峰食べ放題＆勝沼ワイナリー・温泉付き最安比較",
     description: "2026年秋の山梨シャインマスカット狩り日帰りバスツアー特集！高級シャインマスカット食べ放題、勝沼ワイナリー試飲、ハーブ庭園散策、ほったらかし温泉立ち寄りなど、人気ツアーの最安値予約ガイド。",
   }
 };
@@ -305,7 +305,7 @@ export default function YamanashiGrapeBusTourPage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="w-full text-center py-3 bg-gradient-to-r from-fuchsia-400 to-purple-400 hover:brightness-110 text-purple-950 font-black text-xs md:text-sm rounded-xl shadow-lg transition"
             >
               👉 楽天トラベル 日帰りバスツアーを見る
@@ -323,7 +323,7 @@ export default function YamanashiGrapeBusTourPage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="w-full text-center py-3 bg-white/20 hover:bg-white/30 text-white font-black text-xs md:text-sm rounded-xl border border-white/30 transition"
             >
               🎟️ 高速バスクーポンをチェック
@@ -390,7 +390,7 @@ export default function YamanashiGrapeBusTourPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-3 text-xs font-black text-white bg-gradient-to-r from-purple-700 to-indigo-700 hover:brightness-110 rounded-xl shadow transition"
                   >
                     🍇 楽天トラベルでプラン・空室を見る

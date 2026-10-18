@@ -8,13 +8,13 @@ import Image from 'next/image';
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
 
 export const metadata: Metadata = {
-  title: "日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  title: "日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド",
   description: "清々しい木の香りに包まれる極上の森林浴ステイ！青森「青森ヒバ」日本一の耐久性と芳香・むつグランドホテル斗南温泉、秋田「秋田スギ」樹齢二百年の巨木と大館曲げわっぱ・大館ぽかぽか温泉ホテル、長野「木曽ヒノキ」伊勢神宮御用達の銘木と木曽路宿場町・きそふくしま温泉おん宿蔦屋。日本三大美林の清冽な癒やしと銘木...",
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-beautiful-forests-wood-stay/",
   },
   openGraph: {
-    title: "日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    title: "日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド",
     description: "清々しい木の香りに包まれる極上の森林浴ステイ！青森「青森ヒバ」日本一の耐久性と芳香・むつグランドホテル斗南温泉、秋田「秋田スギ」樹齢二百年の巨木と大館曲げわっぱ・大館ぽかぽか温泉ホテル、長野「木曽ヒノキ」伊勢神宮御用達の銘木と木曽路宿場町・きそふくしま温泉おん宿蔦屋。日本三大美林の清冽な癒やしと銘木...",
     url: "https://croud-travel.pages.dev/furusato-tax-three-great-beautiful-forests-wood-stay/",
   },
@@ -188,7 +188,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11145%2F11145.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="px-5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold rounded-xl transition border border-slate-700"
                       >
                         宿泊詳細を見る
@@ -259,7 +259,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149238%2F149238.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="px-5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold rounded-xl transition border border-slate-700"
                       >
                         宿泊詳細を見る
@@ -330,7 +330,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6067%2F6067.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="px-5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold rounded-xl transition border border-slate-700"
                       >
                         宿泊詳細を見る
@@ -535,25 +535,25 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kanagawa"
+                href="/prefectures/kanagawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 神奈川県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/osaka"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamaguchi"
+                href="/prefectures/yamaguchi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 山口県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ibaraki"
+                href="/prefectures/ibaraki/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 茨城県の宿・温泉
@@ -598,7 +598,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り 500台 無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（946件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,350〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11145%2F11145.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11145%2F11145.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 大館ぽかぽか温泉ホテル</td>
@@ -607,7 +607,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">無料平面駐車場１００台完備</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（490件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,190〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149238%2F149238.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149238%2F149238.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. きそふくしま温泉　街道浪漫　おん宿　蔦屋</td>
@@ -616,7 +616,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（582件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,090〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6067%2F6067.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6067%2F6067.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

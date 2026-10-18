@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: 'T00:00:00+09:00',
-    dateModified: 'T00:00:00+09:00',
+    datePublished: '2026-10-18T00:00:00+09:00',
+    dateModified: '2026-10-19T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/mie-toba-solo-retreat-ocean-onsen-stay',
   };
 
@@ -407,25 +407,25 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/chiba"
+                href="/prefectures/chiba/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 千葉県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukushima"
+                href="/prefectures/fukushima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 福島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/niigata"
+                href="/prefectures/niigata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 新潟県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamaguchi"
+                href="/prefectures/yamaguchi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 山口県の宿・温泉
@@ -470,7 +470,7 @@ export default function ArticlePage() {
                 <td className="p-3 text-stone-600">有り・３０台・無料※急こう配にご注意ください◆バイクはフロント横「屋根付き駐車場」へ</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（217件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19736%2F19736.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19736%2F19736.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 伊勢神宮のお膝元　鳥羽　胡蝶蘭</td>
@@ -479,7 +479,7 @@ export default function ArticlePage() {
                 <td className="p-3 text-stone-600">有　30台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（1472件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31542%2F31542.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31542%2F31542.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 湯めぐり海百景　鳥羽シーサイドホテル</td>
@@ -488,7 +488,7 @@ export default function ArticlePage() {
                 <td className="p-3 text-stone-600">有り　２００台　無料　先着順 カーナビ検索は０５９９－２５－５１５１で</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（1634件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15780%2F15780.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15780%2F15780.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

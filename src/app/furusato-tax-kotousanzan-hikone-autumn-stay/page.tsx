@@ -5,7 +5,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '湖東三山（百済寺・金剛輪寺・西明寺）名刹の紅葉巡り＆国宝彦根城・本場近江牛すき焼き会席 | クラウドトラベルふるさと納税',
+  title: '湖東三山（百済寺・金剛輪寺・西明寺）名刹の紅葉巡り＆国宝彦根城・本場近江牛すき焼き会席',
   description: '11月中旬〜11月下旬に国の名勝庭園が燃えるように色づく湖東三山（百済寺・金剛輪寺・西明寺）。琵琶湖畔の温泉宿や彦根城下町のホテルで、日本三大和牛「近江牛」の極上すき焼きをふるさと納税で堪能。',
   keywords: ["湖東三山（百済寺", "金剛輪寺", "西明寺）名刹の紅葉巡り", "国宝彦根城", "本場近江牛すき焼き会席", "クラウドトラベルふるさと納税", "温泉宿"],
   alternates: {
@@ -223,7 +223,7 @@ export default function Page() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F76388%2F76388.html"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-600 to-orange-600 text-white font-bold px-8 py-3.5 rounded-xl shadow-md hover:from-amber-700 hover:to-orange-700 transition duration-150 transform hover:-translate-y-0.5 w-full sm:w-auto text-sm sm:text-base"
             >
               <span>🏨</span> 楽天トラベルで空室・プランを見る
@@ -292,7 +292,7 @@ export default function Page() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F145042%2F145042.html"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-600 to-orange-600 text-white font-bold px-8 py-3.5 rounded-xl shadow-md hover:from-amber-700 hover:to-orange-700 transition duration-150 transform hover:-translate-y-0.5 w-full sm:w-auto text-sm sm:text-base"
             >
               <span>🏨</span> 楽天トラベルで空室・プランを見る
@@ -361,7 +361,7 @@ export default function Page() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F42016%2F42016.html"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-600 to-orange-600 text-white font-bold px-8 py-3.5 rounded-xl shadow-md hover:from-amber-700 hover:to-orange-700 transition duration-150 transform hover:-translate-y-0.5 w-full sm:w-auto text-sm sm:text-base"
             >
               <span>🏨</span> 楽天トラベルで空室・プランを見る
@@ -514,25 +514,25 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/akita"
+                href="/prefectures/akita/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 秋田県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/miyazaki"
+                href="/prefectures/miyazaki/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 宮崎県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagano"
+                href="/prefectures/nagano/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 長野県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagoshima"
+                href="/prefectures/kagoshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 鹿児島県の宿・温泉

@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: 'T00:00:00+09:00',
-    dateModified: 'T00:00:00+09:00',
+    datePublished: '2026-10-18T00:00:00+09:00',
+    dateModified: '2026-10-19T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/nagano-yudanaka-solo-retreat-onsen-stay',
   };
 
@@ -408,25 +408,25 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/nara"
+                href="/prefectures/nara/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 奈良県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/wakayama"
+                href="/prefectures/wakayama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 和歌山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukuoka"
+                href="/prefectures/fukuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 福岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/iwate"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 岩手県の宿・温泉
@@ -471,7 +471,7 @@ export default function ArticlePage() {
                 <td className="p-3 text-stone-600">宿敷地内に駐車スペースがあります。冬期はスタッドレスタイヤもしくはタイヤチェーンをご用意ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（200件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,950〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44187%2F44187.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44187%2F44187.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 信州・湯田中温泉　清風荘</td>
@@ -480,7 +480,7 @@ export default function ArticlePage() {
                 <td className="p-3 text-stone-600">有り 10台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（107件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41634%2F41634.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41634%2F41634.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル小田島</td>
@@ -489,7 +489,7 @@ export default function ArticlePage() {
                 <td className="p-3 text-stone-600">先着順40台迄　1泊880円（税込）14時〜翌11時  満車の際は契約駐車場へご案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（2549件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,530〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1350%2F1350.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1350%2F1350.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 八幡平マウンテンホテル</td>
@@ -498,7 +498,7 @@ export default function ArticlePage() {
                 <td className="p-3 text-stone-600">有り　200台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（774件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1702%2F1702.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1702%2F1702.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＪＲ東日本ホテルメッツ北上</td>
@@ -507,7 +507,7 @@ export default function ArticlePage() {
                 <td className="p-3 text-stone-600">【 駐車料金：1泊800円 】敷地内17台。満車の場合は提携駐車場をご案内します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（2255件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,450〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1710%2F1710.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1710%2F1710.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/atami-izu-travel-budget-guide/" },
-  title: "熱海・伊豆旅行 費用：日帰り・1泊2日でいくら？東京から片道2,000円で行ける温泉リゾートの全費用 ｜ 日本全国・旅宿クラウド",
+  title: "熱海・伊豆旅行 費用：日帰り・1泊2日でいくら？東京から片道2,000円で行ける温泉リゾートの全費用",
   description: "熱海・伊豆旅行の費用を日帰り温泉・1泊2日で完全計算！東京から普通列車で片道1,980円、熱海プリン・海鮮丼のグルメ費用、来宮神社・MOA美術館の入場料、オーシャンビュー温泉旅館の宿泊費まで全部公開。",
   keywords: ["熱海", "伊豆旅行", "費用", "日帰り", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "熱海・伊豆旅行 費用：日帰り・1泊2日でいくら？東京から片道2,000円で行ける温泉リゾートの全費用 ｜ 日本全国・旅宿クラウド",
+    title: "熱海・伊豆旅行 費用：日帰り・1泊2日でいくら？東京から片道2,000円で行ける温泉リゾートの全費用",
     description: "熱海・伊豆旅行の費用を日帰り温泉・1泊2日で完全計算！東京から普通列車で片道1,980円、熱海プリン・海鮮丼のグルメ費用、来宮神社・MOA美術館の入場料、オーシャンビュー温泉旅館の宿泊費まで全部公開。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "熱海・伊豆旅行 費用：日帰り・1泊2日でいくら？東京から片道2,000円で行ける温泉リゾートの全費用 ｜ 日本全国・旅宿クラウド",
+    title: "熱海・伊豆旅行 費用：日帰り・1泊2日でいくら？東京から片道2,000円で行ける温泉リゾートの全費用",
     description: "熱海・伊豆旅行の費用を日帰り温泉・1泊2日で完全計算！東京から普通列車で片道1,980円、熱海プリン・海鮮丼のグルメ費用、来宮神社・MOA美術館の入場料、オーシャンビュー温泉旅館の宿泊費まで全部公開。",
   }
 };
@@ -224,7 +224,7 @@ export default function AtamiBudgetGuidePage() {
                     )}
                     <h3 className="text-sm font-bold text-slate-800 leading-snug">{hotel.hotelName}</h3>
                   </div>
-                  <a href={hotel.affiliateUrl} target="_blank" rel="noopener noreferrer" className="mt-4 block w-full text-center py-2 text-xs font-bold text-slate-700 border-2 border-slate-200 hover:border-slate-800 hover:bg-slate-800 hover:text-white rounded-xl transition">
+                  <a href={hotel.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer" className="mt-4 block w-full text-center py-2 text-xs font-bold text-slate-700 border-2 border-slate-200 hover:border-slate-800 hover:bg-slate-800 hover:text-white rounded-xl transition">
                     楽天トラベルで空室確認
                   </a>
                 </div>
@@ -264,7 +264,7 @@ export default function AtamiBudgetGuidePage() {
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥18,560〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F194486%2F194486.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F194486%2F194486.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 熱海オーシャンビュースパリゾートヴィラ／熱海の海・市街地海上花火が一望／ＢＢＱ可　＾</td>
@@ -273,7 +273,7 @@ export default function AtamiBudgetGuidePage() {
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥22,736〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F186044%2F186044.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F186044%2F186044.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. オーシャンビューテラス南熱海　＾</td>
@@ -282,7 +282,7 @@ export default function AtamiBudgetGuidePage() {
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F189655%2F189655.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F189655%2F189655.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 石のや　伊豆長岡（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）</td>
@@ -291,7 +291,7 @@ export default function AtamiBudgetGuidePage() {
                 <td className="p-3 text-stone-600">有/無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（580件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147933%2F147933.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147933%2F147933.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 伊豆高原温泉ホテル　森の泉</td>
@@ -300,7 +300,7 @@ export default function AtamiBudgetGuidePage() {
                 <td className="p-3 text-stone-600">有り　35台（無料）予約不要　　　Wi-fi　：有り（館内全て）</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（868件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158403%2F158403.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158403%2F158403.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 伊豆高原　記念日を祝う宿　自然家．Ｈａｃｏ（しぜんや．ハコ）</td>
@@ -309,7 +309,7 @@ export default function AtamiBudgetGuidePage() {
                 <td className="p-3 text-stone-600">有り　　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.74（342件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128493%2F128493.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128493%2F128493.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

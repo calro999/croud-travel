@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"伊豆下田：旬の金目鯛煮付け＆名湯満喫！3,000円台〜泊まれる格安温泉ホテル5選\",\"description\":\"秋に脂が乗り最高潮の旨味を誇る下田名物「金目鯛の煮付け」と黒船来航の歴史情緒を満喫！伊豆急下田駅周辺・下田温泉で3,000円台〜泊まれる格安・高コスパ宿厳選5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-shimoda-kinmedai-perry-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"伊豆下田：旬の金目鯛煮付け＆名湯満喫！3,000円台〜泊まれる格安温泉ホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-shimoda-kinmedai-perry-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"伊豆下田：旬の金目鯛煮付け＆名湯満喫！3,000円台〜泊まれる格安温泉ホテル5選\",\"numberOfItems\":8,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"幕末の開国史跡と金目鯛水揚げ日本一の良港\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-shimoda-kinmedai-perry-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"下田温泉　下田伊東園ホテルはな岬\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-shimoda-kinmedai-perry-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"下田温泉　下田ベイクロシオ\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-shimoda-kinmedai-perry-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"下田温泉　黒船ホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-shimoda-kinmedai-perry-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"三島スカイウォーク\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-shimoda-kinmedai-perry-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"熱海温泉・サンビーチ\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-shimoda-kinmedai-perry-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"伊豆シャボテン動物公園\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-shimoda-kinmedai-perry-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"白糸の滝\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-shimoda-kinmedai-perry-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -149,7 +153,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14761%2F14761.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-rose-600 to-pink-600 hover:from-rose-500 hover:to-pink-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -204,7 +208,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50545%2F50545.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-rose-600 to-pink-600 hover:from-rose-500 hover:to-pink-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -259,7 +263,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5645%2F5645.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-rose-600 to-pink-600 hover:from-rose-500 hover:to-pink-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -314,7 +318,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1307%2F1307.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-rose-600 to-pink-600 hover:from-rose-500 hover:to-pink-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -369,7 +373,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1660%2F1660.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-rose-600 to-pink-600 hover:from-rose-500 hover:to-pink-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -429,7 +433,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.78（1170件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,248〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50545%2F50545.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50545%2F50545.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 下田温泉　下田ベイクロシオ</td>
@@ -438,7 +442,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                 <td className="p-3 text-stone-600">有り　２５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.7（513件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5645%2F5645.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5645%2F5645.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 下田温泉　黒船ホテル</td>
@@ -447,7 +451,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                 <td className="p-3 text-stone-600">当館の駐車場は建物の地下部分にございます。(高さ制限2.3ｍ/狭めのスペース/台数制限有り/無料)</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（2266件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,165〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1307%2F1307.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1307%2F1307.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -580,6 +584,9 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-shizuoka-shimoda-kinmedai-perry-hotels-stay" />
+        </div>
 
       </main>
   );

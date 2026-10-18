@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -98,7 +99,7 @@ export default function WinterFeaturePage() {
             <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
             <Link href="/features" className="hover:text-amber-700 transition">特集一覧</Link>
             <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-            <Link href="/prefectures/tochigi" className="hover:text-amber-700 transition">栃木県</Link>
+            <Link href="/prefectures/tochigi/" className="hover:text-amber-700 transition">栃木県</Link>
             <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
             <span className="text-stone-900 font-medium">奥日光・日光湯元温泉・中禅寺湖</span>
           </div>
@@ -212,7 +213,7 @@ export default function WinterFeaturePage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15755%2F15755.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     1. 日光湯元温泉　奥日光　森のホテル
@@ -274,7 +275,7 @@ export default function WinterFeaturePage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15755%2F15755.html"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center w-full py-3 px-6 rounded-xl text-sm font-bold text-white bg-gradient-to-r from-cyan-700 to-slate-800 hover:from-cyan-800 hover:to-slate-900 shadow-sm hover:shadow transition-all group"
                     >
                       <span>日光湯元温泉　奥日光　森のホテル の宿泊プラン・空室状況を楽天トラベルで見る</span>
@@ -306,7 +307,7 @@ export default function WinterFeaturePage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F135482%2F135482.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     2. 日光湯元温泉　日光グランドホテル　ほのかな宿樹林
@@ -368,7 +369,7 @@ export default function WinterFeaturePage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F135482%2F135482.html"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center w-full py-3 px-6 rounded-xl text-sm font-bold text-white bg-gradient-to-r from-cyan-700 to-slate-800 hover:from-cyan-800 hover:to-slate-900 shadow-sm hover:shadow transition-all group"
                     >
                       <span>日光湯元温泉　日光グランドホテル　ほのかな宿樹林 の宿泊プラン・空室状況を楽天トラベルで見る</span>
@@ -400,7 +401,7 @@ export default function WinterFeaturePage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F111168%2F111168.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     3. 日光湯元温泉　スパビレッジ　カマヤ
@@ -453,7 +454,7 @@ export default function WinterFeaturePage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F111168%2F111168.html"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center w-full py-3 px-6 rounded-xl text-sm font-bold text-white bg-gradient-to-r from-cyan-700 to-slate-800 hover:from-cyan-800 hover:to-slate-900 shadow-sm hover:shadow transition-all group"
                     >
                       <span>日光湯元温泉　スパビレッジ　カマヤ の宿泊プラン・空室状況を楽天トラベルで見る</span>
@@ -485,7 +486,7 @@ export default function WinterFeaturePage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28759%2F28759.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     4. 日光中禅寺温泉　中禅寺金谷ホテル
@@ -547,7 +548,7 @@ export default function WinterFeaturePage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28759%2F28759.html"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center w-full py-3 px-6 rounded-xl text-sm font-bold text-white bg-gradient-to-r from-cyan-700 to-slate-800 hover:from-cyan-800 hover:to-slate-900 shadow-sm hover:shadow transition-all group"
                     >
                       <span>日光中禅寺温泉　中禅寺金谷ホテル の宿泊プラン・空室状況を楽天トラベルで見る</span>
@@ -579,7 +580,7 @@ export default function WinterFeaturePage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8337%2F8337.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     5. 奥日光湯元温泉　奥日光高原ホテル
@@ -641,7 +642,7 @@ export default function WinterFeaturePage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8337%2F8337.html"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center w-full py-3 px-6 rounded-xl text-sm font-bold text-white bg-gradient-to-r from-cyan-700 to-slate-800 hover:from-cyan-800 hover:to-slate-900 shadow-sm hover:shadow transition-all group"
                     >
                       <span>奥日光湯元温泉　奥日光高原ホテル の宿泊プラン・空室状況を楽天トラベルで見る</span>
@@ -671,7 +672,7 @@ export default function WinterFeaturePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="shrink-0 px-6 py-3 rounded-xl bg-white text-amber-700 font-bold text-sm shadow hover:bg-amber-50 transition-colors"
               >
                 ふるさと納税対象宿を探す
@@ -718,7 +719,7 @@ export default function WinterFeaturePage() {
           <div className="bg-stone-100 rounded-2xl p-6 sm:p-8 border border-stone-200 space-y-4">
             <h3 className="text-base sm:text-lg font-bold text-stone-900">あわせて読みたい栃木県＆冬の厳選温泉特集</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
-              <Link href="/prefectures/tochigi" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/prefectures/tochigi/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>栃木県のおすすめ観光名所＆温泉宿一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>

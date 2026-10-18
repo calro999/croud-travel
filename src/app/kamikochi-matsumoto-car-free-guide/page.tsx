@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kamikochi-matsumoto-car-free-guide/" },
-  title: "松本・上高地 車なし旅行厳選ガイド：特急あずさ＆上高地線・シャトルバスで行く国宝城下町＆神の降り立つ地 ｜ 日本全国・旅宿クラウド",
+  title: "松本・上高地 車なし旅行厳選ガイド：特急あずさ＆上高地線・シャトルバスで行く国宝城下町＆神の降り立つ地",
   description: "自家用車規制のある上高地こそ公共交通が最強！特急あずさ・松本電鉄上高地線・アルピコシャトルバスを活用し、松本城下町散策と大正池〜河童橋トレッキング、松本駅前大浴場ホテルを満喫する1泊2日。",
   keywords: ["松本", "上高地", "車なし旅行", "特急あずさ", "上高地線", "シャトルバスで行く国宝城下町", "神の降り立つ地"],
   openGraph: {
-    title: "松本・上高地 車なし旅行厳選ガイド：特急あずさ＆上高地線・シャトルバスで行く国宝城下町＆神の降り立つ地 ｜ 日本全国・旅宿クラウド",
+    title: "松本・上高地 車なし旅行厳選ガイド：特急あずさ＆上高地線・シャトルバスで行く国宝城下町＆神の降り立つ地",
     description: "自家用車規制のある上高地こそ公共交通が最強！特急あずさ・松本電鉄上高地線・アルピコシャトルバスを活用し、松本城下町散策と大正池〜河童橋トレッキング、松本駅前大浴場ホテルを満喫する1泊2日。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "松本・上高地 車なし旅行厳選ガイド：特急あずさ＆上高地線・シャトルバスで行く国宝城下町＆神の降り立つ地 ｜ 日本全国・旅宿クラウド",
+    title: "松本・上高地 車なし旅行厳選ガイド：特急あずさ＆上高地線・シャトルバスで行く国宝城下町＆神の降り立つ地",
     description: "自家用車規制のある上高地こそ公共交通が最強！特急あずさ・松本電鉄上高地線・アルピコシャトルバスを活用し、松本城下町散策と大正池〜河童橋トレッキング、松本駅前大浴場ホテルを満喫する1泊2日。",
   }
 };
@@ -269,7 +269,7 @@ export default function KamikochiMatsumotoCarFreePage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcoupon%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="whitespace-nowrap px-5 py-2.5 bg-rose-500 hover:bg-rose-400 text-white text-xs font-black rounded-xl shadow transition"
             >
               🏷️ 宿泊割引クーポン
@@ -277,7 +277,7 @@ export default function KamikochiMatsumotoCarFreePage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="whitespace-nowrap px-5 py-2.5 bg-white/15 hover:bg-white/25 text-white border border-white/30 text-xs font-black rounded-xl shadow transition"
             >
               🚌 高速バス・直行便
@@ -505,7 +505,7 @@ export default function KamikochiMatsumotoCarFreePage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-rose-600 to-rose-700 hover:from-rose-500 hover:to-rose-600 rounded-xl shadow transition"
                     >
                       ♨️ 楽天トラベルでプラン・空室を確認

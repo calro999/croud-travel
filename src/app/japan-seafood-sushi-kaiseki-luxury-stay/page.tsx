@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-seafood-sushi-kaiseki-luxury-stay/" },
-  title: "極上海鮮寿司＆舟盛り名宿：朝獲れ地魚・一本釣り鮮魚＆板前握り寿司 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "極上海鮮寿司＆舟盛り名宿：朝獲れ地魚・一本釣り鮮魚＆板前握り寿司 厳選ガイド",
   description: "魚好きのための極上海鮮＆寿司温泉宿完全特化！漁港直送の豪華大漁舟盛り、カウンターで職人が一貫ずつ握る極上寿司会席、アワビ踊り焼き、伊勢海老お造り、金目鯛姿煮と海辺の名門温泉旅館を徹底解説。",
   keywords: ["極上海鮮寿司", "舟盛り名宿", "朝獲れ地魚", "一本釣り鮮魚", "板前握り寿司", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "極上海鮮寿司＆舟盛り名宿：朝獲れ地魚・一本釣り鮮魚＆板前握り寿司 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "極上海鮮寿司＆舟盛り名宿：朝獲れ地魚・一本釣り鮮魚＆板前握り寿司 厳選ガイド",
     description: "魚好きのための極上海鮮＆寿司温泉宿完全特化！漁港直送の豪華大漁舟盛り、カウンターで職人が一貫ずつ握る極上寿司会席、アワビ踊り焼き、伊勢海老お造り、金目鯛姿煮と海辺の名門温泉旅館を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "極上海鮮寿司＆舟盛り名宿：朝獲れ地魚・一本釣り鮮魚＆板前握り寿司 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "極上海鮮寿司＆舟盛り名宿：朝獲れ地魚・一本釣り鮮魚＆板前握り寿司 厳選ガイド",
     description: "魚好きのための極上海鮮＆寿司温泉宿完全特化！漁港直送の豪華大漁舟盛り、カウンターで職人が一貫ずつ握る極上寿司会席、アワビ踊り焼き、伊勢海老お造り、金目鯛姿煮と海辺の名門温泉旅館を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function GourmetCuisineHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

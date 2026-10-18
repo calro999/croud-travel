@@ -37,8 +37,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: 'T00:00:00+09:00',
-    dateModified: 'T00:00:00+09:00',
+    datePublished: '2026-10-18T00:00:00+09:00',
+    dateModified: '2026-10-19T00:00:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/wakayama-shirahama-solo-retreat-ocean-onsen-stay',
   };
 
@@ -407,25 +407,25 @@ export default function ArticlePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/aichi"
+                href="/prefectures/aichi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 愛知県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tokushima"
+                href="/prefectures/tokushima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 徳島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okinawa"
+                href="/prefectures/okinawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 沖縄県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hyogo"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 兵庫県の宿・温泉
@@ -470,7 +470,7 @@ export default function ArticlePage() {
                 <td className="p-3 text-stone-600">有り　30台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（15件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F189009%2F189009.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F189009%2F189009.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 白浜古賀の井リゾート＆スパ</td>
@@ -479,7 +479,7 @@ export default function ArticlePage() {
                 <td className="p-3 text-stone-600">110台（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（5796件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18253%2F18253.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18253%2F18253.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 紀州・白浜温泉　むさし</td>
@@ -488,7 +488,7 @@ export default function ArticlePage() {
                 <td className="p-3 text-stone-600">無料駐車場あり（２２０台）　ご到着時、当館玄関までお着け下さいませ</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（2594件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19739%2F19739.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19739%2F19739.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

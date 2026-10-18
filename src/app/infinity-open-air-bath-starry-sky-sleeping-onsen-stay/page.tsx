@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/infinity-open-air-bath-starry-sky-sleeping-onsen-stay/" },
-  title: "満天の星空露天風呂＆寝湯インフィニティ宿：天然プラネタリウム温泉 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "満天の星空露天風呂＆寝湯インフィニティ宿：天然プラネタリウム温泉 厳選ガイド",
   description: "湯船に浮かびながら星屑を数える！星空インフィニティ露天風呂＆寝湯温泉宿完全特化！群馬万座温泉（標高1,800m）、長野白骨温泉・野沢温泉、栃木奥日光湯元温泉、大分久住高原、遮るもののない天空露天風呂と湯浴み体験を徹底解説。",
   keywords: ["満天の星空露天風呂", "寝湯インフィニティ宿", "天然プラネタリウム温泉", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "満天の星空露天風呂＆寝湯インフィニティ宿：天然プラネタリウム温泉 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "満天の星空露天風呂＆寝湯インフィニティ宿：天然プラネタリウム温泉 厳選ガイド",
     description: "湯船に浮かびながら星屑を数える！星空インフィニティ露天風呂＆寝湯温泉宿完全特化！群馬万座温泉（標高1,800m）、長野白骨温泉・野沢温泉、栃木奥日光湯元温泉、大分久住高原、遮るもののない天空露天風呂と湯浴み体験を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "満天の星空露天風呂＆寝湯インフィニティ宿：天然プラネタリウム温泉 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "満天の星空露天風呂＆寝湯インフィニティ宿：天然プラネタリウム温泉 厳選ガイド",
     description: "湯船に浮かびながら星屑を数える！星空インフィニティ露天風呂＆寝湯温泉宿完全特化！群馬万座温泉（標高1,800m）、長野白骨温泉・野沢温泉、栃木奥日光湯元温泉、大分久住高原、遮るもののない天空露天風呂と湯浴み体験を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function StargazingHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-indigo-700 to-purple-800 hover:from-indigo-600 hover:to-purple-700 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function StargazingHubPage() {
                 <td className="p-3 text-stone-600">有り：５０台（無料・予約制）</td>
                 <td className="p-3 font-bold text-amber-600">★3.38（335件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,980〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7517%2F7517.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7517%2F7517.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天空の大地　久住高原ホテル</td>
@@ -261,7 +261,7 @@ export default function StargazingHubPage() {
                 <td className="p-3 text-stone-600">有　200台　無料（事前予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.05（263件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,450〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108903%2F108903.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108903%2F108903.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 久住温泉　フリューゲル久住　輝く星の大地</td>
@@ -270,7 +270,7 @@ export default function StargazingHubPage() {
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（199件）</td>
                 <td className="p-3 font-bold text-rose-600">¥37,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147507%2F147507.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147507%2F147507.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. くじゅう高原温泉　レゾネイトクラブくじゅう</td>
@@ -279,7 +279,7 @@ export default function StargazingHubPage() {
                 <td className="p-3 text-stone-600">有り　屋外６０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（715件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,065〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28133%2F28133.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28133%2F28133.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. クアパーク長湯</td>
@@ -288,7 +288,7 @@ export default function StargazingHubPage() {
                 <td className="p-3 text-stone-600">有り　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.78（86件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F176716%2F176716.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F176716%2F176716.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 奥日光湯元温泉　ゆの森</td>
@@ -297,7 +297,7 @@ export default function StargazingHubPage() {
                 <td className="p-3 text-stone-600">有り　１２台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（116件）</td>
                 <td className="p-3 font-bold text-rose-600">¥41,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54497%2F54497.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54497%2F54497.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

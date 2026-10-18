@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tea-ceremony-authentic-chashitsu-matcha-ryokan-stay/" },
-  title: '茶道・本格茶室＆抹茶体験宿厳選ガイド「京都・金沢・宇治数寄屋ステイ」 | クラウドトラベル',
+  title: '茶道・本格茶室＆抹茶体験宿厳選ガイド「京都・金沢・宇治数寄屋ステイ」',
   description: '数寄屋造りの名門旅館に備えられた本格茶室、裏千家・表千家の点前体験、加賀百万石の茶の湯文化、宇治の茶畑を望むティーリゾートを特集。一期一会の精神と極上和菓子を味わう大人の旅。',
   openGraph: {
-    title: '茶道・本格茶室＆抹茶体験宿厳選ガイド「京都・金沢・宇治数寄屋ステイ」 | クラウドトラベル',
+    title: '茶道・本格茶室＆抹茶体験宿厳選ガイド「京都・金沢・宇治数寄屋ステイ」',
     description: '数寄屋造りの名門旅館に備えられた本格茶室、裏千家・表千家の点前体験、加賀百万石の茶の湯文化、宇治の茶畑を望むティーリゾートを特集。一期一会の精神と極上和菓子を味わう大人の旅。',
     type: 'article',
   },
@@ -17,6 +17,20 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['tea-ceremony-authentic-chashitsu-matcha-ryokan-stay'] || {};
+
+  const allSecHotels = Object.values(secData).flatMap((s: any) => (s && Array.isArray(s.hotels) ? s.hotels : []));
+  const jsonLdItemList = allSecHotels.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": (metadata.title as string) || "tea-ceremony-authentic-chashitsu-matcha-ryokan-stay",
+    "numberOfItems": allSecHotels.length,
+    "itemListElement": allSecHotels.map((h: any, idx: number) => ({
+      "@type": "ListItem",
+      "position": idx + 1,
+      "name": h.hotelName || "厳選宿",
+      "url": h.affiliateUrl || h.hotelInformationUrl || "https://croud-travel.pages.dev/tea-ceremony-authentic-chashitsu-matcha-ryokan-stay/"
+    }))
+  } : null;
 
 
   const jsonLdArticle = {
@@ -46,6 +60,9 @@ export default function Page() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「宮津温泉 料理旅館 茶六別館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「宮津温泉 料理旅館 茶六別館」へは、車：京都縦貫自動車道宮津天橋立ＩＣより約５分 電車：京都丹後鉄道宮津駅より徒歩１０分 高速バス：キセンバ港館より徒歩７分。最寄りの宮津（京都）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「宮津温泉 料理旅館 茶六別館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「宮津温泉 料理旅館 茶六別館」は『天橋立を望む数奇屋造りの料理宿。春夏には岩牡蠣など丹後の海の幸を生かした京風会席をご堪能下。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「宮津温泉 料理旅館 茶六別館」と「生駒のお宿 城山旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
+      {jsonLdItemList && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdItemList) }} />}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">
@@ -125,7 +142,7 @@ export default function Page() {
                       <a
                         href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1 px-4 py-2 bg-stone-900 hover:bg-amber-900 text-amber-100 rounded-lg text-xs font-bold transition"
                       >
                         詳細・宿泊プラン
@@ -203,7 +220,7 @@ export default function Page() {
                       <a
                         href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1 px-4 py-2 bg-stone-900 hover:bg-amber-900 text-amber-100 rounded-lg text-xs font-bold transition"
                       >
                         詳細・宿泊プラン
@@ -281,7 +298,7 @@ export default function Page() {
                       <a
                         href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1 px-4 py-2 bg-stone-900 hover:bg-amber-900 text-amber-100 rounded-lg text-xs font-bold transition"
                       >
                         詳細・宿泊プラン
@@ -486,25 +503,25 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kagoshima"
+                href="/prefectures/kagoshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 鹿児島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamagata"
+                href="/prefectures/yamagata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 山形県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagasaki"
+                href="/prefectures/nagasaki/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 長崎県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shimane"
+                href="/prefectures/shimane/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 島根県の宿・温泉

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の京都：嵐山・嵯峨野の錦秋渡月橋と保津川下り！紅葉名所を満喫するおすすめ温泉・極上宿5選「2026最新」',
     description: '京都の秋を代表する嵐山・渡月橋の山粧う紅葉美と保津川下り。天龍寺の曹源池庭園や嵯峨野竹林の小径散策に最適な嵐山温泉の厳選宿5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay',
   }
 };
 
 export default function KyotoArashiyamaAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の京都：嵐山・嵯峨野の錦秋渡月橋と保津川下り！紅葉名所を満喫するおすすめ温泉・極上宿5選「2026最新」\",\"description\":\"京都の秋を代表する嵐山・渡月橋の山粧う紅葉美と保津川下り。天龍寺の曹源池庭園や嵯峨野竹林の小径散策に最適な嵐山温泉の厳選宿5選。翠嵐、花伝抄など人気宿の宿泊料金・アクセス・魅力を徹底比較解説！\",\"url\":\"https://croud-travel.pages.dev/autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の京都：嵐山・嵯峨野の錦秋渡月橋と保津川下り！紅葉名所を満喫するおすすめ温泉・極上宿5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の京都：嵐山・嵯峨野の錦秋渡月橋と保津川下り！紅葉名所を満喫するおすすめ温泉・極上宿5選「2026最新」\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"嵐山・嵯峨野の秋旅アドバイス\",\"url\":\"https://croud-travel.pages.dev/autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"翠嵐ラグジュアリーコレクションホテル京都\",\"url\":\"https://croud-travel.pages.dev/autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"京都　嵐山温泉　花伝抄（共立リゾート）（２０２６年５月１日リニューアルオープン）\",\"url\":\"https://croud-travel.pages.dev/autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"京都嵐山　花のいえ\",\"url\":\"https://croud-travel.pages.dev/autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"嵐山温泉彩四季の宿　花筏\",\"url\":\"https://croud-travel.pages.dev/autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"ホテル　ビナリオ嵯峨嵐山\",\"url\":\"https://croud-travel.pages.dev/autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"清水寺\",\"url\":\"https://croud-travel.pages.dev/autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"金閣寺（鹿苑寺）\",\"url\":\"https://croud-travel.pages.dev/autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"伏見稲荷大社\",\"url\":\"https://croud-travel.pages.dev/autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"嵐山 竹林の小径\",\"url\":\"https://croud-travel.pages.dev/autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/158466/158466.jpg"
@@ -142,7 +146,7 @@ export default function KyotoArashiyamaAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158466%2F158466.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function KyotoArashiyamaAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130702%2F130702.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function KyotoArashiyamaAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18908%2F18908.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function KyotoArashiyamaAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F73923%2F73923.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function KyotoArashiyamaAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F144950%2F144950.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function KyotoArashiyamaAutumnPage() {
                 <td className="p-3 text-stone-600">有り　9台 3,300円（税込／泊）　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.71（31件）</td>
                 <td className="p-3 font-bold text-rose-600">¥64,895〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158466%2F158466.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158466%2F158466.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 京都　嵐山温泉　花伝抄（共立リゾート）（２０２６年５月１日リニューアルオープン）</td>
@@ -396,7 +400,7 @@ export default function KyotoArashiyamaAutumnPage() {
                 <td className="p-3 text-stone-600">全27台  予約不要 / 先着順  有料※満車の場合、周辺コインパーキングをご利用下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（1986件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130702%2F130702.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130702%2F130702.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 京都嵐山　花のいえ</td>
@@ -405,7 +409,7 @@ export default function KyotoArashiyamaAutumnPage() {
                 <td className="p-3 text-stone-600">有り　12台　令和8年12月末まで無料　先着順（令和9年1月より駐車料金1台1泊につき1000円）</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（114件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,644〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18908%2F18908.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18908%2F18908.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 嵐山温泉彩四季の宿　花筏</td>
@@ -414,7 +418,7 @@ export default function KyotoArashiyamaAutumnPage() {
                 <td className="p-3 text-stone-600">有り　１０台　無料　要予約。最寄りICは大原野IC(花筏まで１５分）</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（318件）</td>
                 <td className="p-3 font-bold text-rose-600">¥26,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F73923%2F73923.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F73923%2F73923.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテル　ビナリオ嵯峨嵐山</td>
@@ -423,7 +427,7 @@ export default function KyotoArashiyamaAutumnPage() {
                 <td className="p-3 text-stone-600">屋外15台【高さ制限なし、無料先着順でのご案内※宿泊当日午後〜チェックアウトまで】</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（923件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,240〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F144950%2F144950.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F144950%2F144950.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -600,6 +604,9 @@ export default function KyotoArashiyamaAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay" />
+        </div>
 
       </article>
   );

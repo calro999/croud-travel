@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-atagawa-inatori-kinmedai-hotspring-stay/" },
-  title: "静岡・熱川＆稲取：湯けむり露天・ブランド稲取キンメ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "静岡・熱川＆稲取：湯けむり露天・ブランド稲取キンメ宿 厳選ガイド",
   description: "街の至る所から温泉櫓の白煙が立ち上る「熱川温泉」、波打ち際の混浴絶景露天風呂、全国最高峰ブランド「稲取キンメ」の煮付け、熱川バナナワニ園、雛のつるし飾り発祥の地を徹底解説。オーシャンビュー客室や貸切温泉旅館を厳選。",
   keywords: ["静岡", "熱川", "稲取", "湯けむり露天", "ブランド稲取キンメ宿", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "静岡・熱川＆稲取：湯けむり露天・ブランド稲取キンメ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "静岡・熱川＆稲取：湯けむり露天・ブランド稲取キンメ宿 厳選ガイド",
     description: "街の至る所から温泉櫓の白煙が立ち上る「熱川温泉」、波打ち際の混浴絶景露天風呂、全国最高峰ブランド「稲取キンメ」の煮付け、熱川バナナワニ園、雛のつるし飾り発祥の地を徹底解説。オーシャンビュー客室や貸切温泉旅館を厳選。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "静岡・熱川＆稲取：湯けむり露天・ブランド稲取キンメ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "静岡・熱川＆稲取：湯けむり露天・ブランド稲取キンメ宿 厳選ガイド",
     description: "街の至る所から温泉櫓の白煙が立ち上る「熱川温泉」、波打ち際の混浴絶景露天風呂、全国最高峰ブランド「稲取キンメ」の煮付け、熱川バナナワニ園、雛のつるし飾り発祥の地を徹底解説。オーシャンビュー客室や貸切温泉旅館を厳選。",
   }
 };
@@ -214,7 +214,7 @@ export default function MicroTouristHubPage() {
                           <a
                             href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                             target="_blank"
-                            rel="noopener noreferrer"
+                            rel="sponsored noopener noreferrer"
                             className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-teal-700 to-teal-800 hover:from-teal-600 hover:to-teal-700 rounded-xl shadow transition"
                           >
                             ✈️ 楽天トラベルで宿泊プラン・空室を見る

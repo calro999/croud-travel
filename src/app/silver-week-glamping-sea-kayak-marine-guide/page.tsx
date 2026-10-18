@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-sea-kayak-marine-guide/" },
-  title: "海グランピング SUP＆シーカヤック体験：秋のビーチ直結！波音を聞いて眠るウォーターフロントリゾート ｜ 日本全国・旅宿クラウド",
+  title: "海グランピング SUP＆シーカヤック体験：秋のビーチ直結！波音を聞いて眠るウォーターフロントリゾート",
   description:
     "山だけでなく海も最高！秋風が心地よい9月のシーサイドグランピング特集。目の前のビーチで楽しむSUPやシーカヤック、初心者向け海釣り体験、水平線に沈む夕日と海鮮浜焼きBBQのモデルコース。",
   keywords: ["海グランピング", "SUP", "シーカヤック体験", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "海グランピング SUP＆シーカヤック体験：秋のビーチ直結！波音を聞いて眠るウォーターフロントリゾート ｜ 日本全国・旅宿クラウド",
+    title: "海グランピング SUP＆シーカヤック体験：秋のビーチ直結！波音を聞いて眠るウォーターフロントリゾート",
     description: "山だけでなく海も最高！秋風が心地よい9月のシーサイドグランピング特集。目の前のビーチで楽しむSUPやシーカヤック、初心者向け海釣り体験、水平線に沈む夕日と海鮮浜焼きBBQのモデルコース。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "海グランピング SUP＆シーカヤック体験：秋のビーチ直結！波音を聞いて眠るウォーターフロントリゾート ｜ 日本全国・旅宿クラウド",
+    title: "海グランピング SUP＆シーカヤック体験：秋のビーチ直結！波音を聞いて眠るウォーターフロントリゾート",
     description: "山だけでなく海も最高！秋風が心地よい9月のシーサイドグランピング特集。目の前のビーチで楽しむSUPやシーカヤック、初心者向け海釣り体験、水平線に沈む夕日と海鮮浜焼きBBQのモデルコース。",
   }
 };
@@ -168,6 +168,8 @@ export default function SilverWeekGlampingSeaKayakMarinePage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 
       {/* ヒーローセクション（Cyanパレット：透明感あふれる碧海と秋の渚） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-cyan-950 via-slate-900 to-sky-950 text-white p-8 md:p-14 shadow-2xl border border-cyan-500/30">
@@ -309,7 +311,7 @@ export default function SilverWeekGlampingSeaKayakMarinePage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="inline-flex items-center justify-center px-4 py-2.5 bg-gradient-to-r from-cyan-600 to-blue-600 hover:from-cyan-500 hover:to-blue-500 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5 shrink-0"
                   >
                     楽天トラベルで空室確認 🌊

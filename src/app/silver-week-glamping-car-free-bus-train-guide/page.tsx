@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-car-free-bus-train-guide/" },
-  title: "車なし・電車と送迎で行けるグランピング：シルバーウィークに免許なし＆ペーパードライバーでも行ける宿 ｜ 日本全国・旅宿クラウド",
+  title: "車なし・電車と送迎で行けるグランピング：シルバーウィークに免許なし＆ペーパードライバーでも行ける宿",
   description:
     "レンタカーや運転免許がなくても秋のグランピングへ！主要駅から徒歩圏内、無料シャトル送迎バス付き、高速バス停留所からすぐの好立地グランピング施設厳選。都心から乗り換え少なめの快適アクセス完全解説。",
   keywords: ["車なし", "電車と送迎で行けるグランピング", "シルバーウィークに免許なし", "ペーパードライバーでも行ける宿", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "車なし・電車と送迎で行けるグランピング：シルバーウィークに免許なし＆ペーパードライバーでも行ける宿 ｜ 日本全国・旅宿クラウド",
+    title: "車なし・電車と送迎で行けるグランピング：シルバーウィークに免許なし＆ペーパードライバーでも行ける宿",
     description: "レンタカーや運転免許がなくても秋のグランピングへ！主要駅から徒歩圏内、無料シャトル送迎バス付き、高速バス停留所からすぐの好立地グランピング施設厳選。都心から乗り換え少なめの快適アクセス完全解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "車なし・電車と送迎で行けるグランピング：シルバーウィークに免許なし＆ペーパードライバーでも行ける宿 ｜ 日本全国・旅宿クラウド",
+    title: "車なし・電車と送迎で行けるグランピング：シルバーウィークに免許なし＆ペーパードライバーでも行ける宿",
     description: "レンタカーや運転免許がなくても秋のグランピングへ！主要駅から徒歩圏内、無料シャトル送迎バス付き、高速バス停留所からすぐの好立地グランピング施設厳選。都心から乗り換え少なめの快適アクセス完全解説。",
   }
 };
@@ -159,6 +159,8 @@ export default function SilverWeekGlampingCarFreeBusTrainPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 
       {/* ヒーローセクション（Tealパレット） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-stone-950 via-teal-950 to-stone-900 text-white p-8 md:p-14 shadow-2xl border border-teal-500/20">
@@ -290,7 +292,7 @@ export default function SilverWeekGlampingCarFreeBusTrainPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="inline-flex items-center justify-center px-4 py-2.5 bg-gradient-to-r from-teal-600 to-teal-700 hover:from-teal-500 hover:to-teal-600 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5 shrink-0"
                   >
                     楽天トラベルで空室確認 ✈️

@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-luxury-suite-villa-guide/" },
-  title: "1日3組限定 最高峰ラグジュアリーグランピングヴィラ：誰にも会わない完全プライベート空間＆客室温泉 ｜ 日本全国・旅宿クラウド",
+  title: "1日3組限定 最高峰ラグジュアリーグランピングヴィラ：誰にも会わない完全プライベート空間＆客室温泉",
   description:
     "一般のドームテントとは一線を画す完全独立型の一棟貸しヴィラ！プライベート温泉プール、専用露天風呂、専属シェフが出張調理する極上フレンチBBQ、大人の隠れ家ラグジュアリーステイ。",
   keywords: ["1日3組限定", "客室温泉", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: "1日3組限定 最高峰ラグジュアリーグランピングヴィラ：誰にも会わない完全プライベート空間＆客室温泉 ｜ 日本全国・旅宿クラウド",
+    title: "1日3組限定 最高峰ラグジュアリーグランピングヴィラ：誰にも会わない完全プライベート空間＆客室温泉",
     description: "一般のドームテントとは一線を画す完全独立型の一棟貸しヴィラ！プライベート温泉プール、専用露天風呂、専属シェフが出張調理する極上フレンチBBQ、大人の隠れ家ラグジュアリーステイ。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "1日3組限定 最高峰ラグジュアリーグランピングヴィラ：誰にも会わない完全プライベート空間＆客室温泉 ｜ 日本全国・旅宿クラウド",
+    title: "1日3組限定 最高峰ラグジュアリーグランピングヴィラ：誰にも会わない完全プライベート空間＆客室温泉",
     description: "一般のドームテントとは一線を画す完全独立型の一棟貸しヴィラ！プライベート温泉プール、専用露天風呂、専属シェフが出張調理する極上フレンチBBQ、大人の隠れ家ラグジュアリーステイ。",
   }
 };
@@ -173,6 +173,8 @@ export default function SilverWeekGlampingLuxurySuiteVillaPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 
       {/* ヒーローセクション（Indigo/Navy × Gold/Violet パレット） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-indigo-950 via-slate-950 to-indigo-900 text-white p-8 md:p-14 shadow-2xl border border-indigo-500/30">
@@ -355,7 +357,7 @@ export default function SilverWeekGlampingLuxurySuiteVillaPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="inline-flex items-center justify-center px-4 py-2.5 bg-gradient-to-r from-indigo-700 to-indigo-900 hover:from-indigo-600 hover:to-indigo-800 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5 shrink-0"
                   >
                     楽天トラベルで空室確認 ✈️

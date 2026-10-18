@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-hot-pot-gourmet/" },
-  title: '冬のご馳走：あったかご当地鍋＆極上温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド',
+  title: '冬のご馳走：あったかご当地鍋＆極上温泉旅館 厳選ガイド',
   description: '冬の寒さを吹き飛ばす至福の鍋料理！秋田の比内地鶏きりたんぽ鍋、博多の濃厚水炊き＆もつ鍋、茨城大洗の濃厚あんこう鍋、山口下関のとらふぐちり鍋など。',
   keywords: ["冬のご馳走", "あったかご当地鍋", "極上温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "冬のご馳走：あったかご当地鍋＆極上温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "冬のご馳走：あったかご当地鍋＆極上温泉旅館 厳選ガイド",
     description: "冬の寒さを吹き飛ばす至福の鍋料理！秋田の比内地鶏きりたんぽ鍋、博多の濃厚水炊き＆もつ鍋、茨城大洗の濃厚あんこう鍋、山口下関のとらふぐちり鍋など。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "冬のご馳走：あったかご当地鍋＆極上温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "冬のご馳走：あったかご当地鍋＆極上温泉旅館 厳選ガイド",
     description: "冬の寒さを吹き飛ばす至福の鍋料理！秋田の比内地鶏きりたんぽ鍋、博多の濃厚水炊き＆もつ鍋、茨城大洗の濃厚あんこう鍋、山口下関のとらふぐちり鍋など。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

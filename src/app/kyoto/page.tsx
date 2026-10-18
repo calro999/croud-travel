@@ -39,13 +39,13 @@ interface RakutenCategoryData {
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "京都旅行 厳選ガイド 2026：1泊2日・2泊3日モデルコース＆カップル・子連れ・女子旅・穴場・おすすめホテル・温泉旅館 ｜ 旅宿クラウド",
+  title: "京都旅行 厳選ガイド 2026：1泊2日・2泊3日モデルコース＆カップル・子連れ・女子旅・穴場・おすすめホテル・温泉旅館",
   description:
     "京都旅行の計画を完全サポート！1泊2日・2泊3日の王道＆穴場モデルコース、カップルデート・子連れファミリー・女子旅向けプラン、雨の日や夜の観光スポット、春の桜・秋の紅葉名所から、おすすめ厳選による京都駅周辺ホテル・温泉旅館・美味しい朝食付き宿まで徹底網羅。",
   keywords: ["京都旅行", "2026", "1泊2日", "2泊3日モデルコース", "カップル", "子連れ", "女子旅"],
   alternates: { canonical: "https://croud-travel.pages.dev/kyoto/" },
   openGraph: {
-    title: "京都旅行 厳選ガイド 2026 ｜ 旅宿クラウド",
+    title: "京都旅行 厳選ガイド 2026",
     description: "京都旅行を思い立ったらまず読むハブガイド。1泊2日/2泊3日モデルコース・旅行タイプ別・シチュエーション別・公式おすすめ人気ホテルを完全連結。",
     url: "https://croud-travel.pages.dev/kyoto",
     siteName: "旅宿クラウド",
@@ -136,13 +136,15 @@ export default function KyotoHubPage() {
   return (
     <div className="space-y-12 max-w-5xl mx-auto">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdFaq) }} />
 
       {/* パンくずリスト */}
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/prefectures/kyoto" className="hover:text-teal-800 transition">京都府</Link>
+        <Link href="/prefectures/kyoto/" className="hover:text-teal-800 transition">京都府</Link>
         <span>/</span>
         <span className="text-emerald-950 font-bold">京都旅行 完全ガイド（ハブページ）</span>
       </nav>
@@ -490,7 +492,7 @@ export default function KyotoHubPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-rose-700 to-rose-800 hover:from-rose-600 hover:to-rose-700 rounded-xl shadow transition"
                   >
                     ✈️ 楽天トラベルで最安値・空室を見る
@@ -568,7 +570,7 @@ export default function KyotoHubPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-2.5 text-xs font-black text-amber-950 bg-gradient-to-r from-amber-400 to-amber-300 hover:from-amber-300 hover:to-amber-200 rounded-xl shadow transition"
                   >
                     ✈️ 楽天トラベルで朝食プランを見る
@@ -648,7 +650,7 @@ export default function KyotoHubPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-2.5 text-xs font-black text-stone-950 bg-gradient-to-r from-amber-400 to-amber-300 hover:from-amber-300 hover:to-amber-200 rounded-xl shadow transition"
                   >
                     ✈️ 楽天トラベルで空室・プランを見る
@@ -673,7 +675,7 @@ export default function KyotoHubPage() {
         </p>
         <div className="flex flex-wrap justify-center gap-4 pt-2">
           <Link
-            href="/prefectures/kyoto"
+            href="/prefectures/kyoto/"
             className="px-8 py-3 text-xs font-bold text-white bg-stone-900 hover:bg-stone-800 rounded-xl shadow transition"
           >
             🗾 京都府の観光名所・お土産・地酒ガイドへ

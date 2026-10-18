@@ -28,19 +28,19 @@ interface RakutenCategoryData {
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "北海道旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆札幌・小樽・函館・富良野・海鮮グルメ・絶景温泉宿 ｜ 旅宿クラウド",
+  title: "北海道旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆札幌・小樽・函館・富良野・海鮮グルメ・絶景温泉宿",
   description:
     "北海道旅行の計画を完全サポート！札幌・小樽・函館・富良野の王道＆広域モデルコース、絶品海鮮丼＆朝食自慢ホテル、登別・定山渓温泉旅館、カップル・子連れファミリー向け宿までおすすめの宿泊プランまで完全網羅。",
   keywords: ["北海道旅行", "完全計画ガイド", "2026", "2泊3日", "3泊4日モデルコース", "札幌", "小樽"],
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido/" },
   openGraph: {
-    title: "北海道旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆札幌・小樽・函館・富良野・海鮮グルメ・絶景温泉宿 ｜ 旅宿クラウド",
+    title: "北海道旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆札幌・小樽・函館・富良野・海鮮グルメ・絶景温泉宿",
     description: "北海道旅行の計画を完全サポート！札幌・小樽・函館・富良野の王道＆広域モデルコース、絶品海鮮丼＆朝食自慢ホテル、登別・定山渓温泉旅館、カップル・子連れファミリー向け宿までおすすめの宿泊プランまで完全網羅。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "北海道旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆札幌・小樽・函館・富良野・海鮮グルメ・絶景温泉宿 ｜ 旅宿クラウド",
+    title: "北海道旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆札幌・小樽・函館・富良野・海鮮グルメ・絶景温泉宿",
     description: "北海道旅行の計画を完全サポート！札幌・小樽・函館・富良野の王道＆広域モデルコース、絶品海鮮丼＆朝食自慢ホテル、登別・定山渓温泉旅館、カップル・子連れファミリー向け宿までおすすめの宿泊プランまで完全網羅。",
   }
 };
@@ -90,7 +90,7 @@ export default function HokkaidoHubPage() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/prefectures/hokkaido" className="hover:text-teal-800 transition">北海道</Link>
+        <Link href="/prefectures/hokkaido/" className="hover:text-teal-800 transition">北海道</Link>
         <span>/</span>
         <span className="text-emerald-950 font-bold">北海道旅行 完全ガイド</span>
       </nav>
@@ -148,7 +148,7 @@ export default function HokkaidoHubPage() {
                   </div>
                 </div>
                 <div className="p-4 pt-0">
-                  <a href={hotel.affiliateUrl} target="_blank" rel="noopener noreferrer" className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-blue-700 to-blue-800 hover:from-blue-600 hover:to-blue-700 rounded-xl shadow transition">
+                  <a href={hotel.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer" className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-blue-700 to-blue-800 hover:from-blue-600 hover:to-blue-700 rounded-xl shadow transition">
                     ✈️ 楽天トラベルで空室・プランを見る
                   </a>
                 </div>
@@ -190,7 +190,7 @@ export default function HokkaidoHubPage() {
                   </div>
                 </div>
                 <div className="p-4 pt-0">
-                  <a href={hotel.affiliateUrl} target="_blank" rel="noopener noreferrer" className="block w-full text-center py-2.5 text-xs font-black text-amber-950 bg-gradient-to-r from-amber-400 to-amber-300 hover:from-amber-300 hover:to-amber-200 rounded-xl shadow transition">
+                  <a href={hotel.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer" className="block w-full text-center py-2.5 text-xs font-black text-amber-950 bg-gradient-to-r from-amber-400 to-amber-300 hover:from-amber-300 hover:to-amber-200 rounded-xl shadow transition">
                     ✈️ 楽天トラベルで朝食プランを見る
                   </a>
                 </div>
@@ -230,7 +230,7 @@ export default function HokkaidoHubPage() {
                 <td className="p-3 text-stone-600">ご到着順にてご案内。ご予約は承れません。１泊につき１５００円／１台。ハイルーフタイプ用もございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.05（3969件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F56806%2F56806.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F56806%2F56806.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＦＯＲＺＡ　ホテルフォルツァ札幌駅前</td>
@@ -239,7 +239,7 @@ export default function HokkaidoHubPage() {
                 <td className="p-3 text-stone-600">近隣の提携駐車場をご案内いたします。詳細は公式ホームページ内「周辺提携駐車場情報」をご確認ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（1105件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,750〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178964%2F178964.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178964%2F178964.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. リッチモンドホテル札幌駅前</td>
@@ -248,7 +248,7 @@ export default function HokkaidoHubPage() {
                 <td className="p-3 text-stone-600">有り　30台　1,400円（税込／泊）</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（4788件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,150〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50125%2F50125.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50125%2F50125.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルグレイスリー札幌</td>
@@ -257,7 +257,7 @@ export default function HokkaidoHubPage() {
                 <td className="p-3 text-stone-600">有料 (但し、オートバイは利用不可）</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（5383件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,450〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F635%2F635.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F635%2F635.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. プレミアホテル－ＴＳＵＢＡＫＩ－札幌</td>
@@ -266,7 +266,7 @@ export default function HokkaidoHubPage() {
                 <td className="p-3 text-stone-600">地下駐車場200台◇1泊1台1000円◇高さ制限2.1m◇24時間出し入れ自由</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（2189件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1432%2F1432.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1432%2F1432.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ホテル京阪　札幌</td>
@@ -275,7 +275,7 @@ export default function HokkaidoHubPage() {
                 <td className="p-3 text-stone-600">20台有り予約不可・先着順　一泊1,500円　満車時は同料金にて提携駐車場をご案内いたします</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（3638件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79254%2F79254.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79254%2F79254.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

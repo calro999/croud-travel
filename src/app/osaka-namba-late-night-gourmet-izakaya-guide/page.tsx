@@ -157,6 +157,8 @@ export default function OsakaNambaLateNightGuidePage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「夜24時以降も開いているカスうどん・串カツ・横丁酒場」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"大阪なんば・心斎橋 深夜営業グルメ＆居酒屋：夜24時以降も開いているカスうどん・串カツ・横丁酒場エリアでは、「ＦＯＲＺＡ　ホテルフォルツァ大阪なんば道頓堀」（楽天評価★4.75・クチコミ450件、所在地：大阪府大阪市中央区道頓堀1丁目4-22 3F）をはじめとする宿を拠点にし、最寄り駅（なんば）やアクセス条件（近畿日本鉄道・大阪メトロ「なんば駅」15B出口、大阪メトロ「日本橋駅」2番出口より徒歩約5分）に合わせて午前中に周辺観光名所を巡り、15時のチェックイン後に温泉や夕食会席を堪能するスケジュールが最も効率的です。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"宿泊予約時は最安料金目安（例：「ホテルモーニングボックス大阪心斎橋」は1名あたり¥4,230〜）や駐車場条件（無し）を事前に確認しましょう。連休や紅葉・年末年始シーズンは早期に満室となるため、楽天トラベルの早期割引プランやクーポンの活用がおすすめです。"}}]}) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* Hero Header */}
       <section className="bg-gradient-to-b from-slate-950 via-slate-900 to-emerald-950 text-white py-16 px-4 sm:px-6 relative overflow-hidden border-b border-emerald-500/20">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(16,185,129,0.15),transparent_50%)]" />
@@ -323,7 +325,7 @@ export default function OsakaNambaLateNightGuidePage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="block w-full text-center py-2.5 px-3 bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-500 hover:to-teal-500 text-white font-bold text-xs sm:text-sm rounded-lg shadow-lg hover:shadow-emerald-500/20 transition-all"
                     >
                       楽天トラベルで空室・プランを見る
@@ -441,25 +443,25 @@ export default function OsakaNambaLateNightGuidePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/niigata"
+                href="/prefectures/niigata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 新潟県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagoshima"
+                href="/prefectures/kagoshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 鹿児島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hiroshima"
+                href="/prefectures/hiroshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 広島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kanagawa"
+                href="/prefectures/kanagawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 神奈川県の宿・温泉

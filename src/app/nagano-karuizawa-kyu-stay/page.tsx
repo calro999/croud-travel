@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-karuizawa-kyu-stay/" },
-  title: "長野・旧軽井沢＆中軽井沢：雲場池・ハルニレテラス＆高原リゾート宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長野・旧軽井沢＆中軽井沢：雲場池・ハルニレテラス＆高原リゾート宿 厳選ガイド",
   description: "軽井沢エリア完全特化！旧軽井沢銀座、雲場池（スワンレイク）、星野エリア・ハルニレテラス、トンボの湯周辺の観光と、森の隠れ家ホテル・クラシック宿を徹底解説。",
   keywords: ["長野", "旧軽井沢", "中軽井沢", "雲場池", "ハルニレテラス", "高原リゾート宿", "温泉宿"],
   openGraph: {
-    title: "長野・旧軽井沢＆中軽井沢：雲場池・ハルニレテラス＆高原リゾート宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "長野・旧軽井沢＆中軽井沢：雲場池・ハルニレテラス＆高原リゾート宿 厳選ガイド",
     description: "軽井沢エリア完全特化！旧軽井沢銀座、雲場池（スワンレイク）、星野エリア・ハルニレテラス、トンボの湯周辺の観光と、森の隠れ家ホテル・クラシック宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "長野・旧軽井沢＆中軽井沢：雲場池・ハルニレテラス＆高原リゾート宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "長野・旧軽井沢＆中軽井沢：雲場池・ハルニレテラス＆高原リゾート宿 厳選ガイド",
     description: "軽井沢エリア完全特化！旧軽井沢銀座、雲場池（スワンレイク）、星野エリア・ハルニレテラス、トンボの湯周辺の観光と、森の隠れ家ホテル・クラシック宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

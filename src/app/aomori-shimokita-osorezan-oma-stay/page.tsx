@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/aomori-shimokita-osorezan-oma-stay/" },
-  title: "青森・下北半島＆恐山・大間：本州最北端大間マグロ・日本三大霊場恐山宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "青森・下北半島＆恐山・大間：本州最北端大間マグロ・日本三大霊場恐山宿 厳選ガイド",
   description: "本州最果ての秘境と黒いダイヤモンド・青森下北半島エリア完全特化！日本三大霊場「恐山（宇曽利湖・恐山温泉）」、本州最北端「大間崎・大間まぐろ一本釣り」、国の名勝「仏ヶ浦」、白濁硫黄泉「下風呂温泉郷宿」を徹底解説。",
   keywords: ["青森", "下北半島", "恐山", "大間", "本州最北端大間マグロ", "日本三大霊場恐山宿", "温泉宿"],
   openGraph: {
-    title: "青森・下北半島＆恐山・大間：本州最北端大間マグロ・日本三大霊場恐山宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "青森・下北半島＆恐山・大間：本州最北端大間マグロ・日本三大霊場恐山宿 厳選ガイド",
     description: "本州最果ての秘境と黒いダイヤモンド・青森下北半島エリア完全特化！日本三大霊場「恐山（宇曽利湖・恐山温泉）」、本州最北端「大間崎・大間まぐろ一本釣り」、国の名勝「仏ヶ浦」、白濁硫黄泉「下風呂温泉郷宿」を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "青森・下北半島＆恐山・大間：本州最北端大間マグロ・日本三大霊場恐山宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "青森・下北半島＆恐山・大間：本州最北端大間マグロ・日本三大霊場恐山宿 厳選ガイド",
     description: "本州最果ての秘境と黒いダイヤモンド・青森下北半島エリア完全特化！日本三大霊場「恐山（宇曽利湖・恐山温泉）」、本州最北端「大間崎・大間まぐろ一本釣り」、国の名勝「仏ヶ浦」、白濁硫黄泉「下風呂温泉郷宿」を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

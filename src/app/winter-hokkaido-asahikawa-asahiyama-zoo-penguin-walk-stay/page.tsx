@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -58,8 +59,8 @@ export default function AsahikawaPenguinWinterPage() {
     headline: '旭川＆旭山動物園：冬のペンギンの散歩と美瑛青い池ライトアップ！旭川ラーメン＆天然温泉サウナを満喫する名宿5選',
     description: '冬の北海道・旭川観光の完全攻略ガイド。積雪期限定の旭山動物園「ペンギンの散歩」の実施時間や見学のコツ、氷点下の美瑛「白金青い池・白ひげの滝」幻想ライトアップ、熱々旭川醤油ラーメンの名店、そして冷えた身体を癒やす天然温泉＆サウナ付き厳選ホテル5選。',
     image: 'https://img.travel.rakuten.co.jp/share/HOTEL/148897/148897.jpg',
-    datePublished: 'T00:00:00+09:00',
-    dateModified: 'T00:00:00+09:00',
+    datePublished: '2026-10-18T00:00:00+09:00',
+    dateModified: '2026-10-19T00:00:00+09:00',
     author: {
       '@type': 'Organization',
       name: 'トラベルマップ編集部',
@@ -319,7 +320,7 @@ export default function AsahikawaPenguinWinterPage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F148897%2F148897.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-sky-600 transition-colors"
                   >
                     ホテルＷＢＦグランデ旭川
@@ -369,7 +370,7 @@ export default function AsahikawaPenguinWinterPage() {
                         <a 
                           href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F148897%2F148897.html" 
                           target="_blank" 
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="inline-flex items-center justify-center px-5 py-2.5 rounded-xl bg-sky-600 hover:bg-sky-700 text-white font-bold text-sm shadow-sm transition-all shadow-sky-600/20"
                         >
                           空室・宿泊プランを確認
@@ -404,7 +405,7 @@ export default function AsahikawaPenguinWinterPage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147739%2F147739.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-sky-600 transition-colors"
                   >
                     ＪＲイン旭川
@@ -454,7 +455,7 @@ export default function AsahikawaPenguinWinterPage() {
                         <a 
                           href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147739%2F147739.html" 
                           target="_blank" 
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="inline-flex items-center justify-center px-5 py-2.5 rounded-xl bg-sky-600 hover:bg-sky-700 text-white font-bold text-sm shadow-sm transition-all shadow-sky-600/20"
                         >
                           空室・宿泊プランを確認
@@ -489,7 +490,7 @@ export default function AsahikawaPenguinWinterPage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F224%2F224.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-sky-600 transition-colors"
                   >
                     アートホテル旭川
@@ -539,7 +540,7 @@ export default function AsahikawaPenguinWinterPage() {
                         <a 
                           href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F224%2F224.html" 
                           target="_blank" 
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="inline-flex items-center justify-center px-5 py-2.5 rounded-xl bg-sky-600 hover:bg-sky-700 text-white font-bold text-sm shadow-sm transition-all shadow-sky-600/20"
                         >
                           空室・宿泊プランを確認
@@ -574,7 +575,7 @@ export default function AsahikawaPenguinWinterPage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4652%2F4652.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-sky-600 transition-colors"
                   >
                     ホテルクレッセント旭川
@@ -624,7 +625,7 @@ export default function AsahikawaPenguinWinterPage() {
                         <a 
                           href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4652%2F4652.html" 
                           target="_blank" 
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="inline-flex items-center justify-center px-5 py-2.5 rounded-xl bg-sky-600 hover:bg-sky-700 text-white font-bold text-sm shadow-sm transition-all shadow-sky-600/20"
                         >
                           空室・宿泊プランを確認
@@ -659,7 +660,7 @@ export default function AsahikawaPenguinWinterPage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50750%2F50750.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-sky-600 transition-colors"
                   >
                     天然温泉プレミアホテル―ＣＡＢＩＮ―旭川
@@ -709,7 +710,7 @@ export default function AsahikawaPenguinWinterPage() {
                         <a 
                           href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50750%2F50750.html" 
                           target="_blank" 
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="inline-flex items-center justify-center px-5 py-2.5 rounded-xl bg-sky-600 hover:bg-sky-700 text-white font-bold text-sm shadow-sm transition-all shadow-sky-600/20"
                         >
                           空室・宿泊プランを確認

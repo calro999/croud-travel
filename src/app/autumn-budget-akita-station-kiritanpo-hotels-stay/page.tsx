@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetAkitaStationHotelsPage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋田駅前：新米きりたんぽ鍋＆千秋公園紅葉！2,000円台〜泊まれる格安ホテル5選\",\"description\":\"秋の新米あきたこまちで作る本場の熱々きりたんぽ鍋や比内地鶏、久保田城跡・千秋公園の美しい紅葉！秋田新幹線・秋田駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-akita-station-kiritanpo-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋田駅前：新米きりたんぽ鍋＆千秋公園紅葉！2,000円台〜泊まれる格安ホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-akita-station-kiritanpo-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋田駅前：新米きりたんぽ鍋＆千秋公園紅葉！2,000円台〜泊まれる格安ホテル5選\",\"numberOfItems\":8,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"佐竹藩主が築いた久保田城跡・水濠と御隅櫓を彩る秋の紅葉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-akita-station-kiritanpo-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ＥＮ　ＨＯＴＥＬ　Ａｋｉｔａ\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-akita-station-kiritanpo-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"リッチモンドホテル秋田駅前\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-akita-station-kiritanpo-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"東横ＩＮＮ秋田駅東口\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-akita-station-kiritanpo-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"乳頭温泉郷\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-akita-station-kiritanpo-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"角館の武家屋敷通り\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-akita-station-kiritanpo-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"田沢湖\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-akita-station-kiritanpo-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"男鹿半島・入道崎\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-akita-station-kiritanpo-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -149,7 +153,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196574%2F196574.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-500 hover:to-orange-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -204,7 +208,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187580%2F187580.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-500 hover:to-orange-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -259,7 +263,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F73983%2F73983.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-500 hover:to-orange-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -314,7 +318,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F192772%2F192772.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-500 hover:to-orange-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -369,7 +373,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39502%2F39502.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-500 hover:to-orange-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -429,7 +433,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                 <td className="p-3 text-stone-600">あり　64台　1泊あたり1,000円(税込)　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（1155件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196574%2F196574.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196574%2F196574.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. リッチモンドホテル秋田駅前</td>
@@ -438,7 +442,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                 <td className="p-3 text-stone-600">先着順４６台　１泊１，０００円（税込）　満車時は近隣駐車場で現地精算をお願いします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（3896件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F73983%2F73983.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F73983%2F73983.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 東横ＩＮＮ秋田駅東口</td>
@@ -447,7 +451,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                 <td className="p-3 text-stone-600">有り　１００台　夕方3時から明朝１０時迄、５２０円（税込み／泊）　出し入れ不可 高さ制限2.3M</td>
                 <td className="p-3 font-bold text-amber-600">★3.98（1662件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,618〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39502%2F39502.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39502%2F39502.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -580,6 +584,9 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-akita-station-kiritanpo-hotels-stay" />
+        </div>
 
       </main>
   );

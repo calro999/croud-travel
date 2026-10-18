@@ -717,13 +717,13 @@ export default function OkunikkoWinterPage() {
               近隣・全国の都道府県別おすすめ宿
             </h3>
             <div className="flex flex-wrap gap-2 text-xs">
-              <Link href="/prefectures/tochigi" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">栃木県の宿一覧</Link>
-              <Link href="/prefectures/gunma" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">群馬県の宿一覧</Link>
-              <Link href="/prefectures/fukushima" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">福島県の宿一覧</Link>
-              <Link href="/prefectures/ibaraki" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">茨城県の宿一覧</Link>
-              <Link href="/prefectures/saitama" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">埼玉県の宿一覧</Link>
-              <Link href="/prefectures/nagano" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">長野県の宿一覧</Link>
-              <Link href="/prefectures/niigata" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">新潟県の宿一覧</Link>
+              <Link href="/prefectures/tochigi/" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">栃木県の宿一覧</Link>
+              <Link href="/prefectures/gunma/" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">群馬県の宿一覧</Link>
+              <Link href="/prefectures/fukushima/" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">福島県の宿一覧</Link>
+              <Link href="/prefectures/ibaraki/" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">茨城県の宿一覧</Link>
+              <Link href="/prefectures/saitama/" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">埼玉県の宿一覧</Link>
+              <Link href="/prefectures/nagano/" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">長野県の宿一覧</Link>
+              <Link href="/prefectures/niigata/" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">新潟県の宿一覧</Link>
             </div>
           
       <HubRelatedPosts currentSlug="winter-tochigi-okunikko-yumoto-snow-onsen-stay" />

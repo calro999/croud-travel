@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetHotelsPage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"青森駅前：名物のっけ丼＆旬の津軽りんご・地酒！5,000円台〜泊まれる格安ホテル5選\",\"description\":\"青森魚菜センターの自分だけ海鮮丼「元祖のっけ丼」、秋の完熟津軽りんごや十三湖しじみラーメン！JR奥羽本線・青森駅周辺で泊まれる超高コスパ格安ホテル厳選5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-aomori-station-nokkedon-apple-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"青森駅前：名物のっけ丼＆旬の津軽りんご・地酒！5,000円台〜泊まれる格安ホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-aomori-station-nokkedon-apple-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"青森駅前：名物のっけ丼＆旬の津軽りんご・地酒！5,000円台〜泊まれる格安ホテル5選\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"陸奥湾を望む美しい斜張橋・夜のライトアップとベイエリアの夜景\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-aomori-station-nokkedon-apple-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"平日泊で更なる割引\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-aomori-station-nokkedon-apple-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"直前割＆早割を活用\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-aomori-station-nokkedon-apple-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"浮いた予算で旬の味覚\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-aomori-station-nokkedon-apple-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"ホテルルートイン青森駅前\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-aomori-station-nokkedon-apple-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"ホテルマイステイズ青森駅前\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-aomori-station-nokkedon-apple-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"アパホテル〈青森駅東〉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-aomori-station-nokkedon-apple-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"アパホテル〈青森駅県庁通〉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-aomori-station-nokkedon-apple-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"東横ＩＮＮ新青森駅東口\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-aomori-station-nokkedon-apple-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"弘前公園（弘前城）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-aomori-station-nokkedon-apple-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -149,7 +153,7 @@ export default function AutumnBudgetHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15969%2F15969.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-2 py-3 px-6 bg-gradient-to-r from-rose-500 to-rose-600 hover:from-rose-600 hover:to-rose-700 text-white font-bold rounded-xl shadow-sm hover:shadow transition"
               >
                 <span>楽天トラベルで最安プランをチェック</span>
@@ -205,7 +209,7 @@ export default function AutumnBudgetHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68192%2F68192.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-2 py-3 px-6 bg-gradient-to-r from-rose-500 to-rose-600 hover:from-rose-600 hover:to-rose-700 text-white font-bold rounded-xl shadow-sm hover:shadow transition"
               >
                 <span>楽天トラベルで最安プランをチェック</span>
@@ -261,7 +265,7 @@ export default function AutumnBudgetHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F146141%2F146141.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-2 py-3 px-6 bg-gradient-to-r from-rose-500 to-rose-600 hover:from-rose-600 hover:to-rose-700 text-white font-bold rounded-xl shadow-sm hover:shadow transition"
               >
                 <span>楽天トラベルで最安プランをチェック</span>
@@ -317,7 +321,7 @@ export default function AutumnBudgetHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149278%2F149278.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-2 py-3 px-6 bg-gradient-to-r from-rose-500 to-rose-600 hover:from-rose-600 hover:to-rose-700 text-white font-bold rounded-xl shadow-sm hover:shadow transition"
               >
                 <span>楽天トラベルで最安プランをチェック</span>
@@ -373,7 +377,7 @@ export default function AutumnBudgetHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178564%2F178564.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-2 py-3 px-6 bg-gradient-to-r from-rose-500 to-rose-600 hover:from-rose-600 hover:to-rose-700 text-white font-bold rounded-xl shadow-sm hover:shadow transition"
               >
                 <span>楽天トラベルで最安プランをチェック</span>
@@ -449,7 +453,7 @@ export default function AutumnBudgetHotelsPage() {
                 <td className="p-3 text-stone-600">車可500円/泊 先着順(高:2m,幅:1.8m,重:2,000kg以内)　バイク不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（1514件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,925〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15969%2F15969.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15969%2F15969.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルマイステイズ青森駅前</td>
@@ -458,7 +462,7 @@ export default function AutumnBudgetHotelsPage() {
                 <td className="p-3 text-stone-600">提携駐車場へご案内します。　駐車料金700円</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（6325件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,350〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68192%2F68192.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68192%2F68192.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. アパホテル〈青森駅東〉</td>
@@ -467,7 +471,7 @@ export default function AutumnBudgetHotelsPage() {
                 <td className="p-3 text-stone-600">1泊700円　※一部、車高1.6m　※バイク可/ 到着順 / 満車時は周辺コインパーキングへ</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（1096件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,960〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F146141%2F146141.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F146141%2F146141.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アパホテル〈青森駅県庁通〉</td>
@@ -476,7 +480,7 @@ export default function AutumnBudgetHotelsPage() {
                 <td className="p-3 text-stone-600">最大8台/1泊800円　※先着順/バイク駐車可　 / 他、周辺コインパーキングをご利用ください。</td>
                 <td className="p-3 font-bold text-amber-600">★3.98（748件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,950〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149278%2F149278.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149278%2F149278.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 東横ＩＮＮ新青森駅東口</td>
@@ -485,7 +489,7 @@ export default function AutumnBudgetHotelsPage() {
                 <td className="p-3 text-stone-600">先着順：48台・500円（税込／泊）</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（808件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,883〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178564%2F178564.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178564%2F178564.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -662,6 +666,9 @@ export default function AutumnBudgetHotelsPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-aomori-station-nokkedon-apple-hotels-stay" />
+        </div>
 
       </main>
   );

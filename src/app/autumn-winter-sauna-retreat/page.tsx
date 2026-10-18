@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-sauna-retreat/" },
-  title: "ととのう極上旅：絶景サウナ＆天然水風呂の温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "ととのう極上旅：絶景サウナ＆天然水風呂の温泉宿 厳選ガイド",
   description: "秋・冬の外気浴が最高に気持ちいい！長野・野尻湖The Sauna、山梨・富士山ビューサウナ、静岡・天然水風呂宿、北海道・十勝アヴァントサウナなど、本格フィンランド式サウナと温泉を兼ね備えた名宿を徹底解説。",
   keywords: ["ととのう極上旅", "絶景サウナ", "天然水風呂の温泉宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "ととのう極上旅：絶景サウナ＆天然水風呂の温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "ととのう極上旅：絶景サウナ＆天然水風呂の温泉宿 厳選ガイド",
     description: "秋・冬の外気浴が最高に気持ちいい！長野・野尻湖The Sauna、山梨・富士山ビューサウナ、静岡・天然水風呂宿、北海道・十勝アヴァントサウナなど、本格フィンランド式サウナと温泉を兼ね備えた名宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "ととのう極上旅：絶景サウナ＆天然水風呂の温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "ととのう極上旅：絶景サウナ＆天然水風呂の温泉宿 厳選ガイド",
     description: "秋・冬の外気浴が最高に気持ちいい！長野・野尻湖The Sauna、山梨・富士山ビューサウナ、静岡・天然水風呂宿、北海道・十勝アヴァントサウナなど、本格フィンランド式サウナと温泉を兼ね備えた名宿を徹底解説。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -98,7 +99,7 @@ export default function WinterFeaturePage() {
             <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
             <Link href="/features" className="hover:text-amber-700 transition">特集一覧</Link>
             <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-            <Link href="/prefectures/hokkaido" className="hover:text-amber-700 transition">北海道</Link>
+            <Link href="/prefectures/hokkaido/" className="hover:text-amber-700 transition">北海道</Link>
             <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
             <span className="text-stone-900 font-medium">十勝・十勝川温泉・帯広</span>
           </div>
@@ -212,7 +213,7 @@ export default function WinterFeaturePage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5818%2F5818.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     1. 十勝川温泉　第一ホテル
@@ -274,7 +275,7 @@ export default function WinterFeaturePage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5818%2F5818.html"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center w-full py-3 px-6 rounded-xl text-sm font-bold text-white bg-gradient-to-r from-cyan-700 to-slate-800 hover:from-cyan-800 hover:to-slate-900 shadow-sm hover:shadow transition-all group"
                     >
                       <span>十勝川温泉　第一ホテル の宿泊プラン・空室状況を楽天トラベルで見る</span>
@@ -306,7 +307,7 @@ export default function WinterFeaturePage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19237%2F19237.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     2. 十勝川温泉　観月苑
@@ -368,7 +369,7 @@ export default function WinterFeaturePage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19237%2F19237.html"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center w-full py-3 px-6 rounded-xl text-sm font-bold text-white bg-gradient-to-r from-cyan-700 to-slate-800 hover:from-cyan-800 hover:to-slate-900 shadow-sm hover:shadow transition-all group"
                     >
                       <span>十勝川温泉　観月苑 の宿泊プラン・空室状況を楽天トラベルで見る</span>
@@ -400,7 +401,7 @@ export default function WinterFeaturePage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54836%2F54836.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     3. 十勝川温泉　ホテル大平原
@@ -462,7 +463,7 @@ export default function WinterFeaturePage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54836%2F54836.html"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center w-full py-3 px-6 rounded-xl text-sm font-bold text-white bg-gradient-to-r from-cyan-700 to-slate-800 hover:from-cyan-800 hover:to-slate-900 shadow-sm hover:shadow transition-all group"
                     >
                       <span>十勝川温泉　ホテル大平原 の宿泊プラン・空室状況を楽天トラベルで見る</span>
@@ -494,7 +495,7 @@ export default function WinterFeaturePage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50753%2F50753.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     4. 天然温泉　プレミアホテル―ＣＡＢＩＮ―帯広
@@ -556,7 +557,7 @@ export default function WinterFeaturePage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50753%2F50753.html"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center w-full py-3 px-6 rounded-xl text-sm font-bold text-white bg-gradient-to-r from-cyan-700 to-slate-800 hover:from-cyan-800 hover:to-slate-900 shadow-sm hover:shadow transition-all group"
                     >
                       <span>天然温泉　プレミアホテル―ＣＡＢＩＮ―帯広 の宿泊プラン・空室状況を楽天トラベルで見る</span>
@@ -588,7 +589,7 @@ export default function WinterFeaturePage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30897%2F30897.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     5. 十勝川温泉　笹井ホテル
@@ -650,7 +651,7 @@ export default function WinterFeaturePage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30897%2F30897.html"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center w-full py-3 px-6 rounded-xl text-sm font-bold text-white bg-gradient-to-r from-cyan-700 to-slate-800 hover:from-cyan-800 hover:to-slate-900 shadow-sm hover:shadow transition-all group"
                     >
                       <span>十勝川温泉　笹井ホテル の宿泊プラン・空室状況を楽天トラベルで見る</span>
@@ -680,7 +681,7 @@ export default function WinterFeaturePage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="shrink-0 px-6 py-3 rounded-xl bg-white text-amber-700 font-bold text-sm shadow hover:bg-amber-50 transition-colors"
               >
                 ふるさと納税対象宿を探す
@@ -727,7 +728,7 @@ export default function WinterFeaturePage() {
           <div className="bg-stone-100 rounded-2xl p-6 sm:p-8 border border-stone-200 space-y-4">
             <h3 className="text-base sm:text-lg font-bold text-stone-900">あわせて読みたい北海道＆冬の厳選温泉特集</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
-              <Link href="/prefectures/hokkaido" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/prefectures/hokkaido/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>北海道のおすすめ観光名所＆温泉宿一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>

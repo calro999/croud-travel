@@ -83,7 +83,7 @@ export async function generateMetadata({ params }: { params: Promise<{ pref: str
     openGraph: {
       title: `【${cleanName}の有名なもの＆観光名所】${spotHook}・${gourmetHook}・人気温泉ホテル完全ガイド`,
       description: prefInfo.description,
-      url: `${baseUrl}/prefectures/${prefInfo.slug}`,
+      url: `${baseUrl}/prefectures/${prefInfo.slug}/`,
       siteName: "日本全国・旅宿クラウド",
       images: prefInfo.bannerImage ? [{ url: prefInfo.bannerImage, alt: prefInfo.name }] : [],
     },
@@ -215,11 +215,32 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": baseUrl },
-      { "@type": "ListItem", "position": 2, "name": "47都道府県一覧", "item": `${baseUrl}/prefectures` },
-      { "@type": "ListItem", "position": 3, "name": `${prefInfo.name}観光ハブ`, "item": `${baseUrl}/prefectures/${prefInfo.slug}` }
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": `${baseUrl}/` },
+      { "@type": "ListItem", "position": 2, "name": "47都道府県一覧", "item": `${baseUrl}/prefectures/` },
+      { "@type": "ListItem", "position": 3, "name": `${prefInfo.name}観光ハブ`, "item": `${baseUrl}/prefectures/${prefInfo.slug}/` }
     ]
   };
+
+  // JSON-LD ItemList（都道府県内の高評価おすすめ宿・特集ランキング）
+  const topPrefPostsForSchema = [...allPrefPosts]
+    .sort((a, b) => (Number(b.rating) || 0) - (Number(a.rating) || 0))
+    .slice(0, 10);
+
+  const jsonLdItemList = topPrefPostsForSchema.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": `${prefInfo.name}で今泊まるべきおすすめ温泉旅館・人気ホテル厳選ランキング`,
+    "description": `${prefInfo.name}の観光名所・ご当地グルメ・温泉旅行の拠点として高評価を得ている厳選宿リスト`,
+    "numberOfItems": topPrefPostsForSchema.length,
+    "itemListElement": topPrefPostsForSchema.map((p, idx) => ({
+      "@type": "ListItem",
+      "position": idx + 1,
+      "name": p.hotel_name || p.title,
+      "url": `${baseUrl}/posts/${p.id}/`,
+      ...(p.image ? { "image": p.image } : {})
+    }))
+  } : null;
+
   // 固有FAQの読み込み
   const faqPath = path.join(process.cwd(), 'src', 'data', 'faqs', `${prefInfo.slug}.json`);
   let faqList: any[] = [];
@@ -252,6 +273,12 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }}
       />
+      {jsonLdItemList && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdItemList) }}
+        />
+      )}
       {jsonLdFaq && (
         <script
           type="application/ld+json"
@@ -263,7 +290,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/prefectures" className="hover:text-teal-800 transition">都道府県一覧</Link>
+        <Link href="/prefectures/" className="hover:text-teal-800 transition">都道府県一覧</Link>
         <span>/</span>
         <span className="text-emerald-950 font-bold">{prefInfo.name} 観光ガイド</span>
       </nav>
@@ -338,19 +365,19 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
               </div>
               <div className="flex flex-wrap gap-2">
                 <Link
-                  href={`/posts/${prefInfo.slug}-onsen-ranking-hotels-guide`}
+                  href={`/posts/${prefInfo.slug}-onsen-ranking-hotels-guide/`}
                   className="text-xs font-black text-amber-950 bg-amber-200/80 hover:bg-amber-300 px-3.5 py-2 rounded-xl transition shadow-2xs"
                 >
                   ♨️ {cleanPref}の温泉ランキング10選 →
                 </Link>
                 <Link
-                  href={`/posts/${prefInfo.slug}-hotels-selection-guide`}
+                  href={`/posts/${prefInfo.slug}-hotels-selection-guide/`}
                   className="text-xs font-black text-teal-950 bg-teal-100 hover:bg-teal-200 px-3.5 py-2 rounded-xl transition shadow-2xs"
                 >
                   🏨 {cleanPref}の厳選名宿10選 →
                 </Link>
                 <Link
-                  href={`/posts/${prefInfo.slug}-famous-things-gourmet-spots-guide`}
+                  href={`/posts/${prefInfo.slug}-famous-things-gourmet-spots-guide/`}
                   className="text-xs font-black text-rose-950 bg-rose-100 hover:bg-rose-200 px-3.5 py-2 rounded-xl transition shadow-2xs"
                 >
                   🍱 {cleanPref}の有名なもの・名物 →
@@ -369,9 +396,12 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                       {h.image && (
                         <img
                           src={h.image}
-                          alt={h.hotel_name}
+                          alt={`${h.hotel_name}（${h.area || prefInfo.name}）`}
+                          width={600}
+                          height={338}
                           className="w-full h-full object-cover"
                           loading="lazy"
+                          decoding="async"
                         />
                       )}
                       <span className="absolute top-2 left-2 text-[10px] font-black bg-gradient-to-r from-amber-600 to-orange-600 text-white px-2.5 py-0.5 rounded-full shadow">
@@ -404,7 +434,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                     <a
                       href={h.affiliate_url}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-red-600 to-amber-600 hover:opacity-95 rounded-xl shadow transition"
                     >
                       楽天トラベルで空室・プランを見る ≫
@@ -426,14 +456,14 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
         {/* 特設ハブページへのダイレクトリンク */}
         {(() => {
           const hubLinks: Record<string, { title: string; desc: string; href: string; badge: string }> = {
-            kyoto: { title: "京都旅行 厳選ガイド：1泊2日・2泊3日モデルコース＆おすすめホテル・温泉旅館", desc: "カップル・子連れ・女子旅・穴場・雨の日・夜観光・京都駅ホテル選びまで完全網羅", href: "/kyoto", badge: "特集 🍁" },
-            okinawa: { title: "沖縄旅行 厳選ガイド：2泊3日・3泊4日モデルコース＆ビーチリゾートホテル", desc: "那覇国際通り・恩納村・美ら海水族館・子連れプール付き宿・レンタカー情報完全網羅", href: "/okinawa", badge: "特集 🌺" },
-            hokkaido: { title: "北海道旅行 厳選ガイド：2泊3日・3泊4日モデルコース＆札幌・函館朝食・温泉宿", desc: "札幌・小樽・函館・富良野広域ルート・絶品海鮮バイキング・登別定山渓温泉完全網羅", href: "/hokkaido", badge: "特集 🏔️" },
-            tokyo: { title: "東京観光 厳選ガイド：1泊2日・2泊3日モデルコース＆夜景・朝食ビュッフェ宿", desc: "東京駅・新宿・渋谷・浅草・銀座・お台場・高層階夜景ホテル選び完全網羅", href: "/tokyo", badge: "特集 🗼" },
-            osaka: { title: "大阪観光 厳選ガイド：1泊2日・2泊3日モデルコース＆梅田・なんば・USJ宿", desc: "道頓堀グルメ食べ歩き・USJ周辺オフィシャルホテル・駅チカ人気宿完全網羅", href: "/osaka", badge: "特集 🐙" },
-            fukuoka: { title: "福岡・博多旅行 厳選ガイド：1泊2日・2泊3日モデルコース＆博多駅直結宿", desc: "中洲屋台・もつ鍋・太宰府糸島・明太子朝食バイキング・温泉旅館完全網羅", href: "/fukuoka", badge: "特集 🍜" },
-            kanagawa: { title: "箱根温泉 厳選ガイド：1泊2日王道モデルコース＆客室露天風呂・記念日宿", desc: "箱根湯本駅チカ・強羅・芦ノ湖絶景リゾート・カップル向け極上温泉宿完全網羅", href: "/hakone", badge: "特集 ♨️" },
-            ishikawa: { title: "金沢・能登旅行 厳選ガイド：モデルコース＆海鮮グルメ・おすすめ宿", desc: "兼六園・ひがし茶屋街・近江町市場・のどぐろ・和倉温泉・露天風呂宿完全網羅", href: "/kanazawa", badge: "特集 🌸" },
+            kyoto: { title: "京都旅行 厳選ガイド：1泊2日・2泊3日モデルコース＆おすすめホテル・温泉旅館", desc: "カップル・子連れ・女子旅・穴場・雨の日・夜観光・京都駅ホテル選びまで完全網羅", href: "/kyoto/", badge: "特集 🍁" },
+            okinawa: { title: "沖縄旅行 厳選ガイド：2泊3日・3泊4日モデルコース＆ビーチリゾートホテル", desc: "那覇国際通り・恩納村・美ら海水族館・子連れプール付き宿・レンタカー情報完全網羅", href: "/okinawa/", badge: "特集 🌺" },
+            hokkaido: { title: "北海道旅行 厳選ガイド：2泊3日・3泊4日モデルコース＆札幌・函館朝食・温泉宿", desc: "札幌・小樽・函館・富良野広域ルート・絶品海鮮バイキング・登別定山渓温泉完全網羅", href: "/hokkaido/", badge: "特集 🏔️" },
+            tokyo: { title: "東京観光 厳選ガイド：1泊2日・2泊3日モデルコース＆夜景・朝食ビュッフェ宿", desc: "東京駅・新宿・渋谷・浅草・銀座・お台場・高層階夜景ホテル選び完全網羅", href: "/tokyo/", badge: "特集 🗼" },
+            osaka: { title: "大阪観光 厳選ガイド：1泊2日・2泊3日モデルコース＆梅田・なんば・USJ宿", desc: "道頓堀グルメ食べ歩き・USJ周辺オフィシャルホテル・駅チカ人気宿完全網羅", href: "/osaka/", badge: "特集 🐙" },
+            fukuoka: { title: "福岡・博多旅行 厳選ガイド：1泊2日・2泊3日モデルコース＆博多駅直結宿", desc: "中洲屋台・もつ鍋・太宰府糸島・明太子朝食バイキング・温泉旅館完全網羅", href: "/fukuoka/", badge: "特集 🍜" },
+            kanagawa: { title: "箱根温泉 厳選ガイド：1泊2日王道モデルコース＆客室露天風呂・記念日宿", desc: "箱根湯本駅チカ・強羅・芦ノ湖絶景リゾート・カップル向け極上温泉宿完全網羅", href: "/hakone/", badge: "特集 ♨️" },
+            ishikawa: { title: "金沢・能登旅行 厳選ガイド：モデルコース＆海鮮グルメ・おすすめ宿", desc: "兼六園・ひがし茶屋街・近江町市場・のどぐろ・和倉温泉・露天風呂宿完全網羅", href: "/kanazawa/", badge: "特集 🌸" },
           };
           const currentHub = hubLinks[prefInfo.slug];
           if (!currentHub) return null;
@@ -468,7 +498,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
               {getCitiesByPrefectures(prefInfo.slug).map((city) => (
                 <Link
                   key={city.citySlug}
-                  href={`/prefectures/${city.prefSlug}/${city.citySlug}`}
+                  href={`/prefectures/${city.prefSlug}/${city.citySlug}/`}
                   className="text-xs font-bold text-amber-950 bg-amber-50 hover:bg-amber-600 hover:text-white border border-amber-300/60 px-3.5 py-1.5 rounded-xl transition flex items-center gap-1.5 shadow-sm"
                 >
                   <span>📍</span>
@@ -749,9 +779,12 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                           {post.image ? (
                             <img
                               src={post.image}
-                              alt={post.hotel_name}
+                              alt={`${post.hotel_name}（${post.area || prefInfo.name}）`}
+                              width={600}
+                              height={338}
                               className="w-full h-full object-cover"
                               loading="lazy"
+                              decoding="async"
                             />
                           ) : (
                             <div className="w-full h-full flex items-center justify-center text-emerald-950/30 text-xs font-bold">
@@ -794,14 +827,14 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                         <a
                           href={post.affiliate_url}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
                         </a>
                         {!post.isDirectRakuten && (
                           <Link
-                            href={`/posts/${post.id}`}
+                            href={`/posts/${post.id}/`}
                             className="block w-full text-center py-2 text-[11px] font-bold text-teal-900 bg-teal-50 hover:bg-teal-100 rounded-xl transition border border-teal-800/10"
                           >
                             🧭 宿泊ルポ記事を読む
@@ -816,7 +849,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
               {/* ◯◯県の他のおすすめ情報を見る ボタン */}
               <div className="pt-2 text-center">
                 <Link
-                  href="/prefectures"
+                  href="/prefectures/"
                   className="inline-flex items-center gap-2 text-xs font-bold text-teal-900 bg-emerald-50/80 hover:bg-teal-100 border border-teal-800/20 px-6 py-2.5 rounded-full transition shadow-sm"
                 >
                   <span>🧭</span>
@@ -868,7 +901,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
 
           <div className="pt-2 text-center">
             <Link
-              href={`/prefectures/${prefInfo.slug}/cafes`}
+              href={`/prefectures/${prefInfo.slug}/cafes/`}
               className="inline-flex items-center gap-2 text-xs font-bold text-amber-950 bg-white hover:bg-amber-100 border border-amber-400/40 px-6 py-2.5 rounded-full transition shadow-sm cursor-pointer"
             >
               <span>☕</span>
@@ -912,7 +945,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
 
           <div className="pt-2 text-center">
             <Link
-              href={`/prefectures/${prefInfo.slug}/souvenirs`}
+              href={`/prefectures/${prefInfo.slug}/souvenirs/`}
               className="inline-flex items-center gap-2 text-xs font-bold text-emerald-950 bg-white hover:bg-emerald-100 border border-emerald-400/40 px-6 py-2.5 rounded-full transition shadow-sm cursor-pointer"
             >
               <span>🛍️</span>
@@ -961,7 +994,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
 
           <div className="pt-2 text-center">
             <Link
-              href={`/prefectures/${prefInfo.slug}/sakes`}
+              href={`/prefectures/${prefInfo.slug}/sakes/`}
               className="inline-flex items-center gap-2 text-xs font-bold text-white bg-white/10 hover:bg-white/20 border border-white/30 px-6 py-2.5 rounded-full transition shadow-sm cursor-pointer"
             >
               <span>🍶</span>
@@ -1018,7 +1051,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
             badge: "人気市町村ガイド",
             answerSnippet: `${firstCity.cityName}の必見スポット（${firstCity.highlights.slice(0, 3).join('・')}）や、${firstCity.gourmet.slice(0, 2).join('・')}などの名物料理ガイド。`,
             linkText: `【${firstCity.cityName}】観光＆名物料理ガイドを見る`,
-            href: `/prefectures/${prefInfo.slug}/${firstCity.citySlug}`
+            href: `/prefectures/${prefInfo.slug}/${firstCity.citySlug}/`
           });
         }
 
@@ -1029,7 +1062,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
             badge: "有名観光地スポット解説",
             answerSnippet: `${firstSpot.subtitle}。${firstSpot.highlights.slice(0, 2).join('／')}`,
             linkText: `【${firstSpot.name}】徹底解説＆近くの宿を見る`,
-            href: `/spots/${firstSpot.slug}`
+            href: `/spots/${firstSpot.slug}/`
           });
         }
 
@@ -1040,7 +1073,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
             badge: "厳選宿泊施設ルポ",
             answerSnippet: `「${topHotel.hotel_name}」をはじめ、${prefInfo.name}の極上ステイを叶える宿泊ルポ記事を公開中。`,
             linkText: `【${topHotel.hotel_name}】宿泊ルポ記事を見る`,
-            href: `/posts/${topHotel.id}`
+            href: `/posts/${topHotel.id}/`
           });
         }
 
@@ -1050,7 +1083,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
             badge: "旅の目的・テーマ特集",
             answerSnippet: hub.description,
             linkText: `${hub.shortTitle}を見る`,
-            href: `/${hub.slug}`
+            href: `/${hub.slug}/`
           });
         }
 
@@ -1094,7 +1127,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
               {transitGuides.map((guide) => (
                 <Link
                   key={guide.slug}
-                  href={`/${guide.slug}`}
+                  href={`/${guide.slug}/`}
                   className="group block p-5 rounded-2xl bg-white/5 hover:bg-white/10 border border-white/10 hover:border-cyan-400/50 transition duration-200 space-y-2.5"
                 >
                   <div className="flex items-center justify-between text-[11px]">
@@ -1159,8 +1192,11 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                       <img
                         src={post.image}
                         alt={post.hotel_name}
+                        width={64}
+                        height={64}
                         className="w-full h-full object-cover group-hover:scale-105 transition"
                         loading="lazy"
+                        decoding="async"
                       />
                     ) : (
                       <div className="w-full h-full flex items-center justify-center text-stone-400 text-[10px]">No Pic</div>
@@ -1192,13 +1228,13 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
         </p>
         <div className="flex flex-wrap justify-center gap-4 pt-2">
           <Link
-            href="/prefectures"
+            href="/prefectures/"
             className="px-8 py-3 text-xs font-bold text-white bg-teal-800 hover:bg-teal-700 rounded-xl shadow transition"
           >
             🗾 47都道府県一覧ハブへ戻る
           </Link>
           <Link
-            href="/campaigns"
+            href="/campaigns/"
             className="px-8 py-3 text-xs font-bold text-amber-900 bg-amber-100 hover:bg-amber-200 rounded-xl border border-amber-300 transition"
           >
             🎁 開催中のお得キャンペーンを見る

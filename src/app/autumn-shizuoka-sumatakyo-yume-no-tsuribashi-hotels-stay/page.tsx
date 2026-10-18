@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の寸又峡：夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選「2026最新」',
     description: 'チンダル現象で輝くエメラルドグリーンの湖水に架かる寸又峡「夢の吊橋」と紅葉！秘境名宿5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-shizuoka-sumatakyo-yume-no-tsuribashi-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-shizuoka-sumatakyo-yume-no-tsuribashi-hotels-stay',
   }
 };
 
 export default function SumatakyoAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の寸又峡：夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選「2026最新」\",\"description\":\"チンダル現象で輝くエメラルドグリーンの湖水に架かる寸又峡「夢の吊橋」と山肌を彩る紅葉の絶景！トロトロの硫黄泉「美女づくりの湯」を満喫する秘境宿5選。川根温泉ホテル、翠紅苑、ふれあいコテージの魅力を徹底比較！\",\"url\":\"https://croud-travel.pages.dev/autumn-shizuoka-sumatakyo-yume-no-tsuribashi-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の寸又峡：夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-shizuoka-sumatakyo-yume-no-tsuribashi-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の寸又峡：夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選「2026最新」\",\"numberOfItems\":8,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"夢の吊橋トレッキングの注意点\",\"url\":\"https://croud-travel.pages.dev/autumn-shizuoka-sumatakyo-yume-no-tsuribashi-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"大井川鐵道　川根温泉ホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-shizuoka-sumatakyo-yume-no-tsuribashi-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"川根温泉ふれあいコテージ\",\"url\":\"https://croud-travel.pages.dev/autumn-shizuoka-sumatakyo-yume-no-tsuribashi-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"翠紅苑\",\"url\":\"https://croud-travel.pages.dev/autumn-shizuoka-sumatakyo-yume-no-tsuribashi-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"三島スカイウォーク\",\"url\":\"https://croud-travel.pages.dev/autumn-shizuoka-sumatakyo-yume-no-tsuribashi-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"熱海温泉・サンビーチ\",\"url\":\"https://croud-travel.pages.dev/autumn-shizuoka-sumatakyo-yume-no-tsuribashi-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"伊豆シャボテン動物公園\",\"url\":\"https://croud-travel.pages.dev/autumn-shizuoka-sumatakyo-yume-no-tsuribashi-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"白糸の滝\",\"url\":\"https://croud-travel.pages.dev/autumn-shizuoka-sumatakyo-yume-no-tsuribashi-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/172896/172896.jpg"
@@ -142,7 +146,7 @@ export default function SumatakyoAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44267%2F44267.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function SumatakyoAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172896%2F172896.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function SumatakyoAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188812%2F188812.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function SumatakyoAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10709%2F10709.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function SumatakyoAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20466%2F20466.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function SumatakyoAutumnPage() {
                 <td className="p-3 text-stone-600">無料駐車場有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.65（695件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172896%2F172896.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172896%2F172896.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 川根温泉ふれあいコテージ</td>
@@ -396,7 +400,7 @@ export default function SumatakyoAutumnPage() {
                 <td className="p-3 text-stone-600">敷地内に無料駐車場がございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（32件）</td>
                 <td className="p-3 font-bold text-rose-600">¥26,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44267%2F44267.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44267%2F44267.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 翠紅苑</td>
@@ -405,7 +409,7 @@ export default function SumatakyoAutumnPage() {
                 <td className="p-3 text-stone-600">20台（無料）　ご来館前に必ず「交通情報（道路改良工事、鉄道復旧工事等）」をご確認ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（982件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10709%2F10709.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10709%2F10709.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -538,6 +542,9 @@ export default function SumatakyoAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-shizuoka-sumatakyo-yume-no-tsuribashi-hotels-stay" />
+        </div>
 
       </article>
   );

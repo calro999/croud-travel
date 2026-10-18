@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/vories-frank-lloyd-wright-architecture-resort-stay/" },
-  title: '巨匠建築・ヴォーリズ＆ライト様式美宿厳選ガイド「暖炉・プレイリースタイル」 | クラウドトラベル',
+  title: '巨匠建築・ヴォーリズ＆ライト様式美宿厳選ガイド「暖炉・プレイリースタイル」',
   description: 'ウィリアム・メレル・ヴォーリズやフランク・ロイド・ライトの意匠を受け継ぐ近江八幡・軽井沢・阪神間の名建築宿。暖炉の温もりと有機的建築美を体感するリゾートステイ。',
   openGraph: {
-    title: '巨匠建築・ヴォーリズ＆ライト様式美宿厳選ガイド「暖炉・プレイリースタイル」 | クラウドトラベル',
+    title: '巨匠建築・ヴォーリズ＆ライト様式美宿厳選ガイド「暖炉・プレイリースタイル」',
     description: 'ウィリアム・メレル・ヴォーリズやフランク・ロイド・ライトの意匠を受け継ぐ近江八幡・軽井沢・阪神間の名建築宿。暖炉の温もりと有機的建築美を体感するリゾートステイ。',
     type: 'article',
   },
@@ -17,6 +17,20 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['vories-frank-lloyd-wright-architecture-resort-stay'] || {};
+
+  const allSecHotels = Object.values(secData).flatMap((s: any) => (s && Array.isArray(s.hotels) ? s.hotels : []));
+  const jsonLdItemList = allSecHotels.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": (metadata.title as string) || "vories-frank-lloyd-wright-architecture-resort-stay",
+    "numberOfItems": allSecHotels.length,
+    "itemListElement": allSecHotels.map((h: any, idx: number) => ({
+      "@type": "ListItem",
+      "position": idx + 1,
+      "name": h.hotelName || "厳選宿",
+      "url": h.affiliateUrl || h.hotelInformationUrl || "https://croud-travel.pages.dev/vories-frank-lloyd-wright-architecture-resort-stay/"
+    }))
+  } : null;
 
 
   const jsonLdArticle = {
@@ -46,6 +60,9 @@ export default function Page() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ビジネス旅館 長栄荘」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ビジネス旅館 長栄荘」へは、近江鉄道線 大学前駅より徒歩にて１０分／名神八日市ＩＣより１０分、蒲生スマートＩＣより5分 無料駐車場。最寄りの大学前（滋賀）駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ビジネス旅館 長栄荘」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ビジネス旅館 長栄荘」は『驚きのコスパ！美味しい料理に、大浴場、Wi-Fi環境、大型車駐車場。出張、合宿に是非！』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ビジネス旅館 長栄荘」と「サラ エスタシオン 彦根」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
+      {jsonLdItemList && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdItemList) }} />}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">
@@ -486,25 +503,25 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamaguchi"
+                href="/prefectures/yamaguchi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 山口県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagano"
+                href="/prefectures/nagano/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 長野県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tottori"
+                href="/prefectures/tottori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 鳥取県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/miyagi"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 宮城県の宿・温泉

@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/ikaho-autumn-leaves-kajikabashi-lightup-guide/" },
-  title: "伊香保温泉 河鹿橋紅葉ライトアップ2026：見頃時期・石段街散策＆黄金の湯に浸かる秋の湯治旅 ｜ 日本全国・旅宿クラウド",
+  title: "伊香保温泉 河鹿橋紅葉ライトアップ2026：見頃時期・石段街散策＆黄金の湯に浸かる秋の湯治旅",
   description:
     "伊香保温泉のシンボル「河鹿橋」の鮮やかな紅葉ライトアップ！朱塗りの太鼓橋とモミジのコントラスト、365段の石段街食べ歩き、名物水沢うどんランチ、茶褐色の名湯「黄金の湯」に癒やされる秋旅ガイド。",
   keywords: ["伊香保温泉", "河鹿橋紅葉ライトアップ2026", "見頃時期", "石段街散策", "黄金の湯に浸かる秋の湯治旅", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "伊香保温泉 河鹿橋紅葉ライトアップ2026：見頃時期・石段街散策＆黄金の湯に浸かる秋の湯治旅 ｜ 日本全国・旅宿クラウド",
+    title: "伊香保温泉 河鹿橋紅葉ライトアップ2026：見頃時期・石段街散策＆黄金の湯に浸かる秋の湯治旅",
     description: "伊香保温泉のシンボル「河鹿橋」の鮮やかな紅葉ライトアップ！朱塗りの太鼓橋とモミジのコントラスト、365段の石段街食べ歩き、名物水沢うどんランチ、茶褐色の名湯「黄金の湯」に癒やされる秋旅ガイド。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "伊香保温泉 河鹿橋紅葉ライトアップ2026：見頃時期・石段街散策＆黄金の湯に浸かる秋の湯治旅 ｜ 日本全国・旅宿クラウド",
+    title: "伊香保温泉 河鹿橋紅葉ライトアップ2026：見頃時期・石段街散策＆黄金の湯に浸かる秋の湯治旅",
     description: "伊香保温泉のシンボル「河鹿橋」の鮮やかな紅葉ライトアップ！朱塗りの太鼓橋とモミジのコントラスト、365段の石段街食べ歩き、名物水沢うどんランチ、茶褐色の名湯「黄金の湯」に癒やされる秋旅ガイド。",
   }
 };
@@ -390,7 +390,7 @@ export default function IkahoAutumnLeavesGuidePage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center bg-gradient-to-r from-orange-600 to-amber-600 hover:from-orange-700 hover:to-amber-700 text-white font-bold py-2.5 px-4 rounded-xl text-xs sm:text-sm shadow hover:shadow-md transition-all duration-200"
                   >
                     空室確認・秋の温泉プランを予約 🍁
@@ -519,25 +519,25 @@ export default function IkahoAutumnLeavesGuidePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/toyama"
+                href="/prefectures/toyama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 富山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tottori"
+                href="/prefectures/tottori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 鳥取県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tochigi"
+                href="/prefectures/tochigi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 栃木県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shiga"
+                href="/prefectures/shiga/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 滋賀県の宿・温泉
@@ -582,7 +582,7 @@ export default function IkahoAutumnLeavesGuidePage() {
                 <td className="p-3 text-stone-600">車100台・バイクの方は屋根付き駐車場がございます。料金無料・予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.71（2118件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29387%2F29387.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29387%2F29387.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 伊香保温泉　人気の露天風呂付客室と美味に和む宿　かのうや</td>
@@ -591,7 +591,7 @@ export default function IkahoAutumnLeavesGuidePage() {
                 <td className="p-3 text-stone-600">有　30台（無料） ※迷われる方が多いので事前に当館HP「交通アクセス」をご覧くださいませ</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（1504件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,015〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7050%2F7050.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7050%2F7050.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 伊香保温泉　伊香保グランドホテル（伊東園ホテルズ）</td>
@@ -600,7 +600,7 @@ export default function IkahoAutumnLeavesGuidePage() {
                 <td className="p-3 text-stone-600">有り　250台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.85（1396件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,348〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40805%2F40805.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40805%2F40805.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 伊香保温泉　とどろき（伊東園ホテルズ）</td>
@@ -609,7 +609,7 @@ export default function IkahoAutumnLeavesGuidePage() {
                 <td className="p-3 text-stone-600">当館より離れた場所にございます。午後1時より案内開始となります。一度玄関前にお越しください。（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★3.88（1254件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,448〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F84597%2F84597.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F84597%2F84597.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

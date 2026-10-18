@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-traditional-kominka-heritage-luxury-stay/" },
-  title: "一棟貸し古民家・登録有形文化財宿：築100年以上の歴史建築＆モダンラグジュアリー 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "一棟貸し古民家・登録有形文化財宿：築100年以上の歴史建築＆モダンラグジュアリー 厳選ガイド",
   description: "日本の美意識と現代の快適性が調和する最高峰の隠れ家！一棟貸し古民家・登録有形文化財リノベーション宿完全特化！京都町家、信州・飛騨の豪農屋敷、瀬戸内・出雲の蔵サウナ付き邸宅、出張料理人付き古民家宿を徹底解説。",
   keywords: ["一棟貸し古民家", "登録有形文化財宿", "築100年以上の歴史建築", "モダンラグジュアリー", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "一棟貸し古民家・登録有形文化財宿：築100年以上の歴史建築＆モダンラグジュアリー 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "一棟貸し古民家・登録有形文化財宿：築100年以上の歴史建築＆モダンラグジュアリー 厳選ガイド",
     description: "日本の美意識と現代の快適性が調和する最高峰の隠れ家！一棟貸し古民家・登録有形文化財リノベーション宿完全特化！京都町家、信州・飛騨の豪農屋敷、瀬戸内・出雲の蔵サウナ付き邸宅、出張料理人付き古民家宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "一棟貸し古民家・登録有形文化財宿：築100年以上の歴史建築＆モダンラグジュアリー 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "一棟貸し古民家・登録有形文化財宿：築100年以上の歴史建築＆モダンラグジュアリー 厳選ガイド",
     description: "日本の美意識と現代の快適性が調和する最高峰の隠れ家！一棟貸し古民家・登録有形文化財リノベーション宿完全特化！京都町家、信州・飛騨の豪農屋敷、瀬戸内・出雲の蔵サウナ付き邸宅、出張料理人付き古民家宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function LuxuryPremiumHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-700 to-amber-900 hover:from-amber-600 hover:to-amber-800 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

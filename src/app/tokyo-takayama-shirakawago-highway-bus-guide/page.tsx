@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-takayama-shirakawago-highway-bus-guide/" },
-  title: "東京・新宿〜飛騨高山・白川郷：直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "東京・新宿〜飛騨高山・白川郷：直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース",
   description: "東京・新宿から飛騨高山・白川郷へ行くなら直行高速バスが圧倒的に便利でお得！JR特急ワイドビューしなの・特急ひだ乗り継ぎとの料金・所要時間比較、古い町並み散策と白川郷合掌造り、飛騨牛を満喫する1泊2日モデルコース。",
   keywords: ["東京", "新宿〜飛騨高山", "白川郷", "時間比較", "飛騨牛1泊2日モデルコース", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "東京・新宿〜飛騨高山・白川郷：直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "東京・新宿〜飛騨高山・白川郷：直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース",
     description: "東京・新宿から飛騨高山・白川郷へ行くなら直行高速バスが圧倒的に便利でお得！JR特急ワイドビューしなの・特急ひだ乗り継ぎとの料金・所要時間比較、古い町並み散策と白川郷合掌造り、飛騨牛を満喫する1泊2日モデルコース。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "東京・新宿〜飛騨高山・白川郷：直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "東京・新宿〜飛騨高山・白川郷：直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース",
     description: "東京・新宿から飛騨高山・白川郷へ行くなら直行高速バスが圧倒的に便利でお得！JR特急ワイドビューしなの・特急ひだ乗り継ぎとの料金・所要時間比較、古い町並み散策と白川郷合掌造り、飛騨牛を満喫する1泊2日モデルコース。",
   }
 };
@@ -346,7 +346,7 @@ export default function HighwayBusArticlePage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                   >
                     ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -388,7 +388,7 @@ export default function HighwayBusArticlePage() {
                 <td className="p-3 text-stone-600">有り　8台(1000円／１泊)　先着順※事前予約不可</td>
                 <td className="p-3 font-bold text-amber-600">★2.5（12件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177425%2F177425.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177425%2F177425.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 飛騨高山　本陣平野屋　光風館（旧：飛騨高山　本陣平野屋　別館）</td>
@@ -397,7 +397,7 @@ export default function HighwayBusArticlePage() {
                 <td className="p-3 text-stone-600">有 ５０台 無料 チェックイン前・チェックアウト後も無料でお車お預かり</td>
                 <td className="p-3 font-bold text-amber-600">★4.68（1403件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,252〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8326%2F8326.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8326%2F8326.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 飛騨高山　本陣平野屋　花兆庵</td>
@@ -406,7 +406,7 @@ export default function HighwayBusArticlePage() {
                 <td className="p-3 text-stone-600">無料　50台　チェックイン前・チェックアウト後もお預かりいたします</td>
                 <td className="p-3 font-bold text-amber-600">★4.89（839件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,095〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8327%2F8327.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8327%2F8327.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 奥飛騨　平湯温泉　岡田旅館</td>
@@ -415,7 +415,7 @@ export default function HighwayBusArticlePage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.91（627件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,950〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54007%2F54007.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54007%2F54007.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 料理旅館　奥飛騨山草庵　饗家（きょうや）</td>
@@ -424,7 +424,7 @@ export default function HighwayBusArticlePage() {
                 <td className="p-3 text-stone-600">有り　２０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（301件）</td>
                 <td className="p-3 font-bold text-rose-600">¥28,860〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20688%2F20688.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20688%2F20688.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -635,7 +635,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🍓</div>
@@ -654,7 +654,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🎫</div>

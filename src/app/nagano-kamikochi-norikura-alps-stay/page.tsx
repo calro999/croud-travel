@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-kamikochi-norikura-alps-stay/" },
-  title: "長野・上高地＆乗鞍・白骨：河童橋・大正池・乳白色秘湯宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長野・上高地＆乗鞍・白骨：河童橋・大正池・乳白色秘湯宿 厳選ガイド",
   description: "神降地と称される北アルプスの聖地「上高地（河童橋・大正池・明神池）」、乗鞍岳麓のすずらん温泉「乗鞍高原」、三日入れば三年風邪を引かぬ名湯「白骨温泉」を徹底解説。絶景山岳ホテルや乳白色濁り湯の秘湯旅館を厳選。",
   keywords: ["長野", "上高地", "乗鞍", "白骨", "河童橋", "大正池", "乳白色秘湯宿"],
   openGraph: {
-    title: "長野・上高地＆乗鞍・白骨：河童橋・大正池・乳白色秘湯宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "長野・上高地＆乗鞍・白骨：河童橋・大正池・乳白色秘湯宿 厳選ガイド",
     description: "神降地と称される北アルプスの聖地「上高地（河童橋・大正池・明神池）」、乗鞍岳麓のすずらん温泉「乗鞍高原」、三日入れば三年風邪を引かぬ名湯「白骨温泉」を徹底解説。絶景山岳ホテルや乳白色濁り湯の秘湯旅館を厳選。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "長野・上高地＆乗鞍・白骨：河童橋・大正池・乳白色秘湯宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "長野・上高地＆乗鞍・白骨：河童橋・大正池・乳白色秘湯宿 厳選ガイド",
     description: "神降地と称される北アルプスの聖地「上高地（河童橋・大正池・明神池）」、乗鞍岳麓のすずらん温泉「乗鞍高原」、三日入れば三年風邪を引かぬ名湯「白骨温泉」を徹底解説。絶景山岳ホテルや乳白色濁り湯の秘湯旅館を厳選。",
   }
 };
@@ -211,7 +211,7 @@ export default function MicroTouristHubPage() {
                           <a
                             href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                             target="_blank"
-                            rel="noopener noreferrer"
+                            rel="sponsored noopener noreferrer"
                             className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-teal-700 to-teal-800 hover:from-teal-600 hover:to-teal-700 rounded-xl shadow transition"
                           >
                             ✈️ 楽天トラベルで宿泊プラン・空室を見る

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の京都×格安：紅葉狩りをお得に満喫！大浴場・サウナ付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」',
     description: '宿泊費が高騰する秋の京都で賢く旅する！大浴場・サウナ完備の1泊4,000円台〜コスパ最強ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-budget-kyoto-momiji-large-bath-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-kyoto-momiji-large-bath-hotels-stay',
   }
 };
 
 export default function KyotoBudgetAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の京都×格安：紅葉狩りをお得に満喫！大浴場・サウナ付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」\",\"description\":\"宿泊費が高騰する秋の京都で賢く旅する！清水寺や東福寺の紅葉狩り、夜間ライトアップ後にゆったり足を伸ばせる大浴場・サウナ完備の格安ホテル5選。ロワジールホテル京都東寺、ホテルエルシエントなど1泊4,000円〜7,000円台の高評価宿を徹底比較！\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kyoto-momiji-large-bath-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の京都×格安：紅葉狩りをお得に満喫！大浴場・サウナ付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-kyoto-momiji-large-bath-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の京都×格安：紅葉狩りをお得に満喫！大浴場・サウナ付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」\",\"numberOfItems\":9,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"京都・格安紅葉旅の攻略法\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kyoto-momiji-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ロワジールホテル京都東寺\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kyoto-momiji-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"京都山科　ホテル山楽\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kyoto-momiji-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ベッセルホテルカンパーナ京都五条｜サウナ付大浴場（京都１号店）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kyoto-momiji-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"ホテルインターゲート京都　四条新町\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kyoto-momiji-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"清水寺\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kyoto-momiji-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"金閣寺（鹿苑寺）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kyoto-momiji-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"伏見稲荷大社\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kyoto-momiji-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"嵐山 竹林の小径\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kyoto-momiji-large-bath-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/187986/187986.jpg"
@@ -142,7 +146,7 @@ export default function KyotoBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187986%2F187986.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function KyotoBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9402%2F9402.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function KyotoBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F167811%2F167811.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function KyotoBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147994%2F147994.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function KyotoBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165176%2F165176.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function KyotoBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">無し/近隣パーキングをご利用ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（599件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,980〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187986%2F187986.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187986%2F187986.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 京都山科　ホテル山楽</td>
@@ -396,7 +400,7 @@ export default function KyotoBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">専用駐車場なし。提携駐車場は3台限定です。先着順・ご予約制のためご希望の場合は、必ずお電話ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（770件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,333〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F167811%2F167811.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F167811%2F167811.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ベッセルホテルカンパーナ京都五条｜サウナ付大浴場（京都１号店）</td>
@@ -405,7 +409,7 @@ export default function KyotoBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">先着順 立体駐車場28台 高さ1.8ｍ　1泊2000円</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（1956件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,125〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147994%2F147994.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147994%2F147994.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルインターゲート京都　四条新町</td>
@@ -414,7 +418,7 @@ export default function KyotoBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（939件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,240〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165176%2F165176.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165176%2F165176.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -569,6 +573,9 @@ export default function KyotoBudgetAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-kyoto-momiji-large-bath-hotels-stay" />
+        </div>
 
       </article>
   );

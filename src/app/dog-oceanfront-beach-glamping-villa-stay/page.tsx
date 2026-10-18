@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/dog-oceanfront-beach-glamping-villa-stay/" },
-  title: "海直結・愛犬とビーチフロントグランピング＆ヴィラ：砂浜ラン＆BBQ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "海直結・愛犬とビーチフロントグランピング＆ヴィラ：砂浜ラン＆BBQ 厳選ガイド",
   description: "目の前がすぐ海！愛犬と海遊び＆ビーチフロントステイ完全特化！千葉館山・白浜、淡路島、伊豆下田、沖縄、砂浜直結のプライベートヴィラ＆ドームテントグランピング、夕陽BBQ宿を徹底解説。",
   keywords: ["海直結", "ヴィラ", "砂浜ラン", "BBQ", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "海直結・愛犬とビーチフロントグランピング＆ヴィラ：砂浜ラン＆BBQ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "海直結・愛犬とビーチフロントグランピング＆ヴィラ：砂浜ラン＆BBQ 厳選ガイド",
     description: "目の前がすぐ海！愛犬と海遊び＆ビーチフロントステイ完全特化！千葉館山・白浜、淡路島、伊豆下田、沖縄、砂浜直結のプライベートヴィラ＆ドームテントグランピング、夕陽BBQ宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "海直結・愛犬とビーチフロントグランピング＆ヴィラ：砂浜ラン＆BBQ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "海直結・愛犬とビーチフロントグランピング＆ヴィラ：砂浜ラン＆BBQ 厳選ガイド",
     description: "目の前がすぐ海！愛犬と海遊び＆ビーチフロントステイ完全特化！千葉館山・白浜、淡路島、伊豆下田、沖縄、砂浜直結のプライベートヴィラ＆ドームテントグランピング、夕陽BBQ宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function PetDogResortHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-emerald-700 hover:from-amber-500 hover:to-emerald-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで愛犬同伴プランを見る

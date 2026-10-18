@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/enoshima-kamakura-noriorikun-golden-route/" },
-  title: "江ノ電1日乗車券のりおりくん完全攻略：800円で元を取るモデルコース＆海沿い途中下車の旅 ｜ 日本全国・旅宿クラウド",
+  title: "江ノ電1日乗車券のりおりくん完全攻略：800円で元を取るモデルコース＆海沿い途中下車の旅",
   description:
     "江ノ電1日乗車券「のりおりくん」（大人800円）を徹底活用！何回乗れば元が取れる？（3回乗車で即元取れ）。鎌倉高校前踏切、七里ヶ浜海カフェ、長谷寺大仏、江ノ島シーキャンドルを巡る最強タイムテーブル。",
   keywords: ["800円で元を取るモデルコース", "海沿い途中下車の旅", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: "江ノ電1日乗車券のりおりくん完全攻略：800円で元を取るモデルコース＆海沿い途中下車の旅 ｜ 日本全国・旅宿クラウド",
+    title: "江ノ電1日乗車券のりおりくん完全攻略：800円で元を取るモデルコース＆海沿い途中下車の旅",
     description: "江ノ電1日乗車券「のりおりくん」（大人800円）を徹底活用！何回乗れば元が取れる？（3回乗車で即元取れ）。鎌倉高校前踏切、七里ヶ浜海カフェ、長谷寺大仏、江ノ島シーキャンドルを巡る最強タイムテーブル。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "江ノ電1日乗車券のりおりくん完全攻略：800円で元を取るモデルコース＆海沿い途中下車の旅 ｜ 日本全国・旅宿クラウド",
+    title: "江ノ電1日乗車券のりおりくん完全攻略：800円で元を取るモデルコース＆海沿い途中下車の旅",
     description: "江ノ電1日乗車券「のりおりくん」（大人800円）を徹底活用！何回乗れば元が取れる？（3回乗車で即元取れ）。鎌倉高校前踏切、七里ヶ浜海カフェ、長谷寺大仏、江ノ島シーキャンドルを巡る最強タイムテーブル。",
   }
 };
@@ -453,7 +453,7 @@ export default function EnoshimaKamakuraNoriorikunPage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center px-4 py-2 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5"
                     >
                       空室・プラン確認
@@ -585,25 +585,25 @@ export default function EnoshimaKamakuraNoriorikunPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/tottori"
+                href="/prefectures/tottori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 鳥取県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ehime"
+                href="/prefectures/ehime/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 愛媛県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tokyo"
+                href="/prefectures/tokyo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 東京都の宿・温泉
               </Link>
               <Link
-                href="/prefectures/mie"
+                href="/prefectures/mie/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 三重県の宿・温泉

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の箱根：仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選「2026最新」',
     description: '台ヶ岳の山麓に広がる箱根仙石原すすき草原の一面黄金色の波と、大涌谷源泉の乳白色にごり湯を満喫！',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay',
   }
 };
 
 export default function HakoneSengokuharaAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の箱根：仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選「2026最新」\",\"description\":\"台ヶ岳の山麓に広がる箱根仙石原すすき草原の一面黄金色の波と、大涌谷源泉の乳白色にごり湯を満喫！センチュリオン箱根別邸、BLISSTIA箱根仙石原など、秋の箱根を極上の温泉と美食で満喫する厳選宿5選をご紹介。\",\"url\":\"https://croud-travel.pages.dev/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の箱根：仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の箱根：仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選「2026最新」\",\"numberOfItems\":9,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ＢＬＩＳＳＴＩＡ箱根仙石原\",\"url\":\"https://croud-travel.pages.dev/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"全室露天風呂付客室　仙石原温泉　センチュリオン箱根別邸\",\"url\":\"https://croud-travel.pages.dev/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"箱根仙石原温泉　金時山荘\",\"url\":\"https://croud-travel.pages.dev/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"仙石原温泉　箱根ホテル花月園\",\"url\":\"https://croud-travel.pages.dev/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"フォートリート箱根仙石原\",\"url\":\"https://croud-travel.pages.dev/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"横浜みなとみらい21\",\"url\":\"https://croud-travel.pages.dev/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"鎌倉大仏（高徳院）\",\"url\":\"https://croud-travel.pages.dev/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"箱根 芦ノ湖・大涌谷\",\"url\":\"https://croud-travel.pages.dev/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"江の島\",\"url\":\"https://croud-travel.pages.dev/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/188402/188402.jpg"
@@ -142,7 +146,7 @@ export default function HakoneSengokuharaAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F176633%2F176633.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function HakoneSengokuharaAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188402%2F188402.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function HakoneSengokuharaAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108782%2F108782.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function HakoneSengokuharaAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8968%2F8968.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function HakoneSengokuharaAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196301%2F196301.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function HakoneSengokuharaAutumnPage() {
                 <td className="p-3 text-stone-600">有り（53台／無料／屋外／予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（301件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188402%2F188402.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188402%2F188402.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 全室露天風呂付客室　仙石原温泉　センチュリオン箱根別邸</td>
@@ -396,7 +400,7 @@ export default function HakoneSengokuharaAutumnPage() {
                 <td className="p-3 text-stone-600">13台。スポーツカー等車高の低いお車でのお越しは事前にお知らせくださいませ。</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（172件）</td>
                 <td className="p-3 font-bold text-rose-600">¥27,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F176633%2F176633.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F176633%2F176633.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 箱根仙石原温泉　金時山荘</td>
@@ -405,7 +409,7 @@ export default function HakoneSengokuharaAutumnPage() {
                 <td className="p-3 text-stone-600">有り　１０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（18件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108782%2F108782.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108782%2F108782.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 仙石原温泉　箱根ホテル花月園</td>
@@ -414,7 +418,7 @@ export default function HakoneSengokuharaAutumnPage() {
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（1827件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,930〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8968%2F8968.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8968%2F8968.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. フォートリート箱根仙石原</td>
@@ -423,7 +427,7 @@ export default function HakoneSengokuharaAutumnPage() {
                 <td className="p-3 text-stone-600">無料駐車場有／満車の場合、有料駐車場にご案内いたします。駐輪場有／1泊1,000円頂戴いたします</td>
                 <td className="p-3 font-bold text-amber-600">★3.97（103件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196301%2F196301.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196301%2F196301.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -600,6 +604,9 @@ export default function HakoneSengokuharaAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay" />
+        </div>
 
       </article>
   );

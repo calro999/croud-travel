@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/spring-cherry-blossoms/" },
-  title: "全国：桜・お花見絶景宿＆客室露天風呂 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "全国：桜・お花見絶景宿＆客室露天風呂 厳選ガイド",
   description: "春の息吹！全国屈指の桜名所（京都祇園・嵐山、伊豆河津桜、奈良吉野山、青森弘前）と、客室や露天風呂から満開の桜を一望できる厳選お花見温泉旅館・ホテルを徹底ガイド。",
   keywords: ["全国", "お花見絶景宿", "客室露天風呂", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "全国：桜・お花見絶景宿＆客室露天風呂 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "全国：桜・お花見絶景宿＆客室露天風呂 厳選ガイド",
     description: "春の息吹！全国屈指の桜名所（京都祇園・嵐山、伊豆河津桜、奈良吉野山、青森弘前）と、客室や露天風呂から満開の桜を一望できる厳選お花見温泉旅館・ホテルを徹底ガイド。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "全国：桜・お花見絶景宿＆客室露天風呂 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "全国：桜・お花見絶景宿＆客室露天風呂 厳選ガイド",
     description: "春の息吹！全国屈指の桜名所（京都祇園・嵐山、伊豆河津桜、奈良吉野山、青森弘前）と、客室や露天風呂から満開の桜を一望できる厳選お花見温泉旅館・ホテルを徹底ガイド。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

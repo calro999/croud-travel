@@ -6,7 +6,7 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '文明開化と昭和モダンの薫り！日本が誇る最高峰クラシックホテル＆洋館ステイ ｜ 日本全国・旅宿クラウド',
+  title: '文明開化と昭和モダンの薫り！日本が誇る最高峰クラシックホテル＆洋館ステイ',
   description: '日光金谷・箱根富士屋・雲仙観光・横浜ニューグランドなど日本の近代建築美が薫る名門ホテル。重厚なメインダイニングで味わう伝統のフレンチと名湯。',
   keywords: ["洋館ステイ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
@@ -264,7 +264,7 @@ export default function Page() {
                       <a
                         href={h.affiliateUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-block w-full sm:w-auto text-center px-6 py-3.5 bg-gradient-to-r from-amber-600 via-amber-700 to-amber-800 hover:from-amber-500 hover:to-amber-700 text-white font-black text-xs md:text-sm rounded-2xl shadow-md transition transform hover:-translate-y-0.5"
                       >
                         ✈️ {h.hotelName} の最新空室＆宿泊プランを見る
@@ -344,7 +344,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り　２００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（564件）</td>
                 <td className="p-3 font-bold text-rose-600">¥26,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41989%2F41989.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41989%2F41989.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 日光温泉　カジュアルユーロ</td>
@@ -353,7 +353,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り　６０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.79（1141件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F53713%2F53713.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F53713%2F53713.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 川奈ホテル</td>
@@ -362,7 +362,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り　１２０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（430件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,957〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28472%2F28472.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28472%2F28472.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

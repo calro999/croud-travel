@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の長崎×格安：グラバー園の秋バラと世界新三大夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」',
     description: 'グラバー園の秋バラと稲佐山夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強長崎ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay',
   }
 };
 
 export default function NagasakiBudgetAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の長崎×格安：グラバー園の秋バラと世界新三大夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」\",\"description\":\"異国情緒あふれる南山手グラバー園の秋バラ・紅葉と、稲佐山から望む世界新三大夜景！長崎ちゃんぽんや卓袱料理を満喫。大浴場やサウナ完備で1泊3,000円〜5,000円台で泊まれる長崎駅周辺の格安ホテル5選。ホテルクオーレ長崎駅前、hotel H2などを徹底比較！\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の長崎×格安：グラバー園の秋バラと世界新三大夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の長崎×格安：グラバー園の秋バラと世界新三大夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"長崎観光のおすすめプラン\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ｈｏｔｅｌ　Ｈ２　ホテルエイチツー長崎\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Ｃｏｒｕｓｃａｎｔ　Ｈｏｔｅｌ　長崎駅２（コルサントホテル）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ホテル　クオーレ長崎駅前\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"長崎スカイホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"天然温泉　鶴港の湯　ドーミーインＰＲＥＭＩＵＭ長崎駅前（ドーミーイン・御宿野乃　ホテルズグループ）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"ハウステンボス\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"長崎原爆資料館・平和公園\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"グラバー園・大浦天主堂\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"軍艦島（端島）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/176612/176612.jpg"
@@ -142,7 +146,7 @@ export default function NagasakiBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180565%2F180565.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function NagasakiBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37511%2F37511.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function NagasakiBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F176612%2F176612.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function NagasakiBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15312%2F15312.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function NagasakiBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179673%2F179673.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function NagasakiBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">提携徒歩1分／築町パーキングビル1泊1,200円／095-827-3650※時間制限有（他2ヶ所）</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（1483件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F176612%2F176612.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F176612%2F176612.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. Ｃｏｒｕｓｃａｎｔ　Ｈｏｔｅｌ　長崎駅２（コルサントホテル）</td>
@@ -396,7 +400,7 @@ export default function NagasakiBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">1階はコインパーキング(普通車3台・小型2台・軽1台)　※管理外ですので空車情報は不明。有料です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（184件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180565%2F180565.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180565%2F180565.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテル　クオーレ長崎駅前</td>
@@ -405,7 +409,7 @@ export default function NagasakiBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">近隣駐車場有/15時から翌10時まで1,400円/先着順/車高2m以下/営業時間5時〜23時</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（4692件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37511%2F37511.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37511%2F37511.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 長崎スカイホテル</td>
@@ -414,7 +418,7 @@ export default function NagasakiBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">有り　20台　お車１台につき、普通車800円/中型車1,600円/大型車2,000円（税込）</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（417件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,980〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15312%2F15312.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15312%2F15312.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 天然温泉　鶴港の湯　ドーミーインＰＲＥＭＩＵＭ長崎駅前（ドーミーイン・御宿野乃　ホテルズグループ）</td>
@@ -423,7 +427,7 @@ export default function NagasakiBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">1泊1,200円（機械式68台）入庫制限有（車高2.05m長さ5.05ｍ車幅1.91ｍ)先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（1541件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179673%2F179673.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179673%2F179673.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -600,6 +604,9 @@ export default function NagasakiBudgetAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-nagasaki-glover-garden-onsen-hotels-stay" />
+        </div>
 
       </article>
   );

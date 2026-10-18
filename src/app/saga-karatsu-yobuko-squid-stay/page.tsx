@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/saga-karatsu-yobuko-squid-stay/" },
-  title: "佐賀・唐津＆呼子：唐津城・虹の松原＆呼子活イカ姿造り・佐賀牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "佐賀・唐津＆呼子：唐津城・虹の松原＆呼子活イカ姿造り・佐賀牛宿 厳選ガイド",
   description: "玄界灘の絶景と日本一のイカの聖地・佐賀唐津＆呼子エリア完全特化！唐津城（舞鶴城）のパノラマ、日本三大松原「虹の松原」、呼子朝市、透き通る芸術品「呼子の活イカ姿造り」、唐津焼窯元めぐり宿を徹底解説。",
   keywords: ["佐賀", "唐津", "呼子", "唐津城", "虹の松原", "呼子活イカ姿造り", "佐賀牛宿"],
   openGraph: {
-    title: "佐賀・唐津＆呼子：唐津城・虹の松原＆呼子活イカ姿造り・佐賀牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "佐賀・唐津＆呼子：唐津城・虹の松原＆呼子活イカ姿造り・佐賀牛宿 厳選ガイド",
     description: "玄界灘の絶景と日本一のイカの聖地・佐賀唐津＆呼子エリア完全特化！唐津城（舞鶴城）のパノラマ、日本三大松原「虹の松原」、呼子朝市、透き通る芸術品「呼子の活イカ姿造り」、唐津焼窯元めぐり宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "佐賀・唐津＆呼子：唐津城・虹の松原＆呼子活イカ姿造り・佐賀牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "佐賀・唐津＆呼子：唐津城・虹の松原＆呼子活イカ姿造り・佐賀牛宿 厳選ガイド",
     description: "玄界灘の絶景と日本一のイカの聖地・佐賀唐津＆呼子エリア完全特化！唐津城（舞鶴城）のパノラマ、日本三大松原「虹の松原」、呼子朝市、透き通る芸術品「呼子の活イカ姿造り」、唐津焼窯元めぐり宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.64（282件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,340〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14889%2F14889.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14889%2F14889.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 割烹旅館　筑前屋</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　8台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（110件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F78103%2F78103.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F78103%2F78103.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 日本料理　水野旅館＜唐津＞</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.86（108件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,350〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28966%2F28966.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28966%2F28966.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 割烹旅館　長崎荘</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　１５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★5（28件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17650%2F17650.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17650%2F17650.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＯＮＣＲＩ－ＫＡＲＡＴＳＵ（おんくり唐津）（旧：旅館魚半）</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　第1駐車場：6台、第2駐車場：23台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（314件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F80547%2F80547.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F80547%2F80547.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

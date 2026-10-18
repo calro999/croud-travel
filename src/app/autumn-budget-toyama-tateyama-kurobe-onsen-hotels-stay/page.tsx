@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の富山×格安：立山連峰の三段紅葉と富山湾の白えび・紅ズワイガニ！天然温泉付き1泊4,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
     description: '立山連峰の三段紅葉と富山湾の海の幸！天然温泉付き1泊4,000円〜6,000円台の富山コスパ最強ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-budget-toyama-tateyama-kurobe-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-toyama-tateyama-kurobe-onsen-hotels-stay',
   }
 };
 
 export default function ToyamaBudgetAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の富山×格安：立山連峰の三段紅葉と富山湾の白えび・紅ズワイガニ！天然温泉付き1泊4,000円〜6,000円台のコスパ最強ホテル5選「2026最新」\",\"description\":\"立山黒部アルペンルートや黒部峡谷トロッコ電車の紅葉拠点！富山湾の「白えび」や秋解禁の紅ズワイガニを満喫。サウナ＆天然温泉大浴場付きで1泊4,000円〜6,000円台で泊まれる富山駅周辺の格安ホテル5選。富山マンテンホテル、御宿野乃富山を徹底比較！\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-toyama-tateyama-kurobe-onsen-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の富山×格安：立山連峰の三段紅葉と富山湾の白えび・紅ズワイガニ！天然温泉付き1泊4,000円〜6,000円台のコスパ最強ホテル5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-toyama-tateyama-kurobe-onsen-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の富山×格安：立山連峰の三段紅葉と富山湾の白えび・紅ズワイガニ！天然温泉付き1泊4,000円〜6,000円台のコスパ最強ホテル5選「2026最新」\",\"numberOfItems\":7,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"天然温泉　剱の湯　御宿　野乃富山（ドーミーイン・御宿野乃　ホテルズグループ）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-toyama-tateyama-kurobe-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"富山マンテンホテル（マンテンホテルグループ）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-toyama-tateyama-kurobe-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"天然温泉　剱の湯　ドーミーイン富山\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-toyama-tateyama-kurobe-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"立山黒部アルペンルート（雪の大谷）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-toyama-tateyama-kurobe-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"黒部ダム\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-toyama-tateyama-kurobe-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"雨晴海岸（あまはらしかいがん）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-toyama-tateyama-kurobe-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"五箇山 合掌造り集落\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-toyama-tateyama-kurobe-onsen-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/153267/153267.jpg"
@@ -142,7 +146,7 @@ export default function ToyamaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1032%2F1032.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function ToyamaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1504%2F1504.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function ToyamaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153267%2F153267.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -282,7 +286,7 @@ export default function ToyamaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39202%2F39202.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -328,7 +332,7 @@ export default function ToyamaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2101%2F2101.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -385,7 +389,7 @@ export default function ToyamaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">あり：隣接の複合施設駐車場NPCをご利用下さいませ。1台￥1,400(出し入れ自由）</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（2300件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,650〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153267%2F153267.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153267%2F153267.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 富山マンテンホテル（マンテンホテルグループ）</td>
@@ -394,7 +398,7 @@ export default function ToyamaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（4232件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,680〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1032%2F1032.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1032%2F1032.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天然温泉　剱の湯　ドーミーイン富山</td>
@@ -403,7 +407,7 @@ export default function ToyamaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（7886件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,650〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39202%2F39202.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39202%2F39202.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -536,6 +540,9 @@ export default function ToyamaBudgetAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-toyama-tateyama-kurobe-onsen-hotels-stay" />
+        </div>
 
       </article>
   );

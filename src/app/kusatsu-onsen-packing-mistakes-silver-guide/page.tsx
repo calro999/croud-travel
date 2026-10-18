@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kusatsu-onsen-packing-mistakes-silver-guide/" },
-  title: "草津温泉で後悔したことワースト5：銀製品が真っ黒に変色！？強酸性泉の注意点＆必須持ち物チェックリスト ｜ 日本全国・旅宿クラウド",
+  title: "草津温泉で後悔したことワースト5：銀製品が真っ黒に変色！？強酸性泉の注意点＆必須持ち物チェックリスト",
   description: "草津温泉に行く前に絶対読んでほしいリアル失敗談！pH2.1の強酸性泉でシルバーアクセサリーが変色する事故、湯あたり対策、白いタオルが黄色く染まる問題、持っていくべき便利グッズ完全リスト。",
   keywords: ["必須持ち物チェックリスト", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: "草津温泉で後悔したことワースト5：銀製品が真っ黒に変色！？強酸性泉の注意点＆必須持ち物チェックリスト ｜ 日本全国・旅宿クラウド",
+    title: "草津温泉で後悔したことワースト5：銀製品が真っ黒に変色！？強酸性泉の注意点＆必須持ち物チェックリスト",
     description: "草津温泉に行く前に絶対読んでほしいリアル失敗談！pH2.1の強酸性泉でシルバーアクセサリーが変色する事故、湯あたり対策、白いタオルが黄色く染まる問題、持っていくべき便利グッズ完全リスト。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "草津温泉で後悔したことワースト5：銀製品が真っ黒に変色！？強酸性泉の注意点＆必須持ち物チェックリスト ｜ 日本全国・旅宿クラウド",
+    title: "草津温泉で後悔したことワースト5：銀製品が真っ黒に変色！？強酸性泉の注意点＆必須持ち物チェックリスト",
     description: "草津温泉に行く前に絶対読んでほしいリアル失敗談！pH2.1の強酸性泉でシルバーアクセサリーが変色する事故、湯あたり対策、白いタオルが黄色く染まる問題、持っていくべき便利グッズ完全リスト。",
   }
 };
@@ -286,7 +286,7 @@ export default function KusatsuPackingMistakesPage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcamp%2F50coupon%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="bg-white text-rose-600 hover:bg-rose-50 font-black px-6 py-3.5 rounded-full text-sm shadow-md transition-all shrink-0 text-center"
           >
             楽天トラベル限定クーポンを見る →
@@ -362,7 +362,7 @@ export default function KusatsuPackingMistakesPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="bg-amber-600 hover:bg-amber-700 text-white text-xs md:text-sm font-bold px-5 py-2.5 rounded-full shadow transition-colors"
                   >
                     楽天トラベルで空室・プランを見る →

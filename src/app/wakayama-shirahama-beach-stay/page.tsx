@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/wakayama-shirahama-beach-stay/" },
-  title: "和歌山・南紀白浜：白良浜・アドベンチャーワールド＆崎の湯・クエ極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "和歌山・南紀白浜：白良浜・アドベンチャーワールド＆崎の湯・クエ極上宿 厳選ガイド",
   description: "関西屈指のビーチリゾート南紀白浜エリア完全特化！真っ白な砂浜「白良浜」、アドベンチャーワールド、日本最古の野天風呂「崎の湯」、三段壁、幻の高級魚クエ料理とオーシャンビュー温泉旅館を徹底解説。",
   keywords: ["和歌山", "南紀白浜", "白良浜", "アドベンチャーワールド", "崎の湯", "クエ極上宿", "温泉宿"],
   openGraph: {
-    title: "和歌山・南紀白浜：白良浜・アドベンチャーワールド＆崎の湯・クエ極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "和歌山・南紀白浜：白良浜・アドベンチャーワールド＆崎の湯・クエ極上宿 厳選ガイド",
     description: "関西屈指のビーチリゾート南紀白浜エリア完全特化！真っ白な砂浜「白良浜」、アドベンチャーワールド、日本最古の野天風呂「崎の湯」、三段壁、幻の高級魚クエ料理とオーシャンビュー温泉旅館を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "和歌山・南紀白浜：白良浜・アドベンチャーワールド＆崎の湯・クエ極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "和歌山・南紀白浜：白良浜・アドベンチャーワールド＆崎の湯・クエ極上宿 厳選ガイド",
     description: "関西屈指のビーチリゾート南紀白浜エリア完全特化！真っ白な砂浜「白良浜」、アドベンチャーワールド、日本最古の野天風呂「崎の湯」、三段壁、幻の高級魚クエ料理とオーシャンビュー温泉旅館を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（2591件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8226%2F8226.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8226%2F8226.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 白浜温泉　ホテルサンリゾート白浜</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　35台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.72（479件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44251%2F44251.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44251%2F44251.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 南紀白浜　和みの湯　花鳥風月</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">24台（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（486件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183409%2F183409.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183409%2F183409.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 白浜温泉　ＫＫＲ白浜　美浜荘（国家公務員共済組合連合会白浜保養所）</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有　【20台】　　無料です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（387件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17665%2F17665.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17665%2F17665.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

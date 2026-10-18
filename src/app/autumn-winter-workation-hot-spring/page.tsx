@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-workation-hot-spring/" },
-  title: "温泉ワーケーション：高速Wi-Fi＆名湯！大人のリトリート宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "温泉ワーケーション：高速Wi-Fi＆名湯！大人のリトリート宿 厳選ガイド",
   description: "仕事も旅も妥協しない！長野・軽井沢、静岡・熱海温泉、神奈川・箱根湯本、京都・烏丸御池など、コワーキングラウンジ、高速Wi-Fi、デスク環境と極上天然温泉を備えた秋・冬の温泉ワーケーションホテルを徹底解説。",
   keywords: ["温泉ワーケーション", "高速Wi-Fi", "名湯！大人のリトリート宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "温泉ワーケーション：高速Wi-Fi＆名湯！大人のリトリート宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "温泉ワーケーション：高速Wi-Fi＆名湯！大人のリトリート宿 厳選ガイド",
     description: "仕事も旅も妥協しない！長野・軽井沢、静岡・熱海温泉、神奈川・箱根湯本、京都・烏丸御池など、コワーキングラウンジ、高速Wi-Fi、デスク環境と極上天然温泉を備えた秋・冬の温泉ワーケーションホテルを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "温泉ワーケーション：高速Wi-Fi＆名湯！大人のリトリート宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "温泉ワーケーション：高速Wi-Fi＆名湯！大人のリトリート宿 厳選ガイド",
     description: "仕事も旅も妥協しない！長野・軽井沢、静岡・熱海温泉、神奈川・箱根湯本、京都・烏丸御池など、コワーキングラウンジ、高速Wi-Fi、デスク環境と極上天然温泉を備えた秋・冬の温泉ワーケーションホテルを徹底解説。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

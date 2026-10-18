@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetMatsueShinjikoHotelsPage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"松江・宍道湖：秋の宍道湖七珍・出雲そば＆国宝松江城！3,000円台〜泊まれる格安ホテル5選\",\"description\":\"秋の味覚・宍道湖七珍のシジミ汁や挽きぐるみ出雲そば、湖畔を茜色に染める宍道湖夕日！国宝天守・松江城下で1泊3,000円台〜泊まれる超高コスパ格安宿厳選5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shimane-matsue-shinjiko-soba-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"松江・宍道湖：秋の宍道湖七珍・出雲そば＆国宝松江城！3,000円台〜泊まれる格安ホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-shimane-matsue-shinjiko-soba-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"松江・宍道湖：秋の宍道湖七珍・出雲そば＆国宝松江城！3,000円台〜泊まれる格安ホテル5選\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"千鳥が羽を広げたような優美な天守・現存12天守の国宝城郭\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shimane-matsue-shinjiko-soba-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"松江しんじ湖温泉　ニューアーバンホテル本館・別館\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shimane-matsue-shinjiko-soba-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"松江エクセルホテル東急\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shimane-matsue-shinjiko-soba-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"島根浜田ワシントンホテルプラザ\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shimane-matsue-shinjiko-soba-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"寛ぎの宿　輝雲荘\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shimane-matsue-shinjiko-soba-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"ホテルサンヌーベ\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shimane-matsue-shinjiko-soba-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"出雲大社（いづもたいしゃ）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shimane-matsue-shinjiko-soba-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"国宝 松江城\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shimane-matsue-shinjiko-soba-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"足立美術館\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shimane-matsue-shinjiko-soba-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"石見銀山遺跡（大森の町並み）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shimane-matsue-shinjiko-soba-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -149,7 +153,7 @@ export default function AutumnBudgetMatsueShinjikoHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177606%2F177606.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-teal-600 to-cyan-700 hover:from-teal-500 hover:to-cyan-600 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -204,7 +208,7 @@ export default function AutumnBudgetMatsueShinjikoHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F815%2F815.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-teal-600 to-cyan-700 hover:from-teal-500 hover:to-cyan-600 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -259,7 +263,7 @@ export default function AutumnBudgetMatsueShinjikoHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5005%2F5005.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-teal-600 to-cyan-700 hover:from-teal-500 hover:to-cyan-600 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -314,7 +318,7 @@ export default function AutumnBudgetMatsueShinjikoHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39764%2F39764.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-teal-600 to-cyan-700 hover:from-teal-500 hover:to-cyan-600 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -369,7 +373,7 @@ export default function AutumnBudgetMatsueShinjikoHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F529%2F529.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-teal-600 to-cyan-700 hover:from-teal-500 hover:to-cyan-600 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -429,7 +433,7 @@ export default function AutumnBudgetMatsueShinjikoHotelsPage() {
                 <td className="p-3 text-stone-600">有り　８０台（普通車）　800円(税込）／泊</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（4576件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5005%2F5005.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5005%2F5005.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 松江エクセルホテル東急</td>
@@ -438,7 +442,7 @@ export default function AutumnBudgetMatsueShinjikoHotelsPage() {
                 <td className="p-3 text-stone-600">1泊1200円（15時から翌10時まで）。平面駐車場、ゲート自動開閉で40台収容。</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（1689件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,205〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F529%2F529.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F529%2F529.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 島根浜田ワシントンホテルプラザ</td>
@@ -447,7 +451,7 @@ export default function AutumnBudgetMatsueShinjikoHotelsPage() {
                 <td className="p-3 text-stone-600">800円/浜田市営道分山立体駐車場利用</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（1233件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F431%2F431.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F431%2F431.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 寛ぎの宿　輝雲荘</td>
@@ -456,7 +460,7 @@ export default function AutumnBudgetMatsueShinjikoHotelsPage() {
                 <td className="p-3 text-stone-600">有り　無料14台</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（910件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1417%2F1417.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1417%2F1417.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルサンヌーベ</td>
@@ -465,7 +469,7 @@ export default function AutumnBudgetMatsueShinjikoHotelsPage() {
                 <td className="p-3 text-stone-600">50台（無料）／予約不要／広々とした平面駐車場完備（大型車両収容可能）</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（1735件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,280〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1761%2F1761.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1761%2F1761.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -642,6 +646,9 @@ export default function AutumnBudgetMatsueShinjikoHotelsPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-shimane-matsue-shinjiko-soba-hotels-stay" />
+        </div>
 
       </main>
   );

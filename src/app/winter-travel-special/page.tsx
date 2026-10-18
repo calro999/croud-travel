@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import fs from "fs";
 import path from "path";
 import { Metadata } from "next";
@@ -6,7 +7,7 @@ import WinterSpecialHubClient from "./WinterSpecialHubClient";
 import winterPostsData from "@/data/winterFeaturesData.json";
 
 export const metadata: Metadata = {
-  title: "全国の冬の絶景温泉＆冬の美食満喫特集まとめ 500選 ｜ 日本全国・旅宿クラウド",
+  title: "全国の冬の絶景温泉＆冬の美食満喫特集まとめ 500選",
   description: "越前ガニ・松葉ガニ、下関とらふぐ、雪見露天風呂、新春初詣、きらめくイルミネーション、白銀の絶景スキーリゾートまで！全国エリア別・目的別の冬の厳選特集記事500選を網羅！",
   keywords: ["冬旅行", "カニ宿", "雪見露天", "とらふぐ", "初詣 宿", "冬 イルミネーション", "楽天トラベル クーポン", "温泉旅行 冬"],
   alternates: {
@@ -32,6 +33,9 @@ export const dynamic = 'force-static';
 export default function WinterTravelSpecialPage() {
   return (
     <div className="space-y-10 max-w-6xl mx-auto px-4 py-6">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"全国の冬の絶景温泉＆冬の美食満喫特集まとめ 500選\",\"description\":\"越前ガニ・松葉ガニ、下関とらふぐ、雪見露天風呂、新春初詣、きらめくイルミネーション、白銀の絶景スキーリゾートまで！全国エリア別・目的別の冬の厳選特集記事500選を網羅！\",\"url\":\"https://croud-travel.pages.dev/winter-travel-special/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"全国の冬の絶景温泉＆冬の美食満喫特集まとめ 500選\",\"item\":\"https://croud-travel.pages.dev/winter-travel-special/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"全国の冬の絶景温泉＆冬の美食満喫特集まとめ 500選\",\"numberOfItems\":2,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"🏨 注目宿のクチコミ・アクセス詳細\",\"url\":\"https://croud-travel.pages.dev/winter-travel-special/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"🗺️ 合わせて訪れたい日本の代表的観光名所ガイド\",\"url\":\"https://croud-travel.pages.dev/winter-travel-special/\"}]}" }} />
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
@@ -120,7 +124,7 @@ export default function WinterTravelSpecialPage() {
                 <td className="p-3 text-stone-600">有り　177台　3000円（税込）</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（4212件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,334〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1799%2F1799.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1799%2F1799.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 白馬五竜　ホテル　ステラベラ</td>
@@ -129,7 +133,7 @@ export default function WinterTravelSpecialPage() {
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（48件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,555〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1844%2F1844.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1844%2F1844.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 熱海温泉　湯の宿　平鶴（ひらつる）</td>
@@ -138,7 +142,7 @@ export default function WinterTravelSpecialPage() {
                 <td className="p-3 text-stone-600">有り　５０台　有料　乗用車1台1泊700円（税別）</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（1103件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1854%2F1854.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1854%2F1854.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. グランドニッコー東京　台場</td>
@@ -147,7 +151,7 @@ export default function WinterTravelSpecialPage() {
                 <td className="p-3 text-stone-600">●宿泊者は1滞在￥2,000（税込）※予告なく変更となる場合がございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（9840件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,520〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1917%2F1917.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1917%2F1917.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 三朝温泉　三朝館</td>
@@ -156,7 +160,7 @@ export default function WinterTravelSpecialPage() {
                 <td className="p-3 text-stone-600">有り　１００台</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（2254件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,395〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1939%2F1939.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1939%2F1939.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               </tbody>
             </table>

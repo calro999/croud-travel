@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-solo-retreat-private-onsen-stay/" },
-  title: 'おひとり様贅沢ステイ：客室露天風呂＆部屋食で心身をリセットするソロ温泉ワーケーションふるさと納税旅 | クラウドトラベル',
+  title: 'おひとり様贅沢ステイ：客室露天風呂＆部屋食で心身をリセットするソロ温泉ワーケーションふるさと納税旅',
   description: '誰にも気兼ねしない大人の一人旅。四万温泉・別所温泉・黒川温泉の客室露天風呂付き宿や静寂の湯治宿を厳選。実質2,000円で叶えるソロ温泉リトリート＆ワーケーション完全ガイド。',
   openGraph: {
-    title: 'おひとり様贅沢ステイ：客室露天風呂＆部屋食で心身をリセットするソロ温泉ワーケーションふるさと納税旅 | クラウドトラベル',
+    title: 'おひとり様贅沢ステイ：客室露天風呂＆部屋食で心身をリセットするソロ温泉ワーケーションふるさと納税旅',
     description: '誰にも気兼ねしない大人の一人旅。四万温泉・別所温泉・黒川温泉の客室露天風呂付き宿や静寂の湯治宿を厳選。実質2,000円で叶えるソロ温泉リトリート＆ワーケーション完全ガイド。',
     type: 'article',
   },
@@ -17,6 +17,20 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['furusato-tax-solo-retreat-private-onsen-stay'] || {};
+
+  const allSecHotels = Object.values(secData).flatMap((s: any) => (s && Array.isArray(s.hotels) ? s.hotels : []));
+  const jsonLdItemList = allSecHotels.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": (metadata.title as string) || "furusato-tax-solo-retreat-private-onsen-stay",
+    "numberOfItems": allSecHotels.length,
+    "itemListElement": allSecHotels.map((h: any, idx: number) => ({
+      "@type": "ListItem",
+      "position": idx + 1,
+      "name": h.hotelName || "厳選宿",
+      "url": h.affiliateUrl || h.hotelInformationUrl || "https://croud-travel.pages.dev/furusato-tax-solo-retreat-private-onsen-stay/"
+    }))
+  } : null;
 
 
   const jsonLdArticle = {
@@ -46,6 +60,9 @@ export default function Page() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「四万温泉 寿屋旅館＜群馬県＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「四万温泉 寿屋旅館＜群馬県＞」へは、関越自動車道『渋川・伊香保IC』よりお車で50分／ＪＲ吾妻線『中之条駅』から路線バス『四万温泉』行。最寄りの中之条駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「四万温泉 寿屋旅館＜群馬県＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「四万温泉 寿屋旅館＜群馬県＞」は『四万温泉の最奥に佇む全7室の温泉宿。代々伝わる製法と四万の水で打つ蕎麦をゆったりお部屋食で。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「四万温泉 寿屋旅館＜群馬県＞」と「四万温泉 柏屋旅館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
+      {jsonLdItemList && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdItemList) }} />}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">
@@ -72,7 +89,7 @@ export default function Page() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="inline-flex items-center gap-2 bg-gradient-to-r from-red-600 via-rose-600 to-amber-600 text-white font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition transform hover:-translate-y-0.5 text-sm md:text-base border border-amber-400/30"
             >
               <span>🎟️ 楽天ふるさと納税 宿泊クーポンを獲得する</span>
@@ -202,7 +219,7 @@ export default function Page() {
                       <a
                         href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 px-4 py-2.5 bg-amber-800 hover:bg-amber-900 text-white rounded-xl text-xs font-bold transition shadow-sm hover:shadow"
                       >
                         ふるさと納税対象プラン
@@ -288,7 +305,7 @@ export default function Page() {
                       <a
                         href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 px-4 py-2.5 bg-amber-800 hover:bg-amber-900 text-white rounded-xl text-xs font-bold transition shadow-sm hover:shadow"
                       >
                         ふるさと納税対象プラン
@@ -374,7 +391,7 @@ export default function Page() {
                       <a
                         href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 px-4 py-2.5 bg-amber-800 hover:bg-amber-900 text-white rounded-xl text-xs font-bold transition shadow-sm hover:shadow"
                       >
                         ふるさと納税対象プラン
@@ -521,7 +538,7 @@ export default function Page() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="inline-flex items-center gap-2 bg-gradient-to-r from-red-600 via-rose-600 to-amber-600 text-white font-black px-8 py-4 rounded-2xl shadow-xl hover:opacity-95 transition transform hover:-translate-y-0.5 text-base border border-amber-400/40"
             >
               <span>🎟️ 楽天ふるさと納税 宿泊クーポンを獲得する</span>
@@ -632,25 +649,25 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kyoto"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 京都府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hiroshima"
+                href="/prefectures/hiroshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 広島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamagata"
+                href="/prefectures/yamagata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 山形県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/miyagi"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 宮城県の宿・温泉

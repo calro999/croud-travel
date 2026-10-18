@@ -6,7 +6,7 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '完全プライベートな一棟貸切！天然温泉掛け流し＆客室専用サウナ付き極上ヴィラ ｜ 日本全国・旅宿クラウド',
+  title: '完全プライベートな一棟貸切！天然温泉掛け流し＆客室専用サウナ付き極上ヴィラ',
   description: '白馬・那須・淡路島・宮古島など誰にも邪魔されない完全プライベートな一棟貸し高級ヴィラ。専用の源泉掛け流し風呂と本格プライベートサウナ完備。',
   keywords: ["客室専用サウナ付き極上ヴィラ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
@@ -214,7 +214,7 @@ export default function Page() {
                       <a
                         href={h.affiliateUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-block w-full sm:w-auto text-center px-6 py-3.5 bg-gradient-to-r from-amber-600 via-amber-700 to-amber-800 hover:from-amber-500 hover:to-amber-700 text-white font-black text-xs md:text-sm rounded-2xl shadow-md transition transform hover:-translate-y-0.5"
                       >
                         ✈️ {h.hotelName} の最新空室＆宿泊プランを見る
@@ -294,7 +294,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">あり　8台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（9件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,940〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187107%2F187107.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187107%2F187107.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルグリーンパーク鈴鹿</td>
@@ -303,7 +303,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">50台（※一般車：先着制・無料／※大型車：予約制・有料1,500円税込）</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（1689件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F734%2F734.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F734%2F734.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 伊勢シティホテル</td>
@@ -312,7 +312,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">35台（無料、先着順、予約不可）※チェックアウト後の駐車不可</td>
                 <td className="p-3 font-bold text-amber-600">★3.61（3078件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,650〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F740%2F740.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F740%2F740.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 伊賀上野シティホテル</td>
@@ -321,7 +321,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">55台（無料、先着順、長5ｍ×幅2.3ｍ以内）※毎年10月「上野天神祭」期間は駐車いただけません</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（2432件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F743%2F743.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F743%2F743.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. フレックスホテル（FREX　HOTEL）</td>
@@ -330,7 +330,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">無料駐車場約300台あり！ホテル建物周りおよび建物裏に有ります。</td>
                 <td className="p-3 font-bold text-amber-600">★3.91（2120件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,750〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F966%2F966.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F966%2F966.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

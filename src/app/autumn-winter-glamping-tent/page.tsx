@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-glamping-tent/" },
-  title: "秋・冬キャンプ：薪ストーブ＆焚き火・天然温泉グランピング 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "秋・冬キャンプ：薪ストーブ＆焚き火・天然温泉グランピング 厳選ガイド",
   description: "冬こそグランピングのベストシーズン！富士山ビューの大型ドームテント、薪ストーブ、プライベート焚き火、天然温泉や貸切サウナを完備した全国の極上グランピングリゾートを徹底解説。",
   keywords: ["冬キャンプ", "薪ストーブ", "焚き火", "天然温泉グランピング", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "秋・冬キャンプ：薪ストーブ＆焚き火・天然温泉グランピング 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "秋・冬キャンプ：薪ストーブ＆焚き火・天然温泉グランピング 厳選ガイド",
     description: "冬こそグランピングのベストシーズン！富士山ビューの大型ドームテント、薪ストーブ、プライベート焚き火、天然温泉や貸切サウナを完備した全国の極上グランピングリゾートを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "秋・冬キャンプ：薪ストーブ＆焚き火・天然温泉グランピング 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "秋・冬キャンプ：薪ストーブ＆焚き火・天然温泉グランピング 厳選ガイド",
     description: "冬こそグランピングのベストシーズン！富士山ビューの大型ドームテント、薪ストーブ、プライベート焚き火、天然温泉や貸切サウナを完備した全国の極上グランピングリゾートを徹底解説。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-hotspring-onsen-spa-guide/" },
-  title: "源泉かけ流し温泉付きグランピング：キャンプ飯×名湯の極み！名門温泉地直結の露天風呂リゾート ｜ 日本全国・旅宿クラウド",
+  title: "源泉かけ流し温泉付きグランピング：キャンプ飯×名湯の極み！名門温泉地直結の露天風呂リゾート",
   description:
     "簡易シャワーのグランピングとは別次元！敷地内に本格的な自家源泉を引いた温泉宿直営グランピング特集。客室専用の半露天風呂、美肌の湯、湯上りのビールと焚き火を同時に満喫する大人ステイ。",
   keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: "源泉かけ流し温泉付きグランピング：キャンプ飯×名湯の極み！名門温泉地直結の露天風呂リゾート ｜ 日本全国・旅宿クラウド",
+    title: "源泉かけ流し温泉付きグランピング：キャンプ飯×名湯の極み！名門温泉地直結の露天風呂リゾート",
     description: "簡易シャワーのグランピングとは別次元！敷地内に本格的な自家源泉を引いた温泉宿直営グランピング特集。客室専用の半露天風呂、美肌の湯、湯上りのビールと焚き火を同時に満喫する大人ステイ。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "源泉かけ流し温泉付きグランピング：キャンプ飯×名湯の極み！名門温泉地直結の露天風呂リゾート ｜ 日本全国・旅宿クラウド",
+    title: "源泉かけ流し温泉付きグランピング：キャンプ飯×名湯の極み！名門温泉地直結の露天風呂リゾート",
     description: "簡易シャワーのグランピングとは別次元！敷地内に本格的な自家源泉を引いた温泉宿直営グランピング特集。客室専用の半露天風呂、美肌の湯、湯上りのビールと焚き火を同時に満喫する大人ステイ。",
   }
 };
@@ -164,6 +164,8 @@ export default function SilverWeekGlampingHotspringOnsenSpaPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 
       {/* ヒーローセクション（Amberパレット） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-amber-950 via-amber-900 to-stone-900 text-white p-8 md:p-14 shadow-2xl border border-amber-600/30">
@@ -327,7 +329,7 @@ export default function SilverWeekGlampingHotspringOnsenSpaPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="inline-flex items-center justify-center px-4 py-2.5 bg-gradient-to-r from-amber-700 to-amber-800 hover:from-amber-600 hover:to-amber-700 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5 shrink-0"
                   >
                     楽天トラベルで空室確認 ✈️

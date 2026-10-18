@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
     description: '縮景園もみじライトアップと牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強広島ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay',
   }
 };
 
 export default function HiroshimaBudgetAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」\",\"description\":\"名勝「縮景園」の幻想的なもみじライトアップと平和記念公園の紅葉！広島名物のお好み焼きや秋に旬を迎える焼き牡蠣を満喫。大浴場やサウナ完備で1泊3,000円〜6,000円台で泊まれる広島のコスパ最強ホテル5選。アパホテル広島駅前大橋、トラストホテルなどを徹底比較！\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」\",\"numberOfItems\":9,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"アパホテル〈広島駅前大橋〉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"トラストホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"広島パシフィックホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"アパホテル〈広島駅前新幹線口〉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"天然温泉　芸州の湯　ドーミーイン広島ＡＮＮＥＸ（ドーミーイン・御宿野乃　ホテルズグループ）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"厳島神社（宮島）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"原爆ドーム・平和記念公園\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"尾道（千光寺公園）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"呉・大和ミュージアム\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/153290/153290.jpg"
@@ -142,7 +146,7 @@ export default function HiroshimaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183824%2F183824.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function HiroshimaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F3145%2F3145.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function HiroshimaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153290%2F153290.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function HiroshimaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F191892%2F191892.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function HiroshimaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183389%2F183389.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function HiroshimaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">先着順　入庫から24時間で1500円　入出庫：7：00-22：00　大きさ制限あり　詳細はホテルへ</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（5088件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153290%2F153290.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153290%2F153290.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. トラストホテル</td>
@@ -396,7 +400,7 @@ export default function HiroshimaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">最大2台まで。電話予約受付（082-569-6433）高さ制限2ｍ以下　1泊1100円</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（753件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183824%2F183824.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183824%2F183824.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 広島パシフィックホテル</td>
@@ -405,7 +409,7 @@ export default function HiroshimaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">鯉城ガレージ1泊1,200円税込(15時〜翌11時出入れなし）</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（2859件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,075〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F3145%2F3145.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F3145%2F3145.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アパホテル〈広島駅前新幹線口〉</td>
@@ -414,7 +418,7 @@ export default function HiroshimaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">16台（先着順、予約不可）、【料金】入庫から24時間 1,500円【時間外】 30分につき200円</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（636件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,275〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F191892%2F191892.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F191892%2F191892.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 天然温泉　芸州の湯　ドーミーイン広島ＡＮＮＥＸ（ドーミーイン・御宿野乃　ホテルズグループ）</td>
@@ -423,7 +427,7 @@ export default function HiroshimaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">【先着順】機械式立体駐車場18台 平面車椅子利用者用駐車場1台（1泊15時－翌11時 2,300円）</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（965件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,384〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183389%2F183389.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183389%2F183389.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -600,6 +604,9 @@ export default function HiroshimaBudgetAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay" />
+        </div>
 
       </article>
   );

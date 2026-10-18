@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-starry-sky-astrophotography-resort-stay/" },
-  title: "満天の星空＆星空案内人の宿：阿智村・野辺山・石垣島＆星空露天風呂 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "満天の星空＆星空案内人の宿：阿智村・野辺山・石垣島＆星空露天風呂 厳選ガイド",
   description: "環境省認定の日本一の星空完全特化！長野「阿智村」、八ヶ岳「野辺山高原」、星空保護区「石垣島・西表島」、岡山「美星町」、星空案内人（星ソムリエ）の天体観測ツアーと屋上星空テラス温泉宿を徹底解説。",
   keywords: ["満天の星空", "星空案内人の宿", "阿智村", "野辺山", "石垣島", "星空露天風呂", "温泉宿"],
   openGraph: {
-    title: "満天の星空＆星空案内人の宿：阿智村・野辺山・石垣島＆星空露天風呂 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "満天の星空＆星空案内人の宿：阿智村・野辺山・石垣島＆星空露天風呂 厳選ガイド",
     description: "環境省認定の日本一の星空完全特化！長野「阿智村」、八ヶ岳「野辺山高原」、星空保護区「石垣島・西表島」、岡山「美星町」、星空案内人（星ソムリエ）の天体観測ツアーと屋上星空テラス温泉宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "満天の星空＆星空案内人の宿：阿智村・野辺山・石垣島＆星空露天風呂 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "満天の星空＆星空案内人の宿：阿智村・野辺山・石垣島＆星空露天風呂 厳選ガイド",
     description: "環境省認定の日本一の星空完全特化！長野「阿智村」、八ヶ岳「野辺山高原」、星空保護区「石垣島・西表島」、岡山「美星町」、星空案内人（星ソムリエ）の天体観測ツアーと屋上星空テラス温泉宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function ScenicViewHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function ScenicViewHubPage() {
                 <td className="p-3 text-stone-600">有り　70台　無料　予約不要 【EV・PHEV用の充電器1台あり(普通充電200V)】</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（845件）</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72733%2F72733.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72733%2F72733.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 八ヶ岳グレイスホテル</td>
@@ -261,7 +261,7 @@ export default function ScenicViewHubPage() {
                 <td className="p-3 text-stone-600">有り　７０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（2185件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38754%2F38754.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38754%2F38754.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 八ヶ岳・清里高原　清泉寮　ホテル＆コテージ</td>
@@ -270,7 +270,7 @@ export default function ScenicViewHubPage() {
                 <td className="p-3 text-stone-600">有り　２００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（563件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29370%2F29370.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29370%2F29370.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 八ヶ岳南麓　バーク清里</td>
@@ -279,7 +279,7 @@ export default function ScenicViewHubPage() {
                 <td className="p-3 text-stone-600">有り、終日無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.93（331件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40083%2F40083.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40083%2F40083.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 八ヶ岳温泉　樅の木荘</td>
@@ -288,7 +288,7 @@ export default function ScenicViewHubPage() {
                 <td className="p-3 text-stone-600">有り　１００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（338件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37944%2F37944.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37944%2F37944.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. リゾートイン西表島＜西表島＞</td>
@@ -297,7 +297,7 @@ export default function ScenicViewHubPage() {
                 <td className="p-3 text-stone-600">有り　無料　先着順（4台）</td>
                 <td className="p-3 font-bold text-amber-600">★3.91（175件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,940〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183909%2F183909.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183909%2F183909.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/aomori-hirosaki-castle-cherry-apple-stay/" },
-  title: "青森・弘前：弘前城桜・津軽りんご＆三味線宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "青森・弘前：弘前城桜・津軽りんご＆三味線宿 厳選ガイド",
   description: "死ぬまでに行きたい世界の絶景「弘前公園の花筏（はないかだ）」、現存十二天守「弘前城」、生産量日本一の津軽りんご＆アップルパイ巡り、明治大正のレトロ洋館群、生演奏を聴ける津軽三味線の宿を徹底解説。弘前市内ホテルや名湯温泉旅館を厳選。",
   keywords: ["青森", "弘前", "弘前城桜", "津軽りんご", "三味線宿", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "青森・弘前：弘前城桜・津軽りんご＆三味線宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "青森・弘前：弘前城桜・津軽りんご＆三味線宿 厳選ガイド",
     description: "死ぬまでに行きたい世界の絶景「弘前公園の花筏（はないかだ）」、現存十二天守「弘前城」、生産量日本一の津軽りんご＆アップルパイ巡り、明治大正のレトロ洋館群、生演奏を聴ける津軽三味線の宿を徹底解説。弘前市内ホテルや名湯温泉旅館を厳選。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "青森・弘前：弘前城桜・津軽りんご＆三味線宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "青森・弘前：弘前城桜・津軽りんご＆三味線宿 厳選ガイド",
     description: "死ぬまでに行きたい世界の絶景「弘前公園の花筏（はないかだ）」、現存十二天守「弘前城」、生産量日本一の津軽りんご＆アップルパイ巡り、明治大正のレトロ洋館群、生演奏を聴ける津軽三味線の宿を徹底解説。弘前市内ホテルや名湯温泉旅館を厳選。",
   }
 };
@@ -214,7 +214,7 @@ export default function MicroTouristHubPage() {
                           <a
                             href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                             target="_blank"
-                            rel="noopener noreferrer"
+                            rel="sponsored noopener noreferrer"
                             className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-teal-700 to-teal-800 hover:from-teal-600 hover:to-teal-700 rounded-xl shadow transition"
                           >
                             ✈️ 楽天トラベルで宿泊プラン・空室を見る

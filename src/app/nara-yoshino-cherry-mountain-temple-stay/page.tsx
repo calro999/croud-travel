@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nara-yoshino-cherry-mountain-temple-stay/" },
-  title: "奈良・吉野山＆金峯山寺：一目千本桜・蔵王堂＆柿の葉寿司宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "奈良・吉野山＆金峯山寺：一目千本桜・蔵王堂＆柿の葉寿司宿 厳選ガイド",
   description: "山全体が約3万本の桜で埋め尽くされる世界遺産「吉野山（下千本・中千本・上千本・奥千本）」、修験道の根本道場・金峯山寺の秘仏本尊「金剛蔵王権現（青の神仏）」、吉水神社、吉野本葛料理や柿の葉寿司を徹底解説。歴史ある宿坊やパノラマ旅館を厳選。",
   keywords: ["奈良", "吉野山", "金峯山寺", "一目千本桜", "蔵王堂", "柿の葉寿司宿", "温泉宿"],
   openGraph: {
-    title: "奈良・吉野山＆金峯山寺：一目千本桜・蔵王堂＆柿の葉寿司宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "奈良・吉野山＆金峯山寺：一目千本桜・蔵王堂＆柿の葉寿司宿 厳選ガイド",
     description: "山全体が約3万本の桜で埋め尽くされる世界遺産「吉野山（下千本・中千本・上千本・奥千本）」、修験道の根本道場・金峯山寺の秘仏本尊「金剛蔵王権現（青の神仏）」、吉水神社、吉野本葛料理や柿の葉寿司を徹底解説。歴史ある宿坊やパノラマ旅館を厳選。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "奈良・吉野山＆金峯山寺：一目千本桜・蔵王堂＆柿の葉寿司宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "奈良・吉野山＆金峯山寺：一目千本桜・蔵王堂＆柿の葉寿司宿 厳選ガイド",
     description: "山全体が約3万本の桜で埋め尽くされる世界遺産「吉野山（下千本・中千本・上千本・奥千本）」、修験道の根本道場・金峯山寺の秘仏本尊「金剛蔵王権現（青の神仏）」、吉水神社、吉野本葛料理や柿の葉寿司を徹底解説。歴史ある宿坊やパノラマ旅館を厳選。",
   }
 };
@@ -214,7 +214,7 @@ export default function MicroTouristHubPage() {
                           <a
                             href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                             target="_blank"
-                            rel="noopener noreferrer"
+                            rel="sponsored noopener noreferrer"
                             className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-teal-700 to-teal-800 hover:from-teal-600 hover:to-teal-700 rounded-xl shadow transition"
                           >
                             ✈️ 楽天トラベルで宿泊プラン・空室を見る

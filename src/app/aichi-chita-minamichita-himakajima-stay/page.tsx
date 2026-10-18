@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/aichi-chita-minamichita-himakajima-stay/" },
-  title: "愛知・知多半島＆南知多温泉郷：内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "愛知・知多半島＆南知多温泉郷：内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 厳選ガイド",
   description: "伊勢湾と三河湾に囲まれた海の楽園・愛知知多半島＆南知多温泉郷エリア完全特化！日本の渚百選「内海千鳥ヶ浜」、タコとフグの島「日間賀島」、野間灯台の夕陽、源泉かけ流し南知多温泉、知多牛＆伊勢湾活魚宿を徹底解説。",
   keywords: ["愛知", "知多半島", "南知多温泉郷", "内海千鳥ヶ浜", "日間賀島タコふぐ", "知多牛宿", "温泉宿"],
   openGraph: {
-    title: "愛知・知多半島＆南知多温泉郷：内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "愛知・知多半島＆南知多温泉郷：内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 厳選ガイド",
     description: "伊勢湾と三河湾に囲まれた海の楽園・愛知知多半島＆南知多温泉郷エリア完全特化！日本の渚百選「内海千鳥ヶ浜」、タコとフグの島「日間賀島」、野間灯台の夕陽、源泉かけ流し南知多温泉、知多牛＆伊勢湾活魚宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "愛知・知多半島＆南知多温泉郷：内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "愛知・知多半島＆南知多温泉郷：内海千鳥ヶ浜・日間賀島タコふぐ＆知多牛宿 厳選ガイド",
     description: "伊勢湾と三河湾に囲まれた海の楽園・愛知知多半島＆南知多温泉郷エリア完全特化！日本の渚百選「内海千鳥ヶ浜」、タコとフグの島「日間賀島」、野間灯台の夕陽、源泉かけ流し南知多温泉、知多牛＆伊勢湾活魚宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　６０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（809件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18985%2F18985.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18985%2F18985.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 民宿　釣舟の大友</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　15台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★5（19件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41494%2F41494.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41494%2F41494.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. くるみ庵</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　３台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（18件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F151168%2F151168.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F151168%2F151168.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. まるは食堂旅館　南知多豊浜本店</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　約２００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（365件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149043%2F149043.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149043%2F149043.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 南知多温泉郷　源氏香</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　70台　無料　フリー</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（652件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,850〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28124%2F28124.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28124%2F28124.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. サポートイン南知多</td>
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　10台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★5（15件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183370%2F183370.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183370%2F183370.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

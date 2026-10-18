@@ -213,7 +213,7 @@ export default function FurusatoUpgradedPage() {
                         {h.label}
                       </div>
                       <h3 className="text-2xl font-black text-white mb-3 hover:text-amber-400 transition">
-                        <a href={h.affiliateUrl} target="_blank" rel="noopener noreferrer">
+                        <a href={h.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer">
                           {h.hotelName}
                         </a>
                       </h3>
@@ -237,7 +237,7 @@ export default function FurusatoUpgradedPage() {
                       <a
                         href={h.affiliateUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="flex-1 text-center bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-stone-950 font-black py-3 px-6 rounded-xl shadow-lg transition duration-150 text-sm"
                       >
                         楽天ふるさと納税で宿を予約する
@@ -359,7 +359,7 @@ export default function FurusatoUpgradedPage() {
                 <td className="p-3 text-stone-600">有り　無料14台</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（910件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1417%2F1417.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1417%2F1417.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. シーサイドホテル舞子ビラ神戸</td>
@@ -368,7 +368,7 @@ export default function FurusatoUpgradedPage() {
                 <td className="p-3 text-stone-600">有り　300台　1泊24時間　800円（2025年4月1日より）</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（5429件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1421%2F1421.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1421%2F1421.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 金沢東急ホテル</td>
@@ -377,7 +377,7 @@ export default function FurusatoUpgradedPage() {
                 <td className="p-3 text-stone-600">ホテル隣【香林坊地下駐車場】200台　1泊1,500円(14時-翌11時)左記以外は30分150円</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（2359件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1426%2F1426.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1426%2F1426.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. プレミアホテル－ＴＳＵＢＡＫＩ－札幌</td>
@@ -386,7 +386,7 @@ export default function FurusatoUpgradedPage() {
                 <td className="p-3 text-stone-600">地下駐車場200台◇1泊1台1000円◇高さ制限2.1m◇24時間出し入れ自由</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（2189件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1432%2F1432.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1432%2F1432.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ザ・プリンス　京都宝ヶ池、オートグラフコレクション</td>
@@ -395,7 +395,7 @@ export default function FurusatoUpgradedPage() {
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（2277件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,017〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1471%2F1471.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1471%2F1471.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               </tbody>
             </table>

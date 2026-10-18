@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/pure-spring-water-sake-brewing-source-onsen-stay/" },
-  title: "名水百選・酒の仕込み水が湧く秘湯宿：清流と伏流水・美肌温泉 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "名水百選・酒の仕込み水が湧く秘湯宿：清流と伏流水・美肌温泉 厳選ガイド",
   description: "名酒が生まれる土地には奇跡の名水と極上温泉がある！全国の日本名水百選・酒造りの仕込み水と美肌温泉宿完全特化！富山黒部・立山連峰伏流水、静岡富士山伏流水、島根奥出雲、熊本阿蘇名水、清冽な天然水風呂と美肌湯を徹底解説。",
   keywords: ["名水百選", "酒の仕込み水が湧く秘湯宿", "清流と伏流水", "美肌温泉", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "名水百選・酒の仕込み水が湧く秘湯宿：清流と伏流水・美肌温泉 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "名水百選・酒の仕込み水が湧く秘湯宿：清流と伏流水・美肌温泉 厳選ガイド",
     description: "名酒が生まれる土地には奇跡の名水と極上温泉がある！全国の日本名水百選・酒造りの仕込み水と美肌温泉宿完全特化！富山黒部・立山連峰伏流水、静岡富士山伏流水、島根奥出雲、熊本阿蘇名水、清冽な天然水風呂と美肌湯を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "名水百選・酒の仕込み水が湧く秘湯宿：清流と伏流水・美肌温泉 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "名水百選・酒の仕込み水が湧く秘湯宿：清流と伏流水・美肌温泉 厳選ガイド",
     description: "名酒が生まれる土地には奇跡の名水と極上温泉がある！全国の日本名水百選・酒造りの仕込み水と美肌温泉宿完全特化！富山黒部・立山連峰伏流水、静岡富士山伏流水、島根奥出雲、熊本阿蘇名水、清冽な天然水風呂と美肌湯を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function SakeTourismHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-700 to-stone-800 hover:from-amber-600 hover:to-stone-700 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

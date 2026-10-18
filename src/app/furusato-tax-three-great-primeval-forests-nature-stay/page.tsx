@@ -8,13 +8,13 @@ import Image from 'next/image';
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
 
 export const metadata: Metadata = {
-  title: "日本三大原生林＆世界遺産ネイチャーリゾート×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  title: "日本三大原生林＆世界遺産ネイチャーリゾート×ふるさと納税ガイド",
   description: "人類の至宝、太古の息吹が宿る手つかずの森！北海道「知床原生林」オホーツク海を一望する知床第一ホテル、鹿児島「屋久島」樹齢数千年の縄文杉と白谷雲水峡・屋久島いわさきホテル、青森「白神山地」世界最大級のブナ原生林と日本海波打ち際の黄金崎不老ふ死温泉。日本三大原生林（世界自然遺産）の神秘を楽天ふるさと納税...",
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-primeval-forests-nature-stay/",
   },
   openGraph: {
-    title: "日本三大原生林＆世界遺産ネイチャーリゾート×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    title: "日本三大原生林＆世界遺産ネイチャーリゾート×ふるさと納税ガイド",
     description: "人類の至宝、太古の息吹が宿る手つかずの森！北海道「知床原生林」オホーツク海を一望する知床第一ホテル、鹿児島「屋久島」樹齢数千年の縄文杉と白谷雲水峡・屋久島いわさきホテル、青森「白神山地」世界最大級のブナ原生林と日本海波打ち際の黄金崎不老ふ死温泉。日本三大原生林（世界自然遺産）の神秘を楽天ふるさと納税...",
     url: "https://croud-travel.pages.dev/furusato-tax-three-great-primeval-forests-nature-stay/",
   },
@@ -188,7 +188,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4902%2F4902.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="px-5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold rounded-xl transition border border-slate-700"
                       >
                         宿泊詳細を見る
@@ -259,7 +259,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7499%2F7499.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="px-5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold rounded-xl transition border border-slate-700"
                       >
                         宿泊詳細を見る
@@ -330,7 +330,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F80717%2F80717.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="px-5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold rounded-xl transition border border-slate-700"
                       >
                         宿泊詳細を見る
@@ -535,25 +535,25 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/okinawa"
+                href="/prefectures/okinawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 沖縄県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tokyo"
+                href="/prefectures/tokyo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 東京都の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gifu"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamanashi"
+                href="/prefectures/yamanashi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 山梨県の宿・温泉
@@ -598,7 +598,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り　１２０台　無料　到着順にご案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1818件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4902%2F4902.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4902%2F4902.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 屋久島いわさきホテル　＜屋久島＞</td>
@@ -607,7 +607,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り：５０台（無料・先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（145件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7499%2F7499.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7499%2F7499.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 黄金崎不老ふ死温泉</td>
@@ -616,7 +616,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り　100台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（1294件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F80717%2F80717.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F80717%2F80717.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

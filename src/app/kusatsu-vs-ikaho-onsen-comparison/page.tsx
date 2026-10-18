@@ -263,6 +263,8 @@ export default function KusatsuVsIkahoPage() {
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"草津温泉と伊香保温泉、電車とバスだけで行くならどっちが楽？","acceptedAnswer":{"@type":"Answer","text":"所要時間の手軽さなら伊香保温泉（新宿・東京から高速バスで約2時間30分）、乗り換えなしの直行高速バスが充実している点では草津温泉（バスタ新宿・東京駅から直行便で約3時間30分〜4時間）も非常に快適です。どちらも車なしで完全に回ることができます。"}},{"@type":"Question","name":"カップルや女子旅で行くならどちらがおすすめですか？","acceptedAnswer":{"@type":"Answer","text":"石段街のレトロな雰囲気や射的、水沢うどんのランチ、おしゃれなカフェ巡りを楽しみたいなら伊香保温泉がおすすめ。夜の湯畑ライトアップや圧倒的な硫黄泉の湯浴み、外湯巡りを楽しみたいなら草津温泉が最適です。"}},{"@type":"Question","name":"草津と伊香保、1泊2日で両方ハシゴすることは可能ですか？","acceptedAnswer":{"@type":"Answer","text":"レンタカーや自家用車であれば約1時間〜1時間20分で移動可能なため、1日目昼に伊香保石段街を散策し、夕方に草津温泉の宿にチェックインするハシゴ旅行も大人気です。公共交通機関の場合は高崎駅・渋川駅経由で約2時間〜2時間半で移動できます。"}},{"@type":"Question","name":"冬場（12月〜3月）にノーマルタイヤの車で行けますか？","acceptedAnswer":{"@type":"Answer","text":"草津温泉は標高約1,200mの豪雪地帯に位置するため、冬期はスタッドレスタイヤまたはチェーンが絶対に必須です。ノーマルタイヤの場合は都内からの直行高速バスを利用するのが最も安全で確実です。伊香保温泉も降雪・凍結リスクがあるため冬用タイヤを推奨します。"}}]}) }}
         />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       </section>
   
       {hotels.length > 0 && (
@@ -286,7 +288,7 @@ export default function KusatsuVsIkahoPage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="bg-emerald-600 hover:bg-emerald-700 text-white text-sm px-4 py-2 rounded-full transition-colors font-medium"
                     >
                       詳細を見る
@@ -366,7 +368,7 @@ export default function KusatsuVsIkahoPage() {
                 <td className="p-3 text-stone-600">有り　１４台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（567件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108587%2F108587.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108587%2F108587.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 草津温泉　中村屋旅館＜群馬県＞</td>
@@ -375,7 +377,7 @@ export default function KusatsuVsIkahoPage() {
                 <td className="p-3 text-stone-600">湯畑観光駐車場1階　ご来館時に当日15時〜翌日10時までの駐車サービス券をお渡ししております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.74（593件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31675%2F31675.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31675%2F31675.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 草津温泉　尻焼き風呂の桐島屋旅館</td>
@@ -384,7 +386,7 @@ export default function KusatsuVsIkahoPage() {
                 <td className="p-3 text-stone-600">有り　12台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（187件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,145〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2487%2F2487.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2487%2F2487.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 伊香保温泉　大衆旅館　ふくぜん</td>
@@ -393,7 +395,7 @@ export default function KusatsuVsIkahoPage() {
                 <td className="p-3 text-stone-600">旅館前駐車場有り75台　無料　駐車スペースが無い場合は大変お手数ですがフロントまでお申し付けください</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（2925件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7006%2F7006.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7006%2F7006.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 伊香保温泉　旅館　さくらい</td>
@@ -402,7 +404,7 @@ export default function KusatsuVsIkahoPage() {
                 <td className="p-3 text-stone-600">有り　８０台　無料　予約不要　チェックイン前ご利用可能</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（1221件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38692%2F38692.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38692%2F38692.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 伊香保温泉　森秋旅館</td>
@@ -411,7 +413,7 @@ export default function KusatsuVsIkahoPage() {
                 <td className="p-3 text-stone-600">有（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（2256件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17741%2F17741.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17741%2F17741.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

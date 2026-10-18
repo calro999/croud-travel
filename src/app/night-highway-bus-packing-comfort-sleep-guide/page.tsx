@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/night-highway-bus-packing-comfort-sleep-guide/" },
-  title: "夜行高速バスで爆睡するための持ち物10選：首が痛い・乾燥・寒さで一睡もできなかった失敗談を完全解決 ｜ 日本全国・旅宿クラウド",
+  title: "夜行高速バスで爆睡するための持ち物10選：首が痛い・乾燥・寒さで一睡もできなかった失敗談を完全解決",
   description: "夜行バス初心者必見の安眠・快適ハック！ネックピローの選び方、車内の極度な乾燥を防ぐ立体マスク、足のむくみ対策着圧ソックス、消灯後の過ごし方と到着後すぐ入れる早朝サウナ・大浴場ホテルガイド。",
   keywords: ["首が痛い", "乾燥", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: "夜行高速バスで爆睡するための持ち物10選：首が痛い・乾燥・寒さで一睡もできなかった失敗談を完全解決 ｜ 日本全国・旅宿クラウド",
+    title: "夜行高速バスで爆睡するための持ち物10選：首が痛い・乾燥・寒さで一睡もできなかった失敗談を完全解決",
     description: "夜行バス初心者必見の安眠・快適ハック！ネックピローの選び方、車内の極度な乾燥を防ぐ立体マスク、足のむくみ対策着圧ソックス、消灯後の過ごし方と到着後すぐ入れる早朝サウナ・大浴場ホテルガイド。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "夜行高速バスで爆睡するための持ち物10選：首が痛い・乾燥・寒さで一睡もできなかった失敗談を完全解決 ｜ 日本全国・旅宿クラウド",
+    title: "夜行高速バスで爆睡するための持ち物10選：首が痛い・乾燥・寒さで一睡もできなかった失敗談を完全解決",
     description: "夜行バス初心者必見の安眠・快適ハック！ネックピローの選び方、車内の極度な乾燥を防ぐ立体マスク、足のむくみ対策着圧ソックス、消灯後の過ごし方と到着後すぐ入れる早朝サウナ・大浴場ホテルガイド。",
   }
 };
@@ -382,7 +382,7 @@ export default function NightHighwayBusPackingGuidePage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 w-full sm:w-auto px-8 py-4 bg-gradient-to-r from-indigo-500 to-indigo-600 hover:from-indigo-400 hover:to-indigo-500 text-white font-black text-sm rounded-xl shadow-lg transition"
             >
               <span>🚌 楽天トラベルで夜行高速バス＆割引クーポンを探す</span>
@@ -464,7 +464,7 @@ export default function NightHighwayBusPackingGuidePage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="block w-full text-center py-2.5 text-xs font-black text-white bg-indigo-600 hover:bg-indigo-500 rounded-xl transition shadow"
                     >
                       🏨 楽天トラベルで空室・プランを見る
@@ -594,25 +594,25 @@ export default function NightHighwayBusPackingGuidePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/akita"
+                href="/prefectures/akita/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 秋田県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shizuoka"
+                href="/prefectures/shizuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 静岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tokyo"
+                href="/prefectures/tokyo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 東京都の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ibaraki"
+                href="/prefectures/ibaraki/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 茨城県の宿・温泉

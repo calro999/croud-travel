@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-traditional-townscape-preservation-stay/" },
-  title: "重要伝統的建造物群保存地区（重伝建）の町並み宿：角館・近江八幡・飛騨高山・美馬 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "重要伝統的建造物群保存地区（重伝建）の町並み宿：角館・近江八幡・飛騨高山・美馬 厳選ガイド",
   description: "日本の美しい原風景と匠の技が息づく町並み完全特化！みちのくの小京都「秋田・角館武家屋敷」、八幡堀と白壁土蔵「滋賀・近江八幡」、陣屋と出格子「岐阜・飛騨高山」、うだつの上がる町並み「徳島・美馬」、重伝建エリアの歴史的旅館・古民家宿を徹底解説。",
   keywords: ["角館", "近江八幡", "飛騨高山", "美馬", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "重要伝統的建造物群保存地区（重伝建）の町並み宿：角館・近江八幡・飛騨高山・美馬 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "重要伝統的建造物群保存地区（重伝建）の町並み宿：角館・近江八幡・飛騨高山・美馬 厳選ガイド",
     description: "日本の美しい原風景と匠の技が息づく町並み完全特化！みちのくの小京都「秋田・角館武家屋敷」、八幡堀と白壁土蔵「滋賀・近江八幡」、陣屋と出格子「岐阜・飛騨高山」、うだつの上がる町並み「徳島・美馬」、重伝建エリアの歴史的旅館・古民家宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "重要伝統的建造物群保存地区（重伝建）の町並み宿：角館・近江八幡・飛騨高山・美馬 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "重要伝統的建造物群保存地区（重伝建）の町並み宿：角館・近江八幡・飛騨高山・美馬 厳選ガイド",
     description: "日本の美しい原風景と匠の技が息づく町並み完全特化！みちのくの小京都「秋田・角館武家屋敷」、八幡堀と白壁土蔵「滋賀・近江八幡」、陣屋と出格子「岐阜・飛騨高山」、うだつの上がる町並み「徳島・美馬」、重伝建エリアの歴史的旅館・古民家宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function HistoryHeritageHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

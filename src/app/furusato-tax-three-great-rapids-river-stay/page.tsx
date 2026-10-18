@@ -213,7 +213,7 @@ export default function FurusatoUpgradedPage() {
                         {h.label}
                       </div>
                       <h3 className="text-2xl font-black text-white mb-3 hover:text-amber-400 transition">
-                        <a href={h.affiliateUrl} target="_blank" rel="noopener noreferrer">
+                        <a href={h.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer">
                           {h.hotelName}
                         </a>
                       </h3>
@@ -237,7 +237,7 @@ export default function FurusatoUpgradedPage() {
                       <a
                         href={h.affiliateUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="flex-1 text-center bg-gradient-to-r from-amber-500 to-orange-500 hover:from-amber-400 hover:to-orange-400 text-stone-950 font-black py-3 px-6 rounded-xl shadow-lg transition duration-150 text-sm"
                       >
                         楽天ふるさと納税で宿を予約する
@@ -374,7 +374,7 @@ export default function FurusatoUpgradedPage() {
                 <td className="p-3 text-stone-600">有り　２０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（405件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147592%2F147592.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147592%2F147592.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 山梨県の温泉旅館　下部温泉郷　下部ホテル</td>
@@ -383,7 +383,7 @@ export default function FurusatoUpgradedPage() {
                 <td className="p-3 text-stone-600">有り　１００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（1307件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,050〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40916%2F40916.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40916%2F40916.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 人吉温泉　あゆの里</td>
@@ -392,7 +392,7 @@ export default function FurusatoUpgradedPage() {
                 <td className="p-3 text-stone-600">有り　１００台ご用意しております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（961件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19539%2F19539.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19539%2F19539.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

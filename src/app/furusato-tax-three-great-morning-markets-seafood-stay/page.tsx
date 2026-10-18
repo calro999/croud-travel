@@ -8,13 +8,13 @@ import Image from 'next/image';
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
 
 export const metadata: Metadata = {
-  title: "日本三大朝市＆獲れたて海鮮・朝ごはん宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  title: "日本三大朝市＆獲れたて海鮮・朝ごはん宿×ふるさと納税ガイド",
   description: "威勢のいい掛け声と湯気立つ浜焼き！石川「輪島朝市」千年続く露店と能登海の幸ホテル海望、佐賀「呼子朝市」イカの一夜干しと透明な泳ぎイカ活造り唐津シーサイドホテル、千葉「勝浦朝市」四百年の伝統と初鰹・勝浦タンタンメン三日月イン。日本三大朝市の熱気と贅沢な朝食バイキングを楽天ふるさと納税宿泊クーポンでお得...",
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-morning-markets-seafood-stay/",
   },
   openGraph: {
-    title: "日本三大朝市＆獲れたて海鮮・朝ごはん宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    title: "日本三大朝市＆獲れたて海鮮・朝ごはん宿×ふるさと納税ガイド",
     description: "威勢のいい掛け声と湯気立つ浜焼き！石川「輪島朝市」千年続く露店と能登海の幸ホテル海望、佐賀「呼子朝市」イカの一夜干しと透明な泳ぎイカ活造り唐津シーサイドホテル、千葉「勝浦朝市」四百年の伝統と初鰹・勝浦タンタンメン三日月イン。日本三大朝市の熱気と贅沢な朝食バイキングを楽天ふるさと納税宿泊クーポンでお得...",
     url: "https://croud-travel.pages.dev/furusato-tax-three-great-morning-markets-seafood-stay/",
   },
@@ -188,7 +188,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14395%2F14395.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="px-5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold rounded-xl transition border border-slate-700"
                       >
                         宿泊詳細を見る
@@ -259,7 +259,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52129%2F52129.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="px-5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold rounded-xl transition border border-slate-700"
                       >
                         宿泊詳細を見る
@@ -330,7 +330,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F51868%2F51868.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="px-5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold rounded-xl transition border border-slate-700"
                       >
                         宿泊詳細を見る
@@ -535,25 +535,25 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/osaka"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 大阪府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hyogo"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 兵庫県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ibaraki"
+                href="/prefectures/ibaraki/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 茨城県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tokushima"
+                href="/prefectures/tokushima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 徳島県の宿・温泉
@@ -598,7 +598,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">ホテル海望と湯っ足りパークの間に、海を望む無料駐車場がございます。全150台。</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（1065件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14395%2F14395.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14395%2F14395.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 唐津シーサイドホテル</td>
@@ -607,7 +607,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り　105台　無料　※障がい者スペースは要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（2445件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52129%2F52129.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52129%2F52129.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 三日月イン</td>
@@ -616,7 +616,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">先着２５台（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.08（587件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F51868%2F51868.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F51868%2F51868.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

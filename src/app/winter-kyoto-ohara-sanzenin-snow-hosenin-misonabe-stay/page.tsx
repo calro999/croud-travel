@@ -222,6 +222,8 @@ export default function KyotoOharaSanzeninPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqStructuredData) }}
@@ -671,7 +673,7 @@ export default function KyotoOharaSanzeninPage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fhotel%2Flist.html%3Ff_teikei%3Dtmp_kw_rt%26f_area%3D26_kansai%26f_keyword%3D%25E5%25A4%25A7%25E5%258E%259F%25E3%2580%2580%25E4%25BA%25AC%25E9%2583%25BD"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-white text-emerald-700 font-bold text-sm sm:text-base shadow-lg hover:shadow-xl hover:bg-emerald-50 transition-all"
           >
             <span>大原・洛北の宿を楽天トラベルで探す</span>

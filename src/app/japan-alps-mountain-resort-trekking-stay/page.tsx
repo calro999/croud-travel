@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-alps-mountain-resort-trekking-stay/" },
-  title: "日本アルプス・本格トレッキング＆山岳リゾート宿：上高地・白馬・立山黒部・涸沢 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "日本アルプス・本格トレッキング＆山岳リゾート宿：上高地・白馬・立山黒部・涸沢 厳選ガイド",
   description: "標高3000mの稜線と白銀の氷河地形完全特化！神降る地「上高地帝国ホテル・河童橋」、白馬八方尾根・栂池自然園トレッキング、立山黒部アルペンルート・室堂平「ホテル立山」、穂高連峰涸沢カール拠点宿を徹底解説。",
   keywords: ["日本アルプス", "本格トレッキング", "山岳リゾート宿", "上高地", "白馬", "立山黒部", "涸沢"],
   openGraph: {
-    title: "日本アルプス・本格トレッキング＆山岳リゾート宿：上高地・白馬・立山黒部・涸沢 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "日本アルプス・本格トレッキング＆山岳リゾート宿：上高地・白馬・立山黒部・涸沢 厳選ガイド",
     description: "標高3000mの稜線と白銀の氷河地形完全特化！神降る地「上高地帝国ホテル・河童橋」、白馬八方尾根・栂池自然園トレッキング、立山黒部アルペンルート・室堂平「ホテル立山」、穂高連峰涸沢カール拠点宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "日本アルプス・本格トレッキング＆山岳リゾート宿：上高地・白馬・立山黒部・涸沢 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "日本アルプス・本格トレッキング＆山岳リゾート宿：上高地・白馬・立山黒部・涸沢 厳選ガイド",
     description: "標高3000mの稜線と白銀の氷河地形完全特化！神降る地「上高地帝国ホテル・河童橋」、白馬八方尾根・栂池自然園トレッキング、立山黒部アルペンルート・室堂平「ホテル立山」、穂高連峰涸沢カール拠点宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function ThemeParkActivityHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

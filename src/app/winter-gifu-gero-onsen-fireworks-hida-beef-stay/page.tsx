@@ -841,12 +841,12 @@ export default function GeroWinterPage() {
               岐阜県および中部・東海エリアのおすすめ温泉宿一覧
             </h3>
             <div className="flex flex-wrap gap-2 text-xs">
-              <Link href="/prefectures/gifu" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">岐阜県の宿一覧</Link>
-              <Link href="/prefectures/aichi" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">愛知県の宿一覧</Link>
-              <Link href="/prefectures/mie" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">三重県の宿一覧</Link>
-              <Link href="/prefectures/nagano" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">長野県の宿一覧</Link>
-              <Link href="/prefectures/shizuoka" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">静岡県の宿一覧</Link>
-              <Link href="/prefectures/ishikawa" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">石川県の宿一覧</Link>
+              <Link href="/prefectures/gifu/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">岐阜県の宿一覧</Link>
+              <Link href="/prefectures/aichi/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">愛知県の宿一覧</Link>
+              <Link href="/prefectures/mie/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">三重県の宿一覧</Link>
+              <Link href="/prefectures/nagano/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">長野県の宿一覧</Link>
+              <Link href="/prefectures/shizuoka/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">静岡県の宿一覧</Link>
+              <Link href="/prefectures/ishikawa/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">石川県の宿一覧</Link>
             </div>
           
       <HubRelatedPosts currentSlug="winter-gifu-gero-onsen-fireworks-hida-beef-stay" />

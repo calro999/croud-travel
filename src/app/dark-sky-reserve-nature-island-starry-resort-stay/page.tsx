@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/dark-sky-reserve-nature-island-starry-resort-stay/" },
-  title: "国際星空保護区＆離島ネイチャーステイ：石垣島・西表島・神津島 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "国際星空保護区＆離島ネイチャーステイ：石垣島・西表島・神津島 厳選ガイド",
   description: "世界が認めた奇跡の暗闇と星空！国際ダークスカイ協会認定「星空保護区」＆離島リゾート宿完全特化！沖縄「西表石垣国立公園（全天88星座中84星座）」、東京「神津島」、岡山「美星町」、南十字星観察・ビーチ星空ナイトツアーを徹底解説。",
   keywords: ["国際星空保護区", "離島ネイチャーステイ", "石垣島", "西表島", "神津島", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "国際星空保護区＆離島ネイチャーステイ：石垣島・西表島・神津島 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "国際星空保護区＆離島ネイチャーステイ：石垣島・西表島・神津島 厳選ガイド",
     description: "世界が認めた奇跡の暗闇と星空！国際ダークスカイ協会認定「星空保護区」＆離島リゾート宿完全特化！沖縄「西表石垣国立公園（全天88星座中84星座）」、東京「神津島」、岡山「美星町」、南十字星観察・ビーチ星空ナイトツアーを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "国際星空保護区＆離島ネイチャーステイ：石垣島・西表島・神津島 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "国際星空保護区＆離島ネイチャーステイ：石垣島・西表島・神津島 厳選ガイド",
     description: "世界が認めた奇跡の暗闇と星空！国際ダークスカイ協会認定「星空保護区」＆離島リゾート宿完全特化！沖縄「西表石垣国立公園（全天88星座中84星座）」、東京「神津島」、岡山「美星町」、南十字星観察・ビーチ星空ナイトツアーを徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function StargazingHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-indigo-700 to-purple-800 hover:from-indigo-600 hover:to-purple-700 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function StargazingHubPage() {
                 <td className="p-3 text-stone-600">有り　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（48件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,690〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172112%2F172112.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172112%2F172112.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 石垣島ビーチホテルサンシャイン＜石垣島＞</td>
@@ -261,7 +261,7 @@ export default function StargazingHubPage() {
                 <td className="p-3 text-stone-600">有り（70台）　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（380件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13633%2F13633.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13633%2F13633.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルエメラルドアイル石垣島　＜石垣島＞</td>
@@ -270,7 +270,7 @@ export default function StargazingHubPage() {
                 <td className="p-3 text-stone-600">当ホテルに駐車場のご用意はございませんので、近隣の有料コインパーキングをご利用下さいませ。</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（355件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,721〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149092%2F149092.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149092%2F149092.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルイーストチャイナシー　＜石垣島＞</td>
@@ -279,7 +279,7 @@ export default function StargazingHubPage() {
                 <td className="p-3 text-stone-600">駐車場はございません。ホテルの隣に市営の駐車場がございます。(1時間100円、夜間1時間50円)</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（965件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28513%2F28513.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28513%2F28513.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 神津島　民宿　菊乃屋＜神津島＞</td>
@@ -288,7 +288,7 @@ export default function StargazingHubPage() {
                 <td className="p-3 text-stone-600">有り　無料　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（39件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172885%2F172885.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172885%2F172885.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 山下別館　＜神津島＞</td>
@@ -297,7 +297,7 @@ export default function StargazingHubPage() {
                 <td className="p-3 text-stone-600">有り・無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.85（76件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38770%2F38770.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38770%2F38770.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

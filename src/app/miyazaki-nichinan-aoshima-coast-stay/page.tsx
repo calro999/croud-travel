@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/miyazaki-nichinan-aoshima-coast-stay/" },
-  title: "宮崎・日南海岸＆青島：青島神社・鬼の洗濯板＆サンメッセ日南モアイ・宮崎牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "宮崎・日南海岸＆青島：青島神社・鬼の洗濯板＆サンメッセ日南モアイ・宮崎牛宿 厳選ガイド",
   description: "南国のパームツリーと神話の海岸線・宮崎日南海岸＆青島エリア完全特化！国指定天然記念物「青島・鬼の洗濯板」、サンメッセ日南の完全復刻モアイ像、鵜戸神宮の運玉投げ、青島天然温泉、最高級宮崎牛＆日南一本釣りカツオ宿を徹底解説。",
   keywords: ["宮崎", "日南海岸", "青島", "青島神社", "鬼の洗濯板", "サンメッセ日南モアイ", "宮崎牛宿"],
   openGraph: {
-    title: "宮崎・日南海岸＆青島：青島神社・鬼の洗濯板＆サンメッセ日南モアイ・宮崎牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "宮崎・日南海岸＆青島：青島神社・鬼の洗濯板＆サンメッセ日南モアイ・宮崎牛宿 厳選ガイド",
     description: "南国のパームツリーと神話の海岸線・宮崎日南海岸＆青島エリア完全特化！国指定天然記念物「青島・鬼の洗濯板」、サンメッセ日南の完全復刻モアイ像、鵜戸神宮の運玉投げ、青島天然温泉、最高級宮崎牛＆日南一本釣りカツオ宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "宮崎・日南海岸＆青島：青島神社・鬼の洗濯板＆サンメッセ日南モアイ・宮崎牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "宮崎・日南海岸＆青島：青島神社・鬼の洗濯板＆サンメッセ日南モアイ・宮崎牛宿 厳選ガイド",
     description: "南国のパームツリーと神話の海岸線・宮崎日南海岸＆青島エリア完全特化！国指定天然記念物「青島・鬼の洗濯板」、サンメッセ日南の完全復刻モアイ像、鵜戸神宮の運玉投げ、青島天然温泉、最高級宮崎牛＆日南一本釣りカツオ宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

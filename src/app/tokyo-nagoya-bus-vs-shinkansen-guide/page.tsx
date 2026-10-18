@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-nagoya-bus-vs-shinkansen-guide/" },
-  title: "東京〜名古屋：新幹線 vs 高速バス徹底比較！片道2,000円〜行く名古屋めし爆食1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "東京〜名古屋：新幹線 vs 高速バス徹底比較！片道2,000円〜行く名古屋めし爆食1泊2日モデルコース",
   description: "東京から名古屋へ安く行くには？東海道新幹線「のぞみ」と高速バス（昼行・夜行）の料金・所要時間比較！片道2,000円台〜行ける高速バスを活用し、ひつまぶし・手羽先・味噌カツ・モーニングを食べ尽くす1泊2日モデルコース。",
   keywords: ["東京〜名古屋", "新幹線", "vs", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "東京〜名古屋：新幹線 vs 高速バス徹底比較！片道2,000円〜行く名古屋めし爆食1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "東京〜名古屋：新幹線 vs 高速バス徹底比較！片道2,000円〜行く名古屋めし爆食1泊2日モデルコース",
     description: "東京から名古屋へ安く行くには？東海道新幹線「のぞみ」と高速バス（昼行・夜行）の料金・所要時間比較！片道2,000円台〜行ける高速バスを活用し、ひつまぶし・手羽先・味噌カツ・モーニングを食べ尽くす1泊2日モデルコース。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "東京〜名古屋：新幹線 vs 高速バス徹底比較！片道2,000円〜行く名古屋めし爆食1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "東京〜名古屋：新幹線 vs 高速バス徹底比較！片道2,000円〜行く名古屋めし爆食1泊2日モデルコース",
     description: "東京から名古屋へ安く行くには？東海道新幹線「のぞみ」と高速バス（昼行・夜行）の料金・所要時間比較！片道2,000円台〜行ける高速バスを活用し、ひつまぶし・手羽先・味噌カツ・モーニングを食べ尽くす1泊2日モデルコース。",
   }
 };
@@ -351,7 +351,7 @@ export default function HighwayBusArticlePage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                   >
                     ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -393,7 +393,7 @@ export default function HighwayBusArticlePage() {
                 <td className="p-3 text-stone-600">1500円／14：00～翌11：00（税込／泊）※先着順、車両制限有、営業時間外入出庫不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（3488件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68242%2F68242.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68242%2F68242.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アパホテル〈名古屋駅前〉</td>
@@ -402,7 +402,7 @@ export default function HighwayBusArticlePage() {
                 <td className="p-3 text-stone-600">9台（1泊2,000円・先着順・予約不可）　詳細は宿ニュース「駐車場のご案内」をご確認ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（1299件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,275〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182742%2F182742.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182742%2F182742.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. アパホテル〈名古屋駅前北〉</td>
@@ -411,7 +411,7 @@ export default function HighwayBusArticlePage() {
                 <td className="p-3 text-stone-600">あり。15:00から翌11:00まで2,000円。  ※ホテル専用ではありません。</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（840件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,230〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179997%2F179997.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179997%2F179997.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -578,7 +578,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🍓</div>
@@ -597,7 +597,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🎫</div>

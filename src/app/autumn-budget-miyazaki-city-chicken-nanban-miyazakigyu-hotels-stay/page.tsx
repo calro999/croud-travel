@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetFeaturePage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"宮崎市街：本場チキン南蛮＆極上宮崎牛！2,000円台〜泊まれる格安ホテル5選\",\"description\":\"青島神社や高千穂への拠点となる南国宮崎！本場の甘酢タルタルが絡む発祥チキン南蛮や日本一の宮崎牛、地鶏炭火焼き。宮崎駅・橘通り周辺で1泊2,000円台〜3,000円台から泊まれる格安・高コスパホテル5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-miyazaki-city-chicken-nanban-miyazakigyu-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"宮崎市街：本場チキン南蛮＆極上宮崎牛！2,000円台〜泊まれる格安ホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-miyazaki-city-chicken-nanban-miyazakigyu-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"宮崎市街：本場チキン南蛮＆極上宮崎牛！2,000円台〜泊まれる格安ホテル5選\",\"numberOfItems\":9,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"たまゆら温泉＆サウナ完備の宿　宮崎ライオンズホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-miyazaki-city-chicken-nanban-miyazakigyu-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ホテル　ベルフォート日向\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-miyazaki-city-chicken-nanban-miyazakigyu-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ホテルマリックスラグーン\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-miyazaki-city-chicken-nanban-miyazakigyu-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"都城グリーンホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-miyazaki-city-chicken-nanban-miyazakigyu-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"フェニックス・シーガイア・オーシャン・タワー\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-miyazaki-city-chicken-nanban-miyazakigyu-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"高千穂峡（真名井の滝）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-miyazaki-city-chicken-nanban-miyazakigyu-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"サンメッセ日南（モアイ像）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-miyazaki-city-chicken-nanban-miyazakigyu-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"青島神社・鬼の洗濯板\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-miyazaki-city-chicken-nanban-miyazakigyu-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"鵜戸神宮（うどじんぐう）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-miyazaki-city-chicken-nanban-miyazakigyu-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -448,7 +452,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">1000円～（税込／泊）台数に制限がありますのでお電話のご予約必須となります※コメント欄での予約不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（1004件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,990〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16813%2F16813.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16813%2F16813.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル　ベルフォート日向</td>
@@ -457,7 +461,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">100台　400円/泊(税別）2026年1月1日より駐車場料金が500円税込となります。</td>
                 <td className="p-3 font-bold text-amber-600">★3.74（1055件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,434〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F413%2F413.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F413%2F413.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルマリックスラグーン</td>
@@ -466,7 +470,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">2024年8月1日より料金改定　１泊/普通車/900円→1,000円</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（1928件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F898%2F898.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F898%2F898.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 都城グリーンホテル</td>
@@ -475,7 +479,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">有り　250台　1台あたり普通車500円・大型車1500円・大型車は要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（2749件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,390〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1047%2F1047.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1047%2F1047.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. フェニックス・シーガイア・オーシャン・タワー</td>
@@ -484,7 +488,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">無料駐車場をご用意しております（大型車・バスも駐車可能）事前のご予約は不要です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（4898件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5173%2F5173.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5173%2F5173.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -661,6 +665,9 @@ export default function AutumnBudgetFeaturePage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-miyazaki-city-chicken-nanban-miyazakigyu-hotels-stay" />
+        </div>
 
       </main>
   );

@@ -8,13 +8,13 @@ import Image from 'next/image';
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
 
 export const metadata: Metadata = {
-  title: "日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  title: "日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド",
   description: "日本中の花火師が命を懸ける最高峰の光の芸術！新潟「長岡まつり大花火大会」信濃川を埋め尽くす復興祈願フェニックスとホテルルートイン長岡駅前、秋田「全国花火競技大会・大曲の花火」内閣総理大臣賞を争う昼夜花火とホテルルートイン大曲駅前、茨城「土浦全国花火競技大会」秋の夜空を焦がす競技玉とホテルクラウンヒル...",
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-fireworks-riverside-stay/",
   },
   openGraph: {
-    title: "日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    title: "日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド",
     description: "日本中の花火師が命を懸ける最高峰の光の芸術！新潟「長岡まつり大花火大会」信濃川を埋め尽くす復興祈願フェニックスとホテルルートイン長岡駅前、秋田「全国花火競技大会・大曲の花火」内閣総理大臣賞を争う昼夜花火とホテルルートイン大曲駅前、茨城「土浦全国花火競技大会」秋の夜空を焦がす競技玉とホテルクラウンヒル...",
     url: "https://croud-travel.pages.dev/furusato-tax-three-great-fireworks-riverside-stay/",
   },
@@ -187,7 +187,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19545%2F19545.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="px-5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold rounded-xl transition border border-slate-700"
                       >
                         宿泊詳細を見る
@@ -258,7 +258,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70699%2F70699.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="px-5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold rounded-xl transition border border-slate-700"
                       >
                         宿泊詳細を見る
@@ -329,7 +329,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30907%2F30907.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="px-5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold rounded-xl transition border border-slate-700"
                       >
                         宿泊詳細を見る
@@ -534,25 +534,25 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/shimane"
+                href="/prefectures/shimane/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 島根県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ehime"
+                href="/prefectures/ehime/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 愛媛県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gifu"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/mie"
+                href="/prefectures/mie/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 三重県の宿・温泉
@@ -597,7 +597,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有料機械式立体駐車場（車高1.55M以上駐車不可）有料：1,200円/泊　※バイク駐車不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（937件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19545%2F19545.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19545%2F19545.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルルートイン　大曲駅前</td>
@@ -606,7 +606,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り　７０台　無料　予約不要 先着順  ※満車の際は近隣駐車場をご案内致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1512件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,650〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70699%2F70699.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70699%2F70699.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 駅チカ快適　ホテルクラウンヒルズ土浦駅東（ＢＢＨホテルグループ）</td>
@@ -615,7 +615,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有　24台　ご到着順400円(税込１泊) 満車時、周辺有料駐車場ご案内します。</td>
                 <td className="p-3 font-bold text-amber-600">★3.83（2131件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,750〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30907%2F30907.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30907%2F30907.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-three-generation-family-luxury-stay/" },
-  title: '3世代家族旅行×高額枠一括消化：親孝行＆孫と泊まる客室露天風呂・離れ宿厳選ガイド | クラウドトラベル',
+  title: '3世代家族旅行×高額枠一括消化：親孝行＆孫と泊まる客室露天風呂・離れ宿厳選ガイド',
   description: '年収1,000万円超のふるさと納税枠を有効活用！熱海・白浜・那須高原の客室露天風呂付き離れやコネクティングルーム宿を厳選。祖父母・親・子ども全員が笑顔になれる3世代プレミアム家族旅。',
   openGraph: {
-    title: '3世代家族旅行×高額枠一括消化：親孝行＆孫と泊まる客室露天風呂・離れ宿厳選ガイド | クラウドトラベル',
+    title: '3世代家族旅行×高額枠一括消化：親孝行＆孫と泊まる客室露天風呂・離れ宿厳選ガイド',
     description: '年収1,000万円超のふるさと納税枠を有効活用！熱海・白浜・那須高原の客室露天風呂付き離れやコネクティングルーム宿を厳選。祖父母・親・子ども全員が笑顔になれる3世代プレミアム家族旅。',
     type: 'article',
   },
@@ -17,6 +17,20 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['furusato-tax-three-generation-family-luxury-stay'] || {};
+
+  const allSecHotels = Object.values(secData).flatMap((s: any) => (s && Array.isArray(s.hotels) ? s.hotels : []));
+  const jsonLdItemList = allSecHotels.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": (metadata.title as string) || "furusato-tax-three-generation-family-luxury-stay",
+    "numberOfItems": allSecHotels.length,
+    "itemListElement": allSecHotels.map((h: any, idx: number) => ({
+      "@type": "ListItem",
+      "position": idx + 1,
+      "name": h.hotelName || "厳選宿",
+      "url": h.affiliateUrl || h.hotelInformationUrl || "https://croud-travel.pages.dev/furusato-tax-three-generation-family-luxury-stay/"
+    }))
+  } : null;
 
 
   const jsonLdArticle = {
@@ -46,6 +60,9 @@ export default function Page() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「熱海温泉 熱海の癒 新かどや」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 熱海の癒 新かどや」へは、★交通手段をお知らせください 車：小田原厚木道路より国道135号線にて約30分 電車：熱海駅よりタクシーで8分。最寄りの熱海駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「熱海温泉 熱海の癒 新かどや」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 熱海の癒 新かどや」は『屋上天空露天から熱海の街が一望。夕食朝食ともお部屋食でゆったりとできる和風温泉旅館です。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「熱海温泉 熱海の癒 新かどや」と「熱海温泉 三平荘」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
+      {jsonLdItemList && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdItemList) }} />}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">
@@ -72,7 +89,7 @@ export default function Page() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="inline-flex items-center gap-2 bg-gradient-to-r from-red-600 via-rose-600 to-amber-600 text-white font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition transform hover:-translate-y-0.5 text-sm md:text-base border border-amber-400/30"
             >
               <span>🎟️ 楽天ふるさと納税 宿泊クーポンを獲得する</span>
@@ -202,7 +219,7 @@ export default function Page() {
                       <a
                         href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 px-4 py-2.5 bg-amber-800 hover:bg-amber-900 text-white rounded-xl text-xs font-bold transition shadow-sm hover:shadow"
                       >
                         ふるさと納税対象プラン
@@ -288,7 +305,7 @@ export default function Page() {
                       <a
                         href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 px-4 py-2.5 bg-amber-800 hover:bg-amber-900 text-white rounded-xl text-xs font-bold transition shadow-sm hover:shadow"
                       >
                         ふるさと納税対象プラン
@@ -374,7 +391,7 @@ export default function Page() {
                       <a
                         href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 px-4 py-2.5 bg-amber-800 hover:bg-amber-900 text-white rounded-xl text-xs font-bold transition shadow-sm hover:shadow"
                       >
                         ふるさと納税対象プラン
@@ -521,7 +538,7 @@ export default function Page() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="inline-flex items-center gap-2 bg-gradient-to-r from-red-600 via-rose-600 to-amber-600 text-white font-black px-8 py-4 rounded-2xl shadow-xl hover:opacity-95 transition transform hover:-translate-y-0.5 text-base border border-amber-400/40"
             >
               <span>🎟️ 楽天ふるさと納税 宿泊クーポンを獲得する</span>
@@ -632,25 +649,25 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamaguchi"
+                href="/prefectures/yamaguchi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 山口県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kochi"
+                href="/prefectures/kochi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 高知県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ibaraki"
+                href="/prefectures/ibaraki/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 茨城県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukushima"
+                href="/prefectures/fukushima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 福島県の宿・温泉

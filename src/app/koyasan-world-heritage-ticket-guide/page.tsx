@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/koyasan-world-heritage-ticket-guide/" },
-  title: "高野山・世界遺産きっぷ完全攻略：南海電鉄＋高野山内バス乗り放題でいくら浮く？宿坊ステイ＆金剛峯寺 ｜ 日本全国・旅宿クラウド",
+  title: "高野山・世界遺産きっぷ完全攻略：南海電鉄＋高野山内バス乗り放題でいくら浮く？宿坊ステイ＆金剛峯寺",
   description: "難波・新今宮から高野山へ行くなら必須の「高野山・世界遺産きっぷ」！南海特急こうや、極楽橋ケーブルカー、南海りんかんバス、主要寺院拝観割引の総額比較。奥之院参拝・精進料理を堪能する1泊2日宿坊ガイド。",
   keywords: ["高野山", "世界遺産きっぷ完全攻略", "金剛峯寺", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "高野山・世界遺産きっぷ完全攻略：南海電鉄＋高野山内バス乗り放題でいくら浮く？宿坊ステイ＆金剛峯寺 ｜ 日本全国・旅宿クラウド",
+    title: "高野山・世界遺産きっぷ完全攻略：南海電鉄＋高野山内バス乗り放題でいくら浮く？宿坊ステイ＆金剛峯寺",
     description: "難波・新今宮から高野山へ行くなら必須の「高野山・世界遺産きっぷ」！南海特急こうや、極楽橋ケーブルカー、南海りんかんバス、主要寺院拝観割引の総額比較。奥之院参拝・精進料理を堪能する1泊2日宿坊ガイド。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "高野山・世界遺産きっぷ完全攻略：南海電鉄＋高野山内バス乗り放題でいくら浮く？宿坊ステイ＆金剛峯寺 ｜ 日本全国・旅宿クラウド",
+    title: "高野山・世界遺産きっぷ完全攻略：南海電鉄＋高野山内バス乗り放題でいくら浮く？宿坊ステイ＆金剛峯寺",
     description: "難波・新今宮から高野山へ行くなら必須の「高野山・世界遺産きっぷ」！南海特急こうや、極楽橋ケーブルカー、南海りんかんバス、主要寺院拝観割引の総額比較。奥之院参拝・精進料理を堪能する1泊2日宿坊ガイド。",
   }
 };
@@ -406,7 +406,7 @@ export default function KoyasanPassPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="inline-flex items-center justify-center px-4 py-2.5 rounded-xl bg-gradient-to-r from-indigo-700 to-slate-800 text-white font-bold text-xs hover:from-indigo-800 hover:to-slate-900 shadow-md hover:shadow-indigo-500/20 transition-all"
                   >
                     楽天トラベルで空室確認
@@ -515,25 +515,25 @@ export default function KoyasanPassPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kumamoto"
+                href="/prefectures/kumamoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 熊本県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hyogo"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 兵庫県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okinawa"
+                href="/prefectures/okinawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 沖縄県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukushima"
+                href="/prefectures/fukushima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 福島県の宿・温泉
@@ -578,7 +578,7 @@ export default function KoyasanPassPage() {
                 <td className="p-3 text-stone-600">20台（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4（336件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8108%2F8108.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8108%2F8108.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 高野山　持明院</td>
@@ -587,7 +587,7 @@ export default function KoyasanPassPage() {
                 <td className="p-3 text-stone-600">有り　30台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（354件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14119%2F14119.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14119%2F14119.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 宿坊　桜池院</td>
@@ -596,7 +596,7 @@ export default function KoyasanPassPage() {
                 <td className="p-3 text-stone-600">有り　10台（大型バス3台）　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.82（46件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54921%2F54921.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54921%2F54921.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテル　ルートイン橋本</td>
@@ -605,7 +605,7 @@ export default function KoyasanPassPage() {
                 <td className="p-3 text-stone-600">有り　108台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（984件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F145476%2F145476.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F145476%2F145476.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホステルイン橋本</td>
@@ -614,7 +614,7 @@ export default function KoyasanPassPage() {
                 <td className="p-3 text-stone-600">有り（要予約）ご利用の方はご連絡下さい</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（53件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F173099%2F173099.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F173099%2F173099.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

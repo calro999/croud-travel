@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tohoku-travel-budget-guide/" },
-  title: "東北旅行 費用：2泊3日で仙台・松島・銀山温泉を巡るといくらかかる？交通費＆宿泊費の完全内訳 ｜ 日本全国・旅宿クラウド",
+  title: "東北旅行 費用：2泊3日で仙台・松島・銀山温泉を巡るといくらかかる？交通費＆宿泊費の完全内訳",
   description: "東北旅行の費用を2泊3日（仙台＋松島＋銀山温泉or蔵王温泉）のモデルコースで完全計算。東京からの東北新幹線vs高速バスの交通費比較、牛たん・ずんだ餅のグルメ費用、銀山温泉のレトロ旅館の宿泊費まで内訳公開。",
   keywords: ["東北旅行", "費用", "2泊3日で仙台", "松島", "宿泊費の完全内訳", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "東北旅行 費用：2泊3日で仙台・松島・銀山温泉を巡るといくらかかる？交通費＆宿泊費の完全内訳 ｜ 日本全国・旅宿クラウド",
+    title: "東北旅行 費用：2泊3日で仙台・松島・銀山温泉を巡るといくらかかる？交通費＆宿泊費の完全内訳",
     description: "東北旅行の費用を2泊3日（仙台＋松島＋銀山温泉or蔵王温泉）のモデルコースで完全計算。東京からの東北新幹線vs高速バスの交通費比較、牛たん・ずんだ餅のグルメ費用、銀山温泉のレトロ旅館の宿泊費まで内訳公開。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "東北旅行 費用：2泊3日で仙台・松島・銀山温泉を巡るといくらかかる？交通費＆宿泊費の完全内訳 ｜ 日本全国・旅宿クラウド",
+    title: "東北旅行 費用：2泊3日で仙台・松島・銀山温泉を巡るといくらかかる？交通費＆宿泊費の完全内訳",
     description: "東北旅行の費用を2泊3日（仙台＋松島＋銀山温泉or蔵王温泉）のモデルコースで完全計算。東京からの東北新幹線vs高速バスの交通費比較、牛たん・ずんだ餅のグルメ費用、銀山温泉のレトロ旅館の宿泊費まで内訳公開。",
   }
 };
@@ -251,7 +251,7 @@ export default function TohokuBudgetGuidePage() {
                     )}
                     <h3 className="text-sm font-bold text-slate-900 line-clamp-2 mb-2">{hotel.hotelName}</h3>
                   </div>
-                  <a href={hotel.affiliateUrl} target="_blank" rel="noopener noreferrer" className="mt-3 block w-full text-center py-2 text-xs font-bold text-white bg-teal-600 hover:bg-teal-700 rounded-xl transition">
+                  <a href={hotel.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer" className="mt-3 block w-full text-center py-2 text-xs font-bold text-white bg-teal-600 hover:bg-teal-700 rounded-xl transition">
                     楽天トラベルで見る
                   </a>
                 </div>
@@ -291,7 +291,7 @@ export default function TohokuBudgetGuidePage() {
                 <td className="p-3 text-stone-600">73台収容立体駐車場あり(1,500円／15：00～翌15：00)</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（4893件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,310〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19512%2F19512.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19512%2F19512.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. コンフォートホテル仙台西口（２０２６年４月１７日　リニューアル）</td>
@@ -300,7 +300,7 @@ export default function TohokuBudgetGuidePage() {
                 <td className="p-3 text-stone-600">1120～1530円/泊：提携先により条件が異なります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.11（10921件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67093%2F67093.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67093%2F67093.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルルートイン仙台港北インター</td>
@@ -309,7 +309,7 @@ export default function TohokuBudgetGuidePage() {
                 <td className="p-3 text-stone-600">無料駐車場142台完備。予約不要。</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（535件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70972%2F70972.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70972%2F70972.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 銀山温泉　旅館藤屋</td>
@@ -318,7 +318,7 @@ export default function TohokuBudgetGuidePage() {
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（183件）</td>
                 <td className="p-3 font-bold text-rose-600">¥36,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68602%2F68602.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68602%2F68602.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 銀山温泉　旅館松本</td>
@@ -327,7 +327,7 @@ export default function TohokuBudgetGuidePage() {
                 <td className="p-3 text-stone-600">有り　１２台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.95（325件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52933%2F52933.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52933%2F52933.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 銀山温泉　伝統の宿　古山閣</td>
@@ -336,7 +336,7 @@ export default function TohokuBudgetGuidePage() {
                 <td className="p-3 text-stone-600">有り　15台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（295件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137447%2F137447.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137447%2F137447.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

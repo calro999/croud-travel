@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shimane-izumo-tamatsukuri-onsen-stay/" },
-  title: "島根・出雲大社＆玉造温泉：神話と縁結び・日本最古の美肌温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "島根・出雲大社＆玉造温泉：神話と縁結び・日本最古の美肌温泉宿 厳選ガイド",
   description: "神々の国・島根出雲＆玉造温泉エリア完全特化！縁結びの総本山「出雲大社」、日本最古の美肌温泉「玉造温泉（美肌の湯）」、宍道湖の夕日、名物出雲そば・しまね和牛・のどぐろ会席宿を徹底解説。",
   keywords: ["島根", "出雲大社", "玉造温泉", "神話と縁結び", "日本最古の美肌温泉宿", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "島根・出雲大社＆玉造温泉：神話と縁結び・日本最古の美肌温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "島根・出雲大社＆玉造温泉：神話と縁結び・日本最古の美肌温泉宿 厳選ガイド",
     description: "神々の国・島根出雲＆玉造温泉エリア完全特化！縁結びの総本山「出雲大社」、日本最古の美肌温泉「玉造温泉（美肌の湯）」、宍道湖の夕日、名物出雲そば・しまね和牛・のどぐろ会席宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "島根・出雲大社＆玉造温泉：神話と縁結び・日本最古の美肌温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "島根・出雲大社＆玉造温泉：神話と縁結び・日本最古の美肌温泉宿 厳選ガイド",
     description: "神々の国・島根出雲＆玉造温泉エリア完全特化！縁結びの総本山「出雲大社」、日本最古の美肌温泉「玉造温泉（美肌の湯）」、宍道湖の夕日、名物出雲そば・しまね和牛・のどぐろ会席宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

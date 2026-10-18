@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hiroshima-miyajima-itsukushima-shrine-stay/" },
-  title: "広島・宮島＆嚴島神社：海上大鳥居・弥山＆あなごめし宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "広島・宮島＆嚴島神社：海上大鳥居・弥山＆あなごめし宿 厳選ガイド",
   description: "世界遺産「嚴島神社」の海に浮かぶ朱色の大鳥居、潮の満ち引きが織りなす絶景、原始林が息づく霊峰「弥山」パノラマ、宮島名物「あなごめし」や焼き牡蠣を徹底解説。島内温泉旅館や対岸オーシャンビューホテルを厳選。",
   keywords: ["広島", "宮島", "嚴島神社", "海上大鳥居", "弥山", "あなごめし宿", "温泉宿"],
   openGraph: {
-    title: "広島・宮島＆嚴島神社：海上大鳥居・弥山＆あなごめし宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "広島・宮島＆嚴島神社：海上大鳥居・弥山＆あなごめし宿 厳選ガイド",
     description: "世界遺産「嚴島神社」の海に浮かぶ朱色の大鳥居、潮の満ち引きが織りなす絶景、原始林が息づく霊峰「弥山」パノラマ、宮島名物「あなごめし」や焼き牡蠣を徹底解説。島内温泉旅館や対岸オーシャンビューホテルを厳選。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "広島・宮島＆嚴島神社：海上大鳥居・弥山＆あなごめし宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "広島・宮島＆嚴島神社：海上大鳥居・弥山＆あなごめし宿 厳選ガイド",
     description: "世界遺産「嚴島神社」の海に浮かぶ朱色の大鳥居、潮の満ち引きが織りなす絶景、原始林が息づく霊峰「弥山」パノラマ、宮島名物「あなごめし」や焼き牡蠣を徹底解説。島内温泉旅館や対岸オーシャンビューホテルを厳選。",
   }
 };
@@ -214,7 +214,7 @@ export default function MicroTouristHubPage() {
                           <a
                             href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                             target="_blank"
-                            rel="noopener noreferrer"
+                            rel="sponsored noopener noreferrer"
                             className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-teal-700 to-teal-800 hover:from-teal-600 hover:to-teal-700 rounded-xl shadow transition"
                           >
                             ✈️ 楽天トラベルで宿泊プラン・空室を見る

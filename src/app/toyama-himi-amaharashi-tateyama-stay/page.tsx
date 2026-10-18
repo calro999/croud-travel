@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/toyama-himi-amaharashi-tateyama-stay/" },
-  title: "富山・氷見＆雨晴海岸・立山連峰：海越しに望む3000m立山連峰・氷見寒ブリ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "富山・氷見＆雨晴海岸・立山連峰：海越しに望む3000m立山連峰・氷見寒ブリ宿 厳選ガイド",
   description: "世界屈指の絶景・海越しにそびえる立山連峰と海の幸王国・富山氷見エリア完全特化！義経伝説の雨晴海岸（女岩）、氷見漁港直送「氷見寒ブリ・白えび」、ひみ番屋街、氷見温泉郷のオーシャンビュー美肌宿を徹底解説。",
   keywords: ["富山", "氷見", "雨晴海岸", "立山連峰", "海越しに望む3000m立山連峰", "氷見寒ブリ宿", "温泉宿"],
   openGraph: {
-    title: "富山・氷見＆雨晴海岸・立山連峰：海越しに望む3000m立山連峰・氷見寒ブリ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "富山・氷見＆雨晴海岸・立山連峰：海越しに望む3000m立山連峰・氷見寒ブリ宿 厳選ガイド",
     description: "世界屈指の絶景・海越しにそびえる立山連峰と海の幸王国・富山氷見エリア完全特化！義経伝説の雨晴海岸（女岩）、氷見漁港直送「氷見寒ブリ・白えび」、ひみ番屋街、氷見温泉郷のオーシャンビュー美肌宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "富山・氷見＆雨晴海岸・立山連峰：海越しに望む3000m立山連峰・氷見寒ブリ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "富山・氷見＆雨晴海岸・立山連峰：海越しに望む3000m立山連峰・氷見寒ブリ宿 厳選ガイド",
     description: "世界屈指の絶景・海越しにそびえる立山連峰と海の幸王国・富山氷見エリア完全特化！義経伝説の雨晴海岸（女岩）、氷見漁港直送「氷見寒ブリ・白えび」、ひみ番屋街、氷見温泉郷のオーシャンビュー美肌宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-teal-700 to-emerald-800 hover:from-teal-600 hover:to-emerald-700 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">無料　屋内60台　お車、バイクのお客様は旅館の正面までお越し下さい。係がご案内いたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（1667件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29954%2F29954.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29954%2F29954.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 氷見天然温泉ルートイングランティア氷見　和蔵の宿</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　300台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（845件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79410%2F79410.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79410%2F79410.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 高岡マンテンホテル駅前（マンテンホテルグループ）</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">提携駐車場【高岡中央駐車場】屋根付通路でホテル直結！￥800/泊※途中出庫別途料金　車椅子専用P有</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（3120件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20569%2F20569.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20569%2F20569.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アパホテル〈高岡丸の内〉（２０２６年５月リニューアル）</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">【有】60台/到着順/普通車のみ無料 大型車⇒[要事前電話予約]</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（2556件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,505〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38678%2F38678.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38678%2F38678.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 氷見温泉郷　民宿いけもり</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（78件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F141093%2F141093.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F141093%2F141093.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 宇奈月温泉　延楽</td>
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り・4０台・無料・先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（558件）</td>
                 <td className="p-3 font-bold text-rose-600">¥31,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10719%2F10719.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10719%2F10719.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

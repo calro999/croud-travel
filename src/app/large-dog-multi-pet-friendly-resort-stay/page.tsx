@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/large-dog-multi-pet-friendly-resort-stay/" },
-  title: "大型犬・多頭飼い歓迎リゾート：ノーリード・広々客室＆超大型犬OK 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "大型犬・多頭飼い歓迎リゾート：ノーリード・広々客室＆超大型犬OK 厳選ガイド",
   description: "ゴールデンやラブラドール、多頭飼いも大歓迎！大型犬・超大型犬・頭数制限なし宿完全特化！広々80平米以上の客室、頑丈なフェンス、頭数追加無料プラン、大型犬専用ドッグラン＆足洗い場完備リゾートを徹底解説。",
   keywords: ["大型犬", "多頭飼い歓迎リゾート", "ノーリード", "広々客室", "超大型犬OK", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "大型犬・多頭飼い歓迎リゾート：ノーリード・広々客室＆超大型犬OK 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "大型犬・多頭飼い歓迎リゾート：ノーリード・広々客室＆超大型犬OK 厳選ガイド",
     description: "ゴールデンやラブラドール、多頭飼いも大歓迎！大型犬・超大型犬・頭数制限なし宿完全特化！広々80平米以上の客室、頑丈なフェンス、頭数追加無料プラン、大型犬専用ドッグラン＆足洗い場完備リゾートを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "大型犬・多頭飼い歓迎リゾート：ノーリード・広々客室＆超大型犬OK 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "大型犬・多頭飼い歓迎リゾート：ノーリード・広々客室＆超大型犬OK 厳選ガイド",
     description: "ゴールデンやラブラドール、多頭飼いも大歓迎！大型犬・超大型犬・頭数制限なし宿完全特化！広々80平米以上の客室、頑丈なフェンス、頭数追加無料プラン、大型犬専用ドッグラン＆足洗い場完備リゾートを徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function PetDogResortHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-emerald-700 hover:from-amber-500 hover:to-emerald-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで愛犬同伴プランを見る

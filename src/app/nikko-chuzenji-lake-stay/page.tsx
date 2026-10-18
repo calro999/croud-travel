@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nikko-chuzenji-lake-stay/" },
-  title: "奥日光・中禅寺湖：華厳の滝＆湖畔リゾート極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "奥日光・中禅寺湖：華厳の滝＆湖畔リゾート極上宿 厳選ガイド",
   description: "奥日光・中禅寺湖畔エリア完全特化！日本三名瀑・華厳の滝、中禅寺湖遊覧船、男体山、日光湯元温泉周辺の絶景観光ルートと人気レイクサイドホテルを徹底解説。",
   keywords: ["奥日光", "中禅寺湖", "華厳の滝", "湖畔リゾート極上宿", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "奥日光・中禅寺湖：華厳の滝＆湖畔リゾート極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "奥日光・中禅寺湖：華厳の滝＆湖畔リゾート極上宿 厳選ガイド",
     description: "奥日光・中禅寺湖畔エリア完全特化！日本三名瀑・華厳の滝、中禅寺湖遊覧船、男体山、日光湯元温泉周辺の絶景観光ルートと人気レイクサイドホテルを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "奥日光・中禅寺湖：華厳の滝＆湖畔リゾート極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "奥日光・中禅寺湖：華厳の滝＆湖畔リゾート極上宿 厳選ガイド",
     description: "奥日光・中禅寺湖畔エリア完全特化！日本三名瀑・華厳の滝、中禅寺湖遊覧船、男体山、日光湯元温泉周辺の絶景観光ルートと人気レイクサイドホテルを徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（1291件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54978%2F54978.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54978%2F54978.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 日光中禅寺温泉　中禅寺金谷ホテル</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り（屋外）　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（887件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,781〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28759%2F28759.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28759%2F28759.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 湯西川温泉　ホテル湯西川（伊東園ホテルズ）</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　７０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.03（969件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,248〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149268%2F149268.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149268%2F149268.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 日光湯元温泉　日光グランドホテル　ほのかな宿樹林</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（1145件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F135482%2F135482.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F135482%2F135482.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 日光東照宮晃陽苑</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り（無料）　１００台　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.97（304件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,424〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168189%2F168189.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168189%2F168189.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 鬼怒川温泉　鬼怒川グランドホテル　夢の季（ゆめのとき）</td>
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有　無料先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（781件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31366%2F31366.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31366%2F31366.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

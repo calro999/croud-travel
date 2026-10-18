@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetFeaturePage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"別府駅前：湯けむり地獄めぐり＆本場とり天・別府冷麺！2,000円台〜泊まれる格安ホテル5選\",\"description\":\"日本一の湧出量を誇る温泉天国・別府！駅前天然温泉や地獄めぐりの秋景色、名物とり天や別府冷麺。別府駅徒歩1〜3分以内で1泊2,000円台〜3,000円台から泊まれる格安・高コスパホテル5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-station-jigoku-onsen-toriten-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"別府駅前：湯けむり地獄めぐり＆本場とり天・別府冷麺！2,000円台〜泊まれる格安ホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-station-jigoku-onsen-toriten-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"別府駅前：湯けむり地獄めぐり＆本場とり天・別府冷麺！2,000円台〜泊まれる格安ホテル5選\",\"numberOfItems\":9,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"グランドベース別府駅前\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-station-jigoku-onsen-toriten-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"別府駅前　ホテルシーウェーブ別府\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-station-jigoku-onsen-toriten-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"由布院温泉　ゆふいん山水館\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-station-jigoku-onsen-toriten-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ホテル日航大分　オアシスタワー\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-station-jigoku-onsen-toriten-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"別府温泉　ホテルニューツルタ\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-station-jigoku-onsen-toriten-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"別府地獄めぐり\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-station-jigoku-onsen-toriten-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"由布院（金鱗湖・辻馬車）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-station-jigoku-onsen-toriten-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"九重“夢”大吊橋\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-station-jigoku-onsen-toriten-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"宇佐神宮\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-station-jigoku-onsen-toriten-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -448,7 +452,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">無し（敷地内は駐車禁止です。近隣の有料コインパーキングをご使用ください。）</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（21件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,802〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F176593%2F176593.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F176593%2F176593.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 別府駅前　ホテルシーウェーブ別府</td>
@@ -457,7 +461,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">無料の専用駐車場がございます。（※軽・普通車のみ）　詳しくはフロントまでお問合せください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（3415件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9401%2F9401.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9401%2F9401.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 由布院温泉　ゆふいん山水館</td>
@@ -466,7 +470,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">有り　乗用車　約60台　大型バス　約6台　料金は宿泊者無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.39（882件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1678%2F1678.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1678%2F1678.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテル日航大分　オアシスタワー</td>
@@ -475,7 +479,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">一律料金（ご1泊あたり1,000円）にてご利用頂けます。駐車場の入り口はプラン詳細をご確認ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（2678件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,375〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1801%2F1801.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1801%2F1801.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 別府温泉　ホテルニューツルタ</td>
@@ -484,7 +488,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">入庫後21時間：最大700円・駐車場は有料＆先着順。満車の場合はご利用いただけないことがございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（1215件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1938%2F1938.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1938%2F1938.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -661,6 +665,9 @@ export default function AutumnBudgetFeaturePage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-oita-beppu-station-jigoku-onsen-toriten-hotels-stay" />
+        </div>
 
       </main>
   );

@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-top-night-view-luxury-hotel-stay/" },
-  title: "日本三大夜景＆摩天楼パノラマ宿：函館・長崎・神戸・横浜・東京高層ホテル 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "日本三大夜景＆摩天楼パノラマ宿：函館・長崎・神戸・横浜・東京高層ホテル 厳選ガイド",
   description: "息を呑む1000万ドルの夜景完全特化！函館山を望むベイサイド、長崎稲佐山のすり鉢状パノラマ、神戸六甲山・ハーバーランド、横浜みなとみらい、東京ベイエリア高層階客室の展望露天風呂ホテルを徹底解説。",
   keywords: ["日本三大夜景", "摩天楼パノラマ宿", "函館", "長崎", "神戸", "横浜", "東京高層ホテル"],
   openGraph: {
-    title: "日本三大夜景＆摩天楼パノラマ宿：函館・長崎・神戸・横浜・東京高層ホテル 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "日本三大夜景＆摩天楼パノラマ宿：函館・長崎・神戸・横浜・東京高層ホテル 厳選ガイド",
     description: "息を呑む1000万ドルの夜景完全特化！函館山を望むベイサイド、長崎稲佐山のすり鉢状パノラマ、神戸六甲山・ハーバーランド、横浜みなとみらい、東京ベイエリア高層階客室の展望露天風呂ホテルを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "日本三大夜景＆摩天楼パノラマ宿：函館・長崎・神戸・横浜・東京高層ホテル 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "日本三大夜景＆摩天楼パノラマ宿：函館・長崎・神戸・横浜・東京高層ホテル 厳選ガイド",
     description: "息を呑む1000万ドルの夜景完全特化！函館山を望むベイサイド、長崎稲佐山のすり鉢状パノラマ、神戸六甲山・ハーバーランド、横浜みなとみらい、東京ベイエリア高層階客室の展望露天風呂ホテルを徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function ScenicViewHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function ScenicViewHubPage() {
                 <td className="p-3 text-stone-600">有り　１２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（747件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108257%2F108257.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108257%2F108257.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 稲佐山観光ホテル</td>
@@ -261,7 +261,7 @@ export default function ScenicViewHubPage() {
                 <td className="p-3 text-stone-600">有 ６０台（1泊1台1,000円）※電気自動車急速充電設備あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（1258件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,880〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8438%2F8438.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8438%2F8438.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 大江戸温泉物語Ｐｒｅｍｉｕｍ　長崎ホテル清風（２０２６年４月２９日リニューアルオープン）</td>
@@ -270,7 +270,7 @@ export default function ScenicViewHubPage() {
                 <td className="p-3 text-stone-600">あり　約80台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.05（111件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F198507%2F198507.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F198507%2F198507.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 長崎マリオットホテル</td>
@@ -279,7 +279,7 @@ export default function ScenicViewHubPage() {
                 <td className="p-3 text-stone-600">アミュプラザ長崎立体駐車場をご利用いただけます。(宿泊者料金：当日13時～翌日13時　3,000円)</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（243件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,678〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188465%2F188465.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188465%2F188465.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテル　ラ・スイート神戸ハーバーランド</td>
@@ -288,7 +288,7 @@ export default function ScenicViewHubPage() {
                 <td className="p-3 text-stone-600">57台(屋内46台、屋外11台) 1000円/泊</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（1809件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,130〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104705%2F104705.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104705%2F104705.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ホテルオークラ神戸</td>
@@ -297,7 +297,7 @@ export default function ScenicViewHubPage() {
                 <td className="p-3 text-stone-600">1泊1500円 ※予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（8846件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1648%2F1648.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1648%2F1648.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

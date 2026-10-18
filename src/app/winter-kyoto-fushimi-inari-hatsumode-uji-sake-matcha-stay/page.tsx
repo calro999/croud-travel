@@ -223,6 +223,8 @@ export default function KyotoFushimiPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 
       {/* Hero Header */}
       <header className="relative bg-gradient-to-br from-slate-950 via-red-950 to-stone-950 text-white py-20 px-4 sm:px-6 lg:px-8">

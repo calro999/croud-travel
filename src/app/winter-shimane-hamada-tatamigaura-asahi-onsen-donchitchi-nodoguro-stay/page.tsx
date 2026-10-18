@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { Star, MapPin, Calendar, Compass, ShieldCheck, Heart, Sparkles, ExternalLink, ChevronRight } from 'lucide-react';
@@ -217,7 +218,7 @@ export default function Page() {
                 冬の厳選特集
               </Link>
               <ChevronRight className="w-3 h-3 text-cyan-400" />
-              <Link href="/prefectures/shimane" className="text-cyan-200 hover:text-white transition-colors">
+              <Link href="/prefectures/shimane/" className="text-cyan-200 hover:text-white transition-colors">
                 島根県
               </Link>
               <ChevronRight className="w-3 h-3 text-cyan-400" />
@@ -406,7 +407,7 @@ export default function Page() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F431%2F431.html"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="bg-cyan-800 hover:bg-cyan-900 text-white font-bold text-xs sm:text-sm px-5 py-2.5 rounded-xl transition-colors flex items-center gap-1.5 shadow-sm"
                     >
                       <span>楽天トラベルで空室・プランを見る</span>
@@ -473,7 +474,7 @@ export default function Page() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70385%2F70385.html"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="bg-cyan-800 hover:bg-cyan-900 text-white font-bold text-xs sm:text-sm px-5 py-2.5 rounded-xl transition-colors flex items-center gap-1.5 shadow-sm"
                     >
                       <span>楽天トラベルで空室・プランを見る</span>
@@ -540,7 +541,7 @@ export default function Page() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72814%2F72814.html"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="bg-cyan-800 hover:bg-cyan-900 text-white font-bold text-xs sm:text-sm px-5 py-2.5 rounded-xl transition-colors flex items-center gap-1.5 shadow-sm"
                     >
                       <span>楽天トラベルで空室・プランを見る</span>
@@ -607,7 +608,7 @@ export default function Page() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13871%2F13871.html"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="bg-cyan-800 hover:bg-cyan-900 text-white font-bold text-xs sm:text-sm px-5 py-2.5 rounded-xl transition-colors flex items-center gap-1.5 shadow-sm"
                     >
                       <span>楽天トラベルで空室・プランを見る</span>
@@ -671,7 +672,7 @@ export default function Page() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F80636%2F80636.html"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="bg-cyan-800 hover:bg-cyan-900 text-white font-bold text-xs sm:text-sm px-5 py-2.5 rounded-xl transition-colors flex items-center gap-1.5 shadow-sm"
                     >
                       <span>楽天トラベルで空室・プランを見る</span>
@@ -697,7 +698,7 @@ export default function Page() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-1.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs sm:text-sm px-5 py-2.5 rounded-xl transition-colors shadow-sm"
               >
                 <span>楽天トラベル×ふるさと納税 対象宿一覧を見る</span>
@@ -765,7 +766,7 @@ export default function Page() {
             <h3 className="font-bold text-stone-800">あわせて読みたい関連特集</h3>
             <ul className="space-y-1.5 text-cyan-800">
               <li>
-                <Link href="/prefectures/shimane" className="hover:underline flex items-center gap-1">
+                <Link href="/prefectures/shimane/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>島根県のおすすめ観光名所＆温泉宿一覧</span>
                 </Link>

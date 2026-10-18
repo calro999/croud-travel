@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の函館×格安：五稜郭の紅葉と海鮮グルメ！1泊2,000円〜5,000円台の高コスパおすすめホテル5選「2026最新」',
     description: '五稜郭の紅葉と函館山夜景！朝食いくら食べ放題や温泉付き1泊2,000円〜5,000円台の高コスパ宿5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay',
   }
 };
 
 export default function HakodateBudgetAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の函館×格安：五稜郭の紅葉と海鮮グルメ！1泊2,000円〜5,000円台の高コスパおすすめホテル5選「2026最新」\",\"description\":\"星形の城郭が秋色に染まる特別史跡・五稜郭跡と函館山の秋夜景！朝食いくら食べ放題や源泉かけ流し温泉付きでも1泊2,000円〜5,000円台で泊まれる函館のコスパ最強ホテル5選。ホテルエノエ、オールインステイ、イマジンホテルの魅力を徹底比較！\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の函館×格安：五稜郭の紅葉と海鮮グルメ！1泊2,000円〜5,000円台の高コスパおすすめホテル5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の函館×格安：五稜郭の紅葉と海鮮グルメ！1泊2,000円〜5,000円台の高コスパおすすめホテル5選「2026最新」\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"函館秋旅のおすすめスポット\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ホテルエノエ函館\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ホテルオールインステイ函館\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"スマイルホテルプレミアム函館五稜郭\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"函館大沼プリンスホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"イマジンホテル＆リゾート函館\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"函館山（夜景）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"富良野 ファーム富田\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"小樽運河\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"旭川市旭山動物園\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/192816/192816.jpg"
@@ -142,7 +146,7 @@ export default function HakodateBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165825%2F165825.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function HakodateBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179797%2F179797.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function HakodateBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9561%2F9561.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function HakodateBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F192816%2F192816.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function HakodateBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137023%2F137023.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function HakodateBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">有り：44台￥1,000-（税込み／泊）　先着順となり予約は不可となります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（660件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,230〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F192816%2F192816.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F192816%2F192816.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルオールインステイ函館</td>
@@ -396,7 +400,7 @@ export default function HakodateBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">1階が12台（先着順）他に第2、第3駐車場がございます。お車の出し入れは自由です。1泊500円/台</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（219件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165825%2F165825.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165825%2F165825.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. スマイルホテルプレミアム函館五稜郭</td>
@@ -405,7 +409,7 @@ export default function HakodateBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">1泊 800円（立体駐車場14台・先着順）事前予約不可　近隣に有料駐車場あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（853件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,150〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179797%2F179797.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179797%2F179797.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 函館大沼プリンスホテル</td>
@@ -414,7 +418,7 @@ export default function HakodateBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">有り　２３０台　先着順　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（1152件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,354〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9561%2F9561.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9561%2F9561.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. イマジンホテル＆リゾート函館</td>
@@ -423,7 +427,7 @@ export default function HakodateBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">有り　無料　約90台　湯の川最大級青空平面</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（2336件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,259〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137023%2F137023.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137023%2F137023.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -600,6 +604,9 @@ export default function HakodateBudgetAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay" />
+        </div>
 
       </article>
   );

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -255,7 +256,7 @@ export default function HuistenboschHalloweenFeaturePage() {
             <span>/</span>
             <Link href="/features" className="hover:text-amber-600 transition">特集一覧</Link>
             <span>/</span>
-            <Link href="/prefectures/nagasaki" className="hover:text-amber-600 transition">長崎県</Link>
+            <Link href="/prefectures/nagasaki/" className="hover:text-amber-600 transition">長崎県</Link>
             <span>/</span>
             <span className="text-stone-800 font-medium">長崎ハウステンボス・ハロウィーン特集</span>
           </div>
@@ -599,7 +600,7 @@ export default function HuistenboschHalloweenFeaturePage() {
               <Link href="/features" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 ← 特集一覧に戻る
               </Link>
-              <Link href="/prefectures/nagasaki" className="px-4 py-2 rounded-full bg-amber-50 hover:bg-amber-100 text-amber-700 font-semibold transition">
+              <Link href="/prefectures/nagasaki/" className="px-4 py-2 rounded-full bg-amber-50 hover:bg-amber-100 text-amber-700 font-semibold transition">
                 長崎県の旅行ガイド・名宿一覧
               </Link>
               <Link href="/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay" className="px-4 py-2 rounded-full bg-rose-50 hover:bg-rose-100 text-rose-700 font-semibold transition">

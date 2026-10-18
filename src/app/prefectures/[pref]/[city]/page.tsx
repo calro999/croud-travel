@@ -46,17 +46,19 @@ export async function generateMetadata({ params }: { params: Promise<{ pref: str
     return { title: "市町村が見つかりません" };
   }
 
+  const cleanTitle = cityInfo.title.replace(/\s*[｜|]\s*(日本全国・)?旅宿クラウド.*$/, "").replace(/\s*[｜|]\s*クラウドトラベル.*$/, "");
+
   return {
-    title: `${cityInfo.title} ｜ 日本全国・旅宿クラウド`,
+    title: cleanTitle,
     description: cityInfo.description,
     keywords: cityInfo.keywords,
     alternates: {
       canonical: `${baseUrl}/prefectures/${pref}/${city}/`,
     },
     openGraph: {
-      title: cityInfo.title,
+      title: cleanTitle,
       description: cityInfo.description,
-      url: `${baseUrl}/prefectures/${pref}/${city}`,
+      url: `${baseUrl}/prefectures/${pref}/${city}/`,
       siteName: "日本全国・旅宿クラウド",
     },
   };
@@ -115,10 +117,57 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": baseUrl },
-      { "@type": "ListItem", "position": 2, "name": `${cityInfo.prefName}観光ガイド`, "item": `${baseUrl}/prefectures/${pref}` },
-      { "@type": "ListItem", "position": 3, "name": `${cityInfo.cityName} 観光＆グルメ`, "item": `${baseUrl}/prefectures/${pref}/${city}` }
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": `${baseUrl}/` },
+      { "@type": "ListItem", "position": 2, "name": `${cityInfo.prefName}観光ガイド`, "item": `${baseUrl}/prefectures/${pref}/` },
+      { "@type": "ListItem", "position": 3, "name": `${cityInfo.cityName} 観光＆グルメ`, "item": `${baseUrl}/prefectures/${pref}/${city}/` }
     ]
+  };
+
+  const displayedCityPosts = finalPosts.slice(0, 6);
+
+  const jsonLdItemList = displayedCityPosts.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": `${cityInfo.cityName}（${cityInfo.prefName}）でおすすめの温泉旅館・人気ホテル厳選リスト`,
+    "description": `${cityInfo.cityName}観光やご当地グルメ（${cityInfo.gourmet.slice(0, 3).join("・")}）の拠点に最適な高評価宿泊施設`,
+    "numberOfItems": displayedCityPosts.length,
+    "itemListElement": displayedCityPosts.map((p, idx) => ({
+      "@type": "ListItem",
+      "position": idx + 1,
+      "name": p.hotel_name || p.title,
+      "url": `${baseUrl}/posts/${p.id}/`,
+      ...(p.image ? { "image": p.image } : {})
+    }))
+  } : null;
+
+  const cityFaqItems = [
+    {
+      q: `${cityInfo.cityName}（${cityInfo.prefName}）で絶対に外せない定番観光スポットはどこですか？`,
+      a: `${cityInfo.cityName}を訪れるなら、「${cityInfo.highlights.join("」「")}」が代表的な必見スポットです。午前中に中心部の名所を巡り、周辺の散策やカフェ巡りと組み合わせる1泊2日プランが人気を集めています。`
+    },
+    {
+      q: `${cityInfo.cityName}旅行で味わうべき名物料理・ご当地グルメは何ですか？`,
+      a: `${cityInfo.cityName}では、「${cityInfo.gourmet.join("」「")}」などの名物グルメが有名です。地元の老舗食事処や市場はもちろん、地場食材をふんだんに取り入れた会席料理や朝食ビュッフェを提供する温泉宿・ホテルでの食事も高く評価されています。`
+    },
+    {
+      q: `${cityInfo.cityName}周辺の観光拠点におすすめのホテル・温泉宿はどこですか？`,
+      a: displayedCityPosts.length > 0
+        ? `楽天トラベルでも高評価を得ている「${displayedCityPosts.slice(0, 3).map(p => p.hotel_name).join("」「")}」などが特におすすめです。主要観光地へのアクセスや温泉・駐車場設備を比較して旅の目的に合う宿をお選びいただけます。`
+        : `${cityInfo.cityName}周辺では主要駅やインターチェンジからアクセスしやすい温泉旅館・シティホテルが充実しています。早割やクーポンを活用しての予約がおすすめです。`
+    }
+  ];
+
+  const jsonLdFaq = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": cityFaqItems.map((item) => ({
+      "@type": "Question",
+      "name": item.q,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": item.a
+      }
+    }))
   };
 
   const siblingCities = getCitiesByPrefectures(pref).filter(c => c.citySlug !== city);
@@ -126,14 +175,18 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
   return (
     <div className="space-y-12 max-w-5xl mx-auto">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
+      {jsonLdItemList && (
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdItemList) }} />
+      )}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdFaq) }} />
 
       {/* パンくずナビ */}
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/prefectures" className="hover:text-teal-800 transition">都道府県一覧</Link>
+        <Link href="/prefectures/" className="hover:text-teal-800 transition">都道府県一覧</Link>
         <span>/</span>
-        <Link href={`/prefectures/${pref}`} className="hover:text-teal-800 transition">{cityInfo.prefName}</Link>
+        <Link href={`/prefectures/${pref}/`} className="hover:text-teal-800 transition">{cityInfo.prefName}</Link>
         <span>/</span>
         <span className="text-emerald-950 font-bold">{cityInfo.cityName} 観光・料理</span>
       </nav>
@@ -230,7 +283,7 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-          {finalPosts.slice(0, 6).map((post) => (
+          {displayedCityPosts.map((post) => (
             <article
               key={post.id}
               className="flex flex-col justify-between border border-emerald-950/10 bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition"
@@ -240,9 +293,12 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
                   {post.image ? (
                     <img
                       src={post.image}
-                      alt={post.hotel_name}
+                      alt={`${post.hotel_name}（${cityInfo.cityName}）`}
+                      width={600}
+                      height={338}
                       className="w-full h-full object-cover"
                       loading="lazy"
+                      decoding="async"
                     />
                   ) : (
                     <div className="w-full h-full flex items-center justify-center text-emerald-950/30 text-xs font-bold">
@@ -292,13 +348,13 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
                 <a
                   href={post.affiliate_url}
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="sponsored noopener noreferrer"
                   className="block w-full text-center py-2 text-[11px] font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                 >
                   ✈️ 楽天トラベルでプランを見る
                 </a>
                 <Link
-                  href={`/posts/${post.id}`}
+                  href={`/posts/${post.id}/`}
                   className="block w-full text-center py-2 text-[11px] font-bold text-teal-900 bg-teal-50 hover:bg-teal-100 rounded-xl transition border border-teal-800/10"
                 >
                   🧭 宿の特化記事を読む
@@ -309,7 +365,7 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
         </div>
 
         {/* 宿泊スペック一覧比較表 */}
-        {finalPosts.length > 0 && (
+        {displayedCityPosts.length > 0 && (
           <div className="pt-6 border-t border-emerald-950/10 space-y-4">
             <h3 className="text-base md:text-lg font-black font-journal-serif text-emerald-950">
               📊 {cityInfo.cityName}・{cityInfo.prefName}エリア 厳選宿スペック＆料金比較表
@@ -326,14 +382,14 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
                   </tr>
                 </thead>
                 <tbody className="divide-y divide-stone-200">
-                  {finalPosts.slice(0, 6).map((post) => (
+                  {displayedCityPosts.map((post) => (
                     <tr key={post.id} className="hover:bg-emerald-50/40 transition">
                       <td className="p-3 font-bold text-emerald-950">{post.hotel_name}</td>
                       <td className="p-3 text-stone-700">{post.area || cityInfo.cityName} {post.rating ? `（★${post.rating}）` : ""}</td>
                       <td className="p-3 font-bold text-amber-700">{post.price ? `¥${Number(post.price).toLocaleString()}〜` : "プラン参照"}</td>
                       <td className="p-3 text-stone-600">{post.hot_spring_info || post.editor_tip || post.description?.slice(0, 60)} {post.parking_info ? `／駐車場: ${post.parking_info}` : ""}</td>
                       <td className="p-3">
-                        <Link href={`/posts/${post.id}`} className="text-teal-800 font-bold underline">詳細ルポ</Link>
+                        <Link href={`/posts/${post.id}/`} className="text-teal-800 font-bold underline">詳細ルポ</Link>
                       </td>
                     </tr>
                   ))}
@@ -363,6 +419,31 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
         </div>
       </section>
 
+      {/* ❓ よくある質問（FAQ）セクション（GEO＆FAQPage構造化データ連携） */}
+      <section className="bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
+        <div className="space-y-2 border-b border-emerald-950/10 pb-4">
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
+            <span>❓</span> <span>{cityInfo.cityName}旅行・観光＆ホテル選びのよくある質問（FAQ）</span>
+          </h2>
+          <p className="text-xs text-emerald-950/60 leading-relaxed font-medium">
+            {cityInfo.cityName}への旅行計画でよく検索される質問と回答をまとめました。
+          </p>
+        </div>
+        <div className="space-y-4">
+          {cityFaqItems.map((faq, idx) => (
+            <div key={idx} className="p-4 rounded-xl bg-teal-50/40 border border-teal-900/10 space-y-2">
+              <h3 className="text-sm font-bold text-teal-950 flex items-start gap-2">
+                <span className="text-teal-800 font-extrabold">Q.</span>
+                <span>{faq.q}</span>
+              </h3>
+              <p className="text-xs text-emerald-950/80 leading-relaxed pl-6">
+                {faq.a}
+              </p>
+            </div>
+          ))}
+        </div>
+      </section>
+
       {/* 🔍 次にユーザーが検索する疑問＆先回りガイド */}
       {(() => {
         const citySpots = SPOTS_DATA.filter(s => s.prefSlug === pref && (s.citySlug === city || s.cityName === cityInfo.cityName));
@@ -382,7 +463,7 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
             badge: "観光名所スポット解説",
             answerSnippet: `${firstSpot.subtitle}。${firstSpot.highlights.slice(0, 2).join('／')}`,
             linkText: `【${firstSpot.name}】見どころ＆近くの宿を見る`,
-            href: `/spots/${firstSpot.slug}`
+            href: `/spots/${firstSpot.slug}/`
           });
         }
 
@@ -392,7 +473,7 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
             badge: "宿泊施設・ホテルルポ",
             answerSnippet: `「${topHotel.hotel_name}」をはじめ、${cityInfo.cityName}の観光や温泉を満喫できる人気宿泊施設の詳細ルポを掲載中。`,
             linkText: `【${topHotel.hotel_name}】宿泊ルポ記事を見る`,
-            href: `/posts/${topHotel.id}`
+            href: `/posts/${topHotel.id}/`
           });
         }
 
@@ -401,7 +482,7 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
           badge: "都道府県ポータル",
           answerSnippet: `${cityInfo.prefName}全域の有名観光スポット、名湯、ご当地お土産、酒蔵ガイドを完全網羅。`,
           linkText: `【${cityInfo.prefName}】観光・温泉・名物ガイドを見る`,
-          href: `/prefectures/${pref}`
+          href: `/prefectures/${pref}/`
         });
 
         for (const hub of recommendedHubs) {
@@ -410,7 +491,7 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
             badge: "目的・テーマ特集",
             answerSnippet: hub.description,
             linkText: `${hub.shortTitle}を見る`,
-            href: `/${hub.slug}`
+            href: `/${hub.slug}/`
           });
         }
 
@@ -433,7 +514,7 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
             {siblingCities.map((sibling) => (
               <Link
                 key={sibling.citySlug}
-                href={`/prefectures/${sibling.prefSlug}/${sibling.citySlug}`}
+                href={`/prefectures/${sibling.prefSlug}/${sibling.citySlug}/`}
                 className="text-xs font-bold text-teal-900 bg-white hover:bg-teal-800 hover:text-white border border-teal-800/20 px-4 py-2 rounded-xl transition shadow-sm"
               >
                 📍 {sibling.cityName} 観光・料理
@@ -446,7 +527,7 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
       {/* 親都道府県ハブへのバックリンク */}
       <div className="text-center pt-4">
         <Link
-          href={`/prefectures/${pref}`}
+          href={`/prefectures/${pref}/`}
           className="inline-flex items-center gap-2 text-xs font-bold text-white bg-teal-800 hover:bg-teal-700 px-8 py-3 rounded-full shadow transition"
         >
           <span>🗾</span>

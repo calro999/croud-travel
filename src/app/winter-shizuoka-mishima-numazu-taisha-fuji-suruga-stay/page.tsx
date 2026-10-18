@@ -223,6 +223,8 @@ export default function ShizuokaMishimaPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 
       {/* Hero Header */}
       <header className="relative bg-gradient-to-br from-slate-950 via-sky-950 to-blue-950 text-white py-20 px-4 sm:px-6 lg:px-8">

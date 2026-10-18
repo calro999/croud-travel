@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -8,7 +9,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【全室露天風呂付き極上離れと白濁硫黄泉】2026-2027年11-12月初冬の箱根・仙石原！大人の隠れ家高級宿で味わう極上相州牛＆冬懐石・大涌谷にごり湯スイート名宿5選 | クラウドトラベル',
+  title: '【全室露天風呂付き極上離れと白濁硫黄泉】2026-2027年11-12月初冬の箱根・仙石原！大人の隠れ家高級宿で味わう極上相州牛＆冬懐石・大涌谷にごり湯スイート名宿5選',
   description: '初冬の静寂に包まれる箱根・仙石原！黄金色に輝くすすき草原のフィナーレと、大涌谷から引湯する濃厚な乳白色の硫黄泉。全室に専用露天風呂を備えた大人の極上離れやスイートルームで、人目を気にせず名湯を独り占め。きめ細やかなサシの相州牛や駿河湾・相模湾の冬の味覚を散りばめた本格懐石料理に舌鼓を打つ、憧れの記念日ラグジュアリーステイ厳選5選。',
   keywords: '神奈川県, 仙石原, 高級旅館, 客室露天風呂, 記念日旅行, 11月旅行, 12月旅行, 楽天トラベル, ふるさと納税',
   openGraph: {

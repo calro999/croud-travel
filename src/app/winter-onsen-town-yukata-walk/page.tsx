@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-onsen-town-yukata-walk/" },
-  title: "風情満点：冬の温泉街・浴衣で湯巡り＆街歩き宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "風情満点：冬の温泉街・浴衣で湯巡り＆街歩き宿 厳選ガイド",
   description: "石畳に響く下駄の音と立ち上る湯けむり。長野・渋温泉、愛媛・道後温泉、群馬・伊香保温泉、熊本・黒川温泉など、浴衣と丹前を羽織って湯巡りや射的・スイーツ食べ歩きを楽しめる名湯街を徹底解説。",
   keywords: ["風情満点", "冬の温泉街", "浴衣で湯巡り", "街歩き宿", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "風情満点：冬の温泉街・浴衣で湯巡り＆街歩き宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "風情満点：冬の温泉街・浴衣で湯巡り＆街歩き宿 厳選ガイド",
     description: "石畳に響く下駄の音と立ち上る湯けむり。長野・渋温泉、愛媛・道後温泉、群馬・伊香保温泉、熊本・黒川温泉など、浴衣と丹前を羽織って湯巡りや射的・スイーツ食べ歩きを楽しめる名湯街を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "風情満点：冬の温泉街・浴衣で湯巡り＆街歩き宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "風情満点：冬の温泉街・浴衣で湯巡り＆街歩き宿 厳選ガイド",
     description: "石畳に響く下駄の音と立ち上る湯けむり。長野・渋温泉、愛媛・道後温泉、群馬・伊香保温泉、熊本・黒川温泉など、浴衣と丹前を羽織って湯巡りや射的・スイーツ食べ歩きを楽しめる名湯街を徹底解説。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

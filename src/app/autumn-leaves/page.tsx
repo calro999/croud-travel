@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-leaves/" },
-  title: "全国：紅葉露天風呂＆絶景温泉旅館ガイド ｜ 日本全国・旅宿クラウド",
+  title: "全国：紅葉露天風呂＆絶景温泉旅館ガイド",
   description: "秋の絶景！全国屈指の紅葉名所（日光、箱根、京都嵐山、黒川温泉、乳頭温泉）と、湯船から紅葉を一望できる人気露天風呂付き温泉旅館を徹底比較。見頃時期、アクセス、おすすめの過ごし方完全ガイド。",
   keywords: ["全国", "紅葉露天風呂", "絶景温泉旅館ガイド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "全国：紅葉露天風呂＆絶景温泉旅館ガイド ｜ 日本全国・旅宿クラウド",
+    title: "全国：紅葉露天風呂＆絶景温泉旅館ガイド",
     description: "秋の絶景！全国屈指の紅葉名所（日光、箱根、京都嵐山、黒川温泉、乳頭温泉）と、湯船から紅葉を一望できる人気露天風呂付き温泉旅館を徹底比較。見頃時期、アクセス、おすすめの過ごし方完全ガイド。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "全国：紅葉露天風呂＆絶景温泉旅館ガイド ｜ 日本全国・旅宿クラウド",
+    title: "全国：紅葉露天風呂＆絶景温泉旅館ガイド",
     description: "秋の絶景！全国屈指の紅葉名所（日光、箱根、京都嵐山、黒川温泉、乳頭温泉）と、湯船から紅葉を一望できる人気露天風呂付き温泉旅館を徹底比較。見頃時期、アクセス、おすすめの過ごし方完全ガイド。",
   }
 };
@@ -238,7 +238,7 @@ export default function AutumnLeavesOnsenPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -306,7 +306,7 @@ export default function AutumnLeavesOnsenPage() {
                 <td className="p-3 text-stone-600">有り(有料　1泊につき1台￥2,000）</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（5034件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,180〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F91%2F91.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F91%2F91.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. リーガロイヤルホテル大阪　ヴィニェット　コレクション　ｂｙ　ＩＨＧ</td>
@@ -315,7 +315,7 @@ export default function AutumnLeavesOnsenPage() {
                 <td className="p-3 text-stone-600">477台（予約不可・有料）※普通乗用車のみ、宿泊ご滞在中に限る。車高制限あり。</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（14113件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,325〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F103%2F103.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F103%2F103.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ヒルトン成田</td>
@@ -324,7 +324,7 @@ export default function AutumnLeavesOnsenPage() {
                 <td className="p-3 text-stone-600">駐車場350台収容（屋内駐車場290台） ご宿泊者は24時間毎に500円でご利用いただけます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（1148件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,767〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107%2F107.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107%2F107.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. リーガロイヤルホテル小倉</td>
@@ -333,7 +333,7 @@ export default function AutumnLeavesOnsenPage() {
                 <td className="p-3 text-stone-600">164台  1泊￥1600税込</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（5113件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,827〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F111%2F111.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F111%2F111.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテル日航プリンセス京都</td>
@@ -342,7 +342,7 @@ export default function AutumnLeavesOnsenPage() {
                 <td className="p-3 text-stone-600">有り 59台 1泊あたり2000円</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（1874件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,810〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166%2F166.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166%2F166.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               </tbody>
             </table>

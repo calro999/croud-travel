@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/glamping-outdoor-barrel-sauna-resort-stay/" },
-  title: "グランピング＆バレルサウナ体験宿：北欧テント・星空BBQ＆ととのい 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "グランピング＆バレルサウナ体験宿：北欧テント・星空BBQ＆ととのい 厳選ガイド",
   description: "大自然の中で極上のととのい体験！本格バレルサウナ＆グランピングリゾート宿完全特化！富士山麓、白馬、千葉房総、淡路島、薪サウナ・天然水風呂・外気浴インフィニティチェア、豪華BBQディナー宿を徹底解説。",
   keywords: ["グランピング", "バレルサウナ体験宿", "北欧テント", "星空BBQ", "ととのい", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "グランピング＆バレルサウナ体験宿：北欧テント・星空BBQ＆ととのい 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "グランピング＆バレルサウナ体験宿：北欧テント・星空BBQ＆ととのい 厳選ガイド",
     description: "大自然の中で極上のととのい体験！本格バレルサウナ＆グランピングリゾート宿完全特化！富士山麓、白馬、千葉房総、淡路島、薪サウナ・天然水風呂・外気浴インフィニティチェア、豪華BBQディナー宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "グランピング＆バレルサウナ体験宿：北欧テント・星空BBQ＆ととのい 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "グランピング＆バレルサウナ体験宿：北欧テント・星空BBQ＆ととのい 厳選ガイド",
     description: "大自然の中で極上のととのい体験！本格バレルサウナ＆グランピングリゾート宿完全特化！富士山麓、白馬、千葉房総、淡路島、薪サウナ・天然水風呂・外気浴インフィニティチェア、豪華BBQディナー宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function RailwayActivityHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">大型駐車場有り　60台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（345件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72689%2F72689.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72689%2F72689.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＨＡＮＺ　ＯＵＴＤＯＯＲ　ＲＥＳＯＲＴ（旧：グランピングヴィラハンズ河口湖）</td>
@@ -261,7 +261,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">有り　２７台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（187件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180435%2F180435.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180435%2F180435.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＧＬＡＭＰＩＮＧ　ＨＡＮＺ　ＰＡＯ（旧：グランピングヴィラハンズ河口湖）</td>
@@ -270,7 +270,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">あり　30台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（17件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F197832%2F197832.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F197832%2F197832.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ｅｎｉｃｏ．Ｍｔ．Ｆｕｊｉ　Ｒｅｓｏｒｔ　＆　Ｇｌａｍｐｉｎｇ</td>
@@ -279,7 +279,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">有り　１４台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（8件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F191908%2F191908.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F191908%2F191908.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. キャメルホテル＆グランピングリゾート</td>
@@ -288,7 +288,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">有り　２００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（1336件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128423%2F128423.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128423%2F128423.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 旅館＆グランピングリゾート　花山水　－ＨＡＮＡＳＡＮＳＵＩ－</td>
@@ -297,7 +297,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">有り　20台　無料　予約不要です</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（1407件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79303%2F79303.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79303%2F79303.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

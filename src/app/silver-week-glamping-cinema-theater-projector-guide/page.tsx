@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-cinema-theater-projector-guide/" },
-  title: "プロジェクター・巨大シアター付きグランピング：テント内で映画鑑賞＆推し活！夜長を楽しむシアターステイ ｜ 日本全国・旅宿クラウド",
+  title: "プロジェクター・巨大シアター付きグランピング：テント内で映画鑑賞＆推し活！夜長を楽しむシアターステイ",
   description:
     "ドームテントの天井や大画面スクリーンに映像を投影！100インチ超えの大迫力プロジェクター、高音質スピーカー完備、動画配信サービス見放題で楽しむ夜の映画祭＆推し活お泊まり会。",
   keywords: ["プロジェクター", "巨大シアター付きグランピング", "テント内で映画鑑賞", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "プロジェクター・巨大シアター付きグランピング：テント内で映画鑑賞＆推し活！夜長を楽しむシアターステイ ｜ 日本全国・旅宿クラウド",
+    title: "プロジェクター・巨大シアター付きグランピング：テント内で映画鑑賞＆推し活！夜長を楽しむシアターステイ",
     description: "ドームテントの天井や大画面スクリーンに映像を投影！100インチ超えの大迫力プロジェクター、高音質スピーカー完備、動画配信サービス見放題で楽しむ夜の映画祭＆推し活お泊まり会。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "プロジェクター・巨大シアター付きグランピング：テント内で映画鑑賞＆推し活！夜長を楽しむシアターステイ ｜ 日本全国・旅宿クラウド",
+    title: "プロジェクター・巨大シアター付きグランピング：テント内で映画鑑賞＆推し活！夜長を楽しむシアターステイ",
     description: "ドームテントの天井や大画面スクリーンに映像を投影！100インチ超えの大迫力プロジェクター、高音質スピーカー完備、動画配信サービス見放題で楽しむ夜の映画祭＆推し活お泊まり会。",
   }
 };
@@ -169,6 +169,8 @@ export default function SilverWeekGlampingCinemaTheaterProjectorPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 
       {/* ヒーローセクション（Indigoパレット） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-indigo-950 via-stone-900 to-indigo-900 text-white p-8 md:p-14 shadow-2xl border border-indigo-500/30">
@@ -326,7 +328,7 @@ export default function SilverWeekGlampingCinemaTheaterProjectorPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="inline-flex items-center justify-center px-4 py-2.5 bg-gradient-to-r from-indigo-600 to-indigo-700 hover:from-indigo-500 hover:to-indigo-600 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5 shrink-0"
                   >
                     楽天トラベルで空室確認 ✈️

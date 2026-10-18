@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -59,8 +60,8 @@ export default function MonbetsuDriftIcePage() {
     headline: '紋別流氷観光＆ガリンコ号：巨大ドリルで氷を砕く圧巻の航海！氷海オホーツクタワー・極上毛ガニ＆ホタテを満喫する冬の厳選宿5選',
     description: 'オホーツク海に押し寄せる白銀の流氷原を突き進む「流氷砕氷船ガリンコ号III IMERU」徹底攻略ガイド。海底自然観測室「オホーツクタワー」やアザラシと触れ合う「とっかりセンター」、冬の味覚の王様・オホーツク海産毛ガニと肉厚ホタテ。紋別・網走の天然温泉付き厳選ホテル・リゾート5選。',
     image: 'https://img.travel.rakuten.co.jp/share/HOTEL/14610/14610.jpg',
-    datePublished: 'T00:00:00+09:00',
-    dateModified: 'T00:00:00+09:00',
+    datePublished: '2026-10-18T00:00:00+09:00',
+    dateModified: '2026-10-19T00:00:00+09:00',
     author: {
       '@type': 'Organization',
       name: 'トラベルマップ編集部',
@@ -270,7 +271,7 @@ export default function MonbetsuDriftIcePage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14610%2F14610.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-blue-600 transition-colors"
                   >
                     ホテルオホーツクパレス
@@ -325,7 +326,7 @@ export default function MonbetsuDriftIcePage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14610%2F14610.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="flex-1 inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700 text-white font-bold text-sm sm:text-base rounded-xl shadow-sm hover:shadow transition-all text-center"
                   >
                     <span>楽天トラベルで空室・宿泊プランを見る</span>
@@ -357,7 +358,7 @@ export default function MonbetsuDriftIcePage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F863%2F863.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-blue-600 transition-colors"
                   >
                     紋別セントラルホテル
@@ -412,7 +413,7 @@ export default function MonbetsuDriftIcePage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F863%2F863.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="flex-1 inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700 text-white font-bold text-sm sm:text-base rounded-xl shadow-sm hover:shadow transition-all text-center"
                   >
                     <span>楽天トラベルで空室・宿泊プランを見る</span>
@@ -444,7 +445,7 @@ export default function MonbetsuDriftIcePage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68067%2F68067.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-blue-600 transition-colors"
                   >
                     北天の丘あばしり湖鶴雅リゾート
@@ -499,7 +500,7 @@ export default function MonbetsuDriftIcePage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68067%2F68067.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="flex-1 inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700 text-white font-bold text-sm sm:text-base rounded-xl shadow-sm hover:shadow transition-all text-center"
                   >
                     <span>楽天トラベルで空室・宿泊プランを見る</span>
@@ -531,7 +532,7 @@ export default function MonbetsuDriftIcePage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31670%2F31670.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-blue-600 transition-colors"
                   >
                     天都の宿　網走観光ホテル（BBHホテルグループ）
@@ -586,7 +587,7 @@ export default function MonbetsuDriftIcePage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31670%2F31670.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="flex-1 inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700 text-white font-bold text-sm sm:text-base rounded-xl shadow-sm hover:shadow transition-all text-center"
                   >
                     <span>楽天トラベルで空室・宿泊プランを見る</span>
@@ -618,7 +619,7 @@ export default function MonbetsuDriftIcePage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F32093%2F32093.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-blue-600 transition-colors"
                   >
                     ホテルルートイン網走駅前
@@ -673,7 +674,7 @@ export default function MonbetsuDriftIcePage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F32093%2F32093.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="flex-1 inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700 text-white font-bold text-sm sm:text-base rounded-xl shadow-sm hover:shadow transition-all text-center"
                   >
                     <span>楽天トラベルで空室・宿泊プランを見る</span>

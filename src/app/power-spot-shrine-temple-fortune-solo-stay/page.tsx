@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/power-spot-shrine-temple-fortune-solo-stay/" },
-  title: "寺社・パワースポット巡り＆開運祈願宿：縁結び・厄除け・浄化ひとり旅 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "寺社・パワースポット巡り＆開運祈願宿：縁結び・厄除け・浄化ひとり旅 厳選ガイド",
   description: "心を整え運気を高める開運ひとり旅！パワースポット＆寺社巡り拠点宿完全特化！出雲大社、伊勢神宮、日光東照宮、箱根神社九頭龍神社、早朝参拝・ご祈祷対応、精進料理＆温泉浄化宿を徹底解説。",
   keywords: ["寺社", "パワースポット巡り", "開運祈願宿", "縁結び", "厄除け", "浄化ひとり旅", "温泉宿"],
   openGraph: {
-    title: "寺社・パワースポット巡り＆開運祈願宿：縁結び・厄除け・浄化ひとり旅 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "寺社・パワースポット巡り＆開運祈願宿：縁結び・厄除け・浄化ひとり旅 厳選ガイド",
     description: "心を整え運気を高める開運ひとり旅！パワースポット＆寺社巡り拠点宿完全特化！出雲大社、伊勢神宮、日光東照宮、箱根神社九頭龍神社、早朝参拝・ご祈祷対応、精進料理＆温泉浄化宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "寺社・パワースポット巡り＆開運祈願宿：縁結び・厄除け・浄化ひとり旅 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "寺社・パワースポット巡り＆開運祈願宿：縁結び・厄除け・浄化ひとり旅 厳選ガイド",
     description: "心を整え運気を高める開運ひとり旅！パワースポット＆寺社巡り拠点宿完全特化！出雲大社、伊勢神宮、日光東照宮、箱根神社九頭龍神社、早朝参拝・ご祈祷対応、精進料理＆温泉浄化宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function WomenSoloRetreatHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-rose-600 to-pink-600 hover:from-rose-500 hover:to-pink-500 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

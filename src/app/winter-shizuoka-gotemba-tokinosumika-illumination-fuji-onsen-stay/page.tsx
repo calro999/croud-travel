@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -58,8 +59,8 @@ export default function GotembaTokinosumikaPage() {
     headline: '御殿場・時之栖イルミネーション：ひかりのすみか550万球の光の回廊と白銀の富士山！クラフトビール＆天然温泉を満喫する冬の名宿5選',
     description: '静岡・御殿場の冬を彩る日本屈指の光の祭典「時之栖イルミネーション ひかりのすみか」完全ガイド。全長300mの光のトンネル、日本一の高さを誇る噴水レーザーショー、富士山伏流水の御殿場高原ビールとバイキング、天然温泉「気楽坊」の死海風呂。御殿場アウトレット至近の厳選ホテル・リゾート5選。',
     image: 'https://img.travel.rakuten.co.jp/share/HOTEL/67487/67487.jpg',
-    datePublished: 'T00:00:00+09:00',
-    dateModified: 'T00:00:00+09:00',
+    datePublished: '2026-10-18T00:00:00+09:00',
+    dateModified: '2026-10-19T00:00:00+09:00',
     author: {
       '@type': 'Organization',
       name: 'トラベルマップ編集部',
@@ -269,7 +270,7 @@ export default function GotembaTokinosumikaPage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67487%2F67487.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-amber-600 transition-colors"
                   >
                     御殿場高原　時之栖(ときのすみか)
@@ -324,7 +325,7 @@ export default function GotembaTokinosumikaPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67487%2F67487.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="flex-1 inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold text-sm sm:text-base rounded-xl shadow-sm hover:shadow transition-all text-center"
                   >
                     <span>楽天トラベルで空室・宿泊プランを見る</span>
@@ -356,7 +357,7 @@ export default function GotembaTokinosumikaPage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128483%2F128483.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-amber-600 transition-colors"
                   >
                     ホテルリゾート&amp;レストラン　マースガーデンウッド御殿場
@@ -411,7 +412,7 @@ export default function GotembaTokinosumikaPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128483%2F128483.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="flex-1 inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold text-sm sm:text-base rounded-xl shadow-sm hover:shadow transition-all text-center"
                   >
                     <span>楽天トラベルで空室・宿泊プランを見る</span>
@@ -443,7 +444,7 @@ export default function GotembaTokinosumikaPage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F106186%2F106186.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-amber-600 transition-colors"
                   >
                     レンブラントプレミアム富士御殿場
@@ -498,7 +499,7 @@ export default function GotembaTokinosumikaPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F106186%2F106186.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="flex-1 inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold text-sm sm:text-base rounded-xl shadow-sm hover:shadow transition-all text-center"
                   >
                     <span>楽天トラベルで空室・宿泊プランを見る</span>
@@ -530,7 +531,7 @@ export default function GotembaTokinosumikaPage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182462%2F182462.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-amber-600 transition-colors"
                   >
                     天然温泉　富士桜の湯　ドーミーインＥＸＰＲＥＳＳ富士山御殿場（ドーミーイン・御宿野乃グループ）
@@ -585,7 +586,7 @@ export default function GotembaTokinosumikaPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182462%2F182462.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="flex-1 inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold text-sm sm:text-base rounded-xl shadow-sm hover:shadow transition-all text-center"
                   >
                     <span>楽天トラベルで空室・宿泊プランを見る</span>
@@ -617,7 +618,7 @@ export default function GotembaTokinosumikaPage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F176577%2F176577.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-amber-600 transition-colors"
                   >
                     ＨＯＴＥＬ　ＣＬＡＤ
@@ -672,7 +673,7 @@ export default function GotembaTokinosumikaPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F176577%2F176577.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="flex-1 inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold text-sm sm:text-base rounded-xl shadow-sm hover:shadow transition-all text-center"
                   >
                     <span>楽天トラベルで空室・宿泊プランを見る</span>

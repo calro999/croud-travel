@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-kusatsu-onsen-highway-bus-guide/" },
-  title: "東京・新宿から草津温泉 直行バス厳選ガイド：電車とどっちが安い？料金・時間比較＆湯畑1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "東京・新宿から草津温泉 直行バス厳選ガイド：電車とどっちが安い？料金・時間比較＆湯畑1泊2日モデルコース",
   description: "東京・新宿から草津温泉へ直行する高速バス「ゆめぐり号」徹底解説！特急草津・新幹線乗り換えとの料金・所要時間比較。湯畑徒歩5分直着のメリット、湯もみショー、西の河原露天風呂、湯畑周辺の源泉かけ流し名旅館を満喫する1泊2日モデルコース。",
   keywords: ["東京", "新宿から草津温泉", "直行バス", "電車とどっちが安い？料金", "時間比較", "湯畑1泊2日モデルコース", "温泉宿"],
   openGraph: {
-    title: "東京・新宿から草津温泉 直行バス厳選ガイド：電車とどっちが安い？料金・時間比較＆湯畑1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "東京・新宿から草津温泉 直行バス厳選ガイド：電車とどっちが安い？料金・時間比較＆湯畑1泊2日モデルコース",
     description: "東京・新宿から草津温泉へ直行する高速バス「ゆめぐり号」徹底解説！特急草津・新幹線乗り換えとの料金・所要時間比較。湯畑徒歩5分直着のメリット、湯もみショー、西の河原露天風呂、湯畑周辺の源泉かけ流し名旅館を満喫する1泊2日モデルコース。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "東京・新宿から草津温泉 直行バス厳選ガイド：電車とどっちが安い？料金・時間比較＆湯畑1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "東京・新宿から草津温泉 直行バス厳選ガイド：電車とどっちが安い？料金・時間比較＆湯畑1泊2日モデルコース",
     description: "東京・新宿から草津温泉へ直行する高速バス「ゆめぐり号」徹底解説！特急草津・新幹線乗り換えとの料金・所要時間比較。湯畑徒歩5分直着のメリット、湯もみショー、西の河原露天風呂、湯畑周辺の源泉かけ流し名旅館を満喫する1泊2日モデルコース。",
   }
 };
@@ -359,7 +359,7 @@ export default function HighwayBusArticlePage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                   >
                     ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -398,7 +398,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🍓</div>
@@ -417,7 +417,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🎫</div>

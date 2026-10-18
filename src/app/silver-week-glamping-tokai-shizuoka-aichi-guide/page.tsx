@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-tokai-shizuoka-aichi-guide/" },
-  title: "東海シルバーウィーク グランピング：静岡・伊豆・愛知おすすめ！海鮮BBQ＆みかん狩り体験 ｜ 日本全国・旅宿クラウド",
+  title: "東海シルバーウィーク グランピング：静岡・伊豆・愛知おすすめ！海鮮BBQ＆みかん狩り体験",
   description:
     "名古屋・静岡発着の秋連休旅行！伊豆半島の金目鯛・アワビ浜焼き付きグランピング、浜名湖のレイクビューヴィラ、知多半島のサンセットドームテント。温暖な東海エリアで過ごす秋グランピング特集。",
   keywords: ["東海シルバーウィーク", "グランピング", "静岡", "伊豆", "愛知おすすめ！海鮮BBQ", "みかん狩り体験", "温泉宿"],
   openGraph: {
-    title: "東海シルバーウィーク グランピング：静岡・伊豆・愛知おすすめ！海鮮BBQ＆みかん狩り体験 ｜ 日本全国・旅宿クラウド",
+    title: "東海シルバーウィーク グランピング：静岡・伊豆・愛知おすすめ！海鮮BBQ＆みかん狩り体験",
     description: "名古屋・静岡発着の秋連休旅行！伊豆半島の金目鯛・アワビ浜焼き付きグランピング、浜名湖のレイクビューヴィラ、知多半島のサンセットドームテント。温暖な東海エリアで過ごす秋グランピング特集。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "東海シルバーウィーク グランピング：静岡・伊豆・愛知おすすめ！海鮮BBQ＆みかん狩り体験 ｜ 日本全国・旅宿クラウド",
+    title: "東海シルバーウィーク グランピング：静岡・伊豆・愛知おすすめ！海鮮BBQ＆みかん狩り体験",
     description: "名古屋・静岡発着の秋連休旅行！伊豆半島の金目鯛・アワビ浜焼き付きグランピング、浜名湖のレイクビューヴィラ、知多半島のサンセットドームテント。温暖な東海エリアで過ごす秋グランピング特集。",
   }
 };
@@ -311,7 +311,7 @@ export default function SilverWeekGlampingTokaiShizuokaAichiPage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center px-4 py-2.5 bg-gradient-to-r from-orange-600 to-amber-600 hover:from-orange-700 hover:to-amber-700 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5"
                     >
                       楽天トラベルで空室確認 ➔
@@ -468,25 +468,25 @@ export default function SilverWeekGlampingTokaiShizuokaAichiPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/fukushima"
+                href="/prefectures/fukushima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 福島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tokushima"
+                href="/prefectures/tokushima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 徳島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gunma"
+                href="/prefectures/gunma/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 群馬県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/wakayama"
+                href="/prefectures/wakayama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 和歌山県の宿・温泉

@@ -8,13 +8,13 @@ import Image from 'next/image';
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
 
 export const metadata: Metadata = {
-  title: "新日本三大夜景＆天空スカイパノラマ宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  title: "新日本三大夜景＆天空スカイパノラマ宿×ふるさと納税ガイド",
   description: "宝石箱をひっくり返したような感動のパノラマ！福岡「皿倉山」100億ドルの夜景とホテルルートイン苅田駅前、山梨「笛吹川フルーツ公園」甲府盆地の星屑パノラマとホテルルートインコート甲府石和、奈良「若草山山頂」古都奈良の静寂と灯火・ホテルニューわかさ。新日本三大夜景の感動的な夜景ステイを楽天ふるさと納税宿...",
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-new-three-major-night-views-sky-stay/",
   },
   openGraph: {
-    title: "新日本三大夜景＆天空スカイパノラマ宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    title: "新日本三大夜景＆天空スカイパノラマ宿×ふるさと納税ガイド",
     description: "宝石箱をひっくり返したような感動のパノラマ！福岡「皿倉山」100億ドルの夜景とホテルルートイン苅田駅前、山梨「笛吹川フルーツ公園」甲府盆地の星屑パノラマとホテルルートインコート甲府石和、奈良「若草山山頂」古都奈良の静寂と灯火・ホテルニューわかさ。新日本三大夜景の感動的な夜景ステイを楽天ふるさと納税宿...",
     url: "https://croud-travel.pages.dev/furusato-tax-new-three-major-night-views-sky-stay/",
   },
@@ -188,7 +188,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68680%2F68680.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="px-5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold rounded-xl transition border border-slate-700"
                       >
                         宿泊詳細を見る
@@ -259,7 +259,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5336%2F5336.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="px-5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold rounded-xl transition border border-slate-700"
                       >
                         宿泊詳細を見る
@@ -330,7 +330,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8692%2F8692.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="px-5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold rounded-xl transition border border-slate-700"
                       >
                         宿泊詳細を見る
@@ -535,25 +535,25 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/tochigi"
+                href="/prefectures/tochigi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 栃木県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamagata"
+                href="/prefectures/yamagata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 山形県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gifu"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukui"
+                href="/prefectures/fukui/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 福井県の宿・温泉
@@ -598,7 +598,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り　83台　無料　先着順（予約不可）</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（604件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,350〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68680%2F68680.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68680%2F68680.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルルートインコート甲府石和</td>
@@ -607,7 +607,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">無料駐車場完備　８５台</td>
                 <td className="p-3 font-bold text-amber-600">★3.69（697件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5336%2F5336.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5336%2F5336.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルニューわかさ</td>
@@ -616,7 +616,7 @@ export default function Page() {
                 <td className="p-3 text-stone-600">有り　車40台バス6台　15時から１０時無料（時間外有料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（691件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8692%2F8692.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8692%2F8692.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

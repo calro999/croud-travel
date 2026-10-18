@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-winter-shoes-clothing-mistakes-guide/" },
-  title: "冬の北海道旅行 滑らない靴＆防寒着の失敗談：着膨れして室内で大汗！？氷道で転ばない完全防備マニュアル ｜ 日本全国・旅宿クラウド",
+  title: "冬の北海道旅行 滑らない靴＆防寒着の失敗談：着膨れして室内で大汗！？氷道で転ばない完全防備マニュアル",
   description: "冬の北海道（札幌・小樽・旭川）で後悔しないための服装・靴選び！ツルツル氷道で滑らないスノーブーツの選び方、外氷点下×室内25度の温度差対策、スマホバッテリー急減対策、駅直結地下街ホテルまとめ。",
   keywords: ["冬の北海道旅行", "滑らない靴", "防寒着の失敗談", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "冬の北海道旅行 滑らない靴＆防寒着の失敗談：着膨れして室内で大汗！？氷道で転ばない完全防備マニュアル ｜ 日本全国・旅宿クラウド",
+    title: "冬の北海道旅行 滑らない靴＆防寒着の失敗談：着膨れして室内で大汗！？氷道で転ばない完全防備マニュアル",
     description: "冬の北海道（札幌・小樽・旭川）で後悔しないための服装・靴選び！ツルツル氷道で滑らないスノーブーツの選び方、外氷点下×室内25度の温度差対策、スマホバッテリー急減対策、駅直結地下街ホテルまとめ。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "冬の北海道旅行 滑らない靴＆防寒着の失敗談：着膨れして室内で大汗！？氷道で転ばない完全防備マニュアル ｜ 日本全国・旅宿クラウド",
+    title: "冬の北海道旅行 滑らない靴＆防寒着の失敗談：着膨れして室内で大汗！？氷道で転ばない完全防備マニュアル",
     description: "冬の北海道（札幌・小樽・旭川）で後悔しないための服装・靴選び！ツルツル氷道で滑らないスノーブーツの選び方、外氷点下×室内25度の温度差対策、スマホバッテリー急減対策、駅直結地下街ホテルまとめ。",
   }
 };
@@ -286,7 +286,7 @@ export default function HokkaidoWinterShoesClothingGuidePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcamp%2F50coupon%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="bg-white text-slate-900 hover:bg-slate-100 font-black px-6 py-3.5 rounded-full text-sm shadow-md transition-all shrink-0 text-center"
           >
             楽天トラベル限定クーポンを見る →
@@ -362,7 +362,7 @@ export default function HokkaidoWinterShoesClothingGuidePage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="bg-slate-900 hover:bg-slate-800 text-white text-xs md:text-sm font-bold px-5 py-2.5 rounded-full shadow transition-colors"
                   >
                     楽天トラベルで空室・プランを見る →

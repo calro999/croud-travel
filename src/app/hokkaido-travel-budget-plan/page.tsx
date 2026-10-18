@@ -231,6 +231,8 @@ export default function HokkaidoBudgetGuide() {
             type="application/ld+json"
             dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"北海道旅行はレンタカーなしでも楽しめますか？","acceptedAnswer":{"@type":"Answer","text":"札幌・小樽・函館・旭川などの主要都市観光であれば、JR快速エアポートや特急列車、都市間高速バスが非常に充実しているため、レンタカーなしで全く問題なく楽しめます。冬期の雪道運転リスクも回避できるため公共交通機関の利用は特におすすめです。"}},{"@type":"Question","name":"北海道2泊3日の総額費用の相場はいくらですか？","acceptedAnswer":{"@type":"Answer","text":"LCCや早割航空券を活用した節約プランで1人約35,000円〜45,000円、大手航空会社＋駅前大浴場ホテル＋海鮮・ジンギスカンを満喫する標準プランで1人約60,000円〜80,000円がリアルな目安です。"}}]}) }}
           />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
         </section>
 
           <h3 className="font-bold text-xl text-blue-900 mb-4">北海道のおすすめホテル</h3>
@@ -247,7 +249,7 @@ export default function HokkaidoBudgetGuide() {
                     <a 
                       href={hotel.affiliateUrl} 
                       target="_blank" 
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="block text-center bg-blue-600 text-white font-bold py-2 rounded-lg hover:bg-blue-700 transition"
                     >
                       詳細を見る
@@ -296,7 +298,7 @@ export default function HokkaidoBudgetGuide() {
                 <td className="p-3 text-stone-600">立体駐車場(先着順)／８０台１5００円（税込／泊）　平面駐車場(要予約)／２台１５００円(税込／泊)</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（738件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,866〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172398%2F172398.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172398%2F172398.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 札幌定山渓天然温泉大浴場付Ｍａｘ６人＇ＭＯＬＩＮ５０６＇－札幌国際スキー場まで２０分－／民泊</td>
@@ -305,7 +307,7 @@ export default function HokkaidoBudgetGuide() {
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥5,267〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F186132%2F186132.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F186132%2F186132.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. クロスホテル札幌（オリックスホテルズ＆リゾーツ）</td>
@@ -314,7 +316,7 @@ export default function HokkaidoBudgetGuide() {
                 <td className="p-3 text-stone-600">１泊1,500円（先着順・予約不可）※詳細情報のその他欄をご確認下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（2109件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67259%2F67259.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67259%2F67259.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 函館・湯の川温泉　ホテル万惣（オリックスホテルズ＆リゾーツ）</td>
@@ -323,7 +325,7 @@ export default function HokkaidoBudgetGuide() {
                 <td className="p-3 text-stone-600">有り 90台 無料 予約不要 （マイクロバス・キャンピングカー可）</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（1309件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,950〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F151068%2F151068.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F151068%2F151068.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルグローバルビュー函館（旧天然温泉　ホテルパコ函館）</td>
@@ -332,7 +334,7 @@ export default function HokkaidoBudgetGuide() {
                 <td className="p-3 text-stone-600">青空駐車場200台以上完備★　1泊550円（税込）※トラック・バス等の大型車不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（7055件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,496〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50746%2F50746.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50746%2F50746.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 天然温泉　漁火の湯　スーパーホテル函館</td>
@@ -341,7 +343,7 @@ export default function HokkaidoBudgetGuide() {
                 <td className="p-3 text-stone-600">有り　４２台　５００円（税込み／泊）　当日来館先着到着順のご案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（1844件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F69326%2F69326.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F69326%2F69326.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

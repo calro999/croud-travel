@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-snow-fireworks-festivals/" },
-  title: "夜空の芸術：冬の雪上花火＆湖畔温泉ホテル 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "夜空の芸術：冬の雪上花火＆湖畔温泉ホテル 厳選ガイド",
   description: "澄んだ冬空に響く大迫力の轟音！山梨・河口湖冬花火、静岡・熱海海上花火大会（冬の部）、岐阜・下呂温泉花火ミュージカル、栃木・奥日光中禅寺湖など、客室や露天風呂から花火を仰ぐ人気宿を徹底解説。",
   keywords: ["夜空の芸術", "冬の雪上花火", "湖畔温泉ホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "夜空の芸術：冬の雪上花火＆湖畔温泉ホテル 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "夜空の芸術：冬の雪上花火＆湖畔温泉ホテル 厳選ガイド",
     description: "澄んだ冬空に響く大迫力の轟音！山梨・河口湖冬花火、静岡・熱海海上花火大会（冬の部）、岐阜・下呂温泉花火ミュージカル、栃木・奥日光中禅寺湖など、客室や露天風呂から花火を仰ぐ人気宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "夜空の芸術：冬の雪上花火＆湖畔温泉ホテル 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "夜空の芸術：冬の雪上花火＆湖畔温泉ホテル 厳選ガイド",
     description: "澄んだ冬空に響く大迫力の轟音！山梨・河口湖冬花火、静岡・熱海海上花火大会（冬の部）、岐阜・下呂温泉花火ミュージカル、栃木・奥日光中禅寺湖など、客室や露天風呂から花火を仰ぐ人気宿を徹底解説。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

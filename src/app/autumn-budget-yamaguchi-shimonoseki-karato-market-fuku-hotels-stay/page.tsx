@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetFeaturePage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"下関：唐戸市場の秋ふく・海鮮握り＆関門海峡絶景！2,000円台〜泊まれる格安ホテル5選\",\"description\":\"関門海峡の秋風と唐戸市場の活気！旬の天然とらふぐや新鮮握り寿司、関門人道トンネル散策。下関駅・唐戸周辺で1泊2,000円台〜3,000円台から泊まれる格安・高コスパホテル5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-yamaguchi-shimonoseki-karato-market-fuku-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"下関：唐戸市場の秋ふく・海鮮握り＆関門海峡絶景！2,000円台〜泊まれる格安ホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-yamaguchi-shimonoseki-karato-market-fuku-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"下関：唐戸市場の秋ふく・海鮮握り＆関門海峡絶景！2,000円台〜泊まれる格安ホテル5選\",\"numberOfItems\":9,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ヴィアイン下関＜維新の湯＞（ＪＲ西日本グループ）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-yamaguchi-shimonoseki-karato-market-fuku-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"下関グランドホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-yamaguchi-shimonoseki-karato-market-fuku-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"プラザホテル下関\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-yamaguchi-shimonoseki-karato-market-fuku-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"スカイハートホテル下関\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-yamaguchi-shimonoseki-karato-market-fuku-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"ＫＯＫＯ　ＳＴＡＹ　下関\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-yamaguchi-shimonoseki-karato-market-fuku-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"角島大橋（つのしまおおはし）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-yamaguchi-shimonoseki-karato-market-fuku-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"元乃隅神社（もとのすみじんじゃ）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-yamaguchi-shimonoseki-karato-market-fuku-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"秋吉台・秋芳洞（あきよしだい・あきよしどう）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-yamaguchi-shimonoseki-karato-market-fuku-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"錦帯橋（きんたいきょう）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-yamaguchi-shimonoseki-karato-market-fuku-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -448,7 +452,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">近隣の提携駐車場をご案内させていただきます</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（1014件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,010〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178561%2F178561.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178561%2F178561.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 下関グランドホテル</td>
@@ -457,7 +461,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1556件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7013%2F7013.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7013%2F7013.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. プラザホテル下関</td>
@@ -466,7 +470,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">600円/日　ご宿泊予約時に備考欄に記載ください。※記載がない場合はお取りできません。ご了承ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（1547件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9134%2F9134.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9134%2F9134.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. スカイハートホテル下関</td>
@@ -475,7 +479,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">有り　37台　無料　先着順 （満車になり次第、有料駐車場へのご案内）</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（1194件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,050〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15701%2F15701.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15701%2F15701.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＫＯＫＯ　ＳＴＡＹ　下関</td>
@@ -484,7 +488,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">平面駐車場先着順（普通車700円〜）／大型車事前電話予約必須￥1400〜￥2800</td>
                 <td className="p-3 font-bold text-amber-600">★3.86（1557件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,921〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4831%2F4831.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4831%2F4831.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -661,6 +665,9 @@ export default function AutumnBudgetFeaturePage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-yamaguchi-shimonoseki-karato-market-fuku-hotels-stay" />
+        </div>
 
       </main>
   );

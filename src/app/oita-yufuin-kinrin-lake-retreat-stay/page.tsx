@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/oita-yufuin-kinrin-lake-retreat-stay/" },
-  title: "大分・由布院＆金鱗湖：朝霧の湖・離れ客室露天宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "大分・由布院＆金鱗湖：朝霧の湖・離れ客室露天宿 厳選ガイド",
   description: "湯布院のシンボル「金鱗湖」の幻想的な冬の朝霧、豊後富士「由布岳」を仰ぐ大自然、お洒落なショップやアートカフェが連なる「湯の坪街道」、全室離れ・客室露天風呂付きの隠れ家高級旅館を徹底解説。憧れの由布院ステイを厳選。",
   keywords: ["大分", "由布院", "金鱗湖", "朝霧の湖", "離れ客室露天宿", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "大分・由布院＆金鱗湖：朝霧の湖・離れ客室露天宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "大分・由布院＆金鱗湖：朝霧の湖・離れ客室露天宿 厳選ガイド",
     description: "湯布院のシンボル「金鱗湖」の幻想的な冬の朝霧、豊後富士「由布岳」を仰ぐ大自然、お洒落なショップやアートカフェが連なる「湯の坪街道」、全室離れ・客室露天風呂付きの隠れ家高級旅館を徹底解説。憧れの由布院ステイを厳選。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "大分・由布院＆金鱗湖：朝霧の湖・離れ客室露天宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "大分・由布院＆金鱗湖：朝霧の湖・離れ客室露天宿 厳選ガイド",
     description: "湯布院のシンボル「金鱗湖」の幻想的な冬の朝霧、豊後富士「由布岳」を仰ぐ大自然、お洒落なショップやアートカフェが連なる「湯の坪街道」、全室離れ・客室露天風呂付きの隠れ家高級旅館を徹底解説。憧れの由布院ステイを厳選。",
   }
 };
@@ -214,7 +214,7 @@ export default function MicroTouristHubPage() {
                           <a
                             href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                             target="_blank"
-                            rel="noopener noreferrer"
+                            rel="sponsored noopener noreferrer"
                             className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-teal-700 to-teal-800 hover:from-teal-600 hover:to-teal-700 rounded-xl shadow transition"
                           >
                             ✈️ 楽天トラベルで宿泊プラン・空室を見る

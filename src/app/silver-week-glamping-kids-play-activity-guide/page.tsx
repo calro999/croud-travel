@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-kids-play-activity-guide/" },
-  title: "子連れグランピング巨大遊具＆体験付き：アスレチック・動物ふれあい・収穫体験で子供が大はしゃぎ！ ｜ 日本全国・旅宿クラウド",
+  title: "子連れグランピング巨大遊具＆体験付き：アスレチック・動物ふれあい・収穫体験で子供が大はしゃぎ！",
   description:
     "子供が1日中遊び尽くせる体験型グランピング特集！ツリーハウスアスレチック、ヤギやウサギとのふれあい牧場、秋のサツマイモ・栗拾い体験、ピザ窯焼き体験ができるファミリー向け施設徹底比較。",
   keywords: ["子連れグランピング巨大遊具", "体験付き", "アスレチック", "動物ふれあい", "収穫体験で子供が大はしゃぎ！", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "子連れグランピング巨大遊具＆体験付き：アスレチック・動物ふれあい・収穫体験で子供が大はしゃぎ！ ｜ 日本全国・旅宿クラウド",
+    title: "子連れグランピング巨大遊具＆体験付き：アスレチック・動物ふれあい・収穫体験で子供が大はしゃぎ！",
     description: "子供が1日中遊び尽くせる体験型グランピング特集！ツリーハウスアスレチック、ヤギやウサギとのふれあい牧場、秋のサツマイモ・栗拾い体験、ピザ窯焼き体験ができるファミリー向け施設徹底比較。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "子連れグランピング巨大遊具＆体験付き：アスレチック・動物ふれあい・収穫体験で子供が大はしゃぎ！ ｜ 日本全国・旅宿クラウド",
+    title: "子連れグランピング巨大遊具＆体験付き：アスレチック・動物ふれあい・収穫体験で子供が大はしゃぎ！",
     description: "子供が1日中遊び尽くせる体験型グランピング特集！ツリーハウスアスレチック、ヤギやウサギとのふれあい牧場、秋のサツマイモ・栗拾い体験、ピザ窯焼き体験ができるファミリー向け施設徹底比較。",
   }
 };
@@ -169,6 +169,8 @@ export default function SilverWeekGlampingKidsPlayActivityPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 
       {/* ヒーローセクション（Amber/Warm Orange パレット） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-amber-950 via-amber-900 to-stone-900 text-white p-8 md:p-14 shadow-2xl border border-amber-600/30">
@@ -341,7 +343,7 @@ export default function SilverWeekGlampingKidsPlayActivityPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="inline-flex items-center justify-center px-4 py-2.5 bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5 shrink-0"
                   >
                     楽天トラベルで空室確認 ✈️

@@ -24,13 +24,13 @@ interface Post {
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "金沢旅行 完全計画ガイド：1泊2日・2泊3日モデルコース＆観光・海鮮グルメ・車なし徒歩案内・おすすめホテル ｜ 旅宿クラウド",
+  title: "金沢旅行 完全計画ガイド：1泊2日・2泊3日モデルコース＆観光・海鮮グルメ・車なし徒歩案内・おすすめホテル",
   description:
     "金沢旅行の計画をステップバイステップで完全サポート！金沢の魅力、1泊2日/2泊3日モデルコース、車なし徒歩観光、兼六園（所要時間）・近江町市場（食べ歩き）・ひがし茶屋街・21世紀美術館、のどぐろ＆寿司ランチ、雨の日・雪の観光法から楽天トラベルで予約できるおすすめホテル・温泉宿まで網羅。",
   keywords: ["金沢旅行", "完全計画ガイド", "1泊2日", "2泊3日モデルコース", "観光", "海鮮グルメ", "車なし徒歩案内"],
   alternates: { canonical: "https://croud-travel.pages.dev/kanazawa/" },
   openGraph: {
-    title: "金沢旅行 完全計画サポートガイド ｜ 旅宿クラウド",
+    title: "金沢旅行 完全計画サポートガイド",
     description: "金沢旅行を思い立った瞬間から宿泊予約まで。モデルコース・車なし散策・海鮮グルメ・おすすめホテル徹底比較。",
     url: "https://croud-travel.pages.dev/kanazawa",
     siteName: "旅宿クラウド",
@@ -133,12 +133,14 @@ export default function KanazawaGuidePage() {
   return (
     <div className="space-y-12 max-w-5xl mx-auto">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdFaq) }} />
 
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/prefectures/ishikawa" className="hover:text-teal-800 transition">石川県</Link>
+        <Link href="/prefectures/ishikawa/" className="hover:text-teal-800 transition">石川県</Link>
         <span>/</span>
         <span className="text-emerald-950 font-bold">金沢旅行 完全計画ガイド</span>
       </nav>
@@ -570,7 +572,7 @@ export default function KanazawaGuidePage() {
         </p>
         <div className="flex flex-wrap justify-center gap-4 pt-2">
           <Link
-            href="/prefectures/ishikawa"
+            href="/prefectures/ishikawa/"
             className="px-8 py-3 text-xs font-bold text-white bg-teal-800 hover:bg-teal-700 rounded-xl shadow transition"
           >
             🗾 石川県・金沢の観光ハブへ戻る

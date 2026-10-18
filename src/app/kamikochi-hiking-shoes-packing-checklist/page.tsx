@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kamikochi-hiking-shoes-packing-checklist/" },
-  title: "上高地ハイキング 服装と靴のリアル失敗談：スニーカーで大丈夫？大正池〜河童橋で後悔しない持ち物完全版 ｜ 日本全国・旅宿クラウド",
+  title: "上高地ハイキング 服装と靴のリアル失敗談：スニーカーで大丈夫？大正池〜河童橋で後悔しない持ち物完全版",
   description: "上高地散策でよくある失敗を徹底解説！普通のスニーカー vs トレッキングシューズの境界線、山の急な天候変化に対応するレイヤリング（重ね着）、熊鈴や雨具の必要性、松本駅前・大正池ホテル宿泊情報。",
   keywords: ["上高地ハイキング", "服装と靴のリアル失敗談", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: "上高地ハイキング 服装と靴のリアル失敗談：スニーカーで大丈夫？大正池〜河童橋で後悔しない持ち物完全版 ｜ 日本全国・旅宿クラウド",
+    title: "上高地ハイキング 服装と靴のリアル失敗談：スニーカーで大丈夫？大正池〜河童橋で後悔しない持ち物完全版",
     description: "上高地散策でよくある失敗を徹底解説！普通のスニーカー vs トレッキングシューズの境界線、山の急な天候変化に対応するレイヤリング（重ね着）、熊鈴や雨具の必要性、松本駅前・大正池ホテル宿泊情報。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "上高地ハイキング 服装と靴のリアル失敗談：スニーカーで大丈夫？大正池〜河童橋で後悔しない持ち物完全版 ｜ 日本全国・旅宿クラウド",
+    title: "上高地ハイキング 服装と靴のリアル失敗談：スニーカーで大丈夫？大正池〜河童橋で後悔しない持ち物完全版",
     description: "上高地散策でよくある失敗を徹底解説！普通のスニーカー vs トレッキングシューズの境界線、山の急な天候変化に対応するレイヤリング（重ね着）、熊鈴や雨具の必要性、松本駅前・大正池ホテル宿泊情報。",
   }
 };
@@ -309,7 +309,7 @@ export default function KamikochiPackingChecklistPage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcamp%2F50coupon%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="bg-white text-emerald-900 hover:bg-emerald-50 font-black px-6 py-3.5 rounded-full text-sm shadow-md transition-all shrink-0 text-center"
           >
             楽天トラベルクーポンを獲得 →
@@ -385,7 +385,7 @@ export default function KamikochiPackingChecklistPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="bg-emerald-700 hover:bg-emerald-800 text-white text-xs md:text-sm font-bold px-5 py-2.5 rounded-full shadow transition-colors"
                   >
                     楽天トラベルで空室・プランを見る →

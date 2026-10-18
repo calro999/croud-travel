@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の福岡・博多×格安：太宰府の紅葉と中洲屋台グルメ！天然温泉＆大浴場付き1泊6,000円台〜のコスパ最強ホテル5選「2026最新」',
     description: '太宰府天満宮の紅葉と中洲屋台グルメ！大浴場・温泉付き1泊6,000円台〜のコスパ最強博多ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-budget-fukuoka-hakata-gourmet-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-fukuoka-hakata-gourmet-onsen-hotels-stay',
   }
 };
 
 export default function FukuokaBudgetAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の福岡・博多×格安：太宰府の紅葉と中洲屋台グルメ！天然温泉＆大浴場付き1泊6,000円台〜のコスパ最強ホテル5選「2026最新」\",\"description\":\"太宰府天満宮や竈門神社の鮮やかな紅葉散策と、夜の中洲・天神屋台めぐり（もつ鍋・水炊き・豚骨ラーメン）！歩き疲れた身体を癒やす天然温泉や大浴場付きで1泊6,000円〜7,000円台の高評価ホテル5選。八百治博多、ホテル・トリフィートなど厳選宿を徹底比較！\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukuoka-hakata-gourmet-onsen-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の福岡・博多×格安：太宰府の紅葉と中洲屋台グルメ！天然温泉＆大浴場付き1泊6,000円台〜のコスパ最強ホテル5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-fukuoka-hakata-gourmet-onsen-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の福岡・博多×格安：太宰府の紅葉と中洲屋台グルメ！天然温泉＆大浴場付き1泊6,000円台〜のコスパ最強ホテル5選「2026最新」\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"博多秋旅の観光アドバイス\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukuoka-hakata-gourmet-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ホテル・トリフィート博多祇園\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukuoka-hakata-gourmet-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"スーパーホテルＰｒｅｍｉｅｒ博多駅・筑紫口天然温泉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukuoka-hakata-gourmet-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ＫＯＫＯ　ＨＯＴＥＬ　博多新幹線口\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukuoka-hakata-gourmet-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"アパホテル＆リゾート〈博多駅東〉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukuoka-hakata-gourmet-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"天然温泉　八百治の湯　八百治博多ホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukuoka-hakata-gourmet-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"太宰府天満宮\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukuoka-hakata-gourmet-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"糸島（桜井二見ヶ浦）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukuoka-hakata-gourmet-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"門司港レトロ\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukuoka-hakata-gourmet-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"中洲の屋台街\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukuoka-hakata-gourmet-onsen-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/180583/180583.jpg"
@@ -142,7 +146,7 @@ export default function FukuokaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180583%2F180583.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function FukuokaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F163065%2F163065.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function FukuokaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F161262%2F161262.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function FukuokaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182017%2F182017.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function FukuokaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5012%2F5012.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function FukuokaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">有り（屋外/高さ制限無し）　7台　1980円（税込み/泊）　先着順（事前予約不可）</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（767件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,850〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180583%2F180583.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180583%2F180583.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. スーパーホテルＰｒｅｍｉｅｒ博多駅・筑紫口天然温泉</td>
@@ -396,7 +400,7 @@ export default function FukuokaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">7台分（事前予約制） 1泊2，000円 ※高さ制限なし 　　近隣にコインパーキング多数あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（2085件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F163065%2F163065.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F163065%2F163065.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＫＯＫＯ　ＨＯＴＥＬ　博多新幹線口</td>
@@ -405,7 +409,7 @@ export default function FukuokaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">提携駐車場有　里馨(リカ)パーキング(24時間1500円の駐車券をフロント販売、当館から徒歩3分）</td>
                 <td className="p-3 font-bold text-amber-600">★3.97（346件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,940〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F161262%2F161262.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F161262%2F161262.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アパホテル＆リゾート〈博多駅東〉</td>
@@ -414,7 +418,7 @@ export default function FukuokaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">11台有、1,500円 / 1泊（15：00～翌11：00）※連泊の場合24時間　※予約不可先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.1（912件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182017%2F182017.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182017%2F182017.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 天然温泉　八百治の湯　八百治博多ホテル</td>
@@ -423,7 +427,7 @@ export default function FukuokaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">契約駐車場　1,500円（税込）/14時～翌日14時</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（4564件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,450〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5012%2F5012.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5012%2F5012.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -600,6 +604,9 @@ export default function FukuokaBudgetAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-fukuoka-hakata-gourmet-onsen-hotels-stay" />
+        </div>
 
       </article>
   );

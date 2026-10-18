@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の別府温泉×格安：地獄めぐりと鶴見岳紅葉！源泉かけ流し1泊3,000円台〜のコスパ最強おすすめ宿5選「2026最新」',
     description: '湧出量日本一の別府温泉！源泉かけ流し温泉付き1泊3,000円台〜のコスパ最強おすすめ宿5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-budget-oita-beppu-onsen-hopping-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-oita-beppu-onsen-hopping-hotels-stay',
   }
 };
 
 export default function BeppuBudgetAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の別府温泉×格安：地獄めぐりと鶴見岳紅葉！源泉かけ流し1泊3,000円台〜のコスパ最強おすすめ宿5選「2026最新」\",\"description\":\"湧出量日本一を誇るおんせん県おおいた・別府温泉！鶴見岳ロープウェイの紅葉パノラマと湯けむり立ちのぼる地獄めぐり。源泉かけ流し温泉付きで1泊3,000円〜6,000円台で泊まれる格安名宿5選。ホテルニューツルタ、清海荘など徹底比較！\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-onsen-hopping-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の別府温泉×格安：地獄めぐりと鶴見岳紅葉！源泉かけ流し1泊3,000円台〜のコスパ最強おすすめ宿5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-onsen-hopping-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の別府温泉×格安：地獄めぐりと鶴見岳紅葉！源泉かけ流し1泊3,000円台〜のコスパ最強おすすめ宿5選「2026最新」\",\"numberOfItems\":9,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"別府温泉　天空湯房　清海荘\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-onsen-hopping-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"別府温泉　ホテルニューツルタ\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-onsen-hopping-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"別府温泉　別府ステーションホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-onsen-hopping-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"別府観光ホテルエース\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-onsen-hopping-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"別府温泉　ホテル三泉閣\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-onsen-hopping-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"別府地獄めぐり\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-onsen-hopping-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"由布院（金鱗湖・辻馬車）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-onsen-hopping-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"九重“夢”大吊橋\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-onsen-hopping-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"宇佐神宮\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-oita-beppu-onsen-hopping-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/28628/28628.jpg"
@@ -142,7 +146,7 @@ export default function BeppuBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1938%2F1938.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function BeppuBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9243%2F9243.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function BeppuBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F189223%2F189223.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function BeppuBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28628%2F28628.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function BeppuBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196409%2F196409.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function BeppuBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">有り　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（631件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28628%2F28628.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28628%2F28628.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 別府温泉　ホテルニューツルタ</td>
@@ -396,7 +400,7 @@ export default function BeppuBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">入庫後21時間：最大700円・駐車場は有料＆先着順。満車の場合はご利用いただけないことがございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（1215件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1938%2F1938.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1938%2F1938.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 別府温泉　別府ステーションホテル</td>
@@ -405,7 +409,7 @@ export default function BeppuBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">専用ならびに契約駐車場有り　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（2398件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9243%2F9243.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9243%2F9243.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 別府観光ホテルエース</td>
@@ -414,7 +418,7 @@ export default function BeppuBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">有り：普通車34台、軽自動車2台 駐車可能　※無料　ご予約は不要です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（26件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,630〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F189223%2F189223.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F189223%2F189223.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 別府温泉　ホテル三泉閣</td>
@@ -423,7 +427,7 @@ export default function BeppuBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">有り（500円／泊）予約不可・先着順。※トキハ駐車場は途中出庫不可・チェックイン時に駐車券を要提示</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（216件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,710〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196409%2F196409.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196409%2F196409.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -600,6 +604,9 @@ export default function BeppuBudgetAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-oita-beppu-onsen-hopping-hotels-stay" />
+        </div>
 
       </article>
   );

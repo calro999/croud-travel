@@ -28,19 +28,19 @@ interface RakutenCategoryData {
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "福岡・博多旅行 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆博多駅・天神・中洲屋台・もつ鍋水炊きグルメ・温泉宿 ｜ 旅宿クラウド",
+  title: "福岡・博多旅行 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆博多駅・天神・中洲屋台・もつ鍋水炊きグルメ・温泉宿",
   description:
     "福岡・博多旅行の計画を完全サポート！1泊2日/2泊3日モデルコース、中洲屋台・もつ鍋・ラーメン食べ歩き、博多駅直結ホテル、明太子朝食バイキング宿から温泉旅館までおすすめの宿泊プランまで徹底網羅。",
   keywords: ["福岡", "博多旅行", "完全計画ガイド", "2026", "1泊2日", "2泊3日モデルコース", "博多駅"],
   alternates: { canonical: "https://croud-travel.pages.dev/fukuoka/" },
   openGraph: {
-    title: "福岡・博多旅行 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆博多駅・天神・中洲屋台・もつ鍋水炊きグルメ・温泉宿 ｜ 旅宿クラウド",
+    title: "福岡・博多旅行 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆博多駅・天神・中洲屋台・もつ鍋水炊きグルメ・温泉宿",
     description: "福岡・博多旅行の計画を完全サポート！1泊2日/2泊3日モデルコース、中洲屋台・もつ鍋・ラーメン食べ歩き、博多駅直結ホテル、明太子朝食バイキング宿から温泉旅館までおすすめの宿泊プランまで徹底網羅。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "福岡・博多旅行 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆博多駅・天神・中洲屋台・もつ鍋水炊きグルメ・温泉宿 ｜ 旅宿クラウド",
+    title: "福岡・博多旅行 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆博多駅・天神・中洲屋台・もつ鍋水炊きグルメ・温泉宿",
     description: "福岡・博多旅行の計画を完全サポート！1泊2日/2泊3日モデルコース、中洲屋台・もつ鍋・ラーメン食べ歩き、博多駅直結ホテル、明太子朝食バイキング宿から温泉旅館までおすすめの宿泊プランまで徹底網羅。",
   }
 };
@@ -90,7 +90,7 @@ export default function FukuokaHubPage() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/prefectures/fukuoka" className="hover:text-teal-800 transition">福岡県</Link>
+        <Link href="/prefectures/fukuoka/" className="hover:text-teal-800 transition">福岡県</Link>
         <span>/</span>
         <span className="text-emerald-950 font-bold">福岡・博多旅行 完全ガイド</span>
       </nav>
@@ -148,7 +148,7 @@ export default function FukuokaHubPage() {
                   </div>
                 </div>
                 <div className="p-4 pt-0">
-                  <a href={hotel.affiliateUrl} target="_blank" rel="noopener noreferrer" className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-red-700 to-red-800 hover:from-red-600 hover:to-red-700 rounded-xl shadow transition">
+                  <a href={hotel.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer" className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-red-700 to-red-800 hover:from-red-600 hover:to-red-700 rounded-xl shadow transition">
                     ✈️ 楽天トラベルで空室・プランを見る
                   </a>
                 </div>
@@ -188,7 +188,7 @@ export default function FukuokaHubPage() {
                 <td className="p-3 text-stone-600">11台有、1,500円 / 1泊（15：00～翌11：00）※連泊の場合24時間　※予約不可先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.1（912件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182017%2F182017.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182017%2F182017.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＦＯＲＺＡ　ホテルフォルツァ博多駅筑紫口Ⅰ</td>
@@ -197,7 +197,7 @@ export default function FukuokaHubPage() {
                 <td className="p-3 text-stone-600">当ホテルには専用駐車場のご用意がなく、また提携駐車場もございません。</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（3527件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F170%2F170.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F170%2F170.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. FORZA　ホテルフォルツァ博多駅博多口</td>
@@ -206,7 +206,7 @@ export default function FukuokaHubPage() {
                 <td className="p-3 text-stone-600">ございません</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（737件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158367%2F158367.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158367%2F158367.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＦＯＲＺＡ　ホテルフォルツァ博多駅筑紫口II</td>
@@ -215,7 +215,7 @@ export default function FukuokaHubPage() {
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（64件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177813%2F177813.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177813%2F177813.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ワシントンＲ＆Ｂホテル博多駅前第２</td>
@@ -224,7 +224,7 @@ export default function FukuokaHubPage() {
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（1125件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166968%2F166968.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166968%2F166968.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ９ＨＯＴＥＬ　ＨＡＫＡＴＡ</td>
@@ -233,7 +233,7 @@ export default function FukuokaHubPage() {
                 <td className="p-3 text-stone-600">なし</td>
                 <td className="p-3 font-bold text-amber-600">★3.77（213件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177846%2F177846.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177846%2F177846.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

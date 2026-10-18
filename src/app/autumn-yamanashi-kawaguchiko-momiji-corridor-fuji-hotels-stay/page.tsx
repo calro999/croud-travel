@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の河口湖：もみじ回廊の紅葉まつりと富士山絶景！レイクサイド温泉を満喫するおすすめ名宿5選「2026最新」',
     description: '古川沿いに続く真紅の巨木アーチ「もみじ回廊」のライトアップと富士山絶景！極上レイクビュー宿5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay',
   }
 };
 
 export default function KawaguchikoAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の河口湖：もみじ回廊の紅葉まつりと富士山絶景！レイクサイド温泉を満喫するおすすめ名宿5選「2026最新」\",\"description\":\"古川沿いに続く真紅の巨木アーチ「もみじ回廊」の幻想的なライトアップと、冠雪した富士山を望む秋の河口湖！富士河口湖温泉の極上レイクビュー宿5選。湖南荘、ホテル鐘山苑、うぶやの魅力を徹底比較！\",\"url\":\"https://croud-travel.pages.dev/autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の河口湖：もみじ回廊の紅葉まつりと富士山絶景！レイクサイド温泉を満喫するおすすめ名宿5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の河口湖：もみじ回廊の紅葉まつりと富士山絶景！レイクサイド温泉を満喫するおすすめ名宿5選「2026最新」\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"河口湖紅葉まつりの観光アドバイス\",\"url\":\"https://croud-travel.pages.dev/autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"富士河口湖温泉　湖南荘\",\"url\":\"https://croud-travel.pages.dev/autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"庭園と感動の宿　富士山温泉　ホテル鐘山苑\",\"url\":\"https://croud-travel.pages.dev/autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"河口湖温泉　うぶや\",\"url\":\"https://croud-travel.pages.dev/autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"富士河口湖温泉　富士山の見える温泉旅館　大池ホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"ホテルマイステイズ富士山　展望温泉\",\"url\":\"https://croud-travel.pages.dev/autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"富士山（吉田ルート/五合目）\",\"url\":\"https://croud-travel.pages.dev/autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"新倉山浅間公園（忠霊塔）\",\"url\":\"https://croud-travel.pages.dev/autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"富士五湖（河口湖）\",\"url\":\"https://croud-travel.pages.dev/autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"勝沼ぶどうの丘\",\"url\":\"https://croud-travel.pages.dev/autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/31111/31111.jpg"
@@ -142,7 +146,7 @@ export default function KawaguchikoAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31111%2F31111.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function KawaguchikoAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19206%2F19206.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function KawaguchikoAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8053%2F8053.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function KawaguchikoAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2946%2F2946.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function KawaguchikoAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158471%2F158471.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function KawaguchikoAutumnPage() {
                 <td className="p-3 text-stone-600">有　4０台　無料　県営駐車場</td>
                 <td className="p-3 font-bold text-amber-600">★4.8（1824件）</td>
                 <td className="p-3 font-bold text-rose-600">¥27,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31111%2F31111.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31111%2F31111.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 庭園と感動の宿　富士山温泉　ホテル鐘山苑</td>
@@ -396,7 +400,7 @@ export default function KawaguchikoAutumnPage() {
                 <td className="p-3 text-stone-600">有り　5００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.69（1165件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19206%2F19206.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19206%2F19206.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 河口湖温泉　うぶや</td>
@@ -405,7 +409,7 @@ export default function KawaguchikoAutumnPage() {
                 <td className="p-3 text-stone-600">有り　50台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（725件）</td>
                 <td className="p-3 font-bold text-rose-600">¥34,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8053%2F8053.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8053%2F8053.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 富士河口湖温泉　富士山の見える温泉旅館　大池ホテル</td>
@@ -414,7 +418,7 @@ export default function KawaguchikoAutumnPage() {
                 <td className="p-3 text-stone-600">無料駐車場50台・河口湖駅からの無料送迎有・バイク専用の駐車場無・富士急ハイランドまで車で7分</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（5587件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2946%2F2946.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2946%2F2946.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルマイステイズ富士山　展望温泉</td>
@@ -423,7 +427,7 @@ export default function KawaguchikoAutumnPage() {
                 <td className="p-3 text-stone-600">有　７４台　無料　事前のご連絡不要　空いてる区画スペースにお停めください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（1136件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,290〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158471%2F158471.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158471%2F158471.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -600,6 +604,9 @@ export default function KawaguchikoAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay" />
+        </div>
 
       </article>
   );

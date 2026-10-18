@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/christmas-date-onsen-dinner-trip-guide/" },
-  title: "クリスマスお泊まりデートおすすめ：イルミネーション×温泉×極上ディナーで過ごす冬の記念日旅 ｜ 日本全国・旅宿クラウド",
+  title: "クリスマスお泊まりデートおすすめ：イルミネーション×温泉×極上ディナーで過ごす冬の記念日旅",
   description:
     "クリスマスに泊まりたい憧れのデートプラン！軽井沢の星空キャンドルナイト＆暖炉付きリゾート、みなとみらい夜景一望ホテル、雪見露天風呂とローストビーフ懐石を味わう温泉旅館徹底比較。",
   keywords: ["温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: "クリスマスお泊まりデートおすすめ：イルミネーション×温泉×極上ディナーで過ごす冬の記念日旅 ｜ 日本全国・旅宿クラウド",
+    title: "クリスマスお泊まりデートおすすめ：イルミネーション×温泉×極上ディナーで過ごす冬の記念日旅",
     description: "クリスマスに泊まりたい憧れのデートプラン！軽井沢の星空キャンドルナイト＆暖炉付きリゾート、みなとみらい夜景一望ホテル、雪見露天風呂とローストビーフ懐石を味わう温泉旅館徹底比較。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "クリスマスお泊まりデートおすすめ：イルミネーション×温泉×極上ディナーで過ごす冬の記念日旅 ｜ 日本全国・旅宿クラウド",
+    title: "クリスマスお泊まりデートおすすめ：イルミネーション×温泉×極上ディナーで過ごす冬の記念日旅",
     description: "クリスマスに泊まりたい憧れのデートプラン！軽井沢の星空キャンドルナイト＆暖炉付きリゾート、みなとみらい夜景一望ホテル、雪見露天風呂とローストビーフ懐石を味わう温泉旅館徹底比較。",
   }
 };
@@ -337,7 +337,7 @@ export default function ChristmasDateOnsenDinnerTripGuidePage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-indigo-700 via-indigo-800 to-slate-900 hover:from-indigo-800 hover:to-slate-950 text-white font-black px-6 py-3.5 rounded-xl shadow-md hover:shadow-lg transition-all duration-200 text-sm group/btn cursor-pointer"
                     >
                       <span>楽天トラベルで空室・プランを見る</span>

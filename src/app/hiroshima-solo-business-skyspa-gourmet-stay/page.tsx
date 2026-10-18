@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: 'T02:40:00+09:00',
-    dateModified: 'T02:40:00+09:00',
+    datePublished: '2026-10-18T02:40:00+09:00',
+    dateModified: '2026-10-19T02:40:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/hiroshima-solo-business-skyspa-gourmet-stay',
   };
 
@@ -171,7 +171,7 @@ export default function ArticlePage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F111269%2F111269.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="w-full sm:w-auto text-center bg-gradient-to-r from-red-600 to-red-700 hover:from-red-700 hover:to-red-800 text-white font-bold text-sm px-6 py-3 rounded-xl shadow-md transition-all duration-200"
                   >
                     楽天トラベルで空室・プランを見る →
@@ -246,7 +246,7 @@ export default function ArticlePage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165795%2F165795.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="w-full sm:w-auto text-center bg-gradient-to-r from-red-600 to-red-700 hover:from-red-700 hover:to-red-800 text-white font-bold text-sm px-6 py-3 rounded-xl shadow-md transition-all duration-200"
                   >
                     楽天トラベルで空室・プランを見る →
@@ -321,7 +321,7 @@ export default function ArticlePage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11381%2F11381.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="w-full sm:w-auto text-center bg-gradient-to-r from-red-600 to-red-700 hover:from-red-700 hover:to-red-800 text-white font-bold text-sm px-6 py-3 rounded-xl shadow-md transition-all duration-200"
                   >
                     楽天トラベルで空室・プランを見る →
@@ -484,7 +484,7 @@ export default function ArticlePage() {
                 <td className="p-3 text-stone-600">当ホテルに駐車場はございません。最寄りのアクティブインターシティー駐車場をご利用下さい</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（1558件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F111269%2F111269.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F111269%2F111269.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）広島八丁堀</td>
@@ -493,7 +493,7 @@ export default function ArticlePage() {
                 <td className="p-3 text-stone-600">ホテル駐車場は無し、近隣に立体駐車場（提携ではない）あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（1722件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165795%2F165795.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165795%2F165795.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 安芸の湯　ドーミーイン広島（２０２６年５月１日リニューアルＯＰＥＮ）</td>
@@ -502,7 +502,7 @@ export default function ArticlePage() {
                 <td className="p-3 text-stone-600">先着順の提携駐車場　1泊￥1500（途中入出庫不可）　車体制限有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（5844件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,825〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11381%2F11381.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11381%2F11381.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

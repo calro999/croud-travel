@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選「2026最新」',
     description: '伊香保温泉屈指の紅葉名所「河鹿橋」の真紅のライトアップと365段の石段街。茶褐色の名湯「黄金の湯」を満喫！',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay',
   }
 };
 
 export default function IkahoOnsenAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選「2026最新」\",\"description\":\"伊香保温泉屈指の紅葉名所「河鹿橋」の真紅のライトアップと365段の石段街。茶褐色の名湯「黄金の湯」と透明な「白銀の湯」を満喫できる厳選宿5選。香雲館、和心の宿大森、ホテル松本楼など人気旅館を徹底比較！\",\"url\":\"https://croud-travel.pages.dev/autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選「2026最新」\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"伊香保温泉旅の散策のコツ\",\"url\":\"https://croud-travel.pages.dev/autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"伊香保温泉　香雲館\",\"url\":\"https://croud-travel.pages.dev/autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"伊香保温泉　和心の宿　大森\",\"url\":\"https://croud-travel.pages.dev/autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"伊香保温泉　ホテル松本楼\",\"url\":\"https://croud-travel.pages.dev/autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"伊香保温泉　温泉宿　塚越屋七兵衛\",\"url\":\"https://croud-travel.pages.dev/autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"伊香保温泉　いかほ秀水園\",\"url\":\"https://croud-travel.pages.dev/autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"草津温泉（湯畑）\",\"url\":\"https://croud-travel.pages.dev/autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"伊香保温泉（石段街）\",\"url\":\"https://croud-travel.pages.dev/autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"富岡製糸場\",\"url\":\"https://croud-travel.pages.dev/autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"吹割の滝（ふきわれのたき）\",\"url\":\"https://croud-travel.pages.dev/autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/70871/70871.jpg"
@@ -142,7 +146,7 @@ export default function IkahoOnsenAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70871%2F70871.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function IkahoOnsenAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10737%2F10737.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function IkahoOnsenAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19271%2F19271.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function IkahoOnsenAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7170%2F7170.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function IkahoOnsenAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F80783%2F80783.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function IkahoOnsenAutumnPage() {
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.83（331件）</td>
                 <td className="p-3 font-bold text-rose-600">¥28,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70871%2F70871.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70871%2F70871.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 伊香保温泉　和心の宿　大森</td>
@@ -396,7 +400,7 @@ export default function IkahoOnsenAutumnPage() {
                 <td className="p-3 text-stone-600">有り　80台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（1542件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10737%2F10737.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10737%2F10737.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 伊香保温泉　ホテル松本楼</td>
@@ -405,7 +409,7 @@ export default function IkahoOnsenAutumnPage() {
                 <td className="p-3 text-stone-600">有り　100台　無料　余裕有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（3311件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19271%2F19271.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19271%2F19271.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 伊香保温泉　温泉宿　塚越屋七兵衛</td>
@@ -414,7 +418,7 @@ export default function IkahoOnsenAutumnPage() {
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（889件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,010〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7170%2F7170.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7170%2F7170.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 伊香保温泉　いかほ秀水園</td>
@@ -423,7 +427,7 @@ export default function IkahoOnsenAutumnPage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（573件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F80783%2F80783.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F80783%2F80783.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -600,6 +604,9 @@ export default function IkahoOnsenAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay" />
+        </div>
 
       </article>
   );

@@ -725,7 +725,7 @@ export default function IseshimaWinterPage() {
           </div>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs sm:text-sm">
             <Link 
-              href="/prefectures/mie" 
+              href="/prefectures/mie/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-amber-50 hover:text-amber-700 transition font-medium border border-stone-100"
             >
               三重県の温泉宿・ホテル一覧 →
@@ -743,19 +743,19 @@ export default function IseshimaWinterPage() {
               冬の伊勢海老グルメ宿特集 →
             </Link>
             <Link 
-              href="/prefectures/aichi" 
+              href="/prefectures/aichi/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-amber-50 hover:text-amber-700 transition font-medium border border-stone-100"
             >
               愛知県（知多・蒲郡）の宿 →
             </Link>
             <Link 
-              href="/prefectures/kyoto" 
+              href="/prefectures/kyoto/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-amber-50 hover:text-amber-700 transition font-medium border border-stone-100"
             >
               京都府の旅館・名宿一覧 →
             </Link>
             <Link 
-              href="/prefectures/shiga" 
+              href="/prefectures/shiga/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-amber-50 hover:text-amber-700 transition font-medium border border-stone-100"
             >
               滋賀県（おごと温泉等）の宿 →

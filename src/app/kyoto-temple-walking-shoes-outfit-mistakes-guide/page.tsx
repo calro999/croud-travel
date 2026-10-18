@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kyoto-temple-walking-shoes-outfit-mistakes-guide/" },
-  title: "京都寺社巡り 靴と服装の失敗談まとめ：1日2万歩で足崩壊＆靴の脱ぎ履き地獄を回避するスマート参拝術 ｜ 日本全国・旅宿クラウド",
+  title: "京都寺社巡り 靴と服装の失敗談まとめ：1日2万歩で足崩壊＆靴の脱ぎ履き地獄を回避するスマート参拝術",
   description: "京都観光で多くの人が後悔するポイントを徹底分析！靴紐を結ぶ靴で行って拝観ごとに大渋滞、冬の板の間で足裏底冷え、夏の日傘マナー、スリッポン選びのコツと歩き疲れた足を癒やす大浴場付き京都ホテル。",
   keywords: ["京都寺社巡り", "靴と服装の失敗談まとめ", "1日2万歩で足崩壊", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "京都寺社巡り 靴と服装の失敗談まとめ：1日2万歩で足崩壊＆靴の脱ぎ履き地獄を回避するスマート参拝術 ｜ 日本全国・旅宿クラウド",
+    title: "京都寺社巡り 靴と服装の失敗談まとめ：1日2万歩で足崩壊＆靴の脱ぎ履き地獄を回避するスマート参拝術",
     description: "京都観光で多くの人が後悔するポイントを徹底分析！靴紐を結ぶ靴で行って拝観ごとに大渋滞、冬の板の間で足裏底冷え、夏の日傘マナー、スリッポン選びのコツと歩き疲れた足を癒やす大浴場付き京都ホテル。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "京都寺社巡り 靴と服装の失敗談まとめ：1日2万歩で足崩壊＆靴の脱ぎ履き地獄を回避するスマート参拝術 ｜ 日本全国・旅宿クラウド",
+    title: "京都寺社巡り 靴と服装の失敗談まとめ：1日2万歩で足崩壊＆靴の脱ぎ履き地獄を回避するスマート参拝術",
     description: "京都観光で多くの人が後悔するポイントを徹底分析！靴紐を結ぶ靴で行って拝観ごとに大渋滞、冬の板の間で足裏底冷え、夏の日傘マナー、スリッポン選びのコツと歩き疲れた足を癒やす大浴場付き京都ホテル。",
   }
 };
@@ -359,7 +359,7 @@ export default function KyotoTempleWalkingShoesGuidePage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="block w-full text-center py-2.5 text-xs font-black text-white bg-teal-600 hover:bg-teal-500 rounded-xl transition shadow"
                     >
                       ♨️ 楽天トラベルで大浴場＆宿泊プランを見る
@@ -489,25 +489,25 @@ export default function KyotoTempleWalkingShoesGuidePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/gifu"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tochigi"
+                href="/prefectures/tochigi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 栃木県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ishikawa"
+                href="/prefectures/ishikawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 石川県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ehime"
+                href="/prefectures/ehime/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 愛媛県の宿・温泉

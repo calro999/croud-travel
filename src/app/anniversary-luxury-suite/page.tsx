@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/anniversary-luxury-suite/" },
-  title: "記念日・誕生日：客室露天風呂＆贅沢スイート極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "記念日・誕生日：客室露天風呂＆贅沢スイート極上宿 厳選ガイド",
   description: "大切な記念日、プロポーズ、ご両親へのプレゼントに。箱根・伊豆の離れ露天風呂付き客室、京都の極上ラグジュアリーホテル、東京の高層階夜景スイートなど最高峰の宿泊体験を完全網羅。",
   keywords: ["記念日", "誕生日", "客室露天風呂", "贅沢スイート極上宿", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "記念日・誕生日：客室露天風呂＆贅沢スイート極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "記念日・誕生日：客室露天風呂＆贅沢スイート極上宿 厳選ガイド",
     description: "大切な記念日、プロポーズ、ご両親へのプレゼントに。箱根・伊豆の離れ露天風呂付き客室、京都の極上ラグジュアリーホテル、東京の高層階夜景スイートなど最高峰の宿泊体験を完全網羅。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "記念日・誕生日：客室露天風呂＆贅沢スイート極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "記念日・誕生日：客室露天風呂＆贅沢スイート極上宿 厳選ガイド",
     description: "大切な記念日、プロポーズ、ご両親へのプレゼントに。箱根・伊豆の離れ露天風呂付き客室、京都の極上ラグジュアリーホテル、東京の高層階夜景スイートなど最高峰の宿泊体験を完全網羅。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

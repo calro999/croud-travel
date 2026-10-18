@@ -7,17 +7,17 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/usj-family-hotel-near-osaka-guide/" },
-  title: "子連れUSJホテルおすすめ比較：オフィシャルホテル徒歩1分 vs 梅田・なんば駅チカ宿！家族旅行厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "子連れUSJホテルおすすめ比較：オフィシャルホテル徒歩1分 vs 梅田・なんば駅チカ宿！家族旅行厳選ガイド",
   description: "子連れでユニバーサル・スタジオ・ジャパンを満喫するためのホテル選び！パーク徒歩1分のオフィシャルホテルで開園待ち＆疲れたら昼寝できるメリット vs 大阪観光も兼ねた梅田・なんばのファミリー向けホテルを徹底比較。",
   keywords: ["子連れUSJホテルおすすめ比較", "オフィシャルホテル徒歩1分", "vs", "梅田", "なんば駅チカ宿！家族旅行", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "子連れUSJホテルおすすめ比較：オフィシャルホテル徒歩1分 vs 梅田・なんば駅チカ宿！家族旅行厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "子連れUSJホテルおすすめ比較：オフィシャルホテル徒歩1分 vs 梅田・なんば駅チカ宿！家族旅行厳選ガイド",
     description: "子連れでユニバーサル・スタジオ・ジャパンを満喫するためのホテル選び！パーク徒歩1分のオフィシャルホテルで開園待ち＆疲れたら昼寝できるメリット vs 大阪観光も兼ねた梅田・なんばのファミリー向けホテルを徹底比較。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "子連れUSJホテルおすすめ比較：オフィシャルホテル徒歩1分 vs 梅田・なんば駅チカ宿！家族旅行厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "子連れUSJホテルおすすめ比較：オフィシャルホテル徒歩1分 vs 梅田・なんば駅チカ宿！家族旅行厳選ガイド",
     description: "子連れでユニバーサル・スタジオ・ジャパンを満喫するためのホテル選び！パーク徒歩1分のオフィシャルホテルで開園待ち＆疲れたら昼寝できるメリット vs 大阪観光も兼ねた梅田・なんばのファミリー向けホテルを徹底比較。",
   }
 };
@@ -382,7 +382,7 @@ export default function UsjFamilyHotelGuidePage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-gradient-to-r from-teal-600 via-teal-700 to-cyan-800 hover:from-teal-700 hover:to-cyan-900 text-white font-black text-sm px-6 py-3.5 rounded-xl shadow-md hover:shadow-lg transition-all duration-200 transform hover:-translate-y-0.5 text-center group cursor-pointer"
                   >
                     <span>楽天トラベルで空室・プランを見る</span>

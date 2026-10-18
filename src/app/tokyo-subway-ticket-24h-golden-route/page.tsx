@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-subway-ticket-24h-golden-route/" },
-  title: "東京メトロ24時間券 活用厳選ガイド：600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿 ｜ 日本全国・旅宿クラウド",
+  title: "東京メトロ24時間券 活用厳選ガイド：600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿",
   description:
     "始発から終電ではなく「使い始めから24時間有効」の東京メトロ24時間券（600円）！初乗り180円×4回で元が取れる。浅草・銀座・渋谷・六本木・新宿を効率よく巡る東京観光モデルコースと大浴場付きホテル。",
   keywords: ["東京メトロ24時間券", "活用", "駅チカ宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "東京メトロ24時間券 活用厳選ガイド：600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿 ｜ 日本全国・旅宿クラウド",
+    title: "東京メトロ24時間券 活用厳選ガイド：600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿",
     description: "始発から終電ではなく「使い始めから24時間有効」の東京メトロ24時間券（600円）！初乗り180円×4回で元が取れる。浅草・銀座・渋谷・六本木・新宿を効率よく巡る東京観光モデルコースと大浴場付きホテル。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "東京メトロ24時間券 活用厳選ガイド：600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿 ｜ 日本全国・旅宿クラウド",
+    title: "東京メトロ24時間券 活用厳選ガイド：600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿",
     description: "始発から終電ではなく「使い始めから24時間有効」の東京メトロ24時間券（600円）！初乗り180円×4回で元が取れる。浅草・銀座・渋谷・六本木・新宿を効率よく巡る東京観光モデルコースと大浴場付きホテル。",
   }
 };
@@ -434,7 +434,7 @@ export default function TokyoSubwayTicket24hPage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center px-4 py-2 bg-gradient-to-r from-cyan-600 to-sky-600 hover:from-cyan-700 hover:to-sky-700 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5"
                     >
                       空室・プラン確認
@@ -566,25 +566,25 @@ export default function TokyoSubwayTicket24hPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/gifu"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shizuoka"
+                href="/prefectures/shizuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 静岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/saga"
+                href="/prefectures/saga/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 佐賀県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shiga"
+                href="/prefectures/shiga/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 滋賀県の宿・温泉

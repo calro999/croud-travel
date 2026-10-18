@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-achi-hirugami-starry-stay/" },
-  title: "長野・阿智村＆昼神温泉：日本一の星空ナイトツアー・美肌名湯＆信州牛極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長野・阿智村＆昼神温泉：日本一の星空ナイトツアー・美肌名湯＆信州牛極上宿 厳選ガイド",
   description: "環境省認定「日本一の星空」長野阿智村＆昼神温泉エリア完全特化！天空の楽園ナイトツアー（ヘブンスそのはら）、pH9.7の強アルカリ性美肌温泉、春の花桃の里、信州プレミアム牛と隠れ家旅館を徹底解説。",
   keywords: ["長野", "阿智村", "昼神温泉", "日本一の星空ナイトツアー", "美肌名湯", "信州牛極上宿", "温泉宿"],
   openGraph: {
-    title: "長野・阿智村＆昼神温泉：日本一の星空ナイトツアー・美肌名湯＆信州牛極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "長野・阿智村＆昼神温泉：日本一の星空ナイトツアー・美肌名湯＆信州牛極上宿 厳選ガイド",
     description: "環境省認定「日本一の星空」長野阿智村＆昼神温泉エリア完全特化！天空の楽園ナイトツアー（ヘブンスそのはら）、pH9.7の強アルカリ性美肌温泉、春の花桃の里、信州プレミアム牛と隠れ家旅館を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "長野・阿智村＆昼神温泉：日本一の星空ナイトツアー・美肌名湯＆信州牛極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "長野・阿智村＆昼神温泉：日本一の星空ナイトツアー・美肌名湯＆信州牛極上宿 厳選ガイド",
     description: "環境省認定「日本一の星空」長野阿智村＆昼神温泉エリア完全特化！天空の楽園ナイトツアー（ヘブンスそのはら）、pH9.7の強アルカリ性美肌温泉、春の花桃の里、信州プレミアム牛と隠れ家旅館を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　70台　無料　予約不要 【EV・PHEV用の充電器1台あり(普通充電200V)】</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（845件）</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72733%2F72733.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72733%2F72733.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 昼神温泉　ユルイの宿　恵山</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（2818件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,750〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37440%2F37440.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37440%2F37440.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 昼神温泉　癒楽（ゆら）の宿　清風苑</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り：４０台（無料）ホテルの前と後にご用意がございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（1354件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5987%2F5987.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5987%2F5987.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 昼神温泉　石苔亭いしだ</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　３０台まで　屋外　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.71（330件）</td>
                 <td className="p-3 font-bold text-rose-600">¥36,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17720%2F17720.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17720%2F17720.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 昼神温泉　日長庵　桂月</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　30台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（599件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5624%2F5624.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5624%2F5624.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 昼神温泉郷　懐石と炉ばたの宿　吉弥</td>
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　4０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（550件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F51693%2F51693.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F51693%2F51693.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

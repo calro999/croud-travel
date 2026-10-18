@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kagawa-kotohira-konpira-shrine-sanuki-udon-stay/" },
-  title: "香川・琴平＆こんぴら温泉：金刀比羅宮・讃岐うどん＆名湯宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "香川・琴平＆こんぴら温泉：金刀比羅宮・讃岐うどん＆名湯宿 厳選ガイド",
   description: "「さぬきのこんぴらさん」金刀比羅宮の本宮785段・奥社1368段参拝、日本最古の芝居小屋「旧金毘羅大芝居（金丸座）」、本場讃岐うどん手打ち体験＆名店巡り、名湯「こんぴら温泉郷」を徹底解説。石段街の老舗旅館や庭園露天宿を厳選。",
   keywords: ["香川", "琴平", "こんぴら温泉", "金刀比羅宮", "讃岐うどん", "名湯宿", "温泉宿"],
   openGraph: {
-    title: "香川・琴平＆こんぴら温泉：金刀比羅宮・讃岐うどん＆名湯宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "香川・琴平＆こんぴら温泉：金刀比羅宮・讃岐うどん＆名湯宿 厳選ガイド",
     description: "「さぬきのこんぴらさん」金刀比羅宮の本宮785段・奥社1368段参拝、日本最古の芝居小屋「旧金毘羅大芝居（金丸座）」、本場讃岐うどん手打ち体験＆名店巡り、名湯「こんぴら温泉郷」を徹底解説。石段街の老舗旅館や庭園露天宿を厳選。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "香川・琴平＆こんぴら温泉：金刀比羅宮・讃岐うどん＆名湯宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "香川・琴平＆こんぴら温泉：金刀比羅宮・讃岐うどん＆名湯宿 厳選ガイド",
     description: "「さぬきのこんぴらさん」金刀比羅宮の本宮785段・奥社1368段参拝、日本最古の芝居小屋「旧金毘羅大芝居（金丸座）」、本場讃岐うどん手打ち体験＆名店巡り、名湯「こんぴら温泉郷」を徹底解説。石段街の老舗旅館や庭園露天宿を厳選。",
   }
 };
@@ -214,7 +214,7 @@ export default function MicroTouristHubPage() {
                           <a
                             href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                             target="_blank"
-                            rel="noopener noreferrer"
+                            rel="sponsored noopener noreferrer"
                             className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-teal-700 to-teal-800 hover:from-teal-600 hover:to-teal-700 rounded-xl shadow transition"
                           >
                             ✈️ 楽天トラベルで宿泊プラン・空室を見る

@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-historic-sake-highway-brewery-walk-stay/" },
-  title: "日本銘酒街道・酒蔵の町並み巡り宿：灘・西条・伏見・魚沼・諏訪街道 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "日本銘酒街道・酒蔵の町並み巡り宿：灘・西条・伏見・魚沼・諏訪街道 厳選ガイド",
   description: "白壁土蔵と杉玉が揺れる歴史の酒蔵通り！日本屈指の銘酒街道巡り＆温泉宿完全特化！兵庫灘五郷（有馬温泉）、広島西条酒蔵通り、京都伏見酒蔵水辺散策、新潟魚沼銘酒街道、長野諏訪甲州街道、歴史的蔵元見学と門前町ステイを徹底解説。",
   keywords: ["日本銘酒街道", "酒蔵の町並み巡り宿", "西条", "伏見", "魚沼", "諏訪街道", "温泉宿"],
   openGraph: {
-    title: "日本銘酒街道・酒蔵の町並み巡り宿：灘・西条・伏見・魚沼・諏訪街道 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "日本銘酒街道・酒蔵の町並み巡り宿：灘・西条・伏見・魚沼・諏訪街道 厳選ガイド",
     description: "白壁土蔵と杉玉が揺れる歴史の酒蔵通り！日本屈指の銘酒街道巡り＆温泉宿完全特化！兵庫灘五郷（有馬温泉）、広島西条酒蔵通り、京都伏見酒蔵水辺散策、新潟魚沼銘酒街道、長野諏訪甲州街道、歴史的蔵元見学と門前町ステイを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "日本銘酒街道・酒蔵の町並み巡り宿：灘・西条・伏見・魚沼・諏訪街道 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "日本銘酒街道・酒蔵の町並み巡り宿：灘・西条・伏見・魚沼・諏訪街道 厳選ガイド",
     description: "白壁土蔵と杉玉が揺れる歴史の酒蔵通り！日本屈指の銘酒街道巡り＆温泉宿完全特化！兵庫灘五郷（有馬温泉）、広島西条酒蔵通り、京都伏見酒蔵水辺散策、新潟魚沼銘酒街道、長野諏訪甲州街道、歴史的蔵元見学と門前町ステイを徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function SakeTourismHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-700 to-stone-800 hover:from-amber-600 hover:to-stone-700 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

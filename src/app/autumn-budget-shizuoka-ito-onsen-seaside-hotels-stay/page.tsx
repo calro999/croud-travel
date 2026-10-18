@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の伊東温泉×格安：伊豆高原の紅葉とオーシャンビュー！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」',
     description: '東京から特急で一本！相模湾の海の幸と源泉かけ流し温泉付き1泊4,000円台〜のコスパ最強おすすめ宿5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay',
   }
 };
 
 export default function ItoBudgetAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の伊東温泉×格安：伊豆高原の紅葉とオーシャンビュー！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」\",\"description\":\"東京から踊り子号で一本！相模湾を望む伊東温泉と大室山・一碧湖の紅葉散策。源泉かけ流しの美肌温泉や海の幸バイキング付きでも1泊4,000円〜7,000円台で泊まれる格安名宿5選。ホテルよしの、ラヴィエ川良、松川館などを徹底比較！\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の伊東温泉×格安：伊豆高原の紅葉とオーシャンビュー！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の伊東温泉×格安：伊豆高原の紅葉とオーシャンビュー！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"伊東温泉の秋旅アドバイス\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"伊東温泉　ホテル　ラヴィエ川良\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"伊東温泉　伊東園ホテル松川館\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"富士宮　富士急ホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"ハイセットホテル静岡インター\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"熱海温泉　月の栖　熱海聚楽ホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"三島スカイウォーク\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"熱海温泉・サンビーチ\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"伊豆シャボテン動物公園\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"白糸の滝\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/14377/14377.jpg"
@@ -142,7 +146,7 @@ export default function ItoBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F145449%2F145449.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function ItoBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14377%2F14377.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function ItoBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30912%2F30912.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function ItoBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F78235%2F78235.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function ItoBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10798%2F10798.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function ItoBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（1982件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14377%2F14377.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14377%2F14377.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 伊東温泉　伊東園ホテル松川館</td>
@@ -396,7 +400,7 @@ export default function ItoBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">有り　４０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.84（787件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,248〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F78235%2F78235.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F78235%2F78235.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 富士宮　富士急ホテル</td>
@@ -405,7 +409,7 @@ export default function ItoBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">有（先着順）30台 有料  乗用車1泊1台600円(税込)。</td>
                 <td className="p-3 font-bold text-amber-600">★3.84（764件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F210%2F210.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F210%2F210.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ハイセットホテル静岡インター</td>
@@ -414,7 +418,7 @@ export default function ItoBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">普通車まで無料でお停めいただけます。※大型車（2t車以上）は事前の申込みが必要です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（1970件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,510〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F619%2F619.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F619%2F619.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 熱海温泉　月の栖　熱海聚楽ホテル</td>
@@ -423,7 +427,7 @@ export default function ItoBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">有り（有料）１泊　1760円（税込）　お車は当館の玄関前に直接お寄せください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（2598件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F859%2F859.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F859%2F859.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -600,6 +604,9 @@ export default function ItoBudgetAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay" />
+        </div>
 
       </article>
   );

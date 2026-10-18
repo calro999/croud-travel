@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-shigakogen-shibutoge-stay/" },
-  title: "長野・志賀高原＆渋峠：日本国道最高地点・雲海テラス＆パウダースノー極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長野・志賀高原＆渋峠：日本国道最高地点・雲海テラス＆パウダースノー極上宿 厳選ガイド",
   description: "長野・上信越高原国立公園エリア完全特化！日本国道最高地点（標高2,172m）の渋峠、SORA terraceの雲海、志賀高原18スキー場ビッグゲレンデ、熊の湯温泉の濃厚緑色硫黄泉と高原山岳リゾートを徹底解説。",
   keywords: ["長野", "志賀高原", "渋峠", "日本国道最高地点", "雲海テラス", "パウダースノー極上宿", "温泉宿"],
   openGraph: {
-    title: "長野・志賀高原＆渋峠：日本国道最高地点・雲海テラス＆パウダースノー極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "長野・志賀高原＆渋峠：日本国道最高地点・雲海テラス＆パウダースノー極上宿 厳選ガイド",
     description: "長野・上信越高原国立公園エリア完全特化！日本国道最高地点（標高2,172m）の渋峠、SORA terraceの雲海、志賀高原18スキー場ビッグゲレンデ、熊の湯温泉の濃厚緑色硫黄泉と高原山岳リゾートを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "長野・志賀高原＆渋峠：日本国道最高地点・雲海テラス＆パウダースノー極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "長野・志賀高原＆渋峠：日本国道最高地点・雲海テラス＆パウダースノー極上宿 厳選ガイド",
     description: "長野・上信越高原国立公園エリア完全特化！日本国道最高地点（標高2,172m）の渋峠、SORA terraceの雲海、志賀高原18スキー場ビッグゲレンデ、熊の湯温泉の濃厚緑色硫黄泉と高原山岳リゾートを徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　20台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（58件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39261%2F39261.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39261%2F39261.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 志賀高原熊の湯・硯川温泉　にごり湯の宿硯川ホテル</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有　６０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.83（491件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31423%2F31423.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31423%2F31423.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 熊の湯温泉　熊の湯ホテル</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有　２５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（252件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30840%2F30840.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30840%2F30840.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 志賀高原　ホテル一望閣</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　５０台。　当館前が満車の場合は徒歩３～４分の共同駐車場となります。共に無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.65（286件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7379%2F7379.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7379%2F7379.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 志賀高原発哺温泉　岩菅ホテル</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（56件）</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31838%2F31838.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31838%2F31838.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 志賀高原　ホテルタキモト</td>
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　１５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（55件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147144%2F147144.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147144%2F147144.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

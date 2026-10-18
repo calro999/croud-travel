@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/miyazaki-takachiho-gorge-myth-power-stay/" },
-  title: "宮崎・高千穂峡＆天岩戸：真名井の滝・天安河原＆神話宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "宮崎・高千穂峡＆天岩戸：真名井の滝・天安河原＆神話宿 厳選ガイド",
   description: "天孫降臨の地・神話の里「高千穂」！柱状節理の峡谷に水しぶきを上げる「真名井の滝」の手漕ぎボート、天照大神がお隠れになった「天岩戸神社」と八百万の神が集まった「天安河原」、毎夜奉納される高千穂夜神楽、最高峰高千穂牛を徹底解説。",
   keywords: ["宮崎", "高千穂峡", "天岩戸", "真名井の滝", "天安河原", "神話宿", "温泉宿"],
   openGraph: {
-    title: "宮崎・高千穂峡＆天岩戸：真名井の滝・天安河原＆神話宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "宮崎・高千穂峡＆天岩戸：真名井の滝・天安河原＆神話宿 厳選ガイド",
     description: "天孫降臨の地・神話の里「高千穂」！柱状節理の峡谷に水しぶきを上げる「真名井の滝」の手漕ぎボート、天照大神がお隠れになった「天岩戸神社」と八百万の神が集まった「天安河原」、毎夜奉納される高千穂夜神楽、最高峰高千穂牛を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "宮崎・高千穂峡＆天岩戸：真名井の滝・天安河原＆神話宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "宮崎・高千穂峡＆天岩戸：真名井の滝・天安河原＆神話宿 厳選ガイド",
     description: "天孫降臨の地・神話の里「高千穂」！柱状節理の峡谷に水しぶきを上げる「真名井の滝」の手漕ぎボート、天照大神がお隠れになった「天岩戸神社」と八百万の神が集まった「天安河原」、毎夜奉納される高千穂夜神楽、最高峰高千穂牛を徹底解説。",
   }
 };
@@ -214,7 +214,7 @@ export default function MicroTouristHubPage() {
                           <a
                             href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                             target="_blank"
-                            rel="noopener noreferrer"
+                            rel="sponsored noopener noreferrer"
                             className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-teal-700 to-teal-800 hover:from-teal-600 hover:to-teal-700 rounded-xl shadow transition"
                           >
                             ✈️ 楽天トラベルで宿泊プラン・空室を見る

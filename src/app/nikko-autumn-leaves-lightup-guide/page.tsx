@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nikko-autumn-leaves-lightup-guide/" },
-  title: "日光・いろは坂 紅葉2026見頃完全マップ：大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿 ｜ 日本全国・旅宿クラウド",
+  title: "日光・いろは坂 紅葉2026見頃完全マップ：大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿",
   description:
     "2026年秋の日光紅葉狩り完全攻略！いろは坂・明智平・竜頭の滝・湯ノ湖の見頃時期（10月上旬〜11月上旬）、早朝6時通過で大渋滞を回避する裏ワザ、中禅寺湖畔の乳白色硫黄泉旅館まとめ。",
   keywords: ["日光", "いろは坂", "紅葉2026見頃完全マップ", "大渋滞回避の時間帯", "中禅寺湖ライトアップ", "奥日光硫黄泉の宿", "温泉宿"],
   openGraph: {
-    title: "日光・いろは坂 紅葉2026見頃完全マップ：大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿 ｜ 日本全国・旅宿クラウド",
+    title: "日光・いろは坂 紅葉2026見頃完全マップ：大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿",
     description: "2026年秋の日光紅葉狩り完全攻略！いろは坂・明智平・竜頭の滝・湯ノ湖の見頃時期（10月上旬〜11月上旬）、早朝6時通過で大渋滞を回避する裏ワザ、中禅寺湖畔の乳白色硫黄泉旅館まとめ。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "日光・いろは坂 紅葉2026見頃完全マップ：大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿 ｜ 日本全国・旅宿クラウド",
+    title: "日光・いろは坂 紅葉2026見頃完全マップ：大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿",
     description: "2026年秋の日光紅葉狩り完全攻略！いろは坂・明智平・竜頭の滝・湯ノ湖の見頃時期（10月上旬〜11月上旬）、早朝6時通過で大渋滞を回避する裏ワザ、中禅寺湖畔の乳白色硫黄泉旅館まとめ。",
   }
 };
@@ -454,7 +454,7 @@ export default function NikkoAutumnLeavesGuidePage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-700 hover:to-amber-800 text-white font-bold py-2.5 px-4 rounded-xl text-xs sm:text-sm shadow hover:shadow-md transition-all duration-200"
                   >
                     空室確認・紅葉プランを予約 🍁
@@ -583,25 +583,25 @@ export default function NikkoAutumnLeavesGuidePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/hyogo"
+                href="/prefectures/hyogo/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 兵庫県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okinawa"
+                href="/prefectures/okinawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 沖縄県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/aomori"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/wakayama"
+                href="/prefectures/wakayama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 和歌山県の宿・温泉

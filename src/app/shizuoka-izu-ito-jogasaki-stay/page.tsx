@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-izu-ito-jogasaki-stay/" },
-  title: "静岡・伊豆伊東＆城ヶ崎海岸：門脇つり橋・大室山リフト＆東海館・地魚海鮮宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "静岡・伊豆伊東＆城ヶ崎海岸：門脇つり橋・大室山リフト＆東海館・地魚海鮮宿 厳選ガイド",
   description: "東伊豆の歴史と絶景・伊東温泉＆城ヶ崎海岸エリア完全特化！スリル満点の「門脇つり橋」、すり鉢状火口の「大室山リフト」、国登録有形文化財「東海館」、毎分3万リットルの湯量を誇る伊東温泉と伊豆地魚会席宿を徹底解説。",
   keywords: ["静岡", "伊豆伊東", "城ヶ崎海岸", "門脇つり橋", "大室山リフト", "東海館", "地魚海鮮宿"],
   openGraph: {
-    title: "静岡・伊豆伊東＆城ヶ崎海岸：門脇つり橋・大室山リフト＆東海館・地魚海鮮宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "静岡・伊豆伊東＆城ヶ崎海岸：門脇つり橋・大室山リフト＆東海館・地魚海鮮宿 厳選ガイド",
     description: "東伊豆の歴史と絶景・伊東温泉＆城ヶ崎海岸エリア完全特化！スリル満点の「門脇つり橋」、すり鉢状火口の「大室山リフト」、国登録有形文化財「東海館」、毎分3万リットルの湯量を誇る伊東温泉と伊豆地魚会席宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "静岡・伊豆伊東＆城ヶ崎海岸：門脇つり橋・大室山リフト＆東海館・地魚海鮮宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "静岡・伊豆伊東＆城ヶ崎海岸：門脇つり橋・大室山リフト＆東海館・地魚海鮮宿 厳選ガイド",
     description: "東伊豆の歴史と絶景・伊東温泉＆城ヶ崎海岸エリア完全特化！スリル満点の「門脇つり橋」、すり鉢状火口の「大室山リフト」、国登録有形文化財「東海館」、毎分3万リットルの湯量を誇る伊東温泉と伊豆地魚会席宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（1982件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14377%2F14377.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14377%2F14377.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 城ケ崎海岸と伊豆高原の間　Ｎｅｗ　Ｖｉｌｌａ　Ｎａｔｕｒａｌ　Ｑ．　＾</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">なし</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥12,760〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F195256%2F195256.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F195256%2F195256.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 貸別荘　大室山の角　＾</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥23,658〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F194361%2F194361.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F194361%2F194361.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ｔｈｅ　ｓａｌｏｎ　伊豆高原　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔ</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">10台（無料）駐車場はホテルの正面にございますので、空いているスペースにお停めください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（68件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,214〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172820%2F172820.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172820%2F172820.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. Ｒｅｓｏｒｔ　ｓｔａｙ　Ｂｏｗｅｎ～伊豆高原～</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">無料駐車場３台／予約不要／マイクロバス駐車可</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥3,928〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184583%2F184583.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184583%2F184583.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 伊東温泉　陽気館</td>
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　20台　無料　※カーナビは名称・電話ではなく住所（静岡県伊東市末広町1－21）で検索して下さい</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（702件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7473%2F7473.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7473%2F7473.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-bbq-empty-handed-guide/" },
-  title: "手ぶらBBQグランピングおすすめ：準備・片付け不要！黒毛和牛ステーキ＆海鮮が豪華すぎる秋のごちそう泊 ｜ 日本全国・旅宿クラウド",
+  title: "手ぶらBBQグランピングおすすめ：準備・片付け不要！黒毛和牛ステーキ＆海鮮が豪華すぎる秋のごちそう泊",
   description:
     "面倒な買い出し・火起こし・炭の後片付けは一切不要！シェフ監修の特選黒毛和牛サーロイン、オマール海老やアワビの海鮮グリル、地ビール飲み放題プラン付きの美食グランピング比較。女子旅や子連れに大人気。",
   keywords: ["準備", "片付け不要！黒毛和牛ステーキ", "海鮮が豪華すぎる秋のごちそう泊", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "手ぶらBBQグランピングおすすめ：準備・片付け不要！黒毛和牛ステーキ＆海鮮が豪華すぎる秋のごちそう泊 ｜ 日本全国・旅宿クラウド",
+    title: "手ぶらBBQグランピングおすすめ：準備・片付け不要！黒毛和牛ステーキ＆海鮮が豪華すぎる秋のごちそう泊",
     description: "面倒な買い出し・火起こし・炭の後片付けは一切不要！シェフ監修の特選黒毛和牛サーロイン、オマール海老やアワビの海鮮グリル、地ビール飲み放題プラン付きの美食グランピング比較。女子旅や子連れに大人気。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "手ぶらBBQグランピングおすすめ：準備・片付け不要！黒毛和牛ステーキ＆海鮮が豪華すぎる秋のごちそう泊 ｜ 日本全国・旅宿クラウド",
+    title: "手ぶらBBQグランピングおすすめ：準備・片付け不要！黒毛和牛ステーキ＆海鮮が豪華すぎる秋のごちそう泊",
     description: "面倒な買い出し・火起こし・炭の後片付けは一切不要！シェフ監修の特選黒毛和牛サーロイン、オマール海老やアワビの海鮮グリル、地ビール飲み放題プラン付きの美食グランピング比較。女子旅や子連れに大人気。",
   }
 };
@@ -169,6 +169,8 @@ export default function SilverWeekGlampingBbqEmptyHandedPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 
       {/* ヒーローセクション（Amberパレット） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-stone-950 via-amber-950 to-stone-900 text-white p-8 md:p-14 shadow-2xl border border-amber-500/20">
@@ -344,7 +346,7 @@ export default function SilverWeekGlampingBbqEmptyHandedPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="inline-flex items-center justify-center px-4 py-2.5 bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5 shrink-0"
                   >
                     楽天トラベルで空室確認 ✈️

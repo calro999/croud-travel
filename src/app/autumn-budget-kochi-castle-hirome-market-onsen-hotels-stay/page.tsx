@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の高知×格安：高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
     description: '高知城の紅葉とひろめ市場の戻りカツオ！大浴場付き1泊3,000円〜6,000円台のコスパ最強高知ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay',
   }
 };
 
 export default function KochiBudgetAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の高知×格安：高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」\",\"description\":\"追手門と天守が一枚の写真に収まる名城・高知城の秋紅葉と、日曜市・ひろめ市場の戻りカツオ藁焼きタタキ！大浴場やサウナ完備で1泊3,000円〜6,000円台で泊まれる高知市内の格安ホテル5選。サウスブリーズホテル、ホテル高砂などを徹底比較！\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の高知×格安：高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の高知×格安：高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"高知旅行のおすすめアクティビティ\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ホテル高砂＜高知県＞\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"サウスブリーズホテル　高知海月\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ホテルベストプライス高知\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"亀の井ホテル　高知\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"スーパーホテル高知\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"桂浜（坂本龍馬像）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"高知城\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"四万十川（沈下橋）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"柏島（かしわじま）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/16087/16087.jpg"
@@ -142,7 +146,7 @@ export default function KochiBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8682%2F8682.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function KochiBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182859%2F182859.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function KochiBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16087%2F16087.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function KochiBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44261%2F44261.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function KochiBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40671%2F40671.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function KochiBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">先着順25台/駐車料金：1000円、大型・中型バス、ＲＶ車も可(バス等は料金が異なります)</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（691件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16087%2F16087.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16087%2F16087.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. サウスブリーズホテル　高知海月</td>
@@ -396,7 +400,7 @@ export default function KochiBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">車５００円（トラック・大型車・キャンピングカー駐車不可）バイク３００円お車の鍵をお預かりし移動有り。</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（2991件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,570〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8682%2F8682.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8682%2F8682.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルベストプライス高知</td>
@@ -405,7 +409,7 @@ export default function KochiBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">屋根付駐車場を【500円／1泊・先着順】でご利用いただけます。（台数に限りがございます）</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（696件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,085〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182859%2F182859.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182859%2F182859.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 亀の井ホテル　高知</td>
@@ -414,7 +418,7 @@ export default function KochiBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">有り（１５０台／無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（1118件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,770〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44261%2F44261.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44261%2F44261.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. スーパーホテル高知</td>
@@ -423,7 +427,7 @@ export default function KochiBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">予約不可※1泊800円(15:00〜翌10：00)　ご到着順にフロントにて駐車場所を指定</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（2963件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40671%2F40671.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40671%2F40671.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -600,6 +604,9 @@ export default function KochiBudgetAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay" />
+        </div>
 
       </article>
   );

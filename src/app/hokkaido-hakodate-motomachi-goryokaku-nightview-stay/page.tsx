@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-hakodate-motomachi-goryokaku-nightview-stay/" },
-  title: "北海道・函館＆五稜郭：世界三大夜景・星形城郭＆朝市海鮮宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "北海道・函館＆五稜郭：世界三大夜景・星形城郭＆朝市海鮮宿 厳選ガイド",
   description: "函館山からの100万ドルの世界三大夜景、星形稜堡を誇る特別史跡「五稜郭」、元町の洋館・赤レンガ倉庫群、名湯「湯の川温泉」、函館朝市の活イカ釣りと豪華朝食バイキングホテルを徹底解説。",
   keywords: ["北海道", "函館", "五稜郭", "世界三大夜景", "星形城郭", "朝市海鮮宿", "温泉宿"],
   openGraph: {
-    title: "北海道・函館＆五稜郭：世界三大夜景・星形城郭＆朝市海鮮宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "北海道・函館＆五稜郭：世界三大夜景・星形城郭＆朝市海鮮宿 厳選ガイド",
     description: "函館山からの100万ドルの世界三大夜景、星形稜堡を誇る特別史跡「五稜郭」、元町の洋館・赤レンガ倉庫群、名湯「湯の川温泉」、函館朝市の活イカ釣りと豪華朝食バイキングホテルを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "北海道・函館＆五稜郭：世界三大夜景・星形城郭＆朝市海鮮宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "北海道・函館＆五稜郭：世界三大夜景・星形城郭＆朝市海鮮宿 厳選ガイド",
     description: "函館山からの100万ドルの世界三大夜景、星形稜堡を誇る特別史跡「五稜郭」、元町の洋館・赤レンガ倉庫群、名湯「湯の川温泉」、函館朝市の活イカ釣りと豪華朝食バイキングホテルを徹底解説。",
   }
 };
@@ -214,7 +214,7 @@ export default function MicroTouristHubPage() {
                           <a
                             href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                             target="_blank"
-                            rel="noopener noreferrer"
+                            rel="sponsored noopener noreferrer"
                             className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-teal-700 to-teal-800 hover:from-teal-600 hover:to-teal-700 rounded-xl shadow transition"
                           >
                             ✈️ 楽天トラベルで宿泊プラン・空室を見る

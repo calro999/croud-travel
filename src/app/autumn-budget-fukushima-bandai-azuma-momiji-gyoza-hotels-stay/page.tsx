@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetFukushimaHotelsPage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"福島：磐梯吾妻スカイラインの絶景紅葉と円盤餃子！格安ホテル5選\",\"description\":\"天空の紅葉ロード「磐梯吾妻スカイライン」のパノラマ絶景と、パリパリ香ばしい名物「福島円盤餃子」！福島駅周辺で1泊2,000円台〜4,000円台で泊まれる格安・高評価ホテル厳選5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukushima-bandai-azuma-momiji-gyoza-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"福島：磐梯吾妻スカイラインの絶景紅葉と円盤餃子！格安ホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-fukushima-bandai-azuma-momiji-gyoza-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"福島：磐梯吾妻スカイラインの絶景紅葉と円盤餃子！格安ホテル5選\",\"numberOfItems\":9,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"福島駅東口から徒歩３分　ホテル板倉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukushima-bandai-azuma-momiji-gyoza-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"アパホテル〈福島駅前〉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukushima-bandai-azuma-momiji-gyoza-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"リッチモンドホテル福島駅前\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukushima-bandai-azuma-momiji-gyoza-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ＪＲ東日本ホテルメッツ福島\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukushima-bandai-azuma-momiji-gyoza-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"ＨＯＴＥＬ　ＳＡＮＫＹＯ　ＦＵＫＵＳＨＩＭＡ　ホテルサンキョウフクシマ\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukushima-bandai-azuma-momiji-gyoza-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"大内宿\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukushima-bandai-azuma-momiji-gyoza-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"鶴ヶ城（会津若松城）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukushima-bandai-azuma-momiji-gyoza-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"五色沼湖沼群（裏磐梯）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukushima-bandai-azuma-momiji-gyoza-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"猪苗代湖\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-fukushima-bandai-azuma-momiji-gyoza-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -133,7 +137,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181826%2F181826.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181826%2F181826.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -173,7 +177,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F160664%2F160664.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F160664%2F160664.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -213,7 +217,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67908%2F67908.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67908%2F67908.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -253,7 +257,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F42001%2F42001.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F42001%2F42001.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -293,7 +297,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
               </div>
             </div>
             <div className="pt-2">
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165575%2F165575.html" target="_blank" rel="noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-center rounded-xl transition shadow-sm">
+              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165575%2F165575.html" target="_blank" rel="sponsored noopener noreferrer" className="block w-full py-3 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold text-center rounded-xl transition shadow-sm">
                 楽天トラベルでプラン・空室を見る
               </a>
             </div>
@@ -354,7 +358,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                 <td className="p-3 text-stone-600">普通車30台まで駐車可能（1室につき1台まで）、大型車（全長8m）2台まで。大型車は有料、要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（193件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,950〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181826%2F181826.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181826%2F181826.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アパホテル〈福島駅前〉</td>
@@ -363,7 +367,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                 <td className="p-3 text-stone-600">近隣大型コインパーキング有【提携外】　フロントで近隣パーキングの場所をご案内しております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（2199件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,690〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F160664%2F160664.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F160664%2F160664.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. リッチモンドホテル福島駅前</td>
@@ -372,7 +376,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                 <td className="p-3 text-stone-600">専用駐車場無：提携駐車場700円　満車時は周辺駐車場にて現地精算お願いします</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（4465件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67908%2F67908.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67908%2F67908.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＪＲ東日本ホテルメッツ福島</td>
@@ -381,7 +385,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                 <td className="p-3 text-stone-600">150台可、1泊1台1,000円</td>
                 <td className="p-3 font-bold text-amber-600">★4.13（2970件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F42001%2F42001.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F42001%2F42001.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＨＯＴＥＬ　ＳＡＮＫＹＯ　ＦＵＫＵＳＨＩＭＡ　ホテルサンキョウフクシマ</td>
@@ -390,7 +394,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                 <td className="p-3 text-stone-600">立体駐車場118台／先着順／1泊税込1000円／車高制限有155cm迄※RV・ワゴン車は提携駐車場</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（1101件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165575%2F165575.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165575%2F165575.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -567,6 +571,9 @@ export default function AutumnBudgetFukushimaHotelsPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-fukushima-bandai-azuma-momiji-gyoza-hotels-stay" />
+        </div>
 
       </main>
   );

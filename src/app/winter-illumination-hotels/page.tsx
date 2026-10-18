@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-illumination-hotels/" },
-  title: "冬の夜景：イルミネーション＆クリスマス絶景ホテル 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "冬の夜景：イルミネーション＆クリスマス絶景ホテル 厳選ガイド",
   description: "光り輝く冬の絶景！丸の内・六本木（東京）、ハウステンボス光の王国（長崎）、中之島・御堂筋（大阪）、あしかがフラワーパーク（栃木）など、幻想的なイルミネーションを満喫できる人気ホテルを徹底解説。",
   keywords: ["冬の夜景", "イルミネーション", "クリスマス絶景ホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "冬の夜景：イルミネーション＆クリスマス絶景ホテル 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "冬の夜景：イルミネーション＆クリスマス絶景ホテル 厳選ガイド",
     description: "光り輝く冬の絶景！丸の内・六本木（東京）、ハウステンボス光の王国（長崎）、中之島・御堂筋（大阪）、あしかがフラワーパーク（栃木）など、幻想的なイルミネーションを満喫できる人気ホテルを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "冬の夜景：イルミネーション＆クリスマス絶景ホテル 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "冬の夜景：イルミネーション＆クリスマス絶景ホテル 厳選ガイド",
     description: "光り輝く冬の絶景！丸の内・六本木（東京）、ハウステンボス光の王国（長崎）、中之島・御堂筋（大阪）、あしかがフラワーパーク（栃木）など、幻想的なイルミネーションを満喫できる人気ホテルを徹底解説。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

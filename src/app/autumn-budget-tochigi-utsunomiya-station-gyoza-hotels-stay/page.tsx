@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetUtsunomiyaStationHotelsPage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"宇都宮駅前：熱々宇都宮餃子ハシゴ旅＆大谷石散策！2,000円台〜泊まれる格安ホテル5選\",\"description\":\"パリッと香ばしい焼き餃子・水餃子のハシゴ旅と、幻想的な地下宮殿・大谷資料館散策！新幹線停車・宇都宮駅周辺で1泊2,000円台〜泊まれる超高コスパ格安ホテル厳選5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tochigi-utsunomiya-station-gyoza-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"宇都宮駅前：熱々宇都宮餃子ハシゴ旅＆大谷石散策！2,000円台〜泊まれる格安ホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-tochigi-utsunomiya-station-gyoza-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"宇都宮駅前：熱々宇都宮餃子ハシゴ旅＆大谷石散策！2,000円台〜泊まれる格安ホテル5選\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"関東七名城のひとつ・土塁と白壁の櫓が映える秋の城址\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tochigi-utsunomiya-station-gyoza-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ほてる寛楽プレミア　宇都宮駅東口（２０２６年７月３日ＯＰＥＮ）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tochigi-utsunomiya-station-gyoza-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"スマイルホテル宇都宮西口駅前\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tochigi-utsunomiya-station-gyoza-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"リッチモンドホテル宇都宮駅前\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tochigi-utsunomiya-station-gyoza-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"リッチモンドホテル宇都宮駅前アネックス\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tochigi-utsunomiya-station-gyoza-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"アパホテル〈宇都宮駅前〉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tochigi-utsunomiya-station-gyoza-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"日光東照宮\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tochigi-utsunomiya-station-gyoza-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"華厳の滝\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tochigi-utsunomiya-station-gyoza-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"あしかがフラワーパーク\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tochigi-utsunomiya-station-gyoza-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"那須高原\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tochigi-utsunomiya-station-gyoza-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -149,7 +153,7 @@ export default function AutumnBudgetUtsunomiyaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F199220%2F199220.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-500 hover:to-orange-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -204,7 +208,7 @@ export default function AutumnBudgetUtsunomiyaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177520%2F177520.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-500 hover:to-orange-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -259,7 +263,7 @@ export default function AutumnBudgetUtsunomiyaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37936%2F37936.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-500 hover:to-orange-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -314,7 +318,7 @@ export default function AutumnBudgetUtsunomiyaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108189%2F108189.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-500 hover:to-orange-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -369,7 +373,7 @@ export default function AutumnBudgetUtsunomiyaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30679%2F30679.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-500 hover:to-orange-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -429,7 +433,7 @@ export default function AutumnBudgetUtsunomiyaStationHotelsPage() {
                 <td className="p-3 text-stone-600">なし※提携コインパーキング有￥1500円/1泊(ファーストパーク宇都宮宮みらい第一または第三)</td>
                 <td className="p-3 font-bold text-amber-600">★4（253件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,820〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F199220%2F199220.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F199220%2F199220.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. スマイルホテル宇都宮西口駅前</td>
@@ -438,7 +442,7 @@ export default function AutumnBudgetUtsunomiyaStationHotelsPage() {
                 <td className="p-3 text-stone-600">提携駐車場をご用意しております。『駐車場のご案内』をご確認の上、ご利用下さいませ。</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（954件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,650〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177520%2F177520.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177520%2F177520.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. リッチモンドホテル宇都宮駅前</td>
@@ -447,7 +451,7 @@ export default function AutumnBudgetUtsunomiyaStationHotelsPage() {
                 <td className="p-3 text-stone-600">◇先着順◇立体駐車場：88台(ハイルーフ対応：20台)◇1泊税込1200円◇</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（5605件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37936%2F37936.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37936%2F37936.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. リッチモンドホテル宇都宮駅前アネックス</td>
@@ -456,7 +460,7 @@ export default function AutumnBudgetUtsunomiyaStationHotelsPage() {
                 <td className="p-3 text-stone-600">有り　72台(立体駐車場　全ハイルーフ車対応）　1,200円（税込み／泊）　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（3013件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108189%2F108189.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108189%2F108189.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. アパホテル〈宇都宮駅前〉</td>
@@ -465,7 +469,7 @@ export default function AutumnBudgetUtsunomiyaStationHotelsPage() {
                 <td className="p-3 text-stone-600">1,000円（税込）　15時〜翌11時　地下12台・屋外36台　先着順でのご案内です　※取り置き不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（2236件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30679%2F30679.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30679%2F30679.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -642,6 +646,9 @@ export default function AutumnBudgetUtsunomiyaStationHotelsPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-tochigi-utsunomiya-station-gyoza-hotels-stay" />
+        </div>
 
       </main>
   );

@@ -222,6 +222,8 @@ export default function HyogoTanbaSasayamaPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqStructuredData) }}
@@ -671,7 +673,7 @@ export default function HyogoTanbaSasayamaPage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fhotel%2Flist.html%3Ff_teikei%3Dtmp_kw_rt%26f_area%3D28_kansai%26f_keyword%3D%25E4%25B8%25B9%25E6%25B3%25A2%25E7%25AF%25A0%25E5%25B1%25B1"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-white text-rose-700 font-bold text-sm sm:text-base shadow-lg hover:shadow-xl hover:bg-rose-50 transition-all"
           >
             <span>丹波篠山の宿を楽天トラベルで探す</span>

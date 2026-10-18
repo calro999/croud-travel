@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の熊本×格安：熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」',
     description: '熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強熊本ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay',
   }
 };
 
 export default function KumamotoBudgetAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の熊本×格安：熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」\",\"description\":\"別名「銀杏城」と呼ばれる熊本城の黄金に輝く大イチョウと阿蘇大観峰のすすき草原！熊本ラーメンやあか牛グルメを満喫。サウナの聖地「湯らっくす」や天然温泉付きで1泊4,000円〜7,000円台で泊まれる熊本のコスパ最強ホテル5選をご紹介。レフ熊本、スーパーホテル熊本駅前などを徹底比較！\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の熊本×格安：熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の熊本×格安：熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"熊本秋旅の観光アドバイス\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"天然温泉　神水美肌の湯　スーパーホテル熊本駅前天然温泉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"天然温泉スーパーホテル熊本商工会議所前\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"グリーンリッチホテル水前寺(市立体育館前・水前寺公園入口前)\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"アークホテル熊本城前　－ルートインホテルズ－\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"熊本県庁前グリーンホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"日本三名城 熊本城\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"阿蘇山（草千里ヶ浜・中岳火口）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"黒川温泉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"天草五橋（あまくさごきょう）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/183778/183778.jpg"
@@ -142,7 +146,7 @@ export default function KumamotoBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183778%2F183778.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function KumamotoBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178485%2F178485.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function KumamotoBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172922%2F172922.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function KumamotoBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183439%2F183439.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function KumamotoBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177757%2F177757.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function KumamotoBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">JR熊本駅ビル第1駐車場 先着順1000円 （入庫から24時間）※時間内の入出庫可</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（785件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183439%2F183439.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183439%2F183439.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天然温泉スーパーホテル熊本商工会議所前</td>
@@ -396,7 +400,7 @@ export default function KumamotoBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">◆駐車場 地域最大級！駐車場可能台数140台！！　■午後15時～受付　■1泊550円（2輪車含む）</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（5668件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,750〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F550%2F550.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F550%2F550.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. グリーンリッチホテル水前寺(市立体育館前・水前寺公園入口前)</td>
@@ -405,7 +409,7 @@ export default function KumamotoBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">普通車１泊１０００円（税込）■完全予約制■満車の際は有料駐車場をご利用ください　バイク１泊２００円</td>
                 <td className="p-3 font-bold text-amber-600">★3.23（2120件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,975〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F703%2F703.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F703%2F703.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アークホテル熊本城前　－ルートインホテルズ－</td>
@@ -414,7 +418,7 @@ export default function KumamotoBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">立体駐車場　46台（先着順） 1200円/泊 (全長5.05ｍ・車幅1.75ｍ・車高1.55ｍ迄）</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（2629件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,520〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F704%2F704.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F704%2F704.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 熊本県庁前グリーンホテル</td>
@@ -423,7 +427,7 @@ export default function KumamotoBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">平地３０台　普通車１０００円/１泊　大、中型車はスペースに応じて追加料金</td>
                 <td className="p-3 font-bold text-amber-600">★3.66（1710件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F726%2F726.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F726%2F726.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -600,6 +604,9 @@ export default function KumamotoBudgetAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay" />
+        </div>
 
       </article>
   );

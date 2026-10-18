@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hakone-autumn-leaves-lightup-hotspring-guide/" },
-  title: "箱根 紅葉露天風呂＆ライトアップ2026：箱根登山鉄道・強羅公園・美術館の紅葉巡り＆にごり湯旅館 ｜ 日本全国・旅宿クラウド",
+  title: "箱根 紅葉露天風呂＆ライトアップ2026：箱根登山鉄道・強羅公園・美術館の紅葉巡り＆にごり湯旅館",
   description:
     "箱根の秋を彩る紅葉名所と絶景露天風呂！箱根美術館の苔庭紅葉、彫刻の森、芦ノ湖遊覧船からの富士と紅葉パノラマ、強羅・仙石原の秋限定懐石ディナー付き名門温泉旅館を徹底比較。",
   keywords: ["箱根", "紅葉露天風呂", "ライトアップ2026", "箱根登山鉄道", "強羅公園", "美術館の紅葉巡り", "にごり湯旅館"],
   openGraph: {
-    title: "箱根 紅葉露天風呂＆ライトアップ2026：箱根登山鉄道・強羅公園・美術館の紅葉巡り＆にごり湯旅館 ｜ 日本全国・旅宿クラウド",
+    title: "箱根 紅葉露天風呂＆ライトアップ2026：箱根登山鉄道・強羅公園・美術館の紅葉巡り＆にごり湯旅館",
     description: "箱根の秋を彩る紅葉名所と絶景露天風呂！箱根美術館の苔庭紅葉、彫刻の森、芦ノ湖遊覧船からの富士と紅葉パノラマ、強羅・仙石原の秋限定懐石ディナー付き名門温泉旅館を徹底比較。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "箱根 紅葉露天風呂＆ライトアップ2026：箱根登山鉄道・強羅公園・美術館の紅葉巡り＆にごり湯旅館 ｜ 日本全国・旅宿クラウド",
+    title: "箱根 紅葉露天風呂＆ライトアップ2026：箱根登山鉄道・強羅公園・美術館の紅葉巡り＆にごり湯旅館",
     description: "箱根の秋を彩る紅葉名所と絶景露天風呂！箱根美術館の苔庭紅葉、彫刻の森、芦ノ湖遊覧船からの富士と紅葉パノラマ、強羅・仙石原の秋限定懐石ディナー付き名門温泉旅館を徹底比較。",
   }
 };
@@ -412,7 +412,7 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center bg-gradient-to-r from-rose-600 to-red-600 hover:from-rose-700 hover:to-red-700 text-white font-bold py-2.5 px-4 rounded-xl text-xs sm:text-sm shadow hover:shadow-md transition-all duration-200"
                   >
                     空室確認・紅葉プランを予約 🍁
@@ -541,25 +541,25 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/hiroshima"
+                href="/prefectures/hiroshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 広島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ibaraki"
+                href="/prefectures/ibaraki/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 茨城県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kumamoto"
+                href="/prefectures/kumamoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 熊本県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/yamaguchi"
+                href="/prefectures/yamaguchi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 山口県の宿・温泉

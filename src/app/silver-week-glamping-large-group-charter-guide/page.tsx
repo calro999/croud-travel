@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-large-group-charter-guide/" },
-  title: "大人数・10人以上OK グランピング：シルバーウィーク全棟貸切・サークル合宿・3世代家族旅行 ｜ 日本全国・旅宿クラウド",
+  title: "大人数・10人以上OK グランピング：シルバーウィーク全棟貸切・サークル合宿・3世代家族旅行",
   description:
     "10人〜20人以上のグループでも気兼ねなく楽しめる大型グランピング＆一棟貸しヴィラ特集！全棟貸切でプライベートBBQ、大人数用焚き火スペース、サークルや親族旅行に最適な施設厳選。",
   keywords: ["大人数", "10人以上OK", "グランピング", "シルバーウィーク全棟貸切", "サークル合宿", "3世代家族旅行", "温泉宿"],
   openGraph: {
-    title: "大人数・10人以上OK グランピング：シルバーウィーク全棟貸切・サークル合宿・3世代家族旅行 ｜ 日本全国・旅宿クラウド",
+    title: "大人数・10人以上OK グランピング：シルバーウィーク全棟貸切・サークル合宿・3世代家族旅行",
     description: "10人〜20人以上のグループでも気兼ねなく楽しめる大型グランピング＆一棟貸しヴィラ特集！全棟貸切でプライベートBBQ、大人数用焚き火スペース、サークルや親族旅行に最適な施設厳選。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "大人数・10人以上OK グランピング：シルバーウィーク全棟貸切・サークル合宿・3世代家族旅行 ｜ 日本全国・旅宿クラウド",
+    title: "大人数・10人以上OK グランピング：シルバーウィーク全棟貸切・サークル合宿・3世代家族旅行",
     description: "10人〜20人以上のグループでも気兼ねなく楽しめる大型グランピング＆一棟貸しヴィラ特集！全棟貸切でプライベートBBQ、大人数用焚き火スペース、サークルや親族旅行に最適な施設厳選。",
   }
 };
@@ -311,7 +311,7 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center px-4 py-2.5 bg-gradient-to-r from-indigo-600 to-sky-600 hover:from-indigo-700 hover:to-sky-700 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5"
                     >
                       楽天トラベルで空室確認 ➔
@@ -435,25 +435,25 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamagata"
+                href="/prefectures/yamagata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 山形県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kumamoto"
+                href="/prefectures/kumamoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 熊本県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagoshima"
+                href="/prefectures/kagoshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 鹿児島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/aomori"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 青森県の宿・温泉
@@ -498,7 +498,7 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
                 <td className="p-3 text-stone-600">有り（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（525件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,620〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F171946%2F171946.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F171946%2F171946.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 全室富士山ビュー　ビジョングランピングリゾート山中湖</td>
@@ -507,7 +507,7 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
                 <td className="p-3 text-stone-600">無料（20台、予約不要）　無料送迎あり（富士山駅・富士山山中湖バス停付近）</td>
                 <td className="p-3 font-bold text-amber-600">★4.84（278件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,590〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184648%2F184648.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184648%2F184648.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. グランピング×古民家　ＭＡＳＡＺＵＭＩ邸／民泊</td>
@@ -516,7 +516,7 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
                 <td className="p-3 text-stone-600">あり</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥23,154〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F195575%2F195575.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F195575%2F195575.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 貸し別荘　Ｏｒｋ（オーク）ひるがの</td>
@@ -525,7 +525,7 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
                 <td className="p-3 text-stone-600">有り　１棟当たり２台　無料　それ以上の方はご相談ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（190件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,960〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38313%2F38313.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38313%2F38313.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

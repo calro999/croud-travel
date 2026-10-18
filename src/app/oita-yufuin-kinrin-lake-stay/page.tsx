@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/oita-yufuin-kinrin-lake-stay/" },
-  title: "大分・由布院：金鱗湖・湯の坪街道＆由布岳パノラマ極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "大分・由布院：金鱗湖・湯の坪街道＆由布岳パノラマ極上宿 厳選ガイド",
   description: "大分・由布院（湯布院）エリア完全特化！朝霧立ち込める金鱗湖、湯の坪街道のスイーツ食べ歩き、由布岳を仰ぐ全室離れ・客室露天風呂旅館を徹底解説。",
   keywords: ["大分", "由布院", "金鱗湖", "湯の坪街道", "由布岳パノラマ極上宿", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "大分・由布院：金鱗湖・湯の坪街道＆由布岳パノラマ極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "大分・由布院：金鱗湖・湯の坪街道＆由布岳パノラマ極上宿 厳選ガイド",
     description: "大分・由布院（湯布院）エリア完全特化！朝霧立ち込める金鱗湖、湯の坪街道のスイーツ食べ歩き、由布岳を仰ぐ全室離れ・客室露天風呂旅館を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "大分・由布院：金鱗湖・湯の坪街道＆由布岳パノラマ極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "大分・由布院：金鱗湖・湯の坪街道＆由布岳パノラマ極上宿 厳選ガイド",
     description: "大分・由布院（湯布院）エリア完全特化！朝霧立ち込める金鱗湖、湯の坪街道のスイーツ食べ歩き、由布岳を仰ぐ全室離れ・客室露天風呂旅館を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

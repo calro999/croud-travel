@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fuji-five-lakes-car-free-bus-guide/" },
-  title: "富士五湖・河口湖 車なし観光ガイド：周遊バス・富士急行で回る！逆さ富士・忍野八海・浅間神社モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "富士五湖・河口湖 車なし観光ガイド：周遊バス・富士急行で回る！逆さ富士・忍野八海・浅間神社モデルコース",
   description: "車なしでも富士五湖は満喫できる！河口湖周遊バス（レッドライン/グリーンライン）、富士山パノラマロープウェイ、新倉山浅間公園の絶景、河口湖駅徒歩圏＆送迎付きの温泉ホテルを徹底解説。",
   keywords: ["富士五湖", "河口湖", "車なし観光ガイド", "周遊バス", "富士急行で回る！逆さ富士", "忍野八海", "浅間神社モデルコース"],
   openGraph: {
-    title: "富士五湖・河口湖 車なし観光ガイド：周遊バス・富士急行で回る！逆さ富士・忍野八海・浅間神社モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "富士五湖・河口湖 車なし観光ガイド：周遊バス・富士急行で回る！逆さ富士・忍野八海・浅間神社モデルコース",
     description: "車なしでも富士五湖は満喫できる！河口湖周遊バス（レッドライン/グリーンライン）、富士山パノラマロープウェイ、新倉山浅間公園の絶景、河口湖駅徒歩圏＆送迎付きの温泉ホテルを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "富士五湖・河口湖 車なし観光ガイド：周遊バス・富士急行で回る！逆さ富士・忍野八海・浅間神社モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "富士五湖・河口湖 車なし観光ガイド：周遊バス・富士急行で回る！逆さ富士・忍野八海・浅間神社モデルコース",
     description: "車なしでも富士五湖は満喫できる！河口湖周遊バス（レッドライン/グリーンライン）、富士山パノラマロープウェイ、新倉山浅間公園の絶景、河口湖駅徒歩圏＆送迎付きの温泉ホテルを徹底解説。",
   }
 };
@@ -394,7 +394,7 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fcoupon%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-rose-600 to-red-600 hover:from-rose-500 hover:to-red-500 text-white font-black text-xs px-4 py-2.5 rounded-xl shadow-md transition shrink-0"
           >
             <span>🎟️</span> 富士五湖の宿クーポンをGETする
@@ -479,7 +479,7 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full block text-center bg-gradient-to-r from-teal-700 to-emerald-700 hover:from-teal-600 hover:to-emerald-600 text-white font-black text-sm py-3 px-4 rounded-xl shadow-md transition-all group-hover:shadow-teal-200"
                     >
                       楽天トラベルでプラン空室を見る ➜

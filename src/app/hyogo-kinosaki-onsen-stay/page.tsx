@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hyogo-kinosaki-onsen-stay/" },
-  title: "兵庫・城崎温泉：七田外湯めぐり＆松葉ガニ・浴衣街歩き極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "兵庫・城崎温泉：七田外湯めぐり＆松葉ガニ・浴衣街歩き極上宿 厳選ガイド",
   description: "兵庫・城崎温泉エリア完全特化！大谿川の柳並木、一の湯・御所の湯など7つの外湯めぐり、津居山・柴山港タグ付き松葉ガニと老舗木造旅館を徹底解説。",
   keywords: ["兵庫", "城崎温泉", "七田外湯めぐり", "松葉ガニ", "浴衣街歩き極上宿", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "兵庫・城崎温泉：七田外湯めぐり＆松葉ガニ・浴衣街歩き極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "兵庫・城崎温泉：七田外湯めぐり＆松葉ガニ・浴衣街歩き極上宿 厳選ガイド",
     description: "兵庫・城崎温泉エリア完全特化！大谿川の柳並木、一の湯・御所の湯など7つの外湯めぐり、津居山・柴山港タグ付き松葉ガニと老舗木造旅館を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "兵庫・城崎温泉：七田外湯めぐり＆松葉ガニ・浴衣街歩き極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "兵庫・城崎温泉：七田外湯めぐり＆松葉ガニ・浴衣街歩き極上宿 厳選ガイド",
     description: "兵庫・城崎温泉エリア完全特化！大谿川の柳並木、一の湯・御所の湯など7つの外湯めぐり、津居山・柴山港タグ付き松葉ガニと老舗木造旅館を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

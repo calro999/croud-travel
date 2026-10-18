@@ -7,17 +7,17 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-disney-resort-family-hotel-comparison/" },
-  title: "子連れディズニー後泊ホテル比較：舞浜・新浦安・葛西のコスパ宿＆二段ベッド・洗い場付きお風呂完備 ｜ 日本全国・旅宿クラウド",
+  title: "子連れディズニー後泊ホテル比較：舞浜・新浦安・葛西のコスパ宿＆二段ベッド・洗い場付きお風呂完備",
   description: "子連れディズニー旅行の宿泊先を徹底比較！舞浜駅直結オフィシャルホテル vs 無料シャトルバス付き新浦安パートナーホテル vs コスパ抜群の葛西エリア。洗い場付きバスルーム、2段ベッドルーム、添い寝無料条件を全比較。",
   keywords: ["子連れディズニー後泊ホテル比較", "舞浜", "新浦安", "葛西のコスパ宿", "二段ベッド", "洗い場付きお風呂完備", "温泉宿"],
   openGraph: {
-    title: "子連れディズニー後泊ホテル比較：舞浜・新浦安・葛西のコスパ宿＆二段ベッド・洗い場付きお風呂完備 ｜ 日本全国・旅宿クラウド",
+    title: "子連れディズニー後泊ホテル比較：舞浜・新浦安・葛西のコスパ宿＆二段ベッド・洗い場付きお風呂完備",
     description: "子連れディズニー旅行の宿泊先を徹底比較！舞浜駅直結オフィシャルホテル vs 無料シャトルバス付き新浦安パートナーホテル vs コスパ抜群の葛西エリア。洗い場付きバスルーム、2段ベッドルーム、添い寝無料条件を全比較。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "子連れディズニー後泊ホテル比較：舞浜・新浦安・葛西のコスパ宿＆二段ベッド・洗い場付きお風呂完備 ｜ 日本全国・旅宿クラウド",
+    title: "子連れディズニー後泊ホテル比較：舞浜・新浦安・葛西のコスパ宿＆二段ベッド・洗い場付きお風呂完備",
     description: "子連れディズニー旅行の宿泊先を徹底比較！舞浜駅直結オフィシャルホテル vs 無料シャトルバス付き新浦安パートナーホテル vs コスパ抜群の葛西エリア。洗い場付きバスルーム、2段ベッドルーム、添い寝無料条件を全比較。",
   }
 };
@@ -385,7 +385,7 @@ export default function DisneyFamilyHotelComparisonPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-gradient-to-r from-indigo-600 via-indigo-700 to-indigo-800 hover:from-indigo-700 hover:to-indigo-900 text-white font-black text-sm px-6 py-3.5 rounded-xl shadow-md hover:shadow-lg transition-all duration-200 transform hover:-translate-y-0.5 text-center group cursor-pointer"
                   >
                     <span>楽天トラベルで空室・プランを見る</span>

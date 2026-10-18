@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/book-hotel-library-stay-reading-retreat/" },
-  title: "週末おこもり・読書＆ブックホテル：数万冊の本に囲まれるライブラリー宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "週末おこもり・読書＆ブックホテル：数万冊の本に囲まれるライブラリー宿 厳選ガイド",
   description: "本の世界に没頭する最高のおこもり休日！ブックホテル＆ライブラリー温泉宿完全特化！箱根「箱根本箱」、蔵書数万冊の温泉ライブラリーリゾート、ブックカフェ併設デザイナーズホテル、読書専用ラウンジ宿を徹底解説。",
   keywords: ["週末おこもり", "読書", "ブックホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "週末おこもり・読書＆ブックホテル：数万冊の本に囲まれるライブラリー宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "週末おこもり・読書＆ブックホテル：数万冊の本に囲まれるライブラリー宿 厳選ガイド",
     description: "本の世界に没頭する最高のおこもり休日！ブックホテル＆ライブラリー温泉宿完全特化！箱根「箱根本箱」、蔵書数万冊の温泉ライブラリーリゾート、ブックカフェ併設デザイナーズホテル、読書専用ラウンジ宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "週末おこもり・読書＆ブックホテル：数万冊の本に囲まれるライブラリー宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "週末おこもり・読書＆ブックホテル：数万冊の本に囲まれるライブラリー宿 厳選ガイド",
     description: "本の世界に没頭する最高のおこもり休日！ブックホテル＆ライブラリー温泉宿完全特化！箱根「箱根本箱」、蔵書数万冊の温泉ライブラリーリゾート、ブックカフェ併設デザイナーズホテル、読書専用ラウンジ宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function WomenSoloRetreatHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-rose-600 to-pink-600 hover:from-rose-500 hover:to-pink-500 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function WomenSoloRetreatHubPage() {
                 <td className="p-3 text-stone-600">お客様専用の駐車場あり　無料　徒歩2分</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥5,605〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183509%2F183509.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183509%2F183509.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＳＹＬＡ　ＨＯＴＥＬ　箱根強羅　ＥＡＳＴ</td>
@@ -261,7 +261,7 @@ export default function WomenSoloRetreatHubPage() {
                 <td className="p-3 text-stone-600">お客様専用の駐車場あり　無料　徒歩2分</td>
                 <td className="p-3 font-bold text-amber-600">★5（6件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183508%2F183508.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183508%2F183508.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 箱根湯本温泉　伊東園ホテル　箱根湯本</td>
@@ -270,7 +270,7 @@ export default function WomenSoloRetreatHubPage() {
                 <td className="p-3 text-stone-600">屋根付きあり　収容台数36台　1部屋あたり1台までとさせていただいております</td>
                 <td className="p-3 font-bold text-amber-600">★4（642件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,548〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40781%2F40781.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40781%2F40781.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月</td>
@@ -279,7 +279,7 @@ export default function WomenSoloRetreatHubPage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（6648件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19786%2F19786.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19786%2F19786.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～</td>
@@ -288,7 +288,7 @@ export default function WomenSoloRetreatHubPage() {
                 <td className="p-3 text-stone-600">無料駐車場完備（全50台）バイク・大型車両OK予約不要。指宿を観光するなら車での移動がおすすめ</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（1607件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,752〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10832%2F10832.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10832%2F10832.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ねをはす　Ｂｏｏｋ＆Ｈｏｔｅｌ</td>
@@ -297,7 +297,7 @@ export default function WomenSoloRetreatHubPage() {
                 <td className="p-3 text-stone-600">無料／33台　※駐車可能車両サイズ：長さ5.0ｍ、車幅2.0ｍ以内　※トラック不可　※満車の場合有</td>
                 <td className="p-3 font-bold text-amber-600">★4.74（161件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F192299%2F192299.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F192299%2F192299.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetTokushimaStationHotelsPage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"徳島駅前：秋の徳島ラーメン＆鳴門鯛・眉山パノラマ！4,000円台〜泊まれる格安ホテル5選\",\"description\":\"甘辛豚バラ肉と生卵が絡む濃厚すき焼き風・徳島ラーメンと、潮流で身が引き締まる秋の鳴門鯛！阿波おどりの聖地・眉山のロープウェイ夜景を望む徳島駅周辺で1泊4,000円台〜泊まれる格安宿厳選5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tokushima-station-ramen-bizan-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"徳島駅前：秋の徳島ラーメン＆鳴門鯛・眉山パノラマ！4,000円台〜泊まれる格安ホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-tokushima-station-ramen-bizan-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"徳島駅前：秋の徳島ラーメン＆鳴門鯛・眉山パノラマ！4,000円台〜泊まれる格安ホテル5選\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"眉の形に見える優美な山容・山頂展望台から望む吉野川と紀伊水道\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tokushima-station-ramen-bizan-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"アパホテル〈徳島駅前〉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tokushima-station-ramen-bizan-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"スマイルホテル徳島\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tokushima-station-ramen-bizan-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"東横ＩＮＮ徳島駅眉山口\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tokushima-station-ramen-bizan-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"東横ＩＮＮ徳島駅前\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tokushima-station-ramen-bizan-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"ダイワロイネットホテル徳島駅前\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tokushima-station-ramen-bizan-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"鳴門の渦潮（大鳴門橋）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tokushima-station-ramen-bizan-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"祖谷のかずら橋（秘境・祖谷）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tokushima-station-ramen-bizan-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"大塚国際美術館\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tokushima-station-ramen-bizan-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"眉山（びざん）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-tokushima-station-ramen-bizan-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -149,7 +153,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7503%2F7503.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -204,7 +208,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F532%2F532.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -259,7 +263,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68537%2F68537.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -314,7 +318,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108376%2F108376.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -369,7 +373,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149130%2F149130.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -429,7 +433,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
                 <td className="p-3 text-stone-600">敷地内有料駐車場: 4台　先着順サイズ制限有</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（2116件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,950〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7503%2F7503.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7503%2F7503.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. スマイルホテル徳島</td>
@@ -438,7 +442,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
                 <td className="p-3 text-stone-600">15時〜翌日10時…1,000円／18時〜翌日9時…500円／時間外・途中出入1時間…300円</td>
                 <td className="p-3 font-bold text-amber-600">★4.03（2325件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F532%2F532.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F532%2F532.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 東横ＩＮＮ徳島駅眉山口</td>
@@ -447,7 +451,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
                 <td className="p-3 text-stone-600">立体駐車場80台先着順１泊500円。満車の際は近隣の駐車場へご案内。詳しくは注意事項へ。</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（1260件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,935〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68537%2F68537.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68537%2F68537.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 東横ＩＮＮ徳島駅前</td>
@@ -456,7 +460,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
                 <td className="p-3 text-stone-600">立体駐車場先着30台1泊500円(15時〜翌10時)満車時は近隣の契約駐車場ご案内。バイクの駐輪不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（548件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,040〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108376%2F108376.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108376%2F108376.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ダイワロイネットホテル徳島駅前</td>
@@ -465,7 +469,7 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
                 <td className="p-3 text-stone-600">提携駐車場 先着順1泊(14時〜翌11時)1,000円／税込※車高2.0m以下・22時〜7時入庫不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（1996件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149130%2F149130.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149130%2F149130.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -642,6 +646,9 @@ export default function AutumnBudgetTokushimaStationHotelsPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-tokushima-station-ramen-bizan-hotels-stay" />
+        </div>
 
       </main>
   );

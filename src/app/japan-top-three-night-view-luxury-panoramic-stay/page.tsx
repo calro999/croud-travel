@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-top-three-night-view-luxury-panoramic-stay/" },
-  title: "日本三大夜景＆全室パノラマ夜景ビュー宿：1000万ドルの夜景・特等席 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "日本三大夜景＆全室パノラマ夜景ビュー宿：1000万ドルの夜景・特等席 厳選ガイド",
   description: "光の海を見下ろす極上の夜！日本三大夜景＆新日本三大夜景パノラマホテル完全特化！長崎稲佐山、神戸六甲山・摩耶山、北海道函館山、山梨笛吹川フルーツ公園、北九州皿倉山、バルコニーやビューバスから望む1000万ドルの絶景ステイを徹底解説。",
   keywords: ["日本三大夜景", "全室パノラマ夜景ビュー宿", "1000万ドルの夜景", "特等席", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "日本三大夜景＆全室パノラマ夜景ビュー宿：1000万ドルの夜景・特等席 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "日本三大夜景＆全室パノラマ夜景ビュー宿：1000万ドルの夜景・特等席 厳選ガイド",
     description: "光の海を見下ろす極上の夜！日本三大夜景＆新日本三大夜景パノラマホテル完全特化！長崎稲佐山、神戸六甲山・摩耶山、北海道函館山、山梨笛吹川フルーツ公園、北九州皿倉山、バルコニーやビューバスから望む1000万ドルの絶景ステイを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "日本三大夜景＆全室パノラマ夜景ビュー宿：1000万ドルの夜景・特等席 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "日本三大夜景＆全室パノラマ夜景ビュー宿：1000万ドルの夜景・特等席 厳選ガイド",
     description: "光の海を見下ろす極上の夜！日本三大夜景＆新日本三大夜景パノラマホテル完全特化！長崎稲佐山、神戸六甲山・摩耶山、北海道函館山、山梨笛吹川フルーツ公園、北九州皿倉山、バルコニーやビューバスから望む1000万ドルの絶景ステイを徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function StargazingHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-indigo-700 to-purple-800 hover:from-indigo-600 hover:to-purple-700 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

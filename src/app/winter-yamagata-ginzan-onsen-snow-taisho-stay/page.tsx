@@ -841,12 +841,12 @@ export default function GinzanWinterPage() {
               山形県および東北エリアのおすすめ温泉宿一覧
             </h3>
             <div className="flex flex-wrap gap-2 text-xs">
-              <Link href="/prefectures/yamagata" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">山形県の宿一覧</Link>
-              <Link href="/prefectures/akita" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">秋田県の宿一覧</Link>
-              <Link href="/prefectures/miyagi" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">宮城県の宿一覧</Link>
-              <Link href="/prefectures/fukushima" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">福島県の宿一覧</Link>
-              <Link href="/prefectures/iwate" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">岩手県の宿一覧</Link>
-              <Link href="/prefectures/aomori" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">青森県の宿一覧</Link>
+              <Link href="/prefectures/yamagata/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">山形県の宿一覧</Link>
+              <Link href="/prefectures/akita/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">秋田県の宿一覧</Link>
+              <Link href="/prefectures/miyagi/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">宮城県の宿一覧</Link>
+              <Link href="/prefectures/fukushima/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">福島県の宿一覧</Link>
+              <Link href="/prefectures/iwate/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">岩手県の宿一覧</Link>
+              <Link href="/prefectures/aomori/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">青森県の宿一覧</Link>
             </div>
           
       <HubRelatedPosts currentSlug="winter-yamagata-ginzan-onsen-snow-taisho-stay" />

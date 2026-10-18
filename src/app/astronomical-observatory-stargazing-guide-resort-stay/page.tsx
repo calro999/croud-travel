@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/astronomical-observatory-stargazing-guide-resort-stay/" },
-  title: "天体望遠鏡ドーム＆星空案内人（星ソムリエ）常駐宿：本格天体観測 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "天体望遠鏡ドーム＆星空案内人（星ソムリエ）常駐宿：本格天体観測 厳選ガイド",
   description: "宇宙に一番近いホテル！大型天体望遠鏡ドーム＆星ソムリエ常駐の星空リゾート宿完全特化！長野八ヶ岳・野辺山、南信州阿智村、美ヶ原高原、福島浄土平、月のクレーター・土星の輪・すばる観察、夜間スターウォッチングツアー宿を徹底解説。",
   keywords: ["天体望遠鏡ドーム", "星空案内人（星ソムリエ）常駐宿", "本格天体観測", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "天体望遠鏡ドーム＆星空案内人（星ソムリエ）常駐宿：本格天体観測 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "天体望遠鏡ドーム＆星空案内人（星ソムリエ）常駐宿：本格天体観測 厳選ガイド",
     description: "宇宙に一番近いホテル！大型天体望遠鏡ドーム＆星ソムリエ常駐の星空リゾート宿完全特化！長野八ヶ岳・野辺山、南信州阿智村、美ヶ原高原、福島浄土平、月のクレーター・土星の輪・すばる観察、夜間スターウォッチングツアー宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "天体望遠鏡ドーム＆星空案内人（星ソムリエ）常駐宿：本格天体観測 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "天体望遠鏡ドーム＆星空案内人（星ソムリエ）常駐宿：本格天体観測 厳選ガイド",
     description: "宇宙に一番近いホテル！大型天体望遠鏡ドーム＆星ソムリエ常駐の星空リゾート宿完全特化！長野八ヶ岳・野辺山、南信州阿智村、美ヶ原高原、福島浄土平、月のクレーター・土星の輪・すばる観察、夜間スターウォッチングツアー宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function StargazingHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-indigo-700 to-purple-800 hover:from-indigo-600 hover:to-purple-700 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function StargazingHubPage() {
                 <td className="p-3 text-stone-600">有り　７０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（2185件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38754%2F38754.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38754%2F38754.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 昼神温泉　石苔亭いしだ</td>
@@ -261,7 +261,7 @@ export default function StargazingHubPage() {
                 <td className="p-3 text-stone-600">有り　３０台まで　屋外　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.71（330件）</td>
                 <td className="p-3 font-bold text-rose-600">¥36,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17720%2F17720.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17720%2F17720.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 昼神温泉　昼神グランドホテル天心</td>
@@ -270,7 +270,7 @@ export default function StargazingHubPage() {
                 <td className="p-3 text-stone-600">有り　70台　無料　予約不要 【EV・PHEV用の充電器1台あり(普通充電200V)】</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（845件）</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72733%2F72733.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72733%2F72733.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 美ヶ原温泉　ホテルニューことぶき</td>
@@ -279,7 +279,7 @@ export default function StargazingHubPage() {
                 <td className="p-3 text-stone-600">宿泊者普通車駐車場無料。中型車以上1台2200円（事前予約）。いずれも先着順チェックイン〜アウト迄</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（532件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5191%2F5191.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5191%2F5191.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 信州松本　美ヶ原温泉　翔峰</td>
@@ -288,7 +288,7 @@ export default function StargazingHubPage() {
                 <td className="p-3 text-stone-600">有り　１５０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（3158件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38930%2F38930.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38930%2F38930.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 芹ヶ沢温泉　白樺湖ビューホテル（伊東園ホテルズ）</td>
@@ -297,7 +297,7 @@ export default function StargazingHubPage() {
                 <td className="p-3 text-stone-600">有り　７0台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.68（854件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,248〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72037%2F72037.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72037%2F72037.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

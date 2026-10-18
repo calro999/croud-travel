@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-morning-yoga-mindfulness-guide/" },
-  title: "朝ヨガ＆森林セラピー グランピング：朝陽と鳥の声で目覚める！美と健康のリトリート女子旅 ｜ 日本全国・旅宿クラウド",
+  title: "朝ヨガ＆森林セラピー グランピング：朝陽と鳥の声で目覚める！美と健康のリトリート女子旅",
   description:
     "心と体をデトックスする秋のグランピング！ウッドデッキでの朝ヨガ体験、ハーブティーとオーガニック朝食、フィトンチッド溢れる森林浴セラピーで日頃のストレスをリセットする週末リフレッシュ旅。",
   keywords: ["朝ヨガ", "森林セラピー", "グランピング", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "朝ヨガ＆森林セラピー グランピング：朝陽と鳥の声で目覚める！美と健康のリトリート女子旅 ｜ 日本全国・旅宿クラウド",
+    title: "朝ヨガ＆森林セラピー グランピング：朝陽と鳥の声で目覚める！美と健康のリトリート女子旅",
     description: "心と体をデトックスする秋のグランピング！ウッドデッキでの朝ヨガ体験、ハーブティーとオーガニック朝食、フィトンチッド溢れる森林浴セラピーで日頃のストレスをリセットする週末リフレッシュ旅。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "朝ヨガ＆森林セラピー グランピング：朝陽と鳥の声で目覚める！美と健康のリトリート女子旅 ｜ 日本全国・旅宿クラウド",
+    title: "朝ヨガ＆森林セラピー グランピング：朝陽と鳥の声で目覚める！美と健康のリトリート女子旅",
     description: "心と体をデトックスする秋のグランピング！ウッドデッキでの朝ヨガ体験、ハーブティーとオーガニック朝食、フィトンチッド溢れる森林浴セラピーで日頃のストレスをリセットする週末リフレッシュ旅。",
   }
 };
@@ -179,6 +179,8 @@ export default function SilverWeekGlampingMorningYogaMindfulnessPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 
       {/* パンくずリスト */}
       <nav aria-label="Breadcrumb" className="text-xs text-indigo-900/70 font-medium">
@@ -365,7 +367,7 @@ export default function SilverWeekGlampingMorningYogaMindfulnessPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="inline-flex items-center justify-center px-4 py-2.5 bg-gradient-to-r from-indigo-700 to-purple-800 hover:from-indigo-600 hover:to-purple-700 text-white font-bold text-xs rounded-xl shadow-sm transition transform hover:-translate-y-0.5 shrink-0"
                   >
                     楽天トラベルで空室確認 ✈️

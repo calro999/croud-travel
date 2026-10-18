@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-national-treasure-castle-heritage-stay/" },
-  title: "国宝五城＆現存十二天守を巡る宿：姫路城・松本城・犬山城・彦根城・松江城 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "国宝五城＆現存十二天守を巡る宿：姫路城・松本城・犬山城・彦根城・松江城 厳選ガイド",
   description: "江戸時代の天守がそのまま現存する奇跡の城郭めぐり完全特化！世界遺産「白鷺城・姫路城」、漆黒の国宝「松本城」、木曽川にそびえる最古の天守「犬山城」、琵琶湖畔の「彦根城」、宍道湖畔の「千鳥城・松江城」と城郭ビュー名宿を徹底解説。",
   keywords: ["国宝五城", "現存十二天守を巡る宿", "姫路城", "松本城", "犬山城", "彦根城", "松江城"],
   openGraph: {
-    title: "国宝五城＆現存十二天守を巡る宿：姫路城・松本城・犬山城・彦根城・松江城 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "国宝五城＆現存十二天守を巡る宿：姫路城・松本城・犬山城・彦根城・松江城 厳選ガイド",
     description: "江戸時代の天守がそのまま現存する奇跡の城郭めぐり完全特化！世界遺産「白鷺城・姫路城」、漆黒の国宝「松本城」、木曽川にそびえる最古の天守「犬山城」、琵琶湖畔の「彦根城」、宍道湖畔の「千鳥城・松江城」と城郭ビュー名宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "国宝五城＆現存十二天守を巡る宿：姫路城・松本城・犬山城・彦根城・松江城 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "国宝五城＆現存十二天守を巡る宿：姫路城・松本城・犬山城・彦根城・松江城 厳選ガイド",
     description: "江戸時代の天守がそのまま現存する奇跡の城郭めぐり完全特化！世界遺産「白鷺城・姫路城」、漆黒の国宝「松本城」、木曽川にそびえる最古の天守「犬山城」、琵琶湖畔の「彦根城」、宍道湖畔の「千鳥城・松江城」と城郭ビュー名宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function HistoryHeritageHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

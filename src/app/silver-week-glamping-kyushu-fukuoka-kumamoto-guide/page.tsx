@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-kyushu-fukuoka-kumamoto-guide/" },
-  title: "九州シルバーウィーク グランピング：阿蘇カルデラ・糸島ビーチ・由布院温泉の極上ステイ ｜ 日本全国・旅宿クラウド",
+  title: "九州シルバーウィーク グランピング：阿蘇カルデラ・糸島ビーチ・由布院温泉の極上ステイ",
   description:
     "九州の豊かな大自然と名湯を味わう秋連休！阿蘇の大草原パノラマ、糸島のおしゃれなシーサイドドーム、由布院・別府エリアの天然温泉付きグランピング施設を徹底比較。",
   keywords: ["九州シルバーウィーク", "グランピング", "阿蘇カルデラ", "糸島ビーチ", "由布院温泉の極上ステイ", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "九州シルバーウィーク グランピング：阿蘇カルデラ・糸島ビーチ・由布院温泉の極上ステイ ｜ 日本全国・旅宿クラウド",
+    title: "九州シルバーウィーク グランピング：阿蘇カルデラ・糸島ビーチ・由布院温泉の極上ステイ",
     description: "九州の豊かな大自然と名湯を味わう秋連休！阿蘇の大草原パノラマ、糸島のおしゃれなシーサイドドーム、由布院・別府エリアの天然温泉付きグランピング施設を徹底比較。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "九州シルバーウィーク グランピング：阿蘇カルデラ・糸島ビーチ・由布院温泉の極上ステイ ｜ 日本全国・旅宿クラウド",
+    title: "九州シルバーウィーク グランピング：阿蘇カルデラ・糸島ビーチ・由布院温泉の極上ステイ",
     description: "九州の豊かな大自然と名湯を味わう秋連休！阿蘇の大草原パノラマ、糸島のおしゃれなシーサイドドーム、由布院・別府エリアの天然温泉付きグランピング施設を徹底比較。",
   }
 };
@@ -311,7 +311,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center px-4 py-2.5 bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-700 hover:to-teal-700 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5"
                     >
                       楽天トラベルで空室確認 ➔
@@ -435,25 +435,25 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/gifu"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukuoka"
+                href="/prefectures/fukuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 福岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/fukui"
+                href="/prefectures/fukui/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 福井県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagano"
+                href="/prefectures/nagano/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 長野県の宿・温泉
@@ -498,7 +498,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
                 <td className="p-3 text-stone-600">有り（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（525件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,620〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F171946%2F171946.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F171946%2F171946.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ザ・リトリート</td>
@@ -507,7 +507,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
                 <td className="p-3 text-stone-600">有り　８０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（152件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,375〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179214%2F179214.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179214%2F179214.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. グランシア別府鉄輪</td>
@@ -516,7 +516,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
                 <td className="p-3 text-stone-600">【無料駐車場あり】100台・予約不要・当施設前の有料駐車場に停車後、駐車券を受付へお持ちください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（44件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,960〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196407%2F196407.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196407%2F196407.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kagoshima-sakurajima-kinko-bay-kurobuta-stay/" },
-  title: "鹿児島・桜島＆城山：活火山パノラマ・黒豚しゃぶ＆展望温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "鹿児島・桜島＆城山：活火山パノラマ・黒豚しゃぶ＆展望温泉宿 厳選ガイド",
   description: "今なお噴煙を上げる世界的な活火山「桜島」、穏やかな錦江湾のオーシャンビュー、西郷隆盛最期の地「城山展望台」、最高峰ブランド「かごしま黒豚しゃぶしゃぶ」を徹底解説。桜島を望む展望露天風呂ホテルや名門温泉宿を厳選。",
   keywords: ["鹿児島", "桜島", "城山", "活火山パノラマ", "黒豚しゃぶ", "展望温泉宿", "温泉宿"],
   openGraph: {
-    title: "鹿児島・桜島＆城山：活火山パノラマ・黒豚しゃぶ＆展望温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "鹿児島・桜島＆城山：活火山パノラマ・黒豚しゃぶ＆展望温泉宿 厳選ガイド",
     description: "今なお噴煙を上げる世界的な活火山「桜島」、穏やかな錦江湾のオーシャンビュー、西郷隆盛最期の地「城山展望台」、最高峰ブランド「かごしま黒豚しゃぶしゃぶ」を徹底解説。桜島を望む展望露天風呂ホテルや名門温泉宿を厳選。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "鹿児島・桜島＆城山：活火山パノラマ・黒豚しゃぶ＆展望温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "鹿児島・桜島＆城山：活火山パノラマ・黒豚しゃぶ＆展望温泉宿 厳選ガイド",
     description: "今なお噴煙を上げる世界的な活火山「桜島」、穏やかな錦江湾のオーシャンビュー、西郷隆盛最期の地「城山展望台」、最高峰ブランド「かごしま黒豚しゃぶしゃぶ」を徹底解説。桜島を望む展望露天風呂ホテルや名門温泉宿を厳選。",
   }
 };
@@ -214,7 +214,7 @@ export default function MicroTouristHubPage() {
                           <a
                             href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                             target="_blank"
-                            rel="noopener noreferrer"
+                            rel="sponsored noopener noreferrer"
                             className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-teal-700 to-teal-800 hover:from-teal-600 hover:to-teal-700 rounded-xl shadow transition"
                           >
                             ✈️ 楽天トラベルで宿泊プラン・空室を見る

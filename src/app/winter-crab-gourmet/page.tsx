@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-crab-gourmet/" },
-  title: '冬の味覚：カニ食べ尽くし＆絶景雪見温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド',
+  title: '冬の味覚：カニ食べ尽くし＆絶景雪見温泉旅館 厳選ガイド',
   description: '冬の日本海の王様！城崎温泉（兵庫）、越前三国（福井）、加賀山中（石川）、皆生温泉（鳥取）で本場の松葉ガニ・越前ガニ会席を堪能できる贅沢温泉宿。',
   keywords: ["冬の味覚", "カニ食べ尽くし", "絶景雪見温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "冬の味覚：カニ食べ尽くし＆絶景雪見温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "冬の味覚：カニ食べ尽くし＆絶景雪見温泉旅館 厳選ガイド",
     description: "冬の日本海の王様！城崎温泉（兵庫）、越前三国（福井）、加賀山中（石川）、皆生温泉（鳥取）で本場の松葉ガニ・越前ガニ会席を堪能できる贅沢温泉宿。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "冬の味覚：カニ食べ尽くし＆絶景雪見温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "冬の味覚：カニ食べ尽くし＆絶景雪見温泉旅館 厳選ガイド",
     description: "冬の日本海の王様！城崎温泉（兵庫）、越前三国（福井）、加賀山中（石川）、皆生温泉（鳥取）で本場の松葉ガニ・越前ガニ会席を堪能できる贅沢温泉宿。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

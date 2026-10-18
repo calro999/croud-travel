@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagasaki-goto-islands-fukue-church-stay/" },
-  title: "長崎・五島列島（福江島＆上五島）：世界遺産潜伏キリシタン教会群・高浜ビーチ＆五島うどん宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長崎・五島列島（福江島＆上五島）：世界遺産潜伏キリシタン教会群・高浜ビーチ＆五島うどん宿 厳選ガイド",
   description: "西海の祈りと碧き海・長崎五島列島エリア完全特化！世界遺産「長崎と天草地方の潜伏キリシタン関連遺産（頭ヶ島天主堂・江上天主堂・堂崎天主堂）」、日本一美しい白砂「高浜海水浴場」、名物「五島うどん・幻の五島牛宿」を徹底解説。",
   keywords: ["長崎", "五島列島（福江島", "上五島）", "世界遺産潜伏キリシタン教会群", "高浜ビーチ", "五島うどん宿", "温泉宿"],
   openGraph: {
-    title: "長崎・五島列島（福江島＆上五島）：世界遺産潜伏キリシタン教会群・高浜ビーチ＆五島うどん宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "長崎・五島列島（福江島＆上五島）：世界遺産潜伏キリシタン教会群・高浜ビーチ＆五島うどん宿 厳選ガイド",
     description: "西海の祈りと碧き海・長崎五島列島エリア完全特化！世界遺産「長崎と天草地方の潜伏キリシタン関連遺産（頭ヶ島天主堂・江上天主堂・堂崎天主堂）」、日本一美しい白砂「高浜海水浴場」、名物「五島うどん・幻の五島牛宿」を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "長崎・五島列島（福江島＆上五島）：世界遺産潜伏キリシタン教会群・高浜ビーチ＆五島うどん宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "長崎・五島列島（福江島＆上五島）：世界遺産潜伏キリシタン教会群・高浜ビーチ＆五島うどん宿 厳選ガイド",
     description: "西海の祈りと碧き海・長崎五島列島エリア完全特化！世界遺産「長崎と天草地方の潜伏キリシタン関連遺産（頭ヶ島天主堂・江上天主堂・堂崎天主堂）」、日本一美しい白砂「高浜海水浴場」、名物「五島うどん・幻の五島牛宿」を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

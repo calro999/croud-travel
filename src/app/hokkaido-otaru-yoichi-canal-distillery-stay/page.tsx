@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-otaru-yoichi-canal-distillery-stay/" },
-  title: "北海道・小樽＆余市：小樽運河・ニッカウヰスキー蒸溜所＆寿司海鮮丼宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "北海道・小樽＆余市：小樽運河・ニッカウヰスキー蒸溜所＆寿司海鮮丼宿 厳選ガイド",
   description: "ノスタルジックな石造り倉庫とガス灯が輝く小樽運河、日本のウイスキーの聖地・余市蒸溜所、三角市場の豪華海鮮丼やおたる寿司通りを満喫する小樽・余市特化ガイド。運河沿いホテルや温泉リゾートを厳選。",
   keywords: ["北海道", "小樽", "余市", "小樽運河", "ニッカウヰスキー蒸溜所", "寿司海鮮丼宿", "温泉宿"],
   openGraph: {
-    title: "北海道・小樽＆余市：小樽運河・ニッカウヰスキー蒸溜所＆寿司海鮮丼宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "北海道・小樽＆余市：小樽運河・ニッカウヰスキー蒸溜所＆寿司海鮮丼宿 厳選ガイド",
     description: "ノスタルジックな石造り倉庫とガス灯が輝く小樽運河、日本のウイスキーの聖地・余市蒸溜所、三角市場の豪華海鮮丼やおたる寿司通りを満喫する小樽・余市特化ガイド。運河沿いホテルや温泉リゾートを厳選。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "北海道・小樽＆余市：小樽運河・ニッカウヰスキー蒸溜所＆寿司海鮮丼宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "北海道・小樽＆余市：小樽運河・ニッカウヰスキー蒸溜所＆寿司海鮮丼宿 厳選ガイド",
     description: "ノスタルジックな石造り倉庫とガス灯が輝く小樽運河、日本のウイスキーの聖地・余市蒸溜所、三角市場の豪華海鮮丼やおたる寿司通りを満喫する小樽・余市特化ガイド。運河沿いホテルや温泉リゾートを厳選。",
   }
 };
@@ -211,7 +211,7 @@ export default function MicroTouristHubPage() {
                           <a
                             href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                             target="_blank"
-                            rel="noopener noreferrer"
+                            rel="sponsored noopener noreferrer"
                             className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-teal-700 to-teal-800 hover:from-teal-600 hover:to-teal-700 rounded-xl shadow transition"
                           >
                             ✈️ 楽天トラベルで宿泊プラン・空室を見る

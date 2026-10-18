@@ -708,13 +708,13 @@ export default function ArashiyamaWinterPage() {
               近隣・全国の都道府県別おすすめ宿
             </h3>
             <div className="flex flex-wrap gap-2 text-xs">
-              <Link href="/prefectures/kyoto" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">京都府の宿一覧</Link>
-              <Link href="/prefectures/osaka" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">大阪府の宿一覧</Link>
-              <Link href="/prefectures/hyogo" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">兵庫県の宿一覧</Link>
-              <Link href="/prefectures/nara" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">奈良県の宿一覧</Link>
-              <Link href="/prefectures/shiga" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">滋賀県の宿一覧</Link>
-              <Link href="/prefectures/ishikawa" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">石川県の宿一覧</Link>
-              <Link href="/prefectures/fukui" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">福井県の宿一覧</Link>
+              <Link href="/prefectures/kyoto/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">京都府の宿一覧</Link>
+              <Link href="/prefectures/osaka/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">大阪府の宿一覧</Link>
+              <Link href="/prefectures/hyogo/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">兵庫県の宿一覧</Link>
+              <Link href="/prefectures/nara/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">奈良県の宿一覧</Link>
+              <Link href="/prefectures/shiga/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">滋賀県の宿一覧</Link>
+              <Link href="/prefectures/ishikawa/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">石川県の宿一覧</Link>
+              <Link href="/prefectures/fukui/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">福井県の宿一覧</Link>
             </div>
           
       <HubRelatedPosts currentSlug="winter-kyoto-arashiyama-onsen-yudofu-stay" />

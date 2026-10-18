@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/gifu-takayama-sanmachi-stay/" },
-  title: "岐阜・飛騨高山：古い町並・宮川朝市＆飛騨牛尽くし極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "岐阜・飛騨高山：古い町並・宮川朝市＆飛騨牛尽くし極上宿 厳選ガイド",
   description: "飛騨高山エリア完全特化！ミシュラン三つ星「さんまち通り（古い町並）」、宮川朝市、高山陣屋、飛騨牛にぎり寿司食べ歩きと飛騨高山温泉の老舗宿を徹底解説。",
   keywords: ["岐阜", "飛騨高山", "古い町並", "宮川朝市", "飛騨牛尽くし極上宿", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "岐阜・飛騨高山：古い町並・宮川朝市＆飛騨牛尽くし極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "岐阜・飛騨高山：古い町並・宮川朝市＆飛騨牛尽くし極上宿 厳選ガイド",
     description: "飛騨高山エリア完全特化！ミシュラン三つ星「さんまち通り（古い町並）」、宮川朝市、高山陣屋、飛騨牛にぎり寿司食べ歩きと飛騨高山温泉の老舗宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "岐阜・飛騨高山：古い町並・宮川朝市＆飛騨牛尽くし極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "岐阜・飛騨高山：古い町並・宮川朝市＆飛騨牛尽くし極上宿 厳選ガイド",
     description: "飛騨高山エリア完全特化！ミシュラン三つ星「さんまち通り（古い町並）」、宮川朝市、高山陣屋、飛騨牛にぎり寿司食べ歩きと飛騨高山温泉の老舗宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

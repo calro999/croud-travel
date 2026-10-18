@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kusatsu-daytrip-hotspring-lunch-guide/" },
-  title: "草津温泉 日帰り温泉＆ランチ：湯畑周辺で楽しむ源泉かけ流し名湯＆上州牛・手打ちそば名店ガイド ｜ 日本全国・旅宿クラウド",
+  title: "草津温泉 日帰り温泉＆ランチ：湯畑周辺で楽しむ源泉かけ流し名湯＆上州牛・手打ちそば名店ガイド",
   description: "草津温泉を日帰りで満喫するモデルコース！西の河原露天風呂・御座之湯・大滝乃湯の外湯巡りと、上州牛すき焼き・石臼挽き手打ちそばの絶品ランチ、日帰り入浴可能な名門旅館まとめ。",
   keywords: ["草津温泉", "日帰り温泉", "ランチ", "上州牛", "手打ちそば名店ガイド", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "草津温泉 日帰り温泉＆ランチ：湯畑周辺で楽しむ源泉かけ流し名湯＆上州牛・手打ちそば名店ガイド ｜ 日本全国・旅宿クラウド",
+    title: "草津温泉 日帰り温泉＆ランチ：湯畑周辺で楽しむ源泉かけ流し名湯＆上州牛・手打ちそば名店ガイド",
     description: "草津温泉を日帰りで満喫するモデルコース！西の河原露天風呂・御座之湯・大滝乃湯の外湯巡りと、上州牛すき焼き・石臼挽き手打ちそばの絶品ランチ、日帰り入浴可能な名門旅館まとめ。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "草津温泉 日帰り温泉＆ランチ：湯畑周辺で楽しむ源泉かけ流し名湯＆上州牛・手打ちそば名店ガイド ｜ 日本全国・旅宿クラウド",
+    title: "草津温泉 日帰り温泉＆ランチ：湯畑周辺で楽しむ源泉かけ流し名湯＆上州牛・手打ちそば名店ガイド",
     description: "草津温泉を日帰りで満喫するモデルコース！西の河原露天風呂・御座之湯・大滝乃湯の外湯巡りと、上州牛すき焼き・石臼挽き手打ちそばの絶品ランチ、日帰り入浴可能な名門旅館まとめ。",
   }
 };
@@ -334,7 +334,7 @@ export default function KusatsuDaytripHotspringLunchPage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="w-full text-center py-3 bg-amber-500 hover:bg-amber-400 text-stone-950 font-black text-xs md:text-sm rounded-xl shadow-lg transition"
             >
               👉 楽天トラベル 日帰りバスツアーを予約
@@ -352,7 +352,7 @@ export default function KusatsuDaytripHotspringLunchPage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="w-full text-center py-3 bg-stone-700 hover:bg-stone-600 text-stone-100 font-black text-xs md:text-sm rounded-xl border border-stone-600 transition"
             >
               🎟️ 高速バスクーポン・直行便をチェック
@@ -419,7 +419,7 @@ export default function KusatsuDaytripHotspringLunchPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-stone-800 to-amber-900 hover:from-stone-700 hover:to-amber-800 rounded-xl shadow transition"
                   >
                     ♨️ 楽天トラベルでプラン・空室を見る

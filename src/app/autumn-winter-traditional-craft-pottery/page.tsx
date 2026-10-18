@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-traditional-craft-pottery/" },
-  title: "用の美：伝統工芸・陶芸の里めぐり＆美肌温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "用の美：伝統工芸・陶芸の里めぐり＆美肌温泉旅館 厳選ガイド",
   description: "土の温もりと職人の粋！栃木・益子焼、石川・加賀九谷焼＆山中漆器、佐賀・有田焼波佐見焼、福井・越前焼＆あわら温泉など、窯元めぐり・絵付け体験と美しい器で味わう極上会席宿を徹底解説。",
   keywords: ["用の美", "伝統工芸", "陶芸の里めぐり", "美肌温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "用の美：伝統工芸・陶芸の里めぐり＆美肌温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "用の美：伝統工芸・陶芸の里めぐり＆美肌温泉旅館 厳選ガイド",
     description: "土の温もりと職人の粋！栃木・益子焼、石川・加賀九谷焼＆山中漆器、佐賀・有田焼波佐見焼、福井・越前焼＆あわら温泉など、窯元めぐり・絵付け体験と美しい器で味わう極上会席宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "用の美：伝統工芸・陶芸の里めぐり＆美肌温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "用の美：伝統工芸・陶芸の里めぐり＆美肌温泉旅館 厳選ガイド",
     description: "土の温もりと職人の粋！栃木・益子焼、石川・加賀九谷焼＆山中漆器、佐賀・有田焼波佐見焼、福井・越前焼＆あわら温泉など、窯元めぐり・絵付け体験と美しい器で味わう極上会席宿を徹底解説。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

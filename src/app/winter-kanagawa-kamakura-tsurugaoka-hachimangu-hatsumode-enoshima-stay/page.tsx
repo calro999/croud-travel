@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -58,8 +59,8 @@ export default function KamakuraTsurugaokaPage() {
     headline: '鎌倉・鶴岡八幡宮初詣＆湘南の宝石：冬牡丹咲く古都の祈りと江の島イルミネーション！小町通り冬グルメ＆相模湾絶景宿5選',
     description: '源氏ゆかりの武家古都「鶴岡八幡宮」の新春初詣と神苑ぼたん庭園に咲く可憐な冬牡丹（正月牡丹）。関東三大イルミネーション「江の島 湘南の宝石」シーキャンドルの光の大空間、小町通りの焼きたて団子と相模湾の冬魚グルメ。鎌倉・七里ヶ浜・由比ヶ浜・江の島島内の厳選ホテル5選。',
     image: 'https://img.travel.rakuten.co.jp/share/HOTEL/1679/1679.jpg',
-    datePublished: 'T00:00:00+09:00',
-    dateModified: 'T00:00:00+09:00',
+    datePublished: '2026-10-18T00:00:00+09:00',
+    dateModified: '2026-10-19T00:00:00+09:00',
     author: {
       '@type': 'Organization',
       name: 'トラベルマップ編集部',
@@ -269,7 +270,7 @@ export default function KamakuraTsurugaokaPage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1679%2F1679.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-rose-600 transition-colors"
                   >
                     鎌倉プリンスホテル
@@ -324,7 +325,7 @@ export default function KamakuraTsurugaokaPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1679%2F1679.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="flex-1 inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-gradient-to-r from-rose-600 to-pink-600 hover:from-rose-700 hover:to-pink-700 text-white font-bold text-sm sm:text-base rounded-xl shadow-sm hover:shadow transition-all text-center"
                   >
                     <span>楽天トラベルで空室・宿泊プランを見る</span>
@@ -356,7 +357,7 @@ export default function KamakuraTsurugaokaPage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177689%2F177689.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-rose-600 transition-colors"
                   >
                     ホテルメトロポリタン鎌倉
@@ -411,7 +412,7 @@ export default function KamakuraTsurugaokaPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177689%2F177689.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="flex-1 inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-gradient-to-r from-rose-600 to-pink-600 hover:from-rose-700 hover:to-pink-700 text-white font-bold text-sm sm:text-base rounded-xl shadow-sm hover:shadow transition-all text-center"
                   >
                     <span>楽天トラベルで空室・宿泊プランを見る</span>
@@ -443,7 +444,7 @@ export default function KamakuraTsurugaokaPage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68515%2F68515.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-rose-600 transition-colors"
                   >
                     ＫＫＲ鎌倉わかみや（国家公務員共済組合連合会鎌倉保養所）
@@ -498,7 +499,7 @@ export default function KamakuraTsurugaokaPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68515%2F68515.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="flex-1 inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-gradient-to-r from-rose-600 to-pink-600 hover:from-rose-700 hover:to-pink-700 text-white font-bold text-sm sm:text-base rounded-xl shadow-sm hover:shadow transition-all text-center"
                   >
                     <span>楽天トラベルで空室・宿泊プランを見る</span>
@@ -530,7 +531,7 @@ export default function KamakuraTsurugaokaPage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179415%2F179415.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-rose-600 transition-colors"
                   >
                     江の島ホテル
@@ -585,7 +586,7 @@ export default function KamakuraTsurugaokaPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179415%2F179415.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="flex-1 inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-gradient-to-r from-rose-600 to-pink-600 hover:from-rose-700 hover:to-pink-700 text-white font-bold text-sm sm:text-base rounded-xl shadow-sm hover:shadow transition-all text-center"
                   >
                     <span>楽天トラベルで空室・宿泊プランを見る</span>
@@ -617,7 +618,7 @@ export default function KamakuraTsurugaokaPage() {
                   <a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147040%2F147040.html" 
                     target="_blank" 
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="hover:text-rose-600 transition-colors"
                   >
                     ＢＲＥＡＴＨ　ＨＯＴＥＬ（ブレスホテル）
@@ -672,7 +673,7 @@ export default function KamakuraTsurugaokaPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147040%2F147040.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="flex-1 inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-gradient-to-r from-rose-600 to-pink-600 hover:from-rose-700 hover:to-pink-700 text-white font-bold text-sm sm:text-base rounded-xl shadow-sm hover:shadow transition-all text-center"
                   >
                     <span>楽天トラベルで空室・宿泊プランを見る</span>

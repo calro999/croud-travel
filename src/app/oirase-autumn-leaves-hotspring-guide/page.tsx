@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/oirase-autumn-leaves-hotspring-guide/" },
-  title: "奥入瀬渓流・十和田湖 紅葉2026厳選ガイド：見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイ ｜ 日本全国・旅宿クラウド",
+  title: "奥入瀬渓流・十和田湖 紅葉2026厳選ガイド：見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイ",
   description: "ブナとカエデが黄金に輝く奇跡の森！奥入瀬渓流の紅葉散策ベストシーズン（10月中旬〜下旬）、十和田湖遊覧船、渓流沿いに佇む人気リゾートホテル、日本有数のヒバ千人風呂「酸ヶ湯温泉」予約ガイド。",
   keywords: ["奥入瀬渓流", "十和田湖", "紅葉2026", "見頃", "散策モデルコース", "星野リゾート", "秘湯酸ヶ湯ステイ"],
   openGraph: {
-    title: "奥入瀬渓流・十和田湖 紅葉2026厳選ガイド：見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイ ｜ 日本全国・旅宿クラウド",
+    title: "奥入瀬渓流・十和田湖 紅葉2026厳選ガイド：見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイ",
     description: "ブナとカエデが黄金に輝く奇跡の森！奥入瀬渓流の紅葉散策ベストシーズン（10月中旬〜下旬）、十和田湖遊覧船、渓流沿いに佇む人気リゾートホテル、日本有数のヒバ千人風呂「酸ヶ湯温泉」予約ガイド。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "奥入瀬渓流・十和田湖 紅葉2026厳選ガイド：見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイ ｜ 日本全国・旅宿クラウド",
+    title: "奥入瀬渓流・十和田湖 紅葉2026厳選ガイド：見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイ",
     description: "ブナとカエデが黄金に輝く奇跡の森！奥入瀬渓流の紅葉散策ベストシーズン（10月中旬〜下旬）、十和田湖遊覧船、渓流沿いに佇む人気リゾートホテル、日本有数のヒバ千人風呂「酸ヶ湯温泉」予約ガイド。",
   }
 };
@@ -334,7 +334,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="w-full py-3 px-4 bg-gradient-to-r from-emerald-700 to-emerald-800 hover:from-emerald-600 hover:to-emerald-700 text-white font-bold text-xs rounded-xl shadow transition duration-200 flex items-center justify-center gap-2 text-center"
                   >
                     <span>楽天トラベルでプラン・空室を見る</span>
@@ -358,7 +358,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fseason%2Fautumn%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="inline-flex items-center justify-center px-5 py-2.5 rounded-xl bg-amber-400 hover:bg-amber-300 text-stone-950 font-black text-xs transition shadow-md whitespace-nowrap"
             >
               東北紅葉特集を見る →
@@ -369,7 +369,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="bg-stone-950/70 hover:bg-stone-950/90 border border-emerald-800/50 hover:border-amber-400/50 p-4 rounded-xl space-y-2 transition block group"
             >
               <div className="text-2xl">🚌</div>
@@ -384,7 +384,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fcoupon%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="bg-stone-950/70 hover:bg-stone-950/90 border border-emerald-800/50 hover:border-amber-400/50 p-4 rounded-xl space-y-2 transition block group"
             >
               <div className="text-2xl">♨️</div>
@@ -480,25 +480,25 @@ export default function OiraseAutumnLeavesHotspringPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamagata"
+                href="/prefectures/yamagata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 山形県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shizuoka"
+                href="/prefectures/shizuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 静岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagano"
+                href="/prefectures/nagano/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 長野県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gifu"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 岐阜県の宿・温泉
@@ -543,7 +543,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
                 <td className="p-3 text-stone-600">有り　１００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1276件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40434%2F40434.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40434%2F40434.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 八甲田城ヶ倉温泉　ホテル城ヶ倉－ＨＯＴＥＬ　Ｊｏｇａｋｕｒａ－</td>
@@ -552,7 +552,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
                 <td className="p-3 text-stone-600">有り　１００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（403件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79432%2F79432.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79432%2F79432.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 八幡平温泉郷　八幡平高原ホテル</td>
@@ -561,7 +561,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
                 <td className="p-3 text-stone-600">有り　50台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（35件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,150〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20171%2F20171.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20171%2F20171.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 十和田湖畔温泉　とわだこ賑山亭</td>
@@ -570,7 +570,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.1（0件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14840%2F14840.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14840%2F14840.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 浅虫温泉　津軽藩本陣の宿　旅館柳の湯</td>
@@ -579,7 +579,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
                 <td className="p-3 text-stone-600">有り：15台(無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（524件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,350〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7026%2F7026.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7026%2F7026.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 蔦温泉旅館－足元から源泉湧出の自噴温泉－</td>
@@ -588,7 +588,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
                 <td className="p-3 text-stone-600">有り　50台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.83（380件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F142919%2F142919.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F142919%2F142919.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

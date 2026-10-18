@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetMoriokaStationHotelsPage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"盛岡駅前：秋の盛岡三大麺＆盛岡城跡紅葉！3,000円台〜泊まれる格安ホテル5選\",\"description\":\"盛岡冷麺・わんこそば・じゃじゃ麺の三大麺ハシゴ旅と、石垣を赤く染める盛岡城跡公園の錦秋！東北新幹線・盛岡駅周辺で1泊3,000円台〜泊まれる超高コスパ格安ホテル厳選5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-iwate-morioka-station-noodle-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"盛岡駅前：秋の盛岡三大麺＆盛岡城跡紅葉！3,000円台〜泊まれる格安ホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-iwate-morioka-station-noodle-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"盛岡駅前：秋の盛岡三大麺＆盛岡城跡紅葉！3,000円台〜泊まれる格安ホテル5選\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"南部藩主の居城・白亜の花崗岩石垣を彩るモミジの紅葉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-iwate-morioka-station-noodle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ホテルグローバルビュー盛岡（旧：ＨＯＴＥＬ　ＪＩＮ盛岡駅前）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-iwate-morioka-station-noodle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"アパホテル〈盛岡駅前〉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-iwate-morioka-station-noodle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"リッチモンドホテル盛岡駅前\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-iwate-morioka-station-noodle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"ダイワロイネットホテル盛岡駅前\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-iwate-morioka-station-noodle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"東横ＩＮＮ盛岡駅南口駅前\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-iwate-morioka-station-noodle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"中尊寺金色堂（平泉）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-iwate-morioka-station-noodle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"浄土ヶ浜\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-iwate-morioka-station-noodle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"龍泉洞\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-iwate-morioka-station-noodle-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"小岩井農場\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-iwate-morioka-station-noodle-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -149,7 +153,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153340%2F153340.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-red-600 to-stone-700 hover:from-red-500 hover:to-stone-600 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -204,7 +208,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196889%2F196889.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-red-600 to-stone-700 hover:from-red-500 hover:to-stone-600 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -259,7 +263,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181404%2F181404.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-red-600 to-stone-700 hover:from-red-500 hover:to-stone-600 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -314,7 +318,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183248%2F183248.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-red-600 to-stone-700 hover:from-red-500 hover:to-stone-600 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -369,7 +373,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F78213%2F78213.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-red-600 to-stone-700 hover:from-red-500 hover:to-stone-600 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -429,7 +433,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                 <td className="p-3 text-stone-600">1泊600円（翌11時迄）先着順で予約不可　満車時はコインパーキングをご利用ください（お客様ご負担）</td>
                 <td className="p-3 font-bold text-amber-600">★4.03（1476件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,350〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153340%2F153340.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153340%2F153340.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アパホテル〈盛岡駅前〉</td>
@@ -438,7 +442,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                 <td className="p-3 text-stone-600">提携駐車場3か所合計600台以上！（①PNP盛岡駅前　②ペリカンパークひめかみ　③タイムズフェザン）</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（714件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,690〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196889%2F196889.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196889%2F196889.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. リッチモンドホテル盛岡駅前</td>
@@ -447,7 +451,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                 <td className="p-3 text-stone-600">近隣の有料駐車場をご案内。15：00〜翌朝10：00まで900円。時間外1時間300円〜</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（1518件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,950〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181404%2F181404.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181404%2F181404.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ダイワロイネットホテル盛岡駅前</td>
@@ -456,7 +460,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                 <td className="p-3 text-stone-600">機械式立体駐車場60台。先着順。1泊1,100円（税込）でご用意。満車時は提携駐車場をご案内します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.51（1961件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,325〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183248%2F183248.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183248%2F183248.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 東横ＩＮＮ盛岡駅南口駅前</td>
@@ -465,7 +469,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                 <td className="p-3 text-stone-600">有　30台　800円（税込み／泊）　予約不可　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.01（870件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,830〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F78213%2F78213.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F78213%2F78213.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -642,6 +646,9 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-iwate-morioka-station-noodle-hotels-stay" />
+        </div>
 
       </main>
   );

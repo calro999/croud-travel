@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-cheap-student-budget-guide/" },
-  title: "シルバーウィーク 安いグランピングおすすめ：1人1万円台前半！学生・若者グループ向けの格安コスパ宿 ｜ 日本全国・旅宿クラウド",
+  title: "シルバーウィーク 安いグランピングおすすめ：1人1万円台前半！学生・若者グループ向けの格安コスパ宿",
   description:
     "秋連休に予算を抑えて楽しむ高コスパグランピング！4〜6人で頭割りして1人1万円台前半、食材持ち込み自由で費用節約、学割・グループ割引プランがある全国の人気コテージ＆ドームテント特集。",
   keywords: ["シルバーウィーク", "安いグランピングおすすめ", "1人1万円台前半！学生", "若者グループ向けの格安コスパ宿", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "シルバーウィーク 安いグランピングおすすめ：1人1万円台前半！学生・若者グループ向けの格安コスパ宿 ｜ 日本全国・旅宿クラウド",
+    title: "シルバーウィーク 安いグランピングおすすめ：1人1万円台前半！学生・若者グループ向けの格安コスパ宿",
     description: "秋連休に予算を抑えて楽しむ高コスパグランピング！4〜6人で頭割りして1人1万円台前半、食材持ち込み自由で費用節約、学割・グループ割引プランがある全国の人気コテージ＆ドームテント特集。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "シルバーウィーク 安いグランピングおすすめ：1人1万円台前半！学生・若者グループ向けの格安コスパ宿 ｜ 日本全国・旅宿クラウド",
+    title: "シルバーウィーク 安いグランピングおすすめ：1人1万円台前半！学生・若者グループ向けの格安コスパ宿",
     description: "秋連休に予算を抑えて楽しむ高コスパグランピング！4〜6人で頭割りして1人1万円台前半、食材持ち込み自由で費用節約、学割・グループ割引プランがある全国の人気コテージ＆ドームテント特集。",
   }
 };
@@ -177,6 +177,8 @@ export default function SilverWeekGlampingCheapStudentBudgetPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 
       {/* ヒーローセクション（Slate/Zinc × Emeraldアクセント） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-slate-900 via-slate-800 to-zinc-900 text-white p-8 md:p-14 shadow-2xl border border-slate-700">
@@ -359,7 +361,7 @@ export default function SilverWeekGlampingCheapStudentBudgetPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="inline-flex items-center justify-center px-4 py-2.5 bg-gradient-to-r from-emerald-600 to-teal-700 hover:from-emerald-500 hover:to-teal-600 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5 shrink-0"
                   >
                     楽天トラベルで空室確認 ✈️

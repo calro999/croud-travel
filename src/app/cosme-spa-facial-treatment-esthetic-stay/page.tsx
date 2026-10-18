@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/cosme-spa-facial-treatment-esthetic-stay/" },
-  title: "ブランドスパ＆エステ付きご褒美ホテル：ロクシタン・THANN＆天然温泉 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "ブランドスパ＆エステ付きご褒美ホテル：ロクシタン・THANN＆天然温泉 厳選ガイド",
   description: "全身を解きほぐす至福のトリートメント！高級コスメブランド直営スパ＆エステ付き温泉宿完全特化！ロクシタン、THANN、クレ・ド・ポー ボーテ、アロマオイルマッサージ付き宿泊プラン、温泉デトックス宿を徹底解説。",
   keywords: ["ブランドスパ", "エステ付きご褒美ホテル", "ロクシタン", "THANN", "天然温泉", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "ブランドスパ＆エステ付きご褒美ホテル：ロクシタン・THANN＆天然温泉 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "ブランドスパ＆エステ付きご褒美ホテル：ロクシタン・THANN＆天然温泉 厳選ガイド",
     description: "全身を解きほぐす至福のトリートメント！高級コスメブランド直営スパ＆エステ付き温泉宿完全特化！ロクシタン、THANN、クレ・ド・ポー ボーテ、アロマオイルマッサージ付き宿泊プラン、温泉デトックス宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "ブランドスパ＆エステ付きご褒美ホテル：ロクシタン・THANN＆天然温泉 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "ブランドスパ＆エステ付きご褒美ホテル：ロクシタン・THANN＆天然温泉 厳選ガイド",
     description: "全身を解きほぐす至福のトリートメント！高級コスメブランド直営スパ＆エステ付き温泉宿完全特化！ロクシタン、THANN、クレ・ド・ポー ボーテ、アロマオイルマッサージ付き宿泊プラン、温泉デトックス宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function WomenSoloRetreatHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-rose-600 to-pink-600 hover:from-rose-500 hover:to-pink-500 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetFeaturePage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"小樽：運河のガス灯秋夜景＆旬の秋鮭・握り寿司！2,000円台〜泊まれる格安ホテル5選\",\"description\":\"小樽運河のガス灯と石造り倉庫を彩る秋の蔦紅葉、天狗山から見下ろす夜景！秋サケやイクラ、本場の寿司通り巡り。小樽駅・運河周辺で1泊2,000円台〜3,000円台から泊まれる格安・高評価宿5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-otaru-canal-momiji-sushi-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"小樽：運河のガス灯秋夜景＆旬の秋鮭・握り寿司！2,000円台〜泊まれる格安ホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-otaru-canal-momiji-sushi-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"小樽：運河のガス灯秋夜景＆旬の秋鮭・握り寿司！2,000円台〜泊まれる格安ホテル5選\",\"numberOfItems\":7,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホテルソニア小樽\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-otaru-canal-momiji-sushi-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ホテルノルド小樽\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-otaru-canal-momiji-sushi-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ＡＬＰＨＡＢＥＤ　ＩＮＮ　小樽駅前\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-otaru-canal-momiji-sushi-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"函館山（夜景）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-otaru-canal-momiji-sushi-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"富良野 ファーム富田\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-otaru-canal-momiji-sushi-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"小樽運河\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-otaru-canal-momiji-sushi-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"旭川市旭山動物園\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-hokkaido-otaru-canal-momiji-sushi-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -448,7 +452,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">有り　37台　1,200円　先着順/満車時は周辺のコインパーキングへご案内致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（2126件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,750〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5170%2F5170.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5170%2F5170.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルノルド小樽</td>
@@ -457,7 +461,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">有り　46台　1200円(１泊）　先着順となります。チェックイン前でもお車をお預かりいたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（1627件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,910〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F3119%2F3119.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F3119%2F3119.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＡＬＰＨＡＢＥＤ　ＩＮＮ　小樽駅前</td>
@@ -466,7 +470,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">2台あり・先着順（高さ制限有H１８００までの車に限る）</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（259件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181196%2F181196.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181196%2F181196.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -599,6 +603,9 @@ export default function AutumnBudgetFeaturePage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-hokkaido-otaru-canal-momiji-sushi-hotels-stay" />
+        </div>
 
       </main>
   );

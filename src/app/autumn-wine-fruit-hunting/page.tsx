@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-wine-fruit-hunting/" },
-  title: "秋の味覚狩り：ワイナリー巡り＆フルーツ温泉リゾート 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "秋の味覚狩り：ワイナリー巡り＆フルーツ温泉リゾート 厳選ガイド",
   description: "収穫の秋を満喫！山梨勝沼・石和温泉（新酒ワインとぶどう狩り）、信州千曲川ワインバレー、北海道余市、岡山果実郷など、秋のワイナリーツアーとフルーツ狩り・温泉を満喫できる人気宿を徹底解説。",
   keywords: ["秋の味覚狩り", "ワイナリー巡り", "フルーツ温泉リゾート", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "秋の味覚狩り：ワイナリー巡り＆フルーツ温泉リゾート 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "秋の味覚狩り：ワイナリー巡り＆フルーツ温泉リゾート 厳選ガイド",
     description: "収穫の秋を満喫！山梨勝沼・石和温泉（新酒ワインとぶどう狩り）、信州千曲川ワインバレー、北海道余市、岡山果実郷など、秋のワイナリーツアーとフルーツ狩り・温泉を満喫できる人気宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "秋の味覚狩り：ワイナリー巡り＆フルーツ温泉リゾート 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "秋の味覚狩り：ワイナリー巡り＆フルーツ温泉リゾート 厳選ガイド",
     description: "収穫の秋を満喫！山梨勝沼・石和温泉（新酒ワインとぶどう狩り）、信州千曲川ワインバレー、北海道余市、岡山果実郷など、秋のワイナリーツアーとフルーツ狩り・温泉を満喫できる人気宿を徹底解説。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

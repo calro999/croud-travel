@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { 
@@ -276,7 +277,7 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
             <span>/</span>
             <Link href="/features" className="hover:text-red-600 transition">特集一覧</Link>
             <span>/</span>
-            <Link href="/prefectures/shimane" className="hover:text-red-600 transition">島根県</Link>
+            <Link href="/prefectures/shimane/" className="hover:text-red-600 transition">島根県</Link>
             <span>/</span>
             <span className="text-stone-800 font-medium">津和野太皷谷稲成神社初詣＆うずめ飯</span>
           </div>
@@ -615,7 +616,7 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
               <Link href="/features" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 ← 特集一覧に戻る
               </Link>
-              <Link href="/prefectures/shimane" className="px-4 py-2 rounded-full bg-red-50 hover:bg-red-100 text-red-700 font-semibold transition">
+              <Link href="/prefectures/shimane/" className="px-4 py-2 rounded-full bg-red-50 hover:bg-red-100 text-red-700 font-semibold transition">
                 島根県の旅行ガイド・宿一覧
               </Link>
               <Link href="/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">

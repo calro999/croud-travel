@@ -8,13 +8,13 @@ import Image from 'next/image';
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
 
 export const metadata: Metadata = {
-  title: "日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+  title: "日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイド",
   description: "芳醇な香りと杜氏の魂に酔いしれる酒蔵の街！兵庫「灘五郷」宮水仕込みの男酒と神戸ヴィラフォンテーヌ三宮、京都「伏見」伏水が生むまろやかな女酒とアーバンホテル京都、広島「西条」赤瓦の酒蔵通りと吟醸酒ホテルルートイン東広島西条駅前。日本三大銘醸地（三大酒どころ）の利き酒体験と美酒美食ディナーを楽天ふるさと...",
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-sake-capitals-brewery-stay/",
   },
   openGraph: {
-    title: "日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    title: "日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイド",
     description: "芳醇な香りと杜氏の魂に酔いしれる酒蔵の街！兵庫「灘五郷」宮水仕込みの男酒と神戸ヴィラフォンテーヌ三宮、京都「伏見」伏水が生むまろやかな女酒とアーバンホテル京都、広島「西条」赤瓦の酒蔵通りと吟醸酒ホテルルートイン東広島西条駅前。日本三大銘醸地（三大酒どころ）の利き酒体験と美酒美食ディナーを楽天ふるさと...",
     url: "https://croud-travel.pages.dev/furusato-tax-three-great-sake-capitals-brewery-stay/",
   },
@@ -188,7 +188,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F141282%2F141282.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="px-5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold rounded-xl transition border border-slate-700"
                       >
                         宿泊詳細を見る
@@ -259,7 +259,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1445%2F1445.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="px-5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold rounded-xl transition border border-slate-700"
                       >
                         宿泊詳細を見る
@@ -330,7 +330,7 @@ export default function Page() {
                       <a
                         href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F161066%2F161066.html"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="px-5 py-2.5 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold rounded-xl transition border border-slate-700"
                       >
                         宿泊詳細を見る
@@ -535,25 +535,25 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/chiba"
+                href="/prefectures/chiba/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 千葉県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/niigata"
+                href="/prefectures/niigata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 新潟県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/wakayama"
+                href="/prefectures/wakayama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 和歌山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagasaki"
+                href="/prefectures/nagasaki/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 長崎県の宿・温泉

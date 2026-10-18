@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-michelin-star-auberge-winery-stay/" },
-  title: "ミシュラン星付きシェフ監修＆ワイナリー宿：極上オーベルジュ・美食ステイ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "ミシュラン星付きシェフ監修＆ワイナリー宿：極上オーベルジュ・美食ステイ 厳選ガイド",
   description: "「食べるために泊まる」至福のガストロノミーツーリズム！ミシュラン星付きシェフ監修の極上オーベルジュ＆ワイナリーホテル完全特化！北海道余市・山梨勝沼・長野千曲川ワインバレー、美食とワインのペアリング宿を徹底解説。",
   keywords: ["ミシュラン星付きシェフ監修", "ワイナリー宿", "極上オーベルジュ", "美食ステイ", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "ミシュラン星付きシェフ監修＆ワイナリー宿：極上オーベルジュ・美食ステイ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "ミシュラン星付きシェフ監修＆ワイナリー宿：極上オーベルジュ・美食ステイ 厳選ガイド",
     description: "「食べるために泊まる」至福のガストロノミーツーリズム！ミシュラン星付きシェフ監修の極上オーベルジュ＆ワイナリーホテル完全特化！北海道余市・山梨勝沼・長野千曲川ワインバレー、美食とワインのペアリング宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "ミシュラン星付きシェフ監修＆ワイナリー宿：極上オーベルジュ・美食ステイ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "ミシュラン星付きシェフ監修＆ワイナリー宿：極上オーベルジュ・美食ステイ 厳選ガイド",
     description: "「食べるために泊まる」至福のガストロノミーツーリズム！ミシュラン星付きシェフ監修の極上オーベルジュ＆ワイナリーホテル完全特化！北海道余市・山梨勝沼・長野千曲川ワインバレー、美食とワインのペアリング宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function LuxuryPremiumHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-700 to-amber-900 hover:from-amber-600 hover:to-amber-800 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">有り　約25台　無料　(先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（52件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,450〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F151479%2F151479.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F151479%2F151479.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルルートインコート山梨</td>
@@ -261,7 +261,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">有り　45台　無料　（大型車・中型車は駐車できません）</td>
                 <td className="p-3 font-bold text-amber-600">★3.65（470件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,150〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8320%2F8320.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8320%2F8320.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 勝沼ぶどう郷ユースホステル</td>
@@ -270,7 +270,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">有り　７台　無料　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（87件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41435%2F41435.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41435%2F41435.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 湯村温泉　湯志摩の郷　楽水園</td>
@@ -279,7 +279,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">有り　15台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（312件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29393%2F29393.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29393%2F29393.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 富士山石和温泉郷　春日居びゅーほてる</td>
@@ -288,7 +288,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">有り 100台 無料 予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.99（1238件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68084%2F68084.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68084%2F68084.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 信州車山高原の宿泊できるレストラン　オーベルジュ　ラ・メイジュ</td>
@@ -297,7 +297,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">有り　10台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（216件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10734%2F10734.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10734%2F10734.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-fuji-view-private-open-air-bath-stay/" },
-  title: "富士山ビュー客室露天風呂の宿：河口湖・箱根・日本平＆霊峰パノラマ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "富士山ビュー客室露天風呂の宿：河口湖・箱根・日本平＆霊峰パノラマ 厳選ガイド",
   description: "客室の湯船から富士山を独り占め！河口湖畔の逆さ富士、箱根芦ノ湖畔の富士山ビュー露天、静岡日本平の駿河湾＆富士山大パノラマ、記念日・特別な日に泊まりたい絶景温泉旅館を徹底解説。",
   keywords: ["富士山ビュー客室露天風呂の宿", "河口湖", "箱根", "日本平", "霊峰パノラマ", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "富士山ビュー客室露天風呂の宿：河口湖・箱根・日本平＆霊峰パノラマ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "富士山ビュー客室露天風呂の宿：河口湖・箱根・日本平＆霊峰パノラマ 厳選ガイド",
     description: "客室の湯船から富士山を独り占め！河口湖畔の逆さ富士、箱根芦ノ湖畔の富士山ビュー露天、静岡日本平の駿河湾＆富士山大パノラマ、記念日・特別な日に泊まりたい絶景温泉旅館を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "富士山ビュー客室露天風呂の宿：河口湖・箱根・日本平＆霊峰パノラマ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "富士山ビュー客室露天風呂の宿：河口湖・箱根・日本平＆霊峰パノラマ 厳選ガイド",
     description: "客室の湯船から富士山を独り占め！河口湖畔の逆さ富士、箱根芦ノ湖畔の富士山ビュー露天、静岡日本平の駿河湾＆富士山大パノラマ、記念日・特別な日に泊まりたい絶景温泉旅館を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function ScenicViewHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

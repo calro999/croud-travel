@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/scenic-yoga-mindfulness-forest-therapy-stay/" },
-  title: "絶景ヨガ＆マインドフルネス宿：朝霧テラス・森林セラピー＆オーガニック美肌スパ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "絶景ヨガ＆マインドフルネス宿：朝霧テラス・森林セラピー＆オーガニック美肌スパ 厳選ガイド",
   description: "呼吸をととのえ五感をひらくヨガ＆マインドフルネスリゾート完全特化！雲海を望む朝ヨガテラス、森林セラピー基地のガイドツアー、星空ナイトヨガ、美肌クレイセラピー、ヴィーガン＆マクロビオティック対応宿を徹底解説。",
   keywords: ["絶景ヨガ", "マインドフルネス宿", "朝霧テラス", "森林セラピー", "オーガニック美肌スパ", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "絶景ヨガ＆マインドフルネス宿：朝霧テラス・森林セラピー＆オーガニック美肌スパ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "絶景ヨガ＆マインドフルネス宿：朝霧テラス・森林セラピー＆オーガニック美肌スパ 厳選ガイド",
     description: "呼吸をととのえ五感をひらくヨガ＆マインドフルネスリゾート完全特化！雲海を望む朝ヨガテラス、森林セラピー基地のガイドツアー、星空ナイトヨガ、美肌クレイセラピー、ヴィーガン＆マクロビオティック対応宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "絶景ヨガ＆マインドフルネス宿：朝霧テラス・森林セラピー＆オーガニック美肌スパ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "絶景ヨガ＆マインドフルネス宿：朝霧テラス・森林セラピー＆オーガニック美肌スパ 厳選ガイド",
     description: "呼吸をととのえ五感をひらくヨガ＆マインドフルネスリゾート完全特化！雲海を望む朝ヨガテラス、森林セラピー基地のガイドツアー、星空ナイトヨガ、美肌クレイセラピー、ヴィーガン＆マクロビオティック対応宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function WellnessRetreatHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

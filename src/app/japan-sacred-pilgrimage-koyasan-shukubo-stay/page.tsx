@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-sacred-pilgrimage-koyasan-shukubo-stay/" },
-  title: "世界遺産・霊場巡り＆宿坊体験宿：高野山宿坊・熊野古道・比叡山延暦寺 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "世界遺産・霊場巡り＆宿坊体験宿：高野山宿坊・熊野古道・比叡山延暦寺 厳選ガイド",
   description: "千年の祈りと静寂に包まれる聖地巡礼完全特化！弘法大師空海が開いた天空の宗教都市「高野山宿坊（精進料理・阿字観・朝のお勤め）」、神々が宿る「熊野三山＆熊野古道歩き」、天台宗総本山「比叡山延暦寺 延暦寺会館」を徹底解説。",
   keywords: ["世界遺産", "霊場巡り", "宿坊体験宿", "高野山宿坊", "熊野古道", "比叡山延暦寺", "温泉宿"],
   openGraph: {
-    title: "世界遺産・霊場巡り＆宿坊体験宿：高野山宿坊・熊野古道・比叡山延暦寺 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "世界遺産・霊場巡り＆宿坊体験宿：高野山宿坊・熊野古道・比叡山延暦寺 厳選ガイド",
     description: "千年の祈りと静寂に包まれる聖地巡礼完全特化！弘法大師空海が開いた天空の宗教都市「高野山宿坊（精進料理・阿字観・朝のお勤め）」、神々が宿る「熊野三山＆熊野古道歩き」、天台宗総本山「比叡山延暦寺 延暦寺会館」を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "世界遺産・霊場巡り＆宿坊体験宿：高野山宿坊・熊野古道・比叡山延暦寺 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "世界遺産・霊場巡り＆宿坊体験宿：高野山宿坊・熊野古道・比叡山延暦寺 厳選ガイド",
     description: "千年の祈りと静寂に包まれる聖地巡礼完全特化！弘法大師空海が開いた天空の宗教都市「高野山宿坊（精進料理・阿字観・朝のお勤め）」、神々が宿る「熊野三山＆熊野古道歩き」、天台宗総本山「比叡山延暦寺 延暦寺会館」を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function HistoryHeritageHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function HistoryHeritageHubPage() {
                 <td className="p-3 text-stone-600">有り　１５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4（95件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F105973%2F105973.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F105973%2F105973.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 高野山　宿坊　大明王院</td>
@@ -261,7 +261,7 @@ export default function HistoryHeritageHubPage() {
                 <td className="p-3 text-stone-600">有り　５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184135%2F184135.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184135%2F184135.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 高野山　熊谷寺</td>
@@ -270,7 +270,7 @@ export default function HistoryHeritageHubPage() {
                 <td className="p-3 text-stone-600">有り　１0台　無料　要予約 (EV車充電システム完備）</td>
                 <td className="p-3 font-bold text-amber-600">★4（89件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F84994%2F84994.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F84994%2F84994.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 高野山　宿坊　宝城院</td>
@@ -279,7 +279,7 @@ export default function HistoryHeritageHubPage() {
                 <td className="p-3 text-stone-600">有り　10台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184602%2F184602.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184602%2F184602.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 川湯温泉　山水館　川湯みどりや</td>
@@ -288,7 +288,7 @@ export default function HistoryHeritageHubPage() {
                 <td className="p-3 text-stone-600">60台（無料）／バイク利用の方には屋根付き駐車場有</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（1082件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,240〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38558%2F38558.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38558%2F38558.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 民宿　すみ家</td>
@@ -297,7 +297,7 @@ export default function HistoryHeritageHubPage() {
                 <td className="p-3 text-stone-600">無し　近隣徒歩200mに公共無料駐車場あり　近隣徒歩100mに有料駐車場あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.33（36件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177628%2F177628.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177628%2F177628.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

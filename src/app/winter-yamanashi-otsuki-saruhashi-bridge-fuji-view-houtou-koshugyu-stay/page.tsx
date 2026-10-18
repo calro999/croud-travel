@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -8,11 +9,11 @@ export const metadata: Metadata = {
     canonical: "https://croud-travel.pages.dev/winter-yamanashi-otsuki-saruhashi-bridge-fuji-view-houtou-koshugyu-stay/",
   },
 
-  title: '日本三奇橋・名勝猿橋の冬峡谷美と霊峰富士パノラマ：2026-2027年冬の山梨・大月＆都留！名物手打ちほうとうと甲州牛会席名宿5選 | 旅宿クラウド',
+  title: '日本三奇橋・名勝猿橋の冬峡谷美と霊峰富士パノラマ：2026-2027年冬の山梨・大月＆都留！名物手打ちほうとうと甲州牛会席名宿5選',
   description: '歌川広重の浮世絵にも描かれた日本三奇橋・国の名勝「猿橋」の冬峡谷雪景色と、岩殿山から仰ぐ秀麗富嶽十二景・冠雪の富士山大パノラマ！熱々の名物手打ちかぼちゃほうとうや甲州富士桜ポーク、最高峰甲州牛会席。都留の美肌天然温泉「より道の湯」や快適ホテルで寛ぐ冬の東山梨厳選名宿5選。',
   keywords: ['大月・都留・富士東部・上野原', '山梨県', '冬旅行', '温泉旅館', '楽天トラベル', 'ふるさと納税', 'ホテルおすすめ'],
   openGraph: {
-    title: '日本三奇橋・名勝猿橋の冬峡谷美と霊峰富士パノラマ：2026-2027年冬の山梨・大月＆都留！名物手打ちほうとうと甲州牛会席名宿5選 | 旅宿クラウド',
+    title: '日本三奇橋・名勝猿橋の冬峡谷美と霊峰富士パノラマ：2026-2027年冬の山梨・大月＆都留！名物手打ちほうとうと甲州牛会席名宿5選',
     description: '歌川広重の浮世絵にも描かれた日本三奇橋・国の名勝「猿橋」の冬峡谷雪景色と、岩殿山から仰ぐ秀麗富嶽十二景・冠雪の富士山大パノラマ！熱々の名物手打ちかぼちゃほうとうや甲州富士桜ポーク、最高峰甲州牛会席。都留の美肌天然温泉「より道の湯」や快適ホテルで寛ぐ冬の東山梨厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-yamanashi-otsuki-saruhashi-bridge-fuji-view-houtou-koshugyu-stay',
     siteName: '旅宿クラウド',
@@ -764,7 +765,7 @@ export default function FeaturePage() {
             </h3>
             <ul className="grid grid-cols-1 sm:grid-cols-2 gap-3">
               <li>
-                <Link href="/prefectures/yamanashi" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+                <Link href="/prefectures/yamanashi/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                   <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                   <span>山梨県のおすすめ観光名所＆温泉宿一覧</span>
                 </Link>

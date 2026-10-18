@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の琵琶湖：びわ湖バレイの紅葉テラスとおごと温泉！近江牛とレイクビューを満喫するおすすめ名宿5選「2026最新」',
     description: '標高1100mの「びわ湖テラス」から見下ろす紅葉とびわ湖ブルーの大パノラマ！おごと温泉の極上宿5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-shiga-biwako-valley-ogoto-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-shiga-biwako-valley-ogoto-onsen-hotels-stay',
   }
 };
 
 export default function BiwakoOgotoAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の琵琶湖：びわ湖バレイの紅葉テラスとおごと温泉！近江牛とレイクビューを満喫するおすすめ名宿5選「2026最新」\",\"description\":\"標高1100mの「びわ湖テラス」から見下ろす紅葉とびわ湖ブルーの大パノラマ！比叡山延暦寺の紅葉巡りにも最適な開湯1200年のおごと温泉。暖灯館きくのや、びわ湖花街道、湯元館など近江牛会席と美肌温泉の極上宿5選を徹底解説！\",\"url\":\"https://croud-travel.pages.dev/autumn-shiga-biwako-valley-ogoto-onsen-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の琵琶湖：びわ湖バレイの紅葉テラスとおごと温泉！近江牛とレイクビューを満喫するおすすめ名宿5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-shiga-biwako-valley-ogoto-onsen-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の琵琶湖：びわ湖バレイの紅葉テラスとおごと温泉！近江牛とレイクビューを満喫するおすすめ名宿5選「2026最新」\",\"numberOfItems\":8,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"秋の滋賀・琵琶湖観光アドバイス\",\"url\":\"https://croud-travel.pages.dev/autumn-shiga-biwako-valley-ogoto-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"おごと温泉　びわ湖花街道\",\"url\":\"https://croud-travel.pages.dev/autumn-shiga-biwako-valley-ogoto-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"おごと温泉　暖灯館　きくのや\",\"url\":\"https://croud-travel.pages.dev/autumn-shiga-biwako-valley-ogoto-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"里湯昔話　雄山荘\",\"url\":\"https://croud-travel.pages.dev/autumn-shiga-biwako-valley-ogoto-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"琵琶湖（白髭神社・竹生島）\",\"url\":\"https://croud-travel.pages.dev/autumn-shiga-biwako-valley-ogoto-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"国宝 彦根城\",\"url\":\"https://croud-travel.pages.dev/autumn-shiga-biwako-valley-ogoto-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"比叡山 延暦寺\",\"url\":\"https://croud-travel.pages.dev/autumn-shiga-biwako-valley-ogoto-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"近江八幡の水郷めぐり\",\"url\":\"https://croud-travel.pages.dev/autumn-shiga-biwako-valley-ogoto-onsen-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/8798/8798.jpg"
@@ -142,7 +146,7 @@ export default function BiwakoOgotoAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8165%2F8165.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function BiwakoOgotoAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8798%2F8798.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function BiwakoOgotoAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F137819%2F137819.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function BiwakoOgotoAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15737%2F15737.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function BiwakoOgotoAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F106122%2F106122.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function BiwakoOgotoAutumnPage() {
                 <td className="p-3 text-stone-600">有り　４８台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（681件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,770〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8798%2F8798.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8798%2F8798.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. おごと温泉　暖灯館　きくのや</td>
@@ -396,7 +400,7 @@ export default function BiwakoOgotoAutumnPage() {
                 <td className="p-3 text-stone-600">有り　23台　先着順　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.68（2879件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,170〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8165%2F8165.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8165%2F8165.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 里湯昔話　雄山荘</td>
@@ -405,7 +409,7 @@ export default function BiwakoOgotoAutumnPage() {
                 <td className="p-3 text-stone-600">無料駐車場【有】　※フロントにてキーをお預かりし、従業員が移動させていただく場合がございます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（1889件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,450〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15737%2F15737.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15737%2F15737.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -538,6 +542,9 @@ export default function BiwakoOgotoAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-shiga-biwako-valley-ogoto-onsen-hotels-stay" />
+        </div>
 
       </article>
   );

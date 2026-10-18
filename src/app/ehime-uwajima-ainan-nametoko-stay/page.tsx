@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/ehime-uwajima-ainan-nametoko-stay/" },
-  title: "愛媛・宇和島＆愛南・滑床渓谷：現存天守宇和島城・滑床キャニオニング＆宇和島鯛めし宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "愛媛・宇和島＆愛南・滑床渓谷：現存天守宇和島城・滑床キャニオニング＆宇和島鯛めし宿 厳選ガイド",
   description: "伊達十万石の城下町とキャニオニングの聖地・愛媛宇和島＆南予エリア完全特化！現存十二天守「宇和島城」、日本の滝百選「雪輪の滝・滑床渓谷」、真珠の海「宇和海」、名物「宇和島鯛めし・愛南びやびやかつお宿」を徹底解説。",
   keywords: ["愛媛", "宇和島", "愛南", "滑床渓谷", "現存天守宇和島城", "滑床キャニオニング", "宇和島鯛めし宿"],
   openGraph: {
-    title: "愛媛・宇和島＆愛南・滑床渓谷：現存天守宇和島城・滑床キャニオニング＆宇和島鯛めし宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "愛媛・宇和島＆愛南・滑床渓谷：現存天守宇和島城・滑床キャニオニング＆宇和島鯛めし宿 厳選ガイド",
     description: "伊達十万石の城下町とキャニオニングの聖地・愛媛宇和島＆南予エリア完全特化！現存十二天守「宇和島城」、日本の滝百選「雪輪の滝・滑床渓谷」、真珠の海「宇和海」、名物「宇和島鯛めし・愛南びやびやかつお宿」を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "愛媛・宇和島＆愛南・滑床渓谷：現存天守宇和島城・滑床キャニオニング＆宇和島鯛めし宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "愛媛・宇和島＆愛南・滑床渓谷：現存天守宇和島城・滑床キャニオニング＆宇和島鯛めし宿 厳選ガイド",
     description: "伊達十万石の城下町とキャニオニングの聖地・愛媛宇和島＆南予エリア完全特化！現存十二天守「宇和島城」、日本の滝百選「雪輪の滝・滑床渓谷」、真珠の海「宇和海」、名物「宇和島鯛めし・愛南びやびやかつお宿」を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">駐車場無。有料提携駐車場（お城下パーキング2番町、フラワーパーキング2番町など）をご利用ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（2332件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F148952%2F148952.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F148952%2F148952.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルイシバシ</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">無料・20台　※予約不要・先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.71（143件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130595%2F130595.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130595%2F130595.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 道後ｈａｋｕｒｏ</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">平面駐車場【有料】1泊 普通車770円・バイク 550円 ※大型車は駐車できません</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（1368件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,480〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179083%2F179083.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179083%2F179083.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 奥道後　壱湯の守（いちゆのもり）</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">無料駐車場300台完備(先着順)</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（2723件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F27716%2F27716.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F27716%2F27716.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 宇和島オリエンタルホテル</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">1泊1台あたり700円　先着順でご案内いたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（2994件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,150〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2352%2F2352.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2352%2F2352.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 道後温泉　旅亭　うめ乃や</td>
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　８台　無料　予約必要</td>
                 <td className="p-3 font-bold text-amber-600">★4.65（137件）</td>
                 <td className="p-3 font-bold text-rose-600">¥25,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F145017%2F145017.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F145017%2F145017.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

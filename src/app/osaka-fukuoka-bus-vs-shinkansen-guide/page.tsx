@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/osaka-fukuoka-bus-vs-shinkansen-guide/" },
-  title: "大阪から福岡・博多 安く行く方法：新幹線 vs 夜行バス徹底比較！中洲屋台・もつ鍋1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "大阪から福岡・博多 安く行く方法：新幹線 vs 夜行バス徹底比較！中洲屋台・もつ鍋1泊2日モデルコース",
   description: "大阪から博多・福岡へ安く行く方法！山陽新幹線（約15,600円）と夜行高速バス（約3,000円〜）の料金・所要時間を徹底比較。往復2万円以上浮く夜行バスで中洲屋台はしご酒・太宰府天満宮・本場もつ鍋を満喫する1泊2日モデルコース。",
   keywords: ["大阪から福岡", "博多", "安く行く方法", "新幹線", "vs", "夜行バス徹底比較！中洲屋台", "もつ鍋1泊2日モデルコース"],
   openGraph: {
-    title: "大阪から福岡・博多 安く行く方法：新幹線 vs 夜行バス徹底比較！中洲屋台・もつ鍋1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "大阪から福岡・博多 安く行く方法：新幹線 vs 夜行バス徹底比較！中洲屋台・もつ鍋1泊2日モデルコース",
     description: "大阪から博多・福岡へ安く行く方法！山陽新幹線（約15,600円）と夜行高速バス（約3,000円〜）の料金・所要時間を徹底比較。往復2万円以上浮く夜行バスで中洲屋台はしご酒・太宰府天満宮・本場もつ鍋を満喫する1泊2日モデルコース。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "大阪から福岡・博多 安く行く方法：新幹線 vs 夜行バス徹底比較！中洲屋台・もつ鍋1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "大阪から福岡・博多 安く行く方法：新幹線 vs 夜行バス徹底比較！中洲屋台・もつ鍋1泊2日モデルコース",
     description: "大阪から博多・福岡へ安く行く方法！山陽新幹線（約15,600円）と夜行高速バス（約3,000円〜）の料金・所要時間を徹底比較。往復2万円以上浮く夜行バスで中洲屋台はしご酒・太宰府天満宮・本場もつ鍋を満喫する1泊2日モデルコース。",
   }
 };
@@ -359,7 +359,7 @@ export default function HighwayBusArticlePage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                   >
                     ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -401,7 +401,7 @@ export default function HighwayBusArticlePage() {
                 <td className="p-3 text-stone-600">《先着順でのご案内》　1500円（税込）／泊　　26台（普通車6台、ハイルーフ対応20台）</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（3249件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F65439%2F65439.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F65439%2F65439.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天然温泉　八百治の湯　八百治博多ホテル</td>
@@ -410,7 +410,7 @@ export default function HighwayBusArticlePage() {
                 <td className="p-3 text-stone-600">契約駐車場　1,500円（税込）/14時～翌日14時</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（4564件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,450〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5012%2F5012.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5012%2F5012.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 西鉄ホテル　クルーム博多</td>
@@ -419,7 +419,7 @@ export default function HighwayBusArticlePage() {
                 <td className="p-3 text-stone-600">１泊1台２，０００円（税込）14:30～翌12：30</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（6869件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41372%2F41372.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41372%2F41372.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -586,7 +586,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🍓</div>
@@ -605,7 +605,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🎫</div>

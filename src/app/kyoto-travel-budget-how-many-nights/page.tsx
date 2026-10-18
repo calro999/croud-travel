@@ -220,6 +220,8 @@ export default function KyotoNightsGuide() {
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"京都旅行は1泊2日と2泊3日、どちらが満足度が高い？","acceptedAnswer":{"@type":"Answer","text":"初めての京都旅行なら2泊3日が圧倒的におすすめです。1泊2日だと東山と嵐山の2大エリアを駆け足で回るだけで終わってしまいますが、2泊あれば伏見稲荷の千本鳥居、金閣寺・銀閣寺、錦市場の食べ歩きや夜間ライトアップまでゆったり満喫できます。"}},{"@type":"Question","name":"京都観光で一番効率的な移動手段は何ですか？","acceptedAnswer":{"@type":"Answer","text":"地下鉄を主軸にして、駅から遠い寺社のみ市バスや徒歩を組み合わせるのが鉄則です。市バスだけに頼ると京都駅前や東山通りの慢性的な渋滞に巻き込まれ、1日1〜2ヶ所しか回れなくなるリスクがあります。"}}]}) }}
         />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       </section>
     
       {hotels.length > 0 && (
@@ -237,7 +239,7 @@ export default function KyotoNightsGuide() {
                     <a 
                       href={hotel.affiliateUrl} 
                       target="_blank" 
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="text-right text-teal-600 font-bold text-xs hover:underline mt-2"
                     >
                       詳細を見る →
@@ -294,7 +296,7 @@ export default function KyotoNightsGuide() {
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F171184%2F171184.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F171184%2F171184.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 京町家貸切宿　高瀬川七条</td>
@@ -303,7 +305,7 @@ export default function KyotoNightsGuide() {
                 <td className="p-3 text-stone-600">無し　近隣のコインパーキングをご案内致します。</td>
                 <td className="p-3 font-bold text-amber-600">★5（13件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165114%2F165114.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165114%2F165114.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 京町家　八重家といち町</td>
@@ -312,7 +314,7 @@ export default function KyotoNightsGuide() {
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F148999%2F148999.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F148999%2F148999.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ダイワロイネットホテル京都駅前　ＰＲＥＭＩＥＲ</td>
@@ -321,7 +323,7 @@ export default function KyotoNightsGuide() {
                 <td className="p-3 text-stone-600">当ホテルには駐車場、及び提携駐車場がございません。公共交通機関でご来館をお勧めいたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（700件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,625〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153230%2F153230.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153230%2F153230.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルテトラ京都駅前</td>
@@ -330,7 +332,7 @@ export default function KyotoNightsGuide() {
                 <td className="p-3 text-stone-600">無し。近隣のコインパーキングでは１日あたり1000円前後です</td>
                 <td className="p-3 font-bold text-amber-600">★3.9（750件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177012%2F177012.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177012%2F177012.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 天然温泉　花蛍の湯　ドーミーインＰＲＥＭＩＵＭ京都駅前（ドーミーイン・御宿野乃　ホテルズグループ）</td>
@@ -339,7 +341,7 @@ export default function KyotoNightsGuide() {
                 <td className="p-3 text-stone-600">先着順　2,000円(1泊)</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（4982件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,875〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104701%2F104701.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104701%2F104701.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

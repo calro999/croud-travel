@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetToyamaStationHotelsPage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"富山：秋の白えび・紅ズワイガニ満喫！富山駅前の格安・高コスパホテル5選\",\"description\":\"秋の富山湾が誇る極上グルメ「富山湾の宝石・白えび」や旬を迎える紅ズワイガニを堪能！北陸新幹線・富山駅周辺で1泊4,000円台〜泊まれる好立地＆格安おすすめホテル厳選5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-toyama-station-shiroebi-crab-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"富山：秋の白えび・紅ズワイガニ満喫！富山駅前の格安・高コスパホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-toyama-station-shiroebi-crab-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"富山：秋の白えび・紅ズワイガニ満喫！富山駅前の格安・高コスパホテル5選\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"富山城（浮城・安住城）の歴史と散策ハイライト\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-toyama-station-shiroebi-crab-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"アパホテル〈富山駅前南〉\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-toyama-station-shiroebi-crab-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"富山エクセルホテル東急\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-toyama-station-shiroebi-crab-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ホテルグランテラス富山桜橋通り（ＢＢＨホテルグループ）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-toyama-station-shiroebi-crab-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"富山の奥座敷、秘湯の一軒宿　小川温泉元湯　ホテルおがわ\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-toyama-station-shiroebi-crab-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"大仏旅館＜高岡＞\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-toyama-station-shiroebi-crab-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"立山黒部アルペンルート（雪の大谷）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-toyama-station-shiroebi-crab-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"黒部ダム\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-toyama-station-shiroebi-crab-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"雨晴海岸（あまはらしかいがん）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-toyama-station-shiroebi-crab-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"五箇山 合掌造り集落\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-toyama-station-shiroebi-crab-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -149,7 +153,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54041%2F54041.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-sky-600 to-blue-600 hover:from-sky-500 hover:to-blue-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -204,7 +208,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F111246%2F111246.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-sky-600 to-blue-600 hover:from-sky-500 hover:to-blue-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -259,7 +263,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108377%2F108377.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-sky-600 to-blue-600 hover:from-sky-500 hover:to-blue-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -314,7 +318,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15287%2F15287.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-sky-600 to-blue-600 hover:from-sky-500 hover:to-blue-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -369,7 +373,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2101%2F2101.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="sponsored noopener noreferrer"
                 className="block w-full py-3.5 bg-gradient-to-r from-sky-600 to-blue-600 hover:from-sky-500 hover:to-blue-500 text-white font-bold text-center rounded-xl shadow-md transition transform active:scale-[0.99]"
               >
                 楽天トラベルで空室・最安料金を確認する
@@ -429,7 +433,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                 <td className="p-3 text-stone-600">【有】NPC富山駅前スクエア</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（1853件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F111246%2F111246.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F111246%2F111246.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 富山エクセルホテル東急</td>
@@ -438,7 +442,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                 <td className="p-3 text-stone-600">有り【契約駐車場（徒歩約1〜2分）】1400円　（14:00〜翌日11:00／１泊）</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（2725件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F520%2F520.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F520%2F520.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルグランテラス富山桜橋通り（ＢＢＨホテルグループ）</td>
@@ -447,7 +451,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                 <td className="p-3 text-stone-600">先着順地下30台、提携駐車場＝河口ビル　各１泊税込1100円、バスは事前連絡要、トラック不可</td>
                 <td className="p-3 font-bold text-amber-600">★3.84（2122件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,680〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1552%2F1552.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1552%2F1552.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 富山の奥座敷、秘湯の一軒宿　小川温泉元湯　ホテルおがわ</td>
@@ -456,7 +460,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                 <td className="p-3 text-stone-600">有り　１００台　無料　北陸自動車道朝日ＩＣより１５分。</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（887件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1971%2F1971.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1971%2F1971.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 大仏旅館＜高岡＞</td>
@@ -465,7 +469,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                 <td className="p-3 text-stone-600">有り　15台　無料（先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（167件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4657%2F4657.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4657%2F4657.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -642,6 +646,9 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-toyama-station-shiroebi-crab-hotels-stay" />
+        </div>
 
       </main>
   );

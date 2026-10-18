@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tochigi-shiobara-eleven-hotsprings-valley-stay/" },
-  title: "栃木・那須塩原：塩原十一湯・もみじ谷大吊橋＆箒川渓谷露天宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "栃木・那須塩原：塩原十一湯・もみじ谷大吊橋＆箒川渓谷露天宿 厳選ガイド",
   description: "1200年の歴史を誇る開湯伝説と七色の名湯「塩原十一湯」、箒川渓谷美と「もみじ谷大吊橋」、名物スープ入り焼きそばを巡る那須塩原特化ガイド。渓流沿い露天風呂や源泉かけ流し宿を厳選。",
   keywords: ["栃木", "那須塩原", "塩原十一湯", "もみじ谷大吊橋", "箒川渓谷露天宿", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "栃木・那須塩原：塩原十一湯・もみじ谷大吊橋＆箒川渓谷露天宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "栃木・那須塩原：塩原十一湯・もみじ谷大吊橋＆箒川渓谷露天宿 厳選ガイド",
     description: "1200年の歴史を誇る開湯伝説と七色の名湯「塩原十一湯」、箒川渓谷美と「もみじ谷大吊橋」、名物スープ入り焼きそばを巡る那須塩原特化ガイド。渓流沿い露天風呂や源泉かけ流し宿を厳選。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "栃木・那須塩原：塩原十一湯・もみじ谷大吊橋＆箒川渓谷露天宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "栃木・那須塩原：塩原十一湯・もみじ谷大吊橋＆箒川渓谷露天宿 厳選ガイド",
     description: "1200年の歴史を誇る開湯伝説と七色の名湯「塩原十一湯」、箒川渓谷美と「もみじ谷大吊橋」、名物スープ入り焼きそばを巡る那須塩原特化ガイド。渓流沿い露天風呂や源泉かけ流し宿を厳選。",
   }
 };
@@ -211,7 +211,7 @@ export default function MicroTouristHubPage() {
                           <a
                             href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                             target="_blank"
-                            rel="noopener noreferrer"
+                            rel="sponsored noopener noreferrer"
                             className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-teal-700 to-teal-800 hover:from-teal-600 hover:to-teal-700 rounded-xl shadow transition"
                           >
                             ✈️ 楽天トラベルで宿泊プラン・空室を見る

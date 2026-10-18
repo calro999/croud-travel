@@ -237,6 +237,8 @@ export default function MiyazakiNichinanWinterPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 
       {/* Hero Header */}
       <header className="relative bg-gradient-to-br from-slate-950 via-amber-950 to-orange-950 text-white overflow-hidden py-16 px-4 sm:px-6 lg:px-8">

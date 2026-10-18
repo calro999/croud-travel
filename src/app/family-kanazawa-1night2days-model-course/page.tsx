@@ -7,17 +7,17 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/family-kanazawa-1night2days-model-course/" },
-  title: "子連れ金沢旅行 1泊2日モデルコース：ベビーカーOKスポット＆キッズ歓迎・和室ホテルの安心プラン ｜ 日本全国・旅宿クラウド",
+  title: "子連れ金沢旅行 1泊2日モデルコース：ベビーカーOKスポット＆キッズ歓迎・和室ホテルの安心プラン",
   description: "小さなお子様や赤ちゃん連れの金沢1泊2日旅行！21世紀美術館のキッズスペース、兼六園の段差回避ルート、近江町市場の子連れランチ、添い寝無料＆和室ありの金沢駅前おすすめホテルを完全ガイド。",
   keywords: ["子連れ金沢旅行", "1泊2日モデルコース", "ベビーカーOKスポット", "キッズ歓迎", "和室ホテルの安心プラン", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "子連れ金沢旅行 1泊2日モデルコース：ベビーカーOKスポット＆キッズ歓迎・和室ホテルの安心プラン ｜ 日本全国・旅宿クラウド",
+    title: "子連れ金沢旅行 1泊2日モデルコース：ベビーカーOKスポット＆キッズ歓迎・和室ホテルの安心プラン",
     description: "小さなお子様や赤ちゃん連れの金沢1泊2日旅行！21世紀美術館のキッズスペース、兼六園の段差回避ルート、近江町市場の子連れランチ、添い寝無料＆和室ありの金沢駅前おすすめホテルを完全ガイド。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "子連れ金沢旅行 1泊2日モデルコース：ベビーカーOKスポット＆キッズ歓迎・和室ホテルの安心プラン ｜ 日本全国・旅宿クラウド",
+    title: "子連れ金沢旅行 1泊2日モデルコース：ベビーカーOKスポット＆キッズ歓迎・和室ホテルの安心プラン",
     description: "小さなお子様や赤ちゃん連れの金沢1泊2日旅行！21世紀美術館のキッズスペース、兼六園の段差回避ルート、近江町市場の子連れランチ、添い寝無料＆和室ありの金沢駅前おすすめホテルを完全ガイド。",
   }
 };
@@ -410,7 +410,7 @@ export default function FamilyKanazawaModelCoursePage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-700 hover:from-emerald-500 hover:to-teal-500 rounded-xl shadow hover:shadow-md transition"
                   >
                     🏨 楽天トラベルで空室・プランを見る
@@ -467,7 +467,7 @@ export default function FamilyKanazawaModelCoursePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcamp%2F50luxday%2Ftop%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-gradient-to-r from-amber-400 via-orange-400 to-amber-500 text-stone-950 font-black text-sm rounded-2xl shadow-lg hover:shadow-xl hover:brightness-105 transition"
           >
             <span>🎟️ 楽天トラベルの「5と0のつく日」限定クーポンを獲得して金沢宿を予約する</span>

@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-mie-ise-shima-bus-vs-train-guide/" },
-  title: "東京〜伊勢神宮・鳥羽：新幹線＋近鉄特急 vs 直行夜行バス徹底比較！片道4,000円〜行くお伊勢参り＆おかげ横丁1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "東京〜伊勢神宮・鳥羽：新幹線＋近鉄特急 vs 直行夜行バス徹底比較！片道4,000円〜行くお伊勢参り＆おかげ横丁1泊2日モデルコース",
   description: "東京から伊勢神宮・鳥羽へ行くなら近鉄特急と直行夜行バスどっちがお得？料金・所要時間比較！早朝の外宮・内宮早朝参拝とおかげ横丁食べ歩き、鳥羽・伊勢志摩の温泉リゾートを満喫する1泊2日モデルコース。",
   keywords: ["東京〜伊勢神宮", "鳥羽", "新幹線＋近鉄特急", "vs", "おかげ横丁1泊2日モデルコース", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "東京〜伊勢神宮・鳥羽：新幹線＋近鉄特急 vs 直行夜行バス徹底比較！片道4,000円〜行くお伊勢参り＆おかげ横丁1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "東京〜伊勢神宮・鳥羽：新幹線＋近鉄特急 vs 直行夜行バス徹底比較！片道4,000円〜行くお伊勢参り＆おかげ横丁1泊2日モデルコース",
     description: "東京から伊勢神宮・鳥羽へ行くなら近鉄特急と直行夜行バスどっちがお得？料金・所要時間比較！早朝の外宮・内宮早朝参拝とおかげ横丁食べ歩き、鳥羽・伊勢志摩の温泉リゾートを満喫する1泊2日モデルコース。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "東京〜伊勢神宮・鳥羽：新幹線＋近鉄特急 vs 直行夜行バス徹底比較！片道4,000円〜行くお伊勢参り＆おかげ横丁1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "東京〜伊勢神宮・鳥羽：新幹線＋近鉄特急 vs 直行夜行バス徹底比較！片道4,000円〜行くお伊勢参り＆おかげ横丁1泊2日モデルコース",
     description: "東京から伊勢神宮・鳥羽へ行くなら近鉄特急と直行夜行バスどっちがお得？料金・所要時間比較！早朝の外宮・内宮早朝参拝とおかげ横丁食べ歩き、鳥羽・伊勢志摩の温泉リゾートを満喫する1泊2日モデルコース。",
   }
 };
@@ -351,7 +351,7 @@ export default function HighwayBusArticlePage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                   >
                     ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -390,7 +390,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🍓</div>
@@ -409,7 +409,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🎫</div>

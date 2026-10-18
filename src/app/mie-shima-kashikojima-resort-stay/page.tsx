@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/mie-shima-kashikojima-resort-stay/" },
-  title: "三重・志摩賢島：英虞湾リアス多島美＆志摩観光ホテル・伊勢海老極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "三重・志摩賢島：英虞湾リアス多島美＆志摩観光ホテル・伊勢海老極上宿 厳選ガイド",
   description: "伊勢志摩サミットの舞台・賢島エリア完全特化！英虞湾リアス式海岸の夕景、横山展望台天空カフェ、賢島エスパーニャクルーズ、志摩観光ホテルの伝統フレンチと絶景リゾートホテルを徹底解説。",
   keywords: ["三重", "志摩賢島", "英虞湾リアス多島美", "志摩観光ホテル", "伊勢海老極上宿", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "三重・志摩賢島：英虞湾リアス多島美＆志摩観光ホテル・伊勢海老極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "三重・志摩賢島：英虞湾リアス多島美＆志摩観光ホテル・伊勢海老極上宿 厳選ガイド",
     description: "伊勢志摩サミットの舞台・賢島エリア完全特化！英虞湾リアス式海岸の夕景、横山展望台天空カフェ、賢島エスパーニャクルーズ、志摩観光ホテルの伝統フレンチと絶景リゾートホテルを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "三重・志摩賢島：英虞湾リアス多島美＆志摩観光ホテル・伊勢海老極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "三重・志摩賢島：英虞湾リアス多島美＆志摩観光ホテル・伊勢海老極上宿 厳選ガイド",
     description: "伊勢志摩サミットの舞台・賢島エリア完全特化！英虞湾リアス式海岸の夕景、横山展望台天空カフェ、賢島エスパーニャクルーズ、志摩観光ホテルの伝統フレンチと絶景リゾートホテルを徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">屋外、無料、66台</td>
                 <td className="p-3 font-bold text-amber-600">★4.72（959件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,005〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1150%2F1150.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1150%2F1150.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. クインテッサホテル伊勢志摩</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">無料先着70台※地上43台 地下27台 高さ2.3mまで※トラック・バスは事前予約制（有料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（1662件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,835〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16258%2F16258.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16258%2F16258.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 志摩観光ホテル　ザ　ベイスイート</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">屋外、無料、49台</td>
                 <td className="p-3 font-bold text-amber-600">★4.89（295件）</td>
                 <td className="p-3 font-bold text-rose-600">¥25,509〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F105964%2F105964.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F105964%2F105964.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. フレックスホテル（FREX　HOTEL）</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">無料駐車場約300台あり！ホテル建物周りおよび建物裏に有ります。</td>
                 <td className="p-3 font-bold text-amber-600">★3.91（2120件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,750〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F966%2F966.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F966%2F966.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテル志摩スペイン村</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　170台　先着順　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（2571件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7770%2F7770.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7770%2F7770.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 石鏡温泉源泉の宿　ホテルいじか荘</td>
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　30台</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（450件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F27854%2F27854.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F27854%2F27854.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

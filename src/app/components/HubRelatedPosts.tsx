@@ -22,25 +22,50 @@ export default function HubRelatedPosts({ currentSlug, prefecture }: HubRelatedP
     }
   }
 
-  // 同都道府県の宿を優先、なければ人気宿
+  // スラッグからテーマキーワードを推測して関連度を高める
+  const themeKeywords: string[] = [];
+  if (currentSlug.includes("onsen") || currentSlug.includes("hotspring") || currentSlug.includes("ryokan")) themeKeywords.push("温泉", "露天", "旅館");
+  if (currentSlug.includes("sauna")) themeKeywords.push("サウナ", "水風呂");
+  if (currentSlug.includes("family") || currentSlug.includes("kids") || currentSlug.includes("baby")) themeKeywords.push("子連れ", "ファミリー", "キッズ", "プール");
+  if (currentSlug.includes("couple") || currentSlug.includes("anniversary") || currentSlug.includes("luxury")) themeKeywords.push("カップル", "記念日", "露天風呂付き客室", "高級");
+  if (currentSlug.includes("solo") || currentSlug.includes("workation")) themeKeywords.push("一人旅", "ビジネス", "駅近");
+  if (currentSlug.includes("pet") || currentSlug.includes("dog")) themeKeywords.push("ペット", "犬", "ドッグ");
+  if (currentSlug.includes("all-inclusive") || currentSlug.includes("buffet") || currentSlug.includes("crab") || currentSlug.includes("gourmet")) themeKeywords.push("バイキング", "ビュッフェ", "食べ放題", "美食", "懐石");
+
+  // ハッシュによる決定論的シード
+  let seed = 0;
+  for (let i = 0; i < currentSlug.length; i++) {
+    seed = (seed * 31 + currentSlug.charCodeAt(i)) % 10000;
+  }
+
+  const scoreCandidate = (p: PostSummary, idx: number) => {
+    let score = 0;
+    const text = `${p.title || ""} ${p.hotel_name || ""} ${p.area || ""} ${p.description || ""}`;
+    for (const kw of themeKeywords) {
+      if (text.includes(kw)) score += 15;
+    }
+    const r = Number(p.rating);
+    if (!isNaN(r) && r > 0) score += r * 4;
+    return score + (((idx * 29 + seed) % 19) * 0.5);
+  };
+
+  // 同都道府県の宿を優先、なければテーマ合致＆高評価宿
   const samePref = targetPref ? allPosts.filter(p => p.prefecture === targetPref) : [];
   const otherPosts = allPosts.filter(p => p.prefecture !== targetPref);
 
-  // ハッシュによるローテーション
-  let seed = 0;
-  for (let i = 0; i < currentSlug.length; i++) {
-    seed = (seed + currentSlug.charCodeAt(i)) % 1000;
-  }
+  const sortedSame = [...samePref]
+    .map((p, idx) => ({ p, s: scoreCandidate(p, idx) }))
+    .sort((a, b) => b.s - a.s)
+    .map(x => x.p);
 
-  const offsetSame = samePref.length > 0 ? seed % samePref.length : 0;
-  const rotatedSame = [...samePref.slice(offsetSame), ...samePref.slice(0, offsetSame)];
-
-  const offsetOther = otherPosts.length > 0 ? (seed * 13) % otherPosts.length : 0;
-  const rotatedOther = [...otherPosts.slice(offsetOther), ...otherPosts.slice(0, offsetOther)];
+  const sortedOther = [...otherPosts]
+    .map((p, idx) => ({ p, s: scoreCandidate(p, idx) }))
+    .sort((a, b) => b.s - a.s)
+    .map(x => x.p);
 
   const selected = [
-    ...rotatedSame.slice(0, 4),
-    ...rotatedOther.slice(0, Math.max(0, 6 - Math.min(rotatedSame.length, 4)))
+    ...sortedSame.slice(0, 4),
+    ...sortedOther.slice(0, Math.max(0, 6 - Math.min(sortedSame.length, 4)))
   ].slice(0, 6);
 
   const prefSlug = PREFECTURES_DATA.find(p => p.name === targetPref)?.slug;
@@ -53,12 +78,12 @@ export default function HubRelatedPosts({ currentSlug, prefecture }: HubRelatedP
             RECOMMENDED STAYS & REVIEWS
           </span>
           <h3 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950">
-            {targetPref ? `${targetPref}＆周辺エリアの厳選宿ルポ` : "全国の注目・人気宿ルポ"}
+            {targetPref ? `${targetPref}＆周辺エリアの厳選宿ルポ` : "全国の注目・高評価宿ルポ"}
           </h3>
         </div>
         {prefSlug && (
           <Link
-            href={`/prefectures/${prefSlug}`}
+            href={`/prefectures/${prefSlug}/`}
             className="text-xs font-bold text-teal-800 hover:text-teal-900 underline flex items-center gap-1"
           >
             {targetPref}の宿泊・観光ガイド一覧へ →
@@ -76,9 +101,12 @@ export default function HubRelatedPosts({ currentSlug, prefecture }: HubRelatedP
               {post.image ? (
                 <img
                   src={post.image}
-                  alt={post.hotel_name}
+                  alt={`${post.hotel_name}（${post.prefecture}・${post.area || ""}）`}
+                  width={600}
+                  height={375}
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                   loading="lazy"
+                  decoding="async"
                 />
               ) : (
                 <div className="w-full h-full flex items-center justify-center text-xs text-emerald-950/30">
@@ -117,7 +145,7 @@ export default function HubRelatedPosts({ currentSlug, prefecture }: HubRelatedP
 
               <div className="pt-2 border-t border-emerald-950/5">
                 <Link
-                  href={`/posts/${post.id}`}
+                  href={`/posts/${post.id}/`}
                   className="block w-full text-center py-2 text-xs font-bold text-teal-950 bg-teal-50 hover:bg-teal-100 rounded-xl transition"
                 >
                   宿泊ルポを読む →

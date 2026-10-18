@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-south-izu-shimoda-beach-stay/" },
-  title: "静岡・南伊豆＆下田・ヒリゾ浜：開国の港街・白浜海岸＆秘境シュノーケリング・金目鯛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "静岡・南伊豆＆下田・ヒリゾ浜：開国の港街・白浜海岸＆秘境シュノーケリング・金目鯛宿 厳選ガイド",
   description: "伊豆半島最南端のエメラルドグリーンパラダイス・南伊豆＆下田エリア完全特化！ペリー来航の歴史「下田ペリーロード」、本州屈指の透明度「ヒリゾ浜」、白砂の「白浜大浜海岸」、石廊崎オーシャンパーク、下田温泉・南伊豆金目鯛宿を徹底解説。",
   keywords: ["静岡", "南伊豆", "下田", "ヒリゾ浜", "開国の港街", "白浜海岸", "秘境シュノーケリング"],
   openGraph: {
-    title: "静岡・南伊豆＆下田・ヒリゾ浜：開国の港街・白浜海岸＆秘境シュノーケリング・金目鯛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "静岡・南伊豆＆下田・ヒリゾ浜：開国の港街・白浜海岸＆秘境シュノーケリング・金目鯛宿 厳選ガイド",
     description: "伊豆半島最南端のエメラルドグリーンパラダイス・南伊豆＆下田エリア完全特化！ペリー来航の歴史「下田ペリーロード」、本州屈指の透明度「ヒリゾ浜」、白砂の「白浜大浜海岸」、石廊崎オーシャンパーク、下田温泉・南伊豆金目鯛宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "静岡・南伊豆＆下田・ヒリゾ浜：開国の港街・白浜海岸＆秘境シュノーケリング・金目鯛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "静岡・南伊豆＆下田・ヒリゾ浜：開国の港街・白浜海岸＆秘境シュノーケリング・金目鯛宿 厳選ガイド",
     description: "伊豆半島最南端のエメラルドグリーンパラダイス・南伊豆＆下田エリア完全特化！ペリー来航の歴史「下田ペリーロード」、本州屈指の透明度「ヒリゾ浜」、白砂の「白浜大浜海岸」、石廊崎オーシャンパーク、下田温泉・南伊豆金目鯛宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">同敷地内旅館建物沿い裏手に屋外駐車場有り　宿泊者無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（57件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F138065%2F138065.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F138065%2F138065.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 南伊豆弓ヶ浜温泉　季一遊</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　４０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（708件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,750〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67430%2F67430.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67430%2F67430.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 南伊豆弓ヶ浜温泉　古民家の宿　山海</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り（無料）　乗用車15台</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（1043件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5252%2F5252.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5252%2F5252.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 南伊豆弓ヶ浜温泉　なごみ詩</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">アスファルト舗装　６台　無料　平らで一台分のスペース広く止めやすさ抜群　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（214件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72672%2F72672.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72672%2F72672.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 弓ヶ浜温泉　くつろぎと料理の御宿　花さと</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　１０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（495件）</td>
                 <td className="p-3 font-bold text-rose-600">¥20,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40166%2F40166.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40166%2F40166.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ホテル四季の蔵　高台から海を臨む　貸切温泉のペットリゾート</td>
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（351件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,710〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30048%2F30048.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30048%2F30048.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

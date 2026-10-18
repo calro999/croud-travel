@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/sake-lees-bath-fermentation-beauty-detox-stay/" },
-  title: "酒粕風呂・日本酒風呂＆発酵美肌デトックス宿：杜氏の手の白さ・糀スパ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "酒粕風呂・日本酒風呂＆発酵美肌デトックス宿：杜氏の手の白さ・糀スパ 厳選ガイド",
   description: "杜氏の手の美しさの秘密！酒粕風呂・日本酒風呂＆発酵料理デトックス宿完全特化！新潟松之山、京都丹後、栃木日光、純米酒の天然アミノ酸とコウジ酸がもたらす全身しっとり美肌体験、塩糀・甘酒の発酵朝食バイキング、温活スパを徹底解説。",
   keywords: ["酒粕風呂", "日本酒風呂", "発酵美肌デトックス宿", "杜氏の手の白さ", "糀スパ", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "酒粕風呂・日本酒風呂＆発酵美肌デトックス宿：杜氏の手の白さ・糀スパ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "酒粕風呂・日本酒風呂＆発酵美肌デトックス宿：杜氏の手の白さ・糀スパ 厳選ガイド",
     description: "杜氏の手の美しさの秘密！酒粕風呂・日本酒風呂＆発酵料理デトックス宿完全特化！新潟松之山、京都丹後、栃木日光、純米酒の天然アミノ酸とコウジ酸がもたらす全身しっとり美肌体験、塩糀・甘酒の発酵朝食バイキング、温活スパを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "酒粕風呂・日本酒風呂＆発酵美肌デトックス宿：杜氏の手の白さ・糀スパ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "酒粕風呂・日本酒風呂＆発酵美肌デトックス宿：杜氏の手の白さ・糀スパ 厳選ガイド",
     description: "杜氏の手の美しさの秘密！酒粕風呂・日本酒風呂＆発酵料理デトックス宿完全特化！新潟松之山、京都丹後、栃木日光、純米酒の天然アミノ酸とコウジ酸がもたらす全身しっとり美肌体験、塩糀・甘酒の発酵朝食バイキング、温活スパを徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function SakeTourismHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-700 to-stone-800 hover:from-amber-600 hover:to-stone-700 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

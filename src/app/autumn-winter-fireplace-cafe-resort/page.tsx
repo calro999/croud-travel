@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-fireplace-cafe-resort/" },
-  title: "暖炉と珈琲：パチパチ薪が燃える！大人の隠れ家クラシックホテル 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "暖炉と珈琲：パチパチ薪が燃える！大人の隠れ家クラシックホテル 厳選ガイド",
   description: "静かな冬の読書と美食。長野・軽井沢、栃木・日光金谷ホテル、神奈川・箱根宮ノ下富士屋ホテル、長野・松本民芸の宿など、本物の暖炉ラウンジと歴史的建築美を誇るクラシックリゾートを徹底解説。",
   keywords: ["暖炉と珈琲", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: "暖炉と珈琲：パチパチ薪が燃える！大人の隠れ家クラシックホテル 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "暖炉と珈琲：パチパチ薪が燃える！大人の隠れ家クラシックホテル 厳選ガイド",
     description: "静かな冬の読書と美食。長野・軽井沢、栃木・日光金谷ホテル、神奈川・箱根宮ノ下富士屋ホテル、長野・松本民芸の宿など、本物の暖炉ラウンジと歴史的建築美を誇るクラシックリゾートを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "暖炉と珈琲：パチパチ薪が燃える！大人の隠れ家クラシックホテル 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "暖炉と珈琲：パチパチ薪が燃える！大人の隠れ家クラシックホテル 厳選ガイド",
     description: "静かな冬の読書と美食。長野・軽井沢、栃木・日光金谷ホテル、神奈川・箱根宮ノ下富士屋ホテル、長野・松本民芸の宿など、本物の暖炉ラウンジと歴史的建築美を誇るクラシックリゾートを徹底解説。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

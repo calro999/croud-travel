@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/aso-kumamoto-car-free-trip-guide/" },
-  title: "熊本・阿蘇 車なし観光 1泊2日モデルコース：観光特急あそぼーい！＆産交バスで行くカルデラ大自然旅 ｜ 日本全国・旅宿クラウド",
+  title: "熊本・阿蘇 車なし観光 1泊2日モデルコース：観光特急あそぼーい！＆産交バスで行くカルデラ大自然旅",
   description: "運転免許なしでも阿蘇の絶景は回れる！熊本駅から特急あそぼーい！・九州横断特急、阿蘇火口シャトルバス、草千里ヶ浜、あか牛丼ランチ、阿蘇駅チカ温泉宿を満喫する公共交通パーフェクトプラン。",
   keywords: ["熊本", "阿蘇", "車なし観光", "1泊2日モデルコース", "観光特急あそぼーい！", "産交バスで行くカルデラ大自然旅", "温泉宿"],
   openGraph: {
-    title: "熊本・阿蘇 車なし観光 1泊2日モデルコース：観光特急あそぼーい！＆産交バスで行くカルデラ大自然旅 ｜ 日本全国・旅宿クラウド",
+    title: "熊本・阿蘇 車なし観光 1泊2日モデルコース：観光特急あそぼーい！＆産交バスで行くカルデラ大自然旅",
     description: "運転免許なしでも阿蘇の絶景は回れる！熊本駅から特急あそぼーい！・九州横断特急、阿蘇火口シャトルバス、草千里ヶ浜、あか牛丼ランチ、阿蘇駅チカ温泉宿を満喫する公共交通パーフェクトプラン。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "熊本・阿蘇 車なし観光 1泊2日モデルコース：観光特急あそぼーい！＆産交バスで行くカルデラ大自然旅 ｜ 日本全国・旅宿クラウド",
+    title: "熊本・阿蘇 車なし観光 1泊2日モデルコース：観光特急あそぼーい！＆産交バスで行くカルデラ大自然旅",
     description: "運転免許なしでも阿蘇の絶景は回れる！熊本駅から特急あそぼーい！・九州横断特急、阿蘇火口シャトルバス、草千里ヶ浜、あか牛丼ランチ、阿蘇駅チカ温泉宿を満喫する公共交通パーフェクトプラン。",
   }
 };
@@ -242,7 +242,7 @@ export default function AsoKumamotoCarFreePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcoupon%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="whitespace-nowrap px-6 py-3 bg-stone-950 hover:bg-stone-900 text-amber-300 hover:text-amber-200 text-xs sm:text-sm font-black rounded-xl shadow-lg transition flex items-center gap-1.5"
           >
             <span>🏷️ クーポンを獲得する</span>
@@ -302,7 +302,7 @@ export default function AsoKumamotoCarFreePage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="whitespace-nowrap px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white text-xs font-black rounded-xl shadow transition"
             >
               🚌 九州の高速バスを検索
@@ -491,7 +491,7 @@ export default function AsoKumamotoCarFreePage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                     >
                       ♨️ 楽天トラベルでプラン・空室を確認

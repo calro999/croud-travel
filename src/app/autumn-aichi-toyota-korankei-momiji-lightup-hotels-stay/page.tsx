@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の香嵐渓：4000本のもみじ狩りと巴川ライトアップ！三河の名湯と美食を味わうおすすめ宿5選「2026最新」',
     description: '東海随一の紅葉名所・足助「香嵐渓」の約4,000本のもみじと待月橋ライトアップ！三河の名湯宿5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-aichi-toyota-korankei-momiji-lightup-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-aichi-toyota-korankei-momiji-lightup-hotels-stay',
   }
 };
 
 export default function KorankeiAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の香嵐渓：4000本のもみじ狩りと巴川ライトアップ！三河の名湯と美食を味わうおすすめ宿5選「2026最新」\",\"description\":\"東海随一の紅葉名所・足助「香嵐渓」の約4,000本のもみじと巴川に架かる待月橋！黄金色に輝く夜間ライトアップと名物五平餅。天然ラドン温泉の猿投温泉や足助の隠れ家宿など厳選5選。木もれ日、金泉閣、川澄屋を徹底比較！\",\"url\":\"https://croud-travel.pages.dev/autumn-aichi-toyota-korankei-momiji-lightup-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の香嵐渓：4000本のもみじ狩りと巴川ライトアップ！三河の名湯と美食を味わうおすすめ宿5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-aichi-toyota-korankei-momiji-lightup-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の香嵐渓：4000本のもみじ狩りと巴川ライトアップ！三河の名湯と美食を味わうおすすめ宿5選「2026最新」\",\"numberOfItems\":9,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"しあわせ隠れ里　猿投温泉　癒しの宿　金泉閣\",\"url\":\"https://croud-travel.pages.dev/autumn-aichi-toyota-korankei-momiji-lightup-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"せせらぎの宿　木もれ日\",\"url\":\"https://croud-travel.pages.dev/autumn-aichi-toyota-korankei-momiji-lightup-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"川澄屋　茶房宿\",\"url\":\"https://croud-travel.pages.dev/autumn-aichi-toyota-korankei-momiji-lightup-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"名鉄トヨタホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-aichi-toyota-korankei-momiji-lightup-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"ホテルルートイン豊田陣中\",\"url\":\"https://croud-travel.pages.dev/autumn-aichi-toyota-korankei-momiji-lightup-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"名古屋城\",\"url\":\"https://croud-travel.pages.dev/autumn-aichi-toyota-korankei-momiji-lightup-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"国宝 犬山城\",\"url\":\"https://croud-travel.pages.dev/autumn-aichi-toyota-korankei-momiji-lightup-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"熱田神宮\",\"url\":\"https://croud-travel.pages.dev/autumn-aichi-toyota-korankei-momiji-lightup-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"オアシス21・中日ビル\",\"url\":\"https://croud-travel.pages.dev/autumn-aichi-toyota-korankei-momiji-lightup-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/7144/7144.jpg"
@@ -142,7 +146,7 @@ export default function KorankeiAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182757%2F182757.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function KorankeiAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39400%2F39400.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function KorankeiAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7144%2F7144.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function KorankeiAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67976%2F67976.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function KorankeiAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104590%2F104590.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function KorankeiAutumnPage() {
                 <td className="p-3 text-stone-600">有り　200台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（257件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7144%2F7144.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7144%2F7144.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. せせらぎの宿　木もれ日</td>
@@ -396,7 +400,7 @@ export default function KorankeiAutumnPage() {
                 <td className="p-3 text-stone-600">有り　4台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★5（7件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182757%2F182757.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182757%2F182757.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 川澄屋　茶房宿</td>
@@ -405,7 +409,7 @@ export default function KorankeiAutumnPage() {
                 <td className="p-3 text-stone-600">有り　１５台　無料　先着順　大型可 予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（303件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,450〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39400%2F39400.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39400%2F39400.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 名鉄トヨタホテル</td>
@@ -414,7 +418,7 @@ export default function KorankeiAutumnPage() {
                 <td className="p-3 text-stone-600">有り　５００台　無料(市営提携駐車場『フリーパーキング』）</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（753件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,637〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67976%2F67976.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67976%2F67976.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルルートイン豊田陣中</td>
@@ -423,7 +427,7 @@ export default function KorankeiAutumnPage() {
                 <td className="p-3 text-stone-600">有り　７８台　無料　予約不要　中型車・大型車受入不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（684件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104590%2F104590.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104590%2F104590.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -600,6 +604,9 @@ export default function KorankeiAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-aichi-toyota-korankei-momiji-lightup-hotels-stay" />
+        </div>
 
       </article>
   );

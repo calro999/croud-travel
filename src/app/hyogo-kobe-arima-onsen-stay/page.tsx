@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hyogo-kobe-arima-onsen-stay/" },
-  title: "兵庫・神戸有馬温泉：金泉・銀泉の奇跡の名湯＆六甲山夜景・神戸牛極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "兵庫・神戸有馬温泉：金泉・銀泉の奇跡の名湯＆六甲山夜景・神戸牛極上宿 厳選ガイド",
   description: "日本三古湯・日本三名泉の有馬温泉エリア完全特化！茶褐色の「金泉」と無色透明炭酸泉の「銀泉」、湯本坂レトロ散策、六甲有馬ロープウェー、極上神戸牛ステーキと老舗名門旅館を徹底解説。",
   keywords: ["兵庫", "神戸有馬温泉", "金泉", "銀泉の奇跡の名湯", "六甲山夜景", "神戸牛極上宿", "温泉宿"],
   openGraph: {
-    title: "兵庫・神戸有馬温泉：金泉・銀泉の奇跡の名湯＆六甲山夜景・神戸牛極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "兵庫・神戸有馬温泉：金泉・銀泉の奇跡の名湯＆六甲山夜景・神戸牛極上宿 厳選ガイド",
     description: "日本三古湯・日本三名泉の有馬温泉エリア完全特化！茶褐色の「金泉」と無色透明炭酸泉の「銀泉」、湯本坂レトロ散策、六甲有馬ロープウェー、極上神戸牛ステーキと老舗名門旅館を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "兵庫・神戸有馬温泉：金泉・銀泉の奇跡の名湯＆六甲山夜景・神戸牛極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "兵庫・神戸有馬温泉：金泉・銀泉の奇跡の名湯＆六甲山夜景・神戸牛極上宿 厳選ガイド",
     description: "日本三古湯・日本三名泉の有馬温泉エリア完全特化！茶褐色の「金泉」と無色透明炭酸泉の「銀泉」、湯本坂レトロ散策、六甲有馬ロープウェー、極上神戸牛ステーキと老舗名門旅館を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

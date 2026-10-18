@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/drive-touring-garage-onsen-stay/" },
-  title: "愛車・ドライブ旅の温泉宿：絶景ワインディング・屋内ガレージ＆EV充電 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "愛車・ドライブ旅の温泉宿：絶景ワインディング・屋内ガレージ＆EV充電 厳選ガイド",
   description: "車好き・ツーリング愛好家完全特化！ビーナスライン・伊豆スカイライン・阿蘇パノラマライン直結、大切な愛車・バイクを守る屋内ガレージ＆屋根付き駐車場、EV充電スタンド完備、絶景ワインディングと温泉宿を徹底解説。",
   keywords: ["愛車", "ドライブ旅の温泉宿", "絶景ワインディング", "屋内ガレージ", "EV充電", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "愛車・ドライブ旅の温泉宿：絶景ワインディング・屋内ガレージ＆EV充電 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "愛車・ドライブ旅の温泉宿：絶景ワインディング・屋内ガレージ＆EV充電 厳選ガイド",
     description: "車好き・ツーリング愛好家完全特化！ビーナスライン・伊豆スカイライン・阿蘇パノラマライン直結、大切な愛車・バイクを守る屋内ガレージ＆屋根付き駐車場、EV充電スタンド完備、絶景ワインディングと温泉宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "愛車・ドライブ旅の温泉宿：絶景ワインディング・屋内ガレージ＆EV充電 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "愛車・ドライブ旅の温泉宿：絶景ワインディング・屋内ガレージ＆EV充電 厳選ガイド",
     description: "車好き・ツーリング愛好家完全特化！ビーナスライン・伊豆スカイライン・阿蘇パノラマライン直結、大切な愛車・バイクを守る屋内ガレージ＆屋根付き駐車場、EV充電スタンド完備、絶景ワインディングと温泉宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function TransitStyleHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">★5（15件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F186406%2F186406.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F186406%2F186406.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 白樺湖　サンシャイン　ロッジ</td>
@@ -261,7 +261,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">有り　15台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（156件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6088%2F6088.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6088%2F6088.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 白樺湖レイクサイドホテル山幸閣</td>
@@ -270,7 +270,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.13（213件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5193%2F5193.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5193%2F5193.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 湯檜曾（ゆびそ）温泉　清風かおる湯宿　林屋旅館</td>
@@ -279,7 +279,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">有り　２０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（151件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,150〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18948%2F18948.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18948%2F18948.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 大湯温泉　湯元庄屋　和泉屋旅館＜新潟県＞</td>
@@ -288,7 +288,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">有り　４０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.76（241件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2008%2F2008.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2008%2F2008.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 四万温泉　あやめや旅館</td>
@@ -297,7 +297,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">有り（無料）　12台　先着順   ご利用のお客様は、四万温泉入り口で事前にお電話お願いいたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（445件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,460〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13902%2F13902.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13902%2F13902.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

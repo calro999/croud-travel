@@ -725,31 +725,31 @@ export default function FukuokaChristmasPage() {
           </div>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs sm:text-sm">
             <Link 
-              href="/prefectures/fukuoka" 
+              href="/prefectures/fukuoka/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-rose-50 hover:text-rose-600 transition font-medium border border-stone-100"
             >
               福岡県の温泉宿・ホテル一覧 →
             </Link>
             <Link 
-              href="/prefectures/saga" 
+              href="/prefectures/saga/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-rose-50 hover:text-rose-600 transition font-medium border border-stone-100"
             >
               佐賀県（嬉野・武雄）の宿 →
             </Link>
             <Link 
-              href="/prefectures/nagasaki" 
+              href="/prefectures/nagasaki/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-rose-50 hover:text-rose-600 transition font-medium border border-stone-100"
             >
               長崎県（ハウステンボス等）の宿 →
             </Link>
             <Link 
-              href="/prefectures/oita" 
+              href="/prefectures/oita/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-rose-50 hover:text-rose-600 transition font-medium border border-stone-100"
             >
               大分県（別府・由布院）の宿 →
             </Link>
             <Link 
-              href="/prefectures/kumamoto" 
+              href="/prefectures/kumamoto/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-rose-50 hover:text-rose-600 transition font-medium border border-stone-100"
             >
               熊本県（黒川温泉・阿蘇）の宿 →

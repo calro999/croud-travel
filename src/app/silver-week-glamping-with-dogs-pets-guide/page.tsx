@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-with-dogs-pets-guide/" },
-  title: "愛犬と泊まるシルバーウィーク グランピング：プライベートドッグラン付き＆ノーリードOKの極上ヴィラ ｜ 日本全国・旅宿クラウド",
+  title: "愛犬と泊まるシルバーウィーク グランピング：プライベートドッグラン付き＆ノーリードOKの極上ヴィラ",
   description:
     "ワンちゃんと一緒に秋の連休を満喫！客室直結のプライベート芝生ドッグラン、足洗い場・ペット用アメニティ完備、大型犬OK・多頭飼い対応のグランピング施設特集。涼しくなる9月がベストシーズンの理由。",
   keywords: ["愛犬と泊まるシルバーウィーク", "グランピング", "プライベートドッグラン付き", "ノーリードOKの極上ヴィラ", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "愛犬と泊まるシルバーウィーク グランピング：プライベートドッグラン付き＆ノーリードOKの極上ヴィラ ｜ 日本全国・旅宿クラウド",
+    title: "愛犬と泊まるシルバーウィーク グランピング：プライベートドッグラン付き＆ノーリードOKの極上ヴィラ",
     description: "ワンちゃんと一緒に秋の連休を満喫！客室直結のプライベート芝生ドッグラン、足洗い場・ペット用アメニティ完備、大型犬OK・多頭飼い対応のグランピング施設特集。涼しくなる9月がベストシーズンの理由。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "愛犬と泊まるシルバーウィーク グランピング：プライベートドッグラン付き＆ノーリードOKの極上ヴィラ ｜ 日本全国・旅宿クラウド",
+    title: "愛犬と泊まるシルバーウィーク グランピング：プライベートドッグラン付き＆ノーリードOKの極上ヴィラ",
     description: "ワンちゃんと一緒に秋の連休を満喫！客室直結のプライベート芝生ドッグラン、足洗い場・ペット用アメニティ完備、大型犬OK・多頭飼い対応のグランピング施設特集。涼しくなる9月がベストシーズンの理由。",
   }
 };
@@ -300,7 +300,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center px-4 py-2.5 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5"
                     >
                       楽天トラベルでプランを見る ➔
@@ -424,25 +424,25 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/fukuoka"
+                href="/prefectures/fukuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 福岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nara"
+                href="/prefectures/nara/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 奈良県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/chiba"
+                href="/prefectures/chiba/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 千葉県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/aichi"
+                href="/prefectures/aichi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 愛知県の宿・温泉
@@ -487,7 +487,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
                 <td className="p-3 text-stone-600">あり　4台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥9,315〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F198865%2F198865.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F198865%2F198865.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. キャメルホテル＆グランピングリゾート</td>
@@ -496,7 +496,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
                 <td className="p-3 text-stone-600">有り　２００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（1336件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128423%2F128423.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128423%2F128423.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. グランピングリゾート　ブリリアントヴィレッジ日光</td>
@@ -505,7 +505,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
                 <td className="p-3 text-stone-600">18台の無料駐車場有り／ご予約不要／他臨時駐車場有</td>
                 <td className="p-3 font-bold text-amber-600">★4.87（76件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F189179%2F189179.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F189179%2F189179.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ファームグランピング　ルクロ　かいづかいぶきヴィレッジ</td>
@@ -514,7 +514,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
                 <td className="p-3 text-stone-600">有り　６０台　無料　ご予約不要　※テント横まで車を横付けできます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.23（152件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184095%2F184095.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184095%2F184095.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. オーシャングランピング日立</td>
@@ -523,7 +523,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
                 <td className="p-3 text-stone-600">有り　4台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4（27件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F189016%2F189016.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F189016%2F189016.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

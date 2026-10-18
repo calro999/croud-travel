@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hakone-daytrip-hotspring-lunch-guide/" },
-  title: "箱根 日帰り温泉 ランチ付きおすすめ：個室休憩＆貸切風呂・老舗旅館の贅沢日帰りプラン完全比較 ｜ 日本全国・旅宿クラウド",
+  title: "箱根 日帰り温泉 ランチ付きおすすめ：個室休憩＆貸切風呂・老舗旅館の贅沢日帰りプラン完全比較",
   description: "箱根の日帰り温泉ランチ付きプランを徹底解説！箱根湯本駅チカ旅館の懐石ランチ、強羅のにごり湯＆個室付きプラン、絶景露天風呂と湯葉料理がセットになった日帰り贅沢ステイの料金・予約方法。",
   keywords: ["箱根", "日帰り温泉", "ランチ付きおすすめ", "個室休憩", "貸切風呂", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "箱根 日帰り温泉 ランチ付きおすすめ：個室休憩＆貸切風呂・老舗旅館の贅沢日帰りプラン完全比較 ｜ 日本全国・旅宿クラウド",
+    title: "箱根 日帰り温泉 ランチ付きおすすめ：個室休憩＆貸切風呂・老舗旅館の贅沢日帰りプラン完全比較",
     description: "箱根の日帰り温泉ランチ付きプランを徹底解説！箱根湯本駅チカ旅館の懐石ランチ、強羅のにごり湯＆個室付きプラン、絶景露天風呂と湯葉料理がセットになった日帰り贅沢ステイの料金・予約方法。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "箱根 日帰り温泉 ランチ付きおすすめ：個室休憩＆貸切風呂・老舗旅館の贅沢日帰りプラン完全比較 ｜ 日本全国・旅宿クラウド",
+    title: "箱根 日帰り温泉 ランチ付きおすすめ：個室休憩＆貸切風呂・老舗旅館の贅沢日帰りプラン完全比較",
     description: "箱根の日帰り温泉ランチ付きプランを徹底解説！箱根湯本駅チカ旅館の懐石ランチ、強羅のにごり湯＆個室付きプラン、絶景露天風呂と湯葉料理がセットになった日帰り贅沢ステイの料金・予約方法。",
   }
 };
@@ -351,7 +351,7 @@ export default function HakoneDaytripHotspringLunchPage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="w-full text-center py-3 bg-gradient-to-r from-cyan-400 to-teal-400 hover:brightness-110 text-slate-950 font-black text-xs md:text-sm rounded-xl shadow-lg transition"
             >
               👉 楽天トラベル 日帰りバスツアーを見る
@@ -369,7 +369,7 @@ export default function HakoneDaytripHotspringLunchPage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="w-full text-center py-3 bg-white/20 hover:bg-white/30 text-white font-black text-xs md:text-sm rounded-xl border border-white/30 transition"
             >
               🎟️ 高速バス・ツアークーポンをチェック
@@ -436,7 +436,7 @@ export default function HakoneDaytripHotspringLunchPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-3 text-xs font-black text-white bg-gradient-to-r from-cyan-600 to-teal-600 hover:from-cyan-500 hover:to-teal-500 rounded-xl shadow transition"
                   >
                     ♨️ 楽天トラベルでプラン・空室を見る

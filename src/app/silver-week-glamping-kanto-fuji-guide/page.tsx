@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-kanto-fuji-guide/" },
-  title: "シルバーウィーク2026 富士山・関東グランピング：客室天然温泉＆富士絶景ドームテントおすすめ厳選 ｜ 日本全国・旅宿クラウド",
+  title: "シルバーウィーク2026 富士山・関東グランピング：客室天然温泉＆富士絶景ドームテントおすすめ厳選",
   description:
     "9月シルバーウィークに行きたい関東・富士五湖周辺の最高峰グランピング特集！部屋から富士山を望む大型ドームテント、客室専用の天然温泉露天風呂、焚き火と秋風を楽しむラグジュアリーステイ予約ガイド。",
   keywords: ["シルバーウィーク2026", "富士山", "関東グランピング", "客室天然温泉", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "シルバーウィーク2026 富士山・関東グランピング：客室天然温泉＆富士絶景ドームテントおすすめ厳選 ｜ 日本全国・旅宿クラウド",
+    title: "シルバーウィーク2026 富士山・関東グランピング：客室天然温泉＆富士絶景ドームテントおすすめ厳選",
     description: "9月シルバーウィークに行きたい関東・富士五湖周辺の最高峰グランピング特集！部屋から富士山を望む大型ドームテント、客室専用の天然温泉露天風呂、焚き火と秋風を楽しむラグジュアリーステイ予約ガイド。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "シルバーウィーク2026 富士山・関東グランピング：客室天然温泉＆富士絶景ドームテントおすすめ厳選 ｜ 日本全国・旅宿クラウド",
+    title: "シルバーウィーク2026 富士山・関東グランピング：客室天然温泉＆富士絶景ドームテントおすすめ厳選",
     description: "9月シルバーウィークに行きたい関東・富士五湖周辺の最高峰グランピング特集！部屋から富士山を望む大型ドームテント、客室専用の天然温泉露天風呂、焚き火と秋風を楽しむラグジュアリーステイ予約ガイド。",
   }
 };
@@ -296,7 +296,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center px-4 py-2.5 bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-700 hover:to-teal-700 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5"
                     >
                       楽天トラベルでプランを見る ➔
@@ -420,25 +420,25 @@ export default function SilverWeekGlampingKantoFujiPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kochi"
+                href="/prefectures/kochi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 高知県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shizuoka"
+                href="/prefectures/shizuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 静岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/akita"
+                href="/prefectures/akita/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 秋田県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/miyagi"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 宮城県の宿・温泉
@@ -483,7 +483,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
                 <td className="p-3 text-stone-600">無料（20台、予約不要）　無料送迎あり（富士山駅・富士山山中湖バス停付近）</td>
                 <td className="p-3 font-bold text-amber-600">★4.84（278件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,590〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184648%2F184648.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184648%2F184648.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. Ｄｏｔ　Ｇｌａｍｐｉｎｇ　富士山</td>
@@ -492,7 +492,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
                 <td className="p-3 text-stone-600">有り　7台（各グループ1台まで）</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（226件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,350〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180416%2F180416.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180416%2F180416.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. Ｇｏｄｅｒｅ　ｈｏｔｅｌ　富士山中湖　Ｔａｂｉｓｔ</td>
@@ -501,7 +501,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
                 <td className="p-3 text-stone-600">有り　28台　無料　屋外駐車場です。</td>
                 <td className="p-3 font-bold text-amber-600">★3.15（20件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F197307%2F197307.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F197307%2F197307.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. Ｍｔ．Ｆｕｊｉグランピングテラス嶺乃華　＾</td>
@@ -510,7 +510,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
                 <td className="p-3 text-stone-600">駐車場 敷地内有(第2駐車場もあり)</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥29,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F185235%2F185235.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F185235%2F185235.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 猫穴グランピング　＾</td>
@@ -519,7 +519,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥87,928〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F185220%2F185220.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F185220%2F185220.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

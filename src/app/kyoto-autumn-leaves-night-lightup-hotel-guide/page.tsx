@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kyoto-autumn-leaves-night-lightup-hotel-guide/" },
-  title: "京都 紅葉ライトアップ2026おすすめ7選：夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿 ｜ 日本全国・旅宿クラウド",
+  title: "京都 紅葉ライトアップ2026おすすめ7選：夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿",
   description: "息をのむ美しさ！2026年秋の京都紅葉ライトアップ特集。永観堂「みかえり阿弥陀」の紅葉トンネル、東寺五重塔の池鏡リフレクション、高台寺のプロジェクションマッピング、東山・烏丸のホテル完全ガイド。",
   keywords: ["京都", "夜間特別拝観", "永観堂", "東寺", "清水寺", "混雑回避の夜回り宿", "温泉宿"],
   openGraph: {
-    title: "京都 紅葉ライトアップ2026おすすめ7選：夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿 ｜ 日本全国・旅宿クラウド",
+    title: "京都 紅葉ライトアップ2026おすすめ7選：夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿",
     description: "息をのむ美しさ！2026年秋の京都紅葉ライトアップ特集。永観堂「みかえり阿弥陀」の紅葉トンネル、東寺五重塔の池鏡リフレクション、高台寺のプロジェクションマッピング、東山・烏丸のホテル完全ガイド。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "京都 紅葉ライトアップ2026おすすめ7選：夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿 ｜ 日本全国・旅宿クラウド",
+    title: "京都 紅葉ライトアップ2026おすすめ7選：夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿",
     description: "息をのむ美しさ！2026年秋の京都紅葉ライトアップ特集。永観堂「みかえり阿弥陀」の紅葉トンネル、東寺五重塔の池鏡リフレクション、高台寺のプロジェクションマッピング、東山・烏丸のホテル完全ガイド。",
   }
 };
@@ -347,7 +347,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="w-full py-3 px-4 bg-gradient-to-r from-rose-700 to-rose-900 hover:from-rose-600 hover:to-rose-800 text-white font-bold text-xs rounded-xl shadow transition duration-200 flex items-center justify-center gap-2 text-center"
                   >
                     <span>楽天トラベルでプラン・空室を見る</span>
@@ -371,7 +371,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fseason%2Fautumn%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="inline-flex items-center justify-center px-5 py-2.5 rounded-xl bg-amber-500 hover:bg-amber-400 text-stone-950 font-black text-xs transition shadow-md whitespace-nowrap"
             >
               秋の紅葉特集を見る →
@@ -382,7 +382,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="bg-stone-950/60 hover:bg-stone-950/90 border border-rose-900/30 hover:border-amber-400/50 p-4 rounded-xl space-y-2 transition block group"
             >
               <div className="text-2xl">🚌</div>
@@ -397,7 +397,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fcoupon%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="bg-stone-950/60 hover:bg-stone-950/90 border border-rose-900/30 hover:border-amber-400/50 p-4 rounded-xl space-y-2 transition block group"
             >
               <div className="text-2xl">🎟️</div>
@@ -498,25 +498,25 @@ export default function KyotoAutumnLeavesNightLightupPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/gifu"
+                href="/prefectures/gifu/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 岐阜県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ishikawa"
+                href="/prefectures/ishikawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 石川県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shizuoka"
+                href="/prefectures/shizuoka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 静岡県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/niigata"
+                href="/prefectures/niigata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 新潟県の宿・温泉

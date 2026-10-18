@@ -24,13 +24,13 @@ interface Post {
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "能登旅行 完全計画ガイド：1泊2日・2泊3日モデルコース＆和倉温泉・白米千枚田・能登島・能登丼・絶景宿おすすめ ｜ 旅宿クラウド",
+  title: "能登旅行 完全計画ガイド：1泊2日・2泊3日モデルコース＆和倉温泉・白米千枚田・能登島・能登丼・絶景宿おすすめ",
   description:
     "能登旅行の計画をステップバイステップで完全サポート！世界農業遺産・能登の里山里海の魅力、1泊2日/2泊3日ドライブ＆モデルコース、車なしアクセス、和倉温泉・白米千枚田（所要時間・ライトアップあぜの万灯）・のとじま水族館・輪島朝市・見附島、能登丼＆能登牡蠣・能登牛グルメから楽天トラベル予約可能な温泉宿まで網羅。",
   keywords: ["能登旅行", "完全計画ガイド", "1泊2日", "2泊3日モデルコース", "和倉温泉", "白米千枚田", "能登島"],
   alternates: { canonical: "https://croud-travel.pages.dev/noto/" },
   openGraph: {
-    title: "能登旅行 完全計画サポートガイド ｜ 旅宿クラウド",
+    title: "能登旅行 完全計画サポートガイド",
     description: "能登旅行を思い立った瞬間から宿泊予約まで。和倉温泉・白米千枚田・モデルコース・能登丼・絶景温泉宿徹底比較。",
     url: "https://croud-travel.pages.dev/noto",
     siteName: "旅宿クラウド",
@@ -130,12 +130,14 @@ export default function NotoGuidePage() {
   return (
     <div className="space-y-12 max-w-5xl mx-auto">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdFaq) }} />
 
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/prefectures/ishikawa" className="hover:text-teal-800 transition">石川県</Link>
+        <Link href="/prefectures/ishikawa/" className="hover:text-teal-800 transition">石川県</Link>
         <span>/</span>
         <span className="text-emerald-950 font-bold">能登旅行 完全計画ガイド</span>
       </nav>
@@ -572,7 +574,7 @@ export default function NotoGuidePage() {
             🌸 金沢旅行 完全計画ガイドを見る
           </Link>
           <Link
-            href="/prefectures/ishikawa"
+            href="/prefectures/ishikawa/"
             className="px-8 py-3 text-xs font-bold text-white bg-teal-800 hover:bg-teal-700 rounded-xl shadow transition"
           >
             🗾 石川県・能登の観光ハブへ戻る

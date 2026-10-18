@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/atami-daytrip-hotspring-lunch-guide/" },
-  title: "熱海 日帰り温泉 ランチ付きおすすめ：相模湾一望オーシャンビュー露天風呂＆極上海鮮丼日帰りプラン ｜ 日本全国・旅宿クラウド",
+  title: "熱海 日帰り温泉 ランチ付きおすすめ：相模湾一望オーシャンビュー露天風呂＆極上海鮮丼日帰りプラン",
   description: "東京から50分の熱海で楽しむ日帰り温泉ランチ！相模湾を一望する絶景インフィニティ露天風呂、金目鯛煮付け＆朝獲れ地魚海鮮丼ランチがセットになったホテルプラン徹底比較。",
   keywords: ["熱海", "日帰り温泉", "ランチ付きおすすめ", "極上海鮮丼日帰りプラン", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "熱海 日帰り温泉 ランチ付きおすすめ：相模湾一望オーシャンビュー露天風呂＆極上海鮮丼日帰りプラン ｜ 日本全国・旅宿クラウド",
+    title: "熱海 日帰り温泉 ランチ付きおすすめ：相模湾一望オーシャンビュー露天風呂＆極上海鮮丼日帰りプラン",
     description: "東京から50分の熱海で楽しむ日帰り温泉ランチ！相模湾を一望する絶景インフィニティ露天風呂、金目鯛煮付け＆朝獲れ地魚海鮮丼ランチがセットになったホテルプラン徹底比較。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "熱海 日帰り温泉 ランチ付きおすすめ：相模湾一望オーシャンビュー露天風呂＆極上海鮮丼日帰りプラン ｜ 日本全国・旅宿クラウド",
+    title: "熱海 日帰り温泉 ランチ付きおすすめ：相模湾一望オーシャンビュー露天風呂＆極上海鮮丼日帰りプラン",
     description: "東京から50分の熱海で楽しむ日帰り温泉ランチ！相模湾を一望する絶景インフィニティ露天風呂、金目鯛煮付け＆朝獲れ地魚海鮮丼ランチがセットになったホテルプラン徹底比較。",
   }
 };
@@ -303,7 +303,7 @@ export default function AtamiDaytripHotspringLunchPage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="w-full text-center py-3 bg-gradient-to-r from-orange-500 to-amber-500 hover:brightness-110 text-white font-black text-xs md:text-sm rounded-xl shadow-lg transition"
             >
               👉 楽天トラベル 日帰りバスツアーを見る
@@ -321,7 +321,7 @@ export default function AtamiDaytripHotspringLunchPage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="w-full text-center py-3 bg-white/20 hover:bg-white/30 text-white font-black text-xs md:text-sm rounded-xl border border-white/30 transition"
             >
               🎟️ 高速バスクーポンをチェック
@@ -388,7 +388,7 @@ export default function AtamiDaytripHotspringLunchPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-orange-500 to-rose-500 hover:brightness-110 rounded-xl shadow transition"
                   >
                     ♨️ 楽天トラベルでプラン・空室を見る

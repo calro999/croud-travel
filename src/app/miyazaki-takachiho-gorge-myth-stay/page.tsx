@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/miyazaki-takachiho-gorge-myth-stay/" },
-  title: "宮崎・高千穂峡：真名井の滝・高千穂神楽＆天安河原・宮崎牛極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "宮崎・高千穂峡：真名井の滝・高千穂神楽＆天安河原・宮崎牛極上宿 厳選ガイド",
   description: "神話のふるさと宮崎・高千穂エリア完全特化！柱状節理の断崖絶壁と「真名井の滝」手漕ぎボート、夜毎奉納される「高千穂夜神楽」、天岩戸神社・天安河原、極上宮崎牛炭火焼きと隠れ家温泉宿を徹底解説。",
   keywords: ["宮崎", "高千穂峡", "真名井の滝", "高千穂神楽", "天安河原", "宮崎牛極上宿", "温泉宿"],
   openGraph: {
-    title: "宮崎・高千穂峡：真名井の滝・高千穂神楽＆天安河原・宮崎牛極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "宮崎・高千穂峡：真名井の滝・高千穂神楽＆天安河原・宮崎牛極上宿 厳選ガイド",
     description: "神話のふるさと宮崎・高千穂エリア完全特化！柱状節理の断崖絶壁と「真名井の滝」手漕ぎボート、夜毎奉納される「高千穂夜神楽」、天岩戸神社・天安河原、極上宮崎牛炭火焼きと隠れ家温泉宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "宮崎・高千穂峡：真名井の滝・高千穂神楽＆天安河原・宮崎牛極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "宮崎・高千穂峡：真名井の滝・高千穂神楽＆天安河原・宮崎牛極上宿 厳選ガイド",
     description: "神話のふるさと宮崎・高千穂エリア完全特化！柱状節理の断崖絶壁と「真名井の滝」手漕ぎボート、夜毎奉納される「高千穂夜神楽」、天岩戸神社・天安河原、極上宮崎牛炭火焼きと隠れ家温泉宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

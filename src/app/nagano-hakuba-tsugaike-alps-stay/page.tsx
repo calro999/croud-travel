@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-hakuba-tsugaike-alps-stay/" },
-  title: "長野・白馬＆小谷・栂池高原：北アルプス白馬三山パノラマ・テラス＆信州そば宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長野・白馬＆小谷・栂池高原：北アルプス白馬三山パノラマ・テラス＆信州そば宿 厳選ガイド",
   description: "世界水準のマウンテンリゾート・信州白馬＆栂池エリア完全特化！白馬岩岳「白馬マウンテンハーバー（絶景テラス）」、栂池自然園高層湿原、八方尾根トレッキング、白馬八方温泉（日本屈指の高アルカリ温泉）、名物「信州そば・信州牛宿」を徹底解説。",
   keywords: ["長野", "白馬", "小谷", "栂池高原", "北アルプス白馬三山パノラマ", "テラス", "信州そば宿"],
   openGraph: {
-    title: "長野・白馬＆小谷・栂池高原：北アルプス白馬三山パノラマ・テラス＆信州そば宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "長野・白馬＆小谷・栂池高原：北アルプス白馬三山パノラマ・テラス＆信州そば宿 厳選ガイド",
     description: "世界水準のマウンテンリゾート・信州白馬＆栂池エリア完全特化！白馬岩岳「白馬マウンテンハーバー（絶景テラス）」、栂池自然園高層湿原、八方尾根トレッキング、白馬八方温泉（日本屈指の高アルカリ温泉）、名物「信州そば・信州牛宿」を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "長野・白馬＆小谷・栂池高原：北アルプス白馬三山パノラマ・テラス＆信州そば宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "長野・白馬＆小谷・栂池高原：北アルプス白馬三山パノラマ・テラス＆信州そば宿 厳選ガイド",
     description: "世界水準のマウンテンリゾート・信州白馬＆栂池エリア完全特化！白馬岩岳「白馬マウンテンハーバー（絶景テラス）」、栂池自然園高層湿原、八方尾根トレッキング、白馬八方温泉（日本屈指の高アルカリ温泉）、名物「信州そば・信州牛宿」を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

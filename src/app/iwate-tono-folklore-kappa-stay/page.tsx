@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/iwate-tono-folklore-kappa-stay/" },
-  title: "岩手・遠野＆カッパ淵：遠野物語の民話の里・南部曲り家＆ジンギスカン・暮坪かぶ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "岩手・遠野＆カッパ淵：遠野物語の民話の里・南部曲り家＆ジンギスカン・暮坪かぶ宿 厳選ガイド",
   description: "柳田國男『遠野物語』の妖怪と神話息づく里山・岩手遠野エリア完全特化！キュウリでカッパ釣り「カッパ淵・常堅寺」、国の重要文化財「南部曲り家（伝承園・千葉家）」、遠野郷八幡宮、名物「遠野ジンギスカン・暮坪かぶ宿」を徹底解説。",
   keywords: ["岩手", "遠野", "カッパ淵", "遠野物語の民話の里", "南部曲り家", "ジンギスカン", "暮坪かぶ宿"],
   openGraph: {
-    title: "岩手・遠野＆カッパ淵：遠野物語の民話の里・南部曲り家＆ジンギスカン・暮坪かぶ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "岩手・遠野＆カッパ淵：遠野物語の民話の里・南部曲り家＆ジンギスカン・暮坪かぶ宿 厳選ガイド",
     description: "柳田國男『遠野物語』の妖怪と神話息づく里山・岩手遠野エリア完全特化！キュウリでカッパ釣り「カッパ淵・常堅寺」、国の重要文化財「南部曲り家（伝承園・千葉家）」、遠野郷八幡宮、名物「遠野ジンギスカン・暮坪かぶ宿」を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "岩手・遠野＆カッパ淵：遠野物語の民話の里・南部曲り家＆ジンギスカン・暮坪かぶ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "岩手・遠野＆カッパ淵：遠野物語の民話の里・南部曲り家＆ジンギスカン・暮坪かぶ宿 厳選ガイド",
     description: "柳田國男『遠野物語』の妖怪と神話息づく里山・岩手遠野エリア完全特化！キュウリでカッパ釣り「カッパ淵・常堅寺」、国の重要文化財「南部曲り家（伝承園・千葉家）」、遠野郷八幡宮、名物「遠野ジンギスカン・暮坪かぶ宿」を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

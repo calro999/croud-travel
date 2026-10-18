@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/art-museum-design-hotel-creative-stay/" },
-  title: "アート・美術館巡り＆デザインホテル：感性を研ぎ澄ますミュージアムステイ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "アート・美術館巡り＆デザインホテル：感性を研ぎ澄ますミュージアムステイ 厳選ガイド",
   description: "アートと建築に浸るクリエイティブな休日！美術館併設ホテル＆デザイナーズホテル完全特化！金沢・直島・箱根・京都、有名建築家が手掛けた空間、現代アートに囲まれる客室、美術館ナイトツアー付き宿を徹底解説。",
   keywords: ["アート", "美術館巡り", "デザインホテル", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "アート・美術館巡り＆デザインホテル：感性を研ぎ澄ますミュージアムステイ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "アート・美術館巡り＆デザインホテル：感性を研ぎ澄ますミュージアムステイ 厳選ガイド",
     description: "アートと建築に浸るクリエイティブな休日！美術館併設ホテル＆デザイナーズホテル完全特化！金沢・直島・箱根・京都、有名建築家が手掛けた空間、現代アートに囲まれる客室、美術館ナイトツアー付き宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "アート・美術館巡り＆デザインホテル：感性を研ぎ澄ますミュージアムステイ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "アート・美術館巡り＆デザインホテル：感性を研ぎ澄ますミュージアムステイ 厳選ガイド",
     description: "アートと建築に浸るクリエイティブな休日！美術館併設ホテル＆デザイナーズホテル完全特化！金沢・直島・箱根・京都、有名建築家が手掛けた空間、現代アートに囲まれる客室、美術館ナイトツアー付き宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function WomenSoloRetreatHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-rose-600 to-pink-600 hover:from-rose-500 hover:to-pink-500 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

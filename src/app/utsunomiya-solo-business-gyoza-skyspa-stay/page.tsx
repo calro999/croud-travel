@@ -38,8 +38,8 @@ export default function ArticlePage() {
         url: 'https://croud-travel.pages.dev/logo.png',
       },
     },
-    datePublished: 'T12:30:00+09:00',
-    dateModified: 'T12:30:00+09:00',
+    datePublished: '2026-10-18T12:30:00+09:00',
+    dateModified: '2026-10-19T12:30:00+09:00',
     mainEntityOfPage: 'https://croud-travel.pages.dev/utsunomiya-solo-business-gyoza-skyspa-stay',
   };
 
@@ -171,7 +171,7 @@ export default function ArticlePage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184376%2F184376.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="w-full sm:w-auto text-center bg-gradient-to-r from-red-600 to-red-700 hover:from-red-700 hover:to-red-800 text-white font-bold text-sm px-6 py-3 rounded-xl shadow-md transition-all duration-200"
                   >
                     楽天トラベルで空室・プランを見る →
@@ -246,7 +246,7 @@ export default function ArticlePage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F136222%2F136222.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="w-full sm:w-auto text-center bg-gradient-to-r from-red-600 to-red-700 hover:from-red-700 hover:to-red-800 text-white font-bold text-sm px-6 py-3 rounded-xl shadow-md transition-all duration-200"
                   >
                     楽天トラベルで空室・プランを見る →
@@ -321,7 +321,7 @@ export default function ArticlePage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67045%2F67045.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="w-full sm:w-auto text-center bg-gradient-to-r from-red-600 to-red-700 hover:from-red-700 hover:to-red-800 text-white font-bold text-sm px-6 py-3 rounded-xl shadow-md transition-all duration-200"
                   >
                     楽天トラベルで空室・プランを見る →
@@ -484,7 +484,7 @@ export default function ArticlePage() {
                 <td className="p-3 text-stone-600">提携駐車場：なし　併設の宇都宮テラス駐車場：24時間毎最大料金 上層1,100円、下層1,300円</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（2356件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,120〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184376%2F184376.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184376%2F184376.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＪＲ東日本ホテルメッツ宇都宮</td>
@@ -493,7 +493,7 @@ export default function ArticlePage() {
                 <td className="p-3 text-stone-600">専用駐車場無し（提携駐車場あり・有料・詳しくはプラン詳細をご覧ください）</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（2491件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,450〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F136222%2F136222.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F136222%2F136222.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルマイステイズ宇都宮</td>
@@ -502,7 +502,7 @@ export default function ArticlePage() {
                 <td className="p-3 text-stone-600">58台(全高1.55m迄の制限あり)1泊1100円/泊 先着順。入庫不可時は徒歩5分の駐車場を案内。</td>
                 <td className="p-3 font-bold text-amber-600">★4.21（2607件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,820〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67045%2F67045.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67045%2F67045.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

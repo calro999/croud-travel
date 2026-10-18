@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の竹田城跡：天空の城の幻想的な雲海と但馬牛グルメ！城下町を満喫するおすすめ宿5選「2026最新」',
     description: '10月〜11月が最も雲海発生率が高まる「天空の城」竹田城跡！但馬牛と雲海を満喫する厳選宿5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-hyogo-takedajo-unkai-castle-tajima-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-hyogo-takedajo-unkai-castle-tajima-hotels-stay',
   }
 };
 
 export default function TakedaCastleAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の竹田城跡：天空の城の幻想的な雲海と但馬牛グルメ！城下町を満喫するおすすめ宿5選「2026最新」\",\"description\":\"10月〜11月が最も雲海発生率が高まる「天空の城」竹田城跡！早朝の立雲峡から望む雲海に浮かぶ石垣の城と情緒ある城下町散策。朱々、ホテルEN、有斐軒など但馬の味覚と名湯を楽しむ厳選宿5選をご紹介。\",\"url\":\"https://croud-travel.pages.dev/autumn-hyogo-takedajo-unkai-castle-tajima-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の竹田城跡：天空の城の幻想的な雲海と但馬牛グルメ！城下町を満喫するおすすめ宿5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-hyogo-takedajo-unkai-castle-tajima-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の竹田城跡：天空の城の幻想的な雲海と但馬牛グルメ！城下町を満喫するおすすめ宿5選「2026最新」\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"雲海登山の必須心得\",\"url\":\"https://croud-travel.pages.dev/autumn-hyogo-takedajo-unkai-castle-tajima-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"竹田城　城下町　ホテルＥＮ（えん）\",\"url\":\"https://croud-travel.pages.dev/autumn-hyogo-takedajo-unkai-castle-tajima-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"竹田城下まち　朱々　‐ＳｈｕＳｈｕ‐\",\"url\":\"https://croud-travel.pages.dev/autumn-hyogo-takedajo-unkai-castle-tajima-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"有斐軒\",\"url\":\"https://croud-travel.pages.dev/autumn-hyogo-takedajo-unkai-castle-tajima-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"囲炉裏の宿　豊楽\",\"url\":\"https://croud-travel.pages.dev/autumn-hyogo-takedajo-unkai-castle-tajima-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"竹田町屋　寺子屋　はな亭\",\"url\":\"https://croud-travel.pages.dev/autumn-hyogo-takedajo-unkai-castle-tajima-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"国宝 姫路城（白鷺城）\",\"url\":\"https://croud-travel.pages.dev/autumn-hyogo-takedajo-unkai-castle-tajima-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"神戸ポートタワー・ハーバーランド\",\"url\":\"https://croud-travel.pages.dev/autumn-hyogo-takedajo-unkai-castle-tajima-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"城崎温泉（外湯めぐり）\",\"url\":\"https://croud-travel.pages.dev/autumn-hyogo-takedajo-unkai-castle-tajima-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"竹田城跡（天空の城）\",\"url\":\"https://croud-travel.pages.dev/autumn-hyogo-takedajo-unkai-castle-tajima-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/145001/145001.jpg"
@@ -142,7 +146,7 @@ export default function TakedaCastleAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153666%2F153666.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function TakedaCastleAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F145001%2F145001.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function TakedaCastleAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40571%2F40571.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function TakedaCastleAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8537%2F8537.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function TakedaCastleAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139826%2F139826.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function TakedaCastleAutumnPage() {
                 <td className="p-3 text-stone-600">竹田まちなか観光駐車場にお停めください。無料でご利用いただけます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（219件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,594〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F145001%2F145001.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F145001%2F145001.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 竹田城下まち　朱々　‐ＳｈｕＳｈｕ‐</td>
@@ -396,7 +400,7 @@ export default function TakedaCastleAutumnPage() {
                 <td className="p-3 text-stone-600">竹田まちなか観光駐車場 60台（無料）当宿より徒歩3分</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（69件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153666%2F153666.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153666%2F153666.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 有斐軒</td>
@@ -405,7 +409,7 @@ export default function TakedaCastleAutumnPage() {
                 <td className="p-3 text-stone-600">有り　20台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（248件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,450〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40571%2F40571.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40571%2F40571.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 囲炉裏の宿　豊楽</td>
@@ -414,7 +418,7 @@ export default function TakedaCastleAutumnPage() {
                 <td className="p-3 text-stone-600">50台有　無料　予約不要　大型バス、トラックも無料利用可能　電気自動車充電可（テスラも）</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（100件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8537%2F8537.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8537%2F8537.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 竹田町屋　寺子屋　はな亭</td>
@@ -423,7 +427,7 @@ export default function TakedaCastleAutumnPage() {
                 <td className="p-3 text-stone-600">有り　6台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（217件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139826%2F139826.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139826%2F139826.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -600,6 +604,9 @@ export default function TakedaCastleAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-hyogo-takedajo-unkai-castle-tajima-hotels-stay" />
+        </div>
 
       </article>
   );

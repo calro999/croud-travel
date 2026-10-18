@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/furusato-tax-ise-kumano-sacred-power-spot-stay/" },
-  title: 'お伊勢参り＆熊野古道をふるさと納税でお得に旅する！日本最強パワースポット巡礼と心洗われる老舗門前宿ガイド | クラウドトラベル',
+  title: 'お伊勢参り＆熊野古道をふるさと納税でお得に旅する！日本最強パワースポット巡礼と心洗われる老舗門前宿ガイド',
   description: '一生に一度はお伊勢参り、よみがえりの聖地・熊野三山、神々の集う出雲大社。日本屈指の聖地を巡る祈願の旅を楽天ふるさと納税で賢く予約。早朝参拝に便利な門前宿や禊の温泉宿完全ガイド。',
   openGraph: {
-    title: 'お伊勢参り＆熊野古道をふるさと納税でお得に旅する！日本最強パワースポット巡礼と心洗われる老舗門前宿ガイド | クラウドトラベル',
+    title: 'お伊勢参り＆熊野古道をふるさと納税でお得に旅する！日本最強パワースポット巡礼と心洗われる老舗門前宿ガイド',
     description: '一生に一度はお伊勢参り、よみがえりの聖地・熊野三山、神々の集う出雲大社。日本屈指の聖地を巡る祈願の旅を楽天ふるさと納税で賢く予約。早朝参拝に便利な門前宿や禊の温泉宿完全ガイド。',
     type: 'article',
   },
@@ -17,6 +17,20 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['furusato-tax-ise-kumano-sacred-power-spot-stay'] || {};
+
+  const allSecHotels = Object.values(secData).flatMap((s: any) => (s && Array.isArray(s.hotels) ? s.hotels : []));
+  const jsonLdItemList = allSecHotels.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": (metadata.title as string) || "furusato-tax-ise-kumano-sacred-power-spot-stay",
+    "numberOfItems": allSecHotels.length,
+    "itemListElement": allSecHotels.map((h: any, idx: number) => ({
+      "@type": "ListItem",
+      "position": idx + 1,
+      "name": h.hotelName || "厳選宿",
+      "url": h.affiliateUrl || h.hotelInformationUrl || "https://croud-travel.pages.dev/furusato-tax-ise-kumano-sacred-power-spot-stay/"
+    }))
+  } : null;
 
 
   const jsonLdArticle = {
@@ -46,6 +60,9 @@ export default function Page() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「風待ちの湯福寿荘 伊勢志摩の温泉旅館＜渡鹿野島＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「風待ちの湯福寿荘 伊勢志摩の温泉旅館＜渡鹿野島＞」へは、近鉄「鵜方駅」下車、送迎バス（予約制）１５分～船３分(有料）、伊勢自動車道 伊勢西ＩＣ～６０分～船３分(有料）。最寄りの鵜方駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「風待ちの湯福寿荘 伊勢志摩の温泉旅館＜渡鹿野島＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「風待ちの湯福寿荘 伊勢志摩の温泉旅館＜渡鹿野島＞」は『◆船で3分の温泉宿◆地下1,300メートルから湧く天然療養温泉と伊勢海老・松阪牛・旬の海の。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「風待ちの湯福寿荘 伊勢志摩の温泉旅館＜渡鹿野島＞」と「伊勢志摩 二見浦 夫婦岩前 旅館 大石屋」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
+      {jsonLdItemList && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdItemList) }} />}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">
@@ -72,7 +89,7 @@ export default function Page() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="inline-flex items-center gap-2 bg-gradient-to-r from-red-600 via-rose-600 to-amber-600 text-white font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition transform hover:-translate-y-0.5 text-sm md:text-base border border-amber-400/30"
             >
               <span>🎟️ 楽天ふるさと納税 宿泊クーポンを獲得する</span>
@@ -202,7 +219,7 @@ export default function Page() {
                       <a
                         href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 px-4 py-2.5 bg-amber-800 hover:bg-amber-900 text-white rounded-xl text-xs font-bold transition shadow-sm hover:shadow"
                       >
                         ふるさと納税対象プラン
@@ -288,7 +305,7 @@ export default function Page() {
                       <a
                         href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 px-4 py-2.5 bg-amber-800 hover:bg-amber-900 text-white rounded-xl text-xs font-bold transition shadow-sm hover:shadow"
                       >
                         ふるさと納税対象プラン
@@ -374,7 +391,7 @@ export default function Page() {
                       <a
                         href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1.5 px-4 py-2.5 bg-amber-800 hover:bg-amber-900 text-white rounded-xl text-xs font-bold transition shadow-sm hover:shadow"
                       >
                         ふるさと納税対象プラン
@@ -521,7 +538,7 @@ export default function Page() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="inline-flex items-center gap-2 bg-gradient-to-r from-red-600 via-rose-600 to-amber-600 text-white font-black px-8 py-4 rounded-2xl shadow-xl hover:opacity-95 transition transform hover:-translate-y-0.5 text-base border border-amber-400/40"
             >
               <span>🎟️ 楽天ふるさと納税 宿泊クーポンを獲得する</span>
@@ -632,25 +649,25 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamanashi"
+                href="/prefectures/yamanashi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 山梨県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagano"
+                href="/prefectures/nagano/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 長野県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/iwate"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 岩手県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tochigi"
+                href="/prefectures/tochigi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 栃木県の宿・温泉

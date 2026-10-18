@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/taisho-roman-showa-modern-art-deco-hotel-stay/" },
-  title: '大正ロマン＆昭和モダン・アールデコ建築宿厳選ガイド「ステンドグラスと意匠美」 | クラウドトラベル',
+  title: '大正ロマン＆昭和モダン・アールデコ建築宿厳選ガイド「ステンドグラスと意匠美」',
   description: 'ホテルニューグランド、熱海名邸、旧軽井沢倶楽部など、大正ロマンや昭和初期のアールデコ様式が色濃く残るレトロモダン宿を厳選。ステンドグラスやシャンデリアが誘うノスタルジックな滞在。',
   openGraph: {
-    title: '大正ロマン＆昭和モダン・アールデコ建築宿厳選ガイド「ステンドグラスと意匠美」 | クラウドトラベル',
+    title: '大正ロマン＆昭和モダン・アールデコ建築宿厳選ガイド「ステンドグラスと意匠美」',
     description: 'ホテルニューグランド、熱海名邸、旧軽井沢倶楽部など、大正ロマンや昭和初期のアールデコ様式が色濃く残るレトロモダン宿を厳選。ステンドグラスやシャンデリアが誘うノスタルジックな滞在。',
     type: 'article',
   },
@@ -17,6 +17,20 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['taisho-roman-showa-modern-art-deco-hotel-stay'] || {};
+
+  const allSecHotels = Object.values(secData).flatMap((s: any) => (s && Array.isArray(s.hotels) ? s.hotels : []));
+  const jsonLdItemList = allSecHotels.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": (metadata.title as string) || "taisho-roman-showa-modern-art-deco-hotel-stay",
+    "numberOfItems": allSecHotels.length,
+    "itemListElement": allSecHotels.map((h: any, idx: number) => ({
+      "@type": "ListItem",
+      "position": idx + 1,
+      "name": h.hotelName || "厳選宿",
+      "url": h.affiliateUrl || h.hotelInformationUrl || "https://croud-travel.pages.dev/taisho-roman-showa-modern-art-deco-hotel-stay/"
+    }))
+  } : null;
 
 
   const jsonLdArticle = {
@@ -46,6 +60,9 @@ export default function Page() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「ホテルニューグランド」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューグランド」へは、みなとみらい線元町・中華街駅1番出口より徒歩1分。最寄りの石川町駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「ホテルニューグランド」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューグランド」は『横浜スタンダードをいまに伝える、欧州の香りと趣。開港当時の横浜の面影を残すクラシックホテル。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「ホテルニューグランド」と「熱海温泉 金城館」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
+      {jsonLdItemList && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdItemList) }} />}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">
@@ -486,25 +503,25 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/shiga"
+                href="/prefectures/shiga/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 滋賀県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/ibaraki"
+                href="/prefectures/ibaraki/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 茨城県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagoshima"
+                href="/prefectures/kagoshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 鹿児島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/shimane"
+                href="/prefectures/shimane/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 島根県の宿・温泉

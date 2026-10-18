@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-toya-noboribetsu-jigokudani-stay/" },
-  title: "北海道・洞爺湖＆登別：地獄谷・洞爺湖花火＆絶景温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "北海道・洞爺湖＆登別：地獄谷・洞爺湖花火＆絶景温泉宿 厳選ガイド",
   description: "北海道屈指の温泉天国！9種類の多彩な泉質が湧き出す「登別地獄谷」、半年間毎夜打ち上がる「洞爺湖ロングラン花火大会」、世界ジオパーク「有珠山・昭和新山」を徹底解説。レイクビュー露天風呂や老舗硫黄泉旅館を厳選。",
   keywords: ["北海道", "洞爺湖", "登別", "地獄谷", "洞爺湖花火", "絶景温泉宿", "温泉宿"],
   openGraph: {
-    title: "北海道・洞爺湖＆登別：地獄谷・洞爺湖花火＆絶景温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "北海道・洞爺湖＆登別：地獄谷・洞爺湖花火＆絶景温泉宿 厳選ガイド",
     description: "北海道屈指の温泉天国！9種類の多彩な泉質が湧き出す「登別地獄谷」、半年間毎夜打ち上がる「洞爺湖ロングラン花火大会」、世界ジオパーク「有珠山・昭和新山」を徹底解説。レイクビュー露天風呂や老舗硫黄泉旅館を厳選。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "北海道・洞爺湖＆登別：地獄谷・洞爺湖花火＆絶景温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "北海道・洞爺湖＆登別：地獄谷・洞爺湖花火＆絶景温泉宿 厳選ガイド",
     description: "北海道屈指の温泉天国！9種類の多彩な泉質が湧き出す「登別地獄谷」、半年間毎夜打ち上がる「洞爺湖ロングラン花火大会」、世界ジオパーク「有珠山・昭和新山」を徹底解説。レイクビュー露天風呂や老舗硫黄泉旅館を厳選。",
   }
 };
@@ -214,7 +214,7 @@ export default function MicroTouristHubPage() {
                           <a
                             href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                             target="_blank"
-                            rel="noopener noreferrer"
+                            rel="sponsored noopener noreferrer"
                             className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-teal-700 to-teal-800 hover:from-teal-600 hover:to-teal-700 rounded-xl shadow transition"
                           >
                             ✈️ 楽天トラベルで宿泊プラン・空室を見る

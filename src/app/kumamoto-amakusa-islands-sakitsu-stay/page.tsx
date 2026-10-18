@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kumamoto-amakusa-islands-sakitsu-stay/" },
-  title: "熊本・天草諸島＆三角：世界遺産﨑津集落・イルカウォッチング＆天草大王・車海老宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "熊本・天草諸島＆三角：世界遺産﨑津集落・イルカウォッチング＆天草大王・車海老宿 厳選ガイド",
   description: "天草五橋で結ばれる島々と潜伏キリシタンの祈り・熊本天草エリア完全特化！世界遺産「﨑津集落（﨑津教会・海の天主堂）」、通詞島沖の「野生イルカウォッチング」、天草五橋ドライブ、三角西港、名物「天草大王・幻の車海老宿」を徹底解説。",
   keywords: ["熊本", "天草諸島", "三角", "世界遺産﨑津集落", "イルカウォッチング", "天草大王", "車海老宿"],
   openGraph: {
-    title: "熊本・天草諸島＆三角：世界遺産﨑津集落・イルカウォッチング＆天草大王・車海老宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "熊本・天草諸島＆三角：世界遺産﨑津集落・イルカウォッチング＆天草大王・車海老宿 厳選ガイド",
     description: "天草五橋で結ばれる島々と潜伏キリシタンの祈り・熊本天草エリア完全特化！世界遺産「﨑津集落（﨑津教会・海の天主堂）」、通詞島沖の「野生イルカウォッチング」、天草五橋ドライブ、三角西港、名物「天草大王・幻の車海老宿」を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "熊本・天草諸島＆三角：世界遺産﨑津集落・イルカウォッチング＆天草大王・車海老宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "熊本・天草諸島＆三角：世界遺産﨑津集落・イルカウォッチング＆天草大王・車海老宿 厳選ガイド",
     description: "天草五橋で結ばれる島々と潜伏キリシタンの祈り・熊本天草エリア完全特化！世界遺産「﨑津集落（﨑津教会・海の天主堂）」、通詞島沖の「野生イルカウォッチング」、天草五橋ドライブ、三角西港、名物「天草大王・幻の車海老宿」を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　20台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.88（456件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18335%2F18335.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18335%2F18335.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 玉名温泉　立願寺温泉ホテル　湯里</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.34（649件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31465%2F31465.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31465%2F31465.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 石山離宮　五足のくつ</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">【15台・無料】世界遺産の崎津集落まで車20分、イルカウォッチングまで車30分界｜天草観光に便利</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（47件）</td>
                 <td className="p-3 font-bold text-rose-600">¥31,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188033%2F188033.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188033%2F188033.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 和み宿　新和荘　海心　Ｌｉｖｔｅｌ　ｋａｉ－ｓｈｉｎ</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　１０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（446件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28519%2F28519.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28519%2F28519.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ペットリゾート　ブレインズ　天草</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（135件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172865%2F172865.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172865%2F172865.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 天草温泉　ホテルアレグリアガーデンズ天草</td>
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　１００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（744件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67290%2F67290.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67290%2F67290.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

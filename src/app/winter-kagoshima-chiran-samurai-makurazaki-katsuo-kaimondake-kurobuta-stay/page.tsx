@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -8,11 +9,11 @@ export const metadata: Metadata = {
     canonical: "https://croud-travel.pages.dev/winter-kagoshima-chiran-samurai-makurazaki-katsuo-kaimondake-kurobuta-stay/",
   },
 
-  title: '薩摩の小京都・知覧武家屋敷庭園と開聞岳絶景：2026-2027年冬の鹿児島・南薩摩＆枕崎！本場一本釣り鰹と鹿児島黒豚・黒牛会席名宿5選 | 旅宿クラウド',
+  title: '薩摩の小京都・知覧武家屋敷庭園と開聞岳絶景：2026-2027年冬の鹿児島・南薩摩＆枕崎！本場一本釣り鰹と鹿児島黒豚・黒牛会席名宿5選',
   description: '薩摩の小京都・国の名勝「知覧武家屋敷庭園」の冬枯山水美と、薩摩富士・開聞岳を望む雄大な冬パノラマ！本場枕崎の最高級本枯節・一本釣り鰹の藁焼きタタキや、極上の鹿児島黒豚・鹿児島黒牛会席に舌鼓。温暖な南薩摩の心地よい潮風と美肌天然温泉に癒やされる厳選名宿5選。',
   keywords: ['南薩摩・知覧・枕崎・開聞岳', '鹿児島県', '冬旅行', '温泉旅館', '楽天トラベル', 'ふるさと納税', 'ホテルおすすめ'],
   openGraph: {
-    title: '薩摩の小京都・知覧武家屋敷庭園と開聞岳絶景：2026-2027年冬の鹿児島・南薩摩＆枕崎！本場一本釣り鰹と鹿児島黒豚・黒牛会席名宿5選 | 旅宿クラウド',
+    title: '薩摩の小京都・知覧武家屋敷庭園と開聞岳絶景：2026-2027年冬の鹿児島・南薩摩＆枕崎！本場一本釣り鰹と鹿児島黒豚・黒牛会席名宿5選',
     description: '薩摩の小京都・国の名勝「知覧武家屋敷庭園」の冬枯山水美と、薩摩富士・開聞岳を望む雄大な冬パノラマ！本場枕崎の最高級本枯節・一本釣り鰹の藁焼きタタキや、極上の鹿児島黒豚・鹿児島黒牛会席に舌鼓。温暖な南薩摩の心地よい潮風と美肌天然温泉に癒やされる厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-kagoshima-chiran-samurai-makurazaki-katsuo-kaimondake-kurobuta-stay',
     siteName: '旅宿クラウド',
@@ -764,7 +765,7 @@ export default function FeaturePage() {
             </h3>
             <ul className="grid grid-cols-1 sm:grid-cols-2 gap-3">
               <li>
-                <Link href="/prefectures/kagoshima" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+                <Link href="/prefectures/kagoshima/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                   <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                   <span>鹿児島県のおすすめ観光名所＆温泉宿一覧</span>
                 </Link>

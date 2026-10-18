@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-train-scenery-station/" },
-  title: "車窓の旅：紅葉＆雪景色！絶景観光列車と駅近温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "車窓の旅：紅葉＆雪景色！絶景観光列車と駅近温泉旅館 厳選ガイド",
   description: "車窓を流れる息をのむ紅葉と銀世界！京都嵯峨野トロッコ列車、福島奥会津只見線、富山黒部峡谷トロッコ、青森津軽鉄道ストーブ列車など、日本屈指の絶景ローカル線と温泉宿を徹底解説。",
   keywords: ["車窓の旅", "紅葉", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: "車窓の旅：紅葉＆雪景色！絶景観光列車と駅近温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "車窓の旅：紅葉＆雪景色！絶景観光列車と駅近温泉旅館 厳選ガイド",
     description: "車窓を流れる息をのむ紅葉と銀世界！京都嵯峨野トロッコ列車、福島奥会津只見線、富山黒部峡谷トロッコ、青森津軽鉄道ストーブ列車など、日本屈指の絶景ローカル線と温泉宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "車窓の旅：紅葉＆雪景色！絶景観光列車と駅近温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "車窓の旅：紅葉＆雪景色！絶景観光列車と駅近温泉旅館 厳選ガイド",
     description: "車窓を流れる息をのむ紅葉と銀世界！京都嵯峨野トロッコ列車、福島奥会津只見線、富山黒部峡谷トロッコ、青森津軽鉄道ストーブ列車など、日本屈指の絶景ローカル線と温泉宿を徹底解説。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

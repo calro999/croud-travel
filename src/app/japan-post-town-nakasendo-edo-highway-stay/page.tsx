@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-post-town-nakasendo-edo-highway-stay/" },
-  title: "中山道・木曽路の宿場町＆旧街道宿：妻籠宿・馬籠宿・奈良井宿・大内宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "中山道・木曽路の宿場町＆旧街道宿：妻籠宿・馬籠宿・奈良井宿・大内宿 厳選ガイド",
   description: "江戸時代の街道情緒にタイムスリップ！中山道木曽路の「妻籠宿」「馬籠宿」「奈良井宿（千軒宿）」、福島会津の茅葺き宿場「大内宿」、歴史ある本陣・脇本陣、出桁造りの古民家宿・木曽ひのき風呂を徹底解説。",
   keywords: ["中山道", "木曽路の宿場町", "旧街道宿", "妻籠宿", "馬籠宿", "奈良井宿", "大内宿"],
   openGraph: {
-    title: "中山道・木曽路の宿場町＆旧街道宿：妻籠宿・馬籠宿・奈良井宿・大内宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "中山道・木曽路の宿場町＆旧街道宿：妻籠宿・馬籠宿・奈良井宿・大内宿 厳選ガイド",
     description: "江戸時代の街道情緒にタイムスリップ！中山道木曽路の「妻籠宿」「馬籠宿」「奈良井宿（千軒宿）」、福島会津の茅葺き宿場「大内宿」、歴史ある本陣・脇本陣、出桁造りの古民家宿・木曽ひのき風呂を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "中山道・木曽路の宿場町＆旧街道宿：妻籠宿・馬籠宿・奈良井宿・大内宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "中山道・木曽路の宿場町＆旧街道宿：妻籠宿・馬籠宿・奈良井宿・大内宿 厳選ガイド",
     description: "江戸時代の街道情緒にタイムスリップ！中山道木曽路の「妻籠宿」「馬籠宿」「奈良井宿（千軒宿）」、福島会津の茅葺き宿場「大内宿」、歴史ある本陣・脇本陣、出桁造りの古民家宿・木曽ひのき風呂を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function HistoryHeritageHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function HistoryHeritageHubPage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（582件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,090〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6067%2F6067.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6067%2F6067.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 木曽路の宿　いわや</td>
@@ -261,7 +261,7 @@ export default function HistoryHeritageHubPage() {
                 <td className="p-3 text-stone-600">有り　１５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.96（99件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16778%2F16778.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16778%2F16778.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 普寛堂　くるみ沢旅館</td>
@@ -270,7 +270,7 @@ export default function HistoryHeritageHubPage() {
                 <td className="p-3 text-stone-600">有り　２５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（32件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17513%2F17513.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17513%2F17513.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 宿とそば処　ふもと屋</td>
@@ -279,7 +279,7 @@ export default function HistoryHeritageHubPage() {
                 <td className="p-3 text-stone-600">有り　１５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.88（23件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130040%2F130040.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130040%2F130040.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 会津芦ノ牧温泉　丸峰観光ホテル</td>
@@ -288,7 +288,7 @@ export default function HistoryHeritageHubPage() {
                 <td className="p-3 text-stone-600">有り　１７０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.31（3388件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20623%2F20623.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20623%2F20623.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 芦ノ牧温泉　不動館　小谷の湯</td>
@@ -297,7 +297,7 @@ export default function HistoryHeritageHubPage() {
                 <td className="p-3 text-stone-600">あり　20台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（54件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F199124%2F199124.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F199124%2F199124.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

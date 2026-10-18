@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-ocean-cliff-sunset-view-stay/" },
-  title: "絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前・室戸岬・天草 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前・室戸岬・天草 厳選ガイド",
   description: "荒波が削り出した断崖絶壁と燃えるような夕陽完全特化！三陸復興国立公園・北山崎、男鹿半島・入道崎、福井・東尋坊、高知・室戸岬、熊本・天草松島の夕陽百選、波打ち際の絶景露天風呂温泉旅館を徹底解説。",
   keywords: ["絶景断崖オーシャン", "夕陽パノラマ宿", "三陸", "男鹿", "越前", "室戸岬", "天草"],
   openGraph: {
-    title: "絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前・室戸岬・天草 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前・室戸岬・天草 厳選ガイド",
     description: "荒波が削り出した断崖絶壁と燃えるような夕陽完全特化！三陸復興国立公園・北山崎、男鹿半島・入道崎、福井・東尋坊、高知・室戸岬、熊本・天草松島の夕陽百選、波打ち際の絶景露天風呂温泉旅館を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前・室戸岬・天草 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前・室戸岬・天草 厳選ガイド",
     description: "荒波が削り出した断崖絶壁と燃えるような夕陽完全特化！三陸復興国立公園・北山崎、男鹿半島・入道崎、福井・東尋坊、高知・室戸岬、熊本・天草松島の夕陽百選、波打ち際の絶景露天風呂温泉旅館を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function ScenicViewHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function ScenicViewHubPage() {
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（708件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,770〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52102%2F52102.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52102%2F52102.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. オーベルジュほまち　三國湊（ミシュランセレクテッド２０２５）</td>
@@ -261,7 +261,7 @@ export default function ScenicViewHubPage() {
                 <td className="p-3 text-stone-600">フロント棟・レストラン棟・各客室棟には無料駐車場を完備いたしております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.68（28件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188978%2F188978.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188978%2F188978.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 大江戸温泉物語　天草ホテル亀屋</td>
@@ -270,7 +270,7 @@ export default function ScenicViewHubPage() {
                 <td className="p-3 text-stone-600">有）８０台/無料（先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★3.95（807件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F173017%2F173017.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F173017%2F173017.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 天草温泉　ホテルアレグリアガーデンズ天草</td>
@@ -279,7 +279,7 @@ export default function ScenicViewHubPage() {
                 <td className="p-3 text-stone-600">有り　１００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（744件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67290%2F67290.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67290%2F67290.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 天草温泉　ホテル松竜園　海星</td>
@@ -288,7 +288,7 @@ export default function ScenicViewHubPage() {
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.91（291件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,450〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37953%2F37953.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37953%2F37953.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ビジネスホテル天草</td>
@@ -297,7 +297,7 @@ export default function ScenicViewHubPage() {
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.35（63件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F160683%2F160683.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F160683%2F160683.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

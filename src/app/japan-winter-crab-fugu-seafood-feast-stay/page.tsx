@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-winter-crab-fugu-seafood-feast-stay/" },
-  title: "冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 厳選ガイド",
   description: "冬の日本を代表する高級海鮮グルメ完全特化！山陰・北陸のタグ付き「松葉ガニ・越前ガニ」フルコース、本場下関の「天然とらふぐ刺し・ふぐちり鍋」、富山氷見＆京都伊根の「寒ブリしゃぶ」宿を徹底解説。",
   keywords: ["冬の四大味覚極上宿", "松葉ガニ", "越前ガニ", "下関とらふぐ", "寒ブリ", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 厳選ガイド",
     description: "冬の日本を代表する高級海鮮グルメ完全特化！山陰・北陸のタグ付き「松葉ガニ・越前ガニ」フルコース、本場下関の「天然とらふぐ刺し・ふぐちり鍋」、富山氷見＆京都伊根の「寒ブリしゃぶ」宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 厳選ガイド",
     description: "冬の日本を代表する高級海鮮グルメ完全特化！山陰・北陸のタグ付き「松葉ガニ・越前ガニ」フルコース、本場下関の「天然とらふぐ刺し・ふぐちり鍋」、富山氷見＆京都伊根の「寒ブリしゃぶ」宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function GourmetCuisineHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function GourmetCuisineHubPage() {
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.1（1086件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F69393%2F69393.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F69393%2F69393.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 下関温泉　風の海</td>
@@ -261,7 +261,7 @@ export default function GourmetCuisineHubPage() {
                 <td className="p-3 text-stone-600">有り　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.81（249件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,050〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165855%2F165855.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165855%2F165855.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 割烹旅館　寿美礼</td>
@@ -270,7 +270,7 @@ export default function GourmetCuisineHubPage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.54（174件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,650〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F76822%2F76822.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F76822%2F76822.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 関門の宿　源平荘</td>
@@ -279,7 +279,7 @@ export default function GourmetCuisineHubPage() {
                 <td className="p-3 text-stone-600">２５台。 全館Ｗｉ-Ｆｉ利用可。禁煙室なし（極力消臭対応）※分煙のご協力お願い致します</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（519件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72022%2F72022.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72022%2F72022.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 唐戸セントラルホテル</td>
@@ -288,7 +288,7 @@ export default function GourmetCuisineHubPage() {
                 <td className="p-3 text-stone-600">有料　※現金精算のみ オートバイ、軽・普通車７００円　マイクロバスまでの大型車１３００円</td>
                 <td className="p-3 font-bold text-amber-600">★3.54（405件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,750〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17800%2F17800.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17800%2F17800.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ＴＯＧＥＮ　黒部　宇奈月温泉</td>
@@ -297,7 +297,7 @@ export default function GourmetCuisineHubPage() {
                 <td className="p-3 text-stone-600">有り　50台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（1180件）</td>
                 <td className="p-3 font-bold text-rose-600">¥25,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10634%2F10634.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10634%2F10634.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

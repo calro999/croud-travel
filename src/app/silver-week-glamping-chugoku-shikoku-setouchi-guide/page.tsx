@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-chugoku-shikoku-setouchi-guide/" },
-  title: "瀬戸内・中四国シルバーウィーク グランピング：しまなみ海道の多島美＆オリーブ牛BBQ ｜ 日本全国・旅宿クラウド",
+  title: "瀬戸内・中四国シルバーウィーク グランピング：しまなみ海道の多島美＆オリーブ牛BBQ",
   description:
     "穏やかな海と島々を望むシーサイドグランピング！しまなみ海道サイクリングの拠点、小豆島や香川のオリーブ牛＆瀬戸内真鯛グリル、夕暮れのマジックアワーをテラスで過ごす絶景ステイ。",
   keywords: ["瀬戸内", "中四国シルバーウィーク", "グランピング", "しまなみ海道の多島美", "オリーブ牛BBQ", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "瀬戸内・中四国シルバーウィーク グランピング：しまなみ海道の多島美＆オリーブ牛BBQ ｜ 日本全国・旅宿クラウド",
+    title: "瀬戸内・中四国シルバーウィーク グランピング：しまなみ海道の多島美＆オリーブ牛BBQ",
     description: "穏やかな海と島々を望むシーサイドグランピング！しまなみ海道サイクリングの拠点、小豆島や香川のオリーブ牛＆瀬戸内真鯛グリル、夕暮れのマジックアワーをテラスで過ごす絶景ステイ。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "瀬戸内・中四国シルバーウィーク グランピング：しまなみ海道の多島美＆オリーブ牛BBQ ｜ 日本全国・旅宿クラウド",
+    title: "瀬戸内・中四国シルバーウィーク グランピング：しまなみ海道の多島美＆オリーブ牛BBQ",
     description: "穏やかな海と島々を望むシーサイドグランピング！しまなみ海道サイクリングの拠点、小豆島や香川のオリーブ牛＆瀬戸内真鯛グリル、夕暮れのマジックアワーをテラスで過ごす絶景ステイ。",
   }
 };
@@ -330,7 +330,7 @@ export default function SilverWeekGlampingSetouchiPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="inline-flex items-center justify-center px-4 py-2.5 bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5 shrink-0"
                   >
                     楽天トラベルで空室確認 🌊

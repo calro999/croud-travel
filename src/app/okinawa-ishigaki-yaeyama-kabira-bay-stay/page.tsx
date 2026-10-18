@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/okinawa-ishigaki-yaeyama-kabira-bay-stay/" },
-  title: "沖縄・石垣島＆八重山：川平湾・離島ホッピング＆石垣牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "沖縄・石垣島＆八重山：川平湾・離島ホッピング＆石垣牛宿 厳選ガイド",
   description: "ミシュラン・グリーンガイド三ツ星の絶景「川平湾」のグラスボート、竹富島・西表島へのアイランドホッピング拠点、日本初の国際星空保護区、最高級A5石垣牛ステーキを徹底解説。プライベートプール付きヴィラやオーシャンフロントリゾートを厳選。",
   keywords: ["沖縄", "石垣島", "八重山", "川平湾", "離島ホッピング", "石垣牛宿", "温泉宿"],
   openGraph: {
-    title: "沖縄・石垣島＆八重山：川平湾・離島ホッピング＆石垣牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "沖縄・石垣島＆八重山：川平湾・離島ホッピング＆石垣牛宿 厳選ガイド",
     description: "ミシュラン・グリーンガイド三ツ星の絶景「川平湾」のグラスボート、竹富島・西表島へのアイランドホッピング拠点、日本初の国際星空保護区、最高級A5石垣牛ステーキを徹底解説。プライベートプール付きヴィラやオーシャンフロントリゾートを厳選。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "沖縄・石垣島＆八重山：川平湾・離島ホッピング＆石垣牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "沖縄・石垣島＆八重山：川平湾・離島ホッピング＆石垣牛宿 厳選ガイド",
     description: "ミシュラン・グリーンガイド三ツ星の絶景「川平湾」のグラスボート、竹富島・西表島へのアイランドホッピング拠点、日本初の国際星空保護区、最高級A5石垣牛ステーキを徹底解説。プライベートプール付きヴィラやオーシャンフロントリゾートを厳選。",
   }
 };
@@ -214,7 +214,7 @@ export default function MicroTouristHubPage() {
                           <a
                             href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                             target="_blank"
-                            rel="noopener noreferrer"
+                            rel="sponsored noopener noreferrer"
                             className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-teal-700 to-teal-800 hover:from-teal-600 hover:to-teal-700 rounded-xl shadow transition"
                           >
                             ✈️ 楽天トラベルで宿泊プラン・空室を見る

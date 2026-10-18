@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-azumino-wasabi-hotaka-stay/" },
-  title: "長野・安曇野＆穂高温泉郷：大王わさび農場・水車小屋＆信州サーモン・わさび丼宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長野・安曇野＆穂高温泉郷：大王わさび農場・水車小屋＆信州サーモン・わさび丼宿 厳選ガイド",
   description: "北アルプスの清らかな湧水とアートの田園郷・長野安曇野エリア完全特化！日本最大級「大王わさび農場」、蓼川の水車小屋、安曇野アートラインの美術館巡り、弱アルカリ性美肌の穂高温泉郷、名物「本わさび丼・信州サーモン宿」を徹底解説。",
   keywords: ["長野", "安曇野", "穂高温泉郷", "大王わさび農場", "水車小屋", "信州サーモン", "わさび丼宿"],
   openGraph: {
-    title: "長野・安曇野＆穂高温泉郷：大王わさび農場・水車小屋＆信州サーモン・わさび丼宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "長野・安曇野＆穂高温泉郷：大王わさび農場・水車小屋＆信州サーモン・わさび丼宿 厳選ガイド",
     description: "北アルプスの清らかな湧水とアートの田園郷・長野安曇野エリア完全特化！日本最大級「大王わさび農場」、蓼川の水車小屋、安曇野アートラインの美術館巡り、弱アルカリ性美肌の穂高温泉郷、名物「本わさび丼・信州サーモン宿」を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "長野・安曇野＆穂高温泉郷：大王わさび農場・水車小屋＆信州サーモン・わさび丼宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "長野・安曇野＆穂高温泉郷：大王わさび農場・水車小屋＆信州サーモン・わさび丼宿 厳選ガイド",
     description: "北アルプスの清らかな湧水とアートの田園郷・長野安曇野エリア完全特化！日本最大級「大王わさび農場」、蓼川の水車小屋、安曇野アートラインの美術館巡り、弱アルカリ性美肌の穂高温泉郷、名物「本わさび丼・信州サーモン宿」を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（61件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172558%2F172558.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172558%2F172558.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 信州安曇野穂高温泉郷　旅館　山のたこ平</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　1００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（312件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38989%2F38989.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38989%2F38989.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 穂高温泉郷　御宿　穂高城</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り、無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.93（247件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F135480%2F135480.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F135480%2F135480.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 温泉ホテル安曇野アートキャビン</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">屋根付き駐車場10台（無料）　屋外駐車場あり、電気自動車用のコンセント2カ所有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（24件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196659%2F196659.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196659%2F196659.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＷＨＩＴＥ　ＨＯＴＥＬ　ＧＲＡＮＤ　ＨＡＫＵＢＡ</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">敷地内に無料駐車場をご用意しております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（14件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,050〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181791%2F181791.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181791%2F181791.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 大町温泉郷　立山プリンスホテル</td>
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　１００台　無料  　　 駐車場でのトラブルには責任を負いかねます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（1212件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2786%2F2786.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2786%2F2786.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

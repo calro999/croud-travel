@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
 export default function AutumnBudgetFeaturePage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800 pb-24">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"那覇国際通り：秋の心地よい夜風＆屋台村オリオンビール！2,000円台〜泊まれる格安ホテル5選\",\"description\":\"真夏の猛暑が落ち着き、最も過ごしやすい秋の沖縄・那覇！国際通り屋台村で楽しむオリオンビールやあぐー豚、公設市場の新鮮魚介。国際通り徒歩すぐで1泊2,000円台〜3,000円台から泊まれる格安・高コスパ宿5選。\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-kokusaidori-yatai-orion-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"那覇国際通り：秋の心地よい夜風＆屋台村オリオンビール！2,000円台〜泊まれる格安ホテル5選\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-kokusaidori-yatai-orion-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"那覇国際通り：秋の心地よい夜風＆屋台村オリオンビール！2,000円台〜泊まれる格安ホテル5選\",\"numberOfItems\":9,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ワイズキャビン＆ホテル那覇国際通り\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-kokusaidori-yatai-orion-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ホテル　オーシャン（那覇国際通り）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-kokusaidori-yatai-orion-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ダイワロイネットホテル那覇国際通り\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-kokusaidori-yatai-orion-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"アルファベッドイン那覇国際通りＥＡＳＴ\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-kokusaidori-yatai-orion-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"ＨＯＴＥＬ　ＴＨＥ　ＣＵＢＥ　那覇国際通り\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-kokusaidori-yatai-orion-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"沖縄美ら海水族館\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-kokusaidori-yatai-orion-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"首里城公園\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-kokusaidori-yatai-orion-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"古宇利島（古宇利大橋）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-kokusaidori-yatai-orion-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"万座毛（まんざも）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-kokusaidori-yatai-orion-hotels-stay/\"}]}" }} />
       {/* パンくずリスト */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-slate-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
@@ -448,7 +452,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">有＊予約制＊1泊1,000円(税込)、2026年2月から￥1200円に改定</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（738件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,975〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166949%2F166949.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166949%2F166949.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル　オーシャン（那覇国際通り）</td>
@@ -457,7 +461,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">有料立体駐車場有り。お車の高さ制限(160cm)があります。予約不可・先着順（1泊1,500円）</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（1009件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F78126%2F78126.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F78126%2F78126.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ダイワロイネットホテル那覇国際通り</td>
@@ -466,7 +470,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">当館裏手に提携駐車場（商業施設併設の立体駐車場）へのご案内（先着順：1泊1,500円／税込）</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（1756件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,090〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128440%2F128440.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128440%2F128440.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アルファベッドイン那覇国際通りＥＡＳＴ</td>
@@ -475,7 +479,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（217件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183254%2F183254.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183254%2F183254.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＨＯＴＥＬ　ＴＨＥ　ＣＵＢＥ　那覇国際通り</td>
@@ -484,7 +488,7 @@ export default function AutumnBudgetFeaturePage() {
                 <td className="p-3 text-stone-600">無し</td>
                 <td className="p-3 font-bold text-amber-600">★3.89（361件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158644%2F158644.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158644%2F158644.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -661,6 +665,9 @@ export default function AutumnBudgetFeaturePage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-okinawa-naha-kokusaidori-yatai-orion-hotels-stay" />
+        </div>
 
       </main>
   );

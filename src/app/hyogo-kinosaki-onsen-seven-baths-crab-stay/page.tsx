@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hyogo-kinosaki-onsen-seven-baths-crab-stay/" },
-  title: "兵庫・城崎温泉＆円山川：七つの外湯めぐり・浴衣柳並木＆松葉ガニ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "兵庫・城崎温泉＆円山川：七つの外湯めぐり・浴衣柳並木＆松葉ガニ宿 厳選ガイド",
   description: "1300年の名湯「城崎温泉」の七つの外湯めぐりと大谿川の柳並木、津居山港・柴山港直送の本松葉ガニ懐石、円山川のコウノトリ湿地を巡る兵庫・但馬特化ガイド。伝統木造旅館や川沿いリゾートを厳選。",
   keywords: ["兵庫", "城崎温泉", "円山川", "七つの外湯めぐり", "浴衣柳並木", "松葉ガニ宿", "温泉宿"],
   openGraph: {
-    title: "兵庫・城崎温泉＆円山川：七つの外湯めぐり・浴衣柳並木＆松葉ガニ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "兵庫・城崎温泉＆円山川：七つの外湯めぐり・浴衣柳並木＆松葉ガニ宿 厳選ガイド",
     description: "1300年の名湯「城崎温泉」の七つの外湯めぐりと大谿川の柳並木、津居山港・柴山港直送の本松葉ガニ懐石、円山川のコウノトリ湿地を巡る兵庫・但馬特化ガイド。伝統木造旅館や川沿いリゾートを厳選。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "兵庫・城崎温泉＆円山川：七つの外湯めぐり・浴衣柳並木＆松葉ガニ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "兵庫・城崎温泉＆円山川：七つの外湯めぐり・浴衣柳並木＆松葉ガニ宿 厳選ガイド",
     description: "1300年の名湯「城崎温泉」の七つの外湯めぐりと大谿川の柳並木、津居山港・柴山港直送の本松葉ガニ懐石、円山川のコウノトリ湿地を巡る兵庫・但馬特化ガイド。伝統木造旅館や川沿いリゾートを厳選。",
   }
 };
@@ -211,7 +211,7 @@ export default function MicroTouristHubPage() {
                           <a
                             href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                             target="_blank"
-                            rel="noopener noreferrer"
+                            rel="sponsored noopener noreferrer"
                             className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-teal-700 to-teal-800 hover:from-teal-600 hover:to-teal-700 rounded-xl shadow transition"
                           >
                             ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　７台　無料のプランから有料のプランがあり、プランに料金は記載してます。　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.91（258件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,930〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79381%2F79381.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79381%2F79381.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 城崎温泉　春日屋旅館</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">・有り（無料） ※お車でお越しの方は、ご予約時に【備考】欄へご記入ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4（5件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F140962%2F140962.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F140962%2F140962.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 城崎温泉　みつわ旅館</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">無料　専用駐車場あり※徒歩５分かかり各自移動。遠くて狭くて見つけにくい。</td>
                 <td className="p-3 font-bold text-amber-600">★4.88（212件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,350〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41857%2F41857.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41857%2F41857.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 城崎温泉　山しろや旅館</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">プランにより異なります（詳しくはプラン内容の下記に明記してありますのでご確認下さい）</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（60件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F151275%2F151275.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F151275%2F151275.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 城崎温泉　風月魚匠（ふうげつぎょしょう）</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">無料駐車場有　（10台予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.62（789件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147569%2F147569.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147569%2F147569.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 城崎　円山川温泉　銀花（共立リゾート）</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り（15台、無料）到着時、旅館門前にお車をお寄せください。スタッフが移動させます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.7（464件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70709%2F70709.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70709%2F70709.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

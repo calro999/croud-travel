@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-hot-spring-cure/" },
-  title: "本格湯治場：源泉かけ流し＆効能抜群の名湯秘湯旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "本格湯治場：源泉かけ流し＆効能抜群の名湯秘湯旅館 厳選ガイド",
   description: "温泉の真髄を味わう！秋田・玉川温泉（強酸性ラジウム湯治）、青森・酸ヶ湯温泉（ヒバ千人風呂）、栃木・那須湯本（鹿の湯）、長野・野沢温泉（13の外湯めぐり）など、歴史ある本物の名湯宿を徹底解説。",
   keywords: ["本格湯治場", "源泉かけ流し", "効能抜群の名湯秘湯旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "本格湯治場：源泉かけ流し＆効能抜群の名湯秘湯旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "本格湯治場：源泉かけ流し＆効能抜群の名湯秘湯旅館 厳選ガイド",
     description: "温泉の真髄を味わう！秋田・玉川温泉（強酸性ラジウム湯治）、青森・酸ヶ湯温泉（ヒバ千人風呂）、栃木・那須湯本（鹿の湯）、長野・野沢温泉（13の外湯めぐり）など、歴史ある本物の名湯宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "本格湯治場：源泉かけ流し＆効能抜群の名湯秘湯旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "本格湯治場：源泉かけ流し＆効能抜群の名湯秘湯旅館 厳選ガイド",
     description: "温泉の真髄を味わう！秋田・玉川温泉（強酸性ラジウム湯治）、青森・酸ヶ湯温泉（ヒバ千人風呂）、栃木・那須湯本（鹿の湯）、長野・野沢温泉（13の外湯めぐり）など、歴史ある本物の名湯宿を徹底解説。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

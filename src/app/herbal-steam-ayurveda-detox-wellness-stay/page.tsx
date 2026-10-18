@@ -6,10 +6,10 @@ import seasonalData from '@/data/all_seasonal_rakuten_hotels.json';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/herbal-steam-ayurveda-detox-wellness-stay/" },
-  title: '薬草ハーブ蒸し＆本格アーユルヴェーダ宿厳選ガイド「酵素風呂・体内浄化」 | クラウドトラベル',
+  title: '薬草ハーブ蒸し＆本格アーユルヴェーダ宿厳選ガイド「酵素風呂・体内浄化」',
   description: '和草ハーブやよもぎスチームサウナ、本格アーユルヴェーダ（シロダーラ）、米ぬか酵素風呂、発酵薬膳料理で心身をリセットするウェルネスステイ。極上のデトックスリトリート。',
   openGraph: {
-    title: '薬草ハーブ蒸し＆本格アーユルヴェーダ宿厳選ガイド「酵素風呂・体内浄化」 | クラウドトラベル',
+    title: '薬草ハーブ蒸し＆本格アーユルヴェーダ宿厳選ガイド「酵素風呂・体内浄化」',
     description: '和草ハーブやよもぎスチームサウナ、本格アーユルヴェーダ（シロダーラ）、米ぬか酵素風呂、発酵薬膳料理で心身をリセットするウェルネスステイ。極上のデトックスリトリート。',
     type: 'article',
   },
@@ -17,6 +17,20 @@ export const metadata: Metadata = {
 
 export default function Page() {
   const secData = (seasonalData as any)['herbal-steam-ayurveda-detox-wellness-stay'] || {};
+
+  const allSecHotels = Object.values(secData).flatMap((s: any) => (s && Array.isArray(s.hotels) ? s.hotels : []));
+  const jsonLdItemList = allSecHotels.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": (metadata.title as string) || "herbal-steam-ayurveda-detox-wellness-stay",
+    "numberOfItems": allSecHotels.length,
+    "itemListElement": allSecHotels.map((h: any, idx: number) => ({
+      "@type": "ListItem",
+      "position": idx + 1,
+      "name": h.hotelName || "厳選宿",
+      "url": h.affiliateUrl || h.hotelInformationUrl || "https://croud-travel.pages.dev/herbal-steam-ayurveda-detox-wellness-stay/"
+    }))
+  } : null;
 
 
   const jsonLdArticle = {
@@ -46,6 +60,9 @@ export default function Page() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「中尾山温泉松仙閣＜長野県＞」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「中尾山温泉松仙閣＜長野県＞」へは、長野駅より車で２０分約９㎞、JR今井駅より車で５分約２.５ｋｍ、長野Ｉ．Ｃより車で１５分。最寄りの篠ノ井駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「中尾山温泉松仙閣＜長野県＞」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「中尾山温泉松仙閣＜長野県＞」は『お夕食と肌スベ天然温泉が人気。お見合い露天風呂」やカラオケ風呂のユニーク風呂も♪無線LAN』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「中尾山温泉松仙閣＜長野県＞」と「旅館 励明園」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
+      {jsonLdItemList && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdItemList) }} />}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       <div className="max-w-5xl mx-auto">
         {/* パンくずリスト */}
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">
@@ -125,7 +142,7 @@ export default function Page() {
                       <a
                         href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1 px-4 py-2 bg-emerald-900 hover:bg-emerald-800 text-emerald-100 rounded-lg text-xs font-bold transition"
                       >
                         詳細・宿泊プラン
@@ -203,7 +220,7 @@ export default function Page() {
                       <a
                         href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1 px-4 py-2 bg-emerald-900 hover:bg-emerald-800 text-emerald-100 rounded-lg text-xs font-bold transition"
                       >
                         詳細・宿泊プラン
@@ -281,7 +298,7 @@ export default function Page() {
                       <a
                         href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="inline-flex items-center gap-1 px-4 py-2 bg-emerald-900 hover:bg-emerald-800 text-emerald-100 rounded-lg text-xs font-bold transition"
                       >
                         詳細・宿泊プラン
@@ -486,25 +503,25 @@ export default function Page() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/okayama"
+                href="/prefectures/okayama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 岡山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nagano"
+                href="/prefectures/nagano/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 長野県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/niigata"
+                href="/prefectures/niigata/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 新潟県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/iwate"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 岩手県の宿・温泉

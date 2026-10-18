@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/gifu-gero-onsen-hida-river-stay/" },
-  title: "岐阜・下呂温泉＆馬瀬川：日本三名泉美肌の湯・飛騨牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "岐阜・下呂温泉＆馬瀬川：日本三名泉美肌の湯・飛騨牛宿 厳選ガイド",
   description: "有馬・草津と並ぶ日本三名泉「下呂温泉」の絹のような美肌湯、飛騨川沿いの温泉街そぞろ歩き、最高級A5等級飛騨牛の極上懐石、清流馬瀬川の天然鮎と合掌造りを徹底解説。老舗名旅館や展望露天風呂宿を厳選。",
   keywords: ["岐阜", "下呂温泉", "馬瀬川", "日本三名泉美肌の湯", "飛騨牛宿", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "岐阜・下呂温泉＆馬瀬川：日本三名泉美肌の湯・飛騨牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "岐阜・下呂温泉＆馬瀬川：日本三名泉美肌の湯・飛騨牛宿 厳選ガイド",
     description: "有馬・草津と並ぶ日本三名泉「下呂温泉」の絹のような美肌湯、飛騨川沿いの温泉街そぞろ歩き、最高級A5等級飛騨牛の極上懐石、清流馬瀬川の天然鮎と合掌造りを徹底解説。老舗名旅館や展望露天風呂宿を厳選。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "岐阜・下呂温泉＆馬瀬川：日本三名泉美肌の湯・飛騨牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "岐阜・下呂温泉＆馬瀬川：日本三名泉美肌の湯・飛騨牛宿 厳選ガイド",
     description: "有馬・草津と並ぶ日本三名泉「下呂温泉」の絹のような美肌湯、飛騨川沿いの温泉街そぞろ歩き、最高級A5等級飛騨牛の極上懐石、清流馬瀬川の天然鮎と合掌造りを徹底解説。老舗名旅館や展望露天風呂宿を厳選。",
   }
 };
@@ -214,7 +214,7 @@ export default function MicroTouristHubPage() {
                           <a
                             href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                             target="_blank"
-                            rel="noopener noreferrer"
+                            rel="sponsored noopener noreferrer"
                             className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-teal-700 to-teal-800 hover:from-teal-600 hover:to-teal-700 rounded-xl shadow transition"
                           >
                             ✈️ 楽天トラベルで宿泊プラン・空室を見る

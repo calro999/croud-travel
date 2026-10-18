@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-kansai-biwako-awaji-guide/" },
-  title: "関西シルバーウィーク グランピング：琵琶湖レイクビュー＆淡路島オーシャンビュー極上ドームヴィラ ｜ 日本全国・旅宿クラウド",
+  title: "関西シルバーウィーク グランピング：琵琶湖レイクビュー＆淡路島オーシャンビュー極上ドームヴィラ",
   description:
     "関西の秋連休を彩る水辺のグランピングリゾート！琵琶湖畔のプライベートビーチ付きドーム、淡路島の夕日を望むインフィニティプール付きヴィラ、淡路牛・近江牛のプレミアムBBQプラン徹底比較。",
   keywords: ["関西シルバーウィーク", "グランピング", "琵琶湖レイクビュー", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "関西シルバーウィーク グランピング：琵琶湖レイクビュー＆淡路島オーシャンビュー極上ドームヴィラ ｜ 日本全国・旅宿クラウド",
+    title: "関西シルバーウィーク グランピング：琵琶湖レイクビュー＆淡路島オーシャンビュー極上ドームヴィラ",
     description: "関西の秋連休を彩る水辺のグランピングリゾート！琵琶湖畔のプライベートビーチ付きドーム、淡路島の夕日を望むインフィニティプール付きヴィラ、淡路牛・近江牛のプレミアムBBQプラン徹底比較。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "関西シルバーウィーク グランピング：琵琶湖レイクビュー＆淡路島オーシャンビュー極上ドームヴィラ ｜ 日本全国・旅宿クラウド",
+    title: "関西シルバーウィーク グランピング：琵琶湖レイクビュー＆淡路島オーシャンビュー極上ドームヴィラ",
     description: "関西の秋連休を彩る水辺のグランピングリゾート！琵琶湖畔のプライベートビーチ付きドーム、淡路島の夕日を望むインフィニティプール付きヴィラ、淡路牛・近江牛のプレミアムBBQプラン徹底比較。",
   }
 };
@@ -308,7 +308,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center px-4 py-2.5 bg-gradient-to-r from-cyan-600 to-sky-600 hover:from-cyan-700 hover:to-sky-700 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5"
                     >
                       楽天トラベルで空室確認 ➔
@@ -432,25 +432,25 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/kagoshima"
+                href="/prefectures/kagoshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 鹿児島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tochigi"
+                href="/prefectures/tochigi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 栃木県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/hiroshima"
+                href="/prefectures/hiroshima/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 広島県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/miyagi"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 宮城県の宿・温泉
@@ -495,7 +495,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.9（69件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188928%2F188928.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188928%2F188928.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＧＬＡＭＰＩＮＧ＆ＣＡＦＥ　ＭＵＫＵ</td>
@@ -504,7 +504,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
                 <td className="p-3 text-stone-600">有り　１０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">プラン参照</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F193389%2F193389.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F193389%2F193389.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. Ｇｌａｍｐｉｎｇ　Ｖｉｌｌａ　鮫家　ＡＷＡＪＩ＜淡路島＞</td>
@@ -513,7 +513,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
                 <td className="p-3 text-stone-600">有り　５台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★5（6件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183785%2F183785.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183785%2F183785.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. コスタブルー　あわじ西海岸＜淡路島＞</td>
@@ -522,7 +522,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（41件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F191860%2F191860.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F191860%2F191860.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 洲本温泉　海のホテル　島花　＜淡路島＞</td>
@@ -531,7 +531,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
                 <td className="p-3 text-stone-600">有り（無料/予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1184件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108118%2F108118.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108118%2F108118.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

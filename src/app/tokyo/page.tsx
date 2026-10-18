@@ -28,19 +28,19 @@ interface RakutenCategoryData {
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "東京観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆東京駅・新宿・渋谷・浅草・夜景ホテル・朝食ビュッフェ ｜ 旅宿クラウド",
+  title: "東京観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆東京駅・新宿・渋谷・浅草・夜景ホテル・朝食ビュッフェ",
   description:
     "東京観光の計画を完全サポート！1泊2日・2泊3日モデルコース、東京駅・新宿・渋谷・浅草・銀座のエリア別攻略法、夜景の見えるホテル、絶品朝食ビュッフェ宿までおすすめの宿泊プランまで徹底網羅。",
   keywords: ["東京観光", "完全計画ガイド", "2026", "1泊2日", "2泊3日モデルコース", "東京駅", "新宿"],
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo/" },
   openGraph: {
-    title: "東京観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆東京駅・新宿・渋谷・浅草・夜景ホテル・朝食ビュッフェ ｜ 旅宿クラウド",
+    title: "東京観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆東京駅・新宿・渋谷・浅草・夜景ホテル・朝食ビュッフェ",
     description: "東京観光の計画を完全サポート！1泊2日・2泊3日モデルコース、東京駅・新宿・渋谷・浅草・銀座のエリア別攻略法、夜景の見えるホテル、絶品朝食ビュッフェ宿までおすすめの宿泊プランまで徹底網羅。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "東京観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆東京駅・新宿・渋谷・浅草・夜景ホテル・朝食ビュッフェ ｜ 旅宿クラウド",
+    title: "東京観光 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆東京駅・新宿・渋谷・浅草・夜景ホテル・朝食ビュッフェ",
     description: "東京観光の計画を完全サポート！1泊2日・2泊3日モデルコース、東京駅・新宿・渋谷・浅草・銀座のエリア別攻略法、夜景の見えるホテル、絶品朝食ビュッフェ宿までおすすめの宿泊プランまで徹底網羅。",
   }
 };
@@ -90,7 +90,7 @@ export default function TokyoHubPage() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/prefectures/tokyo" className="hover:text-teal-800 transition">東京都</Link>
+        <Link href="/prefectures/tokyo/" className="hover:text-teal-800 transition">東京都</Link>
         <span>/</span>
         <span className="text-emerald-950 font-bold">東京観光 完全ガイド</span>
       </nav>
@@ -148,7 +148,7 @@ export default function TokyoHubPage() {
                   </div>
                 </div>
                 <div className="p-4 pt-0">
-                  <a href={hotel.affiliateUrl} target="_blank" rel="noopener noreferrer" className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-indigo-700 to-indigo-800 hover:from-indigo-600 hover:to-indigo-700 rounded-xl shadow transition">
+                  <a href={hotel.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer" className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-indigo-700 to-indigo-800 hover:from-indigo-600 hover:to-indigo-700 rounded-xl shadow transition">
                     ✈️ 楽天トラベルで空室・プランを見る
                   </a>
                 </div>
@@ -188,7 +188,7 @@ export default function TokyoHubPage() {
                 <td className="p-3 text-stone-600">事前予約制立体駐車場/1泊3000円 /入庫時間・車高制限有</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（4176件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,230〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F141356%2F141356.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F141356%2F141356.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ロイヤルパインズホテル浦和</td>
@@ -197,7 +197,7 @@ export default function TokyoHubPage() {
                 <td className="p-3 text-stone-600">有り（286台）、\1800/泊（税込）　高さ2.1ｍ×幅2.0ｍ×長さ5.5ｍまでの車輌（先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（3595件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11044%2F11044.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11044%2F11044.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. プレミアホテルーＣＡＢＩＮ　ＰＲＥＳＩＤＥＮＴー東京</td>
@@ -206,7 +206,7 @@ export default function TokyoHubPage() {
                 <td className="p-3 text-stone-600">機械式立体駐車場有り（3,000円／1泊あたり）事前予約制</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（167件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,750〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188764%2F188764.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188764%2F188764.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 変なホテル東京　浜松町</td>
@@ -215,7 +215,7 @@ export default function TokyoHubPage() {
                 <td className="p-3 text-stone-600">なし</td>
                 <td className="p-3 font-bold text-amber-600">★4.07（1222件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,880〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165753%2F165753.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165753%2F165753.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルフランクス</td>
@@ -224,7 +224,7 @@ export default function TokyoHubPage() {
                 <td className="p-3 text-stone-600">立体駐車場（高さ1.57ｍ、幅1.78m以下）1泊1,000円　2泊目以降一律1,500円</td>
                 <td className="p-3 font-bold text-amber-600">★4.37（4484件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4929%2F4929.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4929%2F4929.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ホテルリソル秋葉原</td>
@@ -233,7 +233,7 @@ export default function TokyoHubPage() {
                 <td className="p-3 text-stone-600">有り 5台 2500円（1泊） 要電話予約。提携駐車場なし。</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（369件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F167921%2F167921.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F167921%2F167921.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/oita-beppu-hell-hotspring-stay/" },
-  title: "大分・別府八湯＆別府地獄めぐり：海地獄・血の池地獄＆地獄蒸し極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "大分・別府八湯＆別府地獄めぐり：海地獄・血の池地獄＆地獄蒸し極上宿 厳選ガイド",
   description: "日本一の湧出量・別府温泉郷エリア完全特化！海地獄・血の池地獄など7つの別府地獄めぐり、鉄輪温泉の湯けむり展望台、地獄蒸し料理体験、砂湯と老舗温泉旅館を徹底解説。",
   keywords: ["大分", "別府八湯", "別府地獄めぐり", "海地獄", "血の池地獄", "地獄蒸し極上宿", "温泉宿"],
   openGraph: {
-    title: "大分・別府八湯＆別府地獄めぐり：海地獄・血の池地獄＆地獄蒸し極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "大分・別府八湯＆別府地獄めぐり：海地獄・血の池地獄＆地獄蒸し極上宿 厳選ガイド",
     description: "日本一の湧出量・別府温泉郷エリア完全特化！海地獄・血の池地獄など7つの別府地獄めぐり、鉄輪温泉の湯けむり展望台、地獄蒸し料理体験、砂湯と老舗温泉旅館を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "大分・別府八湯＆別府地獄めぐり：海地獄・血の池地獄＆地獄蒸し極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "大分・別府八湯＆別府地獄めぐり：海地獄・血の池地獄＆地獄蒸し極上宿 厳選ガイド",
     description: "日本一の湧出量・別府温泉郷エリア完全特化！海地獄・血の池地獄など7つの別府地獄めぐり、鉄輪温泉の湯けむり展望台、地獄蒸し料理体験、砂湯と老舗温泉旅館を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　10台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（420件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,790〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70231%2F70231.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70231%2F70231.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 鉄輪温泉　かんなわ　ゆの香（レトロ館）</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　１５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（96件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F163057%2F163057.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F163057%2F163057.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 鉄輪温泉　冨士屋ホテル（Ｆｕｊｉｙａ　Ｈｏｔｅｌ）</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">あり　40台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★5（7件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F197315%2F197315.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F197315%2F197315.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 源泉湯元の宿　旅館　国東荘</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有　１２台　無料　予約制</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（221件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30664%2F30664.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30664%2F30664.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 別府ホテル塒</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　20台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4（25件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,862〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183268%2F183268.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183268%2F183268.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 別府温泉　ホテル好楽</td>
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　40台　1泊550円</td>
                 <td className="p-3 font-bold text-amber-600">★3.88（707件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,860〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4765%2F4765.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4765%2F4765.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

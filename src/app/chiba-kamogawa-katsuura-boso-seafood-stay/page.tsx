@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/chiba-kamogawa-katsuura-boso-seafood-stay/" },
-  title: "千葉・鴨川＆勝浦：シャチ・四百年朝市＆地金目鯛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "千葉・鴨川＆勝浦：シャチ・四百年朝市＆地金目鯛宿 厳選ガイド",
   description: "大迫力のシャチパフォーマンスで大人気の「鴨川シーワールド」、天正年間から続く日本三大朝市「勝浦朝市」、ご当地グルメ勝浦タンタンメン、南房総直送の地金目鯛姿煮や伊勢海老を徹底解説。太平洋一望の温泉ホテルや海鮮宿を厳選。",
   keywords: ["千葉", "鴨川", "勝浦", "シャチ", "四百年朝市", "地金目鯛宿", "温泉宿"],
   openGraph: {
-    title: "千葉・鴨川＆勝浦：シャチ・四百年朝市＆地金目鯛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "千葉・鴨川＆勝浦：シャチ・四百年朝市＆地金目鯛宿 厳選ガイド",
     description: "大迫力のシャチパフォーマンスで大人気の「鴨川シーワールド」、天正年間から続く日本三大朝市「勝浦朝市」、ご当地グルメ勝浦タンタンメン、南房総直送の地金目鯛姿煮や伊勢海老を徹底解説。太平洋一望の温泉ホテルや海鮮宿を厳選。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "千葉・鴨川＆勝浦：シャチ・四百年朝市＆地金目鯛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "千葉・鴨川＆勝浦：シャチ・四百年朝市＆地金目鯛宿 厳選ガイド",
     description: "大迫力のシャチパフォーマンスで大人気の「鴨川シーワールド」、天正年間から続く日本三大朝市「勝浦朝市」、ご当地グルメ勝浦タンタンメン、南房総直送の地金目鯛姿煮や伊勢海老を徹底解説。太平洋一望の温泉ホテルや海鮮宿を厳選。",
   }
 };
@@ -214,7 +214,7 @@ export default function MicroTouristHubPage() {
                           <a
                             href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                             target="_blank"
-                            rel="noopener noreferrer"
+                            rel="sponsored noopener noreferrer"
                             className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-teal-700 to-teal-800 hover:from-teal-600 hover:to-teal-700 rounded-xl shadow transition"
                           >
                             ✈️ 楽天トラベルで宿泊プラン・空室を見る

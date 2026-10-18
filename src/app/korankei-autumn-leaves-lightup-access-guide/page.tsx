@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/korankei-autumn-leaves-lightup-access-guide/" },
-  title: "香嵐渓 紅葉もみじまつり2026：4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス ｜ 日本全国・旅宿クラウド",
+  title: "香嵐渓 紅葉もみじまつり2026：4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス",
   description: "東海随一の紅葉名所「香嵐渓」もみじまつり完全ガイド！巴川に映える4,000本のもみじライトアップ、名物五平餅＆鮎の塩焼き、渋滞を回避する早朝ルート＆名古屋駅発直行日帰りバスツアー比較。",
   keywords: ["香嵐渓", "紅葉もみじまつり2026", "4000本の絶景ライトアップ", "大渋滞回避アクセス", "名古屋発日帰りバス", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "香嵐渓 紅葉もみじまつり2026：4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス ｜ 日本全国・旅宿クラウド",
+    title: "香嵐渓 紅葉もみじまつり2026：4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス",
     description: "東海随一の紅葉名所「香嵐渓」もみじまつり完全ガイド！巴川に映える4,000本のもみじライトアップ、名物五平餅＆鮎の塩焼き、渋滞を回避する早朝ルート＆名古屋駅発直行日帰りバスツアー比較。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "香嵐渓 紅葉もみじまつり2026：4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス ｜ 日本全国・旅宿クラウド",
+    title: "香嵐渓 紅葉もみじまつり2026：4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス",
     description: "東海随一の紅葉名所「香嵐渓」もみじまつり完全ガイド！巴川に映える4,000本のもみじライトアップ、名物五平餅＆鮎の塩焼き、渋滞を回避する早朝ルート＆名古屋駅発直行日帰りバスツアー比較。",
   }
 };
@@ -369,7 +369,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="w-full py-3 px-4 bg-gradient-to-r from-red-700 to-red-800 hover:from-red-600 hover:to-red-700 text-white font-bold text-xs rounded-xl shadow transition duration-200 flex items-center justify-center gap-2 text-center"
                   >
                     <span>楽天トラベルで宿泊プランを見る</span>
@@ -393,7 +393,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="inline-flex items-center justify-center px-5 py-2.5 rounded-xl bg-amber-400 hover:bg-amber-300 text-stone-950 font-black text-xs transition shadow-md whitespace-nowrap"
             >
               日帰りバスツアーを予約 →
@@ -404,7 +404,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="bg-stone-950/70 hover:bg-stone-950/90 border border-red-900/40 hover:border-amber-400/50 p-4 rounded-xl space-y-2 transition block group"
             >
               <div className="text-2xl">🚌</div>
@@ -419,7 +419,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fcoupon%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="bg-stone-950/70 hover:bg-stone-950/90 border border-red-900/40 hover:border-amber-400/50 p-4 rounded-xl space-y-2 transition block group"
             >
               <div className="text-2xl">🎫</div>
@@ -520,25 +520,25 @@ export default function KorankeiAutumnLeavesAccessPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/miyagi"
+                href="/prefectures/miyagi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 宮城県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/toyama"
+                href="/prefectures/toyama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 富山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kyoto"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 京都府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/osaka"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 大阪府の宿・温泉
@@ -583,7 +583,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
                 <td className="p-3 text-stone-600">有り（有料）　約1000台　駐車場2カ所　■予約不要　■二輪駐車不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（638件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,495〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180318%2F180318.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F180318%2F180318.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 東横ＩＮＮ豊田市駅前</td>
@@ -592,7 +592,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
                 <td className="p-3 text-stone-600">ホテル併設駐車場：14台（先着順）1泊/1.200円　　提携駐車場有：27時間/1,000円</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（283件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,618〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F167225%2F167225.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F167225%2F167225.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＡＢホテル　豊田元町</td>
@@ -601,7 +601,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
                 <td className="p-3 text-stone-600">敷地内無料駐車場あり※満車の場合は、第２無料駐車場（徒歩約5分）をフロントにてご案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.15（2098件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F69257%2F69257.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F69257%2F69257.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

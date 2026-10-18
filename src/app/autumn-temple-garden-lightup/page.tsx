@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-temple-garden-lightup/" },
-  title: "錦秋の光の芸術：紅葉庭園ライトアップ＆夜間特別拝観の宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "錦秋の光の芸術：紅葉庭園ライトアップ＆夜間特別拝観の宿 厳選ガイド",
   description: "幻想的な闇に浮かび上がる紅葉の美！京都東山（清水寺・高台寺）、東京目白（ホテル椿山荘東京の雲海庭園）、金沢兼六園（雪吊りライトアップ）、宮城松島円通院など、夜間ライトアップを満喫できる極上宿を徹底解説。",
   keywords: ["錦秋の光の芸術", "紅葉庭園ライトアップ", "夜間特別拝観の宿", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "錦秋の光の芸術：紅葉庭園ライトアップ＆夜間特別拝観の宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "錦秋の光の芸術：紅葉庭園ライトアップ＆夜間特別拝観の宿 厳選ガイド",
     description: "幻想的な闇に浮かび上がる紅葉の美！京都東山（清水寺・高台寺）、東京目白（ホテル椿山荘東京の雲海庭園）、金沢兼六園（雪吊りライトアップ）、宮城松島円通院など、夜間ライトアップを満喫できる極上宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "錦秋の光の芸術：紅葉庭園ライトアップ＆夜間特別拝観の宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "錦秋の光の芸術：紅葉庭園ライトアップ＆夜間特別拝観の宿 厳選ガイド",
     description: "幻想的な闇に浮かび上がる紅葉の美！京都東山（清水寺・高台寺）、東京目白（ホテル椿山荘東京の雲海庭園）、金沢兼六園（雪吊りライトアップ）、宮城松島円通院など、夜間ライトアップを満喫できる極上宿を徹底解説。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

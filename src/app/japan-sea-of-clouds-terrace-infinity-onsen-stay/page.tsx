@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-sea-of-clouds-terrace-infinity-onsen-stay/" },
-  title: "雲海テラス＆天空インフィニティ温泉宿：トマム・竜王・秩父・竹田城 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "雲海テラス＆天空インフィニティ温泉宿：トマム・竜王・秩父・竹田城 厳選ガイド",
   description: "雲の上に浮かぶ奇跡の絶景完全特化！星野リゾート トマム「雲海テラス」、長野SORA terrace、兵庫「天空の城・竹田城跡」、埼玉「秩父ミューズパーク」、早朝雲海ツアーと天空インフィニティ露天風呂宿を徹底解説。",
   keywords: ["雲海テラス", "天空インフィニティ温泉宿", "トマム", "竜王", "秩父", "竹田城", "温泉宿"],
   openGraph: {
-    title: "雲海テラス＆天空インフィニティ温泉宿：トマム・竜王・秩父・竹田城 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "雲海テラス＆天空インフィニティ温泉宿：トマム・竜王・秩父・竹田城 厳選ガイド",
     description: "雲の上に浮かぶ奇跡の絶景完全特化！星野リゾート トマム「雲海テラス」、長野SORA terrace、兵庫「天空の城・竹田城跡」、埼玉「秩父ミューズパーク」、早朝雲海ツアーと天空インフィニティ露天風呂宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "雲海テラス＆天空インフィニティ温泉宿：トマム・竜王・秩父・竹田城 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "雲海テラス＆天空インフィニティ温泉宿：トマム・竜王・秩父・竹田城 厳選ガイド",
     description: "雲の上に浮かぶ奇跡の絶景完全特化！星野リゾート トマム「雲海テラス」、長野SORA terrace、兵庫「天空の城・竹田城跡」、埼玉「秩父ミューズパーク」、早朝雲海ツアーと天空インフィニティ露天風呂宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function ScenicViewHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

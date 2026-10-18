@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-sendai-bus-vs-shinkansen-guide/" },
-  title: "東京から仙台 安く行く方法：新幹線 vs 高速バス徹底比較！牛たん・松島1泊2日モデルコース「2026最新」 ｜ 日本全国・旅宿クラウド",
+  title: "東京から仙台 安く行く方法：新幹線 vs 高速バス徹底比較！牛たん・松島1泊2日モデルコース「2026最新」",
   description: "東京から杜の都・仙台へ安く行く方法を徹底比較！東北新幹線はやぶさ（約11,410円）と高速バス（約2,500円〜）の料金・時間差。往復1.5万円節約して本場極厚牛たん＆日本三景・松島遊覧船、秋保温泉を満喫する1泊2日モデルコース。",
   keywords: ["東京から仙台", "安く行く方法", "新幹線", "vs", "高速バス徹底比較！牛たん", "松島1泊2日モデルコース", "2026最新"],
   openGraph: {
-    title: "東京から仙台 安く行く方法：新幹線 vs 高速バス徹底比較！牛たん・松島1泊2日モデルコース「2026最新」 ｜ 日本全国・旅宿クラウド",
+    title: "東京から仙台 安く行く方法：新幹線 vs 高速バス徹底比較！牛たん・松島1泊2日モデルコース「2026最新」",
     description: "東京から杜の都・仙台へ安く行く方法を徹底比較！東北新幹線はやぶさ（約11,410円）と高速バス（約2,500円〜）の料金・時間差。往復1.5万円節約して本場極厚牛たん＆日本三景・松島遊覧船、秋保温泉を満喫する1泊2日モデルコース。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "東京から仙台 安く行く方法：新幹線 vs 高速バス徹底比較！牛たん・松島1泊2日モデルコース「2026最新」 ｜ 日本全国・旅宿クラウド",
+    title: "東京から仙台 安く行く方法：新幹線 vs 高速バス徹底比較！牛たん・松島1泊2日モデルコース「2026最新」",
     description: "東京から杜の都・仙台へ安く行く方法を徹底比較！東北新幹線はやぶさ（約11,410円）と高速バス（約2,500円〜）の料金・時間差。往復1.5万円節約して本場極厚牛たん＆日本三景・松島遊覧船、秋保温泉を満喫する1泊2日モデルコース。",
   }
 };
@@ -356,7 +356,7 @@ export default function HighwayBusArticlePage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                   >
                     ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -395,7 +395,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🍓</div>
@@ -414,7 +414,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🎫</div>

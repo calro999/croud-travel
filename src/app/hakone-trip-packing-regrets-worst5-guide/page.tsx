@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hakone-trip-packing-regrets-worst5-guide/" },
-  title: "箱根旅行で後悔したことワースト5：大涌谷ロープウェイ強風運休＆夕方カフェ難民！渋滞回避の知恵袋 ｜ 日本全国・旅宿クラウド",
+  title: "箱根旅行で後悔したことワースト5：大涌谷ロープウェイ強風運休＆夕方カフェ難民！渋滞回避の知恵袋",
   description:
     "箱根観光でありがちなトラブルを完全回避！強風によるロープウェイ運休時の代行バス、17時で全滅する飲食店トラップ、土日夕方の国道1号線大渋滞、小田急ロマンスカー満席対策と強羅温泉宿。",
   keywords: ["大涌谷ロープウェイ強風運休", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: "箱根旅行で後悔したことワースト5：大涌谷ロープウェイ強風運休＆夕方カフェ難民！渋滞回避の知恵袋 ｜ 日本全国・旅宿クラウド",
+    title: "箱根旅行で後悔したことワースト5：大涌谷ロープウェイ強風運休＆夕方カフェ難民！渋滞回避の知恵袋",
     description: "箱根観光でありがちなトラブルを完全回避！強風によるロープウェイ運休時の代行バス、17時で全滅する飲食店トラップ、土日夕方の国道1号線大渋滞、小田急ロマンスカー満席対策と強羅温泉宿。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "箱根旅行で後悔したことワースト5：大涌谷ロープウェイ強風運休＆夕方カフェ難民！渋滞回避の知恵袋 ｜ 日本全国・旅宿クラウド",
+    title: "箱根旅行で後悔したことワースト5：大涌谷ロープウェイ強風運休＆夕方カフェ難民！渋滞回避の知恵袋",
     description: "箱根観光でありがちなトラブルを完全回避！強風によるロープウェイ運休時の代行バス、17時で全滅する飲食店トラップ、土日夕方の国道1号線大渋滞、小田急ロマンスカー満席対策と強羅温泉宿。",
   }
 };
@@ -444,7 +444,7 @@ export default function HakoneTripPackingRegretsPage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="inline-flex items-center justify-center px-4 py-2 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5"
                     >
                       楽天トラベルで空室を見る
@@ -585,25 +585,25 @@ export default function HakoneTripPackingRegretsPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/ehime"
+                href="/prefectures/ehime/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 愛媛県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kyoto"
+                href="/prefectures/kyoto/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 京都府の宿・温泉
               </Link>
               <Link
-                href="/prefectures/nara"
+                href="/prefectures/nara/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 奈良県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/osaka"
+                href="/prefectures/osaka/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 大阪府の宿・温泉

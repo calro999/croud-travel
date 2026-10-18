@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/osaka-amazing-pass-1day-golden-route/" },
-  title: "大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコース ｜ 日本全国・旅宿クラウド",
+  title: "大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコース",
   description: "電車・バス乗り放題に加えて梅田スカイビル空中庭園・大阪城天守閣・道頓堀クルーズなどが無料になる「大阪周遊パス」！通常料金との徹底比較シミュレーション、朝から晩まで遊び尽くすコスパ最強スケジュール。",
   keywords: ["大阪周遊パス1日券", "完全元取りガイド", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: "大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコース ｜ 日本全国・旅宿クラウド",
+    title: "大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコース",
     description: "電車・バス乗り放題に加えて梅田スカイビル空中庭園・大阪城天守閣・道頓堀クルーズなどが無料になる「大阪周遊パス」！通常料金との徹底比較シミュレーション、朝から晩まで遊び尽くすコスパ最強スケジュール。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコース ｜ 日本全国・旅宿クラウド",
+    title: "大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコース",
     description: "電車・バス乗り放題に加えて梅田スカイビル空中庭園・大阪城天守閣・道頓堀クルーズなどが無料になる「大阪周遊パス」！通常料金との徹底比較シミュレーション、朝から晩まで遊び尽くすコスパ最強スケジュール。",
   }
 };
@@ -382,7 +382,7 @@ export default function OsakaAmazingPassPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="inline-flex items-center justify-center px-4 py-2.5 rounded-xl bg-gradient-to-r from-rose-600 to-pink-600 text-white font-bold text-xs hover:from-rose-700 hover:to-pink-700 shadow-md hover:shadow-rose-500/20 transition-all"
                   >
                     楽天トラベルで空室確認
@@ -491,25 +491,25 @@ export default function OsakaAmazingPassPage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/yamanashi"
+                href="/prefectures/yamanashi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 山梨県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/gunma"
+                href="/prefectures/gunma/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 群馬県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/toyama"
+                href="/prefectures/toyama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 富山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okayama"
+                href="/prefectures/okayama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 岡山県の宿・温泉
@@ -554,7 +554,7 @@ export default function OsakaAmazingPassPage() {
                 <td className="p-3 text-stone-600">なし</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（97件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,712〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F197689%2F197689.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F197689%2F197689.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. アパホテル＆リゾート〈大阪なんば駅前タワー〉</td>
@@ -563,7 +563,7 @@ export default function OsakaAmazingPassPage() {
                 <td className="p-3 text-stone-600">機械式立体駐車場　2,000円（入庫から24時間）　2階レストラン利用時2時間無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.34（2250件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,870〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F191842%2F191842.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F191842%2F191842.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）大阪なんば</td>
@@ -572,7 +572,7 @@ export default function OsakaAmazingPassPage() {
                 <td className="p-3 text-stone-600">有り　料金：3,200円/1泊(13:00～翌13:00)</td>
                 <td className="p-3 font-bold text-amber-600">★4（330件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F160810%2F160810.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F160810%2F160810.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. アスティルホテル十三　プレシャス</td>
@@ -581,7 +581,7 @@ export default function OsakaAmazingPassPage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（1199件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177866%2F177866.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177866%2F177866.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fukuoka-kagoshima-bus-vs-shinkansen-guide/" },
-  title: "福岡・博多〜鹿児島：九州新幹線 vs 高速バス「桜島号」徹底比較！料金半額＆桜島・黒豚・天文館1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "福岡・博多〜鹿児島：九州新幹線 vs 高速バス「桜島号」徹底比較！料金半額＆桜島・黒豚・天文館1泊2日モデルコース",
   description: "博多・天神から鹿児島中央へ行くなら九州新幹線と高速バス「桜島号」どっちがお得？料金・所要時間比較！片道3,000円台〜行ける高速バスを活用し、桜島フェリー、仙巌園、名物黒豚しゃぶしゃぶ・白熊を満喫する1泊2日モデルコース。",
   keywords: ["福岡", "博多〜鹿児島", "九州新幹線", "vs", "桜島", "黒豚", "天文館1泊2日モデルコース"],
   openGraph: {
-    title: "福岡・博多〜鹿児島：九州新幹線 vs 高速バス「桜島号」徹底比較！料金半額＆桜島・黒豚・天文館1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "福岡・博多〜鹿児島：九州新幹線 vs 高速バス「桜島号」徹底比較！料金半額＆桜島・黒豚・天文館1泊2日モデルコース",
     description: "博多・天神から鹿児島中央へ行くなら九州新幹線と高速バス「桜島号」どっちがお得？料金・所要時間比較！片道3,000円台〜行ける高速バスを活用し、桜島フェリー、仙巌園、名物黒豚しゃぶしゃぶ・白熊を満喫する1泊2日モデルコース。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "福岡・博多〜鹿児島：九州新幹線 vs 高速バス「桜島号」徹底比較！料金半額＆桜島・黒豚・天文館1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "福岡・博多〜鹿児島：九州新幹線 vs 高速バス「桜島号」徹底比較！料金半額＆桜島・黒豚・天文館1泊2日モデルコース",
     description: "博多・天神から鹿児島中央へ行くなら九州新幹線と高速バス「桜島号」どっちがお得？料金・所要時間比較！片道3,000円台〜行ける高速バスを活用し、桜島フェリー、仙巌園、名物黒豚しゃぶしゃぶ・白熊を満喫する1泊2日モデルコース。",
   }
 };
@@ -361,7 +361,7 @@ export default function HighwayBusArticlePage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                   >
                     ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -400,7 +400,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🍓</div>
@@ -419,7 +419,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🎫</div>

@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/infinity-open-air-bath-ocean-view-stay/" },
-  title: "絶景インフィニティ露天風呂の宿：海・空・湖と一体化する圧倒的パノラマ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "絶景インフィニティ露天風呂の宿：海・空・湖と一体化する圧倒的パノラマ 厳選ガイド",
   description: "視界を遮るものがない「絶景インフィニティ露天風呂」宿完全特化！湯船が海や湖の水面と溶け合うインフィニティ温泉、朝焼けのサンライズ・夕暮れのマジックアワー・満天の星空、絶景テラスと美食宿を徹底解説。",
   keywords: ["絶景インフィニティ露天風呂の宿", "湖と一体化する圧倒的パノラマ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: "絶景インフィニティ露天風呂の宿：海・空・湖と一体化する圧倒的パノラマ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "絶景インフィニティ露天風呂の宿：海・空・湖と一体化する圧倒的パノラマ 厳選ガイド",
     description: "視界を遮るものがない「絶景インフィニティ露天風呂」宿完全特化！湯船が海や湖の水面と溶け合うインフィニティ温泉、朝焼けのサンライズ・夕暮れのマジックアワー・満天の星空、絶景テラスと美食宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "絶景インフィニティ露天風呂の宿：海・空・湖と一体化する圧倒的パノラマ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "絶景インフィニティ露天風呂の宿：海・空・湖と一体化する圧倒的パノラマ 厳選ガイド",
     description: "視界を遮るものがない「絶景インフィニティ露天風呂」宿完全特化！湯船が海や湖の水面と溶け合うインフィニティ温泉、朝焼けのサンライズ・夕暮れのマジックアワー・満天の星空、絶景テラスと美食宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function HeritageOnsenHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">有り　８０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.24（637件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,750〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40498%2F40498.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40498%2F40498.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 貸切温泉のコンドミニアム　グランビュー熱海</td>
@@ -261,7 +261,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">有　1泊1台1,300円( 要予約）※駐車場は20台のみです。ご予約はお早目にお願い致します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（1326件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28514%2F28514.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28514%2F28514.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 亀の井ホテル　筑波山</td>
@@ -270,7 +270,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">有り　65台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（872件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,610〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38574%2F38574.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38574%2F38574.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 湯田上温泉　ホテル小柳</td>
@@ -279,7 +279,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">有り　100台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（1234件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16089%2F16089.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16089%2F16089.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

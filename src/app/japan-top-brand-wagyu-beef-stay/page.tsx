@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-top-brand-wagyu-beef-stay/" },
-  title: "日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 厳選ガイド",
   description: "日本最高峰のブランド黒毛和牛完全特化！松阪牛のすき焼き、神戸牛サーロイン鉄板焼き、米沢牛のしゃぶしゃぶ、近江牛の陶板焼き、佐賀牛ステーキと名門温泉旅館の贅沢会席プランを徹底解説。",
   keywords: ["日本五大ブランド和牛の宿", "松阪牛", "神戸牛", "米沢牛", "近江牛", "佐賀牛極上会席", "温泉宿"],
   openGraph: {
-    title: "日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 厳選ガイド",
     description: "日本最高峰のブランド黒毛和牛完全特化！松阪牛のすき焼き、神戸牛サーロイン鉄板焼き、米沢牛のしゃぶしゃぶ、近江牛の陶板焼き、佐賀牛ステーキと名門温泉旅館の贅沢会席プランを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近江牛・佐賀牛極上会席 厳選ガイド",
     description: "日本最高峰のブランド黒毛和牛完全特化！松阪牛のすき焼き、神戸牛サーロイン鉄板焼き、米沢牛のしゃぶしゃぶ、近江牛の陶板焼き、佐賀牛ステーキと名門温泉旅館の贅沢会席プランを徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function GourmetCuisineHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function GourmetCuisineHubPage() {
                 <td className="p-3 text-stone-600">無料駐車場有（100台・予約不要）バイクも可</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（1172件）</td>
                 <td className="p-3 font-bold text-rose-600">¥35,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14007%2F14007.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14007%2F14007.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 赤倉温泉　旅館　いづみ荘＜山形県＞</td>
@@ -261,7 +261,7 @@ export default function GourmetCuisineHubPage() {
                 <td className="p-3 text-stone-600">有り　4台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（155件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79458%2F79458.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79458%2F79458.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 小野川温泉　鈴の宿　登府屋旅館</td>
@@ -270,7 +270,7 @@ export default function GourmetCuisineHubPage() {
                 <td className="p-3 text-stone-600">■玄関前無料駐車場あり。（30台分）10名様以上の場合、米沢市内の送迎サービス【全館Wi-Fi完備】</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（241件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4890%2F4890.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4890%2F4890.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 赤湯温泉　升形屋旅館</td>
@@ -279,7 +279,7 @@ export default function GourmetCuisineHubPage() {
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.18（462件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,050〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5841%2F5841.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5841%2F5841.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 赤湯温泉　旅館　大文字屋</td>
@@ -288,7 +288,7 @@ export default function GourmetCuisineHubPage() {
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4（269件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F53064%2F53064.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F53064%2F53064.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 日和山温泉　ホテル金波楼</td>
@@ -297,7 +297,7 @@ export default function GourmetCuisineHubPage() {
                 <td className="p-3 text-stone-600">有り　１００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（581件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7020%2F7020.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7020%2F7020.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

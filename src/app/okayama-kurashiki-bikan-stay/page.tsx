@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/okayama-kurashiki-bikan-stay/" },
-  title: "岡山・倉敷美観地区：白壁土蔵・大原美術館＆倉敷デニム・フルーツ極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "岡山・倉敷美観地区：白壁土蔵・大原美術館＆倉敷デニム・フルーツ極上宿 厳選ガイド",
   description: "岡山・倉敷美観地区エリア完全特化！倉敷川の舟流し、白壁土蔵の町並み、日本初の西洋美術館「大原美術館」、倉敷デニムストリート、岡山白桃・マスカットパフェと美観地区の風情ある町家ホテルを徹底解説。",
   keywords: ["岡山", "倉敷美観地区", "白壁土蔵", "大原美術館", "倉敷デニム", "フルーツ極上宿", "温泉宿"],
   openGraph: {
-    title: "岡山・倉敷美観地区：白壁土蔵・大原美術館＆倉敷デニム・フルーツ極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "岡山・倉敷美観地区：白壁土蔵・大原美術館＆倉敷デニム・フルーツ極上宿 厳選ガイド",
     description: "岡山・倉敷美観地区エリア完全特化！倉敷川の舟流し、白壁土蔵の町並み、日本初の西洋美術館「大原美術館」、倉敷デニムストリート、岡山白桃・マスカットパフェと美観地区の風情ある町家ホテルを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "岡山・倉敷美観地区：白壁土蔵・大原美術館＆倉敷デニム・フルーツ極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "岡山・倉敷美観地区：白壁土蔵・大原美術館＆倉敷デニム・フルーツ極上宿 厳選ガイド",
     description: "岡山・倉敷美観地区エリア完全特化！倉敷川の舟流し、白壁土蔵の町並み、日本初の西洋美術館「大原美術館」、倉敷デニムストリート、岡山白桃・マスカットパフェと美観地区の風情ある町家ホテルを徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有：３０台（１泊につき1,000円頂戴します。ご宿泊日の15：00からご出発の11：00）</td>
                 <td className="p-3 font-bold text-amber-600">★4.25（1318件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7584%2F7584.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7584%2F7584.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 倉敷　庭園旅館備後屋</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　８台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（125件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F73905%2F73905.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F73905%2F73905.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 倉敷美観地区　別邸　よし井</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　１台　無料　要予約</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥15,950〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188189%2F188189.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188189%2F188189.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 料理旅館　鶴形</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有※倉敷国際ホテル駐車場（徒歩約5分）をご利用いただきます。</td>
                 <td className="p-3 font-bold text-amber-600">★4.9（162件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,050〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108991%2F108991.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108991%2F108991.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

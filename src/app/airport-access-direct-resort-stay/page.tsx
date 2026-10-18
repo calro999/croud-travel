@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/airport-access-direct-resort-stay/" },
-  title: "空港直行＆空港至近リゾート宿：羽田・成田・関空・福岡・那覇・千歳 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "空港直行＆空港至近リゾート宿：羽田・成田・関空・福岡・那覇・千歳 厳選ガイド",
   description: "フライト前後も快適な空港アクセス特化温泉宿！羽田エアポートガーデン展望温泉、新千歳空港内天然温泉、関空対岸オーシャンビュー、福岡空港至近の博多温泉、那覇空港から直行の瀬長島ウミカジテラス温泉宿を徹底解説。",
   keywords: ["空港直行", "空港至近リゾート宿", "羽田", "成田", "関空", "福岡", "那覇"],
   openGraph: {
-    title: "空港直行＆空港至近リゾート宿：羽田・成田・関空・福岡・那覇・千歳 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "空港直行＆空港至近リゾート宿：羽田・成田・関空・福岡・那覇・千歳 厳選ガイド",
     description: "フライト前後も快適な空港アクセス特化温泉宿！羽田エアポートガーデン展望温泉、新千歳空港内天然温泉、関空対岸オーシャンビュー、福岡空港至近の博多温泉、那覇空港から直行の瀬長島ウミカジテラス温泉宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "空港直行＆空港至近リゾート宿：羽田・成田・関空・福岡・那覇・千歳 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "空港直行＆空港至近リゾート宿：羽田・成田・関空・福岡・那覇・千歳 厳選ガイド",
     description: "フライト前後も快適な空港アクセス特化温泉宿！羽田エアポートガーデン展望温泉、新千歳空港内天然温泉、関空対岸オーシャンビュー、福岡空港至近の博多温泉、那覇空港から直行の瀬長島ウミカジテラス温泉宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function TransitStyleHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">有り　１５台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（57件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,365〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38600%2F38600.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38600%2F38600.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 琉球温泉　瀬長島ホテル</td>
@@ -261,7 +261,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">200台有　宿泊者無料　予約不要　那覇空港から一番近いリゾートホテル</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（1272件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,910〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139989%2F139989.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139989%2F139989.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 北谷温泉　レクー沖縄北谷スパ＆リゾート｜ＬｅＱｕ　沖縄北谷｜ベッセルホテルズ</td>
@@ -270,7 +270,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">北谷アメリカンビレッジ近くのホテルに隣接の自走式立体駐車場無料　250台収容可能！</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（866件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,719〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178706%2F178706.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178706%2F178706.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＳＴＯＲＹＬＩＮＥ瀬長島</td>
@@ -279,7 +279,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">台数：屋外78台(無料)／時間：15:00〜翌11:00　／　先着順(事前予約・滞在中の確保不可)</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（147件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,040〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188053%2F188053.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188053%2F188053.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. アパホテル〈那覇松山〉</td>
@@ -288,7 +288,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">立体駐車場★先着順46台1泊1,500円 【車高1.8m制限有】※新規入庫は23時迄</td>
                 <td className="p-3 font-bold text-amber-600">★3.97（3327件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,960〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67292%2F67292.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67292%2F67292.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 変なホテル福岡　博多</td>
@@ -297,7 +297,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">提携駐車場「Dパーキング中洲5丁目第一／第三／第六」24時間2,500円</td>
                 <td className="p-3 font-bold text-amber-600">★4.14（1082件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,860〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168795%2F168795.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168795%2F168795.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

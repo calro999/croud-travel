@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-izu-kogen-jogasaki-coast-villa-stay/" },
-  title: "静岡・伊豆高原＆城ヶ崎：城ヶ崎門脇吊橋・大室山＆露天風呂ヴィラ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "静岡・伊豆高原＆城ヶ崎：城ヶ崎門脇吊橋・大室山＆露天風呂ヴィラ宿 厳選ガイド",
   description: "約4000年前の溶岩が創り出した城ヶ崎海岸の断崖絶壁と門脇吊橋、緑のすり鉢状火山・大室山、お洒落な別荘地・伊豆高原の隠れ家リゾートを巡る特化ガイド。客室露天風呂ヴィラや金目鯛美食宿を厳選。",
   keywords: ["静岡", "伊豆高原", "城ヶ崎", "城ヶ崎門脇吊橋", "大室山", "露天風呂ヴィラ宿", "温泉宿"],
   openGraph: {
-    title: "静岡・伊豆高原＆城ヶ崎：城ヶ崎門脇吊橋・大室山＆露天風呂ヴィラ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "静岡・伊豆高原＆城ヶ崎：城ヶ崎門脇吊橋・大室山＆露天風呂ヴィラ宿 厳選ガイド",
     description: "約4000年前の溶岩が創り出した城ヶ崎海岸の断崖絶壁と門脇吊橋、緑のすり鉢状火山・大室山、お洒落な別荘地・伊豆高原の隠れ家リゾートを巡る特化ガイド。客室露天風呂ヴィラや金目鯛美食宿を厳選。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "静岡・伊豆高原＆城ヶ崎：城ヶ崎門脇吊橋・大室山＆露天風呂ヴィラ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "静岡・伊豆高原＆城ヶ崎：城ヶ崎門脇吊橋・大室山＆露天風呂ヴィラ宿 厳選ガイド",
     description: "約4000年前の溶岩が創り出した城ヶ崎海岸の断崖絶壁と門脇吊橋、緑のすり鉢状火山・大室山、お洒落な別荘地・伊豆高原の隠れ家リゾートを巡る特化ガイド。客室露天風呂ヴィラや金目鯛美食宿を厳選。",
   }
 };
@@ -211,7 +211,7 @@ export default function MicroTouristHubPage() {
                           <a
                             href={hotel.affiliateUrl || hotel.hotelInformationUrl}
                             target="_blank"
-                            rel="noopener noreferrer"
+                            rel="sponsored noopener noreferrer"
                             className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-teal-700 to-teal-800 hover:from-teal-600 hover:to-teal-700 rounded-xl shadow transition"
                           >
                             ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -253,7 +253,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　８台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.59（157件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F55897%2F55897.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F55897%2F55897.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 客室露天風呂付き　お部屋食で金目鯛を味わう宿　伊豆高原温泉　お宿　癒楽里ーゆらりー</td>
@@ -262,7 +262,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　７台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（386件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17499%2F17499.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17499%2F17499.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 伊豆高原温泉　海望む露天風呂付客室　夢海月(ゆめみづき)</td>
@@ -271,7 +271,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">無料7台（ご予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.32（536件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29100%2F29100.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29100%2F29100.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 伊豆高原温泉　蔵の宿　ひなた</td>
@@ -280,7 +280,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　5台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（86件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,730〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F49287%2F49287.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F49287%2F49287.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 伊豆高原温泉　客室露天風呂付リゾートホテル　コルテラルゴ伊豆高原</td>
@@ -289,7 +289,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　９台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.88（402件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,360〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38761%2F38761.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38761%2F38761.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. チャイニーズオーベルジュ　仙豆飯店</td>
@@ -298,7 +298,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　6台　無料（予約不要です）　EV無料充電器2基有り　（要予約・普通充電コードご持参ください）</td>
                 <td className="p-3 font-bold text-amber-600">★4.88（352件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5390%2F5390.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5390%2F5390.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/michelin-auberge-gourmet-onsen-stay/" },
-  title: "極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監修・地産地消ディナー 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監修・地産地消ディナー 厳選ガイド",
   description: "食事を目的に旅する「美食オーベルジュ温泉宿」完全特化！ミシュラン星付きシェフ監修フレンチ＆イタリアン、自家菜園の朝摘み野菜、特選ブランド和牛・朝獲れ地魚、専属ソムリエのペアリングと源泉かけ流し温泉を徹底解説。",
   keywords: ["極上美食オーベルジュ温泉宿", "ミシュラン星付きシェフ監修", "地産地消ディナー", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監修・地産地消ディナー 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監修・地産地消ディナー 厳選ガイド",
     description: "食事を目的に旅する「美食オーベルジュ温泉宿」完全特化！ミシュラン星付きシェフ監修フレンチ＆イタリアン、自家菜園の朝摘み野菜、特選ブランド和牛・朝獲れ地魚、専属ソムリエのペアリングと源泉かけ流し温泉を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監修・地産地消ディナー 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監修・地産地消ディナー 厳選ガイド",
     description: "食事を目的に旅する「美食オーベルジュ温泉宿」完全特化！ミシュラン星付きシェフ監修フレンチ＆イタリアン、自家菜園の朝摘み野菜、特選ブランド和牛・朝獲れ地魚、専属ソムリエのペアリングと源泉かけ流し温泉を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function HeritageOnsenHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">有り　５０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★5（45件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28780%2F28780.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28780%2F28780.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルオーベルジュ＜屋久島＞</td>
@@ -261,7 +261,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">有り　８台　無料　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.27（157件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,830〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F43789%2F43789.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F43789%2F43789.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 鬼首温泉　リゾートパーク　ホテル　オニコウベ</td>
@@ -270,7 +270,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">有り　８５台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（460件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,850〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13890%2F13890.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13890%2F13890.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 信玄の湯　湯村温泉　常磐ホテル</td>
@@ -279,7 +279,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">有り　２５０台　無料　EV対応　普通充電器［交流 8ｋW］4基　１回1000円　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.78（1584件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9045%2F9045.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9045%2F9045.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 湯川温泉　山人－ｙａｍａｄｏ－</td>
@@ -288,7 +288,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.67（215件）</td>
                 <td className="p-3 font-bold text-rose-600">¥30,764〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F129427%2F129427.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F129427%2F129427.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 磐梯熱海温泉　離れの隠れ宿　オーベルジュ鈴鐘</td>
@@ -297,7 +297,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">有り　１０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.92（167件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104667%2F104667.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104667%2F104667.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

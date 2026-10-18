@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-sake-brewery-auberge-pairing-stay/" },
-  title: "酒蔵オーベルジュ＆日本酒ペアリング宿：蔵元直営・極上和食マリアージュ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "酒蔵オーベルジュ＆日本酒ペアリング宿：蔵元直営・極上和食マリアージュ 厳選ガイド",
   description: "酒蔵に泊まる至福！全国の酒蔵直営オーベルジュ＆極上日本酒ペアリング宿完全特化！長野諏訪、福島会津、秋田、京都伏見、兵庫灘、搾りたて生原酒と会席料理の至高のマリアージュ、酒蔵見学・テイスティング付き名宿を徹底解説。",
   keywords: ["酒蔵オーベルジュ", "日本酒ペアリング宿", "蔵元直営", "極上和食マリアージュ", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "酒蔵オーベルジュ＆日本酒ペアリング宿：蔵元直営・極上和食マリアージュ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "酒蔵オーベルジュ＆日本酒ペアリング宿：蔵元直営・極上和食マリアージュ 厳選ガイド",
     description: "酒蔵に泊まる至福！全国の酒蔵直営オーベルジュ＆極上日本酒ペアリング宿完全特化！長野諏訪、福島会津、秋田、京都伏見、兵庫灘、搾りたて生原酒と会席料理の至高のマリアージュ、酒蔵見学・テイスティング付き名宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "酒蔵オーベルジュ＆日本酒ペアリング宿：蔵元直営・極上和食マリアージュ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "酒蔵オーベルジュ＆日本酒ペアリング宿：蔵元直営・極上和食マリアージュ 厳選ガイド",
     description: "酒蔵に泊まる至福！全国の酒蔵直営オーベルジュ＆極上日本酒ペアリング宿完全特化！長野諏訪、福島会津、秋田、京都伏見、兵庫灘、搾りたて生原酒と会席料理の至高のマリアージュ、酒蔵見学・テイスティング付き名宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function SakeTourismHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-700 to-stone-800 hover:from-amber-600 hover:to-stone-700 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

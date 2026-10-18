@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week/" },
-  title: "秋の連休：シルバーウィーク旅行・おすすめ人気ホテル＆リゾート ｜ 日本全国・旅宿クラウド",
+  title: "秋の連休：シルバーウィーク旅行・おすすめ人気ホテル＆リゾート",
   description: "秋の大型連休・シルバーウィーク旅行特集！軽井沢高原リゾート、富士山＆河口湖、熱海温泉、沖縄混雑回避ステイ、USJ秋イベントなど、家族旅行やカップル旅行にぴったりの厳選ホテル＆温泉宿を完全ガイド。",
   keywords: ["秋の連休", "シルバーウィーク旅行", "おすすめ人気ホテル", "リゾート", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "秋の連休：シルバーウィーク旅行・おすすめ人気ホテル＆リゾート ｜ 日本全国・旅宿クラウド",
+    title: "秋の連休：シルバーウィーク旅行・おすすめ人気ホテル＆リゾート",
     description: "秋の大型連休・シルバーウィーク旅行特集！軽井沢高原リゾート、富士山＆河口湖、熱海温泉、沖縄混雑回避ステイ、USJ秋イベントなど、家族旅行やカップル旅行にぴったりの厳選ホテル＆温泉宿を完全ガイド。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "秋の連休：シルバーウィーク旅行・おすすめ人気ホテル＆リゾート ｜ 日本全国・旅宿クラウド",
+    title: "秋の連休：シルバーウィーク旅行・おすすめ人気ホテル＆リゾート",
     description: "秋の大型連休・シルバーウィーク旅行特集！軽井沢高原リゾート、富士山＆河口湖、熱海温泉、沖縄混雑回避ステイ、USJ秋イベントなど、家族旅行やカップル旅行にぴったりの厳選ホテル＆温泉宿を完全ガイド。",
   }
 };
@@ -222,7 +222,7 @@ export default function SilverWeekPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -270,7 +270,7 @@ export default function SilverWeekPage() {
                 <td className="p-3 text-stone-600">有り(車高2.1Ｍ以下) 1泊 2,500円 入庫から24時間</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（4555件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,730〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1659%2F1659.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1659%2F1659.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 富士屋ホテル</td>
@@ -279,7 +279,7 @@ export default function SilverWeekPage() {
                 <td className="p-3 text-stone-600">有り(無料)</td>
                 <td className="p-3 font-bold text-amber-600">★4.78（2257件）</td>
                 <td className="p-3 font-bold text-rose-600">¥22,220〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1727%2F1727.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1727%2F1727.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 富士ビューホテル</td>
@@ -288,7 +288,7 @@ export default function SilverWeekPage() {
                 <td className="p-3 text-stone-600">有り ８０台 無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（560件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1730%2F1730.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1730%2F1730.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 運河の宿　おたる　ふる川</td>
@@ -297,7 +297,7 @@ export default function SilverWeekPage() {
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（1104件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1734%2F1734.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1734%2F1734.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテル日航ハウステンボス</td>
@@ -306,7 +306,7 @@ export default function SilverWeekPage() {
                 <td className="p-3 text-stone-600">ホテル敷地内駐車場は有料となります。（1泊1台あたり1,000円）</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（2998件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1793%2F1793.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1793%2F1793.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">プラン確認</a></td>
               </tr>
               </tbody>
             </table>

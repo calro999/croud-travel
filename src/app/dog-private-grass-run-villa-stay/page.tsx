@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/dog-private-grass-run-villa-stay/" },
-  title: "天然芝プライベートドッグラン付きヴィラ：アジリティ＆貸切一棟ステイ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "天然芝プライベートドッグラン付きヴィラ：アジリティ＆貸切一棟ステイ 厳選ガイド",
   description: "ノーリードで思いっきり駆け回る歓び！客室専用天然芝プライベートドッグラン付き一棟貸しヴィラ完全特化！千葉九十九里・那須・軽井沢・琵琶湖、アジリティ完備、足洗い場＆温水シャワー、愛犬とBBQを楽しむ宿を徹底解説。",
   keywords: ["アジリティ", "貸切一棟ステイ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: "天然芝プライベートドッグラン付きヴィラ：アジリティ＆貸切一棟ステイ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "天然芝プライベートドッグラン付きヴィラ：アジリティ＆貸切一棟ステイ 厳選ガイド",
     description: "ノーリードで思いっきり駆け回る歓び！客室専用天然芝プライベートドッグラン付き一棟貸しヴィラ完全特化！千葉九十九里・那須・軽井沢・琵琶湖、アジリティ完備、足洗い場＆温水シャワー、愛犬とBBQを楽しむ宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "天然芝プライベートドッグラン付きヴィラ：アジリティ＆貸切一棟ステイ 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "天然芝プライベートドッグラン付きヴィラ：アジリティ＆貸切一棟ステイ 厳選ガイド",
     description: "ノーリードで思いっきり駆け回る歓び！客室専用天然芝プライベートドッグラン付き一棟貸しヴィラ完全特化！千葉九十九里・那須・軽井沢・琵琶湖、アジリティ完備、足洗い場＆温水シャワー、愛犬とBBQを楽しむ宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function PetDogResortHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-emerald-700 hover:from-amber-500 hover:to-emerald-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで愛犬同伴プランを見る
@@ -252,7 +252,7 @@ export default function PetDogResortHubPage() {
                 <td className="p-3 text-stone-600">あり　2台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F198859%2F198859.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F198859%2F198859.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテルハーヴェスト浜名湖</td>
@@ -261,7 +261,7 @@ export default function PetDogResortHubPage() {
                 <td className="p-3 text-stone-600">有り　１２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（451件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,276〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70844%2F70844.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70844%2F70844.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルビワドッグ</td>
@@ -270,7 +270,7 @@ export default function PetDogResortHubPage() {
                 <td className="p-3 text-stone-600">有り　４６台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.52（58件）</td>
                 <td className="p-3 font-bold text-rose-600">¥27,350〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188914%2F188914.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F188914%2F188914.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ＷＡＳＵＫＩ　ＢＡＳＥ　びわ湖　ＶＩＬＬＡ　ＳＴＹＬＥ</td>
@@ -279,7 +279,7 @@ export default function PetDogResortHubPage() {
                 <td className="p-3 text-stone-600">有＞大コテージ3台無料、中コテージ2台無料、グランピング1台無料。追加：1台につき1200円/税込</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（71件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,148〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149145%2F149145.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F149145%2F149145.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ＲＥＳＯＲＴ×ＳＰＡ　Ｆｕｔｕｒｅ　ＲＥＳＯＲＴ（旧：フューチャーリゾート）</td>
@@ -288,7 +288,7 @@ export default function PetDogResortHubPage() {
                 <td className="p-3 text-stone-600">有り　２２台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（21件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,910〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183207%2F183207.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183207%2F183207.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

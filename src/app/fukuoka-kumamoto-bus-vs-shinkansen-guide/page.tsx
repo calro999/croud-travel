@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/fukuoka-kumamoto-bus-vs-shinkansen-guide/" },
-  title: "博多から熊本 新幹線と高速バスどっち？：ひのくに号 vs 九州新幹線比較＆熊本城・あか牛1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "博多から熊本 新幹線と高速バスどっち？：ひのくに号 vs 九州新幹線比較＆熊本城・あか牛1泊2日モデルコース",
   description: "福岡・博多・天神から熊本へ行くなら九州新幹線と高速バス「ひのくに号」どっちがお得？料金（バスなら半額の約2,500円）・時間・本数比較。桜町・熊本城前直着の利便性と復興天守閣見学・あか牛丼を満喫する1泊2日モデルコース。",
   keywords: ["博多から熊本", "新幹線と高速バスどっち？", "ひのくに号", "vs", "九州新幹線比較", "熊本城", "あか牛1泊2日モデルコース"],
   openGraph: {
-    title: "博多から熊本 新幹線と高速バスどっち？：ひのくに号 vs 九州新幹線比較＆熊本城・あか牛1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "博多から熊本 新幹線と高速バスどっち？：ひのくに号 vs 九州新幹線比較＆熊本城・あか牛1泊2日モデルコース",
     description: "福岡・博多・天神から熊本へ行くなら九州新幹線と高速バス「ひのくに号」どっちがお得？料金（バスなら半額の約2,500円）・時間・本数比較。桜町・熊本城前直着の利便性と復興天守閣見学・あか牛丼を満喫する1泊2日モデルコース。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "博多から熊本 新幹線と高速バスどっち？：ひのくに号 vs 九州新幹線比較＆熊本城・あか牛1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "博多から熊本 新幹線と高速バスどっち？：ひのくに号 vs 九州新幹線比較＆熊本城・あか牛1泊2日モデルコース",
     description: "福岡・博多・天神から熊本へ行くなら九州新幹線と高速バス「ひのくに号」どっちがお得？料金（バスなら半額の約2,500円）・時間・本数比較。桜町・熊本城前直着の利便性と復興天守閣見学・あか牛丼を満喫する1泊2日モデルコース。",
   }
 };
@@ -356,7 +356,7 @@ export default function HighwayBusArticlePage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                   >
                     ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -395,7 +395,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🍓</div>
@@ -414,7 +414,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🎫</div>

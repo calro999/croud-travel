@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kagoshima-yakushima-shiratani-jomon-sugi-stay/" },
-  title: "鹿児島・屋久島＆白谷雲水峡・縄文杉：世界自然遺産・苔むす森トレッキング＆首折れ鯖宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "鹿児島・屋久島＆白谷雲水峡・縄文杉：世界自然遺産・苔むす森トレッキング＆首折れ鯖宿 厳選ガイド",
   description: "洋上のアルプス・世界自然遺産屋久島エリア完全特化！太古の巨木「縄文杉トレッキング」、映画の舞台「白谷雲水峡（苔むす森）」、大川の滝、名物「首折れ鯖・トビウオ料理・屋久島温泉リゾート」を徹底解説。",
   keywords: ["鹿児島", "屋久島", "白谷雲水峡", "縄文杉", "世界自然遺産", "苔むす森トレッキング", "首折れ鯖宿"],
   openGraph: {
-    title: "鹿児島・屋久島＆白谷雲水峡・縄文杉：世界自然遺産・苔むす森トレッキング＆首折れ鯖宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "鹿児島・屋久島＆白谷雲水峡・縄文杉：世界自然遺産・苔むす森トレッキング＆首折れ鯖宿 厳選ガイド",
     description: "洋上のアルプス・世界自然遺産屋久島エリア完全特化！太古の巨木「縄文杉トレッキング」、映画の舞台「白谷雲水峡（苔むす森）」、大川の滝、名物「首折れ鯖・トビウオ料理・屋久島温泉リゾート」を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "鹿児島・屋久島＆白谷雲水峡・縄文杉：世界自然遺産・苔むす森トレッキング＆首折れ鯖宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "鹿児島・屋久島＆白谷雲水峡・縄文杉：世界自然遺産・苔むす森トレッキング＆首折れ鯖宿 厳選ガイド",
     description: "洋上のアルプス・世界自然遺産屋久島エリア完全特化！太古の巨木「縄文杉トレッキング」、映画の舞台「白谷雲水峡（苔むす森）」、大川の滝、名物「首折れ鯖・トビウオ料理・屋久島温泉リゾート」を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-teal-700 to-emerald-800 hover:from-teal-600 hover:to-emerald-700 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

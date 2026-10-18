@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の乳頭温泉郷・田沢湖：ブナ原生林の黄金紅葉と名物きりたんぽ鍋！憧れの秘湯温泉宿5選「2026最新」',
     description: 'ブナ林が黄金色に染まる乳頭温泉郷の秋！乳白色の名湯露天風呂と名物きりたんぽ鍋を味わう厳選宿5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-akita-nyuto-onsen-tazawako-kiritanpo-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-akita-nyuto-onsen-tazawako-kiritanpo-hotels-stay',
   }
 };
 
 export default function NyutoOnsenAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の乳頭温泉郷・田沢湖：ブナ原生林の黄金紅葉と名物きりたんぽ鍋！憧れの秘湯温泉宿5選「2026最新」\",\"description\":\"十和田八幡平国立公園のブナ林が黄金色に染まる乳頭温泉郷の秋！乳白色の名湯露天風呂と新米の秋田名物「きりたんぽ鍋」を味わう至福の秘湯ステイ。休暇村乳頭温泉郷、花心亭しらはまなど厳選5宿の見どころを詳しくご紹介！\",\"url\":\"https://croud-travel.pages.dev/autumn-akita-nyuto-onsen-tazawako-kiritanpo-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の乳頭温泉郷・田沢湖：ブナ原生林の黄金紅葉と名物きりたんぽ鍋！憧れの秘湯温泉宿5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-akita-nyuto-onsen-tazawako-kiritanpo-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の乳頭温泉郷・田沢湖：ブナ原生林の黄金紅葉と名物きりたんぽ鍋！憧れの秘湯温泉宿5選「2026最新」\",\"numberOfItems\":9,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"休暇村　乳頭温泉郷\",\"url\":\"https://croud-travel.pages.dev/autumn-akita-nyuto-onsen-tazawako-kiritanpo-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"花心亭しらはま\",\"url\":\"https://croud-travel.pages.dev/autumn-akita-nyuto-onsen-tazawako-kiritanpo-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"田沢湖水沢温泉郷セルリアンリゾートＡＯＮＩ\",\"url\":\"https://croud-travel.pages.dev/autumn-akita-nyuto-onsen-tazawako-kiritanpo-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"天然温泉　田沢湖レイクリゾート\",\"url\":\"https://croud-travel.pages.dev/autumn-akita-nyuto-onsen-tazawako-kiritanpo-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"亀の井ホテル　田沢湖\",\"url\":\"https://croud-travel.pages.dev/autumn-akita-nyuto-onsen-tazawako-kiritanpo-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"乳頭温泉郷\",\"url\":\"https://croud-travel.pages.dev/autumn-akita-nyuto-onsen-tazawako-kiritanpo-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"角館の武家屋敷通り\",\"url\":\"https://croud-travel.pages.dev/autumn-akita-nyuto-onsen-tazawako-kiritanpo-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"田沢湖\",\"url\":\"https://croud-travel.pages.dev/autumn-akita-nyuto-onsen-tazawako-kiritanpo-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"男鹿半島・入道崎\",\"url\":\"https://croud-travel.pages.dev/autumn-akita-nyuto-onsen-tazawako-kiritanpo-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/72803/72803.jpg"
@@ -142,7 +146,7 @@ export default function NyutoOnsenAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139459%2F139459.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function NyutoOnsenAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72803%2F72803.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function NyutoOnsenAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70772%2F70772.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function NyutoOnsenAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4624%2F4624.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function NyutoOnsenAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11222%2F11222.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function NyutoOnsenAutumnPage() {
                 <td className="p-3 text-stone-600">有り　１００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（563件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72803%2F72803.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72803%2F72803.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 花心亭しらはま</td>
@@ -396,7 +400,7 @@ export default function NyutoOnsenAutumnPage() {
                 <td className="p-3 text-stone-600">当館正面、道路向かい側の春山第一駐車場に駐車し、そのままフロントへお越しください(無料・予約不要)</td>
                 <td className="p-3 font-bold text-amber-600">★4.69（291件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139459%2F139459.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139459%2F139459.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 田沢湖水沢温泉郷セルリアンリゾートＡＯＮＩ</td>
@@ -405,7 +409,7 @@ export default function NyutoOnsenAutumnPage() {
                 <td className="p-3 text-stone-600">無料／40台／予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.22（340件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70772%2F70772.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70772%2F70772.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 天然温泉　田沢湖レイクリゾート</td>
@@ -414,7 +418,7 @@ export default function NyutoOnsenAutumnPage() {
                 <td className="p-3 text-stone-600">有り　５００台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（2001件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,014〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4624%2F4624.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4624%2F4624.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 亀の井ホテル　田沢湖</td>
@@ -423,7 +427,7 @@ export default function NyutoOnsenAutumnPage() {
                 <td className="p-3 text-stone-600">有り　100台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（1705件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,195〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11222%2F11222.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11222%2F11222.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -600,6 +604,9 @@ export default function NyutoOnsenAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-akita-nyuto-onsen-tazawako-kiritanpo-hotels-stay" />
+        </div>
 
       </article>
   );

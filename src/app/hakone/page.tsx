@@ -28,19 +28,19 @@ interface RakutenCategoryData {
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "箱根温泉 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆箱根湯本・強羅・芦ノ湖・露天風呂付き客室・カップル温泉宿 ｜ 旅宿クラウド",
+  title: "箱根温泉 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆箱根湯本・強羅・芦ノ湖・露天風呂付き客室・カップル温泉宿",
   description:
     "箱根温泉旅行の計画を完全サポート！ロマンスカーで行く1泊2日王道モデルコース、箱根湯本・強羅・仙石原・芦ノ湖のエリア別見所、客室露天風呂・部屋食付き高級温泉旅館から日帰り温泉までおすすめの宿泊プランまで徹底網羅。",
   keywords: ["箱根温泉", "完全計画ガイド", "2026", "1泊2日", "2泊3日モデルコース", "箱根湯本", "強羅"],
   alternates: { canonical: "https://croud-travel.pages.dev/hakone/" },
   openGraph: {
-    title: "箱根温泉 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆箱根湯本・強羅・芦ノ湖・露天風呂付き客室・カップル温泉宿 ｜ 旅宿クラウド",
+    title: "箱根温泉 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆箱根湯本・強羅・芦ノ湖・露天風呂付き客室・カップル温泉宿",
     description: "箱根温泉旅行の計画を完全サポート！ロマンスカーで行く1泊2日王道モデルコース、箱根湯本・強羅・仙石原・芦ノ湖のエリア別見所、客室露天風呂・部屋食付き高級温泉旅館から日帰り温泉までおすすめの宿泊プランまで徹底網羅。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "箱根温泉 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆箱根湯本・強羅・芦ノ湖・露天風呂付き客室・カップル温泉宿 ｜ 旅宿クラウド",
+    title: "箱根温泉 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆箱根湯本・強羅・芦ノ湖・露天風呂付き客室・カップル温泉宿",
     description: "箱根温泉旅行の計画を完全サポート！ロマンスカーで行く1泊2日王道モデルコース、箱根湯本・強羅・仙石原・芦ノ湖のエリア別見所、客室露天風呂・部屋食付き高級温泉旅館から日帰り温泉までおすすめの宿泊プランまで徹底網羅。",
   }
 };
@@ -90,7 +90,7 @@ export default function HakoneHubPage() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/prefectures/kanagawa" className="hover:text-teal-800 transition">神奈川県</Link>
+        <Link href="/prefectures/kanagawa/" className="hover:text-teal-800 transition">神奈川県</Link>
         <span>/</span>
         <span className="text-emerald-950 font-bold">箱根温泉 完全ガイド</span>
       </nav>
@@ -148,7 +148,7 @@ export default function HakoneHubPage() {
                   </div>
                 </div>
                 <div className="p-4 pt-0">
-                  <a href={hotel.affiliateUrl} target="_blank" rel="noopener noreferrer" className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-emerald-700 to-teal-800 hover:from-emerald-600 hover:to-teal-700 rounded-xl shadow transition">
+                  <a href={hotel.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer" className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-emerald-700 to-teal-800 hover:from-emerald-600 hover:to-teal-700 rounded-xl shadow transition">
                     ✈️ 楽天トラベルで空室・プランを見る
                   </a>
                 </div>
@@ -188,7 +188,7 @@ export default function HakoneHubPage() {
                 <td className="p-3 text-stone-600">有り　６５台　無料　予約不要　※屋根付駐車場あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（525件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,320〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108157%2F108157.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108157%2F108157.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 箱根湯本　温泉旅館「大和館」</td>
@@ -197,7 +197,7 @@ export default function HakoneHubPage() {
                 <td className="p-3 text-stone-600">無料駐車場（4台／先着順）駐車可能な最大サイズはハイエース程度です。国道1号線からお越しください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.86（19件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187989%2F187989.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187989%2F187989.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 箱根湯本温泉　箱根パークス吉野</td>
@@ -206,7 +206,7 @@ export default function HakoneHubPage() {
                 <td className="p-3 text-stone-600">有り　４０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1484件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,130〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9669%2F9669.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9669%2F9669.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 箱根湯本温泉　ホテル　おかだ</td>
@@ -215,7 +215,7 @@ export default function HakoneHubPage() {
                 <td className="p-3 text-stone-600">有り　50台　無料　※チェックイン前は12時以降、翌日は12時迄利用可能（滞在時間外は、事前連絡要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.42（1836件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19684%2F19684.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19684%2F19684.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 箱根湯本温泉　静観荘＜神奈川県＞</td>
@@ -224,7 +224,7 @@ export default function HakoneHubPage() {
                 <td className="p-3 text-stone-600">無料駐車場10台分（予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（164件）</td>
                 <td className="p-3 font-bold text-rose-600">¥21,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20447%2F20447.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F20447%2F20447.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 箱根湯本温泉　ホテル仙景</td>
@@ -233,7 +233,7 @@ export default function HakoneHubPage() {
                 <td className="p-3 text-stone-600">有り　２０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.78（398件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,150〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70712%2F70712.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70712%2F70712.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

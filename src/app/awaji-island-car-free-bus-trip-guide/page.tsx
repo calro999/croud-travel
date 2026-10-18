@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/awaji-island-car-free-bus-trip-guide/" },
-  title: "淡路島 車なし観光ガイド：高速バス＆無料シャトルで回る！ニジゲンノモリ・西海岸カフェ・洲本温泉 ｜ 日本全国・旅宿クラウド",
+  title: "淡路島 車なし観光ガイド：高速バス＆無料シャトルで回る！ニジゲンノモリ・西海岸カフェ・洲本温泉",
   description: "車がないと行けないと思われがちな淡路島を高速バスと島内周遊シャトルで完全攻略！三ノ宮・新神戸から直行バス、明石海峡大橋を渡って楽しむ最新西海岸リゾートスポット＆洲本温泉名旅館。",
   keywords: ["淡路島", "車なし観光ガイド", "高速バス", "西海岸カフェ", "洲本温泉", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "淡路島 車なし観光ガイド：高速バス＆無料シャトルで回る！ニジゲンノモリ・西海岸カフェ・洲本温泉 ｜ 日本全国・旅宿クラウド",
+    title: "淡路島 車なし観光ガイド：高速バス＆無料シャトルで回る！ニジゲンノモリ・西海岸カフェ・洲本温泉",
     description: "車がないと行けないと思われがちな淡路島を高速バスと島内周遊シャトルで完全攻略！三ノ宮・新神戸から直行バス、明石海峡大橋を渡って楽しむ最新西海岸リゾートスポット＆洲本温泉名旅館。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "淡路島 車なし観光ガイド：高速バス＆無料シャトルで回る！ニジゲンノモリ・西海岸カフェ・洲本温泉 ｜ 日本全国・旅宿クラウド",
+    title: "淡路島 車なし観光ガイド：高速バス＆無料シャトルで回る！ニジゲンノモリ・西海岸カフェ・洲本温泉",
     description: "車がないと行けないと思われがちな淡路島を高速バスと島内周遊シャトルで完全攻略！三ノ宮・新神戸から直行バス、明石海峡大橋を渡って楽しむ最新西海岸リゾートスポット＆洲本温泉名旅館。",
   }
 };
@@ -227,7 +227,7 @@ export default function AwajiIslandCarFreePage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="whitespace-nowrap px-5 py-2.5 bg-sky-400 hover:bg-sky-300 text-slate-950 text-xs font-black rounded-xl shadow transition"
             >
               🚌 高速バスを予約
@@ -235,7 +235,7 @@ export default function AwajiIslandCarFreePage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcoupon%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="whitespace-nowrap px-5 py-2.5 bg-white/15 hover:bg-white/25 text-white border border-white/30 text-xs font-black rounded-xl shadow transition"
             >
               🏷️ 宿泊クーポン
@@ -422,7 +422,7 @@ export default function AwajiIslandCarFreePage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-indigo-700 to-sky-700 hover:from-indigo-600 hover:to-sky-600 rounded-xl shadow transition"
                     >
                       ♨️ 楽天トラベルでプラン・空室を確認

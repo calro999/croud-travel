@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-hakuba-happo-stay/" },
-  title: "長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプス絶景・温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプス絶景・温泉宿 厳選ガイド",
   description: "長野・北アルプス白馬エリア完全特化！標高1,289mの絶景テラス「白馬マウンテンハーバー」、八方池トレッキング、白馬八方温泉の高アルカリ美肌湯、冬のパウダースノースキー場と北欧風山岳リゾートを徹底解説。",
   keywords: ["長野", "白馬八方尾根", "白馬マウンテンハーバー", "北アルプス絶景", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプス絶景・温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプス絶景・温泉宿 厳選ガイド",
     description: "長野・北アルプス白馬エリア完全特化！標高1,289mの絶景テラス「白馬マウンテンハーバー」、八方池トレッキング、白馬八方温泉の高アルカリ美肌湯、冬のパウダースノースキー場と北欧風山岳リゾートを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプス絶景・温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプス絶景・温泉宿 厳選ガイド",
     description: "長野・北アルプス白馬エリア完全特化！標高1,289mの絶景テラス「白馬マウンテンハーバー」、八方池トレッキング、白馬八方温泉の高アルカリ美肌湯、冬のパウダースノースキー場と北欧風山岳リゾートを徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　８０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（1317件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15934%2F15934.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15934%2F15934.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 白馬姫川温泉　白馬ハイランドホテル</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有100台（無料）※全面舗装ですが、屋根日影はありません</td>
                 <td className="p-3 font-bold text-amber-600">★4.35（1310件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68532%2F68532.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68532%2F68532.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルＪＡＬシティ長野</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">隣接駐車場は先着順（45台収容可　税込1,000円/泊） ※満車の場合は契約駐車場をご案内します。</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（5814件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,075〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39292%2F39292.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39292%2F39292.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 休暇村リトリート安曇野ホテル</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（77件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,750〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F173116%2F173116.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F173116%2F173116.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 白馬アルパインホテル</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★5（73件）</td>
                 <td className="p-3 font-bold text-rose-600">¥10,290〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F3093%2F3093.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F3093%2F3093.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ＷＨＩＴＥ　ＨＯＴＥＬ　ＧＲＡＮＤ　ＨＡＫＵＢＡ</td>
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">敷地内に無料駐車場をご用意しております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.29（14件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,050〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181791%2F181791.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181791%2F181791.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

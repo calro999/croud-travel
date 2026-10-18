@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/toyama-tateyama-kurobe-alpen-stay/" },
-  title: "富山・立山黒部アルペンルート：雪の大谷・みくりが池＆立山連峰・富山湾宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "富山・立山黒部アルペンルート：雪の大谷・みくりが池＆立山連峰・富山湾宿 厳選ガイド",
   description: "世界屈指の山岳観光ルート・立山黒部アルペンルートエリア完全特化！高さ20mに達する「雪の大谷ウォーク」、標高2,410mの「室堂・みくりが池温泉」、黒部ダムの観光放水、富山湾の白えび・寒ブリ宿を徹底解説。",
   keywords: ["富山", "立山黒部アルペンルート", "雪の大谷", "みくりが池", "立山連峰", "富山湾宿", "温泉宿"],
   openGraph: {
-    title: "富山・立山黒部アルペンルート：雪の大谷・みくりが池＆立山連峰・富山湾宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "富山・立山黒部アルペンルート：雪の大谷・みくりが池＆立山連峰・富山湾宿 厳選ガイド",
     description: "世界屈指の山岳観光ルート・立山黒部アルペンルートエリア完全特化！高さ20mに達する「雪の大谷ウォーク」、標高2,410mの「室堂・みくりが池温泉」、黒部ダムの観光放水、富山湾の白えび・寒ブリ宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "富山・立山黒部アルペンルート：雪の大谷・みくりが池＆立山連峰・富山湾宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "富山・立山黒部アルペンルート：雪の大谷・みくりが池＆立山連峰・富山湾宿 厳選ガイド",
     description: "世界屈指の山岳観光ルート・立山黒部アルペンルートエリア完全特化！高さ20mに達する「雪の大谷ウォーク」、標高2,410mの「室堂・みくりが池温泉」、黒部ダムの観光放水、富山湾の白えび・寒ブリ宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

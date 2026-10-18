@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shinkansen-direct-walk-onsen-stay/" },
-  title: "新幹線駅直結・徒歩5分温泉宿：車なし・レンタカー不要！手ぶら温泉旅 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "新幹線駅直結・徒歩5分温泉宿：車なし・レンタカー不要！手ぶら温泉旅 厳選ガイド",
   description: "運転不要・新幹線駅から徒歩圏内の温泉宿完全特化！東京・名古屋・新大阪・博多から新幹線1本で直行。駅直結ホテル、徒歩5分以内の源泉かけ流し温泉旅館、駅前商店街食べ歩きと手ぶら極上旅を徹底解説。",
   keywords: ["新幹線駅直結", "徒歩5分温泉宿", "車なし", "レンタカー不要！手ぶら温泉旅", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "新幹線駅直結・徒歩5分温泉宿：車なし・レンタカー不要！手ぶら温泉旅 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "新幹線駅直結・徒歩5分温泉宿：車なし・レンタカー不要！手ぶら温泉旅 厳選ガイド",
     description: "運転不要・新幹線駅から徒歩圏内の温泉宿完全特化！東京・名古屋・新大阪・博多から新幹線1本で直行。駅直結ホテル、徒歩5分以内の源泉かけ流し温泉旅館、駅前商店街食べ歩きと手ぶら極上旅を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "新幹線駅直結・徒歩5分温泉宿：車なし・レンタカー不要！手ぶら温泉旅 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "新幹線駅直結・徒歩5分温泉宿：車なし・レンタカー不要！手ぶら温泉旅 厳選ガイド",
     description: "運転不要・新幹線駅から徒歩圏内の温泉宿完全特化！東京・名古屋・新大阪・博多から新幹線1本で直行。駅直結ホテル、徒歩5分以内の源泉かけ流し温泉旅館、駅前商店街食べ歩きと手ぶら極上旅を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function TransitStyleHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の沖縄・那覇×格安：快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選「2026最新」',
     description: '秋の快適オフシーズン沖縄！大浴場付き1泊2,000円〜5,000円台の高コスパ那覇ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-budget-okinawa-naha-resort-large-bath-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-okinawa-naha-resort-large-bath-hotels-stay',
   }
 };
 
 export default function OkinawaBudgetAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の沖縄・那覇×格安：快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選「2026最新」\",\"description\":\"猛暑と台風が去り、最高気温25度前後の最も過ごしやすい秋の沖縄！オフシーズンで宿泊費が大幅ダウンする今こそチャンス。国際通り近くで大浴場やサウナ完備の格安ホテル5選。ワイズキャビン那覇、ダイワロイネット国際通り、ホテルリソルトリニティを徹底比較！\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-resort-large-bath-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の沖縄・那覇×格安：快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-resort-large-bath-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の沖縄・那覇×格安：快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選「2026最新」\",\"numberOfItems\":10,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"秋の那覇滞在のアドバイス\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-resort-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"ホテルリソルトリニティ那覇\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-resort-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ワイズキャビン＆ホテル那覇国際通り\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-resort-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"グリーンリッチホテル＆カプセル那覇　人工温泉・二股湯の華\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-resort-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"ダイワロイネットホテル那覇国際通り\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-resort-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"ホテルルートイン那覇泊港\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-resort-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"沖縄美ら海水族館\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-resort-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"首里城公園\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-resort-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"古宇利島（古宇利大橋）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-resort-large-bath-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":10,\"name\":\"万座毛（まんざも）\",\"url\":\"https://croud-travel.pages.dev/autumn-budget-okinawa-naha-resort-large-bath-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/182884/182884.jpg"
@@ -142,7 +146,7 @@ export default function OkinawaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166949%2F166949.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function OkinawaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172254%2F172254.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function OkinawaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128440%2F128440.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -282,7 +286,7 @@ export default function OkinawaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182884%2F182884.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -329,7 +333,7 @@ export default function OkinawaBudgetAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F56974%2F56974.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -386,7 +390,7 @@ export default function OkinawaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">駐車場50台1泊1,500円(車高制限あり) ※先着順予約不可※満車時は近隣の提携駐車場を案内</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（1027件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182884%2F182884.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182884%2F182884.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ワイズキャビン＆ホテル那覇国際通り</td>
@@ -395,7 +399,7 @@ export default function OkinawaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">有＊予約制＊1泊1,000円(税込)、2026年2月から￥1200円に改定</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（738件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,975〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166949%2F166949.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F166949%2F166949.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. グリーンリッチホテル＆カプセル那覇　人工温泉・二股湯の華</td>
@@ -404,7 +408,7 @@ export default function OkinawaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">15時～翌朝11時　敷地内18台(先着順)1泊1000円■提携駐車場161台(徒歩5分圏に7ヶ所)</td>
                 <td className="p-3 font-bold text-amber-600">★4.03（698件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172254%2F172254.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172254%2F172254.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ダイワロイネットホテル那覇国際通り</td>
@@ -413,7 +417,7 @@ export default function OkinawaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">当館裏手に提携駐車場（商業施設併設の立体駐車場）へのご案内（先着順：1泊1,500円／税込）</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（1756件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,090〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128440%2F128440.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128440%2F128440.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ホテルルートイン那覇泊港</td>
@@ -422,7 +426,7 @@ export default function OkinawaBudgetAutumnPage() {
                 <td className="p-3 text-stone-600">有：72台駐車可能、有料：1000円/泊、先着順、制限有：高さ1.55mまで</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（1617件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F56974%2F56974.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F56974%2F56974.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -599,6 +603,9 @@ export default function OkinawaBudgetAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-budget-okinawa-naha-resort-large-bath-hotels-stay" />
+        </div>
 
       </article>
   );

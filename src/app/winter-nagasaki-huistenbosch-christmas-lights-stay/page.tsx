@@ -729,7 +729,7 @@ export default function HuistenboschChristmasPage() {
           </div>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs sm:text-sm">
             <Link 
-              href="/prefectures/nagasaki" 
+              href="/prefectures/nagasaki/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-indigo-50 hover:text-indigo-600 transition font-medium border border-stone-100"
             >
               長崎県の観光・温泉宿一覧 →
@@ -747,13 +747,13 @@ export default function HuistenboschChristmasPage() {
               熊本 黒川温泉湯あかり特集 →
             </Link>
             <Link 
-              href="/prefectures/saga" 
+              href="/prefectures/saga/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-indigo-50 hover:text-indigo-600 transition font-medium border border-stone-100"
             >
               佐賀県（武雄・嬉野温泉）の宿 →
             </Link>
             <Link 
-              href="/prefectures/fukuoka" 
+              href="/prefectures/fukuoka/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-indigo-50 hover:text-indigo-600 transition font-medium border border-stone-100"
             >
               福岡県の温泉ホテル一覧 →

@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/anniversary-propose-luxury-stay/" },
-  title: "記念日・プロポーズ極上宿：夜景スイート・サプライズ演出＆フレンチフルコース 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "記念日・プロポーズ極上宿：夜景スイート・サプライズ演出＆フレンチフルコース 厳選ガイド",
   description: "大切な記念日・誕生日・プロポーズ完全特化！最上階パノラマ夜景スイートルーム、シャンパン＆ホールケーキ、100本のバラ花束サプライズ手配、ミシュラン星付きシェフ監修フレンチと一生に一度の感動宿を徹底解説。",
   keywords: ["記念日", "プロポーズ極上宿", "夜景スイート", "サプライズ演出", "フレンチフルコース", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "記念日・プロポーズ極上宿：夜景スイート・サプライズ演出＆フレンチフルコース 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "記念日・プロポーズ極上宿：夜景スイート・サプライズ演出＆フレンチフルコース 厳選ガイド",
     description: "大切な記念日・誕生日・プロポーズ完全特化！最上階パノラマ夜景スイートルーム、シャンパン＆ホールケーキ、100本のバラ花束サプライズ手配、ミシュラン星付きシェフ監修フレンチと一生に一度の感動宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "記念日・プロポーズ極上宿：夜景スイート・サプライズ演出＆フレンチフルコース 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "記念日・プロポーズ極上宿：夜景スイート・サプライズ演出＆フレンチフルコース 厳選ガイド",
     description: "大切な記念日・誕生日・プロポーズ完全特化！最上階パノラマ夜景スイートルーム、シャンパン＆ホールケーキ、100本のバラ花束サプライズ手配、ミシュラン星付きシェフ監修フレンチと一生に一度の感動宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function TargetAudienceHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

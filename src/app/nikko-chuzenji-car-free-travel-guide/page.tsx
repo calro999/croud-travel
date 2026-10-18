@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nikko-chuzenji-car-free-travel-guide/" },
-  title: "日光・中禅寺湖 車なし観光 1泊2日モデルコース：東武特急スペーシアX＆東武バスで行く世界遺産＆奥日光湯宿 ｜ 日本全国・旅宿クラウド",
+  title: "日光・中禅寺湖 車なし観光 1泊2日モデルコース：東武特急スペーシアX＆東武バスで行く世界遺産＆奥日光湯宿",
   description: "電車とバスだけで巡る日光完全ガイド！新型特急スペーシアX、日光WEBフリーパス、東武バスを活用して東照宮・いろは坂・華厳の滝・中禅寺湖遊覧船・奥日光硫黄泉旅館をスムーズに回る乗り継ぎタイムテーブル。",
   keywords: ["日光", "中禅寺湖", "車なし観光", "1泊2日モデルコース", "東武特急スペーシアX", "東武バスで行く世界遺産", "奥日光湯宿"],
   openGraph: {
-    title: "日光・中禅寺湖 車なし観光 1泊2日モデルコース：東武特急スペーシアX＆東武バスで行く世界遺産＆奥日光湯宿 ｜ 日本全国・旅宿クラウド",
+    title: "日光・中禅寺湖 車なし観光 1泊2日モデルコース：東武特急スペーシアX＆東武バスで行く世界遺産＆奥日光湯宿",
     description: "電車とバスだけで巡る日光完全ガイド！新型特急スペーシアX、日光WEBフリーパス、東武バスを活用して東照宮・いろは坂・華厳の滝・中禅寺湖遊覧船・奥日光硫黄泉旅館をスムーズに回る乗り継ぎタイムテーブル。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "日光・中禅寺湖 車なし観光 1泊2日モデルコース：東武特急スペーシアX＆東武バスで行く世界遺産＆奥日光湯宿 ｜ 日本全国・旅宿クラウド",
+    title: "日光・中禅寺湖 車なし観光 1泊2日モデルコース：東武特急スペーシアX＆東武バスで行く世界遺産＆奥日光湯宿",
     description: "電車とバスだけで巡る日光完全ガイド！新型特急スペーシアX、日光WEBフリーパス、東武バスを活用して東照宮・いろは坂・華厳の滝・中禅寺湖遊覧船・奥日光硫黄泉旅館をスムーズに回る乗り継ぎタイムテーブル。",
   }
 };
@@ -382,7 +382,7 @@ export default function NikkoChuzenjiCarFreeTravelGuidePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fcoupon%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-500 hover:to-rose-500 text-white font-black text-xs px-4 py-2.5 rounded-xl shadow-md transition shrink-0"
           >
             <span>🎟️</span> 楽天トラベル日光宿クーポンを獲得する
@@ -467,7 +467,7 @@ export default function NikkoChuzenjiCarFreeTravelGuidePage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="w-full block text-center bg-gradient-to-r from-emerald-700 to-teal-700 hover:from-emerald-600 hover:to-teal-600 text-white font-black text-sm py-3 px-4 rounded-xl shadow-md transition-all group-hover:shadow-emerald-200"
                     >
                       楽天トラベルでプラン空室を見る ➜

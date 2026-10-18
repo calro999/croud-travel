@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/dog-friendly-private-onsen-bath-resort-stay/" },
-  title: "愛犬専用温泉付き客室＆露天風呂宿：伊豆・那須・箱根・関西 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "愛犬専用温泉付き客室＆露天風呂宿：伊豆・那須・箱根・関西 厳選ガイド",
   description: "愛犬と一緒に温泉で極上の癒やし！客室専用愛犬用温泉・足湯＆露天風呂付き宿完全特化！伊豆高原、那須高原、箱根、京都・関西、愛犬専用バスタブ完備、滑りにくい床素材、美肌の天然温泉宿を徹底解説。",
   keywords: ["愛犬専用温泉付き客室", "露天風呂宿", "伊豆", "那須", "箱根", "関西", "温泉宿"],
   openGraph: {
-    title: "愛犬専用温泉付き客室＆露天風呂宿：伊豆・那須・箱根・関西 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "愛犬専用温泉付き客室＆露天風呂宿：伊豆・那須・箱根・関西 厳選ガイド",
     description: "愛犬と一緒に温泉で極上の癒やし！客室専用愛犬用温泉・足湯＆露天風呂付き宿完全特化！伊豆高原、那須高原、箱根、京都・関西、愛犬専用バスタブ完備、滑りにくい床素材、美肌の天然温泉宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "愛犬専用温泉付き客室＆露天風呂宿：伊豆・那須・箱根・関西 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "愛犬専用温泉付き客室＆露天風呂宿：伊豆・那須・箱根・関西 厳選ガイド",
     description: "愛犬と一緒に温泉で極上の癒やし！客室専用愛犬用温泉・足湯＆露天風呂付き宿完全特化！伊豆高原、那須高原、箱根、京都・関西、愛犬専用バスタブ完備、滑りにくい床素材、美肌の天然温泉宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function PetDogResortHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-emerald-700 hover:from-amber-500 hover:to-emerald-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで愛犬同伴プランを見る

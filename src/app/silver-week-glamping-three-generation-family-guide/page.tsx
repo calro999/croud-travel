@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-three-generation-family-guide/" },
-  title: "3世代家族で行くシルバーウィーク グランピング：祖父母も疲れない！段差なしバリアフリー＆和洋室ヴィラ ｜ 日本全国・旅宿クラウド",
+  title: "3世代家族で行くシルバーウィーク グランピング：祖父母も疲れない！段差なしバリアフリー＆和洋室ヴィラ",
   description:
     "おじいちゃん・おばあちゃん、両親、子供の3世代で泊まれる安心グランピング！足腰に優しいフラット設計、畳スペースのある和洋室ヴィラ、食事も椅子席完備でシニアも安心。敬老の日のプレゼント旅行に。",
   keywords: ["グランピング", "和洋室ヴィラ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: "3世代家族で行くシルバーウィーク グランピング：祖父母も疲れない！段差なしバリアフリー＆和洋室ヴィラ ｜ 日本全国・旅宿クラウド",
+    title: "3世代家族で行くシルバーウィーク グランピング：祖父母も疲れない！段差なしバリアフリー＆和洋室ヴィラ",
     description: "おじいちゃん・おばあちゃん、両親、子供の3世代で泊まれる安心グランピング！足腰に優しいフラット設計、畳スペースのある和洋室ヴィラ、食事も椅子席完備でシニアも安心。敬老の日のプレゼント旅行に。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "3世代家族で行くシルバーウィーク グランピング：祖父母も疲れない！段差なしバリアフリー＆和洋室ヴィラ ｜ 日本全国・旅宿クラウド",
+    title: "3世代家族で行くシルバーウィーク グランピング：祖父母も疲れない！段差なしバリアフリー＆和洋室ヴィラ",
     description: "おじいちゃん・おばあちゃん、両親、子供の3世代で泊まれる安心グランピング！足腰に優しいフラット設計、畳スペースのある和洋室ヴィラ、食事も椅子席完備でシニアも安心。敬老の日のプレゼント旅行に。",
   }
 };
@@ -174,6 +174,8 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 
       {/* パンくずリスト */}
       <nav aria-label="Breadcrumb" className="text-xs text-teal-800/70 font-medium">
@@ -360,7 +362,7 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="inline-flex items-center justify-center px-4 py-2.5 bg-gradient-to-r from-teal-700 to-emerald-700 hover:from-teal-600 hover:to-emerald-600 text-white font-bold text-xs rounded-xl shadow-sm transition transform hover:-translate-y-0.5 shrink-0"
                   >
                     楽天トラベルで空室確認 ✈️

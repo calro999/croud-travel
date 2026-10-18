@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagoya-kanazawa-bus-vs-train-guide/" },
-  title: "名古屋から金沢 安く行く方法：特急しらさぎ vs 直行高速バス徹底比較！乗り換えなし1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "名古屋から金沢 安く行く方法：特急しらさぎ vs 直行高速バス徹底比較！乗り換えなし1泊2日モデルコース",
   description: "名古屋から金沢へ安く行くには？特急しらさぎ敦賀乗換（約8,010円）と直行高速バス（約3,000円〜）の料金・時間比較！乗り換えゼロ＆半額以下で行ける名鉄直行バスを活用し、ひがし茶屋街・近江町市場・金沢城を満喫する1泊2日モデルコース。",
   keywords: ["名古屋から金沢", "安く行く方法", "特急しらさぎ", "vs", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "名古屋から金沢 安く行く方法：特急しらさぎ vs 直行高速バス徹底比較！乗り換えなし1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "名古屋から金沢 安く行く方法：特急しらさぎ vs 直行高速バス徹底比較！乗り換えなし1泊2日モデルコース",
     description: "名古屋から金沢へ安く行くには？特急しらさぎ敦賀乗換（約8,010円）と直行高速バス（約3,000円〜）の料金・時間比較！乗り換えゼロ＆半額以下で行ける名鉄直行バスを活用し、ひがし茶屋街・近江町市場・金沢城を満喫する1泊2日モデルコース。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "名古屋から金沢 安く行く方法：特急しらさぎ vs 直行高速バス徹底比較！乗り換えなし1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "名古屋から金沢 安く行く方法：特急しらさぎ vs 直行高速バス徹底比較！乗り換えなし1泊2日モデルコース",
     description: "名古屋から金沢へ安く行くには？特急しらさぎ敦賀乗換（約8,010円）と直行高速バス（約3,000円〜）の料金・時間比較！乗り換えゼロ＆半額以下で行ける名鉄直行バスを活用し、ひがし茶屋街・近江町市場・金沢城を満喫する1泊2日モデルコース。",
   }
 };
@@ -351,7 +351,7 @@ export default function HighwayBusArticlePage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                   >
                     ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -390,7 +390,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🍓</div>
@@ -409,7 +409,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🎫</div>

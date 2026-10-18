@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from "react";
 import type { Metadata } from "next";
 import Link from "next/link";
@@ -13,7 +14,7 @@ import {
 } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "光の道夕景と日本一の大注連縄・宮地嶽神社新春初詣：2026-2027年冬の福岡・福津＆玄界灘！天然とらふぐと博多和牛名宿5選 ｜ 日本全国・旅宿クラウド",
+  title: "光の道夕景と日本一の大注連縄・宮地嶽神社新春初詣：2026-2027年冬の福岡・福津＆玄界灘！天然とらふぐと博多和牛名宿5選",
   description: "嵐のCMで話題となった「光の道」と日本一の大注連縄を誇る開運神社「宮地嶽神社」新春初詣！冬の澄み渡る玄界灘の夕景、冬に旬を迎える極上「天然とらふぐ」や活ヤリイカ、博多和牛の贅沢会席に舌鼓を打つ冬の厳選名宿5選。",
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukuoka-fukutsu-miyajidake-shrine-hatsumode-hikari-genkainada-stay",
@@ -143,7 +144,7 @@ export default function FeaturePage() {
           </Link>
           <ChevronRight className="w-3 h-3 text-stone-400" />
           <Link
-            href="/prefectures/fukuoka"
+            href="/prefectures/fukuoka/"
             className="hover:text-stone-900 transition-colors"
           >
             福岡県
@@ -374,7 +375,7 @@ export default function FeaturePage() {
                       </div>
                     </div>
                     <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139901%2F139901.html" target="_blank" rel="noopener noreferrer">
+                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139901%2F139901.html" target="_blank" rel="sponsored noopener noreferrer">
                         御宿　はなわらび
                       </a>
                     </h3>
@@ -402,7 +403,7 @@ export default function FeaturePage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139901%2F139901.html"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs px-4 py-2.5 rounded-xl flex items-center gap-1.5 transition-colors shadow-sm shadow-amber-600/20"
                     >
                       <span>空室確認・予約</span>
@@ -440,7 +441,7 @@ export default function FeaturePage() {
                       </div>
                     </div>
                     <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165802%2F165802.html" target="_blank" rel="noopener noreferrer">
+                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165802%2F165802.html" target="_blank" rel="sponsored noopener noreferrer">
                         ぶどうの樹ふくつ海岸通り　光の海ホテル＆リゾート　波の音（旧：グランピング福岡）
                       </a>
                     </h3>
@@ -468,7 +469,7 @@ export default function FeaturePage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165802%2F165802.html"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs px-4 py-2.5 rounded-xl flex items-center gap-1.5 transition-colors shadow-sm shadow-amber-600/20"
                     >
                       <span>空室確認・予約</span>
@@ -506,7 +507,7 @@ export default function FeaturePage() {
                       </div>
                     </div>
                     <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172253%2F172253.html" target="_blank" rel="noopener noreferrer">
+                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172253%2F172253.html" target="_blank" rel="sponsored noopener noreferrer">
                         お寺で過ごすやすらぎのひととき　明石寺　大日屋旅館
                       </a>
                     </h3>
@@ -529,7 +530,7 @@ export default function FeaturePage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172253%2F172253.html"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs px-4 py-2.5 rounded-xl flex items-center gap-1.5 transition-colors shadow-sm shadow-amber-600/20"
                     >
                       <span>空室確認・予約</span>
@@ -567,7 +568,7 @@ export default function FeaturePage() {
                       </div>
                     </div>
                     <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109125%2F109125.html" target="_blank" rel="noopener noreferrer">
+                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109125%2F109125.html" target="_blank" rel="sponsored noopener noreferrer">
                         玄海旅館
                       </a>
                     </h3>
@@ -595,7 +596,7 @@ export default function FeaturePage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109125%2F109125.html"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs px-4 py-2.5 rounded-xl flex items-center gap-1.5 transition-colors shadow-sm shadow-amber-600/20"
                     >
                       <span>空室確認・予約</span>
@@ -633,7 +634,7 @@ export default function FeaturePage() {
                       </div>
                     </div>
                     <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F106165%2F106165.html" target="_blank" rel="noopener noreferrer">
+                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F106165%2F106165.html" target="_blank" rel="sponsored noopener noreferrer">
                         桝屋旅館
                       </a>
                     </h3>
@@ -656,7 +657,7 @@ export default function FeaturePage() {
                     <a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F106165%2F106165.html"
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs px-4 py-2.5 rounded-xl flex items-center gap-1.5 transition-colors shadow-sm shadow-amber-600/20"
                     >
                       <span>空室確認・予約</span>
@@ -687,7 +688,7 @@ export default function FeaturePage() {
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               className="bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs sm:text-sm px-6 py-3 rounded-xl flex items-center gap-2 flex-shrink-0 transition-colors shadow-md shadow-amber-600/20"
             >
               <span>対象宿・クーポンを見る</span>
@@ -766,7 +767,7 @@ export default function FeaturePage() {
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               <Link
-                href="/prefectures/fukuoka"
+                href="/prefectures/fukuoka/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>福岡県のおすすめ温泉宿・ホテル一覧</span>

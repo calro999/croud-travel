@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/summer-infinity-pool/" },
-  title: "夏休み・リゾート：絶景インフィニティプール＆オーシャンビュー宿ガイド ｜ 日本全国・旅宿クラウド",
+  title: "夏休み・リゾート：絶景インフィニティプール＆オーシャンビュー宿ガイド",
   description: "空と海が溶け合う絶景！沖縄（恩納村・石垣島宮古島）、和歌山白浜、関東近郊（房総鴨川）でインフィニティプールやプール付き客室を完備した極上リゾートホテルを徹底比較。",
   keywords: ["夏休み", "リゾート", "絶景インフィニティプール", "オーシャンビュー宿ガイド", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "夏休み・リゾート：絶景インフィニティプール＆オーシャンビュー宿ガイド ｜ 日本全国・旅宿クラウド",
+    title: "夏休み・リゾート：絶景インフィニティプール＆オーシャンビュー宿ガイド",
     description: "空と海が溶け合う絶景！沖縄（恩納村・石垣島宮古島）、和歌山白浜、関東近郊（房総鴨川）でインフィニティプールやプール付き客室を完備した極上リゾートホテルを徹底比較。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "夏休み・リゾート：絶景インフィニティプール＆オーシャンビュー宿ガイド ｜ 日本全国・旅宿クラウド",
+    title: "夏休み・リゾート：絶景インフィニティプール＆オーシャンビュー宿ガイド",
     description: "空と海が溶け合う絶景！沖縄（恩納村・石垣島宮古島）、和歌山白浜、関東近郊（房総鴨川）でインフィニティプールやプール付き客室を完備した極上リゾートホテルを徹底比較。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

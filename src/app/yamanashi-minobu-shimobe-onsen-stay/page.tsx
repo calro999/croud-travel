@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamanashi-minobu-shimobe-onsen-stay/" },
-  title: "山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・信玄隠し湯宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・信玄隠し湯宿 厳選ガイド",
   description: "祈りの霊峰と武田信玄公の隠し湯・山梨身延＆下部エリア完全特化！日蓮宗総本山「身延山久遠寺（樹齢400年しだれ桜・菩提梯287段）」、身延山ロープウェイ奥之院、日本の名湯百選「下部温泉（ぬる湯治）」、名物「身延まんじゅう宿」を徹底解説。",
   keywords: ["山梨", "身延山", "下部温泉", "日蓮宗総本山久遠寺しだれ桜", "信玄隠し湯宿", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・信玄隠し湯宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・信玄隠し湯宿 厳選ガイド",
     description: "祈りの霊峰と武田信玄公の隠し湯・山梨身延＆下部エリア完全特化！日蓮宗総本山「身延山久遠寺（樹齢400年しだれ桜・菩提梯287段）」、身延山ロープウェイ奥之院、日本の名湯百選「下部温泉（ぬる湯治）」、名物「身延まんじゅう宿」を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・信玄隠し湯宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・信玄隠し湯宿 厳選ガイド",
     description: "祈りの霊峰と武田信玄公の隠し湯・山梨身延＆下部エリア完全特化！日蓮宗総本山「身延山久遠寺（樹齢400年しだれ桜・菩提梯287段）」、身延山ロープウェイ奥之院、日本の名湯百選「下部温泉（ぬる湯治）」、名物「身延まんじゅう宿」を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　１００台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（1307件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,050〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40916%2F40916.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40916%2F40916.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 健康・旬彩の宿　下部温泉　ホテル守田</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">【有】5台無料／それ以上の場合は近くの空いている場所にお停めください（先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（251件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2501%2F2501.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2501%2F2501.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 下部温泉　湯元ホテル</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">事前にご案内をお送りしますので、メールアドレスをお知らせください。</td>
                 <td className="p-3 font-bold text-amber-600">★3.5（451件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,350〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8911%2F8911.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8911%2F8911.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 世界最古の宿・ギネスブック認定　全館源泉掛け流し　西山温泉　慶雲館（２０２６年３月リニューアル）</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　６０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（799件）</td>
                 <td className="p-3 font-bold text-rose-600">¥30,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67121%2F67121.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67121%2F67121.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tochigi-kinugawa-onsen-valley-stay/" },
-  title: "栃木・鬼怒川温泉：渓谷美・鬼怒楯岩大吊橋＆ライン下り極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "栃木・鬼怒川温泉：渓谷美・鬼怒楯岩大吊橋＆ライン下り極上宿 厳選ガイド",
   description: "日光・鬼怒川温泉エリア完全特化！鬼怒川渓谷の奇岩怪石、鬼怒楯岩大吊橋パノラマ、鬼怒川ライン下り、東武ワールドスクウェア周辺観光と絶景渓谷露天風呂ホテルを徹底解説。",
   keywords: ["栃木", "鬼怒川温泉", "渓谷美", "鬼怒楯岩大吊橋", "ライン下り極上宿", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "栃木・鬼怒川温泉：渓谷美・鬼怒楯岩大吊橋＆ライン下り極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "栃木・鬼怒川温泉：渓谷美・鬼怒楯岩大吊橋＆ライン下り極上宿 厳選ガイド",
     description: "日光・鬼怒川温泉エリア完全特化！鬼怒川渓谷の奇岩怪石、鬼怒楯岩大吊橋パノラマ、鬼怒川ライン下り、東武ワールドスクウェア周辺観光と絶景渓谷露天風呂ホテルを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "栃木・鬼怒川温泉：渓谷美・鬼怒楯岩大吊橋＆ライン下り極上宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "栃木・鬼怒川温泉：渓谷美・鬼怒楯岩大吊橋＆ライン下り極上宿 厳選ガイド",
     description: "日光・鬼怒川温泉エリア完全特化！鬼怒川渓谷の奇岩怪石、鬼怒楯岩大吊橋パノラマ、鬼怒川ライン下り、東武ワールドスクウェア周辺観光と絶景渓谷露天風呂ホテルを徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り：80台（無料・先着順・滞在中出し入れ自由）</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（667件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39167%2F39167.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39167%2F39167.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 鬼怒川温泉　鬼怒川グランドホテル　夢の季（ゆめのとき）</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有　無料先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.5（781件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31366%2F31366.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31366%2F31366.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 鬼怒川温泉　ほてる白河湯の蔵</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り／無料　（予約不要）</td>
                 <td className="p-3 font-bold text-amber-600">★4.17（537件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F56675%2F56675.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F56675%2F56675.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 鬼怒川金谷ホテル</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　３０台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（391件）</td>
                 <td className="p-3 font-bold text-rose-600">¥46,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28440%2F28440.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28440%2F28440.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 鬼怒川温泉　鬼怒川ロイヤルホテル（伊東園ホテルズ）</td>
@@ -288,7 +288,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有　80台(無料・予約不要)</td>
                 <td className="p-3 font-bold text-amber-600">★3.87（1496件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,348〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67471%2F67471.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67471%2F67471.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 鬼怒川温泉　ホテルサンシャイン鬼怒川</td>
@@ -297,7 +297,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　100台　無料（先着順）</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（2149件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5839%2F5839.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5839%2F5839.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

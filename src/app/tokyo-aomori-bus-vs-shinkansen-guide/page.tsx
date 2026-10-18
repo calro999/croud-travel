@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-aomori-bus-vs-shinkansen-guide/" },
-  title: "東京〜青森・弘前：新幹線はやぶさ vs 夜行バス徹底比較！料金半額以下の夜行旅＆奥入瀬渓流・弘前城1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "東京〜青森・弘前：新幹線はやぶさ vs 夜行バス徹底比較！料金半額以下の夜行旅＆奥入瀬渓流・弘前城1泊2日モデルコース",
   description: "東京から青森・弘前へ安く行くには？東北新幹線「はやぶさ」と夜行高速バス（ノクターン号・JAMJAMライナー）の料金・所要時間比較！片道4,000円台〜の夜行バスで大間まぐろ丼、奥入瀬渓流、弘前アップルパイを満喫する1泊2日モデルコース。",
   keywords: ["東京〜青森", "弘前", "新幹線はやぶさ", "vs", "奥入瀬渓流", "弘前城1泊2日モデルコース", "温泉宿"],
   openGraph: {
-    title: "東京〜青森・弘前：新幹線はやぶさ vs 夜行バス徹底比較！料金半額以下の夜行旅＆奥入瀬渓流・弘前城1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "東京〜青森・弘前：新幹線はやぶさ vs 夜行バス徹底比較！料金半額以下の夜行旅＆奥入瀬渓流・弘前城1泊2日モデルコース",
     description: "東京から青森・弘前へ安く行くには？東北新幹線「はやぶさ」と夜行高速バス（ノクターン号・JAMJAMライナー）の料金・所要時間比較！片道4,000円台〜の夜行バスで大間まぐろ丼、奥入瀬渓流、弘前アップルパイを満喫する1泊2日モデルコース。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "東京〜青森・弘前：新幹線はやぶさ vs 夜行バス徹底比較！料金半額以下の夜行旅＆奥入瀬渓流・弘前城1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "東京〜青森・弘前：新幹線はやぶさ vs 夜行バス徹底比較！料金半額以下の夜行旅＆奥入瀬渓流・弘前城1泊2日モデルコース",
     description: "東京から青森・弘前へ安く行くには？東北新幹線「はやぶさ」と夜行高速バス（ノクターン号・JAMJAMライナー）の料金・所要時間比較！片道4,000円台〜の夜行バスで大間まぐろ丼、奥入瀬渓流、弘前アップルパイを満喫する1泊2日モデルコース。",
   }
 };
@@ -346,7 +346,7 @@ export default function HighwayBusArticlePage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                   >
                     ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -385,7 +385,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🍓</div>
@@ -404,7 +404,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🎫</div>

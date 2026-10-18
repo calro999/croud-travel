@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-hamanako-kanzanji-unagi-stay/" },
-  title: "静岡・浜名湖＆舘山寺温泉：湖畔パノラマ・ロープウェイ＆浜名湖うなぎ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "静岡・浜名湖＆舘山寺温泉：湖畔パノラマ・ロープウェイ＆浜名湖うなぎ宿 厳選ガイド",
   description: "汽水湖の恵みと湖上パノラマ・静岡浜名湖＆舘山寺温泉エリア完全特化！日本唯一の湖上かんざんじロープウェイ、浜名湖遊覧船、はままつフラワーパーク、名物「浜名湖うなぎ蒲焼き・ひつまぶし宿」を徹底解説。",
   keywords: ["静岡", "浜名湖", "舘山寺温泉", "湖畔パノラマ", "ロープウェイ", "浜名湖うなぎ宿", "温泉宿"],
   openGraph: {
-    title: "静岡・浜名湖＆舘山寺温泉：湖畔パノラマ・ロープウェイ＆浜名湖うなぎ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "静岡・浜名湖＆舘山寺温泉：湖畔パノラマ・ロープウェイ＆浜名湖うなぎ宿 厳選ガイド",
     description: "汽水湖の恵みと湖上パノラマ・静岡浜名湖＆舘山寺温泉エリア完全特化！日本唯一の湖上かんざんじロープウェイ、浜名湖遊覧船、はままつフラワーパーク、名物「浜名湖うなぎ蒲焼き・ひつまぶし宿」を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "静岡・浜名湖＆舘山寺温泉：湖畔パノラマ・ロープウェイ＆浜名湖うなぎ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "静岡・浜名湖＆舘山寺温泉：湖畔パノラマ・ロープウェイ＆浜名湖うなぎ宿 厳選ガイド",
     description: "汽水湖の恵みと湖上パノラマ・静岡浜名湖＆舘山寺温泉エリア完全特化！日本唯一の湖上かんざんじロープウェイ、浜名湖遊覧船、はままつフラワーパーク、名物「浜名湖うなぎ蒲焼き・ひつまぶし宿」を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　乗用車　80台　大型　4台，無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.41（832件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2092%2F2092.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2092%2F2092.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ホテル　ウェルシーズン浜名湖</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">あり（宿泊当日〜出発日迄無料／予約不要）　※車いす駐車場有（要問合せ）※バイク用屋根付き有</td>
                 <td className="p-3 font-bold text-amber-600">★4.53（3569件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,550〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F3112%2F3112.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F3112%2F3112.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 旅館ふじや</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　10台　無料（大人の人数の半数台まで無料）　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（162件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F64543%2F64543.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F64543%2F64543.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 愛知渥美半島　伊良湖温泉　魚と貝のうまい宿　玉川</td>
@@ -279,7 +279,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　２０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（145件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39935%2F39935.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39935%2F39935.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

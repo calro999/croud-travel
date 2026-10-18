@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/scenic-open-air-trolley-train-resort-stay/" },
-  title: "絶景観光トロッコ列車＆オープン客車：黒部峡谷・嵯峨野・南阿蘇＆名湯 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "絶景観光トロッコ列車＆オープン客車：黒部峡谷・嵯峨野・南阿蘇＆名湯 厳選ガイド",
   description: "窓のない爽快オープンデッキで風を感じる！全国の人気観光トロッコ列車＆渓谷温泉宿完全特化！富山「黒部峡谷トロッコ電車」、京都嵐山「嵯峨野トロッコ列車」、熊本「南阿蘇鉄道ゆうすげ号」、宇奈月温泉・嵐山温泉宿を徹底解説。",
   keywords: ["絶景観光トロッコ列車", "オープン客車", "黒部峡谷", "嵯峨野", "南阿蘇", "名湯", "温泉宿"],
   openGraph: {
-    title: "絶景観光トロッコ列車＆オープン客車：黒部峡谷・嵯峨野・南阿蘇＆名湯 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "絶景観光トロッコ列車＆オープン客車：黒部峡谷・嵯峨野・南阿蘇＆名湯 厳選ガイド",
     description: "窓のない爽快オープンデッキで風を感じる！全国の人気観光トロッコ列車＆渓谷温泉宿完全特化！富山「黒部峡谷トロッコ電車」、京都嵐山「嵯峨野トロッコ列車」、熊本「南阿蘇鉄道ゆうすげ号」、宇奈月温泉・嵐山温泉宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "絶景観光トロッコ列車＆オープン客車：黒部峡谷・嵯峨野・南阿蘇＆名湯 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "絶景観光トロッコ列車＆オープン客車：黒部峡谷・嵯峨野・南阿蘇＆名湯 厳選ガイド",
     description: "窓のない爽快オープンデッキで風を感じる！全国の人気観光トロッコ列車＆渓谷温泉宿完全特化！富山「黒部峡谷トロッコ電車」、京都嵐山「嵯峨野トロッコ列車」、熊本「南阿蘇鉄道ゆうすげ号」、宇奈月温泉・嵐山温泉宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function RailwayActivityHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

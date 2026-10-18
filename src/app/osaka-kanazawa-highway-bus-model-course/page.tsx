@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/osaka-kanazawa-highway-bus-model-course/" },
-  title: "大阪から金沢 高速バス 新幹線 どっち？：安く行く方法＆乗り換えなし1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "大阪から金沢 高速バス 新幹線 どっち？：安く行く方法＆乗り換えなし1泊2日モデルコース",
   description: "大阪・京都から金沢へ行くなら高速バスと新幹線・特急どっちがおすすめ？サンダーバード敦賀乗換（約9,410円）の手間解消！直行高速バス（約2,800円〜）の格安料金比較と、21世紀美術館・ひがし茶屋街を満喫する女子旅・ひとり旅1泊2日モデルコース。",
   keywords: ["大阪から金沢", "高速バス", "新幹線", "どっち？", "安く行く方法", "2026年最新", "温泉宿"],
   openGraph: {
-    title: "大阪から金沢 高速バス 新幹線 どっち？：安く行く方法＆乗り換えなし1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "大阪から金沢 高速バス 新幹線 どっち？：安く行く方法＆乗り換えなし1泊2日モデルコース",
     description: "大阪・京都から金沢へ行くなら高速バスと新幹線・特急どっちがおすすめ？サンダーバード敦賀乗換（約9,410円）の手間解消！直行高速バス（約2,800円〜）の格安料金比較と、21世紀美術館・ひがし茶屋街を満喫する女子旅・ひとり旅1泊2日モデルコース。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "大阪から金沢 高速バス 新幹線 どっち？：安く行く方法＆乗り換えなし1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "大阪から金沢 高速バス 新幹線 どっち？：安く行く方法＆乗り換えなし1泊2日モデルコース",
     description: "大阪・京都から金沢へ行くなら高速バスと新幹線・特急どっちがおすすめ？サンダーバード敦賀乗換（約9,410円）の手間解消！直行高速バス（約2,800円〜）の格安料金比較と、21世紀美術館・ひがし茶屋街を満喫する女子旅・ひとり旅1泊2日モデルコース。",
   }
 };
@@ -351,7 +351,7 @@ export default function HighwayBusArticlePage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                   >
                     ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -393,7 +393,7 @@ export default function HighwayBusArticlePage() {
                 <td className="p-3 text-stone-600">有料　1,000円/泊(１５：００～１０：００)　ホテル隣接の『名鉄協商パーキング』　※出し入別料金</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（3911件）</td>
                 <td className="p-3 font-bold text-rose-600">¥2,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147638%2F147638.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147638%2F147638.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 三井ガーデンホテル金沢</td>
@@ -402,7 +402,7 @@ export default function HighwayBusArticlePage() {
                 <td className="p-3 text-stone-600">ホテルに専用駐車場はございません。提携駐車場はホテル公式HP「館内利用案内」の駐車場をご覧ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（829件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,040〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F167963%2F167963.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F167963%2F167963.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. ホテルインターゲート金沢</td>
@@ -411,7 +411,7 @@ export default function HighwayBusArticlePage() {
                 <td className="p-3 text-stone-600">ホテルには駐車場がございません。周辺コインパーキング（ホテルから徒歩5～10分程）をご利用ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.48（1380件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168622%2F168622.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168622%2F168622.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. ホテルルートイン金沢駅前</td>
@@ -420,7 +420,7 @@ export default function HighwayBusArticlePage() {
                 <td className="p-3 text-stone-600">有り　１６６台　１，０００円（税込み／泊）　先着順・高さ制限２．１M迄</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（1990件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,825〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54537%2F54537.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54537%2F54537.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 備長炭の湯　ホテルクラウンヒルズ金沢香林坊（ＢＢＨホテルグループ）</td>
@@ -429,7 +429,7 @@ export default function HighwayBusArticlePage() {
                 <td className="p-3 text-stone-600">提携のセントラルパーキングを、一泊１０００円(１５：００－翌１０：００)にて利用可能。出し入れ不可。</td>
                 <td className="p-3 font-bold text-amber-600">★3.76（867件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,350〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F141319%2F141319.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F141319%2F141319.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -640,7 +640,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🍓</div>
@@ -659,7 +659,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🎫</div>

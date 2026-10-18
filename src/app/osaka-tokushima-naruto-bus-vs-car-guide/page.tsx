@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/osaka-tokushima-naruto-bus-vs-car-guide/" },
-  title: "大阪・神戸〜徳島・鳴門：高速バスが圧倒的に便利！料金・時間比較＆大塚国際美術館・鳴門の渦潮1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "大阪・神戸〜徳島・鳴門：高速バスが圧倒的に便利！料金・時間比較＆大塚国際美術館・鳴門の渦潮1泊2日モデルコース",
   description: "大阪・神戸から徳島・鳴門へ行くなら高速バスが最強！電車やマイカーとの料金・時間比較、明石海峡大橋・大鳴門橋を渡る絶景バスルート、大塚国際美術館直行便と鳴門鯛・阿波尾鶏を味わう1泊2日モデルコース。",
   keywords: ["大阪", "神戸〜徳島", "鳴門", "高速バスが圧倒的に便利！料金", "時間比較", "大塚国際美術館", "鳴門の渦潮1泊2日モデルコース"],
   openGraph: {
-    title: "大阪・神戸〜徳島・鳴門：高速バスが圧倒的に便利！料金・時間比較＆大塚国際美術館・鳴門の渦潮1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "大阪・神戸〜徳島・鳴門：高速バスが圧倒的に便利！料金・時間比較＆大塚国際美術館・鳴門の渦潮1泊2日モデルコース",
     description: "大阪・神戸から徳島・鳴門へ行くなら高速バスが最強！電車やマイカーとの料金・時間比較、明石海峡大橋・大鳴門橋を渡る絶景バスルート、大塚国際美術館直行便と鳴門鯛・阿波尾鶏を味わう1泊2日モデルコース。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "大阪・神戸〜徳島・鳴門：高速バスが圧倒的に便利！料金・時間比較＆大塚国際美術館・鳴門の渦潮1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "大阪・神戸〜徳島・鳴門：高速バスが圧倒的に便利！料金・時間比較＆大塚国際美術館・鳴門の渦潮1泊2日モデルコース",
     description: "大阪・神戸から徳島・鳴門へ行くなら高速バスが最強！電車やマイカーとの料金・時間比較、明石海峡大橋・大鳴門橋を渡る絶景バスルート、大塚国際美術館直行便と鳴門鯛・阿波尾鶏を味わう1泊2日モデルコース。",
   }
 };
@@ -351,7 +351,7 @@ export default function HighwayBusArticlePage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                   >
                     ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -390,7 +390,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🍓</div>
@@ -409,7 +409,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🎫</div>

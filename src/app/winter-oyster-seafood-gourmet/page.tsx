@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-oyster-seafood-gourmet/" },
-  title: "冬の海のミルク：極上牡蠣＆冬海鮮づくし温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "冬の海のミルク：極上牡蠣＆冬海鮮づくし温泉旅館 厳選ガイド",
   description: "冬に旨味が最高潮を迎える牡蠣！広島・宮島（焼き牡蠣＆牡蠣土手鍋）、宮城・松島（松島湾ぷりぷり牡蠣）、三重・鳥羽的矢湾（ブランド的矢かき会席）、兵庫・赤穂（坂越牡蠣）など、絶品牡蠣料理と温泉を堪能できる名宿を徹底解説。",
   keywords: ["冬の海のミルク", "極上牡蠣", "冬海鮮づくし温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "冬の海のミルク：極上牡蠣＆冬海鮮づくし温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "冬の海のミルク：極上牡蠣＆冬海鮮づくし温泉旅館 厳選ガイド",
     description: "冬に旨味が最高潮を迎える牡蠣！広島・宮島（焼き牡蠣＆牡蠣土手鍋）、宮城・松島（松島湾ぷりぷり牡蠣）、三重・鳥羽的矢湾（ブランド的矢かき会席）、兵庫・赤穂（坂越牡蠣）など、絶品牡蠣料理と温泉を堪能できる名宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "冬の海のミルク：極上牡蠣＆冬海鮮づくし温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "冬の海のミルク：極上牡蠣＆冬海鮮づくし温泉旅館 厳選ガイド",
     description: "冬に旨味が最高潮を迎える牡蠣！広島・宮島（焼き牡蠣＆牡蠣土手鍋）、宮城・松島（松島湾ぷりぷり牡蠣）、三重・鳥羽的矢湾（ブランド的矢かき会席）、兵庫・赤穂（坂越牡蠣）など、絶品牡蠣料理と温泉を堪能できる名宿を徹底解説。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

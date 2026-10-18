@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-luxury-private-pool-suite-villa-stay/" },
-  title: "客室プライベートプール付きオールスイートヴィラ：沖縄・奄美・宮古・関東 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "客室プライベートプール付きオールスイートヴィラ：沖縄・奄美・宮古・関東 厳選ガイド",
   description: "誰にも邪魔されない完全プライベートな極上バカンス！客室専用温水プール付きオールスイートヴィラ完全特化！沖縄本島・宮古島・石垣島・奄美大島、関東近郊のインフィニティプール付きラグジュアリーヴィラを徹底解説。",
   keywords: ["沖縄", "奄美", "宮古", "関東", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "客室プライベートプール付きオールスイートヴィラ：沖縄・奄美・宮古・関東 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "客室プライベートプール付きオールスイートヴィラ：沖縄・奄美・宮古・関東 厳選ガイド",
     description: "誰にも邪魔されない完全プライベートな極上バカンス！客室専用温水プール付きオールスイートヴィラ完全特化！沖縄本島・宮古島・石垣島・奄美大島、関東近郊のインフィニティプール付きラグジュアリーヴィラを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "客室プライベートプール付きオールスイートヴィラ：沖縄・奄美・宮古・関東 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "客室プライベートプール付きオールスイートヴィラ：沖縄・奄美・宮古・関東 厳選ガイド",
     description: "誰にも邪魔されない完全プライベートな極上バカンス！客室専用温水プール付きオールスイートヴィラ完全特化！沖縄本島・宮古島・石垣島・奄美大島、関東近郊のインフィニティプール付きラグジュアリーヴィラを徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function LuxuryPremiumHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-700 to-amber-900 hover:from-amber-600 hover:to-amber-800 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.76（417件）</td>
                 <td className="p-3 font-bold text-rose-600">¥38,050〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168769%2F168769.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F168769%2F168769.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 石垣島ＴＨＥ　ＭＩＹＡＲＡ　ＧＡＲＤＥＮ（ザミヤラガーデン）＜石垣島＞</td>
@@ -261,7 +261,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">有り　施設合計６台　各棟２台まで　駐車料金は無料　予約不要。</td>
                 <td className="p-3 font-bold text-amber-600">★5（19件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178390%2F178390.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178390%2F178390.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. オーシャンビュー石垣　－　プール付き新築ヴィラ　＾</td>
@@ -270,7 +270,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">有り</td>
                 <td className="p-3 font-bold text-amber-600">高評価</td>
                 <td className="p-3 font-bold text-rose-600">¥34,638〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F171607%2F171607.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F171607%2F171607.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 伊豆河津浜　磯あるきの湯宿　潮雲</td>
@@ -279,7 +279,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">有り：7台（無料）</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（129件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,750〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7800%2F7800.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7800%2F7800.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 伊豆一碧湖レイクサイドテラス</td>
@@ -288,7 +288,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">有り　30台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.9（695件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,300〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9080%2F9080.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9080%2F9080.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

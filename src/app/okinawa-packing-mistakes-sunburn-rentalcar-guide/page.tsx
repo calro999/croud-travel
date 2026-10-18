@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/okinawa-packing-mistakes-sunburn-rentalcar-guide/" },
-  title: "沖縄旅行で後悔したことワースト5：本州の3倍の紫外線で大火傷！？レンタカー返却渋滞＆必須持ち物 ｜ 日本全国・旅宿クラウド",
+  title: "沖縄旅行で後悔したことワースト5：本州の3倍の紫外線で大火傷！？レンタカー返却渋滞＆必須持ち物",
   description: "沖縄旅行でありがちな失敗と後悔を完全回避！日焼け止めを塗っても火傷するシュノーケリング対策（ラッシュガード必須）、那覇空港周辺のレンタカー返却大渋滞で飛行機乗り遅れ危機、雨雲レーダー活用術。",
   keywords: ["必須持ち物", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: "沖縄旅行で後悔したことワースト5：本州の3倍の紫外線で大火傷！？レンタカー返却渋滞＆必須持ち物 ｜ 日本全国・旅宿クラウド",
+    title: "沖縄旅行で後悔したことワースト5：本州の3倍の紫外線で大火傷！？レンタカー返却渋滞＆必須持ち物",
     description: "沖縄旅行でありがちな失敗と後悔を完全回避！日焼け止めを塗っても火傷するシュノーケリング対策（ラッシュガード必須）、那覇空港周辺のレンタカー返却大渋滞で飛行機乗り遅れ危機、雨雲レーダー活用術。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "沖縄旅行で後悔したことワースト5：本州の3倍の紫外線で大火傷！？レンタカー返却渋滞＆必須持ち物 ｜ 日本全国・旅宿クラウド",
+    title: "沖縄旅行で後悔したことワースト5：本州の3倍の紫外線で大火傷！？レンタカー返却渋滞＆必須持ち物",
     description: "沖縄旅行でありがちな失敗と後悔を完全回避！日焼け止めを塗っても火傷するシュノーケリング対策（ラッシュガード必須）、那覇空港周辺のレンタカー返却大渋滞で飛行機乗り遅れ危機、雨雲レーダー活用術。",
   }
 };
@@ -400,7 +400,7 @@ export default function OkinawaPackingMistakesGuidePage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="block w-full text-center py-2.5 text-xs font-black text-white bg-cyan-600 hover:bg-cyan-500 rounded-xl transition shadow"
                     >
                       🌴 楽天トラベルでプラン・空室を見る
@@ -530,25 +530,25 @@ export default function OkinawaPackingMistakesGuidePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/aomori"
+                href="/prefectures/aomori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 青森県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/akita"
+                href="/prefectures/akita/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 秋田県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/kagawa"
+                href="/prefectures/kagawa/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 香川県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/miyazaki"
+                href="/prefectures/miyazaki/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 宮崎県の宿・温泉

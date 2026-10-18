@@ -7,17 +7,17 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-family-trip-zoo-nature-guide/" },
-  title: "子連れ北海道旅行 2泊3日モデルコース：旭山動物園＆美瑛富良野ドライブ！子供が喜ぶ体験型ホテルガイド ｜ 日本全国・旅宿クラウド",
+  title: "子連れ北海道旅行 2泊3日モデルコース：旭山動物園＆美瑛富良野ドライブ！子供が喜ぶ体験型ホテルガイド",
   description: "家族で楽しむ北海道旅行！旭山動物園の行動展示、もぐもぐタイムの見学、美瑛の丘散策、大自然を満喫するキッズフレンドリーな宿特集。レンタカー移動時の休憩スポットや子供用アメニティ充実のホテルまとめ。",
   keywords: ["子連れ北海道旅行", "2泊3日モデルコース", "旭山動物園", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "子連れ北海道旅行 2泊3日モデルコース：旭山動物園＆美瑛富良野ドライブ！子供が喜ぶ体験型ホテルガイド ｜ 日本全国・旅宿クラウド",
+    title: "子連れ北海道旅行 2泊3日モデルコース：旭山動物園＆美瑛富良野ドライブ！子供が喜ぶ体験型ホテルガイド",
     description: "家族で楽しむ北海道旅行！旭山動物園の行動展示、もぐもぐタイムの見学、美瑛の丘散策、大自然を満喫するキッズフレンドリーな宿特集。レンタカー移動時の休憩スポットや子供用アメニティ充実のホテルまとめ。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "子連れ北海道旅行 2泊3日モデルコース：旭山動物園＆美瑛富良野ドライブ！子供が喜ぶ体験型ホテルガイド ｜ 日本全国・旅宿クラウド",
+    title: "子連れ北海道旅行 2泊3日モデルコース：旭山動物園＆美瑛富良野ドライブ！子供が喜ぶ体験型ホテルガイド",
     description: "家族で楽しむ北海道旅行！旭山動物園の行動展示、もぐもぐタイムの見学、美瑛の丘散策、大自然を満喫するキッズフレンドリーな宿特集。レンタカー移動時の休憩スポットや子供用アメニティ充実のホテルまとめ。",
   }
 };
@@ -388,7 +388,7 @@ export default function HokkaidoFamilyTripZooNaturePage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-600 via-amber-700 to-amber-800 hover:from-amber-700 hover:to-amber-900 text-white font-black text-sm px-6 py-3.5 rounded-xl shadow-md hover:shadow-lg transition-all duration-200 transform hover:-translate-y-0.5 text-center group cursor-pointer"
                   >
                     <span>楽天トラベルで空室・宿泊プランを見る</span>

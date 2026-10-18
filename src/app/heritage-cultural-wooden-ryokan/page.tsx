@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/heritage-cultural-wooden-ryokan/" },
-  title: "登録有形文化財・名建築の宿：宮大工の木造建築・文豪が愛した老舗旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "登録有形文化財・名建築の宿：宮大工の木造建築・文豪が愛した老舗旅館 厳選ガイド",
   description: "国登録有形文化財・宮大工の名建築旅館完全特化！釘を一本も使わない数寄屋造り、文豪が執筆に訪れた客室、歴史ある磨き上げられた廊下、日本庭園と伝統会席を味わう至高のクラシックステイを徹底解説。",
   keywords: ["登録有形文化財", "名建築の宿", "宮大工の木造建築", "文豪が愛した老舗旅館", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "登録有形文化財・名建築の宿：宮大工の木造建築・文豪が愛した老舗旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "登録有形文化財・名建築の宿：宮大工の木造建築・文豪が愛した老舗旅館 厳選ガイド",
     description: "国登録有形文化財・宮大工の名建築旅館完全特化！釘を一本も使わない数寄屋造り、文豪が執筆に訪れた客室、歴史ある磨き上げられた廊下、日本庭園と伝統会席を味わう至高のクラシックステイを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "登録有形文化財・名建築の宿：宮大工の木造建築・文豪が愛した老舗旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "登録有形文化財・名建築の宿：宮大工の木造建築・文豪が愛した老舗旅館 厳選ガイド",
     description: "国登録有形文化財・宮大工の名建築旅館完全特化！釘を一本も使わない数寄屋造り、文豪が執筆に訪れた客室、歴史ある磨き上げられた廊下、日本庭園と伝統会席を味わう至高のクラシックステイを徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function HeritageOnsenHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">あり　40台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（267件）</td>
                 <td className="p-3 font-bold text-rose-600">¥24,420〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31865%2F31865.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31865%2F31865.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 四万温泉　積善館　佳松亭・山荘</td>
@@ -261,7 +261,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.66（1224件）</td>
                 <td className="p-3 font-bold text-rose-600">¥23,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F76361%2F76361.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F76361%2F76361.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 信玄の湯　湯村温泉　旅館明治　太宰治ゆかりの宿</td>
@@ -270,7 +270,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">15台　無料　★要予約※駐車場所についてはご到着先着順です。近くの空地スペースになる場合がございます</td>
                 <td className="p-3 font-bold text-amber-600">★4.43（132件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196489%2F196489.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196489%2F196489.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 島崎藤村ゆかりの宿　中棚荘</td>
@@ -279,7 +279,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">有り　３０台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.7（543件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F25164%2F25164.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F25164%2F25164.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 田沢温泉　ますや旅館＜長野県小県郡＞</td>
@@ -288,7 +288,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">有り　５０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.73（134件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,550〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70675%2F70675.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70675%2F70675.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 半月庵</td>
@@ -297,7 +297,7 @@ export default function HeritageOnsenHubPage() {
                 <td className="p-3 text-stone-600">有り　20台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★3.4（188件）</td>
                 <td className="p-3 font-bold text-rose-600">¥17,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14172%2F14172.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14172%2F14172.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

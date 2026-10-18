@@ -7,18 +7,18 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/silver-week-glamping-riverside-valley-fishing-guide/" },
-  title: "清流・渓谷リバーサイドグランピング：川のせせらぎに癒やされる！イワナ釣り＆川遊び体験 ｜ 日本全国・旅宿クラウド",
+  title: "清流・渓谷リバーサイドグランピング：川のせせらぎに癒やされる！イワナ釣り＆川遊び体験",
   description:
     "マイナスイオンたっぷりの渓谷美！清流の目の前に建つドームテント、初心者でも釣れる渓流釣り場、釣った魚をその場で炭火塩焼きにするアウトドア体験。奥多摩・秩父・丹沢のおすすめ施設特集。",
   keywords: ["清流", "渓谷リバーサイドグランピング", "川遊び体験", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "清流・渓谷リバーサイドグランピング：川のせせらぎに癒やされる！イワナ釣り＆川遊び体験 ｜ 日本全国・旅宿クラウド",
+    title: "清流・渓谷リバーサイドグランピング：川のせせらぎに癒やされる！イワナ釣り＆川遊び体験",
     description: "マイナスイオンたっぷりの渓谷美！清流の目の前に建つドームテント、初心者でも釣れる渓流釣り場、釣った魚をその場で炭火塩焼きにするアウトドア体験。奥多摩・秩父・丹沢のおすすめ施設特集。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "清流・渓谷リバーサイドグランピング：川のせせらぎに癒やされる！イワナ釣り＆川遊び体験 ｜ 日本全国・旅宿クラウド",
+    title: "清流・渓谷リバーサイドグランピング：川のせせらぎに癒やされる！イワナ釣り＆川遊び体験",
     description: "マイナスイオンたっぷりの渓谷美！清流の目の前に建つドームテント、初心者でも釣れる渓流釣り場、釣った魚をその場で炭火塩焼きにするアウトドア体験。奥多摩・秩父・丹沢のおすすめ施設特集。",
   }
 };
@@ -169,6 +169,8 @@ export default function SilverWeekGlampingRiversideValleyFishingPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
 
       {/* ヒーローセクション（Tealパレット） */}
       <section className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-teal-950 via-stone-900 to-teal-900 text-white p-8 md:p-14 shadow-2xl border border-teal-500/30">
@@ -326,7 +328,7 @@ export default function SilverWeekGlampingRiversideValleyFishingPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="inline-flex items-center justify-center px-4 py-2.5 bg-gradient-to-r from-teal-600 to-teal-700 hover:from-teal-500 hover:to-teal-600 text-white font-bold text-xs rounded-xl shadow-md transition transform hover:-translate-y-0.5 shrink-0"
                   >
                     楽天トラベルで空室確認 ✈️

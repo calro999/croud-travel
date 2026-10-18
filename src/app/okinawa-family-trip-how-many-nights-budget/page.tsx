@@ -7,17 +7,17 @@ import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/okinawa-family-trip-how-many-nights-budget/" },
-  title: "子連れ沖縄旅行 何泊がベスト？：年齢別おすすめ日数・総額費用＆キッズプール付きリゾートホテル比較 ｜ 日本全国・旅宿クラウド",
+  title: "子連れ沖縄旅行 何泊がベスト？：年齢別おすすめ日数・総額費用＆キッズプール付きリゾートホテル比較",
   description: "子連れ沖縄旅行は2泊3日？3泊4日？未就学児・小学生の年齢別最適スケジュール、美ら海水族館とビーチの回り方、レンタカー選び、キッズプールやスライダー充実の恩納村ファミリーリゾート徹底解説。",
   keywords: ["子連れ沖縄旅行", "何泊がベスト？", "年齢別おすすめ日数", "総額費用", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "子連れ沖縄旅行 何泊がベスト？：年齢別おすすめ日数・総額費用＆キッズプール付きリゾートホテル比較 ｜ 日本全国・旅宿クラウド",
+    title: "子連れ沖縄旅行 何泊がベスト？：年齢別おすすめ日数・総額費用＆キッズプール付きリゾートホテル比較",
     description: "子連れ沖縄旅行は2泊3日？3泊4日？未就学児・小学生の年齢別最適スケジュール、美ら海水族館とビーチの回り方、レンタカー選び、キッズプールやスライダー充実の恩納村ファミリーリゾート徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "子連れ沖縄旅行 何泊がベスト？：年齢別おすすめ日数・総額費用＆キッズプール付きリゾートホテル比較 ｜ 日本全国・旅宿クラウド",
+    title: "子連れ沖縄旅行 何泊がベスト？：年齢別おすすめ日数・総額費用＆キッズプール付きリゾートホテル比較",
     description: "子連れ沖縄旅行は2泊3日？3泊4日？未就学児・小学生の年齢別最適スケジュール、美ら海水族館とビーチの回り方、レンタカー選び、キッズプールやスライダー充実の恩納村ファミリーリゾート徹底解説。",
   }
 };
@@ -398,7 +398,7 @@ export default function OkinawaFamilyTripNightsBudgetPage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-sky-600 via-cyan-600 to-sky-700 hover:from-sky-500 hover:to-cyan-500 rounded-xl shadow hover:shadow-md transition"
                   >
                     🌺 楽天トラベルで空室・プール付きプランを見る
@@ -455,7 +455,7 @@ export default function OkinawaFamilyTripNightsBudgetPage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcamp%2F50luxday%2Ftop%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-gradient-to-r from-amber-400 via-orange-400 to-amber-500 text-stone-950 font-black text-sm rounded-2xl shadow-lg hover:shadow-xl hover:brightness-105 transition"
           >
             <span>🎟️ 楽天トラベルの「5と0のつく日」限定クーポンで沖縄リゾートを予約する</span>

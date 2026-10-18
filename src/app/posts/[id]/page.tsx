@@ -409,23 +409,29 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
           </div>
         </div>
 
-        {/* 施設アイキャッチ大画像 */}
+        {/* 施設アイキャッチ大画像（Google Discover max-image-preview:large 対応） */}
         <div className="relative aspect-[1004/670] w-full rounded-2xl overflow-hidden border border-emerald-950/5 shadow-md bg-emerald-950/5 flex items-center justify-center">
           {post.image ? (
             <>
               {/* 背景の雰囲気を満たすブラーバックグラウンド */}
               <img
                 src={post.image}
-                alt={`${post.hotel_name} 背景イメージ`} className="absolute inset-0 w-full h-full object-cover blur-md opacity-30 scale-105 pointer-events-none"
+                alt={`${post.hotel_name} 背景イメージ`}
+                className="absolute inset-0 w-full h-full object-cover blur-md opacity-30 scale-105 pointer-events-none"
                 aria-hidden="true"
-              loading="lazy" decoding="async" />
+                loading="lazy"
+                decoding="async"
+              />
               {/* 全体が見切れないメイン画像 */}
               <img
                 src={post.image}
-                alt={`${post.hotel_name} - ${post.prefecture}観光ガイド`}
+                alt={`${post.hotel_name}（${post.prefecture}・${post.area}）の外観・客室・温泉イメージ`}
+                width={1200}
+                height={800}
                 className="relative z-10 max-w-full max-h-full w-auto h-auto object-contain"
                 loading="eager"
                 fetchPriority="high"
+                decoding="async"
               />
             </>
           ) : (
@@ -439,82 +445,118 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
         <SpecialCouponBanner />
 
         {/* 目次 ＆ 読了目安時間 */}
-        <ArticleTableOfContents
-          hasGallery={Boolean(post.other_images && post.other_images.length > 0)}
-          hasFaq={!post.is_special_feature}
-          hasSpots={true}
-          isSpecialFeature={post.is_special_feature}
-          wordCount={(post.review || "").length}
-        />
+        {(() => {
+          const safePrefForToc = post.prefecture || "";
+          const cleanPrefForToc = safePrefForToc.replace(/(県|府|東京都)$/, "");
+          const hasMatchedSpots = SPOTS_DATA.some(s => {
+            const textToSearch = `${post.title || ""} ${post.hotel_name || ""} ${post.area || ""} ${post.review || ""}`.toLowerCase();
+            const isPrefMatch = s.prefName === safePrefForToc || s.prefName.replace(/(県|府|東京都)$/, "") === cleanPrefForToc;
+            return isPrefMatch && s.hotelKeywords.some(kw => textToSearch.includes(kw.toLowerCase()));
+          });
+          return (
+            <ArticleTableOfContents
+              hasGallery={Boolean(post.other_images && post.other_images.length > 0)}
+              hasFaq={true}
+              hasSpots={!post.is_special_feature && hasMatchedSpots}
+              isSpecialFeature={post.is_special_feature}
+              wordCount={(post.review || "").length}
+            />
+          );
+        })()}
 
-        {/* 宿情報サマリーからギャラリーまでは通常記事のみ表示 */}
+        {/* 宿情報サマリー（GEO対応セマンティックHTML <table>）からギャラリーまでは通常記事のみ表示 */}
         {!post.is_special_feature && (
           <>
-            {/* 宿情報サマリー */}
-            <div id="section-summary" className="scroll-mt-24 grid grid-cols-1 sm:grid-cols-2 gap-4 p-6 rounded-2xl bg-emerald-50/20 border border-emerald-950/5 text-xs text-emerald-950">
-              <div className="space-y-1">
-                <span className="text-teal-900/50 font-extrabold uppercase tracking-wider block text-[9px]">正式宿泊施設名</span>
-                <span className="font-bold text-sm text-teal-950">
-                  {post.hotel_name}
-                </span>
+            <div id="section-summary" className="scroll-mt-24 rounded-2xl overflow-hidden border border-teal-900/15 bg-white shadow-sm">
+              <div className="bg-gradient-to-r from-teal-900 to-emerald-900 px-5 py-3.5 flex flex-wrap items-center justify-between gap-2">
+                <h2 className="text-xs md:text-sm font-black text-white flex items-center gap-2 m-0">
+                  <span>📊</span>
+                  <span>【施設基本スペック早見表】{post.hotel_name}（楽天トラベル公式データ連携）</span>
+                </h2>
+                <a
+                  href={post.affiliate_url}
+                  target="_blank"
+                  rel="sponsored noopener noreferrer"
+                  className="text-[11px] font-black bg-amber-400 hover:bg-amber-300 text-teal-950 px-3 py-1 rounded-lg transition shadow-sm"
+                >
+                  空室・最安値プランを見る ➔
+                </a>
               </div>
-              {post.price && (
-                <div className="space-y-1">
-                  <span className="text-teal-900/50 font-extrabold uppercase tracking-wider block text-[9px]">参考最安価格</span>
-                  <span className="font-black text-amber-700 text-sm">
-                    消費税込 ¥{Number(post.price).toLocaleString()}〜 / 人
-                  </span>
-                </div>
-              )}
+              <div className="overflow-x-auto">
+                <table className="w-full text-left border-collapse text-xs md:text-sm">
+                  <tbody className="divide-y divide-emerald-950/10">
+                    <tr className="bg-emerald-50/20">
+                      <th scope="row" className="py-3 px-4 font-extrabold text-teal-950 w-1/3 sm:w-1/4 bg-teal-50/50 whitespace-nowrap">正式宿泊施設名</th>
+                      <td className="py-3 px-4 font-bold text-emerald-950">{post.hotel_name}</td>
+                    </tr>
+                    <tr>
+                      <th scope="row" className="py-3 px-4 font-extrabold text-teal-950 bg-teal-50/50 whitespace-nowrap">所在地・エリア</th>
+                      <td className="py-3 px-4 font-medium text-emerald-950">{post.prefecture}（{post.area}エリア）</td>
+                    </tr>
+                    {post.rating && (
+                      <tr className="bg-emerald-50/20">
+                        <th scope="row" className="py-3 px-4 font-extrabold text-teal-950 bg-teal-50/50 whitespace-nowrap">楽天トラベル評価</th>
+                        <td className="py-3 px-4 font-black text-amber-600">
+                          ⭐ {post.rating}
+                          {post.review_count ? <span className="text-emerald-950/70 font-bold ml-1.5">（口コミ {Number(post.review_count).toLocaleString()}件）</span> : null}
+                        </td>
+                      </tr>
+                    )}
+                    {post.price && (
+                      <tr>
+                        <th scope="row" className="py-3 px-4 font-extrabold text-teal-950 bg-teal-50/50 whitespace-nowrap">参考最安料金</th>
+                        <td className="py-3 px-4 font-black text-amber-700">
+                          消費税込 ¥{Number(post.price).toLocaleString()}〜 / 人
+                          <span className="text-[10px] text-emerald-950/50 font-normal ml-2">※日程・人数により変動</span>
+                        </td>
+                      </tr>
+                    )}
+                    {post.hot_spring_info && (
+                      <tr className="bg-emerald-50/20">
+                        <th scope="row" className="py-3 px-4 font-extrabold text-teal-950 bg-teal-50/50 whitespace-nowrap">温泉・大浴場</th>
+                        <td className="py-3 px-4 font-medium text-emerald-950">{post.hot_spring_info}</td>
+                      </tr>
+                    )}
+                    {post.meal_availability && (
+                      <tr>
+                        <th scope="row" className="py-3 px-4 font-extrabold text-teal-950 bg-teal-50/50 whitespace-nowrap">食事プラン（朝・夕）</th>
+                        <td className="py-3 px-4 font-medium text-emerald-950">{post.meal_availability}</td>
+                      </tr>
+                    )}
+                    {post.parking_info && (
+                      <tr className="bg-emerald-50/20">
+                        <th scope="row" className="py-3 px-4 font-extrabold text-teal-950 bg-teal-50/50 whitespace-nowrap">駐車場情報</th>
+                        <td className="py-3 px-4 font-medium text-emerald-950">{post.parking_info}</td>
+                      </tr>
+                    )}
+                    {post.family_friendly && (
+                      <tr>
+                        <th scope="row" className="py-3 px-4 font-extrabold text-teal-950 bg-teal-50/50 whitespace-nowrap">子連れ・ファミリー</th>
+                        <td className="py-3 px-4 font-medium text-emerald-950">{post.family_friendly}</td>
+                      </tr>
+                    )}
+                    {post.recommended_for && post.recommended_for.length > 0 && (
+                      <tr className="bg-emerald-50/20">
+                        <th scope="row" className="py-3 px-4 font-extrabold text-teal-950 bg-teal-50/50 whitespace-nowrap">おすすめの旅行層</th>
+                        <td className="py-3 px-4 font-bold text-teal-900">{post.recommended_for.join(" ・ ")}</td>
+                      </tr>
+                    )}
+                    {post.nearby_tourist_spots && post.nearby_tourist_spots.length > 0 && (
+                      <tr>
+                        <th scope="row" className="py-3 px-4 font-extrabold text-teal-950 bg-teal-50/50 whitespace-nowrap">周辺の観光スポット</th>
+                        <td className="py-3 px-4 font-medium text-emerald-950">{post.nearby_tourist_spots.join(" ／ ")}</td>
+                      </tr>
+                    )}
+                    {post.nearby_gourmet && post.nearby_gourmet.length > 0 && (
+                      <tr className="bg-emerald-50/20">
+                        <th scope="row" className="py-3 px-4 font-extrabold text-teal-950 bg-teal-50/50 whitespace-nowrap">周辺の名物グルメ</th>
+                        <td className="py-3 px-4 font-medium text-emerald-950">{post.nearby_gourmet.join(" ／ ")}</td>
+                      </tr>
+                    )}
+                  </tbody>
+                </table>
+              </div>
             </div>
-
-            {/* 宿泊施設 詳細情報 */}
-            { (post.recommended_for || post.nearby_tourist_spots || post.parking_info || post.family_friendly || post.hot_spring_info || post.nearby_gourmet || post.meal_availability) && (
-              <div id="section-features" className="scroll-mt-24 grid grid-cols-1 md:grid-cols-2 gap-4 p-6 rounded-2xl bg-teal-50/30 border border-teal-900/10 text-sm mt-4">
-                {post.recommended_for && post.recommended_for.length > 0 && (
-                  <div className="space-y-1">
-                    <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">この宿がおすすめな人</span>
-                    <p className="font-bold text-teal-950">{post.recommended_for.join(" / ")}</p>
-                  </div>
-                )}
-                {post.nearby_tourist_spots && post.nearby_tourist_spots.length > 0 && (
-                  <div className="space-y-1">
-                    <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">徒歩で行ける観光地</span>
-                    <p className="font-bold text-teal-950">{post.nearby_tourist_spots.join(" / ")}</p>
-                  </div>
-                )}
-                {post.parking_info && (
-                  <div className="space-y-1">
-                    <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">駐車場事情</span>
-                    <p className="font-bold text-teal-950">{post.parking_info}</p>
-                  </div>
-                )}
-                {post.family_friendly && (
-                  <div className="space-y-1">
-                    <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">子連れ向けか</span>
-                    <p className="font-bold text-teal-950">{post.family_friendly}</p>
-                  </div>
-                )}
-                {post.hot_spring_info && (
-                  <div className="space-y-1">
-                    <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">温泉情報</span>
-                    <p className="font-bold text-teal-950">{post.hot_spring_info}</p>
-                  </div>
-                )}
-                {post.nearby_gourmet && post.nearby_gourmet.length > 0 && (
-                  <div className="space-y-1">
-                    <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">周辺グルメ</span>
-                    <p className="font-bold text-teal-950">{post.nearby_gourmet.join(" / ")}</p>
-                  </div>
-                )}
-                {post.meal_availability && (
-                  <div className="space-y-1">
-                    <span className="text-teal-900/60 font-extrabold uppercase text-[10px]">朝食や夕食の有無</span>
-                    <p className="font-bold text-teal-950">{post.meal_availability}</p>
-                  </div>
-                )}
-              </div>
-            )}
 
             {/* 宿の近くにある周辺の観光名所ガイド */}
             {(() => {
@@ -538,7 +580,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
                     {matchedSpots.map(spot => (
                       <Link
                         key={spot.slug}
-                        href={`/spots/${spot.slug}`}
+                        href={`/spots/${spot.slug}/`}
                         className="text-xs font-bold text-amber-950 bg-white hover:bg-amber-600 hover:text-white border border-amber-300/80 px-4 py-2 rounded-xl transition shadow-sm flex items-center gap-1.5"
                       >
                         <span>📍</span>
@@ -565,9 +607,12 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
                     >
                       <img
                         src={imgUrl}
-                        alt={`${post.hotel_name} ギャラリー写真 ${idx + 1}`}
+                        alt={`${post.hotel_name}（${post.prefecture}）施設ギャラリー写真 ${idx + 1}`}
+                        width={600}
+                        height={338}
                         className="w-full h-full object-cover"
                         loading="lazy"
+                        decoding="async"
                       />
                     </div>
                   ))}
@@ -720,6 +765,9 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
           currentPostId={post.id}
           prefecture={post.prefecture}
           allPosts={allPosts}
+          currentArea={post.area}
+          currentCategories={post.categories}
+          isSpecialFeature={post.is_special_feature}
         />
 
       </div>

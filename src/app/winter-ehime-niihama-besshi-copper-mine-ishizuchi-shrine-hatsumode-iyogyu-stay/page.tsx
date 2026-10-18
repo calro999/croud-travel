@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { Star, MapPin, Calendar, Compass, ShieldCheck, Heart, Sparkles, ExternalLink, ChevronRight } from 'lucide-react';
@@ -189,7 +190,7 @@ export default function Page() {
                 冬の厳選特集
               </Link>
               <ChevronRight className="w-3 h-3 text-cyan-400" />
-              <Link href="/prefectures/ehime" className="text-cyan-200 hover:text-white transition-colors">
+              <Link href="/prefectures/ehime/" className="text-cyan-200 hover:text-white transition-colors">
                 愛媛県
               </Link>
               <ChevronRight className="w-3 h-3 text-cyan-400" />
@@ -754,7 +755,7 @@ export default function Page() {
             </h3>
             <ul className="grid grid-cols-1 sm:grid-cols-2 gap-3">
               <li>
-                <Link href="/prefectures/ehime" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+                <Link href="/prefectures/ehime/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                   <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                   <span>愛媛県のおすすめ観光名所＆温泉宿一覧</span>
                 </Link>

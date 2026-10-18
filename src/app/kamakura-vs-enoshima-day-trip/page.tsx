@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kamakura-vs-enoshima-day-trip/" },
-  title: "鎌倉 vs 江の島 日帰りならどっち？：半日・1日コース別の楽しみ方＆費用を厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "鎌倉 vs 江の島 日帰りならどっち？：半日・1日コース別の楽しみ方＆費用を厳選ガイド",
   description: "鎌倉と江の島、日帰りで行くならどっちがおすすめ？半日しかないなら鎌倉（大仏＆小町通り食べ歩き）、1日あるなら両方ハシゴ（江ノ電で20分）。拝観料・食べ歩き費用・モデルコースを時間帯別に完全ガイド。",
   keywords: ["鎌倉", "vs", "江の島", "日帰りならどっち？", "半日", "1日コース別の楽しみ方", "費用を"],
   openGraph: {
-    title: "鎌倉 vs 江の島 日帰りならどっち？：半日・1日コース別の楽しみ方＆費用を厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "鎌倉 vs 江の島 日帰りならどっち？：半日・1日コース別の楽しみ方＆費用を厳選ガイド",
     description: "鎌倉と江の島、日帰りで行くならどっちがおすすめ？半日しかないなら鎌倉（大仏＆小町通り食べ歩き）、1日あるなら両方ハシゴ（江ノ電で20分）。拝観料・食べ歩き費用・モデルコースを時間帯別に完全ガイド。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "鎌倉 vs 江の島 日帰りならどっち？：半日・1日コース別の楽しみ方＆費用を厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "鎌倉 vs 江の島 日帰りならどっち？：半日・1日コース別の楽しみ方＆費用を厳選ガイド",
     description: "鎌倉と江の島、日帰りで行くならどっちがおすすめ？半日しかないなら鎌倉（大仏＆小町通り食べ歩き）、1日あるなら両方ハシゴ（江ノ電で20分）。拝観料・食べ歩き費用・モデルコースを時間帯別に完全ガイド。",
   }
 };
@@ -271,7 +271,7 @@ export default function KamakuraVsEnoshimaPage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="mt-auto block text-center bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-6 rounded-full transition-colors"
                     >
                       楽天トラベルで空室を見る
@@ -320,7 +320,7 @@ export default function KamakuraVsEnoshimaPage() {
                 <td className="p-3 text-stone-600">完全予約制。当ホテル公式ホームぺージをご覧ください。</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（724件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,797〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182420%2F182420.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182420%2F182420.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 古都鎌倉のリゾートホテル　ＷｅＢａｓｅ鎌倉</td>
@@ -329,7 +329,7 @@ export default function KamakuraVsEnoshimaPage() {
                 <td className="p-3 text-stone-600">事前予約制/台数限定/1泊3000円 （15時-翌11時）※12/31～1/3はご利用不可</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（328件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F161178%2F161178.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F161178%2F161178.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. Hotel　鎌倉　mori</td>
@@ -338,7 +338,7 @@ export default function KamakuraVsEnoshimaPage() {
                 <td className="p-3 text-stone-600">有り　２台　1泊（15:00～翌10:00）2000円(税込）※必ず事前に電話にてご予約下さい。</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（471件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37896%2F37896.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F37896%2F37896.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 江の島ホテル</td>
@@ -347,7 +347,7 @@ export default function KamakuraVsEnoshimaPage() {
                 <td className="p-3 text-stone-600">提携：観光協会江の島駐車場　駐車チケット(24時間/2,000円)のお取り扱い有　その他駐車場は除外</td>
                 <td className="p-3 font-bold text-amber-600">★4.19（175件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,400〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179415%2F179415.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179415%2F179415.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 天然温泉　伝馬の湯　スーパーホテル湘南・藤沢駅南口</td>
@@ -356,7 +356,7 @@ export default function KamakuraVsEnoshimaPage() {
                 <td className="p-3 text-stone-600">■提携駐車場■タイムズ藤沢リラパーキング・台数：137台（先着順）入庫後24時間1,200円</td>
                 <td className="p-3 font-bold text-amber-600">★4.46（1614件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,830〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172349%2F172349.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172349%2F172349.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. ８ｈｏｔｅｌ湘南藤沢（エイトホテル湘南藤沢）</td>
@@ -365,7 +365,7 @@ export default function KamakuraVsEnoshimaPage() {
                 <td className="p-3 text-stone-600">提携駐車場有、タイムズ藤沢石上第九駐車場（先着順）入庫後24H￥1,200</td>
                 <td className="p-3 font-bold text-amber-600">★4.09（2181件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,270〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130658%2F130658.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F130658%2F130658.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

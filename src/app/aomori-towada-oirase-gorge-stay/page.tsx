@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/aomori-towada-oirase-gorge-stay/" },
-  title: "青森・十和田湖＆奥入瀬渓流：特別名勝奥入瀬・銚子大滝＆十和田バラ焼き・ヒメマス宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "青森・十和田湖＆奥入瀬渓流：特別名勝奥入瀬・銚子大滝＆十和田バラ焼き・ヒメマス宿 厳選ガイド",
   description: "苔むす渓流とブナの原生林・青森奥入瀬＆十和田湖エリア完全特化！国の特別名勝・天然記念物「奥入瀬渓流（阿修羅の流れ・銚子大滝）」、神秘の「十和田湖遊覧船・十和田神社」、星野リゾート奥入瀬渓流ホテル、名物「十和田バラ焼き・ヒメマス宿」を徹底解説。",
   keywords: ["青森", "十和田湖", "奥入瀬渓流", "特別名勝奥入瀬", "銚子大滝", "十和田バラ焼き", "ヒメマス宿"],
   openGraph: {
-    title: "青森・十和田湖＆奥入瀬渓流：特別名勝奥入瀬・銚子大滝＆十和田バラ焼き・ヒメマス宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "青森・十和田湖＆奥入瀬渓流：特別名勝奥入瀬・銚子大滝＆十和田バラ焼き・ヒメマス宿 厳選ガイド",
     description: "苔むす渓流とブナの原生林・青森奥入瀬＆十和田湖エリア完全特化！国の特別名勝・天然記念物「奥入瀬渓流（阿修羅の流れ・銚子大滝）」、神秘の「十和田湖遊覧船・十和田神社」、星野リゾート奥入瀬渓流ホテル、名物「十和田バラ焼き・ヒメマス宿」を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "青森・十和田湖＆奥入瀬渓流：特別名勝奥入瀬・銚子大滝＆十和田バラ焼き・ヒメマス宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "青森・十和田湖＆奥入瀬渓流：特別名勝奥入瀬・銚子大滝＆十和田バラ焼き・ヒメマス宿 厳選ガイド",
     description: "苔むす渓流とブナの原生林・青森奥入瀬＆十和田湖エリア完全特化！国の特別名勝・天然記念物「奥入瀬渓流（阿修羅の流れ・銚子大滝）」、神秘の「十和田湖遊覧船・十和田神社」、星野リゾート奥入瀬渓流ホテル、名物「十和田バラ焼き・ヒメマス宿」を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">有り　１００台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.28（1276件）</td>
                 <td className="p-3 font-bold text-rose-600">¥29,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40434%2F40434.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40434%2F40434.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 十和田湖畔温泉　ホテル十和田荘</td>
@@ -261,7 +261,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★3.87（0件）</td>
                 <td className="p-3 font-bold text-rose-600">¥7,700〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9688%2F9688.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9688%2F9688.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 十和田湖畔温泉　とわだこ賑山亭</td>
@@ -270,7 +270,7 @@ export default function MicroTouristHubPage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.1（0件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14840%2F14840.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14840%2F14840.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

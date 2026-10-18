@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/new-year-hatsumode-onsen/" },
-  title: "年末年始・お正月：初詣＆初日の出ご来光温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "年末年始・お正月：初詣＆初日の出ご来光温泉旅館 厳選ガイド",
   description: "新しい年の幕開け！伊勢神宮（三重）、鶴岡八幡宮（鎌倉）、成田山新勝寺（千葉）、犬吠埼温泉（本州最速初日の出）など、初詣と温泉おせち料理を堪能できる年末年始の人気宿を徹底解説。",
   keywords: ["年末年始", "お正月", "初詣", "初日の出ご来光温泉旅館", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "年末年始・お正月：初詣＆初日の出ご来光温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "年末年始・お正月：初詣＆初日の出ご来光温泉旅館 厳選ガイド",
     description: "新しい年の幕開け！伊勢神宮（三重）、鶴岡八幡宮（鎌倉）、成田山新勝寺（千葉）、犬吠埼温泉（本州最速初日の出）など、初詣と温泉おせち料理を堪能できる年末年始の人気宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "年末年始・お正月：初詣＆初日の出ご来光温泉旅館 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "年末年始・お正月：初詣＆初日の出ご来光温泉旅館 厳選ガイド",
     description: "新しい年の幕開け！伊勢神宮（三重）、鶴岡八幡宮（鎌倉）、成田山新勝寺（千葉）、犬吠埼温泉（本州最速初日の出）など、初詣と温泉おせち料理を堪能できる年末年始の人気宿を徹底解説。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

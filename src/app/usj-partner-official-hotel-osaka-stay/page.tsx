@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/usj-partner-official-hotel-osaka-stay/" },
-  title: "ユニバーサル・スタジオ・ジャパン（USJ）公認ホテル：オフィシャルホテル＆駅直結宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "ユニバーサル・スタジオ・ジャパン（USJ）公認ホテル：オフィシャルホテル＆駅直結宿 厳選ガイド",
   description: "パークまで徒歩数分の感動体験！ユニバーサル・スタジオ・ジャパン（USJ）オフィシャルホテル完全特化！ユニバーサルシティ駅直結、ミニオンやセサミストリートのキャラクタールーム、パークチケット確約、展望天然温泉スパ宿を徹底解説。",
   keywords: ["ユニバーサル", "スタジオ", "ジャパン（USJ）公認ホテル", "オフィシャルホテル", "駅直結宿", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "ユニバーサル・スタジオ・ジャパン（USJ）公認ホテル：オフィシャルホテル＆駅直結宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "ユニバーサル・スタジオ・ジャパン（USJ）公認ホテル：オフィシャルホテル＆駅直結宿 厳選ガイド",
     description: "パークまで徒歩数分の感動体験！ユニバーサル・スタジオ・ジャパン（USJ）オフィシャルホテル完全特化！ユニバーサルシティ駅直結、ミニオンやセサミストリートのキャラクタールーム、パークチケット確約、展望天然温泉スパ宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "ユニバーサル・スタジオ・ジャパン（USJ）公認ホテル：オフィシャルホテル＆駅直結宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "ユニバーサル・スタジオ・ジャパン（USJ）公認ホテル：オフィシャルホテル＆駅直結宿 厳選ガイド",
     description: "パークまで徒歩数分の感動体験！ユニバーサル・スタジオ・ジャパン（USJ）オフィシャルホテル完全特化！ユニバーサルシティ駅直結、ミニオンやセサミストリートのキャラクタールーム、パークチケット確約、展望天然温泉スパ宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function ThemeParkActivityHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

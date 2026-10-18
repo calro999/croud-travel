@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kusatsu-onsen-travel-budget-guide/" },
-  title: "草津温泉旅行 費用：1泊2日いくらかかる？東京からの交通費＆湯畑周辺の宿泊費を完全計算 ｜ 日本全国・旅宿クラウド",
+  title: "草津温泉旅行 費用：1泊2日いくらかかる？東京からの交通費＆湯畑周辺の宿泊費を完全計算",
   description: "草津温泉旅行の1泊2日費用を完全解説！東京からの直行バス（3,600円〜）vs 特急草津（6,100円）の交通費比較、湯畑徒歩圏の温泉旅館の宿泊費（8,000〜40,000円）、湯もみショー・西の河原露天風呂の体験費用まで。",
   keywords: ["草津温泉旅行", "費用", "湯畑周辺の宿泊費を完全計算", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "草津温泉旅行 費用：1泊2日いくらかかる？東京からの交通費＆湯畑周辺の宿泊費を完全計算 ｜ 日本全国・旅宿クラウド",
+    title: "草津温泉旅行 費用：1泊2日いくらかかる？東京からの交通費＆湯畑周辺の宿泊費を完全計算",
     description: "草津温泉旅行の1泊2日費用を完全解説！東京からの直行バス（3,600円〜）vs 特急草津（6,100円）の交通費比較、湯畑徒歩圏の温泉旅館の宿泊費（8,000〜40,000円）、湯もみショー・西の河原露天風呂の体験費用まで。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "草津温泉旅行 費用：1泊2日いくらかかる？東京からの交通費＆湯畑周辺の宿泊費を完全計算 ｜ 日本全国・旅宿クラウド",
+    title: "草津温泉旅行 費用：1泊2日いくらかかる？東京からの交通費＆湯畑周辺の宿泊費を完全計算",
     description: "草津温泉旅行の1泊2日費用を完全解説！東京からの直行バス（3,600円〜）vs 特急草津（6,100円）の交通費比較、湯畑徒歩圏の温泉旅館の宿泊費（8,000〜40,000円）、湯もみショー・西の河原露天風呂の体験費用まで。",
   }
 };
@@ -218,7 +218,7 @@ export default function KusatsuBudgetGuidePage() {
                       </div>
                     )}
                   </div>
-                  <a href={hotel.affiliateUrl} target="_blank" rel="noopener noreferrer" className="mt-4 block w-full text-center py-2.5 text-xs font-bold text-white bg-slate-800 hover:bg-black rounded-xl transition">
+                  <a href={hotel.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer" className="mt-4 block w-full text-center py-2.5 text-xs font-bold text-white bg-slate-800 hover:bg-black rounded-xl transition">
                     宿泊プランを見る
                   </a>
                 </div>
@@ -258,7 +258,7 @@ export default function KusatsuBudgetGuidePage() {
                 <td className="p-3 text-stone-600">湯畑観光駐車場1階　ご来館時に当日15時〜翌日10時までの駐車サービス券をお渡ししております。</td>
                 <td className="p-3 font-bold text-amber-600">★4.74（593件）</td>
                 <td className="p-3 font-bold text-rose-600">¥11,900〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31675%2F31675.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31675%2F31675.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 草津温泉　十二屋旅館</td>
@@ -267,7 +267,7 @@ export default function KusatsuBudgetGuidePage() {
                 <td className="p-3 text-stone-600">有　10台　無料　（７台目以降はつめこみ駐車です）　当日は１３時から駐車可能</td>
                 <td className="p-3 font-bold text-amber-600">★3.67（278件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41000%2F41000.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41000%2F41000.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 草津温泉　松坂屋旅館＜群馬県＞</td>
@@ -276,7 +276,7 @@ export default function KusatsuBudgetGuidePage() {
                 <td className="p-3 text-stone-600">有／無料（普通乗用車のみ・必ず事前にご利用の有無をお知らせ下さい）</td>
                 <td className="p-3 font-bold text-amber-600">★4.16（60件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F136294%2F136294.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F136294%2F136294.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 草津温泉　湯畑草菴（そうあん）</td>
@@ -285,7 +285,7 @@ export default function KusatsuBudgetGuidePage() {
                 <td className="p-3 text-stone-600">無し　※姉妹館「草津ナウリゾートホテル」の駐車場を無料でご利用いただけます。往復シャトルバス運行中。</td>
                 <td className="p-3 font-bold text-amber-600">★4.45（417件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139908%2F139908.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139908%2F139908.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 草津温泉　湯畑泉水</td>
@@ -294,7 +294,7 @@ export default function KusatsuBudgetGuidePage() {
                 <td className="p-3 text-stone-600">無し※姉妹館「草津ナウリゾートホテル」の駐車場を無料でご利用いただけます。往復シャトルバス運行中。</td>
                 <td className="p-3 font-bold text-amber-600">★4.72（298件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F189254%2F189254.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F189254%2F189254.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 亀の井ホテル　草津湯畑</td>
@@ -303,7 +303,7 @@ export default function KusatsuBudgetGuidePage() {
                 <td className="p-3 text-stone-600">敷地25台+近隣駐車場（無料）アクセスページの駐車場MAPをご確認ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.04（832件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,510〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183532%2F183532.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183532%2F183532.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

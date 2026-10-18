@@ -237,6 +237,8 @@ export default function HakoneVsAtamiPage() {
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"箱根と熱海、日帰りで行くならどちらがおすすめですか？","acceptedAnswer":{"@type":"Answer","text":"日帰りなら圧倒的に熱海がおすすめ。東京駅から東海道線普通列車で約1時間40分（1,980円）、新幹線なら約45分で到着し、駅前から熱海銀座商店街やサンビーチまで徒歩圏内。移動に時間を取られずランチ・温泉・海散歩をコンパクトに満喫できます。"}},{"@type":"Question","name":"1泊2日で記念日や贅沢な温泉旅行をするなら？","acceptedAnswer":{"@type":"Answer","text":"1泊2日なら箱根が優勢です。箱根フリーパスを活用して登山電車、ケーブルカー、大涌谷ロープウェイ、芦ノ湖海賊船をぐるりと周遊でき、強羅や仙石原のにごり湯・隠れ家露天風呂旅館で非日常のステイを楽しめます。"}},{"@type":"Question","name":"海鮮グルメが目的ならどちらが満足度が高い？","acceptedAnswer":{"@type":"Answer","text":"海鮮料理なら相模湾の地魚・金目鯛煮付け・海鮮丼が充実している熱海の圧勝です。一方、箱根は名水仕込みの湯葉・豆腐料理、大涌谷の黒たまご、老舗ホテルのベーカリーなど山のリゾートグルメが充実しています。"}}]}) }}
         />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       </section>
     
       {hotels.length > 0 && (
@@ -260,7 +262,7 @@ export default function HakoneVsAtamiPage() {
                       <a
                         href={hotel.affiliateUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="sponsored noopener noreferrer"
                         className="bg-slate-800 hover:bg-slate-700 text-white text-xs px-4 py-2 rounded-full transition-colors"
                       >
                         予約サイトへ
@@ -340,7 +342,7 @@ export default function HakoneVsAtamiPage() {
                 <td className="p-3 text-stone-600">有り　４台　要予約(1000円／泊)　※空車状況に関しては施設に直接ご連絡ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（93件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178290%2F178290.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178290%2F178290.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 箱根小涌園　三河屋旅館</td>
@@ -349,7 +351,7 @@ export default function HakoneVsAtamiPage() {
                 <td className="p-3 text-stone-600">有り　１５台　無料　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（63件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181128%2F181128.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181128%2F181128.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 箱根湯本温泉　吉池旅館</td>
@@ -358,7 +360,7 @@ export default function HakoneVsAtamiPage() {
                 <td className="p-3 text-stone-600">有り　６５台　無料　予約不要　※屋根付駐車場あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（525件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,320〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108157%2F108157.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108157%2F108157.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 熱海温泉　ホテル　サンミ倶楽部</td>
@@ -367,7 +369,7 @@ export default function HakoneVsAtamiPage() {
                 <td className="p-3 text-stone-600">50台　有料（1100円）※ご利用時間はご宿泊日の12時からチェックアウト日の10時までとなります。</td>
                 <td className="p-3 font-bold text-amber-600">★3.92（969件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,352〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15680%2F15680.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15680%2F15680.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 熱海温泉　ウオミサキホテル（伊東園ホテルズ）</td>
@@ -376,7 +378,7 @@ export default function HakoneVsAtamiPage() {
                 <td className="p-3 text-stone-600">有り　３０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★3.68（1013件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,698〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F75267%2F75267.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F75267%2F75267.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 熱海温泉ホテル　夢いろは</td>
@@ -385,7 +387,7 @@ export default function HakoneVsAtamiPage() {
                 <td className="p-3 text-stone-600">駐車場は一律1000円予約不可・先着順限定7台でのご案内となります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.12（2786件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,850〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29878%2F29878.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29878%2F29878.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

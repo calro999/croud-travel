@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hakone-travel-budget-guide/" },
-  title: "箱根旅行 費用：日帰り・1泊2日それぞれいくら？フリーパス活用の交通費＆温泉旅館の宿泊費シミュレーション ｜ 日本全国・旅宿クラウド",
+  title: "箱根旅行 費用：日帰り・1泊2日それぞれいくら？フリーパス活用の交通費＆温泉旅館の宿泊費シミュレーション",
   description: "箱根旅行の費用を日帰り・1泊2日で完全シミュレーション！箱根フリーパス（6,100円）で元を取る回り方、芦ノ湖・大涌谷・彫刻の森の入場料、箱根湯本・強羅・仙石原の温泉旅館相場まで全公開。",
   keywords: ["箱根旅行", "費用", "日帰り", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "箱根旅行 費用：日帰り・1泊2日それぞれいくら？フリーパス活用の交通費＆温泉旅館の宿泊費シミュレーション ｜ 日本全国・旅宿クラウド",
+    title: "箱根旅行 費用：日帰り・1泊2日それぞれいくら？フリーパス活用の交通費＆温泉旅館の宿泊費シミュレーション",
     description: "箱根旅行の費用を日帰り・1泊2日で完全シミュレーション！箱根フリーパス（6,100円）で元を取る回り方、芦ノ湖・大涌谷・彫刻の森の入場料、箱根湯本・強羅・仙石原の温泉旅館相場まで全公開。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "箱根旅行 費用：日帰り・1泊2日それぞれいくら？フリーパス活用の交通費＆温泉旅館の宿泊費シミュレーション ｜ 日本全国・旅宿クラウド",
+    title: "箱根旅行 費用：日帰り・1泊2日それぞれいくら？フリーパス活用の交通費＆温泉旅館の宿泊費シミュレーション",
     description: "箱根旅行の費用を日帰り・1泊2日で完全シミュレーション！箱根フリーパス（6,100円）で元を取る回り方、芦ノ湖・大涌谷・彫刻の森の入場料、箱根湯本・強羅・仙石原の温泉旅館相場まで全公開。",
   }
 };
@@ -200,7 +200,7 @@ export default function HakoneBudgetGuidePage() {
                       <div className="text-[10px] font-bold text-orange-600 mt-1">⭐ {hotel.reviewAverage}点（{hotel.reviewCount}件）</div>
                     )}
                   </div>
-                  <a href={hotel.affiliateUrl} target="_blank" rel="noopener noreferrer" className="block w-full text-center py-2 text-xs font-bold text-orange-700 bg-orange-100 hover:bg-orange-200 rounded-xl transition">
+                  <a href={hotel.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer" className="block w-full text-center py-2 text-xs font-bold text-orange-700 bg-orange-100 hover:bg-orange-200 rounded-xl transition">
                     空室・プランを見る
                   </a>
                 </div>
@@ -240,7 +240,7 @@ export default function HakoneBudgetGuidePage() {
                 <td className="p-3 text-stone-600">有り　４台　要予約(1000円／泊)　※空車状況に関しては施設に直接ご連絡ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.6（93件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178290%2F178290.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178290%2F178290.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 箱根小涌園　三河屋旅館</td>
@@ -249,7 +249,7 @@ export default function HakoneBudgetGuidePage() {
                 <td className="p-3 text-stone-600">有り　１５台　無料　要予約</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（63件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181128%2F181128.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181128%2F181128.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 箱根湯本温泉　吉池旅館</td>
@@ -258,7 +258,7 @@ export default function HakoneBudgetGuidePage() {
                 <td className="p-3 text-stone-600">有り　６５台　無料　予約不要　※屋根付駐車場あり</td>
                 <td className="p-3 font-bold text-amber-600">★4.4（525件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,320〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108157%2F108157.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108157%2F108157.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 箱根湯本温泉　伊東園ホテル　箱根湯本</td>
@@ -267,7 +267,7 @@ export default function HakoneBudgetGuidePage() {
                 <td className="p-3 text-stone-600">屋根付きあり　収容台数36台　1部屋あたり1台までとさせていただいております</td>
                 <td className="p-3 font-bold text-amber-600">★4（642件）</td>
                 <td className="p-3 font-bold text-rose-600">¥9,548〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40781%2F40781.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40781%2F40781.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 箱根湯本温泉　ホテル河鹿荘＜神奈川県＞</td>
@@ -276,7 +276,7 @@ export default function HakoneBudgetGuidePage() {
                 <td className="p-3 text-stone-600">有　40台　無料　※但し満車の場合は近隣の有料駐車場へのご案内となります。</td>
                 <td className="p-3 font-bold text-amber-600">★4.26（616件）</td>
                 <td className="p-3 font-bold text-rose-600">¥15,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31708%2F31708.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31708%2F31708.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月</td>
@@ -285,7 +285,7 @@ export default function HakoneBudgetGuidePage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（6648件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19786%2F19786.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19786%2F19786.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

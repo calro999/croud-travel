@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-steam-locomotive-sl-retro-train-stay/" },
-  title: "SL蒸気機関車＆レトロ列車旅：大井川鐵道・SLばんえつ物語＆温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "SL蒸気機関車＆レトロ列車旅：大井川鐵道・SLばんえつ物語＆温泉宿 厳選ガイド",
   description: "汽笛と白煙のノスタルジー！全国の現役SL（蒸気機関車）運行路線＆駅近温泉宿完全特化！静岡「大井川鐵道（きかんしゃトーマス号）」、福島＆新潟「SLばんえつ物語」、秩父鉄道「SLパレオエクスプレス」、寸又峡温泉・東山温泉宿を徹底解説。",
   keywords: ["SL蒸気機関車", "レトロ列車旅", "大井川鐵道", "SLばんえつ物語", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "SL蒸気機関車＆レトロ列車旅：大井川鐵道・SLばんえつ物語＆温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "SL蒸気機関車＆レトロ列車旅：大井川鐵道・SLばんえつ物語＆温泉宿 厳選ガイド",
     description: "汽笛と白煙のノスタルジー！全国の現役SL（蒸気機関車）運行路線＆駅近温泉宿完全特化！静岡「大井川鐵道（きかんしゃトーマス号）」、福島＆新潟「SLばんえつ物語」、秩父鉄道「SLパレオエクスプレス」、寸又峡温泉・東山温泉宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "SL蒸気機関車＆レトロ列車旅：大井川鐵道・SLばんえつ物語＆温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "SL蒸気機関車＆レトロ列車旅：大井川鐵道・SLばんえつ物語＆温泉宿 厳選ガイド",
     description: "汽笛と白煙のノスタルジー！全国の現役SL（蒸気機関車）運行路線＆駅近温泉宿完全特化！静岡「大井川鐵道（きかんしゃトーマス号）」、福島＆新潟「SLばんえつ物語」、秩父鉄道「SLパレオエクスプレス」、寸又峡温泉・東山温泉宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function RailwayActivityHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">有　４０台 無料　大型車も駐車可(要予約　大型車1泊￥1,000~となります。）</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（950件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29815%2F29815.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29815%2F29815.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 東山温泉　元湯有馬屋</td>
@@ -261,7 +261,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">有り　20台　先着順　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.63（80件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,250〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7330%2F7330.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7330%2F7330.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 会津東山温泉　くつろぎ宿　新滝</td>
@@ -270,7 +270,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">駐車場は80台まで無料で可能です★予約は不要です★大型車でのご来館は事前にご相談ください★</td>
                 <td className="p-3 font-bold text-amber-600">★4.65（2487件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7526%2F7526.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7526%2F7526.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 会津東山温泉　いろりの宿　芦名</td>
@@ -279,7 +279,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">有り　10台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.3（203件）</td>
                 <td className="p-3 font-bold text-rose-600">¥8,470〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5887%2F5887.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5887%2F5887.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 会津東山温泉　くつろぎ宿　千代滝</td>
@@ -288,7 +288,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">駐車場：70台有り／ 無料／すべて野外駐車場／予約は不要です</td>
                 <td className="p-3 font-bold text-amber-600">★4.49（2544件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,800〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5675%2F5675.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5675%2F5675.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. 秩父小鹿野温泉旅館　梁山泊</td>
@@ -297,7 +297,7 @@ export default function RailwayActivityHubPage() {
                 <td className="p-3 text-stone-600">100台以上駐車できる無料駐車場を完備</td>
                 <td className="p-3 font-bold text-amber-600">★4.2（787件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14195%2F14195.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14195%2F14195.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

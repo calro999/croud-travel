@@ -20,6 +20,29 @@ export default function ArticleTableOfContents({
   // 1分あたり約400文字想定
   const readingMinutes = Math.max(1, Math.ceil(wordCount / 400));
 
+  const items: { href: string; label: string; highlight?: boolean }[] = [];
+
+  if (isSpecialFeature) {
+    items.push({ href: "#section-report", label: "📊 結論早見表（厳選宿の比較一覧）＆本編解説" });
+    if (hasFaq) {
+      items.push({ href: "#section-faq", label: "❓ よくある質問（FAQ・お得な予約術）" });
+    }
+    items.push({ href: "#section-related", label: "🧭 あわせて読みたい同エリア・関連人気宿" });
+  } else {
+    items.push({ href: "#section-summary", label: "📊 施設基本スペック・最安料金早見表" });
+    if (hasSpots) {
+      items.push({ href: "#section-spots", label: "🗺️ 周辺の絶景観光名所ガイド" });
+    }
+    if (hasGallery) {
+      items.push({ href: "#section-gallery", label: "📷 施設ギャラリー（客室・お風呂・館内）" });
+    }
+    items.push({ href: "#section-report", label: "✍️ 旅ライターによる極上宿泊ルポ" });
+    items.push({ href: "#section-booking", label: "✈️ 楽天トラベル公式プラン・空室確認", highlight: true });
+    if (hasFaq) {
+      items.push({ href: "#section-faq", label: "❓ よくある質問（FAQ）" });
+    }
+  }
+
   return (
     <div className="bg-emerald-50/40 border border-emerald-900/10 rounded-2xl p-5 md:p-6 space-y-4">
       <div className="flex flex-wrap items-center justify-between gap-2 border-b border-emerald-950/10 pb-3">
@@ -33,67 +56,20 @@ export default function ArticleTableOfContents({
       </div>
 
       <nav className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs font-bold text-teal-950">
-        {!isSpecialFeature && (
+        {items.map((item, idx) => (
           <a
-            href="#section-summary"
-            className="flex items-center gap-2 p-2 rounded-xl hover:bg-teal-100/50 hover:text-teal-800 transition"
+            key={item.href}
+            href={item.href}
+            className={`flex items-center gap-2 p-2 rounded-xl hover:bg-teal-100/50 transition ${
+              item.highlight ? "hover:text-amber-700 text-amber-900" : "hover:text-teal-800"
+            }`}
           >
-            <span className="text-teal-700">1.</span>
-            <span>基本情報・宿泊参考価格</span>
+            <span className={item.highlight ? "text-amber-600 font-black" : "text-teal-700 font-black"}>
+              {idx + 1}.
+            </span>
+            <span>{item.label}</span>
           </a>
-        )}
-        {!isSpecialFeature && (
-          <a
-            href="#section-features"
-            className="flex items-center gap-2 p-2 rounded-xl hover:bg-teal-100/50 hover:text-teal-800 transition"
-          >
-            <span className="text-teal-700">2.</span>
-            <span>宿のおすすめ・駐車場・温泉情報</span>
-          </a>
-        )}
-        {hasSpots && (
-          <a
-            href="#section-spots"
-            className="flex items-center gap-2 p-2 rounded-xl hover:bg-teal-100/50 hover:text-teal-800 transition"
-          >
-            <span className="text-teal-700">3.</span>
-            <span>周辺の絶景観光名所ガイド</span>
-          </a>
-        )}
-        {hasGallery && (
-          <a
-            href="#section-gallery"
-            className="flex items-center gap-2 p-2 rounded-xl hover:bg-teal-100/50 hover:text-teal-800 transition"
-          >
-            <span className="text-teal-700">4.</span>
-            <span>施設ギャラリー（客室・温泉）</span>
-          </a>
-        )}
-        <a
-          href="#section-report"
-          className="flex items-center gap-2 p-2 rounded-xl hover:bg-teal-100/50 hover:text-teal-800 transition"
-        >
-          <span className="text-teal-700">5.</span>
-          <span>旅ライターによる極上宿泊ルポ</span>
-        </a>
-        {!isSpecialFeature && (
-          <a
-            href="#section-booking"
-            className="flex items-center gap-2 p-2 rounded-xl hover:bg-teal-100/50 hover:text-amber-700 transition"
-          >
-            <span className="text-amber-600">6.</span>
-            <span>楽天トラベル公式プラン・空室確認</span>
-          </a>
-        )}
-        {hasFaq && !isSpecialFeature && (
-          <a
-            href="#section-faq"
-            className="flex items-center gap-2 p-2 rounded-xl hover:bg-teal-100/50 hover:text-teal-800 transition"
-          >
-            <span className="text-teal-700">7.</span>
-            <span>よくある質問（FAQ）</span>
-          </a>
-        )}
+        ))}
       </nav>
     </div>
   );

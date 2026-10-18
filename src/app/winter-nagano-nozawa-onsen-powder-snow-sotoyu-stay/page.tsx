@@ -711,7 +711,7 @@ export default function NozawaWinterPage() {
           </div>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs sm:text-sm">
             <Link 
-              href="/prefectures/nagano" 
+              href="/prefectures/nagano/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-teal-50 hover:text-teal-700 transition font-medium border border-stone-100"
             >
               長野県の温泉宿・ホテル一覧 →
@@ -735,13 +735,13 @@ export default function NozawaWinterPage() {
               万座温泉 にごり湯特集 →
             </Link>
             <Link 
-              href="/prefectures/niigata" 
+              href="/prefectures/niigata/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-teal-50 hover:text-teal-700 transition font-medium border border-stone-100"
             >
               新潟県（湯沢・妙高）の宿 →
             </Link>
             <Link 
-              href="/prefectures/gunma" 
+              href="/prefectures/gunma/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-teal-50 hover:text-teal-700 transition font-medium border border-stone-100"
             >
               群馬県（草津・伊香保）の宿 →

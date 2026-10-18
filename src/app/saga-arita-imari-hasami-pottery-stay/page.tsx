@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/saga-arita-imari-hasami-pottery-stay/" },
-  title: "佐賀＆長崎・有田＆伊万里・波佐見：日本磁器発祥の地・トンバイ塀の窯元＆伊万里牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "佐賀＆長崎・有田＆伊万里・波佐見：日本磁器発祥の地・トンバイ塀の窯元＆伊万里牛宿 厳選ガイド",
   description: "400年の伝統を誇る肥前やきものロード完全特化！日本磁器のふるさと「有田焼（トンバイ塀・泉山磁石場）」、秘窯の里「伊万里・大川内山」、モダンで大人気の「波佐見焼（陶器市・西の原）」、武雄温泉、名物「伊万里牛・器の美食宿」を徹底解説。",
   keywords: ["佐賀", "長崎", "有田", "伊万里", "波佐見", "日本磁器発祥の地", "トンバイ塀の窯元"],
   openGraph: {
-    title: "佐賀＆長崎・有田＆伊万里・波佐見：日本磁器発祥の地・トンバイ塀の窯元＆伊万里牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "佐賀＆長崎・有田＆伊万里・波佐見：日本磁器発祥の地・トンバイ塀の窯元＆伊万里牛宿 厳選ガイド",
     description: "400年の伝統を誇る肥前やきものロード完全特化！日本磁器のふるさと「有田焼（トンバイ塀・泉山磁石場）」、秘窯の里「伊万里・大川内山」、モダンで大人気の「波佐見焼（陶器市・西の原）」、武雄温泉、名物「伊万里牛・器の美食宿」を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "佐賀＆長崎・有田＆伊万里・波佐見：日本磁器発祥の地・トンバイ塀の窯元＆伊万里牛宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "佐賀＆長崎・有田＆伊万里・波佐見：日本磁器発祥の地・トンバイ塀の窯元＆伊万里牛宿 厳選ガイド",
     description: "400年の伝統を誇る肥前やきものロード完全特化！日本磁器のふるさと「有田焼（トンバイ塀・泉山磁石場）」、秘窯の里「伊万里・大川内山」、モダンで大人気の「波佐見焼（陶器市・西の原）」、武雄温泉、名物「伊万里牛・器の美食宿」を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/japan-luxury-island-resort-charter-cruise-stay/" },
-  title: "プライベートクルーズ＆離島ラグジュアリーリゾート：瀬戸内・伊勢志摩・八重山 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "プライベートクルーズ＆離島ラグジュアリーリゾート：瀬戸内・伊勢志摩・八重山 厳選ガイド",
   description: "陸路では辿り着けない碧碧たる楽園！プライベートクルーズ・ヘリ送迎対応の最高峰アイランドリゾート完全特化！瀬戸内・ベネッセハウス・ガンツウ、伊勢志摩・アマネム・英虞湾クルーズ、八重山諸島プライベートヨット宿を徹底解説。",
   keywords: ["プライベートクルーズ", "離島ラグジュアリーリゾート", "瀬戸内", "伊勢志摩", "八重山", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "プライベートクルーズ＆離島ラグジュアリーリゾート：瀬戸内・伊勢志摩・八重山 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "プライベートクルーズ＆離島ラグジュアリーリゾート：瀬戸内・伊勢志摩・八重山 厳選ガイド",
     description: "陸路では辿り着けない碧碧たる楽園！プライベートクルーズ・ヘリ送迎対応の最高峰アイランドリゾート完全特化！瀬戸内・ベネッセハウス・ガンツウ、伊勢志摩・アマネム・英虞湾クルーズ、八重山諸島プライベートヨット宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "プライベートクルーズ＆離島ラグジュアリーリゾート：瀬戸内・伊勢志摩・八重山 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "プライベートクルーズ＆離島ラグジュアリーリゾート：瀬戸内・伊勢志摩・八重山 厳選ガイド",
     description: "陸路では辿り着けない碧碧たる楽園！プライベートクルーズ・ヘリ送迎対応の最高峰アイランドリゾート完全特化！瀬戸内・ベネッセハウス・ガンツウ、伊勢志摩・アマネム・英虞湾クルーズ、八重山諸島プライベートヨット宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function LuxuryPremiumHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-700 to-amber-900 hover:from-amber-600 hover:to-amber-800 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">220台あり（無料・予約不可）</td>
                 <td className="p-3 font-bold text-amber-600">★3.94（4177件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,120〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13971%2F13971.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13971%2F13971.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. ＴＨＥ　ＨＩＲＡＭＡＴＳＵ　ＨＯＴＥＬＳ　＆　ＲＥＳＯＲＴＳ　賢島</td>
@@ -261,7 +261,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">有り　８台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.83（20件）</td>
                 <td className="p-3 font-bold text-rose-600">¥83,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F191475%2F191475.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F191475%2F191475.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 一楽温泉ホテル</td>
@@ -270,7 +270,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">有り １０～２０台 無料 予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.36（58件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172942%2F172942.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172942%2F172942.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 直島ふるさと海の家　つつじ荘　＜直島＞</td>
@@ -279,7 +279,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">つつじ荘隣の公共駐車場をご利用いただけます。（無料/予約不要/直島町営）</td>
                 <td className="p-3 font-bold text-amber-600">★4.58（171件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,280〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F111253%2F111253.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F111253%2F111253.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. グランヴィリオリゾート石垣島　Ｏｃｅａｎ’ｓ　Ｗｉｎｇ　＆　Ｖｉｌｌａ　Ｇａｒｄｅｎ＜石垣島＞</td>
@@ -288,7 +288,7 @@ export default function LuxuryPremiumHubPage() {
                 <td className="p-3 text-stone-600">有り　110台収容　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.47（1261件）</td>
                 <td className="p-3 font-bold text-rose-600">¥6,930〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F69360%2F69360.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F69360%2F69360.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

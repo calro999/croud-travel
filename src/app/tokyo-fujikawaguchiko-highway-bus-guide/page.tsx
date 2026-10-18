@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-fujikawaguchiko-highway-bus-guide/" },
-  title: "新宿・東京から富士急・河口湖 直行バス：電車とどっちが安い？料金・時間比較＆絶景1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+  title: "新宿・東京から富士急・河口湖 直行バス：電車とどっちが安い？料金・時間比較＆絶景1泊2日モデルコース",
   description: "東京・新宿から富士急ハイランド・河口湖へ行くなら直行高速バスが最強！JR特急富士回遊との料金比較（バスなら半額の約2,000円）。乗り換えなしで遊園地・河口湖駅直着、忍野八海や逆さ富士露天風呂旅館を満喫する1泊2日モデルコース。",
   keywords: ["新宿", "東京から富士急", "河口湖", "直行バス", "電車とどっちが安い？料金", "時間比較", "絶景1泊2日モデルコース"],
   openGraph: {
-    title: "新宿・東京から富士急・河口湖 直行バス：電車とどっちが安い？料金・時間比較＆絶景1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "新宿・東京から富士急・河口湖 直行バス：電車とどっちが安い？料金・時間比較＆絶景1泊2日モデルコース",
     description: "東京・新宿から富士急ハイランド・河口湖へ行くなら直行高速バスが最強！JR特急富士回遊との料金比較（バスなら半額の約2,000円）。乗り換えなしで遊園地・河口湖駅直着、忍野八海や逆さ富士露天風呂旅館を満喫する1泊2日モデルコース。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "新宿・東京から富士急・河口湖 直行バス：電車とどっちが安い？料金・時間比較＆絶景1泊2日モデルコース ｜ 日本全国・旅宿クラウド",
+    title: "新宿・東京から富士急・河口湖 直行バス：電車とどっちが安い？料金・時間比較＆絶景1泊2日モデルコース",
     description: "東京・新宿から富士急ハイランド・河口湖へ行くなら直行高速バスが最強！JR特急富士回遊との料金比較（バスなら半額の約2,000円）。乗り換えなしで遊園地・河口湖駅直着、忍野八海や逆さ富士露天風呂旅館を満喫する1泊2日モデルコース。",
   }
 };
@@ -351,7 +351,7 @@ export default function HighwayBusArticlePage() {
                   <a
                     href={hotel.affiliateUrl}
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                   >
                     ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -390,7 +390,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🍓</div>
@@ -409,7 +409,7 @@ export default function HighwayBusArticlePage() {
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🎫</div>

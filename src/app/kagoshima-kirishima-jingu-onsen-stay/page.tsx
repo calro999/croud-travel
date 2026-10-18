@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kagoshima-kirishima-jingu-onsen-stay/" },
-  title: "鹿児島・霧島温泉郷＆霧島神宮：天孫降臨・国宝霧島神宮＆泥湯・黒豚しゃぶ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "鹿児島・霧島温泉郷＆霧島神宮：天孫降臨・国宝霧島神宮＆泥湯・黒豚しゃぶ宿 厳選ガイド",
   description: "神話の里とダイナミックな火山温泉・鹿児島霧島エリア完全特化！国宝指定「霧島神宮」、坂本龍馬の新婚旅行の地、霧島温泉郷（泥湯・硫黄泉）、霧島連山のトレッキング、本場かごしま黒豚しゃぶしゃぶ宿を徹底解説。",
   keywords: ["鹿児島", "霧島温泉郷", "霧島神宮", "天孫降臨", "国宝霧島神宮", "泥湯", "黒豚しゃぶ宿"],
   openGraph: {
-    title: "鹿児島・霧島温泉郷＆霧島神宮：天孫降臨・国宝霧島神宮＆泥湯・黒豚しゃぶ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "鹿児島・霧島温泉郷＆霧島神宮：天孫降臨・国宝霧島神宮＆泥湯・黒豚しゃぶ宿 厳選ガイド",
     description: "神話の里とダイナミックな火山温泉・鹿児島霧島エリア完全特化！国宝指定「霧島神宮」、坂本龍馬の新婚旅行の地、霧島温泉郷（泥湯・硫黄泉）、霧島連山のトレッキング、本場かごしま黒豚しゃぶしゃぶ宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "鹿児島・霧島温泉郷＆霧島神宮：天孫降臨・国宝霧島神宮＆泥湯・黒豚しゃぶ宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "鹿児島・霧島温泉郷＆霧島神宮：天孫降臨・国宝霧島神宮＆泥湯・黒豚しゃぶ宿 厳選ガイド",
     description: "神話の里とダイナミックな火山温泉・鹿児島霧島エリア完全特化！国宝指定「霧島神宮」、坂本龍馬の新婚旅行の地、霧島温泉郷（泥湯・硫黄泉）、霧島連山のトレッキング、本場かごしま黒豚しゃぶしゃぶ宿を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function MicroTouristHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

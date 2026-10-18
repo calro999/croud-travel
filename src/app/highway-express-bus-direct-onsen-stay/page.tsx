@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/highway-express-bus-direct-onsen-stay/" },
-  title: "高速バス直行・バスターミナル直結温泉宿：乗り換えなし・座席指定で楽々アクセス 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "高速バス直行・バスターミナル直結温泉宿：乗り換えなし・座席指定で楽々アクセス 厳選ガイド",
   description: "東京・新宿・渋谷・名古屋・大阪から直行！高速バスで行ける温泉宿完全特化！バスタ新宿や主要ターミナルから乗り換えなし。草津温泉・伊香保温泉・白馬・河口湖・南紀白浜などバスターミナル至近の名門旅館を徹底解説。",
   keywords: ["高速バス直行", "バスターミナル直結温泉宿", "乗り換えなし", "座席指定で楽々アクセス", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "高速バス直行・バスターミナル直結温泉宿：乗り換えなし・座席指定で楽々アクセス 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "高速バス直行・バスターミナル直結温泉宿：乗り換えなし・座席指定で楽々アクセス 厳選ガイド",
     description: "東京・新宿・渋谷・名古屋・大阪から直行！高速バスで行ける温泉宿完全特化！バスタ新宿や主要ターミナルから乗り換えなし。草津温泉・伊香保温泉・白馬・河口湖・南紀白浜などバスターミナル至近の名門旅館を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "高速バス直行・バスターミナル直結温泉宿：乗り換えなし・座席指定で楽々アクセス 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "高速バス直行・バスターミナル直結温泉宿：乗り換えなし・座席指定で楽々アクセス 厳選ガイド",
     description: "東京・新宿・渋谷・名古屋・大阪から直行！高速バスで行ける温泉宿完全特化！バスタ新宿や主要ターミナルから乗り換えなし。草津温泉・伊香保温泉・白馬・河口湖・南紀白浜などバスターミナル至近の名門旅館を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function TransitStyleHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る
@@ -252,7 +252,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">施設へ要確認</td>
                 <td className="p-3 font-bold text-amber-600">★4.61（243件）</td>
                 <td className="p-3 font-bold text-rose-600">¥14,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2628%2F2628.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2628%2F2628.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 岸権旅館　石段街隣接　希少源泉「黄金の湯」の宿</td>
@@ -261,7 +261,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">無料駐車場150台あり。旅館専用駐車場は伊香保小学校の道向かいにあり。専用駐車場から送迎いたします。</td>
                 <td className="p-3 font-bold text-amber-600">★4.44（1716件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6267%2F6267.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6267%2F6267.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 東横ＩＮＮ前橋駅前</td>
@@ -270,7 +270,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">立体50台（大きさ制限あり）￥500／泊、平置き29台￥300／泊。いずれも先着順。</td>
                 <td className="p-3 font-bold text-amber-600">★4.06（754件）</td>
                 <td className="p-3 font-bold text-rose-600">¥5,145〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70236%2F70236.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70236%2F70236.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 河口湖温泉　ホテルレジーナ河口湖</td>
@@ -279,7 +279,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">有り　71台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★4.38（1649件）</td>
                 <td className="p-3 font-bold text-rose-600">¥13,200〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F933%2F933.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F933%2F933.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. ザ　グラン　リゾート　プリンセス富士河口湖</td>
@@ -288,7 +288,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">有り　２８台　無料</td>
                 <td className="p-3 font-bold text-amber-600">★3.8（303件）</td>
                 <td className="p-3 font-bold text-rose-600">¥4,600〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147723%2F147723.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147723%2F147723.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">6. くれたけイン御殿場インター／ＧＯＬＤ　ＣＡＢＩＮ</td>
@@ -297,7 +297,7 @@ export default function TransitStyleHubPage() {
                 <td className="p-3 text-stone-600">有り　45台　乗用車無料　予約不要　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.02（1418件）</td>
                 <td className="p-3 font-bold text-rose-600">¥3,000〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19965%2F19965.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19965%2F19965.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>

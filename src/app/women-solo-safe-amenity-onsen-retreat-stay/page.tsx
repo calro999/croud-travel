@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/women-solo-safe-amenity-onsen-retreat-stay/" },
-  title: "女性一人旅・安心ステイ＆ご褒美温泉宿：女性専用フロア＆Refa・美肌湯 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "女性一人旅・安心ステイ＆ご褒美温泉宿：女性専用フロア＆Refa・美肌湯 厳選ガイド",
   description: "気兼ねなく自分を癒やす極上ひとり旅！女性一人旅歓迎の安心温泉宿＆ホテル完全特化！女性専用フロア・カードキーセキュリティ、Refa（リファ）ドライヤー＆高級アメニティ完備、お部屋食・個室食事処、美肌の湯を徹底解説。",
   keywords: ["女性一人旅", "安心ステイ", "ご褒美温泉宿", "女性専用フロア", "Refa", "美肌湯", "温泉宿"],
   openGraph: {
-    title: "女性一人旅・安心ステイ＆ご褒美温泉宿：女性専用フロア＆Refa・美肌湯 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "女性一人旅・安心ステイ＆ご褒美温泉宿：女性専用フロア＆Refa・美肌湯 厳選ガイド",
     description: "気兼ねなく自分を癒やす極上ひとり旅！女性一人旅歓迎の安心温泉宿＆ホテル完全特化！女性専用フロア・カードキーセキュリティ、Refa（リファ）ドライヤー＆高級アメニティ完備、お部屋食・個室食事処、美肌の湯を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "女性一人旅・安心ステイ＆ご褒美温泉宿：女性専用フロア＆Refa・美肌湯 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "女性一人旅・安心ステイ＆ご褒美温泉宿：女性専用フロア＆Refa・美肌湯 厳選ガイド",
     description: "気兼ねなく自分を癒やす極上ひとり旅！女性一人旅歓迎の安心温泉宿＆ホテル完全特化！女性専用フロア・カードキーセキュリティ、Refa（リファ）ドライヤー＆高級アメニティ完備、お部屋食・個室食事処、美肌の湯を徹底解説。",
   }
 };
@@ -210,7 +210,7 @@ export default function WomenSoloRetreatHubPage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-rose-600 to-pink-600 hover:from-rose-500 hover:to-pink-500 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

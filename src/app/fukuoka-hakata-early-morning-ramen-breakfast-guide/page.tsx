@@ -157,6 +157,8 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「朝6時台オープンの市場めし完全版」を効率よく巡るコツは？","acceptedAnswer":{"@type":"Answer","text":"博多・天神 早朝から食べられる長浜ラーメン＆朝食ビュッフェ：朝6時台オープンの市場めし完全版エリアでは、「ホテルリブマックス博多駅前」（楽天評価★3.7・クチコミ317件、所在地：福岡県福岡市博多区博多駅前2-7-9）をはじめとする宿を拠点にし、最寄り駅（博多）やアクセス条件（「博多」駅より徒歩5分）に合わせて午前中に周辺観光名所を巡り、15時のチェックイン後に温泉や夕食会席を堪能するスケジュールが最も効率的です。"}},{"@type":"Question","name":"事前準備や持ち物で注意すべきポイントは？","acceptedAnswer":{"@type":"Answer","text":"宿泊予約時は最安料金目安（例：「ホテルリブマックス博多駅前」は1名あたり¥3,740〜）や駐車場条件（無し※近隣にコインパーキング多数あり！）を事前に確認しましょう。連休や紅葉・年末年始シーズンは早期に満室となるため、楽天トラベルの早期割引プランやクーポンの活用がおすすめです。"}}]}) }}
       />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
       {/* Hero Header */}
       <section className="bg-gradient-to-r from-slate-900 via-slate-800 to-zinc-900 text-white py-14 px-4 sm:px-6 relative overflow-hidden shadow-lg border-b border-slate-700">
         <div className="absolute inset-0 opacity-15 bg-[radial-gradient(#94a3b8_1px,transparent_1px)] [background-size:20px_20px]" />
@@ -325,7 +327,7 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
                     <a
                       href={hotel.affiliateUrl}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="sponsored noopener noreferrer"
                       className="block w-full text-center py-2.5 px-3 bg-slate-800 hover:bg-slate-900 text-white font-bold text-xs sm:text-sm rounded-lg shadow transition-colors"
                     >
                       楽天トラベルで空室・プランを見る
@@ -443,25 +445,25 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
-                href="/prefectures/iwate"
+                href="/prefectures/iwate/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 岩手県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tochigi"
+                href="/prefectures/tochigi/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 栃木県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/okayama"
+                href="/prefectures/okayama/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 岡山県の宿・温泉
               </Link>
               <Link
-                href="/prefectures/tottori"
+                href="/prefectures/tottori/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 鳥取県の宿・温泉

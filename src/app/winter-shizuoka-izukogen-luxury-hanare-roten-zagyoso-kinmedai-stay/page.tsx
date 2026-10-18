@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -8,7 +9,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '【全室離れ客室露天風呂と相模湾絶景オーシャンビュー】2026-2027年11-12月初冬の静岡・伊豆高原！最高峰ABBA RESORTS坐漁荘＆お宿うち山・極上地金目鯛と伊勢海老・しずおか和牛を味わう大人の記念日ラグジュアリー名宿5選 | クラウドトラベル',
+  title: '【全室離れ客室露天風呂と相模湾絶景オーシャンビュー】2026-2027年11-12月初冬の静岡・伊豆高原！最高峰ABBA RESORTS坐漁荘＆お宿うち山・極上地金目鯛と伊勢海老・しずおか和牛を味わう大人の記念日ラグジュアリー名宿5選',
   description: '都心から特急でわずか2時間、相模湾と伊豆大島を望む静岡屈指のリゾート地・伊豆高原。初冬の澄んだ大気のもと、全室に趣の異なる源泉掛け流し専用露天風呂を備えた極上の離れ宿で過ごす至福の時間。世界基準のおもてなしを誇る名門宿から、海を見晴らす高台のプライベートスイートまで。冬に脂が乗る極上地金目鯛の煮付けや活伊勢海老、しずおか和牛を堪能する大人の記念日名宿5選。',
   keywords: '静岡県, 城ヶ崎海岸, 高級旅館, 客室露天風呂, 記念日旅行, 11月旅行, 12月旅行, 楽天トラベル, ふるさと納税',
   openGraph: {

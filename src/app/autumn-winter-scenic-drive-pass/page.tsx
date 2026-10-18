@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/autumn-winter-scenic-drive-pass/" },
-  title: "絶景ロード：紅葉＆白銀パノラマ！ドライブウェイ展望温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+  title: "絶景ロード：紅葉＆白銀パノラマ！ドライブウェイ展望温泉宿 厳選ガイド",
   description: "車窓を染める圧巻の紅葉パノラマ！伊豆スカイライン（富士山ビュー）、福島磐梯吾妻スカイライン、長野霧ヶ峰ビーナスライン、広島しまなみ海道など、日本を代表する絶景ドライブルートと展望温泉宿を徹底解説。",
   keywords: ["絶景ロード", "紅葉", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {
-    title: "絶景ロード：紅葉＆白銀パノラマ！ドライブウェイ展望温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "絶景ロード：紅葉＆白銀パノラマ！ドライブウェイ展望温泉宿 厳選ガイド",
     description: "車窓を染める圧巻の紅葉パノラマ！伊豆スカイライン（富士山ビュー）、福島磐梯吾妻スカイライン、長野霧ヶ峰ビーナスライン、広島しまなみ海道など、日本を代表する絶景ドライブルートと展望温泉宿を徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "絶景ロード：紅葉＆白銀パノラマ！ドライブウェイ展望温泉宿 厳選ガイド ｜ 日本全国・旅宿クラウド",
+    title: "絶景ロード：紅葉＆白銀パノラマ！ドライブウェイ展望温泉宿 厳選ガイド",
     description: "車窓を染める圧巻の紅葉パノラマ！伊豆スカイライン（富士山ビュー）、福島磐梯吾妻スカイライン、長野霧ヶ峰ビーナスライン、広島しまなみ海道など、日本を代表する絶景ドライブルートと展望温泉宿を徹底解説。",
   }
 };
@@ -219,7 +219,7 @@ export default function SeasonalFeaturePage() {
                         <a
                           href={hotel.affiliateUrl}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="sponsored noopener noreferrer"
                           className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
                         >
                           ✈️ 楽天トラベルで宿泊プラン・空室を見る

@@ -1,3 +1,4 @@
+import HubRelatedPosts from "@/app/components/HubRelatedPosts";
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -14,13 +15,16 @@ export const metadata: Metadata = {
     title: '秋の山形：山寺（立石寺）の奇岩絶壁紅葉クライミングと天童温泉！美食と名湯を楽しむおすすめ旅館5選「2026最新」',
     description: '松尾芭蕉ゆかりの山寺・五大堂からの錦秋大パノラマと、天童温泉の美食と名湯を満喫する厳選旅館5選。',
     type: 'article',
-    url: 'https://croud-travel.com/autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay',
   }
 };
 
 export default function YamaderaTendoAutumnPage() {
   return (
     <article className="min-h-screen bg-stone-50 text-stone-800 pb-20 font-sans">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"秋の山形：山寺（立石寺）の奇岩絶壁紅葉クライミングと天童温泉！美食と名湯を楽しむおすすめ旅館5選「2026最新」\",\"description\":\"松尾芭蕉「閑さや岩にしみ入る蝉の声」の舞台・山寺（宝珠山立石寺）の1015段の石段と五大堂からの錦秋大パノラマ！登山の疲れを癒やす将棋の街・天童温泉の極上宿5選。松の湯、あづま荘、滝の湯の宿泊料金や見どころを詳しくご紹介！\",\"url\":\"https://croud-travel.pages.dev/autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay/\",\"datePublished\":\"2026-10-18T12:00:00+09:00\",\"dateModified\":\"2026-10-19T07:00:00+09:00\",\"author\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド 編集部\",\"url\":\"https://croud-travel.pages.dev/\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"日本全国・旅宿クラウド\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://croud-travel.pages.dev/icon.png\"}}}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"ホーム\",\"item\":\"https://croud-travel.pages.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"特集一覧\",\"item\":\"https://croud-travel.pages.dev/features/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"秋の山形：山寺（立石寺）の奇岩絶壁紅葉クライミングと天童温泉！美食と名湯を楽しむおすすめ旅館5選「2026最新」\",\"item\":\"https://croud-travel.pages.dev/autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay/\"}]}" }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: "{\"@context\":\"https://schema.org\",\"@type\":\"ItemList\",\"name\":\"秋の山形：山寺（立石寺）の奇岩絶壁紅葉クライミングと天童温泉！美食と名湯を楽しむおすすめ旅館5選「2026最新」\",\"numberOfItems\":9,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"天童温泉　ほほえみの宿　滝の湯\",\"url\":\"https://croud-travel.pages.dev/autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"天童温泉　湯の香　松の湯\",\"url\":\"https://croud-travel.pages.dev/autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"天童温泉　松伯亭　あづま荘\",\"url\":\"https://croud-travel.pages.dev/autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"天童温泉　ほほえみの空湯舟　つるや\",\"url\":\"https://croud-travel.pages.dev/autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"天童温泉　美味求真の宿　天童ホテル\",\"url\":\"https://croud-travel.pages.dev/autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":6,\"name\":\"宝珠山 立石寺（山寺）\",\"url\":\"https://croud-travel.pages.dev/autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":7,\"name\":\"銀山温泉\",\"url\":\"https://croud-travel.pages.dev/autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":8,\"name\":\"蔵王の樹氷\",\"url\":\"https://croud-travel.pages.dev/autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay/\"},{\"@type\":\"ListItem\",\"position\":9,\"name\":\"羽黒山 三重塔\",\"url\":\"https://croud-travel.pages.dev/autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay/\"}]}" }} />
       <div className="relative h-[480px] w-full overflow-hidden bg-stone-900">
         <Image
           src="https://img.travel.rakuten.co.jp/share/HOTEL/53746/53746.jpg"
@@ -142,7 +146,7 @@ export default function YamaderaTendoAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52812%2F52812.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -189,7 +193,7 @@ export default function YamaderaTendoAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18363%2F18363.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -236,7 +240,7 @@ export default function YamaderaTendoAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F53746%2F53746.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -283,7 +287,7 @@ export default function YamaderaTendoAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F146875%2F146875.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -330,7 +334,7 @@ export default function YamaderaTendoAutumnPage() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5954%2F5954.html"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="px-5 py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-bold text-xs rounded-xl shadow transition"
                   >
                     楽天トラベルで空室確認
@@ -387,7 +391,7 @@ export default function YamaderaTendoAutumnPage() {
                 <td className="p-3 text-stone-600">有り　３００台ご用意しております。予約は、ご不要です。</td>
                 <td className="p-3 font-bold text-amber-600">★4.57（1058件）</td>
                 <td className="p-3 font-bold text-rose-600">¥18,150〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F53746%2F53746.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F53746%2F53746.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">2. 天童温泉　湯の香　松の湯</td>
@@ -396,7 +400,7 @@ export default function YamaderaTendoAutumnPage() {
                 <td className="p-3 text-stone-600">有り　４０台　無料　予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.8（184件）</td>
                 <td className="p-3 font-bold text-rose-600">¥19,360〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52812%2F52812.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52812%2F52812.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">3. 天童温泉　松伯亭　あづま荘</td>
@@ -405,7 +409,7 @@ export default function YamaderaTendoAutumnPage() {
                 <td className="p-3 text-stone-600">有り　80台　無料　先着順</td>
                 <td className="p-3 font-bold text-amber-600">★4.64（623件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,210〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18363%2F18363.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18363%2F18363.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">4. 天童温泉　ほほえみの空湯舟　つるや</td>
@@ -414,7 +418,7 @@ export default function YamaderaTendoAutumnPage() {
                 <td className="p-3 text-stone-600">無料35台・予約不要</td>
                 <td className="p-3 font-bold text-amber-600">★4.56（356件）</td>
                 <td className="p-3 font-bold text-rose-600">¥16,500〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F146875%2F146875.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F146875%2F146875.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               <tr className="hover:bg-amber-50/40 transition">
                 <td className="p-3 font-bold text-stone-900">5. 天童温泉　美味求真の宿　天童ホテル</td>
@@ -423,7 +427,7 @@ export default function YamaderaTendoAutumnPage() {
                 <td className="p-3 text-stone-600">無料200台・予約不要｜ホテル玄関前で荷下ろし後、当館から東に約130mの駐車場へご駐車ください</td>
                 <td className="p-3 font-bold text-amber-600">★4.55（1912件）</td>
                 <td className="p-3 font-bold text-rose-600">¥12,100〜</td>
-                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5954%2F5954.html" target="_blank" rel="noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
+                <td className="p-3"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5954%2F5954.html" target="_blank" rel="sponsored noopener noreferrer" className="text-teal-700 font-bold underline">空室・料金</a></td>
               </tr>
               </tbody>
             </table>
@@ -600,6 +604,9 @@ export default function YamaderaTendoAutumnPage() {
             </p>
           </div>
         </section>
+        <div className="max-w-4xl mx-auto px-4 sm:px-6">
+          <HubRelatedPosts currentSlug="autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay" />
+        </div>
 
       </article>
   );
