@@ -95,3 +95,4 @@ showcase_nagano
 dolphin-swim-encounter-ocean-resort-hotels-guide
 showcase_miyagi
 rikuzentakata-ofunato-sanriku-nature-hotels-guide
+showcase_miyagi
