@@ -15168,8 +15168,18 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  
-  
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/17901/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/141106/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://croud-travel.pages.dev/posts/15700/</loc>
     <lastmod>2026-10-17</lastmod>
