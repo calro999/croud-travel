@@ -1,4 +1,14 @@
-# 鹿児島県の宿泊・観光記事（54件）
+# 鹿児島県の宿泊・観光記事（55件）
+
+## 冬休みの鹿児島・霧島温泉家族旅行！霧島錦江湾国立公園の大自然＆黒豚しゃぶしゃぶ・湯けむり露天風呂を満喫する名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-family-kagoshima-kirishima-sakurajima-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-family-kagoshima-kirishima-sakurajima-guide.md
+- 宿泊施設名: 鹿児島 霧島温泉郷 湯けむり露天＆黒豚美食 子連れファミリー名宿5選
+- エリア: 霧島温泉郷・霧島神宮
+- 参考価格: ¥13200〜
+- 評価: 4.63
+
+南国鹿児島の奥座敷として、冬でも過ごしやすい気候と豊かな湯煙が立ち上る霧島温泉郷。坂本龍馬が日本初の新婚旅行で訪れたことでも知られる名湯地で、冬休みにはパワースポット「霧島神宮」の初詣や、神話の里公園のロングすべり台・ポッカールなど子供が大自然の中で思い切り遊べるスポットが満載。錦江湾に浮かぶ雄大な...
 
 ## 【10月-11月の鹿児島・指宿温泉】天然砂むし温泉のデトックスと錦江湾パノラマ！鹿児島黒豚・さつま地鶏と開聞岳夕景を望む名旅館5選（2026年）
 - 記事: https://croud-travel.pages.dev/posts/autumn-kagoshima-ibusuki-sand-bath-kinko-guide/
