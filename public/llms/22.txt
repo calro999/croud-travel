@@ -1,4 +1,4 @@
-# 静岡県の宿泊・観光記事（102件）
+# 静岡県の宿泊・観光記事（103件）
 
 ## 【秋の秘湯探訪：洞窟温泉＆天然岩風呂】地熱の神秘と波音を聴く！伊豆・南紀・九州の幻想的な洞窟風呂旅館5選（2026最新）
 - 記事: https://croud-travel.pages.dev/posts/autumn-shizuoka-izu-cave-bath-secret-onsen-guide/
@@ -9,6 +9,16 @@
 - 評価: 4.78
 
 Search Consoleでも「洞窟温泉」「洞窟風呂」の検索が急増中！天然の海食洞や岩盤をくり抜いた地熱の洞窟風呂は、薄暗い岩肌に湯煙と間接照明が揺らめき、まるで異世界に迷い込んだかのような圧倒的な非日常を味わえます。秋の涼やかな外気と、洞窟内に閉じ込められた濃厚な温泉蒸気との...
+
+## 【10月-11月の伊豆・大仁温泉】富士山を望む高台露天と狩野川の秋景！大仁ホテル＆修善寺近郊の湯浴み名旅館5選（2026年秋）
+- 記事: https://croud-travel.pages.dev/posts/autumn-shizuoka-izu-ohito-shuzenji-onsen-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/autumn-shizuoka-izu-ohito-shuzenji-onsen-guide.md
+- 宿泊施設名: 伊豆 大仁温泉 富士山眺望＆修善寺近郊名湯宿5選
+- エリア: 中伊豆・伊豆の国・大仁
+- 参考価格: ¥7898〜
+- 評価: 4.01
+
+サチコで「大仁ホテル」の検索需要が急増中！長嶋茂雄氏の自主トレ地としても知られる伊豆の国市・大仁温泉は、高台から雄大な富士山と箱根連山をパノラマ一望できる名湯です。10月〜11月は空気が澄み渡り、夕日に染まる紅富士と秋の夕焼けが絶景を描きます。伊豆の海の幸・山の幸バイキングや会席...
 
 ## 【10月-11月の伊豆・修善寺】竹林の小径と桂川の紅葉散策！伊豆最古の湯＆伊勢海老・金目鯛を味わう小京都の極上温泉宿5選（2026最新）
 - 記事: https://croud-travel.pages.dev/posts/autumn-shizuoka-izu-shuzenji-momiji-katsuragawa-guide/
