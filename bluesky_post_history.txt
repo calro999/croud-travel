@@ -97,3 +97,4 @@ showcase_miyagi
 rikuzentakata-ofunato-sanriku-nature-hotels-guide
 showcase_miyagi
 kumamoto-famous-things-gourmet-spots-guide
+showcase_oita
