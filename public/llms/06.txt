@@ -1,4 +1,14 @@
-# 山形県の宿泊・観光記事（70件）
+# 山形県の宿泊・観光記事（71件）
+
+## 冬休みの山形あつみ温泉家族旅行！プロが選ぶ日本のホテル旅館100選「萬国屋」名湯露天と日本海寒鱈まつり・山形牛美食宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-family-yamagata-atsumi-bankokuya-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-family-yamagata-atsumi-bankokuya-guide.md
+- 宿泊施設名: 山形 あつみ温泉 萬国屋＆日本海冬の味覚 子連れ名宿5選
+- エリア: あつみ温泉・鶴岡・庄内
+- 参考価格: ¥11000〜
+- 評価: 4.57
+
+サチコクエリ「あつみ温泉 萬国屋 朝食」「あつみ温泉 子連れ」に完全対応！開湯1200年の歴史を誇り、温海川の清流沿いに佇む山形の名湯・あつみ温泉。「プロが選ぶ日本のホテル・旅館100選」に連続入選する名旅館「萬国屋」は、日本海の旬の味覚が並ぶ豪華朝食バイキングや広々とした庭園露天風呂、子供用アメニ...
 
 ## 冬休みのかみのやま温泉家族旅行！蔵王スキー場直行＆赤ちゃん歓迎認定の果実の山あづまや・山形牛ステーキ名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-yamagata-kaminoyama-zao-fruit-guide/

@@ -1,4 +1,14 @@
-# 大分県の宿泊・観光記事（51件）
+# 大分県の宿泊・観光記事（52件）
+
+## 冬休みの由布院温泉子連れ家族旅行！金鱗湖の幻想的な朝霧＆湯の坪街道食べ歩き・豊後牛と離れ客室露天風呂の名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-family-oita-yufuin-kinrinko-morning-mist-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-family-oita-yufuin-kinrinko-morning-mist-guide.md
+- 宿泊施設名: 大分 由布院温泉 金鱗湖朝霧＆客室露天風呂 子連れ名宿5選
+- エリア: 由布院温泉・湯の坪街道
+- 参考価格: ¥26000〜
+- 評価: 4.1
+
+冬休みに家族で憧れの名湯リゾート・由布院温泉へ。真冬の冷え込んだ朝、温泉が湧き出る「金鱗湖」の水面から立ち上る幻想的な朝霧のヴェールは、息をのむ美しさです。コロッケやぷりんドラの食べ歩きが楽しい「湯の坪街道」や、トトロの森のような風情に子供たちもワクワク。周囲を気にせず走り回れる戸建て離れ客室や、客...
 
 ## 【10月-11月の大分・別府由布院】金鱗湖の朝霧紅葉と別府八湯の湯煙！豊後牛と関アジ関サバに舌鼓を打つ名湯旅館5選（2026年）
 - 記事: https://croud-travel.pages.dev/posts/autumn-oita-beppu-yufuin-kinrinko-momiji-guide/
