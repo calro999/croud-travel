@@ -1,4 +1,4 @@
-# 北海道の宿泊・観光記事（125件）
+# 北海道の宿泊・観光記事（126件）
 
 ## 冬休みの小樽運河雪景色＆オーセントホテル小樽家族旅行！小樽水族館イトウ給餌＆豪華朝食バイキングと海鮮丼名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-hokkaido-otaru-canal-authent-guide/
@@ -9,6 +9,16 @@
 - 評価: 4.39
 
 サチコクエリ「オーセントホテル小樽 朝食」「小樽 子連れ ホテル」に完全連動！ガス灯が雪景色を照らし出し、ノスタルジックな冬のロマンチック街道が広がる「小樽運河」。冬休みには、おたる水族館の愛らしい「冬のペンギン雪中さんぽ」や、巨大淡水魚イトウへの大迫力給餌ショー、オルゴール堂の手作り体験など子供が...
+
+## 冬休みの支笏湖氷濤まつり＆鶴雅リゾート家族旅行！千歳空港至近の美肌温泉と冬の絶景アクティビティ名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-family-hokkaido-shikotsuko-tsuruga-hyoto-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-family-hokkaido-shikotsuko-tsuruga-hyoto-guide.md
+- 宿泊施設名: 北海道 支笏湖 氷濤まつり＆しこつ湖鶴雅リゾート子連れ名宿5選
+- エリア: 支笏湖・千歳
+- 参考価格: ¥¥26,741〜〜
+- 評価: 4.47
+
+サチコ注目クエリ「支笏湖温泉 ランキング」「支笏湖 温泉 ランキング」に完全連動！新千歳空港から車でわずか約40分という驚異の好アクセスに位置する、日本屈指の透明度を誇るカルデラ湖「支笏湖」。冬休みには湖水を吹き付けて凍らせた巨大な氷の彫刻が立ち並ぶ「支笏湖氷濤まつり（ひょうとう...
 
 ## 【10月-11月の北海道・小樽キロロ】小樽運河のガス灯紅葉とキロロ高原リゾート！秋シャコ・生ウニ・海鮮三昧の名宿5選（2026最新）
 - 記事: https://croud-travel.pages.dev/posts/autumn-hokkaido-kiroro-otaru-canal-seafood-guide/

@@ -1,4 +1,4 @@
-# 静岡県の宿泊・観光記事（107件）
+# 静岡県の宿泊・観光記事（108件）
 
 ## 冬休みの浜名湖パルパル＆うなぎ家族旅！温暖な浜名湖パノラマ遊覧船と舘山寺温泉・豪華うなぎバイキング名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-shizuoka-hamamatsu-hamanako-palpal-guide/
@@ -9,6 +9,16 @@
 - 評価: 4.53
 
 サチコクエリ「うなぎ 旅館 ランキング」「舘山寺温泉 子連れ」に完全連動！冬でも雪の心配がほとんどなく温暖な静岡県・浜名湖。ファミリー向け遊園地「浜名湖パルパル」は、未就学児から乗れるアトラクションが豊富で冬休みのお出かけにぴったり。かんざんじロープウェイで湖上を渡り、浜名湖遊覧船でカモメの群れへ餌...
+
+## 冬休みの伊豆大仁温泉＆いちご狩り家族旅行！大仁ホテルの富士山絶景露天風呂とカニ食べ放題バイキング名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-family-shizuoka-izu-ohito-onsen-strawberry-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-family-shizuoka-izu-ohito-onsen-strawberry-guide.md
+- 宿泊施設名: 静岡 伊豆大仁温泉 富士山絶景露天風呂＆いちご狩り家族名宿5選
+- エリア: 伊豆・大仁温泉・伊豆の国市
+- 参考価格: ¥¥7,898〜〜
+- 評価: 4.01
+
+サチコ急上昇クエリ「大仁ホテル」「大仁ホテル 口コミ」に完全フォーカス！冬の伊豆は、晴天率が高く澄み切った富士山の絶景が毎日拝める絶好の旅行シーズン。その伊豆の玄関口に位置し、名峰・富士山を一望する高台に建つ名門「大仁ホテル」をはじめ、冬休みからシーズンインする「伊豆長岡・江間の...
 
 ## 【10月-11月の静岡・伊豆熱川熱海】伊豆熱川一柳閣と相模灘の日の出パノラマ！金目鯛姿煮と源泉かけ流し湯煙めぐり名宿5選（2026最新）
 - 記事: https://croud-travel.pages.dev/posts/autumn-shizuoka-atagawa-atami-roten-seafood-guide/
