@@ -1,4 +1,4 @@
-# 長野県の宿泊・観光記事（90件）
+# 長野県の宿泊・観光記事（91件）
 
 ## 冬休みの白馬スノーリゾート子連れ旅！雪遊びデビュー専用キッズパーク＆八方尾根の絶景温泉・信州グルメ満喫ホテル5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-nagano-hakuba-snow-play-hotspring-guide/
@@ -9,6 +9,16 @@
 - 評価: 4.64
 
 北アルプスの白銀の山々に抱かれた世界的スノーリゾート・白馬エリア。冬休みの子連れファミリーには、そり滑りやスノーチュービング、スノーエスカレーターが完備された安全なキッズ雪遊びパーク（白馬八方尾根スノープラザ咲花やエイブル白馬五竜スノーランド）が絶大な人気を誇ります。遊び疲れた後は、日本屈指の強アル...
+
+## 冬休みの信州白樺湖池の平ホテル家族旅行！ポタスノーランド雪遊び＆室内温水プール・混浴大露天風呂とバイキング名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-family-nagano-suwa-shirakabako-ikenotaira-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-family-nagano-suwa-shirakabako-ikenotaira-guide.md
+- 宿泊施設名: 長野 白樺湖・蓼科 池の平ホテル雪遊び＆温泉リゾート 子連れ名宿5選
+- エリア: 白樺湖・蓼科・茅野
+- 参考価格: ¥12650〜
+- 評価: 4.37
+
+冬休みの子連れファミリー向け総合温泉リゾートの東の横綱といえば、信州・白樺湖畔の「白樺リゾート 池の平ホテル」。ホテル目の前の「ポタスノーランド」には動く歩道（スノーエスカレーター）完備の安心そりエリアや初心者スキーコースが広がり、館内には通年営業の室内温水プール、ボウリング場、ゲームコーナー、水着...
 
 ## 【10月-11月の信州りんご＆新そば旅】安曇野・松本・諏訪の紅葉露天！信州牛と名水そばを堪能する秋の絶景温泉宿5選（2026最新）
 - 記事: https://croud-travel.pages.dev/posts/autumn-nagano-apple-picking-shinshu-soba-onsen-guide/

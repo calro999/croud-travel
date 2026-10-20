@@ -1,4 +1,14 @@
-# 奈良県の宿泊・観光記事（44件）
+# 奈良県の宿泊・観光記事（45件）
+
+## 冬休みの古都奈良・奈良公園家族旅！国の天然記念物「鹿」とのふれあい＆東大寺大仏殿・若草山夕景と大和牛名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-family-nara-park-todaiji-deer-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-family-nara-park-todaiji-deer-guide.md
+- 宿泊施設名: 奈良 奈良公園・東大寺 鹿せんべい体験＆若草山 子連れ名宿5選
+- エリア: 奈良市内・奈良公園・若草山
+- 参考価格: ¥7500〜
+- 評価: 4.26
+
+サチコ高インプレッションクエリ「ホテル リガーレ春日野」「奈良公園 子連れ」に完全連動！世界遺産の東大寺大仏殿や春日大社を擁し、約1,300頭もの野生の鹿がのびのびと暮らす奈良公園。冬休みには、お辞儀をして鹿せんべいをねだる愛らしい鹿たちとのふれあいに子供たちは大はしゃぎ。澄んだ冬空に若草山の山焼き...
 
 ## 【10月-11月の奈良・春日野】東大寺・春日大社の錦秋と鹿のたわむれ！「ホテルリガーレ春日野」＆古都の秋宵を満喫する名宿5選（2026年）
 - 記事: https://croud-travel.pages.dev/posts/autumn-nara-park-kasugano-momiji-shika-guide/

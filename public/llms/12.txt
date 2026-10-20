@@ -1,4 +1,14 @@
-# 千葉県の宿泊・観光記事（54件）
+# 千葉県の宿泊・観光記事（55件）
+
+## 冬休みの木更津・龍宮城スパホテル三日月家族旅！全天候型アクアパーク＆富士山パノラマ温泉・カニ食べ放題バイキング名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-family-chiba-kisarazu-mikazuki-ryugujo-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-family-chiba-kisarazu-mikazuki-ryugujo-guide.md
+- 宿泊施設名: 千葉 木更津 龍宮城スパホテル三日月＆アクアライン 子連れ名宿5選
+- エリア: 木更津・君津・富津
+- 参考価格: ¥25080〜
+- 評価: 4.37
+
+都心からアクアラインで約40分！冬休みの家族旅行で関東近郊屈指の圧倒的リピート率を誇る「龍宮城スパホテル三日月」。真冬でも温かい水着で遊べる全天候型インドアアトラクションプール「アクアパーク」や、東京湾越しに夕日に染まる富士山を望む展望露天風呂、毎晩開催されるレーザーショー＆打ち上げ花火に子供も大人...
 
 ## 【10月-11月の南房総・鴨川館】太平洋の一望絶景インフィニティ温泉と勝浦タンタンメン！伊勢海老・鮑を味わう秋の海辺リゾート宿5選（2026年）
 - 記事: https://croud-travel.pages.dev/posts/autumn-chiba-kamogawa-katsuura-sea-view-onsen-guide/
