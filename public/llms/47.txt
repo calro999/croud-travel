@@ -1,4 +1,14 @@
-# 沖縄県の宿泊・観光記事（60件）
+# 沖縄県の宿泊・観光記事（61件）
+
+## 冬休みの沖縄やんばる大自然エコツアー家族旅！アダ・ガーデンホテル沖縄とヤンバルクイナ観察・星空マングローブ体験名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-family-okinawa-ada-garden-yanbaru-nature-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-family-okinawa-ada-garden-yanbaru-nature-guide.md
+- 宿泊施設名: 沖縄 やんばる・国頭村 アダ・ガーデンホテル＆世界遺産自然体験 子連れ名宿5選
+- エリア: やんばる・国頭村・名護以北
+- 参考価格: ¥7240〜
+- 評価: 4.44
+
+サチコクエリ「アダ・ガーデンホテル沖縄」「やんばる 子連れ ホテル」に完全連動！世界自然遺産に登録された奇跡の原生林が広がる沖縄本島北部「やんばる」。真冬でも平均気温18℃前後の過ごしやすい気候の中、国指定天然記念物「ヤンバルクイナ」を間近で観察できる生態展示学習施設や、慶佐次川のマングローブカヤッ...
 
 ## 冬休みの石垣島・八重山諸島家族旅行！冬でも20℃超の南国楽園＆川平湾グラスボート・星空保護区とリゾートプールホテル5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-okinawa-ishigaki-yaeyama-winter-guide/
