@@ -1,4 +1,4 @@
-# 新潟県の宿泊・観光記事（58件）
+# 新潟県の宿泊・観光記事（59件）
 
 ## 冬休みの越後湯沢雪遊び＆スキー家族旅行！リブマックスリゾート越後湯沢とキッズパーク充実名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-echigo-yuzawa-livemax-snow-guide/
@@ -9,6 +9,16 @@
 - 評価: 3.84
 
 サチコ高インプレッション急上昇クエリ「リブマックスリゾート越後湯沢 ブログ」「リブマックスリゾート越後湯沢」に完全連動！東京駅から上越新幹線でわずか約70分という抜群のアクセスを誇る新潟・越後湯沢は、冬休みの家族旅行・子どものスキーデビューの絶対的な聖地です。客室露天風呂や広々と...
+
+## 冬休みの新潟阿賀野出湯温泉＆五頭温泉郷家族旅行！日本最古のラドン温泉と新潟コシヒカリ・寒ブリ名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-family-niigata-deyusanchi-radon-onsen-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-family-niigata-deyusanchi-radon-onsen-guide.md
+- 宿泊施設名: 新潟 阿賀野 五頭温泉郷・出湯温泉 ラドン温泉子連れ名宿5選
+- エリア: 阿賀野・五頭温泉郷・出湯温泉
+- 参考価格: ¥¥15,000〜〜
+- 評価: 4.48
+
+サチコ急上昇クエリ「出湯温泉 旅館」「ラドン温泉 旅館」「ラドン温泉 宿泊」に完全フォーカス！弘法大師空海が開湯したと伝わる開湯1200年の歴史を誇る新潟「出湯（でゆ）温泉」。国内有数のラジウム・ラドン含有量を誇る天然鉱泉として、全国から湯治客が集まる奇跡の癒やし湯です。冬休みに...
 
 ## 冬休みの妙高ロッテアライリゾート子連れ旅！世界屈指の積雪とアジア最長ジップライン・星空温泉プールと極上ビュッフェ名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-niigata-myoko-lotte-arai-resort-guide/

@@ -1,4 +1,4 @@
-# 静岡県の宿泊・観光記事（108件）
+# 静岡県の宿泊・観光記事（109件）
 
 ## 冬休みの浜名湖パルパル＆うなぎ家族旅！温暖な浜名湖パノラマ遊覧船と舘山寺温泉・豪華うなぎバイキング名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-shizuoka-hamamatsu-hamanako-palpal-guide/
@@ -19,6 +19,16 @@
 - 評価: 4.01
 
 サチコ急上昇クエリ「大仁ホテル」「大仁ホテル 口コミ」に完全フォーカス！冬の伊豆は、晴天率が高く澄み切った富士山の絶景が毎日拝める絶好の旅行シーズン。その伊豆の玄関口に位置し、名峰・富士山を一望する高台に建つ名門「大仁ホテル」をはじめ、冬休みからシーズンインする「伊豆長岡・江間の...
+
+## 冬休みの伊豆修善寺温泉竹林の小径＆新井旅館家族旅行！登録有形文化財の天平大浴堂と伊豆牛会席名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-family-shizuoka-shuzenji-araii-ryokan-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-family-shizuoka-shuzenji-araii-ryokan-guide.md
+- 宿泊施設名: 静岡 伊豆修善寺 新井旅館＆竹林の小径・天平大浴堂子連れ名宿5選
+- エリア: 伊豆・修善寺温泉
+- 参考価格: ¥¥24,420〜〜
+- 評価: 4.56
+
+サチコ注目クエリ「新井 旅館」「新井旅館」「静岡 旅館 おすすめ」に完全フォーカス！「伊豆の小京都」と称され、桂川沿いに美しい竹林の小径が続く名湯・修善寺温泉。全館が国の登録有形文化財に指定され、ヒノキ造りの壮麗な「天平風呂」が名高い歴史の宿「新井旅館」をはじめ、川沿いの足湯「独...
 
 ## 【10月-11月の静岡・伊豆熱川熱海】伊豆熱川一柳閣と相模灘の日の出パノラマ！金目鯛姿煮と源泉かけ流し湯煙めぐり名宿5選（2026最新）
 - 記事: https://croud-travel.pages.dev/posts/autumn-shizuoka-atagawa-atami-roten-seafood-guide/
