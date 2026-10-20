@@ -107,3 +107,4 @@ showcase_nagano
 kagoshima-famous-kurobuta-shochu-hotels-guide
 showcase_kanagawa
 akan-lake-frost-flower-ice-festival-ainu-kotan-winter-guide
+showcase_kanagawa
