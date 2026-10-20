@@ -111,3 +111,4 @@ showcase_kanagawa
 tsuwano-masuda-sanin-kyoto-hotels-guide
 showcase_kagoshima
 itoshima-momochi-uminonakamichi-hotels-guide
+showcase_nagano
