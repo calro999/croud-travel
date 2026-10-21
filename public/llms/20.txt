@@ -1,4 +1,4 @@
-# 長野県の宿泊・観光記事（95件）
+# 長野県の宿泊・観光記事（96件）
 
 ## 冬休みの信州戸倉上山田温泉うぐいす亭家族旅行！美肌の湯めぐりと名物信州そば・リンゴ風呂名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-nagano-kamiyamada-uguisutei-guide/
@@ -9,6 +9,16 @@
 - 評価: 4.12
 
 サチコ注目クエリ「戸倉上山田温泉 梅むら旅館 うぐいす亭〈長野県〉」「うぐいす亭」「長野 旅館 おすすめ」に完全連動！善光寺参りの精進落としの湯として古くから栄えた信州屈指の名湯「戸倉上山田（とぐらかみやまだ）温泉」。エメラルドグリーンに輝く極上の硫黄泉と温かいおもてなしで口コミ...
+
+## 冬の長野・白馬バレー極上パウダースノー＆北アルプス絶景！スノボ友達旅と山岳リゾートを満喫する名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-snow-nagano-hakuba-valley-powder-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-snow-nagano-hakuba-valley-powder-guide.md
+- 宿泊施設名: 長野 白馬バレー 絶景スノボ＆北アルプス雪見温泉名宿5選
+- エリア: 白馬・八方尾根
+- 参考価格: ¥¥13,590〜〜
+- 評価: 4.64
+
+世界中のスノーボーダーが憧れるHAKUBA VALLEYの極上ドライパウダースノー！白馬八方尾根やエイブル白馬五竜のビッグスケールなゲレンデと、雄大な北アルプスを望む白馬八方温泉。冬のアクティブ旅におすすめのホテル5選を紹介します。
 
 ## 冬休みの白馬八方尾根スノボ＆スキー合宿友達旅行！雪山絶景テラスHAKUBA MOUNTAIN HARBORと若者向け名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-youth-nagano-hakuba-snowboard-camp-guide/

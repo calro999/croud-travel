@@ -1,4 +1,14 @@
-# 岩手県の宿泊・観光記事（56件）
+# 岩手県の宿泊・観光記事（57件）
+
+## 冬の岩手・安比高原シルキースノー＆北東北の冬グルメ！ロングコースを滑り倒すスノーリゾート名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-snow-iwate-appi-kogen-snowboard-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-snow-iwate-appi-kogen-snowboard-guide.md
+- 宿泊施設名: 岩手 安比高原 パウダースノー＆美肌温泉名宿5選
+- エリア: 安比高原・八幡平
+- 参考価格: ¥¥8,265〜〜
+- 評価: 3.89
+
+本州屈指の雪質を誇る安比高原スキー場！最長滑走距離5,500mのロングクルージングと、水分量が少なくサラサラの「アスピリンスノー」。東北新幹線で手軽に行ける北東北の冬スノーリゾートでおすすめのホテル5選を紹介します。
 
 ## 冬休みの世界遺産平泉中尊寺＆花巻温泉郷家族旅！温泉旅館itsumuとバラ風呂・わんこそば体験を楽しむ岩手名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-iwate-hiraizumi-hanamaki-onsen-guide/

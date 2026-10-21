@@ -1,4 +1,4 @@
-# 北海道の宿泊・観光記事（133件）
+# 北海道の宿泊・観光記事（135件）
 
 ## 冬休みの札幌奥座敷・定山渓温泉家族旅行！定山渓ビューホテルの巨大温水プール水の王国ラグーン名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-hokkaido-jozankei-onsen-sapporo-guide/
@@ -19,6 +19,26 @@
 - 評価: 3.97
 
 サチコ注目クエリ「層雲峡温泉 ランキング」「北海道 温泉 ランキング」に完全連動！大雪山国立公園の峡谷美に抱かれた北の大温泉郷「層雲峡（そううんきょう）温泉」。冬休みの目玉は、石狩川の河川敷に巨大な氷の建造物群が出現する「層雲峡温泉氷瀑（ひょうばく）まつり」。ライトアップされた氷...
+
+## 冬の北海道・ニセコ世界最高峰のシャンパンパウダー＆羊蹄山絶景！冬の国際スノーリゾート満喫名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-snow-hokkaido-niseko-powder-resort-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-snow-hokkaido-niseko-powder-resort-guide.md
+- 宿泊施設名: 北海道 ニセコ 羊蹄山絶景＆極上パウダースノー名宿5選
+- エリア: ニセコ・倶知安
+- 参考価格: ¥¥5,900〜〜
+- 評価: 4.42
+
+世界中のスキーヤー・スノーボーダーを熱狂させるニセコの「JAPOW（ジャパンパウダー）」！蝦夷富士と呼ばれる羊蹄山の雄大な景色と、スタイリッシュなコンドミニアムや天然温泉。冬の憧れリゾート・ニセコのおすすめホテル5選を紹介します。
+
+## 冬の北海道・トマムのアイスヴィレッジ氷の街＆霧氷テラス！白銀パウダースノーと幻想スノーリゾート名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-snow-hokkaido-tomamu-ice-village-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-snow-hokkaido-tomamu-ice-village-guide.md
+- 宿泊施設名: 北海道 トマム 氷の街アイスヴィレッジ＆スノーリゾート名宿5選
+- エリア: トマム・富良野
+- 参考価格: ¥¥14,960〜〜
+- 評価: 4.12
+
+氷点下30度が生み出す冬限定の奇跡！氷のホテルやバーが並ぶ「アイスヴィレッジ」とゴンドラで行く「霧氷テラス」。北海道最大級の滞在型スノーリゾート・トマムで、パウダースノーと冬の幻想世界を体験できるおすすめホテル5選を紹介します。
 
 ## 冬休みの函館山100万ドルの夜景＆五稜郭星形イルミ学生旅行！ラッキーピエロチャイニーズチキンバーガー名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-youth-hokkaido-hakodate-goryokaku-nightview-guide/

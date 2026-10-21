@@ -1,4 +1,14 @@
-# 新潟県の宿泊・観光記事（60件）
+# 新潟県の宿泊・観光記事（61件）
+
+## 冬の新潟・苗場＆越後湯沢ゲレンデ直結スノボ旅行！白銀パウダースノーと絶景雪見温泉を満喫する名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-snow-naeba-yuzawa-ski-resort-hotel-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-snow-naeba-yuzawa-ski-resort-hotel-guide.md
+- 宿泊施設名: 新潟 苗場・越後湯沢 ゲレンデ直結＆雪見温泉名宿5選
+- エリア: 苗場・越後湯沢
+- 参考価格: ¥¥5,128〜〜
+- 評価: 3.66
+
+世界屈指の豪雪地帯・新潟越後湯沢！ドアを出たらすぐゲレンデのスキーイン・スキーアウトホテルから、滑り疲れた筋肉を優しくほぐす天然温泉、南魚沼産コシヒカリと日本海の幸まで。冬を満喫できるおすすめ名宿5選を徹底特集します。
 
 ## 冬休みの新潟駅ぽんしゅ館利き酒＆CoCoLo南館爆食い学生旅行！名物タレカツ丼と日本海冬の味覚・駅近名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-youth-niigata-echigo-sake-ponshukan-guide/

@@ -1,4 +1,14 @@
-# 兵庫県の宿泊・観光記事（65件）
+# 兵庫県の宿泊・観光記事（66件）
+
+## 冬の兵庫・城崎温泉7つの外湯めぐり＆絶品津居山ガニ会席！雪降る柳並木を浴衣で歩く冬の王道温泉宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-snow-hyogo-kinosaki-onsen-crab-yukata-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-snow-hyogo-kinosaki-onsen-crab-yukata-guide.md
+- 宿泊施設名: 兵庫 城崎温泉 冬の松葉ガニ＆外湯7箇所有名名宿5選
+- エリア: 城崎温泉
+- 参考価格: ¥¥8,000〜〜
+- 評価: 5
+
+開湯1300年の歴史を誇る城崎温泉！冬の澄んだ夜空に雪が舞う柳並木と太鼓橋をカランコロンと下駄を鳴らして歩く風情、そして冬の日本海が育んだ最高級の冬の味覚・松葉ガニ（津居山ガニ）。冬の極上旅に泊まりたい名宿5選を徹底特集します。
 
 ## 冬休みの神戸ハーバーランドモザイク夜景＆南京町中華街食べ歩き女子旅！小籠包とホテルプラザ神戸名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-youth-kobe-harborland-night-view-sweets-guide/

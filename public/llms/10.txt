@@ -1,4 +1,24 @@
-# 群馬県の宿泊・観光記事（93件）
+# 群馬県の宿泊・観光記事（95件）
+
+## 冬の群馬・草津温泉湯畑の巨大湯けむり＆雪見露天風呂！毎分3万Lの圧倒的名湯と熱々温泉街名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-snow-gunma-kusatsu-hotel-sakurai-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-snow-gunma-kusatsu-hotel-sakurai-guide.md
+- 宿泊施設名: 群馬 草津温泉 湯畑ライトアップ＆名湯雪見風呂名宿5選
+- エリア: 草津温泉
+- 参考価格: ¥¥16,500〜〜
+- 評価: 4.52
+
+自然湧出量日本一！冬の冷気の中でモクモクと立ち上る大迫力の湯畑ライトアップと、強酸性の名湯で体の芯まで温まる草津温泉。高校生・大学生の友達旅からカップル・家族旅行まで、冬の温泉街を満喫できる名宿5選を紹介します。
+
+## 冬の群馬・万座温泉の極上白濁にごり湯＆標高1,800mの絶景星空！日本最高峰の高濃度硫黄泉名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-snow-gunma-manza-kusatsu-milky-onsen-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-snow-gunma-manza-kusatsu-milky-onsen-guide.md
+- 宿泊施設名: 群馬 万座温泉 白濁雪見露天風呂＆満天星空名宿5選
+- エリア: 万座温泉
+- 参考価格: ¥¥6,590〜〜
+- 評価: 4.2
+
+標高1,800mの天空に湯けむりを上げる万座温泉！日本一の高濃度硫黄泉を誇る乳白色のにごり湯と、冬の澄み渡る満天の星空、そして一面の白銀世界。冬の温泉旅で絶対に一度は体験したいおすすめ名宿5選を徹底特集します。
 
 ## 冬休みの群馬・伊香保温泉365段石段街＆水沢うどん！学生友達旅で射的レトロ街歩きと黄金の湯を楽しむ名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-youth-gunma-kusatsu-ikaho-stone-steps-guide/
