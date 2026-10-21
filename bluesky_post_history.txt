@@ -119,3 +119,4 @@ showcase_ishikawa
 luxury-glamping-private-sauna-villa-hotels-guide
 showcase_miyagi
 kamakura-enoshima-shonan-hotels-guide
+showcase_nara
