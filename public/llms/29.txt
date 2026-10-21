@@ -1,4 +1,14 @@
-# 奈良県の宿泊・観光記事（46件）
+# 奈良県の宿泊・観光記事（47件）
+
+## 冬休みの古都奈良の世界遺産初詣＆天然温泉ホテル家族旅行！若草山山焼きと大和名物柿の葉寿司名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-family-nara-shika-sakura-hoshinoya-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-family-nara-shika-sakura-hoshinoya-guide.md
+- 宿泊施設名: 奈良 奈良町ならまち＆若草山初詣・天然温泉子連れ名宿5選
+- エリア: 奈良市内・ならまち
+- 参考価格: ¥¥8,079〜〜
+- 評価: 4.52
+
+サチコ注目クエリ「奈良といえば」「奈良県 名物」「奈良 旅館 おすすめ」に完全連動！冬の古都・奈良は、澄んだ空気の中で五重塔や東大寺大仏殿の美しさが際立つ静寂のシーズン。1月下旬には山全体が炎に包まれる壮大な冬の伝統行事「若草山山焼き」が行われ、夜空を焦がす炎と冬の花火は圧巻です...
 
 ## 冬休みの奈良公園鹿せんべい＆ホテルリガーレ春日野家族旅行！東大寺大仏殿と大和牛・茶粥会席名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-nara-kasugano-todaiji-deer-guide/

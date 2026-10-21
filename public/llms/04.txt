@@ -1,4 +1,24 @@
-# 宮城県の宿泊・観光記事（46件）
+# 宮城県の宿泊・観光記事（48件）
+
+## 冬休みの仙台奥座敷・秋保温泉家族旅行！伝承千年の宿佐勘の源泉掛け流しと仙台牛・ずんだ餅名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-family-miyagi-akiu-onsen-sakan-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-family-miyagi-akiu-onsen-sakan-guide.md
+- 宿泊施設名: 宮城 仙台 秋保温泉 伝承千年の宿佐勘＆仙台牛・ずんだ餅子連れ名宿5選
+- エリア: 仙台・秋保温泉
+- 参考価格: ¥¥16,720〜〜
+- 評価: 4.42
+
+サチコ急上昇クエリ「秋保温泉 旅館」「秋保温泉 ランキング」「宮城 温泉 おすすめ」に完全対応！伊達政宗公の湯浴み御殿としても愛された仙台の奥座敷「秋保（あきう）温泉」。冬休みの家族旅行では、清流・名取川の雪景色を望む露天風呂や、江戸時代から続く名旅館「伝承千年の宿 佐勘」をはじ...
+
+## 冬休みの宮城鳴子温泉郷こけし絵付け＆湯めぐり家族旅行！名物栗だんごと源泉多彩なにごり湯名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-family-miyagi-naruko-kokeshi-onsen-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-family-miyagi-naruko-kokeshi-onsen-guide.md
+- 宿泊施設名: 宮城 鳴子温泉郷 こけし絵付け体験＆名物栗だんご子連れ名宿5選
+- エリア: 鳴子温泉郷・大崎市
+- 参考価格: ¥¥15,400〜〜
+- 評価: 4.44
+
+サチコ急上昇クエリ「鳴子温泉 ホテル」「鳴子ホテル」「宮城 温泉 ランキング」に直結！日本に存在する11種類の泉質のうち、なんと9種類が集まる東日本屈指の湯治場「鳴子（なるこ）温泉郷」。冬休みには、乳白色・エメラルドグリーン・茶褐色と色が変化する神秘的な温泉「鳴子ホテル」をはじめ...
 
 ## 冬休みの日本三景松島温泉＆蔵王樹氷スノーモンスター家族旅行！絶景牡蠣鍋と樹氷ライトアップ名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-miyagi-matsushima-zao-snow-monster-guide/
