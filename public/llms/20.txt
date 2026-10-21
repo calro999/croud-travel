@@ -1,4 +1,4 @@
-# 長野県の宿泊・観光記事（94件）
+# 長野県の宿泊・観光記事（95件）
 
 ## 冬休みの信州戸倉上山田温泉うぐいす亭家族旅行！美肌の湯めぐりと名物信州そば・リンゴ風呂名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-nagano-kamiyamada-uguisutei-guide/
@@ -19,6 +19,16 @@
 - 評価: 4.29
 
 冬休みに友達とスノボ・スキーに行くなら、世界が熱狂する「JAPOW（ジャパンパウダー）」の聖地・白馬！北アルプスの白銀の山々をバックに絶景テラス「HAKUBA MOUNTAIN HARBOR（白馬マウンテンハーバー）」で名物クロワッサンサンドを片手に映え写真を撮り、広大なゲレンデ...
+
+## 冬休みの長野・野沢温泉外湯めぐり＆天然パウダースノー！学生友達旅で熱湯風呂と温泉街散策を満喫する名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-youth-nagano-nozawa-onsen-sotoyu-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-youth-nagano-nozawa-onsen-sotoyu-guide.md
+- 宿泊施設名: 長野 野沢温泉 外湯13箇所巡り＆スノボ友達旅名宿5選
+- エリア: 野沢温泉
+- 参考価格: ¥¥11,550〜〜
+- 評価: 4.58
+
+13箇所の外湯（共同浴場）を無料で巡れるレトロな温泉街と日本屈指のビッグゲレンデ！高校生・大学生が冬休みに友達と集まり、温泉街の湯めぐりや温泉卵作り、スキー・スノボを思い切り楽しめるおすすめ宿5選を紹介します。
 
 ## 冬休みの白馬スノーリゾート子連れ旅！雪遊びデビュー専用キッズパーク＆八方尾根の絶景温泉・信州グルメ満喫ホテル5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-nagano-hakuba-snow-play-hotspring-guide/

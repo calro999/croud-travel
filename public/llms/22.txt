@@ -1,4 +1,4 @@
-# 静岡県の宿泊・観光記事（110件）
+# 静岡県の宿泊・観光記事（111件）
 
 ## 冬休みの熱海温泉街食べ歩き＆映えカフェ女子旅！熱海プリンとMOA美術館円形ホール・オーシャンビュー格安名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-youth-atami-onsen-purin-cafe-guide/
@@ -9,6 +9,16 @@
 - 評価: 3.91
 
 東京駅から東海道新幹線でわずか約35分（在来線でも約1時間半）！高校生・大学生の冬休み女子旅・週末友達旅行でダントツ人気の熱海。昭和レトロな平和通り商店街でカバのマークが可愛い「熱海プリン」や揚げたて温泉まんじゅうを食べ歩き！さらに日本屈指の映えスポット「MOA美術館」の巨大万華...
+
+## 冬休みの伊豆・熱海〜下田海岸ドライブ＆金目鯛海鮮丼！学生友達旅で映えカフェと海露天を満喫するホテル5選
+- 記事: https://croud-travel.pages.dev/posts/winter-youth-shizuoka-izu-atami-shimoda-onsen-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-youth-shizuoka-izu-atami-shimoda-onsen-guide.md
+- 宿泊施設名: 伊豆熱海・下田 冬の海沿いドライブ＆海鮮友達旅名宿5選
+- エリア: 伊豆・熱海・下田
+- 参考価格: ¥¥4,894〜〜
+- 評価: 4.05
+
+冬でも比較的温暖な伊豆半島！熱海のレトロプリン＆足湯カフェから、伊東・下田の透明度抜群の冬の海、豪快な金目鯛の煮付けまで。高校生・大学生の友達旅で海が見える露天風呂とコスパ抜群のステイが叶うおすすめホテル5選を紹介します。
 
 ## 冬休みの浜名湖パルパル＆うなぎ家族旅！温暖な浜名湖パノラマ遊覧船と舘山寺温泉・豪華うなぎバイキング名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-shizuoka-hamamatsu-hamanako-palpal-guide/

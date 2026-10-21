@@ -1,4 +1,4 @@
-# 鹿児島県の宿泊・観光記事（59件）
+# 鹿児島県の宿泊・観光記事（60件）
 
 ## 冬休みの霧島神宮初詣＆霧島温泉郷家族旅行！天孫降臨のパワースポットと名物黒豚しゃぶしゃぶ名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-kagoshima-kirishima-onsen-ryoma-guide/
@@ -9,6 +9,16 @@
 - 評価: 4.63
 
 サチコ注目クエリ「指宿 霧島 どっち」「鹿児島 温泉 ランキング」に完全連動！坂本龍馬とおりょうが日本最初の新婚旅行に訪れた地として名高い「霧島温泉郷」。国宝に指定された「霧島神宮」への冬休み初詣は、樹齢800年の御神木がそびえる荘厳なパワースポットとして大人気。霧島連山の雄大な...
+
+## 冬休みの鹿児島・桜島フェリーうどん＆黒豚しゃぶしゃぶ！学生友達旅で雄大火山と砂むし温泉を体感する名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-youth-kagoshima-sakurajima-kurobuta-onsen-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-youth-kagoshima-sakurajima-kurobuta-onsen-guide.md
+- 宿泊施設名: 鹿児島 桜島フェリー＆黒豚しゃぶしゃぶ 学生友達旅名宿5選
+- エリア: 鹿児島市・指宿
+- 参考価格: ¥¥17,590〜〜
+- 評価: 4.57
+
+24時間運航の桜島フェリーで名物うどんを食べ、モクモクと噴煙を上げる桜島の雄姿を間近に体感！高校生・大学生の冬休みに友達同士で黒豚グルメや指宿の天然砂むし温泉を楽しめるおすすめホテル5選を紹介します。
 
 ## 冬休みの屋久島白谷雲水峡トレッキング＆縄文杉学生旅行！もののけの森苔むす雪景色と屋久島いわさきホテル名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-youth-kagoshima-yakushima-nature-trekking-guide/

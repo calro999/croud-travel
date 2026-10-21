@@ -1,4 +1,4 @@
-# 栃木県の宿泊・観光記事（62件）
+# 栃木県の宿泊・観光記事（63件）
 
 ## 冬休みの世界遺産日光東照宮＆江戸ワンダーランド日光江戸村学生旅行！忍者変身体験と湯波御膳・温泉名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-youth-nikko-kinugawa-edo-wonderland-guide/
@@ -9,6 +9,16 @@
 - 評価: 4.63
 
 サチコ注目クエリ「日光 おすすめ 温泉」に直結！浅草や新宿から東武特急スペーシアXで約1時間50分！冬休みに高校生・大学生の友達同士で出かけるなら、世界遺産「日光東照宮」の荘厳な陽明門への初詣と、全員で忍者や町娘に変身して手裏剣投げや芝居小屋を楽しむ「江戸ワンダーランド 日光江戸...
+
+## 冬休みの栃木・宇都宮餃子食べ比べ＆日光東照宮初詣！学生友達旅でご当地グルメと世界遺産を制覇するホテル5選
+- 記事: https://croud-travel.pages.dev/posts/winter-youth-tochigi-utsunomiya-nikko-gyoza-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-youth-tochigi-utsunomiya-nikko-gyoza-guide.md
+- 宿泊施設名: 栃木 宇都宮餃子＆日光東照宮 学生友達旅名宿5選
+- エリア: 宇都宮・日光
+- 参考価格: ¥¥4,750〜〜
+- 評価: 4.49
+
+パリパリ羽根つき餃子の名店ハシゴと、冬の澄んだ空気の中で巡る世界遺産・日光東照宮！高校生・大学生の冬休みにピッタリな、交通費と宿泊費を抑えつつ最高の思い出が作れる宇都宮〜日光エリアのおすすめホテル5選を紹介します。
 
 ## 冬休みの鬼怒川日光子連れ旅！江戸ワンダーランド日光江戸村の忍者体験＆東武ワールドスクウェア・名湯バイキング宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-tochigi-nikko-edo-wonderland-guide/

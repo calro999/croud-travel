@@ -1,4 +1,14 @@
-# 青森県の宿泊・観光記事（57件）
+# 青森県の宿泊・観光記事（58件）
+
+## 冬休みの青森・ねぶたの家ワラッセ＆のっけ丼海鮮市場！学生友達旅で雪国の熱気と豪快グルメを味わう名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-youth-aomori-nebuta-hakkoda-sukayu-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-youth-aomori-nebuta-hakkoda-sukayu-guide.md
+- 宿泊施設名: 青森 ねぶた＆青森魚菜センターのっけ丼 学生友達旅名宿5選
+- エリア: 青森市
+- 参考価格: ¥¥7,250〜〜
+- 評価: 4.56
+
+自分だけのオリジナル海鮮丼が作れる「元祖のっけ丼」と巨大ねぶたの迫力に圧倒されるワ・ラッセ！高校生・大学生の冬休みに友達と本州最北端の雪国カルチャーを肌で体感できるおすすめホテル5選を紹介します。
 
 ## 冬休みの白銀の八甲田酸ヶ湯温泉＆弘前城家族旅行！千人風呂と津軽リンゴ・雪灯籠まつり名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-aomori-sukayu-hirosaki-apple-guide/

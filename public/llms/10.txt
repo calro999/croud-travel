@@ -1,4 +1,14 @@
-# 群馬県の宿泊・観光記事（92件）
+# 群馬県の宿泊・観光記事（93件）
+
+## 冬休みの群馬・伊香保温泉365段石段街＆水沢うどん！学生友達旅で射的レトロ街歩きと黄金の湯を楽しむ名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-youth-gunma-kusatsu-ikaho-stone-steps-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-youth-gunma-kusatsu-ikaho-stone-steps-guide.md
+- 宿泊施設名: 群馬 伊香保温泉 石段街レトロ散策＆水沢うどん友達旅名宿5選
+- エリア: 伊香保温泉
+- 参考価格: ¥¥21,560〜〜
+- 評価: 4.75
+
+365段の石段街に射的場や足湯、温泉まんじゅう店が連なるレトロ情緒満点の伊香保温泉！高校生・大学生の冬休みに友達とワイワイ浴衣で食べ歩き、伝統の「黄金の湯」「白銀の湯」を満喫できるおすすめ名宿5選を徹底特集します。
 
 ## 冬休みの草津温泉湯畑ライトアップ＆湯もみ体験学生旅行！西の河原大露天風呂と温泉まんじゅう食べ歩き名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-youth-kusatsu-onsen-yubatake-retro-guide/
