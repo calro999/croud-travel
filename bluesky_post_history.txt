@@ -113,3 +113,4 @@ showcase_kagoshima
 itoshima-momochi-uminonakamichi-hotels-guide
 showcase_nagano
 fukui-famous-things-gourmet-spots-guide
+showcase_kagoshima
