@@ -1,4 +1,4 @@
-# 神奈川県の宿泊・観光記事（73件）
+# 神奈川県の宿泊・観光記事（74件）
 
 ## 冬休みの箱根湯本温泉街食べ歩き＆ロマンスカー学生旅行！映えスイーツと露天風呂付き客室・格安名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-youth-hakone-yumoto-onsen-street-guide/
@@ -9,6 +9,16 @@
 - 評価: 4.29
 
 新宿から小田急ロマンスカーでわずか約75分！高校生・大学生の冬休みプチトリップの定番中の定番・箱根湯本。駅前商店街で「箱根てゑらみす」のティラミスソフトや湯もち、手焼き煎餅を友達と食べ歩き！クチコミ高評価の「箱根パークス吉野」など、露天風呂や大浴場で友達と語り合い、大涌谷の黒たま...
+
+## 冬休みの鎌倉小町通り食べ歩き＆江の島シーキャンドルイルミ学生旅行！江ノ電スラムダンク聖地と海街名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-youth-kanagawa-kamakura-enoshima-sea-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-youth-kanagawa-kamakura-enoshima-sea-guide.md
+- 宿泊施設名: 神奈川 鎌倉・江の島 江ノ電沿線スラムダンク踏切＆シーキャンドル 学生名宿5選
+- エリア: 鎌倉・江の島・藤沢
+- 参考価格: ¥¥11,400〜〜
+- 評価: 4.2
+
+東京から電車で約1時間！冬休みに高校生・大学生が日帰り感覚でも気軽に行ける大人気コース「鎌倉・江の島」。小町通りで抹茶スイーツや大仏さま焼きを食べ歩き、映画・アニメで世界的人気を誇る「鎌倉高校前踏切」で江ノ電と青い海をバックに友達と聖地巡礼写真を撮影！夕暮れからは関東三大イルミネ...
 
 ## 冬休みの神奈川・小田原箱根の玄関口子連れ旅！小田原城天守閣のSAMURAI体験＆わんぱくらんど・海鮮バイキング名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-kanagawa-odawara-hotspring-castle-guide/
