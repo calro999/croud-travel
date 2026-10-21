@@ -1,4 +1,14 @@
-# 愛媛県の宿泊・観光記事（49件）
+# 愛媛県の宿泊・観光記事（50件）
+
+## 冬休みの道後温泉本館リニューアル＆坊っちゃん列車学生旅行！道後ハイカラ通りみかんパフェ・温泉名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-youth-ehime-dogo-onsen-honkan-botan-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-youth-ehime-dogo-onsen-honkan-botan-guide.md
+- 宿泊施設名: 愛媛 松山 道後温泉本館全館営業再開＆みかんパフェ 学生友達旅名宿5選
+- エリア: 松山・道後温泉・松山城
+- 参考価格: ¥¥9,900〜〜
+- 評価: 4.09
+
+約5年半に及ぶ保存修理工事を終え、全館営業を完全再開した日本最古の名湯「道後温泉本館」！冬休みに高校生・大学生の友達同士で行くなら、レトロな木造3階建ての本館で湯浴みし、浴衣姿で「道後ハイカラ通り」を散策！蛇口からみかんジュースが出てくる体験や、みかんジェラート・一六タルトの天ぷ...
 
 ## 冬休みのしまなみ海道・今治家族旅行！来島海峡の絶景パノラマ大橋と今治タオル美術館・瀬戸内海鮮天然温泉名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-ehime-imabari-shimanami-hotspring-guide/

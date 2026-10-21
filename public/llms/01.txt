@@ -1,4 +1,4 @@
-# 北海道の宿泊・観光記事（131件）
+# 北海道の宿泊・観光記事（133件）
 
 ## 冬休みの札幌奥座敷・定山渓温泉家族旅行！定山渓ビューホテルの巨大温水プール水の王国ラグーン名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-hokkaido-jozankei-onsen-sapporo-guide/
@@ -20,6 +20,16 @@
 
 サチコ注目クエリ「層雲峡温泉 ランキング」「北海道 温泉 ランキング」に完全連動！大雪山国立公園の峡谷美に抱かれた北の大温泉郷「層雲峡（そううんきょう）温泉」。冬休みの目玉は、石狩川の河川敷に巨大な氷の建造物群が出現する「層雲峡温泉氷瀑（ひょうばく）まつり」。ライトアップされた氷...
 
+## 冬休みの函館山100万ドルの夜景＆五稜郭星形イルミ学生旅行！ラッキーピエロチャイニーズチキンバーガー名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-youth-hokkaido-hakodate-goryokaku-nightview-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-youth-hokkaido-hakodate-goryokaku-nightview-guide.md
+- 宿泊施設名: 北海道 函館 函館山ロープウェイ夜景＆ラッキーピエロ 学生卒業旅行名宿5選
+- エリア: 函館・ベイエリア・五稜郭・湯の川温泉
+- 参考価格: ¥¥10,315〜〜
+- 評価: 4.44
+
+北海道新幹線や飛行機でアクセス！高校生・大学生の冬休み卒業旅行・友達旅で不動の人気を誇るロマンチックな港町・函館。両側を海に挟まれた唯一無二の地形が光り輝く「函館山100万ドルの夜景」をはじめ、雪の中に巨大な星形が浮かび上がる五稜郭「五稜星の夢（ほしのゆめ）イルミネーション」、地...
+
 ## 冬休みの小樽運河雪あかり散策＆海鮮丼食べ歩き学生旅行！北一硝子カフェとおたる水族館・小樽ふる川名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-youth-hokkaido-otaru-canal-snow-retro-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/winter-youth-hokkaido-otaru-canal-snow-retro-guide.md
@@ -29,6 +39,16 @@
 - 評価: 4.81
 
 サチコ注目クエリ「運河の宿 おたる ふる川」「小樽 温泉 おすすめ」に完全対応！ガス灯が雪景色を暖かく照らす幻想的な「小樽運河」。冬休みに友達と訪れる小樽は、まるで映画のワンシーンのようなエモい街並みが広がります。クチコミ絶賛の運河沿い名宿「おたる ふる川」をはじめ、堺町通り商店...
+
+## 冬休みの札幌大通イルミネーション＆スープカレー爆食い学生旅行！東急ステイ札幌大浴場とシメパフェ映え名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-youth-sapporo-tokyu-stay-soup-curry-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-youth-sapporo-tokyu-stay-soup-curry-guide.md
+- 宿泊施設名: 北海道 札幌 大通ホワイトイルミ＆シメパフェ・東急ステイ札幌 学生名宿5選
+- エリア: 札幌・大通公園・すすきの
+- 参考価格: ¥¥5,320〜〜
+- 評価: 4.53
+
+サチコ注目クエリ「東急ステイ札幌 大浴場」に直結！冬の北海道・札幌は、大通公園を彩る「さっぽろホワイトイルミネーション」やすすきのの活気が最高潮を迎える季節。スパイス香るアツアツの「本場札幌スープカレー」やジンギスカンを友達と食べまくり、夜は札幌独自のカルチャー「夜シメパフェ」で...
 
 ## 【北海道】幕別温泉パークホテル　悠湯館宿泊ガイド！【泉質が自慢！】自家源泉掛け流し１０・アクセス＆魅力ルポ
 - 記事: https://croud-travel.pages.dev/posts/28378/
