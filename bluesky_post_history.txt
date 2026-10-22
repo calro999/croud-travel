@@ -127,3 +127,4 @@ showcase_hokkaido
 silverweek-lastminute-earlybird-shinkansen-hotels-guide
 showcase_oita
 silverweek-history-powerspot-guide
+showcase_aomori
