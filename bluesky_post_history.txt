@@ -121,3 +121,4 @@ showcase_miyagi
 kamakura-enoshima-shonan-hotels-guide
 showcase_nara
 winter-family-echigo-yuzawa-livemax-snow-guide
+showcase_kyoto
