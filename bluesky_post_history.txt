@@ -129,3 +129,4 @@ showcase_oita
 silverweek-history-powerspot-guide
 showcase_aomori
 natural-carbonated-spring-sparkling-hotels-guide
+showcase_hiroshima
