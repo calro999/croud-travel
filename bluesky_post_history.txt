@@ -137,3 +137,4 @@ showcase_nara
 super-hotel-kashima-ibaraki-guide
 showcase_oita
 pottery-craft-woodwork-artisan-retreat-hotels-guide
+showcase_hiroshima
