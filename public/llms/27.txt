@@ -1,4 +1,23 @@
-# 大阪府の宿泊・観光記事（54件）
+# 大阪府の宿泊・観光記事（56件）
+
+## 【2026年11月開幕】全長4kmの光の回廊「大阪・御堂筋イルミネーション」＆大阪城紅葉特選ホテル5選
+- 記事: https://croud-travel.pages.dev/posts/autumn-november-osaka-midosuji-lightup-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/autumn-november-osaka-midosuji-lightup-guide.md
+- 宿泊施設名: 大阪 御堂筋イルミネーション＆天然温泉特選ホテル
+- エリア: 大阪・梅田・本町・難波
+- 参考価格: ¥3330〜
+- 評価: 4.27
+
+梅田から難波まで全長約4kmの街路樹が一斉に光を放つ世界記録の祭典「御堂筋イルミネーション」。昼間は大阪城公園の樹齢300年の大イチョウを巡り、夜は中之島から本町・心斎橋へと続く光のトンネルを歩く。御堂筋直結や天然温泉大浴場を備えた宿を拠点に、秋のビル風をものともしない快適な大阪...
+
+## 【大阪府】ホテルモントレ大阪宿泊ガイド！◆全室禁煙ルーム◆加湿機能空気清浄機・アクセス＆魅力ルポ
+- 記事: https://croud-travel.pages.dev/posts/4906/
+- 全文Markdown: https://croud-travel.pages.dev/ai/4906.md
+- 宿泊施設名: ホテルモントレ大阪
+- エリア: 近畿
+- 評価: 4.25
+
+大阪府（近畿エリア）の人気宿「ホテルモントレ大阪」。◆全室禁煙ルーム◆加湿機能空気清浄機完備◆全館Wi-Fiフリー◆４ＫスマートＴＶ全室導入。アクセス情報や周辺観光・最新宿泊プランの魅力を旅ライターが詳しくガイドします。
 
 ## 冬休みのUSJユニバ＆道頓堀たこ焼き食べ歩き学生旅行！グリコサイン映え写真とオフィシャルホテル格安名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-youth-osaka-usj-namba-gourmet-guide/

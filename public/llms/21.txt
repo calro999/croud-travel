@@ -1,4 +1,14 @@
-# 岐阜県の宿泊・観光記事（63件）
+# 岐阜県の宿泊・観光記事（64件）
+
+## 【2026年11月限定】世界遺産・白川郷「秋の一斉放水」＆飛騨高山紅葉特選名宿5選
+- 記事: https://croud-travel.pages.dev/posts/autumn-november-shirakawago-fire-drill-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/autumn-november-shirakawago-fire-drill-guide.md
+- 宿泊施設名: 白川郷 一斉放水訓練＆飛騨高山温泉特選宿
+- エリア: 白川郷・飛騨高山
+- 参考価格: ¥10604〜
+- 評価: 4.57
+
+合掌造りの集落内に点在する約60基の放水銃から一斉に空高く水柱が噴射される、年に一度の「白川郷 火災予防一斉放水」。秋晴れの青空と紅葉を背景に巨大な水のカーテンが広がる奇跡の絶景。当日の朝7:00満車を回避する「前夜・飛騨高山温泉泊」ルートと、A5飛騨牛朴葉味噌焼き・自家源泉名湯...
 
 ## 冬休みの下呂温泉足湯めぐり＆温玉ソフト食べ歩き学生旅行！飛騨牛握りとレトロ温泉街・学生コスパ名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-youth-gero-onsen-footbath-pudding-guide/

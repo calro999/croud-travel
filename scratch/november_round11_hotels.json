@@ -1,0 +1,65 @@
+{
+  "唐津・嬉野温泉 和多屋別荘": [
+    {
+      "hotelNo": 40527,
+      "hotelName": "嬉野温泉　和多屋別荘",
+      "reviewAverage": 4.12,
+      "reviewCount": 1389,
+      "hotelMinCharge": 9900,
+      "address1": "佐賀県",
+      "address2": "嬉野市嬉野町下宿乙738",
+      "access": "JR嬉野温泉駅から車で5分/長崎自動車道 嬉野ICより約5分",
+      "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/40527.jpg",
+      "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40527/40527.jpg",
+      "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D40527",
+      "hotelSpecial": "嬉野WELL-BEING「河畔サウナ」「色写経」「創香室」等館内で体験できるアクティビティが充実。"
+    },
+    {
+      "hotelNo": 168250,
+      "hotelName": "ａｒｉｔａ　ｈｕｉｓ（アリタハウス）",
+      "reviewAverage": 4.18,
+      "reviewCount": 61,
+      "hotelMinCharge": 11000,
+      "address1": "佐賀県",
+      "address2": "西松浦郡有田町赤坂丙2351-169",
+      "access": "ＪＲ　有田駅よりお車にて約5分　アリタセラ施設内　東1駐車場前",
+      "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/168250.jpg",
+      "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168250/168250.jpg",
+      "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D168250",
+      "hotelSpecial": "有田焼の歴史、洗練された世界。 美しい磁器を体感し、愛で、味わえる、唯一無二の場所アリタハウス。"
+    }
+  ],
+  "日光 金谷ホテル": [
+    {
+      "hotelNo": 28760,
+      "hotelName": "日光金谷ホテル",
+      "reviewAverage": 4.47,
+      "reviewCount": 916,
+      "hotelMinCharge": 17500,
+      "address1": "栃木県",
+      "address2": "日光市上鉢石町1300",
+      "access": "東武・ＪＲ日光駅よりバス約５分、神橋バス停下車／日光－宇都宮有料道路日光ＩＣより神橋交差点近く　日光東照宮より徒歩15分",
+      "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/28760.jpg",
+      "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28760/28760.jpg",
+      "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D28760",
+      "hotelSpecial": "創業明治６年、日本最古のクラシックリゾートホテル。明治の薫り漂う館内で時間旅行をご堪能下さい。"
+    }
+  ],
+  "有馬温泉 欽山": [
+    {
+      "hotelNo": 53390,
+      "hotelName": "有馬温泉　欽山",
+      "reviewAverage": 4.63,
+      "reviewCount": 505,
+      "hotelMinCharge": 25850,
+      "address1": "兵庫県",
+      "address2": "神戸市北区有馬町1302-4",
+      "access": "神戸電鉄「有馬温泉駅」より徒歩５分・山陽新幹線「新神戸駅」よりバスにて約30分・大阪（梅田）より高速バスにて約55分",
+      "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/53390.jpg",
+      "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53390/53390.jpg",
+      "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D53390",
+      "hotelSpecial": "幾千年、伝えゆきたい日本の風雅。風情薫る欽山で雅な休日をお過ごしください。"
+    }
+  ],
+  "奥入瀬 蔦温泉": []
+}

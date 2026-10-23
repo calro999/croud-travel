@@ -1,4 +1,14 @@
-# 福岡県の宿泊・観光記事（53件）
+# 福岡県の宿泊・観光記事（54件）
+
+## 【2026年11月限定】博多ライトアップウォーク「博多千年煌夜」＆秋の博多グルメ特選宿5選
+- 記事: https://croud-travel.pages.dev/posts/autumn-november-hakata-lightup-walk-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/autumn-november-hakata-lightup-walk-guide.md
+- 宿泊施設名: 博多 博多千年煌夜ライトアップ＆天然温泉特選ホテル
+- エリア: 博多・祇園・中洲
+- 参考価格: ¥10170〜
+- 評価: 4.44
+
+うどん・そば発祥の地・承天寺の方丈枯山水庭園「洗濤庭」や東長寺の五重塔、櫛田神社の大銀杏が一斉にライトアップされる「博多千年煌夜」。さらに大相撲九州場所や、寒サバ（胡麻サバ）・博多もつ鍋・水炊きが最高の旬を迎える11月の博多。会場のど真ん中に位置する祇園・櫛田神社前の天然温泉ホテ...
 
 ## 冬休みの博多中洲屋台ラーメン＆太宰府天満宮合格祈願学生旅行！もつ鍋・明太子食べ放題とサウナ付き名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-youth-fukuoka-hakata-yatai-ramen-guide/

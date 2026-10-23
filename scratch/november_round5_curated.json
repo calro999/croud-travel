@@ -1,0 +1,62 @@
+{
+  "9045": {
+    "hotelNo": "9045",
+    "hotelName": "信玄の湯　湯村温泉　常磐ホテル",
+    "reviewAverage": 4.78,
+    "reviewCount": 1591,
+    "hotelMinCharge": 23100,
+    "address1": "山梨県",
+    "address2": "甲府市湯村2-5-21",
+    "access": "中央自動車道、甲府昭和ICから20分／甲府駅南口バスターミナル4番線15分「湯村温泉入口」下車。武田神社は車で15分",
+    "nearestStation": "甲府",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/9045.jpg",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9045/9045.jpg",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D9045",
+    "hotelSpecial": "日本旅館の感性と、都市型ホテルの利便性を兼備えた、皇室もご利用なさる甲府の迎賓館"
+  },
+  "11332": {
+    "hotelNo": "11332",
+    "hotelName": "道後温泉　ふなや",
+    "reviewAverage": 4.73,
+    "reviewCount": 2055,
+    "hotelMinCharge": 22000,
+    "address1": "愛媛県",
+    "address2": "松山市道後湯之町1-33",
+    "access": "道後温泉駅から徒歩3分 松山ＩＣより車で25分 ＪＲ松山駅前から市内電車で30分 空港からリムジンバスで35分",
+    "nearestStation": "松山市",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/11332.jpg",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11332/11332.jpg",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D11332",
+    "hotelSpecial": "★文人ゆかりの宿・道後一の老舗★　日本庭園には、自然の川が流れ四季折々の風情がお楽しみいただけます。"
+  },
+  "31865": {
+    "hotelNo": "31865",
+    "hotelName": "修善寺温泉　国の登録文化財の宿　新井旅館",
+    "reviewAverage": 4.56,
+    "reviewCount": 267,
+    "hotelMinCharge": 24420,
+    "address1": "静岡県",
+    "address2": "伊豆市修善寺970",
+    "access": "伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分",
+    "nearestStation": "修善寺",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/31865.jpg",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31865/31865.jpg",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D31865",
+    "hotelSpecial": "ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利です"
+  },
+  "106139": {
+    "hotelNo": "106139",
+    "hotelName": "鳴子温泉郷　極上の貸切露天風呂　旅館大沼",
+    "reviewAverage": 4.6,
+    "reviewCount": 624,
+    "hotelMinCharge": 14080,
+    "address1": "宮城県",
+    "address2": "大崎市鳴子温泉赤湯34",
+    "access": "東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、徒歩５分。鳴子温泉からはタクシーで約5分。",
+    "nearestStation": "鳴子御殿湯",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/106139.jpg",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/106139/106139.jpg",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D106139",
+    "hotelSpecial": "美肌湯が自慢の宮城・東鳴子温泉の秘湯宿。源泉かけ流しの天然温泉を使用した大浴場・家族風呂をご堪能。"
+  }
+}

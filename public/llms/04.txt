@@ -1,4 +1,14 @@
-# 宮城県の宿泊・観光記事（49件）
+# 宮城県の宿泊・観光記事（50件）
+
+## 【2026年11月限定】日本三景・松島「円通院」紅葉ライトアップ＆初牡蠣特選宿5選
+- 記事: https://croud-travel.pages.dev/posts/autumn-november-matsushima-entuuin-kaki-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/autumn-november-matsushima-entuuin-kaki-guide.md
+- 宿泊施設名: 松島 円通院紅葉ライトアップ＆松島湾初牡蠣特選宿
+- エリア: 松島・塩釜・仙台
+- 参考価格: ¥11000〜
+- 評価: 4.66
+
+伊達政宗の嫡孫・光宗の霊廟「三慧殿」を抱く円通院。心字の池の水面に漆黒と真紅のシンメトリーを描く「逆さ紅葉」のライトアップと、11月に本格解禁を迎える松島湾の「初牡蠣」。国道45号の渋滞を回避するJR仙石線アクセスと、地下1,500mから湧く「絹肌の湯」を誇る松島海岸徒歩圏の厳選...
 
 ## 冬休みの仙台奥座敷・秋保温泉家族旅行！伝承千年の宿佐勘の源泉掛け流しと仙台牛・ずんだ餅名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-miyagi-akiu-onsen-sakan-guide/

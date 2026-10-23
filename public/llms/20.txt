@@ -1,4 +1,22 @@
-# 長野県の宿泊・観光記事（96件）
+# 長野県の宿泊・観光記事（98件）
+
+## 【2026年11月限定】信州「秋の新そば解禁」＆国宝松本城の三段紅葉特選名宿5選
+- 記事: https://croud-travel.pages.dev/posts/autumn-november-shinshu-soba-matsumoto-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/autumn-november-shinshu-soba-matsumoto-guide.md
+- 宿泊施設名: 信州 松本城三段紅葉＆手打ち新そば特選宿
+- エリア: 松本・美ヶ原温泉・浅間温泉
+- 参考価格: ¥14040〜
+- 評価: 4.64
+
+7月に種をまき、晩秋の寒暖差で旨味を凝縮させた「秋の新そば」が一斉に出揃う11月の信州。緑がかった翡翠色の十割新そばの圧倒的な香りと甘み、そして北アルプス初雪の白・紅葉の朱・漆黒天守が織りなす松本城の「三段紅葉」。館主手打ちそばの名宿から名湯・美ヶ原温泉まで、大人の舌と目を満たす...
+
+## 【2026年11月現地特化】木曽路・松島円通院・霧島神宮・弥彦もみじ谷の晩秋攻略ガイド｜楽天トラベル直近実データで選ぶ極上宿
+- 記事: https://croud-travel.pages.dev/posts/undefined/
+- 全文Markdown: https://croud-travel.pages.dev/ai/undefined.md
+- 宿泊施設名: undefined
+- エリア: 
+
+2026年11月の歴史街道紅葉＆冬グルメ解禁完全攻略。長野・木曽路（妻籠宿・馬籠宿）の秋情緒と信州新そば、宮城・松島円通院の逆さ紅葉ライトアップと三陸真牡蠣、鹿児島・国宝霧島神宮新嘗祭と名湯霧島温泉・黒豚しゃぶしゃぶ、新潟・弥彦公園もみじ谷の観月橋ライトアップと弥彦菊まつり。楽天トラベル実データに基づく厳選宿、混雑回避法、1泊2日モデルコースを徹底解説。
 
 ## 冬休みの信州戸倉上山田温泉うぐいす亭家族旅行！美肌の湯めぐりと名物信州そば・リンゴ風呂名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-nagano-kamiyamada-uguisutei-guide/

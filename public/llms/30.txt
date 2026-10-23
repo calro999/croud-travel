@@ -1,4 +1,14 @@
-# 和歌山県の宿泊・観光記事（57件）
+# 和歌山県の宿泊・観光記事（58件）
+
+## 【11月解禁！南紀白浜クエ旅】冬の味覚の王様「紀州本クエ」と円月島の夕景美！源泉かけ流し温泉旅館5選（2026年秋）
+- 記事: https://croud-travel.pages.dev/posts/autumn-november-shirahama-kue-onsen-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/autumn-november-shirahama-kue-onsen-guide.md
+- 宿泊施設名: 南紀白浜 紀州本クエ解禁＆名湯特選宿5選
+- エリア: 南紀白浜・白良浜
+- 参考価格: ¥10340〜
+- 評価: 4.65
+
+「クエを食ったら他の魚は食えん」と称される幻の超高級魚「本クエ」。水深数十メートルの岩礁で育つ天然本クエが厳しい水温低下とともに最上質の脂を蓄え、本格的な水揚げシーズンを迎えるのが11月です。静寂が戻った白良浜、円月島の海蝕洞に夕日が沈む幻想的な夕景、万葉の昔から続く源泉掛け流し...
 
 ## 冬休みの世界遺産熊野古道＆南紀那智勝浦洞窟温泉家族旅行！ホテル浦島の忘帰洞と生マグロ解体ショー名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-wakayama-nachikatsuura-onsen-tuna-guide/

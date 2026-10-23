@@ -1,4 +1,13 @@
-# 青森県の宿泊・観光記事（58件）
+# 青森県の宿泊・観光記事（59件）
+
+## 【青森県】絶景と大自然の癒やし旅！厳選宿とモデルコース
+- 記事: https://croud-travel.pages.dev/posts/4659/
+- 全文Markdown: https://croud-travel.pages.dev/ai/4659.md
+- 宿泊施設名: 十和田湖畔温泉　とわだこ遊月
+- エリア: 東北
+- 評価: 4.04
+
+青森県の絶景と大自然を巡る旅。十和田湖や奥入瀬の四季折々の美しさ、日本一黒いモール温泉などの極上宿を巡る大人の休日観光モデルコースをご紹介します。
 
 ## 冬休みの青森・ねぶたの家ワラッセ＆のっけ丼海鮮市場！学生友達旅で雪国の熱気と豪快グルメを味わう名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-youth-aomori-nebuta-hakkoda-sukayu-guide/

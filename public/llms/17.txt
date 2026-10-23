@@ -1,4 +1,14 @@
-# 石川県の宿泊・観光記事（65件）
+# 石川県の宿泊・観光記事（66件）
+
+## 【2026年11月の金沢】兼六園雪吊り開幕＆金沢城ライトアップ・11月6日解禁「香箱ガニ」美食特選宿5選
+- 記事: https://croud-travel.pages.dev/posts/autumn-november-kanazawa-yukitsuri-kobako-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/autumn-november-kanazawa-yukitsuri-kobako-guide.md
+- 宿泊施設名: 金沢 兼六園雪吊り＆香箱ガニ特選名宿
+- エリア: 金沢・兼六園・近江町市場
+- 参考価格: ¥13500〜
+- 評価: 4.56
+
+北陸・金沢が一年の中で最も風情を増す11月。11月1日から日本三名園・兼六園で始まる冬の風物詩「雪吊り」作業、週末の夜を黄金色に染め上げる「金沢城・兼六園 四季物語 秋の段ライトアップ」、そして11月6日に一斉解禁を迎えるわずか7週間限定の宝石「香箱ガニ（こうばこがに）」。近江町...
 
 ## 冬休みの金沢女子旅＆学生旅行！21世紀美術館ロケ地聖地巡礼とひがし茶屋街映えカフェ・近江町海鮮丼コスパ名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-youth-kanazawa-21st-century-museum-larc-guide/

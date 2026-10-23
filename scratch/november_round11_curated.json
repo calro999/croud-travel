@@ -1,0 +1,62 @@
+{
+  "28760": {
+    "hotelNo": "28760",
+    "hotelName": "日光金谷ホテル",
+    "reviewAverage": 4.47,
+    "reviewCount": 916,
+    "hotelMinCharge": 17500,
+    "address1": "栃木県",
+    "address2": "日光市上鉢石町1300",
+    "access": "東武・ＪＲ日光駅よりバス約５分、神橋バス停下車／日光－宇都宮有料道路日光ＩＣより神橋交差点近く　日光東照宮より徒歩15分",
+    "nearestStation": "東武日光",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/28760.jpg",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28760/28760.jpg",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D28760",
+    "hotelSpecial": "創業明治６年、日本最古のクラシックリゾートホテル。明治の薫り漂う館内で時間旅行をご堪能下さい。"
+  },
+  "53390": {
+    "hotelNo": "53390",
+    "hotelName": "有馬温泉　欽山",
+    "reviewAverage": 4.63,
+    "reviewCount": 505,
+    "hotelMinCharge": 25850,
+    "address1": "兵庫県",
+    "address2": "神戸市北区有馬町1302-4",
+    "access": "神戸電鉄「有馬温泉駅」より徒歩５分・山陽新幹線「新神戸駅」よりバスにて約30分・大阪（梅田）より高速バスにて約55分",
+    "nearestStation": "有馬温泉",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/53390.jpg",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53390/53390.jpg",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D53390",
+    "hotelSpecial": "幾千年、伝えゆきたい日本の風雅。風情薫る欽山で雅な休日をお過ごしください。"
+  },
+  "54215": {
+    "hotelNo": "54215",
+    "hotelName": "洋々閣",
+    "reviewAverage": 4.72,
+    "reviewCount": 158,
+    "hotelMinCharge": 13200,
+    "address1": "佐賀県",
+    "address2": "唐津市東唐津2-4-40",
+    "access": "JR筑肥・唐津線　唐津駅より車で7分　東唐津駅より車で4分",
+    "nearestStation": "唐津",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/54215.jpg",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54215/54215.jpg",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D54215",
+    "hotelSpecial": "大正の面影に現代建築の美を調和させた木造２階建ての純和風旅館。夕食は玄界灘の新鮮な魚介類の会席。"
+  },
+  "142919": {
+    "hotelNo": "142919",
+    "hotelName": "蔦温泉旅館－足元から源泉湧出の自噴温泉－",
+    "reviewAverage": 4.82,
+    "reviewCount": 382,
+    "hotelMinCharge": 20600,
+    "address1": "青森県",
+    "address2": "十和田市奥瀬蔦野湯1",
+    "access": "七戸十和田駅よりお車にて１時間／青森駅よりお車にて1時間20分",
+    "nearestStation": "青森",
+    "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/142919.jpg",
+    "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/142919/142919.jpg",
+    "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D142919",
+    "hotelSpecial": "約千年前から源泉のやさしい湯が湧き出てくる全国でも希少な「源泉湧き流し」の湯をお楽しみ下さい"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "平泉・花巻温泉": [
+    {
+      "hotelNo": 13482,
+      "hotelName": "花巻温泉　佳松園",
+      "reviewAverage": 4.68,
+      "reviewCount": 1123,
+      "hotelMinCharge": 18700,
+      "address1": "岩手県",
+      "address2": "花巻市湯本第1地割125-2",
+      "access": "花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）",
+      "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/13482.jpg",
+      "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13482/13482.jpg",
+      "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D13482",
+      "hotelSpecial": "とろとろの湯と心に残るおもてなし。特別な日を佳松園で過ごす愉しみ。花巻ICよりわずか5分の別世界。"
+    }
+  ],
+  "養老・長良川温泉": [],
+  "奈良 談山神社・橿原": [
+    {
+      "hotelNo": 165797,
+      "hotelName": "ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）奈良橿原",
+      "reviewAverage": 4.48,
+      "reviewCount": 1914,
+      "hotelMinCharge": 12320,
+      "address1": "奈良県",
+      "address2": "橿原市内膳町1-1-50",
+      "access": "【大和八木駅より徒歩3分】＜近鉄難波駅より特急で35分・京都駅より特急で50分＞吉野の紅葉まで特急で約50分♪",
+      "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/165797.jpg",
+      "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165797/165797.jpg",
+      "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D165797",
+      "hotelSpecial": "最上階に大展望風呂を備えるジャパンクールデザインホテル／全室禁煙"
+    },
+    {
+      "hotelNo": 84618,
+      "hotelName": "天然温泉　湯元・大納言「秀長」の湯　スーパーホテル奈良・大和郡山",
+      "reviewAverage": 4.33,
+      "reviewCount": 1418,
+      "hotelMinCharge": 5750,
+      "address1": "奈良県",
+      "address2": "大和郡山市杉町205-1",
+      "access": "近鉄郡山駅、筒井駅/ＪＲ郡山駅よりお車にて５分　徒歩約３０分",
+      "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/84618.jpg",
+      "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84618/84618.jpg",
+      "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D84618",
+      "hotelSpecial": "地下から湧き出る天然温泉。敷地内平面駐車場。健康朝食無料。"
+    },
+    {
+      "hotelNo": 40262,
+      "hotelName": "天然大和温泉　奈良健康ランド・奈良プラザホテル",
+      "reviewAverage": 4.48,
+      "reviewCount": 2140,
+      "hotelMinCharge": 6820,
+      "address1": "奈良県",
+      "address2": "天理市嘉幡町600-1",
+      "access": "JR郡山駅、近鉄平端駅より無料送迎バス有  (※天理駅は運休中）  ／西名阪自動車道　郡山ICより南へ約2ｋｍ",
+      "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/40262.jpg",
+      "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40262/40262.jpg",
+      "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D40262",
+      "hotelSpecial": "温泉、サウナ、プール、遊具！充実のレジャー施設。ビジネスにも対応した奈良のホテル。無料送迎バスも便利"
+    }
+  ],
+  "山中温泉 鶴仙渓": []
+}

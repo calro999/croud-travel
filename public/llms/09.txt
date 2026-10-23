@@ -1,4 +1,14 @@
-# 栃木県の宿泊・観光記事（63件）
+# 栃木県の宿泊・観光記事（64件）
+
+## 【2026年11月限定】世界遺産・日光の社寺 逍遥園ライトアップ＆鬼怒川名湯特選宿5選
+- 記事: https://croud-travel.pages.dev/posts/autumn-november-nikko-kinugawa-lightup-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/autumn-november-nikko-kinugawa-lightup-guide.md
+- 宿泊施設名: 日光・鬼怒川 逍遥園ライトアップ＆名湯特選宿
+- エリア: 日光・中禅寺湖・鬼怒川
+- 参考価格: ¥12650〜
+- 評価: 4.34
+
+江戸初期の名園・日光山輪王寺「逍遥園」の秋の夜間ライトアップ。樹齢数百年のモミジが心字池に沈み込むように映る「逆さ紅葉」の鮮烈な赤と漆黒の夜空のコントラスト。東照宮徒歩1分の宿や、空中庭園露天風呂を誇る鬼怒川温泉の名宿とともに、いろは坂渋滞を回避するスマートな日光紅葉旅を徹底ガイ...
 
 ## 冬休みの世界遺産日光東照宮＆江戸ワンダーランド日光江戸村学生旅行！忍者変身体験と湯波御膳・温泉名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-youth-nikko-kinugawa-edo-wonderland-guide/
