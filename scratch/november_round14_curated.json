@@ -1,0 +1,78 @@
+[
+  {
+    "spot": "倉敷美観地区・秋の白壁通り（岡山県倉敷市）",
+    "eventTitle": "倉敷美観地区 秋の特別夜間景観照明・もみじライトアップ＆大原美術館",
+    "season": "11月中旬〜11月下旬",
+    "hotel": {
+      "hotelNo": 8957,
+      "hotelName": "倉敷アイビースクエア",
+      "reviewAverage": 4.57,
+      "reviewCount": 2730,
+      "hotelMinCharge": 9100,
+      "address1": "岡山県",
+      "address2": "倉敷市本町7-2",
+      "access": "倉敷駅より徒歩15分・車で5分/山陽自動車道、倉敷ＩＣより国道429・県道22号経由で約15分",
+      "hotelSpecial": "≪泊まれる文化遺産≫2020年10月全館リニューアル！赤煉瓦と蔦が絡まる景観が美しいホテルです。",
+      "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8957/8957.jpg",
+      "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D8957"
+    },
+    "highlight": "11月に赤く色づくアイビー（蔦）の赤煉瓦建築と白壁土蔵の町並み。大原美術館新渓園の紅葉庭園や倉敷川沿いの行灯照明を散策。夕食はままかりや鰆（さわら）のタタキ、黄ニラなど瀬戸内の美酒佳肴。"
+  },
+  {
+    "spot": "南紀勝浦温泉・熊野古道（和歌山県那智勝浦町）",
+    "eventTitle": "南紀勝浦 旬の極上生マグロ解禁＆世界遺産熊野古道大門坂の紅葉散策",
+    "season": "11月上旬〜11月下旬",
+    "hotel": {
+      "hotelNo": 5335,
+      "hotelName": "碧き島の宿　熊野別邸　中の島",
+      "reviewAverage": 4.8,
+      "reviewCount": 1564,
+      "hotelMinCharge": 38110,
+      "address1": "和歌山県",
+      "address2": "東牟婁郡那智勝浦町勝浦1179-9",
+      "access": "ＪＲ紀勢本線紀伊勝浦駅から徒歩７分。観光桟橋より専用船約5分",
+      "hotelSpecial": "【碧き海に浮かぶ、一島一旅館のおもてなし】開放感抜群の絶景露天風呂は圧巻！露天風呂付客室も好評",
+      "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5335/5335.jpg",
+      "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D5335"
+    },
+    "highlight": "専用船で渡る孤島の温泉リゾート。波打ち際の絶景露天風呂「紀州潮聞之湯」は硫黄香る名湯。日本一の生鮮水揚げを誇る勝浦漁港のモチモチとした「生まぐろ」食べ比べと、熊野那智大社・那智の滝周辺の深まる秋景色。"
+  },
+  {
+    "spot": "養老渓谷・粟又の滝（千葉県大多喜町）",
+    "eventTitle": "養老渓谷もみじまつり＆粟又の滝ライトアップ・幻の晩秋紅葉",
+    "season": "11月下旬〜12月上旬（関東一遅い紅葉名所）",
+    "hotel": {
+      "hotelNo": 84819,
+      "hotelName": "養老渓谷温泉郷　温泉旅館　川の家",
+      "reviewAverage": 4.5,
+      "reviewCount": 135,
+      "hotelMinCharge": 18700,
+      "address1": "千葉県",
+      "address2": "夷隅郡大多喜町葛藤932",
+      "access": "養老渓谷駅よりお車にて５分",
+      "hotelSpecial": "養老渓谷の自然美に抱かれる宿。郷土色豊かなお膳を堪能し、洞窟風呂でゆったり。",
+      "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84819/84819.jpg",
+      "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D84819"
+    },
+    "highlight": "房総半島の奥座敷、関東で最も遅くまで錦秋を楽しめる養老渓谷。名物「黒湯（モール泉）」の洞窟風呂で温まり、名峰養老川のせせらぎと川魚の塩焼き・房総ジビエ・山菜料理を堪能。"
+  },
+  {
+    "spot": "国宝犬山城・寂光院（愛知県犬山市）",
+    "eventTitle": "犬山城もみじ狩り＆尾張のもみじでら「寂光院」紅葉まつり",
+    "season": "11月中旬〜12月上旬",
+    "hotel": {
+      "hotelNo": 162755,
+      "hotelName": "灯屋　迎帆楼",
+      "reviewAverage": 4.64,
+      "reviewCount": 106,
+      "hotelMinCharge": 56100,
+      "address1": "愛知県",
+      "address2": "犬山市犬山北古券41-6",
+      "access": "犬山駅よりお車にて約５分、徒歩にて約１５分",
+      "hotelSpecial": "全室半露天風呂付・十室限定の宿",
+      "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/162755/162755.jpg",
+      "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D162755"
+    },
+    "highlight": "木曽川の畔に佇み、全室から国宝犬山城と清流を望む創業大正二年の名旅館。犬山温泉白帝の湯を半露天で味わい、秋の飛騨牛・鮎料理・伝統の会席料理を満喫。約1,000本のモミジが彩る「寂光院」への参拝も風情抜群。"
+  }
+]

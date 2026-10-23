@@ -35,7 +35,7 @@
 - [和歌山県（58件）](https://croud-travel.pages.dev/llms/30.txt)
 - [鳥取県（45件）](https://croud-travel.pages.dev/llms/31.txt)
 - [島根県（47件）](https://croud-travel.pages.dev/llms/32.txt)
-- [岡山県（34件）](https://croud-travel.pages.dev/llms/33.txt)
+- [岡山県（35件）](https://croud-travel.pages.dev/llms/33.txt)
 - [広島県（46件）](https://croud-travel.pages.dev/llms/34.txt)
 - [山口県（37件）](https://croud-travel.pages.dev/llms/35.txt)
 - [徳島県（34件）](https://croud-travel.pages.dev/llms/36.txt)
