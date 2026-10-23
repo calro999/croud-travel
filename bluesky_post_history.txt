@@ -131,3 +131,4 @@ showcase_aomori
 natural-carbonated-spring-sparkling-hotels-guide
 showcase_hiroshima
 iya-valley-oboke-koboke-hotels-guide
+showcase_kagoshima
