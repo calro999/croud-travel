@@ -319,6 +319,7 @@
 - [OKINAWA 観光名所・名物グルメ・人気温泉ホテル完全ガイド](https://croud-travel.pages.dev/prefectures/okinawa/)
 
 ## 最新厳選宿・観光ルポ記事
+- [【福井県】三国温泉　展望自慢の料理旅館　はれや旅館宿泊ガイド！美しいオーシャンビューを独り占め！温・アクセス＆魅力ルポ](https://croud-travel.pages.dev/posts/142842/): 三国温泉　展望自慢の料理旅館　はれや旅館（福井県）
 - [【2026年11月限定イベント】佐賀バルーンフェスタ・長野えびす講煙火大会・11月6日城崎カニ解禁特選宿5選](https://croud-travel.pages.dev/posts/autumn-november-balloon-fireworks-crab-guide/): 11月限定イベント特選宿（バルーン・花火・松葉ガニ）（佐賀県・長野県・兵庫県）
 - [【2026年11月最新】全館再開の「道後温泉本館」と松山城紅葉完全攻略特選宿5選](https://croud-travel.pages.dev/posts/autumn-november-dogo-onsen-matsuyama-guide/): 愛媛 道後温泉本館全館再開＆松山城紅葉特選宿（愛媛県）
 - [【2026年11月限定】博多ライトアップウォーク「博多千年煌夜」＆秋の博多グルメ特選宿5選](https://croud-travel.pages.dev/posts/autumn-november-hakata-lightup-walk-guide/): 博多 博多千年煌夜ライトアップ＆天然温泉特選ホテル（福岡県）
@@ -361,6 +362,7 @@
 - [【2026年11月現地特化】宮島紅葉谷・角館黒板塀・上田城・大歩危祖谷の晩秋攻略ガイド｜楽天トラベル直近実データで選ぶ極上宿](https://croud-travel.pages.dev/posts/undefined/): undefined（広島県）
 - [【2026年11月現地特化】高尾山・秩父・天城湯ヶ島・小浜温泉の晩秋攻略ガイド｜楽天トラベル直近実データで選ぶ極上宿](https://croud-travel.pages.dev/posts/undefined/): undefined（東京都）
 - [【2026年11月現地特化】倉敷・南紀勝浦・養老渓谷・犬山の晩秋攻略ガイド｜楽天トラベル直近実データで選ぶ極上宿](https://croud-travel.pages.dev/posts/undefined/): undefined（岡山県）
+- [【2026年11月現地特化】城崎温泉・小豆島・赤湯温泉・鳥羽の晩秋攻略ガイド｜楽天トラベル直近実データで選ぶ極上宿](https://croud-travel.pages.dev/posts/undefined/): undefined（兵庫県）
 - [香川・東かがわで過ごす大人の冬旅！安戸池の冬オリーブハマチと瀬戸内温泉と名湯で自分を甘やかす極上ステイ](https://croud-travel.pages.dev/posts/prefectures/): 香川・東かがわ 厳選おすすめ名宿（香川）
 - [千葉・香取＆犬吠埼で過ごす大人の冬旅！本州最速初日の出と極上寒金目鯛と名湯で自分を甘やかす極上ステイ](https://croud-travel.pages.dev/posts/winter-chiba-katori-shrine-hatsumode-sawara-inubosaki-kinmedai-stay/): 千葉・香取＆犬吠埼 厳選おすすめ名宿（千葉）
 - [福島・会津芦ノ牧＆東山温泉で過ごす大人の冬旅！渓谷雪見露天と極上会津馬刺しと名湯で自分を甘やかす極上ステイ](https://croud-travel.pages.dev/posts/winter-fukushima-aizu-ashinomaki-higashiyama-luxury-ookawaso-mukaitaki-snow-stay/): 福島・会津芦ノ牧＆東山温泉 厳選おすすめ名宿（福島）
@@ -377,5 +379,3 @@
 - [初冬の熊本・黒川温泉郷奥座敷で過ごす大人の冬旅！大人の一生に一度は泊まりたい憧れと名湯で自分を甘やかす極上ステイ](https://croud-travel.pages.dev/posts/winter-kumamoto-kurokawa-shirakawa-luxury-takefue-gekkouju-akagyu-stay/): 熊本・黒川温泉郷奥座敷 厳選おすすめ名宿（熊本）
 - [初冬の京都・嵐山で過ごす大人の冬旅！初冬の渡月橋と極上京懐石と名湯で自分を甘やかす極上ステイ](https://croud-travel.pages.dev/posts/winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay/): 京都・嵐山 厳選おすすめ名宿（京都）
 - [初冬の京都・丹後間人＆京丹後で過ごす大人の冬旅！極上活松葉ガニと名湯で自分を甘やかす極上ステイ](https://croud-travel.pages.dev/posts/winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay/): 京都・丹後間人＆京丹後 厳選おすすめ名宿（京都）
-- [の三重・志摩賢島で過ごす大人の冬旅！極上松阪牛と名湯で自分を甘やかす極上ステイ](https://croud-travel.pages.dev/posts/winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay/): 三重・志摩賢島 厳選おすすめ名宿（三重）
-- [三重・伊勢二見＆多気で過ごす大人の冬旅！薬草温泉と極上松阪牛と名湯で自分を甘やかす極上ステイ](https://croud-travel.pages.dev/posts/winter-mie-futamiura-meotoiwa-hatsuhinode-vison-matsusaka-stay/): 三重・伊勢二見＆多気 厳選おすすめ名宿（三重）
