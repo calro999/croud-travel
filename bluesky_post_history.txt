@@ -135,3 +135,4 @@ showcase_kagoshima
 shinkansen-tokudane-pack-onsen-guide
 showcase_nara
 super-hotel-kashima-ibaraki-guide
+showcase_oita
