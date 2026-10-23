@@ -133,3 +133,4 @@ showcase_hiroshima
 iya-valley-oboke-koboke-hotels-guide
 showcase_kagoshima
 shinkansen-tokudane-pack-onsen-guide
+showcase_nara
