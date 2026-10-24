@@ -143,3 +143,4 @@ showcase_kagoshima
 autumn-tohoku-maitake-beef-guide
 showcase_miyagi
 theme-propose-nightpool-luxury-resort-guide
+showcase_ishikawa
