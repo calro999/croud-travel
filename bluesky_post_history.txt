@@ -139,3 +139,4 @@ showcase_oita
 pottery-craft-woodwork-artisan-retreat-hotels-guide
 showcase_hiroshima
 ise-lobster-abalone-seafood-gourmet-hotels-guide
+showcase_kagoshima
