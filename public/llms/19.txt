@@ -1,4 +1,13 @@
-# 山梨県の宿泊・観光記事（75件）
+# 山梨県の宿泊・観光記事（76件）
+
+## 【山梨県】知る人ぞ知る秘境と穴場スポットを満喫する旅
+- 記事: https://croud-travel.pages.dev/posts/165690/
+- 全文Markdown: https://croud-travel.pages.dev/ai/165690.md
+- 宿泊施設名: 甲州湯村温泉　柳屋
+- エリア: 甲信越
+- 評価: 4.07
+
+山梨県の秘境と穴場を巡る大人の旅。武田信玄の隠し湯や富士山麓の絶景スポット、地元グルメを満喫できるおすすめモデルコースと極上の厳選宿3選をご紹介します。
 
 ## 【2026年11月限定】山中湖「夕焼けの渚 紅葉まつり」＆ダイヤモンド富士完全攻略特選宿5選
 - 記事: https://croud-travel.pages.dev/posts/autumn-november-yamanakako-diamond-fuji-guide/
