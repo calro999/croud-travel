@@ -31,7 +31,7 @@
 - [京都府（54件）](https://croud-travel.pages.dev/llms/26.txt)
 - [大阪府（56件）](https://croud-travel.pages.dev/llms/27.txt)
 - [兵庫県（68件）](https://croud-travel.pages.dev/llms/28.txt)
-- [奈良県（47件）](https://croud-travel.pages.dev/llms/29.txt)
+- [奈良県（48件）](https://croud-travel.pages.dev/llms/29.txt)
 - [和歌山県（58件）](https://croud-travel.pages.dev/llms/30.txt)
 - [鳥取県（45件）](https://croud-travel.pages.dev/llms/31.txt)
 - [島根県（47件）](https://croud-travel.pages.dev/llms/32.txt)
