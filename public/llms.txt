@@ -320,6 +320,8 @@
 
 ## 最新厳選宿・観光ルポ記事
 - [【2026年11月現地特化】袋田の滝・あわら温泉・吉野山・霧島の晩秋攻略ガイド｜楽天トラベル直近実データで選ぶ極上宿](https://croud-travel.pages.dev/posts/undefined/): undefined（福井県）
+- [【2026年11月現地特化】伊香保・宮島・月岡温泉・高千穂峡の晩秋攻略ガイド｜楽天トラベル直近実データで選ぶ極上宿](https://croud-travel.pages.dev/posts/undefined/): undefined（広島県）
+- [【長野県】ご当地絶品グルメと地酒巡り！美食と美酒に酔いしれる旅路](https://croud-travel.pages.dev/posts/1562/): 松本駅から一番近い大浴場のある　ホテルニューステーション＜長野県＞（長野県）
 - [【北海道】クラブメッド北海道トマム宿泊ルポ！オールインクルーシブで満喫する美食と絶景ステイ](https://croud-travel.pages.dev/posts/161222/): クラブメッド　北海道　トマム（北海道）
 - [【那須】清水屋宿泊ルポ！鹿の湯の源泉かけ流しと絶品懐石膳](https://croud-travel.pages.dev/posts/109132/): 那須湯本温泉　鹿の湯源泉かけ流しの宿　旅館　清水屋＜栃木県・那須郡＞（栃木県）
 - [【山梨県】知る人ぞ知る秘境と穴場スポットを満喫する旅](https://croud-travel.pages.dev/posts/165690/): 甲州湯村温泉　柳屋（山梨県）
@@ -377,5 +379,3 @@
 - [【2026年11月現地特化】高尾山・秩父・天城湯ヶ島・小浜温泉の晩秋攻略ガイド｜楽天トラベル直近実データで選ぶ極上宿](https://croud-travel.pages.dev/posts/undefined/): undefined（東京都）
 - [【2026年11月現地特化】倉敷・南紀勝浦・養老渓谷・犬山の晩秋攻略ガイド｜楽天トラベル直近実データで選ぶ極上宿](https://croud-travel.pages.dev/posts/undefined/): undefined（岡山県）
 - [【2026年11月現地特化】城崎温泉・小豆島・赤湯温泉・鳥羽の晩秋攻略ガイド｜楽天トラベル直近実データで選ぶ極上宿](https://croud-travel.pages.dev/posts/undefined/): undefined（兵庫県）
-- [【2026年11月現地特化】軽井沢・山中温泉・唐津・松島の晩秋攻略ガイド｜楽天トラベル直近実データで選ぶ極上宿](https://croud-travel.pages.dev/posts/undefined/): undefined（石川県）
-- [【2026年11月現地特化】河口湖・雲仙・奥飛騨・道後の晩秋攻略ガイド｜楽天トラベル直近実データで選ぶ極上宿](https://croud-travel.pages.dev/posts/undefined/): undefined（山梨県）
