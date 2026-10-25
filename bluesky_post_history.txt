@@ -151,3 +151,4 @@ showcase_hyogo
 oki-islands-geopark-kuniga-cliff-hotels-guide
 showcase_shizuoka
 october-travel-city-shirakawa-hatoriko-kids-family-guide
+showcase_oita
