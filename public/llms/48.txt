@@ -1,8 +1,16 @@
-# 全国・複数県の宿泊・観光記事（469件）
+# 全国・複数県の宿泊・観光記事（470件）
 
 ## 【11月秋旅の頂点】晩秋の絶景と解禁の美味！楽天トラベル高評価宿で巡る「大人の秋旅」名湯4選
 - 記事: https://croud-travel.pages.dev/posts/note-256/
 - 全文Markdown: https://croud-travel.pages.dev/ai/note-256.md
+- 宿泊施設名: undefined
+- エリア: 
+
+
+
+## 【11月秋の絶景旅】竹田城の雲海から宮島・鬼怒川・有馬へ！楽天トラベル★4.6超の名宿で浸かる晩秋の極上湯4選
+- 記事: https://croud-travel.pages.dev/posts/note-257/
+- 全文Markdown: https://croud-travel.pages.dev/ai/note-257.md
 - 宿泊施設名: undefined
 - エリア: 
 
