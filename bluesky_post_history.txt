@@ -163,3 +163,4 @@ showcase_nagano
 wasabi-harvest-fresh-grating-gourmet-onsen-hotels-guide
 showcase_hiroshima
 geto-onsen-kitakami-secret-spring-hotels-guide
+showcase_miyagi
