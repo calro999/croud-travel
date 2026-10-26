@@ -157,3 +157,4 @@ showcase_kanagawa
 october-travel-city-kaga-yamashiro-kids-family-guide
 showcase_nara
 tsuwano-iwamiginzan-historic-inn-hotels-guide
+showcase_ishikawa
