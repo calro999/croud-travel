@@ -159,3 +159,4 @@ showcase_nara
 tsuwano-iwamiginzan-historic-inn-hotels-guide
 showcase_ishikawa
 iwate-onsen-ranking-hotels-guide
+showcase_nagano
