@@ -1,4 +1,4 @@
-# 全国・複数県の宿泊・観光記事（473件）
+# 全国・複数県の宿泊・観光記事（474件）
 
 ## 【11月名湯の極み】名物ライトアップと紅葉露天！楽天トラベル★4.6〜4.8超の実力派名宿で巡る「晩秋の贅沢旅」4選
 - 記事: https://croud-travel.pages.dev/posts/note-258/
@@ -19,6 +19,14 @@
 ## 【11月晩秋の風情と名湯】三千院紅葉から袋田の滝・秩父古民家・道後390年宿へ！楽天トラベル★4.5〜4.8超の特等席4選
 - 記事: https://croud-travel.pages.dev/posts/note-260/
 - 全文Markdown: https://croud-travel.pages.dev/ai/note-260.md
+- 宿泊施設名: undefined
+- エリア: 
+
+
+
+## 【11月極みの名宿】修善寺もみじ散策から京都丹後カニ解禁・箱根翠松園・鬼怒川静寂の渓谷へ！楽天トラベル★4.6〜4.9超の名湯4選
+- 記事: https://croud-travel.pages.dev/posts/note-261/
+- 全文Markdown: https://croud-travel.pages.dev/ai/note-261.md
 - 宿泊施設名: undefined
 - エリア: 
 
