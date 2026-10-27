@@ -430,7 +430,7 @@ export default function KoyasanPassPage() {
           </h2>
           <div className="grid sm:grid-cols-2 gap-4">
             <Link
-              href="/osaka-tokushima-naruto-bus-vs-car-guide"
+              href="/osaka-tokushima-naruto-bus-vs-car-guide/"
               className="p-4 bg-white rounded-xl border border-slate-200 hover:border-indigo-500 hover:shadow-sm transition-all group"
             >
               <h3 className="text-sm font-bold text-slate-800 group-hover:text-indigo-600 mb-1">
@@ -441,7 +441,7 @@ export default function KoyasanPassPage() {
               </p>
             </Link>
             <Link
-              href="/tokyo-osaka-bus-vs-shinkansen-guide"
+              href="/tokyo-osaka-bus-vs-shinkansen-guide/"
               className="p-4 bg-white rounded-xl border border-slate-200 hover:border-indigo-500 hover:shadow-sm transition-all group"
             >
               <h3 className="text-sm font-bold text-slate-800 group-hover:text-indigo-600 mb-1">

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '島根・松江しんじ湖温泉で過ごす冬の旅（11・12月）！解禁松葉ガニ！名宿5選',
     description: '11月から12月にかけて、水の都・松江の宍道湖畔に湧く松江しんじ湖温泉は、澄み切った初冬の空に広がる「夕日百選」宍道湖の真紅のサンセットと。',
-    url: 'https://croud-travel.pages.dev/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay',
+    url: 'https://croud-travel.pages.dev/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterShimaneMatsuePage() {
         'headline': "【11・12月島根・松江しんじ湖温泉の宍道湖夕日絶景と冬の味覚】解禁松葉ガニ＆寒シジミ鍋・しまね和牛会席を愉しむ湖畔レイクビュー名宿5選",
         'description': "11月から12月にかけて、水の都・松江の宍道湖畔に湧く松江しんじ湖温泉は、澄み切った初冬の空に広がる「夕日百選」宍道湖の真紅のサンセットと、11月に解禁を迎えた冬の味覚の王者「松葉ガニ」が揃う最高のハイシーズンを迎えます。湖上を茜色に染める夕景と飛来する冬鳥のシルエット、国宝・松江城の堀川遊覧船「こたつ船」で温まる城下町巡り、77度を超える高温良質なナトリウム・カルシウム硫酸塩泉のレイクビュー露天風呂。旨味あふれる松葉ガニフルコースや、ぷっくり肥えた宍道湖産寒シジミ鍋、極上しまね和牛を堪能する湖畔の厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterShimaneMatsuePage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-teal-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">島根・松江しんじ湖温泉</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterShimaneMatsuePage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月島根・松江しんじ湖温泉】解禁松葉ガニ！名宿5選","item":"https://croud-travel.pages.dev/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月島根・松江しんじ湖温泉】解禁松葉ガニ！名宿5選","item":"https://croud-travel.pages.dev/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -623,7 +623,7 @@ export default function WinterShimaneMatsuePage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay"
+              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">島根・玉造温泉</span>
@@ -636,7 +636,7 @@ export default function WinterShimaneMatsuePage() {
             </Link>
 
             <Link 
-              href="/winter-tottori-kaike-onsen-matsuba-crab-stay"
+              href="/winter-tottori-kaike-onsen-matsuba-crab-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">鳥取・皆生温泉</span>
@@ -649,7 +649,7 @@ export default function WinterShimaneMatsuePage() {
             </Link>
 
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">鳥取・三朝温泉</span>

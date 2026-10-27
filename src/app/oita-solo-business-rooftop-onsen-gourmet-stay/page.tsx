@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '大分出張＆豊後ソログルメ泊：大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選',
     description: 'おんせん県おおいたの県庁所在地・大分市！「JR大分駅直結・最上階21階に天空露天温泉CITY SPAてんくうを擁する」の「JR九州ホテル ブラッサム大分」、大分市中心街のランドマークホテル「ホテル日航大分 オアシスタワー」、府内町ビジネス街至近の「ダイワロイネットホテル大分」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/oita-solo-business-rooftop-onsen-gourmet-stay',
+    url: 'https://croud-travel.pages.dev/oita-solo-business-rooftop-onsen-gourmet-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T15:40:00+09:00',
     dateModified: '2026-10-19T15:40:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/oita-solo-business-rooftop-onsen-gourmet-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/oita-solo-business-rooftop-onsen-gourmet-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【大分出張＆豊後ソログルメ泊】大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選","item":"https://croud-travel.pages.dev/oita-solo-business-rooftop-onsen-gourmet-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【大分出張＆豊後ソログルメ泊】大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選","item":"https://croud-travel.pages.dev/oita-solo-business-rooftop-onsen-gourmet-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

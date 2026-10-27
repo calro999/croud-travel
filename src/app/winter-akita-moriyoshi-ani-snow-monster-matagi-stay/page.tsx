@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月秋田：日本三大樹氷！名宿5選',
     description: '11月から1月、秋田県北秋田市の秀峰・森吉山（標高1,454m）と阿仁地区は、東北屈指の白銀の世界へと変貌を遂げます。',
-    url: 'https://croud-travel.pages.dev/winter-akita-moriyoshi-ani-snow-monster-matagi-stay',
+    url: 'https://croud-travel.pages.dev/winter-akita-moriyoshi-ani-snow-monster-matagi-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -69,7 +69,7 @@ export default function AkitaMoriyoshiAniPage() {
             "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-akita-moriyoshi-ani-snow-monster-matagi-stay"
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-akita-moriyoshi-ani-snow-monster-matagi-stay/"
       },
       {
         "@type": "BreadcrumbList",
@@ -85,13 +85,13 @@ export default function AkitaMoriyoshiAniPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "秋田・森吉山の樹氷とマタギ秘湯特集",
-            "item": "https://croud-travel.pages.dev/winter-akita-moriyoshi-ani-snow-monster-matagi-stay"
+            "item": "https://croud-travel.pages.dev/winter-akita-moriyoshi-ani-snow-monster-matagi-stay/"
           }
         ]
       },
@@ -569,21 +569,21 @@ export default function AkitaMoriyoshiAniPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay" 
+              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-blue-700 font-bold block text-[10px]">秋田・乳頭温泉郷</span>
               <p className="font-bold text-stone-800 line-clamp-2">秘湯鶴の湯の雪見露天風呂と乳白色のにごり湯・比内地鶏きりたんぽ鍋名宿</p>
             </Link>
             <Link 
-              href="/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay" 
+              href="/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-blue-700 font-bold block text-[10px]">秋田・男鹿温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">名物石焼料理と冬の日本海・なまはげ柴灯まつりの雪景色を巡る名宿</p>
             </Link>
             <Link 
-              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay" 
+              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-blue-700 font-bold block text-[10px]">山形・蔵王温泉</span>

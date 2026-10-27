@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "福岡クリスマスアドベントで過ごす冬の旅（11・12月）！博多駅・天神の光の街と本場もつ鍋・水炊き極上宿5選",
     description: "11月中旬から博多駅・天神・中洲が煌めく日本最大級の祭典「福岡クリスマスアドベント」！限定マグカップで楽しむホットワインと冬の博多名物（もつ鍋・水炊き）、冷えた体を芯から温める天然温泉・大浴場付きの厳選ホテルステイ。",
-    url: 'https://croud-travel.pages.dev/winter-fukuoka-hakata-christmas-advent-gourmet-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukuoka-hakata-christmas-advent-gourmet-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function FukuokaChristmasPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-fukuoka-hakata-christmas-advent-gourmet-stay"
+          "@id": "https://croud-travel.pages.dev/winter-fukuoka-hakata-christmas-advent-gourmet-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function FukuokaChristmasPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月福岡クリスマスアドベント】博多駅・天神の光の街と本場もつ鍋・水炊き極上宿5選","item":"https://croud-travel.pages.dev/winter-fukuoka-hakata-christmas-advent-gourmet-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月福岡クリスマスアドベント】博多駅・天神の光の街と本場もつ鍋・水炊き極上宿5選","item":"https://croud-travel.pages.dev/winter-fukuoka-hakata-christmas-advent-gourmet-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -755,19 +755,19 @@ export default function FukuokaChristmasPage() {
               熊本県（黒川温泉・阿蘇）の宿 →
             </Link>
             <Link 
-              href="/winter-kumamoto-kurokawa-yuakari-illumination-stay" 
+              href="/winter-kumamoto-kurokawa-yuakari-illumination-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-rose-50 hover:text-rose-600 transition font-medium border border-stone-100"
             >
               黒川温泉 湯あかり特集 →
             </Link>
             <Link 
-              href="/winter-oita-beppu-jigokumushi-hotspring-stay" 
+              href="/winter-oita-beppu-jigokumushi-hotspring-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-rose-50 hover:text-rose-600 transition font-medium border border-stone-100"
             >
               別府温泉 地獄蒸し特集 →
             </Link>
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-3 rounded-xl bg-stone-900 text-white hover:bg-stone-800 transition font-bold text-center flex items-center justify-center gap-1"
             >
               <span>全国の特集一覧を見る</span>

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月長野：雪見露天！名宿5選',
     description: '冠雪した北アルプス後立山連峰（爺ヶ岳・鹿島槍ヶ岳・常念岳）が紺碧の冬空に映える11〜1月の安曇野・大町エリア。',
-    url: 'https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -167,7 +167,7 @@ export default function NaganoAzuminoOmachiPage() {
         "@id": "https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay/"
         },
         "headline": "【11・12・1月長野】安曇野＆大町温泉郷！白銀の北アルプス後立山連峰と穂高神社初詣・光のイルミネーション＆雪見露天名宿5選",
         "description": "冠雪した北アルプス後立山連峰（爺ヶ岳・鹿島槍ヶ岳・常念岳）が紺碧の冬空に映える11〜1月の安曇野・大町エリア。信濃国三之宮・穂高神社での雪の初詣や、国営アルプスあづみの公園を彩る県内最大級の光のイルミネーション。高瀬渓谷・葛温泉の名湯を引き込む大町温泉郷＆穂高温泉郷の雪見露天風呂、そして信州サーモンや信州プレミアム牛肉を堪能できる厳選名宿5選を徹底特集します。",
@@ -185,7 +185,7 @@ export default function NaganoAzuminoOmachiPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay/"
         }
       },
       {
@@ -202,13 +202,13 @@ export default function NaganoAzuminoOmachiPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "安曇野＆大町温泉郷・白馬アルプス山麓名宿",
-            "item": "https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay/"
           }
         ]
       },
@@ -239,7 +239,7 @@ export default function NaganoAzuminoOmachiPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 py-4 text-xs font-semibold text-stone-500 flex items-center gap-2">
         <Link href="/" className="hover:text-emerald-700 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-emerald-700 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-emerald-700 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-stone-800">長野・安曇野＆大町温泉郷・アルプス山麓名宿</span>
       </nav>
@@ -530,19 +530,19 @@ export default function NaganoAzuminoOmachiPage() {
             あわせて読みたい！冬の信州＆雪見露天特集
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
-            <Link href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
+            <Link href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay/" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
               ⛷️ 白馬バレー！世界最高峰パウダースノー＆アルプス雪見宿
             </Link>
-            <Link href="/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
+            <Link href="/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay/" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
               ⛩️ 善光寺＆戸隠神社初詣・冬の手打ち蕎麦と信州牛名宿
             </Link>
-            <Link href="/winter-nagano-shirahone-onsen-milky-snow-stay" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
+            <Link href="/winter-nagano-shirahone-onsen-milky-snow-stay/" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
               ♨️ 白骨温泉！乳白色の秘湯雪見露天風呂と信州美食宿
             </Link>
-            <Link href="/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
+            <Link href="/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay/" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
               ✨ 軽井沢星野イルミネーション＆トンボの湯リゾートステイ
             </Link>
-            <Link href="/campaigns" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
+            <Link href="/campaigns/" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
               🍁 全国の旬の味覚＆極上温泉宿特集まとめ
             </Link>
           </div>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '函館ひとり旅・美食ご褒美泊：朝食バイキング全国1位争い・インフィニティ天空温泉・赤レンガ倉庫！港町で癒やされる極上ホテル 厳選3選',
     description: '「日本一の朝食バイキングでいくら盛り放題を堪能したい」「最上階の露天風呂から函館山と夜景を見下ろしながら静かに過ごしたい」。大人ソロトラベラーへ。150種超のプレミアム朝食と天空露天風呂「スパ・マリーナ」を誇る「センチュリーマリーナ函館」、貸切風呂と名物海鮮丼の最高峰「ラビスタ函館ベイANNEX」、大正ロマン薫る湯の川温泉の高級宿「HAKODATE 海峡の風」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/hakodate-solo-retreat-breakfast-onsen-stay',
+    url: 'https://croud-travel.pages.dev/hakodate-solo-retreat-breakfast-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T15:30:00+09:00',
     dateModified: '2026-10-19T15:30:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/hakodate-solo-retreat-breakfast-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/hakodate-solo-retreat-breakfast-onsen-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【函館ひとり旅・美食ご褒美泊】朝食バイキング全国1位争い・インフィニティ天空温泉・赤レンガ倉庫！港町で癒やされる極上ホテル 厳選3選","item":"https://croud-travel.pages.dev/hakodate-solo-retreat-breakfast-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【函館ひとり旅・美食ご褒美泊】朝食バイキング全国1位争い・インフィニティ天空温泉・赤レンガ倉庫！港町で癒やされる極上ホテル 厳選3選","item":"https://croud-travel.pages.dev/hakodate-solo-retreat-breakfast-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '美ら海と白い砂浜が目の前！沖縄本島最高峰ビーチリゾートホテル×ふるさと納税極上旅ガイドハレクラニ・ルネッサンス・ロワジール',
     description: 'エメラルドグリーンの東シナ海と白い砂浜！ハワイの名門「ハレクラニ沖縄」、イルカと触れ合えるファミリー人気No.1「ルネッサンス リゾート オキナワ」、那覇空港近くで天然温泉大浴場と屋外プールを誇る「ロワジールホテル 那覇」を、沖縄県恩納村・那覇市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-okinawa-beach-resort-luxury-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-okinawa-beach-resort-luxury-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoOkinawaBeachResortStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">沖縄本島ビーチリゾートホテル特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoOkinawaBeachResortStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-indoor-pool-kids-family-resort-stay"
+            href="/furusato-tax-indoor-pool-kids-family-resort-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【一年中泳げる室内温水プール宿×ふるさと納税】那須・草津・別府リゾート
           </Link>
           <Link
-            href="/infinity-open-air-bath-ocean-view-stay"
+            href="/infinity-open-air-bath-ocean-view-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【海一望インフィニティ温泉×ふるさと納税】波打ち際と水平線に溶け込む宿
           </Link>
           <Link
-            href="/furusato-tax-themepark-aquarium-family-hotel-stay"
+            href="/furusato-tax-themepark-aquarium-family-hotel-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【テーマパーク＆水族館満喫ホテル×ふるさと納税】家族旅行におすすめの宿
           </Link>
           <Link
-            href="/furusato-tax-atami-ocean-view-fireworks-hotel-stay"
+            href="/furusato-tax-atami-ocean-view-fireworks-hotel-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【熱海花火大会特等席＆オーシャンビュー温泉宿×ふるさと納税】特等席鑑賞

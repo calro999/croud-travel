@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '福井で過ごす冬の旅（12・1月）！絶景温泉！名宿5選',
     description: '冬の日本海の荒波が打ち寄せる断崖絶壁に清楚な水仙の花々が咲き乱れる12〜1月の福井・越前海岸。日本三大水仙群生地の絶景を巡る「越前水仙まつり。',
-    url: 'https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -167,7 +167,7 @@ export default function FukuiEchizenCoastPage() {
         "@id": "https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay"
+          "@id": "https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay/"
         },
         "headline": "【12・1月福井】越前海岸＆越前町！日本海に咲く「越前水仙まつり」群生美と越前岬灯台・黄色タグ付き本場「越前がに」フルコース＆絶景温泉宿5選",
         "description": "冬の日本海の荒波が打ち寄せる断崖絶壁に清楚な水仙の花々が咲き乱れる12〜1月の福井・越前海岸。日本三大水仙群生地の絶景を巡る「越前水仙まつり」や越前岬灯台からの雄大な水平線、織田信長ゆかりの越前二宮・劔神社での雪の初詣。そして本場越前町が誇る黄色いブランドタグ付き「越前がに」の茹でたて極上フルコースと、海を目前に望む塩化物泉の露天風呂に癒やされる厳選宿5選を徹底特集します。",
@@ -185,7 +185,7 @@ export default function FukuiEchizenCoastPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay"
+          "@id": "https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay/"
         }
       },
       {
@@ -202,13 +202,13 @@ export default function FukuiEchizenCoastPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "越前海岸＆越前町水仙まつり・越前がに名宿",
-            "item": "https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay"
+            "item": "https://croud-travel.pages.dev/winter-fukui-echizen-coast-suisen-crab-misaki-stay/"
           }
         ]
       },
@@ -239,7 +239,7 @@ export default function FukuiEchizenCoastPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 py-4 text-xs font-semibold text-stone-500 flex items-center gap-2">
         <Link href="/" className="hover:text-amber-700 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-amber-700 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-700 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-stone-800">福井・越前海岸＆越前町水仙まつり・越前がに名宿</span>
       </nav>
@@ -530,19 +530,19 @@ export default function FukuiEchizenCoastPage() {
             あわせて読みたい！冬の味覚＆温泉特集
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
-            <Link href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
+            <Link href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay/" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
               🦀 三国温泉＆東尋坊！越前がにと絶景露天
             </Link>
-            <Link href="/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
+            <Link href="/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay/" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
               ❄️ 永平寺の雪景色＆越前おろし蕎麦・若狭牛名宿
             </Link>
-            <Link href="/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
+            <Link href="/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay/" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
               🌲 金沢兼六園の雪吊り＆香箱ガニ・加賀名宿
             </Link>
-            <Link href="/winter-tottori-daisen-kaike-onsen-matsubagani-snow-stay" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
+            <Link href="/winter-tottori-daisen-kaike-onsen-matsubagani-snow-stay/" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
               🏔️ 伯耆大山雪景色＆皆生温泉・松葉ガニ名宿
             </Link>
-            <Link href="/campaigns" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
+            <Link href="/campaigns/" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
               🍁 全国の旬の味覚＆極上温泉宿特集まとめ
             </Link>
           </div>

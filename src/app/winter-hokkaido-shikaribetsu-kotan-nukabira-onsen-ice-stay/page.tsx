@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '北海道で過ごす冬の旅（12・1月）！然別湖！名宿5選',
     description: '大雪山国立公園の南端、北海道で最も標高の高い自然湖・然別湖が厚い氷に閉ざされる12〜1月。完全結氷した湖上にわずか60日間だけ現れる幻の村「。',
-    url: 'https://croud-travel.pages.dev/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -169,7 +169,7 @@ export default function HokkaidoShikaribetsuNukabiraWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay/"
         },
         "headline": "【12・1月北海道】然別湖＆ぬかびら源泉郷！氷結した湖上の幻の村「しかりべつ湖コタン」氷上露天風呂＆タウシュベツ川橋梁・十勝ハーブ牛名宿5選",
         "description": "大雪山国立公園の南端、北海道で最も標高の高い自然湖・然別湖が厚い氷に閉ざされる12〜1月。完全結氷した湖上にわずか60日間だけ現れる幻の村「しかりべつ湖コタン」では、世界唯一の氷上露天風呂やアイスバーが旅人を魅了します。近隣のぬかびら源泉郷では古代ローマ遺跡のようなタウシュベツ川橋梁の白銀絶景と源泉掛け流しの秘湯、十勝ハーブ牛や新得そばなど北の大地の極上美食を堪能できる厳選名宿5選を徹底解説します。",
@@ -195,13 +195,13 @@ export default function HokkaidoShikaribetsuNukabiraWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "然別湖＆ぬかびら源泉郷冬特集",
-            "item": "https://croud-travel.pages.dev/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay"
+            "item": "https://croud-travel.pages.dev/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay/"
           }
         ]
       },
@@ -616,7 +616,7 @@ export default function HokkaidoShikaribetsuNukabiraWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay"
+              href="/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-sky-400 block mb-1">十勝川温泉冬特集</span>
@@ -624,7 +624,7 @@ export default function HokkaidoShikaribetsuNukabiraWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-hokkaido-biei-furano-bluepond-lightup-tokachidake-onsen-stay"
+              href="/winter-hokkaido-biei-furano-bluepond-lightup-tokachidake-onsen-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-sky-400 block mb-1">美瑛・富良野冬特集</span>
@@ -632,7 +632,7 @@ export default function HokkaidoShikaribetsuNukabiraWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-niseko-powder-snow-ski-resort-stay"
+              href="/winter-niseko-powder-snow-ski-resort-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-sky-400 block mb-1">ニセコ冬特集</span>

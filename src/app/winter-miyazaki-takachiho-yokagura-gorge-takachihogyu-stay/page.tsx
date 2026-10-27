@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '宮崎・神話で過ごす冬の旅（11・12月）！名物A5高千穂牛ステーキ！名宿5選',
     description: '11月中旬から翌年2月にかけて、日本神話「天孫降臨」の舞台である宮崎県高千穂町での魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterMiyazakiTakachihoPage() {
         'headline': "【11・12月宮崎・神話の里高千穂の冬の夜神楽と真名井の滝】名物A5高千穂牛ステーキ＆かっぽ鶏・竹筒かっぽ酒を味わうパワースポット名宿5選",
         'description': "11月中旬から翌年2月にかけて、日本神話「天孫降臨」の舞台である宮崎県高千穂町では、国の重要無形民俗文化財である冬の風物詩「高千穂の夜神楽（よかぐら）」が奉納され、神々の息吹が町全体を包み込みます。初冬の凛とした冷気の中でエメラルドグリーンに澄み渡る高千穂峡・真名井の滝や、天照大神がお隠れになった天安河原の神秘的な佇まい。夕食には日本一の和牛宮崎牛の中でも最高峰と称される「極上A5ランク高千穂牛ステーキ」や、竹筒で地鶏と野菜を蒸し焼きにする「かっぽ鶏」、青竹で燗をつける伝統の「かっぽ酒」。神話の里で心身を清め、至福の美食と温泉に浸る厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterMiyazakiTakachihoPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-emerald-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">宮崎・神話の里高千穂</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterMiyazakiTakachihoPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月宮崎・神話】名物A5高千穂牛ステーキ！名宿5選","item":"https://croud-travel.pages.dev/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月宮崎・神話】名物A5高千穂牛ステーキ！名宿5選","item":"https://croud-travel.pages.dev/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -611,7 +611,7 @@ export default function WinterMiyazakiTakachihoPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay"
+              href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">宮崎・青島温泉</span>
@@ -624,7 +624,7 @@ export default function WinterMiyazakiTakachihoPage() {
             </Link>
 
             <Link 
-              href="/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay"
+              href="/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">大分・竹田長湯温泉</span>
@@ -637,7 +637,7 @@ export default function WinterMiyazakiTakachihoPage() {
             </Link>
 
             <Link 
-              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay"
+              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">熊本・黒川温泉</span>

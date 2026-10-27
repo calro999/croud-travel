@@ -15,12 +15,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: '【標高1200mの奥日光・中禅寺湖畔に佇む最高峰リゾート】2026-2027年11-12月初冬の栃木・日光中禅寺湖！「ザ・リッツ・カールトン日光」＆「中禅寺金谷ホテル」・男体山の初雪と日光湯元白濁硫黄泉・極上とちぎ和牛名宿5選',
     description: '標高約1200mの高地に位置し、霊峰・男体山と青く澄み渡る中禅寺湖を望む奥日光。マリオット最高峰「ザ・リッツ・カールトン日光」やクラシックホテルの名門「中禅寺金谷ホテル」など、世界基準のホスピタリティと日光湯元から引湯する乳白色の硫黄泉露天風呂。澄んだ大気のもとで味わう最高ランク「とちぎ和牛」のステーキや本格フレンチディナーを堪能する極上の贅沢リトリート厳選5選。',
-    url: 'https://croud-travel.pages.dev/winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay',
+    url: 'https://croud-travel.pages.dev/winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay/',
     type: 'article',
     siteName: 'クラウドトラベル',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay/',
   },
 };
 
@@ -46,13 +46,13 @@ export default function UltraLuxuryWinterFeaturePage() {
                   "@type": "ListItem",
                   "position": 2,
                   "name": "特集一覧",
-                  "item": "https://croud-travel.pages.dev/features"
+                  "item": "https://croud-travel.pages.dev/features/"
                 },
                 {
                   "@type": "ListItem",
                   "position": 3,
                   "name": "【標高1200mの奥日光・中禅寺湖畔に佇む最高峰リゾート】2026-2027年11-12月初冬の栃木・日光中禅寺湖！「ザ・リッツ・カールトン日光」＆「中禅寺金谷ホテル」・男体山の初雪と日光湯元白濁硫黄泉・極上とちぎ和牛名宿5選",
-                  "item": "https://croud-travel.pages.dev/winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay"
+                  "item": "https://croud-travel.pages.dev/winter-tochigi-nikko-chuzenji-lake-luxury-ritz-carlton-kanaya-stay/"
                 }
               ]
             },
@@ -95,7 +95,7 @@ export default function UltraLuxuryWinterFeaturePage() {
         <div className="max-w-5xl mx-auto flex items-center gap-1.5 flex-wrap">
           <Link href="/" className="hover:text-slate-800 transition">ホーム</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
-          <Link href="/features" className="hover:text-slate-800 transition">特集一覧</Link>
+          <Link href="/features/" className="hover:text-slate-800 transition">特集一覧</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
           <span className="text-slate-800 font-medium truncate max-w-xs">【標高1200mの奥日光・中禅寺湖畔に佇む最高峰リゾート】2026-2027年11-12月初冬の栃木・日光中禅寺湖！「ザ・リッツ・カールトン日光」＆「中禅寺金谷ホテル」・男体山の初雪と日光湯元白濁硫黄泉・極上とちぎ和牛名宿5選</span>
         </div>

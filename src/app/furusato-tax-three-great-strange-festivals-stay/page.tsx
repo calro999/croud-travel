@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: '日本三大奇祭＆天下の奇祭・熱狂の伝統文化と歴史名宿×ふるさと納税厳選ガイド諏訪御柱祭・国府宮はだか祭・男鹿ナマハゲ',
     description: '魂を揺さぶる熱狂と千年の祈り！長野諏訪「諏訪大社御柱祭」巨木落としの勇壮と上諏訪天然温泉ホテルルートイン上諏訪、愛知稲沢「国府宮はだか祭」数千の裸男がもみ合う厄除神事とお宿和陽館、秋田男鹿「男鹿のナマハゲ」ユネスコ無形文化遺産・荒ぶる神の咆哮と男鹿温泉セイコーグランドホテル。日本三大奇祭の迫力と伝統を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-strange-festivals-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-strange-festivals-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -396,7 +396,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-sacred-hachiman-shrines-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-sacred-hachiman-shrines-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大八幡宮＆開運厄除け宿×ふるさと納税完全ガイド
               </div>
@@ -405,7 +405,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-inari-shrines-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-inari-shrines-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大稲荷＆商売繁盛・開運祈願の名宿×ふるさと納税完全ガイド
               </div>
@@ -414,7 +414,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-buddhas-heritage-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-buddhas-heritage-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大仏＆歴史古都・門前町の名宿×ふるさと納税完全ガイド
               </div>

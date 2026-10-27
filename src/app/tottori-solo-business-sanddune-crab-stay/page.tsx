@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '鳥取出張・ひとり旅：自家源泉かけ流し鳥取温泉・鳥取砂丘パノラマ・冬の松葉ガニ！山陰ビジネスを豊かにする厳選3宿',
     description: '山陰の東の要衝・鳥取市での出張やソロ旅に！全国でも珍しい県庁所在地中心街で自家源泉天然温泉を誇る「ホテルモナーク鳥取」、JR鳥取駅北口徒歩約1分の好立地な「鳥取ワシントンホテルプラザ」、人工温泉大浴場と機能的なモダン客室を備える「グリーンリッチホテル鳥取駅前」を楽天APIデータに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/tottori-solo-business-sanddune-crab-stay',
+    url: 'https://croud-travel.pages.dev/tottori-solo-business-sanddune-crab-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T16:15:00+09:00',
     dateModified: '2026-10-19T16:15:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/tottori-solo-business-sanddune-crab-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/tottori-solo-business-sanddune-crab-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【鳥取出張・ひとり旅】自家源泉かけ流し鳥取温泉・鳥取砂丘パノラマ・冬の松葉ガニ！山陰ビジネスを豊かにする厳選3宿","item":"https://croud-travel.pages.dev/tottori-solo-business-sanddune-crab-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【鳥取出張・ひとり旅】自家源泉かけ流し鳥取温泉・鳥取砂丘パノラマ・冬の松葉ガニ！山陰ビジネスを豊かにする厳選3宿","item":"https://croud-travel.pages.dev/tottori-solo-business-sanddune-crab-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

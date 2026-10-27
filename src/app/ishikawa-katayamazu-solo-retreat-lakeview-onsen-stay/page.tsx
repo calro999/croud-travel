@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '加賀温泉郷・片山津温泉ひとり旅・柴山潟パノラマおこもり：白山連峰一望・湖畔絶景露天風呂・加賀会席＆ズワイガニ！北陸新幹線加賀温泉駅厳選3宿',
     description: '柴山潟の湖面に映る名峰白山と七色に変わる湖水美を誇る加賀・片山津温泉！柴山潟を一望する絶景露天風呂と料理が口コミ★4.6の「湖畔の宿 森本」、加賀情緒あふれる空間美と開放的な大浴場を誇る名門「佳水郷」、源泉元湯の良質な湯と真心の料理が評判の「かのや光楽苑」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/ishikawa-katayamazu-solo-retreat-lakeview-onsen-stay',
+    url: 'https://croud-travel.pages.dev/ishikawa-katayamazu-solo-retreat-lakeview-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/ishikawa-katayamazu-solo-retreat-lakeview-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/ishikawa-katayamazu-solo-retreat-lakeview-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【加賀温泉郷・片山津温泉ひとり旅・柴山潟パノラマおこもり】白山連峰一望・湖畔絶景露天風呂・加賀会席＆ズワイガニ！北陸新幹線加賀温泉駅厳選3宿","item":"https://croud-travel.pages.dev/ishikawa-katayamazu-solo-retreat-lakeview-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【加賀温泉郷・片山津温泉ひとり旅・柴山潟パノラマおこもり】白山連峰一望・湖畔絶景露天風呂・加賀会席＆ズワイガニ！北陸新幹線加賀温泉駅厳選3宿","item":"https://croud-travel.pages.dev/ishikawa-katayamazu-solo-retreat-lakeview-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

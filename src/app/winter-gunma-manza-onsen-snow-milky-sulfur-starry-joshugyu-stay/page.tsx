@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '群馬で過ごす冬の旅（12・1月）！標高1800m極上白濁にごり！名宿5選',
     description: '標高1,800mの上信越高原国立公園に位置する「星に一番近い温泉郷」万座温泉。日本一を誇る超高濃度硫黄泉の乳白色にごり湯の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-gunma-manza-onsen-snow-milky-sulfur-starry-joshugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-gunma-manza-onsen-snow-milky-sulfur-starry-joshugyu-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -165,7 +165,7 @@ export default function GunmaManzaWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-gunma-manza-onsen-snow-milky-sulfur-starry-joshugyu-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-gunma-manza-onsen-snow-milky-sulfur-starry-joshugyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-gunma-manza-onsen-snow-milky-sulfur-starry-joshugyu-stay/"
         },
         "headline": "【12・1月群馬】万座温泉＆嬬恋！標高1800m極上白濁にごり湯雪見露天と満天の星空・上州牛すき焼きを堪能する名宿5選",
         "description": "標高1,800mの上信越高原国立公園に位置する「星に一番近い温泉郷」万座温泉。日本一を誇る超高濃度硫黄泉の乳白色にごり湯は、氷点下10度を下回る厳冬の雪景色の中で体の芯から温まる至福の雪見露天風呂へと旅人を誘います。頭上には光害のない満天の冬の銀河、目の前には万座温泉スキー場の極上パウダースノー。冷えた体に染み渡る上州牛すき焼きや嬬恋名物料理。楽天APIから最新取得した万座温泉屈指の温泉名宿5選を徹底解説します。",
@@ -191,13 +191,13 @@ export default function GunmaManzaWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "万座温泉＆嬬恋冬特集",
-            "item": "https://croud-travel.pages.dev/winter-gunma-manza-onsen-snow-milky-sulfur-starry-joshugyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-gunma-manza-onsen-snow-milky-sulfur-starry-joshugyu-stay/"
           }
         ]
       },
@@ -611,7 +611,7 @@ export default function GunmaManzaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay"
+              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-cyan-400 block mb-1">群馬・草津温泉冬特集</span>
@@ -619,7 +619,7 @@ export default function GunmaManzaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay"
+              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-cyan-400 block mb-1">群馬・伊香保温泉冬特集</span>
@@ -627,7 +627,7 @@ export default function GunmaManzaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay"
+              href="/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-cyan-400 block mb-1">長野・軽井沢冬特集</span>

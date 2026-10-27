@@ -15,12 +15,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: '【播磨灘の初冬の味覚・室津牡蠣解禁と小京都たつの白壁散策】2026-2027年11-12月の兵庫・西播磨！加熱しても縮まない極上室津かき尽くしと新舞子海岸の絶景夕日・播磨灘オーシャンビュー温泉名宿5選',
     description: '11月中旬に待望の漁解禁を迎える播磨灘の極上ブランド「室津牡蠣（むろつがき）」！加熱しても身が縮まず、濃厚な甘みと弾力を誇る焼き牡蠣・牡蠣鍋を本場で味わう至福の初冬旅。「播磨の小京都」龍野の風情ある武家屋敷・白壁の町並み散策と、干潟が茜色に染まる新舞子海岸のサンセット。瀬戸内海を一望するパノラマ露天風呂に癒やされる厳選名宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-hyogo-tatsuno-murotsu-oyster-shinmaiko-sunset-aioi-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-hyogo-tatsuno-murotsu-oyster-shinmaiko-sunset-aioi-onsen-stay/',
     type: 'article',
     siteName: 'クラウドトラベル',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-hyogo-tatsuno-murotsu-oyster-shinmaiko-sunset-aioi-onsen-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-hyogo-tatsuno-murotsu-oyster-shinmaiko-sunset-aioi-onsen-stay/',
   },
 };
 
@@ -46,13 +46,13 @@ export default function WinterFeaturePage() {
                   "@type": "ListItem",
                   "position": 2,
                   "name": "特集一覧",
-                  "item": "https://croud-travel.pages.dev/features"
+                  "item": "https://croud-travel.pages.dev/features/"
                 },
                 {
                   "@type": "ListItem",
                   "position": 3,
                   "name": "【播磨灘の初冬の味覚・室津牡蠣解禁と小京都たつの白壁散策】2026-2027年11-12月の兵庫・西播磨！加熱しても縮まない極上室津かき尽くしと新舞子海岸の絶景夕日・播磨灘オーシャンビュー温泉名宿5選",
-                  "item": "https://croud-travel.pages.dev/winter-hyogo-tatsuno-murotsu-oyster-shinmaiko-sunset-aioi-onsen-stay"
+                  "item": "https://croud-travel.pages.dev/winter-hyogo-tatsuno-murotsu-oyster-shinmaiko-sunset-aioi-onsen-stay/"
                 }
               ]
             },
@@ -95,7 +95,7 @@ export default function WinterFeaturePage() {
         <div className="max-w-5xl mx-auto flex items-center gap-1.5 flex-wrap">
           <Link href="/" className="hover:text-slate-800 transition">ホーム</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
-          <Link href="/features" className="hover:text-slate-800 transition">特集一覧</Link>
+          <Link href="/features/" className="hover:text-slate-800 transition">特集一覧</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
           <span className="text-slate-800 font-medium truncate max-w-xs">【播磨灘の初冬の味覚・室津牡蠣解禁と小京都たつの白壁散策】2026-2027年11-12月の兵庫・西播磨！加熱しても縮まない極上室津かき尽くしと新舞子海岸の絶景夕日・播磨灘オーシャンビュー温泉名宿5選</span>
         </div>

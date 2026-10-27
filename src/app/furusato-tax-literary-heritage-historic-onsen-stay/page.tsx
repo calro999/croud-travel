@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '文豪の愛した名湯・文学ゆかりの老舗旅館×ふるさと納税厳選ガイド城崎・伊豆湯ヶ島・道後の文芸宿',
     description: '志賀直哉『城の崎にて』の城崎温泉、川端康成『伊豆の踊子』執筆の天城湯ヶ島温泉、夏目漱石『坊っちゃん』の道後温泉。近代文学の巨匠たちが逗留し名作を紡いだ歴史的宿で、外湯めぐりと上質な会席料理を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-literary-heritage-historic-onsen-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-literary-heritage-historic-onsen-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -625,7 +625,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay"
+            href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -641,7 +641,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-kominka-heritage-townhouse-auberge-stay"
+            href="/furusato-tax-kominka-heritage-townhouse-auberge-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -657,7 +657,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-historical-kaido-post-town-ryokan-stay"
+            href="/furusato-tax-historical-kaido-post-town-ryokan-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

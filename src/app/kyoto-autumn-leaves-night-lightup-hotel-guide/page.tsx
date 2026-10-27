@@ -416,7 +416,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
           <h2 className="text-xs font-bold uppercase tracking-wider text-stone-400">関連記事・あわせて読みたい京都ガイド</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
-              href="/kyoto-travel-budget-how-many-nights"
+              href="/kyoto-travel-budget-how-many-nights/"
               className="p-4 rounded-xl bg-stone-900/60 border border-stone-800 hover:border-rose-500/40 transition block group"
             >
               <span className="text-rose-400 text-xs font-bold">予算＆滞在日数ガイド</span>
@@ -426,7 +426,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
             </Link>
 
             <Link
-              href="/hakone-rainy-day-indoor-model-course"
+              href="/hakone-rainy-day-indoor-model-course/"
               className="p-4 rounded-xl bg-stone-900/60 border border-stone-800 hover:border-rose-500/40 transition block group"
             >
               <span className="text-rose-400 text-xs font-bold">雨天・悪天候対策</span>

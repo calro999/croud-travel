@@ -207,7 +207,7 @@ export default function Page() {
             <div className="flex flex-wrap items-center gap-2 text-xs text-stone-300">
               <Link href="/" className="hover:text-white transition-colors">ホーム</Link>
               <ChevronRight className="w-3.5 h-3.5 text-stone-500" />
-              <Link href="/features" className="hover:text-white transition-colors">厳選特集</Link>
+              <Link href="/features/" className="hover:text-white transition-colors">厳選特集</Link>
               <ChevronRight className="w-3.5 h-3.5 text-stone-500" />
               <Link href="/prefectures/mie/" className="hover:text-white transition-colors">三重県</Link>
               <ChevronRight className="w-3.5 h-3.5 text-stone-500" />
@@ -795,21 +795,21 @@ export default function Page() {
                 <ChevronRight className="w-4 h-4 text-stone-400" />
               </Link>
               <Link
-                href="/features"
+                href="/features/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>全国の季節・目的別厳選特集一覧</span>
                 <ChevronRight className="w-4 h-4 text-stone-400" />
               </Link>
               <Link
-                href="/furusato-tax-luxury-hotspring-ryokan-stay"
+                href="/furusato-tax-luxury-hotspring-ryokan-stay/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>実質2,000円で泊まる高級温泉旅館ガイド</span>
                 <ChevronRight className="w-4 h-4 text-stone-400" />
               </Link>
               <Link
-                href="/furusato-tax-local-gourmet-inn-stay"
+                href="/furusato-tax-local-gourmet-inn-stay/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>ご当地グルメを堪能する全国美食旅特集</span>

@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: '冬でも温暖な南国・宮崎の日豊海岸。11〜1月の冬シーズンは湿度が低く大気が澄み渡り。',
   keywords: '馬ヶ背 絶景, クルスの海 初日の出, 大御神社 初詣, 日向灘 伊勢海老, 宮崎牛, ホテルベルフォート日向, エンシティホテル延岡, チキン南蛮 直ちゃん, 延岡 ホテル, 宮崎 冬旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay/'
   },
   openGraph: {
     title: '11・12・1月宮崎：冬旬「日向灘伊勢海老」！名宿5選',
     description: '冬でも温暖な南国・宮崎の日豊海岸。11〜1月の冬シーズンは湿度が低く大気が澄み渡り。',
-    url: 'https://croud-travel.pages.dev/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay/',
     type: 'article',
     images: [
       {
@@ -60,7 +60,7 @@ export default function MiyazakiHyugaWinterPage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay/"
     }
   };
 
@@ -78,13 +78,13 @@ export default function MiyazakiHyugaWinterPage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "宮崎・日向＆延岡 冬特集",
-        "item": "https://croud-travel.pages.dev/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay"
+        "item": "https://croud-travel.pages.dev/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay/"
       }
     ]
   };
@@ -594,7 +594,7 @@ export default function MiyazakiHyugaWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm mb-8">
             <Link 
-              href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay"
+              href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-amber-500 transition hover:shadow-md group block"
             >
               <div className="text-amber-600 font-bold text-xs mb-1">宮崎・青島＆日南</div>
@@ -607,7 +607,7 @@ export default function MiyazakiHyugaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay"
+              href="/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-amber-500 transition hover:shadow-md group block"
             >
               <div className="text-amber-600 font-bold text-xs mb-1">宮崎・高千穂＆奥日向</div>
@@ -620,7 +620,7 @@ export default function MiyazakiHyugaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay"
+              href="/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-amber-500 transition hover:shadow-md group block"
             >
               <div className="text-amber-600 font-bold text-xs mb-1">大分・宇佐＆国東半島</div>
@@ -636,9 +636,9 @@ export default function MiyazakiHyugaWinterPage() {
           <div className="flex flex-wrap justify-center gap-4 text-xs font-semibold text-slate-600">
             <Link href="/" className="hover:text-amber-600 underline">ホーム</Link>
             <span>•</span>
-            <Link href="/features" className="hover:text-amber-600 underline">特集一覧</Link>
+            <Link href="/features/" className="hover:text-amber-600 underline">特集一覧</Link>
             <span>•</span>
-            <Link href="/posts" className="hover:text-amber-600 underline">記事一覧カタログ</Link>
+            <Link href="/posts/" className="hover:text-amber-600 underline">記事一覧カタログ</Link>
           </div>
         
       <HubRelatedPosts currentSlug="winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay" />

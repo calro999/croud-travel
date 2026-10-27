@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '黒煙と汽笛が旅情を揺さぶる！大井川鐵道・秩父鉄道・磐越西線のSL・蒸気機関車ビューステイ×ふるさと納税厳選ガイド島田・秩父・会津若松',
     description: '力強い汽笛と真っ白な蒸気、レトロな客車が郷愁を誘う蒸気機関車（SL）の旅！大井川鐵道のSL列車が目の前を横切る絶好のビュースポット「川根温泉ホテル」、秩父路を駆けるSLパレオエクスプレスの旅情と竹酒・名湯に酔いしれる「秩父小鹿野温泉旅館 梁山泊」、SLばんえつ物語が走る会津若松の奥座敷で名勝伏見ヶ滝を望む「会津東山温泉 庄助の宿 瀧の湯」。鉄道ファンから家族連れ、大人の休日までを魅了するSL温泉旅を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-steam-locomotive-sl-train-view-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-steam-locomotive-sl-train-view-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoSteamLocomotiveSLTrainStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">SL・蒸気機関車ビューステイ名宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoSteamLocomotiveSLTrainStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/scenic-tourist-train-onsen-trip-stay"
+            href="/scenic-tourist-train-onsen-trip-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【観光列車・絶景トロッコ列車旅×ふるさと納税】車窓と温泉旅館の贅沢旅
           </Link>
           <Link
-            href="/furusato-tax-station-walk-car-free-onsen-stay"
+            href="/furusato-tax-station-walk-car-free-onsen-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【駅徒歩圏内・車なし電車で行ける温泉宿×ふるさと納税】アクセス抜群の名宿
           </Link>
           <Link
-            href="/furusato-tax-waterfall-view-sound-stream-onsen-stay"
+            href="/furusato-tax-waterfall-view-sound-stream-onsen-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【清流・渓谷美を望む絶景露天風呂×ふるさと納税】水音と自然に包まれる旅
           </Link>
           <Link
-            href="/cultural-property-heritage-sukiya-ryokan-stay"
+            href="/cultural-property-heritage-sukiya-ryokan-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【登録有形文化財・歴史的名建築宿×ふるさと納税】昭和レトロと美の宿

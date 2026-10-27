@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '愛知で過ごす冬の旅（11・12月）！伊良湖天然とらふぐと新源泉「！名宿5選',
     description: '11月から12月、太平洋と三河湾の黒潮が交差する愛知県渥美半島の先端・伊良湖岬（田原市）は、冬の最高級美食「伊良湖天然とらふぐ」の最盛期を迎えます。',
-    url: 'https://croud-travel.pages.dev/winter-aichi-irago-onsen-torafugu-atsumigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-aichi-irago-onsen-torafugu-atsumigyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -56,7 +56,7 @@ export default function AichiIragoOnsenWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-aichi-irago-onsen-torafugu-atsumigyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-aichi-irago-onsen-torafugu-atsumigyu-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -379,7 +379,7 @@ export default function AichiIragoOnsenWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月愛知】伊良湖天然とらふぐと新源泉「！名宿5選","item":"https://croud-travel.pages.dev/winter-aichi-irago-onsen-torafugu-atsumigyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月愛知】伊良湖天然とらふぐと新源泉「！名宿5選","item":"https://croud-travel.pages.dev/winter-aichi-irago-onsen-torafugu-atsumigyu-stay/"}]}) }}
       />
 
         {/* Introduction Section */}
@@ -687,21 +687,21 @@ export default function AichiIragoOnsenWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay" 
+              href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-blue-700 font-bold block text-[10px]">愛知・南知多</span>
               <p className="font-bold text-stone-800 line-clamp-2">日間賀島のとらふぐと知多牛・伊勢湾を望む美肌温泉名宿</p>
             </Link>
             <Link 
-              href="/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay" 
+              href="/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-blue-700 font-bold block text-[10px]">静岡・浜名湖舘山寺</span>
               <p className="font-bold text-stone-800 line-clamp-2">浜名湖の天然トラフグと名物うなぎ・湖畔の絶景露天風呂宿</p>
             </Link>
             <Link 
-              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay" 
+              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-blue-700 font-bold block text-[10px]">三重・鳥羽温泉郷</span>

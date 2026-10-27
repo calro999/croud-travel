@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '鬼怒川渓谷の絶景と名湯！空中庭園露天風呂＆豪華100種バイキング・最高峰老舗旅館×ふるさと納税極上旅ガイドあさや・金谷ホテル・ホテル三日月',
     description: '関東屈指の歴史を誇る名湯リゾート・鬼怒川温泉！ダイナミックな鬼怒川渓谷の巨岩と四季の景観。「鬼怒川温泉 あさや」「鬼怒川金谷ホテル」「鬼怒川温泉 日光きぬ川ホテル三日月」を、栃木県日光市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。絶景空中庭園露天風呂、ショコラバー、100種バイキングを満喫。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kinugawa-onsen-valley-view-luxury-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kinugawa-onsen-valley-view-luxury-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoKinugawaOnsenValleyStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">鬼怒川温泉 渓谷美＆名門旅館特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoKinugawaOnsenValleyStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay"
+            href="/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【草津温泉 湯畑散策＆名湯名門旅館×ふるさと納税】櫻井・一井・奈良屋
           </Link>
           <Link
-            href="/furusato-tax-hakone-onsen-open-air-bath-stay"
+            href="/furusato-tax-hakone-onsen-open-air-bath-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【箱根温泉 客室露天風呂＆名門旅館×ふるさと納税】富士屋ホテル・天成園・はつはな
           </Link>
           <Link
-            href="/furusato-tax-noboribetsu-jigokudani-onsen-luxury-stay"
+            href="/furusato-tax-noboribetsu-jigokudani-onsen-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【登別温泉 地獄谷＆名湯ビュッフェ宿×ふるさと納税】第一滝本館・まほろば・グランドホテル
           </Link>
           <Link
-            href="/furusato-tax-luxury-buffet-gourmet-resort-stay"
+            href="/furusato-tax-luxury-buffet-gourmet-resort-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【豪華ビュッフェ＆オープンキッチン名宿×ふるさと納税】美食リゾート

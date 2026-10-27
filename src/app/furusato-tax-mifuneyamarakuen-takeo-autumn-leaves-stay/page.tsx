@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯1300年武雄温泉！名湯宿×ふるさと納税厳選ガイド佐賀',
     description: '11月上旬〜12月上旬に開催される日本最大級の紅葉ライトアップ「御船山楽園 紅葉まつり」！御船山の切り立った断崖と池に映る逆さ紅葉の絶景、開湯1300年のとろとろ美肌湯「御船山楽園ホテル」「大正浪漫の宿 京都屋」「懐石宿 扇屋」で最高峰佐賀牛や若楠ポークを堪能。楽天ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-mifuneyamarakuen-takeo-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-mifuneyamarakuen-takeo-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">佐賀・武雄温泉 御船山楽園15万坪の紅葉狩り＆美肌温泉宿特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

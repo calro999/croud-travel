@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '静岡・三島＆修善寺・沼津港：三島スカイウォーク・竹林小径＆沼津海鮮宿 厳選ガイド',
     description: '日本最長400mの富士山大吊橋「三島スカイウォーク」、源頼朝旗揚げの古社「三嶋大社」、弘法大師開湯の伊豆最古「修善寺温泉」竹林の小径、世界唯一のシーラカンス剥製を誇る「沼津港深海水族館」と朝獲れ鮮魚浜焼き宿を徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/shizuoka-mishima-shuzenji-numazu-port-stay',
+    url: 'https://croud-travel.pages.dev/shizuoka-mishima-shuzenji-numazu-port-stay/',
   },
 };
 

@@ -403,7 +403,7 @@ export default function SilverWeekGlampingAirConditioningBedPage() {
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
           <Link
-            href="/glamping-first-time-regrets-packing-guide"
+            href="/glamping-first-time-regrets-packing-guide/"
             className="block p-4 rounded-2xl bg-emerald-900/60 border border-emerald-700/60 hover:border-emerald-400 hover:bg-emerald-900/90 transition group"
           >
             <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -415,7 +415,7 @@ export default function SilverWeekGlampingAirConditioningBedPage() {
           </Link>
 
           <Link
-            href="/kanto-baby-friendly-onsen-ryokan-guide"
+            href="/kanto-baby-friendly-onsen-ryokan-guide/"
             className="block p-4 rounded-2xl bg-emerald-900/60 border border-emerald-700/60 hover:border-emerald-400 hover:bg-emerald-900/90 transition group"
           >
             <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -431,7 +431,7 @@ export default function SilverWeekGlampingAirConditioningBedPage() {
       {/* 都道府県一覧への導線 */}
       <div className="text-center pt-4">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-emerald-950 bg-emerald-50 hover:bg-emerald-100 border border-emerald-200 px-8 py-3.5 rounded-2xl transition shadow-sm"
         >
           <span>🗾</span>

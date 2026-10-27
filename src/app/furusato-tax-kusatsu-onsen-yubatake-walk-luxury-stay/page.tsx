@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '天下の名湯・草津温泉の真髄を味わう！湯畑徒歩圏＆名物源泉掛け流し名門旅館×ふるさと納税極上旅ガイド櫻井・一井・奈良屋',
     description: '日本三名泉の筆頭・草津温泉！立ちのぼる湯煙と幻想的な夜のライトアップに包まれる湯畑へ徒歩すぐ。「草津温泉 ホテル櫻井」「草津温泉 ホテル一井」「草津温泉 奈良屋」を、群馬県草津町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。約30mの大浴場、湯守が守る白旗源泉、湯畑一望客室を堪能。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoKusatsuYubatakeWalkStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">草津温泉 湯畑散策＆名湯名門宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoKusatsuYubatakeWalkStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/pure-100-percent-kakenagashi-onsen-stay"
+            href="/pure-100-percent-kakenagashi-onsen-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【源泉かけ流し100％名湯×ふるさと納税】加水加温なしの本物の温泉宿
           </Link>
           <Link
-            href="/furusato-tax-indoor-pool-kids-family-resort-stay"
+            href="/furusato-tax-indoor-pool-kids-family-resort-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【一年中泳げる室内温水プール宿×ふるさと納税】那須・草津・別府リゾート
           </Link>
           <Link
-            href="/furusato-tax-hakone-onsen-open-air-bath-stay"
+            href="/furusato-tax-hakone-onsen-open-air-bath-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【箱根湯本名湯温泉＆大露天風呂宿×ふるさと納税】ロマンスカー直通名宿
           </Link>
           <Link
-            href="/furusato-tax-all-inclusive-free-drinks-alcohol-stay"
+            href="/furusato-tax-all-inclusive-free-drinks-alcohol-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【お酒飲み放題オールインクルーシブ宿×ふるさと納税】贅沢ラウンジステイ

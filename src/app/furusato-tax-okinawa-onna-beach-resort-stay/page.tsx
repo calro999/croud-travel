@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '沖縄・恩納村をふるさと納税でお得に旅する！西海岸エメラルドビーチ＆最高峰ラグジュアリー！プールヴィラ特集｜ハレクラニ・ハイアット瀬良垣・ルネッサンス',
     description: '日本屈指の美ら海リゾート・沖縄県恩納村を楽天ふるさと納税でお得に極上バケーション！ハワイ名門の天国の館「ハレクラニ沖縄」、360度海に囲まれた島リゾート「ハイアット リージェンシー 瀬良垣アイランド 沖縄」、イルカと遊べる「ルネッサンスリゾートオキナワ」を徹底比較。恩納村トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-okinawa-onna-beach-resort-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-okinawa-onna-beach-resort-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T00:20:00+09:00',
     dateModified: '2026-10-19T00:20:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-okinawa-onna-beach-resort-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-okinawa-onna-beach-resort-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【沖縄・恩納村×ふるさと納税】西海岸エメラルドビーチ＆最高峰ラグジュアリー！プールヴィラ特集｜ハレクラニ・ハイアット瀬良垣・ルネッサンス","item":"https://croud-travel.pages.dev/furusato-tax-okinawa-onna-beach-resort-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【沖縄・恩納村×ふるさと納税】西海岸エメラルドビーチ＆最高峰ラグジュアリー！プールヴィラ特集｜ハレクラニ・ハイアット瀬良垣・ルネッサンス","item":"https://croud-travel.pages.dev/furusato-tax-okinawa-onna-beach-resort-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【沖縄・恩納村×ふるさと納税】西海岸エメラルドビーチ＆最高峰ラグジュアリー！プールヴィラ特集｜ハレクラニ・ハイアット瀬良垣・ルネッサンス</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-hakone-yumoto-gateway-luxury-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-hakone-yumoto-gateway-luxury-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 箱根湯本温泉 玄関口の極上湯浴み＆老舗名宿特集
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-fukuoka-hakata-luxury-gourmet-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-fukuoka-hakata-luxury-gourmet-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 福岡・博多 駅直結ラグジュアリー＆天然温泉スパ特集
               </Link>
             </li>

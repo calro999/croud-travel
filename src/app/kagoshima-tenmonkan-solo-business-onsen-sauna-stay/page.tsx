@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '鹿児島天文館出張・天然温泉サウナ：桜島展望・天然温泉霧桜の湯・黒豚しゃぶしゃぶ！南九州最大の繁華街を制する厳選3宿',
     description: '九州新幹線「みずほ」終点・鹿児島中央駅から市電で直通！繁華街天文館の真ん中で最上階天然温泉＆サウナ・夜鳴きそばを誇る「ドーミーイン鹿児島」、県庁前で良質な天然温泉大浴場が自慢の「ホテル自治会館」、錦江湾と雄大な桜島パノラマを望む展望温泉の「鹿児島サンロイヤルホテル」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/kagoshima-tenmonkan-solo-business-onsen-sauna-stay',
+    url: 'https://croud-travel.pages.dev/kagoshima-tenmonkan-solo-business-onsen-sauna-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/kagoshima-tenmonkan-solo-business-onsen-sauna-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/kagoshima-tenmonkan-solo-business-onsen-sauna-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【鹿児島天文館出張・天然温泉サウナ】桜島展望・天然温泉霧桜の湯・黒豚しゃぶしゃぶ！南九州最大の繁華街を制する厳選3宿","item":"https://croud-travel.pages.dev/kagoshima-tenmonkan-solo-business-onsen-sauna-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【鹿児島天文館出張・天然温泉サウナ】桜島展望・天然温泉霧桜の湯・黒豚しゃぶしゃぶ！南九州最大の繁華街を制する厳選3宿","item":"https://croud-travel.pages.dev/kagoshima-tenmonkan-solo-business-onsen-sauna-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

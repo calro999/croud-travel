@@ -163,11 +163,11 @@ export default function KanazawaVsKyotoPage() {
               東京からのアクセス費用を比較。バスか新幹線かで大きく変わります。
             </p>
             <div className="space-y-4">
-              <Link href="/tokyo-kanazawa-bus-vs-shinkansen-guide" className="block bg-slate-50 hover:bg-slate-100 p-4 rounded-xl border border-slate-200 transition-colors">
+              <Link href="/tokyo-kanazawa-bus-vs-shinkansen-guide/" className="block bg-slate-50 hover:bg-slate-100 p-4 rounded-xl border border-slate-200 transition-colors">
                 <span className="font-bold text-slate-800">🚄 東京〜金沢の交通比較</span>
                 <p className="text-sm text-slate-500 mt-1">北陸新幹線 vs 夜行バス。詳しい料金や所要時間の違いはこちら。</p>
               </Link>
-              <Link href="/tokyo-kyoto-bus-vs-shinkansen-guide" className="block bg-slate-50 hover:bg-slate-100 p-4 rounded-xl border border-slate-200 transition-colors">
+              <Link href="/tokyo-kyoto-bus-vs-shinkansen-guide/" className="block bg-slate-50 hover:bg-slate-100 p-4 rounded-xl border border-slate-200 transition-colors">
                 <span className="font-bold text-slate-800">🚄 東京〜京都の交通比較</span>
                 <p className="text-sm text-slate-500 mt-1">東海道新幹線 vs 高速バス。安く行く方法を徹底解説しています。</p>
               </Link>

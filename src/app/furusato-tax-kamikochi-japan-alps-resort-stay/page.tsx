@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '神降ちる清流と穂高連峰の絶景！上高地の大正池・梓川温泉＆本格山岳フレンチ名宿×ふるさと納税極上旅ガイドルミエスタ・大正池ホテル・上高地温泉ホテル',
     description: '日本屈指の山岳景勝地・長野県上高地！河童橋、大正池、エメラルドに輝く梓川と穂高連峰のパノラマ。「上高地ルミエスタホテル」「上高地大正池ホテル」「上高地温泉ホテル」を、長野県松本市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。自家源泉天然温泉、朝霧の大正池、極上フレンチフルコースを満喫。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kamikochi-japan-alps-resort-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kamikochi-japan-alps-resort-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoKamikochiLuxuryStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">上高地 北アルプス山岳名宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoKamikochiLuxuryStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-karuizawa-luxury-resort-villa-stay"
+            href="/furusato-tax-karuizawa-luxury-resort-villa-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【軽井沢 高原リゾート＆名門ホテル×ふるさと納税】マリオット・プリンスイースト・音羽ノ森
           </Link>
           <Link
-            href="/furusato-tax-furano-biei-lavender-nature-stay"
+            href="/furusato-tax-furano-biei-lavender-nature-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【富良野・美瑛 ラベンダー畑＆大自然絶景宿×ふるさと納税】新富良野プリンス・オリカ・白金温泉
           </Link>
           <Link
-            href="/furusato-tax-hakone-onsen-open-air-bath-stay"
+            href="/furusato-tax-hakone-onsen-open-air-bath-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【箱根温泉 客室露天風呂＆名門旅館×ふるさと納税】富士屋ホテル・天成園・はつはな
           </Link>
           <Link
-            href="/furusato-tax-private-villa-hanare-hideaway-stay"
+            href="/furusato-tax-private-villa-hanare-hideaway-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【大人の隠れ家・離れ客室×ふるさと納税】静寂とプライベート重視の名宿

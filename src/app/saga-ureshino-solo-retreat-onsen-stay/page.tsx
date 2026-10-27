@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '嬉野温泉ひとり旅・美肌名湯おこもり：日本三大美肌の湯・嬉野茶・温泉湯豆腐！とろとろの重曹泉に包まれる贅沢ソロリトリート厳選3宿',
     description: '日本三大美肌の湯・嬉野！洋館のクラシカルな気品とイタリアンが魅力の「ハミルトン宇礼志野」、嬉野茶と自家源泉が融合した最新ラグジュアリー宿「嬉野 八十八」、嬉野川沿いで源泉かけ流しと家庭的なもてなしが愛される「松園」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/saga-ureshino-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/saga-ureshino-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/saga-ureshino-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/saga-ureshino-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【嬉野温泉ひとり旅・美肌名湯おこもり】日本三大美肌の湯・嬉野茶・温泉湯豆腐！とろとろの重曹泉に包まれる贅沢ソロリトリート厳選3宿","item":"https://croud-travel.pages.dev/saga-ureshino-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【嬉野温泉ひとり旅・美肌名湯おこもり】日本三大美肌の湯・嬉野茶・温泉湯豆腐！とろとろの重曹泉に包まれる贅沢ソロリトリート厳選3宿","item":"https://croud-travel.pages.dev/saga-ureshino-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '世界唯一の天然砂むし温泉「指宿温泉」＆薩摩の小京都「知覧武家屋敷」紅葉・鹿児島黒豚黒牛',
     description: '10月〜11月の爽快な南国秋風が心地よい薩摩半島・指宿温泉。波打ち際の天然砂むし風呂で全身デトックスし、知覧武家屋敷庭園の紅葉散策と極上鹿児島黒豚・黒毛和牛しゃぶしゃぶをふるさと納税で堪能。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-ibusuki-sand-bath-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-ibusuki-sand-bath-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-ibusuki-sand-bath-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-ibusuki-sand-bath-autumn-stay/"
   };
 
   const faqSchema = {
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"世界唯一の天然砂むし温泉「指宿温泉」＆薩摩の小京都「知覧武家屋敷」紅葉・鹿児島黒豚黒牛 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-ibusuki-sand-bath-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"世界唯一の天然砂むし温泉「指宿温泉」＆薩摩の小京都「知覧武家屋敷」紅葉・鹿児島黒豚黒牛 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-ibusuki-sand-bath-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

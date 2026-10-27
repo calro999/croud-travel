@@ -156,14 +156,14 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
           {/* 内部リンクバナー */}
           <div className="flex flex-wrap gap-3">
             <Link
-              href="/kyoto-travel-budget-how-many-nights"
+              href="/kyoto-travel-budget-how-many-nights/"
               className="inline-flex items-center gap-1.5 px-4 py-2 bg-rose-900/70 hover:bg-rose-800 border border-rose-600/50 rounded-xl text-rose-200 text-xs sm:text-sm font-semibold transition"
             >
               <span>🏮 京都旅行 何泊がベスト？費用＆日数比較</span>
               <span>→</span>
             </Link>
             <Link
-              href="/kyoto-couple-luxury-ryokan-guide"
+              href="/kyoto-couple-luxury-ryokan-guide/"
               className="inline-flex items-center gap-1.5 px-4 py-2 bg-stone-800/90 hover:bg-stone-700 border border-stone-700 rounded-xl text-stone-300 text-xs sm:text-sm font-semibold transition"
             >
               <span>♨️ 京都 カップル向け高級旅館・客室温泉宿</span>
@@ -349,14 +349,14 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
           <p className="text-xs text-stone-500 mb-3">あわせて読みたい京都旅行ガイド</p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link
-              href="/kyoto-travel-budget-how-many-nights"
+              href="/kyoto-travel-budget-how-many-nights/"
               className="text-xs sm:text-sm font-semibold text-rose-700 hover:text-rose-800 underline underline-offset-4"
             >
               【京都旅行 何泊がベスト？】1泊2日 vs 2泊3日 費用・満足度・モデルコース比較
             </Link>
             <span className="text-stone-400">|</span>
             <Link
-              href="/kyoto-couple-luxury-ryokan-guide"
+              href="/kyoto-couple-luxury-ryokan-guide/"
               className="text-xs sm:text-sm font-semibold text-rose-700 hover:text-rose-800 underline underline-offset-4"
             >
               【京都 カップル温泉旅館】客室露天風呂・記念日サプライズ付き極上宿

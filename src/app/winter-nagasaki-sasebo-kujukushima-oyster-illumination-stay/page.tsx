@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月長崎：冬の味覚「九十九島かき」焼き！名宿5選',
     description: '11月から1月、長崎県佐世保市・九十九島は、濃厚な甘みと旨味がギュッと詰まった旬の「九十九島かき」の焼き牡蠣小屋と。',
-    url: 'https://croud-travel.pages.dev/winter-nagasaki-sasebo-kujukushima-oyster-illumination-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagasaki-sasebo-kujukushima-oyster-illumination-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-nagasaki-sasebo-kujukushima-oyster-illumination-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-nagasaki-sasebo-kujukushima-oyster-illumination-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '長崎・九十九島かき＆ハウステンボス特集',
-        item: 'https://croud-travel.pages.dev/winter-nagasaki-sasebo-kujukushima-oyster-illumination-stay'
+        item: 'https://croud-travel.pages.dev/winter-nagasaki-sasebo-kujukushima-oyster-illumination-stay/'
       }
     ]
   };
@@ -598,7 +598,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link 
-              href="/winter-fukuoka-itoshima-oyster-hakata-fugu-stay"
+              href="/winter-fukuoka-itoshima-oyster-hakata-fugu-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -615,7 +615,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay"
+              href="/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -632,7 +632,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay"
+              href="/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -649,7 +649,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-okayama-hinase-ushimado-oyster-kakioko-stay"
+              href="/winter-okayama-hinase-ushimado-oyster-kakioko-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -666,7 +666,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-hiroshima-miyajima-etajima-oyster-onsen-stay"
+              href="/winter-hiroshima-miyajima-etajima-oyster-onsen-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -683,7 +683,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay"
+              href="/winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>

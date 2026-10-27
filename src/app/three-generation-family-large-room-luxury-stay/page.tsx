@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '祖父母から孫までみんなで快適！3世代ファミリー旅行・コネクティングルーム＆露天風呂付き離れ宿',
     description: '熱海・白浜・那須・伊豆など祖父母・両親・子どもがプライバシーを保ちながら一緒に泊まれる大型客室やコネクティングルーム。貸切風呂や部屋食も充実。',
-    url: 'https://croud-travel.pages.dev/three-generation-family-large-room-luxury-stay',
+    url: 'https://croud-travel.pages.dev/three-generation-family-large-room-luxury-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/three-generation-family-large-room-luxury-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/three-generation-family-large-room-luxury-stay/"
   };
 
   const faqSchema = {
@@ -151,7 +151,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"祖父母から孫までみんなで快適！3世代ファミリー旅行・コネクティングルーム＆露天風呂付き離れ宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/three-generation-family-large-room-luxury-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"祖父母から孫までみんなで快適！3世代ファミリー旅行・コネクティングルーム＆露天風呂付き離れ宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/three-generation-family-large-room-luxury-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -166,7 +166,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">3世代家族・大型客室＆離れ宿</span>
       </nav>
@@ -281,7 +281,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="祖父母から孫までみんなで快適！3世代ファミリー旅行・コネクティングルーム＆露天風呂付き離れ宿"
-            url="https://croud-travel.pages.dev/three-generation-family-large-room-luxury-stay"
+            url="https://croud-travel.pages.dev/three-generation-family-large-room-luxury-stay/"
           />
         </div>
 

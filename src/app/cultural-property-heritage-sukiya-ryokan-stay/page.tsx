@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '宮大工の技と歴史が息づく！国登録有形文化財・伝統建築美に泊まる名門老舗旅館',
     description: '修善寺・渋温泉・箱根など、宮大工の至高の技と百年を超える歴史が刻まれた登録有形文化財の老舗宿。タイムスリップしたかのような日本の美と名湯。',
-    url: 'https://croud-travel.pages.dev/cultural-property-heritage-sukiya-ryokan-stay',
+    url: 'https://croud-travel.pages.dev/cultural-property-heritage-sukiya-ryokan-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/cultural-property-heritage-sukiya-ryokan-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/cultural-property-heritage-sukiya-ryokan-stay/"
   };
 
   const faqSchema = {
@@ -151,7 +151,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"宮大工の技と歴史が息づく！国登録有形文化財・伝統建築美に泊まる名門老舗旅館 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/cultural-property-heritage-sukiya-ryokan-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"宮大工の技と歴史が息づく！国登録有形文化財・伝統建築美に泊まる名門老舗旅館 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/cultural-property-heritage-sukiya-ryokan-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -166,7 +166,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">登録有形文化財・名建築旅館</span>
       </nav>
@@ -281,7 +281,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="宮大工の技と歴史が息づく！国登録有形文化財・伝統建築美に泊まる名門老舗旅館"
-            url="https://croud-travel.pages.dev/cultural-property-heritage-sukiya-ryokan-stay"
+            url="https://croud-travel.pages.dev/cultural-property-heritage-sukiya-ryokan-stay/"
           />
         </div>
 

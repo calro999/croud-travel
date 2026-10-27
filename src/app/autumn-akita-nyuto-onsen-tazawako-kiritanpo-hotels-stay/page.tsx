@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の乳頭温泉郷・田沢湖：ブナ原生林の黄金紅葉と名物きりたんぽ鍋！憧れの秘湯温泉宿5選「2026最新」',
     description: 'ブナ林が黄金色に染まる乳頭温泉郷の秋！乳白色の名湯露天風呂と名物きりたんぽ鍋を味わう厳選宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-akita-nyuto-onsen-tazawako-kiritanpo-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-akita-nyuto-onsen-tazawako-kiritanpo-hotels-stay/',
   }
 };
 

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '直島・瀬戸内アートひとり旅：美術館に泊まる至高体験・瀬戸内海パノラマ・本場讃岐うどん！島と港でととのう厳選3宿',
     description: '世界中のアートファンを魅了する現代アートの聖地・直島と、その玄関口・高松港。安藤忠雄建築の美術館とホテルが融合した世界的名宿「ベネッセハウス」、高松港・JR高松駅直結の最高峰シティホテル「ＪＲホテルクレメント高松」、全室クラブフロア仕様の上質空間「ロイヤルパークホテル高松」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/naoshima-setouchi-solo-art-island-retreat-stay',
+    url: 'https://croud-travel.pages.dev/naoshima-setouchi-solo-art-island-retreat-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T17:40:00+09:00',
     dateModified: '2026-10-19T17:40:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/naoshima-setouchi-solo-art-island-retreat-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/naoshima-setouchi-solo-art-island-retreat-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【直島・瀬戸内アートひとり旅】美術館に泊まる至高体験・瀬戸内海パノラマ・本場讃岐うどん！島と港でととのう厳選3宿","item":"https://croud-travel.pages.dev/naoshima-setouchi-solo-art-island-retreat-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【直島・瀬戸内アートひとり旅】美術館に泊まる至高体験・瀬戸内海パノラマ・本場讃岐うどん！島と港でととのう厳選3宿","item":"https://croud-travel.pages.dev/naoshima-setouchi-solo-art-island-retreat-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

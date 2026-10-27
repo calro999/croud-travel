@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三美人の湯・紀州龍神温泉ひとり旅・日高川渓谷おこもり：pH8.4極上とろみ重曹泉・紀州梅豚＆あまご・徳川頼宣公の別荘！弘法大師ゆかりの厳選3宿',
     description: '島根の斐乃上・群馬の川中と並ぶ日本三美人の湯・和歌山・龍神温泉！紀州徳川家の殿様風呂の歴史を伝える「下御殿」、料理自慢の主人が手掛ける地魚と猪肉会席が評判の「料理旅館 萬屋」、登録有形文化財の風情と高野槇風呂を誇る名門「上御殿」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/wakayama-ryujin-solo-retreat-beauty-onsen-stay',
+    url: 'https://croud-travel.pages.dev/wakayama-ryujin-solo-retreat-beauty-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/wakayama-ryujin-solo-retreat-beauty-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/wakayama-ryujin-solo-retreat-beauty-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【日本三美人の湯・紀州龍神温泉ひとり旅・日高川渓谷おこもり】pH8.4極上とろみ重曹泉・紀州梅豚＆あまご・徳川頼宣公の別荘！弘法大師ゆかりの厳選3宿","item":"https://croud-travel.pages.dev/wakayama-ryujin-solo-retreat-beauty-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【日本三美人の湯・紀州龍神温泉ひとり旅・日高川渓谷おこもり】pH8.4極上とろみ重曹泉・紀州梅豚＆あまご・徳川頼宣公の別荘！弘法大師ゆかりの厳選3宿","item":"https://croud-travel.pages.dev/wakayama-ryujin-solo-retreat-beauty-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

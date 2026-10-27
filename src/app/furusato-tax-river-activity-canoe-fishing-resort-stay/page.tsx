@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '清流アクティビティ＆リバービュー温泉宿×ふるさと納税厳選ガイド長良川・四万十川・保津川の舟旅',
     description: '日本が誇る清流で楽しむカヌー・ラフティング・伝統舟下り！岐阜長良川の鵜飼鑑賞、高知四万十川のSUP＆沈下橋めぐり、京都保津川のダイナミック渓谷下り。川魚の女王・天然鮎会席とリバーサイド名宿を楽天ふるさと納税でお得に予約する旅ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-river-activity-canoe-fishing-resort-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-river-activity-canoe-fishing-resort-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -624,7 +624,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-riverside-kawadoko-cooling-inn-stay"
+            href="/furusato-tax-riverside-kawadoko-cooling-inn-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -640,7 +640,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-cycling-shimanami-lake-resort-stay"
+            href="/furusato-tax-cycling-shimanami-lake-resort-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -656,7 +656,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-autumn-foliage-gorge-onsen-stay"
+            href="/furusato-tax-autumn-foliage-gorge-onsen-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

@@ -1,8 +1,8 @@
 # 岐阜県の宿泊・観光記事（65件）
 
 ## 【2026年11月現地特化】塩原温泉・身延山と下部温泉・郡上八幡城・秋月と原鶴温泉の晩秋攻略ガイド｜楽天トラベル直近実データで選ぶ極上宿
-- 記事: https://croud-travel.pages.dev/posts/undefined/
-- 全文Markdown: https://croud-travel.pages.dev/ai/undefined.md
+- 記事: https://croud-travel.pages.dev/posts/note-253/
+- 全文Markdown: https://croud-travel.pages.dev/ai/note-253.md
 - 宿泊施設名: undefined
 - エリア: 
 

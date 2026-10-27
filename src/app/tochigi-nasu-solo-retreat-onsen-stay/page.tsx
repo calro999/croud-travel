@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '那須温泉ひとり旅・御用邸高原おこもり：茶臼岳絶景露天・鹿の湯白濁泉・那須黒毛和牛！森の静寂に包まれる高原リゾート厳選3宿',
     description: '皇室の御用邸があるロイヤルリゾート・那須高原！広大な敷地に天然温泉スパとラウンジを備える名門「ホテルハーヴェスト那須」、標高1,200mの茶臼岳山腹で乳白色の名湯を誇る「旅館ニューおおたか」、森の隠れ家コテージ「ホテルフォレストヒルズ那須」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/tochigi-nasu-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/tochigi-nasu-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/tochigi-nasu-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/tochigi-nasu-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【那須温泉ひとり旅・御用邸高原おこもり】茶臼岳絶景露天・鹿の湯白濁泉・那須黒毛和牛！森の静寂に包まれる高原リゾート厳選3宿","item":"https://croud-travel.pages.dev/tochigi-nasu-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【那須温泉ひとり旅・御用邸高原おこもり】茶臼岳絶景露天・鹿の湯白濁泉・那須黒毛和牛！森の静寂に包まれる高原リゾート厳選3宿","item":"https://croud-travel.pages.dev/tochigi-nasu-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

@@ -379,7 +379,7 @@ export default function SilverWeekGlampingStargazingAstronomyPage() {
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
           <Link
-            href="/yamanashi-grape-bus-tour-daytrip-guide"
+            href="/yamanashi-grape-bus-tour-daytrip-guide/"
             className="block p-4 rounded-2xl bg-white border border-indigo-200/60 hover:border-indigo-400 hover:shadow-md transition group"
           >
             <span className="text-[10px] font-bold text-indigo-700 bg-indigo-50 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -391,7 +391,7 @@ export default function SilverWeekGlampingStargazingAstronomyPage() {
           </Link>
 
           <Link
-            href="/fuji-five-lakes-car-free-bus-guide"
+            href="/fuji-five-lakes-car-free-bus-guide/"
             className="block p-4 rounded-2xl bg-white border border-slate-200 hover:border-indigo-400 hover:shadow-md transition group"
           >
             <span className="text-[10px] font-bold text-slate-700 bg-slate-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -407,7 +407,7 @@ export default function SilverWeekGlampingStargazingAstronomyPage() {
       {/* 都道府県一覧への導線 */}
       <div className="text-center pt-4">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-slate-700 bg-white hover:bg-indigo-50 border border-slate-300 px-8 py-3.5 rounded-2xl transition shadow-sm"
         >
           <span>🌌</span>

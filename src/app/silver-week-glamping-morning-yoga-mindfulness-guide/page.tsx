@@ -190,7 +190,7 @@ export default function SilverWeekGlampingMorningYogaMindfulnessPage() {
           </li>
           <li><span className="text-indigo-300">/</span></li>
           <li>
-            <Link href="/prefectures" className="hover:text-indigo-700 underline">グランピング特集</Link>
+            <Link href="/prefectures/" className="hover:text-indigo-700 underline">グランピング特集</Link>
           </li>
           <li><span className="text-indigo-300">/</span></li>
           <li className="text-indigo-950 font-bold" aria-current="page">朝ヨガ＆森林セラピーガイド</li>
@@ -345,7 +345,7 @@ export default function SilverWeekGlampingMorningYogaMindfulnessPage() {
                     {(hotel.nearestStation || hotel.access) && (
                       <div className="flex items-start gap-1">
                         <span className="text-indigo-600 font-bold shrink-0">交通:</span>
-                        <span>{hotel.nearestStation ? `最寄駅: ${hotel.nearestStation} / ` : ""}{hotel.access}</span>
+                        <span>{hotel.nearestStation ? `最寄駅: ${hotel.nearestStation} // ` : ""}{hotel.access}</span>
                       </div>
                     )}
                   </div>
@@ -413,7 +413,7 @@ export default function SilverWeekGlampingMorningYogaMindfulnessPage() {
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
           <Link
-            href="/kamikochi-hiking-shoes-packing-checklist"
+            href="/kamikochi-hiking-shoes-packing-checklist/"
             className="block p-4 rounded-2xl bg-white border border-indigo-100 hover:border-indigo-300 hover:shadow-md transition group"
           >
             <span className="text-[10px] font-bold text-indigo-800 bg-indigo-100/70 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -425,7 +425,7 @@ export default function SilverWeekGlampingMorningYogaMindfulnessPage() {
           </Link>
 
           <Link
-            href="/tokyo-birthday-surprise-luxury-hotel-guide"
+            href="/tokyo-birthday-surprise-luxury-hotel-guide/"
             className="block p-4 rounded-2xl bg-white border border-indigo-100 hover:border-indigo-300 hover:shadow-md transition group"
           >
             <span className="text-[10px] font-bold text-indigo-800 bg-indigo-100/70 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -441,7 +441,7 @@ export default function SilverWeekGlampingMorningYogaMindfulnessPage() {
       {/* 都道府県一覧への導線 */}
       <div className="text-center pt-4">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-stone-700 bg-white hover:bg-indigo-50 border border-stone-200 px-8 py-3.5 rounded-2xl transition shadow-sm"
         >
           <span>🗾</span>

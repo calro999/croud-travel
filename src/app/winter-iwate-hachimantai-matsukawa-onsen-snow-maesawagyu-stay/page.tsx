@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '八幡平温泉郷で過ごす冬の旅（11・12月）！極上前沢牛と南部鉄器すき焼き！名宿5選',
     description: '11月中旬から初冬の訪れとともに深い静寂と白銀の雪景色に包まれる岩手県・八幡平温泉郷と松川温泉。日本初の地熱発電所が稼働した自然のエネルギー。',
-    url: 'https://croud-travel.pages.dev/winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -64,7 +64,7 @@ export default function IwateHachimantaiPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay/'
     }
   };
 
@@ -239,7 +239,7 @@ export default function IwateHachimantaiPage() {
       <nav className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-4 text-xs text-stone-500 flex items-center gap-1.5 flex-wrap">
         <Link href="/" className="hover:text-stone-900 transition">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-900 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-900 transition">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-700 font-medium">八幡平温泉郷＆松川温泉 初冬名宿5選</span>
       </nav>
@@ -252,7 +252,7 @@ export default function IwateHachimantaiPage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月八幡平温泉郷】極上前沢牛と南部鉄器すき焼き！名宿5選","item":"https://croud-travel.pages.dev/winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月八幡平温泉郷】極上前沢牛と南部鉄器すき焼き！名宿5選","item":"https://croud-travel.pages.dev/winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay/"}]}) }}
       />
 
         {/* Introduction Overview */}
@@ -593,7 +593,7 @@ export default function IwateHachimantaiPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay"
+              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">岩手・花巻温泉</span>
@@ -606,7 +606,7 @@ export default function IwateHachimantaiPage() {
             </Link>
 
             <Link 
-              href="/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay"
+              href="/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">岩手・鶯宿＆雫石温泉</span>
@@ -619,7 +619,7 @@ export default function IwateHachimantaiPage() {
             </Link>
 
             <Link 
-              href="/winter-iwate-tsunagi-onsen-koiwai-illumination-stay"
+              href="/winter-iwate-tsunagi-onsen-koiwai-illumination-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">岩手・繋温泉</span>

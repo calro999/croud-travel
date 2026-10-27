@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '万座温泉をふるさと納税でお得に旅する！日本一濃厚な白濁硫黄泉＆標高1,800m雲上の星空露天！名湯宿特集｜日進舘・万座プリンス・万座高原ホテル',
     description: '日本一の硫黄含有量を誇る標高1,800mの雲上温泉・群馬県万座温泉を楽天ふるさと納税でお得に満喫！九つの天然温泉と健康湯治の聖地「日進舘」、絶景露天風呂「こまくさの湯」を誇る「万座プリンスホテル」、名物石庭露天風呂で四色の源泉を巡る「万座高原ホテル」を徹底比較。嬬恋村トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-manza-onsen-cloud-sulfur-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-manza-onsen-cloud-sulfur-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T17:10:00+09:00',
     dateModified: '2026-10-19T17:10:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-manza-onsen-cloud-sulfur-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-manza-onsen-cloud-sulfur-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【万座温泉×ふるさと納税】日本一濃厚な白濁硫黄泉＆標高1,800m雲上の星空露天！名湯宿特集｜日進舘・万座プリンス・万座高原ホテル","item":"https://croud-travel.pages.dev/furusato-tax-manza-onsen-cloud-sulfur-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【万座温泉×ふるさと納税】日本一濃厚な白濁硫黄泉＆標高1,800m雲上の星空露天！名湯宿特集｜日進舘・万座プリンス・万座高原ホテル","item":"https://croud-travel.pages.dev/furusato-tax-manza-onsen-cloud-sulfur-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【万座温泉×ふるさと納税】日本一濃厚な白濁硫黄泉＆標高1,800m雲上の星空露天！名湯宿特集｜日進舘・万座プリンス・万座高原ホテル</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-jozankei-onsen-keikoku-retreat-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-jozankei-onsen-keikoku-retreat-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 定山渓温泉 豊平峡渓谷美＆源泉かけ流しリゾート特集
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-shuzenji-onsen-bamboo-heritage-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-shuzenji-onsen-bamboo-heritage-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 修善寺温泉 伊豆最古の名湯・竹林の小径＆文化財宿特集
               </Link>
             </li>

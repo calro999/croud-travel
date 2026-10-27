@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '黒川温泉をふるさと納税でお得に旅する！渓谷の秘湯・入湯手形で巡る露天風呂＆あか牛会席！風情名宿特集｜お宿のし湯・旅館山河・黒川荘',
     description: 'ミシュラン二つ星の里山秘湯・熊本県黒川温泉を楽天ふるさと納税でお得に贅沢ステイ！雑木林に佇む大人の隠れ家「お宿 のし湯」、三千坪の森に二つの自家源泉を誇る「旅館 山河」、びょうぶ岩望むエメラルドグリーンの湯「黒川荘」を徹底比較。入湯手形やあか牛料理、南小国町トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-satoyama-roten-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-satoyama-roten-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T17:10:00+09:00',
     dateModified: '2026-10-19T17:10:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-satoyama-roten-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-satoyama-roten-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【黒川温泉×ふるさと納税】渓谷の秘湯・入湯手形で巡る露天風呂＆あか牛会席！風情名宿特集｜お宿のし湯・旅館山河・黒川荘","item":"https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-satoyama-roten-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【黒川温泉×ふるさと納税】渓谷の秘湯・入湯手形で巡る露天風呂＆あか牛会席！風情名宿特集｜お宿のし湯・旅館山河・黒川荘","item":"https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-satoyama-roten-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【黒川温泉×ふるさと納税】渓谷の秘湯・入湯手形で巡る露天風呂＆あか牛会席！風情名宿特集｜お宿のし湯・旅館山河・黒川荘</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-jozankei-onsen-keikoku-retreat-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-jozankei-onsen-keikoku-retreat-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 定山渓温泉 豊平峡渓谷美＆源泉かけ流しリゾート特集
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-shuzenji-onsen-bamboo-heritage-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-shuzenji-onsen-bamboo-heritage-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 修善寺温泉 伊豆最古の名湯・竹林の小径＆文化財宿特集
               </Link>
             </li>

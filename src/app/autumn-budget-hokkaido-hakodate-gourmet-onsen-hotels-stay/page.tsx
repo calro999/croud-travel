@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の函館×格安：五稜郭の紅葉と海鮮グルメ！1泊2,000円〜5,000円台の高コスパおすすめホテル5選「2026最新」',
     description: '五稜郭の紅葉と函館山夜景！朝食いくら食べ放題や温泉付き1泊2,000円〜5,000円台の高コスパ宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-hokkaido-hakodate-gourmet-onsen-hotels-stay/',
   }
 };
 

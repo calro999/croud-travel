@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月飛騨高山：極上A5飛騨牛すき焼き！名宿5選',
     description: '11月から1月、小京都と称される岐阜県・飛騨高山は、江戸の面影を色濃く残す「古い町並み（さんまち通り）」や朱塗りの中橋。',
-    url: 'https://croud-travel.pages.dev/winter-gifu-hida-takayama-onsen-snow-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-gifu-hida-takayama-onsen-snow-beef-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function GifuHidaTakayamaWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-gifu-hida-takayama-onsen-snow-beef-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-gifu-hida-takayama-onsen-snow-beef-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function GifuHidaTakayamaWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '飛騨高山古い町並み雪景色と飛騨牛・温泉名宿',
-        item: 'https://croud-travel.pages.dev/winter-gifu-hida-takayama-onsen-snow-beef-stay'
+        item: 'https://croud-travel.pages.dev/winter-gifu-hida-takayama-onsen-snow-beef-stay/'
       }
     ]
   };
@@ -625,21 +625,21 @@ export default function GifuHidaTakayamaWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-shirakawago-gassho-snow-illumination-stay" 
+              href="/winter-shirakawago-gassho-snow-illumination-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">岐阜・白川郷</span>
               <p className="font-bold text-stone-800 line-clamp-2">世界遺産白川郷の合掌造り雪景色ライトアップと飛騨牛会席の宿</p>
             </Link>
             <Link 
-              href="/winter-gifu-okuhida-onsen-yukimi-roten-stay" 
+              href="/winter-gifu-okuhida-onsen-yukimi-roten-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">岐阜・奥飛騨温泉郷</span>
               <p className="font-bold text-stone-800 line-clamp-2">日本屈指の大露天風呂と北アルプス雪見風呂・青だる氷瀑めぐりの名宿</p>
             </Link>
             <Link 
-              href="/winter-nagano-asama-onsen-matsumoto-castle-snow-stay" 
+              href="/winter-nagano-asama-onsen-matsumoto-castle-snow-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">長野・浅間温泉＆松本城</span>

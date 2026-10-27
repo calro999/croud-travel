@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '古湯温泉・熊で過ごす冬の旅（11・12月）！ぬる湯の聖地！名宿5選',
     description: '11月中旬から12月の初冬、佐賀市北部の脊振山系に抱かれた富士町・三瀬エリアに位置する古湯温泉（ふるゆおんせん）と熊の川温泉（くまのかわおんせん）の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -56,7 +56,7 @@ export default function SagaFuruyuKumanokawaWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -379,7 +379,7 @@ export default function SagaFuruyuKumanokawaWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月古湯温泉・熊】ぬる湯の聖地！名宿5選","item":"https://croud-travel.pages.dev/winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月古湯温泉・熊】ぬる湯の聖地！名宿5選","item":"https://croud-travel.pages.dev/winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay/"}]}) }}
       />
 
         {/* Introduction Section */}
@@ -663,21 +663,21 @@ export default function SagaFuruyuKumanokawaWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay" 
+              href="/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">熊本・山鹿平山</span>
               <p className="font-bold text-stone-800 line-clamp-2">八千代座の小江戸情緒と極上とろとろ美肌ぬる湯・熊本あか牛＆馬刺し名宿</p>
             </Link>
             <Link 
-              href="/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay" 
+              href="/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">大分・日田天瀬</span>
               <p className="font-bold text-stone-800 line-clamp-2">水郷ひたの初冬川霧と天領豆田町の小江戸情緒・豊後牛名宿</p>
             </Link>
             <Link 
-              href="/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay" 
+              href="/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">和歌山・熊野本宮</span>

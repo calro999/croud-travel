@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '有馬温泉ひとり旅・金泉銀泉おこもり：日本最古の名湯・絶景露天・神戸牛会席！三宮から30分の極上ソロ湯治厳選3宿',
     description: '日本三古湯・日本三名泉の有馬！自家源泉の天然ラドン銀泉と充実のスパ設備を誇る「メープル有馬」、創業700年・三つの湯処で金泉を巡る名門「兵衛向陽閣」、滝川の渓流沿いで金泉・銀泉両方を堪能できる「月光園 鴻朧館」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/hyogo-arima-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/hyogo-arima-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/hyogo-arima-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/hyogo-arima-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【有馬温泉ひとり旅・金泉銀泉おこもり】日本最古の名湯・絶景露天・神戸牛会席！三宮から30分の極上ソロ湯治厳選3宿","item":"https://croud-travel.pages.dev/hyogo-arima-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【有馬温泉ひとり旅・金泉銀泉おこもり】日本最古の名湯・絶景露天・神戸牛会席！三宮から30分の極上ソロ湯治厳選3宿","item":"https://croud-travel.pages.dev/hyogo-arima-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

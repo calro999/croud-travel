@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の京都：嵐山・嵯峨野の錦秋渡月橋と保津川下り！紅葉名所を満喫するおすすめ温泉・極上宿5選「2026最新」',
     description: '京都の秋を代表する嵐山・渡月橋の山粧う紅葉美と保津川下り。天龍寺の曹源池庭園や嵯峨野竹林の小径散策に最適な嵐山温泉の厳選宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-kyoto-arashiyama-sagano-momiji-onsen-hotels-stay/',
   }
 };
 

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '夢の吊橋のエメラルド湖面紅葉＆大井川鐵道SL列車！美肌寸又峡温泉×ふるさと納税厳選ガイド静岡',
     description: '11月上旬〜11月下旬に見頃を迎える「寸又峡（すまたきょう）・夢の吊橋」。チンダル現象による神秘のエメラルドグリーンの湖面と紅葉のパノラマ、大井川鐵道のSLやアプト式列車、名宿「翠紅苑」「川根温泉ホテル」「湯屋飛龍の宿」で美女づくりの湯と川根茶・猪鍋・静岡そだち牛を堪能。楽天ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-sumatakyo-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-sumatakyo-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">静岡・寸又峡 夢の吊橋エメラルド紅葉＆大井川鐵道名宿特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

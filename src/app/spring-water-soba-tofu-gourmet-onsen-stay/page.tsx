@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '清冽な名水が生み出す極上の喉ごし！名水百選の手打ち蕎麦＆名水豆腐料理の温泉宿',
     description: '忍野八海・安曇野・郡上八幡など全国屈指の名水地に佇むグルメ宿。清らかな伏流水で打つ香り高い十割蕎麦やとろけるような名水豆腐会席を堪能。',
-    url: 'https://croud-travel.pages.dev/spring-water-soba-tofu-gourmet-onsen-stay',
+    url: 'https://croud-travel.pages.dev/spring-water-soba-tofu-gourmet-onsen-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/spring-water-soba-tofu-gourmet-onsen-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/spring-water-soba-tofu-gourmet-onsen-stay/"
   };
 
   const faqSchema = {
@@ -101,7 +101,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"清冽な名水が生み出す極上の喉ごし！名水百選の手打ち蕎麦＆名水豆腐料理の温泉宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/spring-water-soba-tofu-gourmet-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"清冽な名水が生み出す極上の喉ごし！名水百選の手打ち蕎麦＆名水豆腐料理の温泉宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/spring-water-soba-tofu-gourmet-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -116,7 +116,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">名水蕎麦＆名水豆腐の美味宿</span>
       </nav>
@@ -231,7 +231,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="清冽な名水が生み出す極上の喉ごし！名水百選の手打ち蕎麦＆名水豆腐料理の温泉宿"
-            url="https://croud-travel.pages.dev/spring-water-soba-tofu-gourmet-onsen-stay"
+            url="https://croud-travel.pages.dev/spring-water-soba-tofu-gourmet-onsen-stay/"
           />
         </div>
 

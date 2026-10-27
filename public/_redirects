@@ -30,6 +30,13 @@
 /spots/:slug /spots/:slug/ 301
 /furusato/:slug /furusato/:slug/ 301
 /furusato-tax-:slug /furusato-tax-:slug/ 301
+/winter-:slug /winter-:slug/ 301
+/autumn-:slug /autumn-:slug/ 301
+/features /features/ 301
+/prefectures /prefectures/ 301
+/campaigns /campaigns/ 301
+/sitemap /sitemap/ 301
+/about /about/ 301
 
 # 3. Legacy theme redirects to full canonical winter guides
 /posts/theme_1_himi /posts/himi-onsen-kanburi-amaharashi-tateyama-winter-guide/ 301

@@ -375,21 +375,21 @@ export default function KanazawaTripPackingRegretsWorst5Page() {
           <p className="text-xs text-stone-500 mb-3">あわせて読みたい金沢旅行ガイド</p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link
-              href="/kanazawa-travel-budget-guide"
+              href="/kanazawa-travel-budget-guide/"
               className="text-xs sm:text-sm font-semibold text-amber-800 hover:text-amber-900 underline underline-offset-4"
             >
               【金沢旅行 予算ガイド】1泊2日・2泊3日の宿泊費・食費・新幹線代シミュレーション
             </Link>
             <span className="text-stone-300">|</span>
             <Link
-              href="/kanazawa-rainy-day-indoor-guide"
+              href="/kanazawa-rainy-day-indoor-guide/"
               className="text-xs sm:text-sm font-semibold text-amber-800 hover:text-amber-900 underline underline-offset-4"
             >
               【金沢 雨の日観光】雨情に浸る美術館・室内体験・近江町市場グルメ
             </Link>
             <span className="text-stone-300">|</span>
             <Link
-              href="/tokyo-kanazawa-bus-vs-shinkansen-guide"
+              href="/tokyo-kanazawa-bus-vs-shinkansen-guide/"
               className="text-xs sm:text-sm font-semibold text-amber-800 hover:text-amber-900 underline underline-offset-4"
             >
               【東京〜金沢 移動比較】北陸新幹線かがやき vs 高速バス 料金・所要時間・快適度

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: '日本三大名瀑＆豪快な水煙と滝見リゾート・温泉宿×ふるさと納税厳選ガイド華厳の滝・那智の滝・袋田の滝',
     description: '轟く爆音と立ち昇る水煙！栃木日光「華厳の滝」落差97mの一大パノラマと中禅寺金谷ホテル、和歌山那智勝浦「那智の滝」落差133m日本一の直瀑・熊野信仰と大洞窟温泉ホテル浦島、茨城大子町「袋田の滝」四段の岩肌を流れる氷瀑の美と袋田温泉思い出浪漫館。日本三大名瀑の大迫力景観と温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-waterfalls-resort-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-waterfalls-resort-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -396,7 +396,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-gorges-scenery-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-gorges-scenery-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大渓谷美＆清流大自然絶景宿×ふるさと納税完全ガイド
               </div>
@@ -405,7 +405,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-stalactite-caves-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-stalactite-caves-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大鍾乳洞＆地底探検・大自然パノラマ宿×ふるさと納税完全ガイド
               </div>
@@ -414,7 +414,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-strange-sceneries-geopark-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-strange-sceneries-geopark-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大奇景＆奇岩絶壁パノラマ宿×ふるさと納税完全ガイド
               </div>

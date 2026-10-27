@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '男鹿温泉郷で過ごす冬の旅（11・12月）！日本海荒波雪見露天！名宿5選',
     description: '11月から12月にかけて日本海に突き出た秋田県・男鹿半島は、初冬の雷鳴とともに大群で沿岸に押し寄せる秋田の県魚「ハタハタ（雷魚）」の漁獲シー。',
-    url: 'https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay',
+    url: 'https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function OgaOnsenWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay"
+          "@id": "https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay/"
         },
         "headline": "【11・12月秋田・男鹿温泉郷の初冬名物ハタハタと豪快石焼き鍋】なまはげ伝承の里・日本海荒波雪見露天＆海水の温まり湯の宿5選",
         "description": "11月から12月にかけて日本海に突き出た秋田県・男鹿半島は、初冬の雷鳴とともに大群で沿岸に押し寄せる秋田の県魚「ハタハタ（雷魚）」の漁獲シーズンを迎え、半島全体が冬の到来の歓喜に包まれます。千度近くまで真っ赤に熱した地元の溶岩石（男鹿石）を木樽の出汁に一気に投入して瞬間沸騰させる男鹿の伝統漁師料理「名物・石焼き鍋」は、魚の旨味を閉じ込めた大迫力の郷土グルメ。さらに大晦日の伝統行事「なまはげ」の神秘的な文化に触れ、海水に近い高濃度の塩分を含み湯冷め知らずの「男鹿温泉（塩化物泉）」の雪見露天風呂に浸かる、初冬の男鹿半島厳選宿5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function OgaOnsenWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "秋田・男鹿温泉郷 初冬名物ハタハタと豪快石焼き鍋・なまはげの宿",
-            "item": "https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay"
+            "item": "https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay/"
           }
         ]
       },
@@ -592,42 +592,42 @@ export default function OgaOnsenWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay"
+              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-red-300 font-semibold block mb-1">秋田・乳頭温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-red-200 transition">秘湯鶴の湯の雪見白濁露天と本場きりたんぽ鍋・七つの湯めぐりの宿</h3>
             </Link>
             <Link 
-              href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay"
+              href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-red-300 font-semibold block mb-1">青森・浅虫温泉</span>
               <h3 className="text-sm font-bold group-hover:text-red-200 transition">陸奥湾初冬パノラマと津軽海峡冬本マグロ・肉厚ホタテ・津軽三味線の宿</h3>
             </Link>
             <Link 
-              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay"
+              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-red-300 font-semibold block mb-1">岩手・花巻温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-red-200 transition">清流渓谷雪見露天と最高峰前沢牛ステーキ・宮沢賢治ゆかりの老舗宿</h3>
             </Link>
             <Link 
-              href="/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay"
+              href="/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-red-300 font-semibold block mb-1">宮城・鳴子温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-red-200 transition">日本屈指の多彩な泉質めぐりと雪見露天・極上仙台牛すき焼きの宿</h3>
             </Link>
             <Link 
-              href="/winter-aomori-sukayu-hakkoda-yukimi-stay"
+              href="/winter-aomori-sukayu-hakkoda-yukimi-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-red-300 font-semibold block mb-1">青森・酸ヶ湯温泉</span>
               <h3 className="text-sm font-bold group-hover:text-red-200 transition">名物千人風呂の白濁酸性硫黄泉と八甲田豪雪パノラマを体感する湯治宿</h3>
             </Link>
             <Link 
-              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay"
+              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-red-300 font-semibold block mb-1">福島・会津東山温泉</span>

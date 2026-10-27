@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日光・いろは坂の絶景紅葉と中禅寺湖・奥日光湯元温泉の白濁硫黄泉を満喫する秋の贅沢旅',
     description: '10月中旬〜11月上旬に見頃を迎える日光・いろは坂と中禅寺湖の紅葉。奥日光の乳白色硫黄泉「日光湯元温泉」の名宿で極上の湯浴みととちぎ和牛・湯波料理をふるさと納税でお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-nikko-irohazaka-chuzenji-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-nikko-irohazaka-chuzenji-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-nikko-irohazaka-chuzenji-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-nikko-irohazaka-chuzenji-autumn-stay/"
   };
 
   const faqSchema = {
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"日光・いろは坂の絶景紅葉と中禅寺湖・奥日光湯元温泉の白濁硫黄泉を満喫する秋の贅沢旅 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-nikko-irohazaka-chuzenji-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"日光・いろは坂の絶景紅葉と中禅寺湖・奥日光湯元温泉の白濁硫黄泉を満喫する秋の贅沢旅 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-nikko-irohazaka-chuzenji-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

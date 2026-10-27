@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三大星空・天体観測リゾート×ふるさと納税厳選ガイド阿智村・八ヶ岳・大山の満天星空宿',
     description: '環境省認定の日本一の星空・長野県阿智村や八ヶ岳清里、鳥取大山のスターウォッチングホテルをふるさと納税でお得に予約！天体望遠鏡テラスや星空露天風呂を備えた名宿と返礼クーポン活用術を詳しくご紹介。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-starry-sky-astronomy-retreat-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-starry-sky-astronomy-retreat-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -51,7 +51,7 @@ export default function FurusatoTaxPage() {
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
           <Link href="/" className="hover:text-amber-400 transition">ホーム</Link>
           <span>/</span>
-          <Link href="/posts" className="hover:text-amber-400 transition">宿泊ガイド一覧</Link>
+          <Link href="/posts/" className="hover:text-amber-400 transition">宿泊ガイド一覧</Link>
           <span>/</span>
           <span className="text-slate-200">星空・天体観測リゾート特集</span>
         </div>
@@ -699,7 +699,7 @@ export default function FurusatoTaxPage() {
             
               <Link
                 key="0"
-                href="/furusato-tax-infinity-onsen-sky-ocean-view-stay"
+                href="/furusato-tax-infinity-onsen-sky-ocean-view-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
                 <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
@@ -712,7 +712,7 @@ export default function FurusatoTaxPage() {
             
               <Link
                 key="1"
-                href="/furusato-tax-secret-hotspring-lamp-retreat-stay"
+                href="/furusato-tax-secret-hotspring-lamp-retreat-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
                 <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
@@ -725,7 +725,7 @@ export default function FurusatoTaxPage() {
             
               <Link
                 key="2"
-                href="/furusato-tax-solo-retreat-private-onsen-stay"
+                href="/furusato-tax-solo-retreat-private-onsen-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
                 <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">

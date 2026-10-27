@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '鬼怒川温泉をふるさと納税でお得に旅する！空中庭園露天風呂＆渓谷美の特等席！名門老舗リゾート特集｜あさや・鬼怒川金谷ホテル・七重八重',
     description: '首都圏からのアクセス抜群・渓谷の美湯・栃木県鬼怒川温泉を楽天ふるさと納税でお得に満喫！創業百三十年・空中庭園露天風呂と豪華ビュッフェの「あさや」、日本最古のリゾートを受け継ぐ最高峰「鬼怒川金谷ホテル」、全室渓谷ビューの隠れ宿「七重八重」を徹底比較。日光市トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kinugawa-onsen-valley-luxury-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kinugawa-onsen-valley-luxury-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T16:45:00+09:00',
     dateModified: '2026-10-19T16:45:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kinugawa-onsen-valley-luxury-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kinugawa-onsen-valley-luxury-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【鬼怒川温泉×ふるさと納税】空中庭園露天風呂＆渓谷美の特等席！名門老舗リゾート特集｜あさや・鬼怒川金谷ホテル・七重八重","item":"https://croud-travel.pages.dev/furusato-tax-kinugawa-onsen-valley-luxury-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【鬼怒川温泉×ふるさと納税】空中庭園露天風呂＆渓谷美の特等席！名門老舗リゾート特集｜あさや・鬼怒川金谷ホテル・七重八重","item":"https://croud-travel.pages.dev/furusato-tax-kinugawa-onsen-valley-luxury-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【鬼怒川温泉×ふるさと納税】空中庭園露天風呂＆渓谷美の特等席！名門老舗リゾート特集｜あさや・鬼怒川金谷ホテル・七重八重</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-kusatsu-onsen-yubatake-heritage-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-kusatsu-onsen-yubatake-heritage-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 草津温泉 湯畑徒歩圏内の老舗名宿特集
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-arima-onsen-gold-silver-kobe-beef-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-arima-onsen-gold-silver-kobe-beef-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 有馬温泉 金泉・銀泉＆極上神戸牛ステイ特集
               </Link>
             </li>

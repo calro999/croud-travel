@@ -169,13 +169,13 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
           </div>
           <div className="flex flex-wrap items-center gap-2">
             <Link
-              href="/awaji-island-car-free-bus-trip-guide"
+              href="/awaji-island-car-free-bus-trip-guide/"
               className="inline-flex items-center text-xs font-bold text-cyan-900 bg-white border border-cyan-300 hover:bg-cyan-600 hover:text-white px-3 py-1.5 rounded-xl shadow-xs transition"
             >
               淡路島車なしバス旅ガイド →
             </Link>
             <Link
-              href="/osaka-departure-daytrip-bus-tour-guide"
+              href="/osaka-departure-daytrip-bus-tour-guide/"
               className="inline-flex items-center text-xs font-bold text-cyan-900 bg-white border border-cyan-300 hover:bg-cyan-600 hover:text-white px-3 py-1.5 rounded-xl shadow-xs transition"
             >
               大阪発日帰りバスツアー特集 →

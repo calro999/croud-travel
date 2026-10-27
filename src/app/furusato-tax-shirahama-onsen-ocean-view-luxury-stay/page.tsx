@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '青い海と真っ白な砂浜！南紀白浜温泉の絶景オーシャンビュー露天風呂＆幻のクエ・熊野牛名門旅館×ふるさと納税極上旅ガイドむさし・海舟・シーモア',
     description: '万葉の時代から愛される日本三古湯・南紀白浜温泉！真っ白な白良浜と太平洋の絶景パノラマ。「紀州・白浜温泉 むさし」「浜千鳥の湯 海舟」「SHIRAHAMA KEY TERRACE HOTEL SEAMORE」を、和歌山県白浜町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。海混浴露天風呂、インフィニティ足湯、幻のクエ鍋・熊野牛を満喫。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-view-luxury-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-view-luxury-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoShirahamaOnsenOceanStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">南紀白浜温泉 オーシャンビュー名宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoShirahamaOnsenOceanStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-atami-ocean-view-fireworks-hotel-stay"
+            href="/furusato-tax-atami-ocean-view-fireworks-hotel-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【熱海花火大会特等席＆オーシャンビュー温泉宿×ふるさと納税】後楽園・ニューアカオ・パールスター
           </Link>
           <Link
-            href="/furusato-tax-okinawa-beach-resort-luxury-stay"
+            href="/furusato-tax-okinawa-beach-resort-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【沖縄本島最高峰ビーチリゾート×ふるさと納税】ハレクラニ・ルネッサンス・ロワジール
           </Link>
           <Link
-            href="/furusato-tax-dogo-onsen-honkan-walk-luxury-stay"
+            href="/furusato-tax-dogo-onsen-honkan-walk-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【道後温泉 本館散策＆老舗旅館×ふるさと納税】ふなや・道後御湯・道後プリンス
           </Link>
           <Link
-            href="/furusato-tax-cave-bath-natural-grotto-onsen-stay"
+            href="/furusato-tax-cave-bath-natural-grotto-onsen-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【荒波迫る大洞窟風呂＆神秘の岩風呂×ふるさと納税】南紀勝浦・湯の峰・上諏訪

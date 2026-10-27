@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '赤目四十八滝の渓谷美紅葉＆竹あかりライトアップ！伊賀牛会席温泉宿×ふるさと納税厳選ガイド三重',
     description: '10月下旬〜11月下旬に赤目渓谷の滝群が深紅に染まる名所「三重・赤目四十八滝」。不動滝や千手滝を巡る渓谷散策と夜を幻想的に彩る「竹あかり（宵の舞）」、忍者の隠れ里に湧く天然温泉「赤目温泉隠れの湯 対泉閣」「山の湯 山水園」「ホテル ルートイン名張」で肉の芸術品・伊賀牛すき焼きステーキを堪能。ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-akame-48waterfalls-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-akame-48waterfalls-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -102,7 +102,7 @@ export default function FeatureArticlePage() {
       <nav className="max-w-6xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-600 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:underline text-stone-500">トップ</Link>
         <span>&gt;</span>
-        <Link href="/autumn-leaves" className="hover:underline text-stone-500">秋・紅葉特集</Link>
+        <Link href="/autumn-leaves/" className="hover:underline text-stone-500">秋・紅葉特集</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-medium">三重・名張 / 赤目四十八滝紅葉散策＆竹あかりライトアップ・伊賀牛</span>
       </nav>
@@ -391,27 +391,27 @@ export default function FeatureArticlePage() {
             <h4 className="font-bold text-stone-900 text-xs mb-3">🍂 関連する秋の特集</h4>
             <ul className="space-y-2 text-xs text-stone-600">
               <li>
-                <Link href="/furusato-tax-dakigaeri-kakunodate-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-dakigaeri-kakunodate-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・秋田・抱返り渓谷＆角館武家屋敷
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-urabandai-goshikinuma-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-urabandai-goshikinuma-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・福島・裏磐梯五色沼＆高原リゾート
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-yoro-falls-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-yoro-falls-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・岐阜・養老の滝紅葉＆飛騨牛会席
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-miyajima-momijidani-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-miyajima-momijidani-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・広島・宮島紅葉谷公園＆嚴島神社
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-kirishima-shrine-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-kirishima-shrine-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・鹿児島・霧島神宮紅葉＆霧島温泉郷
                 </Link>
               </li>

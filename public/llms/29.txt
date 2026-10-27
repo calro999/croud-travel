@@ -1,8 +1,8 @@
 # 奈良県の宿泊・観光記事（48件）
 
 ## 【2026年11月現地特化】山寺と天童温泉・四万ブルー・奈良公園・こんぴら紅葉祭の晩秋攻略ガイド｜楽天トラベル直近実データで選ぶ極上宿
-- 記事: https://croud-travel.pages.dev/posts/undefined/
-- 全文Markdown: https://croud-travel.pages.dev/ai/undefined.md
+- 記事: https://croud-travel.pages.dev/posts/note-252/
+- 全文Markdown: https://croud-travel.pages.dev/ai/note-252.md
 - 宿泊施設名: undefined
 - エリア: 
 

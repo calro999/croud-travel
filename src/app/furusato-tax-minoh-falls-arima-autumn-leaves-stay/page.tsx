@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本の滝百選・箕面大滝の紅葉美＆日本最古の名湯・有馬温泉金泉銀泉名宿×ふるさと納税厳選ガイド関西',
     description: '11月中旬〜12月上旬に見頃を迎える関西屈指の紅葉名所「箕面大滝（大阪）」と、日本三古湯・三名泉の最高峰「有馬温泉（神戸）」。鉄分と塩分濃厚な赤褐色の「金泉」と無色透明の「銀泉」を誇る「欽山」「有馬御苑」「兵衛向陽閣」。最高級神戸牛会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-minoh-falls-arima-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-minoh-falls-arima-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -55,7 +55,7 @@ export default function FurusatoMinohFallsArimaAutumnLeavesStayPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">箕面大滝紅葉＆有馬温泉金泉銀泉名宿特集</span>
       </nav>
@@ -384,7 +384,7 @@ export default function FurusatoMinohFallsArimaAutumnLeavesStayPage() {
 
             <li key="furusato-tax-three-medicinal-hotsprings-stay">
               <Link
-                href="/furusato-tax-three-medicinal-hotsprings-stay"
+                href="/furusato-tax-three-medicinal-hotsprings-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -395,7 +395,7 @@ export default function FurusatoMinohFallsArimaAutumnLeavesStayPage() {
 
             <li key="furusato-tax-kyoto-arashiyama-autumn-leaves-illumination-stay">
               <Link
-                href="/furusato-tax-kyoto-arashiyama-autumn-leaves-illumination-stay"
+                href="/furusato-tax-kyoto-arashiyama-autumn-leaves-illumination-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -406,7 +406,7 @@ export default function FurusatoMinohFallsArimaAutumnLeavesStayPage() {
 
             <li key="furusato-tax-matsuba-echizen-crab-season-opening-onsen-stay">
               <Link
-                href="/furusato-tax-matsuba-echizen-crab-season-opening-onsen-stay"
+                href="/furusato-tax-matsuba-echizen-crab-season-opening-onsen-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -417,7 +417,7 @@ export default function FurusatoMinohFallsArimaAutumnLeavesStayPage() {
 
             <li key="furusato-tax-luxury-hotspring-ryokan-stay">
               <Link
-                href="/furusato-tax-luxury-hotspring-ryokan-stay"
+                href="/furusato-tax-luxury-hotspring-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -437,7 +437,7 @@ export default function FurusatoMinohFallsArimaAutumnLeavesStayPage() {
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
-            href="/travel-savings-guide"
+            href="/travel-savings-guide/"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 text-stone-950 font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition text-sm"
           >
             🏨 旅行節約総合ハブページを見る ➔

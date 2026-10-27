@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月徳島：日本三大秘境！名宿5選',
     description: '11月晩秋の紅葉から12月・1月の白銀の世界へと移り変わる徳島県・祖谷渓谷（いやけいこく）。岐阜県の白川郷。',
-    url: 'https://croud-travel.pages.dev/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function TokushimaIyaValleyWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function TokushimaIyaValleyWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '徳島祖谷渓谷＆大歩危秘境特集',
-        item: 'https://croud-travel.pages.dev/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay'
+        item: 'https://croud-travel.pages.dev/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay/'
       }
     ]
   };
@@ -641,7 +641,7 @@ export default function TokushimaIyaValleyWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay" 
+              href="/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">鳥取・境港＆皆生温泉</span>
@@ -651,7 +651,7 @@ export default function TokushimaIyaValleyWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay" 
+              href="/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">佐賀・太良＆嬉野</span>
@@ -661,7 +661,7 @@ export default function TokushimaIyaValleyWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay" 
+              href="/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">静岡・下田＆爪木崎</span>
@@ -671,7 +671,7 @@ export default function TokushimaIyaValleyWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay" 
+              href="/winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">北海道・千歳支笏湖</span>
@@ -681,7 +681,7 @@ export default function TokushimaIyaValleyWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay" 
+              href="/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">茨城・袋田＆奥久慈</span>
@@ -691,7 +691,7 @@ export default function TokushimaIyaValleyWinterPage() {
             </Link>
 
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-gradient-to-br from-teal-900 to-slate-950 text-white hover:opacity-95 transition-all group block flex flex-col justify-between"
             >
               <div>

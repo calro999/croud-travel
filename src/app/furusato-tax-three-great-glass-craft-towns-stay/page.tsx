@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '日本三大ガラス工芸の町＆光の芸術・切子の輝きと風雅名宿×ふるさと納税厳選ガイド小樽・東京・鹿児島',
     description: '光と色彩が織りなす工芸の最高峰！北海道「小樽切子・北一硝子」ランプ揺れる運河の街とオーセントホテル小樽、東京「江戸切子」繊細なカットが生む下町の技と浅草ビューホテルアネックス六区、鹿児島「薩摩切子」重厚なクリスタルと紅・藍のグラデーションに城山ホテル鹿児島。日本三大ガラス工芸の町を巡り、伝統の美と洗練されたホテルステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-glass-craft-towns-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-glass-craft-towns-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -380,7 +380,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-pottery-festivals-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-pottery-festivals-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大陶器まつり＆名窯工芸宿×ふるさと納税完全ガイド
               </div>
@@ -389,7 +389,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-roof-tile-towns-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-roof-tile-towns-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大瓦の町＆伝統美・いぶし瓦情趣の名宿×ふるさと納税完全ガイド
               </div>
@@ -398,7 +398,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-washi-papers-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-washi-papers-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大和紙＆清流文化湯宿×ふるさと納税完全ガイド
               </div>

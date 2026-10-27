@@ -468,7 +468,7 @@ export default function NagoyaDepartureDaytripBusTourPage() {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
-              href="/nagoya-kanazawa-bus-vs-train-guide"
+              href="/nagoya-kanazawa-bus-vs-train-guide/"
               className="p-4 bg-white rounded-2xl border border-slate-200 hover:border-amber-500 hover:shadow-sm transition duration-150 flex items-center justify-between group"
             >
               <div>
@@ -479,7 +479,7 @@ export default function NagoyaDepartureDaytripBusTourPage() {
               </div>
             </Link>
             <Link
-              href="/nagoya-kyoto-bus-vs-shinkansen-guide"
+              href="/nagoya-kyoto-bus-vs-shinkansen-guide/"
               className="p-4 bg-white rounded-2xl border border-slate-200 hover:border-amber-500 hover:shadow-sm transition duration-150 flex items-center justify-between group"
             >
               <div>

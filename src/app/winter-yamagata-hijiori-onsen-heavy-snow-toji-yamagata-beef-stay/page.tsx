@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '肘折温泉の豪雪秘湯で過ごす冬の旅（11・12月）！極上山形牛！名宿5選',
     description: '11月から12月にかけて、山形県大蔵村の出羽山地に抱かれたカルデラ盆地「肘折温泉（ひじおりおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-heavy-snow-toji-yamagata-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-heavy-snow-toji-yamagata-beef-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterYamagataHijioriPage() {
         'headline': "【11・12月山形・肘折温泉の豪雪秘湯】開湯1200年の霊泉と朝市情緒・極上山形牛＆名物芋煮鍋に心温まる名宿5選",
         'description': "11月から12月にかけて、山形県大蔵村の出羽山地に抱かれたカルデラ盆地「肘折温泉（ひじおりおんせん）」は、日本屈指の豪雪地帯ならではの壮麗な白銀世界へと姿を変えます。西暦807年の開湯から1200年以上の歴史を刻むこの秘湯は、肘を折った老僧が湯に入って完治したという伝説から名付けられ、古くから湯治場として栄えてきました。銅山川沿いに木造三階建ての風情ある旅館がひしめき合い、降る雪の中に湯煙が立ち上る光景はまさに日本の原風景。炭酸水素塩泉や塩化物泉など豊富なメタケイ酸を含む名湯は「温まりの湯」「傷治りの湯」として親しまれ、雪冷えした身体を芯から解きほぐします。夕食には山形牛のすき焼きや陶板焼き、寒さが増すほど旨味を深める郷土の熱々芋煮鍋、最上地方の山の幸。雪深き静寂に包まれる肘折温泉で、本物の湯治情緒と温もりに浸る厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-heavy-snow-toji-yamagata-beef-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-heavy-snow-toji-yamagata-beef-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterYamagataHijioriPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-amber-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">山形・肘折温泉</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterYamagataHijioriPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月肘折温泉の豪雪秘湯】極上山形牛！名宿5選","item":"https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-heavy-snow-toji-yamagata-beef-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月肘折温泉の豪雪秘湯】極上山形牛！名宿5選","item":"https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-heavy-snow-toji-yamagata-beef-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -531,7 +531,7 @@ export default function WinterYamagataHijioriPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay"
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山形・銀山温泉</span>
@@ -544,7 +544,7 @@ export default function WinterYamagataHijioriPage() {
             </Link>
 
             <Link 
-              href="/winter-yamagata-onogawa-yonezawa-beef-stay"
+              href="/winter-yamagata-onogawa-yonezawa-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山形・小野川温泉</span>
@@ -557,7 +557,7 @@ export default function WinterYamagataHijioriPage() {
             </Link>
 
             <Link 
-              href="/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay"
+              href="/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山形・赤湯温泉</span>

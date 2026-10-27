@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '朝から贅沢の極み！いくら盛り放題＆ご当地海鮮ビュッフェが自慢の朝食日本一ホテル特集',
     description: '函館・金沢・神戸など全国の朝食フェスやランキングで常に話題をさらう名門ホテルを特集。山盛りのいくら丼や焼き立てクロワッサンを味わう贅沢な朝。',
-    url: 'https://croud-travel.pages.dev/award-winning-breakfast-gourmet-hotel-ranking',
+    url: 'https://croud-travel.pages.dev/award-winning-breakfast-gourmet-hotel-ranking/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/award-winning-breakfast-gourmet-hotel-ranking"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/award-winning-breakfast-gourmet-hotel-ranking/"
   };
 
   const faqSchema = {
@@ -151,7 +151,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"朝から贅沢の極み！いくら盛り放題＆ご当地海鮮ビュッフェが自慢の朝食日本一ホテル特集 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/award-winning-breakfast-gourmet-hotel-ranking"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"朝から贅沢の極み！いくら盛り放題＆ご当地海鮮ビュッフェが自慢の朝食日本一ホテル特集 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/award-winning-breakfast-gourmet-hotel-ranking/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -166,7 +166,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">朝食日本一・海鮮ビュッフェホテル</span>
       </nav>
@@ -281,7 +281,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="朝から贅沢の極み！いくら盛り放題＆ご当地海鮮ビュッフェが自慢の朝食日本一ホテル特集"
-            url="https://croud-travel.pages.dev/award-winning-breakfast-gourmet-hotel-ranking"
+            url="https://croud-travel.pages.dev/award-winning-breakfast-gourmet-hotel-ranking/"
           />
         </div>
 

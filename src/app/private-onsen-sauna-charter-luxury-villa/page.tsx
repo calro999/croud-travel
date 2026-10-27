@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '完全プライベートな一棟貸切！天然温泉掛け流し＆客室専用サウナ付き極上ヴィラ',
     description: '白馬・那須・淡路島・宮古島など誰にも邪魔されない完全プライベートな一棟貸し高級ヴィラ。専用の源泉掛け流し風呂と本格プライベートサウナ完備。',
-    url: 'https://croud-travel.pages.dev/private-onsen-sauna-charter-luxury-villa',
+    url: 'https://croud-travel.pages.dev/private-onsen-sauna-charter-luxury-villa/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/private-onsen-sauna-charter-luxury-villa"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/private-onsen-sauna-charter-luxury-villa/"
   };
 
   const faqSchema = {
@@ -101,7 +101,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"完全プライベートな一棟貸切！天然温泉掛け流し＆客室専用サウナ付き極上ヴィラ ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/private-onsen-sauna-charter-luxury-villa"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"完全プライベートな一棟貸切！天然温泉掛け流し＆客室専用サウナ付き極上ヴィラ ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/private-onsen-sauna-charter-luxury-villa/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -116,7 +116,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">一棟貸切・温泉＆サウナ付きヴィラ</span>
       </nav>
@@ -231,7 +231,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="完全プライベートな一棟貸切！天然温泉掛け流し＆客室専用サウナ付き極上ヴィラ"
-            url="https://croud-travel.pages.dev/private-onsen-sauna-charter-luxury-villa"
+            url="https://croud-travel.pages.dev/private-onsen-sauna-charter-luxury-villa/"
           />
         </div>
 

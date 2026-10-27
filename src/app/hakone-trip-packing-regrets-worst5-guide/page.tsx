@@ -236,19 +236,19 @@ export default function HakoneTripPackingRegretsPage() {
           </div>
           <div className="flex flex-wrap items-center gap-2">
             <Link
-              href="/hakone-travel-budget-guide"
+              href="/hakone-travel-budget-guide/"
               className="inline-flex items-center text-xs font-bold text-orange-900 bg-white border border-orange-300 hover:bg-orange-600 hover:text-white px-3 py-1.5 rounded-xl shadow-xs transition"
             >
               箱根旅行のリアル予算シミュレーション →
             </Link>
             <Link
-              href="/hakone-rainy-day-indoor-model-course"
+              href="/hakone-rainy-day-indoor-model-course/"
               className="inline-flex items-center text-xs font-bold text-orange-900 bg-white border border-orange-300 hover:bg-orange-600 hover:text-white px-3 py-1.5 rounded-xl shadow-xs transition"
             >
               雨の日の箱根屋内モデルコース →
             </Link>
             <Link
-              href="/hakone-autumn-leaves-lightup-hotspring-guide"
+              href="/hakone-autumn-leaves-lightup-hotspring-guide/"
               className="inline-flex items-center text-xs font-bold text-orange-900 bg-white border border-orange-300 hover:bg-orange-600 hover:text-white px-3 py-1.5 rounded-xl shadow-xs transition"
             >
               紅葉露天風呂＆ライトアップガイド →

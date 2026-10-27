@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の阿智村・昼神温泉：日本一の星空ナイトツアーと美肌温泉！南信州の秋を満喫するおすすめ名宿5選「2026最新」',
     description: '環境省認定「日本一の星空」の村・阿智村ヘブンスそのはらの秋の星空ナイトツアーと、昼神温泉のとろとろ美肌の湯。人気宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-nagano-achimura-hirugami-starry-sky-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-nagano-achimura-hirugami-starry-sky-hotels-stay/',
   }
 };
 

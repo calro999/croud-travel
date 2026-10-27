@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: '瀬戸内海に浮かぶ神の島と多島美パノラマ！11〜1月のしまなみ海道は空気が澄み。',
   keywords: '大山祇神社 初詣, 大山祇神社 樹齢2600年, しまなみ海道 冬, 来島海峡大橋, 今治鯛めし, 鈍川温泉, 今治国際ホテル, 大三島 初詣, 亀老山展望公園, 愛媛 冬 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay/'
   },
   openGraph: {
     title: '11・12・1月愛媛：日本総鎮守「大山祇神社」樹齢！名宿5選',
     description: '瀬戸内海に浮かぶ神の島と多島美パノラマ！11〜1月のしまなみ海道は空気が澄み。',
-    url: 'https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay',
+    url: 'https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay/',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -57,7 +57,7 @@ export default function EhimeImabariWinterFeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay"
+      "@id": "https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay/"
     }
   };
 
@@ -75,13 +75,13 @@ export default function EhimeImabariWinterFeaturePage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "愛媛・今治＆しまなみ海道 冬の初詣と真鯛グルメ",
-        "item": "https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay"
+        "item": "https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oyamazumi-shrine-hatsumode-taimeshi-stay/"
       }
     ]
   };
@@ -275,7 +275,7 @@ export default function EhimeImabariWinterFeaturePage() {
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-teal-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-teal-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-teal-600 transition">特集一覧</Link>
             <span>/</span>
             <span className="text-stone-800 font-medium">愛媛・今治＆しまなみ海道 冬の初詣と真鯛グルメ</span>
           </div>
@@ -560,28 +560,28 @@ export default function EhimeImabariWinterFeaturePage() {
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               <Link 
-                href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay"
+                href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-teal-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【愛媛】道後温泉本館全館営業再開＆伊予牛</div>
                 <p className="text-stone-500">日本最古の名湯と飛鳥乃湯泉・冬の宇和島鯛めし＆名門温泉宿</p>
               </Link>
               <Link 
-                href="/winter-ehime-ozu-uchiko-castle-garyusanso-bikan-uchikobuta-stay"
+                href="/winter-ehime-ozu-uchiko-castle-garyusanso-bikan-uchikobuta-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-teal-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【愛媛】大洲＆内子の小京都冬散策</div>
                 <p className="text-stone-500">臥龍山荘の雪景色と木蝋白壁町並み・内子豚しゃぶしゃぶ名宿</p>
               </Link>
               <Link 
-                href="/winter-hiroshima-miyajima-etajima-oyster-onsen-stay"
+                href="/winter-hiroshima-miyajima-etajima-oyster-onsen-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-teal-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【広島】宮島・厳島神社初詣＆江田島牡蠣</div>
                 <p className="text-stone-500">大鳥居の海中初日の出と冬旬ぷりぷり広島真牡蠣会席名宿</p>
               </Link>
               <Link 
-                href="/winter-kagawa-takamatsu-tamura-shrine-hatsumode-shionoe-onsen-olivegyu-stay"
+                href="/winter-kagawa-takamatsu-tamura-shrine-hatsumode-shionoe-onsen-olivegyu-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-teal-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【香川】高松・田村神社初詣＆塩江温泉</div>
@@ -590,7 +590,7 @@ export default function EhimeImabariWinterFeaturePage() {
             </div>
             <div className="mt-6 text-center">
               <Link 
-                href="/features"
+                href="/features/"
                 className="inline-flex items-center gap-1.5 text-xs font-bold text-teal-600 hover:text-teal-700 transition"
               >
                 全国の冬特集・温泉宿泊ガイド一覧を見る →

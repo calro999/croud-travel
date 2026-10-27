@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '白布温泉で過ごす冬の旅（11・12月）！西吾妻山の豪雪秘湯と開湯700年の名物湯滝！名宿5選',
     description: '11月中旬から深い雪に包まれる山形県米沢市の秘境・西吾妻山山麓に位置する白布温泉（しらぶおんせん）と新高湯温泉。',
-    url: 'https://croud-travel.pages.dev/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -57,7 +57,7 @@ export default function YamagataShirabuYonezawaPage() {
         "datePublished": "T18:00:00+09:00",
         "dateModified": "T18:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -353,7 +353,7 @@ export default function YamagataShirabuYonezawaPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 sm:pt-14 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月白布温泉】西吾妻山の豪雪秘湯と開湯700年の名物湯滝！名宿5選","item":"https://croud-travel.pages.dev/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月白布温泉】西吾妻山の豪雪秘湯と開湯700年の名物湯滝！名宿5選","item":"https://croud-travel.pages.dev/winter-yamagata-shirabu-onsen-snow-yonezawa-beef-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -649,7 +649,7 @@ export default function YamagataShirabuYonezawaPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay"
+              href="/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山形・赤湯温泉</span>
@@ -662,7 +662,7 @@ export default function YamagataShirabuYonezawaPage() {
             </Link>
 
             <Link 
-              href="/winter-yamagata-onogawa-yonezawa-beef-stay"
+              href="/winter-yamagata-onogawa-yonezawa-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山形・小野川温泉</span>
@@ -675,7 +675,7 @@ export default function YamagataShirabuYonezawaPage() {
             </Link>
 
             <Link 
-              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay"
+              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山形・蔵王温泉</span>

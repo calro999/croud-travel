@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月宮城：南三陸キラキラいくら丼と気仙！名宿5選',
     description: '11月から1月、黒潮と親潮が交差する三陸沖は、脂の乗りが最高潮を迎える冬の味覚シーズン。気仙沼港に水揚げされる幻の極上メカジキ「冬木廻（ふゆ。',
-    url: 'https://croud-travel.pages.dev/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -63,7 +63,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay/'
     }
   };
 
@@ -81,13 +81,13 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '気仙沼＆南三陸 冬のメカジキ・いくら丼と温泉名宿',
-        item: 'https://croud-travel.pages.dev/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay'
+        item: 'https://croud-travel.pages.dev/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay/'
       }
     ]
   };
@@ -641,7 +641,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay" 
+              href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">宮城・松島</span>
@@ -651,7 +651,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay" 
+              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">宮城・秋保温泉</span>
@@ -661,7 +661,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay" 
+              href="/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">青森・奥入瀬＆八甲田</span>
@@ -671,7 +671,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay" 
+              href="/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">鳥取・境港＆皆生温泉</span>
@@ -681,7 +681,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay" 
+              href="/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">静岡・下田＆爪木崎</span>
@@ -691,7 +691,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay" 
+              href="/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">佐賀・太良町＆嬉野温泉</span>

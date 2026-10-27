@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '日本三大伝統的町並み＆小江戸・白壁土蔵の重伝建と歴史情緒宿×ふるさと納税厳選ガイド倉敷・川越・竹原',
     description: '往時の繁栄と美しい商家建築が息づく重要伝統的建造物群保存地区！岡山「倉敷美観地区」白壁土蔵となまこ壁・倉敷川沿いの老舗料理旅館鶴形、埼玉「小江戸川越」黒漆喰の蔵造り商家と時の鐘・川越プリンスホテル、広島「安芸の小京都・竹原」製塩と酒造りの重伝建・グリーンスカイホテル竹原。格子戸の路地散策と地酒、名物料理を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-traditional-townscapes-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-traditional-townscapes-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -419,7 +419,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-post-towns-nakasendo-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-post-towns-nakasendo-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大宿場町＆木曽路の出桁造り・街道名宿×ふるさと納税完全ガイド
               </div>
@@ -427,7 +427,7 @@ export default function Page() {
                 妻籠宿・馬籠宿・奈良井宿。
               </p>
             </Link>
-            <Link href="/furusato-tax-three-great-ancient-capitals-heritage-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-ancient-capitals-heritage-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大古都＆千年千載の雅と武家の誇り名宿×ふるさと納税完全ガイド
               </div>
@@ -435,7 +435,7 @@ export default function Page() {
                 京都・奈良・鎌倉。
               </p>
             </Link>
-            <Link href="/furusato-tax-preservation-districts-heritage-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-preservation-districts-heritage-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 重要伝統的建造物群保存地区＆歴史遺産名宿ふるさと納税完全ガイド
               </div>

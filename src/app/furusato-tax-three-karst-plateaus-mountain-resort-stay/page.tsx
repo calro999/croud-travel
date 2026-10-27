@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三大カルスト台地＆白亜の石灰岩パノラマ高原リゾート×ふるさと納税厳選ガイド秋吉台・四国カルスト・平尾台',
     description: 'まるで異世界！緑の草原に無数の白い羊が群れる絶景！山口「秋吉台」日本最大級カルストと大鍾乳洞＆湯田温泉、愛媛高知「四国カルスト」標高1400m天空の道と満天星空リゾート、福岡「平尾台」国の天然記念物ピナクル奇勝と小倉・門司港クラシックホテル。壮大なカルスト高原を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-karst-plateaus-mountain-resort-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-karst-plateaus-mountain-resort-stay/',
     siteName: 'トラベル総合ナビ',
     locale: 'ja_JP',
     type: 'article',
@@ -712,7 +712,7 @@ export default function Page() {
             
             <Link
               key="0"
-              href="/furusato-tax-three-great-sand-dunes-resort-stay"
+              href="/furusato-tax-three-great-sand-dunes-resort-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -725,7 +725,7 @@ export default function Page() {
             
             <Link
               key="1"
-              href="/furusato-tax-starry-sky-open-air-bath-observatory-stay"
+              href="/furusato-tax-starry-sky-open-air-bath-observatory-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -738,7 +738,7 @@ export default function Page() {
             
             <Link
               key="2"
-              href="/furusato-tax-sea-of-clouds-sky-terrace-hotel-stay"
+              href="/furusato-tax-sea-of-clouds-sky-terrace-hotel-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">

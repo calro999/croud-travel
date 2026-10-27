@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '開幕！野沢温泉パウダースノーで過ごす冬の旅（12月）！天然雪100%ゲレンデと名物！名宿5選',
     description: '12月上旬オープン！天然雪100%の極上パウダースノーと総滑走距離44kmを誇る「野沢温泉スキー場」！江戸時代から湯仲間が大切に守り継ぐ名物「13の外湯めぐり」と、冬の風物詩・野沢菜本漬け、信州牛会席に寛ぐ老舗温泉宿ステイ。',
-    url: 'https://croud-travel.pages.dev/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function NozawaWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function NozawaWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【12月開幕！野沢温泉パウダースノー】天然雪100%ゲレンデと名物！名宿5選","item":"https://croud-travel.pages.dev/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【12月開幕！野沢温泉パウダースノー】天然雪100%ゲレンデと名物！名宿5選","item":"https://croud-travel.pages.dev/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -717,19 +717,19 @@ export default function NozawaWinterPage() {
               長野県の温泉宿・ホテル一覧 →
             </Link>
             <Link 
-              href="/winter-hakuba-snow-resort-ski-stay" 
+              href="/winter-hakuba-snow-resort-ski-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-teal-50 hover:text-teal-700 transition font-medium border border-stone-100"
             >
               白馬スノーリゾート特集 →
             </Link>
             <Link 
-              href="/winter-nagano-jigokudani-snow-monkey-stay" 
+              href="/winter-nagano-jigokudani-snow-monkey-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-teal-50 hover:text-teal-700 transition font-medium border border-stone-100"
             >
               地獄谷スノーモンキー宿特集 →
             </Link>
             <Link 
-              href="/winter-gunma-manza-snow-milky-hotspring-stay" 
+              href="/winter-gunma-manza-snow-milky-hotspring-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-teal-50 hover:text-teal-700 transition font-medium border border-stone-100"
             >
               万座温泉 にごり湯特集 →
@@ -747,13 +747,13 @@ export default function NozawaWinterPage() {
               群馬県（草津・伊香保）の宿 →
             </Link>
             <Link 
-              href="/winter-ski-snowboard-resort" 
+              href="/winter-ski-snowboard-resort/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-teal-50 hover:text-teal-700 transition font-medium border border-stone-100"
             >
               全国スキー＆スノーボード宿特集 →
             </Link>
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-3 rounded-xl bg-stone-900 text-white hover:bg-stone-800 transition font-bold text-center flex items-center justify-center gap-1"
             >
               <span>全国の特集一覧を見る</span>

@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '栗の郷「信州小布施」秋の栗スイーツ食べ歩き＆北信濃の名湯・信州プレミアム牛会席',
     description: '10月〜11月に旬を迎える名物「小布施栗」（栗おこわ・朱雀モンブラン・栗かの子）。葛飾北斎ゆかりの歴史ある栗の小径散策と、北信濃の天然温泉・信州プレミアム牛会席をふるさと納税で堪能する秋の信濃路。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-obuse-chestnut-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-obuse-chestnut-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-obuse-chestnut-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-obuse-chestnut-autumn-stay/"
   };
 
   const faqSchema = {
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"栗の郷「信州小布施」秋の栗スイーツ食べ歩き＆北信濃の名湯・信州プレミアム牛会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-obuse-chestnut-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"栗の郷「信州小布施」秋の栗スイーツ食べ歩き＆北信濃の名湯・信州プレミアム牛会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-obuse-chestnut-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

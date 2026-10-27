@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月香川：讃岐一ノ宮「田村神社」新春初！名宿5選',
     description: '龍神信仰息づく讃岐国一ノ宮「田村神社（たむらじんじゃ）」が約20万人の新春参拝客を迎える11〜1月の冬旅特集。',
-    url: 'https://croud-travel.pages.dev/winter-kagawa-takamatsu-tamura-shrine-hatsumode-shionoe-onsen-olivegyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-kagawa-takamatsu-tamura-shrine-hatsumode-shionoe-onsen-olivegyu-stay/',
     type: 'article',
     images: [
       {
@@ -60,7 +60,7 @@ export default function KagawaTakamatsuWinterPage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-kagawa-takamatsu-tamura-shrine-hatsumode-shionoe-onsen-olivegyu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-kagawa-takamatsu-tamura-shrine-hatsumode-shionoe-onsen-olivegyu-stay/"
     }
   };
 
@@ -78,13 +78,13 @@ export default function KagawaTakamatsuWinterPage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "香川・高松＆塩江温泉 冬特集",
-        "item": "https://croud-travel.pages.dev/winter-kagawa-takamatsu-tamura-shrine-hatsumode-shionoe-onsen-olivegyu-stay"
+        "item": "https://croud-travel.pages.dev/winter-kagawa-takamatsu-tamura-shrine-hatsumode-shionoe-onsen-olivegyu-stay/"
       }
     ]
   };
@@ -328,7 +328,7 @@ export default function KagawaTakamatsuWinterPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 py-4 text-xs text-slate-500 flex items-center gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-slate-700 font-medium">香川・高松＆塩江温泉 冬特集</span>
       </nav>
@@ -668,7 +668,7 @@ export default function KagawaTakamatsuWinterPage() {
           </p>
           <div className="pt-2 flex flex-wrap justify-center gap-3">
             <Link 
-              href="/features" 
+              href="/features/" 
               className="px-6 py-3 bg-white text-slate-900 hover:bg-slate-100 font-black text-xs md:text-sm rounded-xl shadow transition"
             >
               特集記事一覧を見る

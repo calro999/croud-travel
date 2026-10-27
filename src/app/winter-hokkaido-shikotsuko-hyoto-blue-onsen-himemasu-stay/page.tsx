@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月北海道：千歳支笏湖ブルーの冬絶景！名宿5選',
     description: '11月から1月、日本最北の不凍湖・支笏湖は、水質日本一に幾度も輝いた透明度が極限まで高まり。',
-    url: 'https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '支笏湖ブルー＆氷濤まつり特集',
-        item: 'https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay'
+        item: 'https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay/'
       }
     ]
   };
@@ -652,7 +652,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay" 
+              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">北海道・登別温泉</span>
@@ -662,7 +662,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay" 
+              href="/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">北海道・小樽運河</span>
@@ -672,7 +672,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-hokkaido-sounkyo-onsen-snow-gorge-stay" 
+              href="/winter-hokkaido-sounkyo-onsen-snow-gorge-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">北海道・層雲峡温泉</span>
@@ -682,7 +682,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay" 
+              href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">青森・八戸蕪島</span>
@@ -692,7 +692,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay" 
+              href="/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">茨城・袋田の滝</span>
@@ -702,7 +702,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
             </Link>
 
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-stone-100 border border-stone-200 hover:border-indigo-400 transition-all group flex flex-col justify-center text-center"
             >
               <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors">

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '幻の極上赤身肉「短角牛・あか牛」美食温泉宿×ふるさと納税厳選ガイド岩手・熊本阿蘇・高知土佐',
     description: '肉本来の濃厚な旨味とヘルシーな赤身！岩手久慈「いわて短角牛」の極上ステーキと奥羽のいで湯、熊本「くまもとあか牛」阿蘇の草原が育む炭火焼きと名湯巡り、高知「土佐あかうし」年間数百頭の幻の和牛会席。黒毛和牛とは一線を画す赤身肉の頂点を楽天ふるさと納税宿泊クーポンでお得に味わう完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-rare-wagyu-tankaku-akagyu-gourmet-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-rare-wagyu-tankaku-akagyu-gourmet-stay/',
     siteName: 'トラベル総合ナビ',
     locale: 'ja_JP',
     type: 'article',
@@ -774,7 +774,7 @@ export default function Page() {
             
             <Link
               key="0"
-              href="/furusato-tax-three-great-wagyu-beef-gourmet-stay"
+              href="/furusato-tax-three-great-wagyu-beef-gourmet-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -787,7 +787,7 @@ export default function Page() {
             
             <Link
               key="1"
-              href="/furusato-tax-matsuba-echizen-crab-season-opening-onsen-stay"
+              href="/furusato-tax-matsuba-echizen-crab-season-opening-onsen-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -800,7 +800,7 @@ export default function Page() {
             
             <Link
               key="2"
-              href="/furusato-tax-kue-gourmet-luxury-fish-stay"
+              href="/furusato-tax-kue-gourmet-luxury-fish-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '栃木・日光湯西川温泉で過ごす冬の旅（11・12月）！とちぎ和牛！名宿5選',
     description: '11月から12月にかけて、栃木県日光市の深山幽谷に抱かれた「湯西川温泉」は、広葉樹の紅葉が散り落ちるとともに白銀の初雪が舞い始め。',
-    url: 'https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay',
+    url: 'https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterTochigiYunishigawaPage() {
         'headline': "【11・12月栃木・日光湯西川温泉の初雪渓谷美と平家落人伝説】名物囲炉裏会席・平家狩場焼＆とちぎ和牛・源泉かけ流し雪見露天名宿5選",
         'description': "11月から12月にかけて、栃木県日光市の深山幽谷に抱かれた「湯西川温泉」は、広葉樹の紅葉が散り落ちるとともに白銀の初雪が舞い始め、茅葺き屋根の古民家や湯西川渓谷が静謐な冬景色に包まれます。壇ノ浦の戦いに敗れた平家の落人たちが落ち延び、河原の炭火で野鳥や川魚を焼いたことに端を発する伝統の「本場囲炉裏（いろり）料理」平家狩場焼、山椒香るばんだい餅、とろける霜降りの「とちぎ和牛」、香ばしいイワナの骨酒。そして湯守が守り継ぐpH9前後の柔らかな源泉かけ流し雪見露天風呂。深山に佇む平家伝承の厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterTochigiYunishigawaPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-amber-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">日光・湯西川温泉</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterTochigiYunishigawaPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月栃木・日光湯西川温泉】とちぎ和牛！名宿5選","item":"https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月栃木・日光湯西川温泉】とちぎ和牛！名宿5選","item":"https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -611,7 +611,7 @@ export default function WinterTochigiYunishigawaPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay"
+              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">栃木・鬼怒川温泉</span>
@@ -624,7 +624,7 @@ export default function WinterTochigiYunishigawaPage() {
             </Link>
 
             <Link 
-              href="/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay"
+              href="/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">栃木・奥日光中禅寺湖</span>
@@ -637,7 +637,7 @@ export default function WinterTochigiYunishigawaPage() {
             </Link>
 
             <Link 
-              href="/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay"
+              href="/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">栃木・那須塩原温泉</span>

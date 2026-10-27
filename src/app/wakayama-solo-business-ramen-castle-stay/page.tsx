@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '和歌山出張・ひとり旅：天然温泉紀州の湯・和歌山城パノラマ・濃厚豚骨醤油中華そば！城下町でととのう快適出張宿 厳選3選',
     description: '関西南部の拠点・和歌山市での出張や一人旅に！自家源泉天然温泉と夜鳴きそばが揃う「ドーミーインPREMIUM和歌山」、和歌山城の夜景を望むハイクラスな「ダイワロイネットホテル和歌山」、JR和歌山駅直結の「ホテルグランヴィア和歌山」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/wakayama-solo-business-ramen-castle-stay',
+    url: 'https://croud-travel.pages.dev/wakayama-solo-business-ramen-castle-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T15:45:00+09:00',
     dateModified: '2026-10-19T15:45:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/wakayama-solo-business-ramen-castle-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/wakayama-solo-business-ramen-castle-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【和歌山出張・ひとり旅】天然温泉紀州の湯・和歌山城パノラマ・濃厚豚骨醤油中華そば！城下町でととのう快適出張宿 厳選3選","item":"https://croud-travel.pages.dev/wakayama-solo-business-ramen-castle-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【和歌山出張・ひとり旅】天然温泉紀州の湯・和歌山城パノラマ・濃厚豚骨醤油中華そば！城下町でととのう快適出張宿 厳選3選","item":"https://croud-travel.pages.dev/wakayama-solo-business-ramen-castle-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

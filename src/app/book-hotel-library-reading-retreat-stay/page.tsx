@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '数万冊の本に囲まれて贅沢な夜更かし！全国の泊まれる図書館＆ブックホテル特集',
     description: '箱根・京都・湯河原など壁一面の本棚や隠れ家リーディングスペースを備えた話題のブックホテル。名湯に浸かり、珈琲や地酒を片手に読書に没頭する旅。',
-    url: 'https://croud-travel.pages.dev/book-hotel-library-reading-retreat-stay',
+    url: 'https://croud-travel.pages.dev/book-hotel-library-reading-retreat-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/book-hotel-library-reading-retreat-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/book-hotel-library-reading-retreat-stay/"
   };
 
   const faqSchema = {
@@ -151,7 +151,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"数万冊の本に囲まれて贅沢な夜更かし！全国の泊まれる図書館＆ブックホテル特集 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/book-hotel-library-reading-retreat-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"数万冊の本に囲まれて贅沢な夜更かし！全国の泊まれる図書館＆ブックホテル特集 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/book-hotel-library-reading-retreat-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -166,7 +166,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">ブックホテル＆読書リトリート</span>
       </nav>
@@ -281,7 +281,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="数万冊の本に囲まれて贅沢な夜更かし！全国の泊まれる図書館＆ブックホテル特集"
-            url="https://croud-travel.pages.dev/book-hotel-library-reading-retreat-stay"
+            url="https://croud-travel.pages.dev/book-hotel-library-reading-retreat-stay/"
           />
         </div>
 

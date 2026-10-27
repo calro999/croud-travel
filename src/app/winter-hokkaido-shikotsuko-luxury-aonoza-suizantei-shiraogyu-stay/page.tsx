@@ -15,12 +15,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: '【支笏湖ブルーの初冬静寂と全室温泉露天付きラグジュアリースイート】2026-2027年11-12月の北海道・支笏湖！最高峰「碧の座」＆レイクサイド名宿・北海道産白老牛と冬の極上毛ガニ名宿5選',
     description: '日本屈指の透明度を誇るカルデラ湖・支笏湖。11月〜12月の初冬は観光の混雑が去り、澄み渡る「支笏湖ブルー」の静寂と冠雪した恵庭岳の雄姿が湖面に映る最も美しい季節。鶴雅グループの最高峰ブランド「しこつ湖 鶴雅別荘 碧の座」をはじめ、全室に温泉露天風呂を備えた大人のプレミアムリゾート。とろける極上白老牛や噴火湾・オホーツクの冬の味覚を堪能する大人の記念日ステイ厳選5選。',
-    url: 'https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay/',
     type: 'article',
     siteName: 'クラウドトラベル',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay/',
   },
 };
 
@@ -46,13 +46,13 @@ export default function UltraLuxuryWinterFeaturePage() {
                   "@type": "ListItem",
                   "position": 2,
                   "name": "特集一覧",
-                  "item": "https://croud-travel.pages.dev/features"
+                  "item": "https://croud-travel.pages.dev/features/"
                 },
                 {
                   "@type": "ListItem",
                   "position": 3,
                   "name": "【支笏湖ブルーの初冬静寂と全室温泉露天付きラグジュアリースイート】2026-2027年11-12月の北海道・支笏湖！最高峰「碧の座」＆レイクサイド名宿・北海道産白老牛と冬の極上毛ガニ名宿5選",
-                  "item": "https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay"
+                  "item": "https://croud-travel.pages.dev/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay/"
                 }
               ]
             },
@@ -95,7 +95,7 @@ export default function UltraLuxuryWinterFeaturePage() {
         <div className="max-w-5xl mx-auto flex items-center gap-1.5 flex-wrap">
           <Link href="/" className="hover:text-slate-800 transition">ホーム</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
-          <Link href="/features" className="hover:text-slate-800 transition">特集一覧</Link>
+          <Link href="/features/" className="hover:text-slate-800 transition">特集一覧</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
           <span className="text-slate-800 font-medium truncate max-w-xs">【支笏湖ブルーの初冬静寂と全室温泉露天付きラグジュアリースイート】2026-2027年11-12月の北海道・支笏湖！最高峰「碧の座」＆レイクサイド名宿・北海道産白老牛と冬の極上毛ガニ名宿5選</span>
         </div>

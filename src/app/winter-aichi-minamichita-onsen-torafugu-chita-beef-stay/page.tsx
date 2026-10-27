@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '南知多温泉郷で過ごす冬の旅（11・12月）！天然とらふぐフルコース！名宿5選',
     description: '11月から12月にかけて愛知県・知多半島の最南端に位置する南知多温泉郷（内海・山海・師崎）の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function MinamichitaOnsenWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay/"
         },
         "headline": "【11・12月南知多温泉郷の伊勢湾パノラマ夕日露天と本場とらふぐ】天然とらふぐフルコース・知多牛ステーキ＆日間賀島たこ会席の海辺宿5選",
         "description": "11月から12月にかけて愛知県・知多半島の最南端に位置する南知多温泉郷（内海・山海・師崎）は、全国屈指の天然とらふぐ水揚げ高を誇る日間賀島・篠島・師崎港から、冬の味覚の王様「とらふぐ」が届く最高潮シーズンを迎えます。伊勢湾の水平線に沈む黄金色の夕日と満天の星を望む展望露天風呂、地下1,300mから湧き出る濃厚な塩化物強塩泉（熱の湯）、薄造りの透き通るてっさ、旨味あふれるてっちり（ふぐ鍋）、香ばしいふぐ唐揚げやひれ酒、愛知の誇る銘柄黒毛和牛「知多牛」のヒレ・サーロインステーキ、名物タコ料理を堪能する海辺の名宿5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function MinamichitaOnsenWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "愛知・南知多温泉郷 伊勢湾夕日露天と本場とらふぐの宿",
-            "item": "https://croud-travel.pages.dev/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay"
+            "item": "https://croud-travel.pages.dev/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay/"
           }
         ]
       },
@@ -598,42 +598,42 @@ export default function MinamichitaOnsenWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay"
+              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">三重・鳥羽温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">伊勢湾を望む絶景露天風呂と伊勢海老・的矢かき会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay"
+              href="/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">三重・伊勢志摩</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">冬至の宇治橋鳥居日の出絶景と的矢牡蠣・松阪牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-fugu-pufferfish-gourmet-onsen-stay"
+              href="/winter-fugu-pufferfish-gourmet-onsen-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">全国冬のふぐ特集</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の極上とらふぐフルコースと名湯露天風呂の宿まとめ</h3>
             </Link>
             <Link 
-              href="/winter-mie-nabana-no-sato-illumination-stay"
+              href="/winter-mie-nabana-no-sato-illumination-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">三重・桑名</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">国内最大級なばなの里イルミネーションと長島温泉の宿</h3>
             </Link>
             <Link 
-              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay"
+              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">静岡・熱海温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">冬の熱海海上花火大会と金目鯛煮付け・相模湾海の幸の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>

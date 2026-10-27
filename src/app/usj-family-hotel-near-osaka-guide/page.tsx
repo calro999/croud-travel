@@ -411,7 +411,7 @@ export default function UsjFamilyHotelGuidePage() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
           <Link
-            href="/osaka-travel-budget-guide"
+            href="/osaka-travel-budget-guide/"
             className="p-4 bg-white rounded-2xl border border-teal-200 hover:border-teal-500 shadow-sm hover:shadow-md transition group block"
           >
             <span className="text-xs font-black text-teal-700 block mb-1">【大阪旅行 費用総額】</span>
@@ -421,7 +421,7 @@ export default function UsjFamilyHotelGuidePage() {
           </Link>
 
           <Link
-            href="/tokyo-osaka-bus-vs-shinkansen-guide"
+            href="/tokyo-osaka-bus-vs-shinkansen-guide/"
             className="p-4 bg-white rounded-2xl border border-teal-200 hover:border-teal-500 shadow-sm hover:shadow-md transition group block"
           >
             <span className="text-xs font-black text-teal-700 block mb-1">【東京〜大阪 交通費比較】</span>

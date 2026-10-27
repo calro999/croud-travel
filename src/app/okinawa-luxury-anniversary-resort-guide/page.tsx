@@ -406,7 +406,7 @@ export default function OkinawaLuxuryAnniversaryResortGuidePage() {
 
         <div className="grid sm:grid-cols-2 gap-4">
           <Link
-            href="/okinawa-travel-budget-plan"
+            href="/okinawa-travel-budget-plan/"
             className="group block p-5 rounded-2xl border-2 border-slate-100 hover:border-violet-400 bg-slate-50 hover:bg-violet-50/40 transition-all duration-200"
           >
             <div className="text-xs font-bold text-violet-600 mb-1 flex items-center gap-1">
@@ -421,7 +421,7 @@ export default function OkinawaLuxuryAnniversaryResortGuidePage() {
           </Link>
 
           <Link
-            href="/okinawa-family-trip-how-many-nights-budget"
+            href="/okinawa-family-trip-how-many-nights-budget/"
             className="group block p-5 rounded-2xl border-2 border-slate-100 hover:border-violet-400 bg-slate-50 hover:bg-violet-50/40 transition-all duration-200"
           >
             <div className="text-xs font-bold text-violet-600 mb-1 flex items-center gap-1">

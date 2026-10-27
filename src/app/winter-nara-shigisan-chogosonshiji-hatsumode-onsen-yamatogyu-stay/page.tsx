@@ -17,12 +17,12 @@ export const metadata: Metadata = {
   title: "聖徳太子開創の霊峰・信貴山朝護孫子寺と世界一の福寅：2026-2027年冬の奈良・生駒＆信貴山！信貴山温泉と大和牛・ぼたん鍋名宿5選",
   description: "巨大な張子の寅が迎える毘沙門天総本山「信貴山朝護孫子寺」の新春開運初詣！登録有形文化財「開運橋」の冬景色と信貴山温泉のぬくもり、滋味あふれる猪鹿ぼたん鍋と奈良が誇る最高峰「大和牛」すき焼きに満たされる大和路の隠れ家名宿5選。",
   alternates: {
-    canonical: "https://croud-travel.pages.dev/winter-nara-shigisan-chogosonshiji-hatsumode-onsen-yamatogyu-stay",
+    canonical: "https://croud-travel.pages.dev/winter-nara-shigisan-chogosonshiji-hatsumode-onsen-yamatogyu-stay/",
   },
   openGraph: {
     title: "聖徳太子開創の霊峰・信貴山朝護孫子寺と世界一の福寅：2026-2027年冬の奈良・生駒＆信貴山！信貴山温泉と大和牛・ぼたん鍋名宿5選",
     description: "巨大な張子の寅が迎える毘沙門天総本山「信貴山朝護孫子寺」の新春開運初詣！登録有形文化財「開運橋」の冬景色と信貴山温泉のぬくもり、滋味あふれる猪鹿ぼたん鍋と奈良が誇る最高峰「大和牛」すき焼きに満たされる大和路の隠れ家名宿5選。",
-    url: "https://croud-travel.pages.dev/winter-nara-shigisan-chogosonshiji-hatsumode-onsen-yamatogyu-stay",
+    url: "https://croud-travel.pages.dev/winter-nara-shigisan-chogosonshiji-hatsumode-onsen-yamatogyu-stay/",
     siteName: "日本全国・旅宿クラウド",
     locale: "ja_JP",
     type: "article",
@@ -90,7 +90,7 @@ export default function FeaturePage() {
       "@type": "ListItem",
       "position": 2,
       "name": "特集一覧",
-      "item": "https://croud-travel.pages.dev/features"
+      "item": "https://croud-travel.pages.dev/features/"
     },
     {
       "@type": "ListItem",
@@ -102,7 +102,7 @@ export default function FeaturePage() {
       "@type": "ListItem",
       "position": 4,
       "name": "【聖徳太子開創の霊峰・信貴山朝護孫子寺と世界一の福寅】2026-2027年冬の奈良・生駒＆信貴山！信貴山温泉と大和牛・ぼたん鍋名宿5選",
-      "item": "https://croud-travel.pages.dev/winter-nara-shigisan-chogosonshiji-hatsumode-onsen-yamatogyu-stay"
+      "item": "https://croud-travel.pages.dev/winter-nara-shigisan-chogosonshiji-hatsumode-onsen-yamatogyu-stay/"
     }
   ]
 };
@@ -139,7 +139,7 @@ export default function FeaturePage() {
             ホーム
           </Link>
           <ChevronRight className="w-3 h-3 text-stone-400" />
-          <Link href="/features" className="hover:text-stone-900 transition-colors">
+          <Link href="/features/" className="hover:text-stone-900 transition-colors">
             特集一覧
           </Link>
           <ChevronRight className="w-3 h-3 text-stone-400" />
@@ -774,21 +774,21 @@ export default function FeaturePage() {
                 <ChevronRight className="w-4 h-4 text-stone-400" />
               </Link>
               <Link
-                href="/features"
+                href="/features/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>全国の季節・目的別厳選特集一覧</span>
                 <ChevronRight className="w-4 h-4 text-stone-400" />
               </Link>
               <Link
-                href="/furusato-tax-luxury-hotspring-ryokan-stay"
+                href="/furusato-tax-luxury-hotspring-ryokan-stay/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>実質2,000円で泊まる高級温泉旅館ガイド</span>
                 <ChevronRight className="w-4 h-4 text-stone-400" />
               </Link>
               <Link
-                href="/furusato-tax-local-gourmet-inn-stay"
+                href="/furusato-tax-local-gourmet-inn-stay/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>ご当地グルメを堪能する全国美食旅特集</span>

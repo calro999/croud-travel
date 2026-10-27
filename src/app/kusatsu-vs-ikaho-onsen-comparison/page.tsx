@@ -121,7 +121,7 @@ export default function KusatsuVsIkahoPage() {
             <h4 className="font-bold text-teal-800 mb-2">🚌 草津温泉へのアクセス</h4>
             <p className="text-sm text-slate-600">
               直行バスで約3時間半（片道約3,600円）。電車よりバスが安くて乗り換えなしで便利。<br/>
-              詳細は<Link href="/tokyo-kusatsu-onsen-highway-bus-guide" className="text-emerald-600 underline hover:text-emerald-500">東京から草津温泉への高速バスガイド</Link>をチェック！
+              詳細は<Link href="/tokyo-kusatsu-onsen-highway-bus-guide/" className="text-emerald-600 underline hover:text-emerald-500">東京から草津温泉への高速バスガイド</Link>をチェック！
             </p>
           </div>
           <div className="bg-white p-5 rounded-2xl">

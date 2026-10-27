@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '日本三大朝市＆獲れたて鮮魚と旬の恵み・活気あふれる市場宿×ふるさと納税厳選ガイド勝浦・高山・呼子',
     description: '早起きして出かけたい活気と笑顔の日本の三大朝市！千葉房総「勝浦朝市」430年の歴史と水揚げ鮮魚・旬野菜・三日月イン、岐阜飛騨「高山宮川朝市」宮川のせせらぎ沿いに並ぶ新鮮野菜と赤かぶら・本陣平野屋花兆庵、佐賀玄界灘「呼子朝市」名物いかしゅうまいと干物の香ばしい匂い・旅館金丸。朝の散策と地元の人々との温かいふれあい、名物グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-morning-markets-gourmet-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-morning-markets-gourmet-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -419,7 +419,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-ekiben-gourmet-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-ekiben-gourmet-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大駅弁＆ご当地名物グルメ旅名宿×ふるさと納税完全ガイド
               </div>
@@ -427,7 +427,7 @@ export default function Page() {
                 森・横川・松阪。
               </p>
             </Link>
-            <Link href="/furusato-tax-three-great-ramen-capitals-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-ramen-capitals-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大ラーメン＆本場の名店巡り名宿×ふるさと納税完全ガイド
               </div>
@@ -435,7 +435,7 @@ export default function Page() {
                 喜多方・札幌・博多。
               </p>
             </Link>
-            <Link href="/furusato-tax-three-great-post-towns-nakasendo-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-post-towns-nakasendo-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大宿場町＆木曽路の出桁造り・街道名宿×ふるさと納税完全ガイド
               </div>

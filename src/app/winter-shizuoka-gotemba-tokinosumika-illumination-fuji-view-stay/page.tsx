@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月静岡：時之栖イルミ！名宿5選',
     description: '11月から1月にかけて、富士山麓の御殿場・裾野エリアは日本屈指の光と冬富士の絶景リゾートへと輝きを増します。',
-    url: 'https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-view-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-view-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -165,7 +165,7 @@ export default function ShizuokaGotembaWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-view-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-view-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-view-stay/"
         },
         "headline": "【11・12・1月静岡】御殿場＆裾野！時之栖イルミ＆アウトレットと冬の富士山展望露天風呂名宿5選",
         "description": "11月から1月にかけて、富士山麓の御殿場・裾野エリアは日本屈指の光と冬富士の絶景リゾートへと輝きを増します。約550万球の光が夜空を埋め尽くす御殿場高原 時之栖の「ひかりのすみか」や大迫力の噴水レーザーショー、日本最大級の御殿場プレミアム・アウトレットでの冬のショッピング。そして空気が最も澄み渡る冬ならではの冠雪富士山を湯船から一望する展望露天風呂。名物みくりやそばや静岡そだち和牛とともに満喫する冬の富士山麓滞在。楽天APIから最新取得した実力宿5選を徹底特集します。",
@@ -191,13 +191,13 @@ export default function ShizuokaGotembaWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "御殿場＆裾野冬特集",
-            "item": "https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-view-stay"
+            "item": "https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-view-stay/"
           }
         ]
       },
@@ -584,7 +584,7 @@ export default function ShizuokaGotembaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay"
+              href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-blue-400 block mb-1">箱根冬特集</span>
@@ -592,7 +592,7 @@ export default function ShizuokaGotembaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay"
+              href="/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-blue-400 block mb-1">三島・沼津冬特集</span>
@@ -600,7 +600,7 @@ export default function ShizuokaGotembaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay"
+              href="/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-blue-400 block mb-1">富士宮冬特集</span>

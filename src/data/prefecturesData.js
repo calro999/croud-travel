@@ -64,7 +64,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/56773/56773.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/56773/56773.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/56773/56773.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -73,7 +73,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/192816/192816.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/192816/192816.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/192816/192816.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -82,7 +82,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/67479/67479.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/67479/67479.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/67479/67479.html"
                     }
                 ]
             }
@@ -190,7 +190,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/70291/70291.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/70291/70291.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/70291/70291.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -199,7 +199,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/50632/50632.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/50632/50632.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/50632/50632.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -208,7 +208,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/70297/70297.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/70297/70297.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/70297/70297.html"
                     }
                 ]
             }
@@ -430,7 +430,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/182463/182463.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/182463/182463.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/182463/182463.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -439,7 +439,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/177046/177046.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/177046/177046.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/177046/177046.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -448,7 +448,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/4934/4934.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/4934/4934.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/4934/4934.html"
                     }
                 ]
             }
@@ -784,7 +784,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/28624/28624.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/28624/28624.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/28624/28624.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -793,7 +793,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/12682/12682.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/12682/12682.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/12682/12682.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -802,7 +802,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/4781/4781.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/4781/4781.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/4781/4781.html"
                     }
                 ]
             }
@@ -910,7 +910,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/44177/44177.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/44177/44177.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/44177/44177.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -919,7 +919,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/2099/2099.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/2099/2099.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/2099/2099.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -928,7 +928,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/80617/80617.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/80617/80617.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/80617/80617.html"
                     }
                 ]
             }
@@ -1036,7 +1036,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/189179/189179.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/189179/189179.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/189179/189179.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -1045,7 +1045,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/198852/198852.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/198852/198852.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/198852/198852.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -1054,7 +1054,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/108140/108140.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/108140/108140.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/108140/108140.html"
                     }
                 ]
             }
@@ -1162,7 +1162,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/2398/2398.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/2398/2398.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/2398/2398.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -1171,7 +1171,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/56137/56137.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/56137/56137.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/56137/56137.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -1180,7 +1180,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/176541/176541.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/176541/176541.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/176541/176541.html"
                     }
                 ]
             }
@@ -1288,7 +1288,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/6100/6100.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/6100/6100.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/6100/6100.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -1297,7 +1297,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/9485/9485.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/9485/9485.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/9485/9485.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -1306,7 +1306,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/68504/68504.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/68504/68504.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/68504/68504.html"
                     }
                 ]
             }
@@ -1528,7 +1528,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/128577/128577.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/128577/128577.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/128577/128577.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -1537,7 +1537,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/179145/179145.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/179145/179145.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/179145/179145.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -1546,7 +1546,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/51870/51870.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/51870/51870.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/51870/51870.html"
                     }
                 ]
             }
@@ -1654,7 +1654,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/142874/142874.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/142874/142874.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/142874/142874.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -1663,7 +1663,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/10956/10956.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/10956/10956.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/10956/10956.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -1672,7 +1672,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/9669/9669.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/9669/9669.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/9669/9669.html"
                     }
                 ]
             }
@@ -1780,7 +1780,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/7518/7518.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/7518/7518.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/7518/7518.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -1789,7 +1789,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/30694/30694.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/30694/30694.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/30694/30694.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -1798,7 +1798,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/197415/197415.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/197415/197415.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/197415/197415.html"
                     }
                 ]
             }
@@ -2134,7 +2134,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/50242/50242.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/50242/50242.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/50242/50242.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -2143,7 +2143,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/27722/27722.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/27722/27722.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/27722/27722.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -2152,7 +2152,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/50247/50247.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/50247/50247.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/50247/50247.html"
                     }
                 ]
             }
@@ -2260,7 +2260,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/4862/4862.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/4862/4862.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/4862/4862.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -2269,7 +2269,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/130481/130481.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/130481/130481.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/130481/130481.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -2278,7 +2278,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/180416/180416.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/180416/180416.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/180416/180416.html"
                     }
                 ]
             }
@@ -2500,7 +2500,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/199118/199118.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/199118/199118.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/199118/199118.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -2509,7 +2509,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/166277/166277.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/166277/166277.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/166277/166277.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -2518,7 +2518,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8326/8326.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/8326/8326.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/8326/8326.html"
                     }
                 ]
             }
@@ -2626,7 +2626,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/29878/29878.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/29878/29878.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/29878/29878.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -2635,7 +2635,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/7616/7616.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/7616/7616.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/7616/7616.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -2644,7 +2644,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/3044/3044.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/3044/3044.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/3044/3044.html"
                     }
                 ]
             }
@@ -2866,7 +2866,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/5545/5545.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/5545/5545.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/5545/5545.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -2875,7 +2875,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/12598/12598.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/12598/12598.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/12598/12598.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -2884,7 +2884,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/188466/188466.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/188466/188466.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/188466/188466.html"
                     }
                 ]
             }
@@ -3452,7 +3452,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8045/8045.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/8045/8045.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/8045/8045.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -3461,7 +3461,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/188878/188878.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/188878/188878.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/188878/188878.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -3470,7 +3470,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/76939/76939.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/76939/76939.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/76939/76939.html"
                     }
                 ]
             }
@@ -3578,7 +3578,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8226/8226.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/8226/8226.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/8226/8226.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -3587,7 +3587,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/9133/9133.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/9133/9133.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/9133/9133.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -3596,7 +3596,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8113/8113.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/8113/8113.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/8113/8113.html"
                     }
                 ]
             }
@@ -3936,7 +3936,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/147499/147499.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/147499/147499.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/147499/147499.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -3945,7 +3945,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/182714/182714.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/182714/182714.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/182714/182714.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -3954,7 +3954,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/799/799.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/799/799.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/799/799.html"
                     }
                 ]
             }
@@ -4062,7 +4062,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/7754/7754.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/7754/7754.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/7754/7754.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -4071,7 +4071,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/188903/188903.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/188903/188903.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/188903/188903.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -4080,7 +4080,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/180527/180527.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/180527/180527.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/180527/180527.html"
                     }
                 ]
             }
@@ -4188,7 +4188,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/147160/147160.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/147160/147160.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/147160/147160.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -4197,7 +4197,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/7243/7243.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/7243/7243.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/7243/7243.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -4206,7 +4206,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/54096/54096.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/54096/54096.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/54096/54096.html"
                     }
                 ]
             }
@@ -4428,7 +4428,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/176626/176626.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/176626/176626.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/176626/176626.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -4437,7 +4437,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/5901/5901.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/5901/5901.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/5901/5901.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -4446,7 +4446,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/5900/5900.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/5900/5900.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/5900/5900.html"
                     }
                 ]
             }
@@ -4668,7 +4668,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/1553/1553.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/1553/1553.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/1553/1553.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -4677,7 +4677,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/54659/54659.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/54659/54659.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/54659/54659.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -4686,7 +4686,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8724/8724.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/8724/8724.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/8724/8724.html"
                     }
                 ]
             }
@@ -4794,7 +4794,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/108259/108259.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/108259/108259.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/108259/108259.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -4803,7 +4803,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/5012/5012.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/5012/5012.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/5012/5012.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -4812,7 +4812,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/165238/165238.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/165238/165238.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/165238/165238.html"
                     }
                 ]
             }
@@ -4920,7 +4920,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/68081/68081.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/68081/68081.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/68081/68081.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -4929,7 +4929,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/40786/40786.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/40786/40786.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/40786/40786.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -4938,7 +4938,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/40527/40527.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/40527/40527.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/40527/40527.html"
                     }
                 ]
             }
@@ -5046,7 +5046,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/7808/7808.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/7808/7808.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/7808/7808.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -5055,7 +5055,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/9157/9157.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/9157/9157.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/9157/9157.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -5064,7 +5064,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/53172/53172.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/53172/53172.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/53172/53172.html"
                     }
                 ]
             }
@@ -5172,7 +5172,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/27949/27949.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/27949/27949.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/27949/27949.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -5181,7 +5181,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/31796/31796.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/31796/31796.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/31796/31796.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -5190,7 +5190,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/147706/147706.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/147706/147706.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/147706/147706.html"
                     }
                 ]
             }
@@ -5298,7 +5298,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/198983/198983.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/198983/198983.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/198983/198983.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -5307,7 +5307,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/139452/139452.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/139452/139452.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/139452/139452.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -5316,7 +5316,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/106080/106080.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/106080/106080.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/106080/106080.html"
                     }
                 ]
             }
@@ -5424,7 +5424,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/199224/199224.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/199224/199224.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/199224/199224.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -5433,7 +5433,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8782/8782.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/8782/8782.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/8782/8782.html"
                     },
                     {
                         "hotelName": "ãã£ã¨è¦ã",
@@ -5442,7 +5442,7 @@ exports.PREFECTURES_DATA = [
                         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/162643/162643.jpg",
                         "price": 13500,
                         "rating": 4.6,
-                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A//travel.rakuten.co.jp/HOTEL/162643/162643.html"
+                        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A/travel.rakuten.co.jp/HOTEL/162643/162643.html"
                     }
                 ]
             }

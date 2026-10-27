@@ -138,7 +138,7 @@ export default function KyotoNightsGuide() {
           </div>
           <p className="mt-4 text-sm text-stone-500">
             ※ 上記に交通費が追加されます。東京から向かう場合、新幹線と夜行バスで大きく変わります。<br/>
-            <Link href="/tokyo-kyoto-bus-vs-shinkansen-guide" className="text-amber-600 hover:underline">
+            <Link href="/tokyo-kyoto-bus-vs-shinkansen-guide/" className="text-amber-600 hover:underline">
               ▶ 東京〜京都の夜行バスと新幹線の料金比較はこちら
             </Link>
           </p>

@@ -1,8 +1,8 @@
 # 岩手県の宿泊・観光記事（58件）
 
 ## 【2026年11月現地特化】中尊寺・養老の滝・談山神社・鶴仙渓の晩秋攻略ガイド｜楽天トラベル実データで選ぶ最高峰名宿
-- 記事: https://croud-travel.pages.dev/posts/undefined/
-- 全文Markdown: https://croud-travel.pages.dev/ai/undefined.md
+- 記事: https://croud-travel.pages.dev/posts/note-233/
+- 全文Markdown: https://croud-travel.pages.dev/ai/note-233.md
 - 宿泊施設名: undefined
 - エリア: 
 

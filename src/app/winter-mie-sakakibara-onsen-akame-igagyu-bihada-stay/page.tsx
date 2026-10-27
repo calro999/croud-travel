@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '初冬で過ごす冬の旅（11・12月）！枕草子三名泉「七栗の湯」の極上美肌ぬる湯！名宿5選',
     description: '11月中旬から12月の初冬、伊勢平野から布引山地へと連なる三重県津市榊原町は、山裾の紅葉が静かに散り敷き、凛とした澄んだ空気が漂う季節を迎えます。',
-    url: 'https://croud-travel.pages.dev/winter-mie-sakakibara-onsen-akame-igagyu-bihada-stay',
+    url: 'https://croud-travel.pages.dev/winter-mie-sakakibara-onsen-akame-igagyu-bihada-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -56,7 +56,7 @@ export default function MieSakakibaraAkameWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-mie-sakakibara-onsen-akame-igagyu-bihada-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-mie-sakakibara-onsen-akame-igagyu-bihada-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -379,7 +379,7 @@ export default function MieSakakibaraAkameWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月初冬】枕草子三名泉「七栗の湯」の極上美肌ぬる湯！名宿5選","item":"https://croud-travel.pages.dev/winter-mie-sakakibara-onsen-akame-igagyu-bihada-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月初冬】枕草子三名泉「七栗の湯」の極上美肌ぬる湯！名宿5選","item":"https://croud-travel.pages.dev/winter-mie-sakakibara-onsen-akame-igagyu-bihada-stay/"}]}) }}
       />
 
         {/* Introduction Section */}
@@ -690,21 +690,21 @@ export default function MieSakakibaraAkameWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay" 
+              href="/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">三重・湯の山温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">御在所岳の樹氷ロープウェイと開湯1300年鹿の湯・僧兵鍋名宿</p>
             </Link>
             <Link 
-              href="/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay" 
+              href="/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">三重・鳥羽相差</span>
               <p className="font-bold text-stone-800 line-clamp-2">伊勢志摩の冬の恵み・答志島トロサワラ＆極上松阪牛と美肌露天風呂</p>
             </Link>
             <Link 
-              href="/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay" 
+              href="/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">和歌山・熊野本宮</span>

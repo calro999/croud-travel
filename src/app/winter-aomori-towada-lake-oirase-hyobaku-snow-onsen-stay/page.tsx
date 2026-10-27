@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '青森で過ごす冬の旅（12・1月）！奥入瀬渓流温泉雪見露天！名宿5選',
     description: '冬の青森・奥入瀬渓流と十和田湖は、息を呑むほどの静寂と大自然が創り出す神秘の氷結アート「巨大氷瀑（ひょうばく）」「氷柱」に包まれる白銀の聖地です。',
-    url: 'https://croud-travel.pages.dev/winter-aomori-towada-lake-oirase-hyobaku-snow-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-aomori-towada-lake-oirase-hyobaku-snow-onsen-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -165,7 +165,7 @@ export default function AomoriTowadaOiraseWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-aomori-towada-lake-oirase-hyobaku-snow-onsen-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-aomori-towada-lake-oirase-hyobaku-snow-onsen-stay"
+          "@id": "https://croud-travel.pages.dev/winter-aomori-towada-lake-oirase-hyobaku-snow-onsen-stay/"
         },
         "headline": "【12・1月青森】十和田湖＆奥入瀬渓流！白銀の巨大氷瀑・氷柱ネイチャーツアーと十和田神社初詣・奥入瀬渓流温泉雪見露天＆倉石牛名宿5選",
         "description": "冬の青森・奥入瀬渓流と十和田湖は、息を呑むほどの静寂と大自然が創り出す神秘の氷結アート「巨大氷瀑（ひょうばく）」「氷柱」に包まれる白銀の聖地です。馬門岩や銚子大滝が青白く凍りつく圧倒的な造形美、夜の幻想的な氷瀑ライトアップツアー。決して凍らない神秘の不凍湖・十和田湖と十和田神社の荘厳な新春初詣、名物「十和田バラ焼き」や極上の青森倉石牛の美食。名湯・奥入瀬渓流温泉の雪見露天風呂に浸かり、冬の北東北の真髄を味わう厳選名宿5選を徹底解説します。",
@@ -191,13 +191,13 @@ export default function AomoriTowadaOiraseWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "十和田湖＆奥入瀬渓流冬特集",
-            "item": "https://croud-travel.pages.dev/winter-aomori-towada-lake-oirase-hyobaku-snow-onsen-stay"
+            "item": "https://croud-travel.pages.dev/winter-aomori-towada-lake-oirase-hyobaku-snow-onsen-stay/"
           }
         ]
       },
@@ -617,7 +617,7 @@ export default function AomoriTowadaOiraseWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay"
+              href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-sky-400 block mb-1">八戸・蕪島冬特集</span>
@@ -625,7 +625,7 @@ export default function AomoriTowadaOiraseWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay"
+              href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-sky-400 block mb-1">浅虫温泉冬特集</span>
@@ -633,7 +633,7 @@ export default function AomoriTowadaOiraseWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay"
+              href="/winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-sky-400 block mb-1">八幡平・松川温泉冬特集</span>

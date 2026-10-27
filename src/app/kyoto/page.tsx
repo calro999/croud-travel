@@ -47,7 +47,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "京都旅行 厳選ガイド 2026",
     description: "京都旅行を思い立ったらまず読むハブガイド。1泊2日/2泊3日モデルコース・旅行タイプ別・シチュエーション別・公式おすすめ人気ホテルを完全連結。",
-    url: "https://croud-travel.pages.dev/kyoto",
+    url: "https://croud-travel.pages.dev/kyoto/",
     siteName: "旅宿クラウド",
     type: "article",
   },
@@ -681,7 +681,7 @@ export default function KyotoHubPage() {
             🗾 京都府の観光名所・お土産・地酒ガイドへ
           </Link>
           <Link
-            href="/campaigns"
+            href="/campaigns/"
             className="px-8 py-3 text-xs font-bold text-amber-900 bg-amber-100 hover:bg-amber-200 rounded-xl border border-amber-300 transition"
           >
             🎁 開催中の楽天トラベルキャンペーンを見る

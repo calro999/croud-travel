@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '会津芦ノ牧温泉で過ごす冬の旅（11・12月）！会津馬刺し！名宿5選',
     description: '11月から12月にかけて福島県・会津若松の奥座敷「会津芦ノ牧温泉」は、大川（阿賀川）が何万年もの歳月をかけて刻んだ深い渓谷美「大川羽鳥県立自。',
-    url: 'https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function AshinomakiOnsenWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay"
+          "@id": "https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay/"
         },
         "headline": "【11・12月福島・会津芦ノ牧温泉の大川渓谷初雪絶景と渓流露天】会津馬刺し・極上会津牛＆源泉かけ流し湯めぐりの宿5選",
         "description": "11月から12月にかけて福島県・会津若松の奥座敷「会津芦ノ牧温泉」は、大川（阿賀川）が何万年もの歳月をかけて刻んだ深い渓谷美「大川羽鳥県立自然公園」が初雪で白銀に化粧され、水墨画のような幽玄の冬景色が広がります。千数百年の昔、行基菩薩が開湯したと伝わる名湯は、渓谷の岩肌から自噴する弱アルカリ性低張性高温泉。渓谷に突き出すような迫力満点の棚田風露天風呂や空中露天風呂、極上の赤身が舌先でとろける本場「会津馬刺し」、福島県産黒毛和牛「会津牛」の陶板焼き、会津地酒の初しぼりを味わう厳選名宿5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function AshinomakiOnsenWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "福島・会津芦ノ牧温泉 大川渓谷初雪絶景と渓流露天の宿",
-            "item": "https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay"
+            "item": "https://croud-travel.pages.dev/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay/"
           }
         ]
       },
@@ -580,42 +580,42 @@ export default function AshinomakiOnsenWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay"
+              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">福島・会津東山温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">竹久夢二ゆかりの名湯と雪見滝露天・会津郷土料理の宿</h3>
             </Link>
             <Link 
-              href="/winter-fukushima-bandai-atami-onsen-bihada-swan-stay"
+              href="/winter-fukushima-bandai-atami-onsen-bihada-swan-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">福島・磐梯熱海温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">萩姫伝説の美肌アルカリ泉と猪苗代湖の白鳥・福島牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay"
+              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">栃木・鬼怒川温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">鬼怒川渓谷美と雪景色・日光名物ゆばととちぎ和牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-yamagata-onogawa-yonezawa-beef-stay"
+              href="/winter-yamagata-onogawa-yonezawa-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">山形・小野川温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">小野小町伝説の美肌湯と米沢牛すき焼き・冬のかまくら村の宿</h3>
             </Link>
             <Link 
-              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay"
+              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">宮城・秋保温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">開湯1500年の名湯と名取川渓谷美・仙台牛と仙台せり鍋の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">特集一覧</span>

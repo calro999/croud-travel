@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '津軽西海岸で過ごす冬の旅（11・12月）！冬旬「鰺ヶ沢ヒラメ」！名宿5選',
     description: '11月から12月の初冬、世界自然遺産・白神山地から吹き降ろす寒風と日本海の荒波が打ち寄せる青森県津軽西海岸（鰺ヶ沢町・深浦町）の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-aomori-ajigasawa-fukaura-onsen-hirame-maguro-stay',
+    url: 'https://croud-travel.pages.dev/winter-aomori-ajigasawa-fukaura-onsen-hirame-maguro-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -56,7 +56,7 @@ export default function AomoriAjigasawaFukauraWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-aomori-ajigasawa-fukaura-onsen-hirame-maguro-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-aomori-ajigasawa-fukaura-onsen-hirame-maguro-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -379,7 +379,7 @@ export default function AomoriAjigasawaFukauraWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月津軽西海岸】冬旬「鰺ヶ沢ヒラメ」！名宿5選","item":"https://croud-travel.pages.dev/winter-aomori-ajigasawa-fukaura-onsen-hirame-maguro-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月津軽西海岸】冬旬「鰺ヶ沢ヒラメ」！名宿5選","item":"https://croud-travel.pages.dev/winter-aomori-ajigasawa-fukaura-onsen-hirame-maguro-stay/"}]}) }}
       />
 
         {/* Introduction Section */}
@@ -687,21 +687,21 @@ export default function AomoriAjigasawaFukauraWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay" 
+              href="/winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">青森・大鰐＆弘前</span>
               <p className="font-bold text-stone-800 line-clamp-2">冬限定大鰐温泉もやし鍋と開湯800年の温まり湯・弘前城冬さくらライトアップ</p>
             </Link>
             <Link 
-              href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay" 
+              href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">青森・浅虫温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">津軽の熱の湯と陸奥湾の冬マグロ・津軽三味線が響く老舗宿</p>
             </Link>
             <Link 
-              href="/akita-oga-peninsula-namahage-nyudozaki-stay" 
+              href="/akita-oga-peninsula-namahage-nyudozaki-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">秋田・男鹿半島</span>

@@ -228,7 +228,7 @@ export default function FamilyKanazawaModelCoursePage() {
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs md:text-sm">
           <Link
-            href="/tokyo-kanazawa-bus-vs-shinkansen-guide"
+            href="/tokyo-kanazawa-bus-vs-shinkansen-guide/"
             className="flex items-start gap-2.5 p-3 rounded-xl bg-white border border-emerald-200/60 hover:border-emerald-500 hover:shadow transition group"
           >
             <span className="text-emerald-600 font-bold text-base">🚅</span>
@@ -242,7 +242,7 @@ export default function FamilyKanazawaModelCoursePage() {
             </div>
           </Link>
           <Link
-            href="/kanazawa-travel-budget-guide"
+            href="/kanazawa-travel-budget-guide/"
             className="flex items-start gap-2.5 p-3 rounded-xl bg-white border border-emerald-200/60 hover:border-emerald-500 hover:shadow transition group"
           >
             <span className="text-emerald-600 font-bold text-base">💰</span>
@@ -479,7 +479,7 @@ export default function FamilyKanazawaModelCoursePage() {
       {/* 47都道府県トップへのリンク */}
       <div className="text-center pt-4">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-stone-700 bg-white hover:bg-emerald-50 border border-stone-300 hover:border-emerald-400 px-6 py-3 rounded-2xl transition shadow-sm"
         >
           <span>🗾</span>

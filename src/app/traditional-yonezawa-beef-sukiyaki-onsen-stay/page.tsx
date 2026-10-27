@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '2026年：とろける極上霜降り！A5米沢牛すき焼き会席＆白布・小野川名湯宿5選',
     description: '2026年最新！日本三大和牛「米沢牛」の特選すき焼き・しゃぶしゃぶ会席！開湯千二百年の白布温泉や小野川温泉の源泉掛け流しと山形美食を満喫する名宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/traditional-yonezawa-beef-sukiyaki-onsen-stay',
+    url: 'https://croud-travel.pages.dev/traditional-yonezawa-beef-sukiyaki-onsen-stay/',
   },
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-yonezawa-beef-sukiyaki-onsen-stay/",
@@ -179,7 +179,7 @@ export default function FeatureDetailPage() {
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-amber-600">トップ</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-amber-600">厳選特集一覧</Link>
+          <Link href="/features/" className="hover:text-amber-600">厳選特集一覧</Link>
           <span>&gt;</span>
           <span className="text-slate-800 font-medium truncate max-w-xs sm:max-w-md md:max-w-none">
             A5米沢牛すき焼き会席＆山形名湯源泉掛け流し宿
@@ -556,7 +556,7 @@ export default function FeatureDetailPage() {
         {/* 特集トップへのリンク */}
         <div className="text-center pt-4">
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold px-8 py-4 rounded-2xl shadow-md transition-all"
           >
             <span>他の厳選特集一覧を見る</span>

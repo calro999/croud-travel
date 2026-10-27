@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "見頃！国営ひたち海浜公園コキア紅葉で過ごす冬の旅（10月）！みはらしの丘と勝田・大洗の人気宿5選",
     description: "約4万本のコキアがみはらしの丘を真っ赤に染め上げる国営ひたち海浜公園の秋！勝田駅至近ホテルや大洗海岸のオーシャンビュー温泉宿、水戸の迎賓館ホテルまで厳選5選。",
-    url: 'https://croud-travel.pages.dev/autumn-ibaraki-hitachi-seaside-park-kochia-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-ibaraki-hitachi-seaside-park-kochia-hotels-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -141,7 +141,7 @@ export default function FeaturePage() {
       <nav className="max-w-5xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-500 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
         <Link href="/" className="hover:text-amber-600">ホーム</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <Link href="/features" className="hover:text-amber-600">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-600">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <span className="text-stone-800 font-medium truncate">【10月見頃！国営ひたち海浜公園コキア紅葉】みはらしの丘と勝田・大洗の人気宿5選</span>
       </nav>
@@ -187,8 +187,8 @@ export default function FeaturePage() {
             "@type": "BreadcrumbList",
             "itemListElement": [
               { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev/" },
-              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features" },
-              { "@type": "ListItem", "position": 3, "name": "【10月見頃！国営ひたち海浜公園コキア紅葉】みはらしの丘と勝田・大洗の人気宿5選", "item": "https://croud-travel.pages.dev/autumn-ibaraki-hitachi-seaside-park-kochia-hotels-stay" }
+              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features/" },
+              { "@type": "ListItem", "position": 3, "name": "【10月見頃！国営ひたち海浜公園コキア紅葉】みはらしの丘と勝田・大洗の人気宿5選", "item": "https://croud-travel.pages.dev/autumn-ibaraki-hitachi-seaside-park-kochia-hotels-stay/" }
             ]
           }) }}
         />

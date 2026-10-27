@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '徳島・祖谷温泉で過ごす冬の旅（11・12月）！特選阿波牛！名宿5選',
     description: '11月から12月にかけて四国の霊峰・剣山山系の深山幽谷に抱かれた「徳島・祖谷渓（いやけい）＆大歩危峡（おおぼけきょう）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function IyaOnsenWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay/"
         },
         "headline": "【11・12月徳島・祖谷温泉の日本三大秘境初雪渓谷美と谷底露天風呂】特選阿波牛・名物祖谷そば＆ケーブルカーで行く秘湯の宿5選",
         "description": "11月から12月にかけて四国の霊峰・剣山山系の深山幽谷に抱かれた「徳島・祖谷渓（いやけい）＆大歩危峡（おおぼけきょう）」は、日本三大秘境にふさわしい静寂と、初冠雪の白銀に化粧されたV字渓谷の圧倒的な自然美に包まれます。断崖絶壁から専用ケーブルカーで高低差170mの谷底へ下り、エメラルドグリーンの祖谷川の清流すれすれで浸かる自噴掛け流しの単純硫黄泉。スロープカーで登る天空露天風呂、とろける旨味の極上黒毛和牛「阿波牛」の陶板焼き、香り高い名物「祖谷そば」、囲炉裏の炭火で香ばしく焼き上げる郷土の伝統料理「でこまわし」を満喫する至高の秘湯宿5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function IyaOnsenWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "徳島・祖谷温泉 日本三大秘境の谷底露天風呂と阿波牛の宿",
-            "item": "https://croud-travel.pages.dev/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay"
+            "item": "https://croud-travel.pages.dev/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay/"
           }
         ]
       },
@@ -595,42 +595,42 @@ export default function IyaOnsenWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay"
+              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">愛媛・道後温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">日本最古の名湯と道後温泉本館・名物宇和島鯛めしを味わう名宿</h3>
             </Link>
             <Link 
-              href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay"
+              href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">香川・琴平温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">こんぴらさん初冬参りとおもてなし名湯・特選オリーブ牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay"
+              href="/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">香川・小豆島温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">寒霞渓の初冬絶景パノラマと瀬戸内海夕陽・オリーブ牛陶板焼きの宿</h3>
             </Link>
             <Link 
-              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay"
+              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">和歌山・南紀白浜温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">冬の高級魚クエ鍋フルコースと崎の湯太平洋絶景・万葉名湯の宿</h3>
             </Link>
             <Link 
-              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay"
+              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">京都・湯の花温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">亀岡盆地幻想雲海と名物丹波ぼたん鍋・京都奥座敷の隠れ宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>

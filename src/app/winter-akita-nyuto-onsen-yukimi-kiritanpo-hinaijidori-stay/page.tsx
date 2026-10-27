@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '乳頭温泉郷で過ごす冬の旅（11・12月）！名物きりたんぽ鍋！名宿5選',
     description: '11月から12月にかけて、十和田八幡平国立公園の乳頭山麓に抱かれた秋田県仙北市の「乳頭温泉郷（にゅうとうおんせんきょう）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay',
+    url: 'https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterAkitaNyutoOnsenPage() {
         'headline': "【11・12月秋田・乳頭温泉郷の初冬雪見秘湯】名物きりたんぽ鍋＆比内地鶏・ブナ原生林に湧く七湯の濁り湯を巡る名宿5選",
         'description': "11月から12月にかけて、十和田八幡平国立公園の乳頭山麓に抱かれた秋田県仙北市の「乳頭温泉郷（にゅうとうおんせんきょう）」は、日本中の温泉ファンが息を呑む白銀の秘湯シーズンへと突入します。初雪がブナの原生林を静かに覆い、立ち上る白い湯けむりと乳白色・茶褐色の濁り湯が幻想的なコントラストを描きます。厳しい寒さの中で浸かる雪見露天風呂の開放感はまさに至福。夕食には収穫したての新米あきたこまちを手作業で香ばしく焼き上げた名物「きりたんぽ鍋」や、濃厚なコクと歯ごたえが自慢の「比内地鶏」、郷土の味「山の芋鍋」、初冬に旬を迎えるハタハタ。雪の静寂に包まれる秋田の奥座敷で、心も身体も芯から温まる極上の厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterAkitaNyutoOnsenPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-cyan-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">秋田・乳頭温泉郷</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterAkitaNyutoOnsenPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月乳頭温泉郷】名物きりたんぽ鍋！名宿5選","item":"https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月乳頭温泉郷】名物きりたんぽ鍋！名宿5選","item":"https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay/"}]}) }}
       />
         
         {/* Intro Highlight Box */}
@@ -577,7 +577,7 @@ export default function WinterAkitaNyutoOnsenPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay"
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block">山形・銀山温泉</span>
@@ -590,7 +590,7 @@ export default function WinterAkitaNyutoOnsenPage() {
             </Link>
 
             <Link 
-              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay"
+              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block">岩手・花巻温泉郷</span>
@@ -603,7 +603,7 @@ export default function WinterAkitaNyutoOnsenPage() {
             </Link>
 
             <Link 
-              href="/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay"
+              href="/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block">宮城・鳴子温泉郷</span>

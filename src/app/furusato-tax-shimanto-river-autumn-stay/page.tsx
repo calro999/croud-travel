@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本最後の清流・四万十川の沈下橋紅葉カヌー＆屋形船！四万十天然うなぎ温泉宿×ふるさと納税厳選ガイド高知',
     description: '10月下旬〜11月中旬に山々が色づく「日本最後の清流・四万十川（しまんとがわ）」。佐田沈下橋や岩間沈下橋を望む屋形船遊覧や紅葉カヌー体験、名宿「ホテル星羅四万十」「四万十の宿」「新ロイヤルホテル四万十」で天然四万十うなぎ蒲焼きや戻りガツオの塩タタキ・四万十牛を堪能。ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-shimanto-river-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-shimanto-river-autumn-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">高知・最後の清流四万十川 沈下橋紅葉＆四万十名宿特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

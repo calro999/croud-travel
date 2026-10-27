@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '日本三大ラーメン＆ご当地麺文化・名湯と屋台街の美食宿×ふるさと納税厳選ガイド喜多方・札幌・博多',
     description: '日本三大ご当地ラーメンの聖地巡礼！福島「喜多方ラーメン」飯豊山の伏流水が育む多加水熟成縮れ麺と会津芦ノ牧温泉丸峰観光ホテル、北海道「札幌味噌ラーメン」濃厚ラードと炒め野菜の黄色い縮れ麺とプレミアホテル中島公園札幌、福岡「博多長浜ラーメン」極細ストレート麺と濃厚白濁豚骨スープに屋台街直結エスペリアホテル博多。日本三大ラーメンの旅を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-ramen-capitals-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-ramen-capitals-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -380,7 +380,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-soba-noodles-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-soba-noodles-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大そば＆打ち立て蕎麦の芳香・名水と門前宿×ふるさと納税完全ガイド
               </div>
@@ -389,7 +389,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-udons-gourmet-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-udons-gourmet-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大うどん＆極上出汁・麺匠の技が光る名宿×ふるさと納税完全ガイド
               </div>
@@ -398,7 +398,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-award-winning-breakfast-gourmet-hotel-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-award-winning-breakfast-gourmet-hotel-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税完全ガイド
               </div>

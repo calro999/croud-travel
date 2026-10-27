@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: '都心から電車でわずか約90〜120分、東京都とは思えない大自然と霊峰が広がる奥多摩・青梅の11〜1月冬紀行。',
   keywords: '武蔵御嶽神社 初詣, 御岳山 冬, 氷川渓谷, 鳩ノ巣渓谷, 奥多摩わさび, 秋川牛, 奥多摩の風 はとのす荘, 亀の井ホテル 青梅, おくたま路, 瀬音の湯, 奥多摩温泉 宿泊',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay/'
   },
   openGraph: {
     title: '11・12・1月東京：天空の古社「武蔵御嶽神社」新！名宿5選',
     description: '都心から電車でわずか約90〜120分、東京都とは思えない大自然と霊峰が広がる奥多摩・青梅の11〜1月冬紀行。',
-    url: 'https://croud-travel.pages.dev/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay/',
     type: 'article',
     images: [
       {
@@ -60,7 +60,7 @@ export default function TokyoOkutamaWinterPage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay/"
     }
   };
 
@@ -78,13 +78,13 @@ export default function TokyoOkutamaWinterPage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "東京・奥多摩＆青梅 冬特集",
-        "item": "https://croud-travel.pages.dev/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay"
+        "item": "https://croud-travel.pages.dev/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay/"
       }
     ]
   };
@@ -596,7 +596,7 @@ export default function TokyoOkutamaWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm">
             <Link 
-              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay"
+              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-emerald-400 hover:bg-emerald-50/30 transition block space-y-1"
             >
               <span className="font-bold text-emerald-950 block">【埼玉】秩父神社初詣と長瀞こたつ舟・武州牛名宿</span>
@@ -604,7 +604,7 @@ export default function TokyoOkutamaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay"
+              href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-emerald-400 hover:bg-emerald-50/30 transition block space-y-1"
             >
               <span className="font-bold text-emerald-950 block">【神奈川】箱根神社初詣と芦ノ湖富士山ビュー・箱根温泉名宿</span>
@@ -612,7 +612,7 @@ export default function TokyoOkutamaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay"
+              href="/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-emerald-400 hover:bg-emerald-50/30 transition block space-y-1"
             >
               <span className="font-bold text-emerald-950 block">【群馬】榛名神社初詣と磯部温泉・上州牛すき焼き名宿</span>
@@ -620,7 +620,7 @@ export default function TokyoOkutamaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay"
+              href="/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-emerald-400 hover:bg-emerald-50/30 transition block space-y-1"
             >
               <span className="font-bold text-emerald-950 block">【東京】浅草寺新春初詣とスカイツリー夜景・江戸前寿司名宿</span>
@@ -639,7 +639,7 @@ export default function TokyoOkutamaWinterPage() {
           </p>
           <div className="pt-2 flex flex-wrap justify-center gap-3">
             <Link 
-              href="/features" 
+              href="/features/" 
               className="px-6 py-3 bg-white text-slate-900 hover:bg-slate-100 font-black text-xs md:text-sm rounded-xl shadow transition"
             >
               特集記事一覧を見る

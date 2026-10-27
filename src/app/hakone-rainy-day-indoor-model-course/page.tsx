@@ -550,7 +550,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
-              href="/hakone-travel-budget-guide"
+              href="/hakone-travel-budget-guide/"
               className="group block p-4 rounded-xl bg-slate-900/70 border border-slate-700 hover:border-cyan-500/60 transition-all"
             >
               <span className="text-xs font-bold text-cyan-400 block mb-1">費用シミュレーション 💰</span>
@@ -563,7 +563,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
             </Link>
 
             <Link
-              href="/hakone-daytrip-hotspring-lunch-guide"
+              href="/hakone-daytrip-hotspring-lunch-guide/"
               className="group block p-4 rounded-xl bg-slate-900/70 border border-slate-700 hover:border-cyan-500/60 transition-all"
             >
               <span className="text-xs font-bold text-cyan-400 block mb-1">日帰りプラン ♨️</span>

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '兵庫・香住温泉で過ごす冬の旅（11・12月）！香住松葉ガニ！名宿5選',
     description: '11月6日のカニ漁解禁を迎えると、兵庫県但馬地方の日本海に面した香住海岸（香住港・柴山港）は、一年で最も活気あふれる松葉ガニの最高峰シーズンを迎えます。',
-    url: 'https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay',
+    url: 'https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function KasumiOnsenWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay/"
         },
         "headline": "【11・12月兵庫・香住温泉の初冬日本海と最高峰ブランド蟹】本場柴山ガニ＆香住松葉ガニ・但馬牛ステーキ＆海辺露天の宿5選",
         "description": "11月6日のカニ漁解禁を迎えると、兵庫県但馬地方の日本海に面した香住海岸（香住港・柴山港）は、一年で最も活気あふれる松葉ガニの最高峰シーズンを迎えます。厳しい選別基準で「ピンクタグ」が付けられるブランド蟹の頂点「柴山がに」、香住港に水揚げされる新鮮な「香住松葉がに」、濃厚な内子と外子を味わう親ガニ「セコガニ」、そして最高峰黒毛和牛「但馬牛」の贅沢な饗宴。海辺に湧く塩化物温泉で潮風を感じながら身体の芯まで温まり、荒波打ち寄せる山陰海岸ジオパークの雄大な冬景色と極上のカニフルコースを満喫する至高の宿5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function KasumiOnsenWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "兵庫・香住温泉 最高峰柴山ガニと松葉ガニの宿",
-            "item": "https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay"
+            "item": "https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay/"
           }
         ]
       },
@@ -580,42 +580,42 @@ export default function KasumiOnsenWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">兵庫・城崎温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">7つの外湯めぐりと冬の松葉ガニ・但馬牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-kyoto-amanohashidate-matsuba-crab-stay"
+              href="/winter-kyoto-amanohashidate-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">京都・天橋立</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">日本三景の雪景色と幻の間人ガニ・宮津湾の寒ブリの宿</h3>
             </Link>
             <Link 
-              href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay"
+              href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">福井・三国温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">皇室献上越前ガニと東尋坊夕日・日本海絶景露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">鳥取・三朝温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">世界屈指のラジウム温泉と鳥取松葉ガニ・鳥取和牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-toyama-shogawa-onsen-snow-cruise-crab-stay"
+              href="/winter-toyama-shogawa-onsen-snow-cruise-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">富山・庄川温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">雪見庄川峡遊覧船と富山湾紅ズワイガニ・寒ブリ・白えびの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">特集一覧</span>

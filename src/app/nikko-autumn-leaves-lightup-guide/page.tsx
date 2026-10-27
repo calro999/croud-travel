@@ -495,7 +495,7 @@ export default function NikkoAutumnLeavesGuidePage() {
           </h2>
           <div className="grid sm:grid-cols-2 gap-4">
             <Link
-              href="/nikko-chuzenji-car-free-travel-guide"
+              href="/nikko-chuzenji-car-free-travel-guide/"
               className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-500 hover:shadow transition group"
             >
               <span className="text-xs text-amber-700 font-bold block mb-1">車なし観光ガイド</span>
@@ -508,7 +508,7 @@ export default function NikkoAutumnLeavesGuidePage() {
             </Link>
 
             <Link
-              href="/tokyo-sendai-bus-vs-shinkansen-guide"
+              href="/tokyo-sendai-bus-vs-shinkansen-guide/"
               className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-500 hover:shadow transition group"
             >
               <span className="text-xs text-amber-700 font-bold block mb-1">東日本交通比較</span>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '山口・湯田温泉出張：白狐伝説の名湯・露天風呂サウナ・本場とらふく会席！県都ビジネスを豊かにととのえる厳選3宿',
     description: '新山口駅からJR山口線で約20分！中原中也ゆかりの庭園露天風呂と自家源泉を誇る名門「ユウベルホテル松政」、全室源泉かけ流し露天風呂付きの最高峰リトリート「古稀庵」、名物女将劇場と6つの湯めぐりが楽しい「西の雅 常盤」を楽天APIデータに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/yamaguchi-yuda-solo-business-onsen-gourmet-stay',
+    url: 'https://croud-travel.pages.dev/yamaguchi-yuda-solo-business-onsen-gourmet-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T16:30:00+09:00',
     dateModified: '2026-10-19T16:30:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/yamaguchi-yuda-solo-business-onsen-gourmet-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/yamaguchi-yuda-solo-business-onsen-gourmet-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【山口・湯田温泉出張】白狐伝説の名湯・露天風呂サウナ・本場とらふく会席！県都ビジネスを豊かにととのえる厳選3宿","item":"https://croud-travel.pages.dev/yamaguchi-yuda-solo-business-onsen-gourmet-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【山口・湯田温泉出張】白狐伝説の名湯・露天風呂サウナ・本場とらふく会席！県都ビジネスを豊かにととのえる厳選3宿","item":"https://croud-travel.pages.dev/yamaguchi-yuda-solo-business-onsen-gourmet-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

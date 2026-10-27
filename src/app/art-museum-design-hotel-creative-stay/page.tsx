@@ -228,7 +228,7 @@ export default function WomenSoloRetreatHubPage() {
       {/* 47都道府県トップへのリンク */}
       <div className="text-center pt-8">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-rose-950 bg-white hover:bg-rose-50 border border-rose-200 px-8 py-3.5 rounded-2xl transition shadow-sm"
         >
           <span>🗾</span>

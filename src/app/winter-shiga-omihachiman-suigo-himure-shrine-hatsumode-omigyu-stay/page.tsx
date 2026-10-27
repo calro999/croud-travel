@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: '近江商人の誇りが息づく重伝建の町並みと琵琶湖の冬景色！11〜1月は白壁土蔵や八幡堀の石垣が静寂な冬の空気に包まれ。',
   keywords: '近江八幡 水郷めぐり, こたつ舟 近江八幡, 日牟禮八幡宮 初詣, 八幡山ロープウェー, 近江牛 すき焼き, 宮ヶ浜温泉, 休暇村 近江八幡, ホテルニューオウミ, たねやつぶら餅, 滋賀 冬 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-shiga-omihachiman-suigo-himure-shrine-hatsumode-omigyu-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-shiga-omihachiman-suigo-himure-shrine-hatsumode-omigyu-stay/'
   },
   openGraph: {
     title: '11・12・1月滋賀：極上近江牛すき焼き！名宿5選',
     description: '近江商人の誇りが息づく重伝建の町並みと琵琶湖の冬景色！11〜1月は白壁土蔵や八幡堀の石垣が静寂な冬の空気に包まれ。',
-    url: 'https://croud-travel.pages.dev/winter-shiga-omihachiman-suigo-himure-shrine-hatsumode-omigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shiga-omihachiman-suigo-himure-shrine-hatsumode-omigyu-stay/',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -57,7 +57,7 @@ export default function ShigaOmihachimanWinterFeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-shiga-omihachiman-suigo-himure-shrine-hatsumode-omigyu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-shiga-omihachiman-suigo-himure-shrine-hatsumode-omigyu-stay/"
     }
   };
 
@@ -75,13 +75,13 @@ export default function ShigaOmihachimanWinterFeaturePage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "滋賀・近江八幡 冬のこたつ舟と日牟禮八幡宮初詣",
-        "item": "https://croud-travel.pages.dev/winter-shiga-omihachiman-suigo-himure-shrine-hatsumode-omigyu-stay"
+        "item": "https://croud-travel.pages.dev/winter-shiga-omihachiman-suigo-himure-shrine-hatsumode-omigyu-stay/"
       }
     ]
   };
@@ -275,7 +275,7 @@ export default function ShigaOmihachimanWinterFeaturePage() {
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-amber-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-amber-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-amber-600 transition">特集一覧</Link>
             <span>/</span>
             <span className="text-stone-800 font-medium">滋賀・近江八幡 冬のこたつ舟と日牟禮八幡宮初詣</span>
           </div>
@@ -560,28 +560,28 @@ export default function ShigaOmihachimanWinterFeaturePage() {
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               <Link 
-                href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay"
+                href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-amber-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【滋賀】長浜・太閤温泉＆湖北の冬旅</div>
                 <p className="text-stone-500">湖北の冬の風物詩「天然真鴨鍋」と竹生島クルーズ・長浜黒壁スクエア名宿</p>
               </Link>
               <Link 
-                href="/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay"
+                href="/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-amber-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【滋賀】比叡山延暦寺＆おごと温泉</div>
                 <p className="text-stone-500">世界遺産・不滅の法灯新春初詣と琵琶湖一望の美肌露天・近江牛会席名宿</p>
               </Link>
               <Link 
-                href="/winter-kyoto-arashiyama-onsen-yudofu-stay"
+                href="/winter-kyoto-arashiyama-onsen-yudofu-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-amber-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【京都】嵐山温泉＆名物湯豆腐の冬散策</div>
                 <p className="text-stone-500">渡月橋雪景色と嵯峨野竹林の小径・老舗湯豆腐と嵐山天然温泉名宿</p>
               </Link>
               <Link 
-                href="/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay"
+                href="/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-amber-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【福井】敦賀・気比神宮初詣＆越前蟹</div>
@@ -590,7 +590,7 @@ export default function ShigaOmihachimanWinterFeaturePage() {
             </div>
             <div className="mt-6 text-center">
               <Link 
-                href="/features"
+                href="/features/"
                 className="inline-flex items-center gap-1.5 text-xs font-bold text-amber-600 hover:text-amber-700 transition"
               >
                 全国の冬特集・温泉宿泊ガイド一覧を見る →

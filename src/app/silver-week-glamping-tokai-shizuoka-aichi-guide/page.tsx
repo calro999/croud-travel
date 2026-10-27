@@ -169,13 +169,13 @@ export default function SilverWeekGlampingTokaiShizuokaAichiPage() {
           </div>
           <div className="flex flex-wrap items-center gap-2">
             <Link
-              href="/nagoya-departure-daytrip-bus-tour-guide"
+              href="/nagoya-departure-daytrip-bus-tour-guide/"
               className="inline-flex items-center text-xs font-bold text-orange-900 bg-white border border-orange-300 hover:bg-orange-600 hover:text-white px-3.5 py-1.5 rounded-xl shadow-xs transition"
             >
               名古屋発日帰りバスツアー特集 →
             </Link>
             <Link
-              href="/atami-izu-travel-budget-guide"
+              href="/atami-izu-travel-budget-guide/"
               className="inline-flex items-center text-xs font-bold text-orange-900 bg-white border border-orange-300 hover:bg-orange-600 hover:text-white px-3.5 py-1.5 rounded-xl shadow-xs transition"
             >
               熱海・伊豆旅行の費用＆予算節約術 →

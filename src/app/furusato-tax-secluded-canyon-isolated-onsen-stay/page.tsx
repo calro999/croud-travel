@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・祖谷・みちのく深山の完全遮断リトリート',
     description: '携帯の電波も届かない大自然の懐へ。黒部峡谷鉄道トロッコの終着点、日本三大秘境・祖谷のかずら橋とケーブルカー露天風呂、東北深山のブナ原生林に佇む秘湯一軒宿を楽天ふるさと納税宿泊クーポンでお得に予約する自然回帰の旅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-secluded-canyon-isolated-onsen-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-secluded-canyon-isolated-onsen-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -51,7 +51,7 @@ export default function FurusatoTaxPage() {
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
           <Link href="/" className="hover:text-amber-400 transition">ホーム</Link>
           <span>/</span>
-          <Link href="/posts" className="hover:text-amber-400 transition">宿泊ガイド一覧</Link>
+          <Link href="/posts/" className="hover:text-amber-400 transition">宿泊ガイド一覧</Link>
           <span>/</span>
           <span className="text-slate-200">秘境渓谷・深山一軒宿特集</span>
         </div>
@@ -543,7 +543,7 @@ export default function FurusatoTaxPage() {
             
               <Link
                 key="0"
-                href="/furusato-tax-secret-hotspring-lamp-retreat-stay"
+                href="/furusato-tax-secret-hotspring-lamp-retreat-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
                 <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
@@ -556,7 +556,7 @@ export default function FurusatoTaxPage() {
             
               <Link
                 key="1"
-                href="/furusato-tax-waterfall-river-gorge-healing-onsen-stay"
+                href="/furusato-tax-waterfall-river-gorge-healing-onsen-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
                 <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
@@ -569,7 +569,7 @@ export default function FurusatoTaxPage() {
             
               <Link
                 key="2"
-                href="/furusato-tax-solo-retreat-private-onsen-stay"
+                href="/furusato-tax-solo-retreat-private-onsen-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
                 <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">

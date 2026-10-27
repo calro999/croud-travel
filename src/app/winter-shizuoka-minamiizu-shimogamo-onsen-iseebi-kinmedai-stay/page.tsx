@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '南伊豆＆下賀茂温泉で過ごす冬の旅（11・12月）！旬の伊勢海老姿造り！名宿5選',
     description: '11月から12月にかけて寒風が吹き始める本州において、黒潮が洗う伊豆半島最南端の「南伊豆・下賀茂温泉＆弓ヶ浜」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-shizuoka-minamiizu-shimogamo-onsen-iseebi-kinmedai-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-minamiizu-shimogamo-onsen-iseebi-kinmedai-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -56,7 +56,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-shizuoka-minamiizu-shimogamo-onsen-iseebi-kinmedai-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-shizuoka-minamiizu-shimogamo-onsen-iseebi-kinmedai-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -379,7 +379,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月南伊豆＆下賀茂温泉】旬の伊勢海老姿造り！名宿5選","item":"https://croud-travel.pages.dev/winter-shizuoka-minamiizu-shimogamo-onsen-iseebi-kinmedai-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月南伊豆＆下賀茂温泉】旬の伊勢海老姿造り！名宿5選","item":"https://croud-travel.pages.dev/winter-shizuoka-minamiizu-shimogamo-onsen-iseebi-kinmedai-stay/"}]}) }}
       />
 
         {/* Introduction Section */}
@@ -727,7 +727,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay"
+              href="/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-md">静岡・伊豆長岡温泉</span>
@@ -737,7 +737,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
             </Link>
 
             <Link
-              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay"
+              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-md">静岡・熱海温泉</span>
@@ -747,7 +747,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
             </Link>
 
             <Link
-              href="/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay"
+              href="/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-md">静岡・稲取温泉</span>
@@ -757,7 +757,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
             </Link>
 
             <Link
-              href="/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay"
+              href="/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-md">静岡・西伊豆堂ヶ島温泉</span>
@@ -767,7 +767,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
             </Link>
 
             <Link
-              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay"
+              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-md">静岡・修善寺温泉</span>
@@ -777,7 +777,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
             </Link>
 
             <Link
-              href="/features"
+              href="/features/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2 flex flex-col justify-center items-center text-center"
             >
               <span className="text-xs font-bold text-teal-700">全国の旬の温泉特集一覧へ</span>

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月長野：国宝善光寺「お朝事」初詣！名宿5選',
     description: '11月から1月、信州の冬は静謐と祈りに満ちた神聖な季節を迎えます。樹齢400年を超える杉並木が一面の雪化粧に包まれる日本屈指の聖地「戸隠神社。',
-    url: 'https://croud-travel.pages.dev/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -63,7 +63,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay/'
     }
   };
 
@@ -81,13 +81,13 @@ export default function NaganoTogakushiZenkojiWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '戸隠神社＆善光寺 白銀古道と冬の新そば・初詣名宿',
-        item: 'https://croud-travel.pages.dev/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay'
+        item: 'https://croud-travel.pages.dev/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay/'
       }
     ]
   };
@@ -641,7 +641,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-nagano-shibu-onsen-nine-sotoyu-stay" 
+              href="/winter-nagano-shibu-onsen-nine-sotoyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">長野・渋温泉</span>
@@ -651,7 +651,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay" 
+              href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">長野・白馬</span>
@@ -661,7 +661,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay" 
+              href="/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">長野・阿智村</span>
@@ -671,7 +671,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay" 
+              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">三重・伊勢神宮</span>
@@ -681,7 +681,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay" 
+              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">群馬・草津温泉</span>
@@ -691,7 +691,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay" 
+              href="/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">徳島・祖谷渓谷</span>

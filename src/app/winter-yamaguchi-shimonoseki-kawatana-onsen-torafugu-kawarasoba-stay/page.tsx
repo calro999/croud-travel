@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '山口・下関と川棚温泉で過ごす冬の旅（11・12月）！関門海峡！名宿5選',
     description: '11月から12月にかけて、本州最西端に位置する山口県下関市および響灘沿いの名湯「川棚温泉（かわたなおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function YamaguchiShimonosekiWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay/"
         },
         "headline": "【11・12月山口・下関と川棚温泉の本場とらふぐ解禁美食と元祖瓦そば】関門海峡・響灘夕景＆開湯八百年ラジウム美肌泉の宿5選",
         "description": "11月から12月にかけて、本州最西端に位置する山口県下関市および響灘沿いの名湯「川棚温泉（かわたなおんせん）」は、冬の味覚の最高峰「本場とらふぐ（下関ふく）」が最も身を引き締め、濃厚な旨味を蓄える年間最高のハイシーズンを迎えます。日本屈指のふぐ水揚げを誇る南風泊港から届く極上の天然・厳選とらふぐは、職人技が光る繊細な菊盛りの「てっさ」、身がぷりぷりの「てっちり」、香ばしい「ひれ酒」で五感を満たします。さらに熱々の日本瓦で茶そばを焼き上げる名物「元祖瓦そば」、毛利侯の隠れ湯として愛された開湯800年の名湯ラジウム泉。関門海峡と響灘の絶景夕日に癒やされる、初冬の下関・川棚の厳選名旅館・ホテル5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function YamaguchiShimonosekiWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "山口・下関と川棚温泉 本場とらふぐ解禁美食と元祖瓦そばの宿",
-            "item": "https://croud-travel.pages.dev/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay"
+            "item": "https://croud-travel.pages.dev/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay/"
           }
         ]
       },
@@ -551,42 +551,42 @@ export default function YamaguchiShimonosekiWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay"
+              href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">山口・長門湯本温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">音信川の冬灯りと長州黒かしわ・開湯六百年美肌恩湯の宿</h3>
             </Link>
             <Link 
-              href="/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay"
+              href="/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">山口・萩温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">世界遺産の城下町情緒と見蘭牛・日本海地魚会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay"
+              href="/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">島根・出雲大社周辺</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">神在月参拝と初冬解禁日本海の幸・しまね和牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay"
+              href="/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">福岡・博多温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">本場水炊き・もつ鍋と天然温泉・冬の屋台めぐりステイ</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay"
+              href="/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">兵庫・赤穂温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">11月解禁坂越牡蠣と瀬戸内夕景・絶景インフィニティ露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay"
+              href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">徳島・鳴門温泉</span>

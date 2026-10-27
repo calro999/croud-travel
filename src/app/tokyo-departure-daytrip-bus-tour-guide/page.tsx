@@ -489,7 +489,7 @@ export default function TokyoDepartureDaytripBusTourPage() {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
-              href="/tokyo-fujikawaguchiko-highway-bus-guide"
+              href="/tokyo-fujikawaguchiko-highway-bus-guide/"
               className="p-4 bg-white rounded-2xl border border-slate-200 hover:border-emerald-500 hover:shadow-sm transition duration-150 flex items-center justify-between group"
             >
               <div>
@@ -500,7 +500,7 @@ export default function TokyoDepartureDaytripBusTourPage() {
               </div>
             </Link>
             <Link
-              href="/tokyo-kusatsu-onsen-highway-bus-guide"
+              href="/tokyo-kusatsu-onsen-highway-bus-guide/"
               className="p-4 bg-white rounded-2xl border border-slate-200 hover:border-emerald-500 hover:shadow-sm transition duration-150 flex items-center justify-between group"
             >
               <div>

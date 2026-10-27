@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '東京・銀座をふるさと納税でお得に旅する！歌舞伎座・ショッピング＆極上スカイビュー！大人の銀座ステイ特集｜三井ガーデン銀座プレミア・ミレニアム・モントレ',
     description: '日本一の格式とハイブランドが輝く街・東京都中央区「銀座」を楽天ふるさと納税でお得に贅沢ステイ！銀座随一の高層眺望とビューバスを誇る「三井ガーデンホテル銀座プレミア」、銀座四丁目交差点・歌舞伎座徒歩すぐの「ミレニアム 三井ガーデンホテル 東京」、パリのアパルトマン風「ホテルモントレ銀座」を徹底比較。中央区ふるさと納税トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-tokyo-ginza-luxury-shopping-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-tokyo-ginza-luxury-shopping-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T01:10:00+09:00',
     dateModified: '2026-10-19T01:10:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-tokyo-ginza-luxury-shopping-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-tokyo-ginza-luxury-shopping-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【東京・銀座×ふるさと納税】歌舞伎座・ショッピング＆極上スカイビュー！大人の銀座ステイ特集｜三井ガーデン銀座プレミア・ミレニアム・モントレ","item":"https://croud-travel.pages.dev/furusato-tax-tokyo-ginza-luxury-shopping-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【東京・銀座×ふるさと納税】歌舞伎座・ショッピング＆極上スカイビュー！大人の銀座ステイ特集｜三井ガーデン銀座プレミア・ミレニアム・モントレ","item":"https://croud-travel.pages.dev/furusato-tax-tokyo-ginza-luxury-shopping-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【東京・銀座×ふるさと納税】歌舞伎座・ショッピング＆極上スカイビュー！大人の銀座ステイ特集｜三井ガーデン銀座プレミア・ミレニアム・モントレ</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-kyoto-station-luxury-convenience-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-kyoto-station-luxury-convenience-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 京都駅直結 新幹線直結＆抜群のアクセス名門ホテル特集
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-tokyo-station-marunouchi-luxury-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-tokyo-station-marunouchi-luxury-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 東京駅・丸の内 重要文化財駅舎＆皇居ビュー名門ホテル特集
               </Link>
             </li>

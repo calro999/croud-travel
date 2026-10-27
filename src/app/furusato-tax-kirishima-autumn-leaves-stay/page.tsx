@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '国宝・霧島神宮の厳かな紅葉参道＆えびの高原大パノラマ！湯けむり霧島温泉宿×ふるさと納税厳選ガイド鹿児島',
     description: '11月上旬〜11月下旬に見頃を迎える「国宝・霧島神宮（きりしまじんぐう）」と「えびの高原」。朱塗りの本殿と真紅のモミジの荘厳なコントラスト、14の源泉と日本屈指の巨大硫黄温泉を持つ「霧島ホテル」「こまつ」「竹千代 霧島別邸」で鹿児島黒豚しゃぶしゃぶや極上黒毛和牛・薩摩地鶏を堪能。ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kirishima-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kirishima-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">鹿児島・霧島神宮 国宝社殿紅葉＆霧島温泉郷名湯旅館特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

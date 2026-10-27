@@ -15,12 +15,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: '【全室離れ客室露天風呂と相模湾絶景オーシャンビュー】2026-2027年11-12月初冬の静岡・伊豆高原！最高峰ABBA RESORTS坐漁荘＆お宿うち山・極上地金目鯛と伊勢海老・しずおか和牛を味わう大人の記念日ラグジュアリー名宿5選',
     description: '都心から特急でわずか2時間、相模湾と伊豆大島を望む静岡屈指のリゾート地・伊豆高原。初冬の澄んだ大気のもと、全室に趣の異なる源泉掛け流し専用露天風呂を備えた極上の離れ宿で過ごす至福の時間。世界基準のおもてなしを誇る名門宿から、海を見晴らす高台のプライベートスイートまで。冬に脂が乗る極上地金目鯛の煮付けや活伊勢海老、しずおか和牛を堪能する大人の記念日名宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-shizuoka-izukogen-luxury-hanare-roten-zagyoso-kinmedai-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-izukogen-luxury-hanare-roten-zagyoso-kinmedai-stay/',
     type: 'article',
     siteName: 'クラウドトラベル',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-shizuoka-izukogen-luxury-hanare-roten-zagyoso-kinmedai-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-shizuoka-izukogen-luxury-hanare-roten-zagyoso-kinmedai-stay/',
   },
 };
 
@@ -46,13 +46,13 @@ export default function LuxuryWinterFeaturePage() {
                   "@type": "ListItem",
                   "position": 2,
                   "name": "特集一覧",
-                  "item": "https://croud-travel.pages.dev/features"
+                  "item": "https://croud-travel.pages.dev/features/"
                 },
                 {
                   "@type": "ListItem",
                   "position": 3,
                   "name": "【全室離れ客室露天風呂と相模湾絶景オーシャンビュー】2026-2027年11-12月初冬の静岡・伊豆高原！最高峰ABBA RESORTS坐漁荘＆お宿うち山・極上地金目鯛と伊勢海老・しずおか和牛を味わう大人の記念日ラグジュアリー名宿5選",
-                  "item": "https://croud-travel.pages.dev/winter-shizuoka-izukogen-luxury-hanare-roten-zagyoso-kinmedai-stay"
+                  "item": "https://croud-travel.pages.dev/winter-shizuoka-izukogen-luxury-hanare-roten-zagyoso-kinmedai-stay/"
                 }
               ]
             },
@@ -95,7 +95,7 @@ export default function LuxuryWinterFeaturePage() {
         <div className="max-w-5xl mx-auto flex items-center gap-1.5 flex-wrap">
           <Link href="/" className="hover:text-slate-800 transition">ホーム</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
-          <Link href="/features" className="hover:text-slate-800 transition">特集一覧</Link>
+          <Link href="/features/" className="hover:text-slate-800 transition">特集一覧</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
           <span className="text-slate-800 font-medium truncate max-w-xs">【全室離れ客室露天風呂と相模湾絶景オーシャンビュー】2026-2027年11-12月初冬の静岡・伊豆高原！最高峰ABBA RESORTS坐漁荘＆お宿うち山・極上地金目鯛と伊勢海老・しずおか和牛を味わう大人の記念日ラグジュアリー名宿5選</span>
         </div>

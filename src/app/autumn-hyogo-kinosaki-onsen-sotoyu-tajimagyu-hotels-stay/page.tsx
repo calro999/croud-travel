@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "秋の浴衣散歩と七つの外湯！城崎温泉：極上但馬牛と老舗・有形文化財の名旅館5選",
     description: "柳並木と太鼓橋が続く風情あふれる城崎温泉！名物「七つの外湯巡り」を浴衣と下駄で楽しみ、世界の舌を魅了する但馬牛や旬の日本海グルメを味わうおすすめ名宿5選。",
-    url: 'https://croud-travel.pages.dev/autumn-hyogo-kinosaki-onsen-sotoyu-tajimagyu-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-hyogo-kinosaki-onsen-sotoyu-tajimagyu-hotels-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -141,7 +141,7 @@ export default function FeaturePage() {
       <nav className="max-w-5xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-500 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
         <Link href="/" className="hover:text-amber-600">ホーム</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <Link href="/features" className="hover:text-amber-600">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-600">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <span className="text-stone-800 font-medium truncate">【秋の浴衣散歩と七つの外湯！城崎温泉】極上但馬牛と老舗・有形文化財の名旅館5選</span>
       </nav>
@@ -187,8 +187,8 @@ export default function FeaturePage() {
             "@type": "BreadcrumbList",
             "itemListElement": [
               { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev/" },
-              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features" },
-              { "@type": "ListItem", "position": 3, "name": "【秋の浴衣散歩と七つの外湯！城崎温泉】極上但馬牛と老舗・有形文化財の名旅館5選", "item": "https://croud-travel.pages.dev/autumn-hyogo-kinosaki-onsen-sotoyu-tajimagyu-hotels-stay" }
+              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features/" },
+              { "@type": "ListItem", "position": 3, "name": "【秋の浴衣散歩と七つの外湯！城崎温泉】極上但馬牛と老舗・有形文化財の名旅館5選", "item": "https://croud-travel.pages.dev/autumn-hyogo-kinosaki-onsen-sotoyu-tajimagyu-hotels-stay/" }
             ]
           }) }}
         />

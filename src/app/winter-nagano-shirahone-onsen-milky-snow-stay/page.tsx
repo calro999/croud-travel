@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '白骨温泉で過ごす冬の旅（11・12月）！3日入れば3年風邪ひかぬ霊泉！名宿5選',
     description: '北アルプス乗鞍岳の山懐、標高1,400メートルの深い原生林に抱かれた日本屈指の秘湯「白骨温泉」。「3日入れば3年風邪をひかない」と謳われる乳。',
-    url: 'https://croud-travel.pages.dev/winter-nagano-shirahone-onsen-milky-snow-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-shirahone-onsen-milky-snow-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -84,7 +84,7 @@ export default function ShirahoneWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-nagano-shirahone-onsen-milky-snow-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-shirahone-onsen-milky-snow-stay/"
         }
       },
       {
@@ -300,7 +300,7 @@ export default function ShirahoneWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月白骨温泉】3日入れば3年風邪ひかぬ霊泉！名宿5選","item":"https://croud-travel.pages.dev/winter-nagano-shirahone-onsen-milky-snow-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月白骨温泉】3日入れば3年風邪ひかぬ霊泉！名宿5選","item":"https://croud-travel.pages.dev/winter-nagano-shirahone-onsen-milky-snow-stay/"}]}) }}
       />
         
         {/* Intro */}
@@ -699,42 +699,42 @@ export default function ShirahoneWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-nagano-shibu-onsen-nine-sotoyu-stay"
+              href="/winter-nagano-shibu-onsen-nine-sotoyu-stay/"
               className="bg-teal-900/80 hover:bg-teal-900 p-4 rounded-2xl transition border border-teal-800/50 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">長野・渋温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">渋温泉 九つの外湯巡りと石畳雪景色の宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
+              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"
               className="bg-teal-900/80 hover:bg-teal-900 p-4 rounded-2xl transition border border-teal-800/50 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">長野・野沢温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">野沢温泉 極上パウダースノーと13の外湯巡りの宿</h3>
             </Link>
             <Link 
-              href="/winter-gifu-okuhida-onsen-yukimi-roten-stay"
+              href="/winter-gifu-okuhida-onsen-yukimi-roten-stay/"
               className="bg-teal-900/80 hover:bg-teal-900 p-4 rounded-2xl transition border border-teal-800/50 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">岐阜・奥飛騨</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">奥飛騨温泉郷 北アルプス雪見露天と飛騨牛炉端焼きの宿</h3>
             </Link>
             <Link 
-              href="/winter-gunma-manza-snow-milky-hotspring-stay"
+              href="/winter-gunma-manza-snow-milky-hotspring-stay/"
               className="bg-teal-900/80 hover:bg-teal-900 p-4 rounded-2xl transition border border-teal-800/50 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">群馬・万座</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">万座温泉 標高1800mの白濁硫黄泉と粉雪パノラマの宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-achimura-hirugami-starry-sky-stay"
+              href="/winter-nagano-achimura-hirugami-starry-sky-stay/"
               className="bg-teal-900/80 hover:bg-teal-900 p-4 rounded-2xl transition border border-teal-800/50 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">長野・阿智昼神</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">昼神温泉 日本一の星空ナイトツアーと美肌湯の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-teal-900/80 hover:bg-teal-900 p-4 rounded-2xl transition border border-teal-800/50 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>

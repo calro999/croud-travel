@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: 'エメラルドグリーンの大海原に浮かぶ白砂の天国「はての浜」の冬クルーズ！冬に旬の最盛期を迎える「久米島産極上活車海老」の踊り食いや塩焼き、海洋深層水温浴スパで心身を解きほぐす至高の南国冬リゾート5選。',
   keywords: ['沖縄県冬旅行', '久米島・はての浜', '冬温泉', '2026', '2027', '雪景色', '冬の味覚', '楽天トラベル', 'ふるさと納税'],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-okinawa-kumejima-hatenohama-kurumaebi-ocean-resort-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-okinawa-kumejima-hatenohama-kurumaebi-ocean-resort-stay/',
   },
   openGraph: {
     title: '冬の静寂はての浜と日本一の車海老三昧：2026-2027年冬の久米島！海洋深層水スパと絶景リゾートホテル5選',
     description: 'エメラルドグリーンの大海原に浮かぶ白砂の天国「はての浜」の冬クルーズ！冬に旬の最盛期を迎える「久米島産極上活車海老」の踊り食いや塩焼き、海洋深層水温浴スパで心身を解きほぐす至高の南国冬リゾート5選。',
-    url: 'https://croud-travel.pages.dev/winter-okinawa-kumejima-hatenohama-kurumaebi-ocean-resort-stay',
+    url: 'https://croud-travel.pages.dev/winter-okinawa-kumejima-hatenohama-kurumaebi-ocean-resort-stay/',
     siteName: 'クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
 
 export default function WinterFeaturePage() {
   const faqJsonLd = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "冬でも「はての浜」へのツアーは催行されていますか？", "acceptedAnswer": {"@type": "Answer", "text": "はい、冬期も毎日ツアー船が運航されています（泊フィッシャリーナ発）。冬は北風の影響で海況が荒れる日もありますが、天候が穏やかな日は夏以上の驚異的な透明度を誇るエメラルドグリーンの絶景に出会えます。防風ジャケットを着用して参加するのがおすすめです。"}}, {"@type": "Question", "name": "久米島名物の「車海老」はどこで食べられますか？", "acceptedAnswer": {"@type": "Answer", "text": "久米島島内の多くの居酒屋やホテル内レストラン、車海老養殖場直営の食事処で堪能できます。特に11月から1月は活車海老の出荷最盛期のため、刺身（踊り食い）、塩焼き、天ぷら、車海老ドッグなど多彩な料理を味わえます。島内の人気店は予約が必須です。"}}, {"@type": "Question", "name": "冬の久米島で海に入ることはできますか？", "acceptedAnswer": {"@type": "Answer", "text": "ウェットスーツを着用すれば、冬でもシュノーケリングやダイビングが十分に楽しめます。冬の久米島近海はプランクトンが少なく透明度が30mを超える日も多く、マンタやウミガメとの遭遇率も高まります。海水浴ではなく温浴を楽しみたい方は、海洋深層水を利用したホテルの大浴場やスパが最適です。"}}]};
-  const breadcrumbJsonLd = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev"}, {"@type": "ListItem", "position": 2, "name": "沖縄県の観光・温泉宿", "item": "https://croud-travel.pages.dev/prefectures/okinawa"}, {"@type": "ListItem", "position": 3, "name": "【冬の静寂はての浜と日本一の車海老三昧】2026-2027年冬の久米島！海洋深層水スパと絶景リゾートホテル5選", "item": "https://croud-travel.pages.dev/winter-okinawa-kumejima-hatenohama-kurumaebi-ocean-resort-stay"}]};
+  const breadcrumbJsonLd = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev"}, {"@type": "ListItem", "position": 2, "name": "沖縄県の観光・温泉宿", "item": "https://croud-travel.pages.dev/prefectures/okinawa"}, {"@type": "ListItem", "position": 3, "name": "【冬の静寂はての浜と日本一の車海老三昧】2026-2027年冬の久米島！海洋深層水スパと絶景リゾートホテル5選", "item": "https://croud-travel.pages.dev/winter-okinawa-kumejima-hatenohama-kurumaebi-ocean-resort-stay/"}]};
 
   return (
     <>
@@ -593,15 +593,15 @@ export default function WinterFeaturePage() {
                 <span>沖縄県のおすすめ観光名所＆温泉宿一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/features" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/features/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>全国の季節・目的別旅行特集一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>実質2,000円で泊まる名湯・高級温泉旅館ガイド</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-local-gourmet-inn-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-local-gourmet-inn-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>ご当地グルメを堪能する全国美食旅特集</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>

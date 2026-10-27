@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '熊本・天草五橋＆崎津集落：世界遺産海の天主堂・イルカ遭遇＆車海老宿 厳選ガイド',
     description: '世界文化遺産「長崎と天草地方の潜伏キリシタン関連遺産」の象徴・海の天主堂「崎津集落」、天草五橋（天草パールライン）の絶景シーサイドドライブ、通年98％の遭遇率を誇る「野生のミナミハンドウイルカウォッチング」、本場天草車海老と地魚宿を徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/kumamoto-amakusa-sakitsu-dolphin-islands-stay',
+    url: 'https://croud-travel.pages.dev/kumamoto-amakusa-sakitsu-dolphin-islands-stay/',
   },
 };
 

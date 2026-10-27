@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '伊香保温泉をふるさと納税でお得に旅する！石段街の風情＆名湯「黄金の湯・白銀の湯」！老舗温泉宿特集｜福一・森秋旅館・千明仁泉亭',
     description: '365段の石段街が有名な名湯・群馬県伊香保温泉を楽天ふるさと納税でお得に満喫！創業440年の最高峰老舗「福一」、石段街徒歩1分・黄金の湯掛け流しの「森秋旅館」、文豪徳富蘆花ゆかりの源泉宿「千明仁泉亭」を徹底比較。上州牛会席や渋川市トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-ishidan-golden-bath-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-ishidan-golden-bath-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T16:35:00+09:00',
     dateModified: '2026-10-19T16:35:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-ishidan-golden-bath-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-ishidan-golden-bath-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【伊香保温泉×ふるさと納税】石段街の風情＆名湯「黄金の湯・白銀の湯」！老舗温泉宿特集｜福一・森秋旅館・千明仁泉亭","item":"https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-ishidan-golden-bath-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【伊香保温泉×ふるさと納税】石段街の風情＆名湯「黄金の湯・白銀の湯」！老舗温泉宿特集｜福一・森秋旅館・千明仁泉亭","item":"https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-ishidan-golden-bath-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【伊香保温泉×ふるさと納税】石段街の風情＆名湯「黄金の湯・白銀の湯」！老舗温泉宿特集｜福一・森秋旅館・千明仁泉亭</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-beginners-complete-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-beginners-complete-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 超初心者向け ふるさと納税で旅行に安く泊まるマニュアル
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-gora-onsen-private-roten-luxury-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-gora-onsen-private-roten-luxury-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 箱根強羅温泉 全室客室露天風呂付き極上宿特集
               </Link>
             </li>

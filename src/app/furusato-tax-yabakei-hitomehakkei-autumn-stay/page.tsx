@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば',
     description: '10月下旬〜11月中旬に奇岩巨峰と紅葉が織りなす耶馬渓・一目八景。湯けむり立ち上る別府鉄輪温泉の老舗宿で、源泉かけ流し露天風呂と豊後水道の極上ブランド魚「関あじ・関さば」「おおいた和牛」をふるさと納税で堪能。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-yabakei-hitomehakkei-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-yabakei-hitomehakkei-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-yabakei-hitomehakkei-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-yabakei-hitomehakkei-autumn-stay/"
   };
 
   const faqSchema = {
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-yabakei-hitomehakkei-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-yabakei-hitomehakkei-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

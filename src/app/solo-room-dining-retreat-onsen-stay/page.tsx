@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'おひとりさま部屋食温泉宿：夕食・朝食をお部屋で贅沢に！誰にも邪魔されない極上おこもりひとり旅宿 厳選3選',
     description: '「周りの目を気にせず、浴衣のままマイペースに部屋食を楽しみたい」「静寂の中で名湯をひとり占めしたい」というソロトラベラーへ。草津温泉の老舗「望雲」、四万川の清流を望む「四万温泉 豊島屋」、箱根湯本駅徒歩すぐで川沿いの部屋食が自慢の「箱根水明荘」を徹底特集。おひとりさま歓迎の贅沢ステイガイド。',
-    url: 'https://croud-travel.pages.dev/solo-room-dining-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/solo-room-dining-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T02:20:00+09:00',
     dateModified: '2026-10-19T02:20:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/solo-room-dining-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/solo-room-dining-retreat-onsen-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【おひとりさま部屋食温泉宿】夕食・朝食をお部屋で贅沢に！誰にも邪魔されない極上おこもりひとり旅宿 厳選3選","item":"https://croud-travel.pages.dev/solo-room-dining-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【おひとりさま部屋食温泉宿】夕食・朝食をお部屋で贅沢に！誰にも邪魔されない極上おこもりひとり旅宿 厳選3選","item":"https://croud-travel.pages.dev/solo-room-dining-retreat-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

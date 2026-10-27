@@ -368,31 +368,31 @@ export default function Page() {
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <Link
-              href="/barrel-sauna-wood-stove-nature-totonoi-resort-stay"
+              href="/barrel-sauna-wood-stove-nature-totonoi-resort-stay/"
               className="px-4 py-2 bg-white text-stone-800 rounded-full text-xs md:text-sm font-semibold hover:bg-emerald-100 border border-stone-300 transition shadow-sm"
             >
               🪵🔥 本格バレルサウナ＆薪ストーブ
             </Link>
             <Link
-              href="/panoramic-view-sauna-fuji-ocean-lake-resort-stay"
+              href="/panoramic-view-sauna-fuji-ocean-lake-resort-stay/"
               className="px-4 py-2 bg-white text-stone-800 rounded-full text-xs md:text-sm font-semibold hover:bg-emerald-100 border border-stone-300 transition shadow-sm"
             >
               🗻🌅 富士・海・夜景パノラマサウナ
             </Link>
             <Link
-              href="/pure-natural-spring-water-bath-totonoi-onsen-stay"
+              href="/pure-natural-spring-water-bath-totonoi-onsen-stay/"
               className="px-4 py-2 bg-white text-stone-800 rounded-full text-xs md:text-sm font-semibold hover:bg-emerald-100 border border-stone-300 transition shadow-sm"
             >
               💧🧖‍♂️ 地下天然水・飲める名水水風呂
             </Link>
             <Link
-              href="/herbal-steam-ayurveda-detox-wellness-stay"
+              href="/herbal-steam-ayurveda-detox-wellness-stay/"
               className="px-4 py-2 bg-white text-stone-800 rounded-full text-xs md:text-sm font-semibold hover:bg-emerald-100 border border-stone-300 transition shadow-sm"
             >
               🌿🧘‍♀️ 薬草蒸し＆アーユルヴェーダ
             </Link>
             <Link
-              href="/private-room-sauna-luxury-villa-retreat-stay"
+              href="/private-room-sauna-luxury-villa-retreat-stay/"
               className="px-4 py-2 bg-white text-stone-800 rounded-full text-xs md:text-sm font-semibold hover:bg-emerald-100 border border-stone-300 transition shadow-sm"
             >
               🚪✨ 客室専用サウナ＆貸切ヴィラ

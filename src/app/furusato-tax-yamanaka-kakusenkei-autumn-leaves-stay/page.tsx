@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '芭蕉が愛した名湯！加賀・山中温泉の鶴仙渓紅葉＆あやとり橋散策と温泉宿×ふるさと納税厳選ガイド石川',
     description: '11月上旬〜11月下旬に見頃を迎える加賀温泉郷「山中温泉・鶴仙渓（かくせんけい）」。あやとり橋やこおろぎ橋を包む錦秋渓谷、鶴仙渓川床で味わう道場六三郎レシピのスイーツ、開湯1300年の名湯宿「かがり吉祥亭」「吉祥やまなか」「白鷺湯たわらや」で11月解禁の加能ガニ・香箱ガニや能登牛を堪能。ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-yamanaka-kakusenkei-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-yamanaka-kakusenkei-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">加賀温泉郷・山中温泉 鶴仙渓遊歩道紅葉＆川床名湯宿特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '秋田出張＆美酒ひとり旅：秋田駅直結・天然温泉大浴場・比内地鶏きりたんぽ鍋！酒どころ秋田を満喫する極上ホテル 厳選3選',
     description: '秋田新幹線こまち停車・北東北の美酒王国「秋田」！「JR秋田駅直結で快適なワーク環境を誇る」の「ホテルメトロポリタン秋田」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「中通温泉 こまちの湯 ドーミーイン秋田」、千秋公園のお堀端に佇む格式ある迎賓館「秋田キャッスルホテル」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/akita-solo-business-kiritanpo-onsen-stay',
+    url: 'https://croud-travel.pages.dev/akita-solo-business-kiritanpo-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T15:40:00+09:00',
     dateModified: '2026-10-19T15:40:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/akita-solo-business-kiritanpo-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/akita-solo-business-kiritanpo-onsen-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【秋田出張＆美酒ひとり旅】秋田駅直結・天然温泉大浴場・比内地鶏きりたんぽ鍋！酒どころ秋田を満喫する極上ホテル 厳選3選","item":"https://croud-travel.pages.dev/akita-solo-business-kiritanpo-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【秋田出張＆美酒ひとり旅】秋田駅直結・天然温泉大浴場・比内地鶏きりたんぽ鍋！酒どころ秋田を満喫する極上ホテル 厳選3選","item":"https://croud-travel.pages.dev/akita-solo-business-kiritanpo-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

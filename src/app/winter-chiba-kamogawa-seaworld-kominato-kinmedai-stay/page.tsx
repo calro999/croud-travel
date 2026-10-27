@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月千葉：房総伊勢海老！名宿5選',
     description: '11月から1月、南房総・外房鴨川は温暖な黒潮の影響を受け、真冬でも穏やかな気候の中で冬の海絶景を満喫できる関東随一の避寒地です。',
-    url: 'https://croud-travel.pages.dev/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay',
+    url: 'https://croud-travel.pages.dev/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function ChibaKamogawaKominatoWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '外房鴨川＆小湊温泉特集',
-        item: 'https://croud-travel.pages.dev/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay'
+        item: 'https://croud-travel.pages.dev/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay/'
       }
     ]
   };
@@ -652,7 +652,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay" 
+              href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-blue-800 font-bold text-xs block mb-1">千葉・銚子犬吠埼</span>
@@ -662,7 +662,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay" 
+              href="/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-blue-800 font-bold text-xs block mb-1">神奈川・三浦城ヶ島</span>
@@ -672,7 +672,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay" 
+              href="/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-blue-800 font-bold text-xs block mb-1">静岡・伊豆稲取</span>
@@ -682,7 +682,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay" 
+              href="/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-blue-800 font-bold text-xs block mb-1">静岡・下田温泉</span>
@@ -692,7 +692,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay" 
+              href="/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-blue-800 font-bold text-xs block mb-1">茨城・袋田の滝</span>
@@ -702,7 +702,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
             </Link>
 
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-stone-100 border border-stone-200 hover:border-blue-400 transition-all group flex flex-col justify-center text-center"
             >
               <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors">

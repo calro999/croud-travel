@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '老神温泉で過ごす冬の旅（11・12月）！赤城山北麓！名宿5選',
     description: '11月中旬から12月の初冬を迎えた群馬県沼田市の利根町、老神温泉（おいがみおんせん）は、赤城山と日光白根山に挟まれた片品川の深い渓谷に佇み。',
-    url: 'https://croud-travel.pages.dev/winter-gunma-oigami-onsen-fukiware-joshugyu-soba-stay',
+    url: 'https://croud-travel.pages.dev/winter-gunma-oigami-onsen-fukiware-joshugyu-soba-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -56,7 +56,7 @@ export default function GunmaOigamiWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-gunma-oigami-onsen-fukiware-joshugyu-soba-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-gunma-oigami-onsen-fukiware-joshugyu-soba-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -379,7 +379,7 @@ export default function GunmaOigamiWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月老神温泉】赤城山北麓！名宿5選","item":"https://croud-travel.pages.dev/winter-gunma-oigami-onsen-fukiware-joshugyu-soba-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月老神温泉】赤城山北麓！名宿5選","item":"https://croud-travel.pages.dev/winter-gunma-oigami-onsen-fukiware-joshugyu-soba-stay/"}]}) }}
       />
 
         {/* Introduction Section */}
@@ -663,21 +663,21 @@ export default function GunmaOigamiWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay" 
+              href="/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">千葉・養老渓谷</span>
               <p className="font-bold text-stone-800 line-clamp-2">本州一遅い初冬の紅葉と美肌黒湯天然温泉・房総かずさ和牛＆猪鍋名宿</p>
             </Link>
             <Link 
-              href="/winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay" 
+              href="/winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">長野・戸倉上山田</span>
               <p className="font-bold text-stone-800 line-clamp-2">善光寺精進落としの美肌硫黄泉と極上信州プレミアム牛＆完熟サンふじ名宿</p>
             </Link>
             <Link 
-              href="/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay" 
+              href="/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">宮城・遠刈田温泉</span>

@@ -403,7 +403,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
           <h2 className="text-xs font-bold uppercase tracking-wider text-emerald-300">関連記事・あわせて読みたい東北アクセスガイド</h2>
           <div>
             <Link
-              href="/tokyo-aomori-bus-vs-shinkansen-guide"
+              href="/tokyo-aomori-bus-vs-shinkansen-guide/"
               className="p-5 rounded-2xl bg-stone-900/80 border border-emerald-800/60 hover:border-amber-400/50 transition block group shadow"
             >
               <div className="flex items-center gap-2 text-amber-400 text-xs font-bold mb-1">

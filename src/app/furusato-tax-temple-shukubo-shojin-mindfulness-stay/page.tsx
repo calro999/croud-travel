@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '古刹宿坊＆本格精進料理ステイ×ふるさと納税厳選ガイド高野山・善光寺・京都寺院のマインドフルネス旅',
     description: '朝のお勤め、写経、瞑想体験、そして伝統の美と健康を支える精進料理！世界遺産高野山や信州善光寺、京都の寺院宿坊を楽天ふるさと納税宿泊クーポンでお得に予約する心洗われるリトリートガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-temple-shukubo-shojin-mindfulness-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-temple-shukubo-shojin-mindfulness-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -51,7 +51,7 @@ export default function FurusatoTaxPage() {
         <div className="max-w-6xl mx-auto flex items-center gap-2 overflow-x-auto whitespace-nowrap">
           <Link href="/" className="hover:text-amber-400 transition">ホーム</Link>
           <span>/</span>
-          <Link href="/posts" className="hover:text-amber-400 transition">宿泊ガイド一覧</Link>
+          <Link href="/posts/" className="hover:text-amber-400 transition">宿泊ガイド一覧</Link>
           <span>/</span>
           <span className="text-slate-200">宿坊・精進料理リトリート特集</span>
         </div>
@@ -694,7 +694,7 @@ export default function FurusatoTaxPage() {
             
               <Link
                 key="0"
-                href="/furusato-tax-ise-kumano-sacred-power-spot-stay"
+                href="/furusato-tax-ise-kumano-sacred-power-spot-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
                 <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
@@ -707,7 +707,7 @@ export default function FurusatoTaxPage() {
             
               <Link
                 key="1"
-                href="/furusato-tax-secret-hotspring-lamp-retreat-stay"
+                href="/furusato-tax-secret-hotspring-lamp-retreat-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
                 <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">
@@ -720,7 +720,7 @@ export default function FurusatoTaxPage() {
             
               <Link
                 key="2"
-                href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay"
+                href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-slate-950/60 border border-slate-800/80 hover:border-amber-500/50 transition group"
               >
                 <div className="font-bold text-amber-400 group-hover:text-amber-300 transition text-sm mb-1 line-clamp-1">

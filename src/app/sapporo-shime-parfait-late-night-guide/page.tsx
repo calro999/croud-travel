@@ -505,14 +505,14 @@ export default function SapporoShimeParfaitLateNightGuidePage() {
             </h3>
             <div className="flex flex-col sm:flex-row justify-center items-center gap-4">
               <Link
-                href="/hokkaido-travel-budget-plan"
+                href="/hokkaido-travel-budget-plan/"
                 className="text-xs sm:text-sm font-semibold text-teal-400 hover:text-teal-300 underline underline-offset-4"
               >
                 【北海道旅行 費用】札幌・小樽2泊3日の総額予算シミュレーション
               </Link>
               <span className="hidden sm:inline text-slate-600">|</span>
               <Link
-                href="/hokkaido-winter-shoes-clothing-mistakes-guide"
+                href="/hokkaido-winter-shoes-clothing-mistakes-guide/"
                 className="text-xs sm:text-sm font-semibold text-teal-400 hover:text-teal-300 underline underline-offset-4"
               >
                 【北海道の冬服装】転ばないスノーブーツ＆夜間防寒着の選び方

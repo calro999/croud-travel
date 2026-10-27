@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '日本三大竹林＆風にそよぐ緑の回廊・静寂の美林と風雅名宿×ふるさと納税厳選ガイド嵯峨野・報国寺・さつま町',
     description: '風の音と竹葉のささやきに包まれる禅の空間！京都嵐山「嵯峨野・竹林の小径」平安貴族の美意識と嵐山温泉渡月亭、神奈川鎌倉「報国寺（竹の寺）」千本の孟宗竹と鎌倉パークホテル、鹿児島北薩摩「さつま町竹林」日本一の竹林面積と四季の杜紫尾庵。日本三大竹林の幻想的な緑の回廊と風雅な宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-bamboo-groves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-bamboo-groves-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -380,7 +380,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-beautiful-forests-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-beautiful-forests-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大美林＆森林浴・天然木アロマ温泉宿×ふるさと納税完全ガイド
               </div>
@@ -389,7 +389,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-daimyo-gardens-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-daimyo-gardens-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大名園＆大名庭園風雅宿×ふるさと納税完全ガイド
               </div>
@@ -398,7 +398,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-private-villa-hanare-hideaway-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-private-villa-hanare-hideaway-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 全室離れの隠れ家おこもり宿×極上プライベートヴィラふるさと納税完全ガイド
               </div>

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '激流ラフティング＆清流キャニオニング・水上アクティビティ宿×ふるさと納税厳選ガイドみなかみ利根川・吉野川・仁淀川',
     description: '大自然のウォータースライダー！群馬「みなかみ利根川」関東屈指の激流ラフティングと水上温泉郷渓流露天風呂、徳島「吉野川小歩危」世界選手権開催の日本最高峰激流と祖谷秘境リゾート、高知「仁淀川」奇跡の仁淀ブルーパックラフト・カヤック体験と土佐あかうし会席。スリルと爽快感あふれるリバーアドベンチャーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-whitewater-rafting-canyoning-adventure-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-whitewater-rafting-canyoning-adventure-stay/',
     siteName: 'トラベル総合ナビ',
     locale: 'ja_JP',
     type: 'article',
@@ -650,7 +650,7 @@ export default function Page() {
             
             <Link
               key="0"
-              href="/furusato-tax-three-great-rapids-river-activity-stay"
+              href="/furusato-tax-three-great-rapids-river-activity-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -663,7 +663,7 @@ export default function Page() {
             
             <Link
               key="1"
-              href="/furusato-tax-emerald-valley-gorge-hot-spring-stay"
+              href="/furusato-tax-emerald-valley-gorge-hot-spring-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -676,7 +676,7 @@ export default function Page() {
             
             <Link
               key="2"
-              href="/furusato-tax-river-activity-canoe-fishing-resort-stay"
+              href="/furusato-tax-river-activity-canoe-fishing-resort-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">

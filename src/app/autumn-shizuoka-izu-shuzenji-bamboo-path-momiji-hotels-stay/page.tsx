@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の伊豆・修善寺温泉：竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選「2026最新」',
     description: '「伊豆の小京都」修善寺温泉の竹林の小径と桂川に架かる朱塗りの橋を彩る鮮やかな紅葉。歴史薫る名旅館5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-shizuoka-izu-shuzenji-bamboo-path-momiji-hotels-stay/',
   }
 };
 

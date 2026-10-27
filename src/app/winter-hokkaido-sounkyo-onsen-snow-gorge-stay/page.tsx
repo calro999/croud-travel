@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '北海道・層雲峡温泉で過ごす冬の旅（11・12月）！名湯硫黄泉！名宿5選',
     description: '11月から12月にかけて、北海道屋根・大雪山連峰の麓に位置する層雲峡温泉は、巨大な柱状節理の断崖絶壁が白銀に染まり。',
-    url: 'https://croud-travel.pages.dev/winter-hokkaido-sounkyo-onsen-snow-gorge-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-sounkyo-onsen-snow-gorge-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function HokkaidoSounkyoWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-hokkaido-sounkyo-onsen-snow-gorge-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-hokkaido-sounkyo-onsen-snow-gorge-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hokkaido-sounkyo-onsen-snow-gorge-stay/"
         },
         "headline": "【11・12月北海道・層雲峡温泉の初冬峡谷美と大雪山雪見露天】名湯硫黄泉＆上川十勝牛・オホーツク冬海鮮会席の宿5選",
         "description": "11月から12月にかけて、北海道屋根・大雪山連峰の麓に位置する層雲峡温泉は、巨大な柱状節理の断崖絶壁が白銀に染まり、水墨画のような渓谷美が広がる初冬の雪景色を迎えます。厳冬期の氷瀑まつり本番前のこの時期は、静寂に包まれた峡谷でゆったりと雪見露天を満喫できる絶好の隠れシーズン。冷えた身体を芯から温める単純硫黄泉の湯けむり、地元・上川町産ポークやジューシーな十勝牛、オホーツク海直送の冬の味覚を心ゆくまで堪能する厳選温泉ホテル・名旅館5選を徹底ガイドします。",
@@ -100,13 +100,13 @@ export default function HokkaidoSounkyoWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "北海道・層雲峡温泉 初冬の峡谷雪景色と雪見露天・十勝牛会席の宿",
-            "item": "https://croud-travel.pages.dev/winter-hokkaido-sounkyo-onsen-snow-gorge-stay"
+            "item": "https://croud-travel.pages.dev/winter-hokkaido-sounkyo-onsen-snow-gorge-stay/"
           }
         ]
       },
@@ -595,42 +595,42 @@ export default function HokkaidoSounkyoWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-hokkaido-toyako-onsen-lakeview-illumination-stay"
+              href="/winter-hokkaido-toyako-onsen-lakeview-illumination-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">北海道・洞爺湖温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">初冬イルミネーションと冠雪羊蹄山絶景・インフィニティ露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay"
+              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">北海道・登別温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">白銀の地獄谷と名湯九泉・初冬雪見露天風呂の宿</h3>
             </Link>
             <Link 
-              href="/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay"
+              href="/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">北海道・ニセコ温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">極上パウダースノーと羊蹄山ビュー露天・美食リゾートの宿</h3>
             </Link>
             <Link 
-              href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay"
+              href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">青森・浅虫温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">陸奥湾の初冬夕景と肉厚ホタテ・津軽三味線ライブの宿</h3>
             </Link>
             <Link 
-              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay"
+              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">秋田・乳頭温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">秘湯白濁の湯とブナ原生林の雪景色・比内地鶏きりたんぽ鍋の宿</h3>
             </Link>
             <Link 
-              href="/winter-zao-snow-monster-ice-tree-stay"
+              href="/winter-zao-snow-monster-ice-tree-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">山形・蔵王温泉</span>

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三大美港＆客船クルーズ・ウォーターフロント名門ホテル×ふるさと納税厳選ガイド神戸・横浜・長崎',
     description: '開港の歴史とエキゾチックな港町パノラマ！兵庫「神戸港」メリケンパークのハーバービューと最高級神戸牛鉄板焼き、神奈川「横浜港」みなとみらいベイブリッジ夜景とクラシックホテル、長崎「長崎港」稲佐山から見下ろす1000万ドル夜景と南蛮卓袱料理。日本三大美港のベイサイドステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-ports-waterfront-luxury-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-ports-waterfront-luxury-stay/',
     siteName: 'トラベル総合ナビ',
     locale: 'ja_JP',
     type: 'article',
@@ -774,7 +774,7 @@ export default function Page() {
             
             <Link
               key="0"
-              href="/furusato-tax-three-major-night-view-luxury-hotel-stay"
+              href="/furusato-tax-three-major-night-view-luxury-hotel-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -787,7 +787,7 @@ export default function Page() {
             
             <Link
               key="1"
-              href="/furusato-tax-oceanfront-wave-sound-healing-stay"
+              href="/furusato-tax-oceanfront-wave-sound-healing-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -800,7 +800,7 @@ export default function Page() {
             
             <Link
               key="2"
-              href="/furusato-tax-morning-market-hamayaki-seafood-inn-stay"
+              href="/furusato-tax-morning-market-hamayaki-seafood-inn-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">

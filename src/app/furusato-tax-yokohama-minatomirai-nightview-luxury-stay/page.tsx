@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '大観覧車とベイブリッジの煌めく夜景！横浜みなとみらい夜景ラグジュアリーホテル×ふるさと納税極上旅ガイドPier8・グランドインターコンチ・ベイ東急',
     description: 'きらめく大観覧車「コスモクロック21」と東京湾・横浜港のパノラマ夜景！「インターコンチネンタル横浜Pier 8」「ヨコハマ グランド インターコンチネンタル ホテル」「横浜ベイホテル東急」を、神奈川県横浜市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。ルーフトップテラス、全室バルコニー付き客室、クラブフロアで至高の記念日ステイ。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-yokohama-minatomirai-nightview-luxury-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-yokohama-minatomirai-nightview-luxury-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoYokohamaNightviewStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">横浜みなとみらい夜景ホテル特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoYokohamaNightviewStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-atami-ocean-view-fireworks-hotel-stay"
+            href="/furusato-tax-atami-ocean-view-fireworks-hotel-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【熱海花火大会特等席＆オーシャンビュー温泉宿×ふるさと納税】特等席鑑賞
           </Link>
           <Link
-            href="/furusato-tax-tokyo-disney-resort-official-hotel-stay"
+            href="/furusato-tax-tokyo-disney-resort-official-hotel-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【東京ディズニーリゾート公式ホテル×ふるさと納税】舞浜直結オフィシャル
           </Link>
           <Link
-            href="/furusato-tax-all-inclusive-free-drinks-alcohol-stay"
+            href="/furusato-tax-all-inclusive-free-drinks-alcohol-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【お酒飲み放題オールインクルーシブ宿×ふるさと納税】贅沢ラウンジステイ
           </Link>
           <Link
-            href="/furusato-tax-hakone-onsen-open-air-bath-stay"
+            href="/furusato-tax-hakone-onsen-open-air-bath-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【箱根湯本名湯温泉＆大露天風呂宿×ふるさと納税】ロマンスカー直通名宿

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の富山×格安：立山連峰の三段紅葉と富山湾の白えび・紅ズワイガニ！天然温泉付き1泊4,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
     description: '立山連峰の三段紅葉と富山湾の海の幸！天然温泉付き1泊4,000円〜6,000円台の富山コスパ最強ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-budget-toyama-tateyama-kurobe-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-toyama-tateyama-kurobe-onsen-hotels-stay/',
   }
 };
 

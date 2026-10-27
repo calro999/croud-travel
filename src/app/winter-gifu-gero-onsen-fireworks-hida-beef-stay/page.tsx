@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "下呂温泉の冬花火ミュージカルで過ごす冬の旅（11・12月）！日本三名泉の美肌湯ととろける飛騨牛会席宿5選",
     description: "12月の毎週土曜夜に冬空を華麗に染める「下呂温泉花火ミュージカル冬公演」。日本三名泉が誇るpH9超えのとろとろ美肌の湯に浸かり、冬の飛騨川のせせらぎを聴きながら最高ランクの飛騨牛朴葉味噌焼きや会席料理に舌鼓を打つ、心温まる冬の岐阜温泉旅。",
-    url: 'https://croud-travel.pages.dev/winter-gifu-gero-onsen-fireworks-hida-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-gifu-gero-onsen-fireworks-hida-beef-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function GeroWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-gifu-gero-onsen-fireworks-hida-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function GeroWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月下呂温泉の冬花火ミュージカル】日本三名泉の美肌湯ととろける飛騨牛会席宿5選","item":"https://croud-travel.pages.dev/winter-gifu-gero-onsen-fireworks-hida-beef-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月下呂温泉の冬花火ミュージカル】日本三名泉の美肌湯ととろける飛騨牛会席宿5選","item":"https://croud-travel.pages.dev/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -796,7 +796,7 @@ export default function GeroWinterPage() {
           {/* 関連特集リンクカード */}
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
             <Link 
-              href="/winter-shirakawago-gassho-snow-illumination-stay"
+              href="/winter-shirakawago-gassho-snow-illumination-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-amber-50/60 border border-stone-200 hover:border-amber-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-sky-800 bg-sky-100/80 px-2 py-0.5 rounded">岐阜冬特集</span>
@@ -809,7 +809,7 @@ export default function GeroWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-mie-nabana-no-sato-illumination-stay"
+              href="/winter-mie-nabana-no-sato-illumination-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-amber-50/60 border border-stone-200 hover:border-amber-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-rose-800 bg-rose-100/80 px-2 py-0.5 rounded">東海イルミ特集</span>
@@ -822,7 +822,7 @@ export default function GeroWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-atami-fireworks-ocean-view-stay"
+              href="/winter-atami-fireworks-ocean-view-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-amber-50/60 border border-stone-200 hover:border-amber-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">冬花火特集</span>

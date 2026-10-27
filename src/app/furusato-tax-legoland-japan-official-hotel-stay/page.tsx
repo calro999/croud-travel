@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '子どもが主役の夢の国！レゴランド・ジャパン公式ホテル＆名古屋ファミリー名宿×ふるさと納税極上旅ガイドレゴランドホテル・マリオット・ベッセル',
     description: 'レゴブロックの世界に泊まる感動体験！パークエントランス目の前の公式「レゴランド・ジャパン・ホテル」、JR名古屋駅直結の高級パートナー「名古屋マリオットアソシアホテル」、18歳以下添い寝無料で大人気の「ベッセルホテルカンパーナ名古屋」を、愛知県名古屋市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-legoland-japan-official-hotel-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-legoland-japan-official-hotel-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoLegolandOfficialHotelStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">レゴランド公式＆名古屋ホテル特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoLegolandOfficialHotelStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-indoor-pool-kids-family-resort-stay"
+            href="/furusato-tax-indoor-pool-kids-family-resort-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【一年中泳げる室内温水プール宿×ふるさと納税】那須・草津・別府リゾート
           </Link>
           <Link
-            href="/furusato-tax-tokyo-disney-resort-official-hotel-stay"
+            href="/furusato-tax-tokyo-disney-resort-official-hotel-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【東京ディズニーリゾート公式ホテル×ふるさと納税】舞浜直結オフィシャル
           </Link>
           <Link
-            href="/furusato-tax-usj-osaka-official-partner-hotel-stay"
+            href="/furusato-tax-usj-osaka-official-partner-hotel-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【USJ公式オフィシャルホテル×ふるさと納税】パーク徒歩圏・天然温泉
           </Link>
           <Link
-            href="/furusato-tax-themepark-aquarium-family-hotel-stay"
+            href="/furusato-tax-themepark-aquarium-family-hotel-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【テーマパーク＆水族館満喫ホテル×ふるさと納税】家族旅行におすすめの宿

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月茨城：日本三名瀑！名宿5選',
     description: '11月から1月、茨城県北部の奥久慈大子町は凛冽な冷気に包まれ、日本三名瀑「袋田の滝」が純白の氷壁へと変貌を遂げる「氷瀑（ひょうばく）」のシー。',
-    url: 'https://croud-travel.pages.dev/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay',
+    url: 'https://croud-travel.pages.dev/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function IbarakiFukurodaIceWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function IbarakiFukurodaIceWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '袋田の滝氷瀑＆奥久慈温泉郷特集',
-        item: 'https://croud-travel.pages.dev/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay'
+        item: 'https://croud-travel.pages.dev/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay/'
       }
     ]
   };
@@ -652,7 +652,7 @@ export default function IbarakiFukurodaIceWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay" 
+              href="/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">栃木・足利＆佐野</span>
@@ -662,7 +662,7 @@ export default function IbarakiFukurodaIceWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay" 
+              href="/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">福島・岳温泉</span>
@@ -672,7 +672,7 @@ export default function IbarakiFukurodaIceWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay" 
+              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">埼玉・秩父温泉</span>
@@ -682,7 +682,7 @@ export default function IbarakiFukurodaIceWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay" 
+              href="/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">栃木・那須板室</span>
@@ -692,7 +692,7 @@ export default function IbarakiFukurodaIceWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay" 
+              href="/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">群馬・草津温泉</span>
@@ -702,7 +702,7 @@ export default function IbarakiFukurodaIceWinterPage() {
             </Link>
 
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-stone-100 border border-stone-200 hover:border-cyan-400 transition-all group flex flex-col justify-center text-center"
             >
               <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors">

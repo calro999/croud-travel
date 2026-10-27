@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税厳選ガイド三保松原・虹の松原・気比の松原',
     description: '白砂青松の絶景パノラマ！静岡「三保松原」富士山を仰ぎ見る世界遺産の羽衣伝説リゾート、佐賀「虹の松原」唐津湾に弧を描く100万本の黒松林と呼子イカ・唐津城下町名旅館、福井「気比の松原」敦賀湾の茜色夕景と敦賀真鯛・若狭カニ会席。日本の伝統美を誇る海浜リゾートを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-pine-groves-ocean-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-pine-groves-ocean-stay/',
     siteName: 'トラベル総合ナビ',
     locale: 'ja_JP',
     type: 'article',
@@ -708,7 +708,7 @@ export default function Page() {
             
             <Link
               key="0"
-              href="/furusato-tax-three-scenic-views-heritage-stay"
+              href="/furusato-tax-three-scenic-views-heritage-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -721,7 +721,7 @@ export default function Page() {
             
             <Link
               key="1"
-              href="/furusato-tax-oceanfront-wave-sound-healing-stay"
+              href="/furusato-tax-oceanfront-wave-sound-healing-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -734,7 +734,7 @@ export default function Page() {
             
             <Link
               key="2"
-              href="/furusato-tax-sunset-ocean-magic-hour-stay"
+              href="/furusato-tax-sunset-ocean-magic-hour-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月大阪：住吉大社新春初詣！名宿5選',
     description: '冬の大阪は、全長4kmに及ぶ世界最大級の御堂筋イルミネーションや中之島「OSAKA光のルネサンス」が街を眩く彩り。',
-    url: 'https://croud-travel.pages.dev/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay',
+    url: 'https://croud-travel.pages.dev/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay/',
     type: 'article'
   }
 };
@@ -159,13 +159,13 @@ export default function OsakaCityWinterFeaturePage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "【11・12・1月大阪】冬の大阪・住吉大社新春初詣＆御堂筋イルミネーション！本場てっちりと煌めく夜景・天然温泉に寛ぐ名宿5選",
-            "item": 'https://croud-travel.pages.dev/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay'
+            "item": 'https://croud-travel.pages.dev/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay/'
           }
         ]
       },
@@ -268,7 +268,7 @@ export default function OsakaCityWinterFeaturePage() {
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-amber-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-amber-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-amber-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">冬の大阪・住吉大社＆イルミネーション特集</li>
         </ol>
@@ -564,42 +564,42 @@ export default function OsakaCityWinterFeaturePage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-kyoto-arashiyama-onsen-yudofu-stay" 
+              href="/winter-kyoto-arashiyama-onsen-yudofu-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-amber-700 mb-1">京都・嵐山温泉と湯豆腐</div>
               <div className="text-slate-500 text-xs">渡月橋雪景色と竹林の小径・老舗京会席の名宿</div>
             </Link>
             <Link 
-              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay" 
+              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-amber-700 mb-1">有馬温泉の金泉・銀泉と神戸牛</div>
               <div className="text-slate-500 text-xs">日本最古の名湯と極上鉄板焼き・六甲山の冬景色</div>
             </Link>
             <Link 
-              href="/winter-hyogo-himeji-castle-shoshasan-hatsumode-oyster-banshubee-stay" 
+              href="/winter-hyogo-himeji-castle-shoshasan-hatsumode-oyster-banshubee-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-amber-700 mb-1">姫路城冬景色＆播磨灘の旬牡蠣</div>
               <div className="text-slate-500 text-xs">白鷺城の冬晴れと書写山圓教寺初詣・極上播州牛</div>
             </Link>
             <Link 
-              href="/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay" 
+              href="/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-amber-700 mb-1">奈良・長谷寺の冬牡丹と大神神社初詣</div>
               <div className="text-slate-500 text-xs">雪除け藁囲いの可憐な牡丹と大和牛すき焼きの名宿</div>
             </Link>
             <Link 
-              href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay" 
+              href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-amber-700 mb-1">近江八幡水郷雪景色＆国宝彦根城</div>
               <div className="text-slate-500 text-xs">八幡堀の風情と近江牛すき焼き・琵琶湖畔の名宿</div>
             </Link>
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-amber-900 text-white hover:bg-amber-950 transition-all block flex flex-col justify-center items-center text-center font-bold"
             >
               <span>全国の冬特集一覧を見る →</span>

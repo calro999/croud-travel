@@ -124,7 +124,7 @@ export default function BookmarksModal() {
                         {b.prefecture} {b.area && `• ${b.area}`}
                       </div>
                       <Link
-                        href={`/posts/${b.id}`}
+                        href={`/posts/${b.id}/`}
                         onClick={() => setIsOpen(false)}
                         className="text-xs font-bold text-slate-900 group-hover:text-teal-800 line-clamp-1 hover:underline"
                       >

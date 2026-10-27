@@ -60,7 +60,7 @@ export default function FurusatoSandBathSunamushiStayPage() {
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">
           <Link href="/" className="hover:text-stone-900 underline transition">ホーム</Link>
           <span>/</span>
-          <Link href="/travel-savings-guide" className="hover:text-stone-900 underline transition">旅行節約ハブ</Link>
+          <Link href="/travel-savings-guide/" className="hover:text-stone-900 underline transition">旅行節約ハブ</Link>
           <span>/</span>
           <span className="text-stone-800 font-medium">砂むし温泉＆極上デトックス湯治宿特集</span>
         </nav>
@@ -89,7 +89,7 @@ export default function FurusatoSandBathSunamushiStayPage() {
               楽天ふるさと納税トラベルクーポンを獲得する →
             </a>
             <Link
-              href="/furusato-tax-travel-beginners-complete-guide"
+              href="/furusato-tax-travel-beginners-complete-guide/"
               className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-amber-200 font-bold px-5 py-3 rounded-2xl border border-amber-300/20 text-xs sm:text-sm transition"
             >
               📖 初めての方向け完全マニュアル
@@ -361,7 +361,7 @@ export default function FurusatoSandBathSunamushiStayPage() {
           <ul className="grid sm:grid-cols-2 gap-2">
 
               <li key="furusato-tax-three-major-bihada-hotspring-stay">
-                <Link href="/furusato-tax-three-major-bihada-hotspring-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-three-major-bihada-hotspring-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【日本三大美肌の湯×ふるさと納税】嬉野・斐乃上・喜連川のとろとろ美肌宿</span>
                 </Link>
@@ -369,7 +369,7 @@ export default function FurusatoSandBathSunamushiStayPage() {
   
 
               <li key="furusato-tax-carbonated-spring-effervescent-onsen-stay">
-                <Link href="/furusato-tax-carbonated-spring-effervescent-onsen-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-carbonated-spring-effervescent-onsen-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【天然炭酸泉・泡の秘湯×ふるさと納税】長湯・白骨・有馬の血流促進名湯宿</span>
                 </Link>
@@ -377,7 +377,7 @@ export default function FurusatoSandBathSunamushiStayPage() {
   
 
               <li key="furusato-tax-all-inclusive-luxury-onsen-stay">
-                <Link href="/furusato-tax-all-inclusive-luxury-onsen-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-all-inclusive-luxury-onsen-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【オールインクルーシブ温泉宿×ふるさと納税】お酒もカフェも追加料金なしの贅沢ステイ</span>
                 </Link>
@@ -385,7 +385,7 @@ export default function FurusatoSandBathSunamushiStayPage() {
   
 
               <li key="furusato-tax-oceanfront-wave-sound-healing-stay">
-                <Link href="/furusato-tax-oceanfront-wave-sound-healing-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-oceanfront-wave-sound-healing-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【オーシャンフロント波音の宿×ふるさと納税】海と温泉が一体化する極上ステイ</span>
                 </Link>
@@ -403,7 +403,7 @@ export default function FurusatoSandBathSunamushiStayPage() {
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
-            href="/travel-savings-guide"
+            href="/travel-savings-guide/"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 text-stone-950 font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition text-sm"
           >
             🏨 旅行節約総合ハブページを見る ➔

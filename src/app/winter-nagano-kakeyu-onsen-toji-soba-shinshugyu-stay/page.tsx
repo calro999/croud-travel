@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '鹿教湯温泉で過ごす冬の旅（11・12月）！文殊菩薩の霊泉と渓流雪見露天！名宿5選',
     description: '11月から12月にかけて、信州上田の奥座敷・内村川の渓流沿いに佇む「鹿教湯温泉（かけゆおんせん）」は、初冬の静けさと美しい初雪の情景に包まれます。',
-    url: 'https://croud-travel.pages.dev/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterNaganoKakeyuPage() {
         'headline': "【11・12月長野・鹿教湯温泉＆信州上田】文殊菩薩の霊泉と渓流雪見露天・名物信州投じ蕎麦と極上信州牛を味わう名宿5選",
         'description': "11月から12月にかけて、信州上田の奥座敷・内村川の渓流沿いに佇む「鹿教湯温泉（かけゆおんせん）」は、初冬の静けさと美しい初雪の情景に包まれます。その昔、信仰心の厚い猟師が鹿に姿を変えた文殊菩薩に導かれて発見したという伝説から「鹿が教えた湯＝鹿教湯」と名付けられたこの地は、環境省から国民保養温泉地に指定される日本屈指の湯治場です。名所である屋根付き木造橋「五台橋（ごだいばし）」や文殊堂に初雪が降り積もる姿は息を呑むほどの旅情を醸し出します。無色透明でまろやかな弱アルカリ性単純温泉は、入浴だけでなく飲泉も可能で、身体の外側と内側の両面から疲労を癒やし血行を促進してくれます。夕食には信州の厳しい冬に生まれた伝統の郷土鍋「投じ蕎麦（とうじそば）」が登場。小分けにした新蕎麦を竹編みの「とうじ籠」に入れ、旬のキノコや冬根菜が煮立つ熱々の鍋出汁にさっとくぐらせてすする一杯は、身体の芯まで温もりを届けてくれます。さらにきめ細やかな霜降りの「信州プレミアム牛」や地酒とともに、初冬の信州で極上のリトリートを叶える厳選名宿5選を詳しく紹介します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterNaganoKakeyuPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-indigo-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">長野・鹿教湯温泉＆信州上田</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterNaganoKakeyuPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月鹿教湯温泉】文殊菩薩の霊泉と渓流雪見露天！名宿5選","item":"https://croud-travel.pages.dev/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月鹿教湯温泉】文殊菩薩の霊泉と渓流雪見露天！名宿5選","item":"https://croud-travel.pages.dev/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -531,7 +531,7 @@ export default function WinterNaganoKakeyuPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay"
+              href="/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-indigo-300 bg-indigo-400/20 px-2 py-0.5 rounded-full inline-block">長野・別所温泉</span>
@@ -544,7 +544,7 @@ export default function WinterNaganoKakeyuPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-asama-onsen-matsumoto-castle-snow-stay"
+              href="/winter-nagano-asama-onsen-matsumoto-castle-snow-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-indigo-300 bg-indigo-400/20 px-2 py-0.5 rounded-full inline-block">長野・浅間温泉</span>
@@ -557,7 +557,7 @@ export default function WinterNaganoKakeyuPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
+              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-indigo-300 bg-indigo-400/20 px-2 py-0.5 rounded-full inline-block">長野・野沢温泉</span>

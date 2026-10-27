@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の熊本×格安：熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」',
     description: '熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強熊本ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay/',
   }
 };
 

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '都心から85分の極上名湯！箱根湯本温泉の絶景大露天風呂＆客室露天名門宿×ふるさと納税極上旅ガイド天成園・おかだ・南風荘',
     description: '小田急ロマンスカー直通！豊かな湯量と箱根十七湯の歴史を誇る箱根湯本温泉。「箱根湯本温泉 天成園」「箱根湯本温泉 ホテル おかだ」「箱根湯本温泉 ホテル南風荘」を、神奈川県箱根町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。全長17mの天空大露天風呂、13種の湯巡り、客室露天風呂付き客室で癒やしの温泉旅を。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-hakone-onsen-open-air-bath-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-hakone-onsen-open-air-bath-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoHakoneOnsenOpenAirBathStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">箱根湯本名湯露天風呂宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoHakoneOnsenOpenAirBathStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-station-walk-car-free-onsen-stay"
+            href="/furusato-tax-station-walk-car-free-onsen-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【駅徒歩圏内・車なし電車で行ける温泉宿×ふるさと納税】アクセス抜群の名宿
           </Link>
           <Link
-            href="/furusato-tax-waterfall-view-sound-stream-onsen-stay"
+            href="/furusato-tax-waterfall-view-sound-stream-onsen-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【清流・渓谷美を望む絶景露天風呂×ふるさと納税】水音と自然に包まれる旅
           </Link>
           <Link
-            href="/furusato-tax-hoshino-resorts-risonare-family-stay"
+            href="/furusato-tax-hoshino-resorts-risonare-family-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【星野リゾート リゾナーレ×ふるさと納税】八ヶ岳・熱海・那須
           </Link>
           <Link
-            href="/furusato-tax-all-inclusive-free-drinks-alcohol-stay"
+            href="/furusato-tax-all-inclusive-free-drinks-alcohol-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【お酒飲み放題オールインクルーシブ宿×ふるさと納税】贅沢ラウンジステイ

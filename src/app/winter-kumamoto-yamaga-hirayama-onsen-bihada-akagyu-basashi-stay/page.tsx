@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '山鹿温泉＆平山温泉で過ごす冬の旅（11・12月）！熊本あか牛溶岩焼き！名宿5選',
     description: '11月中旬から12月の初冬を迎えた火の国・熊本の北部に位置する「山鹿温泉」と、その山懐に抱かれた秘湯「平山温泉」。',
-    url: 'https://croud-travel.pages.dev/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay',
+    url: 'https://croud-travel.pages.dev/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -56,7 +56,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -379,7 +379,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月山鹿温泉＆平山温泉】熊本あか牛溶岩焼き！名宿5選","item":"https://croud-travel.pages.dev/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月山鹿温泉＆平山温泉】熊本あか牛溶岩焼き！名宿5選","item":"https://croud-travel.pages.dev/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay/"}]}) }}
       />
 
         {/* Introduction Section */}
@@ -731,7 +731,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-kumamoto-kurokawa-yuakari-illumination-stay"
+              href="/winter-kumamoto-kurokawa-yuakari-illumination-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded-md">熊本・黒川温泉</span>
@@ -741,7 +741,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
             </Link>
 
             <Link
-              href="/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay"
+              href="/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded-md">熊本・阿蘇内牧温泉</span>
@@ -751,7 +751,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
             </Link>
 
             <Link
-              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay"
+              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded-md">佐賀・嬉野温泉</span>
@@ -761,7 +761,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
             </Link>
 
             <Link
-              href="/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay"
+              href="/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded-md">大分・日田＆天瀬温泉</span>
@@ -771,7 +771,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
             </Link>
 
             <Link
-              href="/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay"
+              href="/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded-md">熊本・杖立温泉</span>
@@ -781,7 +781,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
             </Link>
 
             <Link
-              href="/features"
+              href="/features/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2 flex flex-col justify-center items-center text-center"
             >
               <span className="text-xs font-bold text-red-700">全国の旬の温泉特集一覧へ</span>

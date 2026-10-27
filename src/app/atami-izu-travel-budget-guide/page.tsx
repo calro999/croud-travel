@@ -104,7 +104,7 @@ export default function AtamiBudgetGuidePage() {
             </div>
           </div>
           <div className="mt-4 text-right text-sm">
-            🔗 <Link href="/tokyo-izu-atami-bus-vs-train-guide" className="text-blue-600 font-bold hover:underline">熱海・伊豆の詳しい交通アクセス比較はこちら</Link>
+            🔗 <Link href="/tokyo-izu-atami-bus-vs-train-guide/" className="text-blue-600 font-bold hover:underline">熱海・伊豆の詳しい交通アクセス比較はこちら</Link>
           </div>
         </div>
       </section>
@@ -519,7 +519,7 @@ export default function AtamiBudgetGuidePage() {
       
       {/* リンク */}
       <div className="text-center">
-        <Link href="/prefectures" className="inline-flex items-center gap-2 text-sm font-bold text-slate-700 bg-white hover:bg-slate-50 border border-slate-300 px-6 py-3 rounded-xl transition shadow-sm">
+        <Link href="/prefectures/" className="inline-flex items-center gap-2 text-sm font-bold text-slate-700 bg-white hover:bg-slate-50 border border-slate-300 px-6 py-3 rounded-xl transition shadow-sm">
           🗾 全国都道府県ガイドへ
         </Link>
       </div>

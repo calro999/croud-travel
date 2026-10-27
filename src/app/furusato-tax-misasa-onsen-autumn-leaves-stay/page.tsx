@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '世界屈指のラジウム温泉・三朝温泉と国立公園大山の紅葉！名湯旅館×ふるさと納税厳選ガイド鳥取',
     description: '10月下旬〜11月中旬に見頃を迎える西日本屈指の名峰「大山（だいせん）」のブナ原生林紅葉と「三朝温泉（みささおんせん）」。世界屈指の高濃度ラドンを含む「三たび朝を迎えると元気になる」奇跡の湯、名門老舗宿「依山楼 岩崎」「旅館 大橋」「ちくま旅館」で11月解禁の鳥取松葉ガニや鳥取和牛オレイン55を堪能。ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-misasa-onsen-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-misasa-onsen-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">鳥取・三朝温泉 世界屈指のラジウム温泉＆大山紅葉宿特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

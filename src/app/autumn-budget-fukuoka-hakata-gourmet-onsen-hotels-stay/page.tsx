@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の福岡・博多×格安：太宰府の紅葉と中洲屋台グルメ！天然温泉＆大浴場付き1泊6,000円台〜のコスパ最強ホテル5選「2026最新」',
     description: '太宰府天満宮の紅葉と中洲屋台グルメ！大浴場・温泉付き1泊6,000円台〜のコスパ最強博多ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-budget-fukuoka-hakata-gourmet-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-fukuoka-hakata-gourmet-onsen-hotels-stay/',
   }
 };
 

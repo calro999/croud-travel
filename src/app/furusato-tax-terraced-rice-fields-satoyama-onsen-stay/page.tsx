@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガイド星峠・白米千枚田・大山千枚田の休日',
     description: '日本人の心のふるさと！新潟十日町「星峠の棚田」の水鏡露天風呂、石川輪島「白米千枚田」の日本海夕日パノラマ、千葉鴨川「大山千枚田」の里山癒やしステイ。棚田米と旬の山菜・地魚会席を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-terraced-rice-fields-satoyama-onsen-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-terraced-rice-fields-satoyama-onsen-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -486,7 +486,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-kominka-heritage-townhouse-auberge-stay"
+            href="/furusato-tax-kominka-heritage-townhouse-auberge-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -502,7 +502,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-secluded-canyon-isolated-onsen-stay"
+            href="/furusato-tax-secluded-canyon-isolated-onsen-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -518,7 +518,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-historical-kaido-post-town-ryokan-stay"
+            href="/furusato-tax-historical-kaido-post-town-ryokan-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '松之山温泉で過ごす冬の旅（11・12月）！日本三大薬湯の自噴化石海水と！名宿5選',
     description: '11月下旬から12月にかけて、日本有数の豪雪地帯である新潟県十日町市・越後松之山の山峡は、静寂と降り積もる白銀の雪に包まれます。',
-    url: 'https://croud-travel.pages.dev/winter-niigata-matsunoyama-onsen-yakuto-snow-tsumari-pork-stay',
+    url: 'https://croud-travel.pages.dev/winter-niigata-matsunoyama-onsen-yakuto-snow-tsumari-pork-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -64,7 +64,7 @@ export default function NiigataMatsunoyamaPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-niigata-matsunoyama-onsen-yakuto-snow-tsumari-pork-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-niigata-matsunoyama-onsen-yakuto-snow-tsumari-pork-stay/'
     }
   };
 
@@ -239,7 +239,7 @@ export default function NiigataMatsunoyamaPage() {
       <nav className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-4 text-xs text-stone-500 flex items-center gap-1.5 flex-wrap">
         <Link href="/" className="hover:text-stone-900 transition">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-900 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-900 transition">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-700 font-medium">新潟・松之山温泉 初冬名宿5選</span>
       </nav>
@@ -252,7 +252,7 @@ export default function NiigataMatsunoyamaPage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月松之山温泉】日本三大薬湯の自噴化石海水と！名宿5選","item":"https://croud-travel.pages.dev/winter-niigata-matsunoyama-onsen-yakuto-snow-tsumari-pork-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月松之山温泉】日本三大薬湯の自噴化石海水と！名宿5選","item":"https://croud-travel.pages.dev/winter-niigata-matsunoyama-onsen-yakuto-snow-tsumari-pork-stay/"}]}) }}
       />
 
         {/* Introduction Overview */}
@@ -593,7 +593,7 @@ export default function NiigataMatsunoyamaPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-niigata-echigo-yuzawa-snow-sake-stay"
+              href="/winter-niigata-echigo-yuzawa-snow-sake-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">新潟・越後湯沢</span>
@@ -606,7 +606,7 @@ export default function NiigataMatsunoyamaPage() {
             </Link>
 
             <Link 
-              href="/winter-niigata-tsukioka-onsen-emerald-bihada-stay"
+              href="/winter-niigata-tsukioka-onsen-emerald-bihada-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">新潟・月岡温泉</span>
@@ -619,7 +619,7 @@ export default function NiigataMatsunoyamaPage() {
             </Link>
 
             <Link 
-              href="/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay"
+              href="/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">新潟・瀬波温泉</span>

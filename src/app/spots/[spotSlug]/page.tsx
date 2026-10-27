@@ -146,9 +146,9 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/prefectures" className="hover:text-teal-800 transition">都道府県一覧</Link>
+        <Link href="/prefectures/" className="hover:text-teal-800 transition">都道府県一覧</Link>
         <span>/</span>
-        <Link href={`/prefectures/${spot.prefSlug}`} className="hover:text-teal-800 transition">{spot.prefName}</Link>
+        <Link href={`/prefectures/${spot.prefSlug}/`} className="hover:text-teal-800 transition">{spot.prefName}</Link>
         <span>/</span>
         <Link href={`/prefectures/${spot.prefSlug}/${spot.citySlug}`} className="hover:text-teal-800 transition">{spot.cityName}</Link>
         <span>/</span>
@@ -299,7 +299,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
                   ✈️ 楽天トラベルでプランを見る
                 </a>
                 <Link
-                  href={`/posts/${post.id}`}
+                  href={`/posts/${post.id}/`}
                   className="block w-full text-center py-2 text-[11px] font-bold text-teal-900 bg-teal-50 hover:bg-teal-100 rounded-xl transition border border-teal-800/10"
                 >
                   🧭 宿の特化ルポ記事を読む
@@ -333,7 +333,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
                       <td className="p-3 font-bold text-amber-700">{post.price ? `¥${Number(post.price).toLocaleString()}〜` : "プラン参照"}</td>
                       <td className="p-3 text-stone-600">{post.hot_spring_info || post.editor_tip || post.description?.slice(0, 60)} {post.parking_info ? `／駐車場: ${post.parking_info}` : ""}</td>
                       <td className="p-3">
-                        <Link href={`/posts/${post.id}`} className="text-teal-800 font-bold underline">詳細ルポ</Link>
+                        <Link href={`/posts/${post.id}/`} className="text-teal-800 font-bold underline">詳細ルポ</Link>
                       </td>
                     </tr>
                   ))}
@@ -377,7 +377,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
                 </div>
                 <div className="pt-2">
                   <Link
-                    href={`/spots/${sib.slug}`}
+                    href={`/spots/${sib.slug}/`}
                     className="inline-block text-xs font-bold text-white bg-teal-800 hover:bg-teal-700 px-5 py-2 rounded-xl transition shadow-sm"
                   >
                     🧭 {sib.name}の徹底解説・近くの宿を見る →
@@ -457,7 +457,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
           📍 {spot.cityName} 観光＆料理ガイドへ戻る
         </Link>
         <Link
-          href={`/prefectures/${spot.prefSlug}`}
+          href={`/prefectures/${spot.prefSlug}/`}
           className="px-6 py-2.5 text-xs font-bold text-white bg-teal-800 hover:bg-teal-700 rounded-full shadow transition"
         >
           🗾 {spot.prefName}全体の観光ハブへ戻る

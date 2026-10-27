@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "雪吊り開幕！金沢兼六園＆加賀百万石美食で過ごす冬の旅（11月）！冬の風物詩と近江町市場・山代名湯宿5選",
     description: "11月1日から始まる日本三名園・兼六園の冬の風物詩「雪吊り（ゆきづり）」！幾何学模様のように美しい円錐形の縄張りと紅葉・初雪の情景を愛で、解禁直後の加能ガニやのどぐろ、金沢温泉郷の名湯に寛ぐ雅な北陸旅。",
-    url: 'https://croud-travel.pages.dev/winter-kanazawa-kenrokuen-yukizuri-stay',
+    url: 'https://croud-travel.pages.dev/winter-kanazawa-kenrokuen-yukizuri-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -59,7 +59,7 @@ export default function FeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-kanazawa-kenrokuen-yukizuri-stay"
+      "@id": "https://croud-travel.pages.dev/winter-kanazawa-kenrokuen-yukizuri-stay/"
     }
   };
 
@@ -143,7 +143,7 @@ export default function FeaturePage() {
       <nav className="max-w-5xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-500 flex items-center gap-1.5 overflow-x-auto">
         <Link href="/" className="hover:text-amber-600 transition-colors shrink-0">ホーム</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <Link href="/features" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <span className="text-stone-800 font-medium truncate">【11月雪吊り開幕！金沢兼六園＆加賀百万石美食】冬の風物詩と近江町市場・山代名湯宿5選</span>
       </nav>
@@ -155,7 +155,7 @@ export default function FeaturePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11月雪吊り開幕！金沢兼六園＆加賀百万石美食】冬の風物詩と近江町市場・山代名湯宿5選","item":"https://croud-travel.pages.dev/winter-kanazawa-kenrokuen-yukizuri-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11月雪吊り開幕！金沢兼六園＆加賀百万石美食】冬の風物詩と近江町市場・山代名湯宿5選","item":"https://croud-travel.pages.dev/winter-kanazawa-kenrokuen-yukizuri-stay/"}]}) }}
       />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
@@ -388,7 +388,7 @@ export default function FeaturePage() {
           <h3 className="text-lg font-bold text-stone-800 mb-3">他の特集記事もチェック</h3>
           <p className="text-sm text-stone-500 mb-6">全国各地の魅力あふれるテーマ別おすすめ宿泊施設をご紹介しています</p>
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 px-8 py-3.5 rounded-xl bg-stone-800 hover:bg-stone-900 text-white font-bold text-sm shadow-sm transition-colors"
           >
             <span>特集一覧ページへ戻る</span>
@@ -446,7 +446,7 @@ export default function FeaturePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <Link
-              href="/furusato-tax-yoro-keikoku-autumn-leaves-stay"
+              href="/furusato-tax-yoro-keikoku-autumn-leaves-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -462,7 +462,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/winter-zao-snow-monster-ice-tree-stay"
+              href="/winter-zao-snow-monster-ice-tree-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -478,7 +478,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-iseshima-autumn-ise-lobster-gourmet-stay"
+              href="/furusato-tax-iseshima-autumn-ise-lobster-gourmet-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -494,7 +494,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-setouchi-island-luxury-ocean-resort-stay"
+              href="/furusato-tax-setouchi-island-luxury-ocean-resort-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>

@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: '鳴子温泉郷をふるさと納税でお得に旅する！千年の湯治文化と多彩な源泉めぐり！美肌硫黄泉＆宮城美食ステイガイド｜湯元吉祥・鳴子観光ホテル・鳴子風雅',
     description: '日本にある10種類の泉質のうち8種類が集まる奇跡の温泉郷・鳴子温泉を楽天ふるさと納税でお得に旅する！共立リゾートの和モダン宿「湯元 吉祥」、創業四百年の乳白色名湯「鳴子観光ホテル」、大人の隠れ家リゾート「鳴子風雅」を徹底紹介。鳴子峡の絶景やこけしの街歩き、大崎市トラベルクーポン活用術を網羅。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-naruko-onsen-historic-cure-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-naruko-onsen-historic-cure-stay/',
   },
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-naruko-onsen-historic-cure-stay/",
@@ -488,22 +488,22 @@ export default function FurusatoTaxArticle() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-beginners-complete-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-beginners-complete-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 超初心者向け ふるさと納税で旅行に安く泊まるマニュアル
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-kinugawa-onsen-valley-luxury-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-kinugawa-onsen-valley-luxury-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 鬼怒川温泉 渓谷美と大露天風呂・あさやバイキング特集
               </Link>
             </li>

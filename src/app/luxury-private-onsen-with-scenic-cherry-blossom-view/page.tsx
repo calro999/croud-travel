@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '2026年：湯船から満開の桜を独占！プライベートお花見客室露天風呂付き極上宿5選',
     description: '2026年最新！春限定の贅沢なお花見風呂！客室専用の露天風呂から咲き誇る桜や夜桜ライトアップを眺めながら極上温泉に浸かる大人の隠れ家名宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cherry-blossom-view',
+    url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cherry-blossom-view/',
   },
   alternates: {
     canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cherry-blossom-view/",
@@ -179,7 +179,7 @@ export default function FeatureDetailPage() {
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-amber-600">トップ</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-amber-600">厳選特集一覧</Link>
+          <Link href="/features/" className="hover:text-amber-600">厳選特集一覧</Link>
           <span>&gt;</span>
           <span className="text-slate-800 font-medium truncate max-w-xs sm:max-w-md md:max-w-none">
             客室専用お花見露天風呂＆桜ビュー極上温泉宿
@@ -556,7 +556,7 @@ export default function FeatureDetailPage() {
         {/* 特集トップへのリンク */}
         <div className="text-center pt-4">
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold px-8 py-4 rounded-2xl shadow-md transition-all"
           >
             <span>他の厳選特集一覧を見る</span>

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月長野：中山道！名宿5選',
     description: '11月から1月、信州・木曽路（中山道）は、日本最長の宿場町「奈良井宿」や重要伝統的建造物群保存地区「妻籠宿」の木造千本格子に純白の雪が降り積もり。',
-    url: 'https://croud-travel.pages.dev/winter-nagano-kisoji-narai-tsumago-snow-toujisoba-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-kisoji-narai-tsumago-snow-toujisoba-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-nagano-kisoji-narai-tsumago-snow-toujisoba-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-nagano-kisoji-narai-tsumago-snow-toujisoba-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '長野・木曽路宿場町雪景色＆投じ蕎麦特集',
-        item: 'https://croud-travel.pages.dev/winter-nagano-kisoji-narai-tsumago-snow-toujisoba-stay'
+        item: 'https://croud-travel.pages.dev/winter-nagano-kisoji-narai-tsumago-snow-toujisoba-stay/'
       }
     ]
   };
@@ -598,7 +598,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link 
-              href="/winter-gifu-hida-takayama-onsen-snow-beef-stay"
+              href="/winter-gifu-hida-takayama-onsen-snow-beef-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -615,7 +615,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay"
+              href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -632,7 +632,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nara-dorogawa-onsen-snow-botannabe-stay"
+              href="/winter-nara-dorogawa-onsen-snow-botannabe-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -649,7 +649,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay"
+              href="/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -666,7 +666,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay"
+              href="/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -683,7 +683,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay"
+              href="/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>

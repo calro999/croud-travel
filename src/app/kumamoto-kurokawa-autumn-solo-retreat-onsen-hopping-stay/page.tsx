@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもりで過ごす冬の旅（10月）！雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿',
     description: '10月下旬〜11月中旬は阿蘇山麓が秋色に染まるベストシーズン！「街全体が一つの宿」として風情を守り続ける熊本・黒川温泉。原生林に佇み三千坪の敷地に薬師の湯を湛える最高峰の隠れ家「旅館 山河」、温泉街の中心で立ち寄り湯も人気の「旅館 美里」、あたたかな木造の温もりと絶品料理の「旅館 壱の井」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/kumamoto-kurokawa-autumn-solo-retreat-onsen-hopping-stay',
+    url: 'https://croud-travel.pages.dev/kumamoto-kurokawa-autumn-solo-retreat-onsen-hopping-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/kumamoto-kurokawa-autumn-solo-retreat-onsen-hopping-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/kumamoto-kurokawa-autumn-solo-retreat-onsen-hopping-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿","item":"https://croud-travel.pages.dev/kumamoto-kurokawa-autumn-solo-retreat-onsen-hopping-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿","item":"https://croud-travel.pages.dev/kumamoto-kurokawa-autumn-solo-retreat-onsen-hopping-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

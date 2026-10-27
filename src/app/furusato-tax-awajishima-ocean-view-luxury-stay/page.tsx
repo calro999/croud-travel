@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '朝日と海の絶景インフィニティ温泉！淡路島の全室オーシャンビュー名門宿＆極上淡路牛・天然鯛会席×ふるさと納税極上旅ガイドホテルニューアワジ・夢海游・グランシャリオ',
     description: '御食国（みけつくに）の豊かな美味と大阪湾・紀淡海峡のパノラマ！兵庫県淡路島。「ホテルニューアワジ」「夢海游 淡路島」「GRAND CHARIOT 北斗七星135°」を、兵庫県洲本市・淡路市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。棚田状インフィニティ露天風呂、極上淡路牛ステーキ、天然鯛・鱧会席を満喫。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-awajishima-ocean-view-luxury-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-awajishima-ocean-view-luxury-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoAwajishimaOceanStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">淡路島 オーシャンビュー＆淡路牛宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoAwajishimaOceanStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-arima-onsen-kinsen-ginsen-luxury-stay"
+            href="/furusato-tax-arima-onsen-kinsen-ginsen-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【有馬温泉 金泉銀泉＆名門旅館×ふるさと納税】兵衛向陽閣・御所坊・月光園鴻朧館
           </Link>
           <Link
-            href="/furusato-tax-kinosaki-onsen-sotoyu-meguri-ryokan-stay"
+            href="/furusato-tax-kinosaki-onsen-sotoyu-meguri-ryokan-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【城崎温泉 七田外湯めぐり＆柳並木宿×ふるさと納税】招月庭・小宿縁・つちや旅館
           </Link>
           <Link
-            href="/furusato-tax-shirahama-onsen-ocean-view-luxury-stay"
+            href="/furusato-tax-shirahama-onsen-ocean-view-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【南紀白浜温泉 白良浜オーシャンビュー宿×ふるさと納税】むさし・海舟・シーモア
           </Link>
           <Link
-            href="/furusato-tax-private-villa-hanare-hideaway-stay"
+            href="/furusato-tax-private-villa-hanare-hideaway-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【大人の隠れ家・離れ客室×ふるさと納税】静寂とプライベート重視の名宿

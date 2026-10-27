@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '能登・和倉温泉ひとり旅・七尾湾オーシャンフロントおこもり：開湯1200年塩化物泉・能登前寿司＆能登牛・復興応援ステイ！海の温泉郷厳選3宿',
     description: '七尾湾の穏やかな波打ち際に湧く能登随一の名湯・和倉温泉！七尾湾を一望する絶景露天風呂と能登の美食が自慢の「ホテル海望」、多彩な湯処と広々とした空間美を誇る名門「日本の宿 のと楽」、能登の地魚料理とアットホームなもてなしが評判の「味な宿 宝仙閣」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/ishikawa-wakura-solo-retreat-ocean-onsen-stay',
+    url: 'https://croud-travel.pages.dev/ishikawa-wakura-solo-retreat-ocean-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/ishikawa-wakura-solo-retreat-ocean-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/ishikawa-wakura-solo-retreat-ocean-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【能登・和倉温泉ひとり旅・七尾湾オーシャンフロントおこもり】開湯1200年塩化物泉・能登前寿司＆能登牛・復興応援ステイ！海の温泉郷厳選3宿","item":"https://croud-travel.pages.dev/ishikawa-wakura-solo-retreat-ocean-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【能登・和倉温泉ひとり旅・七尾湾オーシャンフロントおこもり】開湯1200年塩化物泉・能登前寿司＆能登牛・復興応援ステイ！海の温泉郷厳選3宿","item":"https://croud-travel.pages.dev/ishikawa-wakura-solo-retreat-ocean-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

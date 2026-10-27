@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納税厳選ガイド白川郷・遠野・丹波篠山のおばあちゃん家ステイ',
     description: '日本人の原風景と素朴なぬくもり！世界遺産岐阜「白川郷」の合掌造り囲炉裏宿、岩手「遠野」の南部曲り家とかまど炊き銀シャリ、兵庫「丹波篠山」の黒豆ご飯と絶品ぼたん鍋古民家宿。薪のはぜる音とふっくらお米の甘みを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-traditional-kamado-rice-irori-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-traditional-kamado-rice-irori-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -486,7 +486,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-kominka-heritage-townhouse-auberge-stay"
+            href="/furusato-tax-kominka-heritage-townhouse-auberge-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -502,7 +502,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-terraced-rice-fields-satoyama-onsen-stay"
+            href="/furusato-tax-terraced-rice-fields-satoyama-onsen-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -518,7 +518,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-historical-kaido-post-town-ryokan-stay"
+            href="/furusato-tax-historical-kaido-post-town-ryokan-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

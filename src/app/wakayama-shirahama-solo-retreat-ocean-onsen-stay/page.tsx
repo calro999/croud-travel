@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '南紀白浜ひとり旅・海一望名湯おこもり：白良浜オーシャンビュー・日本三古湯・クエ＆伊勢海老！太平洋の絶景に抱かれる厳選3宿',
     description: '白砂のビーチと日本三古湯の街・南紀白浜！太平洋を見渡す高台で絶景露天風呂と最高級クエ料理が評判の「海岳」、オープンテラスと広大な温泉プール＆スパを備える「白浜古賀の井リゾート＆スパ」、白良浜徒歩1分で和モダン客室が心地よい「紀州・白浜温泉 むさし」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/wakayama-shirahama-solo-retreat-ocean-onsen-stay',
+    url: 'https://croud-travel.pages.dev/wakayama-shirahama-solo-retreat-ocean-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/wakayama-shirahama-solo-retreat-ocean-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/wakayama-shirahama-solo-retreat-ocean-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【南紀白浜ひとり旅・海一望名湯おこもり】白良浜オーシャンビュー・日本三古湯・クエ＆伊勢海老！太平洋の絶景に抱かれる厳選3宿","item":"https://croud-travel.pages.dev/wakayama-shirahama-solo-retreat-ocean-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【南紀白浜ひとり旅・海一望名湯おこもり】白良浜オーシャンビュー・日本三古湯・クエ＆伊勢海老！太平洋の絶景に抱かれる厳選3宿","item":"https://croud-travel.pages.dev/wakayama-shirahama-solo-retreat-ocean-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

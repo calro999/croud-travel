@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月筑波山：冬の筑波山神社新春初詣！名宿5選',
     description: '「西の富士、東の筑波」と称される関東の名峰・筑波山。冬は空気が冴え渡り、山頂や中腹から東京スカイツリーや富士山。',
-    url: 'https://croud-travel.pages.dev/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay/',
     type: 'article'
   }
 };
@@ -159,13 +159,13 @@ export default function IbarakiTsukubasanWinterFeaturePage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "【11・12・1月筑波山】冬の筑波山神社新春初詣＆スターダスト夜景！名湯筑波山温泉と極上常陸牛に寛ぐ厳選宿5選",
-            "item": 'https://croud-travel.pages.dev/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay'
+            "item": 'https://croud-travel.pages.dev/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay/'
           }
         ]
       },
@@ -268,7 +268,7 @@ export default function IbarakiTsukubasanWinterFeaturePage() {
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-teal-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-teal-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-teal-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">冬の筑波山神社＆スターダスト夜景特集</li>
         </ol>
@@ -564,42 +564,42 @@ export default function IbarakiTsukubasanWinterFeaturePage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay" 
+              href="/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-teal-700 mb-1">大洗・那珂湊の元祖あんこう鍋</div>
               <div className="text-slate-500 text-xs">神磯の鳥居初日の出と大洗磯前神社初詣・海の幸名宿</div>
             </Link>
             <Link 
-              href="/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay" 
+              href="/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-teal-700 mb-1">袋田の滝氷瀑と奥久慈軍鶏</div>
               <div className="text-slate-500 text-xs">日本三名瀑の凍結絶景と袋田温泉・滋味あふれる軍鶏鍋</div>
             </Link>
             <Link 
-              href="/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay" 
+              href="/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-teal-700 mb-1">あしかがフラワーパーク光の花の庭</div>
               <div className="text-slate-500 text-xs">日本三大イルミネーションと佐野厄除け大師初詣・佐野ラーメン</div>
             </Link>
             <Link 
-              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay" 
+              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-teal-700 mb-1">秩父温泉郷・秩父夜祭と三十槌の氷柱</div>
               <div className="text-slate-500 text-xs">秩父神社初詣と長瀞こたつ舟・武州牛すき焼きの名宿</div>
             </Link>
             <Link 
-              href="/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay" 
+              href="/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-teal-700 mb-1">成田山新勝寺新春初詣＆名物うなぎ</div>
               <div className="text-slate-500 text-xs">初詣参拝客日本一の門前町散策と佐原小江戸・成田温泉</div>
             </Link>
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-teal-900 text-white hover:bg-teal-950 transition-all block flex flex-col justify-center items-center text-center font-bold"
             >
               <span>全国の冬特集一覧を見る →</span>

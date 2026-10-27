@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '2026年：出来立てクラフトビールをタップから！醸造所直営ブルワリーホテル＆温泉宿5選',
     description: '2026年最新！併設ブルワリーから注がれる出来立て新鮮クラフトビール飲み放題プラン！ビアバーラウンジと自家源泉掛け流し温泉を満喫する大人の宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/organic-craft-beer-taproom-brewery-stay',
+    url: 'https://croud-travel.pages.dev/organic-craft-beer-taproom-brewery-stay/',
   },
   alternates: {
     canonical: "https://croud-travel.pages.dev/organic-craft-beer-taproom-brewery-stay/",
@@ -179,7 +179,7 @@ export default function FeatureDetailPage() {
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-amber-600">トップ</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-amber-600">厳選特集一覧</Link>
+          <Link href="/features/" className="hover:text-amber-600">厳選特集一覧</Link>
           <span>&gt;</span>
           <span className="text-slate-800 font-medium truncate max-w-xs sm:max-w-md md:max-w-none">
             醸造所直営クラフトビール＆源泉温泉ホテル
@@ -555,7 +555,7 @@ export default function FeatureDetailPage() {
         {/* 特集トップへのリンク */}
         <div className="text-center pt-4">
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold px-8 py-4 rounded-2xl shadow-md transition-all"
           >
             <span>他の厳選特集一覧を見る</span>

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '熊野本宮で過ごす冬の旅（11・12月）！冬の風物詩！名宿5選',
     description: '11月中旬から12月の初冬、世界遺産・熊野古道の聖地に抱かれた和歌山県田辺市本宮町は、霊峰熊野の山々が静けさに包まれ。',
-    url: 'https://croud-travel.pages.dev/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -56,7 +56,7 @@ export default function WakayamaKawayuYunomineWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -379,7 +379,7 @@ export default function WakayamaKawayuYunomineWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月熊野本宮】冬の風物詩！名宿5選","item":"https://croud-travel.pages.dev/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月熊野本宮】冬の風物詩！名宿5選","item":"https://croud-travel.pages.dev/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay/"}]}) }}
       />
 
         {/* Introduction Section */}
@@ -663,21 +663,21 @@ export default function WakayamaKawayuYunomineWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay" 
+              href="/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">三重・鳥羽相差</span>
               <p className="font-bold text-stone-800 line-clamp-2">伊勢志摩の冬の恵み・答志島トロサワラ＆極上松阪牛と美肌露天風呂</p>
             </Link>
             <Link 
-              href="/winter-shizuoka-minamiizu-shimogamo-onsen-iseebi-kinmedai-stay" 
+              href="/winter-shizuoka-minamiizu-shimogamo-onsen-iseebi-kinmedai-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">静岡・南伊豆</span>
               <p className="font-bold text-stone-800 line-clamp-2">温暖な避寒リゾートと湯煙南国情緒・旬の伊勢海老＆地金目鯛姿煮名宿</p>
             </Link>
             <Link 
-              href="/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay" 
+              href="/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">宮城・遠刈田温泉</span>

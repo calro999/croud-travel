@@ -465,7 +465,7 @@ export default function HighwayBusArticlePage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7682/7682_room.jpg" alt="月の名勝地　割烹旅館　琴水 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>浜名湖すぐ目の前！全室レイクビュー＆お部屋食で寛ぐ老舗旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県浜松市浜名区三ヶ日町都筑595-1 ／ 最寄り駅：東都筑 ／ 交通案内：東名高速三ヶ日ＩＣから車で5分//　天竜浜名湖鉄道　東都筑駅から徒歩13分//　遠州鉄道バス　東都筑駅から徒歩13分</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 静岡県浜松市浜名区三ヶ日町都筑595-1 ／ 最寄り駅：東都筑 ／ 交通案内：東名高速三ヶ日ＩＣから車で5分/　天竜浜名湖鉄道　東都筑駅から徒歩13分/　遠州鉄道バス　東都筑駅から徒歩13分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：２０台（無料・先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -645,7 +645,7 @@ export default function HighwayBusArticlePage() {
           </a>
 
           <Link
-            href="/scenic-tourist-train-onsen-trip-stay"
+            href="/scenic-tourist-train-onsen-trip-stay/"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🚅</div>
@@ -666,7 +666,7 @@ export default function HighwayBusArticlePage() {
       {/* 47都道府県トップへのリンク */}
       <div className="text-center pt-4">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-slate-800 bg-white hover:bg-slate-50 border border-slate-300 px-8 py-3.5 rounded-2xl transition shadow-sm"
         >
           <span>🗾</span>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '愛媛・宇和島＆内子・大洲：現存天守・鯛めし＆白壁町並み・大洲城宿 厳選ガイド',
     description: '伊達十万石の城下町にして現存十二天守「宇和島城」、生卵と秘伝出汁で味わう「本場宇和島鯛めし」、重要伝統的建造物群保存地区「内子八日市・護国」の木蝋白壁の町並み、木造復元天守に泊まれる城泊で話題の「大洲城」と臥龍山荘を徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/ehime-uwajima-uchiko-ozu-castle-stay',
+    url: 'https://croud-travel.pages.dev/ehime-uwajima-uchiko-ozu-castle-stay/',
   },
 };
 

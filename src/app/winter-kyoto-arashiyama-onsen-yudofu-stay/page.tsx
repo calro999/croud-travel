@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "冬の嵐山と静寂の名刹で過ごす冬の旅（11・12月）！嵯峨野の竹林雪景色と嵐山温泉・熱々湯豆腐宿5選",
     description: "11月下旬の紅葉から12月の澄み切った冬景色へと表情を変える京都・嵐山と嵯峨野。渡月橋の幻想的な朝霧や竹林の小径の静寂を歩き、冷えた身体を嵐山温泉の湯けむりで癒やす。職人仕込みの嵯峨湯豆腐と京懐石に舌鼓を打つ珠玉の冬旅ガイド。",
-    url: 'https://croud-travel.pages.dev/winter-kyoto-arashiyama-onsen-yudofu-stay',
+    url: 'https://croud-travel.pages.dev/winter-kyoto-arashiyama-onsen-yudofu-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function ArashiyamaWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-kyoto-arashiyama-onsen-yudofu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kyoto-arashiyama-onsen-yudofu-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function ArashiyamaWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月冬の嵐山と静寂の名刹】嵯峨野の竹林雪景色と嵐山温泉・熱々湯豆腐宿5選","item":"https://croud-travel.pages.dev/winter-kyoto-arashiyama-onsen-yudofu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月冬の嵐山と静寂の名刹】嵯峨野の竹林雪景色と嵐山温泉・熱々湯豆腐宿5選","item":"https://croud-travel.pages.dev/winter-kyoto-arashiyama-onsen-yudofu-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -397,7 +397,7 @@ export default function ArashiyamaWinterPage() {
                   <div className="absolute bottom-4 left-4 right-4 bg-gradient-to-t from-stone-950/90 via-stone-950/60 to-transparent p-3 rounded-2xl text-white text-xs">
                     <p className="font-semibold flex items-center gap-1 text-amber-300">
                       <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
-                      評価 {hotel.rating} / 5.0
+                      評価 {hotel.rating} // 5.0
                     </p>
                     <p className="text-[11px] text-stone-300 line-clamp-1">{hotel.access}</p>
                   </div>
@@ -663,7 +663,7 @@ export default function ArashiyamaWinterPage() {
           {/* 関連特集リンクカード */}
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
             <Link 
-              href="/winter-kanazawa-kenrokuen-yukizuri-stay"
+              href="/winter-kanazawa-kenrokuen-yukizuri-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-amber-50/60 border border-stone-200 hover:border-amber-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">11・12月北陸</span>
@@ -676,7 +676,7 @@ export default function ArashiyamaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kobe-luminarie-illumination-stay"
+              href="/winter-kobe-luminarie-illumination-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-amber-50/60 border border-stone-200 hover:border-amber-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-rose-800 bg-rose-100/80 px-2 py-0.5 rounded">関西イルミネーション</span>
@@ -689,7 +689,7 @@ export default function ArashiyamaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-crab-gourmet-luxury-inn-ranking"
+              href="/winter-crab-gourmet-luxury-inn-ranking/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-amber-50/60 border border-stone-200 hover:border-amber-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">冬の味覚ランキング</span>

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '天空の露天風呂付きグランピング＆星空ドーム×ふるさと納税厳選ガイド富士山・阿蘇・那須の高級アウトドア宿',
     description: '大自然に抱かれながらホテル並みの贅沢を！富士山パノラマビューの星空ドームテント、阿蘇外輪山の大自然カルデラ温泉グランピング、那須高原の森に佇むプライベート露天付きヴィラ。BBQと焚き火BARを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-sky-open-air-glamping-resort-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-sky-open-air-glamping-resort-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -625,7 +625,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-kura-sauna-private-villa-charter-stay"
+            href="/furusato-tax-kura-sauna-private-villa-charter-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -641,7 +641,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-starry-sky-astronomy-retreat-stay"
+            href="/furusato-tax-starry-sky-astronomy-retreat-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -657,7 +657,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-private-villa-hanare-hideaway-stay"
+            href="/furusato-tax-private-villa-hanare-hideaway-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '京都で過ごす冬の旅（12・1月）！美山かやぶきの里！名宿5選',
     description: '日本の原風景が色濃く残る京都府南丹市「美山かやぶきの里」。12〜1月は茅葺き屋根の上に純白の雪が降り積もり、昔話の世界のような静寂と温もりに包まれます。',
-    url: 'https://croud-travel.pages.dev/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay',
+    url: 'https://croud-travel.pages.dev/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -169,7 +169,7 @@ export default function KyotoMiyamaTanbaWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay/"
         },
         "headline": "【12・1月京都】美山かやぶきの里＆丹波！白銀の茅葺き集落雪景色と雪灯廊・冬の最高峰「天然ぼたん鍋」＆里山雪見温泉名宿5選",
         "description": "日本の原風景が色濃く残る京都府南丹市「美山かやぶきの里」。12〜1月は茅葺き屋根の上に純白の雪が降り積もり、昔話の世界のような静寂と温もりに包まれます。1月下旬には集落全体が雪灯籠の柔らかな光に照らされる「美山雪灯廊」が開幕。丹波地方の冬の王様・天然猪肉の熱々「ぼたん鍋」や丹波牛、湯の花温泉の美肌露天風呂を満喫できる厳選名宿5選を徹底解説します。",
@@ -195,13 +195,13 @@ export default function KyotoMiyamaTanbaWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "美山かやぶきの里＆丹波冬特集",
-            "item": "https://croud-travel.pages.dev/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay"
+            "item": "https://croud-travel.pages.dev/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay/"
           }
         ]
       },
@@ -633,7 +633,7 @@ export default function KyotoMiyamaTanbaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay"
+              href="/winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-amber-400 block mb-1">伊根の舟屋冬特集</span>
@@ -641,7 +641,7 @@ export default function KyotoMiyamaTanbaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-hyogo-tanba-sasayama-botannabe-castle-stay"
+              href="/winter-hyogo-tanba-sasayama-botannabe-castle-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-amber-400 block mb-1">丹波篠山冬特集</span>
@@ -649,7 +649,7 @@ export default function KyotoMiyamaTanbaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay"
+              href="/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-amber-400 block mb-1">京都祇園冬特集</span>

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '浅草ひとり旅・下町温泉おこもり：隅田川スカイツリー夜景・天然温泉展望露天・老舗江戸前グルメ！歴史と現代が交差する厳選3宿',
     description: '羽田・成田空港や都内各所から直通アクセス！隅田川と東京スカイツリーの絶景を望む展望足湯＆露天風呂が名物の「ドーミーインEXPRESS浅草」、銀座線田原町駅徒歩2分でシモンズベッド快眠を約束する「ホテルサンルート浅草」、最上階に展望大浴殿を完備した「アパホテル〈浅草 蔵前〉」を楽天APIデータに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/tokyo-asakusa-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/tokyo-asakusa-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/tokyo-asakusa-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/tokyo-asakusa-solo-retreat-onsen-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【浅草ひとり旅・下町温泉おこもり】隅田川スカイツリー夜景・天然温泉展望露天・老舗江戸前グルメ！歴史と現代が交差する厳選3宿","item":"https://croud-travel.pages.dev/tokyo-asakusa-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【浅草ひとり旅・下町温泉おこもり】隅田川スカイツリー夜景・天然温泉展望露天・老舗江戸前グルメ！歴史と現代が交差する厳選3宿","item":"https://croud-travel.pages.dev/tokyo-asakusa-solo-retreat-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

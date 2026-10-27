@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納税厳選ガイド金沢・小布施・伊勢の甘味旅',
     description: '女子旅やご褒美旅行に大人気！金沢ひがし茶屋街の金箔ソフト＆抹茶和菓子、長野小布施の焼き栗・モンブラン名店めぐり、三重伊勢おはらい町の赤福・伊勢うどん食べ歩き。歴史ある街並みの名湯旅館を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-sweets-cafe-wagashi-retro-onsen-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-sweets-cafe-wagashi-retro-onsen-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -532,7 +532,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-kominka-heritage-townhouse-auberge-stay"
+            href="/furusato-tax-kominka-heritage-townhouse-auberge-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -548,7 +548,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-historical-kaido-post-town-ryokan-stay"
+            href="/furusato-tax-historical-kaido-post-town-ryokan-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -564,7 +564,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-ise-kumano-sacred-power-spot-stay"
+            href="/furusato-tax-ise-kumano-sacred-power-spot-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

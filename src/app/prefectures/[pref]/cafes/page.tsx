@@ -103,9 +103,9 @@ export default async function PrefectureCafesPage({ params }: { params: Promise<
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/prefectures" className="hover:text-teal-800 transition">都道府県一覧</Link>
+        <Link href="/prefectures/" className="hover:text-teal-800 transition">都道府県一覧</Link>
         <span>/</span>
-        <Link href={`/prefectures/${prefInfo.slug}`} className="hover:text-teal-800 transition">{prefInfo.name}</Link>
+        <Link href={`/prefectures/${prefInfo.slug}/`} className="hover:text-teal-800 transition">{prefInfo.name}</Link>
         <span>/</span>
         <span className="text-emerald-950 font-bold">絶景＆レトロカフェ・スイーツガイド</span>
       </nav>
@@ -232,7 +232,7 @@ export default async function PrefectureCafesPage({ params }: { params: Promise<
               <div className="pt-4 border-t border-amber-100 flex flex-wrap items-center justify-between gap-4 text-xs font-bold text-amber-950">
                 <span>📍 エリア: {prefInfo.name}主要観光エリア</span>
                 <Link
-                  href={`/prefectures/${prefInfo.slug}`}
+                  href={`/prefectures/${prefInfo.slug}/`}
                   className="text-teal-800 hover:underline flex items-center gap-1 font-extrabold"
                 >
                   <span>{prefInfo.name}の周辺宿・観光ガイドを見る</span>
@@ -286,7 +286,7 @@ export default async function PrefectureCafesPage({ params }: { params: Promise<
             🍶 銘酒・地酒ランキングを見る
           </Link>
           <Link
-            href={`/prefectures/${prefInfo.slug}`}
+            href={`/prefectures/${prefInfo.slug}/`}
             className="px-6 py-3 text-xs font-bold text-white bg-amber-700 hover:bg-amber-600 rounded-xl transition shadow"
           >
             🗾 {prefInfo.name}観光＆宿ハブへ戻る

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '大阪梅田出張・サウナ温泉ステイ：客室天然温泉・日本初カプセルサウナ聖地・キタの歓楽街！西日本最大の拠点を制する厳選3宿',
     description: '新大阪駅からJR・御堂筋線で約5分！全客室のバスルームに天然温泉を給湯するラグジュアリーシティホテル「ホテル阪神大阪」、黒川紀章設計の伝説的サウナ聖地「カプセルイン大阪（ニュージャパン梅田）」、最上階に伊豆直送露天スパを備える「天然温泉ホテルリブマックスPREMIUM梅田EAST」を楽天APIデータに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/osaka-umeda-solo-business-sauna-onsen-stay',
+    url: 'https://croud-travel.pages.dev/osaka-umeda-solo-business-sauna-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/osaka-umeda-solo-business-sauna-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/osaka-umeda-solo-business-sauna-onsen-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【大阪梅田出張・サウナ温泉ステイ】客室天然温泉・日本初カプセルサウナ聖地・キタの歓楽街！西日本最大の拠点を制する厳選3宿","item":"https://croud-travel.pages.dev/osaka-umeda-solo-business-sauna-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【大阪梅田出張・サウナ温泉ステイ】客室天然温泉・日本初カプセルサウナ聖地・キタの歓楽街！西日本最大の拠点を制する厳選3宿","item":"https://croud-travel.pages.dev/osaka-umeda-solo-business-sauna-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

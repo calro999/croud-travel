@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '信州松本浅間温泉で過ごす冬の旅（11・12月）！開湯1300年アルカリ単純泉！名宿5選',
     description: '11月から12月にかけて長野県・松本平は、雪化粧した北アルプスの山並みが澄み渡る初冬の青空にそびえ立ち。',
-    url: 'https://croud-travel.pages.dev/winter-nagano-asama-onsen-matsumoto-castle-snow-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-asama-onsen-matsumoto-castle-snow-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function AsamaOnsenWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-nagano-asama-onsen-matsumoto-castle-snow-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-nagano-asama-onsen-matsumoto-castle-snow-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-asama-onsen-matsumoto-castle-snow-stay/"
         },
         "headline": "【11・12月信州松本浅間温泉の国宝松本城初雪と城下町名湯】開湯1300年アルカリ単純泉・挽きたて信州新そば＆信州プレミアム牛すき焼きの宿5選",
         "description": "11月から12月にかけて長野県・松本平は、雪化粧した北アルプスの山並みが澄み渡る初冬の青空にそびえ立ち、黒漆と白漆喰の国宝松本城が幻想的な冬景色を見せます。飛鳥時代（天武天皇の時代）開湯と伝わり、江戸時代には松本藩主の御殿湯として愛された浅間温泉は、湯量豊富な無色透明の弱アルカリ性単純温泉。11月に旬を迎える香り高い「信州新そば」、長野県が誇る最高峰ブランド「信州プレミアム牛肉」のとろけるすき焼きや陶板焼き、信州サーモン、安曇野わさび、城下町の地酒を堪能する大人の湯宿5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function AsamaOnsenWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "長野・松本浅間温泉 国宝松本城初雪と新そば・信州牛の宿",
-            "item": "https://croud-travel.pages.dev/winter-nagano-asama-onsen-matsumoto-castle-snow-stay"
+            "item": "https://croud-travel.pages.dev/winter-nagano-asama-onsen-matsumoto-castle-snow-stay/"
           }
         ]
       },
@@ -598,42 +598,42 @@ export default function AsamaOnsenWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay"
+              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">長野・諏訪湖温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">諏訪湖一望の絶景露天風呂と信州牛・地酒蔵めぐりの宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-shirahone-onsen-milky-snow-stay"
+              href="/winter-nagano-shirahone-onsen-milky-snow-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">長野・白骨温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">3日入れば3年風邪ひかぬ乳白色にごり湯と雪見露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay"
+              href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">長野・白馬温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">白銀の北アルプス絶景とパウダースノー・信州牛ステーキの宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-achimura-hirugami-starry-sky-stay"
+              href="/winter-nagano-achimura-hirugami-starry-sky-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">長野・阿智村昼神温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">日本一の星空ナイトツアーと美肌名湯・南信州牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay"
+              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">岐阜・下呂温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">冬の花火ミュージカルと日本三名泉・飛騨牛づくしの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>

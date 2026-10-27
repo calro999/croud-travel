@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: '四国とは思えない白銀の別世界が広がる「四国カルスト天狗高原」と澄み切った満天の星空！四国霊場第44番大寶寺の新春初詣、滋味豊かな愛媛ブランド牛・きじ鍋と心温まる高原の名湯に寛ぐ大自然の冬名宿5選。',
   keywords: ['愛媛県冬旅行', '久万高原・四国カルスト・面河渓', '冬温泉', '2026', '2027', '雪景色', '冬の味覚', '楽天トラベル', 'ふるさと納税'],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-ehime-kumakogen-shikoku-karst-snow-starry-hoshifuru-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-ehime-kumakogen-shikoku-karst-snow-starry-hoshifuru-stay/',
   },
   openGraph: {
     title: '標高1400mの白銀カルストと満天の星空：2026-2027年冬の愛媛・久万高原！高原温泉と冬絶景宿5選',
     description: '四国とは思えない白銀の別世界が広がる「四国カルスト天狗高原」と澄み切った満天の星空！四国霊場第44番大寶寺の新春初詣、滋味豊かな愛媛ブランド牛・きじ鍋と心温まる高原の名湯に寛ぐ大自然の冬名宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-ehime-kumakogen-shikoku-karst-snow-starry-hoshifuru-stay',
+    url: 'https://croud-travel.pages.dev/winter-ehime-kumakogen-shikoku-karst-snow-starry-hoshifuru-stay/',
     siteName: 'クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -89,7 +89,7 @@ export default function Page() {
             '@type': 'ListItem',
             position: 3,
             name: '【標高1400mの白銀カルストと満天の星空】2026-2027年冬の愛媛・久万高原！高原温泉と冬絶景宿5選',
-            item: 'https://croud-travel.pages.dev/winter-ehime-kumakogen-shikoku-karst-snow-starry-hoshifuru-stay'
+            item: 'https://croud-travel.pages.dev/winter-ehime-kumakogen-shikoku-karst-snow-starry-hoshifuru-stay/'
           }
         ]
       }
@@ -656,15 +656,15 @@ export default function Page() {
                 <span>愛媛県のおすすめ観光名所＆温泉宿一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/features" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/features/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>全国の季節・目的別旅行特集一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>実質2,000円で泊まる名湯・高級温泉旅館ガイド</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-local-gourmet-inn-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-local-gourmet-inn-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>ご当地グルメを堪能する全国美食旅特集</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>

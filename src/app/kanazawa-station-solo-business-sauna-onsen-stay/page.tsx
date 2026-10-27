@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '金沢駅前出張・天然温泉サウナ：鼓門・天然温泉白鳥の湯・近江町市場海鮮丼！加賀百万石の伝統とビジネスを両立する厳選3宿',
     description: '北陸新幹線「かがやき」で東京から約2時間30分！金沢駅金沢港口徒歩1分で露天風呂＆高温サウナを備える「金沢マンテンホテル駅前」、兼六園口徒歩1分で大浴場・サウナ・露天風呂が充実の「アパホテル〈金沢駅前〉」、百万石通り沿いでデザイン大浴場が評判の「トリフィート ホテル＆ポッド 金沢百万石通」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/kanazawa-station-solo-business-sauna-onsen-stay',
+    url: 'https://croud-travel.pages.dev/kanazawa-station-solo-business-sauna-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/kanazawa-station-solo-business-sauna-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/kanazawa-station-solo-business-sauna-onsen-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【金沢駅前出張・天然温泉サウナ】鼓門・天然温泉白鳥の湯・近江町市場海鮮丼！加賀百万石の伝統とビジネスを両立する厳選3宿","item":"https://croud-travel.pages.dev/kanazawa-station-solo-business-sauna-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【金沢駅前出張・天然温泉サウナ】鼓門・天然温泉白鳥の湯・近江町市場海鮮丼！加賀百万石の伝統とビジネスを両立する厳選3宿","item":"https://croud-travel.pages.dev/kanazawa-station-solo-business-sauna-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

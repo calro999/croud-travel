@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: '年間で最も透明度が高まり神秘のコバルトブルーに輝く奇跡の清流「仁淀川」の冬絶景！中津渓谷トレッキング、旨味凝縮の「幻の和牛・土佐あかうし」鍋と清流のせせらぎを聞く名湯露天風呂に癒やされる冬名宿5選。',
   keywords: ['高知県冬旅行', '仁淀川・いの町・中津渓谷', '冬温泉', '2026', '2027', '雪景色', '冬の味覚', '楽天トラベル', 'ふるさと納税'],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-kochi-niyodogawa-niyodoblue-nakatsu-tosa-akagyu-onsen-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-kochi-niyodogawa-niyodoblue-nakatsu-tosa-akagyu-onsen-stay/',
   },
   openGraph: {
     title: '冬に透明度極まる仁淀ブルーと中津渓谷：2026-2027年冬の高知・仁淀川！渓流温泉と土佐あかうし名宿5選',
     description: '年間で最も透明度が高まり神秘のコバルトブルーに輝く奇跡の清流「仁淀川」の冬絶景！中津渓谷トレッキング、旨味凝縮の「幻の和牛・土佐あかうし」鍋と清流のせせらぎを聞く名湯露天風呂に癒やされる冬名宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-kochi-niyodogawa-niyodoblue-nakatsu-tosa-akagyu-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-kochi-niyodogawa-niyodoblue-nakatsu-tosa-akagyu-onsen-stay/',
     siteName: 'クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -89,7 +89,7 @@ export default function Page() {
             '@type': 'ListItem',
             position: 3,
             name: '【冬に透明度極まる仁淀ブルーと中津渓谷】2026-2027年冬の高知・仁淀川！渓流温泉と土佐あかうし名宿5選',
-            item: 'https://croud-travel.pages.dev/winter-kochi-niyodogawa-niyodoblue-nakatsu-tosa-akagyu-onsen-stay'
+            item: 'https://croud-travel.pages.dev/winter-kochi-niyodogawa-niyodoblue-nakatsu-tosa-akagyu-onsen-stay/'
           }
         ]
       }
@@ -659,15 +659,15 @@ export default function Page() {
                 <span>高知県のおすすめ観光名所＆温泉宿一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/features" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/features/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>全国の季節・目的別旅行特集一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>実質2,000円で泊まる名湯・高級温泉旅館ガイド</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-local-gourmet-inn-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-local-gourmet-inn-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>ご当地グルメを堪能する全国美食旅特集</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>

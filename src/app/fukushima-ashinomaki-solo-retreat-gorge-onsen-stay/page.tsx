@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '会津・芦ノ牧温泉ひとり旅・大川渓谷絶景おこもり：浮き舞台三味線・渓流露天風呂・大内宿ねぎそば！会津鉄道ネコ駅長の渓谷厳選3宿',
     description: '大川ラインの深い渓谷美と開湯千年の古湯を誇る会津・芦ノ牧温泉！ロビーの浮き舞台で三味線の音色が響く棚田状露天風呂の名門「大川荘」、大川渓流の絶壁に佇む源泉掛け流しの隠れ宿「不動館 小谷の湯」、広々とした展望大浴場と会津郷土料理が評判の「芦ノ牧グランドホテル」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/fukushima-ashinomaki-solo-retreat-gorge-onsen-stay',
+    url: 'https://croud-travel.pages.dev/fukushima-ashinomaki-solo-retreat-gorge-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/fukushima-ashinomaki-solo-retreat-gorge-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/fukushima-ashinomaki-solo-retreat-gorge-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【会津・芦ノ牧温泉ひとり旅・大川渓谷絶景おこもり】浮き舞台三味線・渓流露天風呂・大内宿ねぎそば！会津鉄道ネコ駅長の渓谷厳選3宿","item":"https://croud-travel.pages.dev/fukushima-ashinomaki-solo-retreat-gorge-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【会津・芦ノ牧温泉ひとり旅・大川渓谷絶景おこもり】浮き舞台三味線・渓流露天風呂・大内宿ねぎそば！会津鉄道ネコ駅長の渓谷厳選3宿","item":"https://croud-travel.pages.dev/fukushima-ashinomaki-solo-retreat-gorge-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の河口湖：もみじ回廊の紅葉まつりと富士山絶景！レイクサイド温泉を満喫するおすすめ名宿5選「2026最新」',
     description: '古川沿いに続く真紅の巨木アーチ「もみじ回廊」のライトアップと富士山絶景！極上レイクビュー宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-yamanashi-kawaguchiko-momiji-corridor-fuji-hotels-stay/',
   }
 };
 

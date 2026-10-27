@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本一遅い紅葉を愛でる！伊豆修善寺竹林の小径＆熱海梅園もみじまつり名門旅館×ふるさと納税厳選ガイド静岡',
     description: '11月中旬〜12月上旬に見頃を迎える「日本一遅い紅葉名所」伊豆修善寺温泉（竹林の小径・修禅寺庭園）＆熱海梅園もみじまつり！国の登録有形文化財「新井旅館」、円をテーマにした寛ぎ宿「〇久旅館」、本格料亭旅館「柳生の庄」。伊豆の金目鯛と天城軍鶏を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-shuzenji-atami-late-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-shuzenji-atami-late-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -55,7 +55,7 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">伊豆修善寺・熱海 遅紅葉＆名門温泉宿特集</span>
       </nav>
@@ -384,7 +384,7 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
 
             <li key="furusato-tax-tangible-cultural-property-architectural-ryokan-stay">
               <Link
-                href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay"
+                href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -395,7 +395,7 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
 
             <li key="furusato-tax-private-room-open-air-bath-luxury-stay">
               <Link
-                href="/furusato-tax-private-room-open-air-bath-luxury-stay"
+                href="/furusato-tax-private-room-open-air-bath-luxury-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -406,7 +406,7 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
 
             <li key="furusato-tax-private-villa-hanare-hideaway-stay">
               <Link
-                href="/furusato-tax-private-villa-hanare-hideaway-stay"
+                href="/furusato-tax-private-villa-hanare-hideaway-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -417,7 +417,7 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
 
             <li key="furusato-tax-luxury-hotspring-ryokan-stay">
               <Link
-                href="/furusato-tax-luxury-hotspring-ryokan-stay"
+                href="/furusato-tax-luxury-hotspring-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -437,7 +437,7 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
-            href="/travel-savings-guide"
+            href="/travel-savings-guide/"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 text-stone-950 font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition text-sm"
           >
             🏨 旅行節約総合ハブページを見る ➔

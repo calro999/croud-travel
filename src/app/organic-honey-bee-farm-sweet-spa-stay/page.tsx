@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：採れたて天然ハチミツ食べ比べ！ハニーエステ＆濃厚巣蜜スイーツが自慢の癒やし宿5選',
     description: '2026年最新！数種類の国産天然はちみつビュッフェや濃厚な巣蜜トースト、保湿効果抜群のハニー全身スパトリートメントが評判の温泉宿5選。',
-    url: 'https://croud-travel.pages.dev/organic-honey-bee-farm-sweet-spa-stay',
+    url: 'https://croud-travel.pages.dev/organic-honey-bee-farm-sweet-spa-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/organic-honey-bee-farm-sweet-spa-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/organic-honey-bee-farm-sweet-spa-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">天然はちみつ×ハニースパエステ</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             黄金色に輝く濃厚な天然はちみつの甘い香りに包まれる休日。朝食ビュッフェに並ぶ巣蜜（コムハニー）や季節の花のはちみつ食べ比べ、ミネラルと酵素を肌に届ける贅沢なハニースパ。体の内側からも外側からも美しく潤うご褒美ステイ。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】採れたて天然ハチミツ食べ比べ！ハニーエステ＆濃厚巣蜜スイーツが自慢の癒やし宿5選" url="https://croud-travel.pages.dev/organic-honey-bee-farm-sweet-spa-stay" />
+            <ShareButtons title="【2026年】採れたて天然ハチミツ食べ比べ！ハニーエステ＆濃厚巣蜜スイーツが自慢の癒やし宿5選" url="https://croud-travel.pages.dev/organic-honey-bee-farm-sweet-spa-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】採れたて天然ハチミツ食べ比べ！ハニーエステ＆濃厚巣蜜スイーツが自慢の癒やし宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/organic-honey-bee-farm-sweet-spa-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】採れたて天然ハチミツ食べ比べ！ハニーエステ＆濃厚巣蜜スイーツが自慢の癒やし宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/organic-honey-bee-farm-sweet-spa-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

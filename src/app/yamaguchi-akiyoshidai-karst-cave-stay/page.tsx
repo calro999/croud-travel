@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '山口・秋吉台＆長門湯本：秋芳洞・カルスト台地＆音信川温泉宿 厳選ガイド',
     description: '東洋屈指の規模を誇る大鍾乳洞「秋芳洞」、見渡す限りの白い石灰岩が草原に点在する「秋吉台」、エメラルドブルーに輝く奇跡の湧水「別府弁天池」、川床テラスと足湯で再生した名湯「長門湯本温泉」の極上ステイを徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/yamaguchi-akiyoshidai-karst-cave-stay',
+    url: 'https://croud-travel.pages.dev/yamaguchi-akiyoshidai-karst-cave-stay/',
   },
 };
 

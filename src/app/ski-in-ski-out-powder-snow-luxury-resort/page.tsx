@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：ゲレンデ直結スキーイン・スキーアウト！極上パウダースノーと展望温泉リゾート5選',
     description: '2026年最新！ニセコ・白馬・志賀高原など、ホテルから直接ゲレンデへ滑り出せるスキーイン・スキーアウト対応のラグジュアリー温泉ホテル5選。',
-    url: 'https://croud-travel.pages.dev/ski-in-ski-out-powder-snow-luxury-resort',
+    url: 'https://croud-travel.pages.dev/ski-in-ski-out-powder-snow-luxury-resort/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/ski-in-ski-out-powder-snow-luxury-resort"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/ski-in-ski-out-powder-snow-luxury-resort/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">ゲレンデ直結×パウダースノー温泉</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             ホテルのスキーロッカーから一歩出ればそこは白銀のパウダースノーゲレンデ。世界中のスキーヤー・スノーボーダーが憧れるJAPOW（極上雪質）を一日中滑り倒し、滑り終えたらそのまま展望温泉露天風呂へ直行できる至高のスノーリゾート。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】ゲレンデ直結スキーイン・スキーアウト！極上パウダースノーと展望温泉リゾート5選" url="https://croud-travel.pages.dev/ski-in-ski-out-powder-snow-luxury-resort" />
+            <ShareButtons title="【2026年】ゲレンデ直結スキーイン・スキーアウト！極上パウダースノーと展望温泉リゾート5選" url="https://croud-travel.pages.dev/ski-in-ski-out-powder-snow-luxury-resort/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】ゲレンデ直結スキーイン・スキーアウト！極上パウダースノーと展望温泉リゾート5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/ski-in-ski-out-powder-snow-luxury-resort"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】ゲレンデ直結スキーイン・スキーアウト！極上パウダースノーと展望温泉リゾート5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/ski-in-ski-out-powder-snow-luxury-resort/"}]}) }}
       />
         
         {/* クーポンバナー */}

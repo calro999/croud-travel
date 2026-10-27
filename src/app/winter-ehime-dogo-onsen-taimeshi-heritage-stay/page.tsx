@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '道後温泉で過ごす冬の旅（11・12月）！日本最古の名湯と極上真鯛鯛めし！名宿5選',
     description: '保存修理工事を終えて完全復活した日本最古の名湯・道後温泉本館。11月・12月の澄み切った瀬戸内の風を感じる湯めぐりと、冬に最も脂が乗る瀬戸内真鯛の「極上鯛めし」、とろける伊予牛会席を堪能する大人の贅沢冬旅ガイド。',
-    url: 'https://croud-travel.pages.dev/winter-ehime-dogo-onsen-taimeshi-heritage-stay',
+    url: 'https://croud-travel.pages.dev/winter-ehime-dogo-onsen-taimeshi-heritage-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function DogoWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-ehime-dogo-onsen-taimeshi-heritage-stay"
+          "@id": "https://croud-travel.pages.dev/winter-ehime-dogo-onsen-taimeshi-heritage-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function DogoWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月道後温泉】日本最古の名湯と極上真鯛鯛めし！名宿5選","item":"https://croud-travel.pages.dev/winter-ehime-dogo-onsen-taimeshi-heritage-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月道後温泉】日本最古の名湯と極上真鯛鯛めし！名宿5選","item":"https://croud-travel.pages.dev/winter-ehime-dogo-onsen-taimeshi-heritage-stay/"}]}) }}
       />
         
         {/* Intro */}
@@ -647,7 +647,7 @@ export default function DogoWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link 
-              href="/winter-kochi-yuzu-hotspring-stay"
+              href="/winter-kochi-yuzu-hotspring-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">四国の冬名物</span>
@@ -657,7 +657,7 @@ export default function DogoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-fukuoka-hakata-christmas-advent-gourmet-stay"
+              href="/winter-fukuoka-hakata-christmas-advent-gourmet-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">九州の冬グルメ</span>
@@ -667,7 +667,7 @@ export default function DogoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-oita-beppu-jigokumushi-hotspring-stay"
+              href="/winter-oita-beppu-jigokumushi-hotspring-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">九州の湧出量日本一</span>
@@ -677,7 +677,7 @@ export default function DogoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">関西の冬名湯</span>
@@ -687,7 +687,7 @@ export default function DogoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay"
+              href="/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">東海の冬絶景</span>
@@ -697,7 +697,7 @@ export default function DogoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">山陰のラジウム温泉</span>

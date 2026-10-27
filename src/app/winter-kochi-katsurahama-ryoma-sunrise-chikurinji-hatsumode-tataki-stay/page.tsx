@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: '黒潮洗う南国土佐の冬景色！11〜1月は澄み渡る青空と群青の太平洋が広がり。',
   keywords: '桂浜 初日の出, 坂本龍馬像 桂浜, 竹林寺 初詣, 高知 鰹のタタキ, 戻り鰹 藁焼き, 土佐あかうし, 城西館, 三翠園, ひろめ市場, 高知 冬 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-kochi-katsurahama-ryoma-sunrise-chikurinji-hatsumode-tataki-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-kochi-katsurahama-ryoma-sunrise-chikurinji-hatsumode-tataki-stay/'
   },
   openGraph: {
     title: '11・12・1月高知：知恵の文殊「五台山 竹林寺」新春初詣！名宿5選',
     description: '黒潮洗う南国土佐の冬景色！11〜1月は澄み渡る青空と群青の太平洋が広がり。',
-    url: 'https://croud-travel.pages.dev/winter-kochi-katsurahama-ryoma-sunrise-chikurinji-hatsumode-tataki-stay',
+    url: 'https://croud-travel.pages.dev/winter-kochi-katsurahama-ryoma-sunrise-chikurinji-hatsumode-tataki-stay/',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -57,7 +57,7 @@ export default function KochiKatsurahamaWinterFeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-kochi-katsurahama-ryoma-sunrise-chikurinji-hatsumode-tataki-stay"
+      "@id": "https://croud-travel.pages.dev/winter-kochi-katsurahama-ryoma-sunrise-chikurinji-hatsumode-tataki-stay/"
     }
   };
 
@@ -75,13 +75,13 @@ export default function KochiKatsurahamaWinterFeaturePage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "高知・桂浜＆竹林寺 冬の初日の出と新春初詣",
-        "item": "https://croud-travel.pages.dev/winter-kochi-katsurahama-ryoma-sunrise-chikurinji-hatsumode-tataki-stay"
+        "item": "https://croud-travel.pages.dev/winter-kochi-katsurahama-ryoma-sunrise-chikurinji-hatsumode-tataki-stay/"
       }
     ]
   };
@@ -275,7 +275,7 @@ export default function KochiKatsurahamaWinterFeaturePage() {
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-blue-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-blue-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-blue-600 transition">特集一覧</Link>
             <span>/</span>
             <span className="text-stone-800 font-medium">高知・桂浜＆竹林寺 冬の初日の出と新春初詣</span>
           </div>
@@ -560,28 +560,28 @@ export default function KochiKatsurahamaWinterFeaturePage() {
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               <Link 
-                href="/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay"
+                href="/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-blue-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【香川】琴平・金刀比羅宮＆善通寺</div>
                 <p className="text-stone-500">785段石段の新春初詣と弘法大師誕生地・讃岐オリーブ牛＆こんぴら温泉名宿</p>
               </Link>
               <Link 
-                href="/winter-tokushima-city-oasashiko-shrine-hatsumode-awaodori-awagyu-stay"
+                href="/winter-tokushima-city-oasashiko-shrine-hatsumode-awaodori-awagyu-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-blue-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【徳島】大麻比古神社初詣＆阿波牛</div>
                 <p className="text-stone-500">阿波国一宮の新春祈祷と鳴門鯛・阿波尾鶏・鳴門海峡冬景色名宿</p>
               </Link>
               <Link 
-                href="/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay"
+                href="/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-blue-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【宮崎】日向・馬ヶ背＆クルスの海</div>
                 <p className="text-stone-500">断崖絶壁冬の太平洋パノラマと願い叶う海初詣・日向灘伊勢海老名宿</p>
               </Link>
               <Link 
-                href="/winter-wakayama-kushimoto-shionomisaki-sunrise-hashiguiiwa-kindai-maguro-stay"
+                href="/winter-wakayama-kushimoto-shionomisaki-sunrise-hashiguiiwa-kindai-maguro-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-blue-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【和歌山】串本・潮岬＆橋杭岩の初日の出</div>
@@ -590,7 +590,7 @@ export default function KochiKatsurahamaWinterFeaturePage() {
             </div>
             <div className="mt-6 text-center">
               <Link 
-                href="/features"
+                href="/features/"
                 className="inline-flex items-center gap-1.5 text-xs font-bold text-blue-600 hover:text-blue-700 transition"
               >
                 全国の冬特集・温泉宿泊ガイド一覧を見る →

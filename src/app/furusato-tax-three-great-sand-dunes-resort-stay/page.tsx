@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税厳選ガイド鳥取砂丘・中田島砂丘・吹上浜の海宿',
     description: '地平線に続く風紋と黄金の丘！鳥取「鳥取砂丘」の夕日パノラマと皆生温泉・カニ会席、静岡浜松「中田島砂丘」の遠州灘ウミガメの浜と浜名湖うなぎ宿、鹿児島「吹上浜」の47km白砂青松と天然砂むし温泉。風と砂が織りなす異国情緒リゾートを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-resort-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-resort-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -485,7 +485,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-lighthouse-cliff-ocean-panorama-stay"
+            href="/furusato-tax-lighthouse-cliff-ocean-panorama-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -501,7 +501,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-sunset-ocean-magic-hour-stay"
+            href="/furusato-tax-sunset-ocean-magic-hour-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -517,7 +517,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-oceanfront-wave-sound-healing-stay"
+            href="/furusato-tax-oceanfront-wave-sound-healing-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '関東で最も遅い紅葉！千葉・養老渓谷の粟又の滝＆房総黒湯温泉旅館×ふるさと納税厳選ガイド千葉',
     description: '11月下旬〜12月上旬に見頃を迎える関東で最も遅い紅葉スポット「養老渓谷（ようろうけいこく）」。落差30mの名瀑「粟又の滝」遊歩道と紅葉ライトアップ、美肌効果抜群の「養老温泉・黒湯」を愉しめる名宿「喜代元」「鶴乃家」「川の家」で房総の地魚やジビエ料理を堪能。楽天ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-yoro-keikoku-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-yoro-keikoku-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">千葉・養老渓谷 房総屈指の遅紅葉＆黒湯温泉名宿特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

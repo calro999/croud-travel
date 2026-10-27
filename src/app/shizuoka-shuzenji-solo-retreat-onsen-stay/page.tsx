@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・国の登録文化財・桂川渓流露天！千二百年の歴史に抱かれる大人の隠れ宿厳選3宿',
     description: '伊豆の小京都・修善寺！全館が国の登録有形文化財で天平大浴堂が圧巻の「新井旅館」、一万五千坪の日本庭園とモダンな美空間が評判の「宙 SORA 渡月荘金龍」、桂川沿いで多彩な湯めぐりを楽しめる共立リゾート「修善寺温泉 桂川」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/shizuoka-shuzenji-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/shizuoka-shuzenji-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-shuzenji-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-shuzenji-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【修善寺温泉ひとり旅・伊豆小京都おこもり】竹林の小径・国の登録文化財・桂川渓流露天！千二百年の歴史に抱かれる大人の隠れ宿厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-shuzenji-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【修善寺温泉ひとり旅・伊豆小京都おこもり】竹林の小径・国の登録文化財・桂川渓流露天！千二百年の歴史に抱かれる大人の隠れ宿厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-shuzenji-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

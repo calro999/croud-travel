@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '信州湯田中温泉ひとり旅・開湯千三百年おこもり：長命長寿の霊泉・スノーモンキー拠点・信州郷土会席！志賀高原の麓で静寂にととのう厳選3宿',
     description: '長野電鉄特急終着駅・湯田中温泉！大人の隠れ家で限定6室の贅と美肌湯が評判の「華灯りの宿 加命の湯」、源泉かけ流し貸切風呂と名物そば会席が愛される「安代館」、湯田中駅前で歴史ある温泉と心温まるもてなしの「清風荘」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/nagano-yudanaka-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/nagano-yudanaka-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/nagano-yudanaka-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/nagano-yudanaka-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【信州湯田中温泉ひとり旅・開湯千三百年おこもり】長命長寿の霊泉・スノーモンキー拠点・信州郷土会席！志賀高原の麓で静寂にととのう厳選3宿","item":"https://croud-travel.pages.dev/nagano-yudanaka-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【信州湯田中温泉ひとり旅・開湯千三百年おこもり】長命長寿の霊泉・スノーモンキー拠点・信州郷土会席！志賀高原の麓で静寂にととのう厳選3宿","item":"https://croud-travel.pages.dev/nagano-yudanaka-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

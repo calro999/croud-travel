@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '黄金色に輝くススキの大海原！箱根仙石原ススキ草原＆大涌谷にごり湯温泉名宿×ふるさと納税厳選ガイド',
     description: '10月中旬〜11月上旬に見頃を迎える箱根屈指の秋の風物詩「仙石原ススキ草原」。台ヶ岳の山裾一面が黄金色に輝く絶景の散策道と、大涌谷から引湯する乳白色の濃厚にごり湯を堪能！「万寿屋旅館」「箱根ホテル花月園」「センチュリオン箱根別邸」など厳選宿を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-autumn-sengokuhara-silver-grass-hotspring-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-autumn-sengokuhara-silver-grass-hotspring-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -55,7 +55,7 @@ export default function FurusatoAutumnSengokuharaSilverGrassStayPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">箱根仙石原ススキ草原＆にごり湯名宿特集</span>
       </nav>
@@ -384,7 +384,7 @@ export default function FurusatoAutumnSengokuharaSilverGrassStayPage() {
 
             <li key="furusato-tax-autumn-foliage-open-air-bath-stay">
               <Link
-                href="/furusato-tax-autumn-foliage-open-air-bath-stay"
+                href="/furusato-tax-autumn-foliage-open-air-bath-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -395,7 +395,7 @@ export default function FurusatoAutumnSengokuharaSilverGrassStayPage() {
 
             <li key="furusato-tax-autumn-foliage-gorge-onsen-stay">
               <Link
-                href="/furusato-tax-autumn-foliage-gorge-onsen-stay"
+                href="/furusato-tax-autumn-foliage-gorge-onsen-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -406,7 +406,7 @@ export default function FurusatoAutumnSengokuharaSilverGrassStayPage() {
 
             <li key="furusato-tax-private-room-open-air-bath-luxury-stay">
               <Link
-                href="/furusato-tax-private-room-open-air-bath-luxury-stay"
+                href="/furusato-tax-private-room-open-air-bath-luxury-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -417,7 +417,7 @@ export default function FurusatoAutumnSengokuharaSilverGrassStayPage() {
 
             <li key="furusato-tax-luxury-hotspring-ryokan-stay">
               <Link
-                href="/furusato-tax-luxury-hotspring-ryokan-stay"
+                href="/furusato-tax-luxury-hotspring-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -437,7 +437,7 @@ export default function FurusatoAutumnSengokuharaSilverGrassStayPage() {
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
-            href="/travel-savings-guide"
+            href="/travel-savings-guide/"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 text-stone-950 font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition text-sm"
           >
             🏨 旅行節約総合ハブページを見る ➔

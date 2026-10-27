@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三名瀑＆ダイナミック滝見露天風呂宿×ふるさと納税厳選ガイド那智の滝・華厳の滝・袋田の滝の豪快名湯',
     description: '日本屈指の落差と水量を誇る名瀑へ！世界遺産和歌山「那智の滝」と南紀勝浦温泉、栃木日光中禅寺湖「華厳の滝」と乳白色硫黄泉、茨城奥久慈「袋田の滝」の四段名瀑と美肌の湯。轟音とマイナスイオンに包まれる滝見露天風呂ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-waterfalls-onsen-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-waterfalls-onsen-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -440,7 +440,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-waterfall-river-gorge-healing-onsen-stay"
+            href="/furusato-tax-waterfall-river-gorge-healing-onsen-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -456,7 +456,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-three-great-gorges-canyon-onsen-stay"
+            href="/furusato-tax-three-great-gorges-canyon-onsen-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -472,7 +472,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-ise-kumano-sacred-power-spot-stay"
+            href="/furusato-tax-ise-kumano-sacred-power-spot-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月三重鈴鹿桑名：椿大神社新春みちびき初詣！名宿5選',
     description: '冬の三重北勢（鈴鹿・桑名・四日市）は、全国猿田彦神社総本宮・伊勢国一の宮「椿大神社」の清冽な神域で新春のみちびき開運を祈願し。',
-    url: 'https://croud-travel.pages.dev/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay',
+    url: 'https://croud-travel.pages.dev/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/106022/106022.jpg' , alt: "11・12・1月三重鈴鹿桑名：椿大神社新春みちびき初詣！名宿5選"}]
   }
@@ -151,7 +151,7 @@ export default function MieSuzukaPage() {
         "@type": "Article",
         "headline": "【11・12・1月三重鈴鹿桑名】伊勢国一の宮・椿大神社新春みちびき初詣＆なばなの里イルミネーション！桑名冬蛤鍋と名宿5選",
         "description": "冬の三重北勢（鈴鹿・桑名・四日市）は、全国猿田彦神社総本宮・伊勢国一の宮「椿大神社」の清冽な神域で新春のみちびき開運を祈願し、国内最大級のスケールを誇る「なばなの里イルミネーション」の圧倒的な光の回廊に包まれる特別な季節。11月の点灯から1月の新春参拝まで、桑名伝統の熱々天然蛤鍋（はまぐり鍋）や四日市名物とんてき、極上黒毛和牛の贅沢な味わい。湯量豊富な長島温泉や鈴鹿の快適名宿で心身を温める冬の旅。楽天APIから最新取得した信頼の厳選宿5選を徹底特集します。",
-        "url": 'https://croud-travel.pages.dev/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay',
+        "url": 'https://croud-travel.pages.dev/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay/',
         "publisher": {
           "@type": "Organization",
           "name": "週末ごほうび旅・厳選の宿ガイド",
@@ -171,13 +171,13 @@ export default function MieSuzukaPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "冬の三重鈴鹿・椿大神社初詣＆なばなの里特集",
-            "item": 'https://croud-travel.pages.dev/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay'
+            "item": 'https://croud-travel.pages.dev/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay/'
           }
         ]
       },
@@ -250,7 +250,7 @@ export default function MieSuzukaPage() {
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-amber-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-amber-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-amber-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">冬の三重鈴鹿・椿大神社初詣＆なばなの里特集</li>
         </ol>
@@ -543,28 +543,28 @@ export default function MieSuzukaPage() {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
-              href="/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay"
+              href="/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-amber-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【三島・沼津】三嶋大社初詣＆富士山スカイウォーク絶景名宿</span>
               <span className="text-xs text-slate-500">源頼朝旗揚げの勝運初詣、駿河湾深海魚と沼津港寒魚、富士山展望温泉</span>
             </Link>
             <Link 
-              href="/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay"
+              href="/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-amber-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【大阪】住吉大社新春初詣＆御堂筋イルミネーション名宿</span>
               <span className="text-xs text-slate-500">光の回廊と全国総本社開運参拝、冬の本場とらふぐてっちり鍋</span>
             </Link>
             <Link 
-              href="/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay"
+              href="/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-amber-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【盛岡】盛岡八幡宮新春初詣＆岩手山白銀パノラマ名宿</span>
               <span className="text-xs text-slate-500">繋温泉の源泉掛け流し美肌湯と盛岡三大麺、極上雫石牛すき焼き</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-amber-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "解禁！城崎温泉の青タグ津居山ガニで過ごす冬の旅（11月）！名物7つの外湯めぐりと極上活ズワイガニ会席宿5選",
     description: "11月6日のカニ漁解禁で熱狂に包まれる関西随一の名湯・城崎温泉！地元・津居山港直送の青いタグ付き活松葉ガニ（カニ刺し・焼きガニ・茹で姿ガニ・カニすき・甲羅酒）フルコースと、雪舞う柳並木を浴衣と下駄で歩く名物「7つの外湯めぐり」を堪能する至福の冬旅。",
-    url: 'https://croud-travel.pages.dev/winter-hyogo-kinosaki-onsen-matsuba-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function KinosakiWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function KinosakiWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11月解禁！城崎温泉の青タグ津居山ガニ】名物7つの外湯めぐりと極上活ズワイガニ会席宿5選","item":"https://croud-travel.pages.dev/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11月解禁！城崎温泉の青タグ津居山ガニ】名物7つの外湯めぐりと極上活ズワイガニ会席宿5選","item":"https://croud-travel.pages.dev/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -397,7 +397,7 @@ export default function KinosakiWinterPage() {
                   <div className="absolute bottom-4 left-4 right-4 bg-gradient-to-t from-stone-950/90 via-stone-950/60 to-transparent p-3 rounded-2xl text-white text-xs">
                     <p className="font-semibold flex items-center gap-1 text-cyan-300">
                       <Star className="w-3.5 h-3.5 fill-cyan-400 text-cyan-400" />
-                      評価 {hotel.rating} / 5.0
+                      評価 {hotel.rating} // 5.0
                     </p>
                     <p className="text-[11px] text-stone-300 line-clamp-1">{hotel.access}</p>
                   </div>
@@ -672,7 +672,7 @@ export default function KinosakiWinterPage() {
           {/* 関連特集リンクカード */}
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-cyan-50/60 border border-stone-200 hover:border-cyan-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">山陰カニ名湯</span>
@@ -685,7 +685,7 @@ export default function KinosakiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-echizen-crab-taiza-luxury-stay"
+              href="/winter-echizen-crab-taiza-luxury-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-cyan-50/60 border border-stone-200 hover:border-cyan-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-rose-800 bg-rose-100/80 px-2 py-0.5 rounded">幻の最高峰ガニ</span>
@@ -698,7 +698,7 @@ export default function KinosakiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kue-gourmet-luxury-fish-onsen-stay"
+              href="/winter-kue-gourmet-luxury-fish-onsen-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-cyan-50/60 border border-stone-200 hover:border-cyan-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">幻の高級魚鍋</span>

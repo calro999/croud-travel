@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月山形：出羽三山神社の雪の初詣と山居倉庫雪景色！名宿5選',
     description: '白銀の静寂に包まれる国宝羽黒山五重塔と出羽三山神社三神合祭殿での厳かな雪の初詣。酒田の象徴・山居倉庫の雪化粧ケヤキ並木や。',
-    url: 'https://croud-travel.pages.dev/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -167,7 +167,7 @@ export default function YamagataSakataTsuruokaPage() {
         "@id": "https://croud-travel.pages.dev/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay/"
         },
         "headline": "【11・12・1月山形】酒田＆鶴岡・羽黒山！出羽三山神社の雪の初詣と山居倉庫雪景色・冬の日本海名物「寒鱈どんがら汁」＆名湯5選",
         "description": "白銀の静寂に包まれる国宝羽黒山五重塔と出羽三山神社三神合祭殿での厳かな雪の初詣。酒田の象徴・山居倉庫の雪化粧ケヤキ並木や、荒海日本海が育む冬の至宝「寒鱈どんがら汁」の濃厚な旨味。ユネスコ食文化創造都市・鶴岡の伝統郷土料理と庄内牛、日本海を望む湯野浜温泉や名湯湯田川・温海温泉の雪見露天に癒やされる厳選宿5選を徹底特集します。",
@@ -185,7 +185,7 @@ export default function YamagataSakataTsuruokaPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay/"
         }
       },
       {
@@ -202,13 +202,13 @@ export default function YamagataSakataTsuruokaPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "酒田＆鶴岡・羽黒山初詣と寒鱈どんがら汁名宿",
-            "item": "https://croud-travel.pages.dev/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay"
+            "item": "https://croud-travel.pages.dev/winter-yamagata-sakata-tsuruoka-hagurosan-kandara-stay/"
           }
         ]
       },
@@ -239,7 +239,7 @@ export default function YamagataSakataTsuruokaPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 py-4 text-xs font-semibold text-stone-500 flex items-center gap-2">
         <Link href="/" className="hover:text-blue-700 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-blue-700 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-blue-700 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-stone-800">山形・酒田＆鶴岡・羽黒山初詣と寒鱈名宿</span>
       </nav>
@@ -530,19 +530,19 @@ export default function YamagataSakataTsuruokaPage() {
             あわせて読みたい！東北の冬景色＆温泉特集
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
-            <Link href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
+            <Link href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
               ❄️ 蔵王温泉＆スノーモンスター樹氷・米沢牛名宿
             </Link>
-            <Link href="/winter-yamagata-ginzan-onsen-snow-taisho-stay" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
+            <Link href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
               🏮 銀山温泉！大正ロマンの雪景色とガス灯・山形牛
             </Link>
-            <Link href="/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
+            <Link href="/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay/" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
               ⛄ 横手のかまくら雪まつり＆小安峡巨大氷柱名宿
             </Link>
-            <Link href="/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
+            <Link href="/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay/" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
               🌊 瀬波温泉！日本海夕日と塩引き鮭・村上牛名宿
             </Link>
-            <Link href="/campaigns" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
+            <Link href="/campaigns/" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
               🍁 全国の旬の味覚＆極上温泉宿特集まとめ
             </Link>
           </div>

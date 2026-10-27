@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: "陽光あふれる情熱の国スペインを再現したテーマパーク「志摩スペイン村パルケエスパーニャ」。秋にはパーク全体がオレンジ色に染まる「ハロウィーンフィエスタ」が開幕！マヨール広場に登場する巨大な「モンスターパンプキン」のフォトスポットや、ハロウィーン限定衣装をまとったドンキホーテや仲間たちとのグリーティング、陽気なフラメンコショーが繰り広げられます。異国情緒あふれる白壁の街並みで味わう本場パエリャやチュロス、そしてパーク隣接の南欧風リゾートホテルや英虞湾の絶景を望む極上天然温泉名宿5選を徹底特集。",
   keywords: '志摩スペイン村 ハロウィン, パルケエスパーニャ ハロウィーンフィエスタ, ホテル志摩スペイン村, 都リゾート奥志摩アクアフォレスト, グランドメルキュール伊勢志摩, 汀渚ばさら邸, ひまわりの湯, 伊勢志摩 温泉 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/autumn-mie-shima-spain-village-halloween-fiesta-resort-hotels-stay'
+    canonical: 'https://croud-travel.pages.dev/autumn-mie-shima-spain-village-halloween-fiesta-resort-hotels-stay/'
   },
   openGraph: {
     title: "秋の志摩スペイン村パルケエスパーニャ：情熱のハロウィーンフィエスタ！フォトジェニックなカボチャ広場・限定パレード＆伊勢志摩温泉リゾート厳選名宿5選",
     description: "陽光あふれる情熱の国スペインを再現したテーマパーク「志摩スペイン村パルケエスパーニャ」。秋にはパーク全体がオレンジ色に染まる「ハロウィーンフィエスタ」が開幕！マヨール広場に登場する巨大な「モンスターパンプキン」のフォトスポットや、ハロウィーン限定衣装をまとったドンキホーテや仲間たちとのグリーティング、陽気なフラメンコショーが繰り広げられます。異国情緒あふれる白壁の街並みで味わう本場パエリャやチュロス、そしてパーク隣接の南欧風リゾートホテルや英虞湾の絶景を望む極上天然温泉名宿5選を徹底特集。",
-    url: 'https://croud-travel.pages.dev/autumn-mie-shima-spain-village-halloween-fiesta-resort-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-mie-shima-spain-village-halloween-fiesta-resort-hotels-stay/',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -57,7 +57,7 @@ export default function ShimaSpanishHalloweenFeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/autumn-mie-shima-spain-village-halloween-fiesta-resort-hotels-stay"
+      "@id": "https://croud-travel.pages.dev/autumn-mie-shima-spain-village-halloween-fiesta-resort-hotels-stay/"
     }
   };
 
@@ -75,13 +75,13 @@ export default function ShimaSpanishHalloweenFeaturePage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "志摩スペイン村・ハロウィーンフィエスタ特集",
-        "item": "https://croud-travel.pages.dev/autumn-mie-shima-spain-village-halloween-fiesta-resort-hotels-stay"
+        "item": "https://croud-travel.pages.dev/autumn-mie-shima-spain-village-halloween-fiesta-resort-hotels-stay/"
       }
     ]
   };
@@ -254,7 +254,7 @@ export default function ShimaSpanishHalloweenFeaturePage() {
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-amber-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-amber-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-amber-600 transition">特集一覧</Link>
             <span>/</span>
             <Link href="/prefectures/mie/" className="hover:text-amber-600 transition">三重県</Link>
             <span>/</span>
@@ -593,13 +593,13 @@ export default function ShimaSpanishHalloweenFeaturePage() {
               白壁の街並みに映えるモンスターパンプキン、陽気な音楽とパエリャの美味、そして美肌天然温泉ひまわりの湯。笑顔と温もりに包まれる秋の南欧リゾート旅へ出かけてみませんか。
             </p>
             <div className="flex flex-wrap items-center justify-center gap-3 text-xs">
-              <Link href="/features" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
+              <Link href="/features/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 ← 特集一覧に戻る
               </Link>
               <Link href="/prefectures/mie/" className="px-4 py-2 rounded-full bg-amber-50 hover:bg-amber-100 text-amber-700 font-semibold transition">
                 三重県の旅行ガイド・名宿一覧
               </Link>
-              <Link href="/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
+              <Link href="/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 伊賀上野城＆赤目四十八滝特集
               </Link>
               <Link href="/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">

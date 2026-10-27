@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '山陰で過ごす冬の旅（11・12月）！山陰の小京都！名宿5選',
     description: '11月から12月の初冬、石州瓦の赤茶色の屋根と白い漆喰壁が美しいコントラストを描く島根県津和野町の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay',
+    url: 'https://croud-travel.pages.dev/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -56,7 +56,7 @@ export default function ShimaneTsuwanoOnsenWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -379,7 +379,7 @@ export default function ShimaneTsuwanoOnsenWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月山陰】山陰の小京都！名宿5選","item":"https://croud-travel.pages.dev/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月山陰】山陰の小京都！名宿5選","item":"https://croud-travel.pages.dev/winter-shimane-tsuwano-onsen-iwamigyu-jizake-stay/"}]}) }}
       />
 
         {/* Introduction Section */}
@@ -691,21 +691,21 @@ export default function ShimaneTsuwanoOnsenWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay" 
+              href="/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-red-700 font-bold block text-[10px]">島根・温泉津温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">石見銀山の世界遺産名湯と冬の極上のどぐろ・石見和牛を味わうレトロ宿</p>
             </Link>
             <Link 
-              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay" 
+              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-red-700 font-bold block text-[10px]">島根・玉造温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">神の湯の天然化粧水風呂と11月解禁松葉ガニ・出雲大社初冬参拝</p>
             </Link>
             <Link 
-              href="/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay" 
+              href="/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-red-700 font-bold block text-[10px]">山口・湯田温泉</span>

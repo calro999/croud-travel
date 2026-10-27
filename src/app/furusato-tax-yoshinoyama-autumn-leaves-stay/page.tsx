@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '世界遺産・吉野山の秋色グラデーション（下千本〜奥千本）と千年の歴史漂う隠れ宿＆大和牛会席',
     description: '10月下旬〜11月下旬にかけて山裾から山頂へと色づく吉野山。桜の名所が紅葉の海と化す秋の幽玄な景色と、吉野の秘湯・大和牛・吉野葛料理をふるさと納税で楽しむ贅沢ステイ。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-yoshinoyama-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-yoshinoyama-autumn-leaves-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-yoshinoyama-autumn-leaves-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-yoshinoyama-autumn-leaves-stay/"
   };
 
   const faqSchema = {
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"世界遺産・吉野山の秋色グラデーション（下千本〜奥千本）と千年の歴史漂う隠れ宿＆大和牛会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-yoshinoyama-autumn-leaves-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"世界遺産・吉野山の秋色グラデーション（下千本〜奥千本）と千年の歴史漂う隠れ宿＆大和牛会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-yoshinoyama-autumn-leaves-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

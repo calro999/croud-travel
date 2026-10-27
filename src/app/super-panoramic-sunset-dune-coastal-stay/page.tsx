@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '2026年：日本の夕日百選！黄金に染まる海と砂浜パノラマ露天風呂リゾート5選',
     description: '2026年最新！水平線に沈むドラマチックな夕日を独占！白砂青松の海岸美を望むオーシャンフロント展望露天風呂と新鮮な海の幸会席を満喫する宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/super-panoramic-sunset-dune-coastal-stay',
+    url: 'https://croud-travel.pages.dev/super-panoramic-sunset-dune-coastal-stay/',
   },
   alternates: {
     canonical: "https://croud-travel.pages.dev/super-panoramic-sunset-dune-coastal-stay/",
@@ -154,7 +154,7 @@ export default function FeatureDetailPage() {
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-amber-600">トップ</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-amber-600">厳選特集一覧</Link>
+          <Link href="/features/" className="hover:text-amber-600">厳選特集一覧</Link>
           <span>&gt;</span>
           <span className="text-slate-800 font-medium truncate max-w-xs sm:max-w-md md:max-w-none">
             夕日百選サンセット＆白砂海岸露天リゾート
@@ -471,7 +471,7 @@ export default function FeatureDetailPage() {
         {/* 特集トップへのリンク */}
         <div className="text-center pt-4">
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold px-8 py-4 rounded-2xl shadow-md transition-all"
           >
             <span>他の厳選特集一覧を見る</span>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '日本三大岬＆地球の丸みを感じる断崖・絶景パノラマ海宿×ふるさと納税厳選ガイド知床岬・足摺岬・佐多岬',
     description: '日本列島の果てに突き出た壮大な絶景岬！世界自然遺産の断崖とオホーツクの海原「知床岬」ウトロ温泉知床第一ホテル、黒潮打ち寄せる太平洋270度パノラマと白亜の灯台「足摺岬」足摺国際ホテル、本州最南端からエメラルドブルーの錦江湾と開聞岳を望む「佐多岬」指宿白水館。日本三大岬のダイナミックな景観美と海の幸を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-capes-ocean-panorama-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-capes-ocean-panorama-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -380,7 +380,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-rapid-currents-strait-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-rapid-currents-strait-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大急潮＆激流うず潮パノラマ宿×ふるさと納税完全ガイド
               </div>
@@ -389,7 +389,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-beautiful-ports-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-beautiful-ports-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大美港＆夜景オーシャンビュー宿×ふるさと納税完全ガイド
               </div>
@@ -398,7 +398,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-oceanfront-wave-sound-healing-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-oceanfront-wave-sound-healing-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税完全ガイド
               </div>

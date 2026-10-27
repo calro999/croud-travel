@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '北海道・洞爺湖温泉で過ごす冬の旅（11・12月）！全室レイクビュー展望露天風呂！名宿5選',
     description: '11月から12月にかけて、北海道有数のカルデラ湖畔に広がる「洞爺湖温泉（とうやこおんせん）」は、日本最北の不凍湖が魅せる静寂の湖面と。',
-    url: 'https://croud-travel.pages.dev/winter-hokkaido-toyako-onsen-lakeview-illumination-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-toyako-onsen-lakeview-illumination-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function HokkaidoToyakoWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-hokkaido-toyako-onsen-lakeview-illumination-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-hokkaido-toyako-onsen-lakeview-illumination-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hokkaido-toyako-onsen-lakeview-illumination-stay/"
         },
         "headline": "【11・12月北海道・洞爺湖温泉のイルミネーションと冠雪羊蹄山絶景】全室レイクビュー展望露天風呂＆白老牛・噴火湾冬ホタテの宿5選",
         "description": "11月から12月にかけて、北海道有数のカルデラ湖畔に広がる「洞爺湖温泉（とうやこおんせん）」は、日本最北の不凍湖が魅せる静寂の湖面と、純白の雪を戴く名峰「羊蹄山（蝦夷富士）」の冠雪絶景が広がるロマンチックな初冬シーズンを迎えます。11月からは温泉街を約40万球の幻想的な光で包み込む「イルミネーショントンネル」が点灯。湖と湯面が一体化するインフィニティ展望露天風呂からは、澄み切った冬空と雪化粧した山々のパノラマを一望できます。夕食には近隣の内浦湾（噴火湾）で獲れる肉厚で甘みたっぷりの「冬ホタテ」や、北海道屈指の黒毛和牛「白老牛」の極上会席。心洗われる絶景に癒やされる厳選リゾートホテル・名旅館5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function HokkaidoToyakoWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "北海道・洞爺湖温泉 イルミネーションと冠雪羊蹄山絶景の宿",
-            "item": "https://croud-travel.pages.dev/winter-hokkaido-toyako-onsen-lakeview-illumination-stay"
+            "item": "https://croud-travel.pages.dev/winter-hokkaido-toyako-onsen-lakeview-illumination-stay/"
           }
         ]
       },
@@ -551,42 +551,42 @@ export default function HokkaidoToyakoWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay"
+              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">北海道・登別温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">地獄谷の雪景色と九種の多彩な泉質・冬蟹食べ放題の宿</h3>
             </Link>
             <Link 
-              href="/winter-hokkaido-jozankei-onsen-snow-keikoku-stay"
+              href="/winter-hokkaido-jozankei-onsen-snow-keikoku-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">北海道・定山渓温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">雪灯路の幻想美と豊平川雪見露天・札幌奥座敷の名旅館</h3>
             </Link>
             <Link 
-              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay"
+              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">北海道・湯の川温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">函館山雪夜景と津軽海峡活イカ・温泉サルに癒やされる宿</h3>
             </Link>
             <Link 
-              href="/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay"
+              href="/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">北海道・ニセコ温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">パウダースノーと源泉掛け流し・羊蹄山を望む最高峰リゾート</h3>
             </Link>
             <Link 
-              href="/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay"
+              href="/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">青森・奥入瀬渓流温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">氷瀑の造形美と八甲田山麓の秘湯・冬の青森りんご会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay"
+              href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">宮城・松島温泉</span>

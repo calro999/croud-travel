@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '熱海温泉ひとり旅・海一望おこもり：相模湾オーシャンビュー・貸切源泉露天・熱海海上花火！昭和レトロと絶景リゾート厳選3宿',
     description: '東海道新幹線で東京から最速35分！全室コンドミニアム仕様＆無料展望貸切温泉が評判の「グランビュー熱海」、サンビーチ目の前で展望大浴場を誇る「ホテルサンミ倶楽部 別館」、相模湾を見下ろす高台フレンチオーベルジュ「フォンテーヌ・ブロー熱海」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/shizuoka-atami-solo-retreat-ocean-onsen-stay',
+    url: 'https://croud-travel.pages.dev/shizuoka-atami-solo-retreat-ocean-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-atami-solo-retreat-ocean-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-atami-solo-retreat-ocean-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【熱海温泉ひとり旅・海一望おこもり】相模湾オーシャンビュー・貸切源泉露天・熱海海上花火！昭和レトロと絶景リゾート厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-atami-solo-retreat-ocean-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【熱海温泉ひとり旅・海一望おこもり】相模湾オーシャンビュー・貸切源泉露天・熱海海上花火！昭和レトロと絶景リゾート厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-atami-solo-retreat-ocean-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

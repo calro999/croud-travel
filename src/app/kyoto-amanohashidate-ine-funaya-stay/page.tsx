@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '京都・天橋立＆伊根の舟屋：股のぞき・舟屋クルーズ＆冬の間人ガニ・名湯宿 厳選ガイド',
     description: '日本三景「天橋立」の砂嘴を股の間からのぞく飛龍観・傘松公園、海抜ゼロメートルに建ち並ぶ二百三十軒の伝統的建築群「伊根の舟屋」遊覧クルーズ、冬の日本海の幻の最高峰「丹後間人ガニ（たいざがに）」と天橋立温泉を徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/kyoto-amanohashidate-ine-funaya-stay',
+    url: 'https://croud-travel.pages.dev/kyoto-amanohashidate-ine-funaya-stay/',
   },
 };
 

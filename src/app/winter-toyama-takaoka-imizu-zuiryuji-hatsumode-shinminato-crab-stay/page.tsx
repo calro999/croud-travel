@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月富山：国宝「高岡瑞龍寺」初詣と雨晴海岸の気嵐絶景！名宿5選',
     description: '北陸富山の歴史遺産と冬の富山湾の味覚に酔いしれる11〜1月の冬旅ガイド。加賀前田家ゆかりの国宝「高岡瑞龍寺」の新春初詣や日本三大仏「高岡大仏」。',
-    url: 'https://croud-travel.pages.dev/winter-toyama-takaoka-imizu-zuiryuji-hatsumode-shinminato-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-toyama-takaoka-imizu-zuiryuji-hatsumode-shinminato-crab-stay/',
     type: 'article',
     images: [
       {
@@ -61,7 +61,7 @@ export default function ToyamaTakaokaImizuWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-toyama-takaoka-imizu-zuiryuji-hatsumode-shinminato-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-toyama-takaoka-imizu-zuiryuji-hatsumode-shinminato-crab-stay/"
         }
       },
       {
@@ -77,13 +77,13 @@ export default function ToyamaTakaokaImizuWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "富山・高岡瑞龍寺初詣＆雨晴気嵐・新湊カニ名宿",
-            "item": "https://croud-travel.pages.dev/winter-toyama-takaoka-imizu-zuiryuji-hatsumode-shinminato-crab-stay"
+            "item": "https://croud-travel.pages.dev/winter-toyama-takaoka-imizu-zuiryuji-hatsumode-shinminato-crab-stay/"
           }
         ]
       },
@@ -270,7 +270,7 @@ export default function ToyamaTakaokaImizuWinterPage() {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-600 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-blue-600">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/features" className="hover:text-blue-600">特集一覧</Link>
+            <Link href="/features/" className="hover:text-blue-600">特集一覧</Link>
             <span>&gt;</span>
             <span className="text-slate-900 font-semibold">富山・高岡瑞龍寺初詣＆雨晴気嵐・新湊カニ名宿</span>
           </div>
@@ -580,22 +580,22 @@ export default function ToyamaTakaokaImizuWinterPage() {
               <span>富山および北陸甲信越の冬の厳選温泉・カニ特集</span>
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
-              <Link href="/winter-toyama-unazuki-onsen-kurobe-snow-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-blue-400 transition font-medium text-slate-700">
+              <Link href="/winter-toyama-unazuki-onsen-kurobe-snow-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-blue-400 transition font-medium text-slate-700">
                 ♨️ 宇奈月温泉と黒部峡谷雪景色名宿
               </Link>
-              <Link href="/winter-toyama-shogawa-onsen-snow-cruise-crab-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-blue-400 transition font-medium text-slate-700">
+              <Link href="/winter-toyama-shogawa-onsen-snow-cruise-crab-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-blue-400 transition font-medium text-slate-700">
                 🚢 庄川峡雪見クルーズと温泉名宿
               </Link>
-              <Link href="/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-blue-400 transition font-medium text-slate-700">
+              <Link href="/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-blue-400 transition font-medium text-slate-700">
                 🦀 金沢兼六園雪吊りと香箱ガニ名宿
               </Link>
-              <Link href="/winter-fukui-echizen-coast-suisen-crab-misaki-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-blue-400 transition font-medium text-slate-700">
+              <Link href="/winter-fukui-echizen-coast-suisen-crab-misaki-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-blue-400 transition font-medium text-slate-700">
                 🦀 越前海岸水仙まつりと越前がに名宿
               </Link>
-              <Link href="/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-blue-400 transition font-medium text-slate-700">
+              <Link href="/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-blue-400 transition font-medium text-slate-700">
                 🎿 妙高赤倉温泉雪見露天とのどぐろ名宿
               </Link>
-              <Link href="/features" className="p-3 bg-blue-700 text-white rounded-xl font-bold hover:bg-blue-800 transition text-center flex items-center justify-center">
+              <Link href="/features/" className="p-3 bg-blue-700 text-white rounded-xl font-bold hover:bg-blue-800 transition text-center flex items-center justify-center">
                 ❄️ 全国の冬の厳選特集一覧を見る →
               </Link>
             </div>

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '東伊豆・稲取温泉ひとり旅・太平洋インフィニティ絶景おこもり：波打ち際露天風呂・金目鯛煮付け発祥の地・雛のつるし飾り！伊豆急直通の海リトリート厳選3宿',
     description: '岬の先端に突き出た東伊豆屈指のオーシャンビュー温泉地・稲取温泉！全室オーシャンビューと絶景インフィニティ露天風呂が口コミ★4.5超の「海一望絶景の宿 いなとり荘」、多彩な展望露天と金目鯛姿煮が自慢の「稲取東海ホテル湯苑」、全室露天風呂付きの贅沢空間「石花海」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/shizuoka-inatori-solo-retreat-ocean-onsen-stay',
+    url: 'https://croud-travel.pages.dev/shizuoka-inatori-solo-retreat-ocean-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-inatori-solo-retreat-ocean-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-inatori-solo-retreat-ocean-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【東伊豆・稲取温泉ひとり旅・太平洋インフィニティ絶景おこもり】波打ち際露天風呂・金目鯛煮付け発祥の地・雛のつるし飾り！伊豆急直通の海リトリート厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-inatori-solo-retreat-ocean-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【東伊豆・稲取温泉ひとり旅・太平洋インフィニティ絶景おこもり】波打ち際露天風呂・金目鯛煮付け発祥の地・雛のつるし飾り！伊豆急直通の海リトリート厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-inatori-solo-retreat-ocean-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

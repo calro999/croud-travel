@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: '日本三大瓦の町＆美しいいぶし銀の街並み・赤瓦景観と名湯美食宿×ふるさと納税厳選ガイド淡路瓦・三州瓦・石州瓦',
     description: '日本の屋根を守り抜いた匠の技と伝統の景観！兵庫「淡路瓦」いぶし銀の風情と淡路牛・あわかん釣りと家族の体験型旅館、愛知「三州瓦」日本一の瓦産地・刈谷エースイン刈谷、島根「石州瓦」日本海の夕日に輝く赤瓦の町並みとMASCOS HOTEL。日本三大瓦の町を巡る工芸と美食の旅を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-roof-tile-towns-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-roof-tile-towns-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -396,7 +396,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-pottery-festivals-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-pottery-festivals-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大陶器まつり＆名窯工芸宿×ふるさと納税完全ガイド
               </div>
@@ -405,7 +405,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-beautiful-ports-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-beautiful-ports-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大美港＆夜景オーシャンビュー宿×ふるさと納税完全ガイド
               </div>
@@ -414,7 +414,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-pine-groves-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-pine-groves-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税完全ガイド
               </div>

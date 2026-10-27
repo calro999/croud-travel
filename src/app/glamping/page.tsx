@@ -302,7 +302,7 @@ export default function GlampingHubPage() {
             <div className="mt-6 pt-5 border-t border-slate-100 flex flex-col sm:flex-row items-center justify-between gap-3 bg-slate-50 p-4 rounded-2xl">
               <span className="text-xs text-slate-600">実際の失敗談や事前の準備チェックはこちら：</span>
               <Link
-                href="/glamping-first-time-regrets-packing-guide"
+                href="/glamping-first-time-regrets-packing-guide/"
                 className="text-emerald-700 hover:text-emerald-800 font-bold text-xs md:text-sm flex items-center gap-1 underline"
               >
                 初めてのグランピングで後悔したことワースト5＆持ち物チェックリスト →
@@ -331,7 +331,7 @@ export default function GlampingHubPage() {
                 エリア・ロケーションから選ぶ
               </h3>
               <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-3.5">
-                <Link href="/silver-week-glamping-kanto-fuji-guide" className="p-4 rounded-xl border border-slate-100 hover:border-emerald-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-kanto-fuji-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-emerald-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-emerald-700">関東・甲信越</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">富士山・関東グランピング</h4>
@@ -340,7 +340,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-emerald-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-kansai-biwako-awaji-guide" className="p-4 rounded-xl border border-slate-100 hover:border-emerald-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-kansai-biwako-awaji-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-emerald-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-teal-700">関西</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">関西 琵琶湖＆淡路島</h4>
@@ -349,7 +349,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-emerald-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-tokai-shizuoka-aichi-guide" className="p-4 rounded-xl border border-slate-100 hover:border-emerald-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-tokai-shizuoka-aichi-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-emerald-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-orange-700">東海・中部</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">東海・静岡・伊豆・愛知</h4>
@@ -358,7 +358,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-emerald-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-kyushu-fukuoka-kumamoto-guide" className="p-4 rounded-xl border border-slate-100 hover:border-emerald-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-kyushu-fukuoka-kumamoto-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-emerald-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-emerald-700">九州</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">九州・阿蘇・糸島・由布院</h4>
@@ -367,7 +367,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-emerald-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-tohoku-sendai-fukushima-guide" className="p-4 rounded-xl border border-slate-100 hover:border-emerald-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-tohoku-sendai-fukushima-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-emerald-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-rose-700">東北</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">東北・仙台・福島・宮城</h4>
@@ -376,7 +376,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-emerald-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-hokkaido-sapporo-furano-guide" className="p-4 rounded-xl border border-slate-100 hover:border-emerald-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-hokkaido-sapporo-furano-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-emerald-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-blue-700">北海道</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">北海道・札幌・富良野・トマム</h4>
@@ -385,7 +385,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-emerald-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-chugoku-shikoku-setouchi-guide" className="p-4 rounded-xl border border-slate-100 hover:border-emerald-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-chugoku-shikoku-setouchi-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-emerald-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-amber-700">中国・四国</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">瀬戸内・しまなみ・四国</h4>
@@ -394,7 +394,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-emerald-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-sea-kayak-marine-guide" className="p-4 rounded-xl border border-slate-100 hover:border-emerald-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-sea-kayak-marine-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-emerald-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-cyan-700">海・ビーチ</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">海沿いグランピング＆マリン体験</h4>
@@ -403,7 +403,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-emerald-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-riverside-valley-fishing-guide" className="p-4 rounded-xl border border-slate-100 hover:border-emerald-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-riverside-valley-fishing-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-emerald-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-emerald-700">清流・渓谷</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">清流リバーサイド＆川遊び</h4>
@@ -412,7 +412,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-emerald-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-stargazing-astronomy-guide" className="p-4 rounded-xl border border-slate-100 hover:border-emerald-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-stargazing-astronomy-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-emerald-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-indigo-700">高原・星空</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">高標高エリア・星空観察</h4>
@@ -430,7 +430,7 @@ export default function GlampingHubPage() {
                 設備や体験から選ぶ
               </h3>
               <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-3.5">
-                <Link href="/silver-week-glamping-private-sauna-guide" className="p-4 rounded-xl border border-slate-100 hover:border-rose-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-private-sauna-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-rose-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-rose-700">サウナ</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">プライベートサウナ付き</h4>
@@ -439,7 +439,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-rose-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-hotspring-onsen-spa-guide" className="p-4 rounded-xl border border-slate-100 hover:border-rose-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-hotspring-onsen-spa-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-rose-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-amber-700">温泉</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">天然温泉・露天風呂付き</h4>
@@ -448,7 +448,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-rose-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-private-pool-jacuzzi-guide" className="p-4 rounded-xl border border-slate-100 hover:border-rose-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-private-pool-jacuzzi-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-rose-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-cyan-700">プール・ジャグジー</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">専用プール＆ジャグジー付き</h4>
@@ -457,7 +457,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-rose-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-luxury-suite-villa-guide" className="p-4 rounded-xl border border-slate-100 hover:border-rose-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-luxury-suite-villa-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-rose-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-indigo-700">一棟貸し</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">独立型ラグジュアリーヴィラ</h4>
@@ -466,7 +466,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-rose-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-air-conditioning-luxury-bed-guide" className="p-4 rounded-xl border border-slate-100 hover:border-rose-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-air-conditioning-luxury-bed-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-rose-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-emerald-700">水回り重視</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">個別トイレ・バス＆快適ベッド</h4>
@@ -475,7 +475,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-rose-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-cinema-theater-projector-guide" className="p-4 rounded-xl border border-slate-100 hover:border-rose-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-cinema-theater-projector-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-rose-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-indigo-700">シアター</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">プロジェクター付きドーム</h4>
@@ -484,7 +484,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-rose-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-rainy-weather-indoor-guide" className="p-4 rounded-xl border border-slate-100 hover:border-rose-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-rainy-weather-indoor-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-rose-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-slate-700">全天候型</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">屋根付きBBQデッキ完備</h4>
@@ -493,7 +493,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-rose-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-bonfire-marshmallow-bar-guide" className="p-4 rounded-xl border border-slate-100 hover:border-rose-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-bonfire-marshmallow-bar-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-rose-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-amber-700">夜の時間</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">焚き火スペース＆カフェBAR</h4>
@@ -502,7 +502,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-rose-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-morning-yoga-mindfulness-guide" className="p-4 rounded-xl border border-slate-100 hover:border-rose-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-morning-yoga-mindfulness-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-rose-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-teal-700">リトリート</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">森林浴・リフレッシュ体験</h4>
@@ -520,7 +520,7 @@ export default function GlampingHubPage() {
                 食事スタイルから選ぶ
               </h3>
               <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-3.5">
-                <Link href="/silver-week-glamping-bbq-empty-handed-guide" className="p-4 rounded-xl border border-slate-100 hover:border-amber-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-bbq-empty-handed-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-amber-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-amber-700">手ぶら食事付き</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">手ぶらバーベキュープラン</h4>
@@ -529,7 +529,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-amber-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-kitchen-cooking-local-food-guide" className="p-4 rounded-xl border border-slate-100 hover:border-amber-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-kitchen-cooking-local-food-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-amber-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-emerald-700">自炊・持ち込み</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">キッチン付き・食材持ち込み自由</h4>
@@ -538,7 +538,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-amber-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-wine-brewery-craftbeer-guide" className="p-4 rounded-xl border border-slate-100 hover:border-amber-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-wine-brewery-craftbeer-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-amber-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-rose-700">ドリンク充実</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">ワイン・地ビール提供施設</h4>
@@ -556,7 +556,7 @@ export default function GlampingHubPage() {
                 同行者・人数・予算から選ぶ
               </h3>
               <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-3.5">
-                <Link href="/silver-week-glamping-with-dogs-pets-guide" className="p-4 rounded-xl border border-slate-100 hover:border-blue-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-with-dogs-pets-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-blue-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-amber-700">ペット同伴</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">愛犬と泊まれるグランピング</h4>
@@ -565,7 +565,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-blue-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-kids-play-activity-guide" className="p-4 rounded-xl border border-slate-100 hover:border-blue-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-kids-play-activity-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-blue-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-emerald-700">子連れファミリー</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">遊具や体験アクティビティ付き</h4>
@@ -574,7 +574,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-blue-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-three-generation-family-guide" className="p-4 rounded-xl border border-slate-100 hover:border-blue-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-three-generation-family-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-blue-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-teal-700">3世代旅行</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">3世代対応・和洋室ヴィラ</h4>
@@ -583,7 +583,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-blue-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-cheap-student-budget-guide" className="p-4 rounded-xl border border-slate-100 hover:border-blue-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-cheap-student-budget-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-blue-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-slate-700">予算重視</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">リーズナブルなコテージ・宿</h4>
@@ -592,7 +592,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-blue-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-car-free-bus-train-guide" className="p-4 rounded-xl border border-slate-100 hover:border-blue-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-car-free-bus-train-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-blue-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-teal-700">車なし・公共交通</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">電車や送迎で行ける施設</h4>
@@ -601,7 +601,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-blue-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-solo-stay-retreat-guide" className="p-4 rounded-xl border border-slate-100 hover:border-blue-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-solo-stay-retreat-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-blue-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-indigo-700">1名利用</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">ソログランピング対応施設</h4>
@@ -610,7 +610,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-blue-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-large-group-charter-guide" className="p-4 rounded-xl border border-slate-100 hover:border-blue-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-large-group-charter-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-blue-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-indigo-700">大人数・貸切</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">大人数向け・棟貸切プラン</h4>
@@ -619,7 +619,7 @@ export default function GlampingHubPage() {
                   <span className="text-xs font-semibold text-blue-600 mt-3">記事を読む →</span>
                 </Link>
 
-                <Link href="/silver-week-glamping-last-minute-empty-rooms-guide" className="p-4 rounded-xl border border-slate-100 hover:border-blue-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
+                <Link href="/silver-week-glamping-last-minute-empty-rooms-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-blue-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
                     <span className="text-xs font-bold text-rose-700">直前予約</span>
                     <h4 className="font-bold text-slate-800 text-sm mt-1 mb-1.5">直前予約・空室探しのポイント</h4>

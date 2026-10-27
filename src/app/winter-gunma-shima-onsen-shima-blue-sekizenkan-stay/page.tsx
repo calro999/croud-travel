@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '四万温泉で過ごす冬の旅（11・12月）！清流雪見露天！名宿5選',
     description: '11月から12月にかけて上州・群馬の奥座敷「四万温泉」は、四万川や奥四万湖が年間で最も澄み渡る奇跡のコバルトブルー「四万ブルー」を湛え。',
-    url: 'https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay',
+    url: 'https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function ShimaOnsenWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay"
+          "@id": "https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay/"
         },
         "headline": "【11・12月群馬・四万温泉の神秘の四万ブルーと千二百年霊泉】積善館の歴史情緒・上州牛会席＆清流雪見露天の宿5選",
         "description": "11月から12月にかけて上州・群馬の奥座敷「四万温泉」は、四万川や奥四万湖が年間で最も澄み渡る奇跡のコバルトブルー「四万ブルー」を湛え、渓谷の木々が晩秋の落葉から初雪の白銀へと移ろう幽玄の季節を迎えます。「四万の病を癒やす霊泉」として開湯1200年の歴史を誇る名湯は、胃腸病や美肌に効能高い弱食塩・硫酸塩泉。日本最古の木造湯宿建築として名高い積善館をはじめ、四万川の渓流沿いに佇む自家源泉掛け流しの名旅館、甘みあふれる群馬の特選上州牛や冬の旬菜会席を堪能する極上宿5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function ShimaOnsenWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "群馬・四万温泉 神秘の四万ブルーと積善館・上州牛の宿",
-            "item": "https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay"
+            "item": "https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay/"
           }
         ]
       },
@@ -592,42 +592,42 @@ export default function ShimaOnsenWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay"
+              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">群馬・草津温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">湯畑ライトアップと天下の名湯強酸性泉・上州牛すき焼きの宿</h3>
             </Link>
             <Link 
-              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay"
+              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">群馬・伊香保温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">365段の石段街と黄金の湯・白銀の湯・上州牛会席を満喫する宿</h3>
             </Link>
             <Link 
-              href="/winter-gunma-minakami-onsen-tanigawa-yukimi-stay"
+              href="/winter-gunma-minakami-onsen-tanigawa-yukimi-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">群馬・水上温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">谷川岳初雪パノラマと利根川渓流雪見露天・みなかみ旬会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay"
+              href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">栃木・那須温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">開湯千三百年鹿の湯白濁硫黄泉と那須黒毛和牛ステーキの宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay"
+              href="/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">長野・湯田中渋温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">地獄谷スノーモンキーと九つの外湯めぐり・信州牛すき焼きの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">特集一覧</span>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '徳島出張＆眉山ひとり旅：徳島駅直結・リバーサイド天然温泉・阿波尾鶏＆徳島ラーメン！四国の東玄関で癒やされる極上ホテル 厳選3選',
     description: '本州（神戸・淡路島）から高速バス直結・阿波おどりの本場「徳島」！「JR徳島駅直結で眉山を望むランドマークホテル」の「JRホテルクレメント徳島」、新町川のリバーサイドに天然温泉大浴場を備えた「徳島グランヴィリオホテル」、徳島駅前徒歩1分で安心ステイの「ダイワロイネットホテル徳島駅前」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/tokushima-solo-business-awataisen-onsen-stay',
+    url: 'https://croud-travel.pages.dev/tokushima-solo-business-awataisen-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T15:30:00+09:00',
     dateModified: '2026-10-19T15:30:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/tokushima-solo-business-awataisen-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/tokushima-solo-business-awataisen-onsen-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【徳島出張＆眉山ひとり旅】徳島駅直結・リバーサイド天然温泉・阿波尾鶏＆徳島ラーメン！四国の東玄関で癒やされる極上ホテル 厳選3選","item":"https://croud-travel.pages.dev/tokushima-solo-business-awataisen-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【徳島出張＆眉山ひとり旅】徳島駅直結・リバーサイド天然温泉・阿波尾鶏＆徳島ラーメン！四国の東玄関で癒やされる極上ホテル 厳選3選","item":"https://croud-travel.pages.dev/tokushima-solo-business-awataisen-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

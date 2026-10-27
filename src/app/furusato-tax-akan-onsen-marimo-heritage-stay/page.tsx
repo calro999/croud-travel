@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '阿寒湖温泉をふるさと納税でお得に旅する！天然記念物マリモの湖＆阿寒連峰パノラマ！鶴雅リゾート特集｜遊久の里鶴雅・鶴雅別荘鄙の座・ニュー阿寒ホテル',
     description: '道東の大自然とアイヌ文化が息づく阿寒摩周国立公園・北海道阿寒湖温泉を楽天ふるさと納税でお得に贅沢ステイ！最上階展望風呂と阿寒湖絶景を誇る「あかん遊久の里 鶴雅」、全室露天風呂付き・大人の至高オールインクルーシブ「あかん鶴雅別荘 鄙の座」、屋上インフィニティ温泉の「ニュー阿寒ホテル」を徹底比較。釧路市トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-akan-onsen-marimo-heritage-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-akan-onsen-marimo-heritage-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T17:00:00+09:00',
     dateModified: '2026-10-19T17:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-akan-onsen-marimo-heritage-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-akan-onsen-marimo-heritage-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【阿寒湖温泉×ふるさと納税】天然記念物マリモの湖＆阿寒連峰パノラマ！鶴雅リゾート特集｜遊久の里鶴雅・鶴雅別荘鄙の座・ニュー阿寒ホテル","item":"https://croud-travel.pages.dev/furusato-tax-akan-onsen-marimo-heritage-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【阿寒湖温泉×ふるさと納税】天然記念物マリモの湖＆阿寒連峰パノラマ！鶴雅リゾート特集｜遊久の里鶴雅・鶴雅別荘鄙の座・ニュー阿寒ホテル","item":"https://croud-travel.pages.dev/furusato-tax-akan-onsen-marimo-heritage-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【阿寒湖温泉×ふるさと納税】天然記念物マリモの湖＆阿寒連峰パノラマ！鶴雅リゾート特集｜遊久の里鶴雅・鶴雅別荘鄙の座・ニュー阿寒ホテル</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-tsukioka-onsen-emerald-bihada-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-tsukioka-onsen-emerald-bihada-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 月岡温泉 エメラルドグリーン硫黄泉＆極上越後会席
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-shima-onsen-retro-sekizenkan-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-shima-onsen-retro-sekizenkan-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 四万温泉 レトロ重要文化財「元禄の湯」＆四万ブルー
               </Link>
             </li>

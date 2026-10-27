@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "下旬！上高地黄金のカラマツ黄葉で過ごす冬の旅（10月）！大正池・河童橋と乳白色の白骨名湯宿5選",
     description: "穂高連峰が初冠雪を抱き、梓川沿いのカラマツ並木が黄金色に輝く秋の上高地！大正池の朝靄から、3日入れば3年風邪をひかない乳白色の秘湯・白骨温泉の名宿まで厳選5選。",
-    url: 'https://croud-travel.pages.dev/autumn-nagano-kamikochi-karamatsu-shirahone-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-nagano-kamikochi-karamatsu-shirahone-onsen-hotels-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -141,7 +141,7 @@ export default function FeaturePage() {
       <nav className="max-w-5xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-500 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
         <Link href="/" className="hover:text-amber-600">ホーム</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <Link href="/features" className="hover:text-amber-600">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-600">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <span className="text-stone-800 font-medium truncate">【10月下旬！上高地黄金のカラマツ黄葉】大正池・河童橋と乳白色の白骨名湯宿5選</span>
       </nav>
@@ -187,8 +187,8 @@ export default function FeaturePage() {
             "@type": "BreadcrumbList",
             "itemListElement": [
               { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev/" },
-              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features" },
-              { "@type": "ListItem", "position": 3, "name": "【10月下旬！上高地黄金のカラマツ黄葉】大正池・河童橋と乳白色の白骨名湯宿5選", "item": "https://croud-travel.pages.dev/autumn-nagano-kamikochi-karamatsu-shirahone-onsen-hotels-stay" }
+              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features/" },
+              { "@type": "ListItem", "position": 3, "name": "【10月下旬！上高地黄金のカラマツ黄葉】大正池・河童橋と乳白色の白骨名湯宿5選", "item": "https://croud-travel.pages.dev/autumn-nagano-kamikochi-karamatsu-shirahone-onsen-hotels-stay/" }
             ]
           }) }}
         />

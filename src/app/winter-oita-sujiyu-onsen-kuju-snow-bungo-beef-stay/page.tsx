@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '大分・筋湯温泉で過ごす冬の旅（11・12月）！くじゅう連山初冬の霧氷雪景色！名宿5選',
     description: '11月中旬から九州屈指の寒冷地である標高1000mの九重高原を初冬の冷気が包み込み。',
-    url: 'https://croud-travel.pages.dev/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -57,7 +57,7 @@ export default function OitaSujiyuKujuPage() {
         "datePublished": "T18:00:00+09:00",
         "dateModified": "T18:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -353,7 +353,7 @@ export default function OitaSujiyuKujuPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 sm:pt-14 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月大分・筋湯温泉】くじゅう連山初冬の霧氷雪景色！名宿5選","item":"https://croud-travel.pages.dev/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月大分・筋湯温泉】くじゅう連山初冬の霧氷雪景色！名宿5選","item":"https://croud-travel.pages.dev/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -649,7 +649,7 @@ export default function OitaSujiyuKujuPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay"
+              href="/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">大分・由布院温泉</span>
@@ -662,7 +662,7 @@ export default function OitaSujiyuKujuPage() {
             </Link>
 
             <Link 
-              href="/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay"
+              href="/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">大分・別府鉄輪温泉</span>
@@ -675,7 +675,7 @@ export default function OitaSujiyuKujuPage() {
             </Link>
 
             <Link 
-              href="/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay"
+              href="/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">大分・竹田長湯温泉</span>

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "紅葉＆ハロウィン！秋の軽井沢で過ごす冬の旅（10月）！雲場池もみじと星野・旧軽井沢リゾートホテル5選",
     description: "水鏡に紅葉が映る雲場池や星野エリアの秋！爽やかな高原の紅葉散策とハロウィンの華やぎに包まれる軽井沢。美食フレンチや温泉露天風呂が魅力のリゾート宿5選。",
-    url: 'https://croud-travel.pages.dev/autumn-nagano-karuizawa-momiji-halloween-resort-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-nagano-karuizawa-momiji-halloween-resort-hotels-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -141,7 +141,7 @@ export default function FeaturePage() {
       <nav className="max-w-5xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-500 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
         <Link href="/" className="hover:text-amber-600">ホーム</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <Link href="/features" className="hover:text-amber-600">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-600">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <span className="text-stone-800 font-medium truncate">【10月紅葉＆ハロウィン！秋の軽井沢】雲場池もみじと星野・旧軽井沢リゾートホテル5選</span>
       </nav>
@@ -187,8 +187,8 @@ export default function FeaturePage() {
             "@type": "BreadcrumbList",
             "itemListElement": [
               { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev/" },
-              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features" },
-              { "@type": "ListItem", "position": 3, "name": "【10月紅葉＆ハロウィン！秋の軽井沢】雲場池もみじと星野・旧軽井沢リゾートホテル5選", "item": "https://croud-travel.pages.dev/autumn-nagano-karuizawa-momiji-halloween-resort-hotels-stay" }
+              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features/" },
+              { "@type": "ListItem", "position": 3, "name": "【10月紅葉＆ハロウィン！秋の軽井沢】雲場池もみじと星野・旧軽井沢リゾートホテル5選", "item": "https://croud-travel.pages.dev/autumn-nagano-karuizawa-momiji-halloween-resort-hotels-stay/" }
             ]
           }) }}
         />

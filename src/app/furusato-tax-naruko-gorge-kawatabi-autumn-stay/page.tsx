@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '鳴子峡の大紅葉と鳴子温泉郷！日本随一の多彩な泉質めぐり・仙台牛と宮城新米を味わう秋の東北旅',
     description: '10月・11月の宮城・大崎鳴子温泉特集！深さ100mの断崖を染める鳴子峡（大深沢橋）の圧巻の紅葉パノラマ、日本に存在する10泉質のうち8泉質が集まる鳴子温泉郷の湯めぐり、最高ランク仙台牛ステーキと宮城新米ササニシキ・ひとめぼれをふるさと納税で堪能。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-naruko-gorge-kawatabi-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-naruko-gorge-kawatabi-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-naruko-gorge-kawatabi-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-naruko-gorge-kawatabi-autumn-stay/"
   };
 
   const faqSchema = {
@@ -118,7 +118,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
           <Link href="/" className="hover:text-amber-700 underline">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-amber-700 underline">特集一覧</Link>
+          <Link href="/features/" className="hover:text-amber-700 underline">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-900 font-medium">宮城・鳴子峡＆鳴子温泉特集</span>
         </div>
@@ -128,7 +128,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"鳴子峡の大紅葉と鳴子温泉郷！日本随一の多彩な泉質めぐり・仙台牛と宮城新米を味わう秋の東北旅 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-naruko-gorge-kawatabi-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"鳴子峡の大紅葉と鳴子温泉郷！日本随一の多彩な泉質めぐり・仙台牛と宮城新米を味わう秋の東北旅 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-naruko-gorge-kawatabi-autumn-stay/"}]}) }}
       />
 
         {/* Introduction */}
@@ -646,8 +646,8 @@ export default function Page() {
         <div className="max-w-5xl mx-auto space-y-4">
           <div className="flex justify-center gap-4 text-stone-300">
             <Link href="/" className="hover:text-white">トップページ</Link>
-            <Link href="/features" className="hover:text-white">特集一覧</Link>
-            <Link href="/privacy" className="hover:text-white">プライバシーポリシー</Link>
+            <Link href="/features/" className="hover:text-white">特集一覧</Link>
+            <Link href="/privacy/" className="hover:text-white">プライバシーポリシー</Link>
           </div>
           <p>© 2026 クラウドトラベル (croud-travel.pages.dev) All Rights Reserved.</p>
         </div>

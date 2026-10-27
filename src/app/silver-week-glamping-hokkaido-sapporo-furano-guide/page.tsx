@@ -144,7 +144,7 @@ export default function SilverWeekGlampingHokkaidoPage() {
     <div className="min-h-screen bg-cyan-950/5 text-slate-800 space-y-12 pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【北海道シルバーウィーク グランピング】札幌・富良野・トマム！秋晴れの爽快リゾートヴィラ ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/silver-week-glamping-hokkaido-sapporo-furano-guide"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【北海道シルバーウィーク グランピング】札幌・富良野・トマム！秋晴れの爽快リゾートヴィラ ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/silver-week-glamping-hokkaido-sapporo-furano-guide/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -376,7 +376,7 @@ export default function SilverWeekGlampingHokkaidoPage() {
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
           <Link
-            href="/hokkaido-travel-budget-plan"
+            href="/hokkaido-travel-budget-plan/"
             className="block p-4 rounded-2xl bg-slate-900/90 border border-slate-800 hover:border-cyan-400 hover:bg-slate-900 transition group"
           >
             <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -388,7 +388,7 @@ export default function SilverWeekGlampingHokkaidoPage() {
           </Link>
 
           <Link
-            href="/hokkaido-family-trip-zoo-nature-guide"
+            href="/hokkaido-family-trip-zoo-nature-guide/"
             className="block p-4 rounded-2xl bg-slate-900/90 border border-slate-800 hover:border-cyan-400 hover:bg-slate-900 transition group"
           >
             <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -404,7 +404,7 @@ export default function SilverWeekGlampingHokkaidoPage() {
       {/* 都道府県一覧への導線 */}
       <div className="text-center pt-4">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-cyan-950 bg-cyan-50 hover:bg-cyan-100 border border-cyan-200 px-8 py-3.5 rounded-2xl transition shadow-sm"
         >
           <span>🗾</span>

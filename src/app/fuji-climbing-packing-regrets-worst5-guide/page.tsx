@@ -260,13 +260,13 @@ export default function FujiClimbingPackingRegretsPage() {
           </div>
           <div className="flex flex-wrap items-center gap-2">
             <Link
-              href="/fuji-five-lakes-car-free-bus-guide"
+              href="/fuji-five-lakes-car-free-bus-guide/"
               className="inline-flex items-center text-xs font-bold text-emerald-800 bg-white border border-emerald-300 hover:bg-emerald-600 hover:text-white px-3 py-1.5 rounded-xl shadow-xs transition"
             >
               富士五湖車なし周遊バスガイド →
             </Link>
             <Link
-              href="/tokyo-fujikawaguchiko-highway-bus-guide"
+              href="/tokyo-fujikawaguchiko-highway-bus-guide/"
               className="inline-flex items-center text-xs font-bold text-emerald-800 bg-white border border-emerald-300 hover:bg-emerald-600 hover:text-white px-3 py-1.5 rounded-xl shadow-xs transition"
             >
               東京〜河口湖高速バス完全攻略 →

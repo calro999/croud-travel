@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：水盤と空が一体化する！インフィニティ足湯テラス＆絶景ラウンジ付き温泉宿5選',
     description: '2026年最新！雄大な海や山並みを見渡すインフィニティ足湯テラスでドリンクを片手に優雅な時間を過ごせる極上モダン温泉リゾート5選。',
-    url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-infinity-edge-footbath',
+    url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-infinity-edge-footbath/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-private-onsen-with-infinity-edge-footbath"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-private-onsen-with-infinity-edge-footbath/"
   };
 
   const faqSchema = {
@@ -144,7 +144,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">インフィニティ足湯×絶景テラス</span>
         </div>
@@ -163,7 +163,7 @@ export default function Page() {
             水盤の先に広がる青い空と海、夕暮れには茜色の空が映り込む幻想的なインフィニティ足湯テラス。足元からじんわりと温まりながら、バーカウンターのオリジナルカクテルやカフェを愉しむ。非日常の絶景とデザイン美に浸る大人の休日。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】水盤と空が一体化する！インフィニティ足湯テラス＆絶景ラウンジ付き温泉宿5選" url="https://croud-travel.pages.dev/luxury-private-onsen-with-infinity-edge-footbath" />
+            <ShareButtons title="【2026年】水盤と空が一体化する！インフィニティ足湯テラス＆絶景ラウンジ付き温泉宿5選" url="https://croud-travel.pages.dev/luxury-private-onsen-with-infinity-edge-footbath/" />
           </div>
         </div>
       </header>
@@ -172,7 +172,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】水盤と空が一体化する！インフィニティ足湯テラス＆絶景ラウンジ付き温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/luxury-private-onsen-with-infinity-edge-footbath"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】水盤と空が一体化する！インフィニティ足湯テラス＆絶景ラウンジ付き温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/luxury-private-onsen-with-infinity-edge-footbath/"}]}) }}
       />
         
         {/* クーポンバナー */}

@@ -87,7 +87,7 @@ export default async function FeaturesPage() {
           </p>
         </div>
         <Link
-          href="/campaigns/autumn-gourmet-travel"
+          href="/campaigns/autumn-gourmet-travel/"
           className="w-full md:w-auto px-8 py-4 bg-white text-amber-900 hover:bg-amber-50 font-black text-xs md:text-sm rounded-2xl shadow-md transition text-center whitespace-nowrap"
         >
           秋の味覚 特集まとめを見る →
@@ -108,7 +108,7 @@ export default async function FeaturesPage() {
           </p>
         </div>
         <Link
-          href="/winter-travel-special"
+          href="/winter-travel-special/"
           className="w-full md:w-auto px-8 py-4 bg-sky-400 text-sky-950 hover:bg-sky-300 font-black text-xs md:text-sm rounded-2xl shadow-md transition text-center whitespace-nowrap"
         >
           冬の厳選特集まとめを見る →

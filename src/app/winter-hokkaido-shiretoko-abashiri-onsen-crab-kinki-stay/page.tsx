@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月北海道：網走の冬絶景とオホーツク海鮮！名宿5選',
     description: '11月から1月、世界自然遺産・知床ウトロとオホーツクの要衝・網走は、白銀に染まる知床連峰と凛と澄み渡るオホーツクブルーの海原が織りなす荘厳な。',
-    url: 'https://croud-travel.pages.dev/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '知床ウトロ・網走の冬絶景とオホーツク海鮮名宿',
-        item: 'https://croud-travel.pages.dev/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay'
+        item: 'https://croud-travel.pages.dev/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay/'
       }
     ]
   };
@@ -625,21 +625,21 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay" 
+              href="/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">北海道・トマム＆富良野</span>
               <p className="font-bold text-stone-800 line-clamp-2">氷の街アイスヴィレッジと極上富良野和牛・ふらのチーズフォンデュの冬宿</p>
             </Link>
             <Link 
-              href="/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay" 
+              href="/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">北海道・ニセコ温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">世界最高峰のパウダースノーと羊蹄山ビュー露天風呂・贅沢リゾートステイ</p>
             </Link>
             <Link 
-              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay" 
+              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">北海道・登別温泉</span>

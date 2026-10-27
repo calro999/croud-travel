@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の長崎×格安：グラバー園の秋バラと世界新三大夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」',
     description: 'グラバー園の秋バラと稲佐山夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強長崎ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay/',
   }
 };
 

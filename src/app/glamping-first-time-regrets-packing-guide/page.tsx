@@ -233,13 +233,13 @@ export default function GlampingFirstTimeRegretsPage() {
           </div>
           <div className="flex flex-wrap items-center gap-2">
             <Link
-              href="/fuji-five-lakes-car-free-bus-guide"
+              href="/fuji-five-lakes-car-free-bus-guide/"
               className="inline-flex items-center text-xs font-bold text-teal-900 bg-white border border-teal-300 hover:bg-teal-600 hover:text-white px-3 py-1.5 rounded-xl shadow-xs transition"
             >
               富士五湖周遊バスモデルコース →
             </Link>
             <Link
-              href="/hakone-couple-1night2days-anniversary-guide"
+              href="/hakone-couple-1night2days-anniversary-guide/"
               className="inline-flex items-center text-xs font-bold text-teal-900 bg-white border border-teal-300 hover:bg-teal-600 hover:text-white px-3 py-1.5 rounded-xl shadow-xs transition"
             >
               箱根カップル記念日温泉1泊2日 →

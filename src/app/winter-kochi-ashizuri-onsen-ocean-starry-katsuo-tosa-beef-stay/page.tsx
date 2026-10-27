@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '高知・足摺温泉郷で過ごす冬の旅（11・12月）！戻り鰹藁焼きタタキ！名宿5選',
     description: '11月から12月にかけて、四国最南端の足摺岬・足摺温泉郷は、初冬でも黒潮の暖流により温暖な気候に恵まれ、紺碧の太平洋が広がるダイナミックな断崖絶景と。',
-    url: 'https://croud-travel.pages.dev/winter-kochi-ashizuri-onsen-ocean-starry-katsuo-tosa-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-kochi-ashizuri-onsen-ocean-starry-katsuo-tosa-beef-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function KochiAshizuriWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-kochi-ashizuri-onsen-ocean-starry-katsuo-tosa-beef-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-kochi-ashizuri-onsen-ocean-starry-katsuo-tosa-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kochi-ashizuri-onsen-ocean-starry-katsuo-tosa-beef-stay/"
         },
         "headline": "【11・12月高知・足摺温泉郷の初冬黒潮絶景と満天星空】戻り鰹藁焼きタタキ＆幻の土佐あかうし会席を堪能する名宿5選",
         "description": "11月から12月にかけて、四国最南端の足摺岬・足摺温泉郷は、初冬でも黒潮の暖流により温暖な気候に恵まれ、紺碧の太平洋が広がるダイナミックな断崖絶景と、澄み渡る夜空一面に広がる満天の星空・天の川の絶好の観賞シーズンを迎えます。弘法大師ゆかりの千二百年の歴史を誇る「あしずり温泉」は、美肌と保温に優れた名湯。夕食には脂がたっぷりと乗った冬の戻り鰹を豪快な炎で焼き上げる本場藁焼きタタキ、引き締まった身が絶品の清水サバ、赤身の芳醇な旨味が凝縮した幻の和牛「土佐あかうし」を味わう厳選名宿5選を徹底解説します。",
@@ -100,13 +100,13 @@ export default function KochiAshizuriWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "高知・足摺温泉郷 初冬黒潮絶景と戻り鰹の宿",
-            "item": "https://croud-travel.pages.dev/winter-kochi-ashizuri-onsen-ocean-starry-katsuo-tosa-beef-stay"
+            "item": "https://croud-travel.pages.dev/winter-kochi-ashizuri-onsen-ocean-starry-katsuo-tosa-beef-stay/"
           }
         ]
       },
@@ -564,7 +564,7 @@ export default function KochiAshizuriWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
-              href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay"
+              href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-blue-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-700 bg-blue-100/60 px-2 py-0.5 rounded-full inline-block">徳島・鳴門</span>
@@ -576,7 +576,7 @@ export default function KochiAshizuriWinterFeature() {
               </p>
             </Link>
             <Link 
-              href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay"
+              href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-blue-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-700 bg-blue-100/60 px-2 py-0.5 rounded-full inline-block">香川・琴平</span>
@@ -588,7 +588,7 @@ export default function KochiAshizuriWinterFeature() {
               </p>
             </Link>
             <Link 
-              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay"
+              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-blue-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-700 bg-blue-100/60 px-2 py-0.5 rounded-full inline-block">愛媛・道後</span>
@@ -600,7 +600,7 @@ export default function KochiAshizuriWinterFeature() {
               </p>
             </Link>
             <Link 
-              href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay"
+              href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-blue-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-700 bg-blue-100/60 px-2 py-0.5 rounded-full inline-block">宮崎・青島</span>

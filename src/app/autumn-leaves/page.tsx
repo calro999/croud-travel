@@ -260,7 +260,7 @@ export default function AutumnLeavesOnsenPage() {
                 <div className="flex flex-wrap gap-2">
                   {guide.prefSlug && (
                     <Link
-                      href={`/prefectures/${guide.prefSlug}`}
+                      href={`/prefectures/${guide.prefSlug}/`}
                       className="text-xs font-bold text-white bg-teal-800 hover:bg-teal-700 px-3.5 py-1.5 rounded-xl transition shadow-sm"
                     >
                       🗾 {guide.prefName}全体ガイド →
@@ -276,7 +276,7 @@ export default function AutumnLeavesOnsenPage() {
       {/* 47都道府県トップへのリンク */}
       <div className="text-center pt-8">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-emerald-950 bg-white hover:bg-emerald-50 border border-emerald-950/20 px-8 py-3.5 rounded-2xl transition shadow-sm"
         >
           <span>🗾</span>

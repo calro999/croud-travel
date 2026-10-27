@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '旭川出張・男一人旅サウナ：天然温泉神威の湯・駅直結半露天・本場旭川醤油ラーメン！道北ビジネスを極上の癒やしに変える厳選3宿',
     description: '道北最大の拠点・旭川での出張やソロサウナ旅に！旭川駅直結で選べる枕と半露天風呂が人気の「ＪＲイン旭川」、自家源泉神威の湯と夜鳴きそばが至高の「ドーミーイン旭川」、スパサウナ充実の「ホテルＷＢＦグランデ旭川」を楽天APIデータに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/asahikawa-solo-business-ramen-sauna-stay',
+    url: 'https://croud-travel.pages.dev/asahikawa-solo-business-ramen-sauna-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T15:45:00+09:00',
     dateModified: '2026-10-19T15:45:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/asahikawa-solo-business-ramen-sauna-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/asahikawa-solo-business-ramen-sauna-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【旭川出張・男一人旅サウナ】天然温泉神威の湯・駅直結半露天・本場旭川醤油ラーメン！道北ビジネスを極上の癒やしに変える厳選3宿","item":"https://croud-travel.pages.dev/asahikawa-solo-business-ramen-sauna-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【旭川出張・男一人旅サウナ】天然温泉神威の湯・駅直結半露天・本場旭川醤油ラーメン！道北ビジネスを極上の癒やしに変える厳選3宿","item":"https://croud-travel.pages.dev/asahikawa-solo-business-ramen-sauna-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり：信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿',
     description: '開湯1400年、信州最古の歴史を誇る別所温泉！全館畳敷きの温もりと板前心尽くしの料理が口コミ★4.7超の「玉屋旅館」、眺望露天風呂と心のこもったもてなしが評判の「旅館 中松屋」、大正浪漫薫る登録有形文化財の木造建築美「旅館 花屋」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/nagano-bessho-solo-retreat-temple-onsen-stay',
+    url: 'https://croud-travel.pages.dev/nagano-bessho-solo-retreat-temple-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/nagano-bessho-solo-retreat-temple-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/nagano-bessho-solo-retreat-temple-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり】信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿","item":"https://croud-travel.pages.dev/nagano-bessho-solo-retreat-temple-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり】信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿","item":"https://croud-travel.pages.dev/nagano-bessho-solo-retreat-temple-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

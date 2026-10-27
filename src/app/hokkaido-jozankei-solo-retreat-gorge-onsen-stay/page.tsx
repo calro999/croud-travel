@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '札幌の奥座敷・定山渓温泉ひとり旅・豊平川渓谷おこもり：全室客室温泉露天・囲炉裏会席・源泉掛け流し湯守！札幌直通バス60分の極上リトリート厳選3宿',
     description: '原生林と豊平川の深い渓谷美に包まれる札幌の奥座敷・定山渓温泉！全室展望風呂付きで広大な敷地に静寂が広がる最高峰リゾート「奥定山渓温泉 佳松御苑」、民芸調の温もりと囲炉裏焼き・手作り温泉情緒が口コミ★4.6超の「ぬくもりの宿 ふる川」、名門の伝統と多彩な大浴場を誇る「定山渓第一寶亭留 翠山亭」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/hokkaido-jozankei-solo-retreat-gorge-onsen-stay',
+    url: 'https://croud-travel.pages.dev/hokkaido-jozankei-solo-retreat-gorge-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/hokkaido-jozankei-solo-retreat-gorge-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/hokkaido-jozankei-solo-retreat-gorge-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【札幌の奥座敷・定山渓温泉ひとり旅・豊平川渓谷おこもり】全室客室温泉露天・囲炉裏会席・源泉掛け流し湯守！札幌直通バス60分の極上リトリート厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-jozankei-solo-retreat-gorge-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【札幌の奥座敷・定山渓温泉ひとり旅・豊平川渓谷おこもり】全室客室温泉露天・囲炉裏会席・源泉掛け流し湯守！札幌直通バス60分の極上リトリート厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-jozankei-solo-retreat-gorge-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

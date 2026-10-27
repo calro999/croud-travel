@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '松本ひとり旅・民芸おこもり：国宝松本城・民芸家具クラシック・美ヶ原温泉！北アルプスの麓で心を整える名宿 厳選3選',
     description: '特急あずさ・しなの直結！北アルプスの山々に抱かれた信州の学都・長野県松本市。「国宝松本城徒歩すぐ・松本民芸家具に囲まれる名門クラシックホテル」を誇る「松本ホテル花月」、美ヶ原温泉の高台から北アルプスと松本市街を一望する「信州松本 美ヶ原温泉 翔峰」、駅前で天然温泉とサウナ・名物蕎麦朝食が嬉しい「ドーミーイン松本」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/matsumoto-solo-retreat-mingei-onsen-stay',
+    url: 'https://croud-travel.pages.dev/matsumoto-solo-retreat-mingei-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T03:30:00+09:00',
     dateModified: '2026-10-19T03:30:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/matsumoto-solo-retreat-mingei-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/matsumoto-solo-retreat-mingei-onsen-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【松本ひとり旅・民芸おこもり】国宝松本城・民芸家具クラシック・美ヶ原温泉！北アルプスの麓で心を整える名宿 厳選3選","item":"https://croud-travel.pages.dev/matsumoto-solo-retreat-mingei-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【松本ひとり旅・民芸おこもり】国宝松本城・民芸家具クラシック・美ヶ原温泉！北アルプスの麓で心を整える名宿 厳選3選","item":"https://croud-travel.pages.dev/matsumoto-solo-retreat-mingei-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

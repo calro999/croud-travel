@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月鹿児島：世界屈指のツル渡来地「一万羽！名宿5選',
     description: 'シベリアから1万羽を超えるツルが越冬飛来する世界屈指の冬の奇跡「出水のツル渡来地」。薩摩武士の気風を今に伝える重要伝統的建造物群「出水麓武家。',
-    url: 'https://croud-travel.pages.dev/winter-kagoshima-izumi-crane-akune-kurobuta-stay',
+    url: 'https://croud-travel.pages.dev/winter-kagoshima-izumi-crane-akune-kurobuta-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -167,7 +167,7 @@ export default function KagoshimaIzumiAkunePage() {
         "@id": "https://croud-travel.pages.dev/winter-kagoshima-izumi-crane-akune-kurobuta-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-kagoshima-izumi-crane-akune-kurobuta-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kagoshima-izumi-crane-akune-kurobuta-stay/"
         },
         "headline": "【11・12・1月鹿児島】出水＆阿久根・さつま！世界屈指のツル渡来地「一万羽のツル」と出水麓武家屋敷初詣・阿久根の華アジ＆さつま黒豚名宿5選",
         "description": "シベリアから1万羽を超えるツルが越冬飛来する世界屈指の冬の奇跡「出水のツル渡来地」。薩摩武士の気風を今に伝える重要伝統的建造物群「出水麓武家屋敷群」での雪の初詣。東シナ海・阿久根港が誇る冬のブランド魚「華アジ」や天然ウニ、かごしま黒豚と出水赤鶏。紫尾神社の拝殿下から湧く名湯「神の湯」や宮之城温泉の極上美肌露天に癒やされる厳選宿5選を徹底特集します。",
@@ -185,7 +185,7 @@ export default function KagoshimaIzumiAkunePage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-kagoshima-izumi-crane-akune-kurobuta-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kagoshima-izumi-crane-akune-kurobuta-stay/"
         }
       },
       {
@@ -202,13 +202,13 @@ export default function KagoshimaIzumiAkunePage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "出水＆阿久根・さつまツル渡来地と黒豚名宿",
-            "item": "https://croud-travel.pages.dev/winter-kagoshima-izumi-crane-akune-kurobuta-stay"
+            "item": "https://croud-travel.pages.dev/winter-kagoshima-izumi-crane-akune-kurobuta-stay/"
           }
         ]
       },
@@ -239,7 +239,7 @@ export default function KagoshimaIzumiAkunePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 py-4 text-xs font-semibold text-stone-500 flex items-center gap-2">
         <Link href="/" className="hover:text-red-700 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-red-700 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-red-700 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-stone-800">鹿児島・出水＆阿久根・ツル渡来地と黒豚名宿</span>
       </nav>
@@ -530,19 +530,19 @@ export default function KagoshimaIzumiAkunePage() {
             あわせて読みたい！九州の冬旅＆名湯特集
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
-            <Link href="/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
+            <Link href="/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay/" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
               ♨️ 霧島温泉郷！霧島神宮初詣と黒豚しゃぶしゃぶ名宿
             </Link>
-            <Link href="/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
+            <Link href="/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay/" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
               🏖️ 指宿温泉！天然砂むし温泉と開聞岳絶景・黒豚ステイ
             </Link>
-            <Link href="/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
+            <Link href="/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay/" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
               ⛰️ 人吉温泉＆球磨川の朝霧・国宝青井阿蘇神社初詣
             </Link>
-            <Link href="/winter-kumamoto-kurokawa-onsen-yuakari-stay" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
+            <Link href="/winter-kumamoto-kurokawa-onsen-yuakari-stay/" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
               🏮 黒川温泉湯あかり！竹灯籠イルミネーションと露天巡り
             </Link>
-            <Link href="/campaigns" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
+            <Link href="/campaigns/" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
               🍁 全国の旬の味覚＆極上温泉宿特集まとめ
             </Link>
           </div>

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：優雅な生演奏と美肌名湯！グランドピアノ・音楽ラウンジ付き極上リゾート宿5選',
     description: '2026年最新！毎夜のジャズやクラシック生演奏、自由に弾けるグランドピアノを備えた音楽と名湯のマリアージュを楽しむ大人の温泉リゾート5選。',
-    url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-grand-piano-stay',
+    url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-grand-piano-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-private-onsen-with-grand-piano-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-private-onsen-with-grand-piano-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">ピアノ生演奏×音楽ラウンジ温泉</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             吹き抜けのラウンジに響き渡るスタインウェイやヤマハの美しいピアノの調べ。夕食後のひとときにカクテルを傾けながら聴くジャズやクラシックの生演奏。音楽を愛する大人のための、優雅で洗練された温泉リゾートステイをお届けします。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】優雅な生演奏と美肌名湯！グランドピアノ・音楽ラウンジ付き極上リゾート宿5選" url="https://croud-travel.pages.dev/luxury-private-onsen-with-grand-piano-stay" />
+            <ShareButtons title="【2026年】優雅な生演奏と美肌名湯！グランドピアノ・音楽ラウンジ付き極上リゾート宿5選" url="https://croud-travel.pages.dev/luxury-private-onsen-with-grand-piano-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】優雅な生演奏と美肌名湯！グランドピアノ・音楽ラウンジ付き極上リゾート宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/luxury-private-onsen-with-grand-piano-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】優雅な生演奏と美肌名湯！グランドピアノ・音楽ラウンジ付き極上リゾート宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/luxury-private-onsen-with-grand-piano-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

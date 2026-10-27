@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：和漢薬草スチームサウナ＆薬膳養生！自然治癒力を高める薬草温活温泉宿5選',
     description: '2026年最新！当帰やよもぎなど十数種の国産生薬を蒸留した薬草サウナと、濃厚な薬草湯、体を芯から温める薬膳会席でデトックスできる養生宿5選。',
-    url: 'https://croud-travel.pages.dev/organic-medicinal-herb-sauna-detox-stay',
+    url: 'https://croud-travel.pages.dev/organic-medicinal-herb-sauna-detox-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/organic-medicinal-herb-sauna-detox-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/organic-medicinal-herb-sauna-detox-stay/"
   };
 
   const faqSchema = {
@@ -144,7 +144,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">薬草スチームサウナ×薬膳温活宿</span>
         </div>
@@ -163,7 +163,7 @@ export default function Page() {
             香ばしい和漢ハーブの蒸気に包まれる薬草スチームサウナ。古来より湯治客を癒やしてきた薬草風呂で発汗を促し、旬の生薬と地場野菜を取り入れた本格薬膳料理で体内環境を整える。疲れた現代人の心身を内側から再生する本格温活ステイ。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】和漢薬草スチームサウナ＆薬膳養生！自然治癒力を高める薬草温活温泉宿5選" url="https://croud-travel.pages.dev/organic-medicinal-herb-sauna-detox-stay" />
+            <ShareButtons title="【2026年】和漢薬草スチームサウナ＆薬膳養生！自然治癒力を高める薬草温活温泉宿5選" url="https://croud-travel.pages.dev/organic-medicinal-herb-sauna-detox-stay/" />
           </div>
         </div>
       </header>
@@ -172,7 +172,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】和漢薬草スチームサウナ＆薬膳養生！自然治癒力を高める薬草温活温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/organic-medicinal-herb-sauna-detox-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】和漢薬草スチームサウナ＆薬膳養生！自然治癒力を高める薬草温活温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/organic-medicinal-herb-sauna-detox-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

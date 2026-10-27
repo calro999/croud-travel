@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '島根・出雲大社周辺温泉で過ごす冬の旅（11・12月）！しまね和牛！名宿5選',
     description: '旧暦10月（新暦11月）を迎えると、全国の八百万（やおよろず）の神々が出雲の地に集まることから「神在月（かみありづき）」と呼ばれ。',
-    url: 'https://croud-travel.pages.dev/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function ShimaneIzumoWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay/"
         },
         "headline": "【11・12月島根・出雲大社周辺温泉の神在月・神在祭参拝と初冬解禁日本海の幸】出雲そば・しまね和牛＆日本海夕景露天の宿5選",
         "description": "旧暦10月（新暦11月）を迎えると、全国の八百万（やおよろず）の神々が出雲の地に集まることから「神在月（かみありづき）」と呼ばれ、出雲大社では「神迎祭」「神在祭」「縁結大祭」が厳かに執り行われます。11月から12月の出雲地方は、人生の良縁や幸福を祈る参拝客の敬虔な熱気と、日本海から届く初冬の豊かな海の幸で満たされます。11月上旬に解禁される山陰の冬の王者「松葉ガニ」や脂の乗った「ノドグロ」、名物「出雲そば」、そして最高峰の肉質を誇る「しまね和牛」の極上会席。出雲大社まで徒歩圏の参拝の宿や、日本海の荒波と夕日を望む海辺の隠れ宿、川のせせらぎに癒やされる源泉掛け流しの名旅館5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function ShimaneIzumoWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "島根・出雲大社周辺温泉 神在月参拝と日本海冬の幸・しまね和牛の宿",
-            "item": "https://croud-travel.pages.dev/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay/"
           }
         ]
       },
@@ -595,42 +595,42 @@ export default function ShimaneIzumoWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay"
+              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-purple-300 font-semibold block mb-1">島根・玉造温泉</span>
               <h3 className="text-sm font-bold group-hover:text-purple-200 transition">神の湯・玉肌美肌温泉と11月解禁松葉ガニ・宍道湖七道湖温泉の宿</h3>
             </Link>
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-purple-300 font-semibold block mb-1">鳥取・三朝温泉</span>
               <h3 className="text-sm font-bold group-hover:text-purple-200 transition">世界屈指の高濃度ラドン温泉と鳥取名物松葉ガニ・鳥取和牛の極上湯治宿</h3>
             </Link>
             <Link 
-              href="/winter-tottori-kaike-onsen-matsuba-crab-stay"
+              href="/winter-tottori-kaike-onsen-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-purple-300 font-semibold block mb-1">鳥取・皆生温泉</span>
               <h3 className="text-sm font-bold group-hover:text-purple-200 transition">白砂青松の弓ヶ浜と日本海から湧く塩化物泉・境港水揚げ松葉ガニ会席</h3>
             </Link>
             <Link 
-              href="/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay"
+              href="/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-purple-300 font-semibold block mb-1">山口・萩温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-purple-200 transition">維新城下町と初冬解禁天然とらふぐ・萩甘鯛＆日本海夕景露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay"
+              href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-purple-300 font-semibold block mb-1">山口・長門湯本温泉</span>
               <h3 className="text-sm font-bold group-hover:text-purple-200 transition">音信川の温泉街リノベーションと本場とらふぐフルコース・美肌古湯の宿</h3>
             </Link>
             <Link 
-              href="/winter-crab-gourmet-luxury-inn-ranking"
+              href="/winter-crab-gourmet-luxury-inn-ranking/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-purple-300 font-semibold block mb-1">全国冬の味覚特集</span>

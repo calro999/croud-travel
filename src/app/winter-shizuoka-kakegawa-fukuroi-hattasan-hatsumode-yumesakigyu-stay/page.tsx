@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月静岡：厄除け大本山「法多山尊永寺」！名宿5選',
     description: '遠州三山を代表する厄除けの名刹「法多山尊永寺（はったさん）」が約100万人を超える初詣客で賑わう11〜1月の冬旅特集。',
-    url: 'https://croud-travel.pages.dev/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay/',
     type: 'article',
     images: [
       {
@@ -60,7 +60,7 @@ export default function ShizuokaKakegawaWinterPage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay/"
     }
   };
 
@@ -78,13 +78,13 @@ export default function ShizuokaKakegawaWinterPage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "静岡・掛川＆袋井 冬特集",
-        "item": "https://croud-travel.pages.dev/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay"
+        "item": "https://croud-travel.pages.dev/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay/"
       }
     ]
   };
@@ -328,7 +328,7 @@ export default function ShizuokaKakegawaWinterPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 py-4 text-xs text-slate-500 flex items-center gap-2">
         <Link href="/" className="hover:text-emerald-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-emerald-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-emerald-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-slate-700 font-medium">静岡・掛川＆袋井 冬特集</span>
       </nav>
@@ -668,7 +668,7 @@ export default function ShizuokaKakegawaWinterPage() {
           </p>
           <div className="pt-2 flex flex-wrap justify-center gap-3">
             <Link 
-              href="/features" 
+              href="/features/" 
               className="px-6 py-3 bg-white text-slate-900 hover:bg-slate-100 font-black text-xs md:text-sm rounded-xl shadow transition"
             >
               特集記事一覧を見る

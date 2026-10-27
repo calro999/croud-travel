@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '福井・若狭三方五湖で過ごす冬の旅（11・12月）！越前蟹！名宿5選',
     description: '11月から12月にかけて、国の名勝・三方五湖（みかたごこ）と敦賀湾を擁する福井県若狭エリアの魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -170,7 +170,7 @@ export default function WinterFukuiWakasaPage() {
         'headline': "【11・12月福井・若狭三方五湖＆敦賀温泉郷の初冬レイクビューと若狭ふぐ】越前蟹・名物焼き鯖＆敦賀港冬海鮮会席を愉しむ湖畔・海辺名宿5選",
         'description': "11月から12月にかけて、国の名勝・三方五湖（みかたごこ）と敦賀湾を擁する福井県若狭エリアは、日本最北限の冷たい荒波で鍛え抜かれた冬の美食の最高峰「若狭ふぐ」が本格解禁を迎え、11月6日の越前蟹解禁とともに美食家を唸らせる黄金の季節に突入します。水質や水深が異なる五つの湖が初冬の澄んだ光に染まる神秘的な湖畔風景、レインボーライン山頂公園からの360度パノラマ絶景、そして北陸新幹線敦賀開業でぐっと身近になった名湯露天風呂。本場の若狭ふぐフルコース（てっさ・てっちり・唐揚げ・ひれ酒）や敦賀港直送の越前蟹、若狭名物の焼き鯖を堪能する厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -210,7 +210,7 @@ export default function WinterFukuiWakasaPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-teal-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">福井・若狭三方五湖＆敦賀</span>
           </nav>
@@ -247,7 +247,7 @@ export default function WinterFukuiWakasaPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月福井・若狭三方五湖】越前蟹！名宿5選","item":"https://croud-travel.pages.dev/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月福井・若狭三方五湖】越前蟹！名宿5選","item":"https://croud-travel.pages.dev/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay/"}]}) }}
       />
         
         {/* Section 1: Season Context & Highlights */}
@@ -587,7 +587,7 @@ export default function WinterFukuiWakasaPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
-              href="/winter-fukui-awara-onsen-echizen-crab-stay"
+              href="/winter-fukui-awara-onsen-echizen-crab-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">福井・あわら</span>
@@ -599,7 +599,7 @@ export default function WinterFukuiWakasaPage() {
               </p>
             </Link>
             <Link 
-              href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay"
+              href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">福井・三国</span>
@@ -611,7 +611,7 @@ export default function WinterFukuiWakasaPage() {
               </p>
             </Link>
             <Link 
-              href="/winter-ishikawa-kaga-yamashiro-kano-crab-stay"
+              href="/winter-ishikawa-kaga-yamashiro-kano-crab-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">石川・山代</span>
@@ -623,7 +623,7 @@ export default function WinterFukuiWakasaPage() {
               </p>
             </Link>
             <Link 
-              href="/winter-shimonoseki-fugu-torafugu-luxury-stay"
+              href="/winter-shimonoseki-fugu-torafugu-luxury-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">山口・下関</span>

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯おこもり：奥飛騨最古の源泉かけ流し・飛騨牛炭火焼き・大露天風呂！山岳リトリート厳選3宿',
     description: '北アルプス乗鞍岳の山麓、奥飛騨温泉郷で最も歴史ある平湯温泉！1日4組限定の贅沢な創作山草料理と全室貸切露天風呂で楽天口コミ驚異の★4.80を誇る「料理旅館 奥飛騨山草庵 饗家」、自家源泉と総ヒノキ大浴場が自慢の老舗「平田館」、飛騨の木造建築と家庭的なもてなしの「花ごころ万喜」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/gifu-hirayu-solo-retreat-okuhida-onsen-stay',
+    url: 'https://croud-travel.pages.dev/gifu-hirayu-solo-retreat-okuhida-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/gifu-hirayu-solo-retreat-okuhida-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/gifu-hirayu-solo-retreat-okuhida-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯おこもり】奥飛騨最古の源泉かけ流し・飛騨牛炭火焼き・大露天風呂！山岳リトリート厳選3宿","item":"https://croud-travel.pages.dev/gifu-hirayu-solo-retreat-okuhida-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯おこもり】奥飛騨最古の源泉かけ流し・飛騨牛炭火焼き・大露天風呂！山岳リトリート厳選3宿","item":"https://croud-travel.pages.dev/gifu-hirayu-solo-retreat-okuhida-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

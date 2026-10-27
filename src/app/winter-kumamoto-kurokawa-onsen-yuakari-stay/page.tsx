@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '黒川温泉で過ごす冬の旅（11・12月）！竹灯籠が彩る渓流露天風呂と阿蘇あか牛！名宿5選',
     description: '11月から12月にかけて阿蘇外輪山の冷涼な風が吹き抜ける熊本・黒川温泉。12月中旬から田の原川の渓流に幻想的な竹灯籠が灯る冬の風物詩「湯あかり」。',
-    url: 'https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-stay',
+    url: 'https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function KurokawaWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function KurokawaWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月黒川温泉】竹灯籠が彩る渓流露天風呂と阿蘇あか牛！名宿5選","item":"https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月黒川温泉】竹灯籠が彩る渓流露天風呂と阿蘇あか牛！名宿5選","item":"https://croud-travel.pages.dev/winter-kumamoto-kurokawa-onsen-yuakari-stay/"}]}) }}
       />
         
         {/* Intro */}
@@ -631,7 +631,7 @@ export default function KurokawaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link 
-              href="/winter-fukuoka-hakata-christmas-advent-gourmet-stay"
+              href="/winter-fukuoka-hakata-christmas-advent-gourmet-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">九州の冬グルメ</span>
@@ -641,7 +641,7 @@ export default function KurokawaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagasaki-huistenbosch-christmas-lights-stay"
+              href="/winter-nagasaki-huistenbosch-christmas-lights-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">九州のイルミ名所</span>
@@ -651,7 +651,7 @@ export default function KurokawaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay"
+              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">西日本の名湯</span>
@@ -661,7 +661,7 @@ export default function KurokawaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay"
+              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">関東の石段名湯</span>
@@ -671,7 +671,7 @@ export default function KurokawaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">山陰の冬の味覚</span>
@@ -681,7 +681,7 @@ export default function KurokawaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay"
+              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">東海の冬花火</span>

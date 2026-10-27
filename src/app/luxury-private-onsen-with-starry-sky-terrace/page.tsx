@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "満天の星降る夜：客室専用星空テラス＆寝湯露天風呂！阿智村・八ヶ岳の夜空独占温泉宿5選",
     description: "日本一の星空と称される長野県阿智村や八ヶ岳の高原リゾート。客室専用の星空テラスや寝湯露天風呂から、誰にも邪魔されず夜空いっぱいに広がる天の川を鑑賞できるロマンチックな隠れ宿を厳選。",
-    url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-starry-sky-terrace',
+    url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-starry-sky-terrace/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -59,7 +59,7 @@ export default function FeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/luxury-private-onsen-with-starry-sky-terrace"
+      "@id": "https://croud-travel.pages.dev/luxury-private-onsen-with-starry-sky-terrace/"
     }
   };
 
@@ -143,7 +143,7 @@ export default function FeaturePage() {
       <nav className="max-w-5xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-500 flex items-center gap-1.5 overflow-x-auto">
         <Link href="/" className="hover:text-amber-600 transition-colors shrink-0">ホーム</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <Link href="/features" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <span className="text-stone-800 font-medium truncate">【満天の星降る夜】客室専用星空テラス＆寝湯露天風呂！阿智村・八ヶ岳の夜空独占温泉宿5選</span>
       </nav>
@@ -155,7 +155,7 @@ export default function FeaturePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【満天の星降る夜】客室専用星空テラス＆寝湯露天風呂！阿智村・八ヶ岳の夜空独占温泉宿5選","item":"https://croud-travel.pages.dev/luxury-private-onsen-with-starry-sky-terrace"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【満天の星降る夜】客室専用星空テラス＆寝湯露天風呂！阿智村・八ヶ岳の夜空独占温泉宿5選","item":"https://croud-travel.pages.dev/luxury-private-onsen-with-starry-sky-terrace/"}]}) }}
       />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
@@ -310,7 +310,7 @@ export default function FeaturePage() {
           <h3 className="text-lg font-bold text-stone-800 mb-3">他の特集記事もチェック</h3>
           <p className="text-sm text-stone-500 mb-6">全国各地の魅力あふれるテーマ別おすすめ宿泊施設をご紹介しています</p>
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 px-8 py-3.5 rounded-xl bg-stone-800 hover:bg-stone-900 text-white font-bold text-sm shadow-sm transition-colors"
           >
             <span>特集一覧ページへ戻る</span>

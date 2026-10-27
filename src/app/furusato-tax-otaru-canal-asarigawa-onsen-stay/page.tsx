@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '小樽・朝里川温泉をふるさと納税でお得に旅する！小樽運河の情緒＆北の迎賓館！鰊御殿と寿司の街特集｜おたるふる川・宏楽園・銀鱗荘',
     description: 'ガス灯揺れる小樽運河と新鮮な海の幸、歴史的建造物が薫る港町・北海道小樽市を楽天ふるさと納税でお得に贅沢旅！運河の目の前に佇む明治商家風情「運河の宿 おたる ふる川」、広大な日本庭園と露天風呂付き客室の名宿「おたる 宏楽園」、平磯岬の高台に君臨する鰊御殿「料亭湯宿 銀鱗荘」を徹底比較。小樽市トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-otaru-canal-asarigawa-onsen-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-otaru-canal-asarigawa-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T18:00:00+09:00',
     dateModified: '2026-10-19T18:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-otaru-canal-asarigawa-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-otaru-canal-asarigawa-onsen-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【小樽・朝里川温泉×ふるさと納税】小樽運河の情緒＆北の迎賓館！鰊御殿と寿司の街特集｜おたるふる川・宏楽園・銀鱗荘","item":"https://croud-travel.pages.dev/furusato-tax-otaru-canal-asarigawa-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【小樽・朝里川温泉×ふるさと納税】小樽運河の情緒＆北の迎賓館！鰊御殿と寿司の街特集｜おたるふる川・宏楽園・銀鱗荘","item":"https://croud-travel.pages.dev/furusato-tax-otaru-canal-asarigawa-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【小樽・朝里川温泉×ふるさと納税】小樽運河の情緒＆北の迎賓館！鰊御殿と寿司の街特集｜おたるふる川・宏楽園・銀鱗荘</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-shirahama-onsen-ocean-adventure-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-shirahama-onsen-ocean-adventure-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 南紀白浜温泉 白良浜オーシャンビュー＆アドベンチャーワールド特集
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-nozawa-onsen-sotoyu-heritage-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-nozawa-onsen-sotoyu-heritage-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 野沢温泉 十三の外湯めぐり＆源泉麻釜・信州郷土料理特集
               </Link>
             </li>

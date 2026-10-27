@@ -379,7 +379,7 @@ export default function HokkaidoWinterShoesClothingGuidePage() {
         <h3 className="text-lg font-bold text-slate-900">北海道旅行の関連記事もあわせてチェック</h3>
         <div className="grid md:grid-cols-2 gap-4 text-sm">
           <Link
-            href="/hokkaido-travel-budget-plan"
+            href="/hokkaido-travel-budget-plan/"
             className="p-4 bg-white rounded-2xl border border-slate-200 hover:border-slate-500 hover:shadow-sm transition group"
           >
             <div className="text-slate-600 text-xs font-bold mb-1">旅行費用シミュレーション</div>
@@ -390,7 +390,7 @@ export default function HokkaidoWinterShoesClothingGuidePage() {
           </Link>
 
           <Link
-            href="/hokkaido-family-trip-zoo-nature-guide"
+            href="/hokkaido-family-trip-zoo-nature-guide/"
             className="p-4 bg-white rounded-2xl border border-slate-200 hover:border-slate-500 hover:shadow-sm transition group"
           >
             <div className="text-slate-600 text-xs font-bold mb-1">モデルコース＆観光</div>

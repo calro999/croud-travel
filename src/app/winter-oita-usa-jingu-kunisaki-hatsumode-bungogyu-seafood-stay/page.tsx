@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月大分：宇佐神宮新春開運初詣！名宿5選',
     description: '冬の大分・宇佐＆国東半島は、全国4万社を超える八幡宮の総本宮「宇佐神宮」での新春初詣と。',
-    url: 'https://croud-travel.pages.dev/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay',
+    url: 'https://croud-travel.pages.dev/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/167291/167291.jpg', width: 1200, height: 630, alt: '宇佐神宮と国東六郷満山の富貴寺' }]
   },
@@ -156,8 +156,8 @@ export default function OitaUsaKunisakiPage() {
         '@type': 'BreadcrumbList',
         'itemListElement': [
           { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '宇佐神宮初詣・国東六郷満山と豊後牛名宿', 'item': 'https://croud-travel.pages.dev/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay' }
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features/' },
+          { '@type': 'ListItem', 'position': 3, 'name': '宇佐神宮初詣・国東六郷満山と豊後牛名宿', 'item': 'https://croud-travel.pages.dev/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay/' }
         ]
       },
       {
@@ -590,37 +590,37 @@ export default function OitaUsaKunisakiPage() {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay"
+              href="/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-emerald-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-emerald-600 block"
             >
               【門司港レトロ＆小倉】冬の浪漫灯彩と豊前海一粒牡蠣・小倉牛名宿
             </Link>
             <Link
-              href="/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay"
+              href="/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-emerald-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-emerald-600 block"
             >
               【別府・鉄輪温泉】冬の立ち上る湯煙と地獄蒸し・豊後牛名宿
             </Link>
             <Link
-              href="/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay"
+              href="/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-emerald-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-emerald-600 block"
             >
               【太宰府天満宮＆二日市温泉】飛梅と新春初詣・博多和牛名宿
             </Link>
             <Link
-              href="/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay"
+              href="/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-emerald-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-emerald-600 block"
             >
               【佐賀・太良＆祐徳稲荷】冬の竹崎カニと三大稲荷初詣・美肌温泉名宿
             </Link>
             <Link
-              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay"
+              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-emerald-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-emerald-600 block"
             >
               【黒川温泉】冬の竹あかり幻想露天風呂とあか牛・入湯手形名宿
             </Link>
             <Link
-              href="/features"
+              href="/features/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-emerald-300 hover:shadow-xs transition-all text-sm font-bold text-emerald-700 block text-center flex items-center justify-center gap-1"
             >
               <span>全国の冬旅特集一覧を見る</span>

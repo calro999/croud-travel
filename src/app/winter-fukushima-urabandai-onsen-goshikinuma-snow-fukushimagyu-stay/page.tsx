@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '裏磐梯温泉郷で過ごす冬の旅（11・12月）！極上福島牛ステーキ！名宿5選',
     description: '11月から12月にかけて、標高約800mの磐梯高原に位置する福島県・裏磐梯温泉郷の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterFukushimaUrabandaiPage() {
         'headline': "【11・12月福島・裏磐梯温泉郷の五色沼初雪ウォークと磐梯山雪景色】極上福島牛ステーキ＆会津地鶏鍋・桧原湖ワカサギを味わう高原リゾート名宿5選",
         'description': "11月から12月にかけて、標高約800mの磐梯高原に位置する福島県・裏磐梯温泉郷は、青やエメラルドグリーンに輝く神秘の湖沼群「五色沼」に純白の初雪が降り積もり、冬の幻想美が幕を開けます。堂々たる雪化粧の磐梯山を望む絶景スノーウォーク、冬の桧原湖名物「ワカサギ釣り（暖房完備ドーム船）」の開幕、鉄分や塩分を豊富に含み体の芯から温まる源泉濁り湯露天風呂。夕食にはサシと赤身のバランスが絶妙な「福島牛ステーキ」や、旨味濃厚な会津地鶏鍋、会津伝統の雪下野菜、冬限定の搾りたて地酒を味わう高原の厳選リゾート・温泉名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterFukushimaUrabandaiPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-teal-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">福島・裏磐梯温泉郷</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterFukushimaUrabandaiPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月裏磐梯温泉郷】極上福島牛ステーキ！名宿5選","item":"https://croud-travel.pages.dev/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月裏磐梯温泉郷】極上福島牛ステーキ！名宿5選","item":"https://croud-travel.pages.dev/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -623,7 +623,7 @@ export default function WinterFukushimaUrabandaiPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay"
+              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">福島・会津東山</span>
@@ -636,7 +636,7 @@ export default function WinterFukushimaUrabandaiPage() {
             </Link>
 
             <Link 
-              href="/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay"
+              href="/winter-fukushima-ashinomaki-onsen-okawa-valley-snow-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">福島・芦ノ牧温泉</span>
@@ -649,7 +649,7 @@ export default function WinterFukushimaUrabandaiPage() {
             </Link>
 
             <Link 
-              href="/winter-yamagata-onogawa-yonezawa-beef-stay"
+              href="/winter-yamagata-onogawa-yonezawa-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山形・米沢小野川</span>

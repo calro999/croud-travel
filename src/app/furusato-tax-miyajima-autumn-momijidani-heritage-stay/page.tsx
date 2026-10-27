@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '海に浮かぶ大鳥居と紅葉谷の錦絵！世界遺産・安芸の宮島＆厳島神社秋詣名門旅館×ふるさと納税厳選ガイド',
     description: '11月中旬〜下旬、約700本のもみじが朱に染まる宮島屈指の名所「紅葉谷公園」と世界遺産「厳島神社」。大鳥居の夜間ライトアップや弥山の絶景パノラマを島内宿泊で独占！「宮島グランドホテル 有もと」「宮島ホテル まこと」「ホテル 菊乃家」。名物牡蠣・穴子飯・広島牛を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-miyajima-autumn-momijidani-heritage-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-miyajima-autumn-momijidani-heritage-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -55,7 +55,7 @@ export default function FurusatoMiyajimaAutumnMomijidaniStayPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">安芸の宮島・紅葉谷公園＆厳島神社名旅館特集</span>
       </nav>
@@ -384,7 +384,7 @@ export default function FurusatoMiyajimaAutumnMomijidaniStayPage() {
 
             <li key="furusato-tax-kyoto-arashiyama-autumn-leaves-illumination-stay">
               <Link
-                href="/furusato-tax-kyoto-arashiyama-autumn-leaves-illumination-stay"
+                href="/furusato-tax-kyoto-arashiyama-autumn-leaves-illumination-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -395,7 +395,7 @@ export default function FurusatoMiyajimaAutumnMomijidaniStayPage() {
 
             <li key="furusato-tax-historical-kaido-post-town-ryokan-stay">
               <Link
-                href="/furusato-tax-historical-kaido-post-town-ryokan-stay"
+                href="/furusato-tax-historical-kaido-post-town-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -406,7 +406,7 @@ export default function FurusatoMiyajimaAutumnMomijidaniStayPage() {
 
             <li key="furusato-tax-tangible-cultural-property-architectural-ryokan-stay">
               <Link
-                href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay"
+                href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -417,7 +417,7 @@ export default function FurusatoMiyajimaAutumnMomijidaniStayPage() {
 
             <li key="furusato-tax-luxury-hotspring-ryokan-stay">
               <Link
-                href="/furusato-tax-luxury-hotspring-ryokan-stay"
+                href="/furusato-tax-luxury-hotspring-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -437,7 +437,7 @@ export default function FurusatoMiyajimaAutumnMomijidaniStayPage() {
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
-            href="/travel-savings-guide"
+            href="/travel-savings-guide/"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 text-stone-950 font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition text-sm"
           >
             🏨 旅行節約総合ハブページを見る ➔

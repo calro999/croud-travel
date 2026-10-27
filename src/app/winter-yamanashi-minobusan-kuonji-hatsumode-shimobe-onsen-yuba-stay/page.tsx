@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: '山梨県南部、富士川の清流と峻嶺な山々に抱かれた身延・下部エリア。11〜1月は澄み渡る冬晴れの下、日蓮宗総本山「身延山久遠寺」が荘厳な冬景色に包まれます。',
   keywords: '身延山久遠寺 初詣, 奥之院思親閣 富士山, 身延山ロープウェイ 冬, 下部温泉 ぬる湯治, 下部ホテル, 旅館田中屋 身延山, 身延ゆば 会席, 富士川 冬 観光, 山梨 冬 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay/'
   },
   openGraph: {
     title: '11・12・1月山梨：日蓮宗総本山「身延山久遠寺」！名宿5選',
     description: '山梨県南部、富士川の清流と峻嶺な山々に抱かれた身延・下部エリア。11〜1月は澄み渡る冬晴れの下、日蓮宗総本山「身延山久遠寺」が荘厳な冬景色に包まれます。',
-    url: 'https://croud-travel.pages.dev/winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay/',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -57,7 +57,7 @@ export default function YamanashiMinobusanWinterFeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay"
+      "@id": "https://croud-travel.pages.dev/winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay/"
     }
   };
 
@@ -75,13 +75,13 @@ export default function YamanashiMinobusanWinterFeaturePage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "山梨・身延山久遠寺＆下部温泉 冬の初詣とぬる湯治",
-        "item": "https://croud-travel.pages.dev/winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay"
+        "item": "https://croud-travel.pages.dev/winter-yamanashi-minobusan-kuonji-hatsumode-shimobe-onsen-yuba-stay/"
       }
     ]
   };
@@ -275,7 +275,7 @@ export default function YamanashiMinobusanWinterFeaturePage() {
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-indigo-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-indigo-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-indigo-600 transition">特集一覧</Link>
             <span>/</span>
             <Link href="/prefectures/yamanashi/" className="hover:text-indigo-600 transition">山梨県</Link>
             <span>/</span>
@@ -617,7 +617,7 @@ export default function YamanashiMinobusanWinterFeaturePage() {
               白銀の富士山を仰ぐ身延山久遠寺の奥之院新春初詣、滋味深い身延山ゆば料理、そして信玄公ゆかりの下部温泉での極上ぬる湯治。冬の寒さを忘れさせてくれる豊かな歴史と名湯が、新年の清々しい門出を温かく祝福してくれます。
             </p>
             <div className="flex flex-wrap items-center justify-center gap-3 text-xs">
-              <Link href="/features" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
+              <Link href="/features/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 ← 特集一覧に戻る
               </Link>
               <Link href="/prefectures/yamanashi/" className="px-4 py-2 rounded-full bg-indigo-50 hover:bg-indigo-100 text-indigo-700 font-semibold transition">

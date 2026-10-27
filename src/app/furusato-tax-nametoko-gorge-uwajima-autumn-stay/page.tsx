@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '滑床渓谷「雪輪の滝」紅葉キャニオニング美＆本場宇和島鯛めし・道後奥道後温泉ステイ',
     description: '11月上旬〜11月下旬に滑らかな一枚岩を紅葉が彩る滑床渓谷・雪輪の滝。宇和海で育まれた新鮮な真鯛を使う「本場宇和島鯛めし」と、名湯・奥道後温泉の美肌泉をふるさと納税でお得に堪能する秋の四国・南予旅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-nametoko-gorge-uwajima-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-nametoko-gorge-uwajima-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-nametoko-gorge-uwajima-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-nametoko-gorge-uwajima-autumn-stay/"
   };
 
   const faqSchema = {
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"滑床渓谷「雪輪の滝」紅葉キャニオニング美＆本場宇和島鯛めし・道後奥道後温泉ステイ | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-nametoko-gorge-uwajima-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"滑床渓谷「雪輪の滝」紅葉キャニオニング美＆本場宇和島鯛めし・道後奥道後温泉ステイ | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-nametoko-gorge-uwajima-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

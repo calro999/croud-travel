@@ -453,7 +453,7 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
           </h2>
           <div className="grid sm:grid-cols-2 gap-4">
             <Link
-              href="/hakone-travel-budget-guide"
+              href="/hakone-travel-budget-guide/"
               className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-500 hover:shadow transition group"
             >
               <span className="text-xs text-rose-700 font-bold block mb-1">予算・費用ガイド</span>
@@ -466,7 +466,7 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
             </Link>
 
             <Link
-              href="/hakone-rainy-day-indoor-model-course"
+              href="/hakone-rainy-day-indoor-model-course/"
               className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-500 hover:shadow transition group"
             >
               <span className="text-xs text-rose-700 font-bold block mb-1">雨の日・室内プラン</span>

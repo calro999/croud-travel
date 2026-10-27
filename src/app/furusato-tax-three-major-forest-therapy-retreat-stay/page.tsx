@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税厳選ガイド屋久島・木曽ヒノキ・青森ヒバの森',
     description: '深い森の息吹で深呼吸！世界自然遺産鹿児島屋久島の屋久杉原生林リゾート、長野木曽谷の樹齢300年木曽ヒノキ露天風呂宿、青森十和田・奥入瀬渓流を包む青森ヒバの名湯。フィトンチッド満ちる原生林の力で心身を再生する森林リトリートを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-major-forest-therapy-retreat-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-major-forest-therapy-retreat-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -486,7 +486,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-alps-trekking-mountain-resort-stay"
+            href="/furusato-tax-alps-trekking-mountain-resort-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -502,7 +502,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-waterfall-river-gorge-healing-onsen-stay"
+            href="/furusato-tax-waterfall-river-gorge-healing-onsen-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -518,7 +518,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-highland-resort-french-auberge-stay"
+            href="/furusato-tax-highland-resort-french-auberge-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

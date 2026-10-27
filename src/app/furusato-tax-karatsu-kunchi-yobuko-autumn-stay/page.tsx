@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '唐津くんち（11月国重要無形民俗文化財）の熱気と呼子イカ・唐津湾オーシャンビュー温泉',
     description: '11月2日〜4日に豪華絢爛な曳山が巡行する「唐津くんち」。呼子名物の透明な活きイカ姿造りと最高峰の佐賀牛・伊万里牛、唐津湾を一望する天然温泉をふるさと納税で堪能する秋の佐賀・北松浦旅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-karatsu-kunchi-yobuko-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-karatsu-kunchi-yobuko-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-karatsu-kunchi-yobuko-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-karatsu-kunchi-yobuko-autumn-stay/"
   };
 
   const faqSchema = {
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"唐津くんち（11月国重要無形民俗文化財）の熱気と呼子イカ・唐津湾オーシャンビュー温泉 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-karatsu-kunchi-yobuko-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"唐津くんち（11月国重要無形民俗文化財）の熱気と呼子イカ・唐津湾オーシャンビュー温泉 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-karatsu-kunchi-yobuko-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

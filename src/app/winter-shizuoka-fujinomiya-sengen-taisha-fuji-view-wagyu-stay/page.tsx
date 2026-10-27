@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月静岡：富士山本宮浅間大社新春初詣！名宿5選',
     description: '冬の静岡・富士宮は、年間で最も空気が澄み渡り、純白の雪をまとった霊峰富士が真っ青な空に最も美しく映える奇跡のシーズン。',
-    url: 'https://croud-travel.pages.dev/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/76861/76861.jpg', width: 1200, height: 630, alt: '富士山本宮浅間大社と白雪富士山絶景' }]
   },
@@ -157,8 +157,8 @@ export default function ShizuokaFujinomiyaPage() {
         '@type': 'BreadcrumbList',
         'itemListElement': [
           { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '富士宮・浅間大社初詣と白雪富士山名宿', 'item': 'https://croud-travel.pages.dev/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay' }
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features/' },
+          { '@type': 'ListItem', 'position': 3, 'name': '富士宮・浅間大社初詣と白雪富士山名宿', 'item': 'https://croud-travel.pages.dev/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay/' }
         ]
       },
       {
@@ -595,37 +595,37 @@ export default function ShizuokaFujinomiyaPage() {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay"
+              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-sky-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-sky-600 block"
             >
               【熱海温泉】冬花火の特等席＆金目鯛の煮付けを堪能する名宿
             </Link>
             <Link
-              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay"
+              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-sky-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-sky-600 block"
             >
               【河口湖温泉】富士山雪景色と甲州牛会席を満喫する湖畔宿
             </Link>
             <Link
-              href="/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay"
+              href="/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-sky-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-sky-600 block"
             >
               【浜名湖・舘山寺温泉】冬の天然とらふぐと極上うなぎ名宿
             </Link>
             <Link
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay"
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-sky-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-sky-600 block"
             >
               【箱根温泉】雪化粧の富士山絶景露天風呂と冬懐石の名宿
             </Link>
             <Link
-              href="/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay"
+              href="/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-sky-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-sky-600 block"
             >
               【山中湖・忍野】ダイヤモンド富士と名物熱々ほうとう名宿
             </Link>
             <Link
-              href="/features"
+              href="/features/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-sky-300 hover:shadow-xs transition-all text-sm font-bold text-sky-700 block text-center flex items-center justify-center gap-1"
             >
               <span>全国の冬旅特集一覧を見る</span>

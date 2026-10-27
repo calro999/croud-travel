@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '赤湯温泉で過ごす冬の旅（11・12月）！特選米沢牛すき焼き！名宿5選',
     description: '11月から12月にかけて山形県置賜地方の赤湯温泉は、晩秋の澄み切った冷気の中で置賜盆地全体を真っ白な霧が覆う幻想的な「白竜湖の雲海」が発生し。',
-    url: 'https://croud-travel.pages.dev/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function AkayuOnsenWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay/"
         },
         "headline": "【11・12月山形・赤湯温泉の置賜盆地雲海と開湯920年名湯】特選米沢牛すき焼き・日本最古級赤湯ワイン＆自家源泉掛け流しの宿5選",
         "description": "11月から12月にかけて山形県置賜地方の赤湯温泉は、晩秋の澄み切った冷気の中で置賜盆地全体を真っ白な霧が覆う幻想的な「白竜湖の雲海」が発生し、奥羽山脈の山々が初冠雪で輝く美しい季節を迎えます。寛治7年（1093年）開湯、源義家の弟・義綱が発見したと伝わる名湯は、湯上がりに肌がしっとりと潤う弱アルカリ性硫黄・塩化物泉。日本三大和牛と称される最高峰「米沢牛」のとろける霜降りすき焼きやステーキ、明治時代から続く酒井ワイナリーなど日本屈指の老舗ワイナリーが醸す赤湯ワイン、山形新幹線赤湯駅からの抜群のアクセスを誇る名宿5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function AkayuOnsenWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "山形・赤湯温泉 置賜盆地雲海と米沢牛・赤湯ワインの宿",
-            "item": "https://croud-travel.pages.dev/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay"
+            "item": "https://croud-travel.pages.dev/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay/"
           }
         ]
       },
@@ -580,42 +580,42 @@ export default function AkayuOnsenWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-yamagata-onogawa-yonezawa-beef-stay"
+              href="/winter-yamagata-onogawa-yonezawa-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">山形・小野川温泉</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">小野小町伝説の美肌湯と米沢牛すき焼き・冬のかまくら村の宿</h3>
             </Link>
             <Link 
-              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay"
+              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">山形・蔵王温泉</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">樹氷ライトアップと強酸性にごり湯露天・山形牛すき焼きの宿</h3>
             </Link>
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay"
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">山形・銀山温泉</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">大正ロマンの木造多層建築とガス灯・初雪に輝く銀世界の名宿</h3>
             </Link>
             <Link 
-              href="/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay"
+              href="/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">宮城・鳴子温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">多彩な泉質めぐりと雪見風呂・仙台牛ステーキを味わう名宿</h3>
             </Link>
             <Link 
-              href="/winter-fukushima-bandai-atami-onsen-bihada-swan-stay"
+              href="/winter-fukushima-bandai-atami-onsen-bihada-swan-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">福島・磐梯熱海温泉</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">萩姫伝説の美肌アルカリ泉と猪苗代湖の白鳥・福島牛会席の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">特集一覧</span>

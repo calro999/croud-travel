@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：黄金と深紅の幻想美！紅葉ライトアップ＆夜の庭園露天風呂が美しい秋の名宿5選',
     description: '2026年最新！京都・日光・箱根・黒川など、鮮やかに色づく紅葉のライトアップと湯けむり立ち上る夜の露天風呂を堪能できる厳選秋旅名宿5選。',
-    url: 'https://croud-travel.pages.dev/autumn-leaves-illuminated-night-onsen-stay',
+    url: 'https://croud-travel.pages.dev/autumn-leaves-illuminated-night-onsen-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/autumn-leaves-illuminated-night-onsen-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/autumn-leaves-illuminated-night-onsen-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">紅葉ライトアップ×庭園露天風呂</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             秋の夜長を彩る幻想的な紅葉のライトアップ。漆黒の夜空に浮かび上がる燃えるような赤と黄金のグラデーション、水面に映る逆さ紅葉、そして澄んだ秋空の下で浸かる至福の露天風呂。心奪われる日本の秋の絶景美を宿にいながら独占できる名旅館を厳選しました。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】黄金と深紅の幻想美！紅葉ライトアップ＆夜の庭園露天風呂が美しい秋の名宿5選" url="https://croud-travel.pages.dev/autumn-leaves-illuminated-night-onsen-stay" />
+            <ShareButtons title="【2026年】黄金と深紅の幻想美！紅葉ライトアップ＆夜の庭園露天風呂が美しい秋の名宿5選" url="https://croud-travel.pages.dev/autumn-leaves-illuminated-night-onsen-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】黄金と深紅の幻想美！紅葉ライトアップ＆夜の庭園露天風呂が美しい秋の名宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/autumn-leaves-illuminated-night-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】黄金と深紅の幻想美！紅葉ライトアップ＆夜の庭園露天風呂が美しい秋の名宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/autumn-leaves-illuminated-night-onsen-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

@@ -1,8 +1,8 @@
 # 香川県の宿泊・観光記事（40件）
 
 ## 【2026年11月現地特化】寒霞渓・出雲神在祭・那須・軽井沢の晩秋イベント完全攻略ガイド｜楽天トラベル実データで選ぶ名宿
-- 記事: https://croud-travel.pages.dev/posts/undefined/
-- 全文Markdown: https://croud-travel.pages.dev/ai/undefined.md
+- 記事: https://croud-travel.pages.dev/posts/note-231/
+- 全文Markdown: https://croud-travel.pages.dev/ai/note-231.md
 - 宿泊施設名: undefined
 - エリア: 
 

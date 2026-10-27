@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：小布施・丹波の極上和栗！搾りたて生モンブラン＆栗おこわ会席の秋グルメ宿5選',
     description: '2026年最新！栗の名産地で味わう賞味期限数十分の搾りたて極細生モンブランや、ホクホクの栗おこわ、栗の渋皮煮デザートが自慢の秋の名宿5選。',
-    url: 'https://croud-travel.pages.dev/autumn-chestnut-gourmet-montblanc-stay',
+    url: 'https://croud-travel.pages.dev/autumn-chestnut-gourmet-montblanc-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/autumn-chestnut-gourmet-montblanc-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/autumn-chestnut-gourmet-montblanc-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">搾りたて生モンブラン×極上和栗宿</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             芳醇な香りと上品な甘みが際立つ最高峰のブランド和栗。目の前で幾重にも搾り出される繊細な極細生モンブラン、ほくほくの栗おこわ、栗と地鶏の炊き込みご飯。秋の味覚の王様・栗を贅沢に味わい尽くし、紅葉露天風呂に浸かる至福の秋旅へ。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】小布施・丹波の極上和栗！搾りたて生モンブラン＆栗おこわ会席の秋グルメ宿5選" url="https://croud-travel.pages.dev/autumn-chestnut-gourmet-montblanc-stay" />
+            <ShareButtons title="【2026年】小布施・丹波の極上和栗！搾りたて生モンブラン＆栗おこわ会席の秋グルメ宿5選" url="https://croud-travel.pages.dev/autumn-chestnut-gourmet-montblanc-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】小布施・丹波の極上和栗！搾りたて生モンブラン＆栗おこわ会席の秋グルメ宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/autumn-chestnut-gourmet-montblanc-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】小布施・丹波の極上和栗！搾りたて生モンブラン＆栗おこわ会席の秋グルメ宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/autumn-chestnut-gourmet-montblanc-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

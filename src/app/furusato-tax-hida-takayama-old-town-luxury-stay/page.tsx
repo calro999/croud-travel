@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '出格子の町家と宮川朝市！飛騨高山の古い町並み徒歩圏＆とろとろ美肌温泉・最高峰飛騨牛会席名宿×ふるさと納税極上旅ガイド花兆庵・花扇・光風館',
     description: 'ミシュラン三ツ星の小京都・岐阜県飛騨高山！出格子の古い町並み、赤い中橋、宮川朝市。「本陣平野屋 花兆庵」「飛騨亭 花扇」「本陣平野屋 光風館」を、岐阜県高山市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。古い町並み徒歩1分、神代欅の木造美、A5ランク飛騨牛づくし会席を満喫。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-hida-takayama-old-town-luxury-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-hida-takayama-old-town-luxury-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoHidaTakayamaStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">飛騨高山 古い町並み＆飛騨牛宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoHidaTakayamaStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-traditional-hearth-irori-charcoal-stay"
+            href="/furusato-tax-traditional-hearth-irori-charcoal-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【古民家囲炉裏炭火会席＆奇跡の湯×ふるさと納税】白川郷・法師・祖谷
           </Link>
           <Link
-            href="/furusato-tax-kamikochi-japan-alps-resort-stay"
+            href="/furusato-tax-kamikochi-japan-alps-resort-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【上高地 穂高連峰絶景＆山岳名宿×ふるさと納税】ルミエスタ・大正池ホテル・上高地温泉ホテル
           </Link>
           <Link
-            href="/furusato-tax-echigo-yuzawa-onsen-sake-stay"
+            href="/furusato-tax-echigo-yuzawa-onsen-sake-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【越後湯沢温泉 雪国名湯＆魚沼コシヒカリ宿×ふるさと納税】双葉・NASPAニューオータニ・いなもと
           </Link>
           <Link
-            href="/furusato-tax-three-great-wagyu-beef-gourmet-stay"
+            href="/furusato-tax-three-great-wagyu-beef-gourmet-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【日本三大和牛・神戸牛＆松阪牛×ふるさと納税】最高峰ステーキ名宿

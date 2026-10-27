@@ -103,7 +103,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">
           <Link href="/" className="hover:text-stone-900 underline transition">ホーム</Link>
           <span>/</span>
-          <Link href="/travel-savings-guide" className="hover:text-stone-900 underline transition">旅行費の節約術ガイド</Link>
+          <Link href="/travel-savings-guide/" className="hover:text-stone-900 underline transition">旅行費の節約術ガイド</Link>
           <span>/</span>
           <span className="text-stone-800 font-medium">初心者向け完全マニュアル</span>
         </nav>
@@ -145,7 +145,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
             <p className="text-xs text-stone-700">三大和牛・露天風呂・名城・絶景など、クーポンが使える宿をジャンル別に探したい方はハブページへ！</p>
           </div>
           <Link
-            href="/travel-savings-guide"
+            href="/travel-savings-guide/"
             className="shrink-0 inline-flex items-center gap-1.5 bg-stone-900 text-amber-300 font-bold px-4 py-2.5 rounded-xl text-xs hover:bg-stone-800 transition"
           >
             テーマ別おすすめ宿一覧へ ➔
@@ -512,7 +512,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <Link
-              href="/travel-savings-guide"
+              href="/travel-savings-guide/"
               className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 text-stone-950 font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition transform hover:-translate-y-0.5 text-sm"
             >
               🏨 全238テーマの厳選宿ハブページを見る ➔

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月静岡清水：冬の久能山東照宮新春初詣！名宿5選',
     description: '冬の静岡・清水エリアは、大気澄み渡る冬晴れの空に純白の雪を抱いた富士山が駿河湾の青に映える絶景ロケーションとともに楽しむ宿泊ガイドです。',
-    url: 'https://croud-travel.pages.dev/winter-shizuoka-city-nihondaira-kunozan-toshogu-maguro-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-city-nihondaira-kunozan-toshogu-maguro-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/13913/13913.jpg' , alt: "11・12・1月静岡清水：冬の久能山東照宮新春初詣！名宿5選"}]
   }
@@ -150,7 +150,7 @@ export default function ShizuokaCityWinterPage() {
       {
         "@type": "WebPage",
         "@id": "https://croud-travel.pages.dev/winter-shizuoka-city-nihondaira-kunozan-toshogu-maguro-stay#webpage",
-        "url": "https://croud-travel.pages.dev/winter-shizuoka-city-nihondaira-kunozan-toshogu-maguro-stay",
+        "url": "https://croud-travel.pages.dev/winter-shizuoka-city-nihondaira-kunozan-toshogu-maguro-stay/",
         "name": "【11・12・1月静岡清水】冬の久能山東照宮新春初詣＆日本平富士山パノラマ絶景！清水港冬マグロ・由比桜えびと名宿5選",
         "description": "冬の静岡・清水エリアは、大気澄み渡る冬晴れの空に純白の雪を抱いた富士山が駿河湾の青に映え、国宝・久能山東照宮が新春開運の初詣祈願で賑わう絶景と歴史の宝庫。日本平夢テラスからの360度大パノラマ、清水港の日本一の冷凍マグロ水揚げが誇る極上本マグロや由比の冬桜えび、出汁の染みた名物静岡おでんに舌鼓を打ち、天然温泉や富士展望宿で寛ぐ大人の冬旅。楽天APIから最新取得した静岡・日本平・清水の信頼の名宿5選を徹底特集します。",
         "inLanguage": "ja",
@@ -174,13 +174,13 @@ export default function ShizuokaCityWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "久能山東照宮初詣＆富士山展望宿",
-            "item": "https://croud-travel.pages.dev/winter-shizuoka-city-nihondaira-kunozan-toshogu-maguro-stay"
+            "item": "https://croud-travel.pages.dev/winter-shizuoka-city-nihondaira-kunozan-toshogu-maguro-stay/"
           }
         ]
       },
@@ -273,7 +273,7 @@ export default function ShizuokaCityWinterPage() {
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-teal-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-teal-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-teal-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">冬の静岡・日本平富士山＆久能山東照宮特集</li>
         </ol>
@@ -593,28 +593,28 @@ export default function ShizuokaCityWinterPage() {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
-              href="/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay"
+              href="/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-teal-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【静岡・三島沼津】三嶋大社新春初詣＆富士山スカイウォーク名宿</span>
               <span className="text-xs text-slate-500">駿河湾深海魚タカアシガニと沼津港寒魚、富士山展望温泉</span>
             </Link>
             <Link 
-              href="/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay"
+              href="/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-teal-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【静岡・焼津温泉】駿河湾越し富士山絶景＆南まぐろ尽くし名宿</span>
               <span className="text-xs text-slate-500">高濃度塩化物泉の極上美肌湯と本場ミナミマグロの贅</span>
             </Link>
             <Link 
-              href="/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay"
+              href="/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-teal-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【富士宮】富士山本宮浅間大社新春初詣＆湧水グルメ名宿</span>
               <span className="text-xs text-slate-500">富士山総本宮での開運参拝と富士宮やきそば・厳選和牛</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-teal-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>

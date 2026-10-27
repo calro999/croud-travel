@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '奥飛騨温泉郷で過ごす冬の旅（11・12月）！飛騨牛朴葉味噌焼き会席！名宿5選',
     description: '北アルプス穂高連峰の懐に抱かれた日本屈指の温泉天国・岐阜県奥飛騨温泉郷。11月下旬の初冠雪から12月の白銀世界へと移ろう初冬。',
-    url: 'https://croud-travel.pages.dev/winter-gifu-okuhida-onsen-yukimi-roten-stay',
+    url: 'https://croud-travel.pages.dev/winter-gifu-okuhida-onsen-yukimi-roten-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -84,7 +84,7 @@ export default function OkuhidaWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-gifu-okuhida-onsen-yukimi-roten-stay"
+          "@id": "https://croud-travel.pages.dev/winter-gifu-okuhida-onsen-yukimi-roten-stay/"
         }
       },
       {
@@ -300,7 +300,7 @@ export default function OkuhidaWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月奥飛騨温泉郷】飛騨牛朴葉味噌焼き会席！名宿5選","item":"https://croud-travel.pages.dev/winter-gifu-okuhida-onsen-yukimi-roten-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月奥飛騨温泉郷】飛騨牛朴葉味噌焼き会席！名宿5選","item":"https://croud-travel.pages.dev/winter-gifu-okuhida-onsen-yukimi-roten-stay/"}]}) }}
       />
         
         {/* Intro */}
@@ -512,7 +512,7 @@ export default function OkuhidaWinterPage() {
                           <span className="text-xs text-stone-400">（{h.reviews}件のクチコミ）</span>
                         </div>
                         <span className="text-xs font-medium px-2.5 py-1 bg-stone-100 text-stone-600 rounded-lg">
-                          目安: {h.price} / 泊
+                          目安: {h.price} // 泊
                         </span>
                       </div>
 
@@ -716,7 +716,7 @@ export default function OkuhidaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3.5 text-xs sm:text-sm">
             <Link
-              href="/winter-shirakawago-gassho-snow-illumination-stay"
+              href="/winter-shirakawago-gassho-snow-illumination-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-emerald-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-emerald-700 mb-1">
@@ -728,7 +728,7 @@ export default function OkuhidaWinterPage() {
             </Link>
 
             <Link
-              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay"
+              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-emerald-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-emerald-700 mb-1">
@@ -740,7 +740,7 @@ export default function OkuhidaWinterPage() {
             </Link>
 
             <Link
-              href="/winter-toyama-himi-kanburi-luxury-stay"
+              href="/winter-toyama-himi-kanburi-luxury-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-emerald-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-emerald-700 mb-1">
@@ -752,7 +752,7 @@ export default function OkuhidaWinterPage() {
             </Link>
 
             <Link
-              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
+              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-emerald-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-emerald-700 mb-1">
@@ -764,7 +764,7 @@ export default function OkuhidaWinterPage() {
             </Link>
 
             <Link
-              href="/winter-gunma-kusatsu-yukimi-onsen-stay"
+              href="/winter-gunma-kusatsu-yukimi-onsen-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-emerald-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-emerald-700 mb-1">
@@ -776,7 +776,7 @@ export default function OkuhidaWinterPage() {
             </Link>
 
             <Link
-              href="/features"
+              href="/features/"
               className="p-3.5 bg-emerald-50/70 rounded-xl border border-emerald-200 hover:bg-emerald-100/70 transition-all flex flex-col justify-center items-center text-center group"
             >
               <div className="font-bold text-emerald-900 mb-1">

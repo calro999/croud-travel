@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月長崎：冬の島原城初詣と名物「具雑煮」！名宿5選',
     description: '有明海と雲仙普賢岳に抱かれた水の都・長崎県島原市。11〜1月は白亜の島原城が澄んだ冬空に映え、年末年始の初詣や武家屋敷散策で賑わいます。',
-    url: 'https://croud-travel.pages.dev/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -169,7 +169,7 @@ export default function NagasakiShimabaraAriakeWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay/"
         },
         "headline": "【11・12・1月長崎】島原温泉＆雲仙・有明海！冬の島原城初詣と名物「具雑煮」・有明海冬牡蠣＆海一望の美肌温泉名宿5選",
         "description": "有明海と雲仙普賢岳に抱かれた水の都・長崎県島原市。11〜1月は白亜の島原城が澄んだ冬空に映え、年末年始の初詣や武家屋敷散策で賑わいます。島原の乱ゆかりの熱々郷土鍋「具雑煮」や有明海の冬牡蠣、幻のガンバ（ふぐ）料理、長崎和牛を堪能。対岸の有明海から昇る感動の朝日と美肌の島原温泉掛け流し露天風呂を満喫できる厳選名宿5選を徹底解説します。",
@@ -195,13 +195,13 @@ export default function NagasakiShimabaraAriakeWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "島原温泉＆有明海冬特集",
-            "item": "https://croud-travel.pages.dev/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay"
+            "item": "https://croud-travel.pages.dev/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay/"
           }
         ]
       },
@@ -611,7 +611,7 @@ export default function NagasakiShimabaraAriakeWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay"
+              href="/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-emerald-400 block mb-1">雲仙温泉冬特集</span>
@@ -619,7 +619,7 @@ export default function NagasakiShimabaraAriakeWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay"
+              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-emerald-400 block mb-1">嬉野温泉冬特集</span>
@@ -627,7 +627,7 @@ export default function NagasakiShimabaraAriakeWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay"
+              href="/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-emerald-400 block mb-1">天草・下田温泉冬特集</span>

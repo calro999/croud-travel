@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '小安峡・秋の宮温泉で過ごす冬の旅（11・12月）！白い湯煙の大噴湯と渓谷初雪！名宿5選',
     description: '11月中旬から12月の初冬を迎えた秋田県湯沢市の奥羽山脈の懐、小安峡温泉（おやすきょうおんせん）と秋の宮温泉郷（あきのみやおんせんきょう）の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay',
+    url: 'https://croud-travel.pages.dev/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -56,7 +56,7 @@ export default function AkitaOyasukyoAkinomiyaWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -379,7 +379,7 @@ export default function AkitaOyasukyoAkinomiyaWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月小安峡・秋の宮温泉】白い湯煙の大噴湯と渓谷初雪！名宿5選","item":"https://croud-travel.pages.dev/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月小安峡・秋の宮温泉】白い湯煙の大噴湯と渓谷初雪！名宿5選","item":"https://croud-travel.pages.dev/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay/"}]}) }}
       />
 
         {/* Introduction Section */}
@@ -663,21 +663,21 @@ export default function AkitaOyasukyoAkinomiyaWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay" 
+              href="/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">宮城・遠刈田温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">初冠雪の蔵王連峰を望む開湯400年の名湯・仙台牛＆蔵王鴨せり鍋名宿</p>
             </Link>
             <Link 
-              href="/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay" 
+              href="/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">福島・いわき湯本</span>
               <p className="font-bold text-stone-800 line-clamp-2">冬の味覚常磐もの寒アンコウ濃厚どぶ汁鍋＆目光唐揚げ・日本三古湯名宿</p>
             </Link>
             <Link 
-              href="/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay" 
+              href="/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">和歌山・熊野本宮</span>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '盛岡出張＆麺都ひとり旅：盛岡駅近・天然温泉大浴場・盛岡三大麺（冷麺・じゃじゃ麺・わんこそば）！北東北の要所で整う極上宿 厳選3選',
     description: '東北・秋田新幹線の結節点・岩手県盛岡市！「JR盛岡駅前徒歩すぐで広々バスルーム完備」の「ダイワロイネットホテル盛岡駅前」、最上階に自家源泉の天然温泉大浴場と夜鳴きそば完備の「ドーミーイン盛岡」、駅直結で快適なワーク環境を誇る老舗「ホテルメトロポリタン盛岡 本館」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/morioka-solo-business-noodles-onsen-stay',
+    url: 'https://croud-travel.pages.dev/morioka-solo-business-noodles-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T15:30:00+09:00',
     dateModified: '2026-10-19T15:30:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/morioka-solo-business-noodles-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/morioka-solo-business-noodles-onsen-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【盛岡出張＆麺都ひとり旅】盛岡駅近・天然温泉大浴場・盛岡三大麺（冷麺・じゃじゃ麺・わんこそば）！北東北の要所で整う極上宿 厳選3選","item":"https://croud-travel.pages.dev/morioka-solo-business-noodles-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【盛岡出張＆麺都ひとり旅】盛岡駅近・天然温泉大浴場・盛岡三大麺（冷麺・じゃじゃ麺・わんこそば）！北東北の要所で整う極上宿 厳選3選","item":"https://croud-travel.pages.dev/morioka-solo-business-noodles-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月山梨：武田神社新春初詣！名宿5選',
     description: '冬の山梨・甲府盆地は、白雪をまとった霊峰富士や南アルプス、八ヶ岳の壮大な連峰が青空に際立つ絶景の季節。',
-    url: 'https://croud-travel.pages.dev/winter-yamanashi-kofu-takeda-shrine-yumura-onsen-koshugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamanashi-kofu-takeda-shrine-yumura-onsen-koshugyu-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/9045/9045.jpg', width: 1200, height: 630, alt: '武田神社新春初詣と湯村温泉雪見風呂' }]
   },
@@ -157,8 +157,8 @@ export default function YamanashiKofuYumuraPage() {
         '@type': 'BreadcrumbList',
         'itemListElement': [
           { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '武田神社初詣＆湯村温泉・甲州牛名宿', 'item': 'https://croud-travel.pages.dev/winter-yamanashi-kofu-takeda-shrine-yumura-onsen-koshugyu-stay' }
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features/' },
+          { '@type': 'ListItem', 'position': 3, 'name': '武田神社初詣＆湯村温泉・甲州牛名宿', 'item': 'https://croud-travel.pages.dev/winter-yamanashi-kofu-takeda-shrine-yumura-onsen-koshugyu-stay/' }
         ]
       },
       {
@@ -595,37 +595,37 @@ export default function YamanashiKofuYumuraPage() {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay"
+              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-red-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-red-600 block"
             >
               【石和温泉】名湯美肌風呂＆極上甲州ワインと甲州牛ステーキ名宿
             </Link>
             <Link
-              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay"
+              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-red-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-red-600 block"
             >
               【河口湖温泉】富士山雪景色と甲州牛会席を満喫する湖畔宿
             </Link>
             <Link
-              href="/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay"
+              href="/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-red-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-red-600 block"
             >
               【清里・八ヶ岳】満天の冬星空観賞と甲州ワインビーフ名宿
             </Link>
             <Link
-              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay"
+              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-red-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-red-600 block"
             >
               【上諏訪温泉】諏訪大社四社まいり初詣＆信州牛と地酒名宿
             </Link>
             <Link
-              href="/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay"
+              href="/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-red-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-red-600 block"
             >
               【富士宮】浅間大社新春初詣＆白雪富士山・静岡そだち牛名宿
             </Link>
             <Link
-              href="/features"
+              href="/features/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-red-300 hover:shadow-xs transition-all text-sm font-bold text-red-700 block text-center flex items-center justify-center gap-1"
             >
               <span>全国の冬旅特集一覧を見る</span>

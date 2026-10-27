@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '新潟出張＆地酒ひとり旅：信濃川パノラマ・天然温泉サウナ・ぽんしゅ館利き酒！日本海美食を堪能する極上宿 厳選3選',
     description: '上越新幹線で東京から最短約1時間29分！日本一の米どころ・酒どころである新潟。「信濃川と日本海を見下ろす地上140mのランドマーク」を誇る「ホテル日航新潟」、新潟駅万代口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーイン新潟」、新幹線直結の好アクセスを誇る「アートホテル新潟駅前」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/niigata-solo-business-sake-seafood-stay',
+    url: 'https://croud-travel.pages.dev/niigata-solo-business-sake-seafood-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T03:30:00+09:00',
     dateModified: '2026-10-19T03:30:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/niigata-solo-business-sake-seafood-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/niigata-solo-business-sake-seafood-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【新潟出張＆地酒ひとり旅】信濃川パノラマ・天然温泉サウナ・ぽんしゅ館利き酒！日本海美食を堪能する極上宿 厳選3選","item":"https://croud-travel.pages.dev/niigata-solo-business-sake-seafood-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【新潟出張＆地酒ひとり旅】信濃川パノラマ・天然温泉サウナ・ぽんしゅ館利き酒！日本海美食を堪能する極上宿 厳選3選","item":"https://croud-travel.pages.dev/niigata-solo-business-sake-seafood-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

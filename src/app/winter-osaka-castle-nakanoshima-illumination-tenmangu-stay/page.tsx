@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月大阪：大阪天満宮新春初詣！名宿5選',
     description: '冬の水都・大阪は、大阪城西の丸庭園を光の歴史絵巻に変える「大阪城イルミナージュ」や堂島川・中之島を彩る「大阪・光の饗宴」の幻想美に包まれる季節。',
-    url: 'https://croud-travel.pages.dev/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay',
+    url: 'https://croud-travel.pages.dev/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/91/91.jpg' , alt: "11・12・1月大阪：大阪天満宮新春初詣！名宿5選"}]
   }
@@ -150,7 +150,7 @@ export default function OsakaCastleNakanoshimaWinterPage() {
       {
         "@type": "WebPage",
         "@id": "https://croud-travel.pages.dev/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay#webpage",
-        "url": "https://croud-travel.pages.dev/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay",
+        "url": "https://croud-travel.pages.dev/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay/",
         "name": "【11・12・1月大阪】冬の大阪城イルミナージュ＆大阪天満宮新春初詣！水都中之島イルミネーションとなにわ冬グルメ名宿5選",
         "description": "冬の水都・大阪は、大阪城西の丸庭園を光の歴史絵巻に変える「大阪城イルミナージュ」や堂島川・中之島を彩る「大阪・光の饗宴」の幻想美に包まれる季節。天神橋筋商店街の活気と学問の神様「大阪天満宮」の新春開運初詣、熱々のてっちり（ふぐ鍋）や串カツ、出汁香るきつねうどんなどなにわの冬の味覚を心ゆくまで堪能。楽天APIから最新取得した大阪城・中之島・天満エリアの格調高きホテル5選を徹底特集します。",
         "inLanguage": "ja",
@@ -174,13 +174,13 @@ export default function OsakaCastleNakanoshimaWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "大阪城イルミ＆天満宮初詣宿",
-            "item": "https://croud-travel.pages.dev/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay"
+            "item": "https://croud-travel.pages.dev/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay/"
           }
         ]
       },
@@ -273,7 +273,7 @@ export default function OsakaCastleNakanoshimaWinterPage() {
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-amber-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-amber-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-amber-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">大阪城イルミ＆天満宮初詣宿</li>
         </ol>
@@ -593,42 +593,42 @@ export default function OsakaCastleNakanoshimaWinterPage() {
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 pt-2">
             <Link 
-              href="/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay"
+              href="/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-amber-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">住吉大社新春初詣＆御堂筋イルミ！冬のとらふぐ極上宿</span>
               <span className="text-[11px] text-amber-600 font-medium mt-2 flex items-center gap-1">大阪・住吉特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay"
+              href="/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-amber-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">生田神社初詣＆神戸ルミナリエ！メリケンパーク夜景と神戸牛宿</span>
               <span className="text-[11px] text-amber-600 font-medium mt-2 flex items-center gap-1">兵庫・神戸特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay"
+              href="/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-amber-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">春日大社新春開運初詣＆東大寺冬景色！大和牛すき焼きの古都宿</span>
               <span className="text-[11px] text-amber-600 font-medium mt-2 flex items-center gap-1">奈良・奈良公園特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay"
+              href="/winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-amber-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">伏見稲荷大社新春初詣＆宇治抹茶！冬の酒蔵めぐりと京会席宿</span>
               <span className="text-[11px] text-amber-600 font-medium mt-2 flex items-center gap-1">京都・伏見宇治特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay"
+              href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-amber-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">国宝彦根城雪化粧＆近江八幡水郷！近江牛すき焼きとびわ湖宿</span>
               <span className="text-[11px] text-amber-600 font-medium mt-2 flex items-center gap-1">滋賀・彦根八幡特集を読む →</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-amber-50 p-3.5 rounded-2xl border border-amber-200 hover:bg-amber-100 transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-amber-900 line-clamp-2">全国の冬旅・新春初詣＆温泉特選特集一覧</span>

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '熊本・人吉温泉郷で過ごす冬の旅（11・12月）！極上球磨黒毛和牛！名宿5選',
     description: '11月から12月にかけて、相良（さがら）700年の城下町の歴史が息づく熊本県南部の人吉盆地の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay',
+    url: 'https://croud-travel.pages.dev/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -170,7 +170,7 @@ export default function WinterKumamotoHitoyoshiPage() {
         'headline': "【11・12月熊本・人吉温泉郷の球磨川初冬朝霧絶景と美肌名湯】名物子持ち落ち鮎塩焼き＆極上球磨黒毛和牛・球磨焼酎会席を味わう老舗宿5選",
         'description': "11月から12月にかけて、相良（さがら）700年の城下町の歴史が息づく熊本県南部の人吉盆地は、盆地特有の冷え込みによって街全体と日本三急流・球磨川が深い霧に包まれる「朝霧の都」の幻想的なベストシーズンを迎えます。朝日に照らされて霧が晴れゆく幽玄な球磨川の情景、国宝・青井阿蘇神社の厳かな歴史散策、そして化粧水のように肌を包み込む弱アルカリ性炭酸水素塩泉の名湯。夕食には晩秋から初冬に旨味が凝縮する名物「子持ち落ち鮎の塩焼き」やうるか、とろける霜降りの極上球磨黒毛和牛、500年の伝統を誇る米焼酎「球磨焼酎」のぬる燗を味わう厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -210,7 +210,7 @@ export default function WinterKumamotoHitoyoshiPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-teal-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">熊本・人吉温泉郷</span>
           </nav>
@@ -247,7 +247,7 @@ export default function WinterKumamotoHitoyoshiPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月熊本・人吉温泉郷】極上球磨黒毛和牛！名宿5選","item":"https://croud-travel.pages.dev/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月熊本・人吉温泉郷】極上球磨黒毛和牛！名宿5選","item":"https://croud-travel.pages.dev/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay/"}]}) }}
       />
         
         {/* Section 1: Season Context & Highlights */}
@@ -587,7 +587,7 @@ export default function WinterKumamotoHitoyoshiPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
-              href="/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay"
+              href="/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">熊本・阿蘇内牧</span>
@@ -599,7 +599,7 @@ export default function WinterKumamotoHitoyoshiPage() {
               </p>
             </Link>
             <Link 
-              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay"
+              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">熊本・黒川</span>
@@ -611,7 +611,7 @@ export default function WinterKumamotoHitoyoshiPage() {
               </p>
             </Link>
             <Link 
-              href="/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay"
+              href="/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">鹿児島・霧島</span>
@@ -623,7 +623,7 @@ export default function WinterKumamotoHitoyoshiPage() {
               </p>
             </Link>
             <Link 
-              href="/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay"
+              href="/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">大分・由布院</span>

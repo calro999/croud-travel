@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '銀山温泉で過ごす冬の旅（11・12月）！白銀の温泉街に灯るガス灯と尾花沢牛会席！名宿5選',
     description: '11月下旬の初雪から12月の白銀世界へと移ろう山形・銀山温泉。銀山川沿いに立ち並ぶ大正ロマンの木造多層建築と、黄昏時に灯る温かなガス灯。雪景色を眺めながらの名湯三昧と、最高峰の黒毛和牛「雪降り和牛尾花沢」を味わう極上の冬旅ガイド。',
-    url: 'https://croud-travel.pages.dev/winter-yamagata-ginzan-onsen-snow-taisho-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-ginzan-onsen-snow-taisho-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function GinzanWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-yamagata-ginzan-onsen-snow-taisho-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamagata-ginzan-onsen-snow-taisho-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function GinzanWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月銀山温泉】白銀の温泉街に灯るガス灯と尾花沢牛会席！名宿5選","item":"https://croud-travel.pages.dev/winter-yamagata-ginzan-onsen-snow-taisho-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月銀山温泉】白銀の温泉街に灯るガス灯と尾花沢牛会席！名宿5選","item":"https://croud-travel.pages.dev/winter-yamagata-ginzan-onsen-snow-taisho-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -796,7 +796,7 @@ export default function GinzanWinterPage() {
           {/* 関連特集リンクカード */}
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
             <Link 
-              href="/winter-zao-snow-monster-ice-tree-stay"
+              href="/winter-zao-snow-monster-ice-tree-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-amber-50/60 border border-stone-200 hover:border-amber-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-sky-800 bg-sky-100/80 px-2 py-0.5 rounded">山形冬特集</span>
@@ -809,7 +809,7 @@ export default function GinzanWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-yamagata-onogawa-yonezawa-beef-stay"
+              href="/winter-yamagata-onogawa-yonezawa-beef-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-amber-50/60 border border-stone-200 hover:border-amber-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">山形グルメ温泉</span>
@@ -822,7 +822,7 @@ export default function GinzanWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-aomori-sukayu-hakkoda-yukimi-stay"
+              href="/winter-aomori-sukayu-hakkoda-yukimi-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-amber-50/60 border border-stone-200 hover:border-amber-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">東北雪見秘湯</span>

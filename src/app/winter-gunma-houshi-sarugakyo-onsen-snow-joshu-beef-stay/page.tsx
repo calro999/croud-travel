@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '法師温泉で過ごす冬の旅（11・12月）！三国峠の秘湯雪景色！名宿5選',
     description: '11月中旬から初雪の知らせが届く群馬・新潟県境の三国峠。谷川連峰の裾野、ブナの原生林に抱かれた法師川のほとりに湧く法師温泉と。',
-    url: 'https://croud-travel.pages.dev/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -57,7 +57,7 @@ export default function GunmaHoushiSarugakyoPage() {
         "datePublished": "T18:00:00+09:00",
         "dateModified": "T18:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -353,7 +353,7 @@ export default function GunmaHoushiSarugakyoPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 sm:pt-14 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月法師温泉】三国峠の秘湯雪景色！名宿5選","item":"https://croud-travel.pages.dev/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月法師温泉】三国峠の秘湯雪景色！名宿5選","item":"https://croud-travel.pages.dev/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -649,7 +649,7 @@ export default function GunmaHoushiSarugakyoPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay"
+              href="/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">群馬・四万温泉</span>
@@ -662,7 +662,7 @@ export default function GunmaHoushiSarugakyoPage() {
             </Link>
 
             <Link 
-              href="/winter-gunma-minakami-onsen-tanigawa-yukimi-stay"
+              href="/winter-gunma-minakami-onsen-tanigawa-yukimi-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">群馬・水上温泉郷</span>
@@ -675,7 +675,7 @@ export default function GunmaHoushiSarugakyoPage() {
             </Link>
 
             <Link 
-              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay"
+              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">群馬・草津温泉</span>

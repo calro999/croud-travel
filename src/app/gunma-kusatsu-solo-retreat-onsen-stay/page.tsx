@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '草津温泉ひとり旅・名湯おこもり：湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿',
     description: '日本三名泉・草津温泉！湯畑徒歩2分の好立地で全館源泉かけ流し貸切風呂が評判の「湯の宿 みさご」、洗練された和モダン空間で大人のおこもりステイが叶う「湯畑泉水」、草津の名湯とコスパ抜群の滞在が魅力の「山の湯ホテル」を楽天トラベル公式API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/gunma-kusatsu-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/gunma-kusatsu-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/gunma-kusatsu-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/gunma-kusatsu-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【草津温泉ひとり旅・名湯おこもり】湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿","item":"https://croud-travel.pages.dev/gunma-kusatsu-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【草津温泉ひとり旅・名湯おこもり】湯畑源泉かけ流し・貸切風呂・上州和牛！日本三名泉の湯ヂカラに浸る贅沢ソロ温泉厳選3宿","item":"https://croud-travel.pages.dev/gunma-kusatsu-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

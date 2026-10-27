@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '浅草・スカイツリーをふるさと納税でお得に旅する！雷門の情緒＆大迫力のタワービュー！下町名湯＆最新ホテル特集｜浅草ビューホテル・THE GATE HOTEL・御宿野乃',
     description: '江戸情緒と最先端のタワーが交差する東京屈指の観光地・東京都台東区「浅草」を楽天ふるさと納税でお得に満喫！東京スカイツリーと浅草寺を一望する「浅草ビューホテル アネックス 六区」、雷門徒歩2分の洗練デザイナーズ「THE GATE HOTEL 雷門 by HULIC」、全館畳敷き＆黒湯天然温泉の「天然温泉 凌雲の湯 御宿 野乃 浅草」を徹底比較。台東区トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-tokyo-asakusa-skytree-view-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-tokyo-asakusa-skytree-view-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T01:00:00+09:00',
     dateModified: '2026-10-19T01:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-tokyo-asakusa-skytree-view-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-tokyo-asakusa-skytree-view-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【浅草・スカイツリー×ふるさと納税】雷門の情緒＆大迫力のタワービュー！下町名湯＆最新ホテル特集｜浅草ビューホテル・THE GATE HOTEL・御宿野乃","item":"https://croud-travel.pages.dev/furusato-tax-tokyo-asakusa-skytree-view-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【浅草・スカイツリー×ふるさと納税】雷門の情緒＆大迫力のタワービュー！下町名湯＆最新ホテル特集｜浅草ビューホテル・THE GATE HOTEL・御宿野乃","item":"https://croud-travel.pages.dev/furusato-tax-tokyo-asakusa-skytree-view-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【浅草・スカイツリー×ふるさと納税】雷門の情緒＆大迫力のタワービュー！下町名湯＆最新ホテル特集｜浅草ビューホテル・THE GATE HOTEL・御宿野乃</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-nagoya-luxury-gourmet-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-nagoya-luxury-gourmet-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 名古屋 駅直結スカイビュー＆最新ラグジュアリー特集
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-shodoshima-olive-island-onsen-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-shodoshima-olive-island-onsen-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 小豆島 エンジェルロード＆オリーブの島・絶景温泉特集
               </Link>
             </li>

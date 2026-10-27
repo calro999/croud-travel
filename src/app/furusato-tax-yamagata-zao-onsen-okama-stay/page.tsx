@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'エメラルドの火口湖「御釜」と冬の樹氷スノーモンスター！山形蔵王温泉の乳白色強酸性硫黄泉＆極上山形牛名門宿×ふるさと納税極上旅ガイド蔵王国際・四季のホテル・高見屋',
     description: '開湯千九百年を誇る東北屈指の名湯・山形蔵王温泉！神秘の火口湖「御釜」と大迫力のスノーモンスター（樹氷）。「蔵王国際ホテル」「蔵王四季のホテル」「深山荘 高見屋」を、山形県山形市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。丸太造り八右衛門の湯、乳白色のにごり湯露天風呂、極上山形牛会席を満喫。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-yamagata-zao-onsen-okama-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-yamagata-zao-onsen-okama-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">山形蔵王温泉 樹氷＆にごり湯名宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-ginzan-onsen-taisho-romantic-stay"
+            href="/furusato-tax-ginzan-onsen-taisho-romantic-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【銀山温泉 大正ロマン＆雪見露天宿×ふるさと納税】能登屋・銀山荘・古勢起屋
           </Link>
           <Link
-            href="/furusato-tax-kurokawa-onsen-yumeguri-luxury-stay"
+            href="/furusato-tax-kurokawa-onsen-yumeguri-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【黒川温泉 入湯手形＆渓流露天風呂宿×ふるさと納税】山みず木・奥の湯・新明館
           </Link>
           <Link
-            href="/furusato-tax-kinugawa-nikko-world-heritage-stay"
+            href="/furusato-tax-kinugawa-nikko-world-heritage-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【日光東照宮＆奥日光乳白色硫黄泉×ふるさと納税】千姫物語・日光金谷・四季彩
           </Link>
           <Link
-            href="/furusato-tax-three-great-wagyu-beef-gourmet-stay"
+            href="/furusato-tax-three-great-wagyu-beef-gourmet-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【日本三大和牛・神戸牛＆松阪牛×ふるさと納税】最高峰ステーキ名宿

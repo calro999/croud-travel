@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の伊東温泉×格安：伊豆高原の紅葉とオーシャンビュー！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」',
     description: '東京から特急で一本！相模湾の海の幸と源泉かけ流し温泉付き1泊4,000円台〜のコスパ最強おすすめ宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-shizuoka-ito-onsen-seaside-hotels-stay/',
   }
 };
 

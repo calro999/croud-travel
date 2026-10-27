@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'ニセコをふるさと納税でお得に旅する！世界最高峰パウダースノー＆ラグジュアリーステイ！羊蹄山ビュー名門ホテル特集｜パークハイアット・雪ニセコ・坐忘林',
     description: '世界中のスキーヤーや富裕層を魅了する国際的スノーリゾート・北海道ニセコ（倶知安町・ニセコ町）を楽天ふるさと納税でお得に贅沢滞在！ゲレンデ直結の世界的ラグジュアリー「パークハイアット ニセコ HANAZONO」、羊蹄山ビューと上質スパの「雪ニセコ」、白樺林に抱かれた源泉掛け流し離れ宿「坐忘林」を徹底比較。高額還元トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-niseko-luxury-resort-powder-snow-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-niseko-luxury-resort-powder-snow-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T18:00:00+09:00',
     dateModified: '2026-10-19T18:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-niseko-luxury-resort-powder-snow-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-niseko-luxury-resort-powder-snow-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【ニセコ×ふるさと納税】世界最高峰パウダースノー＆ラグジュアリーステイ！羊蹄山ビュー名門ホテル特集｜パークハイアット・雪ニセコ・坐忘林","item":"https://croud-travel.pages.dev/furusato-tax-niseko-luxury-resort-powder-snow-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【ニセコ×ふるさと納税】世界最高峰パウダースノー＆ラグジュアリーステイ！羊蹄山ビュー名門ホテル特集｜パークハイアット・雪ニセコ・坐忘林","item":"https://croud-travel.pages.dev/furusato-tax-niseko-luxury-resort-powder-snow-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【ニセコ×ふるさと納税】世界最高峰パウダースノー＆ラグジュアリーステイ！羊蹄山ビュー名門ホテル特集｜パークハイアット・雪ニセコ・坐忘林</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-shirahama-onsen-ocean-adventure-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-shirahama-onsen-ocean-adventure-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 南紀白浜温泉 白良浜オーシャンビュー＆アドベンチャーワールド特集
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-nozawa-onsen-sotoyu-heritage-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-nozawa-onsen-sotoyu-heritage-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 野沢温泉 十三の外湯めぐり＆源泉麻釜・信州郷土料理特集
               </Link>
             </li>

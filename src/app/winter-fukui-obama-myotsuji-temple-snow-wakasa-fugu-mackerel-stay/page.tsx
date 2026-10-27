@@ -214,7 +214,7 @@ export default function Page() {
                 TOP
               </Link>
               <ChevronRight className="w-3 h-3 text-cyan-400" />
-              <Link href="/features" className="text-cyan-200 hover:text-white transition-colors">
+              <Link href="/features/" className="text-cyan-200 hover:text-white transition-colors">
                 冬の厳選特集
               </Link>
               <ChevronRight className="w-3 h-3 text-cyan-400" />
@@ -769,37 +769,37 @@ export default function Page() {
                 </Link>
               </li>
               <li>
-                <Link href="/features" className="hover:underline flex items-center gap-1">
+                <Link href="/features/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>全国の季節・目的別旅行特集一覧</span>
                 </Link>
               </li>
               <li>
-                <Link href="/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay" className="hover:underline flex items-center gap-1">
+                <Link href="/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>【福井】敦賀気比神宮新春初詣と越前がに・若狭ふぐ名宿5選</span>
                 </Link>
               </li>
               <li>
-                <Link href="/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay" className="hover:underline flex items-center gap-1">
+                <Link href="/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>【京都】天橋立＆伊根の舟屋雪景色と冬の寒ブリしゃぶ名宿5選</span>
                 </Link>
               </li>
               <li>
-                <Link href="/winter-shiga-yogo-lake-wakasagi-kamonabe-shizugatake-stay" className="hover:underline flex items-center gap-1">
+                <Link href="/winter-shiga-yogo-lake-wakasagi-kamonabe-shizugatake-stay/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>【滋賀】神秘の余呉湖ワカサギと天然真鴨鍋名宿5選</span>
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="hover:underline flex items-center gap-1">
+                <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>実質2,000円で泊まる名湯・高級温泉旅館ガイド</span>
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-local-gourmet-inn-stay" className="hover:underline flex items-center gap-1">
+                <Link href="/furusato-tax-local-gourmet-inn-stay/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>ご当地グルメを堪能する全国美食旅特集</span>
                 </Link>

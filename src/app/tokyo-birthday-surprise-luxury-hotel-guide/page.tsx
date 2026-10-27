@@ -233,7 +233,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
           </div>
           <div>
             <Link
-              href="/tokyo-disney-resort-family-hotel-comparison"
+              href="/tokyo-disney-resort-family-hotel-comparison/"
               className="flex items-start gap-3 p-3.5 rounded-xl bg-white border border-amber-200/90 hover:border-amber-400 hover:shadow-md transition group"
             >
               <span className="text-amber-600 font-bold text-xl">🏰</span>

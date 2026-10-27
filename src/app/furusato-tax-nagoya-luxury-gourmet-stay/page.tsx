@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '名古屋をふるさと納税でお得に旅する！駅直結スカイビュー＆最新ラグジュアリー！ひつまぶし・名古屋コーチン美食特集｜マリオット・TIAD・名古屋観光ホテル',
     description: '日本三大都市・愛知県名古屋市を楽天ふるさと納税でお得に贅沢ステイ！JR名古屋駅直結・地上200m超の「名古屋マリオットアソシアホテル」、久屋大通公園を望む最新ラグジュアリー「TIAD オートグラフ コレクション」、昭和十一年開業の歴史と格式「名古屋観光ホテル」を徹底比較。名古屋メシとふるさと納税クーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-nagoya-luxury-gourmet-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-nagoya-luxury-gourmet-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T00:20:00+09:00',
     dateModified: '2026-10-19T00:20:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-nagoya-luxury-gourmet-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-nagoya-luxury-gourmet-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【名古屋×ふるさと納税】駅直結スカイビュー＆最新ラグジュアリー！ひつまぶし・名古屋コーチン美食特集｜マリオット・TIAD・名古屋観光ホテル","item":"https://croud-travel.pages.dev/furusato-tax-nagoya-luxury-gourmet-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【名古屋×ふるさと納税】駅直結スカイビュー＆最新ラグジュアリー！ひつまぶし・名古屋コーチン美食特集｜マリオット・TIAD・名古屋観光ホテル","item":"https://croud-travel.pages.dev/furusato-tax-nagoya-luxury-gourmet-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【名古屋×ふるさと納税】駅直結スカイビュー＆最新ラグジュアリー！ひつまぶし・名古屋コーチン美食特集｜マリオット・TIAD・名古屋観光ホテル</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-hakone-yumoto-gateway-luxury-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-hakone-yumoto-gateway-luxury-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 箱根湯本温泉 玄関口の極上湯浴み＆老舗名宿特集
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-fukuoka-hakata-luxury-gourmet-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-fukuoka-hakata-luxury-gourmet-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 福岡・博多 駅直結ラグジュアリー＆天然温泉スパ特集
               </Link>
             </li>

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '西伊豆・土肥温泉ひとり旅・駿河湾茜色夕日おこもり：全館畳敷き露天風呂・駿河湾地魚舟盛り・黄金の湯治場！駿河湾フェリーで行く西海岸厳選3宿',
     description: '西伊豆随一の歴史と湧出量を誇る夕日の街・土肥温泉！全室趣の異なる客室と板前割烹料理が口コミ★4.7超の隠れ宿「花暖簾」、全館畳敷きで波打ち際の絶景露天風呂を誇る「湯の花亭」、駿河湾の夕日を客室から望む「明治館」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/shizuoka-toi-solo-retreat-sunset-onsen-stay',
+    url: 'https://croud-travel.pages.dev/shizuoka-toi-solo-retreat-sunset-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-toi-solo-retreat-sunset-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-toi-solo-retreat-sunset-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【西伊豆・土肥温泉ひとり旅・駿河湾茜色夕日おこもり】全館畳敷き露天風呂・駿河湾地魚舟盛り・黄金の湯治場！駿河湾フェリーで行く西海岸厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-toi-solo-retreat-sunset-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【西伊豆・土肥温泉ひとり旅・駿河湾茜色夕日おこもり】全館畳敷き露天風呂・駿河湾地魚舟盛り・黄金の湯治場！駿河湾フェリーで行く西海岸厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-toi-solo-retreat-sunset-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

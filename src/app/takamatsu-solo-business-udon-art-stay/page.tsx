@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '高松出張＆讃岐うどんひとり旅：高松港・サンポートビュー・天然温泉・名物うどん朝食！瀬戸内の風を感じる快適宿 厳選3選',
     description: '本州と四国を結ぶ海の玄関口・香川県高松市！「高松駅＆高松港直結・瀬戸内海の島々を見渡す最高峰シティホテル」を誇る「JRホテルクレメント高松」、全室ライブラリーラウンジ付きで上質な滞在を約束する「ロイヤルパークホテル高松」、瓦町駅近くで自家源泉天然温泉と夜鳴きそば完備の「さぬきの湯 ドーミーイン高松」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/takamatsu-solo-business-udon-art-stay',
+    url: 'https://croud-travel.pages.dev/takamatsu-solo-business-udon-art-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T03:30:00+09:00',
     dateModified: '2026-10-19T03:30:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/takamatsu-solo-business-udon-art-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/takamatsu-solo-business-udon-art-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【高松出張＆讃岐うどんひとり旅】高松港・サンポートビュー・天然温泉・名物うどん朝食！瀬戸内の風を感じる快適宿 厳選3選","item":"https://croud-travel.pages.dev/takamatsu-solo-business-udon-art-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【高松出張＆讃岐うどんひとり旅】高松港・サンポートビュー・天然温泉・名物うどん朝食！瀬戸内の風を感じる快適宿 厳選3選","item":"https://croud-travel.pages.dev/takamatsu-solo-business-udon-art-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

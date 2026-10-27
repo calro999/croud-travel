@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'いわき湯本温泉で過ごす冬の旅（11・12月）！冬の味覚常磐もの寒アンコウ濃！名宿5選',
     description: '11月から12月にかけて本格的な冬の到来を迎える福島県いわき市。東北地方にありながら「東北のハワイ」と称されるほど温暖で満喫する至福の宿泊滞在プランをご案内します。',
-    url: 'https://croud-travel.pages.dev/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -56,7 +56,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -379,7 +379,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月いわき湯本温泉】冬の味覚常磐もの寒アンコウ濃！名宿5選","item":"https://croud-travel.pages.dev/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月いわき湯本温泉】冬の味覚常磐もの寒アンコウ濃！名宿5選","item":"https://croud-travel.pages.dev/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay/"}]}) }}
       />
 
         {/* Introduction Section */}
@@ -727,7 +727,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay"
+              href="/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">福島・岳温泉</span>
@@ -737,7 +737,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
             </Link>
 
             <Link
-              href="/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay"
+              href="/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">福島・高湯＆土湯温泉</span>
@@ -747,7 +747,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
             </Link>
 
             <Link
-              href="/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay"
+              href="/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">福島・会津東山温泉</span>
@@ -757,7 +757,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
             </Link>
 
             <Link
-              href="/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay"
+              href="/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">千葉・南房総館山</span>
@@ -767,7 +767,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
             </Link>
 
             <Link
-              href="/winter-miyagi-matsushima-oyster-hotspring-stay"
+              href="/winter-miyagi-matsushima-oyster-hotspring-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">宮城・松島温泉</span>
@@ -777,7 +777,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
             </Link>
 
             <Link
-              href="/features"
+              href="/features/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2 flex flex-col justify-center items-center text-center"
             >
               <span className="text-xs font-bold text-amber-700">全国の旬の温泉特集一覧へ</span>

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'かみで過ごす冬の旅（11・12月）！特選山形牛すき焼き！名宿5選',
     description: '11月から12月にかけて山形県上山市の奥座敷「かみのやま温泉」は、初冠雪を戴く蔵王連峰の雄大な稜線を背景に位置する注目の宿と観光モデルコースをご案内します。',
-    url: 'https://croud-travel.pages.dev/winter-yamagata-kaminoyama-onsen-hoshigaki-yamagata-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-kaminoyama-onsen-hoshigaki-yamagata-beef-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function KaminoyamaOnsenWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-yamagata-kaminoyama-onsen-hoshigaki-yamagata-beef-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-yamagata-kaminoyama-onsen-hoshigaki-yamagata-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamagata-kaminoyama-onsen-hoshigaki-yamagata-beef-stay/"
         },
         "headline": "【11・12月山形・かみのやま温泉の初冬風情と開湯五百六十年美肌泉】干し柿暖簾・特選山形牛すき焼き＆蔵王雪見露天の宿5選",
         "description": "11月から12月にかけて山形県上山市の奥座敷「かみのやま温泉」は、初冠雪を戴く蔵王連峰の雄大な稜線を背景に、古い武家屋敷や民家の軒先に鮮やかなオレンジ色の干し柿（つるし柿・紅柿）の暖簾が幾重にも吊るされる日本の原風景に包まれます。室町時代長禄2年（1558年）に月秀上人が傷を癒やす鶴を見つけて開湯したと伝わる「鶴の湯」は、ナトリウム・カルシウム-塩化物・硫酸塩泉で日本三大美肌の湯として名高い名泉。プロが選ぶ名旅館「日本の宿 古窯」や隠れ家旅館「名月荘」をはじめ、とろける脂が絶品の山形牛や米沢牛のすき焼き・ステーキ、山形名物芋煮を堪能する極上宿5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function KaminoyamaOnsenWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "山形・かみのやま温泉 初冬の干し柿暖簾と美肌泉・山形牛の宿",
-            "item": "https://croud-travel.pages.dev/winter-yamagata-kaminoyama-onsen-hoshigaki-yamagata-beef-stay"
+            "item": "https://croud-travel.pages.dev/winter-yamagata-kaminoyama-onsen-hoshigaki-yamagata-beef-stay/"
           }
         ]
       },
@@ -592,42 +592,42 @@ export default function KaminoyamaOnsenWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay"
+              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">山形・蔵王温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">樹氷と日本屈指の強酸性硫黄泉・山形牛すき焼きの雪見宿</h3>
             </Link>
             <Link 
-              href="/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay"
+              href="/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">山形・赤湯温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">開湯九百年赤湯温泉と本場米沢牛・山形ワインを味わう名宿</h3>
             </Link>
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay"
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">山形・銀山温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">大正浪漫のガス灯と雪景色・尾花沢牛を味わう幻想の宿</h3>
             </Link>
             <Link 
-              href="/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay"
+              href="/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">山形・天童温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">将棋の街と冬のラフランス・山形牛会席を堪能する名宿</h3>
             </Link>
             <Link 
-              href="/winter-yamagata-onogawa-yonezawa-beef-stay"
+              href="/winter-yamagata-onogawa-yonezawa-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">山形・小野川温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">小野小町ゆかりの美肌硫黄泉と本場米沢牛すき焼きの隠れ宿</h3>
             </Link>
             <Link 
-              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay"
+              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">宮城・秋保温泉</span>

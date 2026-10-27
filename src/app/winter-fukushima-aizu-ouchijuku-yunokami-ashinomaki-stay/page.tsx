@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月福島：阿賀川渓谷雪見露天風呂！名宿5選',
     description: '11月下旬から1月、会津盆地に雪が降り積もると、江戸時代の面影を今に留める国の重要伝統的建造物群保存地区「大内宿（おおうちじゅく）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -63,7 +63,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay/'
     }
   };
 
@@ -81,13 +81,13 @@ export default function FukushimaAizuOuchijukuWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '大内宿＆湯野上・芦ノ牧温泉 白銀宿場町と渓谷雪見露天名宿',
-        item: 'https://croud-travel.pages.dev/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay'
+        item: 'https://croud-travel.pages.dev/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay/'
       }
     ]
   };
@@ -641,7 +641,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay" 
+              href="/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-orange-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-orange-900 font-bold text-xs block mb-1">福島・裏磐梯</span>
@@ -651,7 +651,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-fukushima-bandai-atami-onsen-bihada-swan-stay" 
+              href="/winter-fukushima-bandai-atami-onsen-bihada-swan-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-orange-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-orange-900 font-bold text-xs block mb-1">福島・磐梯熱海</span>
@@ -661,7 +661,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay" 
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-orange-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-orange-900 font-bold text-xs block mb-1">山形・銀山温泉</span>
@@ -671,7 +671,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay" 
+              href="/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-orange-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-orange-900 font-bold text-xs block mb-1">栃木・湯西川温泉</span>
@@ -681,7 +681,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shirakawago-gassho-snow-illumination-stay" 
+              href="/winter-shirakawago-gassho-snow-illumination-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-orange-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-orange-900 font-bold text-xs block mb-1">岐阜・白川郷</span>
@@ -691,7 +691,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay" 
+              href="/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-orange-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-orange-900 font-bold text-xs block mb-1">茨城・奥久慈袋田</span>

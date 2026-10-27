@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '道東・川湯温泉ひとり旅・硫黄山pH1.7強酸性泉おこもり：釘も溶かす日本屈指の酸性硫黄泉・摩周湖の霧・エゾ鹿料理！阿寒摩周の秘境厳選3宿',
     description: '活火山硫黄山の噴煙を水源とする日本有数の強酸性名湯・道東・川湯温泉！モダンでお洒落なゲストハウスステイが口コミ★4.5の「YUNOMY」、自家源泉100%完全掛け流しとモルジブ直送の料理が自慢の「HOTEL PARKWAY」、源泉岩風呂と広々とした温泉大浴場を誇る「川湯観光ホテル」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/hokkaido-kawayu-solo-retreat-acid-onsen-stay',
+    url: 'https://croud-travel.pages.dev/hokkaido-kawayu-solo-retreat-acid-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/hokkaido-kawayu-solo-retreat-acid-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/hokkaido-kawayu-solo-retreat-acid-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【道東・川湯温泉ひとり旅・硫黄山pH1.7強酸性泉おこもり】釘も溶かす日本屈指の酸性硫黄泉・摩周湖の霧・エゾ鹿料理！阿寒摩周の秘境厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-kawayu-solo-retreat-acid-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【道東・川湯温泉ひとり旅・硫黄山pH1.7強酸性泉おこもり】釘も溶かす日本屈指の酸性硫黄泉・摩周湖の霧・エゾ鹿料理！阿寒摩周の秘境厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-kawayu-solo-retreat-acid-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

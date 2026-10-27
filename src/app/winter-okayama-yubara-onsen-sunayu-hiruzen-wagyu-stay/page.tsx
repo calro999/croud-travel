@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '岡山・湯原温泉で過ごす冬の旅（11・12月）！pH9.3アルカリ美肌天然自噴泉！名宿5選',
     description: '11月から12月にかけて、岡山県北部の旭川上流に佇む名湯「湯原温泉（ゆばらおんせん）」は、美作三湯の筆頭として。',
-    url: 'https://croud-travel.pages.dev/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function OkayamaYubaraWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay/"
         },
         "headline": "【11・12月岡山・湯原温泉の初冬渓谷美と美作三湯・名物砂湯】pH9.3アルカリ美肌天然自噴泉＆蒜山ジャージー牛・冬ジビエ会席の宿5選",
         "description": "11月から12月にかけて、岡山県北部の旭川上流に佇む名湯「湯原温泉（ゆばらおんせん）」は、美作三湯の筆頭として、また全国露天風呂番付で「西の横綱」に輝く名物露天風呂「砂湯」を中心に、初冬の澄んだ渓谷美と情緒あふれる湯けむりに包まれます。川底から毎分6,000リットルもの湯が自噴するアルカリ性単純温泉は、pH9.3という全国屈指の高アルカリ度を誇り、肌に吸い付くようなとろみで古い角質を落とす奇跡の「美肌の湯」。初冬の澄み渡る寒気の中、旭川のせせらぎを聞きながら露天風呂に浸かり、夕食には近隣の蒜山高原が育む極上の「蒜山ジャージー牛」や冬の滋味「天然猪鍋（ぼたん鍋）」を味わう厳選名旅館・ホテル5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function OkayamaYubaraWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "岡山・湯原温泉 初冬渓谷美と美作三湯名物砂湯・蒜山和牛の宿",
-            "item": "https://croud-travel.pages.dev/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay/"
           }
         ]
       },
@@ -209,7 +209,7 @@ export default function OkayamaYubaraWinterFeature() {
               rating: 3.81,
               reviews: 1434,
               price: "¥10,500〜",
-              access: "JR姫新線中国勝山駅より路線バスで３０分//米子道湯原ＩＣよりＲ３１３経由車で約５分",
+              access: "JR姫新線中国勝山駅より路線バスで３０分/米子道湯原ＩＣよりＲ３１３経由車で約５分",
               special: "自然に囲まれた庭園露天風呂で湯原の良泉を満喫できる温泉宿",
               url: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30063%2F30063.html",
               story: "湯原温泉の豊かな自然に抱かれ、広大な庭園露天風呂と充実したエンターテインメント施設で幅広い世代に親しまれる大型温泉ホテル「大江戸温泉物語 輝乃湯（てるのゆ）」。旭川の清流を望む日本庭園の中にある広々とした露天風呂では、滾々と湧き出るpH9.3のアルカリ美肌湯に浸かりながら、初冬の澄んだ空気と山々の彩りを満喫できます。夕食は約60種類以上もの多彩なメニューが並ぶ豪華バイキングで、季節のフェア料理や握り寿司、揚げたて天ぷら、地元岡山の郷土料理が食べ放題。高いコストパフォーマンスで気兼ねなく楽しめる宿です。",
@@ -551,42 +551,42 @@ export default function OkayamaYubaraWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">鳥取・三朝温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">高濃度ラジウム泉と11月解禁松葉ガニ・初冬の河原風呂の宿</h3>
             </Link>
             <Link 
-              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay"
+              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">島根・玉造温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">日本最古の美肌温泉と冬の山陰松葉ガニ・玉湯川散策の宿</h3>
             </Link>
             <Link 
-              href="/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay"
+              href="/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">山口・下関と川棚温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">本場とらふぐ解禁美食と元祖瓦そば・開湯八百年ラジウム泉の宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">兵庫・城崎温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">志賀直哉ゆかりの外湯めぐりと冬の津居山ガニフルコースの宿</h3>
             </Link>
             <Link 
-              href="/winter-shiga-ogoto-onsen-biwako-omigyu-stay"
+              href="/winter-shiga-ogoto-onsen-biwako-omigyu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">滋賀・おごと温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">初冬びわ湖景観と開湯千二百年美肌霊泉・特選近江牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay"
+              href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">愛媛・道後温泉</span>

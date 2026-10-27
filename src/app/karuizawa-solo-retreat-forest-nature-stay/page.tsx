@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '軽井沢ひとり旅・森林リトリート：浅間山ビュー・天然温泉＆スパ・洗練リゾートステイ！都心から1時間の高原おこもり厳選3宿',
     description: '東京駅から北陸新幹線で約65分！軽井沢駅徒歩圏で温泉とスパを完備した「軽井沢プリンスホテル イースト」、標高1,000mの絶景露天風呂とヨーロピアンな気品が漂う「ルグラン軽井沢ホテル＆リゾート」、全室大型客室とラジウム温泉が自慢の「ホテル サイプレス軽井沢」を楽天APIデータに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/karuizawa-solo-retreat-forest-nature-stay',
+    url: 'https://croud-travel.pages.dev/karuizawa-solo-retreat-forest-nature-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T16:15:00+09:00',
     dateModified: '2026-10-19T16:15:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/karuizawa-solo-retreat-forest-nature-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/karuizawa-solo-retreat-forest-nature-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【軽井沢ひとり旅・森林リトリート】浅間山ビュー・天然温泉＆スパ・洗練リゾートステイ！都心から1時間の高原おこもり厳選3宿","item":"https://croud-travel.pages.dev/karuizawa-solo-retreat-forest-nature-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【軽井沢ひとり旅・森林リトリート】浅間山ビュー・天然温泉＆スパ・洗練リゾートステイ！都心から1時間の高原おこもり厳選3宿","item":"https://croud-travel.pages.dev/karuizawa-solo-retreat-forest-nature-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '瀬波温泉で過ごす冬の旅（11・12月）！名物塩引鮭！名宿5選',
     description: '11月から12月にかけて、新潟県北部の日本海沿いに湧く「瀬波温泉」は、水平線に沈む茜色の夕日と荒波が織りなす息を呑むような初冬の絶景を迎えます。',
-    url: 'https://croud-travel.pages.dev/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function NiigataSenamiWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay/"
         },
         "headline": "【11・12月新潟・瀬波温泉の初冬日本海夕日絶景露天と越後村上鮭三昧】名物塩引鮭・はらこ飯＆極上村上牛会席の海辺宿5選",
         "description": "11月から12月にかけて、新潟県北部の日本海沿いに湧く「瀬波温泉」は、水平線に沈む茜色の夕日と荒波が織りなす息を呑むような初冬の絶景を迎えます。城下町・村上では、清流・三面川（みおもてがわ）の伝統鮭漁が最盛期を迎え、町屋の軒先に無数の塩引鮭が吊るされる初冬の風物詩が広がります。開湯120年超の「熱の湯」塩化物泉の展望露天風呂で温まり、脂の乗った塩引鮭やプチプチと弾ける醤油漬けいくらの「はらこ飯」、そして最高ランク「村上牛」の陶板ステーキを味わい尽くす海辺の厳選宿5選を徹底解説します。",
@@ -100,13 +100,13 @@ export default function NiigataSenamiWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "新潟・瀬波温泉 初冬日本海夕日絶景露天と越後村上鮭三昧の宿",
-            "item": "https://croud-travel.pages.dev/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay"
+            "item": "https://croud-travel.pages.dev/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay/"
           }
         ]
       },
@@ -630,7 +630,7 @@ export default function NiigataSenamiWinterFeature() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-2">
             <Link 
-              href="/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay"
+              href="/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">弥彦・岩室名物黒湯</span>
@@ -639,7 +639,7 @@ export default function NiigataSenamiWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-niigata-tsukioka-onsen-emerald-bihada-stay"
+              href="/winter-niigata-tsukioka-onsen-emerald-bihada-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-green-500/40 text-green-200 font-bold text-[10px]">月岡・エメラルド美肌湯</span>
@@ -648,7 +648,7 @@ export default function NiigataSenamiWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay"
+              href="/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-sky-500/40 text-sky-200 font-bold text-[10px]">氷見・本場寒ブリ</span>
@@ -657,7 +657,7 @@ export default function NiigataSenamiWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-niigata-echigo-yuzawa-snow-sake-stay"
+              href="/winter-niigata-echigo-yuzawa-snow-sake-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">越後湯沢・雪国情緒</span>

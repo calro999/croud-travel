@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふるさと納税厳選ガイド倉敷・萩・橿原今井町',
     description: '時を越えて受け継がれる日本の町並み遺産「重要伝統的建造物群保存地区（重伝建）」。白壁土蔵の倉敷美観地区、武家屋敷連なる萩城下町、五百棟の伝統町家残る大和今井町。歴史的建築を改装した極上宿を楽天ふるさと納税完全活用。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-preservation-districts-heritage-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-preservation-districts-heritage-stay/',
     siteName: '旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -308,28 +308,28 @@ export default function FurusatoUpgradedPage() {
         <h2 className="text-xl font-black text-amber-200 mb-6">あわせて読みたい極上ふるさと納税旅特集</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <Link
-            href="/furusato-tax-three-great-scenic-coasts-stay"
+            href="/furusato-tax-three-great-scenic-coasts-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition block"
           >
             <span className="text-xs font-bold text-amber-400 block mb-1">三大絶景海岸</span>
             <span className="font-bold text-white text-sm">【日本三大名勝海岸】東尋坊・浄土ヶ浜・白良浜ステイ特集</span>
           </Link>
           <Link
-            href="/furusato-tax-three-famous-waterfalls-healing-stay"
+            href="/furusato-tax-three-famous-waterfalls-healing-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition block"
           >
             <span className="text-xs font-bold text-amber-400 block mb-1">三大名瀑ヒーリング</span>
             <span className="font-bold text-white text-sm">【日本三大名瀑】白糸・吹割・鮎帰りの滝の癒やし湯宿特集</span>
           </Link>
           <Link
-            href="/furusato-tax-three-great-hotsprings-luxury-villas-stay"
+            href="/furusato-tax-three-great-hotsprings-luxury-villas-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition block"
           >
             <span className="text-xs font-bold text-amber-400 block mb-1">三大名湯の離れ</span>
             <span className="font-bold text-white text-sm">【日本三大名湯】草津・有馬・下呂の極上別邸ステイ特集</span>
           </Link>
           <Link
-            href="/furusato-tax-three-great-tea-plantations-stay"
+            href="/furusato-tax-three-great-tea-plantations-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition block"
           >
             <span className="text-xs font-bold text-amber-400 block mb-1">三大茶園テロワール</span>

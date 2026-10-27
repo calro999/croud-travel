@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上45階スカイビュー・絶品うなぎ！ものづくりの街の快適拠点 厳選3選',
     description: '東海道新幹線ひかり停車駅・静岡県浜松市！「楽器の街を象徴する45階建てランドマークタワー」を誇る「オークラアクトシティホテル浜松」、浜松駅徒歩すぐで国際水準の快適性を備えた「ANAクラウンプラザホテル浜松（旧ホテルクラウンパレス）」、浜松城公園の緑を望むシティリゾート「ホテルコンコルド浜松」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/hamamatsu-solo-business-actcity-unagi-stay',
+    url: 'https://croud-travel.pages.dev/hamamatsu-solo-business-actcity-unagi-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T02:50:00+09:00',
     dateModified: '2026-10-19T02:50:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/hamamatsu-solo-business-actcity-unagi-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/hamamatsu-solo-business-actcity-unagi-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【浜松出張＆ソログルメ泊】新幹線直結アクトシティ・地上45階スカイビュー・絶品うなぎ！ものづくりの街の快適拠点 厳選3選","item":"https://croud-travel.pages.dev/hamamatsu-solo-business-actcity-unagi-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【浜松出張＆ソログルメ泊】新幹線直結アクトシティ・地上45階スカイビュー・絶品うなぎ！ものづくりの街の快適拠点 厳選3選","item":"https://croud-travel.pages.dev/hamamatsu-solo-business-actcity-unagi-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

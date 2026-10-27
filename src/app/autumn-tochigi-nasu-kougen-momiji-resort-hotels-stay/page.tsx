@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "秋の那須岳紅葉＆高原ステイ！那須高原：茶臼岳ロープウェイと名湯・隠れ家リゾート宿5選",
     description: "茶臼岳の山肌が燃えるような赤と黄金色に染まる那須高原の秋！ロープウェイの空中散歩から、那須御用邸近くの老舗名旅館、全室客室露天風呂付きの別邸リゾートまで厳選5選。",
-    url: 'https://croud-travel.pages.dev/autumn-tochigi-nasu-kougen-momiji-resort-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-tochigi-nasu-kougen-momiji-resort-hotels-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -141,7 +141,7 @@ export default function FeaturePage() {
       <nav className="max-w-5xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-500 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
         <Link href="/" className="hover:text-amber-600">ホーム</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <Link href="/features" className="hover:text-amber-600">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-600">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <span className="text-stone-800 font-medium truncate">【秋の那須岳紅葉＆高原ステイ！那須高原】茶臼岳ロープウェイと名湯・隠れ家リゾート宿5選</span>
       </nav>
@@ -187,8 +187,8 @@ export default function FeaturePage() {
             "@type": "BreadcrumbList",
             "itemListElement": [
               { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev/" },
-              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features" },
-              { "@type": "ListItem", "position": 3, "name": "【秋の那須岳紅葉＆高原ステイ！那須高原】茶臼岳ロープウェイと名湯・隠れ家リゾート宿5選", "item": "https://croud-travel.pages.dev/autumn-tochigi-nasu-kougen-momiji-resort-hotels-stay" }
+              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features/" },
+              { "@type": "ListItem", "position": 3, "name": "【秋の那須岳紅葉＆高原ステイ！那須高原】茶臼岳ロープウェイと名湯・隠れ家リゾート宿5選", "item": "https://croud-travel.pages.dev/autumn-tochigi-nasu-kougen-momiji-resort-hotels-stay/" }
             ]
           }) }}
         />

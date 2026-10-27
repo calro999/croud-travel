@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '飛騨せせらぎ街道の絶景紅葉ドライブ＆奥飛騨新平湯温泉・極上飛騨牛の炭火焼き会席',
     description: '10月中旬〜11月上旬に約64kmにわたり紅葉のトンネルが続く飛騨せせらぎ街道。北アルプス山麓の奥飛騨温泉郷・新平湯温泉の隠れ宿で、源泉かけ流し露天風呂とA5等級飛騨牛をふるさと納税でお得に満喫。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-hida-seseragi-highway-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-hida-seseragi-highway-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-hida-seseragi-highway-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-hida-seseragi-highway-autumn-stay/"
   };
 
   const faqSchema = {
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"飛騨せせらぎ街道の絶景紅葉ドライブ＆奥飛騨新平湯温泉・極上飛騨牛の炭火焼き会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-hida-seseragi-highway-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"飛騨せせらぎ街道の絶景紅葉ドライブ＆奥飛騨新平湯温泉・極上飛騨牛の炭火焼き会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-hida-seseragi-highway-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

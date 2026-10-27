@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税厳選ガイド勝沼・余市・十勝のワインペアリング旅',
     description: '日本ワインの銘醸地へ！山梨甲州勝沼のぶどう畑ビュー温泉、北海道余市の世界的ワイナリー＆海の幸オーベルジュ、十勝ワイン城とモール温泉リゾート。醸造家こだわりのワインと旬の美食マリアージュを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-winery-vineyard-auberge-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-winery-vineyard-auberge-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -624,7 +624,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-sake-brewery-pairing-onsen-stay"
+            href="/furusato-tax-sake-brewery-pairing-onsen-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -640,7 +640,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-craft-beer-brewery-hotel-stay"
+            href="/furusato-tax-craft-beer-brewery-hotel-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -656,7 +656,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-highland-resort-french-auberge-stay"
+            href="/furusato-tax-highland-resort-french-auberge-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: '登別温泉をふるさと納税でお得に旅する！地獄谷の大パノラマ＆五大泉質温泉天国！巨大露天風呂と北海道ビュッフェガイド｜第一滝本館・登別グランドホテル・ホテルまほろば',
     description: '北海道温泉の横綱・登別温泉を楽天ふるさと納税でお得に大満喫！千五百坪の大浴場に五つの泉質が注ぐ温泉天国「第一滝本館」、ローマ風大浴場と鬼サウナが話題の「登別グランドホテル」、日本最大級の露天風呂と三大蟹バイキングの「ホテルまほろば」を徹底比較。登別市トラベルクーポン活用術を網羅。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-noboribetsu-onsen-jigokudani-resort-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-noboribetsu-onsen-jigokudani-resort-stay/',
   },
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-noboribetsu-onsen-jigokudani-resort-stay/",
@@ -488,22 +488,22 @@ export default function FurusatoTaxArticle() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-beginners-complete-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-beginners-complete-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 超初心者向け ふるさと納税で旅行に安く泊まるマニュアル
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-kurokawa-onsen-nyuto-tegata-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-kurokawa-onsen-nyuto-tegata-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 黒川温泉 入湯手形露天めぐり＆あか牛美食ステイ特集
               </Link>
             </li>

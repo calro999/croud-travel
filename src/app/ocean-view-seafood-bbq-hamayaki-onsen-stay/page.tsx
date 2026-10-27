@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '海を望む絶景オーシャンビュー＆獲れたて海鮮浜焼き・磯料理が自慢の温泉宿',
     description: '2026年最新！目の前に広がる絶景オーシャンビューと、新鮮なサザエやホタテ、伊勢海老を豪快に焼く海鮮浜焼き・舟盛りが自慢の厳選温泉宿。海の恵みと波音に癒やされる旅へ。',
-    url: 'https://croud-travel.pages.dev/ocean-view-seafood-bbq-hamayaki-onsen-stay',
+    url: 'https://croud-travel.pages.dev/ocean-view-seafood-bbq-hamayaki-onsen-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/ocean-view-seafood-bbq-hamayaki-onsen-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/ocean-view-seafood-bbq-hamayaki-onsen-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">海鮮浜焼き×絶景オーシャンビュー</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             どこまでも続く青い海と水平線を眺めながら、旬のサザエやホタテ、伊勢海老を目の前で香ばしく焼き上げる浜焼きバイキング＆舟盛り磯会席。波音をBGMに湯浴みを楽しむ至福のオーシャンフロント温泉宿を厳選しました。
           </p>
           <div className="pt-2">
-            <ShareButtons title="海を望む絶景オーシャンビュー＆獲れたて海鮮浜焼き・磯料理が自慢の温泉宿" url="https://croud-travel.pages.dev/ocean-view-seafood-bbq-hamayaki-onsen-stay" />
+            <ShareButtons title="海を望む絶景オーシャンビュー＆獲れたて海鮮浜焼き・磯料理が自慢の温泉宿" url="https://croud-travel.pages.dev/ocean-view-seafood-bbq-hamayaki-onsen-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"海を望む絶景オーシャンビュー＆獲れたて海鮮浜焼き・磯料理が自慢の温泉宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/ocean-view-seafood-bbq-hamayaki-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"海を望む絶景オーシャンビュー＆獲れたて海鮮浜焼き・磯料理が自慢の温泉宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/ocean-view-seafood-bbq-hamayaki-onsen-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '佐賀・唐津呼子温泉で過ごす冬の旅（11・12月）！極上佐賀牛ステーキ！名宿5選',
     description: '11月から12月にかけて、佐賀県北西部に位置する城下町・唐津と港町・呼子は、玄界灘の冬の荒波が育む極上の海の幸と。',
-    url: 'https://croud-travel.pages.dev/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay',
+    url: 'https://croud-travel.pages.dev/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterSagaKaratsuPage() {
         'headline': "【11・12月佐賀・唐津呼子温泉の冬の玄界灘と呼子活イカ】極上佐賀牛ステーキ＆唐津城パノラマ・唐津焼の器で味わう海辺美食名宿5選",
         'description': "11月から12月にかけて、佐賀県北西部に位置する城下町・唐津と港町・呼子は、玄界灘の冬の荒波が育む極上の海の幸と、唐津城や名勝「虹の松原」を望む絶景が旅人を魅了します。初冬の透き通る身の甘みとコリコリの歯ごたえがたまらない名物「呼子の活イカ（アオリイカ・ヤリイカ）」の透明な姿造りや後造りのサクサク天ぷら、日本屈指のサシの美しさを誇るブランド黒毛和牛「佐賀牛」のステーキ。伝統の「唐津焼」の温もりあふれる器に盛られる料理の数々と、唐津湾の汐湯や天然温泉露天風呂。冬の味覚と歴史・文化が息づく厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterSagaKaratsuPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-sky-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">佐賀・唐津呼子温泉</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterSagaKaratsuPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月佐賀・唐津呼子温泉】極上佐賀牛ステーキ！名宿5選","item":"https://croud-travel.pages.dev/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月佐賀・唐津呼子温泉】極上佐賀牛ステーキ！名宿5選","item":"https://croud-travel.pages.dev/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -611,7 +611,7 @@ export default function WinterSagaKaratsuPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-saga-takeo-onsen-romon-saga-beef-stay"
+              href="/winter-saga-takeo-onsen-romon-saga-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">佐賀・武雄温泉</span>
@@ -624,7 +624,7 @@ export default function WinterSagaKaratsuPage() {
             </Link>
 
             <Link 
-              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay"
+              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">佐賀・嬉野温泉</span>
@@ -637,7 +637,7 @@ export default function WinterSagaKaratsuPage() {
             </Link>
 
             <Link 
-              href="/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay"
+              href="/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">福岡・水郷柳川</span>

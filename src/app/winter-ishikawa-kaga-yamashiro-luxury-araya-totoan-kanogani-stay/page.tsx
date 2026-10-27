@@ -15,12 +15,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: '【魯山人の美意識が宿る数寄屋造りの名門と加能ガニ極上フルコース】2026-2027年11-12月初冬の石川・加賀温泉郷！名門「あらや滔々庵」＆「山中温泉 花紫」・源泉掛け流し客室露天風呂と初冬解禁のズワイガニ・能登牛名宿5選',
     description: '開湯1300年の歴史を誇る加賀温泉郷（山代温泉・山中温泉）。美食家・北大路魯山人が逗留し美意識を磨いた名門中の名門「あらや滔々庵」や、渓谷美を望む全室露天付き「花紫」など。11月6日の冬漁解禁とともに始まる最高峰ブランド「加能ガニ（青タグ）」の焼きガニ・カニ刺し・甲羅味噌焼きと、とろける能登牛会席。加賀百万石の伝統工芸と極上の名湯が織りなす最高峰の冬旅厳選5選。',
-    url: 'https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-luxury-araya-totoan-kanogani-stay',
+    url: 'https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-luxury-araya-totoan-kanogani-stay/',
     type: 'article',
     siteName: 'クラウドトラベル',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-luxury-araya-totoan-kanogani-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-luxury-araya-totoan-kanogani-stay/',
   },
 };
 
@@ -46,13 +46,13 @@ export default function UltraLuxuryWinterFeaturePage() {
                   "@type": "ListItem",
                   "position": 2,
                   "name": "特集一覧",
-                  "item": "https://croud-travel.pages.dev/features"
+                  "item": "https://croud-travel.pages.dev/features/"
                 },
                 {
                   "@type": "ListItem",
                   "position": 3,
                   "name": "【魯山人の美意識が宿る数寄屋造りの名門と加能ガニ極上フルコース】2026-2027年11-12月初冬の石川・加賀温泉郷！名門「あらや滔々庵」＆「山中温泉 花紫」・源泉掛け流し客室露天風呂と初冬解禁のズワイガニ・能登牛名宿5選",
-                  "item": "https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-luxury-araya-totoan-kanogani-stay"
+                  "item": "https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-luxury-araya-totoan-kanogani-stay/"
                 }
               ]
             },
@@ -95,7 +95,7 @@ export default function UltraLuxuryWinterFeaturePage() {
         <div className="max-w-5xl mx-auto flex items-center gap-1.5 flex-wrap">
           <Link href="/" className="hover:text-slate-800 transition">ホーム</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
-          <Link href="/features" className="hover:text-slate-800 transition">特集一覧</Link>
+          <Link href="/features/" className="hover:text-slate-800 transition">特集一覧</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
           <span className="text-slate-800 font-medium truncate max-w-xs">【魯山人の美意識が宿る数寄屋造りの名門と加能ガニ極上フルコース】2026-2027年11-12月初冬の石川・加賀温泉郷！名門「あらや滔々庵」＆「山中温泉 花紫」・源泉掛け流し客室露天風呂と初冬解禁のズワイガニ・能登牛名宿5選</span>
         </div>

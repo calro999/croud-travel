@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '客室専用プライベートサウナ＆セルフロウリュ！誰にも邪魔されずととのう極上温泉宿',
     description: '2026年最新！客室専用プライベートサウナ＆セルフロウリュ完備の極上温泉宿。水風呂・絶景外気浴スペース完備で完全プライベートな「究極のととのい」を体験。',
-    url: 'https://croud-travel.pages.dev/private-sauna-self-loyly-barrel-sauna-stay',
+    url: 'https://croud-travel.pages.dev/private-sauna-self-loyly-barrel-sauna-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/private-sauna-self-loyly-barrel-sauna-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/private-sauna-self-loyly-barrel-sauna-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">客室専用サウナ×セルフロウリュ</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             好きなタイミングでアロマ水を注ぐセルフロウリュ、富士山や森林の絶景を望む外気浴スペース、そして地下水かけ流しの水風呂。完全プライベート空間で至極のととのい体験ができる客室サウナ付き温泉宿をピックアップしました。
           </p>
           <div className="pt-2">
-            <ShareButtons title="客室専用プライベートサウナ＆セルフロウリュ！誰にも邪魔されずととのう極上温泉宿" url="https://croud-travel.pages.dev/private-sauna-self-loyly-barrel-sauna-stay" />
+            <ShareButtons title="客室専用プライベートサウナ＆セルフロウリュ！誰にも邪魔されずととのう極上温泉宿" url="https://croud-travel.pages.dev/private-sauna-self-loyly-barrel-sauna-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"客室専用プライベートサウナ＆セルフロウリュ！誰にも邪魔されずととのう極上温泉宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/private-sauna-self-loyly-barrel-sauna-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"客室専用プライベートサウナ＆セルフロウリュ！誰にも邪魔されずととのう極上温泉宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/private-sauna-self-loyly-barrel-sauna-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

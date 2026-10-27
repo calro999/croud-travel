@@ -491,14 +491,14 @@ export default function TokyoStationEarlyMorningBreakfastPage() {
             </h3>
             <div className="flex flex-col sm:flex-row justify-center items-center gap-4">
               <Link
-                href="/tokyo-osaka-bus-vs-shinkansen-guide"
+                href="/tokyo-osaka-bus-vs-shinkansen-guide/"
                 className="text-xs sm:text-sm font-semibold text-indigo-400 hover:text-indigo-300 underline underline-offset-4"
               >
                 【東京〜大阪】新幹線 vs 夜行バス 時間・料金・体力負担の徹底比較
               </Link>
               <span className="hidden sm:inline text-slate-600">|</span>
               <Link
-                href="/night-highway-bus-packing-comfort-sleep-guide"
+                href="/night-highway-bus-packing-comfort-sleep-guide/"
                 className="text-xs sm:text-sm font-semibold text-indigo-400 hover:text-indigo-300 underline underline-offset-4"
               >
                 【夜行バス持ち物ガイド】首枕・耳栓・快眠グッズ厳選12選

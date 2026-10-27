@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '鳴門・徳島ひとり旅・南欧風おこもり：鳴門の渦潮・大塚国際美術館・全室客室露天風呂！鳴門海峡を望む極上リゾート厳選3宿',
     description: '徳島空港や高速鳴門バス停からアクセス良好！鳴門海峡のオーシャンビューと阿波山海の幸バイキングを誇る「アオアヲ ナルト リゾート」、全室にジャグジー露天風呂を備える大人の隠れ家「リゾートホテル モアナコースト」、JR徳島駅直結の最高峰シティホテル「ＪＲホテルクレメント徳島」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/naruto-tokushima-solo-retreat-whirlpool-museum-stay',
+    url: 'https://croud-travel.pages.dev/naruto-tokushima-solo-retreat-whirlpool-museum-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T17:40:00+09:00',
     dateModified: '2026-10-19T17:40:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/naruto-tokushima-solo-retreat-whirlpool-museum-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/naruto-tokushima-solo-retreat-whirlpool-museum-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【鳴門・徳島ひとり旅・南欧風おこもり】鳴門の渦潮・大塚国際美術館・全室客室露天風呂！鳴門海峡を望む極上リゾート厳選3宿","item":"https://croud-travel.pages.dev/naruto-tokushima-solo-retreat-whirlpool-museum-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【鳴門・徳島ひとり旅・南欧風おこもり】鳴門の渦潮・大塚国際美術館・全室客室露天風呂！鳴門海峡を望む極上リゾート厳選3宿","item":"https://croud-travel.pages.dev/naruto-tokushima-solo-retreat-whirlpool-museum-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

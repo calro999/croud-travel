@@ -129,21 +129,21 @@ export default function KanazawaBudgetGuide() {
           <li className="bg-white border border-gray-200 rounded-xl p-4 shadow-sm">
             <h3 className="font-bold text-lg text-emerald-700">🗼 東京から</h3>
             <p className="text-gray-600 mb-2">北陸新幹線なら片道約14,380円、夜行バスなら3,000円〜。費用を抑えたいならバス一択！</p>
-            <Link href="/tokyo-kanazawa-bus-vs-shinkansen-guide" className="text-amber-600 hover:underline font-medium text-sm">
+            <Link href="/tokyo-kanazawa-bus-vs-shinkansen-guide/" className="text-amber-600 hover:underline font-medium text-sm">
               ▶ 東京〜金沢のバス・新幹線徹底比較はこちら
             </Link>
           </li>
           <li className="bg-white border border-gray-200 rounded-xl p-4 shadow-sm">
             <h3 className="font-bold text-lg text-emerald-700">🐙 大阪から</h3>
             <p className="text-gray-600 mb-2">サンダーバード＋新幹線で約9,410円、高速バスなら約3,500円〜。</p>
-            <Link href="/osaka-kanazawa-highway-bus-model-course" className="text-amber-600 hover:underline font-medium text-sm">
+            <Link href="/osaka-kanazawa-highway-bus-model-course/" className="text-amber-600 hover:underline font-medium text-sm">
               ▶ 大阪〜金沢の高速バスモデルコースはこちら
             </Link>
           </li>
           <li className="bg-white border border-gray-200 rounded-xl p-4 shadow-sm">
             <h3 className="font-bold text-lg text-emerald-700">🍤 名古屋から</h3>
             <p className="text-gray-600 mb-2">特急しらさぎで約7,330円、高速バスなら約3,000円台〜。</p>
-            <Link href="/nagoya-kanazawa-bus-vs-train-guide" className="text-amber-600 hover:underline font-medium text-sm">
+            <Link href="/nagoya-kanazawa-bus-vs-train-guide/" className="text-amber-600 hover:underline font-medium text-sm">
               ▶ 名古屋〜金沢のバス・電車比較はこちら
             </Link>
           </li>

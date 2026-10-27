@@ -62,7 +62,7 @@ export default function PrefecturesIndexPage() {
                 return (
                   <Link
                     key={prefInfo.slug}
-                    href={`/prefectures/${prefInfo.slug}`}
+                    href={`/prefectures/${prefInfo.slug}/`}
                     className="group border border-emerald-950/10 bg-white rounded-2xl p-5 shadow-sm hover:shadow-md hover:border-teal-800/40 transition duration-200 flex flex-col justify-between space-y-4"
                   >
                     <div className="space-y-2">

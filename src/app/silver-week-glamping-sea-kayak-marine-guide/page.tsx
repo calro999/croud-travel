@@ -384,7 +384,7 @@ export default function SilverWeekGlampingSeaKayakMarinePage() {
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
           <Link
-            href="/izu-shimoda-car-free-travel-guide"
+            href="/izu-shimoda-car-free-travel-guide/"
             className="block p-4 rounded-2xl bg-white border border-cyan-200/60 hover:border-cyan-400 hover:shadow-md transition group"
           >
             <span className="text-[10px] font-bold text-cyan-700 bg-cyan-50 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -396,7 +396,7 @@ export default function SilverWeekGlampingSeaKayakMarinePage() {
           </Link>
 
           <Link
-            href="/atami-izu-travel-budget-guide"
+            href="/atami-izu-travel-budget-guide/"
             className="block p-4 rounded-2xl bg-white border border-slate-200 hover:border-cyan-400 hover:shadow-md transition group"
           >
             <span className="text-[10px] font-bold text-slate-700 bg-slate-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -412,7 +412,7 @@ export default function SilverWeekGlampingSeaKayakMarinePage() {
       {/* 都道府県一覧への導線 */}
       <div className="text-center pt-4">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-slate-700 bg-white hover:bg-cyan-50 border border-slate-300 px-8 py-3.5 rounded-2xl transition shadow-sm"
         >
           <span>🏝️</span>

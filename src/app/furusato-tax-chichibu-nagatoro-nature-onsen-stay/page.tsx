@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '名勝岩畳と長瀞ライン下り！秩父・長瀞の横瀬川清流望む露天風呂＆創業190年美肌鉱泉・郷土会席名宿×ふるさと納税極上旅ガイド和どう・新木鉱泉・長生館',
     description: '都心から特急で約80分の小旅行！名勝「長瀞岩畳」と秩父三社巡り。「和銅鉱泉 ゆの宿 和どう」「秩父七湯 新木鉱泉旅館」「長瀞温泉 花のおもてなし 長生館」を、埼玉県秩父市・長瀞町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。和同開珎ゆかりの薬師の湯、創業百九十年卵水、名物長瀞流しそうめん・囲炉裏会席を満喫。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-nature-onsen-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-nature-onsen-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoChichibuNagatoroStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">秩父・長瀞 名勝岩畳＆美肌温泉宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoChichibuNagatoroStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-kinugawa-onsen-valley-view-luxury-stay"
+            href="/furusato-tax-kinugawa-onsen-valley-view-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【鬼怒川温泉 渓谷美＆名門旅館×ふるさと納税】あさや・金谷ホテル・ホテル三日月
           </Link>
           <Link
-            href="/furusato-tax-karuizawa-luxury-resort-villa-stay"
+            href="/furusato-tax-karuizawa-luxury-resort-villa-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【軽井沢 高原リゾート＆名門ホテル×ふるさと納税】マリオット・プリンスイースト・音羽ノ森
           </Link>
           <Link
-            href="/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay"
+            href="/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【草津温泉 湯畑散策＆名湯名門旅館×ふるさと納税】櫻井・一井・奈良屋
           </Link>
           <Link
-            href="/furusato-tax-traditional-hearth-irori-charcoal-stay"
+            href="/furusato-tax-traditional-hearth-irori-charcoal-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【古民家囲炉裏炭火会席＆奇跡の湯×ふるさと納税】白川郷・法師・祖谷

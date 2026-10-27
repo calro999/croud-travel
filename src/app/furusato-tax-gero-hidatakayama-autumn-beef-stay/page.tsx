@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三名泉のとろとろ美肌湯＆とろける飛騨牛！下呂温泉・飛騨高山秋の味覚プレミアム名宿×ふるさと納税厳選ガイド岐阜',
     description: '10月〜11月は日本三名泉「下呂温泉」と古い町並みが美しい「飛騨高山」のベストシーズン！pH9.2を誇る天然の化粧水のようなとろとろ美肌湯と、霜降り「A5等級飛騨牛」のすき焼き・しゃぶしゃぶ・ステーキを堪能。「小川屋」「冨岳」「菊半旅館」など厳選名宿を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-gero-hidatakayama-autumn-beef-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-gero-hidatakayama-autumn-beef-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -55,7 +55,7 @@ export default function FurusatoGeroHidaTakayamaAutumnBeefStayPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">下呂温泉＆飛騨高山・飛騨牛美食名宿特集</span>
       </nav>
@@ -384,7 +384,7 @@ export default function FurusatoGeroHidaTakayamaAutumnBeefStayPage() {
 
             <li key="furusato-tax-sake-brewery-pairing-onsen-stay">
               <Link
-                href="/furusato-tax-sake-brewery-pairing-onsen-stay"
+                href="/furusato-tax-sake-brewery-pairing-onsen-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -395,7 +395,7 @@ export default function FurusatoGeroHidaTakayamaAutumnBeefStayPage() {
 
             <li key="furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay">
               <Link
-                href="/furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay"
+                href="/furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -406,7 +406,7 @@ export default function FurusatoGeroHidaTakayamaAutumnBeefStayPage() {
 
             <li key="furusato-tax-pure-kakenagashi-secret-hotspring-stay">
               <Link
-                href="/furusato-tax-secret-hotspring-lamp-retreat-stay"
+                href="/furusato-tax-secret-hotspring-lamp-retreat-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -417,7 +417,7 @@ export default function FurusatoGeroHidaTakayamaAutumnBeefStayPage() {
 
             <li key="furusato-tax-luxury-hotspring-ryokan-stay">
               <Link
-                href="/furusato-tax-luxury-hotspring-ryokan-stay"
+                href="/furusato-tax-luxury-hotspring-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -437,7 +437,7 @@ export default function FurusatoGeroHidaTakayamaAutumnBeefStayPage() {
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
-            href="/travel-savings-guide"
+            href="/travel-savings-guide/"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 text-stone-950 font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition text-sm"
           >
             🏨 旅行節約総合ハブページを見る ➔

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '神話の郷・高千穂峡の真名井の滝紅葉ボート＆夜神楽！高千穂牛と極上隠れ宿×ふるさと納税厳選ガイド宮崎',
     description: '11月上旬〜11月下旬に見頃を迎える天孫降臨の地「高千穂峡（たかちほきょう）」。阿蘇溶岩の柱状節理と名瀑「真名井の滝」を水面から見上げる貸しボート紅葉散策、高千穂神社の夜神楽、名宿「離れの宿 神隠れ」「旅館 神仙」「ホテル高千穂」で日本一の栄冠に輝いた高千穂牛やかっぽ酒を堪能。楽天ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">宮崎・神話の郷高千穂峡 柱状節理渓谷紅葉＆真名井の滝名宿特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '白亜の灯台＆断崖絶景オーシャンビュー宿×ふるさと納税厳選ガイド日御碕・犬吠埼・室戸岬の岬リゾート',
     description: '大海原と白亜の灯台を望むダイナミックな特等席！島根出雲の日御碕灯台と日本海サンセット露天、千葉銚子の本州一早い日の出を望む犬吠埼温泉、高知室戸岬の太平洋怒濤パノラマ＆海洋深層水スパ。地球の丸さを実感する絶景宿を楽天ふるさと納税でお得に予約するガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-lighthouse-cliff-ocean-panorama-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-lighthouse-cliff-ocean-panorama-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -486,7 +486,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-oceanfront-wave-sound-healing-stay"
+            href="/furusato-tax-oceanfront-wave-sound-healing-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -502,7 +502,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-sunset-ocean-magic-hour-stay"
+            href="/furusato-tax-sunset-ocean-magic-hour-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -518,7 +518,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-morning-market-hamayaki-seafood-inn-stay"
+            href="/furusato-tax-morning-market-hamayaki-seafood-inn-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

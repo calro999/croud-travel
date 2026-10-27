@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり：全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席！道東国立公園厳選3宿',
     description: '特別天然記念物マリモが生息する神秘の湖・阿寒湖温泉！全室客室露天風呂と最高峰のおもてなしを誇る隠れ宿「あかん鶴雅別荘 鄙の座」、阿寒湖と一体になる空中露天風呂が圧巻の「あかん遊久の里 鶴雅」、自然とアートが調和する「THE FOREST 阿寒 TSURUGA RESORT」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/hokkaido-akanko-solo-retreat-lakeview-onsen-stay',
+    url: 'https://croud-travel.pages.dev/hokkaido-akanko-solo-retreat-lakeview-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/hokkaido-akanko-solo-retreat-lakeview-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/hokkaido-akanko-solo-retreat-lakeview-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり】全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席！道東国立公園厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-akanko-solo-retreat-lakeview-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり】全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席！道東国立公園厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-akanko-solo-retreat-lakeview-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

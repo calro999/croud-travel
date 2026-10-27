@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '冬の味覚の王様！本場カニ食べ放題＆極上松葉ガニ名門宿×ふるさと納税極上旅ガイド夕日ヶ浦・城崎温泉で絶品カニ旅',
     description: '焼きガニ・カニ刺し・茹でガニ・カニすき鍋・カニ雑炊のフルコースから、ズワイガニ食べ放題まで！「夕日ヶ浦温泉 佳松苑」「城崎温泉 西村屋本館」「城崎温泉 心の宿 三國屋」を、京都府京丹後市・兵庫県豊岡市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。冬の日本海の名湯と最高峰ガニ料理を堪能。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-crab-all-you-can-eat-winter-buffet-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-crab-all-you-can-eat-winter-buffet-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoCrabAllYouCanEatBuffetStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">カニ食べ放題＆松葉ガニ名宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoCrabAllYouCanEatBuffetStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-winter-crab-gourmet-luxury-stay"
+            href="/furusato-tax-winter-crab-gourmet-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【冬のカニ尽くし名門温泉旅館×ふるさと納税】越前ガニ・松葉ガニ
           </Link>
           <Link
-            href="/furusato-tax-luxury-buffet-gourmet-resort-stay"
+            href="/furusato-tax-luxury-buffet-gourmet-resort-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【豪華ディナービュッフェ・バイキング宿×ふるさと納税】ライブキッチン
           </Link>
           <Link
-            href="/furusato-tax-hakone-onsen-open-air-bath-stay"
+            href="/furusato-tax-hakone-onsen-open-air-bath-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【箱根湯本名湯大露天風呂宿×ふるさと納税】ロマンスカー直通名宿
           </Link>
           <Link
-            href="/furusato-tax-all-inclusive-free-drinks-alcohol-stay"
+            href="/furusato-tax-all-inclusive-free-drinks-alcohol-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【お酒飲み放題オールインクルーシブ宿×ふるさと納税】贅沢ラウンジステイ

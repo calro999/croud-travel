@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '熊本出張＆城下町ひとり旅：最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選',
     description: 'TSMC進出で沸く九州の中枢ビジネス都市・熊本！「最上階スカイスパと露天風呂で星空をととのえる」新ランドマーク「CANDEO HOTELS 熊本新市街」、サクラマチクマモト直結で天然温泉大浴場と夜鳴きそば完備の「天然温泉 六花の湯 ドーミーイン熊本」、熊本城を正面に望む格式の迎賓ホテル「熊本ホテルキャッスル」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/kumamoto-solo-business-skyspa-gourmet-stay',
+    url: 'https://croud-travel.pages.dev/kumamoto-solo-business-skyspa-gourmet-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T02:50:00+09:00',
     dateModified: '2026-10-19T02:50:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/kumamoto-solo-business-skyspa-gourmet-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/kumamoto-solo-business-skyspa-gourmet-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【熊本出張＆城下町ひとり旅】最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選","item":"https://croud-travel.pages.dev/kumamoto-solo-business-skyspa-gourmet-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【熊本出張＆城下町ひとり旅】最上階展望スカイスパ・天然温泉・熊本城ビュー！名物馬刺しを満喫する極上宿 厳選3選","item":"https://croud-travel.pages.dev/kumamoto-solo-business-skyspa-gourmet-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

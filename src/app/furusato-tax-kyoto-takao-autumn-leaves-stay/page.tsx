@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席',
     description: '11月上旬〜11月中旬に京都で最も早く鮮やかに色づく高雄・三尾エリア。清滝川のせせらぎを望む隠れ宿で、赤く染まるもみじのライトアップと極上京会席・丹波牛をふるさと納税でお得に堪能。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kyoto-takao-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kyoto-takao-autumn-leaves-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-kyoto-takao-autumn-leaves-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-kyoto-takao-autumn-leaves-stay/"
   };
 
   const faqSchema = {
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-kyoto-takao-autumn-leaves-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-kyoto-takao-autumn-leaves-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

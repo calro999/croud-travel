@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '福岡・博多出張＆ご褒美ソロ旅：博多駅直結・屋上温泉スパ・名物もつ鍋朝食！美食とサウナを満喫する極上宿 厳選3選',
     description: '福岡空港から地下鉄でわずか約5分のメガシティ・博多＆天神！「屋上に天然温泉アウトドアスパ＆プール」を擁するランドマーク「都ホテル 博多」、キャナルシティ直結で天然温泉と豪華海鮮丼朝食が自慢の「ドーミーインPREMIUM博多・キャナルシティ前」、天神のど真ん中でスカイスパを誇る「カンデオホテルズ福岡天神」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/fukuoka-hakata-tenjin-solo-onsen-gourmet-stay',
+    url: 'https://croud-travel.pages.dev/fukuoka-hakata-tenjin-solo-onsen-gourmet-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T02:30:00+09:00',
     dateModified: '2026-10-19T02:30:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/fukuoka-hakata-tenjin-solo-onsen-gourmet-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/fukuoka-hakata-tenjin-solo-onsen-gourmet-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【福岡・博多出張＆ご褒美ソロ旅】博多駅直結・屋上温泉スパ・名物もつ鍋朝食！美食とサウナを満喫する極上宿 厳選3選","item":"https://croud-travel.pages.dev/fukuoka-hakata-tenjin-solo-onsen-gourmet-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【福岡・博多出張＆ご褒美ソロ旅】博多駅直結・屋上温泉スパ・名物もつ鍋朝食！美食とサウナを満喫する極上宿 厳選3選","item":"https://croud-travel.pages.dev/fukuoka-hakata-tenjin-solo-onsen-gourmet-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

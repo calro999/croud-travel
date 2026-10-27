@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '箱根湯本温泉をふるさと納税でお得に旅する！玄関口の極上湯浴み＆老舗名宿特集！小田急ロマンスカーで行く名湯旅｜はつはな・吉池旅館・湯本富士屋ホテル',
     description: '都心からロマンスカー直通約85分！箱根十七湯の玄関口・神奈川県箱根町「箱根湯本温泉」を楽天ふるさと納税でお得に贅沢ステイ。全客室露天風呂付きの極上スパリゾート「はつはな」、一万坪の名園と六本の自家源泉かけ流しを誇る「吉池旅館」、駅徒歩3分の名門「箱根湯本温泉 湯本富士屋ホテル」を徹底比較。箱根町トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-hakone-yumoto-gateway-luxury-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-hakone-yumoto-gateway-luxury-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T00:10:00+09:00',
     dateModified: '2026-10-19T00:10:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-hakone-yumoto-gateway-luxury-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-hakone-yumoto-gateway-luxury-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【箱根湯本温泉×ふるさと納税】玄関口の極上湯浴み＆老舗名宿特集！小田急ロマンスカーで行く名湯旅｜はつはな・吉池旅館・湯本富士屋ホテル","item":"https://croud-travel.pages.dev/furusato-tax-hakone-yumoto-gateway-luxury-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【箱根湯本温泉×ふるさと納税】玄関口の極上湯浴み＆老舗名宿特集！小田急ロマンスカーで行く名湯旅｜はつはな・吉池旅館・湯本富士屋ホテル","item":"https://croud-travel.pages.dev/furusato-tax-hakone-yumoto-gateway-luxury-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【箱根湯本温泉×ふるさと納税】玄関口の極上湯浴み＆老舗名宿特集！小田急ロマンスカーで行く名湯旅｜はつはな・吉池旅館・湯本富士屋ホテル</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-niseko-luxury-resort-powder-snow-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-niseko-luxury-resort-powder-snow-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ニセコ 世界最高峰パウダースノー＆羊蹄山ビュー特集
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-kamakura-shonan-ocean-history-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-kamakura-shonan-ocean-history-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 鎌倉・湘南 七里ヶ浜オーシャンビュー＆古都の歴史特集
               </Link>
             </li>

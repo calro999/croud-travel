@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '鬼怒川温泉ひとり旅・渓谷美おこもり：スペーシアX直通・鬼怒川渓谷露天・とちぎ和牛！都心から2時間の極上ソロ湯治厳選3宿',
     description: '東武新型特急スペーシアXでアクセス抜群！鬼怒楯岩大吊橋すぐで展望風呂が評判の「ホテルサンシャイン鬼怒川」、庭園を望む離れの風情と美食会席が魅力の「鬼怒川グランドホテル 夢の季」、創業の歴史と渓流露天風呂を誇る名門「鬼怒川温泉ホテル」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/tochigi-kinugawa-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/tochigi-kinugawa-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/tochigi-kinugawa-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/tochigi-kinugawa-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【鬼怒川温泉ひとり旅・渓谷美おこもり】スペーシアX直通・鬼怒川渓谷露天・とちぎ和牛！都心から2時間の極上ソロ湯治厳選3宿","item":"https://croud-travel.pages.dev/tochigi-kinugawa-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【鬼怒川温泉ひとり旅・渓谷美おこもり】スペーシアX直通・鬼怒川渓谷露天・とちぎ和牛！都心から2時間の極上ソロ湯治厳選3宿","item":"https://croud-travel.pages.dev/tochigi-kinugawa-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

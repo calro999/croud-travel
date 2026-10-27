@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '大分・竹田長湯温泉で過ごす冬の旅（11・12月）！名物清流エノハ料理！名宿5選',
     description: '11月から12月にかけて、大分県竹田市の芹川沿いに広がる長湯温泉は、初雪を冠した雄大なくじゅう連山のパノラマと。',
-    url: 'https://croud-travel.pages.dev/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterOitaNagayuPage() {
         'headline': "【11・12月大分・竹田長湯温泉の世界屈指の天然炭酸泉とくじゅう初雪絶景】名物清流エノハ料理＆極上豊後牛会席を堪能する秘湯治名宿5選",
         'description': "11月から12月にかけて、大分県竹田市の芹川沿いに広がる長湯温泉は、初雪を冠した雄大なくじゅう連山のパノラマと、世界屈指の湧出量・高濃度を誇る「奇跡の天然炭酸泉」が旅人を魅了します。ぬるめの湯に浸かると全身が銀色の炭酸泡に包まれ、血行促進と芯からのポカポカ感が持続する日本有数の名湯。「飲んで効き 浴ちて効く」長湯の名湯巡りやラムネ温泉館を堪能した後は、芹川の清流が育んだ「清流の女王エノハ（ヤマメ）」の塩焼きや骨酒、極上のおおいた豊後牛会席に舌鼓。初冬の静寂と滋味あふれる名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterOitaNagayuPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-teal-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">大分・竹田長湯温泉</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterOitaNagayuPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月大分・竹田長湯温泉】名物清流エノハ料理！名宿5選","item":"https://croud-travel.pages.dev/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月大分・竹田長湯温泉】名物清流エノハ料理！名宿5選","item":"https://croud-travel.pages.dev/winter-oita-nagayu-onsen-carbonated-spring-kuju-snow-bungogyu-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -623,7 +623,7 @@ export default function WinterOitaNagayuPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay"
+              href="/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">大分・由布院</span>
@@ -636,7 +636,7 @@ export default function WinterOitaNagayuPage() {
             </Link>
 
             <Link 
-              href="/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay"
+              href="/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">熊本・阿蘇内牧</span>
@@ -649,7 +649,7 @@ export default function WinterOitaNagayuPage() {
             </Link>
 
             <Link 
-              href="/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay"
+              href="/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">大分・別府鉄輪</span>

@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '小布施・栗の小径の新栗グルメと須坂温泉！北信濃の秋果実（ぶどう・りんご）・信州牛を味わう極上温泉旅',
     description: '10月・11月の長野・小布施＆須坂特集！葛飾北斎が晩年を過ごした小布施の「栗の小径」と秋限定の極上新栗モンブラン・栗おこわ、蔵の町・須坂の歴史散策、北信濃の名湯・須坂温泉や小布施温泉の美肌露天風呂、信州プレミアム牛と信州りんごをふるさと納税で堪能。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-obuse-kurinoki-suzaka-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-obuse-kurinoki-suzaka-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-obuse-kurinoki-suzaka-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-obuse-kurinoki-suzaka-autumn-stay/"
   };
 
   const faqSchema = {
@@ -118,7 +118,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
           <Link href="/" className="hover:text-amber-700 underline">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-amber-700 underline">特集一覧</Link>
+          <Link href="/features/" className="hover:text-amber-700 underline">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-900 font-medium">長野・小布施＆須坂温泉特集</span>
         </div>
@@ -128,7 +128,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"小布施・栗の小径の新栗グルメと須坂温泉！北信濃の秋果実（ぶどう・りんご）・信州牛を味わう極上温泉旅 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-obuse-kurinoki-suzaka-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"小布施・栗の小径の新栗グルメと須坂温泉！北信濃の秋果実（ぶどう・りんご）・信州牛を味わう極上温泉旅 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-obuse-kurinoki-suzaka-autumn-stay/"}]}) }}
       />
 
         {/* Introduction */}
@@ -646,8 +646,8 @@ export default function Page() {
         <div className="max-w-5xl mx-auto space-y-4">
           <div className="flex justify-center gap-4 text-stone-300">
             <Link href="/" className="hover:text-white">トップページ</Link>
-            <Link href="/features" className="hover:text-white">特集一覧</Link>
-            <Link href="/privacy" className="hover:text-white">プライバシーポリシー</Link>
+            <Link href="/features/" className="hover:text-white">特集一覧</Link>
+            <Link href="/privacy/" className="hover:text-white">プライバシーポリシー</Link>
           </div>
           <p>© 2026 クラウドトラベル (croud-travel.pages.dev) All Rights Reserved.</p>
         </div>

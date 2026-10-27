@@ -17,12 +17,12 @@ export const metadata: Metadata = {
   title: "光の道夕景と日本一の大注連縄・宮地嶽神社新春初詣：2026-2027年冬の福岡・福津＆玄界灘！天然とらふぐと博多和牛名宿5選",
   description: "嵐のCMで話題となった「光の道」と日本一の大注連縄を誇る開運神社「宮地嶽神社」新春初詣！冬の澄み渡る玄界灘の夕景、冬に旬を迎える極上「天然とらふぐ」や活ヤリイカ、博多和牛の贅沢会席に舌鼓を打つ冬の厳選名宿5選。",
   alternates: {
-    canonical: "https://croud-travel.pages.dev/winter-fukuoka-fukutsu-miyajidake-shrine-hatsumode-hikari-genkainada-stay",
+    canonical: "https://croud-travel.pages.dev/winter-fukuoka-fukutsu-miyajidake-shrine-hatsumode-hikari-genkainada-stay/",
   },
   openGraph: {
     title: "光の道夕景と日本一の大注連縄・宮地嶽神社新春初詣：2026-2027年冬の福岡・福津＆玄界灘！天然とらふぐと博多和牛名宿5選",
     description: "嵐のCMで話題となった「光の道」と日本一の大注連縄を誇る開運神社「宮地嶽神社」新春初詣！冬の澄み渡る玄界灘の夕景、冬に旬を迎える極上「天然とらふぐ」や活ヤリイカ、博多和牛の贅沢会席に舌鼓を打つ冬の厳選名宿5選。",
-    url: "https://croud-travel.pages.dev/winter-fukuoka-fukutsu-miyajidake-shrine-hatsumode-hikari-genkainada-stay",
+    url: "https://croud-travel.pages.dev/winter-fukuoka-fukutsu-miyajidake-shrine-hatsumode-hikari-genkainada-stay/",
     siteName: "日本全国・旅宿クラウド",
     locale: "ja_JP",
     type: "article",
@@ -90,7 +90,7 @@ export default function FeaturePage() {
       "@type": "ListItem",
       "position": 2,
       "name": "特集一覧",
-      "item": "https://croud-travel.pages.dev/features"
+      "item": "https://croud-travel.pages.dev/features/"
     },
     {
       "@type": "ListItem",
@@ -102,7 +102,7 @@ export default function FeaturePage() {
       "@type": "ListItem",
       "position": 4,
       "name": "【光の道夕景と日本一の大注連縄・宮地嶽神社新春初詣】2026-2027年冬の福岡・福津＆玄界灘！天然とらふぐと博多和牛名宿5選",
-      "item": "https://croud-travel.pages.dev/winter-fukuoka-fukutsu-miyajidake-shrine-hatsumode-hikari-genkainada-stay"
+      "item": "https://croud-travel.pages.dev/winter-fukuoka-fukutsu-miyajidake-shrine-hatsumode-hikari-genkainada-stay/"
     }
   ]
 };
@@ -139,7 +139,7 @@ export default function FeaturePage() {
             ホーム
           </Link>
           <ChevronRight className="w-3 h-3 text-stone-400" />
-          <Link href="/features" className="hover:text-stone-900 transition-colors">
+          <Link href="/features/" className="hover:text-stone-900 transition-colors">
             特集一覧
           </Link>
           <ChevronRight className="w-3 h-3 text-stone-400" />
@@ -774,21 +774,21 @@ export default function FeaturePage() {
                 <ChevronRight className="w-4 h-4 text-stone-400" />
               </Link>
               <Link
-                href="/features"
+                href="/features/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>全国の季節・目的別厳選特集一覧</span>
                 <ChevronRight className="w-4 h-4 text-stone-400" />
               </Link>
               <Link
-                href="/furusato-tax-luxury-hotspring-ryokan-stay"
+                href="/furusato-tax-luxury-hotspring-ryokan-stay/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>実質2,000円で泊まる高級温泉旅館ガイド</span>
                 <ChevronRight className="w-4 h-4 text-stone-400" />
               </Link>
               <Link
-                href="/furusato-tax-local-gourmet-inn-stay"
+                href="/furusato-tax-local-gourmet-inn-stay/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>ご当地グルメを堪能する全国美食旅特集</span>

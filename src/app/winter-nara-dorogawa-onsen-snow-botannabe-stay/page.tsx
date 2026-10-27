@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月奈良：極上大和牛を味わう隠れ！名宿5選',
     description: '11月から1月、奈良県吉野郡天川村・大峯山（八経ヶ岳・山上ヶ岳）の麓に位置する「洞川温泉（どろがわおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-nara-dorogawa-onsen-snow-botannabe-stay',
+    url: 'https://croud-travel.pages.dev/winter-nara-dorogawa-onsen-snow-botannabe-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -69,7 +69,7 @@ export default function NaraDorogawaOnsenPage() {
             "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-nara-dorogawa-onsen-snow-botannabe-stay"
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-nara-dorogawa-onsen-snow-botannabe-stay/"
       },
       {
         "@type": "BreadcrumbList",
@@ -85,13 +85,13 @@ export default function NaraDorogawaOnsenPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "奈良・洞川温泉の冬ぼたん鍋と木造行者宿特集",
-            "item": "https://croud-travel.pages.dev/winter-nara-dorogawa-onsen-snow-botannabe-stay"
+            "item": "https://croud-travel.pages.dev/winter-nara-dorogawa-onsen-snow-botannabe-stay/"
           }
         ]
       },
@@ -569,21 +569,21 @@ export default function NaraDorogawaOnsenPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay" 
+              href="/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-red-700 font-bold block text-[10px]">奈良・大和路</span>
               <p className="font-bold text-stone-800 line-clamp-2">若草山焼きの冬絶景と古都の雪景色・大和牛と飛鳥鍋を堪能する名宿</p>
             </Link>
             <Link 
-              href="/winter-wakayama-ryujin-onsen-bihada-botannabe-stay" 
+              href="/winter-wakayama-ryujin-onsen-bihada-botannabe-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-red-700 font-bold block text-[10px]">和歌山・龍神温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">日本三美人の湯と渓谷雪景色・極上ぼたん鍋と熊野牛を味わう名湯</p>
             </Link>
             <Link 
-              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay" 
+              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-red-700 font-bold block text-[10px]">京都・湯の花温泉</span>

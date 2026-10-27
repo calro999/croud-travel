@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "大激流ラフティング：吉野川・球磨川で挑む白波アドベンチャー＆天然温泉リゾート宿5選",
     description: "日本屈指の激流ポイント吉野川や球磨川、利根川で楽しむエキサイティングなラフティング！白波を乗り越える大興奮のアドベンチャーと、疲れた体を癒やす天然温泉大浴場・絶景サウナを備えた宿を厳選。",
-    url: 'https://croud-travel.pages.dev/super-panoramic-rafting-canyon-stay',
+    url: 'https://croud-travel.pages.dev/super-panoramic-rafting-canyon-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -59,7 +59,7 @@ export default function FeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/super-panoramic-rafting-canyon-stay"
+      "@id": "https://croud-travel.pages.dev/super-panoramic-rafting-canyon-stay/"
     }
   };
 
@@ -143,7 +143,7 @@ export default function FeaturePage() {
       <nav className="max-w-5xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-500 flex items-center gap-1.5 overflow-x-auto">
         <Link href="/" className="hover:text-amber-600 transition-colors shrink-0">ホーム</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <Link href="/features" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <span className="text-stone-800 font-medium truncate">【大激流ラフティング】吉野川・球磨川で挑む白波アドベンチャー＆天然温泉リゾート宿5選</span>
       </nav>
@@ -155,7 +155,7 @@ export default function FeaturePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【大激流ラフティング】吉野川・球磨川で挑む白波アドベンチャー＆天然温泉リゾート宿5選","item":"https://croud-travel.pages.dev/super-panoramic-rafting-canyon-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【大激流ラフティング】吉野川・球磨川で挑む白波アドベンチャー＆天然温泉リゾート宿5選","item":"https://croud-travel.pages.dev/super-panoramic-rafting-canyon-stay/"}]}) }}
       />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
@@ -310,7 +310,7 @@ export default function FeaturePage() {
           <h3 className="text-lg font-bold text-stone-800 mb-3">他の特集記事もチェック</h3>
           <p className="text-sm text-stone-500 mb-6">全国各地の魅力あふれるテーマ別おすすめ宿泊施設をご紹介しています</p>
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 px-8 py-3.5 rounded-xl bg-stone-800 hover:bg-stone-900 text-white font-bold text-sm shadow-sm transition-colors"
           >
             <span>特集一覧ページへ戻る</span>

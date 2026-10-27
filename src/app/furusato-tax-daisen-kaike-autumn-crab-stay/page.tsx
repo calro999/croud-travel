@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '伯耆大山の紅葉ドライブと皆生温泉！11月解禁の松葉がに・鳥取和牛・白砂青松の海辺露天風呂',
     description: '10月・11月の鳥取・大山＆皆生温泉特集！中国地方最高峰・伯耆大山（大山環状道路）のブナ林紅葉、日本海を望む塩化物泉・皆生温泉の海辺露天風呂、11月解禁の鳥取松葉がにと鳥取和牛オレイン55をふるさと納税で味わう旅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-daisen-kaike-autumn-crab-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-daisen-kaike-autumn-crab-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-daisen-kaike-autumn-crab-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-daisen-kaike-autumn-crab-stay/"
   };
 
   const faqSchema = {
@@ -118,7 +118,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
           <Link href="/" className="hover:text-amber-700 underline">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-amber-700 underline">特集一覧</Link>
+          <Link href="/features/" className="hover:text-amber-700 underline">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-900 font-medium">鳥取・大山＆皆生温泉特集</span>
         </div>
@@ -128,7 +128,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"伯耆大山の紅葉ドライブと皆生温泉！11月解禁の松葉がに・鳥取和牛・白砂青松の海辺露天風呂 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-daisen-kaike-autumn-crab-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"伯耆大山の紅葉ドライブと皆生温泉！11月解禁の松葉がに・鳥取和牛・白砂青松の海辺露天風呂 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-daisen-kaike-autumn-crab-stay/"}]}) }}
       />
 
         {/* Introduction */}
@@ -646,8 +646,8 @@ export default function Page() {
         <div className="max-w-5xl mx-auto space-y-4">
           <div className="flex justify-center gap-4 text-stone-300">
             <Link href="/" className="hover:text-white">トップページ</Link>
-            <Link href="/features" className="hover:text-white">特集一覧</Link>
-            <Link href="/privacy" className="hover:text-white">プライバシーポリシー</Link>
+            <Link href="/features/" className="hover:text-white">特集一覧</Link>
+            <Link href="/privacy/" className="hover:text-white">プライバシーポリシー</Link>
           </div>
           <p>© 2026 クラウドトラベル (croud-travel.pages.dev) All Rights Reserved.</p>
         </div>

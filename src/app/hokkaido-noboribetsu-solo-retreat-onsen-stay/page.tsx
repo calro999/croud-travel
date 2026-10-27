@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '登別温泉ひとり旅・地獄谷名湯おこもり：硫黄泉・食塩泉・白濁濁り湯！北海道一の巨大温泉郷で圧倒的湯巡りを満喫する厳選3宿',
     description: '名湯百選の王者・登別温泉！本格ドーム型ローマ風大浴場と庭園露天風呂を誇る名門「登別グランドホテル」、白濁の名湯と囲炉裏会席が心温まる隠れ宿「滝乃家別館 玉乃湯」、日本最大級の多彩な浴槽と4つの泉質を楽しめる「ホテル まほろば」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/hokkaido-noboribetsu-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/hokkaido-noboribetsu-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/hokkaido-noboribetsu-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/hokkaido-noboribetsu-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【登別温泉ひとり旅・地獄谷名湯おこもり】硫黄泉・食塩泉・白濁濁り湯！北海道一の巨大温泉郷で圧倒的湯巡りを満喫する厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-noboribetsu-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【登別温泉ひとり旅・地獄谷名湯おこもり】硫黄泉・食塩泉・白濁濁り湯！北海道一の巨大温泉郷で圧倒的湯巡りを満喫する厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-noboribetsu-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

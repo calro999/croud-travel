@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月愛知：三種の神器を祀る「熱田神宮」新春初詣！名宿5選',
     description: '11月の晩秋から新春1月にかけて、年間約200万人以上の参拝客で賑わう東海随一の聖地「熱田神宮」。三種の神器の一つ「草薙神剣（くさなぎのみつ。',
-    url: 'https://croud-travel.pages.dev/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay',
+    url: 'https://croud-travel.pages.dev/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/12543/12543.jpg', width: 1200, height: 630, alt: '熱田神宮初詣とひつまぶし・名古屋名宿' }]
   }
@@ -150,13 +150,13 @@ export default function AichiNagoyaAtsutaPage() {
     '@type': 'ItemPage',
     name: "【11・12・1月愛知】三種の神器を祀る「熱田神宮」新春初詣＆名物「本場ひつまぶし」・極上名古屋コーチン鍋を味わう名宿5選",
     description: "11月の晩秋から新春1月にかけて、年間約200万人以上の参拝客で賑わう東海随一の聖地「熱田神宮」。三種の神器の一つ「草薙神剣（くさなぎのみつるぎ）」を祀る熱田の杜は、巨木が茂る神聖な静寂に包まれます。織田信長が桶狭間の戦い出陣前に必勝祈願したことでも知られ、新春の開運・厄除け初詣スポットとして絶大な人気を誇ります。参拝の後は、熱田発祥の伝統を誇る名物「本場ひつまぶし」の香ばしい鰻、冬の寒さに染み渡る濃厚な「名古屋コーチン鍋」、そして名駅や栄の煌びやかな冬イルミネーションを満喫。上質なもてなしと美食に酔いしれる厳選ホテル5選を徹底紹介します。",
-    url: 'https://croud-travel.pages.dev/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay',
+    url: 'https://croud-travel.pages.dev/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay/',
     breadcrumb: {
       '@type': 'BreadcrumbList',
       itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://croud-travel.pages.dev/' },
         { '@type': 'ListItem', position: 2, name: '冬の特集一覧', item: 'https://croud-travel.pages.dev/features/' },
-        { '@type': 'ListItem', position: 3, name: '熱田神宮初詣＆本場ひつまぶし・名古屋ステイ', item: 'https://croud-travel.pages.dev/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay' }
+        { '@type': 'ListItem', position: 3, name: '熱田神宮初詣＆本場ひつまぶし・名古屋ステイ', item: 'https://croud-travel.pages.dev/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay/' }
       ]
     },
     mainEntity: {
@@ -601,7 +601,7 @@ export default function AichiNagoyaAtsutaPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay" 
+              href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">愛知・南知多＆日間賀島</span>
@@ -611,7 +611,7 @@ export default function AichiNagoyaAtsutaPage() {
             </Link>
 
             <Link 
-              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay" 
+              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">三重・伊勢神宮</span>
@@ -621,7 +621,7 @@ export default function AichiNagoyaAtsutaPage() {
             </Link>
 
             <Link 
-              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay" 
+              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">岐阜・下呂温泉</span>
@@ -631,7 +631,7 @@ export default function AichiNagoyaAtsutaPage() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay" 
+              href="/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">静岡・浜名湖舘山寺</span>
@@ -641,7 +641,7 @@ export default function AichiNagoyaAtsutaPage() {
             </Link>
 
             <Link 
-              href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay" 
+              href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">滋賀・彦根＆近江八幡</span>
@@ -651,7 +651,7 @@ export default function AichiNagoyaAtsutaPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay" 
+              href="/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">長野・昼神温泉</span>

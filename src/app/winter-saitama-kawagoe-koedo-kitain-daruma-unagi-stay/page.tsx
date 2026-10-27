@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月埼玉：喜多院初大師だるま市新春初詣！名宿5選',
     description: '11月から1月、黒漆喰の重厚な蔵造り商家が軒を連ねる埼玉県川越市は、冬の澄み渡る青空と新春の活気あふれる初詣シーズンを迎えます。',
-    url: 'https://croud-travel.pages.dev/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay',
+    url: 'https://croud-travel.pages.dev/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function SaitamaKawagoeKoedoWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '小江戸川越冬の蔵造り＆喜多院初詣特集',
-        item: 'https://croud-travel.pages.dev/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay'
+        item: 'https://croud-travel.pages.dev/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay/'
       }
     ]
   };
@@ -652,7 +652,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay" 
+              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">埼玉・秩父長瀞</span>
@@ -662,7 +662,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay" 
+              href="/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">栃木・足利佐野</span>
@@ -672,7 +672,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay" 
+              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">神奈川・鎌倉江の島</span>
@@ -682,7 +682,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay" 
+              href="/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">長野・軽井沢星野</span>
@@ -692,7 +692,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay" 
+              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">三重・伊勢神宮</span>
@@ -702,7 +702,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
             </Link>
 
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-stone-100 border border-stone-200 hover:border-amber-400 transition-all group flex flex-col justify-center text-center"
             >
               <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors">

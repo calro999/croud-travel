@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '気兼ねなく一人を謳歌する！お部屋食＆客室専用風呂で過ごす極上ソロ温泉リトリート',
     description: '四万・別所・かみのやまなど一人旅歓迎のお宿を厳選。人目を気にせずお部屋でゆっくり味わう会席料理と、名湯を独り占めできる貸切風呂・客室風呂。',
-    url: 'https://croud-travel.pages.dev/solo-travel-in-room-dining-peaceful-hotsprings',
+    url: 'https://croud-travel.pages.dev/solo-travel-in-room-dining-peaceful-hotsprings/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/solo-travel-in-room-dining-peaceful-hotsprings"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/solo-travel-in-room-dining-peaceful-hotsprings/"
   };
 
   const faqSchema = {
@@ -151,7 +151,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"気兼ねなく一人を謳歌する！お部屋食＆客室専用風呂で過ごす極上ソロ温泉リトリート ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/solo-travel-in-room-dining-peaceful-hotsprings"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"気兼ねなく一人を謳歌する！お部屋食＆客室専用風呂で過ごす極上ソロ温泉リトリート ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/solo-travel-in-room-dining-peaceful-hotsprings/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -166,7 +166,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">一人旅・お部屋食の静寂温泉</span>
       </nav>
@@ -284,7 +284,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="気兼ねなく一人を謳歌する！お部屋食＆客室専用風呂で過ごす極上ソロ温泉リトリート"
-            url="https://croud-travel.pages.dev/solo-travel-in-room-dining-peaceful-hotsprings"
+            url="https://croud-travel.pages.dev/solo-travel-in-room-dining-peaceful-hotsprings/"
           />
         </div>
 

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '金沢をふるさと納税でお得に旅する！兼六園の美景＆近江町市場の海の幸！加賀百万石の名門ホテル特集｜ホテル日航金沢・白鳥路山楽・THE HOTEL SANRAKU',
     description: '北陸新幹線で東京から最速約2時間15分！加賀百万石の城下町・石川県金沢市を楽天ふるさと納税でお得に贅沢ステイ。金沢駅東口直結のランドマーク「ホテル日航金沢」、兼六園すぐ隣で天然温泉が湧くクラシック宿「金沢白鳥路 ホテル山楽」、近江町市場徒歩すぐの中庭庭園ホテル「THE HOTEL SANRAKU KANAZAWA」を徹底比較。金沢市トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kanazawa-kenrokuen-gourmet-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kanazawa-kenrokuen-gourmet-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T01:10:00+09:00',
     dateModified: '2026-10-19T01:10:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kanazawa-kenrokuen-gourmet-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kanazawa-kenrokuen-gourmet-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【金沢×ふるさと納税】兼六園の美景＆近江町市場の海の幸！加賀百万石の名門ホテル特集｜ホテル日航金沢・白鳥路山楽・THE HOTEL SANRAKU","item":"https://croud-travel.pages.dev/furusato-tax-kanazawa-kenrokuen-gourmet-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【金沢×ふるさと納税】兼六園の美景＆近江町市場の海の幸！加賀百万石の名門ホテル特集｜ホテル日航金沢・白鳥路山楽・THE HOTEL SANRAKU","item":"https://croud-travel.pages.dev/furusato-tax-kanazawa-kenrokuen-gourmet-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【金沢×ふるさと納税】兼六園の美景＆近江町市場の海の幸！加賀百万石の名門ホテル特集｜ホテル日航金沢・白鳥路山楽・THE HOTEL SANRAKU</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-kyoto-station-luxury-convenience-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-kyoto-station-luxury-convenience-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 京都駅直結 新幹線直結＆抜群のアクセス名門ホテル特集
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-tokyo-station-marunouchi-luxury-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-tokyo-station-marunouchi-luxury-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 東京駅・丸の内 重要文化財駅舎＆皇居ビュー名門ホテル特集
               </Link>
             </li>

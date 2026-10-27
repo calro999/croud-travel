@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：滋味あふれる天然猪肉と特製味噌出汁！名宿5選',
     description: '2026年最新！丹波篠山や奥飛騨の厳選された天然イノシシ肉を美しい牡丹の花のように盛り付け、特製味噌で煮込む絶品ぼたん鍋と名湯の宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-hot-pot-gibier-wild-game-satoyama-stay',
+    url: 'https://croud-travel.pages.dev/winter-hot-pot-gibier-wild-game-satoyama-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-hot-pot-gibier-wild-game-satoyama-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-hot-pot-gibier-wild-game-satoyama-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">天然猪肉ぼたん鍋×里山ジビエ宿</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             冬の寒さとともに脂が乗って旨味が凝縮される天然イノシシ肉。大皿に牡丹の花のように並べられた美しい霜降り肉を、地元の熟成味噌出汁で煮込む熱々のぼたん鍋。野趣あふれる里山の恵みと体の芯まで温まる名湯で冬の寒さを忘れる美味旅。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】滋味あふれる天然猪肉と特製味噌出汁！伝統の「ぼたん鍋」＆里山ジビエ会席宿5選" url="https://croud-travel.pages.dev/winter-hot-pot-gibier-wild-game-satoyama-stay" />
+            <ShareButtons title="【2026年】滋味あふれる天然猪肉と特製味噌出汁！伝統の「ぼたん鍋」＆里山ジビエ会席宿5選" url="https://croud-travel.pages.dev/winter-hot-pot-gibier-wild-game-satoyama-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】滋味あふれる天然猪肉と特製味噌出汁！名宿5選","item":"https://croud-travel.pages.dev/winter-hot-pot-gibier-wild-game-satoyama-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】滋味あふれる天然猪肉と特製味噌出汁！名宿5選","item":"https://croud-travel.pages.dev/winter-hot-pot-gibier-wild-game-satoyama-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

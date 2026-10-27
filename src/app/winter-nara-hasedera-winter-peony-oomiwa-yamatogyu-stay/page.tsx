@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月奈良：極上大和牛を味わう！名宿5選',
     description: '11月から1月、古都・奈良の大和路は凛とした冬の澄んだ空気に包まれ、神話と歴史が息づく静謐な祈りの季節を迎えます。',
-    url: 'https://croud-travel.pages.dev/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/8550/8550.jpg', width: 1200, height: 630, alt: '長谷寺冬牡丹と大神神社初詣名宿' }]
   }
@@ -147,13 +147,13 @@ export default function NaraHasederaOomiwaPage() {
     '@type': 'ItemPage',
     name: "【11・12・1月奈良】花の御寺・長谷寺の「冬牡丹（寒牡丹）」と日本最古の三輪山・大神神社初詣＆極上大和牛を味わう名宿5選",
     description: "11月から1月、古都・奈良の大和路は凛とした冬の澄んだ空気に包まれ、神話と歴史が息づく静謐な祈りの季節を迎えます。「花の御寺」と称される長谷寺では、藁囲い（わらづと）に守られ雪中に艶やかに咲き誇る可憐な「冬牡丹（寒牡丹）」が見頃を迎え、国宝本堂へと続く399段の登廊が静寂の美を放ちます。さらに三輪山をご神体とする日本最古の神社「大神神社」や「橿原神宮」での新春開運初詣、温かい三輪にゅうめん、きめ細やかなサシがとろける伝統の銘柄牛「大和牛」のすき焼き。心洗われる大和路の冬を五感で癒やす厳選名宿5選をご紹介します。",
-    url: 'https://croud-travel.pages.dev/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay/',
     breadcrumb: {
       '@type': 'BreadcrumbList',
       itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://croud-travel.pages.dev/' },
         { '@type': 'ListItem', position: 2, name: '冬の特集一覧', item: 'https://croud-travel.pages.dev/features/' },
-        { '@type': 'ListItem', position: 3, name: '長谷寺冬牡丹＆大神神社・大和牛ステイ', item: 'https://croud-travel.pages.dev/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay' }
+        { '@type': 'ListItem', position: 3, name: '長谷寺冬牡丹＆大神神社・大和牛ステイ', item: 'https://croud-travel.pages.dev/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay/' }
       ]
     },
     mainEntity: {
@@ -615,7 +615,7 @@ export default function NaraHasederaOomiwaPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-nara-dorogawa-onsen-snow-botannabe-stay" 
+              href="/winter-nara-dorogawa-onsen-snow-botannabe-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-purple-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-purple-700 font-bold text-xs block mb-1">奈良・洞川温泉</span>
@@ -625,7 +625,7 @@ export default function NaraHasederaOomiwaPage() {
             </Link>
 
             <Link 
-              href="/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay" 
+              href="/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-purple-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-purple-700 font-bold text-xs block mb-1">和歌山・高野山</span>
@@ -635,7 +635,7 @@ export default function NaraHasederaOomiwaPage() {
             </Link>
 
             <Link 
-              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay" 
+              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-purple-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-purple-700 font-bold text-xs block mb-1">三重・伊勢神宮</span>
@@ -645,7 +645,7 @@ export default function NaraHasederaOomiwaPage() {
             </Link>
 
             <Link 
-              href="/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay" 
+              href="/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-purple-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-purple-700 font-bold text-xs block mb-1">京都・貴船＆鞍馬</span>
@@ -655,7 +655,7 @@ export default function NaraHasederaOomiwaPage() {
             </Link>
 
             <Link 
-              href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay" 
+              href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-purple-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-purple-700 font-bold text-xs block mb-1">滋賀・近江八幡＆彦根</span>
@@ -665,7 +665,7 @@ export default function NaraHasederaOomiwaPage() {
             </Link>
 
             <Link 
-              href="/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay" 
+              href="/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-purple-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-purple-700 font-bold text-xs block mb-1">岡山・倉敷＆吉備津</span>

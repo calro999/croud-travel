@@ -400,7 +400,7 @@ export default function KamakuraRainyDayCafeMuseumPage() {
           </p>
 
           <Link
-            href="/kamakura-vs-enoshima-day-trip"
+            href="/kamakura-vs-enoshima-day-trip/"
             className="group block p-4 rounded-xl bg-indigo-950/80 border border-indigo-700 hover:border-violet-500/60 transition-all max-w-xl"
           >
             <span className="text-xs font-bold text-violet-400 block mb-1">エリア比較ガイド 🧭</span>

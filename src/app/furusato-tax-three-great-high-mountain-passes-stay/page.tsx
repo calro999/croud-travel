@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: '日本三大急坂・天空峠道＆雲海パノラマ・絶景ドライブ温泉宿×ふるさと納税厳選ガイド渋峠・富士山スカイライン・温見峠',
     description: '天空を突き抜けるワインディングロードと雲海パノラマ！群馬長野「渋峠」国道最高地点標高2172mと万座温泉日進舘、静岡「富士山スカイライン」表富士五合目へ駆け上がる天空道路とレンブラントプレミアム富士御殿場、岐阜福井「温見峠ルート」清流根尾谷と亀屋旅館。日本三大急坂・天空峠道の絶景ドライブと温泉ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-high-mountain-passes-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-high-mountain-passes-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -396,7 +396,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-rapid-rivers-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-rapid-rivers-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大急流＆川下り舟体験・清流鮎グルメ宿×ふるさと納税完全ガイド
               </div>
@@ -405,7 +405,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-clear-stream-valleys-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-clear-stream-valleys-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大美林渓流＆原生林マイナスイオン宿×ふるさと納税完全ガイド
               </div>
@@ -414,7 +414,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-train-window-views-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-train-window-views-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大車窓＆天空パノラマ・絶景温泉宿×ふるさと納税完全ガイド
               </div>

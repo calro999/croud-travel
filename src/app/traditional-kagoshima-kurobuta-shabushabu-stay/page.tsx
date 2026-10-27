@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉：指宿・霧島の美肌湯と鹿児島美食宿5選",
     description: "きめ細やかな肉質と上品な甘みを持つ最高峰「かごしま黒豚」のしゃぶしゃぶ！世界唯一の天然砂むし温泉で知られる指宿や、坂本龍馬ゆかりの霧島温泉郷で、鹿児島の滋味あふれる美味と名湯を満喫する旅。",
-    url: 'https://croud-travel.pages.dev/traditional-kagoshima-kurobuta-shabushabu-stay',
+    url: 'https://croud-travel.pages.dev/traditional-kagoshima-kurobuta-shabushabu-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -59,7 +59,7 @@ export default function FeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/traditional-kagoshima-kurobuta-shabushabu-stay"
+      "@id": "https://croud-travel.pages.dev/traditional-kagoshima-kurobuta-shabushabu-stay/"
     }
   };
 
@@ -143,7 +143,7 @@ export default function FeaturePage() {
       <nav className="max-w-5xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-500 flex items-center gap-1.5 overflow-x-auto">
         <Link href="/" className="hover:text-amber-600 transition-colors shrink-0">ホーム</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <Link href="/features" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <span className="text-stone-800 font-medium truncate">【極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉】指宿・霧島の美肌湯と鹿児島美食宿5選</span>
       </nav>
@@ -155,7 +155,7 @@ export default function FeaturePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉】指宿・霧島の美肌湯と鹿児島美食宿5選","item":"https://croud-travel.pages.dev/traditional-kagoshima-kurobuta-shabushabu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【極上かごしま黒豚しゃぶしゃぶ＆砂むし温泉】指宿・霧島の美肌湯と鹿児島美食宿5選","item":"https://croud-travel.pages.dev/traditional-kagoshima-kurobuta-shabushabu-stay/"}]}) }}
       />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
@@ -310,7 +310,7 @@ export default function FeaturePage() {
           <h3 className="text-lg font-bold text-stone-800 mb-3">他の特集記事もチェック</h3>
           <p className="text-sm text-stone-500 mb-6">全国各地の魅力あふれるテーマ別おすすめ宿泊施設をご紹介しています</p>
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 px-8 py-3.5 rounded-xl bg-stone-800 hover:bg-stone-900 text-white font-bold text-sm shadow-sm transition-colors"
           >
             <span>特集一覧ページへ戻る</span>

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月盛岡：冬の盛岡八幡宮新春開運初詣！名宿5選',
     description: '冬の盛岡は、冠雪した霊峰・岩手山（南部片富士）が澄み渡る青空に凛とそびえ立ち。',
-    url: 'https://croud-travel.pages.dev/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/10629/10629.jpg' , alt: "11・12・1月盛岡：冬の盛岡八幡宮新春開運初詣！名宿5選"}]
   }
@@ -151,7 +151,7 @@ export default function IwateMoriokaPage() {
         "@type": "Article",
         "headline": "【11・12・1月盛岡】冬の盛岡八幡宮新春開運初詣＆岩手山白銀パノラマ！繋温泉の美肌いで湯と盛岡三大麺・雫石牛に寛ぐ名宿5選",
         "description": "冬の盛岡は、冠雪した霊峰・岩手山（南部片富士）が澄み渡る青空に凛とそびえ立ち、白鳥が飛来する中津川や風情あるレトロな赤レンガ建築が雪景色に包まれる特別な季節。11月下旬の初雪から1月の盛岡八幡宮新春初詣や伝統の裸参りまで、冬の静寂と歴史の温もりが満ちています。湯量豊富な繋温泉（つなぎ温泉）の源泉掛け流し美肌湯に浸かり、名物の盛岡三大麺（熱々じゃじゃ麺・わんこそば・盛岡冷麺）や極上の雫石牛・前沢牛のすき焼き鍋を堪能する冬の温泉旅。楽天APIから最新取得した信頼の名宿5選を徹底特集します。",
-        "url": 'https://croud-travel.pages.dev/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay',
+        "url": 'https://croud-travel.pages.dev/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay/',
         "publisher": {
           "@type": "Organization",
           "name": "週末ごほうび旅・厳選の宿ガイド",
@@ -171,13 +171,13 @@ export default function IwateMoriokaPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "冬の盛岡・盛岡八幡宮初詣＆繋温泉特集",
-            "item": 'https://croud-travel.pages.dev/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay'
+            "item": 'https://croud-travel.pages.dev/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay/'
           }
         ]
       },
@@ -250,7 +250,7 @@ export default function IwateMoriokaPage() {
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-indigo-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-indigo-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-indigo-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">冬の盛岡・盛岡八幡宮初詣＆繋温泉特集</li>
         </ol>
@@ -543,28 +543,28 @@ export default function IwateMoriokaPage() {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
-              href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay"
+              href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-indigo-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【箱根】冬の箱根湯本＆芦ノ湖・箱根神社初詣と富士山名宿</span>
               <span className="text-xs text-slate-500">澄み渡る白雪富士と関東総鎮守の開運祈願、相模湾の寒魚会席</span>
             </Link>
             <Link 
-              href="/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay"
+              href="/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-indigo-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【筑波山】筑波山神社新春初詣＆スターダスト夜景名宿</span>
               <span className="text-xs text-slate-500">日本夜景遺産の絶景パノラマと筑波山美肌温泉、極上常陸牛</span>
             </Link>
             <Link 
-              href="/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay"
+              href="/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-indigo-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【大阪】住吉大社新春初詣＆御堂筋イルミネーション名宿</span>
               <span className="text-xs text-slate-500">光の回廊と全国総本社開運参拝、冬の本場とらふぐてっちり鍋</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-indigo-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>

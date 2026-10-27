@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月滋賀：彦根城雪化粧と日本三大和牛「！名宿5選',
     description: '11月から1月、滋賀県・湖東エリア（近江八幡・彦根）は、白銀に染まる国宝・彦根城天守の荘厳な雪化粧と、八幡堀や水郷の静謐な冬景色に包まれます。',
-    url: 'https://croud-travel.pages.dev/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function ShigaOmihachimanHikoneWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function ShigaOmihachimanHikoneWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '滋賀・彦根城雪景色＆近江牛すき焼き特集',
-        item: 'https://croud-travel.pages.dev/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay'
+        item: 'https://croud-travel.pages.dev/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay/'
       }
     ]
   };
@@ -625,42 +625,42 @@ export default function ShigaOmihachimanHikoneWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay" 
+              href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">滋賀・長浜太閤温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">湖北の冬名物天然真鴨鍋と近江牛・黒壁スクエア雪景色の名宿</p>
             </Link>
             <Link 
-              href="/winter-shiga-ogoto-onsen-biwako-omigyu-stay" 
+              href="/winter-shiga-ogoto-onsen-biwako-omigyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">滋賀・おごと温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">比叡山のお膝元の名湯露天風呂と近江牛会席・琵琶湖ビュー名宿</p>
             </Link>
             <Link 
-              href="/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay" 
+              href="/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">京都・貴船＆鞍馬</span>
               <p className="font-bold text-stone-800 line-clamp-2">貴船神社雪のライトアップと本場ぼたん鍋・冬の京都奥座敷の宿</p>
             </Link>
             <Link 
-              href="/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay" 
+              href="/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">福井・若狭湾＆敦賀</span>
               <p className="font-bold text-stone-800 line-clamp-2">冬の味覚若狭ふぐと敦賀港越前がに・三方五湖寒うなぎと海絶景名宿</p>
             </Link>
             <Link 
-              href="/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay" 
+              href="/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">三重・湯の山温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">御在所岳の樹氷と名物僧兵鍋・冬の鈴鹿山脈を望む名湯宿</p>
             </Link>
             <Link 
-              href="/winter-nara-dorogawa-onsen-snow-botannabe-stay" 
+              href="/winter-nara-dorogawa-onsen-snow-botannabe-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">奈良・洞川温泉</span>

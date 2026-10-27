@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '信州 別所温泉で過ごす冬の旅（11・12月）！極上信州プレミアム牛！名宿5選',
     description: '11月から12月にかけて、信州最古の温泉地として「信州の鎌倉」と称される長野県上田市の「別所温泉」は、山並みに初雪が冠し。',
-    url: 'https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function NaganoBesshoWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay/"
         },
         "headline": "【11・12月長野・信州 別所温泉の古湯情緒と北向観音初冬参拝】極上信州プレミアム牛＆名湯掛け流し硫黄泉で寛ぐ老舗旅館5選",
         "description": "11月から12月にかけて、信州最古の温泉地として「信州の鎌倉」と称される長野県上田市の「別所温泉」は、山並みに初雪が冠し、石畳の小路に白い湯けむりが立ち込める風情豊かな初冬を迎えます。善光寺と向かい合う厄除けの名刹「北向観音堂」への初冬参拝や、日本唯一の国宝八角三重塔を抱く安楽寺の静寂。ほのかに硫黄が香る源泉掛け流しの名湯で芯から温まり、霜降りがとろける極上「信州プレミアム牛」や千曲川の清流が育む信州サーモン、旬のサンふじ林檎を堪能する名門旅館5選を詳しく解説します。",
@@ -100,13 +100,13 @@ export default function NaganoBesshoWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "長野・信州 別所温泉 信州牛会席と北向観音参詣の宿",
-            "item": "https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay"
+            "item": "https://croud-travel.pages.dev/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay/"
           }
         ]
       },
@@ -589,7 +589,7 @@ export default function NaganoBesshoWinterFeature() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-2">
             <Link 
-              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay"
+              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-blue-500/40 text-blue-200 font-bold text-[10px]">諏訪湖・冬レイクビュー</span>
@@ -598,7 +598,7 @@ export default function NaganoBesshoWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-nagano-shibu-onsen-nine-sotoyu-stay"
+              href="/winter-nagano-shibu-onsen-nine-sotoyu-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">渋温泉・九湯めぐり</span>
@@ -607,7 +607,7 @@ export default function NaganoBesshoWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay"
+              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-rose-500/40 text-rose-200 font-bold text-[10px]">伊香保・石段街の黄金の湯</span>
@@ -616,7 +616,7 @@ export default function NaganoBesshoWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay"
+              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">河口湖・富士山絶景露天</span>

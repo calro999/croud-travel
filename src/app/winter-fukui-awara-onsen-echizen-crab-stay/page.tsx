@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'あわら温泉で過ごす冬の旅（11・12月）！庭園露天風呂と黄色いタグ付き越前蟹！名宿5選',
     description: '11月6日の越前がに解禁で歓喜に沸く福井の名湯「あわら温泉」。明治の開湯以来、各宿が独自源泉を所有する贅沢な湯巡りと、三國港直送の黄色タグ付き越前がにフルコース、極上若狭牛を堪能。庭園露天風呂が彩る初冬の極上温泉宿5選を徹底解説。',
-    url: 'https://croud-travel.pages.dev/winter-fukui-awara-onsen-echizen-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukui-awara-onsen-echizen-crab-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -88,7 +88,7 @@ export default function AwaraWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-fukui-awara-onsen-echizen-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-fukui-awara-onsen-echizen-crab-stay/"
         }
       },
       {
@@ -312,7 +312,7 @@ export default function AwaraWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月あわら温泉】庭園露天風呂と黄色いタグ付き越前蟹！名宿5選","item":"https://croud-travel.pages.dev/winter-fukui-awara-onsen-echizen-crab-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月あわら温泉】庭園露天風呂と黄色いタグ付き越前蟹！名宿5選","item":"https://croud-travel.pages.dev/winter-fukui-awara-onsen-echizen-crab-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -690,42 +690,42 @@ export default function AwaraWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-kanazawa-kenrokuen-yukizuri-stay"
+              href="/winter-kanazawa-kenrokuen-yukizuri-stay/"
               className="bg-amber-900/80 hover:bg-amber-900 p-4 rounded-2xl transition border border-amber-800/50 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">石川・金沢</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">金沢 兼六園の雪吊りと加能ガニ会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-ishikawa-kaga-yamashiro-kano-crab-stay"
+              href="/winter-ishikawa-kaga-yamashiro-kano-crab-stay/"
               className="bg-amber-900/80 hover:bg-amber-900 p-4 rounded-2xl transition border border-amber-800/50 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">石川・加賀山代</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">加賀山代温泉 魯山人ゆかりの名湯と極上カニ尽くしの宿</h3>
             </Link>
             <Link 
-              href="/winter-toyama-unazuki-onsen-kurobe-snow-stay"
+              href="/winter-toyama-unazuki-onsen-kurobe-snow-stay/"
               className="bg-amber-900/80 hover:bg-amber-900 p-4 rounded-2xl transition border border-amber-800/50 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">富山・宇奈月</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">宇奈月温泉 黒部峡谷雪景色と富山湾寒ブリ・紅ズワイガニの宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"
               className="bg-amber-900/80 hover:bg-amber-900 p-4 rounded-2xl transition border border-amber-800/50 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">兵庫・城崎</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">城崎温泉 七つの外湯巡りと本場松葉ガニ会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-kyoto-amanohashidate-matsuba-crab-stay"
+              href="/winter-kyoto-amanohashidate-matsuba-crab-stay/"
               className="bg-amber-900/80 hover:bg-amber-900 p-4 rounded-2xl transition border border-amber-800/50 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">京都・天橋立</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">天橋立 日本三景の冬景色と幻の間人ガニ・松葉ガニの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-amber-900/80 hover:bg-amber-900 p-4 rounded-2xl transition border border-amber-800/50 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">特集一覧</span>

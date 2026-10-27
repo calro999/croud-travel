@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり：屋上展望足湯・富士ビュー露天風呂・甲州牛懐石！新宿特急直通の絶景リトリート厳選3宿',
     description: '世界遺産富士山と河口湖の壮大なパノラマを望む富士五湖屈指の温泉地・富士河口湖温泉！屋上足湯や展望露天風呂から富士山を仰ぐ口コミ★4.7超の名門「湖南荘」、河口湖を見晴らすモダンリゾート「湖のホテル」、富士山と湖を望む数寄屋造りの名宿「若草の宿 丸栄」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/yamanashi-fujikawaguchiko-solo-retreat-fujiview-onsen-stay',
+    url: 'https://croud-travel.pages.dev/yamanashi-fujikawaguchiko-solo-retreat-fujiview-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/yamanashi-fujikawaguchiko-solo-retreat-fujiview-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/yamanashi-fujikawaguchiko-solo-retreat-fujiview-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり】屋上展望足湯・富士ビュー露天風呂・甲州牛懐石！新宿特急直通の絶景リトリート厳選3宿","item":"https://croud-travel.pages.dev/yamanashi-fujikawaguchiko-solo-retreat-fujiview-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【富士山麓・富士河口湖温泉ひとり旅・富士絶景おこもり】屋上展望足湯・富士ビュー露天風呂・甲州牛懐石！新宿特急直通の絶景リトリート厳選3宿","item":"https://croud-travel.pages.dev/yamanashi-fujikawaguchiko-solo-retreat-fujiview-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

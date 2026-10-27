@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '磐梯熱海温泉で過ごす冬の旅（11・12月）！萩姫伝説の美人の湯！名宿5選',
     description: '南北朝時代の萩姫伝説が息づく郡山の奥座敷「磐梯熱海温泉」。pH9を超えるアルカリ性単純泉と。',
-    url: 'https://croud-travel.pages.dev/winter-fukushima-bandai-atami-onsen-bihada-swan-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukushima-bandai-atami-onsen-bihada-swan-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -89,7 +89,7 @@ export default function BandaiAtamiWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-fukushima-bandai-atami-onsen-bihada-swan-stay"
+          "@id": "https://croud-travel.pages.dev/winter-fukushima-bandai-atami-onsen-bihada-swan-stay/"
         }
       },
       {
@@ -313,7 +313,7 @@ export default function BandaiAtamiWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月磐梯熱海温泉】萩姫伝説の美人の湯！名宿5選","item":"https://croud-travel.pages.dev/winter-fukushima-bandai-atami-onsen-bihada-swan-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月磐梯熱海温泉】萩姫伝説の美人の湯！名宿5選","item":"https://croud-travel.pages.dev/winter-fukushima-bandai-atami-onsen-bihada-swan-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -681,42 +681,42 @@ export default function BandaiAtamiWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay"
+              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">福島・会津東山</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">会津東山温泉 歴史ある渓流雪見露天と会津郷土料理の宿</h3>
             </Link>
             <Link 
-              href="/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay"
+              href="/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">山形・天童</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">天童温泉 将棋の里の雪見露天と11月旬ラ・フランス＆山形牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay"
+              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">宮城・秋保</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">秋保温泉 名取川渓谷美とA5仙台牛・名物せり鍋の宿</h3>
             </Link>
             <Link 
-              href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay"
+              href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">栃木・那須</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">那須温泉 鹿の湯白濁雪見露天ととちぎ和牛ステーキの宿</h3>
             </Link>
             <Link 
-              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay"
+              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">栃木・鬼怒川</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">鬼怒川温泉 鬼怒川渓谷の雪景色と極上湯浴みの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>

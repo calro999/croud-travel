@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月茨城：大洗磯前神社「神磯の鳥居」初！名宿5選',
     description: '11月から1月、茨城県大洗・那珂湊は、太平洋の荒波打つ岩礁に立つ大洗磯前神社「神磯の鳥居」の初日の出と。',
-    url: 'https://croud-travel.pages.dev/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay',
+    url: 'https://croud-travel.pages.dev/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '茨城・大洗初日の出＆あんこう鍋特集',
-        item: 'https://croud-travel.pages.dev/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay'
+        item: 'https://croud-travel.pages.dev/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay/'
       }
     ]
   };
@@ -598,7 +598,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link 
-              href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay"
+              href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -615,7 +615,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay"
+              href="/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -632,7 +632,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-okayama-hinase-ushimado-oyster-kakioko-stay"
+              href="/winter-okayama-hinase-ushimado-oyster-kakioko-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -649,7 +649,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay"
+              href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -666,7 +666,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay"
+              href="/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -683,7 +683,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay"
+              href="/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>

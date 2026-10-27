@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '新宿出張・大浴場スパステイ：高層ビル夜景・都心展望スパ・新宿御苑！世界最大のターミナルを制する厳選3宿',
     description: 'JR・私鉄各線が乗り入れる世界最大の乗降客数を誇る新宿駅！高層ビル街でハイクラスな滞在と快適デスクを誇る「ダイワロイネットホテル西新宿 PREMIER」、新宿御苑前駅すぐで人工温泉大浴殿を完備した「アパホテル〈新宿御苑前〉」、展望プールと露天風呂付き大浴場を備える「アパホテル＆リゾート〈西新宿五丁目駅前タワー〉」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/tokyo-shinjuku-solo-business-onsen-stay',
+    url: 'https://croud-travel.pages.dev/tokyo-shinjuku-solo-business-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/tokyo-shinjuku-solo-business-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/tokyo-shinjuku-solo-business-onsen-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【新宿出張・大浴場スパステイ】高層ビル夜景・都心展望スパ・新宿御苑！世界最大のターミナルを制する厳選3宿","item":"https://croud-travel.pages.dev/tokyo-shinjuku-solo-business-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【新宿出張・大浴場スパステイ】高層ビル夜景・都心展望スパ・新宿御苑！世界最大のターミナルを制する厳選3宿","item":"https://croud-travel.pages.dev/tokyo-shinjuku-solo-business-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

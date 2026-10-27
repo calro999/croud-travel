@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: '日本三大鍾乳石洞窟＆無数の石筍が創る地底宮殿・ジオアドベンチャー名湯宿×ふるさと納税厳選ガイドあぶくま洞・玉泉洞・井倉洞',
     description: '数十万年の滴が創り上げた天然のシャンデリア！福島「あぶくま洞」東洋一の鍾乳石種類と磐梯熱海温泉ホテル華の湯、沖縄南城「玉泉洞」100万本の石筍とサザンビーチホテル＆リゾート沖縄、岡山新見「井倉洞」高さ240m絶壁と地底滝の奇観・新見グランドホテルみよしや。日本三大鍾乳石洞窟の神秘の地底美を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-stalactite-caves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-stalactite-caves-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -393,7 +393,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-limestone-caves-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-limestone-caves-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大鍾乳洞＆地底神秘美・名湯宿×ふるさと納税完全ガイド
               </div>
@@ -402,7 +402,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-subterranean-waterfalls-caves-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-subterranean-waterfalls-caves-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大地底滝鍾乳洞＆地底アドベンチャー宿×ふるさと納税完全ガイド
               </div>
@@ -411,7 +411,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-columnar-joints-gorges-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-columnar-joints-gorges-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大柱状節理峡谷＆絶景名湯宿×ふるさと納税完全ガイド
               </div>

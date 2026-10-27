@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '京都大原・三千院の有清園苔庭紅葉＆寂光院もみじの階段！大原温泉宿×ふるさと納税厳選ガイド京都',
     description: '11月中旬〜11月下旬に見頃を迎える「京都大原・三千院（さんぜんいん）」と「寂光院」。有清園の杉苔とモミジのコントラスト、わらべ地蔵の愛らしい秋景色、名湯・大原温泉の料理宿「芹生」「大原山荘」「大原の里」で名物味噌鍋や地鶏鍋・京野菜懐石を堪能。楽天ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-ohara-sanzenin-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-ohara-sanzenin-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">京都大原・三千院名園紅葉＆大原温泉古民家宿特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

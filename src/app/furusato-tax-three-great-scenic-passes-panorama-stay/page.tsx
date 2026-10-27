@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '日本三大峠＆雲海パノラマ・歴史街道の難所と高原温泉宿×ふるさと納税厳選ガイド碓氷峠・箱根峠・天城峠',
     description: '山脈を越える風と絶景パノラマを体感する日本の名峠ドライブ！長野・群馬「碓氷峠」めがね橋の煉瓦アーチと旧軽井沢ホテル音羽ノ森、神奈川・静岡「箱根峠」東海道随一の天下の険・芦ノ湖富士山ビュー龍宮殿、静岡伊豆「天城峠」川端康成伊豆の踊子の天城隧道と伊豆長岡温泉ホテル天坊。四季折々の峠道ドライブと高原フレンチ、名湯露天風呂を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-scenic-passes-panorama-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-scenic-passes-panorama-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -419,7 +419,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-scenic-drives-highland-resort-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-scenic-drives-highland-resort-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本百名道＆高原パノラマドライブ名宿×ふるさと納税完全ガイド
               </div>
@@ -427,7 +427,7 @@ export default function Page() {
                 ビーナスライン・志賀草津・伊吹山。
               </p>
             </Link>
-            <Link href="/furusato-tax-three-great-cable-cars-ropeway-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-cable-cars-ropeway-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大山岳ロープウェイ＆雲上パノラマ名宿×ふるさと納税完全ガイド
               </div>
@@ -435,7 +435,7 @@ export default function Page() {
                 千畳敷・立山・箱根駒ヶ岳。
               </p>
             </Link>
-            <Link href="/furusato-tax-three-great-gorges-scenery-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-gorges-scenery-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大名峡＆奇岩絶壁の峡谷リゾート×ふるさと納税完全ガイド
               </div>

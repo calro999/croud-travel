@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11月6日漁解禁！本場の初物松葉ガニ・越前ガニ尽くし名門温泉旅館×ふるさと納税厳選ガイド城崎・越前海岸',
     description: '毎年11月6日に待ちに待った漁が解禁！日本海の冬の王様「松葉ガニ（山陰）」＆「越前ガニ（福井）」をタグ付き本場で味わい尽くす！カニ刺し・焼きガニ・甲羅みそ焼き・カニすき鍋と名湯七湯めぐりを誇る城崎温泉「西村屋ホテル招月庭」「かに庵」、越前海岸の絶景貸切風呂「さかな遊びの宿 やまちょう」。楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-matsuba-echizen-crab-season-opening-onsen-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-matsuba-echizen-crab-season-opening-onsen-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -55,7 +55,7 @@ export default function FurusatoMatsubaEchizenCrabSeasonStayPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">松葉ガニ・越前ガニ解禁名門温泉宿特集</span>
       </nav>
@@ -384,7 +384,7 @@ export default function FurusatoMatsubaEchizenCrabSeasonStayPage() {
 
             <li key="furusato-tax-sotoyu-meguri-historic-onsen-town-stay">
               <Link
-                href="/furusato-tax-sotoyu-meguri-historic-onsen-town-stay"
+                href="/furusato-tax-sotoyu-meguri-historic-onsen-town-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -395,7 +395,7 @@ export default function FurusatoMatsubaEchizenCrabSeasonStayPage() {
 
             <li key="furusato-tax-pure-kakenagashi-secret-hotspring-stay">
               <Link
-                href="/furusato-tax-secret-hotspring-lamp-retreat-stay"
+                href="/furusato-tax-secret-hotspring-lamp-retreat-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -406,7 +406,7 @@ export default function FurusatoMatsubaEchizenCrabSeasonStayPage() {
 
             <li key="furusato-tax-luxury-hotspring-ryokan-stay">
               <Link
-                href="/furusato-tax-luxury-hotspring-ryokan-stay"
+                href="/furusato-tax-luxury-hotspring-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -417,7 +417,7 @@ export default function FurusatoMatsubaEchizenCrabSeasonStayPage() {
 
             <li key="furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay">
               <Link
-                href="/furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay"
+                href="/furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -437,7 +437,7 @@ export default function FurusatoMatsubaEchizenCrabSeasonStayPage() {
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
-            href="/travel-savings-guide"
+            href="/travel-savings-guide/"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 text-stone-950 font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition text-sm"
           >
             🏨 旅行節約総合ハブページを見る ➔

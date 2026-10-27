@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：川沿いに続く桜並木のライトアップ！夜桜鑑賞と春爛漫グルメが自慢の温泉宿5選',
     description: '2026年最新！温泉街の川沿いに咲き誇る満開の桜並木のライトアップや、お花見舟下り体験、春の味覚をふんだんに盛り込んだ桜会席を楽しめる宿5選。',
-    url: 'https://croud-travel.pages.dev/spring-cherry-blossom-illuminated-river-cruise-stay',
+    url: 'https://croud-travel.pages.dev/spring-cherry-blossom-illuminated-river-cruise-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/spring-cherry-blossom-illuminated-river-cruise-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/spring-cherry-blossom-illuminated-river-cruise-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">夜桜ライトアップ×川沿い花見温泉</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             川面に映るピンク色の桜並木と、幻想的な提灯・ライトアップの灯り。温泉街の川沿いを浴衣姿で散策し、湯船からも満開の桜を愛でる贅沢な春の夜。旬の桜鯛や山菜、春野菜を贅沢に使った彩り豊かなお花見会席とともに。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】川沿いに続く桜並木のライトアップ！夜桜鑑賞と春爛漫グルメが自慢の温泉宿5選" url="https://croud-travel.pages.dev/spring-cherry-blossom-illuminated-river-cruise-stay" />
+            <ShareButtons title="【2026年】川沿いに続く桜並木のライトアップ！夜桜鑑賞と春爛漫グルメが自慢の温泉宿5選" url="https://croud-travel.pages.dev/spring-cherry-blossom-illuminated-river-cruise-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】川沿いに続く桜並木のライトアップ！夜桜鑑賞と春爛漫グルメが自慢の温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/spring-cherry-blossom-illuminated-river-cruise-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】川沿いに続く桜並木のライトアップ！夜桜鑑賞と春爛漫グルメが自慢の温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/spring-cherry-blossom-illuminated-river-cruise-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

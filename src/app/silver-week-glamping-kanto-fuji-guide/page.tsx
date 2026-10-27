@@ -169,13 +169,13 @@ export default function SilverWeekGlampingKantoFujiPage() {
           </div>
           <div className="flex flex-wrap items-center gap-2">
             <Link
-              href="/fuji-five-lakes-car-free-bus-guide"
+              href="/fuji-five-lakes-car-free-bus-guide/"
               className="inline-flex items-center text-xs font-bold text-emerald-900 bg-white border border-emerald-300 hover:bg-emerald-600 hover:text-white px-3 py-1.5 rounded-xl shadow-xs transition"
             >
               富士五湖周遊バスモデルコース →
             </Link>
             <Link
-              href="/hakone-autumn-leaves-lightup-hotspring-guide"
+              href="/hakone-autumn-leaves-lightup-hotspring-guide/"
               className="inline-flex items-center text-xs font-bold text-emerald-900 bg-white border border-emerald-300 hover:bg-emerald-600 hover:text-white px-3 py-1.5 rounded-xl shadow-xs transition"
             >
               箱根紅葉ライトアップ温泉ガイド →

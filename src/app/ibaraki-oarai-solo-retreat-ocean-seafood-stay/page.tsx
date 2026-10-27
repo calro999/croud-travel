@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '茨城・大洗ひとり旅・大洗磯前神社神磯鳥居おこもり：太平洋の荒波朝日・冬のアンコウ鍋・常陸牛！水戸駅直通鹿島臨海鉄道の海辺厳選3宿',
     description: '海上の岩礁に立つ神磯の鳥居と豊かな黒潮の幸に恵まれた茨城・大洗！家庭的な温かいもてなしと地魚会席が口コミ★4.7の「旅館・民宿くるみ屋」、格調高い老舗の伝統と美食を誇る「料亭旅館 大洗山口楼」、アンコウ料理と落ち着いた和の風情が評判の「割烹旅館 肴屋本店」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/ibaraki-oarai-solo-retreat-ocean-seafood-stay',
+    url: 'https://croud-travel.pages.dev/ibaraki-oarai-solo-retreat-ocean-seafood-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/ibaraki-oarai-solo-retreat-ocean-seafood-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/ibaraki-oarai-solo-retreat-ocean-seafood-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【茨城・大洗ひとり旅・大洗磯前神社神磯鳥居おこもり】太平洋の荒波朝日・冬のアンコウ鍋・常陸牛！水戸駅直通鹿島臨海鉄道の海辺厳選3宿","item":"https://croud-travel.pages.dev/ibaraki-oarai-solo-retreat-ocean-seafood-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【茨城・大洗ひとり旅・大洗磯前神社神磯鳥居おこもり】太平洋の荒波朝日・冬のアンコウ鍋・常陸牛！水戸駅直通鹿島臨海鉄道の海辺厳選3宿","item":"https://croud-travel.pages.dev/ibaraki-oarai-solo-retreat-ocean-seafood-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

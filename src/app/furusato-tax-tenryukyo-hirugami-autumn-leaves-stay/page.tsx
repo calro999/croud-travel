@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '南信州・天竜峡の紅葉ライン舟下り＆りんご狩り！昼神温泉美肌の湯×ふるさと納税厳選ガイド長野',
     description: '10月下旬〜11月中旬に天竜川の奇岩大峡谷が深紅と黄金に染まる名勝「南信州・天竜峡」。舟頭の櫂さばきで見上げる天竜ライン舟下りや旬の信州りんご狩り、日本一の星空とpH9.7の強アルカリ美肌温泉「昼神温泉 鶴巻荘」「ユルイの宿 恵山」「癒楽の宿 清風苑」で信州牛ステーキや炉端会席を堪能。ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-tenryukyo-hirugami-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-tenryukyo-hirugami-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -102,7 +102,7 @@ export default function FeatureArticlePage() {
       <nav className="max-w-6xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-600 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:underline text-stone-500">トップ</Link>
         <span>&gt;</span>
-        <Link href="/autumn-leaves" className="hover:underline text-stone-500">秋・紅葉特集</Link>
+        <Link href="/autumn-leaves/" className="hover:underline text-stone-500">秋・紅葉特集</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-medium">長野・南信州 / 天竜峡紅葉ライン舟下り＆りんご狩り・昼神温泉美肌の湯</span>
       </nav>
@@ -391,27 +391,27 @@ export default function FeatureArticlePage() {
             <h4 className="font-bold text-stone-900 text-xs mb-3">🍂 関連する秋の特集</h4>
             <ul className="space-y-2 text-xs text-stone-600">
               <li>
-                <Link href="/furusato-tax-kinugawa-ryuokyo-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-kinugawa-ryuokyo-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・栃木・鬼怒川温泉＆龍王峡紅葉
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-yamadera-tendo-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-yamadera-tendo-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・山形・山寺立石寺＆天童温泉
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-sumatakyo-yumenotsuribashi-autumn-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-sumatakyo-yumenotsuribashi-autumn-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・静岡・寸又峡夢の吊橋＆美女づくりの湯
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-koyasan-autumn-leaves-shukubo-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-koyasan-autumn-leaves-shukubo-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・和歌山・高野山壇上伽藍＆宿坊精進料理
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-takeo-mifuneyama-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-takeo-mifuneyama-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・佐賀・御船山楽園＆武雄温泉
                 </Link>
               </li>

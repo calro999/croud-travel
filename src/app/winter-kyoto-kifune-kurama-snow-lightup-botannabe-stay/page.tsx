@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月京都：白銀の貴船神社！名宿5選',
     description: '11月から1月、京都市街地の喧騒から離れた京都洛北の奥座敷「貴船・鞍馬」は、凛とした冬の澄んだ空気と幽玄の白銀世界に包まれます。',
-    url: 'https://croud-travel.pages.dev/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay',
+    url: 'https://croud-travel.pages.dev/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -69,7 +69,7 @@ export default function KyotoKifuneKuramaPage() {
             "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay"
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay/"
       },
       {
         "@type": "BreadcrumbList",
@@ -85,13 +85,13 @@ export default function KyotoKifuneKuramaPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "京都・貴船鞍馬の冬ライトアップとぼたん鍋特集",
-            "item": "https://croud-travel.pages.dev/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay"
+            "item": "https://croud-travel.pages.dev/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay/"
           }
         ]
       },
@@ -569,21 +569,21 @@ export default function KyotoKifuneKuramaPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-kyoto-arashiyama-onsen-yudofu-stay" 
+              href="/winter-kyoto-arashiyama-onsen-yudofu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-rose-700 font-bold block text-[10px]">京都・嵐山温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">渡月橋と竹林の小径の冬景色・名物湯豆腐と京都牛会席を味わう温泉旅館</p>
             </Link>
             <Link 
-              href="/winter-kyoto-amanohashidate-matsuba-crab-stay" 
+              href="/winter-kyoto-amanohashidate-matsuba-crab-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-rose-700 font-bold block text-[10px]">京都・天橋立</span>
               <p className="font-bold text-stone-800 line-clamp-2">日本三景天橋立の冬絶景と幻の間人ガニ・最高峰松葉ガニづくしの名宿</p>
             </Link>
             <Link 
-              href="/winter-shiga-ogoto-onsen-biwako-omigyu-stay" 
+              href="/winter-shiga-ogoto-onsen-biwako-omigyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-rose-700 font-bold block text-[10px]">滋賀・おごと温泉</span>

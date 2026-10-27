@@ -401,7 +401,7 @@ export default function ChristmasDateOnsenDinnerTripGuidePage() {
 
         <div className="grid sm:grid-cols-1 gap-4">
           <Link
-            href="/tokyo-nagano-karuizawa-bus-vs-shinkansen"
+            href="/tokyo-nagano-karuizawa-bus-vs-shinkansen/"
             className="group block p-5 rounded-2xl border-2 border-indigo-100 hover:border-indigo-400 bg-indigo-50/40 hover:bg-indigo-50 transition-all duration-200"
           >
             <div className="flex items-center justify-between gap-2 mb-1">

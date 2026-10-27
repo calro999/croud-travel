@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '甲府・湯村温泉ひとり旅・信玄隠し湯おこもり：自家源泉かけ流し・太宰治ゆかりの文学宿・甲州ワイン＆ほうとう！都心特急90分の古湯厳選3宿',
     description: '武田信玄の隠し湯として名高い甲府・湯村温泉！湯守の手入れが行き届いた極上かけ流し湯と家庭的な温もりが自慢の「弘法湯」、巨石露天風呂と甲州の郷土料理を静かに堪能できる「湯志摩の郷 楽水園」、自家源泉100%かけ流しとビジネス・ワーケーションにも最適な「湯村ホテル」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/yamanashi-yumura-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/yamanashi-yumura-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/yamanashi-yumura-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/yamanashi-yumura-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【甲府・湯村温泉ひとり旅・信玄隠し湯おこもり】自家源泉かけ流し・太宰治ゆかりの文学宿・甲州ワイン＆ほうとう！都心特急90分の古湯厳選3宿","item":"https://croud-travel.pages.dev/yamanashi-yumura-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【甲府・湯村温泉ひとり旅・信玄隠し湯おこもり】自家源泉かけ流し・太宰治ゆかりの文学宿・甲州ワイン＆ほうとう！都心特急90分の古湯厳選3宿","item":"https://croud-travel.pages.dev/yamanashi-yumura-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

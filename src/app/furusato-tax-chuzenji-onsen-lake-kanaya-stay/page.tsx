@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '中禅寺湖温泉をふるさと納税でお得に旅する！白濁硫黄露天風呂＆湖畔絶景クラシックリゾート！名宿特集｜中禅寺金谷ホテル・ホテル花庵・旅籠なごみ',
     description: '男体山の麓・日本一標高の高い湖畔温泉・栃木県日光中禅寺湖温泉を楽天ふるさと納税でお得に満喫！森と湖に抱かれるクラシック名門「中禅寺金谷ホテル」、全室レイクビューと二つの美肌の湯「ホテル花庵」、源泉掛け流しと地酒を味わう「旅籠なごみ」を徹底比較。日光市トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-chuzenji-onsen-lake-kanaya-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-chuzenji-onsen-lake-kanaya-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T17:15:00+09:00',
     dateModified: '2026-10-19T17:15:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-chuzenji-onsen-lake-kanaya-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-chuzenji-onsen-lake-kanaya-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【中禅寺湖温泉×ふるさと納税】白濁硫黄露天風呂＆湖畔絶景クラシックリゾート！名宿特集｜中禅寺金谷ホテル・ホテル花庵・旅籠なごみ","item":"https://croud-travel.pages.dev/furusato-tax-chuzenji-onsen-lake-kanaya-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【中禅寺湖温泉×ふるさと納税】白濁硫黄露天風呂＆湖畔絶景クラシックリゾート！名宿特集｜中禅寺金谷ホテル・ホテル花庵・旅籠なごみ","item":"https://croud-travel.pages.dev/furusato-tax-chuzenji-onsen-lake-kanaya-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【中禅寺湖温泉×ふるさと納税】白濁硫黄露天風呂＆湖畔絶景クラシックリゾート！名宿特集｜中禅寺金谷ホテル・ホテル花庵・旅籠なごみ</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-toya-onsen-lake-view-fireworks-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-toya-onsen-lake-view-fireworks-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 洞爺湖温泉 全室レイクビュー＆ロングラン花火特集
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-beppu-onsen-suginoi-jigoku-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-beppu-onsen-suginoi-jigoku-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 別府温泉 湧出量日本一・棚湯＆絶景リゾート特集
               </Link>
             </li>

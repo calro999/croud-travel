@@ -214,7 +214,7 @@ export default function Page() {
                 TOP
               </Link>
               <ChevronRight className="w-3 h-3 text-cyan-400" />
-              <Link href="/features" className="text-cyan-200 hover:text-white transition-colors">
+              <Link href="/features/" className="text-cyan-200 hover:text-white transition-colors">
                 冬の厳選特集
               </Link>
               <ChevronRight className="w-3 h-3 text-cyan-400" />
@@ -775,37 +775,37 @@ export default function Page() {
                 </Link>
               </li>
               <li>
-                <Link href="/features" className="hover:underline flex items-center gap-1">
+                <Link href="/features/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>全国の季節・目的別旅行特集一覧</span>
                 </Link>
               </li>
               <li>
-                <Link href="/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay" className="hover:underline flex items-center gap-1">
+                <Link href="/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>【香川】金刀比羅宮新春初詣と讃岐うどん・オリーブ牛名宿5選</span>
                 </Link>
               </li>
               <li>
-                <Link href="/winter-tokushima-city-oasashiko-shrine-hatsumode-awaodori-awagyu-stay" className="hover:underline flex items-center gap-1">
+                <Link href="/winter-tokushima-city-oasashiko-shrine-hatsumode-awaodori-awagyu-stay/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>【徳島】大麻比古神社新春初詣と阿波尾鶏・阿波牛名宿5選</span>
                 </Link>
               </li>
               <li>
-                <Link href="/kagawa-kotohira-konpira-shrine-sanuki-udon-stay" className="hover:underline flex items-center gap-1">
+                <Link href="/kagawa-kotohira-konpira-shrine-sanuki-udon-stay/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>【香川】こんぴらさん参拝と讃岐うどん巡りおすすめ宿</span>
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="hover:underline flex items-center gap-1">
+                <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>実質2,000円で泊まる名湯・高級温泉旅館ガイド</span>
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-local-gourmet-inn-stay" className="hover:underline flex items-center gap-1">
+                <Link href="/furusato-tax-local-gourmet-inn-stay/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>ご当地グルメを堪能する全国美食旅特集</span>
                 </Link>

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の高野山：壇上伽藍の蛇腹道紅葉トンネルと奥の院！心洗われるおすすめ歴史宿坊5選「2026最新」',
     description: '標高800mの聖地・高野山は10月下旬から鮮やかな紅葉のピークへ！心洗われるおすすめ歴史宿坊5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-wakayama-koyasan-danjo-garan-shukubo-momiji-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-wakayama-koyasan-danjo-garan-shukubo-momiji-hotels-stay/',
   }
 };
 

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月鹿児島市：本場黒豚しゃぶしゃぶと錦江湾寒ブリ！名宿5選',
     description: '冬の南九州・鹿児島は澄み切った青空が広がり、錦江湾に浮かぶ雄大な桜島が年間で最も美しくクリアに望める絶景シーズン。',
-    url: 'https://croud-travel.pages.dev/winter-kagoshima-city-sakurajima-view-kurobuta-kanburi-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-kagoshima-city-sakurajima-view-kurobuta-kanburi-onsen-stay/',
     type: 'article'
   }
 };
@@ -159,13 +159,13 @@ export default function KagoshimaCityWinterFeaturePage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "【11・12・1月鹿児島市】冬の桜島絶景＆照国神社新春初詣！本場黒豚しゃぶしゃぶと錦江湾寒ブリ・展望温泉名宿5選",
-            "item": 'https://croud-travel.pages.dev/winter-kagoshima-city-sakurajima-view-kurobuta-kanburi-onsen-stay'
+            "item": 'https://croud-travel.pages.dev/winter-kagoshima-city-sakurajima-view-kurobuta-kanburi-onsen-stay/'
           }
         ]
       },
@@ -268,7 +268,7 @@ export default function KagoshimaCityWinterFeaturePage() {
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-rose-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-rose-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-rose-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">冬の鹿児島市・桜島絶景特集</li>
         </ol>
@@ -564,42 +564,42 @@ export default function KagoshimaCityWinterFeaturePage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay" 
+              href="/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-rose-700 mb-1">指宿温泉の天然砂むし風呂</div>
               <div className="text-slate-500 text-xs">薩摩富士開聞岳と錦江湾波打ち際・黒豚しゃぶしゃぶ名宿</div>
             </Link>
             <Link 
-              href="/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay" 
+              href="/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-rose-700 mb-1">霧島神宮新春初詣＆霧島温泉郷</div>
               <div className="text-slate-500 text-xs">国宝霧島神宮と硫黄の濁り湯露天・坂本龍馬ゆかりの冬湯治</div>
             </Link>
             <Link 
-              href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay" 
+              href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-rose-700 mb-1">宮崎・青島温泉リゾートと初詣</div>
               <div className="text-slate-500 text-xs">鬼の洗濯板と青島神社・冬の伊勢海老＆宮崎牛贅沢会席</div>
             </Link>
             <Link 
-              href="/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay" 
+              href="/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-rose-700 mb-1">世界遺産宗像大社初詣＆鐘崎とらふぐ</div>
               <div className="text-slate-500 text-xs">日本神話の三女神と玄界灘冬絶景・極上宗像牛の名宿</div>
             </Link>
             <Link 
-              href="/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay" 
+              href="/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-rose-700 mb-1">阿蘇内牧温泉のカルデラ冬絶景</div>
               <div className="text-slate-500 text-xs">阿蘇山パウダースノーとあか牛丼・広大なカルデラの名湯</div>
             </Link>
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-rose-900 text-white hover:bg-rose-950 transition-all block flex flex-col justify-center items-center text-center font-bold"
             >
               <span>全国の冬特集一覧を見る →</span>

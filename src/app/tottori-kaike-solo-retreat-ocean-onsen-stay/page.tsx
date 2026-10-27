@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '皆生温泉ひとり旅・日本海オーシャンおこもり：弓ヶ浜パノラマ・美肌塩化物泉・境港松葉ガニ！「米子の奥座敷」で癒やされる厳選3宿',
     description: '山陰屈指の海辺の温泉郷・皆生！海に浮かぶような絶景露天風呂と最高峰の会席が評判の「皆生松月」、日本海一望の客室と海鮮会席が自慢の「皆生菊乃家」、全室オーシャンビュー＆展望風呂付き客室の「湯喜望 白扇」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/tottori-kaike-solo-retreat-ocean-onsen-stay',
+    url: 'https://croud-travel.pages.dev/tottori-kaike-solo-retreat-ocean-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/tottori-kaike-solo-retreat-ocean-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/tottori-kaike-solo-retreat-ocean-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【皆生温泉ひとり旅・日本海オーシャンおこもり】弓ヶ浜パノラマ・美肌塩化物泉・境港松葉ガニ！「米子の奥座敷」で癒やされる厳選3宿","item":"https://croud-travel.pages.dev/tottori-kaike-solo-retreat-ocean-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【皆生温泉ひとり旅・日本海オーシャンおこもり】弓ヶ浜パノラマ・美肌塩化物泉・境港松葉ガニ！「米子の奥座敷」で癒やされる厳選3宿","item":"https://croud-travel.pages.dev/tottori-kaike-solo-retreat-ocean-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "解禁！冬の贅沢あんこう鍋＆どぶ汁で過ごす冬の旅（11月）！濃厚あん肝と五浦・大洗の太平洋絶景温泉宿5選",
     description: "11月から本格シーズンを迎える茨城の冬の風物詩「あんこう鍋（どぶ汁）」！濃厚なあん肝をたっぷり溶かした特製味噌出汁で味わうコラーゲンたっぷりの身と、太平洋を一望するパノラマ展望露天風呂を満喫する冬旅。",
-    url: 'https://croud-travel.pages.dev/winter-ibaraki-ankou-nabe-hotspring-stay',
+    url: 'https://croud-travel.pages.dev/winter-ibaraki-ankou-nabe-hotspring-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -59,7 +59,7 @@ export default function FeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-ibaraki-ankou-nabe-hotspring-stay"
+      "@id": "https://croud-travel.pages.dev/winter-ibaraki-ankou-nabe-hotspring-stay/"
     }
   };
 
@@ -143,7 +143,7 @@ export default function FeaturePage() {
       <nav className="max-w-5xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-500 flex items-center gap-1.5 overflow-x-auto">
         <Link href="/" className="hover:text-amber-600 transition-colors shrink-0">ホーム</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <Link href="/features" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <span className="text-stone-800 font-medium truncate">【11月解禁！冬の贅沢あんこう鍋＆どぶ汁】濃厚あん肝と五浦・大洗の太平洋絶景温泉宿5選</span>
       </nav>
@@ -155,7 +155,7 @@ export default function FeaturePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11月解禁！冬の贅沢あんこう鍋＆どぶ汁】濃厚あん肝と五浦・大洗の太平洋絶景温泉宿5選","item":"https://croud-travel.pages.dev/winter-ibaraki-ankou-nabe-hotspring-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11月解禁！冬の贅沢あんこう鍋＆どぶ汁】濃厚あん肝と五浦・大洗の太平洋絶景温泉宿5選","item":"https://croud-travel.pages.dev/winter-ibaraki-ankou-nabe-hotspring-stay/"}]}) }}
       />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
@@ -357,7 +357,7 @@ export default function FeaturePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <Link
-              href="/furusato-tax-luxury-buffet-gourmet-resort-stay"
+              href="/furusato-tax-luxury-buffet-gourmet-resort-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -373,7 +373,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/traditional-nagasaki-champon-gourmet-stay"
+              href="/traditional-nagasaki-champon-gourmet-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -389,7 +389,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-kochi-shimanto-ashizuri-autumn-stay"
+              href="/furusato-tax-kochi-shimanto-ashizuri-autumn-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -405,7 +405,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-izumo-kamiarizuki-tamatsukuri-stay"
+              href="/furusato-tax-izumo-kamiarizuki-tamatsukuri-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -457,7 +457,7 @@ export default function FeaturePage() {
           <h3 className="text-lg font-bold text-stone-800 mb-3">他の特集記事もチェック</h3>
           <p className="text-sm text-stone-500 mb-6">全国各地の魅力あふれるテーマ別おすすめ宿泊施設をご紹介しています</p>
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 px-8 py-3.5 rounded-xl bg-stone-800 hover:bg-stone-900 text-white font-bold text-sm shadow-sm transition-colors"
           >
             <span>特集一覧ページへ戻る</span>
@@ -515,7 +515,7 @@ export default function FeaturePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <Link
-              href="/miyagi-naruko-solo-retreat-onsen-stay"
+              href="/miyagi-naruko-solo-retreat-onsen-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -531,7 +531,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-luxury-glamping-bbq-dome-stay"
+              href="/furusato-tax-luxury-glamping-bbq-dome-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -547,7 +547,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/geothermal-hell-steamed-cuisine-onsen-stay"
+              href="/geothermal-hell-steamed-cuisine-onsen-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -563,7 +563,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-shirahone-kamikochi-autumn-leaves-stay"
+              href="/furusato-tax-shirahone-kamikochi-autumn-leaves-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>

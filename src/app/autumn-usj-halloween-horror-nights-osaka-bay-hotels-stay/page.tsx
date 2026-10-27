@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: "秋のユニバーサル・スタジオ・ジャパン（USJ）が究極の熱狂と興奮に包まれる「ハロウィーン・イベント」。日中は「ハハハ！ ハロウィーン・パーティ」でDJピカチュウやゲンガー、ミニオンたちと全身全霊で踊り狂い、夜はパークが一変して恐怖の底に突き落とされる「ハロウィーン・ホラー・ナイト」が開幕！大量の凶悪ゾンビが徘徊する「ストリート・ゾンビ」や、Adoの楽曲に合わせてゾンビと群衆が狂乱する「ゾンビ・デ・ダンス」、恐怖のホラー・メイズ＆バイオハザード体験。パーク徒歩数分の感動立地を誇るオフィシャルホテル＆展望天然温泉付き厳選名宿5選を徹底特集。",
   keywords: 'USJ ハロウィン, ハロウィーンホラーナイト 2026, ストリートゾンビ, ゾンビデダンス Ado, ザ パーク フロント ホテル, ホテル近鉄ユニバーサルシティ, ホテル京阪 ユニバーサルタワー, リーベルホテル大阪, USJ ホテル オフィシャル',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay'
+    canonical: 'https://croud-travel.pages.dev/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay/'
   },
   openGraph: {
     title: "秋のUSJハロウィーン2026：絶叫の「ハロウィーン・ホラー・ナイト」＆ストリート・ゾンビ！昼はポケモン・夜はゾンビデダンス＆パーク直結オフィシャル厳選名宿5選",
     description: "秋のユニバーサル・スタジオ・ジャパン（USJ）が究極の熱狂と興奮に包まれる「ハロウィーン・イベント」。日中は「ハハハ！ ハロウィーン・パーティ」でDJピカチュウやゲンガー、ミニオンたちと全身全霊で踊り狂い、夜はパークが一変して恐怖の底に突き落とされる「ハロウィーン・ホラー・ナイト」が開幕！大量の凶悪ゾンビが徘徊する「ストリート・ゾンビ」や、Adoの楽曲に合わせてゾンビと群衆が狂乱する「ゾンビ・デ・ダンス」、恐怖のホラー・メイズ＆バイオハザード体験。パーク徒歩数分の感動立地を誇るオフィシャルホテル＆展望天然温泉付き厳選名宿5選を徹底特集。",
-    url: 'https://croud-travel.pages.dev/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay/',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -57,7 +57,7 @@ export default function UsjHalloweenFeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay"
+      "@id": "https://croud-travel.pages.dev/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay/"
     }
   };
 
@@ -75,13 +75,13 @@ export default function UsjHalloweenFeaturePage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "USJハロウィーン・ホラー・ナイト特集",
-        "item": "https://croud-travel.pages.dev/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay"
+        "item": "https://croud-travel.pages.dev/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay/"
       }
     ]
   };
@@ -254,7 +254,7 @@ export default function UsjHalloweenFeaturePage() {
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-rose-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-rose-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-rose-600 transition">特集一覧</Link>
             <span>/</span>
             <Link href="/prefectures/osaka/" className="hover:text-rose-600 transition">大阪府</Link>
             <span>/</span>
@@ -579,13 +579,13 @@ export default function UsjHalloweenFeaturePage() {
               叫んで、踊って、笑って、日常のすべてを吹き飛ばす秋のエンターテインメント。熱狂のあとはパーク直結ホテルや展望温泉で贅沢に寛ぎ、忘れられないハロウィーンの夜を刻みましょう。
             </p>
             <div className="flex flex-wrap items-center justify-center gap-3 text-xs">
-              <Link href="/features" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
+              <Link href="/features/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 ← 特集一覧に戻る
               </Link>
               <Link href="/prefectures/osaka/" className="px-4 py-2 rounded-full bg-rose-50 hover:bg-rose-100 text-rose-700 font-semibold transition">
                 大阪府の旅行ガイド・ホテル一覧
               </Link>
-              <Link href="/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay" className="px-4 py-2 rounded-full bg-orange-50 hover:bg-orange-100 text-orange-700 font-semibold transition">
+              <Link href="/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay/" className="px-4 py-2 rounded-full bg-orange-50 hover:bg-orange-100 text-orange-700 font-semibold transition">
                 東京ディズニーリゾート・ハロウィーン特集
               </Link>
               <Link href="/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">

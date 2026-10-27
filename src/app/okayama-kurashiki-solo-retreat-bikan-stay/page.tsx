@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '倉敷美観地区ひとり旅・大浴場おこもり：白壁土蔵の町並み・展望大浴場・大原美術館！江戸情緒とデニムの街に癒やされる厳選3宿',
     description: '岡山駅からJR山陽本線で約17分！美観地区徒歩すぐで最上階大浴場＆ルーフトップラウンジを誇る「ロイヤルパークホテル倉敷」、倉敷駅前で天然温泉大浴場と地元食材朝食が魅力の「ホテル グラン・ココエ倉敷」、駅徒歩すぐで老舗の安心感「倉敷ステーションホテル」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-bikan-stay',
+    url: 'https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-bikan-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-bikan-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-bikan-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【倉敷美観地区ひとり旅・大浴場おこもり】白壁土蔵の町並み・展望大浴場・大原美術館！江戸情緒とデニムの街に癒やされる厳選3宿","item":"https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-bikan-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【倉敷美観地区ひとり旅・大浴場おこもり】白壁土蔵の町並み・展望大浴場・大原美術館！江戸情緒とデニムの街に癒やされる厳選3宿","item":"https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-bikan-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

@@ -15,12 +15,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: '【日本最古の名湯・金湯銀湯を客室露天で独り占め】2026-2027年11-12月初冬の兵庫・有馬温泉！名門・欽山＆中の坊瑞苑・極上神戸牛ステーキと伝統会席・ミシュラン掲載の大人の最高峰高級旅館5選',
     description: '日本三古湯・三名泉の筆頭に君臨する兵庫県・有馬温泉。鉄分と塩分を豊富に含み赤褐色に輝く「金泉」と、炭酸とラドンを含む無色透明の「銀泉」というふたつの奇跡の湯を擁する聖地。ミシュランガイドに掲載され、一流の料亭旅館として名高い「欽山」や、大人の静寂を約束する「中の坊 瑞苑」など、全室スイートや専用露天風呂付き客室で過ごす最高峰の滞在。世界最高峰ブランド「神戸牛」の炭火焼きステーキや伝統会席を堪能する極上名宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay/',
     type: 'article',
     siteName: 'クラウドトラベル',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay/',
   },
 };
 
@@ -46,13 +46,13 @@ export default function LuxuryWinterFeaturePage() {
                   "@type": "ListItem",
                   "position": 2,
                   "name": "特集一覧",
-                  "item": "https://croud-travel.pages.dev/features"
+                  "item": "https://croud-travel.pages.dev/features/"
                 },
                 {
                   "@type": "ListItem",
                   "position": 3,
                   "name": "【日本最古の名湯・金湯銀湯を客室露天で独り占め】2026-2027年11-12月初冬の兵庫・有馬温泉！名門・欽山＆中の坊瑞苑・極上神戸牛ステーキと伝統会席・ミシュラン掲載の大人の最高峰高級旅館5選",
-                  "item": "https://croud-travel.pages.dev/winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay"
+                  "item": "https://croud-travel.pages.dev/winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay/"
                 }
               ]
             },
@@ -95,7 +95,7 @@ export default function LuxuryWinterFeaturePage() {
         <div className="max-w-5xl mx-auto flex items-center gap-1.5 flex-wrap">
           <Link href="/" className="hover:text-slate-800 transition">ホーム</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
-          <Link href="/features" className="hover:text-slate-800 transition">特集一覧</Link>
+          <Link href="/features/" className="hover:text-slate-800 transition">特集一覧</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
           <span className="text-slate-800 font-medium truncate max-w-xs">【日本最古の名湯・金湯銀湯を客室露天で独り占め】2026-2027年11-12月初冬の兵庫・有馬温泉！名門・欽山＆中の坊瑞苑・極上神戸牛ステーキと伝統会席・ミシュラン掲載の大人の最高峰高級旅館5選</span>
         </div>

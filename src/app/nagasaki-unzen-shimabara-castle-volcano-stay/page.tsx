@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '長崎・雲仙＆島原城：雲仙地獄・名水湧水武家屋敷＆小浜夕日温泉宿 厳選ガイド',
     description: '立ち込める湯けむりと硫黄の香り「雲仙地獄」、日本最初の国立公園に指定された高原リゾート、名水百選の水路が流れる「島原武家屋敷」と五層白亜の「島原城」、伝統名物「具雑煮」、日本一長い足湯と橘湾の夕日を望む小浜温泉を徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/nagasaki-unzen-shimabara-castle-volcano-stay',
+    url: 'https://croud-travel.pages.dev/nagasaki-unzen-shimabara-castle-volcano-stay/',
   },
 };
 

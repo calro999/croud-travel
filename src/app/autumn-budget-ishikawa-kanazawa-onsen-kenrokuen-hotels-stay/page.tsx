@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の金沢×格安：兼六園の雪吊りと秋のカニ解禁！天然温泉付き1泊3,000円〜6,000円台の高コスパホテル5選「2026最新」',
     description: '兼六園の雪吊りと秋のカニ解禁！天然温泉付き1泊3,000円〜6,000円台の金沢コスパ最強ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-budget-ishikawa-kanazawa-onsen-kenrokuen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-ishikawa-kanazawa-onsen-kenrokuen-hotels-stay/',
   }
 };
 

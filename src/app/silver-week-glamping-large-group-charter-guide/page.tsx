@@ -169,13 +169,13 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
           </div>
           <div className="flex flex-wrap items-center gap-2">
             <Link
-              href="/hakone-freepass-break-even-model-route"
+              href="/hakone-freepass-break-even-model-route/"
               className="inline-flex items-center text-xs font-bold text-indigo-900 bg-white border border-indigo-300 hover:bg-indigo-600 hover:text-white px-3.5 py-1.5 rounded-xl shadow-xs transition"
             >
               箱根フリーパス元取れ周遊モデルルート →
             </Link>
             <Link
-              href="/fuji-five-lakes-car-free-bus-guide"
+              href="/fuji-five-lakes-car-free-bus-guide/"
               className="inline-flex items-center text-xs font-bold text-indigo-900 bg-white border border-indigo-300 hover:bg-indigo-600 hover:text-white px-3.5 py-1.5 rounded-xl shadow-xs transition"
             >
               富士五湖・山中湖 観光バス周遊ガイド →

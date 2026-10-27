@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '白馬山麓温泉で過ごす冬の旅（11・12月）！白銀連峰望む露天！名宿5選',
     description: '11月下旬から12月にかけて北アルプスの名峰・白馬連峰が純白の雪を纏い、世界中からスキーヤーや旅人が集う国際山岳リゾート・長野県「白馬村」。',
-    url: 'https://croud-travel.pages.dev/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -89,7 +89,7 @@ export default function HakubaOnsenWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay/"
         }
       },
       {
@@ -313,7 +313,7 @@ export default function HakubaOnsenWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月白馬山麓温泉】白銀連峰望む露天！名宿5選","item":"https://croud-travel.pages.dev/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月白馬山麓温泉】白銀連峰望む露天！名宿5選","item":"https://croud-travel.pages.dev/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -679,42 +679,42 @@ export default function HakubaOnsenWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
+              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">長野・野沢温泉</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">野沢温泉 極上パウダースノーと13の外湯巡り・信州牛郷土膳の宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-shibu-onsen-nine-sotoyu-stay"
+              href="/winter-nagano-shibu-onsen-nine-sotoyu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">長野・渋温泉</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">渋温泉 九つの外湯巡りと石畳街路の初冬情緒あふれる宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-shirahone-onsen-milky-snow-stay"
+              href="/winter-nagano-shirahone-onsen-milky-snow-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">長野・白骨温泉</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">白骨温泉 渓谷に湧く乳白色のにごり湯雪見露天と温泉粥の宿</h3>
             </Link>
             <Link 
-              href="/winter-gifu-okuhida-onsen-yukimi-roten-stay"
+              href="/winter-gifu-okuhida-onsen-yukimi-roten-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">岐阜・奥飛騨温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">奥飛騨温泉郷 北アルプス雪見野天風呂と飛騨牛朴葉味噌ステーキの宿</h3>
             </Link>
             <Link 
-              href="/winter-niigata-echigo-yuzawa-snow-sake-stay"
+              href="/winter-niigata-echigo-yuzawa-snow-sake-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">新潟・越後湯沢温泉</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">越後湯沢温泉 新幹線直結の白銀雪見露天と魚沼コシヒカリの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">特集一覧</span>

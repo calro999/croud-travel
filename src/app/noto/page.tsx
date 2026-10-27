@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "能登旅行 完全計画サポートガイド",
     description: "能登旅行を思い立った瞬間から宿泊予約まで。和倉温泉・白米千枚田・モデルコース・能登丼・絶景温泉宿徹底比較。",
-    url: "https://croud-travel.pages.dev/noto",
+    url: "https://croud-travel.pages.dev/noto/",
     siteName: "旅宿クラウド",
     type: "article",
   },
@@ -497,7 +497,7 @@ export default function NotoGuidePage() {
 
                 <div className="p-4 space-y-2">
                   <div className="flex items-center justify-between text-[9px] font-bold text-emerald-200/60">
-                    <span>{post.prefecture} / {post.area}</span>
+                    <span>{post.prefecture} // {post.area}</span>
                     {post.rating && (
                       <span className="text-amber-400 font-extrabold">
                         ⭐ {post.rating}
@@ -523,7 +523,7 @@ export default function NotoGuidePage() {
                   ✈️ 楽天トラベルで最安値・空室を見る
                 </a>
                 <Link
-                  href={`/posts/${post.id}`}
+                  href={`/posts/${post.id}/`}
                   className="block w-full text-center py-2 text-[11px] font-bold text-white bg-white/10 hover:bg-white/20 rounded-xl transition border border-white/20"
                 >
                   📖 宿泊ルポ記事を読む
@@ -568,7 +568,7 @@ export default function NotoGuidePage() {
         </p>
         <div className="flex flex-wrap justify-center gap-4 pt-2">
           <Link
-            href="/kanazawa"
+            href="/kanazawa/"
             className="px-8 py-3 text-xs font-bold text-white bg-amber-700 hover:bg-amber-600 rounded-xl shadow transition"
           >
             🌸 金沢旅行 完全計画ガイドを見る

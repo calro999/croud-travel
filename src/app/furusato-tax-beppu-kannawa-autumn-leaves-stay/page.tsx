@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '湯けむり立ち上る別府鉄輪温泉＆別府ロープウェイ鶴見岳紅葉！地獄蒸し名宿×ふるさと納税厳選ガイド大分',
     description: '10月中旬〜11月中旬に鶴見岳の紅葉と湯けむりが織りなす「別府鉄輪（かんなわ）温泉」。標高1,375mから別府湾を見下ろす別府ロープウェイの紅葉パノラマ、高温の温泉蒸気で蒸し上げる名物「地獄蒸し料理」、名宿「旅館 みゆき屋」「日本旅館 器」「かんなわ荘」で豊後牛や関アジ・関サバを堪能。ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-beppu-kannawa-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-beppu-kannawa-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">大分・別府鉄輪温泉 湯けむり展望＆名物地獄蒸し温泉宿特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

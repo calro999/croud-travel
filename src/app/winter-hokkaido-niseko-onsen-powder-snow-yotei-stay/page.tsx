@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'ニセコ温泉郷で過ごす冬の旅（11・12月）！道産黒毛和牛！名宿5選',
     description: '11月下旬から12月にかけて北海道・ニセコ山麓は、世界中のスキーヤーや旅人を魅了する超微粒子の初雪「パウダースノー（Japow）」に包まれ。',
-    url: 'https://croud-travel.pages.dev/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -89,7 +89,7 @@ export default function NisekoOnsenWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay/"
         }
       },
       {
@@ -241,7 +241,7 @@ export default function NisekoOnsenWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月ニセコ温泉郷】道産黒毛和牛！名宿5選","item":"https://croud-travel.pages.dev/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月ニセコ温泉郷】道産黒毛和牛！名宿5選","item":"https://croud-travel.pages.dev/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay/"}]}) }}
       />
 
         {/* Section 1: Intro Overview */}
@@ -542,42 +542,42 @@ export default function NisekoOnsenWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-hokkaido-jozankei-onsen-snow-keikoku-stay"
+              href="/winter-hokkaido-jozankei-onsen-snow-keikoku-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">北海道・定山渓温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">札幌の奥座敷・雪見渓谷露天風呂と北海道産食材会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay"
+              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">北海道・登別温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">白銀の地獄谷と多彩な9種の泉質・北海三大ガニ会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay"
+              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">北海道・函館湯の川温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">津軽海峡の漁火を望む海辺露天と函館極上海鮮グルメの宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay"
+              href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">長野・白馬山麓温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">白銀北アルプス絶景露天＆pH11超美肌湯・信州プレミアム牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
+              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">長野・野沢温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">極上パウダースノーと13の外湯めぐり・信州牛すき焼きの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">特集一覧</span>

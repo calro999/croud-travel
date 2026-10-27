@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '鞆の浦温泉で過ごす冬の旅（11・12月）！瀬戸内海初冬の夕暮れと潮待ちの港情緒！名宿5選',
     description: '11月中旬から12月の初冬、瀬戸内海の穏やかな潮風に包まれる広島県福山市・鞆の浦（とものうら）は、一年で最も空気が澄み渡り。',
-    url: 'https://croud-travel.pages.dev/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -57,7 +57,7 @@ export default function HiroshimaTomonouraWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -380,7 +380,7 @@ export default function HiroshimaTomonouraWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月鞆の浦温泉】瀬戸内海初冬の夕暮れと潮待ちの港情緒！名宿5選","item":"https://croud-travel.pages.dev/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月鞆の浦温泉】瀬戸内海初冬の夕暮れと潮待ちの港情緒！名宿5選","item":"https://croud-travel.pages.dev/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay/"}]}) }}
       />
 
         {/* Introduction Section */}
@@ -687,7 +687,7 @@ export default function HiroshimaTomonouraWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay"
+              href="/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">広島・安芸宮島</span>
@@ -700,7 +700,7 @@ export default function HiroshimaTomonouraWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay"
+              href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">徳島・鳴門海峡</span>
@@ -713,7 +713,7 @@ export default function HiroshimaTomonouraWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay"
+              href="/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">岡山・美作三湯</span>

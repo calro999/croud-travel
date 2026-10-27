@@ -145,13 +145,13 @@ export default function Home() {
               <span>↓</span>
             </a>
             <Link
-              href="/features"
+              href="/features/"
               className="inline-flex items-center gap-1.5 px-4 py-2.5 text-xs md:text-sm font-bold text-white bg-white/10 hover:bg-white/15 border border-white/20 rounded-2xl transition"
             >
               <span>📚 特集・まとめ記事一覧</span>
             </Link>
             <Link
-              href="/prefectures"
+              href="/prefectures/"
               className="inline-flex items-center gap-1.5 px-4 py-2.5 text-xs md:text-sm font-bold text-white bg-white/10 hover:bg-white/15 border border-white/20 rounded-2xl transition"
             >
               <span>🗾 47都道府県から探す</span>
@@ -184,25 +184,25 @@ export default function Home() {
               <span>🎁</span> <span>開催中のおすすめお得キャンペーン＆限定クーポン</span>
             </h2>
           </div>
-          <Link href="/campaigns" className="text-xs font-bold text-amber-700 hover:text-amber-800 flex items-center gap-1">
+          <Link href="/campaigns/" className="text-xs font-bold text-amber-700 hover:text-amber-800 flex items-center gap-1">
             <span>すべて見る</span> <span>→</span>
           </Link>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <Link href="/campaigns" className="group bg-white p-5 rounded-2xl border border-amber-500/20 shadow-sm hover:shadow-md transition space-y-2">
+          <Link href="/campaigns/" className="group bg-white p-5 rounded-2xl border border-amber-500/20 shadow-sm hover:shadow-md transition space-y-2">
             <span className="text-[9px] font-extrabold text-amber-800 bg-amber-100 px-2.5 py-0.5 rounded-full inline-block">毎月 5, 10, 15, 20, 25, 30日</span>
             <h3 className="text-sm font-bold text-emerald-950 group-hover:text-amber-700 transition">5と0のつく日 高級宿・温泉宿セール</h3>
             <p className="text-xs text-emerald-950/70 line-clamp-2">最大20%OFFクーポン＋ポイント還元！高級温泉旅館や憧れホテルが最安値級。</p>
           </Link>
 
-          <Link href="/campaigns" className="group bg-white p-5 rounded-2xl border border-amber-500/20 shadow-sm hover:shadow-md transition space-y-2">
+          <Link href="/campaigns/" className="group bg-white p-5 rounded-2xl border border-amber-500/20 shadow-sm hover:shadow-md transition space-y-2">
             <span className="text-[9px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full inline-block">実質2,000円で憧れ宿泊</span>
             <h3 className="text-sm font-bold text-emerald-950 group-hover:text-teal-800 transition">楽天トラベル ふるさと納税クーポン</h3>
             <p className="text-xs text-emerald-950/70 line-clamp-2">寄付額の最大30%クーポン進呈。あとから予約への適用も可能な大人気制度。</p>
           </Link>
 
-          <Link href="/campaigns" className="group bg-white p-5 rounded-2xl border border-amber-500/20 shadow-sm hover:shadow-md transition space-y-2">
+          <Link href="/campaigns/" className="group bg-white p-5 rounded-2xl border border-amber-500/20 shadow-sm hover:shadow-md transition space-y-2">
             <span className="text-[9px] font-extrabold text-emerald-800 bg-emerald-100 px-2.5 py-0.5 rounded-full inline-block">期間限定セール</span>
             <h3 className="text-sm font-bold text-emerald-950 group-hover:text-emerald-800 transition">サマーセール＆季節の感謝祭</h3>
             <p className="text-xs text-emerald-950/70 line-clamp-2">半額プラン多数＆限定1万円クーポン配布中。季節の旅がお得に。</p>
@@ -219,7 +219,7 @@ export default function Home() {
               <span>🗾</span> <span>都道府県別の観光見所＆厳選宿ガイド</span>
             </h2>
           </div>
-          <Link href="/prefectures" className="text-xs font-bold text-teal-800 hover:text-teal-700 flex items-center gap-1">
+          <Link href="/prefectures/" className="text-xs font-bold text-teal-800 hover:text-teal-700 flex items-center gap-1">
             <span>全国一覧を見る</span> <span>→</span>
           </Link>
         </div>
@@ -228,7 +228,7 @@ export default function Home() {
           {PREFECTURES_DATA.slice(0, 10).map((pref) => (
             <Link
               key={pref.slug}
-              href={`/prefectures/${pref.slug}`}
+              href={`/prefectures/${pref.slug}/`}
               className="p-3.5 rounded-xl border border-emerald-950/5 bg-emerald-50/30 hover:bg-teal-50 hover:border-teal-800/30 transition text-center space-y-1 group"
             >
               <span className="block text-xs font-bold text-emerald-950 group-hover:text-teal-800 font-journal-serif">{pref.name}</span>
@@ -239,7 +239,7 @@ export default function Home() {
 
         <div className="text-center pt-2">
           <Link
-            href="/prefectures"
+            href="/prefectures/"
             className="inline-block text-xs font-bold text-teal-800 hover:underline bg-teal-50 px-6 py-2.5 rounded-full border border-teal-800/10"
           >
             ＋ 残りの37都道府県の見所ガイドを見る（全国47都道府県）
@@ -270,19 +270,19 @@ export default function Home() {
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 text-xs">
-          <Link href="/campaigns" className="bg-white/10 hover:bg-white/15 border border-white/15 p-4 rounded-2xl transition space-y-1 block">
+          <Link href="/campaigns/" className="bg-white/10 hover:bg-white/15 border border-white/15 p-4 rounded-2xl transition space-y-1 block">
             <span className="text-amber-300 font-bold block text-sm">🏷️ セール＆限定クーポン</span>
             <span className="text-slate-300 text-[11px] block">楽天トラベル最新の割引キャンペーンまとめ</span>
           </Link>
-          <Link href="/travel-savings-guide" className="bg-white/10 hover:bg-white/15 border border-white/15 p-4 rounded-2xl transition space-y-1 block">
+          <Link href="/travel-savings-guide/" className="bg-white/10 hover:bg-white/15 border border-white/15 p-4 rounded-2xl transition space-y-1 block">
             <span className="text-teal-200 font-bold block text-sm">💰 旅費最大30%節約術</span>
             <span className="text-slate-300 text-[11px] block">ふるさと納税宿泊クーポンの賢い活用法</span>
           </Link>
-          <Link href="/furusato-tax-travel-beginners-complete-guide" className="bg-white/10 hover:bg-white/15 border border-white/15 p-4 rounded-2xl transition space-y-1 block">
+          <Link href="/furusato-tax-travel-beginners-complete-guide/" className="bg-white/10 hover:bg-white/15 border border-white/15 p-4 rounded-2xl transition space-y-1 block">
             <span className="text-emerald-200 font-bold block text-sm">🔰 ふるさと納税完全ガイド</span>
             <span className="text-slate-300 text-[11px] block">初心者でも迷わないステップ解説</span>
           </Link>
-          <Link href="/furusato-tax-travel-after-booking-discount-guide" className="bg-white/10 hover:bg-white/15 border border-white/15 p-4 rounded-2xl transition space-y-1 block">
+          <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="bg-white/10 hover:bg-white/15 border border-white/15 p-4 rounded-2xl transition space-y-1 block">
             <span className="text-sky-200 font-bold block text-sm">🔄 あとから適用テクニック</span>
             <span className="text-slate-300 text-[11px] block">予約済みホテルに割引を適用する裏ワザ</span>
           </Link>

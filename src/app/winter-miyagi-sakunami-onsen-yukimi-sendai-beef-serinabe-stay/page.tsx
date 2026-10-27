@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '作並温泉で過ごす冬の旅（11・12月）！極上A5仙台牛ステーキ！名宿5選',
     description: '11月から12月にかけて、杜の都・仙台の奥座敷として古くから親しまれる作並温泉および秋保温泉エリアは、広瀬川や名取川の深い渓谷が初雪に彩られ。',
-    url: 'https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function MiyagiSakunamiWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay"
+          "@id": "https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay/"
         },
         "headline": "【11・12月宮城・作並温泉＆仙台奥座敷の初冬広瀬川雪見露天と美女づくりの湯】極上A5仙台牛ステーキ＆名物仙台せり鍋会席を味わう老舗宿5選",
         "description": "11月から12月にかけて、杜の都・仙台の奥座敷として古くから親しまれる作並温泉および秋保温泉エリアは、広瀬川や名取川の深い渓谷が初雪に彩られ、湯けむりが白く立ち上る情緒豊かな初冬の温泉情緒に包まれます。奈良時代に行基菩薩が発見し、歴代仙台藩主も湯治に訪れた作並温泉は、肌をしっとりと包み込む弱アルカリ性の「美女づくりの湯」。夕食には見事なサシが入った最高級A5仙台牛の陶板ステーキやしゃぶしゃぶ、そして冬の宮城を代表する風物詩・根っこまでシャキシャキと甘い名物「仙台せり鍋」を地酒とともに味わう厳選名宿5選を徹底解説します。",
@@ -100,13 +100,13 @@ export default function MiyagiSakunamiWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "宮城・作並温泉＆仙台奥座敷 初冬雪見露天と仙台牛の宿",
-            "item": "https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay"
+            "item": "https://croud-travel.pages.dev/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay/"
           }
         ]
       },
@@ -564,7 +564,7 @@ export default function MiyagiSakunamiWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
-              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay"
+              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-rose-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-700 bg-rose-100/60 px-2 py-0.5 rounded-full inline-block">宮城・秋保</span>
@@ -576,7 +576,7 @@ export default function MiyagiSakunamiWinterFeature() {
               </p>
             </Link>
             <Link 
-              href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay"
+              href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-rose-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-700 bg-rose-100/60 px-2 py-0.5 rounded-full inline-block">宮城・松島</span>
@@ -588,7 +588,7 @@ export default function MiyagiSakunamiWinterFeature() {
               </p>
             </Link>
             <Link 
-              href="/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay"
+              href="/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-rose-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-700 bg-rose-100/60 px-2 py-0.5 rounded-full inline-block">山形・赤湯</span>
@@ -600,7 +600,7 @@ export default function MiyagiSakunamiWinterFeature() {
               </p>
             </Link>
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay"
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-rose-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-700 bg-rose-100/60 px-2 py-0.5 rounded-full inline-block">山形・銀山</span>

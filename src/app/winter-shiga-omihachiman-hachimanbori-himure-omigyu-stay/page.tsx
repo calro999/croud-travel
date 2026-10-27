@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月滋賀：日本三大和牛「近江牛」極上すき焼き！名宿5選',
     description: '白壁土蔵が立ち並ぶ八幡堀の風情ある雪景色と、近江商人の守護神「日牟禮八幡宮」での新春初詣を巡る11〜1月の滋賀・近江八幡＆東近江・安土特集。',
-    url: 'https://croud-travel.pages.dev/winter-shiga-omihachiman-hachimanbori-himure-omigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shiga-omihachiman-hachimanbori-himure-omigyu-stay/',
     type: 'article',
     images: [
       {
@@ -61,7 +61,7 @@ export default function ShigaOmihachimanWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-shiga-omihachiman-hachimanbori-himure-omigyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shiga-omihachiman-hachimanbori-himure-omigyu-stay/"
         }
       },
       {
@@ -77,13 +77,13 @@ export default function ShigaOmihachimanWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "滋賀・近江八幡＆安土 八幡堀雪景色と日牟禮八幡宮初詣名宿",
-            "item": "https://croud-travel.pages.dev/winter-shiga-omihachiman-hachimanbori-himure-omigyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-shiga-omihachiman-hachimanbori-himure-omigyu-stay/"
           }
         ]
       },
@@ -270,7 +270,7 @@ export default function ShigaOmihachimanWinterPage() {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-600 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-blue-600">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/features" className="hover:text-blue-600">特集一覧</Link>
+            <Link href="/features/" className="hover:text-blue-600">特集一覧</Link>
             <span>&gt;</span>
             <span className="text-slate-900 font-semibold">滋賀・近江八幡＆安土 八幡堀雪景色＆近江牛名宿</span>
           </div>
@@ -582,7 +582,7 @@ export default function ShigaOmihachimanWinterPage() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               <Link
-                href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay"
+                href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-amber-400 text-xs font-bold block mb-1">滋賀・長浜特集</span>
@@ -590,7 +590,7 @@ export default function ShigaOmihachimanWinterPage() {
                 <span className="text-xs text-slate-300">黒壁スクエアの冬情趣と厳冬期限定の天然鴨鍋名宿…</span>
               </Link>
               <Link
-                href="/features"
+                href="/features/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-cyan-400 text-xs font-bold block mb-1">特集一覧</span>

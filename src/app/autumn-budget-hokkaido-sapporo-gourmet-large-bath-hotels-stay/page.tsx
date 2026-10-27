@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の札幌×格安：紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選「2026最新」',
     description: '北大イチョウ並木とすすきのグルメ！大浴場・サウナ付き1泊3,000円台〜のコスパ最強札幌ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-budget-hokkaido-sapporo-gourmet-large-bath-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-hokkaido-sapporo-gourmet-large-bath-hotels-stay/',
   }
 };
 

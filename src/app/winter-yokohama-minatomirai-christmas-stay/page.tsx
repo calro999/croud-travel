@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "！横浜みなとみらいクリスマス夜景で過ごす冬の旅（11・12月）！赤レンガ倉庫マーケットとベイビュー宿5選",
     description: "11月下旬から開幕する本場ドイツの雰囲気を再現した「横浜赤レンガ倉庫クリスマスマーケット」！巨大モミの木ツリーやイルミネーションを鑑賞し、みなとみらいの煌めく夜景を一望する高層階バルコニー付きホテルで過ごす特別な夜。",
-    url: 'https://croud-travel.pages.dev/winter-yokohama-minatomirai-christmas-stay',
+    url: 'https://croud-travel.pages.dev/winter-yokohama-minatomirai-christmas-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -59,7 +59,7 @@ export default function FeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-yokohama-minatomirai-christmas-stay"
+      "@id": "https://croud-travel.pages.dev/winter-yokohama-minatomirai-christmas-stay/"
     }
   };
 
@@ -143,7 +143,7 @@ export default function FeaturePage() {
       <nav className="max-w-5xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-500 flex items-center gap-1.5 overflow-x-auto">
         <Link href="/" className="hover:text-amber-600 transition-colors shrink-0">ホーム</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <Link href="/features" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <span className="text-stone-800 font-medium truncate">【11・12月！横浜みなとみらいクリスマス夜景】赤レンガ倉庫マーケットとベイビュー宿5選</span>
       </nav>
@@ -155,7 +155,7 @@ export default function FeaturePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月！横浜みなとみらいクリスマス夜景】赤レンガ倉庫マーケットとベイビュー宿5選","item":"https://croud-travel.pages.dev/winter-yokohama-minatomirai-christmas-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月！横浜みなとみらいクリスマス夜景】赤レンガ倉庫マーケットとベイビュー宿5選","item":"https://croud-travel.pages.dev/winter-yokohama-minatomirai-christmas-stay/"}]}) }}
       />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
@@ -357,7 +357,7 @@ export default function FeaturePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <Link
-              href="/furusato-tax-three-great-beautiful-forests-wood-stay"
+              href="/furusato-tax-three-great-beautiful-forests-wood-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -373,7 +373,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/super-panoramic-paragliding-sky-stay"
+              href="/super-panoramic-paragliding-sky-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -389,7 +389,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/nagano-azumino-wasabi-hotaka-stay"
+              href="/nagano-azumino-wasabi-hotaka-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -405,7 +405,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/samurai-katana-armor-buke-yashiki-heritage-stay"
+              href="/samurai-katana-armor-buke-yashiki-heritage-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -457,7 +457,7 @@ export default function FeaturePage() {
           <h3 className="text-lg font-bold text-stone-800 mb-3">他の特集記事もチェック</h3>
           <p className="text-sm text-stone-500 mb-6">全国各地の魅力あふれるテーマ別おすすめ宿泊施設をご紹介しています</p>
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 px-8 py-3.5 rounded-xl bg-stone-800 hover:bg-stone-900 text-white font-bold text-sm shadow-sm transition-colors"
           >
             <span>特集一覧ページへ戻る</span>
@@ -515,7 +515,7 @@ export default function FeaturePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <Link
-              href="/furusato-tax-mihara-onomichi-setoda-autumn-stay"
+              href="/furusato-tax-mihara-onomichi-setoda-autumn-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -531,7 +531,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-otaru-canal-asarigawa-onsen-stay"
+              href="/furusato-tax-otaru-canal-asarigawa-onsen-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -547,7 +547,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/furusato-tax-three-great-fireworks-riverside-stay"
+              href="/furusato-tax-three-great-fireworks-riverside-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -563,7 +563,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/hiroshima-miyajima-itsukushima-stay"
+              href="/hiroshima-miyajima-itsukushima-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>

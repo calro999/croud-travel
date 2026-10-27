@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の仙台×格安：定禅寺通りのケヤキ紅葉と牛たんグルメ！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」',
     description: '定禅寺通りのケヤキ紅葉と牛たん！天然温泉付き1泊4,000円台〜のコスパ最強仙台ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-budget-miyagi-sendai-onsen-gyutan-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-miyagi-sendai-onsen-gyutan-hotels-stay/',
   }
 };
 

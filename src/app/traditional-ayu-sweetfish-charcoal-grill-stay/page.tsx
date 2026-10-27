@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：香ばしい炭火焼き鮎と清流の恵み！天然鮎尽くし会席＆川床露天風呂の名宿5選',
     description: '2026年最新！長良川や四万十川など清流で獲れた天然鮎の塩焼き、鮎刺し、鮎雑炊を堪能できる初夏・夏のグルメ温泉旅館5選。',
-    url: 'https://croud-travel.pages.dev/traditional-ayu-sweetfish-charcoal-grill-stay',
+    url: 'https://croud-travel.pages.dev/traditional-ayu-sweetfish-charcoal-grill-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-ayu-sweetfish-charcoal-grill-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-ayu-sweetfish-charcoal-grill-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">天然鮎の塩焼き×清流川床会席</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             炭火でじっくりと香ばしく焼き上げられた、スイカの香りがすると称される夏の美味・鮎（アユ）。パリッとした皮目とふっくら柔らかな身、ほろ苦い内臓の旨味。清流のせせらぎを聞きながら川床や個室で味わう鮎フルコースと、爽快な渓流露天風呂の旅。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】香ばしい炭火焼き鮎と清流の恵み！天然鮎尽くし会席＆川床露天風呂の名宿5選" url="https://croud-travel.pages.dev/traditional-ayu-sweetfish-charcoal-grill-stay" />
+            <ShareButtons title="【2026年】香ばしい炭火焼き鮎と清流の恵み！天然鮎尽くし会席＆川床露天風呂の名宿5選" url="https://croud-travel.pages.dev/traditional-ayu-sweetfish-charcoal-grill-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】香ばしい炭火焼き鮎と清流の恵み！天然鮎尽くし会席＆川床露天風呂の名宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/traditional-ayu-sweetfish-charcoal-grill-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】香ばしい炭火焼き鮎と清流の恵み！天然鮎尽くし会席＆川床露天風呂の名宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/traditional-ayu-sweetfish-charcoal-grill-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

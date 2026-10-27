@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月山形：寒ブリ！名宿5選',
     description: '11月から1月、山形県庄内地方（鶴岡・酒田・温海・湯野浜）は、荒波の日本海が育む冬の風物詩「寒鱈（かんだら）汁」の熱気と。',
-    url: 'https://croud-travel.pages.dev/winter-yamagata-shonai-kandara-atsumi-yunohama-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-shonai-kandara-atsumi-yunohama-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function YamagataShonaiKandaraWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-yamagata-shonai-kandara-atsumi-yunohama-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-yamagata-shonai-kandara-atsumi-yunohama-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function YamagataShonaiKandaraWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '庄内・寒鱈汁と出羽三山雪景色＆名湯あつみ・湯野浜温泉',
-        item: 'https://croud-travel.pages.dev/winter-yamagata-shonai-kandara-atsumi-yunohama-stay'
+        item: 'https://croud-travel.pages.dev/winter-yamagata-shonai-kandara-atsumi-yunohama-stay/'
       }
     ]
   };
@@ -625,21 +625,21 @@ export default function YamagataShonaiKandaraWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay" 
+              href="/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">山形・肘折温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">豪雪の秘湯肘折温泉と冬の湯治文化・山形牛すき焼き＆雪見露天の宿</p>
             </Link>
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay" 
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">山形・銀山温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">大正ロマンのガス灯と雪景色の温泉街・尾花沢牛と名湯に浸る極上宿</p>
             </Link>
             <Link 
-              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay" 
+              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">山形・蔵王温泉</span>

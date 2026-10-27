@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月京都：雪の貴船神社積雪日限定ライトアップ！名宿5選',
     description: '冬の京都で最も幽玄な美しさを放つ洛北の奥座敷・貴船、鞍馬、大原。しんしんと降り積もる白銀の雪と。',
-    url: 'https://croud-travel.pages.dev/winter-kyoto-kibune-kurama-snow-lightup-botannabe-stay',
+    url: 'https://croud-travel.pages.dev/winter-kyoto-kibune-kurama-snow-lightup-botannabe-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -165,7 +165,7 @@ export default function KyotoKibuneKuramaWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-kyoto-kibune-kurama-snow-lightup-botannabe-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-kyoto-kibune-kurama-snow-lightup-botannabe-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kyoto-kibune-kurama-snow-lightup-botannabe-stay/"
         },
         "headline": "【11・12・1月京都】雪の貴船神社積雪日限定ライトアップ＆奥座敷冬情趣！名物ぼたん鍋と名湯京懐石の隠れ家名宿5選",
         "description": "冬の京都で最も幽玄な美しさを放つ洛北の奥座敷・貴船、鞍馬、大原。しんしんと降り積もる白銀の雪と、貴船神社の石段を照らす朱塗りの春日灯籠が織りなす「積雪日限定ライトアップ」は息を呑む奇跡の絶景。静寂に包まれた三千院の庭園や鞍馬寺の凛とした空気、囲炉裏端で味わう熱々の名物「ぼたん鍋（猪肉の白味噌仕立て）」や大原温泉の雪見露天風呂に癒やされる冬の京都隠れ家トリップ。楽天APIから最新取得した洛北奥座敷の極上料理旅館＆温泉宿5選を徹底特集します。",
@@ -191,13 +191,13 @@ export default function KyotoKibuneKuramaWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "京都・貴船＆大原冬特集",
-            "item": "https://croud-travel.pages.dev/winter-kyoto-kibune-kurama-snow-lightup-botannabe-stay"
+            "item": "https://croud-travel.pages.dev/winter-kyoto-kibune-kurama-snow-lightup-botannabe-stay/"
           }
         ]
       },
@@ -588,7 +588,7 @@ export default function KyotoKibuneKuramaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay"
+              href="/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-teal-400 block mb-1">祇園・東山冬特集</span>
@@ -596,7 +596,7 @@ export default function KyotoKibuneKuramaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kyoto-arashiyama-onsen-yudofu-stay"
+              href="/winter-kyoto-arashiyama-onsen-yudofu-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-teal-400 block mb-1">嵐山冬特集</span>
@@ -604,7 +604,7 @@ export default function KyotoKibuneKuramaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay"
+              href="/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-teal-400 block mb-1">比叡山・おごと温泉冬特集</span>

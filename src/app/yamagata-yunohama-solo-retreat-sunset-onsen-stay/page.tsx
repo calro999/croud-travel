@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '山形・湯野浜温泉ひとり旅・日本海夕陽おこもり：日本の夕陽百選・オーシャン露天・庄内浜鮮魚！波音に包まれる海辺のソロリトリート厳選3宿',
     description: '庄内空港から車でわずか10分！全室オーシャンビュー＆波打ち際の展望大浴場が評判の最高峰「海辺のお宿 一久」、日本海一望の絶景露天風呂と庄内の美食会席を誇る名門「游水亭 いさごや」、手頃な料金でパノラマ展望温泉を楽しめる「うしお荘」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/yamagata-yunohama-solo-retreat-sunset-onsen-stay',
+    url: 'https://croud-travel.pages.dev/yamagata-yunohama-solo-retreat-sunset-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/yamagata-yunohama-solo-retreat-sunset-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/yamagata-yunohama-solo-retreat-sunset-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【山形・湯野浜温泉ひとり旅・日本海夕陽おこもり】日本の夕陽百選・オーシャン露天・庄内浜鮮魚！波音に包まれる海辺のソロリトリート厳選3宿","item":"https://croud-travel.pages.dev/yamagata-yunohama-solo-retreat-sunset-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【山形・湯野浜温泉ひとり旅・日本海夕陽おこもり】日本の夕陽百選・オーシャン露天・庄内浜鮮魚！波音に包まれる海辺のソロリトリート厳選3宿","item":"https://croud-travel.pages.dev/yamagata-yunohama-solo-retreat-sunset-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

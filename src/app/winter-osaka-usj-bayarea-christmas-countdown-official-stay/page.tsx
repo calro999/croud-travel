@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月大阪：天然温泉スパと絶景オフィシャルホテル！名宿5選',
     description: '冬の大阪は「ユニバーサル・スタジオ・ジャパン（USJ）」の圧倒的なスケールを誇る「NO LIMIT! クリスマス」、ホグワーツ城の雪景色。',
-    url: 'https://croud-travel.pages.dev/winter-osaka-usj-bayarea-christmas-countdown-official-stay',
+    url: 'https://croud-travel.pages.dev/winter-osaka-usj-bayarea-christmas-countdown-official-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -165,7 +165,7 @@ export default function OsakaUsjBayareaWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-osaka-usj-bayarea-christmas-countdown-official-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-osaka-usj-bayarea-christmas-countdown-official-stay"
+          "@id": "https://croud-travel.pages.dev/winter-osaka-usj-bayarea-christmas-countdown-official-stay/"
         },
         "headline": "【11・12・1月大阪】USJ冬のクリスマス＆ベイエリア夜景！天然温泉スパと絶景オフィシャルホテル名宿5選",
         "description": "冬の大阪は「ユニバーサル・スタジオ・ジャパン（USJ）」の圧倒的なスケールを誇る「NO LIMIT! クリスマス」、ホグワーツ城の雪景色、海遊館の幻想的なイルミネーション、そして大阪港のきらめくベイエリア夜景が最高潮を迎える熱狂のシーズン。パークで一日中遊び尽くした後は、オフィシャルホテルのパークビュールームや天然温泉展望スパで極上の癒やしを。熱々の大阪名物グルメ（てっちり・串カツ・黒毛和牛）とともに満喫する冬の大阪滞在。楽天APIから最新取得した公式ホテル5選を徹底特集します。",
@@ -191,13 +191,13 @@ export default function OsakaUsjBayareaWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "大阪・USJ＆ベイエリア冬特集",
-            "item": "https://croud-travel.pages.dev/winter-osaka-usj-bayarea-christmas-countdown-official-stay"
+            "item": "https://croud-travel.pages.dev/winter-osaka-usj-bayarea-christmas-countdown-official-stay/"
           }
         ]
       },
@@ -585,7 +585,7 @@ export default function OsakaUsjBayareaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay"
+              href="/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-indigo-400 block mb-1">京都冬特集</span>
@@ -593,7 +593,7 @@ export default function OsakaUsjBayareaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay"
+              href="/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-indigo-400 block mb-1">神戸冬特集</span>
@@ -601,7 +601,7 @@ export default function OsakaUsjBayareaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-mie-nabana-no-sato-illumination-stay"
+              href="/winter-mie-nabana-no-sato-illumination-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-indigo-400 block mb-1">三重冬特集</span>

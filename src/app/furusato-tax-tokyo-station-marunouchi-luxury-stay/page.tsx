@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '東京駅・丸の内をふるさと納税でお得に旅する！重要文化財駅舎＆皇居ビュー！日本の中心で味わう最高峰ホテル特集｜東京ステーションホテル・パレスホテル・帝国ホテル',
     description: '日本の表玄関・東京都千代田区（東京駅・丸の内・大手町・日比谷）を楽天ふるさと納税でお得に贅沢ステイ！国指定重要文化財の赤レンガ駅舎内「東京ステーションホテル」、皇居外苑の緑を望む世界最高峰「パレスホテル東京」、日本の迎賓館「帝国ホテル 東京」を徹底比較。千代田区ふるさと納税トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-tokyo-station-marunouchi-luxury-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-tokyo-station-marunouchi-luxury-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T01:00:00+09:00',
     dateModified: '2026-10-19T01:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-tokyo-station-marunouchi-luxury-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-tokyo-station-marunouchi-luxury-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【東京駅・丸の内×ふるさと納税】重要文化財駅舎＆皇居ビュー！日本の中心で味わう最高峰ホテル特集｜東京ステーションホテル・パレスホテル・帝国ホテル","item":"https://croud-travel.pages.dev/furusato-tax-tokyo-station-marunouchi-luxury-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【東京駅・丸の内×ふるさと納税】重要文化財駅舎＆皇居ビュー！日本の中心で味わう最高峰ホテル特集｜東京ステーションホテル・パレスホテル・帝国ホテル","item":"https://croud-travel.pages.dev/furusato-tax-tokyo-station-marunouchi-luxury-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【東京駅・丸の内×ふるさと納税】重要文化財駅舎＆皇居ビュー！日本の中心で味わう最高峰ホテル特集｜東京ステーションホテル・パレスホテル・帝国ホテル</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-nagoya-luxury-gourmet-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-nagoya-luxury-gourmet-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 名古屋 駅直結スカイビュー＆最新ラグジュアリー特集
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-shodoshima-olive-island-onsen-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-shodoshima-olive-island-onsen-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 小豆島 エンジェルロード＆オリーブの島・絶景温泉特集
               </Link>
             </li>

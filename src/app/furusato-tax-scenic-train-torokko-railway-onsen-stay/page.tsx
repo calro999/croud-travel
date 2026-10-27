@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '絶景ローカル線＆トロッコ列車めぐり温泉宿×ふるさと納税厳選ガイドわたらせ・大井川SL・只見線の鉄道旅',
     description: '車窓を流れる日本の原風景！群馬わたらせ渓谷鐵道のオープンデッキトロッコ、静岡大井川鐵道の煙吐くSL蒸気機関車と寸又峡温泉、福島只見線のエメラルド峡谷第一橋梁と奥会津秘湯。鉄道旅情と名湯旅館を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-scenic-train-torokko-railway-onsen-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-scenic-train-torokko-railway-onsen-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -578,7 +578,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-secluded-canyon-isolated-onsen-stay"
+            href="/furusato-tax-secluded-canyon-isolated-onsen-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -594,7 +594,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-historical-kaido-post-town-ryokan-stay"
+            href="/furusato-tax-historical-kaido-post-town-ryokan-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -610,7 +610,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-river-activity-canoe-fishing-resort-stay"
+            href="/furusato-tax-river-activity-canoe-fishing-resort-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

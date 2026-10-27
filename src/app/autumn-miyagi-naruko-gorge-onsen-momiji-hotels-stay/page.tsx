@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "下旬〜11月上旬！宮城鳴子峡の紅葉で過ごす冬の旅（10月）！大深沢橋列車ビューと名湯鳴子温泉郷の宿5選",
     description: "深さ100mの大峡谷を彩る紅葉のパノラマと大深沢橋を渡る列車絶景！日本にある11の泉質のうち9つが湧く東北屈指の名湯・鳴子温泉郷の厳選おすすめ宿5選。",
-    url: 'https://croud-travel.pages.dev/autumn-miyagi-naruko-gorge-onsen-momiji-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-miyagi-naruko-gorge-onsen-momiji-hotels-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -141,7 +141,7 @@ export default function FeaturePage() {
       <nav className="max-w-5xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-500 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
         <Link href="/" className="hover:text-amber-600">ホーム</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <Link href="/features" className="hover:text-amber-600">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-600">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <span className="text-stone-800 font-medium truncate">【10月下旬〜11月上旬！宮城鳴子峡の紅葉】大深沢橋列車ビューと名湯鳴子温泉郷の宿5選</span>
       </nav>
@@ -187,8 +187,8 @@ export default function FeaturePage() {
             "@type": "BreadcrumbList",
             "itemListElement": [
               { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev/" },
-              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features" },
-              { "@type": "ListItem", "position": 3, "name": "【10月下旬〜11月上旬！宮城鳴子峡の紅葉】大深沢橋列車ビューと名湯鳴子温泉郷の宿5選", "item": "https://croud-travel.pages.dev/autumn-miyagi-naruko-gorge-onsen-momiji-hotels-stay" }
+              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features/" },
+              { "@type": "ListItem", "position": 3, "name": "【10月下旬〜11月上旬！宮城鳴子峡の紅葉】大深沢橋列車ビューと名湯鳴子温泉郷の宿5選", "item": "https://croud-travel.pages.dev/autumn-miyagi-naruko-gorge-onsen-momiji-hotels-stay/" }
             ]
           }) }}
         />

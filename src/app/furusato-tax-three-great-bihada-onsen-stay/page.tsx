@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: '日本三大美肌の湯＆とろとろ重曹泉・美肌会席宿×ふるさと納税厳選ガイド嬉野・斐乃上・喜連川',
     description: '浸かるだけでつるつる美肌！佐賀「嬉野温泉」ナトリウム炭酸水素塩泉の名湯と和多屋別荘、島根奥出雲「斐乃上温泉」pH9.9驚異の高アルカリ単純温泉と奥出雲町サイクリングターミナル、栃木さくら市「喜連川温泉」硫黄・塩分・重曹が織りなす良質な天然温泉とゴルフ＆ホテルベルセルバ。日本三大美肌の湯の極上湯治を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-bihada-onsen-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-bihada-onsen-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -396,7 +396,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-hotsprings-luxury-villas-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-hotsprings-luxury-villas-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大名湯＆極上温泉宿×ふるさと納税完全ガイド
               </div>
@@ -405,7 +405,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-japan-three-great-hot-springs-heritage-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-japan-three-great-hot-springs-heritage-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大古湯＆歴史の湯宿×ふるさと納税完全ガイド
               </div>
@@ -414,7 +414,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-medicinal-springs-healing-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-medicinal-springs-healing-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大薬湯＆湯治デトックス宿×ふるさと納税完全ガイド
               </div>

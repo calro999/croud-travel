@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '松山出張・極上サウナ天然温泉：道後温泉引き湯・サウナシュラン新名所・大街道グルメ！四国最大の都を極める厳選3宿',
     description: '松山空港からリムジンバスで直通！全国サウナー注目の最新極上スパ＆カプセル「サウナ＆スパホテル 喜助の宿 松山駅前店」、大街道すぐで自家源泉天然温泉と名物いよよこ海鮮丼を誇る「ドーミーイン松山」、市街地中心で奥道後天然温泉が引かれた「松山ニューグランドホテル」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/matsuyama-city-solo-business-onsen-sauna-stay',
+    url: 'https://croud-travel.pages.dev/matsuyama-city-solo-business-onsen-sauna-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/matsuyama-city-solo-business-onsen-sauna-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/matsuyama-city-solo-business-onsen-sauna-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【松山出張・極上サウナ天然温泉】道後温泉引き湯・サウナシュラン新名所・大街道グルメ！四国最大の都を極める厳選3宿","item":"https://croud-travel.pages.dev/matsuyama-city-solo-business-onsen-sauna-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【松山出張・極上サウナ天然温泉】道後温泉引き湯・サウナシュラン新名所・大街道グルメ！四国最大の都を極める厳選3宿","item":"https://croud-travel.pages.dev/matsuyama-city-solo-business-onsen-sauna-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

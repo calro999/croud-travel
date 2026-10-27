@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '富士山と燃えるような紅葉の競演！富士河口湖紅葉まつり・もみじ回廊＆絶景温泉名宿×ふるさと納税厳選ガイド',
     description: '10月下旬〜11月下旬に開催される日本屈指の秋イベント「富士河口湖紅葉まつり」。約60本の大古木モミジが織りなす「もみじ回廊」の幻想的なライトアップと、富士山を正面に望む極上温泉！「大池ホテル」「四季の宿 富士山」「ホテル鐘山苑」など厳選宿を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-fujikawaguchiko-autumn-leaves-festival-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-fujikawaguchiko-autumn-leaves-festival-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -55,7 +55,7 @@ export default function FurusatoFujiKawaguchikoAutumnLeavesStayPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">富士河口湖もみじ回廊＆富士山絶景温泉宿特集</span>
       </nav>
@@ -384,7 +384,7 @@ export default function FurusatoFujiKawaguchikoAutumnLeavesStayPage() {
 
             <li key="furusato-tax-autumn-sengokuhara-silver-grass-hotspring-stay">
               <Link
-                href="/furusato-tax-autumn-sengokuhara-silver-grass-hotspring-stay"
+                href="/furusato-tax-autumn-sengokuhara-silver-grass-hotspring-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -395,7 +395,7 @@ export default function FurusatoFujiKawaguchikoAutumnLeavesStayPage() {
 
             <li key="furusato-tax-koshu-winery-harvest-autumn-wine-resort-stay">
               <Link
-                href="/furusato-tax-koshu-winery-harvest-autumn-wine-resort-stay"
+                href="/furusato-tax-koshu-winery-harvest-autumn-wine-resort-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -406,7 +406,7 @@ export default function FurusatoFujiKawaguchikoAutumnLeavesStayPage() {
 
             <li key="furusato-tax-autumn-foliage-open-air-bath-stay">
               <Link
-                href="/furusato-tax-autumn-foliage-open-air-bath-stay"
+                href="/furusato-tax-autumn-foliage-open-air-bath-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -417,7 +417,7 @@ export default function FurusatoFujiKawaguchikoAutumnLeavesStayPage() {
 
             <li key="furusato-tax-lakeview-onsen-resort-hotel-stay">
               <Link
-                href="/furusato-tax-lakeview-onsen-resort-hotel-stay"
+                href="/furusato-tax-lakeview-onsen-resort-hotel-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -437,7 +437,7 @@ export default function FurusatoFujiKawaguchikoAutumnLeavesStayPage() {
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
-            href="/travel-savings-guide"
+            href="/travel-savings-guide/"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 text-stone-950 font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition text-sm"
           >
             🏨 旅行節約総合ハブページを見る ➔

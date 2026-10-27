@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '伊勢神宮で過ごす冬の旅（11・12月）！伊勢海老！名宿5選',
     description: '冬至前後に伊勢神宮・宇治橋大鳥居の中央から昇る神々しい朝日！1年間の感謝を捧げる年越し・お礼参りと、11月から旬を迎える「的矢かき」「活伊勢海老」「松阪牛」、鳥羽湾を望む絶景名湯露天風呂に癒やされる冬の伊勢志摩ステイ。',
-    url: 'https://croud-travel.pages.dev/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay',
+    url: 'https://croud-travel.pages.dev/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function IseshimaWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay"
+          "@id": "https://croud-travel.pages.dev/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function IseshimaWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月伊勢神宮】伊勢海老！名宿5選","item":"https://croud-travel.pages.dev/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月伊勢神宮】伊勢海老！名宿5選","item":"https://croud-travel.pages.dev/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -731,13 +731,13 @@ export default function IseshimaWinterPage() {
               三重県の温泉宿・ホテル一覧 →
             </Link>
             <Link 
-              href="/winter-mie-nabana-no-sato-illumination-stay" 
+              href="/winter-mie-nabana-no-sato-illumination-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-amber-50 hover:text-amber-700 transition font-medium border border-stone-100"
             >
               なばなの里 イルミネーション特集 →
             </Link>
             <Link 
-              href="/winter-ise-ebi-lobster-luxury-gourmet-stay" 
+              href="/winter-ise-ebi-lobster-luxury-gourmet-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-amber-50 hover:text-amber-700 transition font-medium border border-stone-100"
             >
               冬の伊勢海老グルメ宿特集 →
@@ -761,13 +761,13 @@ export default function IseshimaWinterPage() {
               滋賀県（おごと温泉等）の宿 →
             </Link>
             <Link 
-              href="/winter-oyster-seafood-gourmet" 
+              href="/winter-oyster-seafood-gourmet/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-amber-50 hover:text-amber-700 transition font-medium border border-stone-100"
             >
               冬の絶品牡蠣グルメ宿特集 →
             </Link>
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-3 rounded-xl bg-stone-900 text-white hover:bg-stone-800 transition font-bold text-center flex items-center justify-center gap-1"
             >
               <span>全国の特集一覧を見る</span>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '太宰府天満宮・光明禅寺の石庭紅葉＆かまど神社！美肌の原鶴・二日市温泉宿×ふるさと納税厳選ガイド福岡',
     description: '11月中旬〜12月上旬に見頃を迎える「太宰府天満宮」と紅葉の名所「宝満宮 竈門神社（かまどじんじゃ）」。「苔寺」光明禅寺の美しい庭園紅葉、万葉集ゆかりの二日市温泉「大丸別荘」やダブル美肌の湯「原鶴温泉 泰泉閣」「小野屋」で博多水炊き・黒毛和牛・筑後川の鮎を堪能。ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-dazaifu-harazuru-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-dazaifu-harazuru-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">福岡・太宰府天満宮 飛梅紅葉＆原鶴温泉・二日市温泉名宿特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月静岡：伊勢海老！名宿5選',
     description: '11月から1月、温暖な黒潮が洗う西伊豆最古の名湯「土肥（とい）温泉」は、駿河湾の彼方に雪化粧した富士山を望む絶景と。',
-    url: 'https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -47,7 +47,7 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay/"
         },
         "headline": "【11・12・1月静岡】西伊豆・土肥温泉の黄金夕日富士と極上寒金目鯛姿煮＆伊勢海老・日本一早咲きの土肥桜露天を巡る名宿5選",
         "description": "11月から1月、温暖な黒潮が洗う西伊豆最古の名湯「土肥（とい）温泉」は、駿河湾の彼方に雪化粧した富士山を望む絶景と、冬の最高峰の海の幸が揃う黄金シーズンを迎えます。空気が澄み渡る初冬から真冬にかけての夕暮れ時、海と空を茜色から黄金色へと染め上げる「西伊豆の夕日」と富士山のシルエットは、息を呑むほどドラマチックな美しさ。さらに12月中旬から蕾をほころばせ、1月中旬には満開を迎える「日本一早咲きの土肥桜（といざくら）」は、極濃ピンクの花びらが冬の碧空に映える奇跡の風物詩です。湯量豊富な弱アルカリ性のカルシウム・ナトリウム-硫酸塩・塩化物温泉は、冷えた体を芯から温める名湯。夕食には脂の乗り切った名物「寒金目鯛の姿煮」や甘み溢れる「伊勢海老」、あわびの踊り焼き、近隣の戸田港から届く深海魚・高足ガニが食卓を彩ります。冬花見と夕日絶景、海の美食を満喫できる厳選5宿をご案内します。",
@@ -68,7 +68,7 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
             "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay"
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay/"
       },
       {
         "@type": "BreadcrumbList",
@@ -84,13 +84,13 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "静岡・西伊豆土肥温泉の夕日富士と土肥桜特集",
-            "item": "https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay"
+            "item": "https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay/"
           }
         ]
       },
@@ -559,21 +559,21 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay" 
+              href="/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-orange-700 font-bold block text-[10px]">静岡・伊豆長岡温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">富士山ビューと金目鯛・伊豆牛会席・開湯1300年の名湯を巡る名宿</p>
             </Link>
             <Link 
-              href="/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay" 
+              href="/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-orange-700 font-bold block text-[10px]">静岡・東伊豆稲取温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">本場稲取金目鯛の姿煮と太平洋オーシャンビュー露天風呂宿</p>
             </Link>
             <Link 
-              href="/winter-aichi-irago-onsen-torafugu-atsumigyu-stay" 
+              href="/winter-aichi-irago-onsen-torafugu-atsumigyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-orange-700 font-bold block text-[10px]">愛知・渥美半島伊良湖</span>

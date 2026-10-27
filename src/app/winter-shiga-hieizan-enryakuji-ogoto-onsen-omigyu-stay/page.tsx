@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月滋賀：極上近江牛！名宿5選',
     description: '11月下旬から1月、日本仏教の母山と仰がれる世界遺産「比叡山延暦寺」は、厳かな白銀の雪化粧に包まれます。',
-    url: 'https://croud-travel.pages.dev/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/3165/3165.jpg', width: 1200, height: 630, alt: '比叡山延暦寺冬参拝とおごと温泉・近江牛名宿' }]
   }
@@ -150,13 +150,13 @@ export default function ShigaHieizanOgotoPage() {
     '@type': 'ItemPage',
     name: "【11・12・1月滋賀】世界遺産・比叡山延暦寺の静謐な冬参拝＆根本中堂「不滅の法灯」と琵琶湖一望おごと温泉・極上近江牛名宿5選",
     description: "11月下旬から1月、日本仏教の母山と仰がれる世界遺産「比叡山延暦寺」は、厳かな白銀の雪化粧に包まれます。標高848メートルの霊峰に佇む総本堂・国宝「根本中堂」では、開山以来1200年間一度も消えることなく灯り続ける「不滅の法灯」が神聖な光を放ち、大改修中の今しか見られない特別な修学空間が旅人を迎えます。比叡山から日本一の長さを誇る坂本ケーブルで下れば、伝教大師最澄が開湯した名湯「おごと温泉」。雄大な冬の琵琶湖を望む雪見露天風呂と、日本三大和牛の筆頭「近江牛」のとろけるすき焼き・しゃぶしゃぶを心ゆくまで堪能する厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.pages.dev/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay/',
     breadcrumb: {
       '@type': 'BreadcrumbList',
       itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://croud-travel.pages.dev/' },
         { '@type': 'ListItem', position: 2, name: '冬の特集一覧', item: 'https://croud-travel.pages.dev/features/' },
-        { '@type': 'ListItem', position: 3, name: '比叡山延暦寺＆おごと温泉・近江牛ステイ', item: 'https://croud-travel.pages.dev/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay' }
+        { '@type': 'ListItem', position: 3, name: '比叡山延暦寺＆おごと温泉・近江牛ステイ', item: 'https://croud-travel.pages.dev/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay/' }
       ]
     },
     mainEntity: {
@@ -601,7 +601,7 @@ export default function ShigaHieizanOgotoPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay" 
+              href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">滋賀・長浜太閤温泉</span>
@@ -611,7 +611,7 @@ export default function ShigaHieizanOgotoPage() {
             </Link>
 
             <Link 
-              href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay" 
+              href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">滋賀・彦根＆近江八幡</span>
@@ -621,7 +621,7 @@ export default function ShigaHieizanOgotoPage() {
             </Link>
 
             <Link 
-              href="/winter-kyoto-ohara-sanzenin-snow-hosenin-misonabe-stay" 
+              href="/winter-kyoto-ohara-sanzenin-snow-hosenin-misonabe-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">京都・大原三千院</span>
@@ -631,7 +631,7 @@ export default function ShigaHieizanOgotoPage() {
             </Link>
 
             <Link 
-              href="/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay" 
+              href="/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">京都・貴船＆鞍馬</span>
@@ -641,7 +641,7 @@ export default function ShigaHieizanOgotoPage() {
             </Link>
 
             <Link 
-              href="/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay" 
+              href="/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">和歌山・高野山</span>
@@ -651,7 +651,7 @@ export default function ShigaHieizanOgotoPage() {
             </Link>
 
             <Link 
-              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay" 
+              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">兵庫・有馬温泉</span>

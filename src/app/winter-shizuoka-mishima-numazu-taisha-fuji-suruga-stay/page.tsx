@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月三島沼津：冬の三嶋大社新春開運初詣！名宿5選',
     description: '冬の三島・沼津は、大気が一年で最も澄み渡り、純白の冠雪を抱く富士山と紺碧の駿河湾が圧巻のコントラストを描く至高のシーズン。',
-    url: 'https://croud-travel.pages.dev/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/179020/179020.jpg' , alt: "11・12・1月三島沼津：冬の三嶋大社新春開運初詣！名宿5選"}]
   }
@@ -151,7 +151,7 @@ export default function ShizuokaMishimaPage() {
         "@type": "Article",
         "headline": "【11・12・1月三島沼津】冬の三嶋大社新春開運初詣＆富士山スカイウォーク絶景！駿河湾深海魚・沼津港寒魚と名湯に寛ぐ厳選宿5選",
         "description": "冬の三島・沼津は、大気が一年で最も澄み渡り、純白の冠雪を抱く富士山と紺碧の駿河湾が圧巻のコントラストを描く至高のシーズン。11月下旬の富士山雪化粧から1月の伊豆国一宮・三嶋大社新春初詣まで、源頼朝旗揚げの勝運パワーが満ち溢れます。日本最長吊橋・三島スカイウォークからの富士パノラマ、沼津港で冬に本番を迎える深海魚（本タカアシガニ・アカザエビ）や寒真鯛、箱根西麓三島野菜を堪能し、富士山展望風呂や中伊豆の名湯で温まる冬旅。楽天APIから最新取得した信頼の厳選宿5選を徹底特集します。",
-        "url": 'https://croud-travel.pages.dev/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay',
+        "url": 'https://croud-travel.pages.dev/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay/',
         "publisher": {
           "@type": "Organization",
           "name": "週末ごほうび旅・厳選の宿ガイド",
@@ -171,13 +171,13 @@ export default function ShizuokaMishimaPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "冬の三島・沼津・三嶋大社初詣＆富士山絶景特集",
-            "item": 'https://croud-travel.pages.dev/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay'
+            "item": 'https://croud-travel.pages.dev/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay/'
           }
         ]
       },
@@ -250,7 +250,7 @@ export default function ShizuokaMishimaPage() {
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-sky-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-sky-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-sky-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">冬の三島・沼津・三嶋大社初詣＆富士山絶景特集</li>
         </ol>
@@ -543,28 +543,28 @@ export default function ShizuokaMishimaPage() {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
-              href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay"
+              href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-sky-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【箱根】冬の箱根湯本＆芦ノ湖・箱根神社初詣と富士山名宿</span>
               <span className="text-xs text-slate-500">澄み渡る白雪富士と関東総鎮守の開運祈願、相模湾の寒魚会席</span>
             </Link>
             <Link 
-              href="/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay"
+              href="/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-sky-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【盛岡】盛岡八幡宮新春初詣＆岩手山白銀絶景名宿</span>
               <span className="text-xs text-slate-500">繋温泉の源泉掛け流し美肌湯と盛岡三大麺、極上雫石牛すき焼き</span>
             </Link>
             <Link 
-              href="/winter-ehime-imabari-shimanami-oomishima-taimeshi-onsen-stay"
+              href="/winter-ehime-imabari-shimanami-oomishima-taimeshi-onsen-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-sky-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【愛媛・しまなみ】大山祇神社新春初詣＆天然真鯛名宿</span>
               <span className="text-xs text-slate-500">冬晴れの来島海峡大橋絶景と日本総鎮守初詣、ふっくら鯛めし</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-sky-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>

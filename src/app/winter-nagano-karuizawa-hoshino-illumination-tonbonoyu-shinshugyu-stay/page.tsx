@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月長野：星野エリアもみの木イルミネーション！名宿5選',
     description: '11月から1月、浅間山の南麓に位置する避暑地・軽井沢は、観光の喧騒が去り、澄み切った青空と白銀の静寂に包まれる最も美しい季節を迎えます。',
-    url: 'https://croud-travel.pages.dev/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '冬の軽井沢星野イルミネーション＆温泉特集',
-        item: 'https://croud-travel.pages.dev/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay'
+        item: 'https://croud-travel.pages.dev/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay/'
       }
     ]
   };
@@ -652,7 +652,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay" 
+              href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">長野・白馬温泉</span>
@@ -662,7 +662,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay" 
+              href="/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">長野・昼神温泉</span>
@@ -672,7 +672,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-shibu-onsen-nine-sotoyu-stay" 
+              href="/winter-nagano-shibu-onsen-nine-sotoyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">長野・渋温泉</span>
@@ -682,7 +682,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay" 
+              href="/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">山梨・清里八ヶ岳</span>
@@ -692,7 +692,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay" 
+              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">三重・伊勢神宮</span>
@@ -702,7 +702,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
             </Link>
 
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-stone-100 border border-stone-200 hover:border-teal-400 transition-all group flex flex-col justify-center text-center"
             >
               <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors">

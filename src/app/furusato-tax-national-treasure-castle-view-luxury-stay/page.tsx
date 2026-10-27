@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '国宝天守・城下町キャッスルビュー名門宿×ふるさと納税厳選ガイド姫路城・松本城・彦根城の歴史旅',
     description: '客室から国宝天守を一望する贅沢！世界遺産・姫路城（白鷺城）のライトアップパノラマ、北アルプスを背負う漆黒の松本城下町ホテル、琵琶湖畔に聳える彦根城直結名門リゾート。戦国ロマンと武家文化を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-national-treasure-castle-view-luxury-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-national-treasure-castle-view-luxury-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -623,7 +623,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-three-great-gardens-heritage-stay"
+            href="/furusato-tax-three-great-gardens-heritage-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -639,7 +639,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay"
+            href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -655,7 +655,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-historical-kaido-post-town-ryokan-stay"
+            href="/furusato-tax-historical-kaido-post-town-ryokan-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

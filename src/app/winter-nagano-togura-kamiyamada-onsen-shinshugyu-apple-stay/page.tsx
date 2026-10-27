@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '戸倉上山田温泉で過ごす冬の旅（11・12月）！善光寺精進落としの美肌硫黄泉！名宿5選',
     description: '11月中旬から12月の初冬を迎えた信州千曲川のほとり、戸倉上山田温泉は山々が初雪をまとい。',
-    url: 'https://croud-travel.pages.dev/winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -57,7 +57,7 @@ export default function NaganoToguraKamiyamadaWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -380,7 +380,7 @@ export default function NaganoToguraKamiyamadaWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月戸倉上山田温泉】善光寺精進落としの美肌硫黄泉！名宿5選","item":"https://croud-travel.pages.dev/winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月戸倉上山田温泉】善光寺精進落としの美肌硫黄泉！名宿5選","item":"https://croud-travel.pages.dev/winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay/"}]}) }}
       />
 
         {/* Introduction Section */}
@@ -687,7 +687,7 @@ export default function NaganoToguraKamiyamadaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay"
+              href="/winter-nagano-kakeyu-onsen-toji-soba-shinshugyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">長野・上田鹿教湯</span>
@@ -700,7 +700,7 @@ export default function NaganoToguraKamiyamadaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-yamada-onsen-matsukawakeikoku-shinshugyu-stay"
+              href="/winter-nagano-yamada-onsen-matsukawakeikoku-shinshugyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">長野・信州高山</span>
@@ -713,7 +713,7 @@ export default function NaganoToguraKamiyamadaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-achimura-hirugami-starry-sky-stay"
+              href="/winter-nagano-achimura-hirugami-starry-sky-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">長野・阿智村昼神</span>

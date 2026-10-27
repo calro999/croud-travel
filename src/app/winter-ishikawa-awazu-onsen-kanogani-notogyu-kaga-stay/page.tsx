@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '石川・粟津温泉で過ごす冬の旅（11・12月）！開湯1300年の白山霊泉！名宿5選',
     description: '11月上旬、日本海に冬の訪れを告げる青いタグ付きブランドズワイガニ「加能ガニ」と、濃厚な内子と外子を抱えたメスガニ「香箱ガニ」の漁が解禁されると。',
-    url: 'https://croud-travel.pages.dev/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay',
+    url: 'https://croud-travel.pages.dev/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterIshikawaAwazuPage() {
         'headline': "【11・12月石川・粟津温泉＆加賀温泉郷】開湯1300年の白山霊泉・解禁加能ガニ＆香箱ガニと能登牛を味わう名宿5選",
         'description': "11月上旬、日本海に冬の訪れを告げる青いタグ付きブランドズワイガニ「加能ガニ」と、濃厚な内子と外子を抱えたメスガニ「香箱ガニ」の漁が解禁されると、石川県小松市・加賀温泉郷の古湯「粟津温泉（あわづおんせん）」は美食の熱気に包まれます。奈良時代、霊峰白山を開山した高僧・泰澄大師によって養老2年（718年）に開湯された粟津温泉は、1300年を超える歴史を誇り、温泉街のすべての宿がそれぞれ独自の自家堀り源泉を所有している全国的にも極めて稀有な名湯地です。純度100%の無色透明なナトリウム-硫酸塩・塩化物泉は、浸かれば肌がしっとりと潤い、身体の芯まで熱が染み渡る「温まりの湯」。夕食には解禁されたばかりのタグ付き加能ガニの花咲く洗い、香ばしい焼きガニ、甲羅味噌焼き、そして濃厚な内子を味わう香箱ガニの甲羅盛り、さらにきめ細やかな肉質の特選「能登牛」の網焼き。九谷焼や山中漆器の絢爛豪華な器とともに、初冬の北陸の贅を尽くす厳選名宿5選を詳しく紹介します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterIshikawaAwazuPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-teal-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">石川・粟津温泉＆加賀温泉郷</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterIshikawaAwazuPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月石川・粟津温泉】開湯1300年の白山霊泉！名宿5選","item":"https://croud-travel.pages.dev/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月石川・粟津温泉】開湯1300年の白山霊泉！名宿5選","item":"https://croud-travel.pages.dev/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -531,7 +531,7 @@ export default function WinterIshikawaAwazuPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay"
+              href="/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">石川・和倉温泉</span>
@@ -544,7 +544,7 @@ export default function WinterIshikawaAwazuPage() {
             </Link>
 
             <Link 
-              href="/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay"
+              href="/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">石川・山中温泉</span>
@@ -557,7 +557,7 @@ export default function WinterIshikawaAwazuPage() {
             </Link>
 
             <Link 
-              href="/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay"
+              href="/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">富山・氷見温泉</span>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '北アルプス冠雪と安曇野の安曇野わさび田紅葉！美肌の穂高温泉郷宿×ふるさと納税厳選ガイド長野',
     description: '10月中旬〜11月上旬に見頃を迎える「信州安曇野（あずみの）」と穂高温泉郷。大王わさび農場の蓼川水車小屋紅葉と冠雪の北アルプス（常念岳）、名湯「安曇野穂高ビューホテル」「ガーデンあずみ野」「アートキャビン」で信州サーモンや信州そば・安曇野美豚・信州牛を堪能。楽天ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-azumino-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-azumino-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">信州安曇野・大王わさび農場紅葉＆穂高温泉郷リゾート特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

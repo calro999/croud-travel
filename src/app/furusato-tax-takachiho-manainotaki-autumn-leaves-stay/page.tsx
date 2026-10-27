@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '神話の里・高千穂峡の真名井の滝紅葉ボート＆高千穂神社夜神楽！極上高千穂牛宿×ふるさと納税厳選ガイド宮崎',
     description: '11月上旬〜下旬に柱状節理の峡谷とエメラルドの水面が深紅に彩られる日本屈指のパワースポット「宮崎・高千穂峡」。真名井の滝を見上げる手漕ぎ貸ボートや高千穂神社の重要無形民俗文化財「夜神楽」鑑賞、山懐に抱かれた名宿「旅館 神仙」「旅館 大和屋」「今国旅館」で日本一の栄冠に輝いた最高峰・高千穂牛ステーキを堪能。ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-takachiho-manainotaki-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-takachiho-manainotaki-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -102,7 +102,7 @@ export default function FeatureArticlePage() {
       <nav className="max-w-6xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-600 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:underline text-stone-500">トップ</Link>
         <span>&gt;</span>
-        <Link href="/autumn-leaves" className="hover:underline text-stone-500">秋・紅葉特集</Link>
+        <Link href="/autumn-leaves/" className="hover:underline text-stone-500">秋・紅葉特集</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-medium">宮崎・西臼杵 / 高千穂峡真名井の滝紅葉ボート＆高千穂神社夜神楽・高千穂牛</span>
       </nav>
@@ -391,27 +391,27 @@ export default function FeatureArticlePage() {
             <h4 className="font-bold text-stone-900 text-xs mb-3">🍂 関連する秋の特集</h4>
             <ul className="space-y-2 text-xs text-stone-600">
               <li>
-                <Link href="/furusato-tax-ouchijuku-yunokami-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-ouchijuku-yunokami-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・福島・大内宿＆湯野上温泉
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-nasu-chause-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-nasu-chause-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・栃木・那須高原茶臼岳＆鹿の湯
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-gero-gassho-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-gero-gassho-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・岐阜・下呂温泉＆合掌村ライトアップ
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-arashiyama-togetsukyo-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-arashiyama-togetsukyo-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・京都・嵐山渡月橋＆嵯峨野トロッコ
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-arima-zuihoji-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-arima-zuihoji-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・兵庫・有馬温泉瑞宝寺公園＆金泉銀泉
                 </Link>
               </li>

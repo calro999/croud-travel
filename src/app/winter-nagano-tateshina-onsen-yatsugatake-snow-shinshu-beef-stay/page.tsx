@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '蓼科温泉郷で過ごす冬の旅（11・12月）！極上信州蓼科牛ステーキ！名宿5選',
     description: '11月から12月にかけて、長野県・八ヶ岳連峰の裾野に広がる蓼科高原・蓼科温泉郷は、静寂な白樺林やカラマツ林が初雪に彩られ。',
-    url: 'https://croud-travel.pages.dev/winter-nagano-tateshina-onsen-yatsugatake-snow-shinshu-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-tateshina-onsen-yatsugatake-snow-shinshu-beef-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function NaganoTateshinaWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-nagano-tateshina-onsen-yatsugatake-snow-shinshu-beef-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-nagano-tateshina-onsen-yatsugatake-snow-shinshu-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-tateshina-onsen-yatsugatake-snow-shinshu-beef-stay/"
         },
         "headline": "【11・12月長野・蓼科温泉郷の初冬八ヶ岳雪景色と信玄の隠し湯】極上信州蓼科牛ステーキ＆信州サーモン・新蕎麦会席を愉しむ高原名宿5選",
         "description": "11月から12月にかけて、長野県・八ヶ岳連峰の裾野に広がる蓼科高原・蓼科温泉郷は、静寂な白樺林やカラマツ林が初雪に彩られ、蓼科湖や御射鹿池（みしゃかいけ）が氷雪の神秘的な冬景色へと移ろう息を呑むような初冬を迎えます。戦国武将・武田信玄公が川中島の戦いで傷ついた兵士を癒やしたと伝わる「信玄の隠し湯」は、美肌効果と疲労回復に優れた名湯。夕食にはジューシーで上品な甘みの「信州蓼科牛」ステーキ、清流が育む「信州サーモン」、収穫したての香り高い信州新蕎麦を味わう厳選高原名宿5選を徹底解説します。",
@@ -100,13 +100,13 @@ export default function NaganoTateshinaWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "長野・蓼科温泉郷 初冬八ヶ岳雪景色と信玄の隠し湯",
-            "item": "https://croud-travel.pages.dev/winter-nagano-tateshina-onsen-yatsugatake-snow-shinshu-beef-stay"
+            "item": "https://croud-travel.pages.dev/winter-nagano-tateshina-onsen-yatsugatake-snow-shinshu-beef-stay/"
           }
         ]
       },
@@ -564,7 +564,7 @@ export default function NaganoTateshinaWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
-              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay"
+              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-emerald-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-700 bg-emerald-100/60 px-2 py-0.5 rounded-full inline-block">長野・上諏訪</span>
@@ -576,7 +576,7 @@ export default function NaganoTateshinaWinterFeature() {
               </p>
             </Link>
             <Link 
-              href="/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay"
+              href="/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-emerald-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-700 bg-emerald-100/60 px-2 py-0.5 rounded-full inline-block">信州・別所</span>
@@ -588,7 +588,7 @@ export default function NaganoTateshinaWinterFeature() {
               </p>
             </Link>
             <Link 
-              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay"
+              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-emerald-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-700 bg-emerald-100/60 px-2 py-0.5 rounded-full inline-block">山梨・河口湖</span>
@@ -600,7 +600,7 @@ export default function NaganoTateshinaWinterFeature() {
               </p>
             </Link>
             <Link 
-              href="/winter-nagano-asama-onsen-matsumoto-castle-snow-stay"
+              href="/winter-nagano-asama-onsen-matsumoto-castle-snow-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-emerald-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-700 bg-emerald-100/60 px-2 py-0.5 rounded-full inline-block">信州・松本浅間</span>

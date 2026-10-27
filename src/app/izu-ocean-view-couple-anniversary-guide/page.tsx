@@ -406,7 +406,7 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
 
         <div className="grid sm:grid-cols-2 gap-4">
           <Link
-            href="/atami-izu-travel-budget-guide"
+            href="/atami-izu-travel-budget-guide/"
             className="group block p-5 rounded-2xl border-2 border-slate-100 hover:border-cyan-400 bg-slate-50 hover:bg-cyan-50/40 transition-all duration-200"
           >
             <div className="text-xs font-bold text-cyan-600 mb-1 flex items-center gap-1">
@@ -421,7 +421,7 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
           </Link>
 
           <Link
-            href="/atami-daytrip-hotspring-lunch-guide"
+            href="/atami-daytrip-hotspring-lunch-guide/"
             className="group block p-5 rounded-2xl border-2 border-slate-100 hover:border-cyan-400 bg-slate-50 hover:bg-cyan-50/40 transition-all duration-200"
           >
             <div className="text-xs font-bold text-cyan-600 mb-1 flex items-center gap-1">

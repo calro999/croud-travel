@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり：石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿',
     description: '「さぬきのこんぴらさん」の参道に湧く四国屈指の温泉郷！金刀比羅宮参道口に位置し展望露天風呂や和モダン客室が極上の「琴平グランドホテル 桜の抄」、多彩な庭園露天や館内湯巡りが贅沢な姉妹館「湯元こんぴら温泉華の湯 紅梅亭」、アットホームなもてなしと良心的な価格が魅力の老舗「虎屋旅館」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/kagawa-kotohira-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/kagawa-kotohira-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/kagawa-kotohira-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/kagawa-kotohira-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり】石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿","item":"https://croud-travel.pages.dev/kagawa-kotohira-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり】石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿","item":"https://croud-travel.pages.dev/kagawa-kotohira-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

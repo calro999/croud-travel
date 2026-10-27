@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '家族の最高の思い出を！星野リゾート「リゾナーレ」×ふるさと納税極上旅ガイド八ヶ岳・熱海・那須で洗練された非日常ステイ',
     description: '洗練されたデザインと土地の恵みを体感するアクティビティが融合した星野リゾートのファミリーリゾートホテル「リゾナーレ」。「リゾナーレ八ヶ岳」「リゾナーレ熱海」「リゾナーレ那須」を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で賢く予約する完全ガイド。波の出る全天候型プール、絶景クライミング、森のアグリツーリズモを体験。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-hoshino-resorts-risonare-family-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-hoshino-resorts-risonare-family-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoHoshinoRisonareStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">星野リゾート リゾナーレ特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoHoshinoRisonareStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-indoor-pool-kids-family-resort-stay"
+            href="/furusato-tax-indoor-pool-kids-family-resort-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【一年中泳げる室内温水プール宿×ふるさと納税】那須・草津・別府リゾート
           </Link>
           <Link
-            href="/furusato-tax-welcome-baby-family-kids-stay"
+            href="/furusato-tax-welcome-baby-family-kids-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【ウェルカムベビーのお宿認定×ふるさと納税】赤ちゃん・幼児連れ安心名宿
           </Link>
           <Link
-            href="/furusato-tax-tokyo-disney-resort-official-hotel-stay"
+            href="/furusato-tax-tokyo-disney-resort-official-hotel-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【東京ディズニーリゾート公式ホテル×ふるさと納税】舞浜直結オフィシャル
           </Link>
           <Link
-            href="/furusato-tax-all-inclusive-free-drinks-alcohol-stay"
+            href="/furusato-tax-all-inclusive-free-drinks-alcohol-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【お酒飲み放題オールインクルーシブ宿×ふるさと納税】贅沢ラウンジステイ

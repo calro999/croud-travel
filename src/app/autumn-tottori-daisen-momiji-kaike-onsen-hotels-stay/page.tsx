@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "下旬〜11月上旬！鳥取大山の紅葉で過ごす冬の旅（10月）！鍵掛峠の絶景パノラマと皆生温泉オーシャンビュー宿5選",
     description: "西日本最大級のブナ林が黄金色に輝く霊峰・伯耆富士「大山」の紅葉！鍵掛峠の南壁パノラマから、日本海を一望する海中湧出の名湯・皆生温泉の極上宿まで厳選5選。",
-    url: 'https://croud-travel.pages.dev/autumn-tottori-daisen-momiji-kaike-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-tottori-daisen-momiji-kaike-onsen-hotels-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -141,7 +141,7 @@ export default function FeaturePage() {
       <nav className="max-w-5xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-500 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
         <Link href="/" className="hover:text-amber-600">ホーム</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <Link href="/features" className="hover:text-amber-600">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-600">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <span className="text-stone-800 font-medium truncate">【10月下旬〜11月上旬！鳥取大山の紅葉】鍵掛峠の絶景パノラマと皆生温泉オーシャンビュー宿5選</span>
       </nav>
@@ -187,8 +187,8 @@ export default function FeaturePage() {
             "@type": "BreadcrumbList",
             "itemListElement": [
               { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev/" },
-              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features" },
-              { "@type": "ListItem", "position": 3, "name": "【10月下旬〜11月上旬！鳥取大山の紅葉】鍵掛峠の絶景パノラマと皆生温泉オーシャンビュー宿5選", "item": "https://croud-travel.pages.dev/autumn-tottori-daisen-momiji-kaike-onsen-hotels-stay" }
+              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features/" },
+              { "@type": "ListItem", "position": 3, "name": "【10月下旬〜11月上旬！鳥取大山の紅葉】鍵掛峠の絶景パノラマと皆生温泉オーシャンビュー宿5選", "item": "https://croud-travel.pages.dev/autumn-tottori-daisen-momiji-kaike-onsen-hotels-stay/" }
             ]
           }) }}
         />

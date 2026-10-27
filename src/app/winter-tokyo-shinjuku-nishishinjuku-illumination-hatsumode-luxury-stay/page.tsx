@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月東京：花園神社初詣を味わう！名宿5選',
     description: '11月中旬から1月にかけて、新宿・西新宿エリアは世界最大のターミナルを包み込む光の祭典「新宿ミナミルミ」やサザンテラスの幻想的な冬イルミネーション。',
-    url: 'https://croud-travel.pages.dev/winter-tokyo-shinjuku-nishishinjuku-illumination-hatsumode-luxury-stay',
+    url: 'https://croud-travel.pages.dev/winter-tokyo-shinjuku-nishishinjuku-illumination-hatsumode-luxury-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -165,7 +165,7 @@ export default function TokyoShinjukuWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-tokyo-shinjuku-nishishinjuku-illumination-hatsumode-luxury-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-tokyo-shinjuku-nishishinjuku-illumination-hatsumode-luxury-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tokyo-shinjuku-nishishinjuku-illumination-hatsumode-luxury-stay/"
         },
         "headline": "【11・12・1月東京】新宿＆西新宿・新宿御苑！新宿ミナミルミ＆サザンテラス冬イルミと都庁展望室夜景・花園神社初詣を味わう名宿5選",
         "description": "11月中旬から1月にかけて、新宿・西新宿エリアは世界最大のターミナルを包み込む光の祭典「新宿ミナミルミ」やサザンテラスの幻想的な冬イルミネーション、地上202m都庁展望室から望む澄み切った夕暮れ富士山と360度の大パノラマ夜景に包まれます。新春には新宿総鎮守・花園神社での厳かな初詣、新宿御苑の冬木立散策、名店のすき焼きや江戸前鮨の美食。摩天楼の眺望と極上のホスピタリティを誇る西新宿・歌舞伎町の厳選ラグジュアリーホテル5選を徹底解説します。",
@@ -191,13 +191,13 @@ export default function TokyoShinjukuWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "新宿＆西新宿・新宿御苑冬特集",
-            "item": "https://croud-travel.pages.dev/winter-tokyo-shinjuku-nishishinjuku-illumination-hatsumode-luxury-stay"
+            "item": "https://croud-travel.pages.dev/winter-tokyo-shinjuku-nishishinjuku-illumination-hatsumode-luxury-stay/"
           }
         ]
       },
@@ -608,7 +608,7 @@ export default function TokyoShinjukuWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-tokyo-shibuya-omotesando-meijijingu-hatsumode-illumination-stay"
+              href="/winter-tokyo-shibuya-omotesando-meijijingu-hatsumode-illumination-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-indigo-400 block mb-1">渋谷・表参道冬特集</span>
@@ -616,7 +616,7 @@ export default function TokyoShinjukuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tokyo-ginza-hibiya-illumination-christmas-market-luxury-stay"
+              href="/winter-tokyo-ginza-hibiya-illumination-christmas-market-luxury-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-indigo-400 block mb-1">銀座・日比谷冬特集</span>
@@ -624,7 +624,7 @@ export default function TokyoShinjukuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tokyo-roppongi-hills-azabudai-keyakizaka-illumination-stay"
+              href="/winter-tokyo-roppongi-hills-azabudai-keyakizaka-illumination-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-indigo-400 block mb-1">六本木・麻布台冬特集</span>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '都心から70分！湯河原温泉・万葉公園の紅葉散策＆文豪が愛した名湯旅館×ふるさと納税厳選ガイド神奈川',
     description: '11月中旬〜12月上旬に見頃を迎える神奈川・湯河原温泉の紅葉！リニューアルした万葉公園「湯河原惣湯 Books and Retreat」のせせらぎ散策、夏目漱石や島崎藤村が逗留した老舗旅館「伊藤屋」「富士屋旅館」「ふきや」で弱食塩泉の極上美肌湯と相模湾の朝獲れ地魚会席を堪能。楽天ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-yugawara-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-yugawara-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">神奈川・湯河原温泉 万葉公園もみじ狩り＆文豪ゆかりの名湯宿特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

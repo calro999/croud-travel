@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：噴き出す温泉蒸気で素材の旨味を凝縮！名物「地獄蒸し」料理が自慢の温泉宿5選',
     description: '2026年最新！別府鉄輪温泉や雲仙・小浜など、源泉の高温蒸気で海鮮や野菜を丸ごと蒸し上げる絶品「地獄蒸し料理」と名湯を満喫できる厳選宿5選。',
-    url: 'https://croud-travel.pages.dev/geothermal-hell-steamed-cuisine-onsen-stay',
+    url: 'https://croud-travel.pages.dev/geothermal-hell-steamed-cuisine-onsen-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/geothermal-hell-steamed-cuisine-onsen-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/geothermal-hell-steamed-cuisine-onsen-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">地獄蒸し料理×名湯蒸気宿</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             立ち上る湯けむりと地球のエネルギーを体感する温泉地。高温の温泉蒸気で一気に蒸し上げる「地獄蒸し」は、素材本来の甘みと旨味がぎゅっと凝縮された究極のヘルシー美食。自炊体験ができる湯治宿から豪華会席プランまで、蒸気グルメの名宿をピックアップ。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】噴き出す温泉蒸気で素材の旨味を凝縮！名物「地獄蒸し」料理が自慢の温泉宿5選" url="https://croud-travel.pages.dev/geothermal-hell-steamed-cuisine-onsen-stay" />
+            <ShareButtons title="【2026年】噴き出す温泉蒸気で素材の旨味を凝縮！名物「地獄蒸し」料理が自慢の温泉宿5選" url="https://croud-travel.pages.dev/geothermal-hell-steamed-cuisine-onsen-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】噴き出す温泉蒸気で素材の旨味を凝縮！名物「地獄蒸し」料理が自慢の温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/geothermal-hell-steamed-cuisine-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】噴き出す温泉蒸気で素材の旨味を凝縮！名物「地獄蒸し」料理が自慢の温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/geothermal-hell-steamed-cuisine-onsen-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

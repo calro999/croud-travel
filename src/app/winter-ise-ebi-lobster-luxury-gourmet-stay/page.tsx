@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：ぷりぷり甘い極上伊勢海老！名宿5選',
     description: '2026年最新！伊勢志摩・南紀・伊豆で水揚げされた活伊勢海老のお造りや香ばしい鬼殻焼き、濃厚な味噌汁・雑炊を堪能できる贅沢グルメ温泉宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-ise-ebi-lobster-luxury-gourmet-stay',
+    url: 'https://croud-travel.pages.dev/winter-ise-ebi-lobster-luxury-gourmet-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-ise-ebi-lobster-luxury-gourmet-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-ise-ebi-lobster-luxury-gourmet-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">特大活伊勢海老×極上鬼殻焼き会席</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             透き通るような身の甘みと弾力ある歯ごたえがたまらない活伊勢海老のお造り。炭火で香ばしく焼き上げる鬼殻焼き、頭から溢れ出る濃厚な海老味噌の旨味を吸い尽くす締めのお雑炊。海の王様・伊勢海老を余すところなく味わう贅沢な美食旅。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】ぷりぷり甘い極上伊勢海老！お造り・鬼殻焼き・伊勢海老出汁雑炊の名宿5選" url="https://croud-travel.pages.dev/winter-ise-ebi-lobster-luxury-gourmet-stay" />
+            <ShareButtons title="【2026年】ぷりぷり甘い極上伊勢海老！お造り・鬼殻焼き・伊勢海老出汁雑炊の名宿5選" url="https://croud-travel.pages.dev/winter-ise-ebi-lobster-luxury-gourmet-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】ぷりぷり甘い極上伊勢海老！名宿5選","item":"https://croud-travel.pages.dev/winter-ise-ebi-lobster-luxury-gourmet-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】ぷりぷり甘い極上伊勢海老！名宿5選","item":"https://croud-travel.pages.dev/winter-ise-ebi-lobster-luxury-gourmet-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

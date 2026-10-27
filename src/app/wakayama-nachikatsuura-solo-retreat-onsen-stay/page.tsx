@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '南紀勝浦温泉ひとり旅・世界遺産熊野古道おこもり：太平洋パノラマ露天・生まぐろ水揚げ日本一・島まるごと天然温泉！那智の滝と海の秘境厳選3宿',
     description: '世界遺産「紀伊山地の霊場と参詣道」の玄関口・南紀勝浦温泉！熊野灘を一望する絶景露天風呂と旬の生まぐろバイキングが評判の「休暇村 南紀勝浦」、海沿いの静寂と豊かな自家源泉が心温まる「ホテルなぎさや」、専用客船で渡る孤島の天然露天風呂「紀州潮聞之湯」を誇る最高峰「碧き島の宿 熊野別邸 中の島」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/wakayama-nachikatsuura-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/wakayama-nachikatsuura-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/wakayama-nachikatsuura-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/wakayama-nachikatsuura-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【南紀勝浦温泉ひとり旅・世界遺産熊野古道おこもり】太平洋パノラマ露天・生まぐろ水揚げ日本一・島まるごと天然温泉！那智の滝と海の秘境厳選3宿","item":"https://croud-travel.pages.dev/wakayama-nachikatsuura-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【南紀勝浦温泉ひとり旅・世界遺産熊野古道おこもり】太平洋パノラマ露天・生まぐろ水揚げ日本一・島まるごと天然温泉！那智の滝と海の秘境厳選3宿","item":"https://croud-travel.pages.dev/wakayama-nachikatsuura-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

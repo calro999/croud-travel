@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：武家屋敷の門構えと歴史ロマン！城下町の情緒漂う伝統美の温泉宿5選',
     description: '2026年最新！角館・萩・松本など、江戸時代の武家屋敷や城下町の風情を今に伝える格式高い門構えと日本庭園、名湯を堪能できる名宿5選。',
-    url: 'https://croud-travel.pages.dev/historic-samurai-residence-castle-town-stay',
+    url: 'https://croud-travel.pages.dev/historic-samurai-residence-castle-town-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/historic-samurai-residence-castle-town-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/historic-samurai-residence-castle-town-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">武家屋敷×城下町歴史ロマン</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             黒塗りの板塀、重厚な薬医門、樹齢数百年の古木が茂る日本庭園。まるで江戸時代の絵巻物の中に迷い込んだかのような武家屋敷の宿。歴史ある城下町を散策し、武士の美学が息づく静寂の空間で名湯と伝統の郷土会席を味わう格別の旅路。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】武家屋敷の門構えと歴史ロマン！城下町の情緒漂う伝統美の温泉宿5選" url="https://croud-travel.pages.dev/historic-samurai-residence-castle-town-stay" />
+            <ShareButtons title="【2026年】武家屋敷の門構えと歴史ロマン！城下町の情緒漂う伝統美の温泉宿5選" url="https://croud-travel.pages.dev/historic-samurai-residence-castle-town-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】武家屋敷の門構えと歴史ロマン！城下町の情緒漂う伝統美の温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/historic-samurai-residence-castle-town-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】武家屋敷の門構えと歴史ロマン！城下町の情緒漂う伝統美の温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/historic-samurai-residence-castle-town-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策！高原リゾート温泉×ふるさと納税厳選ガイド長野',
     description: '10月中旬〜11月上旬に水面が燃えるような赤と黄に染まる「信州・軽井沢 雲場池（スワンレイク）」。旧軽井沢銀座のレトロ散策やハルニレテラス、秋風心地よい高原温泉「ホテルグリーンプラザ軽井沢」「ゆとりろ軽井沢ホテル」「旧軽井沢 ホテル音羽ノ森」で信州サーモンや信州プレミアム牛・信州新そばフレンチを堪能。ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-karuizawa-kumobaike-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-karuizawa-kumobaike-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -102,7 +102,7 @@ export default function FeatureArticlePage() {
       <nav className="max-w-6xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-600 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:underline text-stone-500">トップ</Link>
         <span>&gt;</span>
-        <Link href="/autumn-leaves" className="hover:underline text-stone-500">秋・紅葉特集</Link>
+        <Link href="/autumn-leaves/" className="hover:underline text-stone-500">秋・紅葉特集</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-medium">長野・軽井沢 / 雲場池スワンレイク紅葉＆旧軽井沢散策・高原リゾート温泉</span>
       </nav>
@@ -391,27 +391,27 @@ export default function FeatureArticlePage() {
             <h4 className="font-bold text-stone-900 text-xs mb-3">🍂 関連する秋の特集</h4>
             <ul className="space-y-2 text-xs text-stone-600">
               <li>
-                <Link href="/furusato-tax-ouchijuku-yunokami-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-ouchijuku-yunokami-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・福島・大内宿＆湯野上温泉
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-nasu-chause-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-nasu-chause-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・栃木・那須高原茶臼岳＆鹿の湯
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-gero-gassho-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-gero-gassho-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・岐阜・下呂温泉＆合掌村ライトアップ
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-arashiyama-togetsukyo-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-arashiyama-togetsukyo-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・京都・嵐山渡月橋＆嵯峨野トロッコ
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-arima-zuihoji-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-arima-zuihoji-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・兵庫・有馬温泉瑞宝寺公園＆金泉銀泉
                 </Link>
               </li>

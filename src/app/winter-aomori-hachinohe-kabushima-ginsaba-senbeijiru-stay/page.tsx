@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月青森：蕪島神社初詣！名宿5選',
     description: '11月から1月、青森県八戸市は日本一脂が乗る「八戸前沖銀鯖」の最盛期を迎え、出汁の染みた熱々の「八戸せんべい汁」が極上の美味を放ちます。',
-    url: 'https://croud-travel.pages.dev/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay',
+    url: 'https://croud-travel.pages.dev/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function AomoriHachinoheKabushimaWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '青森・八戸冬の銀鯖＆せんべい汁特集',
-        item: 'https://croud-travel.pages.dev/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay'
+        item: 'https://croud-travel.pages.dev/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/'
       }
     ]
   };
@@ -599,7 +599,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
-              href="/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay"
+              href="/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-sky-300 flex flex-col justify-between"
             >
               <div>
@@ -612,7 +612,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay"
+              href="/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-sky-300 flex flex-col justify-between"
             >
               <div>
@@ -625,7 +625,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-iwate-sanriku-kotatsu-train-kaisen-stay"
+              href="/winter-iwate-sanriku-kotatsu-train-kaisen-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-sky-300 flex flex-col justify-between"
             >
               <div>
@@ -638,7 +638,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay"
+              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-sky-300 flex flex-col justify-between"
             >
               <div>
@@ -686,7 +686,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
           </p>
           <div className="pt-4">
             <Link 
-              href="/features"
+              href="/features/"
               className="inline-flex items-center gap-2 px-6 py-3 bg-white text-slate-900 font-bold rounded-xl hover:bg-slate-100 transition-colors text-sm"
             >
               <span>冬の特集一覧へ戻る</span>

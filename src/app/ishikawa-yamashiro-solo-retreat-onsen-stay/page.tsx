@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '山代温泉ひとり旅・加賀百万石おこもり：総湯・古総湯・加賀橋立港の海の幸！千三百年続く加賀温泉郷の歴史と美湯に浸る厳選3宿',
     description: '北陸新幹線加賀温泉駅直通！板前割烹の料理自慢で一人旅でも絶品会席が味わえる「ホテルききょう」、和の情緒と2つの源泉大浴場が評判の「葉渡莉」、多彩な露天風呂と加賀太鼓ショーが人気の名門「瑠璃光」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/ishikawa-yamashiro-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/ishikawa-yamashiro-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/ishikawa-yamashiro-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/ishikawa-yamashiro-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【山代温泉ひとり旅・加賀百万石おこもり】総湯・古総湯・加賀橋立港の海の幸！千三百年続く加賀温泉郷の歴史と美湯に浸る厳選3宿","item":"https://croud-travel.pages.dev/ishikawa-yamashiro-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【山代温泉ひとり旅・加賀百万石おこもり】総湯・古総湯・加賀橋立港の海の幸！千三百年続く加賀温泉郷の歴史と美湯に浸る厳選3宿","item":"https://croud-travel.pages.dev/ishikawa-yamashiro-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

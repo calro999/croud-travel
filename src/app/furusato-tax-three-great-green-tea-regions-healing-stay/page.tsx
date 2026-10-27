@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三大銘茶の産地＆大茶園パノラマ・茶香炉ヒーリング宿×ふるさと納税厳選ガイド静岡茶・宇治茶・狭山茶（朝宮茶）',
     description: '芳醇な香りと深緑の美景に癒やされるお茶ツーリズム！静岡「牧之原台地」日本一の大茶園と茶香炉アロマ・駿河湾美肌温泉、京都「宇治」千年の茶文化が息づく抹茶スイーツめぐりと宇治川料理旅館、滋賀「甲賀信楽・朝宮茶」日本最古千二百年の歴史を誇る幻の銘茶と信楽焼陶芸温泉宿。日本三大銘茶の郷を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-green-tea-regions-healing-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-green-tea-regions-healing-stay/',
     siteName: 'トラベル総合ナビ',
     locale: 'ja_JP',
     type: 'article',
@@ -650,7 +650,7 @@ export default function Page() {
             
             <Link
               key="0"
-              href="/furusato-tax-three-great-wagashi-tea-culture-stay"
+              href="/furusato-tax-three-great-wagashi-tea-culture-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -663,7 +663,7 @@ export default function Page() {
             
             <Link
               key="1"
-              href="/furusato-tax-three-great-pottery-towns-gourmet-stay"
+              href="/furusato-tax-three-great-pottery-towns-gourmet-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -676,7 +676,7 @@ export default function Page() {
             
             <Link
               key="2"
-              href="/furusato-tax-sweets-cafe-wagashi-retro-onsen-stay"
+              href="/furusato-tax-sweets-cafe-wagashi-retro-onsen-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">

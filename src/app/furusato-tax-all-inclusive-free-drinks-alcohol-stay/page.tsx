@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '生ビール・地酒・ワインが飲み放題！お財布を気にせず寛ぐオールインクルーシブ名宿×ふるさと納税厳選ガイド作並・松島・伊勢志摩',
     description: 'チェックインからアウトまで、ラウンジのお酒・スイーツ・湯上がりビール・出来立て料理がすべて宿泊代金込み！追加料金ゼロで贅沢な休日を叶えるオールインクルーシブ温泉宿。「ゆづくしSalon一の坊」「松島一の坊」「グランドメルキュール伊勢志摩リゾート＆スパ」を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-all-inclusive-free-drinks-alcohol-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-all-inclusive-free-drinks-alcohol-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoAllInclusiveFreeDrinksStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">飲み放題オールインクルーシブ名宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoAllInclusiveFreeDrinksStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-koshu-winery-harvest-autumn-wine-resort-stay"
+            href="/furusato-tax-koshu-winery-harvest-autumn-wine-resort-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【ワイナリー直営＆ワインペアリング宿×ふるさと納税】勝沼・十勝・余市
           </Link>
           <Link
-            href="/craft-beer-brewery-hotel-ranking-stay"
+            href="/craft-beer-brewery-hotel-ranking-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【クラフトビール醸造所直営・地ビール飲み放題宿×ふるさと納税】
           </Link>
           <Link
-            href="/furusato-tax-tokyo-disney-resort-official-hotel-stay"
+            href="/furusato-tax-tokyo-disney-resort-official-hotel-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【東京ディズニーリゾート公式ホテル×ふるさと納税】舞浜直結オフィシャル
           </Link>
           <Link
-            href="/furusato-tax-usj-osaka-official-partner-hotel-stay"
+            href="/furusato-tax-usj-osaka-official-partner-hotel-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【USJ公式オフィシャルホテル×ふるさと納税】パーク徒歩圏・天然温泉

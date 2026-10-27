@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '釧路出張・男一人旅：天然温泉幣舞の湯・世界三大夕日パノラマ・本場炉端焼き！道東拠点でととのう厳選3宿',
     description: '道東の経済・水産拠点・釧路市での出張やソロ旅に！幣舞橋たもとで天然温泉と釧路川の絶景を望む「ドーミーインPREMIUM釧路」、釧路港オーシャンビューと快適な客室環境を誇る「ＡＮＡクラウンプラザホテル釧路」、優雅なラウンジサービスと夜景が人気の「釧路センチュリーキャッスルホテル」を楽天APIデータに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/kushiro-solo-business-sunset-robata-stay',
+    url: 'https://croud-travel.pages.dev/kushiro-solo-business-sunset-robata-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T16:15:00+09:00',
     dateModified: '2026-10-19T16:15:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/kushiro-solo-business-sunset-robata-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/kushiro-solo-business-sunset-robata-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【釧路出張・男一人旅】天然温泉幣舞の湯・世界三大夕日パノラマ・本場炉端焼き！道東拠点でととのう厳選3宿","item":"https://croud-travel.pages.dev/kushiro-solo-business-sunset-robata-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【釧路出張・男一人旅】天然温泉幣舞の湯・世界三大夕日パノラマ・本場炉端焼き！道東拠点でととのう厳選3宿","item":"https://croud-travel.pages.dev/kushiro-solo-business-sunset-robata-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

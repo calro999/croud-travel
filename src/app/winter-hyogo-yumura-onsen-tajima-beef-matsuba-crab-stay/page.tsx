@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '兵庫・湯村温泉で過ごす冬の旅（11・12月）！本場但馬牛すき焼き！名宿5選',
     description: '11月から12月にかけて、兵庫県北部の山懐に抱かれた山陰の名湯「湯村温泉（ゆむらおんせん）」は、日本海の冬の王様「松葉ガニ（ズワイガニ）」の漁解禁と。',
-    url: 'https://croud-travel.pages.dev/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function HyogoYumuraWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay/"
         },
         "headline": "【11・12月兵庫・湯村温泉の荒湯源泉情緒と解禁松葉ガニ】本場但馬牛すき焼き＆美肌高温泉の隠れ家宿5選",
         "description": "11月から12月にかけて、兵庫県北部の山懐に抱かれた山陰の名湯「湯村温泉（ゆむらおんせん）」は、日本海の冬の王様「松葉ガニ（ズワイガニ）」の漁解禁と、もうもうと立ち上る荒湯の湯けむりが旅情をかきたてる至高の冬シーズンを迎えます。中心を流れる春来川沿いには、日本屈指の高温98度を誇る元湯「荒湯」が湧き、名物の温泉卵や練り菓子づくりを体験。全国の黒毛和牛の頂点に君臨する本場「但馬牛」のとろけるステーキやすき焼き、近隣の浜坂港から直送される獲れたての松葉ガニフルコース、そして肌をしっとり潤す弱アルカリ性の美肌高温泉を満喫できる、厳選の名旅館・温泉ホテル5選を徹底解説します。",
@@ -100,13 +100,13 @@ export default function HyogoYumuraWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "兵庫・但馬 湯村温泉 荒湯源泉情緒と解禁松葉ガニ・但馬牛会席の宿",
-            "item": "https://croud-travel.pages.dev/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay"
+            "item": "https://croud-travel.pages.dev/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay/"
           }
         ]
       },
@@ -592,42 +592,42 @@ export default function HyogoYumuraWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">兵庫・城崎温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">七田外湯めぐりと解禁松葉ガニ・冬の柳並木情緒の宿</h3>
             </Link>
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">鳥取・三朝温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">世界屈指のラドン温泉ととっとり松葉がに・鳥取和牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-kyoto-amanohashidate-matsuba-crab-stay"
+              href="/winter-kyoto-amanohashidate-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">京都・天橋立温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">日本三景雪景色と幻の間人ガニ・初冬の阿蘇海を望む宿</h3>
             </Link>
             <Link 
-              href="/winter-fukui-awara-onsen-echizen-crab-stay"
+              href="/winter-fukui-awara-onsen-echizen-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">福井・あわら温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">本場越前がにの極みと庭園露天風呂・関西奥座敷の名宿</h3>
             </Link>
             <Link 
-              href="/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay"
+              href="/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">岡山・湯原温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">西の横綱砂湯とpH9.3アルカリ美肌泉・蒜山ジャージー牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay"
+              href="/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">石川・山中温泉</span>

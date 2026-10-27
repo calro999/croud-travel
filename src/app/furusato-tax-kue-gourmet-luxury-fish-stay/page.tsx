@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '天然クエ鍋＆幻の高級魚グルメ宿×ふるさと納税厳選ガイド南紀白浜・長崎五島・高知室戸の本クエ会席',
     description: '冬の味覚の王様・海のダイヤ！和歌山南紀白浜の「天然本クエ鍋」と白良浜オーシャン温泉、長崎五島列島の荒波で育った極上クエ薄造りリゾート、高知室戸の黒潮クエ会席＆海洋深層水スパ。ゼラチン質たっぷりの濃厚な旨味を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kue-gourmet-luxury-fish-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kue-gourmet-luxury-fish-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -532,7 +532,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-morning-market-hamayaki-seafood-inn-stay"
+            href="/furusato-tax-morning-market-hamayaki-seafood-inn-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -548,7 +548,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-rias-coast-ise-ebi-abalone-ocean-stay"
+            href="/furusato-tax-rias-coast-ise-ebi-abalone-ocean-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -564,7 +564,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-oceanfront-wave-sound-healing-stay"
+            href="/furusato-tax-oceanfront-wave-sound-healing-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

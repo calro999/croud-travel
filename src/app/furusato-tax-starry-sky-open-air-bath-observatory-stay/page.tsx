@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '満天の星空露天風呂＆天体ドーム天文台リゾート×ふるさと納税厳選ガイド長野阿智村・岡山美星町・沖縄石垣島',
     description: '夜空を埋め尽くす天然のプラネタリウム！長野「阿智村」環境省認定・日本一の星空ナイトツアーと昼神温泉美肌の湯、岡山「美星町」光害防止条例が守る満天の星と天文台の郷宿、沖縄「石垣島」国際ダークスカイ認定・星空保護区のラグジュアリーリゾート。息をのむ星空と極上ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-starry-sky-open-air-bath-observatory-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-starry-sky-open-air-bath-observatory-stay/',
     siteName: 'トラベル総合ナビ',
     locale: 'ja_JP',
     type: 'article',
@@ -712,7 +712,7 @@ export default function Page() {
             
             <Link
               key="0"
-              href="/furusato-tax-starry-sky-astronomy-retreat-stay"
+              href="/furusato-tax-starry-sky-astronomy-retreat-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -725,7 +725,7 @@ export default function Page() {
             
             <Link
               key="1"
-              href="/furusato-tax-three-major-night-view-luxury-hotel-stay"
+              href="/furusato-tax-three-major-night-view-luxury-hotel-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -738,7 +738,7 @@ export default function Page() {
             
             <Link
               key="2"
-              href="/furusato-tax-japan-three-great-hot-springs-heritage-stay"
+              href="/furusato-tax-japan-three-great-hot-springs-heritage-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">

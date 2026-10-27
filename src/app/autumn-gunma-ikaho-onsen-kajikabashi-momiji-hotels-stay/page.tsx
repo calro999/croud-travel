@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選「2026最新」',
     description: '伊香保温泉屈指の紅葉名所「河鹿橋」の真紅のライトアップと365段の石段街。茶褐色の名湯「黄金の湯」を満喫！',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-gunma-ikaho-onsen-kajikabashi-momiji-hotels-stay/',
   }
 };
 

@@ -26,12 +26,12 @@ export const metadata: Metadata = {
   description: '静岡・御殿場の冬を彩る日本屈指の光の祭典「時之栖イルミネーション ひかりのすみか」完全ガイド。全長300mの光のトンネル。',
   keywords: '御殿場, 時之栖, イルミネーション, ひかりのすみか, 御殿場高原ビール, 天然温泉 気楽坊, HOTEL CLAD, ドーミーインEXPRESS富士山御殿場, レンブラントプレミアム富士御殿場, 御殿場プレミアムアウトレット, 富士山 観光',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay/',
   },
   openGraph: {
     title: '御殿場・時之栖イルミネーション：ひかりのすみか550万球の光！名宿5選',
     description: '静岡・御殿場の冬を彩る日本屈指の光の祭典「時之栖イルミネーション ひかりのすみか」完全ガイド。全長300mの光のトンネル。',
-    url: 'https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay/',
     siteName: 'トラベルマップ - 日本の観光名所＆ホテル厳選ガイド',
     locale: 'ja_JP',
     type: 'article',
@@ -76,7 +76,7 @@ export default function GotembaTokinosumikaPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay',
+      '@id': 'https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay/',
     },
   };
 
@@ -94,13 +94,13 @@ export default function GotembaTokinosumikaPage() {
         '@type': 'ListItem',
         position: 2,
         name: '特集一覧',
-        item: 'https://croud-travel.pages.dev/features',
+        item: 'https://croud-travel.pages.dev/features/',
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '御殿場時之栖イルミネーション冬特集',
-        item: 'https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay',
+        item: 'https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay/',
       },
     ],
   };
@@ -157,7 +157,7 @@ export default function GotembaTokinosumikaPage() {
         <div className="max-w-6xl mx-auto px-4 py-3 text-xs sm:text-sm text-slate-600 flex items-center gap-1.5 flex-wrap">
           <Link href="/" className="hover:text-blue-600 transition-colors">ホーム</Link>
           <span className="text-slate-400">/</span>
-          <Link href="/features" className="hover:text-blue-600 transition-colors">特集一覧</Link>
+          <Link href="/features/" className="hover:text-blue-600 transition-colors">特集一覧</Link>
           <span className="text-slate-400">/</span>
           <span className="text-slate-900 font-medium">御殿場時之栖イルミネーション冬特集</span>
         </div>
@@ -206,7 +206,7 @@ export default function GotembaTokinosumikaPage() {
               冷たい夜風で冷えた身体を包み込んでくれるのが、敷地内に湧く天然温泉「気楽坊（きらくぼう）」です。日本屈指の浮遊体験ができる高濃度塩分のお風呂「死海風呂」をはじめ、炭酸泉や薬草湯、富士山を望む大露天風呂など、多彩な湯船が揃います。さらに、富士山の伏流水で丁寧に醸造される「御殿場高原ビール」は、フルーティーなヴァイツェンやキレのあるピルスナーなど本場仕込みのクラフトビールが揃い、地元のブランド肉や窯焼き料理とともに味わえば、冬の寒さも一気に幸福感へと変わります。
             </p>
             <p>
-              昼は国内最大級の店舗数を誇る「御殿場プレミアム・アウトレット」で冬のファッションや生活雑貨のショッピングを楽しみ、夕暮れからは富士の裾野でイルミネーションと美食に浸る。都心から車や高速バスで約1時間半という抜群のアクセスも相まって、カップルのデートやファミリーの冬旅行にこれ以上ない充実度を誇ります。周辺には、空気が澄み渡る冬ならではの<Link href="/winter-clear-air-fuji-view-hotels" className="text-amber-600 hover:underline font-bold">富士山ビュー絶景温泉ホテル</Link>や、新春開運祈願で賑わう<Link href="/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay" className="text-amber-600 hover:underline font-bold">富士山本宮浅間大社の初詣</Link>、さらには温暖な海岸線で楽しむ<Link href="/winter-atami-fireworks-ocean-view-stay" className="text-amber-600 hover:underline font-bold">熱海海上冬花火</Link>など、多彩な冬の旅先が揃っています。
+              昼は国内最大級の店舗数を誇る「御殿場プレミアム・アウトレット」で冬のファッションや生活雑貨のショッピングを楽しみ、夕暮れからは富士の裾野でイルミネーションと美食に浸る。都心から車や高速バスで約1時間半という抜群のアクセスも相まって、カップルのデートやファミリーの冬旅行にこれ以上ない充実度を誇ります。周辺には、空気が澄み渡る冬ならではの<Link href="/winter-clear-air-fuji-view-hotels/" className="text-amber-600 hover:underline font-bold">富士山ビュー絶景温泉ホテル</Link>や、新春開運祈願で賑わう<Link href="/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay/" className="text-amber-600 hover:underline font-bold">富士山本宮浅間大社の初詣</Link>、さらには温暖な海岸線で楽しむ<Link href="/winter-atami-fireworks-ocean-view-stay/" className="text-amber-600 hover:underline font-bold">熱海海上冬花火</Link>など、多彩な冬の旅先が揃っています。
             </p>
           </div>
 
@@ -744,28 +744,28 @@ export default function GotembaTokinosumikaPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs sm:text-sm">
             <Link 
-              href="/winter-clear-air-fuji-view-hotels"
+              href="/winter-clear-air-fuji-view-hotels/"
               className="p-3 bg-slate-800/80 hover:bg-slate-700/80 rounded-xl border border-slate-700 transition-colors flex items-center justify-between"
             >
               <span>澄んだ冬空に輝く富士山！絶景ビュー温泉ホテル厳選ガイド</span>
               <ChevronRight className="w-4 h-4 text-slate-400 shrink-0" />
             </Link>
             <Link 
-              href="/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay"
+              href="/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay/"
               className="p-3 bg-slate-800/80 hover:bg-slate-700/80 rounded-xl border border-slate-700 transition-colors flex items-center justify-between"
             >
               <span>富士山本宮浅間大社新春初詣＆富士宮やきそば・展望名宿</span>
               <ChevronRight className="w-4 h-4 text-slate-400 shrink-0" />
             </Link>
             <Link 
-              href="/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay"
+              href="/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay/"
               className="p-3 bg-slate-800/80 hover:bg-slate-700/80 rounded-xl border border-slate-700 transition-colors flex items-center justify-between"
             >
               <span>浜松フラワーパーク光の祭典＆本場浜名湖うなぎ・舘山寺温泉名宿</span>
               <ChevronRight className="w-4 h-4 text-slate-400 shrink-0" />
             </Link>
             <Link 
-              href="/winter-atami-fireworks-ocean-view-stay"
+              href="/winter-atami-fireworks-ocean-view-stay/"
               className="p-3 bg-slate-800/80 hover:bg-slate-700/80 rounded-xl border border-slate-700 transition-colors flex items-center justify-between"
             >
               <span>熱海海上冬花火＆相模湾オーシャンビュー絶景温泉名宿</span>

@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: '周囲を山々に囲まれた山陰の小京都・島根県津和野。11〜1月は雪化粧した武家屋敷の白壁となまこ壁。',
   keywords: '太皷谷稲成神社 初詣 千本鳥居, 津和野 殿町通り 雪景色, うずめ飯 元祖 津和野, 石見和牛 冬, ゆとりろ津和野, 若槻 津和野, 島根 冬 旅行, 山陰の小京都 津和野 観光',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-shimane-tsuwano-taikodani-inari-hatsumode-uzumemeshi-iwamigyu-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-shimane-tsuwano-taikodani-inari-hatsumode-uzumemeshi-iwamigyu-stay/'
   },
   openGraph: {
     title: '11・12・1月島根：幻の石見和牛厳選！名宿5選',
     description: '周囲を山々に囲まれた山陰の小京都・島根県津和野。11〜1月は雪化粧した武家屋敷の白壁となまこ壁。',
-    url: 'https://croud-travel.pages.dev/winter-shimane-tsuwano-taikodani-inari-hatsumode-uzumemeshi-iwamigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shimane-tsuwano-taikodani-inari-hatsumode-uzumemeshi-iwamigyu-stay/',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -57,7 +57,7 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-shimane-tsuwano-taikodani-inari-hatsumode-uzumemeshi-iwamigyu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-shimane-tsuwano-taikodani-inari-hatsumode-uzumemeshi-iwamigyu-stay/"
     }
   };
 
@@ -75,13 +75,13 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "島根・津和野＆太皷谷稲成神社 冬の初詣とうずめ飯",
-        "item": "https://croud-travel.pages.dev/winter-shimane-tsuwano-taikodani-inari-hatsumode-uzumemeshi-iwamigyu-stay"
+        "item": "https://croud-travel.pages.dev/winter-shimane-tsuwano-taikodani-inari-hatsumode-uzumemeshi-iwamigyu-stay/"
       }
     ]
   };
@@ -275,7 +275,7 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-red-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-red-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-red-600 transition">特集一覧</Link>
             <span>/</span>
             <Link href="/prefectures/shimane/" className="hover:text-red-600 transition">島根県</Link>
             <span>/</span>
@@ -613,7 +613,7 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
               太皷谷稲成神社の千本鳥居が誘う願望成就の新春初詣、雪の殿町通りに泳ぐ錦鯉、熱々の出汁が染み渡る伝統のうずめ飯、そして極上の石見和牛。静寂と温もりが同居する山陰の小京都で、心に残る新年の旅をお楽しみください。
             </p>
             <div className="flex flex-wrap items-center justify-center gap-3 text-xs">
-              <Link href="/features" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
+              <Link href="/features/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 ← 特集一覧に戻る
               </Link>
               <Link href="/prefectures/shimane/" className="px-4 py-2 rounded-full bg-red-50 hover:bg-red-100 text-red-700 font-semibold transition">

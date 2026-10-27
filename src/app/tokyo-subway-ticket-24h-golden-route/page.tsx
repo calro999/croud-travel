@@ -485,7 +485,7 @@ export default function TokyoSubwayTicket24hPage() {
           <h3 className="text-xl font-black mb-4">東京ステイをさらに楽しむ！関連おすすめガイド</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
-              href="/tokyo-disney-resort-family-hotel-comparison"
+              href="/tokyo-disney-resort-family-hotel-comparison/"
               className="p-4 rounded-2xl bg-white/10 hover:bg-white/20 transition border border-white/10 block group"
             >
               <div className="text-xs text-cyan-300 font-bold mb-1">ファミリー・リゾート</div>
@@ -494,7 +494,7 @@ export default function TokyoSubwayTicket24hPage() {
               </div>
             </Link>
             <Link
-              href="/tokyo-birthday-surprise-luxury-hotel-guide"
+              href="/tokyo-birthday-surprise-luxury-hotel-guide/"
               className="p-4 rounded-2xl bg-white/10 hover:bg-white/20 transition border border-white/10 block group"
             >
               <div className="text-xs text-cyan-300 font-bold mb-1">夜景・アニバーサリー</div>

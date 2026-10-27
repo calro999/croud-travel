@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '和歌山・龍神温泉で過ごす冬の旅（11・12月）！名物紀州天然ぼたん鍋！名宿5選',
     description: '11月から12月にかけて、紀伊半島の奥深き山懐・日高川の上流に位置する「龍神温泉」は、山々の晩秋の紅葉が散り落ち。',
-    url: 'https://croud-travel.pages.dev/winter-wakayama-ryujin-onsen-bihada-botannabe-stay',
+    url: 'https://croud-travel.pages.dev/winter-wakayama-ryujin-onsen-bihada-botannabe-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function WakayamaRyujinWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-wakayama-ryujin-onsen-bihada-botannabe-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-wakayama-ryujin-onsen-bihada-botannabe-stay"
+          "@id": "https://croud-travel.pages.dev/winter-wakayama-ryujin-onsen-bihada-botannabe-stay/"
         },
         "headline": "【11・12月和歌山・龍神温泉の初冬渓谷美と日本三美人の湯】名物紀州天然ぼたん鍋＆最高峰熊野牛会席を味わう隠れ家宿5選",
         "description": "11月から12月にかけて、紀伊半島の奥深き山懐・日高川の上流に位置する「龍神温泉」は、山々の晩秋の紅葉が散り落ち、清流沿いに初冬の朝霧が立ち込める幽玄な渓谷美に包まれます。群馬の川中温泉、島根の湯の川温泉と並び「日本三美人の湯」と称されるトロトロの炭酸水素塩泉は、冬の冷えや乾燥で疲れた肌を驚くほど滑らかに潤す名湯。さらに11月15日の狩猟解禁とともに登場する本場紀州の「天然猪肉のぼたん鍋」や、霜降りがとろける「熊野牛」の贅沢会席を堪能できる厳選宿5選を詳しく解説します。",
@@ -100,13 +100,13 @@ export default function WakayamaRyujinWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "和歌山・龍神温泉 ぼたん鍋と日本三美人の湯の宿",
-            "item": "https://croud-travel.pages.dev/winter-wakayama-ryujin-onsen-bihada-botannabe-stay"
+            "item": "https://croud-travel.pages.dev/winter-wakayama-ryujin-onsen-bihada-botannabe-stay/"
           }
         ]
       },
@@ -585,7 +585,7 @@ export default function WakayamaRyujinWinterFeature() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-2">
             <Link 
-              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay"
+              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">南紀白浜・幻の高級魚クエ</span>
@@ -594,7 +594,7 @@ export default function WakayamaRyujinWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay"
+              href="/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-sky-500/40 text-sky-200 font-bold text-[10px]">南紀勝浦・生マグロ＆洞窟風呂</span>
@@ -603,7 +603,7 @@ export default function WakayamaRyujinWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay"
+              href="/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-rose-500/40 text-rose-200 font-bold text-[10px]">但馬・松葉ガニ＆但馬牛</span>
@@ -612,7 +612,7 @@ export default function WakayamaRyujinWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay"
+              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">京都亀岡・丹波ぼたん鍋</span>

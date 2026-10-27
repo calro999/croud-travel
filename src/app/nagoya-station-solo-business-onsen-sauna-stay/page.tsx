@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '名古屋出張・サウナ温泉ステイ：名駅・栄アクセス・天然温泉錦鯱の湯・聖地ウェルビー今池！中部ビジネスを制する厳選3宿',
     description: '東海道新幹線「のぞみ」停車・中部国際空港からも直通！栄の繁華街中心で天然温泉大浴場と高温サウナを完備する「ドーミーインPREMIUM名古屋栄」、全国サウナーの聖地でからふろや露天外気浴が揃う「ウェルビー今池」、丸の内ビジネス街で手頃に天然温泉を堪能できる「ホテルリブマックスPREMIUM名古屋丸の内」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/nagoya-station-solo-business-onsen-sauna-stay',
+    url: 'https://croud-travel.pages.dev/nagoya-station-solo-business-onsen-sauna-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/nagoya-station-solo-business-onsen-sauna-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/nagoya-station-solo-business-onsen-sauna-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【名古屋出張・サウナ温泉ステイ】名駅・栄アクセス・天然温泉錦鯱の湯・聖地ウェルビー今池！中部ビジネスを制する厳選3宿","item":"https://croud-travel.pages.dev/nagoya-station-solo-business-onsen-sauna-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【名古屋出張・サウナ温泉ステイ】名駅・栄アクセス・天然温泉錦鯱の湯・聖地ウェルビー今池！中部ビジネスを制する厳選3宿","item":"https://croud-travel.pages.dev/nagoya-station-solo-business-onsen-sauna-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

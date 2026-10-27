@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '神秘のコバルトブルー・カルデラ湖畔ホテル×ふるさと納税厳選ガイド支笏湖・屈斜路湖・田沢湖の美景',
     description: '日本屈指の透明度を誇るカルデラ湖！北海道支笏湖の神秘の青「支笏湖ブルー」、道東屈斜路湖・摩周湖の霧と砂湯露天、秋田田沢湖の日本一深い瑠璃色湖水と乳頭温泉郷。湖畔の静寂と上質な温泉リゾートを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-caldera-blue-lake-resort-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-caldera-blue-lake-resort-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -624,7 +624,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-river-activity-canoe-fishing-resort-stay"
+            href="/furusato-tax-river-activity-canoe-fishing-resort-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -640,7 +640,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-cycling-shimanami-lake-resort-stay"
+            href="/furusato-tax-cycling-shimanami-lake-resort-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -656,7 +656,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-alps-trekking-mountain-resort-stay"
+            href="/furusato-tax-alps-trekking-mountain-resort-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

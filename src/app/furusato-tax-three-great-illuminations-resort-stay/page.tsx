@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三大イルミネーション直結リゾートホテル×ふるさと納税厳選ガイドあしかが・ハウステンボス・さっぽろ光のステイ',
     description: '日本屈指の光の祭典！栃木「あしかがフラワーパーク」光の花の庭、長崎「ハウステンボス」世界最大1,300万球のイルミネーション直営リゾート、北海道「さっぽろホワイトイルミネーション」大通公園ビューホテル。冬の夜空を彩る幻想的な光の世界を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-illuminations-resort-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-illuminations-resort-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -623,7 +623,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-three-major-night-view-luxury-hotel-stay"
+            href="/furusato-tax-three-major-night-view-luxury-hotel-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -639,7 +639,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/winter-warm-island-escape"
+            href="/winter-warm-island-escape/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -655,7 +655,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-starry-sky-astronomy-retreat-stay"
+            href="/furusato-tax-starry-sky-astronomy-retreat-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

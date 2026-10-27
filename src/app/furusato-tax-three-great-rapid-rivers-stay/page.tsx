@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: '日本三大急流＆爽快川下り舟と清流鮎グルメ宿×ふるさと納税厳選ガイド最上川・富士川・球磨川',
     description: '激流を駆け抜ける大迫力の川下りと清流の恵み！山形「最上川」芭蕉ゆかりの舟下りと全室リバービュー高見屋最上川別邸紅、静岡「富士川」富士山を仰ぐ日本屈指の急流とホテルルートイン富士中央公園東、熊本「球磨川」球磨川下りと天然アユ・球磨焼酎を味わう登録有形文化財の宿人吉温泉芳野旅館。日本三大急流の豪快な自然美を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-rapid-rivers-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-rapid-rivers-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -396,7 +396,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-gorges-scenery-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-gorges-scenery-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大渓谷美＆清流大自然絶景宿×ふるさと納税完全ガイド
               </div>
@@ -405,7 +405,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-stalactite-caves-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-stalactite-caves-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大鍾乳洞＆地底探検・大自然パノラマ宿×ふるさと納税完全ガイド
               </div>
@@ -414,7 +414,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-waterfalls-resort-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-waterfalls-resort-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大名瀑＆豪快な滝見温泉宿×ふるさと納税完全ガイド
               </div>

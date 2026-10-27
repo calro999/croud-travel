@@ -176,14 +176,14 @@ export default function KanazawaRainyDayIndoorGuidePage() {
           {/* 内部リンクバナー */}
           <div className="flex flex-wrap gap-3">
             <Link
-              href="/kanazawa-travel-budget-guide"
+              href="/kanazawa-travel-budget-guide/"
               className="inline-flex items-center gap-1.5 px-4 py-2 bg-teal-900/60 hover:bg-teal-800 border border-teal-600/50 rounded-xl text-teal-200 text-xs sm:text-sm font-semibold transition"
             >
               <span>📊 金沢旅行の費用・予算内訳を見る</span>
               <span>→</span>
             </Link>
             <Link
-              href="/kanazawa-vs-kyoto-comparison"
+              href="/kanazawa-vs-kyoto-comparison/"
               className="inline-flex items-center gap-1.5 px-4 py-2 bg-slate-800 hover:bg-slate-700 border border-slate-700 rounded-xl text-slate-300 text-xs sm:text-sm font-semibold transition"
             >
               <span>⛩️ 金沢 vs 京都 徹底比較ガイド</span>
@@ -380,14 +380,14 @@ export default function KanazawaRainyDayIndoorGuidePage() {
           <p className="text-xs text-slate-400 mb-3">金沢旅行の計画をもっと深掘りする関連記事</p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link
-              href="/kanazawa-travel-budget-guide"
+              href="/kanazawa-travel-budget-guide/"
               className="text-xs sm:text-sm font-semibold text-teal-400 hover:text-teal-300 underline underline-offset-4"
             >
               【金沢旅行 費用】1泊2日・2泊3日いくらかかる？交通費・宿泊費・食費の内訳
             </Link>
             <span className="text-slate-600">|</span>
             <Link
-              href="/kanazawa-vs-kyoto-comparison"
+              href="/kanazawa-vs-kyoto-comparison/"
               className="text-xs sm:text-sm font-semibold text-teal-400 hover:text-teal-300 underline underline-offset-4"
             >
               【金沢 vs 京都】古都旅行はどっちに行くべき？費用・見どころ徹底比較

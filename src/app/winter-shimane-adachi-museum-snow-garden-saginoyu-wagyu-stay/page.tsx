@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月島根：松葉ガニ！名宿5選',
     description: '11月から1月、山陰・島根の安来（やすぎ）は白銀の雪と静寂に包まれ、世界が称賛する日本美の最高峰が姿を現します。',
-    url: 'https://croud-travel.pages.dev/winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/17912/17912.jpg', width: 1200, height: 630, alt: '足立美術館雪景色とさぎの湯温泉名宿' }]
   }
@@ -147,13 +147,13 @@ export default function ShimaneAdachiSaginoyuPage() {
     '@type': 'ItemPage',
     name: "【11・12・1月島根】米誌20年連続日本一・足立美術館「白銀の日本庭園」雪景色とさぎの湯温泉・極上しまね和牛＆松葉ガニを堪能する名宿5選",
     description: "11月から1月、山陰・島根の安来（やすぎ）は白銀の雪と静寂に包まれ、世界が称賛する日本美の最高峰が姿を現します。アメリカの日本庭園専門誌で20年以上連続日本一に君臨し、ミシュラン三ツ星を獲得した「足立美術館」。雪化粧をまとった枯山水庭や白砂青松庭は、額縁越しに眺めると息を呑む一幅の巨大な山水画へと昇華します。美術館のすぐ隣に湧く白鷺伝説の古湯「さぎの湯温泉」、冬の日本海がもたらす味覚の王者「松葉ガニ」、そして口の中でとろける霜降り「しまね和牛」。冬の静寂と至福の温泉美食に癒やされる厳選名宿5選をご紹介します。",
-    url: 'https://croud-travel.pages.dev/winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay/',
     breadcrumb: {
       '@type': 'BreadcrumbList',
       itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://croud-travel.pages.dev/' },
         { '@type': 'ListItem', position: 2, name: '冬の特集一覧', item: 'https://croud-travel.pages.dev/features/' },
-        { '@type': 'ListItem', position: 3, name: '足立美術館雪景色＆さぎの湯温泉ステイ', item: 'https://croud-travel.pages.dev/winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay' }
+        { '@type': 'ListItem', position: 3, name: '足立美術館雪景色＆さぎの湯温泉ステイ', item: 'https://croud-travel.pages.dev/winter-shimane-adachi-museum-snow-garden-saginoyu-wagyu-stay/' }
       ]
     },
     mainEntity: {
@@ -615,7 +615,7 @@ export default function ShimaneAdachiSaginoyuPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay" 
+              href="/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-700 font-bold text-xs block mb-1">鳥取・境港＆皆生温泉</span>
@@ -625,7 +625,7 @@ export default function ShimaneAdachiSaginoyuPage() {
             </Link>
 
             <Link 
-              href="/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay" 
+              href="/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-700 font-bold text-xs block mb-1">島根・松江しんじ湖</span>
@@ -635,7 +635,7 @@ export default function ShimaneAdachiSaginoyuPage() {
             </Link>
 
             <Link 
-              href="/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay" 
+              href="/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-700 font-bold text-xs block mb-1">島根・出雲大社</span>
@@ -645,7 +645,7 @@ export default function ShimaneAdachiSaginoyuPage() {
             </Link>
 
             <Link 
-              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay" 
+              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-700 font-bold text-xs block mb-1">島根・玉造温泉</span>
@@ -655,7 +655,7 @@ export default function ShimaneAdachiSaginoyuPage() {
             </Link>
 
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay" 
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-700 font-bold text-xs block mb-1">鳥取・三朝温泉</span>
@@ -665,7 +665,7 @@ export default function ShimaneAdachiSaginoyuPage() {
             </Link>
 
             <Link 
-              href="/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay" 
+              href="/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-700 font-bold text-xs block mb-1">岡山・倉敷＆吉備津</span>

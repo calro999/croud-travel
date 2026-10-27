@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月岩手：三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色！名宿5選',
     description: '11月から1月、岩手県三陸沿岸（宮古・釜石・大船渡・田野畑）は、太平洋の紺碧と雪化粧した白亜の奇岩が織りなす息を呑む絶景の季節を迎えます。',
-    url: 'https://croud-travel.pages.dev/winter-iwate-sanriku-kotatsu-train-kaisen-stay',
+    url: 'https://croud-travel.pages.dev/winter-iwate-sanriku-kotatsu-train-kaisen-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -69,7 +69,7 @@ export default function IwateSanrikuKotatsuTrainPage() {
             "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-iwate-sanriku-kotatsu-train-kaisen-stay"
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-iwate-sanriku-kotatsu-train-kaisen-stay/"
       },
       {
         "@type": "BreadcrumbList",
@@ -85,13 +85,13 @@ export default function IwateSanrikuKotatsuTrainPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "岩手三陸のこたつ列車と冬海鮮特集",
-            "item": "https://croud-travel.pages.dev/winter-iwate-sanriku-kotatsu-train-kaisen-stay"
+            "item": "https://croud-travel.pages.dev/winter-iwate-sanriku-kotatsu-train-kaisen-stay/"
           }
         ]
       },
@@ -565,21 +565,21 @@ export default function IwateSanrikuKotatsuTrainPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-iwate-hanamaki-minami-namari-osawa-snow-stay" 
+              href="/winter-iwate-hanamaki-minami-namari-osawa-snow-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-cyan-700 font-bold block text-[10px]">岩手・花巻南温泉郷</span>
               <p className="font-bold text-stone-800 line-clamp-2">鉛温泉・大沢温泉の白銀秘湯と前沢牛・立ち湯湯治の冬籠もり</p>
             </Link>
             <Link 
-              href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay" 
+              href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-cyan-700 font-bold block text-[10px]">宮城・松島温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">日本三景松島の冬景色と焼き牡蠣食べ放題・絶景松島湾の海沿い名宿</p>
             </Link>
             <Link 
-              href="/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay" 
+              href="/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-cyan-700 font-bold block text-[10px]">青森・下風呂温泉</span>

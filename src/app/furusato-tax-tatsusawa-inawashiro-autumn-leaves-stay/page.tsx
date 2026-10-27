@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '猪苗代・達沢不動滝の名瀑紅葉＆猪苗代湖！萩姫伝説の磐梯熱海温泉美肌宿×ふるさと納税厳選ガイド福島',
     description: '10月中旬〜11月上旬に原生林の巨木と白糸のような滝が錦秋に染まる名瀑「福島・達沢不動滝」。磐梯山と猪苗代湖を望む秋の爽快ドライブと、開湯800年・萩姫伝説が残る「八景園」「萩姫の湯 栄楽館」「湯のやど楽山」でpH9.1のとろとろ美肌温泉と会津牛・極上馬刺し・新米コシヒカリ会席を堪能。ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-tatsusawa-inawashiro-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-tatsusawa-inawashiro-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -102,7 +102,7 @@ export default function FeatureArticlePage() {
       <nav className="max-w-6xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-600 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:underline text-stone-500">トップ</Link>
         <span>&gt;</span>
-        <Link href="/autumn-leaves" className="hover:underline text-stone-500">秋・紅葉特集</Link>
+        <Link href="/autumn-leaves/" className="hover:underline text-stone-500">秋・紅葉特集</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-medium">福島・猪苗代磐梯熱海 / 達沢不動滝紅葉＆猪苗代湖・磐梯熱海温泉美肌の湯</span>
       </nav>
@@ -391,27 +391,27 @@ export default function FeatureArticlePage() {
             <h4 className="font-bold text-stone-900 text-xs mb-3">🍂 関連する秋の特集</h4>
             <ul className="space-y-2 text-xs text-stone-600">
               <li>
-                <Link href="/furusato-tax-jozankei-hoheikyo-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-jozankei-hoheikyo-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・北海道・定山渓温泉＆豊平峡ダム
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-hiraizumi-chusonji-genbikei-autumn-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-hiraizumi-chusonji-genbikei-autumn-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・岩手・平泉中尊寺＆花巻温泉郷
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-karuizawa-kumobaike-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-karuizawa-kumobaike-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・長野・軽井沢雲場池＆星野エリア
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-daisen-kagikake-kaike-autumn-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-daisen-kagikake-kaike-autumn-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・鳥取・大山鍵掛峠＆皆生温泉松葉ガニ
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-takachiho-manainotaki-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-takachiho-manainotaki-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・宮崎・高千穂峡真名井の滝＆高千穂牛
                 </Link>
               </li>

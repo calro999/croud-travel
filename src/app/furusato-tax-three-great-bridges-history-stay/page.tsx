@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: '日本三大名橋＆伝統建築美を渡る歴史街道宿×ふるさと納税厳選ガイド錦帯橋・眼鏡橋・日本橋',
     description: '幾星霜の歴史を刻む日本の名架橋！山口岩国「錦帯橋」五連の木造アーチ美と錦帯橋温泉岩国国際観光ホテル、長崎「眼鏡橋」日本最古の国重文アーチ石橋と異国情緒漂うホテルモントレ長崎、東京中央区「日本橋」五街道の起点たる石造二連アーチと三井ガーデンホテル日本橋プレミア。日本三大名橋の建築美と老舗グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-bridges-history-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-bridges-history-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -393,7 +393,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-national-treasure-castle-view-luxury-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-national-treasure-castle-view-luxury-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 国宝五城＆名城天守を望む城下町宿×ふるさと納税完全ガイド
               </div>
@@ -402,7 +402,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-hotsprings-luxury-villas-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-hotsprings-luxury-villas-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三名瀑＆飛瀑の轟音に癒やされる温泉宿×ふるさと納税完全ガイド
               </div>
@@ -411,7 +411,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-curious-festivals-heritage-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-curious-festivals-heritage-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大奇祭＆情熱の神事体験宿×ふるさと納税完全ガイド
               </div>

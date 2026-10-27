@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '道後温泉ひとり旅・日本最古の名湯おこもり：道後温泉本館・美人の湯・愛媛鯛めし！松山城下町と文学の香りに浸る厳選3宿',
     description: '日本最古の歴史を誇る名湯・道後！道後公園隣接でリーズナブルに天然温泉を楽しめる「にぎたつ会館」、明治レトロな洋館風ロビーと大浴場が人気の老舗「ホテル椿館」、全室客室露天風呂付きで極上のプライベートステイが叶う「八千代」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/ehime-dogo-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/ehime-dogo-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/ehime-dogo-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/ehime-dogo-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【道後温泉ひとり旅・日本最古の名湯おこもり】道後温泉本館・美人の湯・愛媛鯛めし！松山城下町と文学の香りに浸る厳選3宿","item":"https://croud-travel.pages.dev/ehime-dogo-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【道後温泉ひとり旅・日本最古の名湯おこもり】道後温泉本館・美人の湯・愛媛鯛めし！松山城下町と文学の香りに浸る厳選3宿","item":"https://croud-travel.pages.dev/ehime-dogo-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

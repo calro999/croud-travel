@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'シュワシュワ天然泡＆濃厚泥パック！奇跡の名湯・炭酸泉と美肌薬湯治リトリート宿',
     description: '長湯温泉・別府・嬉野・玉造など全国屈指の濃厚な高濃度炭酸泉や天然泥湯。肌にしがみつく無数の気泡とミネラルたっぷりの泥湯で心身を再生。',
-    url: 'https://croud-travel.pages.dev/medicinal-carbonated-mud-springs-healing-stay',
+    url: 'https://croud-travel.pages.dev/medicinal-carbonated-mud-springs-healing-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/medicinal-carbonated-mud-springs-healing-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/medicinal-carbonated-mud-springs-healing-stay/"
   };
 
   const faqSchema = {
@@ -151,7 +151,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"シュワシュワ天然泡＆濃厚泥パック！奇跡の名湯・炭酸泉と美肌薬湯治リトリート宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/medicinal-carbonated-mud-springs-healing-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"シュワシュワ天然泡＆濃厚泥パック！奇跡の名湯・炭酸泉と美肌薬湯治リトリート宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/medicinal-carbonated-mud-springs-healing-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -166,7 +166,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">炭酸泉＆泥湯・美肌薬湯治宿</span>
       </nav>
@@ -281,7 +281,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="シュワシュワ天然泡＆濃厚泥パック！奇跡の名湯・炭酸泉と美肌薬湯治リトリート宿"
-            url="https://croud-travel.pages.dev/medicinal-carbonated-mud-springs-healing-stay"
+            url="https://croud-travel.pages.dev/medicinal-carbonated-mud-springs-healing-stay/"
           />
         </div>
 

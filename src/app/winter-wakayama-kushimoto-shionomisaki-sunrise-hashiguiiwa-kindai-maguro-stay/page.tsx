@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: '黒潮が洗う本州最南端の温暖な楽園・和歌山県串本の11〜1月冬紀行。紺碧の太平洋が弧を描く「潮岬」から望む元旦初日の出。',
   keywords: '潮岬 初日の出, 橋杭岩 朝焼け, 近大マグロ 串本, 串本温泉 名宿, メルキュール和歌山串本, 大江戸温泉物語 南紀串本, フェアフィールド串本, 和歌山 冬旅行, 本州最南端 温泉',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-wakayama-kushimoto-shionomisaki-sunrise-hashiguiiwa-kindai-maguro-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-wakayama-kushimoto-shionomisaki-sunrise-hashiguiiwa-kindai-maguro-stay/'
   },
   openGraph: {
     title: '11・12・1月和歌山：本州最南端「潮岬」冬の太平洋！名宿5選',
     description: '黒潮が洗う本州最南端の温暖な楽園・和歌山県串本の11〜1月冬紀行。紺碧の太平洋が弧を描く「潮岬」から望む元旦初日の出。',
-    url: 'https://croud-travel.pages.dev/winter-wakayama-kushimoto-shionomisaki-sunrise-hashiguiiwa-kindai-maguro-stay',
+    url: 'https://croud-travel.pages.dev/winter-wakayama-kushimoto-shionomisaki-sunrise-hashiguiiwa-kindai-maguro-stay/',
     type: 'article',
     images: [
       {
@@ -60,7 +60,7 @@ export default function WakayamaKushimotoWinterPage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-wakayama-kushimoto-shionomisaki-sunrise-hashiguiiwa-kindai-maguro-stay"
+      "@id": "https://croud-travel.pages.dev/winter-wakayama-kushimoto-shionomisaki-sunrise-hashiguiiwa-kindai-maguro-stay/"
     }
   };
 
@@ -78,13 +78,13 @@ export default function WakayamaKushimotoWinterPage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "和歌山・串本＆本州最南端 冬特集",
-        "item": "https://croud-travel.pages.dev/winter-wakayama-kushimoto-shionomisaki-sunrise-hashiguiiwa-kindai-maguro-stay"
+        "item": "https://croud-travel.pages.dev/winter-wakayama-kushimoto-shionomisaki-sunrise-hashiguiiwa-kindai-maguro-stay/"
       }
     ]
   };
@@ -596,7 +596,7 @@ export default function WakayamaKushimotoWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm">
             <Link 
-              href="/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay"
+              href="/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-cyan-400 hover:bg-cyan-50/30 transition block space-y-1"
             >
               <span className="font-bold text-cyan-950 block">【和歌山】南紀勝浦温泉洞窟風呂と生まぐろ・熊野古道名宿</span>
@@ -604,7 +604,7 @@ export default function WakayamaKushimotoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay"
+              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-cyan-400 hover:bg-cyan-50/30 transition block space-y-1"
             >
               <span className="font-bold text-cyan-950 block">【和歌山】南紀白浜温泉と冬の幻の高級魚クエ鍋名宿</span>
@@ -612,7 +612,7 @@ export default function WakayamaKushimotoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay"
+              href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-cyan-400 hover:bg-cyan-50/30 transition block space-y-1"
             >
               <span className="font-bold text-cyan-950 block">【千葉】犬吠埼の日本一早い初日の出と銚子つりきんめ名宿</span>
@@ -620,7 +620,7 @@ export default function WakayamaKushimotoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay"
+              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-cyan-400 hover:bg-cyan-50/30 transition block space-y-1"
             >
               <span className="font-bold text-cyan-950 block">【三重】鳥羽温泉郷と冬旬伊勢海老・的矢かき名宿</span>
@@ -639,7 +639,7 @@ export default function WakayamaKushimotoWinterPage() {
           </p>
           <div className="pt-2 flex flex-wrap justify-center gap-3">
             <Link 
-              href="/features" 
+              href="/features/" 
               className="px-6 py-3 bg-white text-slate-900 hover:bg-slate-100 font-black text-xs md:text-sm rounded-xl shadow transition"
             >
               特集記事一覧を見る

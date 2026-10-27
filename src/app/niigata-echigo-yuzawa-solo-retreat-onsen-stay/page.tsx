@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '越後湯沢温泉ひとり旅・雪国名湯おこもり：上越新幹線70分・谷川連峰パノラマ・魚沼産コシヒカリ！川端康成『雪国』の舞台で癒やされる厳選3宿',
     description: '東京駅から上越新幹線最速約70分！広大な温泉大浴場とリゾートステイが魅力の「NASPAニューオータニ」、源泉かけ流しの滝見露天風呂と越後会席が評判の「和みのお宿 滝乃湯」、心温まるおもてなしと貸切風呂が嬉しい「音羽屋旅館」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/niigata-echigo-yuzawa-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/niigata-echigo-yuzawa-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/niigata-echigo-yuzawa-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/niigata-echigo-yuzawa-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【越後湯沢温泉ひとり旅・雪国名湯おこもり】上越新幹線70分・谷川連峰パノラマ・魚沼産コシヒカリ！川端康成『雪国』の舞台で癒やされる厳選3宿","item":"https://croud-travel.pages.dev/niigata-echigo-yuzawa-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【越後湯沢温泉ひとり旅・雪国名湯おこもり】上越新幹線70分・谷川連峰パノラマ・魚沼産コシヒカリ！川端康成『雪国』の舞台で癒やされる厳選3宿","item":"https://croud-travel.pages.dev/niigata-echigo-yuzawa-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

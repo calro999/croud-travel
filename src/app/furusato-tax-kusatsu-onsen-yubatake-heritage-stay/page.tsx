@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '草津温泉をふるさと納税でお得に旅する！湯畑徒歩圏内の老舗名宿特集！源泉かけ流しと名湯巡り厳選ガイド｜望雲・ホテル一井・奈良屋',
     description: '日本三名泉の筆頭・群馬県草津温泉を楽天ふるさと納税でお得に贅沢ステイ！創業慶長四年・二つの源泉を引く「望雲」、湯畑が目の前の絶景老舗「ホテル一井」、湯守が丹精込めて仕込む極上の白旗源泉「奈良屋」を徹底比較。草津町トラベルクーポンの賢い活用法を完全網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-heritage-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-heritage-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T16:35:00+09:00',
     dateModified: '2026-10-19T16:35:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-heritage-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-heritage-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【草津温泉×ふるさと納税】湯畑徒歩圏内の老舗名宿特集！源泉かけ流しと名湯巡り完全ガイド｜望雲・ホテル一井・奈良屋","item":"https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-heritage-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【草津温泉×ふるさと納税】湯畑徒歩圏内の老舗名宿特集！源泉かけ流しと名湯巡り完全ガイド｜望雲・ホテル一井・奈良屋","item":"https://croud-travel.pages.dev/furusato-tax-kusatsu-onsen-yubatake-heritage-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【草津温泉×ふるさと納税】湯畑徒歩圏内の老舗名宿特集！源泉かけ流しと名湯巡り完全ガイド｜望雲・ホテル一井・奈良屋</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-beginners-complete-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-beginners-complete-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 超初心者向け ふるさと納税で旅行に安く泊まるマニュアル
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-gora-onsen-private-roten-luxury-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-gora-onsen-private-roten-luxury-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 箱根強羅温泉 全室客室露天風呂付き極上宿特集
               </Link>
             </li>

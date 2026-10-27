@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '淡路島洲本温泉で過ごす冬の旅（11・12月）！紀淡海峡パノラマ露天と冬の絶！名宿5選',
     description: '鳴門海峡の激流が育む冬の最高峰ブランド「淡路島3年とらふぐ」。通常2年のところ3年もの歳月をかけてじっくり育て上げた極上の身の締まりと濃厚白子。紀淡海峡の水平線から昇る朝日を望む洲本温泉のインフィニティ露天風呂と、淡路牛・とらふぐフルコースを堪能する名宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-hyogo-awajishima-sumoto-3year-torafugu-stay',
+    url: 'https://croud-travel.pages.dev/winter-hyogo-awajishima-sumoto-3year-torafugu-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -88,7 +88,7 @@ export default function AwajishimaWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-hyogo-awajishima-sumoto-3year-torafugu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hyogo-awajishima-sumoto-3year-torafugu-stay/"
         }
       },
       {
@@ -312,7 +312,7 @@ export default function AwajishimaWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月淡路島洲本温泉】紀淡海峡パノラマ露天と冬の絶！名宿5選","item":"https://croud-travel.pages.dev/winter-hyogo-awajishima-sumoto-3year-torafugu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月淡路島洲本温泉】紀淡海峡パノラマ露天と冬の絶！名宿5選","item":"https://croud-travel.pages.dev/winter-hyogo-awajishima-sumoto-3year-torafugu-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -684,42 +684,42 @@ export default function AwajishimaWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay"
+              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay/"
               className="bg-sky-900/80 hover:bg-sky-900 p-4 rounded-2xl transition border border-sky-800/50 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">和歌山・白浜</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">南紀白浜温泉 太平洋一望の崎の湯と冬の幻の高級魚クエ鍋の宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay"
+              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/"
               className="bg-sky-900/80 hover:bg-sky-900 p-4 rounded-2xl transition border border-sky-800/50 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">兵庫・有馬</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">有馬温泉 日本三古湯の金泉・銀泉と極上神戸牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"
               className="bg-sky-900/80 hover:bg-sky-900 p-4 rounded-2xl transition border border-sky-800/50 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">兵庫・城崎</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">城崎温泉 七つの外湯巡りと本場松葉ガニ会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-fukui-awara-onsen-echizen-crab-stay"
+              href="/winter-fukui-awara-onsen-echizen-crab-stay/"
               className="bg-sky-900/80 hover:bg-sky-900 p-4 rounded-2xl transition border border-sky-800/50 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">福井・あわら</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">あわら温泉 庭園露天風呂と黄色いタグ付き越前がにの宿</h3>
             </Link>
             <Link 
-              href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay"
+              href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay/"
               className="bg-sky-900/80 hover:bg-sky-900 p-4 rounded-2xl transition border border-sky-800/50 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">山口・長門湯本</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">長門湯本温泉 音信川冬灯りと下関直送活本とらふぐの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-sky-900/80 hover:bg-sky-900 p-4 rounded-2xl transition border border-sky-800/50 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">特集一覧</span>

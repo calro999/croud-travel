@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '静岡駅前出張・天然温泉サウナ：富士山パノラマ・天然温泉スカイスパ・駿河湾鮮魚！東海道の中枢を制する厳選3宿',
     description: '東海道新幹線「ひかり」停車！最上階天然温泉大浴場と露天風呂・セルフロウリュサウナで絶賛される「ホテルオーレイン」、静岡駅南口徒歩1分で展望スカイスパ＆富士山ビューの「ホテルプリヴェ静岡」、駅近でハッピーアワー無料サービスの「くれたけインプレミアム静岡駅前」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/shizuoka-station-solo-business-onsen-sauna-stay',
+    url: 'https://croud-travel.pages.dev/shizuoka-station-solo-business-onsen-sauna-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-station-solo-business-onsen-sauna-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-station-solo-business-onsen-sauna-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【静岡駅前出張・天然温泉サウナ】富士山パノラマ・天然温泉スカイスパ・駿河湾鮮魚！東海道の中枢を制する厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-station-solo-business-onsen-sauna-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【静岡駅前出張・天然温泉サウナ】富士山パノラマ・天然温泉スカイスパ・駿河湾鮮魚！東海道の中枢を制する厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-station-solo-business-onsen-sauna-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

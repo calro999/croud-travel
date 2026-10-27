@@ -15,12 +15,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: '【奥州三名湯・飯坂温泉の熱湯共同浴場と名物円盤餃子】2026-2027年11-12月初冬の福島・飯坂！芭蕉ゆかりの鯖湖湯と波来湯・熱気あふれる湯めぐり、パリパリ焼き立て「名物円盤餃子」ととろける福島牛すき焼き・露天風呂名宿5選',
     description: '奥州三名湯の歴史を刻む福島の奥座敷・飯坂温泉！松尾芭蕉も浸かった日本最古級の木造共同浴場「鯖湖湯」をはじめとする熱湯共同浴場めぐりで、冬の寒気を吹き飛ばす芯からの温まり。摺上川の渓谷美を望む露天風呂と、名店が競い合う香ばしい「名物円盤餃子」、極上福島牛すき焼きを堪能する初冬の厳選名宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-fukushima-iizaka-onsen-sabakoyu-enban-gyoza-fukushimagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukushima-iizaka-onsen-sabakoyu-enban-gyoza-fukushimagyu-stay/',
     type: 'article',
     siteName: 'クラウドトラベル',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-fukushima-iizaka-onsen-sabakoyu-enban-gyoza-fukushimagyu-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-fukushima-iizaka-onsen-sabakoyu-enban-gyoza-fukushimagyu-stay/',
   },
 };
 
@@ -46,13 +46,13 @@ export default function WinterFeaturePage() {
                   "@type": "ListItem",
                   "position": 2,
                   "name": "特集一覧",
-                  "item": "https://croud-travel.pages.dev/features"
+                  "item": "https://croud-travel.pages.dev/features/"
                 },
                 {
                   "@type": "ListItem",
                   "position": 3,
                   "name": "【奥州三名湯・飯坂温泉の熱湯共同浴場と名物円盤餃子】2026-2027年11-12月初冬の福島・飯坂！芭蕉ゆかりの鯖湖湯と波来湯・熱気あふれる湯めぐり、パリパリ焼き立て「名物円盤餃子」ととろける福島牛すき焼き・露天風呂名宿5選",
-                  "item": "https://croud-travel.pages.dev/winter-fukushima-iizaka-onsen-sabakoyu-enban-gyoza-fukushimagyu-stay"
+                  "item": "https://croud-travel.pages.dev/winter-fukushima-iizaka-onsen-sabakoyu-enban-gyoza-fukushimagyu-stay/"
                 }
               ]
             },
@@ -95,7 +95,7 @@ export default function WinterFeaturePage() {
         <div className="max-w-5xl mx-auto flex items-center gap-1.5 flex-wrap">
           <Link href="/" className="hover:text-slate-800 transition">ホーム</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
-          <Link href="/features" className="hover:text-slate-800 transition">特集一覧</Link>
+          <Link href="/features/" className="hover:text-slate-800 transition">特集一覧</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
           <span className="text-slate-800 font-medium truncate max-w-xs">【奥州三名湯・飯坂温泉の熱湯共同浴場と名物円盤餃子】2026-2027年11-12月初冬の福島・飯坂！芭蕉ゆかりの鯖湖湯と波来湯・熱気あふれる湯めぐり、パリパリ焼き立て「名物円盤餃子」ととろける福島牛すき焼き・露天風呂名宿5選</span>
         </div>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '2026年：名水と酒蔵の歴史薫る街。京都伏見の酒蔵巡り＆名水仕込み京料理の風情宿5選',
     description: '2026年最新！坂本龍馬ゆかりの伏見十石舟と白壁酒蔵巡り！名水「伏水」仕込みの利き酒セットと旬の京料理を堪能する京都・伏見のおすすめ名宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/traditional-kyoto-fushimi-sake-brewery-stay',
+    url: 'https://croud-travel.pages.dev/traditional-kyoto-fushimi-sake-brewery-stay/',
   },
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-kyoto-fushimi-sake-brewery-stay/",
@@ -179,7 +179,7 @@ export default function FeatureDetailPage() {
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-amber-600">トップ</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-amber-600">厳選特集一覧</Link>
+          <Link href="/features/" className="hover:text-amber-600">厳選特集一覧</Link>
           <span>&gt;</span>
           <span className="text-slate-800 font-medium truncate max-w-xs sm:max-w-md md:max-w-none">
             京都伏見酒蔵巡り＆名水仕込み京料理の宿
@@ -556,7 +556,7 @@ export default function FeatureDetailPage() {
         {/* 特集トップへのリンク */}
         <div className="text-center pt-4">
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold px-8 py-4 rounded-2xl shadow-md transition-all"
           >
             <span>他の厳選特集一覧を見る</span>

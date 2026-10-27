@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '茨城・北茨城温泉郷で過ごす冬の旅（11・12月）！五浦！名宿5選',
     description: '11月から12月にかけて、東京から常磐道やJR特急ひたちで約2時間の茨城県最北部「北茨城温泉郷（平潟・磯原・五浦）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay',
+    url: 'https://croud-travel.pages.dev/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function IbarakiKitaibarakiWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay"
+          "@id": "https://croud-travel.pages.dev/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay/"
         },
         "headline": "【11・12月茨城・北茨城温泉郷の元祖あんこう鍋・濃厚どぶ汁と太平洋絶景】五浦・磯原の温まり美肌塩化物泉＆常陸牛の宿5選",
         "description": "11月から12月にかけて、東京から常磐道やJR特急ひたちで約2時間の茨城県最北部「北茨城温泉郷（平潟・磯原・五浦）」は、冬の味覚の王様「あんこう」の本格シーズンを迎えます。北茨城は全国あんこう鍋発祥の地として知られ、水を一切使わずに生あん肝を鍋肌でじっくり乾煎りして溶かし、秘伝味噌とアンコウ自身の水分だけで炊き上げる究極の漁師料理「どぶ汁（どぶじる）」の本場です。太平洋の荒波が削り出した奇岩・六角堂が佇む五浦海岸の絶景、地下深層から湧出する高濃度塩化物泉の「温まり美肌の湯」、そして銘柄牛「常陸牛」の極上会席。水平線から昇る初冬の日の出を露天風呂から望む、北茨城の厳選名旅館・温泉ホテル5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function IbarakiKitaibarakiWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "茨城・北茨城温泉郷 元祖あんこう鍋濃厚どぶ汁と太平洋絶景の宿",
-            "item": "https://croud-travel.pages.dev/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay"
+            "item": "https://croud-travel.pages.dev/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay/"
           }
         ]
       },
@@ -551,42 +551,42 @@ export default function IbarakiKitaibarakiWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay"
+              href="/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">千葉・南房総温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">温暖避寒旅と旬の房州伊勢海老・太平洋パノラマ露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay"
+              href="/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">静岡・焼津温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">初冬駿河湾越し富士山絶景と天然南マグロ・高張性美肌温まりの湯の宿</h3>
             </Link>
             <Link 
-              href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay"
+              href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">宮城・松島温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">初冬松島湾絶景と解禁松島牡蠣・日本三景日の出展望露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay"
+              href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">栃木・那須温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">開湯千三百年那須鹿の湯と極上那須和牛・冬の高原リゾート宿</h3>
             </Link>
             <Link 
-              href="/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay"
+              href="/winter-gunma-houshi-sarugakyo-onsen-snow-joshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">群馬・伊香保温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">石段街情緒と名湯黄金の湯・上州牛すき焼きを味わう歴史の宿</h3>
             </Link>
             <Link 
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay"
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">神奈川・箱根温泉</span>

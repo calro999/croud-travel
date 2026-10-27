@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: '日本三大イルミネーション＆光の祭典・ファンタジーリゾートホテル宿×ふるさと納税厳選ガイドあしかが・ハウステンボス・さっぽろ',
     description: '夜空を埋め尽くす数百〜数千万球の煌めき！栃木足利「あしかがフラワーパーク」光の藤棚とホテルルートイン第２足利、長崎佐世保「ハウステンボス」世界最大1,300万球の光の王国と直営ホテルアムステルダム、北海道札幌「さっぽろホワイトイルミネーション」大通公園の雪景色とホテルルートイン札幌北四条。日本三大イルミネーションの幻想ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-illuminations-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-illuminations-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -393,7 +393,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-new-three-major-night-views-sky-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-new-three-major-night-views-sky-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 新日本三大夜景＆天空スカイパノラマ宿×ふるさと納税完全ガイド
               </div>
@@ -402,7 +402,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-fireworks-riverside-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-fireworks-riverside-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大花火大会＆リバーサイド展望宿×ふるさと納税完全ガイド
               </div>
@@ -411,7 +411,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-night-cherry-blossoms-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-night-cherry-blossoms-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大夜桜＆お花見ライトアップ宿×ふるさと納税完全ガイド
               </div>

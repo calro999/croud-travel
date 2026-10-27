@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月静岡：南アルプス秘境「夢の吊橋」冬！名宿5選',
     description: '11月から1月、静岡県川根本町の奥大井・寸又峡は、大間ダム湖が年間で最も冴え渡るミルキーブルーに輝く「夢の吊橋」の絶景シーズン。',
-    url: 'https://croud-travel.pages.dev/winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '静岡・寸又峡温泉＆夢の吊橋特集',
-        item: 'https://croud-travel.pages.dev/winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay'
+        item: 'https://croud-travel.pages.dev/winter-shizuoka-sumatakyo-onsen-yumenotsuribashi-bijin-jibier-stay/'
       }
     ]
   };
@@ -599,7 +599,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
-              href="/winter-shizuoka-umegashima-onsen-okushizu-surugashamo-stay"
+              href="/winter-shizuoka-umegashima-onsen-okushizu-surugashamo-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-teal-300 flex flex-col justify-between"
             >
               <div>
@@ -612,7 +612,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay"
+              href="/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-teal-300 flex flex-col justify-between"
             >
               <div>
@@ -625,7 +625,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay"
+              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-teal-300 flex flex-col justify-between"
             >
               <div>
@@ -638,7 +638,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay"
+              href="/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-teal-300 flex flex-col justify-between"
             >
               <div>
@@ -686,7 +686,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
           </p>
           <div className="pt-4">
             <Link 
-              href="/features"
+              href="/features/"
               className="inline-flex items-center gap-2 px-6 py-3 bg-white text-slate-900 font-bold rounded-xl hover:bg-slate-100 transition-colors text-sm"
             >
               <span>冬の特集一覧へ戻る</span>

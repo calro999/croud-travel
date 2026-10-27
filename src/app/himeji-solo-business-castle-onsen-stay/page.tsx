@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '姫路出張＆世界遺産ひとり旅：姫路城ビュー・姫路駅直結・天然温泉サウナ！名物穴子めしと播磨の地酒を味わう名宿 厳選3選',
     description: '山陽新幹線全列車停車・兵庫県西部の産業拠点「姫路」！「JR姫路駅直結でサウナ付き温浴施設完備」の「ホテルモントレ姫路」、最上階に天然温泉大浴場と夜鳴きそば完備の「天然温泉 白鷺の湯 ドーミーイン姫路」、姫路城を望む格式あるシティホテル「ホテル日航姫路」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/himeji-solo-business-castle-onsen-stay',
+    url: 'https://croud-travel.pages.dev/himeji-solo-business-castle-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T15:30:00+09:00',
     dateModified: '2026-10-19T15:30:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/himeji-solo-business-castle-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/himeji-solo-business-castle-onsen-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【姫路出張＆世界遺産ひとり旅】姫路城ビュー・姫路駅直結・天然温泉サウナ！名物穴子めしと播磨の地酒を味わう名宿 厳選3選","item":"https://croud-travel.pages.dev/himeji-solo-business-castle-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【姫路出張＆世界遺産ひとり旅】姫路城ビュー・姫路駅直結・天然温泉サウナ！名物穴子めしと播磨の地酒を味わう名宿 厳選3選","item":"https://croud-travel.pages.dev/himeji-solo-business-castle-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

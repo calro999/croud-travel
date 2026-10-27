@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '福島・裏磐梯＆五色沼：神秘の湖沼群・桧原湖カヌー＆磐梯高原リゾート宿 厳選ガイド',
     description: '磐梯山噴火が創り出した奇跡の景観「五色沼湖沼群」のエメラルド・コバルトブルーの水面、裏磐梯最大の「桧原湖」カヌー・遊覧船、紅葉ドライブの名所「磐梯山ゴールドライン」、満天の星空と源泉かけ流し高原温泉リゾートを徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/fukushima-urabandai-goshikinuma-lake-stay',
+    url: 'https://croud-travel.pages.dev/fukushima-urabandai-goshikinuma-lake-stay/',
   },
 };
 

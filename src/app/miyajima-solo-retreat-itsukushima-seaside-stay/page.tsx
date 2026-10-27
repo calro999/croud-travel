@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '宮島ひとり旅・瀬戸内海絶景おこもり：厳島神社大鳥居ビュー・宮島潮湯温泉・名物穴子飯！神の島で心洗われる厳選3宿',
     description: '広島駅からJRとフェリーで約45分！大鳥居を望む展望ラウンジと島内唯一の潮湯温泉が自慢の「錦水館」、創業160年超・もみじ谷の深緑に佇む日本屈指の名旅館「みやじまの宿 岩惣」、フェリー乗り場すぐでコスパ抜群の「宮島コーラルホテル」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/miyajima-solo-retreat-itsukushima-seaside-stay',
+    url: 'https://croud-travel.pages.dev/miyajima-solo-retreat-itsukushima-seaside-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T16:30:00+09:00',
     dateModified: '2026-10-19T16:30:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/miyajima-solo-retreat-itsukushima-seaside-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/miyajima-solo-retreat-itsukushima-seaside-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【宮島ひとり旅・瀬戸内海絶景おこもり】厳島神社大鳥居ビュー・宮島潮湯温泉・名物穴子飯！神の島で心洗われる厳選3宿","item":"https://croud-travel.pages.dev/miyajima-solo-retreat-itsukushima-seaside-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【宮島ひとり旅・瀬戸内海絶景おこもり】厳島神社大鳥居ビュー・宮島潮湯温泉・名物穴子飯！神の島で心洗われる厳選3宿","item":"https://croud-travel.pages.dev/miyajima-solo-retreat-itsukushima-seaside-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：太古の地球エネルギーを体感！天然洞窟風呂＆巨岩露天風呂の秘境宿5選',
     description: '2026年最新！自然の岩盤をくり抜いた天然洞窟風呂や巨大な岩風呂が自慢の秘境温泉宿5選。地球の息吹を感じる神秘的な湯浴み体験へ。',
-    url: 'https://croud-travel.pages.dev/ancient-jomon-forest-cave-onsen-stay',
+    url: 'https://croud-travel.pages.dev/ancient-jomon-forest-cave-onsen-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/ancient-jomon-forest-cave-onsen-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/ancient-jomon-forest-cave-onsen-stay/"
   };
 
   const faqSchema = {
@@ -130,7 +130,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">天然洞窟風呂×秘境名湯</span>
         </div>
@@ -149,7 +149,7 @@ export default function Page() {
             薄明かりに照らされた天然の洞窟の中に湧き出る神秘的な名湯。ゴツゴツとした岩肌と反響する湯の音、太古から続く地球の鼓動を肌で感じる非日常の湯浴み。秘境の地でしか出会えない野趣あふれる洞窟温泉＆巨岩露天風呂の宿を厳選しました。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】太古の地球エネルギーを体感！天然洞窟風呂＆巨岩露天風呂の秘境宿5選" url="https://croud-travel.pages.dev/ancient-jomon-forest-cave-onsen-stay" />
+            <ShareButtons title="【2026年】太古の地球エネルギーを体感！天然洞窟風呂＆巨岩露天風呂の秘境宿5選" url="https://croud-travel.pages.dev/ancient-jomon-forest-cave-onsen-stay/" />
           </div>
         </div>
       </header>
@@ -158,7 +158,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】太古の地球エネルギーを体感！天然洞窟風呂＆巨岩露天風呂の秘境宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/ancient-jomon-forest-cave-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】太古の地球エネルギーを体感！天然洞窟風呂＆巨岩露天風呂の秘境宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/ancient-jomon-forest-cave-onsen-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

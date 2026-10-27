@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '広島・宮島温泉で過ごす冬の旅（11・12月）！厳島神社大鳥居一望！名宿5選',
     description: '11月から12月にかけて、日本三景の一つにして世界遺産の島・宮島（厳島）は、紅葉谷の燃えるような紅葉が落ち着きを取り戻し。',
-    url: 'https://croud-travel.pages.dev/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay',
+    url: 'https://croud-travel.pages.dev/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function HiroshimaMiyajimaWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay/"
         },
         "headline": "【11・12月広島・宮島温泉の世界遺産初冬絶景と旬解禁広島カキづくし会席】厳島神社大鳥居一望＆瀬戸内海オーシャンビュー露天の宿5選",
         "description": "11月から12月にかけて、日本三景の一つにして世界遺産の島・宮島（厳島）は、紅葉谷の燃えるような紅葉が落ち着きを取り戻し、瀬戸内海の澄み切った青空と海上に浮かぶ大鳥居の荘厳な姿が際立つ初冬の静寂シーズンを迎えます。11月はまさに広島名物「牡蠣（カキ）」が身を大きく太らせ旨味を凝縮させる本格シーズンの開幕。香ばしい殻付き焼き牡蠣や濃厚な牡蠣の土手鍋、地元ブランド安芸牛に舌鼓を打ち、冷えた身体を瀬戸内海を望む展望露天風呂で温める贅沢な温泉宿5選を詳しく解説します。",
@@ -100,13 +100,13 @@ export default function HiroshimaMiyajimaWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "広島・宮島温泉 厳島神社初冬絶景と広島カキづくしの宿",
-            "item": "https://croud-travel.pages.dev/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay"
+            "item": "https://croud-travel.pages.dev/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay/"
           }
         ]
       },
@@ -589,7 +589,7 @@ export default function HiroshimaMiyajimaWinterFeature() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-2">
             <Link 
-              href="/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay"
+              href="/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">下関・本場とらふぐ</span>
@@ -598,7 +598,7 @@ export default function HiroshimaMiyajimaWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay"
+              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-rose-500/40 text-rose-200 font-bold text-[10px]">道後・日本最古の湯</span>
@@ -607,7 +607,7 @@ export default function HiroshimaMiyajimaWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay"
+              href="/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">赤穂・坂越かき</span>
@@ -616,7 +616,7 @@ export default function HiroshimaMiyajimaWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay"
+              href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-sky-500/40 text-sky-200 font-bold text-[10px]">鳴門・冬の渦潮＆鳴門鯛</span>

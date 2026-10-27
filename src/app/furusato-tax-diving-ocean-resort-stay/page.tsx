@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '海中展望＆ダイビング・シュノーケリング直結リゾート×ふるさと納税厳選ガイド恩納村・串本・西伊豆のマリンホテル',
     description: '透明度抜群の海へ直行！沖縄恩納村の青の洞窟、和歌山串本の本州最南端テーブルサンゴ礁、静岡西伊豆のダイビングポイントに隣接したオーシャンリゾート。機材洗い場や温水シャワー完備、オーシャンビュー客室と新鮮海の幸を楽天ふるさと納税でお得に予約するガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-diving-ocean-resort-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-diving-ocean-resort-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -625,7 +625,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-infinity-onsen-sky-ocean-view-stay"
+            href="/furusato-tax-infinity-onsen-sky-ocean-view-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -641,7 +641,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-sunset-ocean-magic-hour-stay"
+            href="/furusato-tax-sunset-ocean-magic-hour-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -657,7 +657,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-morning-market-hamayaki-seafood-inn-stay"
+            href="/furusato-tax-morning-market-hamayaki-seafood-inn-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

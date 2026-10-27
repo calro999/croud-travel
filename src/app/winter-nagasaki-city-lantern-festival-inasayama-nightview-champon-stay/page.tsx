@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '長崎で過ごす冬の旅（12・1月）！名物ちゃんぽんと長崎和牛を味わう！名宿5選',
     description: '冬の長崎は、1万5000個もの極彩色中国提灯が街路を埋め尽くす「長崎ランタンフェスティバル」や世界新三大夜景・稲佐山から見下ろす1000万ド。',
-    url: 'https://croud-travel.pages.dev/winter-nagasaki-city-lantern-festival-inasayama-nightview-champon-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagasaki-city-lantern-festival-inasayama-nightview-champon-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -165,7 +165,7 @@ export default function NagasakiCityWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-nagasaki-city-lantern-festival-inasayama-nightview-champon-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-nagasaki-city-lantern-festival-inasayama-nightview-champon-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagasaki-city-lantern-festival-inasayama-nightview-champon-stay/"
         },
         "headline": "【12・1月長崎】長崎市＆稲佐山・南山手！1万5千個の長崎ランタンフェスと稲佐山世界新三大夜景・名物ちゃんぽんと長崎和牛を味わう名宿5選",
         "description": "冬の長崎は、1万5000個もの極彩色中国提灯が街路を埋め尽くす「長崎ランタンフェスティバル」や世界新三大夜景・稲佐山から見下ろす1000万ドルの冬夜景、南山手グラバー園のロマンチックなイルミネーションに包まれる特別な季節です。総鎮守・諏訪神社での厳かな初詣、白濁鶏白湯と海鮮の旨味が凝縮された熱々の本場長崎ちゃんぽん、出島伝来の伝統卓袱料理、そしてとろける長崎和牛。長崎港を見下ろす丘の上や異国情緒あふれる南山手の厳選名宿5選を徹底解説します。",
@@ -191,13 +191,13 @@ export default function NagasakiCityWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "長崎市＆稲佐山・南山手冬特集",
-            "item": "https://croud-travel.pages.dev/winter-nagasaki-city-lantern-festival-inasayama-nightview-champon-stay"
+            "item": "https://croud-travel.pages.dev/winter-nagasaki-city-lantern-festival-inasayama-nightview-champon-stay/"
           }
         ]
       },
@@ -608,7 +608,7 @@ export default function NagasakiCityWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-nagasaki-huistenbosch-christmas-lights-stay"
+              href="/winter-nagasaki-huistenbosch-christmas-lights-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-rose-400 block mb-1">佐世保・ハウステンボス冬特集</span>
@@ -616,7 +616,7 @@ export default function NagasakiCityWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay"
+              href="/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-rose-400 block mb-1">雲仙温泉冬特集</span>
@@ -624,7 +624,7 @@ export default function NagasakiCityWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-saga-takeo-onsen-romon-saga-beef-stay"
+              href="/winter-saga-takeo-onsen-romon-saga-beef-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-rose-400 block mb-1">佐賀・武雄温泉冬特集</span>

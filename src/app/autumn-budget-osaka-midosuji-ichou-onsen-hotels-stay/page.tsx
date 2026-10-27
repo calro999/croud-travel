@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の大阪×格安：御堂筋の黄金イチョウ並木と道頓堀グルメ！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
     description: '御堂筋のイチョウ並木と道頓堀グルメ！天然温泉付き1泊3,000円〜6,000円台のコスパ最強大阪ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-osaka-midosuji-ichou-onsen-hotels-stay/',
   }
 };
 

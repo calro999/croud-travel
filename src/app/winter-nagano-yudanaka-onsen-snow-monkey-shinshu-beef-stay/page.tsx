@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '信州湯田中渋温泉郷で過ごす冬の旅（11・12月）！登録有形文化財風呂！名宿5選',
     description: '11月下旬から12月にかけて長野県・北信濃の志賀高原山麓に広がる湯田中渋温泉郷は、初雪が舞い始め。',
-    url: 'https://croud-travel.pages.dev/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -89,7 +89,7 @@ export default function NaganoYudanakaWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay/"
         }
       },
       {
@@ -241,7 +241,7 @@ export default function NaganoYudanakaWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月信州湯田中渋温泉郷】登録有形文化財風呂！名宿5選","item":"https://croud-travel.pages.dev/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月信州湯田中渋温泉郷】登録有形文化財風呂！名宿5選","item":"https://croud-travel.pages.dev/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay/"}]}) }}
       />
 
         {/* Section 1: Seasonal Overview */}
@@ -567,42 +567,42 @@ export default function NaganoYudanakaWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay"
+              href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">長野・白馬山麓温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">白銀北アルプス絶景露天＆pH11超美肌湯・信州牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
+              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">長野・野沢温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">極上パウダースノーと13の外湯めぐり・信州牛すき焼きの宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay"
+              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">長野・諏訪湖温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">諏訪湖一望の展望露天風呂と諏訪五蔵地酒・信州プレミアム牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay"
+              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">群馬・草津温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">湯畑ライトアップと天下の名湯・上州牛すき焼きの宿</h3>
             </Link>
             <Link 
-              href="/winter-niigata-echigo-yuzawa-snow-sake-stay"
+              href="/winter-niigata-echigo-yuzawa-snow-sake-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">新潟・越後湯沢温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">川端康成ゆかりの雪国名湯と魚沼産コシヒカリ・越後地酒の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">特集一覧</span>

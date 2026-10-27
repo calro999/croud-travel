@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '水上温泉郷ひとり旅・谷川岳大自然おこもり：利根川源流の渓谷美・満天星空露天風呂・太宰治逗留の歴史！上越新幹線直通のリフレッシュ厳選3宿',
     description: '谷川岳の麓、利根川上流の渓谷美を誇る群馬・水上温泉郷！屋上の「天空の湯」から谷川連峰の星空を仰ぐ口コミ★4.6超の「なかや旅館」、太宰治が名作『姥捨』を執筆した歴史と檜風呂が評判の「旅館たにがわ」、11種の貸切露天風呂や広大な高原自然を誇る「ホテルサンバード」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/gunma-minakami-solo-retreat-valley-onsen-stay',
+    url: 'https://croud-travel.pages.dev/gunma-minakami-solo-retreat-valley-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/gunma-minakami-solo-retreat-valley-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/gunma-minakami-solo-retreat-valley-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【水上温泉郷ひとり旅・谷川岳大自然おこもり】利根川源流の渓谷美・満天星空露天風呂・太宰治逗留の歴史！上越新幹線直通のリフレッシュ厳選3宿","item":"https://croud-travel.pages.dev/gunma-minakami-solo-retreat-valley-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【水上温泉郷ひとり旅・谷川岳大自然おこもり】利根川源流の渓谷美・満天星空露天風呂・太宰治逗留の歴史！上越新幹線直通のリフレッシュ厳選3宿","item":"https://croud-travel.pages.dev/gunma-minakami-solo-retreat-valley-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

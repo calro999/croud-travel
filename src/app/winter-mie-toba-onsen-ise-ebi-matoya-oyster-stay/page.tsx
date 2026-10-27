@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '鳥羽温泉郷で過ごす冬の旅（11・12月）！鳥羽湾パノラマ絶景露天風呂！名宿5選',
     description: '11月から12月にかけて三重県・伊勢志摩の鳥羽温泉郷は、秋の禁漁明けから本番を迎える冬の二大味覚「本場伊勢海老」と「的矢牡蠣（まとやかき）」。',
-    url: 'https://croud-travel.pages.dev/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay',
+    url: 'https://croud-travel.pages.dev/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -89,7 +89,7 @@ export default function TobaOnsenWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay"
+          "@id": "https://croud-travel.pages.dev/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay/"
         }
       },
       {
@@ -241,7 +241,7 @@ export default function TobaOnsenWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月鳥羽温泉郷】鳥羽湾パノラマ絶景露天風呂！名宿5選","item":"https://croud-travel.pages.dev/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月鳥羽温泉郷】鳥羽湾パノラマ絶景露天風呂！名宿5選","item":"https://croud-travel.pages.dev/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay/"}]}) }}
       />
 
         {/* Section 1: Intro Overview */}
@@ -542,42 +542,42 @@ export default function TobaOnsenWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-ise-ebi-lobster-luxury-gourmet-stay"
+              href="/winter-ise-ebi-lobster-luxury-gourmet-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">冬の伊勢海老特集</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">解禁本番！極上活伊勢海老会席と海辺絶景露天風呂の宿</h3>
             </Link>
             <Link 
-              href="/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay"
+              href="/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">伊勢志摩・冬至宇治橋</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">宇治橋大鳥居の朝日奇跡と的矢牡蠣・英虞湾夕景露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay"
+              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">静岡・熱海温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">熱海海上冬花火と相模湾展望露天・金目鯛姿煮会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay"
+              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">和歌山・南紀白浜温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">幻の高級魚クエ鍋会席と太平洋絶景露天・日本三古湯の宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-awajishima-sumoto-3year-torafugu-stay"
+              href="/winter-hyogo-awajishima-sumoto-3year-torafugu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">兵庫・淡路島洲本温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">淡路島3年とらふぐフルコースと紀淡海峡パノラマ露天の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">特集一覧</span>

@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: '忍者の里として世界に知られる三重県伊賀・名張。11〜1月は盆地特有の厳しい冷え込みがもたらす白銀の冬景色が広がります。',
   keywords: '伊賀上野城 冬 雪景色, 上野天神宮 初詣, 赤目四十八滝 氷瀑, 伊賀牛 すき焼き, 赤目温泉 対泉閣, 山水園 赤目, 伊賀 忍者 冬 旅行, 三重 冬 観光',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay/'
   },
   openGraph: {
     title: '11・12・1月三重：菅原道真公祀る「上野天神宮」新春初詣！名宿5選',
     description: '忍者の里として世界に知られる三重県伊賀・名張。11〜1月は盆地特有の厳しい冷え込みがもたらす白銀の冬景色が広がります。',
-    url: 'https://croud-travel.pages.dev/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay/',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -57,7 +57,7 @@ export default function MieIgaWinterFeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay/"
     }
   };
 
@@ -75,13 +75,13 @@ export default function MieIgaWinterFeaturePage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "三重・伊賀上野＆赤目四十八滝 冬の初詣と氷瀑",
-        "item": "https://croud-travel.pages.dev/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay"
+        "item": "https://croud-travel.pages.dev/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay/"
       }
     ]
   };
@@ -275,7 +275,7 @@ export default function MieIgaWinterFeaturePage() {
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-emerald-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-emerald-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-emerald-600 transition">特集一覧</Link>
             <span>/</span>
             <Link href="/prefectures/mie/" className="hover:text-emerald-600 transition">三重県</Link>
             <span>/</span>
@@ -613,7 +613,7 @@ export default function MieIgaWinterFeaturePage() {
               藤堂高虎公の誇る高石垣と上野天神宮の厳かな初詣、赤目四十八滝のクリスタル氷瀑、そして幻の伊賀牛すき焼きと赤目温泉。冬の凛とした空気の中で味わう歴史と自然の恵みが、新年の旅路を贅沢に彩ってくれます。
             </p>
             <div className="flex flex-wrap items-center justify-center gap-3 text-xs">
-              <Link href="/features" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
+              <Link href="/features/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 ← 特集一覧に戻る
               </Link>
               <Link href="/prefectures/mie/" className="px-4 py-2 rounded-full bg-emerald-50 hover:bg-emerald-100 text-emerald-700 font-semibold transition">

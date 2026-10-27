@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '昼神温泉ひとり旅・日本一の星空おこもり：pH9.7超とろとろ美肌の湯・阿智村ナイトツアー・信州郷土会席！南信州の星降る里厳選3宿',
     description: '環境省認定「日本一星空が綺麗な村」阿智村・昼神温泉！阿知川沿いで庭園露天風呂と温水プールも備える「ひるがみの森」、多彩な大浴場と信州アルプス牛料理が評判の「湯多利の里 伊那華」、囲炉裏炉ばた料理と炭火会席が自慢の老舗「吉弥」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/nagano-hirugami-solo-retreat-starry-sky-onsen-stay',
+    url: 'https://croud-travel.pages.dev/nagano-hirugami-solo-retreat-starry-sky-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/nagano-hirugami-solo-retreat-starry-sky-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/nagano-hirugami-solo-retreat-starry-sky-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【昼神温泉ひとり旅・日本一の星空おこもり】pH9.7超とろとろ美肌の湯・阿智村ナイトツアー・信州郷土会席！南信州の星降る里厳選3宿","item":"https://croud-travel.pages.dev/nagano-hirugami-solo-retreat-starry-sky-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【昼神温泉ひとり旅・日本一の星空おこもり】pH9.7超とろとろ美肌の湯・阿智村ナイトツアー・信州郷土会席！南信州の星降る里厳選3宿","item":"https://croud-travel.pages.dev/nagano-hirugami-solo-retreat-starry-sky-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

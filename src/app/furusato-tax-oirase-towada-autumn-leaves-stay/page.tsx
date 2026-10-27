@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '奥入瀬渓流の黄金紅葉トンネル＆十和田湖畔温泉！十和田荘・賑山亭・プリンスホテル×ふるさと納税厳選ガイド青森・秋田',
     description: '10月中旬〜11月上旬に見頃を迎える日本屈指の紅葉スポット「奥入瀬渓流」と「十和田湖」。黄金色に染まるブナの原生林と清流のコントラスト、十和田湖畔温泉の名宿「ホテル十和田荘」「とわだこ賑山亭」「十和田プリンスホテル」で十和田バラ焼きや旬の味覚を堪能。楽天ふるさと納税で実質2,000円で泊まる紅葉ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-oirase-towada-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-oirase-towada-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">十和田湖・奥入瀬渓流 錦秋紅葉散策＆十和田湖畔温泉宿特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

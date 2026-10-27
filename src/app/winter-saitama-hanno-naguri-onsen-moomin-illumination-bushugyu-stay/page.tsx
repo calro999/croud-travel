@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月埼玉：奥武蔵の薪火サウナと武州和牛！名宿5選',
     description: '都心から特急でわずか40分、北欧の冬情趣と豊かな山林が広がる埼玉・飯能＆奥武蔵の11〜1月冬旅特集。宮沢湖畔を光と音で包むムーミンバレーパー。',
-    url: 'https://croud-travel.pages.dev/winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay/',
     type: 'article',
     images: [
       {
@@ -61,7 +61,7 @@ export default function SaitamaHannoNaguriWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay/"
         }
       },
       {
@@ -77,13 +77,13 @@ export default function SaitamaHannoNaguriWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "埼玉・飯能＆名栗温泉名宿",
-            "item": "https://croud-travel.pages.dev/winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay/"
           }
         ]
       },
@@ -270,7 +270,7 @@ export default function SaitamaHannoNaguriWinterPage() {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-600 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-emerald-700">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+            <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
             <span>&gt;</span>
             <span className="text-slate-900 font-semibold">埼玉・飯能＆名栗温泉名宿</span>
           </div>
@@ -573,22 +573,22 @@ export default function SaitamaHannoNaguriWinterPage() {
               <span>埼玉・関東甲信越および冬の目的別おすすめ特集</span>
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
-              <Link href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
+              <Link href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
                 🏮 秩父夜祭と名湯・長瀞こたつ舟名宿
               </Link>
-              <Link href="/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
+              <Link href="/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
                 🌼 長瀞・宝登山蝋梅と荒川こたつ舟名宿
               </Link>
-              <Link href="/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
+              <Link href="/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
                 🏯 川越小江戸・喜多院だるま市と鰻名宿
               </Link>
-              <Link href="/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
+              <Link href="/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
                 ⛩️ 高崎＆榛名神社初詣・磯部温泉名宿
               </Link>
-              <Link href="/winter-tokyo-shinjuku-nishishinjuku-illumination-hatsumode-luxury-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
+              <Link href="/winter-tokyo-shinjuku-nishishinjuku-illumination-hatsumode-luxury-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
                 ✨ 新宿・高層ビル群イルミ＆新春初詣名宿
               </Link>
-              <Link href="/features" className="p-3 bg-emerald-800 text-white rounded-xl font-bold hover:bg-emerald-900 transition text-center flex items-center justify-center">
+              <Link href="/features/" className="p-3 bg-emerald-800 text-white rounded-xl font-bold hover:bg-emerald-900 transition text-center flex items-center justify-center">
                 ❄️ 全国の冬の厳選特集一覧を見る →
               </Link>
             </div>

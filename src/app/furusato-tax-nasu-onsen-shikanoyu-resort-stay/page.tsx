@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '那須温泉郷をふるさと納税でお得に旅する！開湯千三百年「鹿の湯」の白濁湯＆那須御用邸リゾート！名宿特集｜山楽・エピナール那須・サンバレー那須',
     description: '開湯千三百年・那須連山の雄大な自然に抱かれる高原リゾート・栃木県那須温泉郷を楽天ふるさと納税でお得に贅沢ステイ！創業大正十二年の名門老舗「那須温泉 山楽」、那須高原の森にそびえる総合リゾート「ホテルエピナール那須」、多彩な湯巡りと温水プールの「ホテルサンバレー那須」を徹底比較。とちぎ和牛や那須町トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-nasu-onsen-shikanoyu-resort-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-nasu-onsen-shikanoyu-resort-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T17:15:00+09:00',
     dateModified: '2026-10-19T17:15:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-nasu-onsen-shikanoyu-resort-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-nasu-onsen-shikanoyu-resort-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【那須温泉郷×ふるさと納税】開湯千三百年「鹿の湯」の白濁湯＆那須御用邸リゾート！名宿特集｜山楽・エピナール那須・サンバレー那須","item":"https://croud-travel.pages.dev/furusato-tax-nasu-onsen-shikanoyu-resort-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【那須温泉郷×ふるさと納税】開湯千三百年「鹿の湯」の白濁湯＆那須御用邸リゾート！名宿特集｜山楽・エピナール那須・サンバレー那須","item":"https://croud-travel.pages.dev/furusato-tax-nasu-onsen-shikanoyu-resort-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【那須温泉郷×ふるさと納税】開湯千三百年「鹿の湯」の白濁湯＆那須御用邸リゾート！名宿特集｜山楽・エピナール那須・サンバレー那須</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-toya-onsen-lake-view-fireworks-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-toya-onsen-lake-view-fireworks-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 洞爺湖温泉 全室レイクビュー＆ロングラン花火特集
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-beppu-onsen-suginoi-jigoku-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-beppu-onsen-suginoi-jigoku-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 別府温泉 湧出量日本一・棚湯＆絶景リゾート特集
               </Link>
             </li>

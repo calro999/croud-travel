@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: '江戸時代から庶民の信仰を集め日本遺産にも認定された「大山詣り」。11〜1月の冬シーズンは空気が研ぎ澄まされ。',
   keywords: '大山阿夫利神社 初詣, 大山詣り, 大山豆腐, 鶴巻温泉 元湯陣屋, 七沢温泉 福元館, 七扇, 玉翠楼, ルートイン伊勢原, ミシュラン 相模湾 絶景, 神奈川 冬温泉',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay/'
   },
   openGraph: {
     title: '11・12・1月神奈川：「大山阿夫利神社」新春初詣と！名宿5選',
     description: '江戸時代から庶民の信仰を集め日本遺産にも認定された「大山詣り」。11〜1月の冬シーズンは空気が研ぎ澄まされ。',
-    url: 'https://croud-travel.pages.dev/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay',
+    url: 'https://croud-travel.pages.dev/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay/',
     type: 'article',
     images: [
       {
@@ -60,7 +60,7 @@ export default function KanagawaOyamaWinterPage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay"
+      "@id": "https://croud-travel.pages.dev/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay/"
     }
   };
 
@@ -78,13 +78,13 @@ export default function KanagawaOyamaWinterPage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "神奈川・大山＆伊勢原 冬特集",
-        "item": "https://croud-travel.pages.dev/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay"
+        "item": "https://croud-travel.pages.dev/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay/"
       }
     ]
   };
@@ -594,7 +594,7 @@ export default function KanagawaOyamaWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm mb-8">
             <Link 
-              href="/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay"
+              href="/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-teal-500 transition hover:shadow-md group block"
             >
               <div className="text-teal-600 font-bold text-xs mb-1">東京・高尾山＆八王子</div>
@@ -607,7 +607,7 @@ export default function KanagawaOyamaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay"
+              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-teal-500 transition hover:shadow-md group block"
             >
               <div className="text-teal-600 font-bold text-xs mb-1">神奈川・鎌倉＆江の島</div>
@@ -620,7 +620,7 @@ export default function KanagawaOyamaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay"
+              href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-teal-500 transition hover:shadow-md group block"
             >
               <div className="text-teal-600 font-bold text-xs mb-1">神奈川・箱根＆芦ノ湖</div>
@@ -636,9 +636,9 @@ export default function KanagawaOyamaWinterPage() {
           <div className="flex flex-wrap justify-center gap-4 text-xs font-semibold text-slate-600">
             <Link href="/" className="hover:text-teal-600 underline">ホーム</Link>
             <span>•</span>
-            <Link href="/features" className="hover:text-teal-600 underline">特集一覧</Link>
+            <Link href="/features/" className="hover:text-teal-600 underline">特集一覧</Link>
             <span>•</span>
-            <Link href="/posts" className="hover:text-teal-600 underline">記事一覧カタログ</Link>
+            <Link href="/posts/" className="hover:text-teal-600 underline">記事一覧カタログ</Link>
           </div>
         
       <HubRelatedPosts currentSlug="winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay" />

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '鶯宿温泉＆雫石で過ごす冬の旅（11・12月）！開湯450年の名湯と小岩井農場雪景色！名宿5選',
     description: '11月から12月にかけて、秀峰・岩手山の雄大な裾野に広がる岩手県雫石町（しずくいしちょう）は、澄み切った初冬の空と白銀の雪化粧に彩られます。',
-    url: 'https://croud-travel.pages.dev/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterIwateOshukuPage() {
         'headline': "【11・12月岩手・鶯宿温泉＆雫石】開湯450年の名湯と小岩井農場雪景色・極上雫石牛＆盛岡三大麺を味わう名宿5選",
         'description': "11月から12月にかけて、秀峰・岩手山の雄大な裾野に広がる岩手県雫石町（しずくいしちょう）は、澄み切った初冬の空と白銀の雪化粧に彩られます。天正年間に一羽の傷ついた鶯（うぐいす）が川の湧水で傷を癒やしていたことから名付けられた「鶯宿温泉（おうしゅくおんせん）」は、開湯450余年の歴史を誇る名湯。毎分3,000リットル以上という圧倒的な湯量を誇り、肌に吸い付くようなアルカリ性単純温泉や単純硫黄泉が雪景色の中に湧き上がります。11月下旬から12月には、近隣の小岩井農場で東北最大級の光の祭典「銀河農場の夜（イルミネーション）」が開催され、白銀の大地ときらめく光の幻想的な競演が楽しめます。夕食には甘みと旨味が凝縮した「雫石牛」や「前沢牛」のステーキ、三陸直送の海の幸、盛岡冷麺やじゃじゃ麺などのご当地麺。初冬の岩手・雫石で極上の雪見風呂と美食に満たされる厳選名宿5選を詳しく紹介します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterIwateOshukuPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-emerald-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">岩手・鶯宿温泉＆雫石</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterIwateOshukuPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月鶯宿温泉＆雫石】開湯450年の名湯と小岩井農場雪景色！名宿5選","item":"https://croud-travel.pages.dev/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月鶯宿温泉＆雫石】開湯450年の名湯と小岩井農場雪景色！名宿5選","item":"https://croud-travel.pages.dev/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -531,7 +531,7 @@ export default function WinterIwateOshukuPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay"
+              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">岩手・花巻温泉郷</span>
@@ -544,7 +544,7 @@ export default function WinterIwateOshukuPage() {
             </Link>
 
             <Link 
-              href="/winter-iwate-tsunagi-onsen-koiwai-illumination-stay"
+              href="/winter-iwate-tsunagi-onsen-koiwai-illumination-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">岩手・盛岡つなぎ温泉</span>
@@ -557,7 +557,7 @@ export default function WinterIwateOshukuPage() {
             </Link>
 
             <Link 
-              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay"
+              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">秋田・乳頭温泉郷</span>

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '福岡博多出張・天然温泉サウナ：博多駅直結・自家源泉の湯・中洲屋台＆もつ鍋！九州の美食とビジネスターミナルを極める厳選3宿',
     description: '福岡空港から地下鉄でわずか5分！博多駅徒歩5分で地下1250mから湧き出る天然温泉大浴場を誇る「八百治博多ホテル」、祇園駅直結・中洲も徒歩圏で本格サウナと夜鳴きそばが魅力の「ドーミーイン博多祇園」、博多駅博多口すぐで露天風呂とサウナを備える「西鉄ホテル クルーム博多」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/fukuoka-hakata-solo-business-onsen-sauna-stay',
+    url: 'https://croud-travel.pages.dev/fukuoka-hakata-solo-business-onsen-sauna-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/fukuoka-hakata-solo-business-onsen-sauna-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/fukuoka-hakata-solo-business-onsen-sauna-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【福岡博多出張・天然温泉サウナ】博多駅直結・自家源泉の湯・中洲屋台＆もつ鍋！九州の美食とビジネスターミナルを極める厳選3宿","item":"https://croud-travel.pages.dev/fukuoka-hakata-solo-business-onsen-sauna-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【福岡博多出張・天然温泉サウナ】博多駅直結・自家源泉の湯・中洲屋台＆もつ鍋！九州の美食とビジネスターミナルを極める厳選3宿","item":"https://croud-travel.pages.dev/fukuoka-hakata-solo-business-onsen-sauna-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

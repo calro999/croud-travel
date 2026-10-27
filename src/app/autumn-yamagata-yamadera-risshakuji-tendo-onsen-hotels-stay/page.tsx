@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の山形：山寺（立石寺）の奇岩絶壁紅葉クライミングと天童温泉！美食と名湯を楽しむおすすめ旅館5選「2026最新」',
     description: '松尾芭蕉ゆかりの山寺・五大堂からの錦秋大パノラマと、天童温泉の美食と名湯を満喫する厳選旅館5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-yamagata-yamadera-risshakuji-tendo-onsen-hotels-stay/',
   }
 };
 

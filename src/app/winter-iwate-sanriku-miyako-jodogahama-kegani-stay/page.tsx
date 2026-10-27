@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月岩手：名物瓶ドン」と太平洋絶景オーシャンビュー！名宿5選',
     description: '冬の澄み渡る群青の太平洋と白銀の奇岩美を巡る11〜1月の岩手・三陸海岸（宮古・田老・久慈）特集。国の名勝「浄土ヶ浜」の冬景色や。',
-    url: 'https://croud-travel.pages.dev/winter-iwate-sanriku-miyako-jodogahama-kegani-stay',
+    url: 'https://croud-travel.pages.dev/winter-iwate-sanriku-miyako-jodogahama-kegani-stay/',
     type: 'article',
     images: [
       {
@@ -61,7 +61,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-iwate-sanriku-miyako-jodogahama-kegani-stay"
+          "@id": "https://croud-travel.pages.dev/winter-iwate-sanriku-miyako-jodogahama-kegani-stay/"
         }
       },
       {
@@ -77,13 +77,13 @@ export default function IwateSanrikuMiyakoWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "岩手・浄土ヶ浜＆三陸毛ガニ・名物瓶ドン名宿",
-            "item": "https://croud-travel.pages.dev/winter-iwate-sanriku-miyako-jodogahama-kegani-stay"
+            "item": "https://croud-travel.pages.dev/winter-iwate-sanriku-miyako-jodogahama-kegani-stay/"
           }
         ]
       },
@@ -270,7 +270,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-600 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-blue-600">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/features" className="hover:text-blue-600">特集一覧</Link>
+            <Link href="/features/" className="hover:text-blue-600">特集一覧</Link>
             <span>&gt;</span>
             <span className="text-slate-900 font-semibold">岩手・浄土ヶ浜＆三陸毛ガニ・瓶ドン名宿</span>
           </div>
@@ -581,7 +581,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               <Link
-                href="/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay"
+                href="/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-amber-400 text-xs font-bold block mb-1">岩手特集</span>
@@ -589,7 +589,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
                 <span className="text-xs text-slate-300">盛岡の奥座敷・繋温泉の源泉と名牛ステーキ…</span>
               </Link>
               <Link
-                href="/winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay"
+                href="/winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-emerald-400 text-xs font-bold block mb-1">岩手特集</span>
@@ -597,7 +597,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
                 <span className="text-xs text-slate-300">世界遺産平泉の新春初詣と猊鼻渓の冬情趣…</span>
               </Link>
               <Link
-                href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay"
+                href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-cyan-400 text-xs font-bold block mb-1">青森特集</span>
@@ -605,7 +605,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
                 <span className="text-xs text-slate-300">三陸北端の港町八戸の絶品銀サバと朝市…</span>
               </Link>
               <Link
-                href="/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay"
+                href="/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-rose-400 text-xs font-bold block mb-1">宮城特集</span>
@@ -613,7 +613,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
                 <span className="text-xs text-slate-300">三陸南部の冬の主役メカジキしゃぶしゃぶ…</span>
               </Link>
               <Link
-                href="/features"
+                href="/features/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-purple-400 text-xs font-bold block mb-1">特集一覧</span>

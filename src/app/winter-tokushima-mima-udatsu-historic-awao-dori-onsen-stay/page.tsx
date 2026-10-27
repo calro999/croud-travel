@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: '重伝建の白壁と装飾瓦が白銀に映える「脇町うだつの町並み」の冬風情！徳島が誇る極上地鶏「阿波尾鶏」の水炊きや冬の美馬そば、吉野川の清流を見下ろす天然温泉でぬくもる心安らぐ冬の歴史旅名宿5選。',
   keywords: ['徳島県冬旅行', '美馬・脇町・吉野川', '冬温泉', '2026', '2027', '雪景色', '冬の味覚', '楽天トラベル', 'ふるさと納税'],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-tokushima-mima-udatsu-historic-awao-dori-onsen-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-tokushima-mima-udatsu-historic-awao-dori-onsen-stay/',
   },
   openGraph: {
     title: '藍商のうだつの町並みと阿波尾鶏鍋：2026-2027年冬の徳島・美馬！吉野川展望温泉と老舗名宿5選',
     description: '重伝建の白壁と装飾瓦が白銀に映える「脇町うだつの町並み」の冬風情！徳島が誇る極上地鶏「阿波尾鶏」の水炊きや冬の美馬そば、吉野川の清流を見下ろす天然温泉でぬくもる心安らぐ冬の歴史旅名宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-tokushima-mima-udatsu-historic-awao-dori-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-tokushima-mima-udatsu-historic-awao-dori-onsen-stay/',
     siteName: 'クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -89,7 +89,7 @@ export default function Page() {
             '@type': 'ListItem',
             position: 3,
             name: '【藍商のうだつの町並みと阿波尾鶏鍋】2026-2027年冬の徳島・美馬！吉野川展望温泉と老舗名宿5選',
-            item: 'https://croud-travel.pages.dev/winter-tokushima-mima-udatsu-historic-awao-dori-onsen-stay'
+            item: 'https://croud-travel.pages.dev/winter-tokushima-mima-udatsu-historic-awao-dori-onsen-stay/'
           }
         ]
       }
@@ -659,15 +659,15 @@ export default function Page() {
                 <span>徳島県のおすすめ観光名所＆温泉宿一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/features" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/features/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>全国の季節・目的別旅行特集一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>実質2,000円で泊まる名湯・高級温泉旅館ガイド</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-local-gourmet-inn-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-local-gourmet-inn-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>ご当地グルメを堪能する全国美食旅特集</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>

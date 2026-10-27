@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '東伊豆・伊豆高原ひとり旅・大室山と海一望おこもり：全室客室露天風呂・金目鯛姿煮・伊豆ジオパーク！東京特急踊り子直通のリゾート厳選3宿',
     description: '大室山の麓、城ヶ崎海岸の絶景を望む伊豆屈指の別荘温泉地・伊豆高原！全館洗練された空間美とプライベート露天風呂が口コミ★4.6超の「自然家．Haco」、大室山の豊かな自然を望む極上ラグジュアリー宿「大室の杜 玉翠」、広大な日本庭園と良質な天然温泉大浴場を誇る「ホテル 森の泉」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/shizuoka-izukogen-solo-retreat-villa-onsen-stay',
+    url: 'https://croud-travel.pages.dev/shizuoka-izukogen-solo-retreat-villa-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-izukogen-solo-retreat-villa-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-izukogen-solo-retreat-villa-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【東伊豆・伊豆高原ひとり旅・大室山と海一望おこもり】全室客室露天風呂・金目鯛姿煮・伊豆ジオパーク！東京特急踊り子直通のリゾート厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-izukogen-solo-retreat-villa-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【東伊豆・伊豆高原ひとり旅・大室山と海一望おこもり】全室客室露天風呂・金目鯛姿煮・伊豆ジオパーク！東京特急踊り子直通のリゾート厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-izukogen-solo-retreat-villa-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

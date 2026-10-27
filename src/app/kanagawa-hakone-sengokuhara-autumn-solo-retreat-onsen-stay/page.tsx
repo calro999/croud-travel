@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもりで過ごす冬の旅（10月）！全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿',
     description: '10月〜11月が見頃！台ヶ岳北斜面を埋め尽くす黄金色のススキ草原が圧巻の箱根・仙石原。大涌谷から引湯する乳白色の天然温泉と全室露天風呂付きの贅沢空間が評判の「センチュリオン箱根別邸」、全室客室温泉付きで竹林を望む大人の隠れ家「きたの風茶寮」、アットホームなもてなしと良質なにごり湯の「金時山荘」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-autumn-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-autumn-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-autumn-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-autumn-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【10月・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもり】全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿","item":"https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-autumn-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【10月・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもり】全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿","item":"https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-autumn-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

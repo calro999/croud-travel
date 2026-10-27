@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '城崎温泉ひとり旅・七田外湯めぐりおこもり：大谿川柳並木・浴衣散策・松葉ガニ＆但馬牛！千三百年続く文学と名湯の街厳選3宿',
     description: '浴衣の似合う日本一の温泉街・城崎！大谿川沿いで外湯めぐりに抜群の立地を誇る「富士見屋」、但馬牛熟成肉と日本酒が自慢の洗練宿「小宿 縁」、鮮魚仲買直営で日本海の獲れたて海の幸を堪能できる「風月魚匠」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/hyogo-kinosaki-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/hyogo-kinosaki-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/hyogo-kinosaki-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/hyogo-kinosaki-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【城崎温泉ひとり旅・七田外湯めぐりおこもり】大谿川柳並木・浴衣散策・松葉ガニ＆但馬牛！千三百年続く文学と名湯の街厳選3宿","item":"https://croud-travel.pages.dev/hyogo-kinosaki-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【城崎温泉ひとり旅・七田外湯めぐりおこもり】大谿川柳並木・浴衣散策・松葉ガニ＆但馬牛！千三百年続く文学と名湯の街厳選3宿","item":"https://croud-travel.pages.dev/hyogo-kinosaki-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

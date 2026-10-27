@@ -412,8 +412,8 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
           {prefInfo.subAreas.slice(0, 3).map((sub, i) => (
             <div key={i} className="p-4 rounded-2xl bg-stone-50 border border-stone-200 space-y-1.5">
               <h3 className="font-bold text-emerald-950 text-sm">📍 {sub.areaName}</h3>
-              <p className="text-stone-600 leading-relaxed">{sub.feature}</p>
-              <p className="text-teal-800 font-semibold">主な見どころ: {sub.mainSpots}</p>
+              <p className="text-stone-600 leading-relaxed">{sub.description}</p>
+              <p className="text-teal-800 font-semibold">主な見どころ: {sub.spots.map(s => s.name).slice(0, 3).join("・")}</p>
             </div>
           ))}
         </div>

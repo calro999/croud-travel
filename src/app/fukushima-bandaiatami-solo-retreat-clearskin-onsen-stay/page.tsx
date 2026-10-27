@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '会津郡山・磐梯熱海温泉ひとり旅・萩姫伝説の美肌湯おこもり：pH9超とろとろアルカリ泉・地酒王国ふくしま・清流五百川！郡山新幹線20分の隠れ里厳選3宿',
     description: '美人の湯として名高い萩姫伝説の古湯・福島・磐梯熱海温泉！六つの貸切風呂と手作り創作料理が口コミ★4.5超の「湯のやど 楽山」、30種類の湯船で湯巡りを楽しめる大型名門「ホテル華の湯」、家庭的な温もりと源泉掛け流しの「紅葉館きらくや」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/fukushima-bandaiatami-solo-retreat-clearskin-onsen-stay',
+    url: 'https://croud-travel.pages.dev/fukushima-bandaiatami-solo-retreat-clearskin-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/fukushima-bandaiatami-solo-retreat-clearskin-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/fukushima-bandaiatami-solo-retreat-clearskin-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【会津郡山・磐梯熱海温泉ひとり旅・萩姫伝説の美肌湯おこもり】pH9超とろとろアルカリ泉・地酒王国ふくしま・清流五百川！郡山新幹線20分の隠れ里厳選3宿","item":"https://croud-travel.pages.dev/fukushima-bandaiatami-solo-retreat-clearskin-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【会津郡山・磐梯熱海温泉ひとり旅・萩姫伝説の美肌湯おこもり】pH9超とろとろアルカリ泉・地酒王国ふくしま・清流五百川！郡山新幹線20分の隠れ里厳選3宿","item":"https://croud-travel.pages.dev/fukushima-bandaiatami-solo-retreat-clearskin-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

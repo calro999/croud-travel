@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月福井：曹洞宗大本山永平寺の雪静寂！名宿5選',
     description: '冬の福井・永平寺は、樹齢数百年を数える杉木立と回廊が純白の雪に包まれ、770余年の歴史を誇る禅の祈りが厳かに響き渡る静寂の聖地。',
-    url: 'https://croud-travel.pages.dev/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/173065/173065.jpg', width: 1200, height: 630, alt: '大本山永平寺の雪景色と静寂の回廊' }]
   },
@@ -156,8 +156,8 @@ export default function FukuiEiheijiPage() {
         '@type': 'BreadcrumbList',
         'itemListElement': [
           { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '永平寺雪静寂と越前おろしそば・若狭牛名宿', 'item': 'https://croud-travel.pages.dev/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay' }
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features/' },
+          { '@type': 'ListItem', 'position': 3, 'name': '永平寺雪静寂と越前おろしそば・若狭牛名宿', 'item': 'https://croud-travel.pages.dev/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay/' }
         ]
       },
       {
@@ -562,42 +562,42 @@ export default function FukuiEiheijiPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-fukui-awara-onsen-echizen-crab-stay" 
+              href="/winter-fukui-awara-onsen-echizen-crab-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-teal-700 mb-1">あわら温泉と越前がに極上宿</div>
               <div className="text-slate-500 text-xs">関西の奥座敷で味わう茹でたて越前がにと名湯旅館特集</div>
             </Link>
             <Link 
-              href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay" 
+              href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-teal-700 mb-1">三国温泉・東尋坊夕陽と越前がに</div>
               <div className="text-slate-500 text-xs">日本海の荒波絶景と本場港町で味わうタグ付き越前がに</div>
             </Link>
             <Link 
-              href="/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay" 
+              href="/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-teal-700 mb-1">金沢・湯涌温泉と香箱ガニ</div>
               <div className="text-slate-500 text-xs">兼六園雪吊りと金沢の奥座敷・冬の味覚を満喫する名宿</div>
             </Link>
             <Link 
-              href="/winter-toyama-himi-kanburi-luxury-stay" 
+              href="/winter-toyama-himi-kanburi-luxury-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-teal-700 mb-1">富山・氷見の寒ブリ極上ステイ</div>
               <div className="text-slate-500 text-xs">立山連峰を望む富山湾の富山湾越冬寒ブリと海辺の温泉宿</div>
             </Link>
             <Link 
-              href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay" 
+              href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-teal-700 mb-1">滋賀・長浜太閤温泉と天然鴨鍋・近江牛</div>
               <div className="text-slate-500 text-xs">雪の琵琶湖畔と黒壁スクエア・真冬の天然真鴨鍋名宿</div>
             </Link>
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-teal-950 text-white hover:bg-stone-950 transition-all block flex flex-col justify-center items-center text-center font-bold"
             >
               <span>全国の冬特集一覧を見る →</span>

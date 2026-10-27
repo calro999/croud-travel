@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '大雪山・層雲峡温泉ひとり旅・柱状節理断崖おこもり：24時間源泉掛け流し・銀河流星の滝・蝦夷鹿＆旭川ラーメン！大雪山国立公園の秘境厳選3宿',
     description: '大雪山黒岳の麓にそびえる大峡谷・層雲峡温泉！驚異の口コミ★5.0満点を誇る自家源泉掛け流しと心温まるもてなしの隠れ宿「ホテル雲井」、24時間源泉掛け流し露天風呂と無料サービス充実の「湯元 銀泉閣」、アットホームな居心地と温泉が人気の「温泉ペンション銀河」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/hokkaido-sounkyo-solo-retreat-gorge-onsen-stay',
+    url: 'https://croud-travel.pages.dev/hokkaido-sounkyo-solo-retreat-gorge-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/hokkaido-sounkyo-solo-retreat-gorge-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/hokkaido-sounkyo-solo-retreat-gorge-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【大雪山・層雲峡温泉ひとり旅・柱状節理断崖おこもり】24時間源泉掛け流し・銀河流星の滝・蝦夷鹿＆旭川ラーメン！大雪山国立公園の秘境厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-sounkyo-solo-retreat-gorge-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【大雪山・層雲峡温泉ひとり旅・柱状節理断崖おこもり】24時間源泉掛け流し・銀河流星の滝・蝦夷鹿＆旭川ラーメン！大雪山国立公園の秘境厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-sounkyo-solo-retreat-gorge-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

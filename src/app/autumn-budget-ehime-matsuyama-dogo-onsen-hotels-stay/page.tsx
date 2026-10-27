@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の松山・道後温泉×格安：松山城の紅葉と最古の名湯外湯めぐり！1泊4,000円台〜のコスパ最強おすすめ宿5選「2026最新」',
     description: '道後温泉本館と松山城の秋紅葉！大浴場付き1泊4,000円台〜のコスパ最強おすすめ宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-budget-ehime-matsuyama-dogo-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-ehime-matsuyama-dogo-onsen-hotels-stay/',
   }
 };
 

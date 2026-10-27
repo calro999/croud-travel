@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '越前三国温泉で過ごす冬の旅（11・12月）！本場越前蟹フルコース！名宿5選',
     description: '11月6日のズワイガニ漁解禁とともに、福井県・三国港は全国の美食家が押し寄せる「越前がに」の最高潮シーズンを迎えます。',
-    url: 'https://croud-travel.pages.dev/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -89,7 +89,7 @@ export default function FukuiMikuniWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay"
+          "@id": "https://croud-travel.pages.dev/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay/"
         }
       },
       {
@@ -241,7 +241,7 @@ export default function FukuiMikuniWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月越前三国温泉】本場越前蟹フルコース！名宿5選","item":"https://croud-travel.pages.dev/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月越前三国温泉】本場越前蟹フルコース！名宿5選","item":"https://croud-travel.pages.dev/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay/"}]}) }}
       />
 
         {/* Section 1: Seasonal Overview */}
@@ -567,42 +567,42 @@ export default function FukuiMikuniWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-fukui-awara-onsen-echizen-crab-stay"
+              href="/winter-fukui-awara-onsen-echizen-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-orange-300 font-semibold block mb-1">福井・あわら温泉</span>
               <h3 className="text-sm font-bold group-hover:text-orange-200 transition">関西の奥座敷・74の自家源泉と越前がにフルコースの宿</h3>
             </Link>
             <Link 
-              href="/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay"
+              href="/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-orange-300 font-semibold block mb-1">富山・氷見温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-orange-200 transition">立山連峰雪景色と富山湾の寒ブリ尽くし・氷見牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay"
+              href="/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-orange-300 font-semibold block mb-1">石川・加賀山中温泉</span>
               <h3 className="text-sm font-bold group-hover:text-orange-200 transition">鶴仙渓雪景色と加能ガニ会席・開湯1300年の名湯宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-orange-300 font-semibold block mb-1">兵庫・城崎温泉</span>
               <h3 className="text-sm font-bold group-hover:text-orange-200 transition">七つの外湯めぐりと津居山港直送・本場松葉ガニの宿</h3>
             </Link>
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-orange-300 font-semibold block mb-1">鳥取・三朝温泉</span>
               <h3 className="text-sm font-bold group-hover:text-orange-200 transition">世界屈指のラジウム温泉と境港直送松葉ガニ・鳥取和牛の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-orange-300 font-semibold block mb-1">特集一覧</span>

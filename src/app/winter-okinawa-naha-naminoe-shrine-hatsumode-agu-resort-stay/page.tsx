@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月沖縄那覇：新春波上宮初詣！名宿5選',
     description: '本土が厳しい寒さに震える11月・12月・1月、平均気温18℃前後の温暖な陽光が注ぐ沖縄・那覇エリアは極上の「避冬（ひとう）リゾート」。',
-    url: 'https://croud-travel.pages.dev/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay',
+    url: 'https://croud-travel.pages.dev/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/139989/139989.jpg' , alt: "11・12・1月沖縄那覇：新春波上宮初詣！名宿5選"}]
   }
@@ -150,7 +150,7 @@ export default function OkinawaNahaWinterPage() {
       {
         "@type": "WebPage",
         "@id": "https://croud-travel.pages.dev/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay#webpage",
-        "url": "https://croud-travel.pages.dev/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay",
+        "url": "https://croud-travel.pages.dev/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay/",
         "name": "【11・12・1月沖縄那覇】新春波上宮初詣＆首里城復興見学！国際通り・あぐー豚しゃぶしゃぶとあったか避冬ホテル5選",
         "description": "本土が厳しい寒さに震える11月・12月・1月、平均気温18℃前後の温暖な陽光が注ぐ沖縄・那覇エリアは極上の「避冬（ひとう）リゾート」。琉球八社の最高位・波上宮（なみのうえぐう）の新春開運初詣、2026年正殿復元に向けて活気あふれる首里城「見せる復興」の見学、活気あふれる国際通りや壺屋やちむん通り散策を満喫。甘みたっぷりの純血あぐー豚しゃぶしゃぶや沖縄そばに舌鼓を打ち、地下から湧く琉球天然温泉やハイセンスなホテルで寛ぐ大人の冬旅。楽天APIから最新取得した那覇の信頼の名宿5選を徹底特集します。",
         "inLanguage": "ja",
@@ -174,13 +174,13 @@ export default function OkinawaNahaWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "那覇波上宮初詣＆避冬リゾート宿",
-            "item": "https://croud-travel.pages.dev/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay"
+            "item": "https://croud-travel.pages.dev/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay/"
           }
         ]
       },
@@ -273,7 +273,7 @@ export default function OkinawaNahaWinterPage() {
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-cyan-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-cyan-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-cyan-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">冬の那覇・波上宮初詣＆避冬リゾート特集</li>
         </ol>
@@ -585,28 +585,28 @@ export default function OkinawaNahaWinterPage() {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
-              href="/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay"
+              href="/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-cyan-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【沖縄・恩納本部】冬のホエールウォッチング＆高級ビーチリゾート</span>
               <span className="text-xs text-slate-500">冬の美ら海で出会うザトウクジラとあぐー豚・オーシャンビューホテル</span>
             </Link>
             <Link 
-              href="/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay"
+              href="/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-cyan-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【沖縄・石垣島】冬の川平湾エメラルド絶景＆南十字星星空名宿</span>
               <span className="text-xs text-slate-500">日本一の星空保護区と幻の石垣牛・極上リゾートステイ</span>
             </Link>
             <Link 
-              href="/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay"
+              href="/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-cyan-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【宮崎・日南】鵜戸神宮新春開運初詣＆日南海岸伊勢海老名宿</span>
               <span className="text-xs text-slate-500">冬でも温暖な日南フェニックスロードと本場伊勢海老・宮崎牛</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-cyan-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>

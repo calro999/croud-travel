@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月北海道：極上富良野和牛！名宿5選',
     description: '11月下旬から1月、北海道の中央に位置するトマムと富良野は、氷点下20度〜30度にも達する極寒が生み出す世界屈指のパウダースノーと。',
-    url: 'https://croud-travel.pages.dev/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function HokkaidoTomamuFuranoWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function HokkaidoTomamuFuranoWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: 'トマム氷の街と富良野雪景色・富良野和牛リゾート名宿',
-        item: 'https://croud-travel.pages.dev/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay'
+        item: 'https://croud-travel.pages.dev/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay/'
       }
     ]
   };
@@ -625,21 +625,21 @@ export default function HokkaidoTomamuFuranoWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-niseko-powder-snow-ski-resort-stay" 
+              href="/winter-niseko-powder-snow-ski-resort-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">北海道・ニセコ</span>
               <p className="font-bold text-stone-800 line-clamp-2">世界最高峰パウダースノーと羊蹄山雪景色・ラグジュアリースキーリゾート</p>
             </Link>
             <Link 
-              href="/winter-hokkaido-toyako-onsen-lakeview-illumination-stay" 
+              href="/winter-hokkaido-toyako-onsen-lakeview-illumination-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">北海道・洞爺湖温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">洞爺湖イルミネーショントンネルとレイクビュー絶景温泉・冬の北海道牛</p>
             </Link>
             <Link 
-              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay" 
+              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">北海道・函館湯の川温泉</span>

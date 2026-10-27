@@ -457,7 +457,7 @@ export default function KyotoSubwayBusPassPage() {
           </h2>
           <div className="grid sm:grid-cols-2 gap-4">
             <Link
-              href="/kyoto-travel-budget-how-many-nights"
+              href="/kyoto-travel-budget-how-many-nights/"
               className="p-4 bg-white rounded-xl border border-slate-200 hover:border-teal-500 hover:shadow-sm transition-all group"
             >
               <h3 className="text-sm font-bold text-slate-800 group-hover:text-teal-600 mb-1">
@@ -468,7 +468,7 @@ export default function KyotoSubwayBusPassPage() {
               </p>
             </Link>
             <Link
-              href="/kyoto-temple-walking-shoes-outfit-mistakes-guide"
+              href="/kyoto-temple-walking-shoes-outfit-mistakes-guide/"
               className="p-4 bg-white rounded-xl border border-slate-200 hover:border-teal-500 hover:shadow-sm transition-all group"
             >
               <h3 className="text-sm font-bold text-slate-800 group-hover:text-teal-600 mb-1">

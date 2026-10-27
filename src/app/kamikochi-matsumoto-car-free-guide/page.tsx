@@ -531,7 +531,7 @@ export default function KamikochiMatsumotoCarFreePage() {
           </div>
           <div className="pt-1">
             <Link
-              href="/tokyo-matsumoto-kamikochi-bus-vs-train-guide"
+              href="/tokyo-matsumoto-kamikochi-bus-vs-train-guide/"
               className="block p-5 bg-white border border-stone-200 rounded-2xl hover:border-rose-400 hover:shadow-sm transition group"
             >
               <div className="text-[11px] text-rose-700 font-bold mb-1">特急あずさ vs 高速バス徹底比較</div>
@@ -548,7 +548,7 @@ export default function KamikochiMatsumotoCarFreePage() {
         {/* 47都道府県トップリンク */}
         <div className="text-center pt-2">
           <Link
-            href="/prefectures"
+            href="/prefectures/"
             className="inline-flex items-center gap-2 text-xs font-bold text-stone-700 bg-white hover:bg-stone-50 border border-stone-300 px-8 py-3.5 rounded-2xl transition shadow-sm"
           >
             <span>🗾</span>

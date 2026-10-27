@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月愛知：三光稲荷神社新春初詣！名宿5選',
     description: '冬の愛知・犬山は、木曽川の断崖にそびえる現存最古の木造天守「国宝犬山城」が凛とした青空と朝霧に映える絶景ロケーションとともに楽しむ宿泊ガイドです。',
-    url: 'https://croud-travel.pages.dev/winter-aichi-inuyama-castle-kiso-river-nagoya-cochin-stay',
+    url: 'https://croud-travel.pages.dev/winter-aichi-inuyama-castle-kiso-river-nagoya-cochin-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/183344/183344.jpg', width: 1200, height: 630, alt: '国宝犬山城と木曽川の冬景色' }]
   },
@@ -156,8 +156,8 @@ export default function AichiInuyamaPage() {
         '@type': 'BreadcrumbList',
         'itemListElement': [
           { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '国宝犬山城冬景色と白帝の湯・名古屋コーチン名宿', 'item': 'https://croud-travel.pages.dev/winter-aichi-inuyama-castle-kiso-river-nagoya-cochin-stay' }
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features/' },
+          { '@type': 'ListItem', 'position': 3, 'name': '国宝犬山城冬景色と白帝の湯・名古屋コーチン名宿', 'item': 'https://croud-travel.pages.dev/winter-aichi-inuyama-castle-kiso-river-nagoya-cochin-stay/' }
         ]
       },
       {
@@ -562,42 +562,42 @@ export default function AichiInuyamaPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay" 
+              href="/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-rose-700 mb-1">名古屋・熱田神宮初詣＆ひつまぶし</div>
               <div className="text-slate-500 text-xs">三種の神器草薙神剣の古社参拝と名古屋名物うなぎの名宿特集</div>
             </Link>
             <Link 
-              href="/winter-gifu-gujo-hachiman-snow-castle-hidagyu-keichan-stay" 
+              href="/winter-gifu-gujo-hachiman-snow-castle-hidagyu-keichan-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-rose-700 mb-1">岐阜・郡上八幡城雪景色＆宗祇水</div>
               <div className="text-slate-500 text-xs">日本最古木造再建城の雪化粧と奥美濃名物鶏ちゃん・飛騨牛</div>
             </Link>
             <Link 
-              href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay" 
+              href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-rose-700 mb-1">南知多温泉郷のとらふぐ＆知多牛</div>
               <div className="text-slate-500 text-xs">伊勢湾の夕陽絶景と冬の天然とらふぐフルコース名宿ガイド</div>
             </Link>
             <Link 
-              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay" 
+              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-rose-700 mb-1">伊勢神宮新春初詣＆伊勢海老・松阪牛</div>
               <div className="text-slate-500 text-xs">お伊勢参りと宇治橋朝陽・おかげ横丁食べ歩きと名宿ステイ</div>
             </Link>
             <Link 
-              href="/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay" 
+              href="/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-rose-700 mb-1">浜名湖かんざんじ温泉の天然ふぐ＆鰻</div>
               <div className="text-slate-500 text-xs">遠州灘の冬の恵みと湖畔の絶景露天風呂名宿特集</div>
             </Link>
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-rose-950 text-white hover:bg-stone-950 transition-all block flex flex-col justify-center items-center text-center font-bold"
             >
               <span>全国の冬特集一覧を見る →</span>

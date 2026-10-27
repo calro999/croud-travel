@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '2026年：空と海にせり出すスリルと絶景！断崖絶壁パノラマ露天風呂付き極上宿5選',
     description: '2026年最新！足元に打ち寄せる波音と水平線の大パノラマ！断崖絶壁に張り出すインフィニティ露天風呂と絶景オーシャンビュー客室のプレミアム宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cliffside-view',
+    url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cliffside-view/',
   },
   alternates: {
     canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-cliffside-view/",
@@ -179,7 +179,7 @@ export default function FeatureDetailPage() {
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-amber-600">トップ</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-amber-600">厳選特集一覧</Link>
+          <Link href="/features/" className="hover:text-amber-600">厳選特集一覧</Link>
           <span>&gt;</span>
           <span className="text-slate-800 font-medium truncate max-w-xs sm:max-w-md md:max-w-none">
             断崖絶壁パノラマ露天＆オーシャンインフィニティ宿
@@ -555,7 +555,7 @@ export default function FeatureDetailPage() {
         {/* 特集トップへのリンク */}
         <div className="text-center pt-4">
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold px-8 py-4 rounded-2xl shadow-md transition-all"
           >
             <span>他の厳選特集一覧を見る</span>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本アルプス＆高山トレッキング山岳リゾート宿×ふるさと納税厳選ガイド上高地・白馬・立山の雲上ホテル',
     description: '日本屈指の山岳美！北アルプスの神降ちる地・上高地、白馬山麓の絶景テラス温泉リゾート、立山黒部アルペンルートの雲上ホテル。高山植物と満天の星空に抱かれる爽快マウンテンステイを楽天ふるさと納税宿泊クーポンでお得に予約する完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-alps-trekking-mountain-resort-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-alps-trekking-mountain-resort-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -624,7 +624,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-highland-resort-french-auberge-stay"
+            href="/furusato-tax-highland-resort-french-auberge-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -640,7 +640,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-sea-of-clouds-sky-terrace-hotel-stay"
+            href="/furusato-tax-sea-of-clouds-sky-terrace-hotel-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -656,7 +656,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-secluded-canyon-isolated-onsen-stay"
+            href="/furusato-tax-secluded-canyon-isolated-onsen-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

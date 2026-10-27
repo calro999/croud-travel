@@ -128,7 +128,7 @@ export default function HakoneVsAtamiPage() {
                   <li>・新幹線自由席：片道約4,270円</li>
                   <li className="mt-4 pt-4 border-t text-xs text-slate-500">
                     ※普通列車でも2時間かからず行ける手軽さが魅力。<br/>
-                    <Link href="/tokyo-izu-atami-bus-vs-train-guide" className="text-teal-600 underline">東京から熱海・伊豆へのアクセス比較</Link>も参考に。
+                    <Link href="/tokyo-izu-atami-bus-vs-train-guide/" className="text-teal-600 underline">東京から熱海・伊豆へのアクセス比較</Link>も参考に。
                   </li>
                 </ul>
               </div>

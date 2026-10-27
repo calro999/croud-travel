@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "見頃！日本三大渓谷美・小豆島寒霞渓の紅葉で過ごす冬の旅（11月）！奇岩ロープウェイと絶景オリーブ温泉宿5選",
     description: "瀬戸内海と奇岩怪石を彩る日本屈指の渓谷美「寒霞渓」の紅葉！ロープウェイの空中散歩からエンジェルロード、極上のオリーブ牛や醤油会席を味わう小豆島のおすすめ名宿5選。",
-    url: 'https://croud-travel.pages.dev/autumn-kagawa-shodoshima-kankakei-momiji-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-kagawa-shodoshima-kankakei-momiji-hotels-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -141,7 +141,7 @@ export default function FeaturePage() {
       <nav className="max-w-5xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-500 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
         <Link href="/" className="hover:text-amber-600">ホーム</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <Link href="/features" className="hover:text-amber-600">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-600">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <span className="text-stone-800 font-medium truncate">【11月見頃！日本三大渓谷美・小豆島寒霞渓の紅葉】奇岩ロープウェイと絶景オリーブ温泉宿5選</span>
       </nav>
@@ -187,8 +187,8 @@ export default function FeaturePage() {
             "@type": "BreadcrumbList",
             "itemListElement": [
               { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev/" },
-              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features" },
-              { "@type": "ListItem", "position": 3, "name": "【11月見頃！日本三大渓谷美・小豆島寒霞渓の紅葉】奇岩ロープウェイと絶景オリーブ温泉宿5選", "item": "https://croud-travel.pages.dev/autumn-kagawa-shodoshima-kankakei-momiji-hotels-stay" }
+              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features/" },
+              { "@type": "ListItem", "position": 3, "name": "【11月見頃！日本三大渓谷美・小豆島寒霞渓の紅葉】奇岩ロープウェイと絶景オリーブ温泉宿5選", "item": "https://croud-travel.pages.dev/autumn-kagawa-shodoshima-kankakei-momiji-hotels-stay/" }
             ]
           }) }}
         />

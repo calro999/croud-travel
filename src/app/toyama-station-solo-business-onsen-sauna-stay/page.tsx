@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '富山駅前出張・天然温泉サウナ：立山連峰ビュー・天然温泉剱の湯・富山湾鮨＆白えび！北陸屈指の産業拠点を制する厳選3宿',
     description: '北陸新幹線「かがやき」で東京から約2時間8分！全館畳敷きで檜風呂・高温サウナ・海鮮いくら朝食の「御宿 野乃富山」、大手町至近で天然温泉大浴場完備の「ドーミーイン富山」、射水ベイエリアで天然温泉大浴場を誇る「スーパーホテル富山・射水」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/toyama-station-solo-business-onsen-sauna-stay',
+    url: 'https://croud-travel.pages.dev/toyama-station-solo-business-onsen-sauna-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/toyama-station-solo-business-onsen-sauna-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/toyama-station-solo-business-onsen-sauna-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【富山駅前出張・天然温泉サウナ】立山連峰ビュー・天然温泉剱の湯・富山湾鮨＆白えび！北陸屈指の産業拠点を制する厳選3宿","item":"https://croud-travel.pages.dev/toyama-station-solo-business-onsen-sauna-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【富山駅前出張・天然温泉サウナ】立山連峰ビュー・天然温泉剱の湯・富山湾鮨＆白えび！北陸屈指の産業拠点を制する厳選3宿","item":"https://croud-travel.pages.dev/toyama-station-solo-business-onsen-sauna-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '南紀勝浦温泉で過ごす冬の旅（11・12月）！勝浦港直送生マグロ尽くし！名宿5選',
     description: '11月から12月にかけて和歌山県・紀伊半島の南端に位置する勝浦温泉は、澄み切った太平洋の水平線から昇る朝日の絶景と。',
-    url: 'https://croud-travel.pages.dev/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay',
+    url: 'https://croud-travel.pages.dev/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -89,7 +89,7 @@ export default function NankiKatsuuraWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay"
+          "@id": "https://croud-travel.pages.dev/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay/"
         }
       },
       {
@@ -241,7 +241,7 @@ export default function NankiKatsuuraWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月南紀勝浦温泉】勝浦港直送生マグロ尽くし！名宿5選","item":"https://croud-travel.pages.dev/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月南紀勝浦温泉】勝浦港直送生マグロ尽くし！名宿5選","item":"https://croud-travel.pages.dev/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay/"}]}) }}
       />
 
         {/* Section 1: Seasonal Overview */}
@@ -570,42 +570,42 @@ export default function NankiKatsuuraWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay"
+              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">和歌山・南紀白浜温泉</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">白良浜の絶景露天風呂と冬の幻の高級魚クエ鍋の宿</h3>
             </Link>
             <Link 
-              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay"
+              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">三重・鳥羽温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">解禁伊勢海老と的矢牡蠣・鳥羽湾パノラマ露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-awajishima-sumoto-3year-torafugu-stay"
+              href="/winter-hyogo-awajishima-sumoto-3year-torafugu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">兵庫・淡路島洲本温泉</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">冬の極上味覚・淡路島3年とらふぐフルコースと海辺露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay"
+              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">京都・亀岡湯の花温泉</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">幻想的な亀岡霧雲海と名物ぼたん鍋・京奥座敷露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay"
+              href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">香川・ことひら温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">初冬のこんぴら参りと讃岐富士冬絶景・讃岐オリーブ牛の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">特集一覧</span>

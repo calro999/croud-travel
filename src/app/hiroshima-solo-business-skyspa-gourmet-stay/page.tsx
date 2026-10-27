@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '広島出張＆大人ひとり旅：広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選',
     description: '山陽新幹線・広島空港からのアクセス至便な中国地方の要所・広島！「広島駅新幹線口直結の世界的ラグジュアリー」を誇る「シェラトングランドホテル広島」、繁華街八丁堀の真ん中で星空露天風呂とサウナを楽しむ「CANDEO HOTELS 広島八丁堀」、平和大通り近くで天然温泉大浴場が嬉しい「安芸の湯 ドーミーイン広島」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/hiroshima-solo-business-skyspa-gourmet-stay',
+    url: 'https://croud-travel.pages.dev/hiroshima-solo-business-skyspa-gourmet-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T02:40:00+09:00',
     dateModified: '2026-10-19T02:40:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/hiroshima-solo-business-skyspa-gourmet-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/hiroshima-solo-business-skyspa-gourmet-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【広島出張＆大人ひとり旅】広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選","item":"https://croud-travel.pages.dev/hiroshima-solo-business-skyspa-gourmet-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【広島出張＆大人ひとり旅】広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選","item":"https://croud-travel.pages.dev/hiroshima-solo-business-skyspa-gourmet-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

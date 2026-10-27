@@ -287,7 +287,7 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
             </p>
           </div>
           <Link
-            href="/tokyo-fujikawaguchiko-highway-bus-guide"
+            href="/tokyo-fujikawaguchiko-highway-bus-guide/"
             className="shrink-0 bg-white text-emerald-950 hover:bg-emerald-100 font-black px-4 py-2.5 rounded-xl transition shadow text-xs"
           >
             東京〜河口湖 直行バス比較を見る →
@@ -503,7 +503,7 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
         </h3>
         <div className="grid md:grid-cols-2 gap-4">
           <Link
-            href="/tokyo-fujikawaguchiko-highway-bus-guide"
+            href="/tokyo-fujikawaguchiko-highway-bus-guide/"
             className="p-4 bg-white rounded-2xl border border-slate-200 hover:border-teal-400 hover:shadow-sm transition group"
           >
             <div className="text-[11px] font-bold text-teal-700 mb-1">直行バス徹底ガイド</div>
@@ -512,7 +512,7 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
             </div>
           </Link>
           <Link
-            href="/yamanashi-grape-bus-tour-daytrip-guide"
+            href="/yamanashi-grape-bus-tour-daytrip-guide/"
             className="p-4 bg-white rounded-2xl border border-slate-200 hover:border-teal-400 hover:shadow-sm transition group"
           >
             <div className="text-[11px] font-bold text-teal-700 mb-1">山梨フルーツ狩りツアー</div>

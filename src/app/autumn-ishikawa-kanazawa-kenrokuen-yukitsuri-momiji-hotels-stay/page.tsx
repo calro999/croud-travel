@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の金沢：兼六園の雪吊りと紅葉ライトアップ！秋の風情と温泉を味わうおすすめ名宿5選「2026最新」',
     description: '11月1日から始まる兼六園の冬支度「雪吊り」と唐崎松・霞ヶ池の鮮やかな紅葉ライトアップ！秋の金沢を満喫する厳選5宿。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-ishikawa-kanazawa-kenrokuen-yukitsuri-momiji-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-ishikawa-kanazawa-kenrokuen-yukitsuri-momiji-hotels-stay/',
   }
 };
 

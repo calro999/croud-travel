@@ -403,7 +403,7 @@ export default function SilverWeekGlampingLuxurySuiteVillaPage() {
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
           <Link
-            href="/hakone-couple-1night2days-anniversary-guide"
+            href="/hakone-couple-1night2days-anniversary-guide/"
             className="block p-4 rounded-2xl bg-indigo-900/60 border border-indigo-700/60 hover:border-indigo-400 hover:bg-indigo-900/90 transition group"
           >
             <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -415,7 +415,7 @@ export default function SilverWeekGlampingLuxurySuiteVillaPage() {
           </Link>
 
           <Link
-            href="/okinawa-luxury-anniversary-resort-guide"
+            href="/okinawa-luxury-anniversary-resort-guide/"
             className="block p-4 rounded-2xl bg-indigo-900/60 border border-indigo-700/60 hover:border-indigo-400 hover:bg-indigo-900/90 transition group"
           >
             <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -431,7 +431,7 @@ export default function SilverWeekGlampingLuxurySuiteVillaPage() {
       {/* 都道府県一覧への導線 */}
       <div className="text-center pt-4">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-indigo-900 bg-indigo-50 hover:bg-indigo-100 border border-indigo-200 px-8 py-3.5 rounded-2xl transition shadow-sm"
         >
           <span>🗾</span>

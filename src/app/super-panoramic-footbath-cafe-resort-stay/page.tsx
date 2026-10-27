@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：絶景足湯カフェ＆テラスBAR！ぽかぽか足湯とドリンクを楽しむ展望リゾート5選',
     description: '2026年最新！海や山、満天の星を眺めながら足湯に浸かり、クラフトビールやハーブティーを楽しめる絶景足湯カフェ＆バー併設の人気ホテル5選。',
-    url: 'https://croud-travel.pages.dev/super-panoramic-footbath-cafe-resort-stay',
+    url: 'https://croud-travel.pages.dev/super-panoramic-footbath-cafe-resort-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/super-panoramic-footbath-cafe-resort-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/super-panoramic-footbath-cafe-resort-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">絶景足湯カフェ×テラスBAR</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             心地よい温もりに足を浸しながら、目の前に広がる水平線やアルプスの山並みを眺める至福の時間。オープンテラスの足湯カフェで味わう特製スイーツや地ビール、夜はライトアップされた足湯バーでカクテルを片手に星空観賞ができるリゾートホテル。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】絶景足湯カフェ＆テラスBAR！ぽかぽか足湯とドリンクを楽しむ展望リゾート5選" url="https://croud-travel.pages.dev/super-panoramic-footbath-cafe-resort-stay" />
+            <ShareButtons title="【2026年】絶景足湯カフェ＆テラスBAR！ぽかぽか足湯とドリンクを楽しむ展望リゾート5選" url="https://croud-travel.pages.dev/super-panoramic-footbath-cafe-resort-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】絶景足湯カフェ＆テラスBAR！ぽかぽか足湯とドリンクを楽しむ展望リゾート5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/super-panoramic-footbath-cafe-resort-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】絶景足湯カフェ＆テラスBAR！ぽかぽか足湯とドリンクを楽しむ展望リゾート5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/super-panoramic-footbath-cafe-resort-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

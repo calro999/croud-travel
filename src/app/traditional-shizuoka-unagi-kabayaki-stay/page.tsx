@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '2026年：香ばしい秘伝のタレとふっくら極上肉厚！浜名湖うなぎ尽くし会席＆舘山寺名湯宿5選',
     description: '2026年最新！うなぎ養殖発祥の地・浜名湖で味わう極上うなぎ蒲焼き・白焼き・ひつまぶし会席！穏やかな湖畔を望む舘山寺温泉・弁天島温泉の名旅館5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/traditional-shizuoka-unagi-kabayaki-stay',
+    url: 'https://croud-travel.pages.dev/traditional-shizuoka-unagi-kabayaki-stay/',
   },
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-shizuoka-unagi-kabayaki-stay/",
@@ -64,7 +64,7 @@ const hotels: any[] = [
     "address1": "静岡県",
     "address2": "浜松市浜名区三ヶ日町都筑595-1",
     "telephoneNo": "053-526-7221",
-    "access": "東名高速三ヶ日ＩＣから車で5分//　天竜浜名湖鉄道　東都筑駅から徒歩13分//　遠州鉄道バス　東都筑駅から徒歩13分",
+    "access": "東名高速三ヶ日ＩＣから車で5分/　天竜浜名湖鉄道　東都筑駅から徒歩13分/　遠州鉄道バス　東都筑駅から徒歩13分",
     "parkingInformation": "有り：２０台（無料・先着順）",
     "nearestStation": "東都筑",
     "hotelSpecial": "浜名湖すぐ目の前！全室レイクビュー＆お部屋食で寛ぐ老舗旅館",
@@ -154,7 +154,7 @@ export default function FeatureDetailPage() {
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-amber-600">トップ</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-amber-600">厳選特集一覧</Link>
+          <Link href="/features/" className="hover:text-amber-600">厳選特集一覧</Link>
           <span>&gt;</span>
           <span className="text-slate-800 font-medium truncate max-w-xs sm:max-w-md md:max-w-none">
             浜名湖うなぎ尽くし会席＆舘山寺レイクビュー温泉宿
@@ -311,7 +311,7 @@ export default function FeatureDetailPage() {
                     </div>
                     <ul className="space-y-1 mb-4 text-xs text-slate-600 bg-slate-50 p-3 rounded-lg">
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>浜名湖すぐ目の前！全室レイクビュー＆お部屋食で寛ぐ老舗旅館…</span></li>
-                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>アクセス: 東名高速三ヶ日ＩＣから車で5分//　天竜浜名湖鉄道　東都筑駅から徒歩13分//　遠州鉄道バス　東都筑駅から徒歩13分</span></li>
+                      <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>アクセス: 東名高速三ヶ日ＩＣから車で5分/　天竜浜名湖鉄道　東都筑駅から徒歩13分/　遠州鉄道バス　東都筑駅から徒歩13分</span></li>
                       <li className="flex items-start gap-1"><span className="text-amber-500 shrink-0">•</span><span>楽天トラベル総合評価: ★3.75（レビュー 77件）</span></li>
                     </ul>
                   </div>
@@ -472,7 +472,7 @@ export default function FeatureDetailPage() {
         {/* 特集トップへのリンク */}
         <div className="text-center pt-4">
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold px-8 py-4 rounded-2xl shadow-md transition-all"
           >
             <span>他の厳選特集一覧を見る</span>
@@ -717,7 +717,7 @@ export default function FeatureDetailPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7682/7682_room.jpg" alt="月の名勝地　割烹旅館　琴水 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>浜名湖すぐ目の前！全室レイクビュー＆お部屋食で寛ぐ老舗旅館</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県浜松市浜名区三ヶ日町都筑595-1 ／ 最寄り駅：東都筑 ／ 交通案内：東名高速三ヶ日ＩＣから車で5分//　天竜浜名湖鉄道　東都筑駅から徒歩13分//　遠州鉄道バス　東都筑駅から徒歩13分</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 静岡県浜松市浜名区三ヶ日町都筑595-1 ／ 最寄り駅：東都筑 ／ 交通案内：東名高速三ヶ日ＩＣから車で5分/　天竜浜名湖鉄道　東都筑駅から徒歩13分/　遠州鉄道バス　東都筑駅から徒歩13分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り：２０台（無料・先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月福井：冬の若狭湾「若狭ふぐ」てっさ！名宿5選',
     description: '11月から1月、北陸新幹線延伸でアクセスが格段に向上した福井県・若狭湾（敦賀・美浜・若狭三方五湖・小浜）の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function FukuiWakasaFuguWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function FukuiWakasaFuguWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '若狭ふぐ・越前がに・三方五湖絶景温泉名宿',
-        item: 'https://croud-travel.pages.dev/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay'
+        item: 'https://croud-travel.pages.dev/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay/'
       }
     ]
   };
@@ -625,21 +625,21 @@ export default function FukuiWakasaFuguWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay" 
+              href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">福井・三国温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">東尋坊の冬景色と本場越前がにの極上フルコース・夕陽の海辺温泉宿</p>
             </Link>
             <Link 
-              href="/winter-fukui-awara-onsen-echizen-crab-stay" 
+              href="/winter-fukui-awara-onsen-echizen-crab-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">福井・あわら温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">関西の奥座敷あわら温泉の庭園名宿と越前がに・日本海の冬美食ステイ</p>
             </Link>
             <Link 
-              href="/winter-kyoto-amanohashidate-matsuba-crab-stay" 
+              href="/winter-kyoto-amanohashidate-matsuba-crab-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">京都・天橋立温泉</span>

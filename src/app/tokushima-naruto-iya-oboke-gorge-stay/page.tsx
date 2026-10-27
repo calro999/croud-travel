@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '徳島・鳴門＆祖谷渓・大歩危：鳴門渦潮・大塚国際美術館＆祖谷かずら橋秘境宿 厳選ガイド',
     description: '最大直径20mに達する世界最大級「鳴門の渦潮」観潮船と渦の道、世界の名画を原寸大陶板で再現した「大塚国際美術館」、日本三大秘境・祖谷渓の「祖谷のかずら橋」スリル渡橋、大歩危峡遊覧船と吉野川ラフティング、天空露天風呂の秘境宿を徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/tokushima-naruto-iya-oboke-gorge-stay',
+    url: 'https://croud-travel.pages.dev/tokushima-naruto-iya-oboke-gorge-stay/',
   },
 };
 

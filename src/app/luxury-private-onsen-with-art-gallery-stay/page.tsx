@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：館内ギャラリーで名画・彫刻を鑑賞！美の空間に泊まるミュージアム温泉宿5選',
     description: '2026年最新！現代アートの企画展や日本画・陶芸ギャラリーを併設し、上質なアート鑑賞と名湯を一度に楽しめる大人のミュージアム温泉宿5選。',
-    url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-art-gallery-stay',
+    url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-art-gallery-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-private-onsen-with-art-gallery-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-private-onsen-with-art-gallery-stay/"
   };
 
   const faqSchema = {
@@ -130,7 +130,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">アートギャラリー×ミュージアム温泉</span>
         </div>
@@ -149,7 +149,7 @@ export default function Page() {
             回廊を歩くたびに心奪われる絵画や彫刻作品。館内そのものが美術館のように洗練されたアート宿で、知的好奇心を満たす贅沢な休日。美肌名湯に浸かり、感性を研ぎ澄ます静寂のギャラリーステイをご案内します。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】館内ギャラリーで名画・彫刻を鑑賞！美の空間に泊まるミュージアム温泉宿5選" url="https://croud-travel.pages.dev/luxury-private-onsen-with-art-gallery-stay" />
+            <ShareButtons title="【2026年】館内ギャラリーで名画・彫刻を鑑賞！美の空間に泊まるミュージアム温泉宿5選" url="https://croud-travel.pages.dev/luxury-private-onsen-with-art-gallery-stay/" />
           </div>
         </div>
       </header>
@@ -158,7 +158,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】館内ギャラリーで名画・彫刻を鑑賞！美の空間に泊まるミュージアム温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/luxury-private-onsen-with-art-gallery-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】館内ギャラリーで名画・彫刻を鑑賞！美の空間に泊まるミュージアム温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/luxury-private-onsen-with-art-gallery-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '天橋立で過ごす冬の旅（11・12月）！寒ブリしゃぶしゃぶ！名宿5選',
     description: '日本三景の筆頭・京都府丹後天橋立。11月6日の冬のズワイガニ漁解禁とともに美食の最高峰シーズンが開幕に合わせて訪れたい周辺の厳選宿をまとめました。',
-    url: 'https://croud-travel.pages.dev/winter-kyoto-amanohashidate-matsuba-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-kyoto-amanohashidate-matsuba-crab-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -84,7 +84,7 @@ export default function AmanohashidateWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-kyoto-amanohashidate-matsuba-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kyoto-amanohashidate-matsuba-crab-stay/"
         }
       },
       {
@@ -300,7 +300,7 @@ export default function AmanohashidateWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月天橋立】寒ブリしゃぶしゃぶ！名宿5選","item":"https://croud-travel.pages.dev/winter-kyoto-amanohashidate-matsuba-crab-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月天橋立】寒ブリしゃぶしゃぶ！名宿5選","item":"https://croud-travel.pages.dev/winter-kyoto-amanohashidate-matsuba-crab-stay/"}]}) }}
       />
         
         {/* Intro */}
@@ -486,7 +486,7 @@ export default function AmanohashidateWinterPage() {
                           <span className="text-xs text-stone-400">（{h.reviews}件のクチコミ）</span>
                         </div>
                         <span className="text-xs font-medium px-2.5 py-1 bg-stone-100 text-stone-600 rounded-lg">
-                          目安: {h.price} / 泊
+                          目安: {h.price} // 泊
                         </span>
                       </div>
 
@@ -688,7 +688,7 @@ export default function AmanohashidateWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3.5 text-xs sm:text-sm">
             <Link
-              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-teal-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-teal-700 mb-1">
@@ -700,7 +700,7 @@ export default function AmanohashidateWinterPage() {
             </Link>
 
             <Link
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-teal-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-teal-700 mb-1">
@@ -712,7 +712,7 @@ export default function AmanohashidateWinterPage() {
             </Link>
 
             <Link
-              href="/winter-ishikawa-kaga-yamashiro-kano-crab-stay"
+              href="/winter-ishikawa-kaga-yamashiro-kano-crab-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-teal-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-teal-700 mb-1">
@@ -724,7 +724,7 @@ export default function AmanohashidateWinterPage() {
             </Link>
 
             <Link
-              href="/winter-kyoto-arashiyama-onsen-yudofu-stay"
+              href="/winter-kyoto-arashiyama-onsen-yudofu-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-teal-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-teal-700 mb-1">
@@ -736,7 +736,7 @@ export default function AmanohashidateWinterPage() {
             </Link>
 
             <Link
-              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay"
+              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-teal-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-teal-700 mb-1">
@@ -748,7 +748,7 @@ export default function AmanohashidateWinterPage() {
             </Link>
 
             <Link
-              href="/features"
+              href="/features/"
               className="p-3.5 bg-teal-50/70 rounded-xl border border-teal-200 hover:bg-teal-100/70 transition-all flex flex-col justify-center items-center text-center group"
             >
               <div className="font-bold text-teal-900 mb-1">

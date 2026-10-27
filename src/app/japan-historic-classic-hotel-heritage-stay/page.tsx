@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '文明開化と昭和モダンの薫り！日本が誇る最高峰クラシックホテル＆洋館ステイ',
     description: '日光金谷・箱根富士屋・雲仙観光・横浜ニューグランドなど日本の近代建築美が薫る名門ホテル。重厚なメインダイニングで味わう伝統のフレンチと名湯。',
-    url: 'https://croud-travel.pages.dev/japan-historic-classic-hotel-heritage-stay',
+    url: 'https://croud-travel.pages.dev/japan-historic-classic-hotel-heritage-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/japan-historic-classic-hotel-heritage-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/japan-historic-classic-hotel-heritage-stay/"
   };
 
   const faqSchema = {
@@ -151,7 +151,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"文明開化と昭和モダンの薫り！日本が誇る最高峰クラシックホテル＆洋館ステイ ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/japan-historic-classic-hotel-heritage-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"文明開化と昭和モダンの薫り！日本が誇る最高峰クラシックホテル＆洋館ステイ ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/japan-historic-classic-hotel-heritage-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -166,7 +166,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">名門クラシックホテル＆洋館宿</span>
       </nav>
@@ -281,7 +281,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="文明開化と昭和モダンの薫り！日本が誇る最高峰クラシックホテル＆洋館ステイ"
-            url="https://croud-travel.pages.dev/japan-historic-classic-hotel-heritage-stay"
+            url="https://croud-travel.pages.dev/japan-historic-classic-hotel-heritage-stay/"
           />
         </div>
 

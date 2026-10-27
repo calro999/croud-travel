@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納税厳選ガイド清津峡・黒部峡谷・大杉谷の絶景名湯',
     description: '日本屈指のスケールを誇るV字渓谷美！新潟十日町「清津峡」の水鏡トンネルと奥清津温泉、富山黒部「黒部峡谷」のトロッコ電車と宇奈月温泉、三重奥伊勢「大杉谷」の原生林秘境温泉リゾート。大自然の造形美と渓谷露天風呂を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-gorges-canyon-onsen-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-gorges-canyon-onsen-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -624,7 +624,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-secluded-canyon-isolated-onsen-stay"
+            href="/furusato-tax-secluded-canyon-isolated-onsen-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -640,7 +640,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-waterfall-river-gorge-healing-onsen-stay"
+            href="/furusato-tax-waterfall-river-gorge-healing-onsen-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -656,7 +656,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-autumn-foliage-gorge-onsen-stay"
+            href="/furusato-tax-autumn-foliage-gorge-onsen-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

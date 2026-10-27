@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '京都丹後・夕日ヶ浦温泉で過ごす冬の旅（11・12月）！本場間人ガニ！名宿5選',
     description: '11月6日のカニ漁解禁を迎えると、京都府北部・丹後半島の西端に位置する夕日ヶ浦温泉（浜詰温泉）の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-kyoto-tango-yuhigaura-matsuba-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-kyoto-tango-yuhigaura-matsuba-crab-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function YuhigauraOnsenWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-kyoto-tango-yuhigaura-matsuba-crab-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-kyoto-tango-yuhigaura-matsuba-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kyoto-tango-yuhigaura-matsuba-crab-stay/"
         },
         "headline": "【11・12月京都丹後・夕日ヶ浦温泉の日本海夕景と11月解禁松葉ガニ】本場間人ガニ・美人の湯＆海辺展望露天の宿5選",
         "description": "11月6日のカニ漁解禁を迎えると、京都府北部・丹後半島の西端に位置する夕日ヶ浦温泉（浜詰温泉）は、一年で最も活気と美食の熱気に包まれる松葉ガニの最盛期を迎えます。「日本の夕陽百選」に選定された白砂青松の浜詰海岸に沈む黄金の夕日と荒波打ち寄せる日本海の絶景を眺めながら、緑のタグで知られる幻の最高峰「間人ガニ（たいざがに）」や本場丹後松葉ガニの刺し・焼き・茹で・鍋のフルコースを堪能。「美人の湯」と称されるトロリとした弱アルカリ性単純温泉で冷えた身体を芯から温める、初冬の厳選海辺旅館5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function YuhigauraOnsenWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "京都丹後・夕日ヶ浦温泉 日本海夕景と解禁松葉ガニの宿",
-            "item": "https://croud-travel.pages.dev/winter-kyoto-tango-yuhigaura-matsuba-crab-stay"
+            "item": "https://croud-travel.pages.dev/winter-kyoto-tango-yuhigaura-matsuba-crab-stay/"
           }
         ]
       },
@@ -595,42 +595,42 @@ export default function YuhigauraOnsenWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-kyoto-amanohashidate-matsuba-crab-stay"
+              href="/winter-kyoto-amanohashidate-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-orange-300 font-semibold block mb-1">京都・天橋立温泉</span>
               <h3 className="text-sm font-bold group-hover:text-orange-200 transition">日本三景雪景色と天橋立松葉ガニ・宮津地魚会席を味わう宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-orange-300 font-semibold block mb-1">兵庫・城崎温泉</span>
               <h3 className="text-sm font-bold group-hover:text-orange-200 transition">七つの外湯めぐりと津居山ガニ・但馬牛ステーキを満喫する名宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay"
+              href="/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-orange-300 font-semibold block mb-1">兵庫・香住温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-orange-200 transition">最高峰ブランド柴山ガニと香住松葉ガニ・但馬牛ステーキの宿</h3>
             </Link>
             <Link 
-              href="/winter-tottori-kaike-onsen-matsuba-crab-stay"
+              href="/winter-tottori-kaike-onsen-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-orange-300 font-semibold block mb-1">鳥取・皆生温泉</span>
               <h3 className="text-sm font-bold group-hover:text-orange-200 transition">美保湾境港直送松葉ガニと伯耆富士大山雪景色・塩化物泉の宿</h3>
             </Link>
             <Link 
-              href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay"
+              href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-orange-300 font-semibold block mb-1">福井・三国温泉</span>
               <h3 className="text-sm font-bold group-hover:text-orange-200 transition">東尋坊の冬荒波と皇室献上越前ガニ・日本海夕陽パノラマの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-orange-300 font-semibold block mb-1">特集一覧</span>

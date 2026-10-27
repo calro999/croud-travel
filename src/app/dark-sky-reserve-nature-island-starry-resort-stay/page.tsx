@@ -509,7 +509,7 @@ export default function StargazingHubPage() {
       {/* 47都道府県トップへのリンク */}
       <div className="text-center pt-8">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-indigo-950 bg-white hover:bg-indigo-50 border border-indigo-300 px-8 py-3.5 rounded-2xl transition shadow-sm"
         >
           <span>🗾</span>

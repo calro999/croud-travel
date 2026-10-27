@@ -402,7 +402,7 @@ export default function KamikochiPackingChecklistPage() {
         <h3 className="text-lg font-bold text-slate-900">上高地旅行の関連記事もあわせてチェック</h3>
         <div className="grid md:grid-cols-2 gap-4 text-sm">
           <Link
-            href="/kamikochi-matsumoto-car-free-guide"
+            href="/kamikochi-matsumoto-car-free-guide/"
             className="p-4 bg-white rounded-2xl border border-slate-200 hover:border-emerald-500 hover:shadow-sm transition group"
           >
             <div className="text-emerald-700 text-xs font-bold mb-1">車なし・電車バス旅</div>
@@ -413,7 +413,7 @@ export default function KamikochiPackingChecklistPage() {
           </Link>
 
           <Link
-            href="/tokyo-matsumoto-kamikochi-bus-vs-train-guide"
+            href="/tokyo-matsumoto-kamikochi-bus-vs-train-guide/"
             className="p-4 bg-white rounded-2xl border border-slate-200 hover:border-emerald-500 hover:shadow-sm transition group"
           >
             <div className="text-emerald-700 text-xs font-bold mb-1">直行便 vs 乗り継ぎ</div>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '2026年：鉄瓶で沸かすまろやかな白湯。南部鉄器の美と花巻・つなぎ温泉の風情名宿5選',
     description: '2026年最新！四百年の歴史を誇る岩手の伝統工芸「南部鉄器」！鉄瓶で丁寧に淹れたお茶と前沢牛・三陸海鮮会席、名湯花巻温泉郷で日本の職人技に触れる宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/traditional-iwate-nanbu-ironware-onsen-stay',
+    url: 'https://croud-travel.pages.dev/traditional-iwate-nanbu-ironware-onsen-stay/',
   },
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-iwate-nanbu-ironware-onsen-stay/",
@@ -179,7 +179,7 @@ export default function FeatureDetailPage() {
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-amber-600">トップ</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-amber-600">厳選特集一覧</Link>
+          <Link href="/features/" className="hover:text-amber-600">厳選特集一覧</Link>
           <span>&gt;</span>
           <span className="text-slate-800 font-medium truncate max-w-xs sm:max-w-md md:max-w-none">
             南部鉄器クラフト＆花巻温泉郷の名湯宿
@@ -556,7 +556,7 @@ export default function FeatureDetailPage() {
         {/* 特集トップへのリンク */}
         <div className="text-center pt-4">
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold px-8 py-4 rounded-2xl shadow-md transition-all"
           >
             <span>他の厳選特集一覧を見る</span>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '富山・高岡＆氷見・雨晴海岸：瑞龍寺・雨晴海岸立山連峰＆氷見寒ブリ温泉宿 厳選ガイド',
     description: '加賀前田家二代当主前田利長の菩提寺・富山県唯一の建造物国宝「瑞龍寺」、高岡大仏、千本格子の金屋町、海を挟んで3,000m級の立山連峰を望む奇跡の絶景「雨晴海岸」、冬の味覚の王者「氷見寒ブリ」と天然温泉が湧く氷見海岸宿を徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/toyama-takaoka-himi-amaharashi-stay',
+    url: 'https://croud-travel.pages.dev/toyama-takaoka-himi-amaharashi-stay/',
   },
 };
 

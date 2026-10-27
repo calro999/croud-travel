@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月岐阜：奥飛騨雪見露天と極上飛騨牛会席の！名宿5選',
     description: '冬の飛騨路は、日本の原風景が雪化粧に包まれる年間最高の旅情シーズン。世界遺産・白川郷合掌造り集落の白銀の絶景。',
-    url: 'https://croud-travel.pages.dev/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -165,7 +165,7 @@ export default function ShirakawagoHidaTakayamaWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay"
+          "@id": "https://croud-travel.pages.dev/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay/"
         },
         "headline": "【11・12・1月岐阜】世界遺産白川郷雪景色＆飛騨高山古い町並み！奥飛騨雪見露天と極上飛騨牛会席の名宿5選",
         "description": "冬の飛騨路は、日本の原風景が雪化粧に包まれる年間最高の旅情シーズン。世界遺産・白川郷合掌造り集落の白銀の絶景、新酒の杉玉が掲げられる飛騨高山の風情ある「古い町並み」、そして奥飛騨温泉郷の原生林に抱かれた雪見露天風呂。とろける極上A5飛騨牛の炭火焼きや朴葉味噌とともに、冬の日本の美を極める旅へ。楽天APIから最新取得した本陣平野屋、深山桜庵など厳選宿5選を徹底特集します。",
@@ -191,13 +191,13 @@ export default function ShirakawagoHidaTakayamaWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "白川郷・飛騨高山 冬特集",
-            "item": "https://croud-travel.pages.dev/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay"
+            "item": "https://croud-travel.pages.dev/winter-gifu-shirakawago-snow-gassho-hidatakayama-onsen-stay/"
           }
         ]
       },
@@ -600,28 +600,28 @@ export default function ShirakawagoHidaTakayamaWinterPage() {
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
             <Link 
-              href="/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay" 
+              href="/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>下呂温泉花火物語＆美肌の湯！飛騨牛と冬の温泉街名宿</span>
               <span className="text-amber-300">→</span>
             </Link>
             <Link 
-              href="/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay" 
+              href="/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>金沢兼六園雪吊り＆香箱ガニ！冬の加賀百万石グルメ宿</span>
               <span className="text-amber-300">→</span>
             </Link>
             <Link 
-              href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay" 
+              href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>白馬パウダースノー＆美肌温泉！北アルプス雪景色と信州牛宿</span>
               <span className="text-amber-300">→</span>
             </Link>
             <Link 
-              href="/winter-toyama-amaharashi-shinminato-tateyama-crab-stay" 
+              href="/winter-toyama-amaharashi-shinminato-tateyama-crab-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>雨晴海岸から望む立山連峰＆新湊カニ！富山湾冬の絶景名宿</span>

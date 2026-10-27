@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '山梨・勝沼＆石和温泉：ワイナリー巡り・桃源郷＆美肌湯宿 厳選ガイド',
     description: '日本ワイン発祥の地「勝沼」の30軒以上のワイナリー巡り、ぶどう畑を見下ろす丘のテラス、春にはピンク色の絨毯が広がる日本一の桃源郷「笛吹」、昭和の青空温泉から発展した毎分湧出の「石和温泉郷」の美肌名湯と甲州牛会席を徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/yamanashi-koshu-katsunuma-wine-isawa-stay',
+    url: 'https://croud-travel.pages.dev/yamanashi-koshu-katsunuma-wine-isawa-stay/',
   },
 };
 

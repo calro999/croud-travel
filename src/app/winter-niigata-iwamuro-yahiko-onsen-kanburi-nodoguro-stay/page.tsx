@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '弥彦で過ごす冬の旅（11・12月）！越後一宮彌彦神社参詣！名宿5選',
     description: '11月から12月にかけて、新潟県の日本海沿いに連なる弥彦山麓の弥彦温泉と岩室（いわむろ）温泉の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay',
+    url: 'https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay"
+          "@id": "https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay/"
         },
         "headline": "【11・12月新潟・弥彦＆岩室温泉の初冬情緒と日本海寒ブリ・のどぐろ会席】越後一宮彌彦神社参詣＆開湯300年名物黒湯の宿5選",
         "description": "11月から12月にかけて、新潟県の日本海沿いに連なる弥彦山麓の弥彦温泉と岩室（いわむろ）温泉は、越後平野の黄金色の実りから初雪の白銀へと季節が移ろう風情豊かな初冬を迎えます。越後一宮「彌彦神社」の初冬の厳かな空気に包まれ、開湯300年の歴史を誇る岩室の名物「黒湯」で冷えた身体をじっくり温める至福のひととき。そして11月に水揚げが本格化する荒波の日本海直送「寒ブリ」や脂の乗った「のどぐろ塩焼き」、新米コシヒカリと越後の銘酒に酔いしれる厳選温泉宿5選を詳しく解説します。",
@@ -100,13 +100,13 @@ export default function NiigataIwamuroYahikoWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "新潟・弥彦＆岩室温泉 寒ブリ・のどぐろ会席と名物黒湯の宿",
-            "item": "https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay"
+            "item": "https://croud-travel.pages.dev/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay/"
           }
         ]
       },
@@ -585,7 +585,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-2">
             <Link 
-              href="/winter-niigata-tsukioka-onsen-emerald-bihada-stay"
+              href="/winter-niigata-tsukioka-onsen-emerald-bihada-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">新潟・エメラルド美肌湯</span>
@@ -594,7 +594,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-niigata-echigo-yuzawa-snow-sake-stay"
+              href="/winter-niigata-echigo-yuzawa-snow-sake-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-sky-500/40 text-sky-200 font-bold text-[10px]">越後湯沢・雪国日本酒</span>
@@ -603,7 +603,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-toyama-himi-kanburi-luxury-stay"
+              href="/winter-toyama-himi-kanburi-luxury-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">富山・氷見寒ぶり</span>
@@ -612,7 +612,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay"
+              href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-rose-500/40 text-rose-200 font-bold text-[10px]">福井・越前がに</span>

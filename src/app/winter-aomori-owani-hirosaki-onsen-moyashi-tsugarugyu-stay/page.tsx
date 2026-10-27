@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '津軽で過ごす冬の旅（11・12月）！冬限定「大鰐温泉もやし」と開湯800年の名湯！名宿5選',
     description: '11月中旬から12月の初冬、津軽富士・岩木山が白銀の雪化粧をまとい、津軽平野に凛とした冬の訪れを告げる季節。',
-    url: 'https://croud-travel.pages.dev/winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -56,7 +56,7 @@ export default function AomoriOwaniHirosakiWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -379,7 +379,7 @@ export default function AomoriOwaniHirosakiWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月津軽】冬限定「大鰐温泉もやし」と開湯800年の名湯！名宿5選","item":"https://croud-travel.pages.dev/winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月津軽】冬限定「大鰐温泉もやし」と開湯800年の名湯！名宿5選","item":"https://croud-travel.pages.dev/winter-aomori-owani-hirosaki-onsen-moyashi-tsugarugyu-stay/"}]}) }}
       />
 
         {/* Introduction Section */}
@@ -690,21 +690,21 @@ export default function AomoriOwaniHirosakiWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay" 
+              href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-cyan-700 font-bold block text-[10px]">青森・浅虫温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">津軽の熱の湯と陸奥湾の冬マグロ・津軽三味線が響く老舗宿</p>
             </Link>
             <Link 
-              href="/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay" 
+              href="/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-cyan-700 font-bold block text-[10px]">秋田・小安峡＆秋の宮</span>
               <p className="font-bold text-stone-800 line-clamp-2">白い湯煙の大噴湯と秋田最古の湯・皆瀬牛ステーキ＆三関せり鍋名宿</p>
             </Link>
             <Link 
-              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay" 
+              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-cyan-700 font-bold block text-[10px]">岩手・花巻温泉郷</span>

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月兵庫：冬本番！名宿5選',
     description: '11月15日の狩猟解禁とともに冬本番を迎える兵庫県・丹波篠山。丹波の深い山々で木の実を食べて育った天然猪肉は、冬の寒さとともに上質な白脂を蓄え。',
-    url: 'https://croud-travel.pages.dev/winter-hyogo-tanba-sasayama-botannabe-castle-stay',
+    url: 'https://croud-travel.pages.dev/winter-hyogo-tanba-sasayama-botannabe-castle-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/149449/149449.jpg', width: 1200, height: 630, alt: '丹波篠山ぼたん鍋と城下町名宿' }]
   }
@@ -150,13 +150,13 @@ export default function HyogoTanbaSasayamaPage() {
     '@type': 'ItemPage',
     name: "【11・12・1月兵庫】冬本番！丹波篠山の本場「ぼたん鍋」発祥の味＆雪化粧の篠山城下町・丹波篠山牛を堪能する名宿5選",
     description: "11月15日の狩猟解禁とともに冬本番を迎える兵庫県・丹波篠山。丹波の深い山々で木の実を食べて育った天然猪肉は、冬の寒さとともに上質な白脂を蓄え、最も美味とされる旬を迎えます。白味噌ベースの秘伝出汁に根菜を煮込み、牡丹の花に見立てて美しく盛り付けられた本場の「ぼたん鍋」は、身体の芯から温まる冬の日本最高峰の鍋料理です。徳川家康が築城した篠山城跡の雪景色、重要伝統的建造物群保存地区に指定された河原町妻入商家群の風情、丹波焼の器、幻の銘牛「丹波篠山牛」。歴史薫る古民家宿や料理旅館で過ごす至高の冬旅名宿5選を徹底解説します。",
-    url: 'https://croud-travel.pages.dev/winter-hyogo-tanba-sasayama-botannabe-castle-stay',
+    url: 'https://croud-travel.pages.dev/winter-hyogo-tanba-sasayama-botannabe-castle-stay/',
     breadcrumb: {
       '@type': 'BreadcrumbList',
       itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://croud-travel.pages.dev/' },
         { '@type': 'ListItem', position: 2, name: '冬の特集一覧', item: 'https://croud-travel.pages.dev/features/' },
-        { '@type': 'ListItem', position: 3, name: '丹波篠山・本場ぼたん鍋＆城下町ステイ', item: 'https://croud-travel.pages.dev/winter-hyogo-tanba-sasayama-botannabe-castle-stay' }
+        { '@type': 'ListItem', position: 3, name: '丹波篠山・本場ぼたん鍋＆城下町ステイ', item: 'https://croud-travel.pages.dev/winter-hyogo-tanba-sasayama-botannabe-castle-stay/' }
       ]
     },
     mainEntity: {
@@ -601,7 +601,7 @@ export default function HyogoTanbaSasayamaPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay" 
+              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">兵庫・有馬温泉</span>
@@ -611,7 +611,7 @@ export default function HyogoTanbaSasayamaPage() {
             </Link>
 
             <Link 
-              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay" 
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">兵庫・城崎温泉</span>
@@ -621,7 +621,7 @@ export default function HyogoTanbaSasayamaPage() {
             </Link>
 
             <Link 
-              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay" 
+              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">京都・湯の花温泉</span>
@@ -631,7 +631,7 @@ export default function HyogoTanbaSasayamaPage() {
             </Link>
 
             <Link 
-              href="/winter-nara-dorogawa-onsen-snow-botannabe-stay" 
+              href="/winter-nara-dorogawa-onsen-snow-botannabe-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">奈良・洞川温泉</span>
@@ -641,7 +641,7 @@ export default function HyogoTanbaSasayamaPage() {
             </Link>
 
             <Link 
-              href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay" 
+              href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">滋賀・長浜太閤温泉</span>
@@ -651,7 +651,7 @@ export default function HyogoTanbaSasayamaPage() {
             </Link>
 
             <Link 
-              href="/winter-hyogo-awajishima-sumoto-3year-torafugu-stay" 
+              href="/winter-hyogo-awajishima-sumoto-3year-torafugu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">兵庫・淡路島洲本</span>

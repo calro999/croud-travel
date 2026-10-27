@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '奥飛騨・平湯温泉ひとり旅・北アルプス秘湯おこもり：毎分1万リットル湧出・飛騨牛炭火焼き・新穂高ロープウェイ！乗鞍・上高地玄関口の厳選3宿',
     description: '北アルプスの麓に湧く奥飛騨最古の名湯・平湯温泉！岐阜料理師範の主人が手掛ける飛騨牛会席と無料貸切露天風呂が口コミ★4.7超の「お宿 栄太郎」、庭園露天風呂と自家源泉掛け流しが自慢の「湯の平館」、築150年の飛騨民家を移築した囲炉裏情緒の「おやど 甚九郎」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/gifu-hirayu-solo-retreat-alps-onsen-stay',
+    url: 'https://croud-travel.pages.dev/gifu-hirayu-solo-retreat-alps-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/gifu-hirayu-solo-retreat-alps-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/gifu-hirayu-solo-retreat-alps-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【奥飛騨・平湯温泉ひとり旅・北アルプス秘湯おこもり】毎分1万リットル湧出・飛騨牛炭火焼き・新穂高ロープウェイ！乗鞍・上高地玄関口の厳選3宿","item":"https://croud-travel.pages.dev/gifu-hirayu-solo-retreat-alps-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【奥飛騨・平湯温泉ひとり旅・北アルプス秘湯おこもり】毎分1万リットル湧出・飛騨牛炭火焼き・新穂高ロープウェイ！乗鞍・上高地玄関口の厳選3宿","item":"https://croud-travel.pages.dev/gifu-hirayu-solo-retreat-alps-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

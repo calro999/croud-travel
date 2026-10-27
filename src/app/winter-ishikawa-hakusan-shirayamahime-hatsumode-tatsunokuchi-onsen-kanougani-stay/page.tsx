@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月石川：加賀一ノ宮「白山比咩神社」新！名宿5選',
     description: '全国3,000余社の白山神社総本宮「白山比咩神社（しらやまひめじんじゃ）」が最も神聖な空気に包まれる11〜1月の冬旅特集。',
-    url: 'https://croud-travel.pages.dev/winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay',
+    url: 'https://croud-travel.pages.dev/winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay/',
     type: 'article',
     images: [
       {
@@ -60,7 +60,7 @@ export default function IshikawaHakusanWinterPage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay"
+      "@id": "https://croud-travel.pages.dev/winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay/"
     }
   };
 
@@ -78,13 +78,13 @@ export default function IshikawaHakusanWinterPage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "白山・辰口温泉 冬特集",
-        "item": "https://croud-travel.pages.dev/winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay"
+        "item": "https://croud-travel.pages.dev/winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay/"
       }
     ]
   };
@@ -328,7 +328,7 @@ export default function IshikawaHakusanWinterPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 py-4 text-xs text-slate-500 flex items-center gap-2">
         <Link href="/" className="hover:text-sky-700 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-sky-700 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-sky-700 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-slate-700 font-medium">石川・白山＆辰口温泉 冬特集</span>
       </nav>
@@ -668,7 +668,7 @@ export default function IshikawaHakusanWinterPage() {
           </p>
           <div className="pt-2 flex flex-wrap justify-center gap-3">
             <Link 
-              href="/features" 
+              href="/features/" 
               className="px-6 py-3 bg-white text-slate-900 hover:bg-slate-100 font-black text-xs md:text-sm rounded-xl shadow transition"
             >
               特集記事一覧を見る

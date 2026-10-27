@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '日本三大カルデラ＆地球の息吹・巨大火口原パノラマと名湯宿×ふるさと納税厳選ガイド阿蘇・箱根・屈斜路',
     description: '大地の鼓動を肌で感じるジオパークの驚異！世界屈指の複式カルデラと外輪山の大パノラマ「阿蘇カルデラ」阿蘇内牧温泉阿蘇プラザホテル、富士山を望むカルデラ湖畔のリゾート「箱根カルデラ（芦ノ湖）」箱根はなをり、日本最大のカルデラ湖と屈斜路ブルー「屈斜路・摩周カルデラ」屈斜路プリンスホテル。日本三大カルデラの絶景温泉宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-calderas-geopark-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-calderas-geopark-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -380,7 +380,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-karsts-highland-drive-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-karsts-highland-drive-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大カルスト＆天空の白い巨岩パノラマ宿×ふるさと納税完全ガイド
               </div>
@@ -389,7 +389,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-sea-of-clouds-sky-terrace-hotel-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-sea-of-clouds-sky-terrace-hotel-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 雲海テラス＆天空パノラマリゾート×ふるさと納税完全ガイド
               </div>
@@ -398,7 +398,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-fuji-view-onsen-resort-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-fuji-view-onsen-resort-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 絶景富士山ビュー露天風呂宿×ふるさと納税完全ガイド
               </div>

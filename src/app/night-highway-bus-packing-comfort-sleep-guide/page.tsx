@@ -490,7 +490,7 @@ export default function NightHighwayBusPackingGuidePage() {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
             <Link
-              href="/tokyo-osaka-bus-vs-shinkansen-guide"
+              href="/tokyo-osaka-bus-vs-shinkansen-guide/"
               className="p-4 rounded-2xl bg-slate-950/80 border border-indigo-900/40 hover:border-indigo-500 transition space-y-1.5 group"
             >
               <div className="text-xs font-black text-indigo-400 group-hover:text-indigo-300">
@@ -505,7 +505,7 @@ export default function NightHighwayBusPackingGuidePage() {
             </Link>
 
             <Link
-              href="/tokyo-kanazawa-bus-vs-shinkansen-guide"
+              href="/tokyo-kanazawa-bus-vs-shinkansen-guide/"
               className="p-4 rounded-2xl bg-slate-950/80 border border-indigo-900/40 hover:border-indigo-500 transition space-y-1.5 group"
             >
               <div className="text-xs font-black text-indigo-400 group-hover:text-indigo-300">
@@ -524,7 +524,7 @@ export default function NightHighwayBusPackingGuidePage() {
         {/* 全国都道府県一覧 */}
         <div className="text-center pt-4">
           <Link
-            href="/prefectures"
+            href="/prefectures/"
             className="inline-flex items-center gap-2 text-xs font-bold text-slate-300 bg-slate-900 hover:bg-slate-800 border border-indigo-900/60 px-8 py-3.5 rounded-2xl transition shadow-sm"
           >
             <span>🗾</span>

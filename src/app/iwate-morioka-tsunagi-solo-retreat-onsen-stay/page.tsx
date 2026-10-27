@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり：源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿',
     description: '開湯900年、源義家が愛馬を繋いで湯浴みした伝説の湯・盛岡つなぎ温泉！源泉かけ流しの美肌硫黄泉と女将の手作り郷土料理が温かい「旅染屋 山いち」、御所湖の眺望と良心的な価格でくつろげる「清温荘」、気兼ねない素泊まり・ワーケーションにも最適な「旅やど」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/iwate-morioka-tsunagi-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/iwate-morioka-tsunagi-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/iwate-morioka-tsunagi-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/iwate-morioka-tsunagi-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり】源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿","item":"https://croud-travel.pages.dev/iwate-morioka-tsunagi-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり】源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿","item":"https://croud-travel.pages.dev/iwate-morioka-tsunagi-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

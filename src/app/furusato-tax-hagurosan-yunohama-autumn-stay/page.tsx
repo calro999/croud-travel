@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '羽黒山杉並木紅葉と湯野浜温泉の夕日！秋の庄内味覚（新米つや姫・寒鱈・庄内豚）と開運温泉旅',
     description: '10月・11月の山形・庄内秋旅！出羽三山・羽黒山の国宝五重塔と黄金に染まる2446段の石段杉並木、日本海に沈む夕日が絶景の湯野浜温泉、新米つや姫や庄内豚を味わうふるさと納税トラベルガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-hagurosan-yunohama-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-hagurosan-yunohama-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-hagurosan-yunohama-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-hagurosan-yunohama-autumn-stay/"
   };
 
   const faqSchema = {
@@ -118,7 +118,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
           <Link href="/" className="hover:text-amber-700 underline">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-amber-700 underline">特集一覧</Link>
+          <Link href="/features/" className="hover:text-amber-700 underline">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-900 font-medium">山形・羽黒山＆湯野浜温泉特集</span>
         </div>
@@ -128,7 +128,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"羽黒山杉並木紅葉と湯野浜温泉の夕日！秋の庄内味覚（新米つや姫・寒鱈・庄内豚）と開運温泉旅 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-hagurosan-yunohama-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"羽黒山杉並木紅葉と湯野浜温泉の夕日！秋の庄内味覚（新米つや姫・寒鱈・庄内豚）と開運温泉旅 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-hagurosan-yunohama-autumn-stay/"}]}) }}
       />
 
         {/* Introduction */}
@@ -646,8 +646,8 @@ export default function Page() {
         <div className="max-w-5xl mx-auto space-y-4">
           <div className="flex justify-center gap-4 text-stone-300">
             <Link href="/" className="hover:text-white">トップページ</Link>
-            <Link href="/features" className="hover:text-white">特集一覧</Link>
-            <Link href="/privacy" className="hover:text-white">プライバシーポリシー</Link>
+            <Link href="/features/" className="hover:text-white">特集一覧</Link>
+            <Link href="/privacy/" className="hover:text-white">プライバシーポリシー</Link>
           </div>
           <p>© 2026 クラウドトラベル (croud-travel.pages.dev) All Rights Reserved.</p>
         </div>

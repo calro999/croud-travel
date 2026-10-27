@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '遠刈田温泉で過ごす冬の旅（11・12月）！初冠雪の蔵王連峰を望む開湯400年の名湯！名宿5選',
     description: '11月中旬から12月の初冬を迎えた宮城蔵王の山麓、遠刈田温泉（とおがったおんせん）は、刈田岳や御釜周辺が白銀の初冠雪をまとい。',
-    url: 'https://croud-travel.pages.dev/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -56,7 +56,7 @@ export default function MiyagiTogattaWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -379,7 +379,7 @@ export default function MiyagiTogattaWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月遠刈田温泉】初冠雪の蔵王連峰を望む開湯400年の名湯！名宿5選","item":"https://croud-travel.pages.dev/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月遠刈田温泉】初冠雪の蔵王連峰を望む開湯400年の名湯！名宿5選","item":"https://croud-travel.pages.dev/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay/"}]}) }}
       />
 
         {/* Introduction Section */}
@@ -727,7 +727,7 @@ export default function MiyagiTogattaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay"
+              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md">宮城・秋保温泉</span>
@@ -737,7 +737,7 @@ export default function MiyagiTogattaWinterPage() {
             </Link>
 
             <Link
-              href="/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay"
+              href="/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md">宮城・作並温泉</span>
@@ -747,7 +747,7 @@ export default function MiyagiTogattaWinterPage() {
             </Link>
 
             <Link
-              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay"
+              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md">山形・蔵王温泉</span>
@@ -757,7 +757,7 @@ export default function MiyagiTogattaWinterPage() {
             </Link>
 
             <Link
-              href="/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay"
+              href="/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md">福島・磐梯熱海温泉</span>
@@ -767,7 +767,7 @@ export default function MiyagiTogattaWinterPage() {
             </Link>
 
             <Link
-              href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay"
+              href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md">宮城・松島温泉</span>
@@ -777,7 +777,7 @@ export default function MiyagiTogattaWinterPage() {
             </Link>
 
             <Link
-              href="/features"
+              href="/features/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2 flex flex-col justify-center items-center text-center"
             >
               <span className="text-xs font-bold text-blue-700">全国の旬の温泉特集一覧へ</span>

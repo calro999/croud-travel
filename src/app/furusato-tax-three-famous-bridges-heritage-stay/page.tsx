@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税厳選ガイド岩国錦帯橋・長崎眼鏡橋・東京日本橋の風情旅',
     description: '日本の土木建築美の最高峰！山口岩国「錦帯橋」の五連木造アーチと錦川清流温泉宿、長崎「眼鏡橋」の中島川散策と南蛮情緒クラシックホテル、東京「日本橋」の五街道起点と江戸情緒ラグジュアリーステイ。名橋の景観と伝統の美食を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-famous-bridges-heritage-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-famous-bridges-heritage-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -532,7 +532,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-national-treasure-castle-view-luxury-stay"
+            href="/furusato-tax-national-treasure-castle-view-luxury-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -548,7 +548,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-three-great-gardens-heritage-stay"
+            href="/furusato-tax-three-great-gardens-heritage-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -564,7 +564,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay"
+            href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

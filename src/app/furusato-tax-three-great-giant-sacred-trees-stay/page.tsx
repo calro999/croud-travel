@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: '日本三大巨樹＆樹齢千年の神木パワースポット・森林浴名湯宿×ふるさと納税厳選ガイド蒲生の大楠・阿川の大杉・北金ヶ沢の大イチョウ',
     description: '幹周り数十メートル！千年の時を生きる命の巨木！鹿児島姶良「蒲生の大楠」日本最大の巨樹とフォンタナの丘かもう、徳島神山「阿川の大杉」四国の名木と神山温泉ホテル四季の里、青森深浦「北金ヶ沢の大イチョウ」日本一の大銀杏（ビッグイエロー）と黄金崎不老ふ死温泉。日本三大巨樹（三大神木）の神聖なエネルギーと天然温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-giant-sacred-trees-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-giant-sacred-trees-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -393,7 +393,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-beautiful-forests-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-beautiful-forests-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大美林＆森林浴名湯宿×ふるさと納税完全ガイド
               </div>
@@ -402,7 +402,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-primeval-forests-nature-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-primeval-forests-nature-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大原生林＆世界遺産ネイチャー宿×ふるさと納税完全ガイド
               </div>
@@ -411,7 +411,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-sacred-mountains-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-sacred-mountains-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三霊山＆霊峰パノラマ宿×ふるさと納税完全ガイド
               </div>

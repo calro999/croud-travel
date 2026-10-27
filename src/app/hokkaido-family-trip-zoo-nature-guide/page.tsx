@@ -417,7 +417,7 @@ export default function HokkaidoFamilyTripZooNaturePage() {
 
         <div className="pt-2">
           <Link
-            href="/hokkaido-travel-budget-plan"
+            href="/hokkaido-travel-budget-plan/"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-700 to-stone-800 hover:from-amber-800 hover:to-stone-900 text-white font-black text-sm px-6 py-3 rounded-xl shadow transition"
           >
             <span>【北海道旅行 予算計画】2泊3日・3泊4日の費用シミュレーションを読む</span>

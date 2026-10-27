@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '静岡出張＆富士山ひとり旅：新幹線直結・清水港まぐろ・静岡茶ラウンジ！名峰の絶景に癒やされる極上ホテル 厳選3選',
     description: '東海道新幹線ひかり停車・静岡県の県庁所在地！「JR静岡駅北口広場直結の格式あるランドマーク」を誇る「ホテルアソシア静岡」、南口徒歩1分で高層階から富士山や駿河湾を一望する「ホテルグランヒルズ静岡」、創業1916年で静岡グルメバイキングが自慢の「中島屋グランドホテル」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/shizuoka-solo-business-maguro-fujiview-stay',
+    url: 'https://croud-travel.pages.dev/shizuoka-solo-business-maguro-fujiview-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T12:30:00+09:00',
     dateModified: '2026-10-19T12:30:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-solo-business-maguro-fujiview-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-solo-business-maguro-fujiview-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【静岡出張＆富士山ひとり旅】新幹線直結・清水港まぐろ・静岡茶ラウンジ！名峰の絶景に癒やされる極上ホテル 厳選3選","item":"https://croud-travel.pages.dev/shizuoka-solo-business-maguro-fujiview-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【静岡出張＆富士山ひとり旅】新幹線直結・清水港まぐろ・静岡茶ラウンジ！名峰の絶景に癒やされる極上ホテル 厳選3選","item":"https://croud-travel.pages.dev/shizuoka-solo-business-maguro-fujiview-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

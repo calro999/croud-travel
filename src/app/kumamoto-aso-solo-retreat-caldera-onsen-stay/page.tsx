@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '熊本・阿蘇温泉郷ひとり旅・世界最大級カルデラおこもり：阿蘇五岳パノラマ露天・あか牛会席・名水湧く自家源泉！大自然のパワーチャージ厳選3宿',
     description: '世界有数のカルデラが広がる阿蘇の大自然！全室から南阿蘇の絶景を望むおこもりの極み宿「心乃間間」、与謝野晶子や徳富蘆花ゆかりの歴史と阿蘇五岳一望の展望風呂が誇りの「蘇山郷」、自家菜園の野菜とあか牛料理が評判の「親和苑」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/kumamoto-aso-solo-retreat-caldera-onsen-stay',
+    url: 'https://croud-travel.pages.dev/kumamoto-aso-solo-retreat-caldera-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/kumamoto-aso-solo-retreat-caldera-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/kumamoto-aso-solo-retreat-caldera-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【熊本・阿蘇温泉郷ひとり旅・世界最大級カルデラおこもり】阿蘇五岳パノラマ露天・あか牛会席・名水湧く自家源泉！大自然のパワーチャージ厳選3宿","item":"https://croud-travel.pages.dev/kumamoto-aso-solo-retreat-caldera-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【熊本・阿蘇温泉郷ひとり旅・世界最大級カルデラおこもり】阿蘇五岳パノラマ露天・あか牛会席・名水湧く自家源泉！大自然のパワーチャージ厳選3宿","item":"https://croud-travel.pages.dev/kumamoto-aso-solo-retreat-caldera-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

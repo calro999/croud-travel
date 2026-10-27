@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三大奇勝＆巨岩奇峰パノラマ・大自然の彫刻美を愛でる宿×ふるさと納税厳選ガイド妙義山・耶馬渓・寒霞渓',
     description: '大自然が創り出した巨岩の彫刻芸術！群馬「妙義山」切り立つ岩峰パノラマと美肌の妙義温泉・上州牛、大分「耶馬渓」日本新三景の競秀峰と青の洞門・金色のいで湯、香川小豆島「寒霞渓」奇岩絶壁ロープウェイと小豆島オリーブ・瀬戸内海一望露天風呂。日本三大奇勝の絶景温泉宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-wonders-rock-scenery-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-wonders-rock-scenery-stay/',
     siteName: 'トラベル総合ナビ',
     locale: 'ja_JP',
     type: 'article',
@@ -588,7 +588,7 @@ export default function Page() {
             
             <Link
               key="0"
-              href="/furusato-tax-three-great-gorges-canyon-onsen-stay"
+              href="/furusato-tax-three-great-gorges-canyon-onsen-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -601,7 +601,7 @@ export default function Page() {
             
             <Link
               key="1"
-              href="/furusato-tax-three-karst-plateaus-mountain-resort-stay"
+              href="/furusato-tax-three-karst-plateaus-mountain-resort-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -614,7 +614,7 @@ export default function Page() {
             
             <Link
               key="2"
-              href="/furusato-tax-emerald-valley-gorge-hot-spring-stay"
+              href="/furusato-tax-emerald-valley-gorge-hot-spring-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">

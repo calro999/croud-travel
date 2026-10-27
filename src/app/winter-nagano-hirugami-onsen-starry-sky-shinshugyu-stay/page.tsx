@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月長野：日本一の星空ナイトツアーとp！名宿5選',
     description: '11月から1月、南信州の澄んだ大気と日本アルプスの山々に抱かれた長野県阿智村「昼神温泉」は、一年で最も夜空の輝きが増す奇跡の天体観測シーズンを迎えます。',
-    url: 'https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -47,7 +47,7 @@ export default function NaganoHirugamiOnsenWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay/"
         },
         "headline": "【11・12・1月長野】日本一の星空ナイトツアーとpH9.7強アルカリ美肌の湯・極上南信州牛＆信州サーモンを味わう昼神温泉名宿5選",
         "description": "11月から1月、南信州の澄んだ大気と日本アルプスの山々に抱かれた長野県阿智村「昼神温泉」は、一年で最も夜空の輝きが増す奇跡の天体観測シーズンを迎えます。環境省が「日本一星が輝いて見える場所」として最高評価を下した阿智村。初冬から真冬にかけては湿度が下がり大気の透明度が極限まで高まるため、冬の大三角や天の川、満天の星々がまるで降るような臨場感で夜空一面に広がります。ヘブンスそのはらで開催される「天空の楽園 ウィンターナイトツアー」で宇宙の神秘に触れた後は、全国屈指のpH9.7を誇る強アルカリ性単純硫黄泉へ。古い角質を落とし肌をしっとり潤す「奇跡の美人の湯」で体の芯まで解きほぐされます。夕食には南信州の豊かな大地が育んだ霜降り「南信州牛・信州プレミアム牛」の炭火焼きや、清流で育つ鮮やかな「信州サーモン」、名物五平餅が並ぶ美食の宴。冬の星空と極上美肌湯に癒やされる厳選5宿をご案内します。",
@@ -68,7 +68,7 @@ export default function NaganoHirugamiOnsenWinterPage() {
             "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay"
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay/"
       },
       {
         "@type": "BreadcrumbList",
@@ -84,13 +84,13 @@ export default function NaganoHirugamiOnsenWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "長野・昼神温泉の星空と強アルカリ美肌湯特集",
-            "item": "https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay/"
           }
         ]
       },
@@ -563,21 +563,21 @@ export default function NaganoHirugamiOnsenWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay" 
+              href="/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">長野・渋温泉＆小布施</span>
               <p className="font-bold text-stone-800 line-clamp-2">小布施の冬栗おこわ＆完熟サンふじ・石畳の渋温泉「九湯めぐり」名宿</p>
             </Link>
             <Link 
-              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay" 
+              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">長野・諏訪湖温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">諏訪湖の湖畔絶景と信州牛すき焼き・冬の澄んだ空気と名湯めぐり</p>
             </Link>
             <Link 
-              href="/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay" 
+              href="/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">岐阜・下呂温泉</span>

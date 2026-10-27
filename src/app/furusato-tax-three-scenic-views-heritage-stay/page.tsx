@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三景の絶景オーシャンビュー宿×ふるさと納税厳選ガイド松島・天橋立・安芸の宮島の名門旅館',
     description: '日本三景（松島・天橋立・宮島）を望む特等席の老舗旅館＆絶景ホテル！松島湾の多島美露天風呂、天橋立の白砂青松パノラマ、嚴島神社大鳥居の潮満ちる夜景。楽天ふるさと納税宿泊クーポンを活用して贅沢にお得ステイする完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-scenic-views-heritage-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-scenic-views-heritage-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -625,7 +625,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-three-great-gardens-heritage-stay"
+            href="/furusato-tax-three-great-gardens-heritage-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -641,7 +641,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-oceanfront-wave-sound-healing-stay"
+            href="/furusato-tax-oceanfront-wave-sound-healing-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -657,7 +657,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-ise-kumano-sacred-power-spot-stay"
+            href="/furusato-tax-ise-kumano-sacred-power-spot-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

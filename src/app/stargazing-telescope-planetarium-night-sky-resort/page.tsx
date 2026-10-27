@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '本格天体望遠鏡＆星空ガイド付き！満天の星と天の川に包まれる高原星空リゾート',
     description: '2026年最新！大型天体望遠鏡や星空ツアー、露天風呂が楽しめる満天の星空リゾートホテル。澄んだ空気の高原で天の川や流星群を眺める非日常体験。',
-    url: 'https://croud-travel.pages.dev/stargazing-telescope-planetarium-night-sky-resort',
+    url: 'https://croud-travel.pages.dev/stargazing-telescope-planetarium-night-sky-resort/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/stargazing-telescope-planetarium-night-sky-resort"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/stargazing-telescope-planetarium-night-sky-resort/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">天体観測×満天の星空リゾート</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             標高1,000m以上の澄み切った夜空に広がる無数の星々と天の川。本格的な天体望遠鏡での惑星観測や、星空案内人によるナイトツアー、展望露天風呂など、宇宙の神秘に触れる感動のステイが楽しめる高原リゾートホテルをご紹介します。
           </p>
           <div className="pt-2">
-            <ShareButtons title="本格天体望遠鏡＆星空ガイド付き！満天の星と天の川に包まれる高原星空リゾート" url="https://croud-travel.pages.dev/stargazing-telescope-planetarium-night-sky-resort" />
+            <ShareButtons title="本格天体望遠鏡＆星空ガイド付き！満天の星と天の川に包まれる高原星空リゾート" url="https://croud-travel.pages.dev/stargazing-telescope-planetarium-night-sky-resort/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"本格天体望遠鏡＆星空ガイド付き！満天の星と天の川に包まれる高原星空リゾート ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/stargazing-telescope-planetarium-night-sky-resort"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"本格天体望遠鏡＆星空ガイド付き！満天の星と天の川に包まれる高原星空リゾート ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/stargazing-telescope-planetarium-night-sky-resort/"}]}) }}
       />
         
         {/* クーポンバナー */}

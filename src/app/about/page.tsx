@@ -66,7 +66,7 @@ export default function AboutPage() {
 
           <dt className="font-bold text-stone-500 py-2 border-b border-stone-100">お問い合わせ</dt>
           <dd className="md:col-span-2 text-stone-900 py-2 border-b border-stone-100">
-            <Link href="/contact" className="text-teal-700 underline font-bold">
+            <Link href="/contact/" className="text-teal-700 underline font-bold">
               お問い合わせフォームはこちら
             </Link>
           </dd>

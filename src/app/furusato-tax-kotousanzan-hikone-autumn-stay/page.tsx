@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '湖東三山（百済寺・金剛輪寺・西明寺）名刹の紅葉巡り＆国宝彦根城・本場近江牛すき焼き会席',
     description: '11月中旬〜11月下旬に国の名勝庭園が燃えるように色づく湖東三山（百済寺・金剛輪寺・西明寺）。琵琶湖畔の温泉宿や彦根城下町のホテルで、日本三大和牛「近江牛」の極上すき焼きをふるさと納税で堪能。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kotousanzan-hikone-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kotousanzan-hikone-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-kotousanzan-hikone-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-kotousanzan-hikone-autumn-stay/"
   };
 
   const faqSchema = {
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"湖東三山（百済寺・金剛輪寺・西明寺）名刹の紅葉巡り＆国宝彦根城・本場近江牛すき焼き会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-kotousanzan-hikone-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"湖東三山（百済寺・金剛輪寺・西明寺）名刹の紅葉巡り＆国宝彦根城・本場近江牛すき焼き会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-kotousanzan-hikone-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

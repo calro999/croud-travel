@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月神奈川：城ヶ島30万本の水仙まつりと富士山絶景！名宿5選',
     description: '11月から1月、三浦半島最南端の城ヶ島や三浦海岸は、冬の澄み渡る青空の下で相模湾越しに純白の富士山が鮮やかに浮かび上がる絶景の季節を迎えます。',
-    url: 'https://croud-travel.pages.dev/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay',
+    url: 'https://croud-travel.pages.dev/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function KanagawaMiuraMisakiWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '三浦半島・城ヶ島＆三崎まぐろ特集',
-        item: 'https://croud-travel.pages.dev/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay'
+        item: 'https://croud-travel.pages.dev/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay/'
       }
     ]
   };
@@ -652,7 +652,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay" 
+              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-sky-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-sky-800 font-bold text-xs block mb-1">神奈川・鎌倉＆江の島</span>
@@ -662,7 +662,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay" 
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-sky-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-sky-800 font-bold text-xs block mb-1">神奈川・箱根温泉</span>
@@ -672,7 +672,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay" 
+              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-sky-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-sky-800 font-bold text-xs block mb-1">静岡・熱海温泉</span>
@@ -682,7 +682,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay" 
+              href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-sky-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-sky-800 font-bold text-xs block mb-1">千葉・銚子犬吠埼</span>
@@ -692,7 +692,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay" 
+              href="/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-sky-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-sky-800 font-bold text-xs block mb-1">静岡・焼津温泉</span>
@@ -702,7 +702,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
             </Link>
 
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-stone-100 border border-stone-200 hover:border-sky-400 transition-all group flex flex-col justify-center text-center"
             >
               <span className="text-stone-900 font-bold group-hover:text-sky-900 transition-colors">

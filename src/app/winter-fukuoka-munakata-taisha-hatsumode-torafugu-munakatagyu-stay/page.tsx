@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月福岡：鐘崎天然とらふぐと極上宗像牛！名宿5選',
     description: '冬の福岡・宗像と岡垣は、世界文化遺産「神宿る島」宗像・沖ノ島と関連遺産群の中枢「宗像大社辺津宮」が新春開運祈願で賑わい。',
-    url: 'https://croud-travel.pages.dev/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/9217/9217.jpg', width: 1200, height: 630, alt: '宗像大社と玄界灘の冬景色' }]
   },
@@ -156,8 +156,8 @@ export default function FukuokaMunakataPage() {
         '@type': 'BreadcrumbList',
         'itemListElement': [
           { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '宗像大社初詣と鐘崎天然とらふぐ・宗像牛名宿', 'item': 'https://croud-travel.pages.dev/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay' }
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features/' },
+          { '@type': 'ListItem', 'position': 3, 'name': '宗像大社初詣と鐘崎天然とらふぐ・宗像牛名宿', 'item': 'https://croud-travel.pages.dev/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay/' }
         ]
       },
       {
@@ -562,42 +562,42 @@ export default function FukuokaMunakataPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay" 
+              href="/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-blue-700 mb-1">太宰府天満宮初詣と二日市温泉</div>
               <div className="text-slate-500 text-xs">学問の神様新春祈願と名湯二日市温泉・博多和牛の美食宿</div>
             </Link>
             <Link 
-              href="/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay" 
+              href="/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-blue-700 mb-1">門司港レトロ冬イルミ＆豊前海一粒牡蠣</div>
               <div className="text-slate-500 text-xs">関門海峡の夜景と焼きカレー・小倉牛ステーキの名宿特集</div>
             </Link>
             <Link 
-              href="/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay" 
+              href="/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-blue-700 mb-1">宇佐神宮新春初詣＆国東六郷満山</div>
               <div className="text-slate-500 text-xs">全国八幡総本宮の初詣と豊前海車海老・おおいた豊後牛</div>
             </Link>
             <Link 
-              href="/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay" 
+              href="/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-blue-700 mb-1">唐津温泉・呼子イカと佐賀牛</div>
               <div className="text-slate-500 text-xs">虹の松原と冬の玄界灘絶景・透明な呼子活イカと佐賀牛会席</div>
             </Link>
             <Link 
-              href="/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay" 
+              href="/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-blue-700 mb-1">下関・川棚温泉と本場とらふぐ・瓦そば</div>
               <div className="text-slate-500 text-xs">本場南風泊港のとらふぐ会席と名物瓦そばの温泉宿特集</div>
             </Link>
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-blue-950 text-white hover:bg-stone-950 transition-all block flex flex-col justify-center items-center text-center font-bold"
             >
               <span>全国の冬特集一覧を見る →</span>

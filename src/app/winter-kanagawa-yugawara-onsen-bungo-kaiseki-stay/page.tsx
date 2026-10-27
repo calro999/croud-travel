@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '湯河原温泉で過ごす冬の旅（11・12月）！相模湾の伊勢海老！名宿5選',
     description: '万葉集に唯一詠まれた関東最古の名湯・神奈川県湯河原温泉。11月下旬から12月上旬にかけて奥湯河原やもみじの郷を彩る関東で最も遅い錦秋の紅葉。',
-    url: 'https://croud-travel.pages.dev/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay',
+    url: 'https://croud-travel.pages.dev/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -84,7 +84,7 @@ export default function YugawaraWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay/"
         }
       },
       {
@@ -172,7 +172,7 @@ export default function YugawaraWinterPage() {
               rating: 4.59,
               reviews: 407,
               price: "¥12,100〜",
-              access: "JR東海道本線　湯河原駅より②番のバスにて温泉場中央下車すぐ　//東名厚木ＩＣより小田原厚木道路・１３５号経由６０分",
+              access: "JR東海道本線　湯河原駅より②番のバスにて温泉場中央下車すぐ　/東名厚木ＩＣより小田原厚木道路・１３５号経由６０分",
               special: "水戸光圀公も立ち寄られた名湯の宿。貸切露天風呂と足湯が好評！ 自家源泉かけ流しのお湯が自慢！",
               url: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31980%2F31980.html",
               story: "創業300余年、国の登録有形文化財に指定された木造4階建て本館を有する湯河原随一の歴史を誇る老舗宿「源泉 上野屋」。水戸光圀の時代から湯守を勤め、近代には島崎藤村が逗留して小説『夜明け前』の着想を得たことでも知られます。宿の最大の誇りは、敷地内の地下から自噴する2本の自家源泉。大浴場「藤木湯」や露天風呂、さらに最上階にある貸切展望露天風呂にいたるまで、贅沢な源泉かけ流しが徹底されています。泉質は肌あたりが極めて柔らかなナトリウム・カルシウム-塩化物・硫酸塩泉で、「薬師の湯」「傷の湯」として古くから湯治客を癒やしてきました。初冬の澄んだ夜空を見上げる展望露天風呂からの湯あみは、旅の情緒を深く心に刻みます。",
@@ -300,7 +300,7 @@ export default function YugawaraWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月湯河原温泉】相模湾の伊勢海老！名宿5選","item":"https://croud-travel.pages.dev/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月湯河原温泉】相模湾の伊勢海老！名宿5選","item":"https://croud-travel.pages.dev/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay/"}]}) }}
       />
         
         {/* Intro */}
@@ -473,7 +473,7 @@ export default function YugawaraWinterPage() {
                           <span className="text-xs text-stone-400">（{h.reviews}件のクチコミ）</span>
                         </div>
                         <span className="text-xs font-medium px-2.5 py-1 bg-stone-100 text-stone-600 rounded-lg">
-                          目安: {h.price} / 泊
+                          目安: {h.price} // 泊
                         </span>
                       </div>
 
@@ -675,7 +675,7 @@ export default function YugawaraWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3.5 text-xs sm:text-sm">
             <Link
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay"
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-orange-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-orange-700 mb-1">
@@ -687,7 +687,7 @@ export default function YugawaraWinterPage() {
             </Link>
 
             <Link
-              href="/winter-atami-fireworks-ocean-view-stay"
+              href="/winter-atami-fireworks-ocean-view-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-orange-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-orange-700 mb-1">
@@ -699,7 +699,7 @@ export default function YugawaraWinterPage() {
             </Link>
 
             <Link
-              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay"
+              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-orange-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-orange-700 mb-1">
@@ -711,7 +711,7 @@ export default function YugawaraWinterPage() {
             </Link>
 
             <Link
-              href="/winter-shizuoka-izukogen-granillumi-ito-onsen-stay"
+              href="/winter-shizuoka-izukogen-granillumi-ito-onsen-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-orange-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-orange-700 mb-1">
@@ -723,7 +723,7 @@ export default function YugawaraWinterPage() {
             </Link>
 
             <Link
-              href="/winter-chichibu-icicle-misotsuchi-stay"
+              href="/winter-chichibu-icicle-misotsuchi-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-orange-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-orange-700 mb-1">
@@ -735,7 +735,7 @@ export default function YugawaraWinterPage() {
             </Link>
 
             <Link
-              href="/features"
+              href="/features/"
               className="p-3.5 bg-orange-50/70 rounded-xl border border-orange-200 hover:bg-orange-100/70 transition-all flex flex-col justify-center items-center text-center group"
             >
               <div className="font-bold text-orange-900 mb-1">

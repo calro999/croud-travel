@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '一人ホテルステイ・ご褒美宿泊：クラブラウンジアクセス付き！東京＆横浜の高層ラグジュアリーホテル 厳選3選',
     description: '日頃頑張る自分へ、最高の非日常と休息をプレゼントする「大人のご褒美ソロホテルステイ」。東京ベイエリアを望むアートな「メズム東京」、地上180mの天空に浮かぶ「ザ・プリンスギャラリー 東京紀尾井町」、広大な日本庭園と複数のクラブラウンジが楽しめる「グランドプリンスホテル新高輪」を徹底特集。フードプレゼンテーションとカクテルタイムを満喫する週末ステイケーション。',
-    url: 'https://croud-travel.pages.dev/solo-luxury-club-lounge-reward-stay',
+    url: 'https://croud-travel.pages.dev/solo-luxury-club-lounge-reward-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T02:20:00+09:00',
     dateModified: '2026-10-19T02:20:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/solo-luxury-club-lounge-reward-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/solo-luxury-club-lounge-reward-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【一人ホテルステイ・ご褒美宿泊】クラブラウンジアクセス付き！東京＆横浜の高層ラグジュアリーホテル 厳選3選","item":"https://croud-travel.pages.dev/solo-luxury-club-lounge-reward-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【一人ホテルステイ・ご褒美宿泊】クラブラウンジアクセス付き！東京＆横浜の高層ラグジュアリーホテル 厳選3選","item":"https://croud-travel.pages.dev/solo-luxury-club-lounge-reward-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

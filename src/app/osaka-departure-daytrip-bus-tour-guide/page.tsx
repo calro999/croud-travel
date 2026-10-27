@@ -461,7 +461,7 @@ export default function OsakaDepartureDaytripBusTourPage() {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
-              href="/osaka-kanazawa-highway-bus-model-course"
+              href="/osaka-kanazawa-highway-bus-model-course/"
               className="p-4 bg-white rounded-2xl border border-slate-200 hover:border-rose-500 hover:shadow-sm transition duration-150 flex items-center justify-between group"
             >
               <div>
@@ -472,7 +472,7 @@ export default function OsakaDepartureDaytripBusTourPage() {
               </div>
             </Link>
             <Link
-              href="/osaka-tokushima-naruto-bus-vs-car-guide"
+              href="/osaka-tokushima-naruto-bus-vs-car-guide/"
               className="p-4 bg-white rounded-2xl border border-slate-200 hover:border-rose-500 hover:shadow-sm transition duration-150 flex items-center justify-between group"
             >
               <div>

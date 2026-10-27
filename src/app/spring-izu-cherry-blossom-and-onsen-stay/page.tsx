@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '2026年：一足早い春の訪れ！早咲き河津桜＆伊豆金目鯛姿煮と海一望露天風呂の宿5選',
     description: '2026年最新！濃いピンク色に染まる河津桜並木と菜の花の絶景！名物金目鯛の姿煮・舟盛り会席と太平洋を一望する絶景露天風呂が自慢の伊豆名宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/spring-izu-cherry-blossom-and-onsen-stay',
+    url: 'https://croud-travel.pages.dev/spring-izu-cherry-blossom-and-onsen-stay/',
   },
   alternates: {
     canonical: "https://croud-travel.pages.dev/spring-izu-cherry-blossom-and-onsen-stay/",
@@ -179,7 +179,7 @@ export default function FeatureDetailPage() {
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-amber-600">トップ</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-amber-600">厳選特集一覧</Link>
+          <Link href="/features/" className="hover:text-amber-600">厳選特集一覧</Link>
           <span>&gt;</span>
           <span className="text-slate-800 font-medium truncate max-w-xs sm:max-w-md md:max-w-none">
             早咲き河津桜＆名物金目鯛姿煮の伊豆名湯宿
@@ -556,7 +556,7 @@ export default function FeatureDetailPage() {
         {/* 特集トップへのリンク */}
         <div className="text-center pt-4">
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold px-8 py-4 rounded-2xl shadow-md transition-all"
           >
             <span>他の厳選特集一覧を見る</span>

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '兵庫・播州赤穂温泉で過ごす冬の旅（11・12月）！瀬戸内インフィニティ絶景露天！名宿5選',
     description: '11月下旬を迎えると、瀬戸内海・播磨灘に面した兵庫県「播州赤穂温泉」は、名水百選千種川の森のミネラルが注ぎ込む坂越湾で育つ名物「坂越牡蠣（さ。',
-    url: 'https://croud-travel.pages.dev/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay',
+    url: 'https://croud-travel.pages.dev/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function AkoOnsenWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay/"
         },
         "headline": "【11・12月兵庫・播州赤穂温泉の播磨灘夕景と11月解禁坂越牡蠣】赤穂義士祭の歴史情緒・瀬戸内インフィニティ絶景露天の宿5選",
         "description": "11月下旬を迎えると、瀬戸内海・播磨灘に面した兵庫県「播州赤穂温泉」は、名水百選千種川の森のミネラルが注ぎ込む坂越湾で育つ名物「坂越牡蠣（さこしかき）」の本格解禁とともに一年で最も美食の熱気に沸き立ちます。大粒で火を通しても縮まず、甘く濃厚なミルキーさを誇る坂越牡蠣の焼き・蒸し・鍋・フライのフルコースを堪能。さらに12月14日は赤穂浪士討ち入りの「赤穂義士祭」が開催され、城下町全体が歴史絵巻の賑わいに包まれます。波打ち際すれすれのインフィニティ露天風呂で瀬戸内の夕日と海に溶け込む至福の湯浴みを満喫する厳選旅館5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function AkoOnsenWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "兵庫・播州赤穂温泉 播磨灘夕景と坂越牡蠣・インフィニティ露天の宿",
-            "item": "https://croud-travel.pages.dev/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay"
+            "item": "https://croud-travel.pages.dev/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay/"
           }
         ]
       },
@@ -592,42 +592,42 @@ export default function AkoOnsenWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-hyogo-awajishima-sumoto-3year-torafugu-stay"
+              href="/winter-hyogo-awajishima-sumoto-3year-torafugu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">兵庫・淡路島温泉</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">鳴門海峡の荒波が育む淡路島3年とらふぐフルコースと美肌露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay"
+              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">兵庫・有馬温泉</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">日本三古湯の赤湯金泉・銀泉と極上神戸牛ステーキを味わう老舗宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">兵庫・城崎温泉</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">七つの外湯めぐりと11月解禁津居山ガニ・但馬牛を堪能する名宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay"
+              href="/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">兵庫・香住温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">最高峰柴山ガニと香住ガニの食べ比べ・日本海雪見露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay"
+              href="/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">香川・小豆島温泉</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">寒霞渓の初冬パノラマと瀬戸内オリーブ牛・海辺絶景露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-kyoto-tango-yuhigaura-matsuba-crab-stay"
+              href="/winter-kyoto-tango-yuhigaura-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">京都・夕日ヶ浦温泉</span>

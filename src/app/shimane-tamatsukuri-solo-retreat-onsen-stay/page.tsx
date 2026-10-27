@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '出雲・玉造温泉ひとり旅・美肌神湯おこもり：日本最古の美肌温泉・玉湯川足湯・しまね和牛会席！出雲大社参拝と縁結びの温泉郷厳選3宿',
     description: '『出雲国風土記』に「神の湯」と記された玉造温泉！毎夜の縁日や安来節ショーと美肌会席が一人旅に大好評の「白石家」、自家源泉かけ流しの美肌湯を心ゆくまで堪能できる「湯陣 千代の湯」、日本庭園と広大な大浴場を誇る「松乃湯」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/shimane-tamatsukuri-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/shimane-tamatsukuri-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/shimane-tamatsukuri-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/shimane-tamatsukuri-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【出雲・玉造温泉ひとり旅・美肌神湯おこもり】日本最古の美肌温泉・玉湯川足湯・しまね和牛会席！出雲大社参拝と縁結びの温泉郷厳選3宿","item":"https://croud-travel.pages.dev/shimane-tamatsukuri-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【出雲・玉造温泉ひとり旅・美肌神湯おこもり】日本最古の美肌温泉・玉湯川足湯・しまね和牛会席！出雲大社参拝と縁結びの温泉郷厳選3宿","item":"https://croud-travel.pages.dev/shimane-tamatsukuri-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

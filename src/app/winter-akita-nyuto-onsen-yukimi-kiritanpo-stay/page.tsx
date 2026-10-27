@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '乳頭温泉郷で過ごす冬の旅（11・12月）！ブナ原生林の雪見露天風呂と本！名宿5選',
     description: '11月中旬からブナの原生林が純白の雪に包まれる十和田八幡平国立公園・乳頭温泉郷。乳白色の湯けむりが立ち上る野趣あふれる雪見露天風呂と、囲炉裏端でいただく比内地鶏の出汁が染み渡る熱々の本場きりたんぽ鍋。冬の東北が誇る究極の秘湯旅ガイド。',
-    url: 'https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay',
+    url: 'https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function NyutoWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay"
+          "@id": "https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function NyutoWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月乳頭温泉郷】ブナ原生林の雪見露天風呂と本！名宿5選","item":"https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月乳頭温泉郷】ブナ原生林の雪見露天風呂と本！名宿5選","item":"https://croud-travel.pages.dev/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -796,7 +796,7 @@ export default function NyutoWinterPage() {
           {/* 関連特集リンクカード */}
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
             <Link 
-              href="/winter-aomori-sukayu-hakkoda-yukimi-stay"
+              href="/winter-aomori-sukayu-hakkoda-yukimi-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-emerald-50/60 border border-stone-200 hover:border-emerald-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">東北雪見秘湯</span>
@@ -809,7 +809,7 @@ export default function NyutoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay"
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-emerald-50/60 border border-stone-200 hover:border-emerald-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">山形冬特集</span>
@@ -822,7 +822,7 @@ export default function NyutoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-gunma-manza-snow-milky-hotspring-stay"
+              href="/winter-gunma-manza-snow-milky-hotspring-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-emerald-50/60 border border-stone-200 hover:border-emerald-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-sky-800 bg-sky-100/80 px-2 py-0.5 rounded">にごり湯特集</span>

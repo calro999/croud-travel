@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：重要伝統的建造物群・蔵の町に泊まる！町全体がホテルになる分散型古民家ステイ5選',
     description: '2026年最新！篠山・竹田城下町・大洲・内子など、江戸・明治の商家や蔵をリノベーションした上質な分散型古民家ホテル5選。暮らすように旅する贅沢。',
-    url: 'https://croud-travel.pages.dev/historical-merchant-town-machiya-hotel-stay',
+    url: 'https://croud-travel.pages.dev/historical-merchant-town-machiya-hotel-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/historical-merchant-town-machiya-hotel-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/historical-merchant-town-machiya-hotel-stay/"
   };
 
   const faqSchema = {
@@ -130,7 +130,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">商家町・蔵の町×分散型古民家ホテル</span>
         </div>
@@ -149,7 +149,7 @@ export default function Page() {
             白壁土蔵や格子の町家が連なる美しい歴史地区。町全体を一つのホテルに見立て、築100年以上の旧家や酒蔵、武家屋敷を上質な宿泊空間にリノベーション。地元の旬素材を活かしたフレンチ会席や、町歩きを楽しみながら日本の美しい暮らしを体感する新しい旅のかたち。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】重要伝統的建造物群・蔵の町に泊まる！町全体がホテルになる分散型古民家ステイ5選" url="https://croud-travel.pages.dev/historical-merchant-town-machiya-hotel-stay" />
+            <ShareButtons title="【2026年】重要伝統的建造物群・蔵の町に泊まる！町全体がホテルになる分散型古民家ステイ5選" url="https://croud-travel.pages.dev/historical-merchant-town-machiya-hotel-stay/" />
           </div>
         </div>
       </header>
@@ -158,7 +158,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】重要伝統的建造物群・蔵の町に泊まる！町全体がホテルになる分散型古民家ステイ5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/historical-merchant-town-machiya-hotel-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】重要伝統的建造物群・蔵の町に泊まる！町全体がホテルになる分散型古民家ステイ5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/historical-merchant-town-machiya-hotel-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

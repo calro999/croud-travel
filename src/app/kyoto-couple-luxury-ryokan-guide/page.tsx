@@ -182,7 +182,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs md:text-sm">
             <Link
-              href="/kyoto-travel-budget-how-many-nights"
+              href="/kyoto-travel-budget-how-many-nights/"
               className="flex items-start gap-3 p-3.5 rounded-xl bg-white border border-emerald-200/90 hover:border-emerald-500 hover:shadow-md transition group"
             >
               <span className="text-emerald-700 font-bold text-base">💴</span>
@@ -196,7 +196,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
               </div>
             </Link>
             <Link
-              href="/kanazawa-vs-kyoto-comparison"
+              href="/kanazawa-vs-kyoto-comparison/"
               className="flex items-start gap-3 p-3.5 rounded-xl bg-white border border-emerald-200/90 hover:border-emerald-500 hover:shadow-md transition group"
             >
               <span className="text-emerald-700 font-bold text-base">⛩️</span>

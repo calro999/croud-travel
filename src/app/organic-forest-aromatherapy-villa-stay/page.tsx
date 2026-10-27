@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '2026年：天然精油の香りで深呼吸。ヒノキ・スギ精油アロマスパスパ＆森林浴プライベートヴィラ5選',
     description: '2026年最新！森の香りに包まれてデトックス！天然ヒノキやスギのオーガニック精油トリートメント、大自然に囲まれたプライベートヴィラと温泉スパ5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/organic-forest-aromatherapy-villa-stay',
+    url: 'https://croud-travel.pages.dev/organic-forest-aromatherapy-villa-stay/',
   },
   alternates: {
     canonical: "https://croud-travel.pages.dev/organic-forest-aromatherapy-villa-stay/",
@@ -179,7 +179,7 @@ export default function FeatureDetailPage() {
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-amber-600">トップ</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-amber-600">厳選特集一覧</Link>
+          <Link href="/features/" className="hover:text-amber-600">厳選特集一覧</Link>
           <span>&gt;</span>
           <span className="text-slate-800 font-medium truncate max-w-xs sm:max-w-md md:max-w-none">
             森の天然精油アロマスパ＆森林浴プライベートヴィラ
@@ -556,7 +556,7 @@ export default function FeatureDetailPage() {
         {/* 特集トップへのリンク */}
         <div className="text-center pt-4">
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold px-8 py-4 rounded-2xl shadow-md transition-all"
           >
             <span>他の厳選特集一覧を見る</span>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '飛騨高山ひとり旅・小京都おこもり：古い町並み徒歩すぐ・飛騨牛にぎり・美肌のとろとろ温泉！飛騨の匠の技に抱かれる極上宿 厳選3選',
     description: '特急ひだ直結・江戸の風情を今に残す「飛騨の小京都」岐阜県高山市！「宮川中橋すぐ・ミシュラン掲載の極上おもてなしとお部屋食」を誇る最高峰「本陣平野屋 花兆庵」、総檜造り・自家源泉の重曹泉がとろとろの「飛騨亭 花扇」、高山駅徒歩3分で最上階に展望露天風呂を備えた「スパホテルアルピナ飛騨高山」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/takayama-solo-retreat-hidagyu-onsen-stay',
+    url: 'https://croud-travel.pages.dev/takayama-solo-retreat-hidagyu-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T15:30:00+09:00',
     dateModified: '2026-10-19T15:30:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/takayama-solo-retreat-hidagyu-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/takayama-solo-retreat-hidagyu-onsen-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【飛騨高山ひとり旅・小京都おこもり】古い町並み徒歩すぐ・飛騨牛にぎり・美肌のとろとろ温泉！飛騨の匠の技に抱かれる極上宿 厳選3選","item":"https://croud-travel.pages.dev/takayama-solo-retreat-hidagyu-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【飛騨高山ひとり旅・小京都おこもり】古い町並み徒歩すぐ・飛騨牛にぎり・美肌のとろとろ温泉！飛騨の匠の技に抱かれる極上宿 厳選3選","item":"https://croud-travel.pages.dev/takayama-solo-retreat-hidagyu-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

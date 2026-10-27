@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '白骨温泉をふるさと納税でお得に旅する！乳白色のにごり湯秘湯＆信州牛会席！深山幽谷の極上湯治宿ガイド｜齋藤旅館・小梨の湯笹屋・丸永旅館',
     description: '「三日入れば三年風邪をひかない」と謳われる信州屈指の白濁秘湯・長野県白骨温泉を楽天ふるさと納税でお得に巡る！享保年間創業の老舗名門「湯元齋藤旅館」、白樺林に佇む完全貸切野天の宿「小梨の湯 笹屋」、桂の巨木と素朴な温もりの「かつらの湯 丸永旅館」を徹底解説。松本市トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-shirahone-onsen-milky-secret-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-shirahone-onsen-milky-secret-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T16:25:00+09:00',
     dateModified: '2026-10-19T16:25:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-shirahone-onsen-milky-secret-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-shirahone-onsen-milky-secret-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【白骨温泉×ふるさと納税】乳白色のにごり湯秘湯＆信州牛会席！深山幽谷の極上湯治宿ガイド｜齋藤旅館・小梨の湯笹屋・丸永旅館","item":"https://croud-travel.pages.dev/furusato-tax-shirahone-onsen-milky-secret-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【白骨温泉×ふるさと納税】乳白色のにごり湯秘湯＆信州牛会席！深山幽谷の極上湯治宿ガイド｜齋藤旅館・小梨の湯笹屋・丸永旅館","item":"https://croud-travel.pages.dev/furusato-tax-shirahone-onsen-milky-secret-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【白骨温泉×ふるさと納税】乳白色のにごり湯秘湯＆信州牛会席！深山幽谷の極上湯治宿ガイド｜齋藤旅館・小梨の湯笹屋・丸永旅館</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-beginners-complete-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-beginners-complete-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 超初心者向け ふるさと納税で旅行に安く泊まるマニュアル
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-hakone-sengokuhara-pampas-luxury-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-hakone-sengokuhara-pampas-luxury-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 箱根仙石原温泉 すすき草原＆美肌にごり湯特集
               </Link>
             </li>

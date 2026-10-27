@@ -430,7 +430,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
-              href="/atami-daytrip-hotspring-lunch-guide"
+              href="/atami-daytrip-hotspring-lunch-guide/"
               className="group block p-4 rounded-xl bg-stone-950/80 border border-amber-900/70 hover:border-amber-500/60 transition-all"
             >
               <span className="text-xs font-bold text-amber-400 block mb-1">日帰りプラン ♨️</span>
@@ -443,7 +443,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
             </Link>
 
             <Link
-              href="/atami-izu-travel-budget-guide"
+              href="/atami-izu-travel-budget-guide/"
               className="group block p-4 rounded-xl bg-stone-950/80 border border-amber-900/70 hover:border-amber-500/60 transition-all"
             >
               <span className="text-xs font-bold text-amber-400 block mb-1">費用シミュレーション 💰</span>

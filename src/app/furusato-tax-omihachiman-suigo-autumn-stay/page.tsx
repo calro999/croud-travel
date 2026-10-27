@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '近江八幡の水郷めぐり手漕ぎ舟紅葉＆八幡堀の白壁土蔵！近江牛会席の宿×ふるさと納税厳選ガイド滋賀',
     description: '10月〜11月にヨシ原と紅葉が水面に映える重要文化的景観「近江八幡の水郷めぐり」。八幡堀の白壁土蔵や情緒ある石畳の秋景色、琵琶湖畔と城下町に佇む「休暇村 近江八幡」「グリーンホテルYES近江八幡」「ＡＢホテル近江八幡」で日本三大和牛・近江牛のすき焼きステーキを堪能。ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-omihachiman-suigo-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-omihachiman-suigo-autumn-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -102,7 +102,7 @@ export default function FeatureArticlePage() {
       <nav className="max-w-6xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-600 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:underline text-stone-500">トップ</Link>
         <span>&gt;</span>
-        <Link href="/autumn-leaves" className="hover:underline text-stone-500">秋・紅葉特集</Link>
+        <Link href="/autumn-leaves/" className="hover:underline text-stone-500">秋・紅葉特集</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-medium">滋賀・近江八幡 / 水郷めぐり紅葉＆八幡堀レトロ散策・近江牛</span>
       </nav>
@@ -391,27 +391,27 @@ export default function FeatureArticlePage() {
             <h4 className="font-bold text-stone-900 text-xs mb-3">🍂 関連する秋の特集</h4>
             <ul className="space-y-2 text-xs text-stone-600">
               <li>
-                <Link href="/furusato-tax-hachimantai-aspiteline-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-hachimantai-aspiteline-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・岩手・八幡平アスピーテライン＆松川温泉
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-akayu-wine-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-akayu-wine-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・山形・赤湯温泉＆置賜ワイナリー
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-azumino-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-azumino-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・長野・安曇野わさび田＆穂高温泉郷
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-ohara-sanzenin-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-ohara-sanzenin-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・京都・大原三千院＆寂光院紅葉
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-shimanto-river-autumn-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-shimanto-river-autumn-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・高知・四万十川沈下橋＆戻り鰹うなぎ
                 </Link>
               </li>

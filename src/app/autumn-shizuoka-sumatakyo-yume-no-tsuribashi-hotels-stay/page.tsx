@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の寸又峡：夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選「2026最新」',
     description: 'チンダル現象で輝くエメラルドグリーンの湖水に架かる寸又峡「夢の吊橋」と紅葉！秘境名宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-shizuoka-sumatakyo-yume-no-tsuribashi-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-shizuoka-sumatakyo-yume-no-tsuribashi-hotels-stay/',
   }
 };
 

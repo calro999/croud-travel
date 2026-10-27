@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月大阪：日本の滝百選「箕面大滝」の冬！名宿5選',
     description: '冬の静寂に包まれる日本の滝百選「箕面大滝」と、境内一面に無数の勝ちダルマが並ぶ勝運の寺「勝尾寺」での新春初詣を巡る11〜1月の大阪・箕面＆北。',
-    url: 'https://croud-travel.pages.dev/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay',
+    url: 'https://croud-travel.pages.dev/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay/',
     type: 'article',
     images: [
       {
@@ -61,7 +61,7 @@ export default function OsakaMinooWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay"
+          "@id": "https://croud-travel.pages.dev/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay/"
         }
       },
       {
@@ -77,13 +77,13 @@ export default function OsakaMinooWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "大阪・箕面＆能勢 勝尾寺初詣と天然ぼたん鍋名宿",
-            "item": "https://croud-travel.pages.dev/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay"
+            "item": "https://croud-travel.pages.dev/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay/"
           }
         ]
       },
@@ -270,7 +270,7 @@ export default function OsakaMinooWinterPage() {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-600 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-blue-600">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/features" className="hover:text-blue-600">特集一覧</Link>
+            <Link href="/features/" className="hover:text-blue-600">特集一覧</Link>
             <span>&gt;</span>
             <span className="text-slate-900 font-semibold">大阪・箕面＆能勢 勝尾寺初詣＆ぼたん鍋名宿</span>
           </div>
@@ -581,7 +581,7 @@ export default function OsakaMinooWinterPage() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               <Link
-                href="/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay"
+                href="/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-amber-400 text-xs font-bold block mb-1">大阪市内特集</span>
@@ -589,7 +589,7 @@ export default function OsakaMinooWinterPage() {
                 <span className="text-xs text-slate-300">光の祭典イルミネーションと大阪都心のラグジュアリーホテル…</span>
               </Link>
               <Link
-                href="/features"
+                href="/features/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-cyan-400 text-xs font-bold block mb-1">特集一覧</span>

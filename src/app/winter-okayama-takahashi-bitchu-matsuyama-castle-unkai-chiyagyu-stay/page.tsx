@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月岡山：雲海に浮かぶ天空の山城！名宿5選',
     description: '冬の岡山・高梁＆新見・美星町は、標高430mの臥牛山頂に佇む現存天守「備中松山城」が一面の白い霧海に浮かび上がる年間最大の絶景シーズン。',
-    url: 'https://croud-travel.pages.dev/winter-okayama-takahashi-bitchu-matsuyama-castle-unkai-chiyagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-okayama-takahashi-bitchu-matsuyama-castle-unkai-chiyagyu-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/39582/39582.jpg', width: 1200, height: 630, alt: '備中松山城の雲海と美星町の星空' }]
   },
@@ -156,8 +156,8 @@ export default function OkayamaTakahashiUnkaiPage() {
         '@type': 'BreadcrumbList',
         'itemListElement': [
           { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '備中松山城雲海・美星町星空と千屋牛名宿', 'item': 'https://croud-travel.pages.dev/winter-okayama-takahashi-bitchu-matsuyama-castle-unkai-chiyagyu-stay' }
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features/' },
+          { '@type': 'ListItem', 'position': 3, 'name': '備中松山城雲海・美星町星空と千屋牛名宿', 'item': 'https://croud-travel.pages.dev/winter-okayama-takahashi-bitchu-matsuyama-castle-unkai-chiyagyu-stay/' }
         ]
       },
       {
@@ -593,37 +593,37 @@ export default function OkayamaTakahashiUnkaiPage() {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay"
+              href="/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【倉敷美観地区】冬のライトアップ夜景と吉備津神社・千屋牛名宿
             </Link>
             <Link
-              href="/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay"
+              href="/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【湯原温泉・砂湯】冬の露天風呂番付西の横綱と蒜山和牛名宿
             </Link>
             <Link
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【三朝温泉】世界屈指のラジウム温泉と極上鳥取松葉がに名宿
             </Link>
             <Link
-              href="/winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay"
+              href="/winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【尾道水道＆千光寺】冬の絶景夕景とオコゼ・尾道ラーメン名宿
             </Link>
             <Link
-              href="/winter-okayama-mimasaka-okutsu-yunogo-onsen-sakushugyu-stay"
+              href="/winter-okayama-mimasaka-okutsu-yunogo-onsen-sakushugyu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【美作三湯・奥津＆湯郷】足踏み洗濯と美肌温泉・作州牛名宿
             </Link>
             <Link
-              href="/features"
+              href="/features/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-bold text-amber-700 block text-center flex items-center justify-center gap-1"
             >
               <span>全国の冬旅特集一覧を見る</span>

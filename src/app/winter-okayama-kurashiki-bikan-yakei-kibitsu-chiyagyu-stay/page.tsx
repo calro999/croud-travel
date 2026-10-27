@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月岡山：国宝吉備津神社新春初詣！名宿5選',
     description: '11月から1月、岡山県倉敷市の「倉敷美観地区」は、観光客で賑わう日中とは打って変わり。',
-    url: 'https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function OkayamaKurashikiBikanWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '冬の倉敷美観地区＆吉備津神社初詣特集',
-        item: 'https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay'
+        item: 'https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay/'
       }
     ]
   };
@@ -652,7 +652,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-okayama-hinase-ushimado-oyster-kakioko-stay" 
+              href="/winter-okayama-hinase-ushimado-oyster-kakioko-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">岡山・日生牛窓</span>
@@ -662,7 +662,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay" 
+              href="/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">岡山・湯原温泉</span>
@@ -672,7 +672,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay" 
+              href="/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">広島・鞆の浦温泉</span>
@@ -682,7 +682,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay" 
+              href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">香川・琴平温泉</span>
@@ -692,7 +692,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay" 
+              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">三重・伊勢神宮</span>
@@ -702,7 +702,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
             </Link>
 
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-stone-100 border border-stone-200 hover:border-indigo-400 transition-all group flex flex-col justify-center text-center"
             >
               <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors">

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '滋賀・長浜＆近江八幡：黒壁スクエア・竹生島クルーズ＆八幡堀・近江牛宿 厳選ガイド',
     description: '明治の洋館とガラス工芸の街「長浜黒壁スクエア」、琵琶湖に浮かぶ日本三大弁財天の聖地「竹生島（宝厳寺・都久夫須麻神社）」クルーズ、豊臣秀次が開いた近江商人の城下町「近江八幡水郷めぐり・八幡堀」、日本三大和牛「近江牛」のすき焼き宿を徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/shiga-nagahama-omihachiman-chikubushima-stay',
+    url: 'https://croud-travel.pages.dev/shiga-nagahama-omihachiman-chikubushima-stay/',
   },
 };
 

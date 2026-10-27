@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '日本三大渓谷＆爽快舟下り・清流の奇岩と水辺の温泉名宿×ふるさと納税厳選ガイド保津川・最上川・長瀞',
     description: '船頭の竿さばきで水しぶきを上げる日本の名舟下り！京都「嵐山・保津川下り」亀岡から嵐山へ巨岩と急流を抜けるスリルと嵐山温泉渡月亭、山形「最上川舟下り」松尾芭蕉の句で知られる大河の舟唄と高見屋最上川別邸紅、埼玉「長瀞ライン下り」天然記念物岩畳の渓谷美と長生館。四季の渓谷美と水辺の老舗温泉旅館を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-gorges-boat-ride-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-gorges-boat-ride-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -419,7 +419,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-clear-rivers-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-clear-rivers-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大清流＆エメラルドグリーンの川辺宿×ふるさと納税完全ガイド
               </div>
@@ -427,7 +427,7 @@ export default function Page() {
                 四万十川・長良川・柿田川。
               </p>
             </Link>
-            <Link href="/furusato-tax-three-great-gorges-scenery-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-gorges-scenery-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大名峡＆奇岩絶壁の峡谷リゾート×ふるさと納税完全ガイド
               </div>
@@ -435,7 +435,7 @@ export default function Page() {
                 瀞峡・大杉谷・黒部峡谷。
               </p>
             </Link>
-            <Link href="/furusato-tax-three-famous-waterfalls-healing-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-famous-waterfalls-healing-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大名滝＆清冽なマイナスイオン名宿×ふるさと納税完全ガイド
               </div>

@@ -15,12 +15,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: '【水郷日田の初冬川霧と天領小京都・豆田町の白壁通り散策】2026-2027年11-12月初冬の大分・日田温泉！三隈川の川霧を望む屋形船情緒と名物日田焼きそば・おおいた和牛と美肌の名湯5選',
     description: '水郷（すいきょう）と称される大分県日田市。11月〜12月の寒暖差が生み出す三隈川の幻想的な「川霧」と、江戸幕府直轄の天領として栄えた「豆田町」の白壁土蔵が連なる歴史情緒。パリッとした麺の食感がやみつきになる元祖「日田焼きそば」や老舗酒蔵の吟醸酒、とろける豊後牛（おおいた和牛）を堪能し、三隈川を一望する源泉掛け流し美肌温泉に浸る初冬の厳選名宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-oita-hita-onsen-mamedamachi-river-mist-hita-yakisoba-oita-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-oita-hita-onsen-mamedamachi-river-mist-hita-yakisoba-oita-wagyu-stay/',
     type: 'article',
     siteName: 'クラウドトラベル',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-oita-hita-onsen-mamedamachi-river-mist-hita-yakisoba-oita-wagyu-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-oita-hita-onsen-mamedamachi-river-mist-hita-yakisoba-oita-wagyu-stay/',
   },
 };
 
@@ -46,13 +46,13 @@ export default function WinterFeaturePage() {
                   "@type": "ListItem",
                   "position": 2,
                   "name": "特集一覧",
-                  "item": "https://croud-travel.pages.dev/features"
+                  "item": "https://croud-travel.pages.dev/features/"
                 },
                 {
                   "@type": "ListItem",
                   "position": 3,
                   "name": "【水郷日田の初冬川霧と天領小京都・豆田町の白壁通り散策】2026-2027年11-12月初冬の大分・日田温泉！三隈川の川霧を望む屋形船情緒と名物日田焼きそば・おおいた和牛と美肌の名湯5選",
-                  "item": "https://croud-travel.pages.dev/winter-oita-hita-onsen-mamedamachi-river-mist-hita-yakisoba-oita-wagyu-stay"
+                  "item": "https://croud-travel.pages.dev/winter-oita-hita-onsen-mamedamachi-river-mist-hita-yakisoba-oita-wagyu-stay/"
                 }
               ]
             },
@@ -95,7 +95,7 @@ export default function WinterFeaturePage() {
         <div className="max-w-5xl mx-auto flex items-center gap-1.5 flex-wrap">
           <Link href="/" className="hover:text-slate-800 transition">ホーム</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
-          <Link href="/features" className="hover:text-slate-800 transition">特集一覧</Link>
+          <Link href="/features/" className="hover:text-slate-800 transition">特集一覧</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
           <span className="text-slate-800 font-medium truncate max-w-xs">【水郷日田の初冬川霧と天領小京都・豆田町の白壁通り散策】2026-2027年11-12月初冬の大分・日田温泉！三隈川の川霧を望む屋形船情緒と名物日田焼きそば・おおいた和牛と美肌の名湯5選</span>
         </div>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '木漏れ日の高原と洗練の森！軽井沢の温泉露天風呂付きラグジュアリーホテル＆本格フレンチ名宿×ふるさと納税極上旅ガイドマリオット・プリンスイースト・音羽ノ森',
     description: '日本を代表する最高峰の高原避暑地・軽井沢！白樺と落葉松の森、旧軽井沢銀座散策。「軽井沢マリオットホテル」「軽井沢プリンスホテル イースト」「旧軽井沢 ホテル音羽ノ森」を、長野県軽井沢町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。客室温泉露天風呂、天然温泉スパ、信州牛グリルを満喫。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-karuizawa-luxury-resort-villa-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-karuizawa-luxury-resort-villa-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoKaruizawaLuxuryStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">軽井沢 高原リゾート＆名門ホテル特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoKaruizawaLuxuryStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-hakone-onsen-open-air-bath-stay"
+            href="/furusato-tax-hakone-onsen-open-air-bath-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【箱根温泉 客室露天風呂＆名門旅館×ふるさと納税】富士屋ホテル・天成園・はつはな
           </Link>
           <Link
-            href="/furusato-tax-kyoto-arashiyama-bamboo-luxury-stay"
+            href="/furusato-tax-kyoto-arashiyama-bamboo-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【京都嵐山 渡月橋＆竹林の小径名門宿×ふるさと納税】翠嵐・花伝抄・辨慶
           </Link>
           <Link
-            href="/furusato-tax-hoshino-resorts-risonare-family-stay"
+            href="/furusato-tax-hoshino-resorts-risonare-family-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【星野リゾート「リゾナーレ」特集×ふるさと納税】八ヶ岳・熱海・那須
           </Link>
           <Link
-            href="/furusato-tax-private-villa-hanare-hideaway-stay"
+            href="/furusato-tax-private-villa-hanare-hideaway-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【大人の隠れ家・離れ客室×ふるさと納税】静寂とプライベート重視の名宿

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '鹿児島・指宿＆開聞岳・知覧：天然砂むし・開聞岳＆知覧武家屋敷・黒豚宿 厳選ガイド',
     description: '海岸の自然熱砂に埋まる世界唯一の「天然砂むし温泉 砂楽」、円錐形の美しい薩摩富士「開聞岳」、JR日本最南端「西大山駅」の黄色いポスト、国の名勝に指定された薩摩の小京都「知覧武家屋敷庭園」、本場かごしま黒豚しゃぶしゃぶ宿を徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/kagoshima-ibusuki-sand-bath-kaimondake-stay',
+    url: 'https://croud-travel.pages.dev/kagoshima-ibusuki-sand-bath-kaimondake-stay/',
   },
 };
 

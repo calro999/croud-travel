@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '雲仙仁田峠の紅葉ロープウェイ＆湯けむり雲仙地獄！乳白美肌の湯宿×ふるさと納税厳選ガイド長崎',
     description: '10月下旬〜11月中旬に山全体が赤く染まる「雲仙仁田峠」と普賢岳の紅葉！ロープウェイから見下ろす錦秋パノラマと大迫力の雲仙地獄めぐり、名宿「雲仙福田屋」「東園」「雲仙新湯」で長崎和牛や島原半島の旬魚を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円で泊まる九州屈指の紅葉ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-unzen-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-unzen-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">長崎・雲仙地獄＆仁田峠普賢岳紅葉・雲仙温泉名宿特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

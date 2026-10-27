@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '都心から1時間の絶景！高尾山もみじまつり＆秋川渓谷・八王子名宿×ふるさと納税厳選ガイド東京',
     description: '11月上旬〜12月上旬に開催される「高尾山もみじまつり」！日本一の急勾配を行くケーブルカーからの紅葉トンネルと薬王院の秋、八王子の「京王プラザホテル八王子」「the b 八王子」や秋川渓谷の老舗「兜家旅館」に滞在し、名物とろろそばや炭火焼き料理を楽天ふるさと納税で実質2,000円で満喫する完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-takaosan-autumn-leaves-festival-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-takaosan-autumn-leaves-festival-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">東京・高尾山もみじまつり＆八王子・秋川渓谷名宿特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

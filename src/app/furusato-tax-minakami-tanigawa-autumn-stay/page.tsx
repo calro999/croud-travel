@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '谷川岳の紅葉ロープウェイとみなかみ十八湯！利根川源流の渓谷美と上州牛・舞茸を味わう秋の群馬旅',
     description: '10月・11月の群馬・水上（みなかみ）特集！谷川岳天神平ロープウェイから見渡す一面の三段紅葉、利根川源流の諏訪峡・水上峡、水上温泉郷（みなかみ十八湯）の肌に優しい美肌名湯、上州牛や利根の舞茸をふるさと納税で巡る秋旅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-minakami-tanigawa-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-minakami-tanigawa-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-minakami-tanigawa-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-minakami-tanigawa-autumn-stay/"
   };
 
   const faqSchema = {
@@ -118,7 +118,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
           <Link href="/" className="hover:text-amber-700 underline">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-amber-700 underline">特集一覧</Link>
+          <Link href="/features/" className="hover:text-amber-700 underline">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-900 font-medium">群馬・水上温泉＆谷川岳特集</span>
         </div>
@@ -128,7 +128,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"谷川岳の紅葉ロープウェイとみなかみ十八湯！利根川源流の渓谷美と上州牛・舞茸を味わう秋の群馬旅 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-minakami-tanigawa-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"谷川岳の紅葉ロープウェイとみなかみ十八湯！利根川源流の渓谷美と上州牛・舞茸を味わう秋の群馬旅 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-minakami-tanigawa-autumn-stay/"}]}) }}
       />
 
         {/* Introduction */}
@@ -646,8 +646,8 @@ export default function Page() {
         <div className="max-w-5xl mx-auto space-y-4">
           <div className="flex justify-center gap-4 text-stone-300">
             <Link href="/" className="hover:text-white">トップページ</Link>
-            <Link href="/features" className="hover:text-white">特集一覧</Link>
-            <Link href="/privacy" className="hover:text-white">プライバシーポリシー</Link>
+            <Link href="/features/" className="hover:text-white">特集一覧</Link>
+            <Link href="/privacy/" className="hover:text-white">プライバシーポリシー</Link>
           </div>
           <p>© 2026 クラウドトラベル (croud-travel.pages.dev) All Rights Reserved.</p>
         </div>

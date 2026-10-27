@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '富山・氷見温泉郷ひとり旅・富山湾越しの立山連峰おこもり：海越しの立山連峰・氷見寒ブリ＆白えび・自家源泉かけ流し！能越道直通の海の秘境厳選3宿',
     description: '海越しに標高3,000mの立山連峰を望む奇跡の絶景・富山・氷見温泉郷！富山湾の朝獲れ地魚会席が口コミ★4.6超の「民宿すがた」、海一望の絶景露天風呂とサウナ・寝湯が評判の「うみあかり」、全室オーシャンビューと魚尽くし料理の「永芳閣」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/toyama-himi-solo-retreat-onsen-seafood-stay',
+    url: 'https://croud-travel.pages.dev/toyama-himi-solo-retreat-onsen-seafood-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/toyama-himi-solo-retreat-onsen-seafood-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/toyama-himi-solo-retreat-onsen-seafood-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【富山・氷見温泉郷ひとり旅・富山湾越しの立山連峰おこもり】海越しの立山連峰・氷見寒ブリ＆白えび・自家源泉かけ流し！能越道直通の海の秘境厳選3宿","item":"https://croud-travel.pages.dev/toyama-himi-solo-retreat-onsen-seafood-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【富山・氷見温泉郷ひとり旅・富山湾越しの立山連峰おこもり】海越しの立山連峰・氷見寒ブリ＆白えび・自家源泉かけ流し！能越道直通の海の秘境厳選3宿","item":"https://croud-travel.pages.dev/toyama-himi-solo-retreat-onsen-seafood-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

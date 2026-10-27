@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '渡月橋と竹林の小径の静寂！京都嵐山温泉の保津川一望ラグジュアリー＆老舗料理旅館×ふるさと納税極上旅ガイド翠嵐・花伝抄・辨慶',
     description: '四季折々の雅が息づく平安の保養地・京都嵐山！渡月橋の借景と竹林の小径散策。「翠嵐 ラグジュアリーコレクションホテル 京都」「京都 嵐山温泉 花伝抄」「嵐山温泉 嵐山辨慶」を、京都府京都市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。露天風呂付客室、五つの貸切風呂、本格京料理会席を満喫。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kyoto-arashiyama-bamboo-luxury-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kyoto-arashiyama-bamboo-luxury-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">京都嵐山 渡月橋＆名門旅館特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-kyoto-onsen-ryokan-machiya-stay"
+            href="/furusato-tax-kyoto-onsen-ryokan-machiya-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【京都嵐山温泉＆名門京町家旅館×ふるさと納税】渡月亭・翠嵐・花伝抄
           </Link>
           <Link
-            href="/furusato-tax-kyoto-private-machiya-charter-stay"
+            href="/furusato-tax-kyoto-private-machiya-charter-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【京都町家一棟貸切プライベート旅館×ふるさと納税】Nazuna椿通・二条城・お宿花
           </Link>
           <Link
-            href="/tangible-cultural-property-sukiya-carpenter-ryokan-stay"
+            href="/tangible-cultural-property-sukiya-carpenter-ryokan-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【登録有形文化財・宮大工数寄屋造り旅館×ふるさと納税】木造建築美の宿
           </Link>
           <Link
-            href="/furusato-tax-dogo-onsen-honkan-walk-luxury-stay"
+            href="/furusato-tax-dogo-onsen-honkan-walk-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【道後温泉 本館散策＆老舗旅館×ふるさと納税】ふなや・道後御湯・道後プリンス

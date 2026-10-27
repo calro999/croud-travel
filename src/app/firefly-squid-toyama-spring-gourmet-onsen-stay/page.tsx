@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：富山湾の青い神秘！春のホタルイカ＆富山湾の宝石・白エビ尽くし会席の温泉宿5選',
     description: '2026年最新！春に旬を迎える富山湾の「ホタルイカ」踊り食い・釜揚げと「白エビ」刺身・かき揚げを贅沢に味わう富山・宇奈月温泉の名宿5選。',
-    url: 'https://croud-travel.pages.dev/firefly-squid-toyama-spring-gourmet-onsen-stay',
+    url: 'https://croud-travel.pages.dev/firefly-squid-toyama-spring-gourmet-onsen-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/firefly-squid-toyama-spring-gourmet-onsen-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/firefly-squid-toyama-spring-gourmet-onsen-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">春のホタルイカ×白エビ会席宿</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             春の富山湾を彩る「海の神秘」ホタルイカと「富山湾の宝石」白エビ。ぷりぷりの生ホタルイカの沖漬け、熱々の釜揚げ、そして透き通るような白エビの甘みあふれるお造り。黒部峡谷の雄大な絶景温泉とともに味わう春限定の最高峰グルメ旅。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】富山湾の青い神秘！春のホタルイカ＆富山湾の宝石・白エビ尽くし会席の温泉宿5選" url="https://croud-travel.pages.dev/firefly-squid-toyama-spring-gourmet-onsen-stay" />
+            <ShareButtons title="【2026年】富山湾の青い神秘！春のホタルイカ＆富山湾の宝石・白エビ尽くし会席の温泉宿5選" url="https://croud-travel.pages.dev/firefly-squid-toyama-spring-gourmet-onsen-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】富山湾の青い神秘！春のホタルイカ＆富山湾の宝石・白エビ尽くし会席の温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/firefly-squid-toyama-spring-gourmet-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】富山湾の青い神秘！春のホタルイカ＆富山湾の宝石・白エビ尽くし会席の温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/firefly-squid-toyama-spring-gourmet-onsen-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

@@ -448,7 +448,7 @@ export default function AwajiIslandCarFreePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-1">
             <Link
-              href="/osaka-tokushima-naruto-bus-vs-car-guide"
+              href="/osaka-tokushima-naruto-bus-vs-car-guide/"
               className="p-4 bg-white border border-slate-200 rounded-2xl hover:border-indigo-400 hover:shadow-sm transition group"
             >
               <div className="text-[11px] text-indigo-700 font-bold mb-1">鳴門・徳島アクセス比較</div>
@@ -461,7 +461,7 @@ export default function AwajiIslandCarFreePage() {
             </Link>
 
             <Link
-              href="/osaka-departure-daytrip-bus-tour-guide"
+              href="/osaka-departure-daytrip-bus-tour-guide/"
               className="p-4 bg-white border border-slate-200 rounded-2xl hover:border-indigo-400 hover:shadow-sm transition group"
             >
               <div className="text-[11px] text-indigo-700 font-bold mb-1">大阪発日帰りツアー</div>
@@ -478,7 +478,7 @@ export default function AwajiIslandCarFreePage() {
         {/* 47都道府県トップリンク */}
         <div className="text-center pt-2">
           <Link
-            href="/prefectures"
+            href="/prefectures/"
             className="inline-flex items-center gap-2 text-xs font-bold text-slate-700 bg-white hover:bg-slate-100 border border-slate-300 px-8 py-3.5 rounded-2xl transition shadow-sm"
           >
             <span>🗾</span>

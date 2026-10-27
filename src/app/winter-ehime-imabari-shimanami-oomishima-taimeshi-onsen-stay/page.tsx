@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月今治：大山祇神社新春初詣！名宿5選',
     description: '冬の瀬戸内海は澄み渡る青空と多島美が最も美しく輝く季節。世界初の三連吊橋「来島海峡大橋」が架かる愛媛県今治市と、日本総鎮守・大山祇神社が鎮座する大三島。',
-    url: 'https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oomishima-taimeshi-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oomishima-taimeshi-onsen-stay/',
     type: 'article'
   }
 };
@@ -159,13 +159,13 @@ export default function EhimeImabariWinterFeaturePage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "【11・12・1月今治】冬の来島海峡絶景＆日本総鎮守・大山祇神社新春初詣！来島天然真鯛と名湯に寛ぐ厳選宿5選",
-            "item": 'https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oomishima-taimeshi-onsen-stay'
+            "item": 'https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oomishima-taimeshi-onsen-stay/'
           }
         ]
       },
@@ -268,7 +268,7 @@ export default function EhimeImabariWinterFeaturePage() {
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-cyan-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-cyan-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-cyan-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">冬の今治＆しまなみ海道特集</li>
         </ol>
@@ -567,42 +567,42 @@ export default function EhimeImabariWinterFeaturePage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay" 
+              href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-cyan-700 mb-1">道後温泉本館リニューアル＆松山城</div>
               <div className="text-slate-500 text-xs">日本最古の名湯と宇和島鯛めし・伊予牛の極上会席名宿</div>
             </Link>
             <Link 
-              href="/winter-kagawa-takamatsu-ritsurin-yashima-olive-hamachi-udon-stay" 
+              href="/winter-kagawa-takamatsu-ritsurin-yashima-olive-hamachi-udon-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-cyan-700 mb-1">高松・特別名勝栗林公園と屋島</div>
               <div className="text-slate-500 text-xs">一歩一景の大名庭園と冬の脂の乗るオリーブハマチ・讃岐うどん</div>
             </Link>
             <Link 
-              href="/winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay" 
+              href="/winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-cyan-700 mb-1">尾道・千光寺初詣＆しまなみオコゼ</div>
               <div className="text-slate-500 text-xs">坂の街の冬晴れパノラマと尾道ラーメン・瀬戸内旬魚の名宿</div>
             </Link>
             <Link 
-              href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay" 
+              href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-cyan-700 mb-1">鳴門海峡の冬渦潮と鳴門鯛</div>
               <div className="text-slate-500 text-xs">大塚国際美術館と鳴門温泉・荒波が育む絶品鳴門わかめ</div>
             </Link>
             <Link 
-              href="/winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay" 
+              href="/winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-cyan-700 mb-1">高知城冬景色と土佐天然クエ鍋</div>
               <div className="text-slate-500 text-xs">ひろめ市場の冬鰹藁焼きタタキ・幻の高級魚クエと土佐あかうし</div>
             </Link>
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-cyan-900 text-white hover:bg-cyan-950 transition-all block flex flex-col justify-center items-center text-center font-bold"
             >
               <span>全国の冬特集一覧を見る →</span>

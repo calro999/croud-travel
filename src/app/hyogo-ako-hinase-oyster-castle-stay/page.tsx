@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '兵庫・赤穂＆日生：赤穂城跡・播磨灘インフィニティ温泉＆坂越かき宿 厳選ガイド',
     description: '忠臣蔵のふるさと国史跡「赤穂城跡」と大石神社、瀬戸内海・播磨灘の水平線と一体になる「赤穂温泉」絶景インフィニティ露天風呂、清浄海域で育つプリプリのブランド「坂越かき」・日生名物「カキオコ」、天然塩の赤穂塩づくり体験宿を徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/hyogo-ako-hinase-oyster-castle-stay',
+    url: 'https://croud-travel.pages.dev/hyogo-ako-hinase-oyster-castle-stay/',
   },
 };
 

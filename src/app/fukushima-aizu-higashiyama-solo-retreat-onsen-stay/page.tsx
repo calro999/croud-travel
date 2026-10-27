@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '会津東山温泉ひとり旅・湯川渓谷美おこもり：竹久夢二・土方歳三ゆかりの自噴泉・会津郷土料理！会津藩の歴史薫る奥座敷厳選3宿',
     description: '会津若松駅から周遊バスで約15分！湯川沿いで複数の源泉かけ流し湯船と歴史ある建築美を誇る「くろつぎ宿 新滝」、高台の展望露天風呂から会津城下町の夜景を一望する「くつろぎ宿 千代滝」、湯川のせせらぎを間近に感じる「元湯有馬屋」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/fukushima-aizu-higashiyama-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/fukushima-aizu-higashiyama-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/fukushima-aizu-higashiyama-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/fukushima-aizu-higashiyama-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【会津東山温泉ひとり旅・湯川渓谷美おこもり】竹久夢二・土方歳三ゆかりの自噴泉・会津郷土料理！会津藩の歴史薫る奥座敷厳選3宿","item":"https://croud-travel.pages.dev/fukushima-aizu-higashiyama-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【会津東山温泉ひとり旅・湯川渓谷美おこもり】竹久夢二・土方歳三ゆかりの自噴泉・会津郷土料理！会津藩の歴史薫る奥座敷厳選3宿","item":"https://croud-travel.pages.dev/fukushima-aizu-higashiyama-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

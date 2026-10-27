@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '長崎・平戸温泉郷で過ごす冬の旅（11・12月）！特選平戸和牛会席！名宿5選',
     description: '11月から12月にかけて、長崎県北西端に浮かぶ歴史と異国情緒の島・平戸温泉郷の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -170,7 +170,7 @@ export default function WinterNagasakiHiradoPage() {
         'headline': "【11・12月長崎・平戸温泉郷の初冬黒潮絶景と天然クエ＆寒ヒラメ】幻の高級魚クエ鍋＆特選平戸和牛会席を堪能する城下町名宿5選",
         'description': "11月から12月にかけて、長崎県北西端に浮かぶ歴史と異国情緒の島・平戸温泉郷は、日本屈指の激流「平戸瀬戸」で身が引き締まった冬の味覚の王様「天然クエ（アラ）」と「寒ヒラメ」が最盛期を迎えます。日本初の西洋貿易港として栄えたオランダ商館跡やカトリック教会、青い海を見下ろす平戸城の歴史散策を楽しみ、夜は美肌効果抜群のナトリウム炭酸水素塩泉に浸かりながら満天の星と漁火を眺める至福の時間。とろける脂が絶品の幻の高級魚クエ鍋、透き通るヒラメの姿造り、そして全国のブランド牛のルーツとも称される特選平戸和牛の陶板ステーキを味わう厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -210,7 +210,7 @@ export default function WinterNagasakiHiradoPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-teal-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">長崎・平戸温泉郷</span>
           </nav>
@@ -247,7 +247,7 @@ export default function WinterNagasakiHiradoPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月長崎・平戸温泉郷】特選平戸和牛会席！名宿5選","item":"https://croud-travel.pages.dev/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月長崎・平戸温泉郷】特選平戸和牛会席！名宿5選","item":"https://croud-travel.pages.dev/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay/"}]}) }}
       />
         
         {/* Section 1: Season Context & Highlights */}
@@ -587,7 +587,7 @@ export default function WinterNagasakiHiradoPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
-              href="/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay"
+              href="/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">長崎・雲仙</span>
@@ -599,7 +599,7 @@ export default function WinterNagasakiHiradoPage() {
               </p>
             </Link>
             <Link 
-              href="/winter-saga-takeo-onsen-romon-saga-beef-stay"
+              href="/winter-saga-takeo-onsen-romon-saga-beef-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">佐賀・武雄</span>
@@ -611,7 +611,7 @@ export default function WinterNagasakiHiradoPage() {
               </p>
             </Link>
             <Link 
-              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay"
+              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">佐賀・嬉野</span>
@@ -623,7 +623,7 @@ export default function WinterNagasakiHiradoPage() {
               </p>
             </Link>
             <Link 
-              href="/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay"
+              href="/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">熊本・天草</span>

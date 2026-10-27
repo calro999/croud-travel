@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三大古道＆歴史巡礼の山林トレッキング名宿×ふるさと納税厳選ガイド熊野古道・木曽路・鯖街道',
     description: '千年の祈りと交易の歴史が刻まれた石畳！和歌山「熊野古道」世界遺産の杉木立と川湯・湯の峰温泉老舗旅館、長野・岐阜「中山道木曽路」妻籠宿・馬籠宿の格子戸の町並みと木曽ヒノキ露天風呂宿、福井「鯖街道」御食国若狭と京を結ぶ熊川宿と焼き鯖・若狭フグ会席。歴史ロマンと自然に抱かれるトレッキングステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-ancient-trails-historic-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-ancient-trails-historic-stay/',
     siteName: 'トラベル総合ナビ',
     locale: 'ja_JP',
     type: 'article',
@@ -774,7 +774,7 @@ export default function Page() {
             
             <Link
               key="0"
-              href="/furusato-tax-historical-kaido-post-town-ryokan-stay"
+              href="/furusato-tax-historical-kaido-post-town-ryokan-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -787,7 +787,7 @@ export default function Page() {
             
             <Link
               key="1"
-              href="/furusato-tax-ise-kumano-sacred-power-spot-stay"
+              href="/furusato-tax-ise-kumano-sacred-power-spot-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -800,7 +800,7 @@ export default function Page() {
             
             <Link
               key="2"
-              href="/furusato-tax-literary-heritage-historic-onsen-stay"
+              href="/furusato-tax-literary-heritage-historic-onsen-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">

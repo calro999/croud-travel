@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：標高1,000m以上の絶景パノラマ！ロープウェイ直結＆雲上展望山頂ホテル5選',
     description: '2026年最新！中央アルプス・蔵王・八甲田など、ロープウェイで登る雲上の山頂リゾートホテル5選。眼下に広がる雲海とパノラマ展望露天風呂の感動。',
-    url: 'https://croud-travel.pages.dev/super-panoramic-ropeway-mountain-top-hotel-stay',
+    url: 'https://croud-travel.pages.dev/super-panoramic-ropeway-mountain-top-hotel-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/super-panoramic-ropeway-mountain-top-hotel-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/super-panoramic-ropeway-mountain-top-hotel-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">雲上パノラマ×山頂展望温泉</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             下界の喧騒をはるか遠くに望む標高1,000m以上の雲上世界。ロープウェイに乗って訪れる山頂ホテルでは、朝は幻想的な雲海、夕方は山々を染める夕暮れ、夜は満天の星空が広がります。大自然の圧倒的スケールを体感できる絶景マウンテンリゾートをご紹介します。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】標高1,000m以上の絶景パノラマ！ロープウェイ直結＆雲上展望山頂ホテル5選" url="https://croud-travel.pages.dev/super-panoramic-ropeway-mountain-top-hotel-stay" />
+            <ShareButtons title="【2026年】標高1,000m以上の絶景パノラマ！ロープウェイ直結＆雲上展望山頂ホテル5選" url="https://croud-travel.pages.dev/super-panoramic-ropeway-mountain-top-hotel-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】標高1,000m以上の絶景パノラマ！ロープウェイ直結＆雲上展望山頂ホテル5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/super-panoramic-ropeway-mountain-top-hotel-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】標高1,000m以上の絶景パノラマ！ロープウェイ直結＆雲上展望山頂ホテル5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/super-panoramic-ropeway-mountain-top-hotel-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '那須で過ごす冬の旅（11・12月）！名物立ち湯と極上那須黒毛和牛！名宿5選',
     description: '11月中旬から12月の初冬、雄大な茶臼岳をはじめとする那須連山が白銀の初雪に覆われ、高原全体が静謐な冬の静けさに包まれる季節。',
-    url: 'https://croud-travel.pages.dev/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -56,7 +56,7 @@ export default function TochigiNasuItamuroWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -379,7 +379,7 @@ export default function TochigiNasuItamuroWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月那須】名物立ち湯と極上那須黒毛和牛！名宿5選","item":"https://croud-travel.pages.dev/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月那須】名物立ち湯と極上那須黒毛和牛！名宿5選","item":"https://croud-travel.pages.dev/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay/"}]}) }}
       />
 
         {/* Introduction Section */}
@@ -687,21 +687,21 @@ export default function TochigiNasuItamuroWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay" 
+              href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">栃木・那須温泉郷</span>
               <p className="font-bold text-stone-800 line-clamp-2">開湯1300年鹿の湯の白濁硫黄泉と雪見露天風呂・那須黒毛和牛名宿</p>
             </Link>
             <Link 
-              href="/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay" 
+              href="/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">栃木・塩原温泉郷</span>
               <p className="font-bold text-stone-800 line-clamp-2">箒川渓谷の雪景色と名物塩原大根・とちぎ和牛すき焼きを味わう宿</p>
             </Link>
             <Link 
-              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay" 
+              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">栃木・奥日光湯元温泉</span>

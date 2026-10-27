@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: '日本三大奇景＆奇岩怪石ジオパーク・絶景パノラマ温泉宿×ふるさと納税厳選ガイド妙義山・寒霞渓・耶馬渓',
     description: '数百万年の風雨が刻んだ地球の彫刻美！群馬「妙義山」切り立つ荒々しい岩峰群と妙義温泉妙義グリーンホテル＆テラス、香川小豆島「寒霞渓」瀬戸内海を望む表十二景・裏八景とベイリゾートホテル小豆島、大分「耶馬渓」頼山陽が賞賛した奇岩絶壁と天ヶ瀬温泉成天閣。日本三大奇景の大自然ジオアートと名湯を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-strange-sceneries-geopark-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-strange-sceneries-geopark-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -393,7 +393,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-precipitous-coasts-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-precipitous-coasts-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大名勝断崖海岸＆パノラマ海宿×ふるさと納税完全ガイド
               </div>
@@ -402,7 +402,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-limestone-caves-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-limestone-caves-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大鍾乳洞＆地底神秘美・名湯宿×ふるさと納税完全ガイド
               </div>
@@ -411,7 +411,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-gorges-canyon-scenery-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-gorges-canyon-scenery-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税完全ガイド
               </div>

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '雲の上に広がる天空の別世界！早朝の雲海テラス＆天空パノラマ露天風呂ホテル',
     description: 'トマム・志賀高原・美ヶ原・秩父など早朝に発生する幻想的な雲海を一望できる天空リゾート。雲上の特等席テラスや標高の高い露天風呂からの大絶景。',
-    url: 'https://croud-travel.pages.dev/sea-of-clouds-sky-terrace-resort-stay',
+    url: 'https://croud-travel.pages.dev/sea-of-clouds-sky-terrace-resort-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/sea-of-clouds-sky-terrace-resort-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/sea-of-clouds-sky-terrace-resort-stay/"
   };
 
   const faqSchema = {
@@ -151,7 +151,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"雲の上に広がる天空の別世界！早朝の雲海テラス＆天空パノラマ露天風呂ホテル ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/sea-of-clouds-sky-terrace-resort-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"雲の上に広がる天空の別世界！早朝の雲海テラス＆天空パノラマ露天風呂ホテル ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/sea-of-clouds-sky-terrace-resort-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -166,7 +166,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">雲海テラス＆天空パノラマ宿</span>
       </nav>
@@ -281,7 +281,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="雲の上に広がる天空の別世界！早朝の雲海テラス＆天空パノラマ露天風呂ホテル"
-            url="https://croud-travel.pages.dev/sea-of-clouds-sky-terrace-resort-stay"
+            url="https://croud-travel.pages.dev/sea-of-clouds-sky-terrace-resort-stay/"
           />
         </div>
 

@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月千葉：成田山新勝寺の新春初詣！名宿5選',
     description: '11月から1月、成田山新勝寺は12月の納め不動から正月三が日・新春初詣にかけて全国から300万人以上の参拝客が集う日本屈指の祈りの季節を迎えます。',
-    url: 'https://croud-travel.pages.dev/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay',
+    url: 'https://croud-travel.pages.dev/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/184054/184054.jpg', width: 1200, height: 630, alt: '成田山新勝寺初詣と佐原小江戸名宿' }]
   }
@@ -147,13 +147,13 @@ export default function ChibaNaritasanSawaraPage() {
     '@type': 'ItemPage',
     name: "【11・12・1月千葉】成田山新勝寺の新春初詣＆表参道名物うなぎと北総小江戸・佐原の重伝建風情を巡る名宿5選",
     description: "11月から1月、成田山新勝寺は12月の納め不動から正月三が日・新春初詣にかけて全国から300万人以上の参拝客が集う日本屈指の祈りの季節を迎えます。開創千余年の大本堂に響く迫真の「御護摩祈祷」、香ばしいタレの煙が立ち込める表参道の名物「江戸前うなぎ蒲焼」、そして「北総の小江戸」として重伝建地区に指定される水郷・佐原の歴史的商家群と冬のこたつ舟めぐり。成田山門前の老舗宿や重伝建古民家オーベルジュ、天然温泉リゾートで心身を清め福を呼び込む冬の厳選名宿5選をご紹介します。",
-    url: 'https://croud-travel.pages.dev/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay',
+    url: 'https://croud-travel.pages.dev/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay/',
     breadcrumb: {
       '@type': 'BreadcrumbList',
       itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://croud-travel.pages.dev/' },
         { '@type': 'ListItem', position: 2, name: '冬の特集一覧', item: 'https://croud-travel.pages.dev/features/' },
-        { '@type': 'ListItem', position: 3, name: '成田山新勝寺初詣＆佐原小江戸ステイ', item: 'https://croud-travel.pages.dev/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay' }
+        { '@type': 'ListItem', position: 3, name: '成田山新勝寺初詣＆佐原小江戸ステイ', item: 'https://croud-travel.pages.dev/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay/' }
       ]
     },
     mainEntity: {
@@ -615,7 +615,7 @@ export default function ChibaNaritasanSawaraPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay" 
+              href="/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">埼玉・川越小江戸</span>
@@ -625,7 +625,7 @@ export default function ChibaNaritasanSawaraPage() {
             </Link>
 
             <Link 
-              href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay" 
+              href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">千葉・銚子犬吠埼</span>
@@ -635,7 +635,7 @@ export default function ChibaNaritasanSawaraPage() {
             </Link>
 
             <Link 
-              href="/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay" 
+              href="/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">千葉・南房総鴨川</span>
@@ -645,7 +645,7 @@ export default function ChibaNaritasanSawaraPage() {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay" 
+              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">神奈川・鎌倉＆江の島</span>
@@ -655,7 +655,7 @@ export default function ChibaNaritasanSawaraPage() {
             </Link>
 
             <Link 
-              href="/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay" 
+              href="/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">栃木・日光東照宮</span>
@@ -665,7 +665,7 @@ export default function ChibaNaritasanSawaraPage() {
             </Link>
 
             <Link 
-              href="/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay" 
+              href="/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">茨城・大洗＆那珂湊</span>

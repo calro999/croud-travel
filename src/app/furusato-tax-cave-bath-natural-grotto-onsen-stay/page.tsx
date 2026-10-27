@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '荒波迫る海食洞窟と神秘の巨岩風呂！全国の天然洞窟温泉＆名湯旅館×ふるさと納税厳選ガイド南紀勝浦・湯の峰・上諏訪',
     description: '打ち寄せる太平洋の怒濤を間近に望む大洞窟風呂から、太古の巨岩に囲まれた神秘の湯処まで！那智勝浦の巨大海食洞窟温泉「忘帰洞」「玄武洞」を擁する「ホテル浦島」、世界遺産・湯の峰温泉で槇風呂と天然蒸し風呂・洞窟の情緒を伝える「旅館あづまや」、諏訪湖畔で神秘の自家源泉と畳風呂の癒しを提供する「上諏訪温泉 しんゆ」。地球の息吹を肌で感じるワイルドで神秘的な名湯体験を、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-cave-bath-natural-grotto-onsen-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-cave-bath-natural-grotto-onsen-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoCaveBathNaturalGrottoStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">天然洞窟温泉＆名湯旅館特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoCaveBathNaturalGrottoStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/infinity-open-air-bath-ocean-view-stay"
+            href="/infinity-open-air-bath-ocean-view-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【海一望インフィニティ温泉×ふるさと納税】波打ち際と水平線に溶け込む宿
           </Link>
           <Link
-            href="/pure-100-percent-kakenagashi-onsen-stay"
+            href="/pure-100-percent-kakenagashi-onsen-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【源泉かけ流し100％名湯×ふるさと納税】加水加温なしの本物の温泉宿
           </Link>
           <Link
-            href="/furusato-tax-radium-radon-hotspring-healing-stay"
+            href="/furusato-tax-radium-radon-hotspring-healing-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【ラジウム・ラドン名湯温泉湯治×ふるさと納税】三朝・猿投・村杉の名宿
           </Link>
           <Link
-            href="/furusato-tax-literary-heritage-historic-onsen-stay"
+            href="/furusato-tax-literary-heritage-historic-onsen-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【世界遺産と名所を巡る名門宿×ふるさと納税】熊野・白川郷・日光の旅

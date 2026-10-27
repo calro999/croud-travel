@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '千葉・南房総館山温泉で過ごす冬の旅（11・12月）！極上かずさ和牛を味わう！名宿5選',
     description: '11月中旬から初冬の千葉・南房総（館山・千倉・白浜）は、厳しい寒さを忘れさせてくれる黒潮の恵みによる温暖な気候と。',
-    url: 'https://croud-travel.pages.dev/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay',
+    url: 'https://croud-travel.pages.dev/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -57,7 +57,7 @@ export default function ChibaMinamibosoTateyamaWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -344,7 +344,7 @@ export default function ChibaMinamibosoTateyamaWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 sm:pt-14 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月千葉・南房総館山温泉】極上かずさ和牛を味わう！名宿5選","item":"https://croud-travel.pages.dev/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月千葉・南房総館山温泉】極上かずさ和牛を味わう！名宿5選","item":"https://croud-travel.pages.dev/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -623,7 +623,7 @@ export default function ChibaMinamibosoTateyamaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay"
+              href="/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">神奈川・湯河原温泉</span>
@@ -636,7 +636,7 @@ export default function ChibaMinamibosoTateyamaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay"
+              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">静岡・熱海温泉</span>
@@ -649,7 +649,7 @@ export default function ChibaMinamibosoTateyamaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay"
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">神奈川・箱根芦ノ湖</span>

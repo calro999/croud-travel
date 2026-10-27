@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '奥日光中禅寺温泉で過ごす冬の旅（11・12月）！極上とちぎ和牛！名宿5選',
     description: '11月から12月にかけて栃木県・奥日光は、標高2,486mの霊峰・男体山が初雪の白銀を纏い。',
-    url: 'https://croud-travel.pages.dev/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay',
+    url: 'https://croud-travel.pages.dev/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -89,7 +89,7 @@ export default function OkunikkoChuzenjiWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay/"
         }
       },
       {
@@ -241,7 +241,7 @@ export default function OkunikkoChuzenjiWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月奥日光中禅寺温泉】極上とちぎ和牛！名宿5選","item":"https://croud-travel.pages.dev/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月奥日光中禅寺温泉】極上とちぎ和牛！名宿5選","item":"https://croud-travel.pages.dev/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay/"}]}) }}
       />
 
         {/* Section 1: Seasonal Overview */}
@@ -570,42 +570,42 @@ export default function OkunikkoChuzenjiWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay"
+              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">栃木・鬼怒川温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">鬼怒川渓谷美と雪見露天・とちぎ和牛ステーキの宿</h3>
             </Link>
             <Link 
-              href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay"
+              href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">栃木・那須温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">名湯鹿の湯と那須高原の白濁雪見露天・那須牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay"
+              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">群馬・草津温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">湯畑ライトアップと天下の名湯・上州牛すき焼きの宿</h3>
             </Link>
             <Link 
-              href="/winter-fukushima-bandai-atami-onsen-bihada-swan-stay"
+              href="/winter-fukushima-bandai-atami-onsen-bihada-swan-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">福島・磐梯熱海温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">猪苗代湖の白鳥と美肌の名湯・福島牛ステーキ会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-gunma-minakami-onsen-tanigawa-yukimi-stay"
+              href="/winter-gunma-minakami-onsen-tanigawa-yukimi-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">群馬・水上温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">谷川岳雪景色の渓流露天風呂と上州名物グルメの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>

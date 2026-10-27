@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：専属バリスタのスペシャリティコーヒー！自家焙煎BAR＆カフェラウンジ付き温泉宿5選',
     description: '2026年最新！世界各国のシングルオリジンコーヒーのハンドドリップや自家焙煎BAR、絶品スイーツが自慢の珈琲好きにおすすめの温泉リゾート5選。',
-    url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-artisan-coffee-bar',
+    url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-artisan-coffee-bar/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-private-onsen-with-artisan-coffee-bar"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-private-onsen-with-artisan-coffee-bar/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">自家焙煎珈琲×カフェラウンジ温泉</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             朝の澄んだ空気の中に漂う芳しい挽きたてコーヒーのアロマ。専属バリスタが丁寧に淹れるハンドドリップコーヒーやエスプレッソ、居心地の良いブックカフェラウンジ、そして湯量豊富な美肌温泉。珈琲と読書、名湯に癒やされる贅沢なリトリート。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】専属バリスタのスペシャリティコーヒー！自家焙煎BAR＆カフェラウンジ付き温泉宿5選" url="https://croud-travel.pages.dev/luxury-private-onsen-with-artisan-coffee-bar" />
+            <ShareButtons title="【2026年】専属バリスタのスペシャリティコーヒー！自家焙煎BAR＆カフェラウンジ付き温泉宿5選" url="https://croud-travel.pages.dev/luxury-private-onsen-with-artisan-coffee-bar/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】専属バリスタのスペシャリティコーヒー！自家焙煎BAR＆カフェラウンジ付き温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/luxury-private-onsen-with-artisan-coffee-bar"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】専属バリスタのスペシャリティコーヒー！自家焙煎BAR＆カフェラウンジ付き温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/luxury-private-onsen-with-artisan-coffee-bar/"}]}) }}
       />
         
         {/* クーポンバナー */}

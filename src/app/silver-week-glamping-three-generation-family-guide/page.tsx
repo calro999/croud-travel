@@ -185,7 +185,7 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
           </li>
           <li><span className="text-teal-300">/</span></li>
           <li>
-            <Link href="/prefectures" className="hover:text-teal-700 underline">グランピング特集</Link>
+            <Link href="/prefectures/" className="hover:text-teal-700 underline">グランピング特集</Link>
           </li>
           <li><span className="text-teal-300">/</span></li>
           <li className="text-teal-950 font-bold" aria-current="page">3世代家族グランピングガイド</li>
@@ -340,7 +340,7 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
                     {(hotel.nearestStation || hotel.access) && (
                       <div className="flex items-start gap-1">
                         <span className="text-teal-600 font-bold shrink-0">交通:</span>
-                        <span>{hotel.nearestStation ? `最寄駅: ${hotel.nearestStation} / ` : ""}{hotel.access}</span>
+                        <span>{hotel.nearestStation ? `最寄駅: ${hotel.nearestStation} // ` : ""}{hotel.access}</span>
                       </div>
                     )}
                   </div>
@@ -408,7 +408,7 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
           <Link
-            href="/kanto-baby-friendly-onsen-ryokan-guide"
+            href="/kanto-baby-friendly-onsen-ryokan-guide/"
             className="block p-4 rounded-2xl bg-white border border-teal-100 hover:border-teal-300 hover:shadow-md transition group"
           >
             <span className="text-[10px] font-bold text-teal-800 bg-teal-100/70 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -420,7 +420,7 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
           </Link>
 
           <Link
-            href="/family-kanazawa-1night2days-model-course"
+            href="/family-kanazawa-1night2days-model-course/"
             className="block p-4 rounded-2xl bg-white border border-teal-100 hover:border-teal-300 hover:shadow-md transition group"
           >
             <span className="text-[10px] font-bold text-teal-800 bg-teal-100/70 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -436,7 +436,7 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
       {/* 都道府県一覧への導線 */}
       <div className="text-center pt-4">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-stone-700 bg-white hover:bg-teal-50 border border-stone-200 px-8 py-3.5 rounded-2xl transition shadow-sm"
         >
           <span>🗾</span>

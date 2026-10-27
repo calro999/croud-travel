@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '渡月橋と竹林の小径を巡る！京都・嵐山温泉の名門旅館＆客室露天×ふるさと納税極上旅ガイド渡月亭・翠嵐・花伝抄',
     description: '世界遺産・天龍寺や渡月橋、嵯峨野の竹林に抱かれた京都随一の名勝・嵐山温泉！「京都 嵐山温泉 渡月亭」「翠嵐 ラグジュアリーコレクションホテル 京都」「京都 嵐山温泉 花伝抄」を、京都市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。伝統の京会席料理、保津川を望む天然温泉露天風呂、全館畳敷きの雅な和モダンステイを堪能。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kyoto-onsen-ryokan-machiya-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kyoto-onsen-ryokan-machiya-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoKyotoOnsenRyokanStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">京都嵐山温泉＆名門宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoKyotoOnsenRyokanStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/traditional-crafts-pottery-gold-leaf-washi-stay"
+            href="/traditional-crafts-pottery-gold-leaf-washi-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【伝統工芸・日本文化体験宿×ふるさと納税】京都・金沢の名門旅館
           </Link>
           <Link
-            href="/tangible-cultural-property-sukiya-carpenter-ryokan-stay"
+            href="/tangible-cultural-property-sukiya-carpenter-ryokan-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【登録有形文化財・宮大工数寄屋造り旅館×ふるさと納税】木造建築美の宿
           </Link>
           <Link
-            href="/furusato-tax-hakone-onsen-open-air-bath-stay"
+            href="/furusato-tax-hakone-onsen-open-air-bath-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【箱根湯本名湯温泉＆大露天風呂宿×ふるさと納税】ロマンスカー直通名宿
           </Link>
           <Link
-            href="/furusato-tax-atami-ocean-view-fireworks-hotel-stay"
+            href="/furusato-tax-atami-ocean-view-fireworks-hotel-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【熱海花火大会＆オーシャンビューホテル×ふるさと納税】特等席鑑賞

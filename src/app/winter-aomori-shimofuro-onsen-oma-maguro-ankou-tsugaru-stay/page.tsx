@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '下北半島下風呂温泉で過ごす冬の旅（11・12月）！津軽海峡冬景色と名物風間浦あ！名宿5選',
     description: '11月から12月にかけて、本州最北端・下北半島の津軽海峡沿いに位置する風間浦村の「下風呂温泉（しもふろおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay',
+    url: 'https://croud-travel.pages.dev/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterAomoriShimofuroPage() {
         'headline': "【11・12月青森・下北半島下風呂温泉】津軽海峡冬景色と名物風間浦あんこう・極重大間マグロと白濁硫黄泉を巡る名宿5選",
         'description': "11月から12月にかけて、本州最北端・下北半島の津軽海峡沿いに位置する風間浦村の「下風呂温泉（しもふろおんせん）」は、海峡を渡る寒風と初雪が舞う冬の旅情に包まれます。文豪・井上靖が名作『海峡』の執筆にあたり滞在したこの地は、室町時代から五百年以上の歴史を誇る秘湯。白濁した強い硫黄の香りを放つ「大湯」「新湯」など複数の源泉が湧き、対岸の北海道・恵山岬や海峡を照らすイカ釣り漁船の漁火を望む雪見風呂は圧巻です。さらに初冬の下風呂温泉を語る上で欠かせないのが、全国で唯一、生きたまま水揚げされる幻の極上魚「風間浦鮟鱇（かざまうらあんこう）」。鮮度抜群だからこそ味わえる透明なあんこうの刺身や濃厚な肝和え、熱々のあんこう鍋、そして近隣の大間港から届く「大間マグロ」。最果ての海峡温泉で心身を解き放つ至極の名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterAomoriShimofuroPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-sky-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">青森・下北半島下風呂温泉</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterAomoriShimofuroPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月下北半島下風呂温泉】津軽海峡冬景色と名物風間浦あ！名宿5選","item":"https://croud-travel.pages.dev/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月下北半島下風呂温泉】津軽海峡冬景色と名物風間浦あ！名宿5選","item":"https://croud-travel.pages.dev/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -531,7 +531,7 @@ export default function WinterAomoriShimofuroPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay"
+              href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">青森・浅虫温泉</span>
@@ -544,7 +544,7 @@ export default function WinterAomoriShimofuroPage() {
             </Link>
 
             <Link 
-              href="/winter-aomori-sukayu-hakkoda-yukimi-stay"
+              href="/winter-aomori-sukayu-hakkoda-yukimi-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">青森・酸ヶ湯温泉</span>
@@ -557,7 +557,7 @@ export default function WinterAomoriShimofuroPage() {
             </Link>
 
             <Link 
-              href="/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay"
+              href="/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">青森・奥入瀬渓流</span>

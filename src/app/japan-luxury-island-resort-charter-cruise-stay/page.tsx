@@ -478,7 +478,7 @@ export default function LuxuryPremiumHubPage() {
       {/* 47都道府県トップへのリンク */}
       <div className="text-center pt-8">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-stone-950 bg-white hover:bg-stone-50 border border-stone-300 px-8 py-3.5 rounded-2xl transition shadow-sm"
         >
           <span>🗾</span>

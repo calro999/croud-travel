@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '伊豆長岡温泉で過ごす冬の旅（11・12月）！金目鯛姿煮を味わう！名宿5選',
     description: '11月中旬から12月の初冬を迎えた中伊豆・伊豆の国市「伊豆長岡温泉」は、駿河湾からの温かな黒潮の風に守られた温暖な気候のもと。',
-    url: 'https://croud-travel.pages.dev/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -57,7 +57,7 @@ export default function ShizuokaIzunagaokaWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -380,7 +380,7 @@ export default function ShizuokaIzunagaokaWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月伊豆長岡温泉】金目鯛姿煮を味わう！名宿5選","item":"https://croud-travel.pages.dev/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月伊豆長岡温泉】金目鯛姿煮を味わう！名宿5選","item":"https://croud-travel.pages.dev/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay/"}]}) }}
       />
 
         {/* Introduction Section */}
@@ -687,7 +687,7 @@ export default function ShizuokaIzunagaokaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay"
+              href="/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">静岡・焼津温泉</span>
@@ -700,7 +700,7 @@ export default function ShizuokaIzunagaokaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay"
+              href="/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">千葉・南房総館山</span>
@@ -713,7 +713,7 @@ export default function ShizuokaIzunagaokaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay"
+              href="/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">静岡・浜名湖</span>

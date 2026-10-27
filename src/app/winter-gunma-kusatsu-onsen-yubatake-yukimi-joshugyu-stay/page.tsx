@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '草津温泉で過ごす冬の旅（11・12月）！名物上州牛すき焼き！名宿5選',
     description: '11月から12月にかけて、毎分3万2300リットル以上という日本一の自然湧出量を誇る東の横綱「草津温泉（くさつおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterGunmaKusatsuOnsenPage() {
         'headline': "【11・12月群馬・草津温泉の湯畑雪景色と日本一の名湯】名物上州牛すき焼き＆湯もみ体験・冬の酸性美肌泉を愉しむ名宿5選",
         'description': "11月から12月にかけて、毎分3万2300リットル以上という日本一の自然湧出量を誇る東の横綱「草津温泉（くさつおんせん）」は、標高約1200メートルの高原に初雪が舞い降り、温泉街の中心「湯畑（ゆばたけ）」から立ち上る豪快な湯けむりと冬のライトアップが織りなす最も幻想的な季節を迎えます。pH2前後の日本屈指の強酸性泉は、強力な殺菌力と新陳代謝促進効果を持ち、冷えた冬の身体を芯の芯まで熱く温めてくれます。西の河原公園の広大な雪見大露天風呂や熱乃湯の伝統「湯もみと踊り」。夕食には群馬の豊かな大自然が育んだ最高峰の黒毛和牛「上州牛（じょうしゅうぎゅう）」のすき焼きやしゃぶしゃぶ、冬に甘みを極める下仁田葱、名物舞茸料理。名実ともに日本を代表する名湯草津で、至福の冬籠りを叶える厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterGunmaKusatsuOnsenPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-emerald-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">群馬・草津温泉</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterGunmaKusatsuOnsenPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月草津温泉】名物上州牛すき焼き！名宿5選","item":"https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月草津温泉】名物上州牛すき焼き！名宿5選","item":"https://croud-travel.pages.dev/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay/"}]}) }}
       />
         
         {/* Intro Highlight Box */}
@@ -577,7 +577,7 @@ export default function WinterGunmaKusatsuOnsenPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay"
+              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">埼玉・秩父</span>
@@ -590,7 +590,7 @@ export default function WinterGunmaKusatsuOnsenPage() {
             </Link>
 
             <Link 
-              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay"
+              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">栃木・鬼怒川温泉</span>
@@ -603,7 +603,7 @@ export default function WinterGunmaKusatsuOnsenPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
+              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">長野・野沢温泉</span>

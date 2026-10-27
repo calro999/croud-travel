@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月山口：白蛇神社新春初詣！名宿5選',
     description: '冬の山口・岩国と周防大島は、水墨画のように美しい日本三名橋「錦帯橋」の雪化粧と、瀬戸内海の温暖な冬晴れが共存する魅力あふれる季節。',
-    url: 'https://croud-travel.pages.dev/winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/11295/11295.jpg', width: 1200, height: 630, alt: '錦帯橋の冬景色と錦帯橋温泉・高森牛会席' }]
   },
@@ -157,8 +157,8 @@ export default function YamaguchiIwakuniSuooshimaPage() {
         '@type': 'BreadcrumbList',
         'itemListElement': [
           { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '錦帯橋冬景色＆周防大島みかん鍋名宿', 'item': 'https://croud-travel.pages.dev/winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay' }
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features/' },
+          { '@type': 'ListItem', 'position': 3, 'name': '錦帯橋冬景色＆周防大島みかん鍋名宿', 'item': 'https://croud-travel.pages.dev/winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay/' }
         ]
       },
       {
@@ -598,37 +598,37 @@ export default function YamaguchiIwakuniSuooshimaPage() {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay"
+              href="/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-emerald-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-emerald-600 block"
             >
               【萩温泉】城下町の冬散策＆日本海の天然ふぐと長州牛名宿
             </Link>
             <Link
-              href="/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay"
+              href="/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-emerald-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-emerald-600 block"
             >
               【湯田温泉】白狐の湯＆本場天然とらふぐと長州黒毛和牛名宿
             </Link>
             <Link
-              href="/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay"
+              href="/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-emerald-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-emerald-600 block"
             >
               【宮島・厳島神社】冬の海中大鳥居＆ぷりぷり広島牡蠣と名湯宿
             </Link>
             <Link
-              href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay"
+              href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-emerald-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-emerald-600 block"
             >
               【長門湯本温泉】音信川の冬灯り＆川床足湯と旬のふぐ料理名宿
             </Link>
             <Link
-              href="/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay"
+              href="/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-emerald-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-emerald-600 block"
             >
               【鞆の浦温泉】冬の夕暮れ港町風景＆瀬戸内寒鯛めし名宿
             </Link>
             <Link
-              href="/features"
+              href="/features/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-emerald-300 hover:shadow-xs transition-all text-sm font-bold text-emerald-700 block text-center flex items-center justify-center gap-1"
             >
               <span>全国の冬旅特集一覧を見る</span>

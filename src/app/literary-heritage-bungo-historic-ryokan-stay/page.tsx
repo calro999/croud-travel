@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '文豪たちが筆を走らせた名湯！名作誕生の舞台・文学ゆかりの歴史ある老舗旅館',
     description: '城崎・伊豆湯ヶ島・道後など志賀直哉、川端康成、夏目漱石ら文豪が逗留し名作を執筆した老舗宿。当時の面影を残す客室や庭園、名湯を愛でる旅。',
-    url: 'https://croud-travel.pages.dev/literary-heritage-bungo-historic-ryokan-stay',
+    url: 'https://croud-travel.pages.dev/literary-heritage-bungo-historic-ryokan-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/literary-heritage-bungo-historic-ryokan-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/literary-heritage-bungo-historic-ryokan-stay/"
   };
 
   const faqSchema = {
@@ -151,7 +151,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"文豪たちが筆を走らせた名湯！名作誕生の舞台・文学ゆかりの歴史ある老舗旅館 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/literary-heritage-bungo-historic-ryokan-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"文豪たちが筆を走らせた名湯！名作誕生の舞台・文学ゆかりの歴史ある老舗旅館 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/literary-heritage-bungo-historic-ryokan-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -166,7 +166,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">文豪ゆかりの名湯・老舗旅館</span>
       </nav>
@@ -281,7 +281,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="文豪たちが筆を走らせた名湯！名作誕生の舞台・文学ゆかりの歴史ある老舗旅館"
-            url="https://croud-travel.pages.dev/literary-heritage-bungo-historic-ryokan-stay"
+            url="https://croud-travel.pages.dev/literary-heritage-bungo-historic-ryokan-stay/"
           />
         </div>
 

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: '日本三大砂丘＆雄大な風紋美と夕日オーシャンビュー宿×ふるさと納税厳選ガイド鳥取砂丘・中田島砂丘・吹上浜',
     description: '海と風が描く奇跡の造形美！鳥取「鳥取砂丘」日本海の夕日と自家源泉の鳥取温泉観水庭こぜにや、静岡浜松「中田島砂丘」遠州灘の風紋と天然温泉スーパーホテル浜松出世の湯、鹿児島薩摩半島「吹上浜」47km続く日本最長の白砂青松と砂むし温泉指宿白水館。日本三大砂丘の絶景と温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -396,7 +396,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-coastal-sceneries-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-coastal-sceneries-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大白砂青松＆海岸絶景パノラマ宿×ふるさと納税完全ガイド
               </div>
@@ -405,7 +405,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-beautiful-ports-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-beautiful-ports-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大美港＆夜景オーシャンビュー宿×ふるさと納税完全ガイド
               </div>
@@ -414,7 +414,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-strange-sceneries-geopark-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-strange-sceneries-geopark-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大奇景＆奇岩絶壁パノラマ宿×ふるさと納税完全ガイド
               </div>

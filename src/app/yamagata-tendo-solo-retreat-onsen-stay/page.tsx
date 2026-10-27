@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '天童温泉ひとり旅・将棋駒と名湯おこもり：山寺立石寺パノラマ・源泉かけ流し・山形牛＆さくらんぼ！山形新幹線直通の果樹王国厳選3宿',
     description: '日本一の将棋駒の街・天童温泉！源泉かけ流しの巨石露天風呂とプライベート空間が評判の最高峰「湯の香 松の湯」、滝が流れる大浴場と料理長特選の山形牛会席が自慢の「天童ホテル」、展望大浴場と屋上露天風呂を備える「栄屋ホテル」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/yamagata-tendo-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/yamagata-tendo-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/yamagata-tendo-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/yamagata-tendo-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【天童温泉ひとり旅・将棋駒と名湯おこもり】山寺立石寺パノラマ・源泉かけ流し・山形牛＆さくらんぼ！山形新幹線直通の果樹王国厳選3宿","item":"https://croud-travel.pages.dev/yamagata-tendo-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【天童温泉ひとり旅・将棋駒と名湯おこもり】山寺立石寺パノラマ・源泉かけ流し・山形牛＆さくらんぼ！山形新幹線直通の果樹王国厳選3宿","item":"https://croud-travel.pages.dev/yamagata-tendo-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '滋賀・長浜太閤温泉で過ごす冬の旅（11・12月）！極上近江牛すき焼き！名宿5選',
     description: '11月から12月にかけて、日本最大の湖・琵琶湖の東岸に位置する長浜は、シベリアから優美なコハクチョウや水鳥が飛来し。',
-    url: 'https://croud-travel.pages.dev/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function ShigaNagahamaWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay/"
         },
         "headline": "【11・12月滋賀・長浜太閤温泉の初冬琵琶湖夕景と名物天然鴨鍋】秀吉ゆかりの含鉄泉＆極上近江牛すき焼きを堪能する湖北名宿5選",
         "description": "11月から12月にかけて、日本最大の湖・琵琶湖の東岸に位置する長浜は、シベリアから優美なコハクチョウや水鳥が飛来し、湖面を黄金色に染め上げる夕暮れパノラマが美しい初冬の旅情に包まれます。戦国武将・豊臣秀吉公が長浜城築城の際に湧き出たと伝わる「長浜太閤温泉」は、有馬の金泉を彷彿とさせる茶褐色の含鉄炭酸泉で、身体の芯から温まる名湯。さらに11月15日の鴨猟解禁とともに始まる湖北の冬の伝統食「天然真鴨（マガモ）の鴨鍋（かもすき）」と、三大和牛「近江牛」の霜降りすき焼きを堪能する厳選名宿5選を詳しく解説します。",
@@ -100,13 +100,13 @@ export default function ShigaNagahamaWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "滋賀・長浜太閤温泉 初冬琵琶湖夕景と天然鴨鍋の宿",
-            "item": "https://croud-travel.pages.dev/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay/"
           }
         ]
       },
@@ -630,7 +630,7 @@ export default function ShigaNagahamaWinterFeature() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-2">
             <Link 
-              href="/winter-shiga-ogoto-onsen-biwako-omigyu-stay"
+              href="/winter-shiga-ogoto-onsen-biwako-omigyu-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">雄琴・美肌の湯</span>
@@ -639,7 +639,7 @@ export default function ShigaNagahamaWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay"
+              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-rose-500/40 text-rose-200 font-bold text-[10px]">湯の花・ぼたん鍋</span>
@@ -648,7 +648,7 @@ export default function ShigaNagahamaWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay"
+              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">有馬・金泉銀泉</span>
@@ -657,7 +657,7 @@ export default function ShigaNagahamaWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay"
+              href="/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">湯村・松葉ガニ＆但馬牛</span>

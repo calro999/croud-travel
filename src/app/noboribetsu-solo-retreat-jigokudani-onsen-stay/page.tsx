@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '登別温泉ひとり旅・至高の湯治おこもり：地獄谷の地熱パノラマ・日本屈指の多種泉質めぐり・白濁硫黄泉！大自然の驚異に癒やされる厳選3宿',
     description: '新千歳空港や札幌から直通バス運行！35の浴槽と7つの泉質を誇る温泉天国「第一滝本館」、白濁の硫黄泉とバイキングが人気の「登別万世閣」、ローマ風ドーム大浴場と鬼サウナが話題の「登別グランドホテル」を楽天APIデータに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/noboribetsu-solo-retreat-jigokudani-onsen-stay',
+    url: 'https://croud-travel.pages.dev/noboribetsu-solo-retreat-jigokudani-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T16:30:00+09:00',
     dateModified: '2026-10-19T16:30:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/noboribetsu-solo-retreat-jigokudani-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/noboribetsu-solo-retreat-jigokudani-onsen-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【登別温泉ひとり旅・至高の湯治おこもり】地獄谷の地熱パノラマ・日本屈指の多種泉質めぐり・白濁硫黄泉！大自然の驚異に癒やされる厳選3宿","item":"https://croud-travel.pages.dev/noboribetsu-solo-retreat-jigokudani-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【登別温泉ひとり旅・至高の湯治おこもり】地獄谷の地熱パノラマ・日本屈指の多種泉質めぐり・白濁硫黄泉！大自然の驚異に癒やされる厳選3宿","item":"https://croud-travel.pages.dev/noboribetsu-solo-retreat-jigokudani-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

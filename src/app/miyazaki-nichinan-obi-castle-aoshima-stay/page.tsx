@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '宮崎・日南＆青島：青島神社・サンメッセ日南モアイ＆飫肥城下町・地頭鶏宿 厳選ガイド',
     description: '青い海に浮かぶ神話の小島「青島神社」と天然記念物「鬼の洗濯板」、イースター島公認の完全復刻モアイ像「サンメッセ日南」、断崖絶壁の洞窟に鎮座する「鵜戸神宮」運玉投げ、九州の小京都「飫肥城下町」飫肥杉武家屋敷と宮崎地頭鶏・伊勢海老宿を徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/miyazaki-nichinan-obi-castle-aoshima-stay',
+    url: 'https://croud-travel.pages.dev/miyazaki-nichinan-obi-castle-aoshima-stay/',
   },
 };
 

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '北海道・十勝川温泉で過ごす冬の旅（11・12月）！極上十勝牛ステーキ！名宿5選',
     description: '11月から12月にかけて、広大な十勝平野に位置する十勝川温泉は、シベリアから優雅なオオハクチョウが越冬のために飛来し。',
-    url: 'https://croud-travel.pages.dev/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function HokkaidoTokachigawaWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay/"
         },
         "headline": "【11・12月北海道・十勝川温泉の初冬白鳥飛来と美肌遺産モール温泉】極上十勝牛ステーキ＆十勝野チーズ会席を愉しむ名宿5選",
         "description": "11月から12月にかけて、広大な十勝平野に位置する十勝川温泉は、シベリアから優雅なオオハクチョウが越冬のために飛来し、澄み渡る「十勝晴れ」の青空と雪化粧した日高山脈が織りなす息を呑むような初冬の絶景を迎えます。世界でも極めて希少な太古の植物堆積層から湧く「植物性モール温泉」は、北海道遺産にも選定された天然の美肌化粧水。湯上がりに肌が驚くほどすべすべになり、体の芯までポカポカに温まります。夕食にはジューシーな十勝牛・十勝和牛のステーキ、濃厚な十勝野ラクレットチーズ、越冬野菜を贅沢に味わう厳選名宿5選を徹底解説します。",
@@ -100,13 +100,13 @@ export default function HokkaidoTokachigawaWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "北海道・十勝川温泉 初冬白鳥飛来と植物性モール温泉の宿",
-            "item": "https://croud-travel.pages.dev/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay"
+            "item": "https://croud-travel.pages.dev/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay/"
           }
         ]
       },
@@ -630,7 +630,7 @@ export default function HokkaidoTokachigawaWinterFeature() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-2">
             <Link 
-              href="/winter-hokkaido-toyako-onsen-lakeview-illumination-stay"
+              href="/winter-hokkaido-toyako-onsen-lakeview-illumination-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-sky-500/40 text-sky-200 font-bold text-[10px]">洞爺湖・雪景色</span>
@@ -639,7 +639,7 @@ export default function HokkaidoTokachigawaWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-hokkaido-sounkyo-onsen-snow-gorge-stay"
+              href="/winter-hokkaido-sounkyo-onsen-snow-gorge-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-blue-500/40 text-blue-200 font-bold text-[10px]">層雲峡・峡谷美</span>
@@ -648,7 +648,7 @@ export default function HokkaidoTokachigawaWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay"
+              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">登別・地獄谷雪見</span>
@@ -657,7 +657,7 @@ export default function HokkaidoTokachigawaWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay"
+              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">乳頭温泉・秘湯雪見</span>

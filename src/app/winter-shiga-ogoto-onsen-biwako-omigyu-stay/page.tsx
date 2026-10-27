@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '滋賀・おごと温泉で過ごす冬の旅（11・12月）！特選近江牛！名宿5選',
     description: '11月から12月にかけて、京都駅からJR湖西線でわずか20分という好立地にありながら、雄大な琵琶湖の湖畔に静かに佇む「おごと温泉（雄琴温泉）」。',
-    url: 'https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function ShigaOgotoWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay/"
         },
         "headline": "【11・12月滋賀・おごと温泉の初冬びわ湖景観と開湯千二百年美肌霊泉】比叡山初雪・特選近江牛＆冬限定真鴨鍋会席の宿5選",
         "description": "11月から12月にかけて、京都駅からJR湖西線でわずか20分という好立地にありながら、雄大な琵琶湖の湖畔に静かに佇む「おごと温泉（雄琴温泉）」。平安時代初頭、比叡山延暦寺を開いた伝教大師・最澄によって開湯されたと伝わる歴史ある古湯は、pH9.0を誇る高アルカリ性単純温泉で、肌の角質をやさしく落としてしっとり潤す「美肌の湯」として名高い名泉です。初冬には比叡山の峰々が初冠雪の白をまとい、朝夕の琵琶湖は澄み切った水面が神秘的な茜色に染まります。夕食には日本三大和牛「近江牛」のとろける霜降りステーキやすき焼き、そして冬の琵琶湖の風物詩である天然真鴨の「鴨鍋」を味わう厳選名旅館5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function ShigaOgotoWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "滋賀・おごと温泉 初冬びわ湖景観と開湯1200年美肌霊泉・近江牛の宿",
-            "item": "https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-shiga-ogoto-onsen-biwako-omigyu-stay/"
           }
         ]
       },
@@ -595,42 +595,42 @@ export default function ShigaOgotoWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay"
+              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">京都・湯の花温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">亀岡の朝霧雲海と冬名物ぼたん鍋・京の奥座敷で静寂に浸る大人の隠れ宿</h3>
             </Link>
             <Link 
-              href="/winter-kyoto-arashiyama-onsen-yudofu-stay"
+              href="/winter-kyoto-arashiyama-onsen-yudofu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">京都・嵐山温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">渡月橋の初冬雪景観と名物湯豆腐・嵐山花灯路を歩く風雅な温泉旅館</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay"
+              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">兵庫・有馬温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">日本最古泉の赤湯金泉・銀泉と最高級神戸牛ステーキを堪能する名宿</h3>
             </Link>
             <Link 
-              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay"
+              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">岐阜・下呂温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">冬花火ミュージカルと日本三名泉のとろとろ美肌湯・飛騨牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-fukui-awara-onsen-echizen-crab-stay"
+              href="/winter-fukui-awara-onsen-echizen-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">福井・あわら温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">11月解禁越前ガニ（黄色いタグ付き）のフルコースと関西の奥座敷名湯</h3>
             </Link>
             <Link 
-              href="/winter-hot-pot-gibier-wild-game-satoyama-stay"
+              href="/winter-hot-pot-gibier-wild-game-satoyama-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">全国冬の味覚特集</span>

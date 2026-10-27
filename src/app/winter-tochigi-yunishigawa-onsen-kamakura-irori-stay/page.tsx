@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月栃木：湯西川温泉の雪見露天風呂と名！名宿5選',
     description: '11月から1月、日光国立公園の最深部・平家落人伝説が息づく秘境「湯西川（ゆにしがわ）温泉」は、深山幽谷の静寂と白銀の雪景色に包まれます。',
-    url: 'https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay',
+    url: 'https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -47,7 +47,7 @@ export default function TochigiYunishigawaOnsenWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay/"
         },
         "headline": "【11・12・1月栃木】平家落人の隠れ里・湯西川温泉の雪見露天風呂と名物平家囲炉裏会席＆日本夜景遺産かまくら祭を巡る名宿5選",
         "description": "11月から1月、日光国立公園の最深部・平家落人伝説が息づく秘境「湯西川（ゆにしがわ）温泉」は、深山幽谷の静寂と白銀の雪景色に包まれます。壇ノ浦の合戦に敗れた平家の一門が隠れ住んだとされるこの里には、茅葺き屋根の古民家や清らかな湯西川のせせらぎ、そして何百年も受け継がれてきた「平家囲炉裏料理」の文化が色濃く残ります。囲炉裏端の炭火で香ばしく焼き上げる川魚の塩焼きや名物ばんだい餅、野鳥やジビエの串焼き、竹筒で温める熱燗「かっぽ酒」は、冬の冷えた体に染み渡る至極の郷土の味。アルカリ性単純温泉の柔らかな源泉掛け流し露天風呂から眺める粉雪の渓谷美は格別です。さらに1月下旬から河川敷を数千個のミニかまくらが幻想的に照らし出す「日本夜景遺産・湯西川温泉かまくら祭」の開催時期に合わせて訪れたい、歴史と温もりに満ちた厳選5宿を詳しくご案内します。",
@@ -68,7 +68,7 @@ export default function TochigiYunishigawaOnsenWinterPage() {
             "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay"
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay/"
       },
       {
         "@type": "BreadcrumbList",
@@ -84,13 +84,13 @@ export default function TochigiYunishigawaOnsenWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "栃木・湯西川温泉の囲炉裏料理とかまくら祭特集",
-            "item": "https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay"
+            "item": "https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay/"
           }
         ]
       },
@@ -559,21 +559,21 @@ export default function TochigiYunishigawaOnsenWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay" 
+              href="/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">栃木・板室温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">開湯1000年「下野の薬湯」板室温泉・名物立ち湯と極上那須黒毛和牛名宿</p>
             </Link>
             <Link 
-              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay" 
+              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">栃木・鬼怒川温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">鬼怒川渓谷の雪景色と名湯・とちぎ和牛すき焼き＆冬の絶景リゾート</p>
             </Link>
             <Link 
-              href="/winter-gunma-oigami-onsen-fukiware-joshugyu-soba-stay" 
+              href="/winter-gunma-oigami-onsen-fukiware-joshugyu-soba-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">群馬・老神温泉</span>

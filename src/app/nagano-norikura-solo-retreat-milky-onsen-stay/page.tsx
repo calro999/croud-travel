@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '信州・乗鞍高原温泉ひとり旅・北アルプス白濁硫黄泉おこもり：乳白色源泉掛け流し・満天星空露天風呂・信州蕎麦と岩魚！乗鞍岳山麓の秘湯厳選3宿',
     description: '乗鞍岳の標高1,500mに湧く日本屈指の白濁ミルキー温泉・信州乗鞍高原温泉！囲炉裏料理と濃厚な乳白色露天風呂が口コミ★4.6超の「旅館 仙山乗鞍」、星空と大自然に囲まれたペンション「ピーポロ乗鞍」、純度100%掛け流しの濁り湯が評判の「温泉宿 けやき山荘」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/nagano-norikura-solo-retreat-milky-onsen-stay',
+    url: 'https://croud-travel.pages.dev/nagano-norikura-solo-retreat-milky-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/nagano-norikura-solo-retreat-milky-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/nagano-norikura-solo-retreat-milky-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【信州・乗鞍高原温泉ひとり旅・北アルプス白濁硫黄泉おこもり】乳白色源泉掛け流し・満天星空露天風呂・信州蕎麦と岩魚！乗鞍岳山麓の秘湯厳選3宿","item":"https://croud-travel.pages.dev/nagano-norikura-solo-retreat-milky-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【信州・乗鞍高原温泉ひとり旅・北アルプス白濁硫黄泉おこもり】乳白色源泉掛け流し・満天星空露天風呂・信州蕎麦と岩魚！乗鞍岳山麓の秘湯厳選3宿","item":"https://croud-travel.pages.dev/nagano-norikura-solo-retreat-milky-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

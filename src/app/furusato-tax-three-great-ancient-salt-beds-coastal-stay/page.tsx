@@ -60,7 +60,7 @@ export default function FurusatoRound66ArticlePage() {
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">
           <Link href="/" className="hover:text-stone-900 underline transition">ホーム</Link>
           <span>/</span>
-          <Link href="/travel-savings-guide" className="hover:text-stone-900 underline transition">旅行節約ハブ</Link>
+          <Link href="/travel-savings-guide/" className="hover:text-stone-900 underline transition">旅行節約ハブ</Link>
           <span>/</span>
           <span className="text-stone-800 font-medium">日本三大塩田・伝統製塩とシーサイド温泉ステイ特集</span>
         </nav>
@@ -89,7 +89,7 @@ export default function FurusatoRound66ArticlePage() {
               楽天ふるさと納税トラベルクーポンを獲得する →
             </a>
             <Link
-              href="/furusato-tax-travel-beginners-complete-guide"
+              href="/furusato-tax-travel-beginners-complete-guide/"
               className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-amber-200 font-bold px-5 py-3 rounded-2xl border border-amber-300/20 text-xs sm:text-sm transition"
             >
               📖 初めての方向け完全マニュアル
@@ -343,7 +343,7 @@ export default function FurusatoRound66ArticlePage() {
           <ul className="grid sm:grid-cols-2 gap-2">
 
               <li key="furusato-tax-three-great-ancient-salt-trails-heritage-stay">
-                <Link href="/furusato-tax-three-great-ancient-salt-trails-heritage-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-three-great-ancient-salt-trails-heritage-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大塩の道＆歴史古道トレッキング宿（千国・三州・秋葉）</span>
                 </Link>
@@ -351,7 +351,7 @@ export default function FurusatoRound66ArticlePage() {
     
 
               <li key="furusato-tax-three-great-coastal-sceneries-stay">
-                <Link href="/furusato-tax-three-great-coastal-sceneries-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-three-great-coastal-sceneries-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大海岸美＆オーシャンビュー温泉リゾート宿（三陸・若狭・日南）</span>
                 </Link>
@@ -359,7 +359,7 @@ export default function FurusatoRound66ArticlePage() {
     
 
               <li key="furusato-tax-three-great-precipitous-coasts-stay">
-                <Link href="/furusato-tax-three-great-precipitous-coasts-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-three-great-precipitous-coasts-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大断崖絶壁・奇岩パノラマ海岸宿（東尋坊・三段壁・鵜ノ巣断崖）</span>
                 </Link>
@@ -367,7 +367,7 @@ export default function FurusatoRound66ArticlePage() {
     
 
               <li key="furusato-tax-three-great-clear-rivers-stay">
-                <Link href="/furusato-tax-three-great-clear-rivers-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-three-great-clear-rivers-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大清流＆奇跡の透明度温泉宿（四万十・長良川・柿田川）</span>
                 </Link>
@@ -385,7 +385,7 @@ export default function FurusatoRound66ArticlePage() {
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
-            href="/travel-savings-guide"
+            href="/travel-savings-guide/"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 text-stone-950 font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition text-sm"
           >
             🏨 旅行節約総合ハブページを見る ➔

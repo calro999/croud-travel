@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月埼玉：武州和牛と天然温泉に寛ぐ！名宿5選',
     description: '冬の首都圏近郊で圧倒的な賑わいと幻想美を見せる埼玉・大宮＆さいたま新都心。2400年以上の歴史を誇る武蔵一宮「氷川神社」への新春200万人開。',
-    url: 'https://croud-travel.pages.dev/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay',
+    url: 'https://croud-travel.pages.dev/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/13564/13564.jpg' , alt: "11・12・1月埼玉：武州和牛と天然温泉に寛ぐ！名宿5選"}]
   }
@@ -150,7 +150,7 @@ export default function SaitamaOmiyaHikawaWinterPage() {
       {
         "@type": "WebPage",
         "@id": "https://croud-travel.pages.dev/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay#webpage",
-        "url": "https://croud-travel.pages.dev/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay",
+        "url": "https://croud-travel.pages.dev/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay/",
         "name": "【11・12・1月埼玉】武蔵一宮氷川神社新春初詣＆けやきひろばイルミネーション！武州和牛と天然温泉に寛ぐ名宿5選",
         "description": "冬の首都圏近郊で圧倒的な賑わいと幻想美を見せる埼玉・大宮＆さいたま新都心。2400年以上の歴史を誇る武蔵一宮「氷川神社」への新春200万人開運初詣と約2kmに及ぶ日本一長い氷川参道散策、さいたま新都心「けやきひろば」を15万球の青と白のLEDが包み込む光の森イルミネーション。深谷ねぎや極上の武州和牛、武蔵野うどんの熱々肉汁うどんに舌鼓を打ち、天然温泉や洗練のシティホテルで寛ぐ極上の冬旅。楽天APIから最新取得した大宮・新都心の特選宿5選を徹底特集します。",
         "inLanguage": "ja",
@@ -174,13 +174,13 @@ export default function SaitamaOmiyaHikawaWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "大宮氷川神社初詣＆けやきひろば宿",
-            "item": "https://croud-travel.pages.dev/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay"
+            "item": "https://croud-travel.pages.dev/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay/"
           }
         ]
       },
@@ -273,7 +273,7 @@ export default function SaitamaOmiyaHikawaWinterPage() {
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-teal-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-teal-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-teal-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">大宮氷川神社初詣＆けやきひろば宿</li>
         </ol>
@@ -596,42 +596,42 @@ export default function SaitamaOmiyaHikawaWinterPage() {
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 pt-2">
             <Link 
-              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay"
+              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-teal-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">秩父夜祭の屋台曳行＆長瀞雪景色！武州牛と美肌温泉宿</span>
               <span className="text-[11px] text-teal-600 font-medium mt-2 flex items-center gap-1">埼玉・秩父特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay"
+              href="/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-teal-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">小江戸川越喜多院初詣＆だるま市！名物うなぎと蔵造り宿</span>
               <span className="text-[11px] text-teal-600 font-medium mt-2 flex items-center gap-1">埼玉・川越特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay"
+              href="/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-teal-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">お台場レインボー花火＆豊洲千客万来！東京ベイ夜景と温泉宿</span>
               <span className="text-[11px] text-teal-600 font-medium mt-2 flex items-center gap-1">東京・お台場豊洲特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay"
+              href="/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-teal-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">あしかがフラワーパーク日本三大イルミ＆佐野厄除け大師初詣宿</span>
               <span className="text-[11px] text-teal-600 font-medium mt-2 flex items-center gap-1">栃木・足利佐野特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay"
+              href="/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-teal-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">筑波山神社新春初詣＆関東平野大夜景！常陸牛と天然温泉宿</span>
               <span className="text-[11px] text-teal-600 font-medium mt-2 flex items-center gap-1">茨城・筑波山特集を読む →</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-teal-50 p-3.5 rounded-2xl border border-teal-200 hover:bg-teal-100 transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-teal-900 line-clamp-2">全国の冬旅・新春初詣＆温泉特選特集一覧</span>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '那須ロープウェイ茶臼岳の絨毯紅葉＆那須高原リゾート！開湯1300年名湯旅館×ふるさと納税厳選ガイド栃木',
     description: '10月上旬〜10月下旬に見頃を迎える「那須高原・茶臼岳（ちゃうすだけ）」。山全体が赤や黄色に染まる紅葉絨毯をロープウェイから一望、那須御用邸の歴史薫る名湯「那須温泉 山楽」「大丸温泉旅館」「かんすい苑 覚楽」でとちぎ和牛ステーキや野趣あふれる川の湯露天風呂を堪能。楽天ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-nasu-kougen-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-nasu-kougen-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">栃木・那須高原 那須ロープウェイ茶臼岳紅葉＆御用邸名湯宿特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '由布奥座敷で過ごす冬の旅（11・12月）！300個の赤提灯揺れる江戸石！名宿5選',
     description: '11月中旬から12月の初冬、名峰・由布岳の裾野が静かな冬枯れの装いを見せる頃、由布院温泉から車でわずか15分ほど山あいに分け入った渓谷に位置する注目の宿と観光モデルコースをご案内します。',
-    url: 'https://croud-travel.pages.dev/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay',
+    url: 'https://croud-travel.pages.dev/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -56,7 +56,7 @@ export default function OitaYunohiraYufuWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -379,7 +379,7 @@ export default function OitaYunohiraYufuWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月由布奥座敷】300個の赤提灯揺れる江戸石！名宿5選","item":"https://croud-travel.pages.dev/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月由布奥座敷】300個の赤提灯揺れる江戸石！名宿5選","item":"https://croud-travel.pages.dev/winter-oita-yunohira-onsen-ishidatami-bungogyu-kamonabe-stay/"}]}) }}
       />
 
         {/* Introduction Section */}
@@ -690,21 +690,21 @@ export default function OitaYunohiraYufuWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay" 
+              href="/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">大分・由布院温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">金鱗湖の幻想的な冬朝霧と極上豊後牛・由布岳を望む露天名宿</p>
             </Link>
             <Link 
-              href="/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay" 
+              href="/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">大分・日田＆天ヶ瀬</span>
               <p className="font-bold text-stone-800 line-clamp-2">豆田町の初冬蔵屋敷散策と玖珠川清流露天風呂・豊後牛名宿</p>
             </Link>
             <Link 
-              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay" 
+              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">熊本・黒川温泉</span>

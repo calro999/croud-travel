@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月金沢：兼六園の雪吊り冬景色と奥金沢！名宿5選',
     description: '11月から1月、古都・金沢は日本三名園「兼六園」の雪吊りと白銀の金沢城、ひがし茶屋街の格子窓に舞い散る雪が息を呑む情緒を醸し出す最高の冬旅シ。',
-    url: 'https://croud-travel.pages.dev/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function IshikawaKanazawaYuwakuWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function IshikawaKanazawaYuwakuWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '金沢兼六園雪吊りと湯涌温泉香箱ガニ名宿',
-        item: 'https://croud-travel.pages.dev/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay'
+        item: 'https://croud-travel.pages.dev/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay/'
       }
     ]
   };
@@ -625,21 +625,21 @@ export default function IshikawaKanazawaYuwakuWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-kanazawa-kenrokuen-yukizuri-stay" 
+              href="/winter-kanazawa-kenrokuen-yukizuri-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-rose-700 font-bold block text-[10px]">石川・金沢兼六園</span>
               <p className="font-bold text-stone-800 line-clamp-2">兼六園雪吊り冬景色と金沢城・冬の味覚加能ガニを味わう加賀名宿</p>
             </Link>
             <Link 
-              href="/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay" 
+              href="/winter-ishikawa-awazu-onsen-kanogani-notogyu-kaga-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-rose-700 font-bold block text-[10px]">石川・加賀粟津温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">開湯1300年粟津温泉の美肌湯と加能ガニ・能登牛を堪能する老舗宿</p>
             </Link>
             <Link 
-              href="/winter-toyama-amaharashi-shinminato-tateyama-crab-stay" 
+              href="/winter-toyama-amaharashi-shinminato-tateyama-crab-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-rose-700 font-bold block text-[10px]">富山・雨晴海岸＆新湊</span>

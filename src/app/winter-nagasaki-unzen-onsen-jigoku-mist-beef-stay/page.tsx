@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '長崎雲仙温泉で過ごす冬の旅（11・12月）！雲仙地獄の湯煙！名宿5選',
     description: '11月下旬から12月にかけて雲仙普賢岳や仁田峠を純白に染める自然の芸術「霧氷（花ぼうろ）」と。',
-    url: 'https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -89,7 +89,7 @@ export default function UnzenOnsenWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay/"
         }
       },
       {
@@ -313,7 +313,7 @@ export default function UnzenOnsenWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月長崎雲仙温泉】雲仙地獄の湯煙！名宿5選","item":"https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月長崎雲仙温泉】雲仙地獄の湯煙！名宿5選","item":"https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -699,42 +699,42 @@ export default function UnzenOnsenWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-nagasaki-huistenbosch-christmas-lights-stay"
+              href="/winter-nagasaki-huistenbosch-christmas-lights-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">長崎・ハウステンボス</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">ハウステンボス世界最大級クリスマスイルミネーションのホテル</h3>
             </Link>
             <Link 
-              href="/winter-saga-takeo-onsen-romon-saga-beef-stay"
+              href="/winter-saga-takeo-onsen-romon-saga-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">佐賀・武雄温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">武雄温泉 国重文朱塗り楼門と最高峰A5佐賀牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay"
+              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">佐賀・嬉野温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">嬉野温泉 日本三大美肌の湯ととろける温泉湯豆腐の宿</h3>
             </Link>
             <Link 
-              href="/winter-kumamoto-kurokawa-yuakari-illumination-stay"
+              href="/winter-kumamoto-kurokawa-yuakari-illumination-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">熊本・黒川温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">黒川温泉 冬の湯あかり竹灯籠と渓流露天風呂の宿</h3>
             </Link>
             <Link 
-              href="/winter-oita-beppu-jigokumushi-hotspring-stay"
+              href="/winter-oita-beppu-jigokumushi-hotspring-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">大分・別府温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">別府温泉郷 立ち上る湯けむりと地獄蒸し・関アジ関サバの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">特集一覧</span>

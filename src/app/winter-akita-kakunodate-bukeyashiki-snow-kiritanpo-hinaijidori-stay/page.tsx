@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月秋田：陸奥の小京都！名宿5選',
     description: '冬の秋田・角館と田沢湖は、黒板塀が続く武家屋敷通りに純白の粉雪が降り積もり、日本一の深さを誇る田沢湖が神秘的な瑠璃色を湛える極上の雪国世界。',
-    url: 'https://croud-travel.pages.dev/winter-akita-kakunodate-bukeyashiki-snow-kiritanpo-hinaijidori-stay',
+    url: 'https://croud-travel.pages.dev/winter-akita-kakunodate-bukeyashiki-snow-kiritanpo-hinaijidori-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/178536/178536.jpg', width: 1200, height: 630, alt: '角館武家屋敷雪景色と田沢湖' }]
   },
@@ -156,8 +156,8 @@ export default function AkitaKakunodatePage() {
         '@type': 'BreadcrumbList',
         'itemListElement': [
           { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '角館武家屋敷雪景色と比内地鶏きりたんぽ鍋名宿', 'item': 'https://croud-travel.pages.dev/winter-akita-kakunodate-bukeyashiki-snow-kiritanpo-hinaijidori-stay' }
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features/' },
+          { '@type': 'ListItem', 'position': 3, 'name': '角館武家屋敷雪景色と比内地鶏きりたんぽ鍋名宿', 'item': 'https://croud-travel.pages.dev/winter-akita-kakunodate-bukeyashiki-snow-kiritanpo-hinaijidori-stay/' }
         ]
       },
       {
@@ -562,42 +562,42 @@ export default function AkitaKakunodatePage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay" 
+              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-sky-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-sky-700 mb-1">乳頭温泉郷の秘湯と雪見風呂</div>
               <div className="text-slate-500 text-xs">七湯めぐりと湯治文化・本場きりたんぽ鍋の名宿特集</div>
             </Link>
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay" 
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-sky-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-sky-700 mb-1">山形・銀山温泉の大正ロマン雪景色</div>
               <div className="text-slate-500 text-xs">ガス灯揺れる白銀の温泉街と尾花沢牛の極上会席</div>
             </Link>
             <Link 
-              href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay" 
+              href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-sky-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-sky-700 mb-1">青森・八戸の銀鯖＆せんべい汁</div>
               <div className="text-slate-500 text-xs">蕪嶋神社初詣とみろく横丁・館鼻岸壁朝市の冬美食</div>
             </Link>
             <Link 
-              href="/winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay" 
+              href="/winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-sky-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-sky-700 mb-1">岩手・平泉中尊寺＆猊鼻渓こたつ舟</div>
               <div className="text-slate-500 text-xs">世界遺産の雪景色と前沢牛すき焼きの名宿ガイド</div>
             </Link>
             <Link 
-              href="/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay" 
+              href="/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-sky-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-sky-700 mb-1">宮城・鳴子温泉郷の湯めぐり</div>
               <div className="text-slate-500 text-xs">多彩な源泉と仙台牛ステーキ・冬のこけし文化探訪</div>
             </Link>
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-sky-900 text-white hover:bg-sky-950 transition-all block flex flex-col justify-center items-center text-center font-bold"
             >
               <span>全国の冬特集一覧を見る →</span>

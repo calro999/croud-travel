@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '札幌すすきの出張・サウナステイ：サウナ付大浴場・すすきの徒歩すぐ・朝食海鮮丼！北の歓楽街ビジネスを格上げする厳選3宿',
     description: '新千歳空港から快速エアポートで札幌へ！本格木造サウナと水風呂・豪華朝食バイキングが絶賛される「ベッセルホテルカンパーナすすきの」、ルーフトップサウナと洗練空間が話題の「ホテル・アンドルームス札幌すすきの」、すすきの駅直近で快適デスクと上質ステイを約束する「ダイワロイネットホテル札幌すすきの」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/sapporo-susukino-solo-business-sauna-stay',
+    url: 'https://croud-travel.pages.dev/sapporo-susukino-solo-business-sauna-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/sapporo-susukino-solo-business-sauna-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/sapporo-susukino-solo-business-sauna-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【札幌すすきの出張・サウナステイ】サウナ付大浴場・すすきの徒歩すぐ・朝食海鮮丼！北の歓楽街ビジネスを格上げする厳選3宿","item":"https://croud-travel.pages.dev/sapporo-susukino-solo-business-sauna-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【札幌すすきの出張・サウナステイ】サウナ付大浴場・すすきの徒歩すぐ・朝食海鮮丼！北の歓楽街ビジネスを格上げする厳選3宿","item":"https://croud-travel.pages.dev/sapporo-susukino-solo-business-sauna-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

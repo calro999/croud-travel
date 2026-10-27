@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '磐梯熱海温泉で過ごす冬の旅（11・12月）！萩姫伝説の美肌ぬる湯！名宿5選',
     description: '11月から12月にかけて、福島県の中央部・郡山市の奥座敷として清流五百川（ごひゃくがわ）沿いに広がる「磐梯熱海温泉（ばんだいあたみおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterFukushimaBandaiatamiPage() {
         'headline': "【11・12月福島・磐梯熱海温泉】萩姫伝説の美肌ぬる湯・初冬猪苗代湖の白鳥と極上福島牛・地酒を味わう名宿5選",
         'description': "11月から12月にかけて、福島県の中央部・郡山市の奥座敷として清流五百川（ごひゃくがわ）沿いに広がる「磐梯熱海温泉（ばんだいあたみおんせん）」は、初冬の澄み渡る冷気と静寂に包まれます。南北朝時代、難病に苦しんでいた京の都の美しい「萩姫（はぎひめ）」が不動明王のお告げに従い、都から数えて五百本目の川を遡って辿り着き、湯に浸かることで見事に全快したというロマンあふれる「萩姫伝説」が息づく古湯です。pH9前後のアルカリ性単純温泉は、肌にまとわりつくように滑らかで、古くから「美人をつくるぬる湯」として親しまれてきました。初冬には近隣の猪苗代湖にシベリアから何千羽もの白鳥が飛来し、冠雪した磐梯山を背景に優雅に舞う姿は息を呑む絶景です。夕食にはきめ細やかな霜降りと上品な脂の甘みが特徴の「福島牛」の陶板焼きやすき焼き、郡山伝統の鯉料理、全国新酒鑑評会で金賞を誇る福島地酒のしぼりたて新酒。初冬の中通りで心身を解きほぐす厳選名宿5選を詳しく紹介します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterFukushimaBandaiatamiPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-rose-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">福島・磐梯熱海温泉</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterFukushimaBandaiatamiPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月磐梯熱海温泉】萩姫伝説の美肌ぬる湯！名宿5選","item":"https://croud-travel.pages.dev/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月磐梯熱海温泉】萩姫伝説の美肌ぬる湯！名宿5選","item":"https://croud-travel.pages.dev/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -531,7 +531,7 @@ export default function WinterFukushimaBandaiatamiPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay"
+              href="/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">福島・高湯温泉＆土湯</span>
@@ -544,7 +544,7 @@ export default function WinterFukushimaBandaiatamiPage() {
             </Link>
 
             <Link 
-              href="/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay"
+              href="/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">福島・裏磐梯温泉</span>
@@ -557,7 +557,7 @@ export default function WinterFukushimaBandaiatamiPage() {
             </Link>
 
             <Link 
-              href="/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay"
+              href="/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">福島・会津東山温泉</span>

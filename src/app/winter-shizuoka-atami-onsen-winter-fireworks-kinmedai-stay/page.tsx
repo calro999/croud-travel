@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '熱海温泉で過ごす冬の旅（11・12月）！インフィニティ温泉と極上金目鯛姿煮！名宿5選',
     description: '11月から12月にかけて澄み切った冬の夜空に大輪の花火が咲き誇る伝統の「熱海海上花火大会」と、都心から新幹線で最速35分の名湯「熱海温泉」。',
-    url: 'https://croud-travel.pages.dev/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -89,7 +89,7 @@ export default function AtamiOnsenWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/"
         }
       },
       {
@@ -313,7 +313,7 @@ export default function AtamiOnsenWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月熱海温泉】インフィニティ温泉と極上金目鯛姿煮！名宿5選","item":"https://croud-travel.pages.dev/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月熱海温泉】インフィニティ温泉と極上金目鯛姿煮！名宿5選","item":"https://croud-travel.pages.dev/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -730,42 +730,42 @@ export default function AtamiOnsenWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay"
+              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">静岡・修善寺温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">修善寺温泉 遅咲き紅葉と竹林の小径・伊豆最古の名湯宿</h3>
             </Link>
             <Link 
-              href="/winter-shizuoka-izukogen-granillumi-ito-onsen-stay"
+              href="/winter-shizuoka-izukogen-granillumi-ito-onsen-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">静岡・伊豆高原＆伊東温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">伊豆高原グランイルミと伊東温泉 オーシャンビュー露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay"
+              href="/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">神奈川・湯河原温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">湯河原温泉 万葉の古湯と文豪ゆかりの隠れ家会席宿</h3>
             </Link>
             <Link 
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay"
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">神奈川・箱根温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">箱根温泉 澄んだ冬空に輝く富士山絶景露天風呂の宿</h3>
             </Link>
             <Link 
-              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay"
+              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">山梨・石和温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">石和温泉 甲州ヌーボー解禁ワインと甲州牛ステーキ会席の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">特集一覧</span>

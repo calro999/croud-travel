@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: '世界最大級の吊橋・明石海峡大橋を間近に仰ぐ兵庫県明石・加古川・播磨灘エリア。11〜1月は澄み渡る冬晴れの下。',
   keywords: '柿本神社 初詣, 明石 魚の棚商店街, 本場 明石焼き 玉子焼, 明石海峡大橋 冬 ライトアップ, 加古川 かつめし, ホテルキャッスルプラザ 明石, シーサイドホテル舞子ビラ神戸, グリーンヒルホテル明石, 兵庫 冬 観光',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay/'
   },
   openGraph: {
     title: '11・12・1月兵庫：明石海峡大橋を望む人麿山「柿！名宿5選',
     description: '世界最大級の吊橋・明石海峡大橋を間近に仰ぐ兵庫県明石・加古川・播磨灘エリア。11〜1月は澄み渡る冬晴れの下。',
-    url: 'https://croud-travel.pages.dev/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay',
+    url: 'https://croud-travel.pages.dev/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay/',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -57,7 +57,7 @@ export default function HyogoAkashiWinterFeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay"
+      "@id": "https://croud-travel.pages.dev/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay/"
     }
   };
 
@@ -75,13 +75,13 @@ export default function HyogoAkashiWinterFeaturePage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "兵庫・明石＆加古川 冬の初詣と播磨灘グルメ",
-        "item": "https://croud-travel.pages.dev/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay"
+        "item": "https://croud-travel.pages.dev/winter-hyogo-akashi-uonotana-kakimoto-shrine-hatsumode-akashiyaki-stay/"
       }
     ]
   };
@@ -275,7 +275,7 @@ export default function HyogoAkashiWinterFeaturePage() {
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-blue-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-blue-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-blue-600 transition">特集一覧</Link>
             <span>/</span>
             <Link href="/prefectures/hyogo/" className="hover:text-blue-600 transition">兵庫県</Link>
             <span>/</span>
@@ -613,7 +613,7 @@ export default function HyogoAkashiWinterFeaturePage() {
               柿本神社の神聖な新春初詣、活気溢れる魚の棚商店街、出汁香る本場明石焼き、そして加古川かつめしと明石海峡大橋の冬夜景。海の幸と歴史の温もりが、新年の旅路を笑顔と満足感で満たしてくれます。
             </p>
             <div className="flex flex-wrap items-center justify-center gap-3 text-xs">
-              <Link href="/features" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
+              <Link href="/features/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 ← 特集一覧に戻る
               </Link>
               <Link href="/prefectures/hyogo/" className="px-4 py-2 rounded-full bg-blue-50 hover:bg-blue-100 text-blue-700 font-semibold transition">

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '海と空に溶け込む究極の開放感！全国の絶景インフィニティ露天風呂名門宿',
     description: '熱海・南紀白浜・赤穂・指宿など湯船と水平線が一体化するインフィニティ温泉。波音を聞きながら海風に包まれる、一生に一度は訪れたい極上リゾート。',
-    url: 'https://croud-travel.pages.dev/infinity-ocean-onsen-panoramic-luxury-stay',
+    url: 'https://croud-travel.pages.dev/infinity-ocean-onsen-panoramic-luxury-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/infinity-ocean-onsen-panoramic-luxury-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/infinity-ocean-onsen-panoramic-luxury-stay/"
   };
 
   const faqSchema = {
@@ -151,7 +151,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"海と空に溶け込む究極の開放感！全国の絶景インフィニティ露天風呂名門宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/infinity-ocean-onsen-panoramic-luxury-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"海と空に溶け込む究極の開放感！全国の絶景インフィニティ露天風呂名門宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/infinity-ocean-onsen-panoramic-luxury-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -166,7 +166,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">インフィニティ露天風呂名宿</span>
       </nav>
@@ -281,7 +281,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="海と空に溶け込む究極の開放感！全国の絶景インフィニティ露天風呂名門宿"
-            url="https://croud-travel.pages.dev/infinity-ocean-onsen-panoramic-luxury-stay"
+            url="https://croud-travel.pages.dev/infinity-ocean-onsen-panoramic-luxury-stay/"
           />
         </div>
 

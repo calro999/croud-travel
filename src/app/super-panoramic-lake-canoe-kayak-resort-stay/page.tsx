@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：透明な水面を滑るレイクカヌー＆SUP！神秘の湖畔パノラマ温泉リゾート5選',
     description: '2026年最新！支笏湖・中禅寺湖・本栖湖など、鏡のような美しい湖でカヌーやSUPを楽しみ、湖畔を望む展望温泉で寛げるレイクサイドアクティブ宿5選。',
-    url: 'https://croud-travel.pages.dev/super-panoramic-lake-canoe-kayak-resort-stay',
+    url: 'https://croud-travel.pages.dev/super-panoramic-lake-canoe-kayak-resort-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/super-panoramic-lake-canoe-kayak-resort-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/super-panoramic-lake-canoe-kayak-resort-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">湖畔カヌー×レイクビュー温泉</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             朝霧立ち込める静寂の湖に漕ぎ出すカヌーの旅。水底まで透き通るクリスタルブルーの水面、水鳥の羽音、周囲の山々が織りなすパノラマビュー。心地よい疲労感をレイクサイドの展望露天風呂で癒やす、自然と一体になる休日。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】透明な水面を滑るレイクカヌー＆SUP！神秘の湖畔パノラマ温泉リゾート5選" url="https://croud-travel.pages.dev/super-panoramic-lake-canoe-kayak-resort-stay" />
+            <ShareButtons title="【2026年】透明な水面を滑るレイクカヌー＆SUP！神秘の湖畔パノラマ温泉リゾート5選" url="https://croud-travel.pages.dev/super-panoramic-lake-canoe-kayak-resort-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】透明な水面を滑るレイクカヌー＆SUP！神秘の湖畔パノラマ温泉リゾート5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/super-panoramic-lake-canoe-kayak-resort-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】透明な水面を滑るレイクカヌー＆SUP！神秘の湖畔パノラマ温泉リゾート5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/super-panoramic-lake-canoe-kayak-resort-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

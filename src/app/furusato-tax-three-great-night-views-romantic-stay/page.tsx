@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '日本三大夜景＆煌めく光の海・100万ドルのパノラマ名宿×ふるさと納税厳選ガイド函館・神戸・長崎',
     description: '息をのむ美しさを誇る日本三大夜景！北海道函館「函館山」津軽海峡と函館湾が挟む光の扇・望楼NOGUCHI函館、兵庫神戸「摩耶山・掬星台」大阪湾から神戸港へ広がる宝石の海・有馬温泉欽山、長崎「稲佐山」世界新三大夜景のすり鉢状パノラマ・ガーデンテラス長崎ホテル＆リゾート。ロマンチックな絶景夜景と極上温泉・ディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-night-views-romantic-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-night-views-romantic-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -419,7 +419,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-castles-historic-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-castles-historic-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大名城＆不落の巨城を望む城見ステイ×ふるさと納税完全ガイド
               </div>
@@ -427,7 +427,7 @@ export default function Page() {
                 熊本・名古屋・大阪。
               </p>
             </Link>
-            <Link href="/furusato-tax-three-great-torii-sacred-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-torii-sacred-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大鳥居＆古都の聖域・参道名宿×ふるさと納税完全ガイド
               </div>
@@ -435,7 +435,7 @@ export default function Page() {
                 厳島・春日大社・気比神宮。
               </p>
             </Link>
-            <Link href="/furusato-tax-three-great-illuminations-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-illuminations-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大イルミネーション＆幻想的な光の祭典名宿ふるさと納税完全ガイド
               </div>

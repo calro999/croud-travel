@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月広島：千光寺新春開運初詣！名宿5選',
     description: '冬の広島・尾道は、箱庭のような尾道水道と島々のシルエットが夕日に黄金色に染まる年間最高峰の絶景シーズン。',
-    url: 'https://croud-travel.pages.dev/winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay',
+    url: 'https://croud-travel.pages.dev/winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/783/783.jpg', width: 1200, height: 630, alt: '尾道水道の夕景と千光寺' }]
   },
@@ -156,8 +156,8 @@ export default function HiroshimaOnomichiSenkojiPage() {
         '@type': 'BreadcrumbList',
         'itemListElement': [
           { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '尾道水道夕景・千光寺初詣とオコゼ名宿', 'item': 'https://croud-travel.pages.dev/winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay' }
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features/' },
+          { '@type': 'ListItem', 'position': 3, 'name': '尾道水道夕景・千光寺初詣とオコゼ名宿', 'item': 'https://croud-travel.pages.dev/winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay/' }
         ]
       },
       {
@@ -593,37 +593,37 @@ export default function HiroshimaOnomichiSenkojiPage() {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-hiroshima-miyajima-etajima-oyster-onsen-stay"
+              href="/winter-hiroshima-miyajima-etajima-oyster-onsen-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-cyan-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-cyan-600 block"
             >
               【宮島・江田島】世界遺産厳島神社新春初詣と冬の焼き牡蠣・温泉名宿
             </Link>
             <Link
-              href="/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay"
+              href="/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-cyan-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-cyan-600 block"
             >
               【鞆の浦温泉】常夜燈と冬の瀬戸内真鯛茶漬け・幻の峠下牛名宿
             </Link>
             <Link
-              href="/winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay"
+              href="/winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-cyan-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-cyan-600 block"
             >
               【岩国・周防大島】日本三名橋錦帯橋の冬景色と名物みかん鍋・高森牛名宿
             </Link>
             <Link
-              href="/winter-kagawa-takamatsu-ritsurin-yashima-olive-hamachi-udon-stay"
+              href="/winter-kagawa-takamatsu-ritsurin-yashima-olive-hamachi-udon-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-cyan-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-cyan-600 block"
             >
               【高松・屋島】特別名勝栗林公園の冬景色と極上オリーブハマチ名宿
             </Link>
             <Link
-              href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay"
+              href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-cyan-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-cyan-600 block"
             >
               【道後温泉本館】日本最古の名湯再生と宇和島鯛めし・伊予牛名宿
             </Link>
             <Link
-              href="/features"
+              href="/features/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-cyan-300 hover:shadow-xs transition-all text-sm font-bold text-cyan-700 block text-center flex items-center justify-center gap-1"
             >
               <span>全国の冬旅特集一覧を見る</span>

@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '名勝「天竜峡」ライン下り渓谷紅葉＆美肌の湯「昼神温泉」・阿智村日本一の星空ナイトツアー',
     description: '10月下旬〜11月中旬に天竜川の奇岩を紅葉が染める天竜峡。pH9.7を誇る日本屈指のとろとろ美肌泉「昼神温泉」と阿智村の満天の星空、信州アルプス牛会席をふるさと納税で堪能する秋の南信州旅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-tenryukyo-hirugami-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-tenryukyo-hirugami-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-tenryukyo-hirugami-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-tenryukyo-hirugami-autumn-stay/"
   };
 
   const faqSchema = {
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"名勝「天竜峡」ライン下り渓谷紅葉＆美肌の湯「昼神温泉」・阿智村日本一の星空ナイトツアー | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-tenryukyo-hirugami-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"名勝「天竜峡」ライン下り渓谷紅葉＆美肌の湯「昼神温泉」・阿智村日本一の星空ナイトツアー | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-tenryukyo-hirugami-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

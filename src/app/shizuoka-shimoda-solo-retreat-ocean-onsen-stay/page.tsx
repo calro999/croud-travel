@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこもり：自家源泉掛け流し・下田金目鯛づくし・海一望露天風呂！特急サフィール直通の港町厳選3宿',
     description: '幕末開国の舞台とエメラルドグリーンの白浜海岸を抱く南伊豆・下田温泉！里山の静寂と敷地内自噴の極上掛け流し温泉が口コミ★4.7超の「下田セントラルホテル」、海一望の展望大浴場と金目鯛会席が評判の「下田ベイクロシオ」、白浜海岸直結のオーシャンリゾート「ホテル伊豆急」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/shizuoka-shimoda-solo-retreat-ocean-onsen-stay',
+    url: 'https://croud-travel.pages.dev/shizuoka-shimoda-solo-retreat-ocean-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-shimoda-solo-retreat-ocean-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-shimoda-solo-retreat-ocean-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこもり】自家源泉掛け流し・下田金目鯛づくし・海一望露天風呂！特急サフィール直通の港町厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-shimoda-solo-retreat-ocean-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこもり】自家源泉掛け流し・下田金目鯛づくし・海一望露天風呂！特急サフィール直通の港町厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-shimoda-solo-retreat-ocean-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

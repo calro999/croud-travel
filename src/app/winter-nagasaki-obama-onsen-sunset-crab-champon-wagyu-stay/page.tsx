@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '長崎・雲仙小浜温泉で過ごす冬の旅（11・12月）！橘湾の茜色落日と熱量日本一1！名宿5選',
     description: '11月中旬から初冬の長崎・島原半島西岸に位置する小浜温泉（おばまおんせん）は、澄み切った冬空の下。',
-    url: 'https://croud-travel.pages.dev/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -57,7 +57,7 @@ export default function NagasakiObamaWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -344,7 +344,7 @@ export default function NagasakiObamaWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 sm:pt-14 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月長崎・雲仙小浜温泉】橘湾の茜色落日と熱量日本一1！名宿5選","item":"https://croud-travel.pages.dev/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月長崎・雲仙小浜温泉】橘湾の茜色落日と熱量日本一1！名宿5選","item":"https://croud-travel.pages.dev/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -623,7 +623,7 @@ export default function NagasakiObamaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay"
+              href="/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">長崎・雲仙温泉</span>
@@ -636,7 +636,7 @@ export default function NagasakiObamaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay"
+              href="/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">熊本・杖立温泉</span>
@@ -649,7 +649,7 @@ export default function NagasakiObamaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-saga-takeo-onsen-romon-saga-beef-stay"
+              href="/winter-saga-takeo-onsen-romon-saga-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">佐賀・武雄温泉</span>

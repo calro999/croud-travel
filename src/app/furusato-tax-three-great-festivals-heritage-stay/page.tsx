@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三大美祭＆伝統工芸・山鉾の街の老舗旅館×ふるさと納税厳選ガイド高山祭・秩父夜祭・祇園祭',
     description: '日本が世界に誇る絢爛豪華な伝統美！岐阜「高山祭」屋台のからくり人形と飛騨牛会席、埼玉「秩父夜祭」冬の夜空を焦がす笠鉾・屋台と奥秩父温泉、京都「祇園祭」石畳の路地に佇む京町家旅館と京懐石。ユネスコ無形文化遺産の歴史絵巻を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-festivals-heritage-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-festivals-heritage-stay/',
     siteName: 'トラベル総合ナビ',
     locale: 'ja_JP',
     type: 'article',
@@ -770,7 +770,7 @@ export default function Page() {
             
             <Link
               key="0"
-              href="/furusato-tax-three-famous-bridges-heritage-stay"
+              href="/furusato-tax-three-famous-bridges-heritage-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -783,7 +783,7 @@ export default function Page() {
             
             <Link
               key="1"
-              href="/furusato-tax-castle-town-heritage-onsen-stay"
+              href="/furusato-tax-castle-town-heritage-onsen-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -796,7 +796,7 @@ export default function Page() {
             
             <Link
               key="2"
-              href="/furusato-tax-three-great-gardens-heritage-stay"
+              href="/furusato-tax-three-great-gardens-heritage-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">

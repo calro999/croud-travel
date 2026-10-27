@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月沖縄：恩納村絶景スパリゾート5選！名宿5選',
     description: '11月から1月、沖縄本島（恩納村・本部・名護）は、平均気温20℃前後の快適な気候に恵まれ、喧騒を離れて大人の贅沢な時間を過ごせる冬の楽園となります。',
-    url: 'https://croud-travel.pages.dev/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay',
+    url: 'https://croud-travel.pages.dev/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function OkinawaOnnaMotobuWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function OkinawaOnnaMotobuWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '沖縄・冬のホエールウォッチング＆恩納村スパリゾート特集',
-        item: 'https://croud-travel.pages.dev/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay'
+        item: 'https://croud-travel.pages.dev/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay/'
       }
     ]
   };
@@ -625,42 +625,42 @@ export default function OkinawaOnnaMotobuWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-warm-island-escape" 
+              href="/winter-warm-island-escape/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">南国アイランド避寒</span>
               <p className="font-bold text-stone-800 line-clamp-2">真冬の寒さを忘れる南国アイランドリゾート＆極上ビーチステイ</p>
             </Link>
             <Link 
-              href="/traditional-okinawa-ishigaki-beef-yaeyama-stay" 
+              href="/traditional-okinawa-ishigaki-beef-yaeyama-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">沖縄・八重山諸島</span>
               <p className="font-bold text-stone-800 line-clamp-2">極上石垣牛とエメラルドブルーの海・離島リゾートを満喫する名宿</p>
             </Link>
             <Link 
-              href="/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay" 
+              href="/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">鹿児島・指宿温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">天然砂むし温泉と黒豚しゃぶしゃぶ・錦江湾の絶景海辺リゾート</p>
             </Link>
             <Link 
-              href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay" 
+              href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">宮崎・青島温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">鬼の洗濯板と日南海岸の冬陽・極上宮崎牛と伊勢海老リゾート宿</p>
             </Link>
             <Link 
-              href="/winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay" 
+              href="/winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">高知・高知城＆土佐</span>
               <p className="font-bold text-stone-800 line-clamp-2">幻の天然クエ鍋と戻り鰹藁焼き・高知城ライトアップと天然温泉宿</p>
             </Link>
             <Link 
-              href="/winter-scenic-illumination-luxury-resort" 
+              href="/winter-scenic-illumination-luxury-resort/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">冬のイルミネーション</span>

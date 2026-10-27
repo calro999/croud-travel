@@ -169,7 +169,7 @@ export default function HakoneBudgetGuidePage() {
       {/* 熱海との比較 */}
       <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200 text-center">
         <p className="text-sm text-slate-700 mb-3 font-medium">「もう少し安く温泉に行けないかな？」と思ったら熱海も選択肢に！</p>
-        <Link href="/tokyo-izu-atami-bus-vs-train-guide" className="text-blue-600 font-bold text-sm hover:underline">
+        <Link href="/tokyo-izu-atami-bus-vs-train-guide/" className="text-blue-600 font-bold text-sm hover:underline">
           ▶ 東京〜熱海・伊豆の交通費徹底比較（片道1,980円〜）はこちら
         </Link>
       </div>
@@ -495,7 +495,7 @@ export default function HakoneBudgetGuidePage() {
       
       {/* リンク */}
       <div className="text-center">
-        <Link href="/prefectures" className="inline-flex items-center gap-2 text-sm font-bold text-slate-700 bg-white hover:bg-slate-50 border border-slate-300 px-6 py-3 rounded-xl transition shadow-sm">
+        <Link href="/prefectures/" className="inline-flex items-center gap-2 text-sm font-bold text-slate-700 bg-white hover:bg-slate-50 border border-slate-300 px-6 py-3 rounded-xl transition shadow-sm">
           🗾 全国都道府県ガイドへ
         </Link>
       </div>

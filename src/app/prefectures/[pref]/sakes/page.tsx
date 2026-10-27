@@ -103,9 +103,9 @@ export default async function PrefectureSakesPage({ params }: { params: Promise<
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/prefectures" className="hover:text-teal-800 transition">都道府県一覧</Link>
+        <Link href="/prefectures/" className="hover:text-teal-800 transition">都道府県一覧</Link>
         <span>/</span>
-        <Link href={`/prefectures/${prefInfo.slug}`} className="hover:text-teal-800 transition">{prefInfo.name}</Link>
+        <Link href={`/prefectures/${prefInfo.slug}/`} className="hover:text-teal-800 transition">{prefInfo.name}</Link>
         <span>/</span>
         <span className="text-emerald-950 font-bold">銘酒・地酒・日本酒ガイド</span>
       </nav>
@@ -232,7 +232,7 @@ export default async function PrefectureSakesPage({ params }: { params: Promise<
               <div className="pt-4 border-t border-indigo-100 flex flex-wrap items-center justify-between gap-4 text-xs font-bold text-indigo-950">
                 <span>📍 醸造地: {sake.brewery}</span>
                 <Link
-                  href={`/prefectures/${prefInfo.slug}`}
+                  href={`/prefectures/${prefInfo.slug}/`}
                   className="text-teal-800 hover:underline flex items-center gap-1 font-extrabold"
                 >
                   <span>{prefInfo.name}の周辺宿・観光ガイドを見る</span>
@@ -286,7 +286,7 @@ export default async function PrefectureSakesPage({ params }: { params: Promise<
             🛍️ お土産・銘菓ランキングを見る
           </Link>
           <Link
-            href={`/prefectures/${prefInfo.slug}`}
+            href={`/prefectures/${prefInfo.slug}/`}
             className="px-6 py-3 text-xs font-bold text-white bg-indigo-800 hover:bg-indigo-700 rounded-xl transition shadow border border-indigo-600"
           >
             🗾 {prefInfo.name}観光＆宿ハブへ戻る

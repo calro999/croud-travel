@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '宮崎・青島温泉で過ごす冬の旅（11・12月）！日向灘伊勢海老！名宿5選',
     description: '11月から12月にかけて、日南海岸の玄関口に位置する宮崎・青島温泉は、本州が本格的な冬の寒気に包まれるなか。',
-    url: 'https://croud-travel.pages.dev/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function MiyazakiAoshimaWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay"
+          "@id": "https://croud-travel.pages.dev/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/"
         },
         "headline": "【11・12月宮崎・青島温泉の南国温暖避寒と鬼の洗濯板絶景】最高峰宮崎牛・日向灘伊勢海老＆美肌炭酸泉リゾートの宿5選",
         "description": "11月から12月にかけて、日南海岸の玄関口に位置する宮崎・青島温泉は、本州が本格的な冬の寒気に包まれるなか、日中は18〜20℃前後まで気温が上がる温暖な南国リゾート気候に恵まれ、極上の避寒旅行シーズンを迎えます。国の天然記念物「鬼の洗濯板」に囲まれた神秘の青島神社、太平洋・日向灘の青い水平線を望む絶景展望露天風呂、そしてまるで天然の美容液のようなトロトロの美肌炭酸水素塩泉。夕食には4大会連続内閣総理大臣賞に輝く日本一の「宮崎牛」鉄板焼きや、秋から冬にかけて旬を迎える日向灘獲れの「天然伊勢海老」に舌鼓。心も身体も温まる厳選おすすめホテル・温泉旅館5選を徹底解説します。",
@@ -100,13 +100,13 @@ export default function MiyazakiAoshimaWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "宮崎・青島温泉 南国温暖避寒と鬼の洗濯板絶景・宮崎牛会席の宿",
-            "item": "https://croud-travel.pages.dev/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay"
+            "item": "https://croud-travel.pages.dev/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/"
           }
         ]
       },
@@ -592,42 +592,42 @@ export default function MiyazakiAoshimaWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/ibusuki-vs-kirishima-which-stay"
+              href="/ibusuki-vs-kirishima-which-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">鹿児島・指宿温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">名物天然砂むし温泉と錦江湾絶景・南国避寒黒豚会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-kumamoto-kurokawa-yuakari-illumination-stay"
+              href="/winter-kumamoto-kurokawa-yuakari-illumination-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">熊本・黒川温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">幻想の竹灯籠湯あかりと湯巡り手形・あか牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay"
+              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">佐賀・嬉野温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">日本三大美肌の湯と名物温泉湯豆腐・佐賀牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay"
+              href="/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">鹿児島・霧島温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">白濁硫黄泉の湯けむりと黒豚しゃぶしゃぶ・龍馬ゆかりの名宿</h3>
             </Link>
             <Link 
-              href="/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay"
+              href="/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">福岡・原鶴温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">筑後川冬情緒と奇跡のW美肌泉・博多和牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay"
+              href="/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">千葉・南房総温泉郷</span>

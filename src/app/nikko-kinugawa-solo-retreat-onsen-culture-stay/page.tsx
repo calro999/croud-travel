@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日光・鬼怒川ひとり旅・極上おこもり：空中庭園露天風呂・日光東照宮参道の名湯・現存最古のリゾートクラシック！渓谷と歴史の厳選3宿',
     description: '浅草・新宿から東武特急スペーシアで直通！渓谷の絶景を眼下に望む空中庭園露天風呂が圧巻の「鬼怒川温泉 あさや」、日光東照宮まで徒歩圏内で女性一人旅にも人気の「日光千姫物語」、明治創業の歴史と伝統が息づく「日光金谷ホテル」を楽天APIデータに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/nikko-kinugawa-solo-retreat-onsen-culture-stay',
+    url: 'https://croud-travel.pages.dev/nikko-kinugawa-solo-retreat-onsen-culture-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T15:45:00+09:00',
     dateModified: '2026-10-19T15:45:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/nikko-kinugawa-solo-retreat-onsen-culture-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/nikko-kinugawa-solo-retreat-onsen-culture-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【日光・鬼怒川ひとり旅・極上おこもり】空中庭園露天風呂・日光東照宮参道の名湯・現存最古のリゾートクラシック！渓谷と歴史の厳選3宿","item":"https://croud-travel.pages.dev/nikko-kinugawa-solo-retreat-onsen-culture-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【日光・鬼怒川ひとり旅・極上おこもり】空中庭園露天風呂・日光東照宮参道の名湯・現存最古のリゾートクラシック！渓谷と歴史の厳選3宿","item":"https://croud-travel.pages.dev/nikko-kinugawa-solo-retreat-onsen-culture-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

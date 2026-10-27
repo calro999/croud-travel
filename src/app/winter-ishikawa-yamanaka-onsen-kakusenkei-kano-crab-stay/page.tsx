@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '加賀山中温泉で過ごす冬の旅（11・12月）！芭蕉ゆかりの美肌湯と青タグ加能蟹！名宿5選',
     description: '松尾芭蕉が「有馬・草津と並ぶ扶桑三名湯」と称賛した石川・加賀の名湯「山中温泉」。11月6日のズワイガニ漁解禁で歓喜に沸く北陸の冬。',
-    url: 'https://croud-travel.pages.dev/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -89,7 +89,7 @@ export default function YamanakaWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay/"
         }
       },
       {
@@ -313,7 +313,7 @@ export default function YamanakaWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月加賀山中温泉】芭蕉ゆかりの美肌湯と青タグ加能蟹！名宿5選","item":"https://croud-travel.pages.dev/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月加賀山中温泉】芭蕉ゆかりの美肌湯と青タグ加能蟹！名宿5選","item":"https://croud-travel.pages.dev/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -681,42 +681,42 @@ export default function YamanakaWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-ishikawa-kaga-yamashiro-kano-crab-stay"
+              href="/winter-ishikawa-kaga-yamashiro-kano-crab-stay/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">石川・加賀山代</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">加賀山代温泉 魯山人ゆかりの名湯と極上カニ尽くしの宿</h3>
             </Link>
             <Link 
-              href="/winter-kanazawa-kenrokuen-yukizuri-stay"
+              href="/winter-kanazawa-kenrokuen-yukizuri-stay/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">石川・金沢</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">金沢 兼六園の雪吊りと加能ガニ会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-fukui-awara-onsen-echizen-crab-stay"
+              href="/winter-fukui-awara-onsen-echizen-crab-stay/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">福井・あわら</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">あわら温泉 黄色タグ付き越前がにと庭園露天風呂の宿</h3>
             </Link>
             <Link 
-              href="/winter-toyama-unazuki-onsen-kurobe-snow-stay"
+              href="/winter-toyama-unazuki-onsen-kurobe-snow-stay/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">富山・宇奈月</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">宇奈月温泉 黒部峡谷雪景色と富山湾寒ブリ・紅ズワイガニの宿</h3>
             </Link>
             <Link 
-              href="/winter-kyoto-amanohashidate-matsuba-crab-stay"
+              href="/winter-kyoto-amanohashidate-matsuba-crab-stay/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">京都・天橋立</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">天橋立 日本三景の冬景色と幻の間人ガニ・松葉ガニの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">特集一覧</span>

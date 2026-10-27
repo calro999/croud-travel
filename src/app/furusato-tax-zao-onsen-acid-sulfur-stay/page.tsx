@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '蔵王温泉をふるさと納税でお得に旅する！日本屈指の強酸性白濁硫黄泉＆山形牛！名門名湯宿特集｜深山荘高見屋・蔵王国際ホテル・蔵王四季のホテル',
     description: '開湯千九百年・蔵王連峰の雄大な自然に抱かれる山形県蔵王温泉を楽天ふるさと納税でお得に満喫！享保年間創業三百年余の最高峰「深山荘 高見屋」、木の温もりあふれる八右衛門の湯「蔵王国際ホテル」、白樺林の離れ湯「蔵王四季のホテル」を徹底比較。大露天風呂や山形牛すき焼き、山形市トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-zao-onsen-acid-sulfur-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-zao-onsen-acid-sulfur-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T17:25:00+09:00',
     dateModified: '2026-10-19T17:25:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-zao-onsen-acid-sulfur-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-zao-onsen-acid-sulfur-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【蔵王温泉×ふるさと納税】日本屈指の強酸性白濁硫黄泉＆山形牛！名門名湯宿特集｜深山荘高見屋・蔵王国際ホテル・蔵王四季のホテル","item":"https://croud-travel.pages.dev/furusato-tax-zao-onsen-acid-sulfur-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【蔵王温泉×ふるさと納税】日本屈指の強酸性白濁硫黄泉＆山形牛！名門名湯宿特集｜深山荘高見屋・蔵王国際ホテル・蔵王四季のホテル","item":"https://croud-travel.pages.dev/furusato-tax-zao-onsen-acid-sulfur-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【蔵王温泉×ふるさと納税】日本屈指の強酸性白濁硫黄泉＆山形牛！名門名湯宿特集｜深山荘高見屋・蔵王国際ホテル・蔵王四季のホテル</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-ibusuki-onsen-sand-bath-ocean-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-ibusuki-onsen-sand-bath-ocean-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 指宿温泉 天然砂むし温泉＆錦江湾オーシャンビュー特集
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-nyuto-onsen-secret-milky-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-nyuto-onsen-secret-milky-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 乳頭温泉郷 日本屈指の乳白色秘湯＆田沢湖畔特集
               </Link>
             </li>

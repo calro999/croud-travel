@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '養老渓谷温泉郷で過ごす冬の旅（11・12月）！房総かずさ和牛！名宿5選',
     description: '11月下旬から12月上旬にかけて「本州で最も遅い紅葉」のクライマックスを迎える千葉県・房総半島の養老渓谷温泉郷。',
-    url: 'https://croud-travel.pages.dev/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay',
+    url: 'https://croud-travel.pages.dev/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -56,7 +56,7 @@ export default function ChibaYoroKeikokuWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -379,7 +379,7 @@ export default function ChibaYoroKeikokuWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月養老渓谷温泉郷】房総かずさ和牛！名宿5選","item":"https://croud-travel.pages.dev/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月養老渓谷温泉郷】房総かずさ和牛！名宿5選","item":"https://croud-travel.pages.dev/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay/"}]}) }}
       />
 
         {/* Introduction Section */}
@@ -731,7 +731,7 @@ export default function ChibaYoroKeikokuWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay"
+              href="/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">千葉・南房総館山</span>
@@ -741,7 +741,7 @@ export default function ChibaYoroKeikokuWinterPage() {
             </Link>
 
             <Link
-              href="/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay"
+              href="/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">神奈川・湯河原温泉</span>
@@ -751,7 +751,7 @@ export default function ChibaYoroKeikokuWinterPage() {
             </Link>
 
             <Link
-              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay"
+              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">静岡・修善寺温泉</span>
@@ -761,7 +761,7 @@ export default function ChibaYoroKeikokuWinterPage() {
             </Link>
 
             <Link
-              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay"
+              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">埼玉・秩父温泉</span>
@@ -771,7 +771,7 @@ export default function ChibaYoroKeikokuWinterPage() {
             </Link>
 
             <Link
-              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay"
+              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">栃木・鬼怒川温泉</span>
@@ -781,7 +781,7 @@ export default function ChibaYoroKeikokuWinterPage() {
             </Link>
 
             <Link
-              href="/features"
+              href="/features/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2 flex flex-col justify-center items-center text-center"
             >
               <span className="text-xs font-bold text-amber-700">全国の旬の温泉特集一覧へ</span>

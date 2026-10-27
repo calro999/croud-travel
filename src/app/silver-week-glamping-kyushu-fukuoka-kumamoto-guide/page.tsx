@@ -169,13 +169,13 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
           </div>
           <div className="flex flex-wrap items-center gap-2">
             <Link
-              href="/aso-kumamoto-car-free-trip-guide"
+              href="/aso-kumamoto-car-free-trip-guide/"
               className="inline-flex items-center text-xs font-bold text-emerald-900 bg-white border border-emerald-300 hover:bg-emerald-600 hover:text-white px-3.5 py-1.5 rounded-xl shadow-xs transition"
             >
               阿蘇・熊本 車なし絶景トリップガイド →
             </Link>
             <Link
-              href="/yufuin-vs-beppu-which-stay"
+              href="/yufuin-vs-beppu-which-stay/"
               className="inline-flex items-center text-xs font-bold text-emerald-900 bg-white border border-emerald-300 hover:bg-emerald-600 hover:text-white px-3.5 py-1.5 rounded-xl shadow-xs transition"
             >
               由布院 vs 別府 どっちに泊まる？徹底比較 →

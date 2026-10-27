@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: '冬だけの静寂に包まれる世界自然遺産・屋久島！朝露に光る白谷雲水峡の苔むす森トレッキング、旬を迎える極上の首折れサバ・屋久鹿料理と絶景オーシャンビュー温泉を堪能する大人の冬旅名宿5選。',
   keywords: ['鹿児島県冬旅行', '屋久島・宮之浦・安房', '冬温泉', '2026', '2027', '雪景色', '冬の味覚', '楽天トラベル', 'ふるさと納税'],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-kagoshima-yakushima-shiratani-jomon-onsen-kubiore-saba-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-kagoshima-yakushima-shiratani-jomon-onsen-kubiore-saba-stay/',
   },
   openGraph: {
     title: '静寂の原生林と白谷雲水峡・極上温泉：2026-2027年冬の屋久島！首折れサバと天然露天風呂宿5選',
     description: '冬だけの静寂に包まれる世界自然遺産・屋久島！朝露に光る白谷雲水峡の苔むす森トレッキング、旬を迎える極上の首折れサバ・屋久鹿料理と絶景オーシャンビュー温泉を堪能する大人の冬旅名宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-kagoshima-yakushima-shiratani-jomon-onsen-kubiore-saba-stay',
+    url: 'https://croud-travel.pages.dev/winter-kagoshima-yakushima-shiratani-jomon-onsen-kubiore-saba-stay/',
     siteName: 'クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
 
 export default function WinterFeaturePage() {
   const faqJsonLd = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "冬の屋久島トレッキングで雪や凍結はありますか？", "acceptedAnswer": {"@type": "Answer", "text": "標高600m〜1,000mの白谷雲水峡やヤクスギランドでは、強い寒波が来た際にうっすら積雪することがありますが、通常の防寒着と滑りにくいトレッキングシューズで歩行可能です。標高1,300mを超える縄文杉ルートでは12月〜1月に積雪・凍結することがあるため、事前にガイド情報や屋久島観光協会で路面状況を確認し、必要に応じて簡易軽アイゼンを用意してください。"}}, {"@type": "Question", "name": "名物「首折れサバ」は冬でも食べられますか？", "acceptedAnswer": {"@type": "Answer", "text": "はい、むしろ11月から1月は海水温が下がり、サバに上質な脂が乗る最高のシーズンです。水揚げされた当日の首折れサバは生臭さが一切なく、白身魚のような弾力と濃厚な甘みが楽しめます。天候による出漁状況に左右されるため、宿泊先や島内の名店へ事前に問い合わせ・予約しておくのが確実です。"}}, {"@type": "Question", "name": "冬の屋久島島内の移動はレンタカーが必要ですか？", "acceptedAnswer": {"@type": "Answer", "text": "島内を自由に巡るならレンタカーの利用を強くおすすめします。路線バス（種子島・屋久島交通、まつばんだ交通）も運行されていますが、冬期は本数が限られます。海岸沿いの主要道路（県道77号線・78号線）は凍結の心配がほとんどなく、冬のドライブを快適に楽しめます。白谷雲水峡へ向かう山道のみ積雪凍結時のチェーン規制にご注意ください。"}}]};
-  const breadcrumbJsonLd = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev"}, {"@type": "ListItem", "position": 2, "name": "鹿児島県の観光・温泉宿", "item": "https://croud-travel.pages.dev/prefectures/kagoshima"}, {"@type": "ListItem", "position": 3, "name": "【静寂の原生林と白谷雲水峡・極上温泉】2026-2027年冬の屋久島！首折れサバと天然露天風呂宿5選", "item": "https://croud-travel.pages.dev/winter-kagoshima-yakushima-shiratani-jomon-onsen-kubiore-saba-stay"}]};
+  const breadcrumbJsonLd = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev"}, {"@type": "ListItem", "position": 2, "name": "鹿児島県の観光・温泉宿", "item": "https://croud-travel.pages.dev/prefectures/kagoshima"}, {"@type": "ListItem", "position": 3, "name": "【静寂の原生林と白谷雲水峡・極上温泉】2026-2027年冬の屋久島！首折れサバと天然露天風呂宿5選", "item": "https://croud-travel.pages.dev/winter-kagoshima-yakushima-shiratani-jomon-onsen-kubiore-saba-stay/"}]};
 
   return (
     <>
@@ -593,15 +593,15 @@ export default function WinterFeaturePage() {
                 <span>鹿児島県のおすすめ観光名所＆温泉宿一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/features" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/features/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>全国の季節・目的別旅行特集一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>実質2,000円で泊まる名湯・高級温泉旅館ガイド</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-local-gourmet-inn-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-local-gourmet-inn-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>ご当地グルメを堪能する全国美食旅特集</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>

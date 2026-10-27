@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '深さ100mの絶壁が燃える錦秋絵巻！鳴子峡大紅葉＆鳴子温泉郷源泉かけ流し名宿×ふるさと納税厳選ガイド宮城',
     description: '10月中旬〜11月上旬に見頃を迎える東北屈指の紅葉絶景「鳴子峡」。深さ約100mの大峡谷を彩る紅葉と大深沢橋を渡る列車の絶景、日本にある11の旧泉質のうち8種類が集まる奇跡の名湯「鳴子温泉郷」！「旅館大沼」「旅館すがわら」「旅館弁天閣」。仙台牛と宮城の秋の味覚を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-narukokyo-akiu-autumn-foliage-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-narukokyo-akiu-autumn-foliage-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -55,7 +55,7 @@ export default function FurusatoNarukokyoAkiuAutumnFoliageStayPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">鳴子峡大紅葉＆鳴子温泉郷名宿特集</span>
       </nav>
@@ -384,7 +384,7 @@ export default function FurusatoNarukokyoAkiuAutumnFoliageStayPage() {
 
             <li key="furusato-tax-autumn-foliage-gorge-onsen-stay">
               <Link
-                href="/furusato-tax-autumn-foliage-gorge-onsen-stay"
+                href="/furusato-tax-autumn-foliage-gorge-onsen-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -395,7 +395,7 @@ export default function FurusatoNarukokyoAkiuAutumnFoliageStayPage() {
 
             <li key="furusato-tax-pure-kakenagashi-secret-hotspring-stay">
               <Link
-                href="/furusato-tax-secret-hotspring-lamp-retreat-stay"
+                href="/furusato-tax-secret-hotspring-lamp-retreat-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -406,7 +406,7 @@ export default function FurusatoNarukokyoAkiuAutumnFoliageStayPage() {
 
             <li key="furusato-tax-three-medicinal-hotsprings-stay">
               <Link
-                href="/furusato-tax-three-medicinal-hotsprings-stay"
+                href="/furusato-tax-three-medicinal-hotsprings-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -417,7 +417,7 @@ export default function FurusatoNarukokyoAkiuAutumnFoliageStayPage() {
 
             <li key="furusato-tax-luxury-hotspring-ryokan-stay">
               <Link
-                href="/furusato-tax-luxury-hotspring-ryokan-stay"
+                href="/furusato-tax-luxury-hotspring-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -437,7 +437,7 @@ export default function FurusatoNarukokyoAkiuAutumnFoliageStayPage() {
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
-            href="/travel-savings-guide"
+            href="/travel-savings-guide/"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 text-stone-950 font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition text-sm"
           >
             🏨 旅行節約総合ハブページを見る ➔

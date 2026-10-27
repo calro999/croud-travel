@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月山形：極上山形牛！名宿5選',
     description: '11月から1月、出羽三山の主峰・月山の麓に位置する山形県大蔵村「肘折温泉」は、静謐な雪景色と開湯1200年の重厚な湯治文化が旅人を迎えます。',
-    url: 'https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -47,7 +47,7 @@ export default function YamagataHijioriOnsenWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay/"
         },
         "headline": "【11・12・1月山形】豪雪の奇跡・開湯1200年肘折温泉の黄金湯治と名物納豆汁＆極上山形牛・肘折幻想雪回廊を巡る名宿5選",
         "description": "11月から1月、出羽三山の主峰・月山の麓に位置する山形県大蔵村「肘折温泉」は、静謐な雪景色と開湯1200年の重厚な湯治文化が旅人を迎えます。日本屈指の豪雪地帯として知られる肘折は、銅山川沿いに木造三層楼閣が立ち並び、冬になると数メートルもの雪に包まれてまるで水墨画のような幽玄の世界へ。黄金色に濁る自家源泉（ナトリウム-塩化物・炭酸水素塩温泉）は、体の芯まで熱を行き渡らせる「あたたまりの薬湯」として名高く、初冬から厳冬期の冷えた体を優しく包み込みます。夕食には山形の冬の滋味「名物納豆汁」や温かい郷土鍋、きめ細かな霜降りを誇る最高級「山形牛」の陶板焼きが並び、心まで温まるひとときを提供。1月下旬から巨大な雪壁を無数のロウソクが照らす「肘折幻想雪回廊」の絶景とともに、本物の湯治情緒に浸れる厳選5宿を徹底ガイドします。",
@@ -68,7 +68,7 @@ export default function YamagataHijioriOnsenWinterPage() {
             "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay"
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay/"
       },
       {
         "@type": "BreadcrumbList",
@@ -84,13 +84,13 @@ export default function YamagataHijioriOnsenWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "山形・肘折温泉の冬湯治と雪回廊特集",
-            "item": "https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay"
+            "item": "https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay/"
           }
         ]
       },
@@ -567,21 +567,21 @@ export default function YamagataHijioriOnsenWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay" 
+              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">山形・蔵王温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">幻想の樹氷ライトアップと強酸性美肌硫黄泉・極上山形牛を味わう名宿</p>
             </Link>
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay" 
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">山形・銀山温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">ガス灯揺れる大正浪漫の雪景色・尾花沢牛と木造楼閣の老舗旅館</p>
             </Link>
             <Link 
-              href="/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay" 
+              href="/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">秋田・小安峡＆秋の宮</span>

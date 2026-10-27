@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '御船山楽園の日本最大級紅葉ライトアップ＆武雄温泉楼門！嬉野茶美肌の湯宿×ふるさと納税厳選ガイド佐賀',
     description: '11月上旬〜12月上旬に15万坪の大庭園が錦秋の光に包まれる佐賀「御船山楽園 紅葉まつり」。国登録記念物の御船山の断崖と御池に映る逆さ紅葉、1300年の歴史を誇る「武雄温泉 なかます旅館」「嬉野温泉 初音荘」「旅館千代乃屋」で佐賀牛ステーキやとろける嬉野温泉湯どうふを堪能。ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-takeo-mifuneyama-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-takeo-mifuneyama-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -102,7 +102,7 @@ export default function FeatureArticlePage() {
       <nav className="max-w-6xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-600 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:underline text-stone-500">トップ</Link>
         <span>&gt;</span>
-        <Link href="/autumn-leaves" className="hover:underline text-stone-500">秋・紅葉特集</Link>
+        <Link href="/autumn-leaves/" className="hover:underline text-stone-500">秋・紅葉特集</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-medium">佐賀・武雄嬉野 / 御船山楽園紅葉まつり＆武雄温泉楼門・嬉野美肌の湯</span>
       </nav>
@@ -391,27 +391,27 @@ export default function FeatureArticlePage() {
             <h4 className="font-bold text-stone-900 text-xs mb-3">🍂 関連する秋の特集</h4>
             <ul className="space-y-2 text-xs text-stone-600">
               <li>
-                <Link href="/furusato-tax-hakone-gora-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-hakone-gora-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・神奈川・箱根強羅温泉＆登山鉄道紅葉
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-nagatoro-iwadatami-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-nagatoro-iwadatami-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・埼玉・長瀞岩畳＆月の石もみじ公園
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-kamikochi-karamatsu-shirahone-onsen-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-kamikochi-karamatsu-shirahone-onsen-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・長野・上高地カラマツ黄葉＆白骨温泉
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-akame-48waterfalls-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-akame-48waterfalls-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・三重・赤目四十八滝＆竹あかり
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-kokonoe-yume-suspension-bridge-autumn-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-kokonoe-yume-suspension-bridge-autumn-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・大分・九重夢大吊橋＆筋湯温泉うたせ湯
                 </Link>
               </li>

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月和歌山加太：冬の日前神宮新春開運初詣！名宿5選',
     description: '冬の和歌山・加太エリアは、紀淡海峡の彼方に沈む鮮やかな夕陽と友ヶ島のシルエットが旅情をかきたて。',
-    url: 'https://croud-travel.pages.dev/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay',
+    url: 'https://croud-travel.pages.dev/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/9090/9090.jpg' , alt: "11・12・1月和歌山加太：冬の日前神宮新春開運初詣！名宿5選"}]
   }
@@ -151,7 +151,7 @@ export default function WakayamaCityPage() {
         "@type": "Article",
         "headline": "【11・12・1月和歌山加太】冬の日前神宮新春開運初詣＆紀淡海峡夕陽絶景！加太温泉名湯と冬の天然真鯛・幻のクエに寛ぐ名宿5選",
         "description": "冬の和歌山・加太エリアは、紀淡海峡の彼方に沈む鮮やかな夕陽と友ヶ島のシルエットが旅情をかきたて、神代の歴史を誇る紀伊国一之宮「日前神宮・國懸神宮」の新春開運初詣で新年を迎える特別な季節。11月下旬の晩秋から1月にかけて、一本釣りで知られる加太の寒真鯛（鯛しゃぶ・鯛釜飯）や紀州沖の幻の高級魚・天然本クエ鍋、極上の熊野牛が旬を迎えます。美肌効果抜群のとろみある重曹泉・加太温泉に浸かり、徳川御三家の城下町の歴史と海の幸に酔いしれる冬の贅沢旅。楽天APIから最新取得した信頼の名宿5選を徹底特集します。",
-        "url": 'https://croud-travel.pages.dev/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay',
+        "url": 'https://croud-travel.pages.dev/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay/',
         "publisher": {
           "@type": "Organization",
           "name": "週末ごほうび旅・厳選の宿ガイド",
@@ -171,13 +171,13 @@ export default function WakayamaCityPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "冬の和歌山加太・日前神宮初詣＆紀淡海峡夕陽特集",
-            "item": 'https://croud-travel.pages.dev/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay'
+            "item": 'https://croud-travel.pages.dev/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay/'
           }
         ]
       },
@@ -250,7 +250,7 @@ export default function WakayamaCityPage() {
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-rose-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-rose-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-rose-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">冬の和歌山加太・日前神宮初詣＆紀淡海峡夕陽特集</li>
         </ol>
@@ -546,28 +546,28 @@ export default function WakayamaCityPage() {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
-              href="/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay"
+              href="/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-rose-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【大阪】住吉大社新春初詣＆御堂筋イルミネーション名宿</span>
               <span className="text-xs text-slate-500">光の回廊と全国総本社開運参拝、冬の本場とらふぐてっちり鍋</span>
             </Link>
             <Link 
-              href="/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay"
+              href="/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-rose-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【三重・鈴鹿桑名】椿大神社みちびき初詣＆なばなの里名宿</span>
               <span className="text-xs text-slate-500">伊勢国一の宮初詣、国内最大級イルミネーションと桑名天然蛤鍋</span>
             </Link>
             <Link 
-              href="/winter-ehime-imabari-shimanami-oomishima-taimeshi-onsen-stay"
+              href="/winter-ehime-imabari-shimanami-oomishima-taimeshi-onsen-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-rose-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【愛媛・しまなみ】大山祇神社新春初詣＆天然真鯛名宿</span>
               <span className="text-xs text-slate-500">冬晴れの来島海峡大橋絶景と日本総鎮守初詣、ふっくら鯛めし</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-rose-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>

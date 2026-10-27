@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '岐阜・郡上八幡＆美濃：郡上おどり・名水宗祇水＆美濃うだつの町並み・鮎宿 厳選ガイド',
     description: '水とおどりの城下町「郡上八幡」の日本一美しい山城・名水百選「宗祇水」の水路網、日本一長い盆踊り「郡上おどり（徹夜おどり）」、重要伝統的建造物群保存地区「美濃・うだつの上がる町並み」、美濃手漉き和紙工房、清流長良川の天然鮎宿を徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/gifu-gujo-hachiman-mino-udatsu-stay',
+    url: 'https://croud-travel.pages.dev/gifu-gujo-hachiman-mino-udatsu-stay/',
   },
 };
 

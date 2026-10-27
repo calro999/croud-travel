@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月日光：とちぎ和牛！名宿5選',
     description: '11月から1月、木々の葉が落ち清澄な大気に包まれる日光山内は、世界遺産・日光東照宮が最も神聖な静寂を纏う季節です。',
-    url: 'https://croud-travel.pages.dev/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/41382/41382.jpg', width: 1200, height: 630, alt: '日光東照宮と日光温泉名宿' }]
   }
@@ -147,13 +147,13 @@ export default function TochigiNikkoToshoguPage() {
     '@type': 'ItemPage',
     name: "【11・12・1月日光】世界遺産・日光東照宮の静謐な冬参拝＆新春初詣と名物「日光湯波会席」・とちぎ和牛を堪能する名宿5選",
     description: "11月から1月、木々の葉が落ち清澄な大気に包まれる日光山内は、世界遺産・日光東照宮が最も神聖な静寂を纏う季節です。白銀の雪化粧に黄金と極彩色が際立つ国宝「陽明門」、静まり返る薬師堂に響く「鳴龍」の鈴音、徳川家康公を祀る奥宮への白銀杉並木の石段。新春には輪王寺や日光二荒山神社とともに数万人が訪れる新春初詣の聖地となります。寒さ深まる門前町で味わう名物「日光湯波会席」や極上の「とちぎ和牛」、身体の芯まで温もる日光温泉の雪見露天風呂を満喫できる厳選名宿5選を徹底紹介します。",
-    url: 'https://croud-travel.pages.dev/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay/',
     breadcrumb: {
       '@type': 'BreadcrumbList',
       itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://croud-travel.pages.dev/' },
         { '@type': 'ListItem', position: 2, name: '冬の特集一覧', item: 'https://croud-travel.pages.dev/features/' },
-        { '@type': 'ListItem', position: 3, name: '日光東照宮・日光湯波＆名湯ステイ', item: 'https://croud-travel.pages.dev/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay' }
+        { '@type': 'ListItem', position: 3, name: '日光東照宮・日光湯波＆名湯ステイ', item: 'https://croud-travel.pages.dev/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay/' }
       ]
     },
     mainEntity: {
@@ -615,7 +615,7 @@ export default function TochigiNikkoToshoguPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay" 
+              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">栃木・奥日光湯元</span>
@@ -625,7 +625,7 @@ export default function TochigiNikkoToshoguPage() {
             </Link>
 
             <Link 
-              href="/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay" 
+              href="/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">栃木・足利＆佐野</span>
@@ -635,7 +635,7 @@ export default function TochigiNikkoToshoguPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay" 
+              href="/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">長野・戸隠＆善光寺</span>
@@ -645,7 +645,7 @@ export default function TochigiNikkoToshoguPage() {
             </Link>
 
             <Link 
-              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay" 
+              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">三重・伊勢神宮</span>
@@ -655,7 +655,7 @@ export default function TochigiNikkoToshoguPage() {
             </Link>
 
             <Link 
-              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay" 
+              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">群馬・草津温泉</span>
@@ -665,7 +665,7 @@ export default function TochigiNikkoToshoguPage() {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay" 
+              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">神奈川・鎌倉＆江の島</span>

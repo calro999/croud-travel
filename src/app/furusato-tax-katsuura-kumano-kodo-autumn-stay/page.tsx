@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '世界遺産・熊野古道の大門坂紅葉＆那智の滝！南紀勝浦の大洞窟露天風呂宿×ふるさと納税厳選ガイド和歌山',
     description: '10月下旬〜11月中旬に見頃を迎える世界遺産「熊野古道・大門坂」と落差133mの名瀑「那智の滝」。石畳を彩るモミジと熊野那智大社、名湯・南紀勝浦温泉の老舗「ホテル浦島」「万清楼」「休暇村 南紀勝浦」で忘帰洞の波打ち際温泉や勝浦港直送の生マグロ会席を堪能。楽天ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-katsuura-kumano-kodo-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-katsuura-kumano-kodo-autumn-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">和歌山・南紀勝浦温泉 熊野古道紅葉ウォーク＆大洞窟温泉宿特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

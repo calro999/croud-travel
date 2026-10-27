@@ -15,12 +15,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: '【世界基準ルレ・エ・シャトー加盟「明神館」と山峡の秘湯】2026-2027年11-12月初冬の長野・松本奥座敷！渓流立ち湯雪見露天風呂と信州オーガニックフレンチ・自然に抱かれる最高峰ウェルネスリトリート名宿5選',
     description: '国定公園の豊かな山峡、薄川の清流沿いに佇む長野・松本の奥座敷「扉温泉」。世界の一流ホテル・レストランのみが加盟を許される「ルレ・エ・シャトー」に名を連ねる名門「明神館」をはじめ、初冬の静寂と自然の調和を五感で味わう最高峰リゾート。渓流と一体化する名物「雪見立ち湯露天風呂」や、無農薬自家農園野菜と信州プレミアム牛を用いたモダンフレンチ・創作和食懐石。日常の喧騒から完全に解き放たれる極上リトリート名宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-nagano-tobira-onsen-myojinkan-relais-chateaux-shinshu-french-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-tobira-onsen-myojinkan-relais-chateaux-shinshu-french-stay/',
     type: 'article',
     siteName: 'クラウドトラベル',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-nagano-tobira-onsen-myojinkan-relais-chateaux-shinshu-french-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-nagano-tobira-onsen-myojinkan-relais-chateaux-shinshu-french-stay/',
   },
 };
 
@@ -46,13 +46,13 @@ export default function LuxuryWinterFeaturePage() {
                   "@type": "ListItem",
                   "position": 2,
                   "name": "特集一覧",
-                  "item": "https://croud-travel.pages.dev/features"
+                  "item": "https://croud-travel.pages.dev/features/"
                 },
                 {
                   "@type": "ListItem",
                   "position": 3,
                   "name": "【世界基準ルレ・エ・シャトー加盟「明神館」と山峡の秘湯】2026-2027年11-12月初冬の長野・松本奥座敷！渓流立ち湯雪見露天風呂と信州オーガニックフレンチ・自然に抱かれる最高峰ウェルネスリトリート名宿5選",
-                  "item": "https://croud-travel.pages.dev/winter-nagano-tobira-onsen-myojinkan-relais-chateaux-shinshu-french-stay"
+                  "item": "https://croud-travel.pages.dev/winter-nagano-tobira-onsen-myojinkan-relais-chateaux-shinshu-french-stay/"
                 }
               ]
             },
@@ -95,7 +95,7 @@ export default function LuxuryWinterFeaturePage() {
         <div className="max-w-5xl mx-auto flex items-center gap-1.5 flex-wrap">
           <Link href="/" className="hover:text-slate-800 transition">ホーム</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
-          <Link href="/features" className="hover:text-slate-800 transition">特集一覧</Link>
+          <Link href="/features/" className="hover:text-slate-800 transition">特集一覧</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
           <span className="text-slate-800 font-medium truncate max-w-xs">【世界基準ルレ・エ・シャトー加盟「明神館」と山峡の秘湯】2026-2027年11-12月初冬の長野・松本奥座敷！渓流立ち湯雪見露天風呂と信州オーガニックフレンチ・自然に抱かれる最高峰ウェルネスリトリート名宿5選</span>
         </div>

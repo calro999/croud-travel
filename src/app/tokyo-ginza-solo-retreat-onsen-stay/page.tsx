@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '銀座ひとり旅・大浴場おこもり：歌舞伎座・洗練モダン大浴殿・極上江戸前グルメ！大人の憧れ街で心満たされる厳選3宿',
     description: '東銀座駅・銀座駅から徒歩数分！歌舞伎座木挽町広場すぐで和モダン大浴場を備える「三井ガーデンホテル銀座五丁目」、スタイリッシュな銀座の隠れ家スパ「ザ・スクエアホテル銀座」、銀座中央通りも至近で抜群の洗練空間を誇る「ダイワロイネットホテル銀座 PREMIER」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/tokyo-ginza-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/tokyo-ginza-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/tokyo-ginza-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/tokyo-ginza-solo-retreat-onsen-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【銀座ひとり旅・大浴場おこもり】歌舞伎座・洗練モダン大浴殿・極上江戸前グルメ！大人の憧れ街で心満たされる厳選3宿","item":"https://croud-travel.pages.dev/tokyo-ginza-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【銀座ひとり旅・大浴場おこもり】歌舞伎座・洗練モダン大浴殿・極上江戸前グルメ！大人の憧れ街で心満たされる厳選3宿","item":"https://croud-travel.pages.dev/tokyo-ginza-solo-retreat-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: '定山渓温泉をふるさと納税でお得に旅する！札幌の奥座敷！名湯露天風呂と北海道美食バイキング＆隠れ家リゾートガイド｜ぬくもりの宿ふる川・定山渓ビューホテル・翠山亭',
     description: '札幌中心部から約1時間！国立公園の豊かな渓谷に佇む「定山渓温泉」を楽天ふるさと納税でお得に旅する。民芸と囲炉裏の温もりが愛される「ふる川」、巨大屋内温水プールとビュッフェ自慢の「定山渓ビューホテル」、源泉掛け流しと炭火会席の「翠山亭」を徹底紹介。札幌市トラベルクーポンの使い方も解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-jozankei-onsen-sapporo-retreat-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-jozankei-onsen-sapporo-retreat-stay/',
   },
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-jozankei-onsen-sapporo-retreat-stay/",
@@ -488,22 +488,22 @@ export default function FurusatoTaxArticle() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-beginners-complete-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-beginners-complete-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 超初心者向け ふるさと納税で旅行に安く泊まるマニュアル
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-kinosaki-onsen-sotoyu-crab-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-kinosaki-onsen-sotoyu-crab-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 城崎温泉 外湯めぐり＆松葉ガニ・但馬牛ステイ特集
               </Link>
             </li>

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '指宿温泉で過ごす冬の旅（11・12月）！開聞岳望む錦江湾露天！名宿5選',
     description: '本州が本格的な寒さを迎える11月から12月にかけて、日中は20℃前後のぽかぽかとした暖かさが残る南国薩摩・鹿児島県「指宿温泉」。',
-    url: 'https://croud-travel.pages.dev/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay',
+    url: 'https://croud-travel.pages.dev/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -89,7 +89,7 @@ export default function IbusukiOnsenWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay/"
         }
       },
       {
@@ -313,7 +313,7 @@ export default function IbusukiOnsenWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月指宿温泉】開聞岳望む錦江湾露天！名宿5選","item":"https://croud-travel.pages.dev/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月指宿温泉】開聞岳望む錦江湾露天！名宿5選","item":"https://croud-travel.pages.dev/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -679,42 +679,42 @@ export default function IbusukiOnsenWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay"
+              href="/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">鹿児島・霧島温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">霧島温泉 坂本龍馬ゆかりの白濁硫黄泉と霧島黒豚・地鶏鍋の宿</h3>
             </Link>
             <Link 
-              href="/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay"
+              href="/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">熊本・天草下田温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">天草下田温泉 東シナ海夕陽百選露天と伊勢海老・車海老・とらふぐの宿</h3>
             </Link>
             <Link 
-              href="/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay"
+              href="/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">大分・別府温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">別府鉄輪湯けむり夜景＆別府湾絶景露天・豊後牛関アジ関サバの宿</h3>
             </Link>
             <Link 
-              href="/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay"
+              href="/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">長崎・雲仙温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">雲仙地獄の湯煙白濁硫黄泉露天と雲仙あかね牛・冬霧氷の宿</h3>
             </Link>
             <Link 
-              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay"
+              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">和歌山・南紀白浜温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">南紀白浜温泉 太平洋夕陽パノラマ露天と幻の高級魚クエ鍋の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">特集一覧</span>

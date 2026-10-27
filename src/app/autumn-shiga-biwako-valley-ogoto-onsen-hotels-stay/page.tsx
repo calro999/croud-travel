@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の琵琶湖：びわ湖バレイの紅葉テラスとおごと温泉！近江牛とレイクビューを満喫するおすすめ名宿5選「2026最新」',
     description: '標高1100mの「びわ湖テラス」から見下ろす紅葉とびわ湖ブルーの大パノラマ！おごと温泉の極上宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-shiga-biwako-valley-ogoto-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-shiga-biwako-valley-ogoto-onsen-hotels-stay/',
   }
 };
 

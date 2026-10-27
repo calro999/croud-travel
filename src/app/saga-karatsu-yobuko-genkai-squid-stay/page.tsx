@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '佐賀・唐津＆呼子・玄海：唐津城・虹の松原＆呼子朝市イカ活き造り温泉宿 厳選ガイド',
     description: '海に突き出た舞鶴城「唐津城」と日本三大松原「虹の松原」百万人植樹のパノラマ、日本三大朝市「呼子の朝市」、皿の上でまだ動く透明な「呼子のイカ活き造り」とふんわりイカしゅうまい、玄界灘の夕日を望むリアス式海岸の温泉宿を徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/saga-karatsu-yobuko-genkai-squid-stay',
+    url: 'https://croud-travel.pages.dev/saga-karatsu-yobuko-genkai-squid-stay/',
   },
 };
 

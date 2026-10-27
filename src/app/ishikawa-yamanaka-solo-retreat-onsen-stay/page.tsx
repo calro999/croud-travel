@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '山中温泉ひとり旅・鶴仙渓おこもり：芭蕉も称賛の名湯・あやとり橋・加賀会席！大聖寺川の渓谷美と山中漆器の街でととのう厳選3宿',
     description: '松尾芭蕉が日本三名湯と讃えた山中温泉！鶴仙渓沿いで露天風呂と加賀能登の美食会席が評判の最高峰「吉祥やまなか」、創業八百年の歴史と渓流野天風呂を誇る名門「白鷺湯たわらや」、大聖寺川のせせらぎに包まれる「河鹿荘」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/ishikawa-yamanaka-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/ishikawa-yamanaka-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/ishikawa-yamanaka-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/ishikawa-yamanaka-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【山中温泉ひとり旅・鶴仙渓おこもり】芭蕉も称賛の名湯・あやとり橋・加賀会席！大聖寺川の渓谷美と山中漆器の街でととのう厳選3宿","item":"https://croud-travel.pages.dev/ishikawa-yamanaka-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【山中温泉ひとり旅・鶴仙渓おこもり】芭蕉も称賛の名湯・あやとり橋・加賀会席！大聖寺川の渓谷美と山中漆器の街でととのう厳選3宿","item":"https://croud-travel.pages.dev/ishikawa-yamanaka-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

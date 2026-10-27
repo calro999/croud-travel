@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '山形出張＆麺王国ひとり旅：山形駅直結・シモンズベッド・絶品山形牛！ラーメン消費量日本一の街を満喫する極上ホテル 厳選3選',
     description: '山形新幹線つばさ直結・ラーメンの聖地＆果樹王国「山形」！「JR山形駅東西自由通路直結のフラッグシップ」の「ホテルメトロポリタン山形」、駅西口徒歩2分で全室シモンズベッド完備の「リッチモンドホテル山形駅前」、七日町歓楽街近くの「山形グランドホテル」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/yamagata-solo-business-yamagatagyu-ramen-stay',
+    url: 'https://croud-travel.pages.dev/yamagata-solo-business-yamagatagyu-ramen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T15:45:00+09:00',
     dateModified: '2026-10-19T15:45:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/yamagata-solo-business-yamagatagyu-ramen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/yamagata-solo-business-yamagatagyu-ramen-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【山形出張＆麺王国ひとり旅】山形駅直結・シモンズベッド・絶品山形牛！ラーメン消費量日本一の街を満喫する極上ホテル 厳選3選","item":"https://croud-travel.pages.dev/yamagata-solo-business-yamagatagyu-ramen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【山形出張＆麺王国ひとり旅】山形駅直結・シモンズベッド・絶品山形牛！ラーメン消費量日本一の街を満喫する極上ホテル 厳選3選","item":"https://croud-travel.pages.dev/yamagata-solo-business-yamagatagyu-ramen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

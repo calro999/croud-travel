@@ -199,7 +199,7 @@ export default function HakoneDaytripHotspringLunchPage() {
         <div className="text-xs font-bold text-cyan-800 mb-2">合わせてチェックしたい箱根ガイド</div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <Link
-            href="/hakone-travel-budget-guide"
+            href="/hakone-travel-budget-guide/"
             className="p-4 bg-white rounded-2xl border border-cyan-100 hover:border-cyan-400 transition shadow-sm group flex items-start justify-between"
           >
             <div>
@@ -212,7 +212,7 @@ export default function HakoneDaytripHotspringLunchPage() {
           </Link>
 
           <Link
-            href="/hakone-vs-atami-which-better"
+            href="/hakone-vs-atami-which-better/"
             className="p-4 bg-white rounded-2xl border border-cyan-100 hover:border-cyan-400 transition shadow-sm group flex items-start justify-between"
           >
             <div>

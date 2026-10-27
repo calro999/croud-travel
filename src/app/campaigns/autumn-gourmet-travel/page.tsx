@@ -36,7 +36,7 @@ export default function AutumnGourmetTravelPage() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集・まとめ記事一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集・まとめ記事一覧</Link>
         <span>/</span>
         <span className="text-amber-950 font-bold">秋の味覚＆紅葉温泉宿特集</span>
       </nav>
@@ -62,13 +62,13 @@ export default function AutumnGourmetTravelPage() {
         {/* 冬特集へのスムーズな切り替え導線 */}
         <div className="pt-2 flex flex-wrap gap-3">
           <Link
-            href="/winter-travel-special"
+            href="/winter-travel-special/"
             className="inline-flex items-center gap-2 px-5 py-2.5 bg-sky-900/80 hover:bg-sky-950 text-sky-100 hover:text-white text-xs font-bold rounded-2xl border border-sky-400/40 backdrop-blur-sm transition shadow-sm"
           >
             <span>❄️ 冬の絶景＆美食特集まとめを見る →</span>
           </Link>
           <Link
-            href="/campaigns"
+            href="/campaigns/"
             className="inline-flex items-center gap-2 px-5 py-2.5 bg-white/20 hover:bg-white/30 text-white text-xs font-bold rounded-2xl border border-white/30 backdrop-blur-sm transition shadow-sm"
           >
             <span>🏷️ 楽天トラベルお得クーポン特集</span>
@@ -92,7 +92,7 @@ export default function AutumnGourmetTravelPage() {
         </p>
         <div className="pt-2">
           <Link
-            href="/winter-travel-special"
+            href="/winter-travel-special/"
             className="inline-block px-8 py-3.5 bg-sky-400 hover:bg-sky-300 text-sky-950 text-xs md:text-sm font-black rounded-2xl shadow-lg transition"
           >
             冬の厳選特集まとめを見る ❄️ →

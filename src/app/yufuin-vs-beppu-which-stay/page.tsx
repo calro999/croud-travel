@@ -183,7 +183,7 @@ export default function YufuinVsBeppuPage() {
                 福岡方面から由布院・別府へのアクセスは、バスと電車のどちらが良いのでしょうか？
                 時間・料金・快適さを比較した記事も参考にしてください。
               </p>
-              <Link href="/fukuoka-beppu-yufuin-bus-vs-train-guide" className="text-blue-600 font-bold hover:underline">
+              <Link href="/fukuoka-beppu-yufuin-bus-vs-train-guide/" className="text-blue-600 font-bold hover:underline">
                 → 【福岡から別府・由布院】高速バスと特急ソニック・ゆふいんの森はどっちがおすすめ？
               </Link>
             </div>

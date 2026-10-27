@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '南紀白浜温泉をふるさと納税でお得に旅する！白良浜オーシャンビュー＆名門リゾート特集！アドベンチャーワールド観光宿ガイド｜ホテル川久・むさし・白良荘グランドホテル',
     description: '日本三古湯・白砂青松の白良浜が美しい和歌山県南紀白浜温泉を楽天ふるさと納税でお得に満喫！全室スイートの夢の城「ホテル川久」、白良浜徒歩1分・二つの自家源泉を持つ「紀州・白浜温泉 むさし」、オーシャンビュー展望露天風呂の「白良荘グランドホテル」を徹底比較。白浜町トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-adventure-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-adventure-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T17:25:00+09:00',
     dateModified: '2026-10-19T17:25:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-adventure-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-adventure-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【南紀白浜温泉×ふるさと納税】白良浜オーシャンビュー＆名門リゾート特集！アドベンチャーワールド観光宿ガイド｜ホテル川久・むさし・白良荘グランドホテル","item":"https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-adventure-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【南紀白浜温泉×ふるさと納税】白良浜オーシャンビュー＆名門リゾート特集！アドベンチャーワールド観光宿ガイド｜ホテル川久・むさし・白良荘グランドホテル","item":"https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-adventure-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【南紀白浜温泉×ふるさと納税】白良浜オーシャンビュー＆名門リゾート特集！アドベンチャーワールド観光宿ガイド｜ホテル川久・むさし・白良荘グランドホテル</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-ibusuki-onsen-sand-bath-ocean-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-ibusuki-onsen-sand-bath-ocean-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 指宿温泉 天然砂むし温泉＆錦江湾オーシャンビュー特集
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-nyuto-onsen-secret-milky-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-nyuto-onsen-secret-milky-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 乳頭温泉郷 日本屈指の乳白色秘湯＆田沢湖畔特集
               </Link>
             </li>

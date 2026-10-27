@@ -467,7 +467,7 @@ export default function Page() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
             <Link
-              href="/furusato-tax-luxury-hotspring-ryokan-stay"
+              href="/furusato-tax-luxury-hotspring-ryokan-stay/"
               className="group block bg-white rounded-2xl p-6 border border-stone-200 hover:border-amber-400 hover:shadow-md transition duration-300"
             >
               <div className="flex items-center justify-between mb-2">
@@ -486,7 +486,7 @@ export default function Page() {
   
 
             <Link
-              href="/furusato-tax-local-gourmet-inn-stay"
+              href="/furusato-tax-local-gourmet-inn-stay/"
               className="group block bg-white rounded-2xl p-6 border border-stone-200 hover:border-amber-400 hover:shadow-md transition duration-300"
             >
               <div className="flex items-center justify-between mb-2">
@@ -505,7 +505,7 @@ export default function Page() {
   
 
             <Link
-              href="/furusato-tax-travel-after-booking-discount-guide"
+              href="/furusato-tax-travel-after-booking-discount-guide/"
               className="group block bg-white rounded-2xl p-6 border border-stone-200 hover:border-amber-400 hover:shadow-md transition duration-300"
             >
               <div className="flex items-center justify-between mb-2">

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '奇跡の四万ブルーと奥四万湖の錦秋カヌー！千と千尋のモデル積善館＆名湯宿×ふるさと納税厳選ガイド群馬',
     description: '10月下旬〜11月上旬に見頃を迎える「四万温泉」と「奥四万湖（おくしまこ）」。幻想的なコバルトブルーの水面に映る紅葉とカヌーツアー、日本最古の木造湯宿建築『積善館』や『四万たむら』『あやめや旅館』で四万の病を癒やす名湯と上州牛会席を堪能。楽天ふるさと納税トラベルクーポンで実質2,000円で泊まるレトロ温泉ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-shima-onsen-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-shima-onsen-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">群馬・四万温泉 四万ブルー奥四万湖紅葉＆千と千尋名湯宿特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

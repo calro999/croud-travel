@@ -251,7 +251,7 @@ export default function HakoneCoupleAnniversaryGuidePage() {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs md:text-sm">
             <Link
-              href="/hakone-travel-budget-guide"
+              href="/hakone-travel-budget-guide/"
               className="flex items-start gap-3 p-3.5 rounded-xl bg-white border border-rose-200/80 hover:border-rose-400 hover:shadow-md transition group"
             >
               <span className="text-rose-600 font-bold text-base">💰</span>
@@ -265,7 +265,7 @@ export default function HakoneCoupleAnniversaryGuidePage() {
               </div>
             </Link>
             <Link
-              href="/hakone-vs-atami-which-better"
+              href="/hakone-vs-atami-which-better/"
               className="flex items-start gap-3 p-3.5 rounded-xl bg-white border border-rose-200/80 hover:border-rose-400 hover:shadow-md transition group"
             >
               <span className="text-rose-600 font-bold text-base">⚖️</span>

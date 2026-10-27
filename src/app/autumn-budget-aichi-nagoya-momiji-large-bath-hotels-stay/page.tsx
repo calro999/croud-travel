@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の名古屋×格安：東山動植物園の紅葉ライトアップと名古屋めし！大浴場付き1泊3,000円台〜のコスパ最強ホテル5選「2026最新」',
     description: '東山動植物園の紅葉ライトアップと名古屋めし！大浴場付き1泊3,000円台〜のコスパ最強名古屋ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-budget-aichi-nagoya-momiji-large-bath-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-aichi-nagoya-momiji-large-bath-hotels-stay/',
   }
 };
 

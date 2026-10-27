@@ -26,12 +26,12 @@ export const metadata: Metadata = {
   description: '冬の北海道・旭川観光の完全攻略ガイド。積雪期限定の旭山動物園「ペンギンの散歩」の実施時間や見学のコツ。',
   keywords: '旭山動物園, ペンギンの散歩, 旭川観光, 美瑛 青い池 ライトアップ, 白ひげの滝, 旭川ラーメン, 旭川 ホテル 温泉, 冬 北海道 旅行, OMO7旭川, JRイン旭川',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-hokkaido-asahikawa-asahiyama-zoo-penguin-walk-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-hokkaido-asahikawa-asahiyama-zoo-penguin-walk-stay/',
   },
   openGraph: {
     title: '旭川＆旭山動物園：冬のペンギンの散歩と美瑛青い池ライトアップ！名宿5選',
     description: '冬の北海道・旭川観光の完全攻略ガイド。積雪期限定の旭山動物園「ペンギンの散歩」の実施時間や見学のコツ。',
-    url: 'https://croud-travel.pages.dev/winter-hokkaido-asahikawa-asahiyama-zoo-penguin-walk-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-asahikawa-asahiyama-zoo-penguin-walk-stay/',
     siteName: 'トラベルマップ - 日本の観光名所＆ホテル厳選ガイド',
     locale: 'ja_JP',
     type: 'article',
@@ -76,7 +76,7 @@ export default function AsahikawaPenguinWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-hokkaido-asahikawa-asahiyama-zoo-penguin-walk-stay',
+      '@id': 'https://croud-travel.pages.dev/winter-hokkaido-asahikawa-asahiyama-zoo-penguin-walk-stay/',
     },
   };
 
@@ -94,13 +94,13 @@ export default function AsahikawaPenguinWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '特集一覧',
-        item: 'https://croud-travel.pages.dev/features',
+        item: 'https://croud-travel.pages.dev/features/',
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '旭川＆旭山動物園冬特集',
-        item: 'https://croud-travel.pages.dev/winter-hokkaido-asahikawa-asahiyama-zoo-penguin-walk-stay',
+        item: 'https://croud-travel.pages.dev/winter-hokkaido-asahikawa-asahiyama-zoo-penguin-walk-stay/',
       },
     ],
   };
@@ -158,7 +158,7 @@ export default function AsahikawaPenguinWinterPage() {
         <nav className="max-w-6xl mx-auto px-4 sm:px-6 pt-4 pb-2 text-xs text-slate-500 flex items-center gap-1.5 overflow-x-auto">
           <Link href="/" className="hover:text-sky-600 transition">ホーム</Link>
           <span>/</span>
-          <Link href="/features" className="hover:text-sky-600 transition">特集一覧</Link>
+          <Link href="/features/" className="hover:text-sky-600 transition">特集一覧</Link>
           <span>/</span>
           <span className="text-slate-800 font-semibold whitespace-nowrap">旭川＆旭山動物園冬特集</span>
         </nav>
@@ -821,7 +821,7 @@ export default function AsahikawaPenguinWinterPage() {
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
               <Link 
-                href="/winter-hokkaido-monbetsu-drift-ice-garinko-driftice-gourmet-stay"
+                href="/winter-hokkaido-monbetsu-drift-ice-garinko-driftice-gourmet-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition group flex flex-col justify-between"
               >
                 <div>
@@ -833,7 +833,7 @@ export default function AsahikawaPenguinWinterPage() {
               </Link>
 
               <Link 
-                href="/winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay"
+                href="/winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition group flex flex-col justify-between"
               >
                 <div>
@@ -845,7 +845,7 @@ export default function AsahikawaPenguinWinterPage() {
               </Link>
 
               <Link 
-                href="/winter-tottori-sand-dunes-snow-matsubagani-hakuto-shrine-stay"
+                href="/winter-tottori-sand-dunes-snow-matsubagani-hakuto-shrine-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition group flex flex-col justify-between"
               >
                 <div>
@@ -857,7 +857,7 @@ export default function AsahikawaPenguinWinterPage() {
               </Link>
 
               <Link 
-                href="/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay"
+                href="/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-onsen-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition group flex flex-col justify-between"
               >
                 <div>
@@ -871,7 +871,7 @@ export default function AsahikawaPenguinWinterPage() {
 
             <div className="pt-4 border-t border-white/10 text-center">
               <Link 
-                href="/features"
+                href="/features/"
                 className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-white text-slate-900 font-bold text-sm hover:bg-slate-100 transition shadow-sm"
               >
                 全国の特集・まとめ記事一覧を見る

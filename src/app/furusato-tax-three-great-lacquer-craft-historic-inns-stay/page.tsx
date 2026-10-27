@@ -60,7 +60,7 @@ export default function FurusatoRound63ArticlePage() {
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">
           <Link href="/" className="hover:text-stone-900 underline transition">ホーム</Link>
           <span>/</span>
-          <Link href="/travel-savings-guide" className="hover:text-stone-900 underline transition">旅行節約ハブ</Link>
+          <Link href="/travel-savings-guide/" className="hover:text-stone-900 underline transition">旅行節約ハブ</Link>
           <span>/</span>
           <span className="text-stone-800 font-medium">日本三大漆器・伝統工芸と美食旅館ステイ特集</span>
         </nav>
@@ -89,7 +89,7 @@ export default function FurusatoRound63ArticlePage() {
               楽天ふるさと納税トラベルクーポンを獲得する →
             </a>
             <Link
-              href="/furusato-tax-travel-beginners-complete-guide"
+              href="/furusato-tax-travel-beginners-complete-guide/"
               className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-amber-200 font-bold px-5 py-3 rounded-2xl border border-amber-300/20 text-xs sm:text-sm transition"
             >
               📖 初めての方向け完全マニュアル
@@ -343,7 +343,7 @@ export default function FurusatoRound63ArticlePage() {
           <ul className="grid sm:grid-cols-2 gap-2">
 
               <li key="furusato-tax-six-ancient-kilns-pottery-stay">
-                <Link href="/furusato-tax-six-ancient-kilns-pottery-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-six-ancient-kilns-pottery-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本六古窯の里を巡る陶芸美と名旅館（備前・信楽・丹波立杭）</span>
                 </Link>
@@ -351,7 +351,7 @@ export default function FurusatoRound63ArticlePage() {
     
 
               <li key="furusato-tax-three-great-pottery-towns-gourmet-stay">
-                <Link href="/furusato-tax-three-great-pottery-towns-gourmet-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-three-great-pottery-towns-gourmet-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大陶磁器の里＆器と美食温泉宿（有田・美濃・瀬戸）</span>
                 </Link>
@@ -359,7 +359,7 @@ export default function FurusatoRound63ArticlePage() {
     
 
               <li key="furusato-tax-three-great-washi-papers-stay">
-                <Link href="/furusato-tax-three-great-washi-papers-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-three-great-washi-papers-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大和紙＆清流の里手漉き体験宿（越前・美濃・土佐）</span>
                 </Link>
@@ -367,7 +367,7 @@ export default function FurusatoRound63ArticlePage() {
     
 
               <li key="furusato-tax-tangible-cultural-property-architectural-ryokan-stay">
-                <Link href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">登録有形文化財・宮大工名建築旅館</span>
                 </Link>
@@ -385,7 +385,7 @@ export default function FurusatoRound63ArticlePage() {
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
-            href="/travel-savings-guide"
+            href="/travel-savings-guide/"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 text-stone-950 font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition text-sm"
           >
             🏨 旅行節約総合ハブページを見る ➔

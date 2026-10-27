@@ -82,7 +82,7 @@ export default function Page() {
           "@type": "ListItem",
           "position": 2,
           "name": "冬の厳選特集",
-          "item": "https://croud-travel.pages.dev/features"
+          "item": "https://croud-travel.pages.dev/features/"
         },
         {
           "@type": "ListItem",
@@ -186,7 +186,7 @@ export default function Page() {
                 TOP
               </Link>
               <ChevronRight className="w-3 h-3 text-cyan-400" />
-              <Link href="/features" className="text-cyan-200 hover:text-white transition-colors">
+              <Link href="/features/" className="text-cyan-200 hover:text-white transition-colors">
                 冬の厳選特集
               </Link>
               <ChevronRight className="w-3 h-3 text-cyan-400" />
@@ -761,47 +761,47 @@ export default function Page() {
                 </Link>
               </li>
               <li>
-                <Link href="/features" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+                <Link href="/features/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                   <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                   <span>全国の季節・目的別旅行特集一覧</span>
                 </Link>
               </li>
 
             <li>
-              <Link href="/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+              <Link href="/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                 <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                 <span>【日南・鵜戸神宮初詣＆伊勢海老】冬の宮崎海岸リゾート名宿</span>
               </Link>
             </li>
 
             <li>
-              <Link href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+              <Link href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                 <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                 <span>【青島温泉・鬼の洗濯板と宮崎牛】冬の南国温泉リゾート名宿</span>
               </Link>
             </li>
 
             <li>
-              <Link href="/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+              <Link href="/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                 <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                 <span>【日向・馬ヶ背＆クルスの海】冬の日向灘伊勢海老と宮崎牛名宿</span>
               </Link>
             </li>
 
             <li>
-              <Link href="/winter-miyazaki-ebino-plateau-shiratori-onsen-miyazakigyu-stay" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+              <Link href="/winter-miyazaki-ebino-plateau-shiratori-onsen-miyazakigyu-stay/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                 <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                 <span>【えびの高原・白鳥温泉と樹氷】冬の霧島連山と宮崎牛名宿</span>
               </Link>
             </li>
               <li>
-                <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+                <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                   <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                   <span>実質2,000円で泊まる名湯・高級温泉旅館ガイド</span>
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-local-gourmet-inn-stay" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+                <Link href="/furusato-tax-local-gourmet-inn-stay/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                   <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                   <span>ご当地グルメを堪能する全国美食旅特集</span>
                 </Link>

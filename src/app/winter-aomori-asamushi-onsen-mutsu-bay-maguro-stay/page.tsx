@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '浅虫温泉で過ごす冬の旅（11・12月）！津軽海峡冬本マグロ！名宿5選',
     description: '11月から12月にかけて青森の奥座敷「浅虫温泉」は、初冠雪を戴く八甲田連峰を背に位置する注目の宿と観光モデルコースをご案内します。',
-    url: 'https://croud-travel.pages.dev/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay',
+    url: 'https://croud-travel.pages.dev/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function AsamushiOnsenWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay"
+          "@id": "https://croud-travel.pages.dev/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay/"
         },
         "headline": "【11・12月青森・浅虫温泉の初冬陸奥湾絶景と開湯千二百年名湯】津軽海峡冬本マグロ・肉厚陸奥湾ホタテ＆津軽三味線響く宿5選",
         "description": "11月から12月にかけて青森の奥座敷「浅虫温泉」は、初冠雪を戴く八甲田連峰を背に、冷たい潮風が吹き抜ける陸奥湾（青森湾）の海原と湯の島が水墨画のように浮かぶ風光明媚な初冬の季節を迎えます。平安時代に慈覚大師円仁が開湯したと伝わる名湯は、肌触り柔らかで体の芯まで温もりを届ける無色透明の弱アルカリ性単純温泉。津軽海峡の荒波で脂が乗り切った最高峰の「冬の本マグロ」、陸奥湾の恵みが凝縮した肉厚で甘みたっぷりの「活ホタテ」、毎夜ロビーに力強く響き渡る津軽三味線の生演奏、棟方志功ゆかりの芸術情緒を堪能する厳選名宿5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function AsamushiOnsenWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "青森・浅虫温泉 初冬陸奥湾絶景と本マグロ・津軽三味線の宿",
-            "item": "https://croud-travel.pages.dev/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay"
+            "item": "https://croud-travel.pages.dev/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay/"
           }
         ]
       },
@@ -592,42 +592,42 @@ export default function AsamushiOnsenWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay"
+              href="/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">青森・奥入瀬渓流＆八甲田</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">青氷の氷瀑ライトアップと秘湯酸ヶ湯・八甲田パウダースノーの宿</h3>
             </Link>
             <Link 
-              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay"
+              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">北海道・函館湯の川温泉</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">津軽海峡の漁火露天風呂と冬海鮮バイキング・函館山夜景の宿</h3>
             </Link>
             <Link 
-              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay"
+              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">岩手・花巻温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">渓流雪見露天風呂と前沢牛ステーキ・宮沢賢治ゆかりの名宿</h3>
             </Link>
             <Link 
-              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay"
+              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">秋田・乳頭温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">ブナ原生林の雪見混浴露天と名物きりたんぽ鍋・七名湯めぐりの宿</h3>
             </Link>
             <Link 
-              href="/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay"
+              href="/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">山形・赤湯温泉</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">置賜盆地雲海と開湯920年名湯・特選米沢牛＆老舗赤湯ワインの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">特集一覧</span>

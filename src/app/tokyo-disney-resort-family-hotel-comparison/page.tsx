@@ -441,7 +441,7 @@ export default function DisneyFamilyHotelComparisonPage() {
 
         <div className="pt-2">
           <Link
-            href="/tokyo-osaka-bus-vs-shinkansen-guide"
+            href="/tokyo-osaka-bus-vs-shinkansen-guide/"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-700 hover:to-amber-800 text-white font-black text-sm px-6 py-3 rounded-xl shadow transition"
           >
             <span>【東京〜大阪】安く行く方法！新幹線 vs 夜行高速バス徹底比較を読む</span>

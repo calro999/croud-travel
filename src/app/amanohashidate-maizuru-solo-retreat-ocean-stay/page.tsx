@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '天橋立・舞鶴ひとり旅：日本三景パノラマ・茶褐色天橋立温泉・若狭湾の海の幸！海の京都でととのう厳選3宿',
     description: '京都駅から特急はしだてで直通約2時間！天橋立駅前で松並木を望む展望露天風呂が自慢の「天橋立ホテル」、運河沿いに佇み吉村順三設計の数寄屋建築が美しい「文珠荘」、舞鶴港・東舞鶴駅近くで出張や軍港巡りに便利な「ホテルアマービレ舞鶴」を楽天APIデータに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/amanohashidate-maizuru-solo-retreat-ocean-stay',
+    url: 'https://croud-travel.pages.dev/amanohashidate-maizuru-solo-retreat-ocean-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T17:40:00+09:00',
     dateModified: '2026-10-19T17:40:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/amanohashidate-maizuru-solo-retreat-ocean-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/amanohashidate-maizuru-solo-retreat-ocean-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【天橋立・舞鶴ひとり旅】日本三景パノラマ・茶褐色天橋立温泉・若狭湾の海の幸！海の京都でととのう厳選3宿","item":"https://croud-travel.pages.dev/amanohashidate-maizuru-solo-retreat-ocean-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【天橋立・舞鶴ひとり旅】日本三景パノラマ・茶褐色天橋立温泉・若狭湾の海の幸！海の京都でととのう厳選3宿","item":"https://croud-travel.pages.dev/amanohashidate-maizuru-solo-retreat-ocean-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

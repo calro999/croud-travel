@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'あわら温泉ひとり旅・関西の奥座敷おこもり：74本もの独自源泉・庭園露天風呂・越前がにと若狭牛！北陸新幹線延伸で注目の名湯厳選3宿',
     description: '関西・中京の奥座敷として愛され続ける福井屈指の名湯・あわら温泉！大浴場や露天風呂で自家源泉をゆったり堪能できる名宿「越前あわら温泉 長谷川」、北陸最大級の庭園露天風呂や多彩な湯殿を誇る「北陸 福井 あわら温泉 美松」、落ち着いた木造の温もりと静寂が魅力の「あわら温泉 みのや泰平閣」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/fukui-awara-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/fukui-awara-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/fukui-awara-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/fukui-awara-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【あわら温泉ひとり旅・関西の奥座敷おこもり】74本もの独自源泉・庭園露天風呂・越前がにと若狭牛！北陸新幹線延伸で注目の名湯厳選3宿","item":"https://croud-travel.pages.dev/fukui-awara-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【あわら温泉ひとり旅・関西の奥座敷おこもり】74本もの独自源泉・庭園露天風呂・越前がにと若狭牛！北陸新幹線延伸で注目の名湯厳選3宿","item":"https://croud-travel.pages.dev/fukui-awara-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

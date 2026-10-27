@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: '静寂に包まれる鍋島藩窯の里「大川内山」の冬景色と有田・陶山神社の新春初詣！日本屈指の黒毛和牛「伊万里牛」の極上すき焼き・ステーキ、源泉掛け流し温泉で心身を解きほぐす至福の冬旅おすすめ名宿5選。',
   keywords: ['佐賀県冬旅行', '伊万里・有田・西松浦', '冬温泉', '2026', '2027', '雪景色', '冬の味覚', '楽天トラベル', 'ふるさと納税'],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-saga-imari-arita-ookawachiyama-imarigyu-pottery-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-saga-imari-arita-ookawachiyama-imarigyu-pottery-stay/',
   },
   openGraph: {
     title: '秘窯の里大川内山と最高峰伊万里牛：2026-2027年冬の佐賀・伊万里＆有田！名窯巡りと美食名宿5選',
     description: '静寂に包まれる鍋島藩窯の里「大川内山」の冬景色と有田・陶山神社の新春初詣！日本屈指の黒毛和牛「伊万里牛」の極上すき焼き・ステーキ、源泉掛け流し温泉で心身を解きほぐす至福の冬旅おすすめ名宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-saga-imari-arita-ookawachiyama-imarigyu-pottery-stay',
+    url: 'https://croud-travel.pages.dev/winter-saga-imari-arita-ookawachiyama-imarigyu-pottery-stay/',
     siteName: 'クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -89,7 +89,7 @@ export default function Page() {
             '@type': 'ListItem',
             position: 3,
             name: '【秘窯の里大川内山と最高峰伊万里牛】2026-2027年冬の佐賀・伊万里＆有田！名窯巡りと美食名宿5選',
-            item: 'https://croud-travel.pages.dev/winter-saga-imari-arita-ookawachiyama-imarigyu-pottery-stay'
+            item: 'https://croud-travel.pages.dev/winter-saga-imari-arita-ookawachiyama-imarigyu-pottery-stay/'
           }
         ]
       }
@@ -656,15 +656,15 @@ export default function Page() {
                 <span>佐賀県のおすすめ観光名所＆温泉宿一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/features" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/features/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>全国の季節・目的別旅行特集一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>実質2,000円で泊まる名湯・高級温泉旅館ガイド</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-local-gourmet-inn-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-local-gourmet-inn-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>ご当地グルメを堪能する全国美食旅特集</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>

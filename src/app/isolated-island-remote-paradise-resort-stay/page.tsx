@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：青い海と島時間に包まれる！日本の秘境・離島リゾート＆隠れ家温泉宿5選',
     description: '2026年最新！小豆島・屋久島・佐渡島・奄美大島など、豊かな自然と海に囲まれた離島の極上リゾート＆温泉宿5選。喧騒から離れた究極の島旅へ。',
-    url: 'https://croud-travel.pages.dev/isolated-island-remote-paradise-resort-stay',
+    url: 'https://croud-travel.pages.dev/isolated-island-remote-paradise-resort-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/isolated-island-remote-paradise-resort-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/isolated-island-remote-paradise-resort-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">離島リゾート×秘境島温泉</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             船や飛行機で渡る非日常の島旅。どこまでも透明な青い海、島風がそよぐパームツリー、採れたての新鮮な島魚や郷土料理、そして波の音だけが響く露天風呂。手つかずの大自然と温かな島時間に包まれる贅沢な離島ステイをご紹介します。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】青い海と島時間に包まれる！日本の秘境・離島リゾート＆隠れ家温泉宿5選" url="https://croud-travel.pages.dev/isolated-island-remote-paradise-resort-stay" />
+            <ShareButtons title="【2026年】青い海と島時間に包まれる！日本の秘境・離島リゾート＆隠れ家温泉宿5選" url="https://croud-travel.pages.dev/isolated-island-remote-paradise-resort-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】青い海と島時間に包まれる！日本の秘境・離島リゾート＆隠れ家温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/isolated-island-remote-paradise-resort-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】青い海と島時間に包まれる！日本の秘境・離島リゾート＆隠れ家温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/isolated-island-remote-paradise-resort-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

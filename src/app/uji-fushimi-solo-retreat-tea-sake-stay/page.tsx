@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '宇治・伏見ひとり旅・歴史おこもり：宇治川のせせらぎ・世界遺産平等院鳳凰堂・伏見酒蔵めぐり！京の奥座敷で心調律する厳選3宿',
     description: '京都駅からJR奈良線や近鉄で約15〜20分！宇治川のほとりに佇み全室リバービューの老舗料亭旅館「花やしき浮舟園」、伏見稲荷大社や伏見酒蔵巡りの拠点に最適な「アーバンホテル京都」、JR宇治駅徒歩約3分でビジネス・観光のフットワーク抜群な「宇治第一ホテル」を楽天APIデータに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/uji-fushimi-solo-retreat-tea-sake-stay',
+    url: 'https://croud-travel.pages.dev/uji-fushimi-solo-retreat-tea-sake-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T18:00:00+09:00',
     dateModified: '2026-10-19T18:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/uji-fushimi-solo-retreat-tea-sake-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/uji-fushimi-solo-retreat-tea-sake-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【宇治・伏見ひとり旅・歴史おこもり】宇治川のせせらぎ・世界遺産平等院鳳凰堂・伏見酒蔵めぐり！京の奥座敷で心調律する厳選3宿","item":"https://croud-travel.pages.dev/uji-fushimi-solo-retreat-tea-sake-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【宇治・伏見ひとり旅・歴史おこもり】宇治川のせせらぎ・世界遺産平等院鳳凰堂・伏見酒蔵めぐり！京の奥座敷で心調律する厳選3宿","item":"https://croud-travel.pages.dev/uji-fushimi-solo-retreat-tea-sake-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

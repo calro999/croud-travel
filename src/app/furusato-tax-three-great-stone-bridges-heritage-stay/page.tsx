@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '日本三大眼鏡橋＆石造アーチの造形美・川風感じる水辺宿×ふるさと納税厳選ガイド長崎眼鏡橋・諫早眼鏡橋・熊本霊台橋',
     description: '石工たちの知恵と技術が生んだアーチの奇跡！長崎「長崎眼鏡橋」中島川の水面に丸い眼鏡を描く日本最古の石橋とホテルモントレ長崎、長崎「諫早眼鏡橋」本明川の洪水に耐えた雄大な二連石橋と喜々津ステーションホテル、熊本美里「霊台橋」単一アーチ橋として日本最大級の緑川の名橋と美里・熊本ステイ。川辺の散策と名物グルメ、温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-stone-bridges-heritage-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-stone-bridges-heritage-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -419,7 +419,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-bridges-history-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-bridges-history-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大名橋＆歴史を刻む名構造物ステイ×ふるさと納税完全ガイド
               </div>
@@ -427,7 +427,7 @@ export default function Page() {
                 日本橋・錦帯橋・眼鏡橋。
               </p>
             </Link>
-            <Link href="/furusato-tax-three-great-unusual-bridges-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-unusual-bridges-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大奇橋＆秘境に架かる名橋宿×ふるさと納税完全ガイド
               </div>
@@ -435,7 +435,7 @@ export default function Page() {
                 猿橋・祖谷かずら橋・錦帯橋。
               </p>
             </Link>
-            <Link href="/furusato-tax-three-great-castles-historic-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-castles-historic-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大名城＆不落の巨城を望む城見ステイ×ふるさと納税完全ガイド
               </div>

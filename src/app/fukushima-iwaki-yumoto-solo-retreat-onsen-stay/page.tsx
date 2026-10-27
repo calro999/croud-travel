@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'いわき湯本温泉ひとり旅・三函の名湯おこもり：日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿',
     description: '有馬・道後と並ぶ日本三古湯「三函の湯」・いわき湯本！日本庭園と檜露天風呂が心温まる「吹の湯旅館」、小名浜港直送の絶品魚料理が評判の料理宿「鮮の宿 柏」、野口雨情ゆかりの庭園露天風呂を誇る名門「雨情の宿 新つた」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/fukushima-iwaki-yumoto-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/fukushima-iwaki-yumoto-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/fukushima-iwaki-yumoto-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/fukushima-iwaki-yumoto-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【いわき湯本温泉ひとり旅・三函の名湯おこもり】日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿","item":"https://croud-travel.pages.dev/fukushima-iwaki-yumoto-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【いわき湯本温泉ひとり旅・三函の名湯おこもり】日本三古湯・毎分5トン自噴硫黄泉・常磐もの海鮮！フラガール温泉郷厳選3宿","item":"https://croud-travel.pages.dev/fukushima-iwaki-yumoto-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

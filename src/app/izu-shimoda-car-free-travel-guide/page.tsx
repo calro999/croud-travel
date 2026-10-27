@@ -263,7 +263,7 @@ export default function IzuShimodaCarFreeTravelGuidePage() {
             </p>
           </div>
           <Link
-            href="/tokyo-izu-atami-bus-vs-train-guide"
+            href="/tokyo-izu-atami-bus-vs-train-guide/"
             className="shrink-0 bg-white text-cyan-900 hover:bg-cyan-100 font-black px-4 py-2.5 rounded-xl transition shadow text-xs"
           >
             東京〜伊豆・熱海アクセス比較を見る →
@@ -477,7 +477,7 @@ export default function IzuShimodaCarFreeTravelGuidePage() {
         </h3>
         <div className="grid md:grid-cols-2 gap-4">
           <Link
-            href="/tokyo-izu-atami-bus-vs-train-guide"
+            href="/tokyo-izu-atami-bus-vs-train-guide/"
             className="p-4 bg-white rounded-2xl border border-slate-200 hover:border-cyan-400 hover:shadow-sm transition group"
           >
             <div className="text-[11px] font-bold text-cyan-600 mb-1">アクセス徹底比較</div>
@@ -486,7 +486,7 @@ export default function IzuShimodaCarFreeTravelGuidePage() {
             </div>
           </Link>
           <Link
-            href="/atami-izu-travel-budget-guide"
+            href="/atami-izu-travel-budget-guide/"
             className="p-4 bg-white rounded-2xl border border-slate-200 hover:border-cyan-400 hover:shadow-sm transition group"
           >
             <div className="text-[11px] font-bold text-cyan-600 mb-1">旅行費用シミュレーション</div>

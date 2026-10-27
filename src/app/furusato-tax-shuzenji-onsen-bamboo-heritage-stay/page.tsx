@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '修善寺温泉をふるさと納税でお得に旅する！伊豆最古の名湯・竹林の小径散策＆国の登録文化財！歴史名宿特集｜菊屋・新井旅館・宙SORA',
     description: '弘法大師が開いた伊豆最古の名湯・静岡県修善寺温泉を楽天ふるさと納税でお得に満喫！創業四百年・夏目漱石ゆかりの「湯回廊 菊屋」、国の登録有形文化財十五棟を誇る「新井旅館」、一万五千坪の名庭園と展望風呂の「宙 SORA 渡月荘金龍」を徹底比較。伊豆牛会席や伊豆市トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-shuzenji-onsen-bamboo-heritage-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-shuzenji-onsen-bamboo-heritage-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T17:00:00+09:00',
     dateModified: '2026-10-19T17:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-shuzenji-onsen-bamboo-heritage-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-shuzenji-onsen-bamboo-heritage-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【修善寺温泉×ふるさと納税】伊豆最古の名湯・竹林の小径散策＆国の登録文化財！歴史名宿特集｜菊屋・新井旅館・宙SORA","item":"https://croud-travel.pages.dev/furusato-tax-shuzenji-onsen-bamboo-heritage-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【修善寺温泉×ふるさと納税】伊豆最古の名湯・竹林の小径散策＆国の登録文化財！歴史名宿特集｜菊屋・新井旅館・宙SORA","item":"https://croud-travel.pages.dev/furusato-tax-shuzenji-onsen-bamboo-heritage-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【修善寺温泉×ふるさと納税】伊豆最古の名湯・竹林の小径散策＆国の登録文化財！歴史名宿特集｜菊屋・新井旅館・宙SORA</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-tsukioka-onsen-emerald-bihada-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-tsukioka-onsen-emerald-bihada-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 月岡温泉 エメラルドグリーン硫黄泉＆極上越後会席
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-shima-onsen-retro-sekizenkan-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-shima-onsen-retro-sekizenkan-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 四万温泉 レトロ重要文化財「元禄の湯」＆四万ブルー
               </Link>
             </li>

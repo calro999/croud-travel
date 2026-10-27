@@ -47,6 +47,7 @@ interface Post {
   meal_availability?: string;
   is_special_feature?: boolean;
   featured_hotels?: FeaturedHotelItem[];
+  content?: string;
 }
 
 export const dynamicParams = false;
@@ -93,8 +94,9 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   try {
     const fileContent = fs.readFileSync(postPath, "utf-8");
     const post: Post = JSON.parse(fileContent);
-    const descriptionText = post.description || (post.review
-      ? post.review.replace(/<[^>]*>/g, "").slice(0, 120) + "..."
+    const bodyText = post.review || post.content || "";
+    const descriptionText = post.description || (bodyText
+      ? bodyText.replace(/<[^>]*>/g, "").slice(0, 120) + "..."
       : `${post.prefecture}の観光魅力と厳選宿「${post.hotel_name}」を紹介する旅行マガジンルポ記事です。`);
 
     const keywordExtras = [
@@ -381,7 +383,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
             <div className="flex flex-wrap items-center gap-2.5 text-[10px] font-extrabold text-teal-900/50 uppercase tracking-widest">
               <span>{post.date}</span>
               <span>•</span>
-              <span className="text-amber-600 font-bold">{post.area} / {post.prefecture}</span>
+              <span className="text-amber-600 font-bold">{post.area} // {post.prefecture}</span>
               {post.rating && (
                 <>
                   <span>•</span>
@@ -448,8 +450,9 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
         {(() => {
           const safePrefForToc = post.prefecture || "";
           const cleanPrefForToc = safePrefForToc.replace(/(県|府|東京都)$/, "");
+          const articleBody = post.review || post.content || "";
           const hasMatchedSpots = SPOTS_DATA.some(s => {
-            const textToSearch = `${post.title || ""} ${post.hotel_name || ""} ${post.area || ""} ${post.review || ""}`.toLowerCase();
+            const textToSearch = `${post.title || ""} ${post.hotel_name || ""} ${post.area || ""} ${articleBody}`.toLowerCase();
             const isPrefMatch = s.prefName === safePrefForToc || s.prefName.replace(/(県|府|東京都)$/, "") === cleanPrefForToc;
             return isPrefMatch && s.hotelKeywords.some(kw => textToSearch.includes(kw.toLowerCase()));
           });
@@ -459,7 +462,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
               hasFaq={true}
               hasSpots={!post.is_special_feature && hasMatchedSpots}
               isSpecialFeature={post.is_special_feature}
-              wordCount={(post.review || "").length}
+              wordCount={articleBody.length}
             />
           );
         })()}
@@ -563,7 +566,8 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
               const safePref = post.prefecture || "";
               const cleanPref = safePref.replace(/(県|府|東京都)$/, "");
               const matchedSpots = SPOTS_DATA.filter(s => {
-                const textToSearch = `${post.title || ""} ${post.hotel_name || ""} ${post.area || ""} ${post.review || ""}`.toLowerCase();
+                const bodyStr = post.review || post.content || "";
+                const textToSearch = `${post.title || ""} ${post.hotel_name || ""} ${post.area || ""} ${bodyStr}`.toLowerCase();
                 const isPrefMatch = s.prefName === safePref || s.prefName.replace(/(県|府|東京都)$/, "") === cleanPref;
                 const isKwMatch = s.hotelKeywords.some(kw => textToSearch.includes(kw.toLowerCase()));
                 return isPrefMatch && isKwMatch;
@@ -626,7 +630,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
         <div id="section-report" className="scroll-mt-24 prose prose-emerald max-w-none text-emerald-950/80 space-y-6 leading-relaxed text-sm md:text-base font-medium pt-8 border-t border-emerald-950/5">
           <div
             className="review-content-html"
-            dangerouslySetInnerHTML={{ __html: post.review }}
+            dangerouslySetInnerHTML={{ __html: post.review || post.content || "" }}
           />
         </div>
 
@@ -634,7 +638,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title={post.title}
-            url={`${baseUrl}/posts/${post.id}`}
+            url={`${baseUrl}/posts/${post.id}/`}
             hotelName={post.hotel_name}
           />
         </div>
@@ -686,8 +690,9 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
 
         {/* 🔍 次にユーザーが検索する疑問＆先回りガイド（内部リンク網） */}
         {(() => {
+          const bodyStr = post.review || post.content || "";
           const matchedSpot = SPOTS_DATA.find(s => {
-            const textToSearch = `${post.title || ""} ${post.hotel_name || ""} ${post.area || ""} ${post.review || ""}`.toLowerCase();
+            const textToSearch = `${post.title || ""} ${post.hotel_name || ""} ${post.area || ""} ${bodyStr}`.toLowerCase();
             const isPrefMatch = s.prefName === safePref || s.prefName.replace(/(県|府|東京都)$/, "") === safePref.replace(/(県|府|東京都)$/, "");
             return isPrefMatch && s.hotelKeywords.some(kw => textToSearch.includes(kw.toLowerCase()));
           });

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '加賀温泉郷で過ごす冬の旅（11・12月）！山代！名宿5選',
     description: '11月6日の北陸冬の風物詩・ズワイガニ漁解禁とともに美食の最盛期を迎える石川県・加賀温泉郷（山代温泉・山中温泉）。',
-    url: 'https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-kano-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-kano-crab-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function KagaWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-kano-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-kano-crab-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function KagaWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月加賀温泉郷】山代！名宿5選","item":"https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-kano-crab-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月加賀温泉郷】山代！名宿5選","item":"https://croud-travel.pages.dev/winter-ishikawa-kaga-yamashiro-kano-crab-stay/"}]}) }}
       />
         
         {/* Intro */}
@@ -620,7 +620,7 @@ export default function KagaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link 
-              href="/winter-crab-gourmet-luxury-inn-ranking"
+              href="/winter-crab-gourmet-luxury-inn-ranking/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">冬の味覚の王様</span>
@@ -630,7 +630,7 @@ export default function KagaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">山陰の松葉ガニ名湯</span>
@@ -640,7 +640,7 @@ export default function KagaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">ラジウム名湯＆カニ</span>
@@ -650,7 +650,7 @@ export default function KagaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay"
+              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">東海の美肌名湯</span>
@@ -660,7 +660,7 @@ export default function KagaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kyoto-arashiyama-onsen-yudofu-stay"
+              href="/winter-kyoto-arashiyama-onsen-yudofu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">京都の冬情緒</span>
@@ -670,7 +670,7 @@ export default function KagaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay"
+              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">会津の初雪名湯</span>

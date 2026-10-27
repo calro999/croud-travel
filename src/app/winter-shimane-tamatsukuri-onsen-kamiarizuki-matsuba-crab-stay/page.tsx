@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '玉造温泉で過ごす冬の旅（11・12月）！山陰松葉蟹！名宿5選',
     description: '全国の八百万の神々が集う11月の出雲「神在月」。奈良時代の風土記に「神の湯」と記された日本最古の美肌温泉・玉造温泉で潤い、11月解禁の山陰松葉がに会席としまね和牛を堪能。玉湯川沿いの初冬風情と出雲大社参拝を叶える厳選名宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -88,7 +88,7 @@ export default function TamatsukuriWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay/"
         }
       },
       {
@@ -312,7 +312,7 @@ export default function TamatsukuriWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月玉造温泉】山陰松葉蟹！名宿5選","item":"https://croud-travel.pages.dev/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月玉造温泉】山陰松葉蟹！名宿5選","item":"https://croud-travel.pages.dev/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -684,42 +684,42 @@ export default function TamatsukuriWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-tottori-kaike-onsen-matsuba-crab-stay"
+              href="/winter-tottori-kaike-onsen-matsuba-crab-stay/"
               className="bg-indigo-900/80 hover:bg-indigo-900 p-4 rounded-2xl transition border border-indigo-800/50 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">鳥取・皆生</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">皆生温泉 日本海一望オーシャンビュー露天と松葉ガニの宿</h3>
             </Link>
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="bg-indigo-900/80 hover:bg-indigo-900 p-4 rounded-2xl transition border border-indigo-800/50 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">鳥取・三朝</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">三朝温泉 世界屈指のラドン温泉と鳥取松葉ガニ会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay"
+              href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay/"
               className="bg-indigo-900/80 hover:bg-indigo-900 p-4 rounded-2xl transition border border-indigo-800/50 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">山口・長門湯本</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">長門湯本温泉 音信川冬灯りと下関直送活本とらふぐの宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"
               className="bg-indigo-900/80 hover:bg-indigo-900 p-4 rounded-2xl transition border border-indigo-800/50 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">兵庫・城崎</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">城崎温泉 七つの外湯巡りと本場松葉ガニ会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-fukui-awara-onsen-echizen-crab-stay"
+              href="/winter-fukui-awara-onsen-echizen-crab-stay/"
               className="bg-indigo-900/80 hover:bg-indigo-900 p-4 rounded-2xl transition border border-indigo-800/50 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">福井・あわら</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">あわら温泉 庭園露天風呂と黄色いタグ付き越前がにの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-indigo-900/80 hover:bg-indigo-900 p-4 rounded-2xl transition border border-indigo-800/50 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">特集一覧</span>

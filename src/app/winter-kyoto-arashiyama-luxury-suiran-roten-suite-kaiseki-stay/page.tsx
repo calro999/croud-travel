@@ -15,12 +15,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: '【保津川渓流沿いの歴史美と嵐山温泉露天付きプライベートスイート】2026-2027年11-12月初冬の京都・嵐山！世界最高峰「翠嵐 ラグジュアリーコレクションホテル 京都」＆老舗料亭旅館・初冬の渡月橋と極上京懐石名宿5選',
     description: '紅葉の喧騒が落ち着き、凛とした初冬の静寂が包み込む京都・嵐山。保津川の清流沿いに佇む世界的ラグジュアリーホテル「翠嵐 ラグジュアリーコレクションホテル 京都」をはじめ、嵐山温泉の肌触り滑らかな湯を客室露天風呂で愉しむ最高峰の宿。渡月橋や竹林の小径の静かな朝散策と、伝統の技が光る繊細な京懐石・丹波牛会席。日本の美意識の粋を極めた大人の記念日ステイ厳選5選。',
-    url: 'https://croud-travel.pages.dev/winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay',
+    url: 'https://croud-travel.pages.dev/winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay/',
     type: 'article',
     siteName: 'クラウドトラベル',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay/',
   },
 };
 
@@ -46,13 +46,13 @@ export default function UltraLuxuryWinterFeaturePage() {
                   "@type": "ListItem",
                   "position": 2,
                   "name": "特集一覧",
-                  "item": "https://croud-travel.pages.dev/features"
+                  "item": "https://croud-travel.pages.dev/features/"
                 },
                 {
                   "@type": "ListItem",
                   "position": 3,
                   "name": "【保津川渓流沿いの歴史美と嵐山温泉露天付きプライベートスイート】2026-2027年11-12月初冬の京都・嵐山！世界最高峰「翠嵐 ラグジュアリーコレクションホテル 京都」＆老舗料亭旅館・初冬の渡月橋と極上京懐石名宿5選",
-                  "item": "https://croud-travel.pages.dev/winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay"
+                  "item": "https://croud-travel.pages.dev/winter-kyoto-arashiyama-luxury-suiran-roten-suite-kaiseki-stay/"
                 }
               ]
             },
@@ -95,7 +95,7 @@ export default function UltraLuxuryWinterFeaturePage() {
         <div className="max-w-5xl mx-auto flex items-center gap-1.5 flex-wrap">
           <Link href="/" className="hover:text-slate-800 transition">ホーム</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
-          <Link href="/features" className="hover:text-slate-800 transition">特集一覧</Link>
+          <Link href="/features/" className="hover:text-slate-800 transition">特集一覧</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
           <span className="text-slate-800 font-medium truncate max-w-xs">【保津川渓流沿いの歴史美と嵐山温泉露天付きプライベートスイート】2026-2027年11-12月初冬の京都・嵐山！世界最高峰「翠嵐 ラグジュアリーコレクションホテル 京都」＆老舗料亭旅館・初冬の渡月橋と極上京懐石名宿5選</span>
         </div>

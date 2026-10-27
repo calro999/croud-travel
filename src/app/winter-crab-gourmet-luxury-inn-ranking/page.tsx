@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '冬の味覚の王様！極上活蟹・松葉ガニ・越前ガニを心ゆくまで堪能できる厳選温泉宿',
     description: '城崎・三国・皆生など冬の味覚の最高峰「松葉ガニ」「越前ガニ」を活蟹会席で贅沢に堪能できる厳選温泉宿を特集。',
-    url: 'https://croud-travel.pages.dev/winter-crab-gourmet-luxury-inn-ranking',
+    url: 'https://croud-travel.pages.dev/winter-crab-gourmet-luxury-inn-ranking/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-crab-gourmet-luxury-inn-ranking"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/winter-crab-gourmet-luxury-inn-ranking/"
   };
 
   const faqSchema = {
@@ -151,7 +151,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"冬の味覚の王様！極上活蟹・松葉ガニ・越前ガニを心ゆくまで堪能できる厳選温泉宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/winter-crab-gourmet-luxury-inn-ranking"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"冬の味覚の王様！極上活蟹・松葉ガニ・越前ガニを心ゆくまで堪能できる厳選温泉宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/winter-crab-gourmet-luxury-inn-ranking/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -166,7 +166,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">冬の活蟹・カニ尽くし名宿</span>
       </nav>
@@ -284,7 +284,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="冬の味覚の王様！極上活蟹・松葉ガニ・越前ガニを心ゆくまで堪能できる厳選温泉宿"
-            url="https://croud-travel.pages.dev/winter-crab-gourmet-luxury-inn-ranking"
+            url="https://croud-travel.pages.dev/winter-crab-gourmet-luxury-inn-ranking/"
           />
         </div>
 

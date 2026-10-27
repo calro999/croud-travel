@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: "秋の東京ディズニーリゾート（TDR）が熱狂と怪しい魅力に包まれる一大イベント「ディズニー・ハロウィーン」。東京ディズニーランドでは妖しくも魅惑的なヴィランズたちが主役となるパレード「ザ・ヴィランズ・ハロウィーン “Into the Frenzy”」やハロウィーン限定スペシャルまん・チュロスが登場。東京ディズニーシーではアメリカンウォーターフロントの華やかなデコレーションやトリックオアトリート体験が満喫できます。全身仮装のルールや人気アトラクション「ホーンテッドマンション “ホリデーナイトメアー”」の攻略法、そしてパークの余韻に浸りながらゆったり寛げる舞浜オフィシャルホテル＆新浦安パートナーホテル厳選5選を徹底特集。",
   keywords: 'ディズニー ハロウィーン, ディズニー ハロウィン 2026, 舞浜 ホテル ハロウィン, グランドニッコー東京ベイ舞浜, ホテルエミオン東京ベイ, オリエンタルホテル東京ベイ, ディズニーランド 仮装, ホーンテッドマンション ホリデーナイトメアー',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay'
+    canonical: 'https://croud-travel.pages.dev/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay/'
   },
   openGraph: {
     title: "秋の東京ディズニーリゾート・ハロウィーン：ディズニー・ハロウィーン＆ヴィランズの饗宴！仮装・限定パレード・秋のグルメ＆舞浜オフィシャル・パートナー厳選名宿5選",
     description: "秋の東京ディズニーリゾート（TDR）が熱狂と怪しい魅力に包まれる一大イベント「ディズニー・ハロウィーン」。東京ディズニーランドでは妖しくも魅惑的なヴィランズたちが主役となるパレード「ザ・ヴィランズ・ハロウィーン “Into the Frenzy”」やハロウィーン限定スペシャルまん・チュロスが登場。東京ディズニーシーではアメリカンウォーターフロントの華やかなデコレーションやトリックオアトリート体験が満喫できます。全身仮装のルールや人気アトラクション「ホーンテッドマンション “ホリデーナイトメアー”」の攻略法、そしてパークの余韻に浸りながらゆったり寛げる舞浜オフィシャルホテル＆新浦安パートナーホテル厳選5選を徹底特集。",
-    url: 'https://croud-travel.pages.dev/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay/',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -57,7 +57,7 @@ export default function TdrHalloweenFeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay"
+      "@id": "https://croud-travel.pages.dev/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay/"
     }
   };
 
@@ -75,13 +75,13 @@ export default function TdrHalloweenFeaturePage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "東京ディズニーリゾート・ハロウィーン特集",
-        "item": "https://croud-travel.pages.dev/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay"
+        "item": "https://croud-travel.pages.dev/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay/"
       }
     ]
   };
@@ -254,7 +254,7 @@ export default function TdrHalloweenFeaturePage() {
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-amber-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-amber-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-amber-600 transition">特集一覧</Link>
             <span>/</span>
             <Link href="/prefectures/chiba/" className="hover:text-amber-600 transition">千葉県</Link>
             <span>/</span>
@@ -587,13 +587,13 @@ export default function TdrHalloweenFeaturePage() {
               ヴィランズが織りなす妖艶なパレード、心に残るキャラクター全身仮装、そして天然温泉や快適なベッドが待つ舞浜・新浦安の名宿。年に一度のスペシャルな秋の冒険へ、今すぐ旅立ちましょう。
             </p>
             <div className="flex flex-wrap items-center justify-center gap-3 text-xs">
-              <Link href="/features" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
+              <Link href="/features/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 ← 特集一覧に戻る
               </Link>
               <Link href="/prefectures/chiba/" className="px-4 py-2 rounded-full bg-orange-50 hover:bg-orange-100 text-orange-700 font-semibold transition">
                 千葉県の旅行ガイド・ホテル一覧
               </Link>
-              <Link href="/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay" className="px-4 py-2 rounded-full bg-amber-50 hover:bg-amber-100 text-amber-700 font-semibold transition">
+              <Link href="/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay/" className="px-4 py-2 rounded-full bg-amber-50 hover:bg-amber-100 text-amber-700 font-semibold transition">
                 南房総水仙ロード＆安房神社特集
               </Link>
               <Link href="/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月神奈川：鶴岡八幡宮新春初詣！名宿5選',
     description: '11月から1月、湘南・鎌倉・江の島は澄み切った冬空が広がり、相模湾の向こうに純白の冠雪を抱いた富士山が最もくっきりと美しく浮かび上がります。',
-    url: 'https://croud-travel.pages.dev/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay',
+    url: 'https://croud-travel.pages.dev/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '冬の鎌倉・江の島湘南の宝石＆初詣特集',
-        item: 'https://croud-travel.pages.dev/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay'
+        item: 'https://croud-travel.pages.dev/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/'
       }
     ]
   };
@@ -652,7 +652,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay" 
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-blue-800 font-bold text-xs block mb-1">神奈川・箱根温泉</span>
@@ -662,7 +662,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay" 
+              href="/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-blue-800 font-bold text-xs block mb-1">神奈川・湯河原温泉</span>
@@ -672,7 +672,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay" 
+              href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-blue-800 font-bold text-xs block mb-1">千葉・銚子犬吠埼</span>
@@ -682,7 +682,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay" 
+              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-blue-800 font-bold text-xs block mb-1">静岡・熱海温泉</span>
@@ -692,7 +692,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay" 
+              href="/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-blue-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-blue-800 font-bold text-xs block mb-1">長野・軽井沢星野</span>
@@ -702,7 +702,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
             </Link>
 
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-stone-100 border border-stone-200 hover:border-blue-400 transition-all group flex flex-col justify-center text-center"
             >
               <span className="text-stone-900 font-bold group-hover:text-blue-900 transition-colors">

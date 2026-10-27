@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '埼玉・秩父温泉郷で過ごす冬の旅（11・12月）！名物武州和牛すき焼き！名宿5選',
     description: '11月から12月にかけて、都心から特急でわずか80分あまりの近さにありながら、奥武蔵の山々に抱かれた埼玉県「秩父・長瀞」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterSaitamaChichibuPage() {
         'headline': "【11・12月埼玉・秩父温泉郷の秩父夜祭と長瀞こたつ舟】名物武州和牛すき焼き＆秩父みそ豚・創業文政の美肌鉱泉を満喫する山里名宿5選",
         'description': "11月から12月にかけて、都心から特急でわずか80分あまりの近さにありながら、奥武蔵の山々に抱かれた埼玉県「秩父・長瀞」は、冬ならではの活気と幽玄な静けさが同居する最もドラマチックな季節を迎えます。12月2日・3日にはユネスコ無形文化遺産に登録された日本三大曳山祭の一つ「秩父夜祭」が開催され、絢爛豪華な屋台や笠鉾が街を練り歩き、冬の澄み渡る夜空に壮大な花火が打ち上がります。荒川の清流を暖かなぬくもりで巡る「長瀞こたつ舟」、日本通貨発祥の地に湧く和銅鉱泉をはじめとする肌触り滑らかな名湯。夕食には埼玉が誇る最高峰の黒毛和牛「武州和牛（ぶしゅうわぎゅう）」のすき焼き、秩父伝統の「豚肉の味噌漬け」、秩父名水手打ち蕎麦。秩父路の冬情緒を心ゆくまで堪能できる厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterSaitamaChichibuPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-amber-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">埼玉・秩父温泉郷</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterSaitamaChichibuPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月埼玉・秩父温泉郷】名物武州和牛すき焼き！名宿5選","item":"https://croud-travel.pages.dev/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月埼玉・秩父温泉郷】名物武州和牛すき焼き！名宿5選","item":"https://croud-travel.pages.dev/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -609,7 +609,7 @@ export default function WinterSaitamaChichibuPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay"
+              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">群馬・伊香保温泉</span>
@@ -622,7 +622,7 @@ export default function WinterSaitamaChichibuPage() {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay"
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">神奈川・箱根温泉</span>
@@ -635,7 +635,7 @@ export default function WinterSaitamaChichibuPage() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay"
+              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">静岡・熱海温泉</span>

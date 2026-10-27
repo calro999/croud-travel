@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '熊本・阿蘇内牧温泉で過ごす冬の旅（11・12月）！極上あか牛溶岩焼きと特選馬刺！名宿5選',
     description: '11月から12月にかけて、世界最大級のカルデラに抱かれた熊本県「阿蘇内牧（うちのまき）温泉」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay',
+    url: 'https://croud-travel.pages.dev/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay/"
         },
         "headline": "【11・12月熊本・阿蘇内牧温泉の初冬阿蘇五岳絶景と名物あか牛】名湯掛け流し湯巡り＆極上あか牛溶岩焼きと特選馬刺しを味わう厳選宿5選",
         "description": "11月から12月にかけて、世界最大級のカルデラに抱かれた熊本県「阿蘇内牧（うちのまき）温泉」は、広大な草原が黄金色のススキから白銀の初霜・初雪へと移ろい、澄み切った大気の中に阿蘇五岳の涅槃像（ねはんぞう）が荘厳に浮かび上がる初冬の絶景シーズンを迎えます。約80ヶ所もの豊富な源泉から湧き出る天然温泉は、多くの文豪も愛した名湯掛け流し。冷えた身体を湯浴みで芯から温めた後は、赤身の旨味が凝縮した熊本名物「あか牛」の溶岩焼きステーキやすき焼き、鮮度抜群の特選霜降り馬刺しを味わい尽くす厳選名宿5選を徹底解説します。",
@@ -100,13 +100,13 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "熊本・阿蘇内牧温泉 初冬阿蘇五岳絶景と名物あか牛の宿",
-            "item": "https://croud-travel.pages.dev/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay"
+            "item": "https://croud-travel.pages.dev/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay/"
           }
         ]
       },
@@ -630,7 +630,7 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-2">
             <Link 
-              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay"
+              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">黒川・湯あかり幻想</span>
@@ -639,7 +639,7 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay"
+              href="/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-rose-500/40 text-rose-200 font-bold text-[10px]">平山・極上硫黄泉</span>
@@ -648,7 +648,7 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay"
+              href="/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">由布院・金鱗湖朝霧</span>
@@ -657,7 +657,7 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay"
+              href="/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-orange-500/40 text-orange-200 font-bold text-[10px]">原鶴・W美肌の湯</span>

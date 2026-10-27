@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '鬼怒川温泉で過ごす冬の旅（11・12月）！とちぎ和牛！名宿5選',
     description: '江戸時代は日光詣での大名や僧侶のみに許された関東屈指の名湯・鬼怒川温泉。11月中旬の晩秋の残り香から12月の初雪へと移ろう初冬、清流と奇岩が織りなす鬼怒川渓谷の絶景を望む露天風呂と、肉汁溢れるA5とちぎ和牛や伝統の日光生ゆば懐石を心ゆくまで堪能する名宿ガイド。',
-    url: 'https://croud-travel.pages.dev/winter-tochigi-kinugawa-onsen-valley-snow-stay',
+    url: 'https://croud-travel.pages.dev/winter-tochigi-kinugawa-onsen-valley-snow-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -84,7 +84,7 @@ export default function KinugawaWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-tochigi-kinugawa-onsen-valley-snow-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tochigi-kinugawa-onsen-valley-snow-stay/"
         }
       },
       {
@@ -274,7 +274,7 @@ export default function KinugawaWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月鬼怒川温泉】とちぎ和牛！名宿5選","item":"https://croud-travel.pages.dev/winter-tochigi-kinugawa-onsen-valley-snow-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月鬼怒川温泉】とちぎ和牛！名宿5選","item":"https://croud-travel.pages.dev/winter-tochigi-kinugawa-onsen-valley-snow-stay/"}]}) }}
       />
         
         {/* Intro */}
@@ -666,42 +666,42 @@ export default function KinugawaWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay"
+              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay/"
               className="bg-amber-800/80 hover:bg-amber-800 p-4 rounded-2xl transition border border-amber-700/50 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">栃木・奥日光</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">奥日光湯元温泉の白濁硫黄泉と雪見露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay"
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/"
               className="bg-amber-800/80 hover:bg-amber-800 p-4 rounded-2xl transition border border-amber-700/50 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">神奈川・箱根</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">箱根温泉 富士山絶景露天風呂と冬の美食ステイ</h3>
             </Link>
             <Link 
-              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay"
+              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay/"
               className="bg-amber-800/80 hover:bg-amber-800 p-4 rounded-2xl transition border border-amber-700/50 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">群馬・伊香保</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">伊香保温泉 365段の石段街と黄金の湯・上州牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-gifu-okuhida-onsen-yukimi-roten-stay"
+              href="/winter-gifu-okuhida-onsen-yukimi-roten-stay/"
               className="bg-amber-800/80 hover:bg-amber-800 p-4 rounded-2xl transition border border-amber-700/50 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">岐阜・奥飛騨</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">奥飛騨温泉郷 北アルプス雪見露天と飛騨牛朴葉味噌の宿</h3>
             </Link>
             <Link 
-              href="/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay"
+              href="/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay/"
               className="bg-amber-800/80 hover:bg-amber-800 p-4 rounded-2xl transition border border-amber-700/50 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">神奈川・湯河原</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">湯河原温泉 奥湯河原晩秋紅葉と文豪が愛した名湯</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-amber-800/80 hover:bg-amber-800 p-4 rounded-2xl transition border border-amber-700/50 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">特集一覧</span>

@@ -192,7 +192,7 @@ export default function OkinawaFamilyTripNightsBudgetPage() {
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs md:text-sm">
           <Link
-            href="/okinawa-travel-budget-plan"
+            href="/okinawa-travel-budget-plan/"
             className="flex items-start gap-2.5 p-3 rounded-xl bg-white border border-sky-200/60 hover:border-sky-500 hover:shadow transition group"
           >
             <span className="text-sky-600 font-bold text-base">🌺</span>
@@ -467,7 +467,7 @@ export default function OkinawaFamilyTripNightsBudgetPage() {
       {/* 47都道府県トップへのリンク */}
       <div className="text-center pt-4">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-stone-700 bg-white hover:bg-sky-50 border border-stone-300 hover:border-sky-300 px-6 py-3 rounded-2xl transition shadow-sm"
         >
           <span>🗾</span>

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '立ち上る湯けむりと濃密な硫黄の香り！乳白色のにごり湯と風情ある温泉街めぐりの宿',
     description: '草津・蔵王・野沢温泉・別府明礬など、湯の花が舞うエメラルドグリーンや乳白色の硫黄泉。浴衣と下駄で温泉街の湯めぐりや足湯散策を楽しむ名湯宿。',
-    url: 'https://croud-travel.pages.dev/sulfur-springs-milky-white-onsen-town-stay',
+    url: 'https://croud-travel.pages.dev/sulfur-springs-milky-white-onsen-town-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/sulfur-springs-milky-white-onsen-town-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/sulfur-springs-milky-white-onsen-town-stay/"
   };
 
   const faqSchema = {
@@ -151,7 +151,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"立ち上る湯けむりと濃密な硫黄の香り！乳白色のにごり湯と風情ある温泉街めぐりの宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/sulfur-springs-milky-white-onsen-town-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"立ち上る湯けむりと濃密な硫黄の香り！乳白色のにごり湯と風情ある温泉街めぐりの宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/sulfur-springs-milky-white-onsen-town-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -166,7 +166,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">乳白色硫黄泉＆温泉街情緒宿</span>
       </nav>
@@ -281,7 +281,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="立ち上る湯けむりと濃密な硫黄の香り！乳白色のにごり湯と風情ある温泉街めぐりの宿"
-            url="https://croud-travel.pages.dev/sulfur-springs-milky-white-onsen-town-stay"
+            url="https://croud-travel.pages.dev/sulfur-springs-milky-white-onsen-town-stay/"
           />
         </div>
 

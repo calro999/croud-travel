@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '秋の伊勢海老まつり解禁！日南・飫肥城下町の武家屋敷ステイ＆南国日南海岸の絶景オーシャンビュー温泉',
     description: '9月〜11月限定で旬を迎える日南海岸の天然伊勢海老。飫肥城下町のレトロな武家屋敷散策と、太平洋を一望する日南温泉リゾートでぷりっぷりの伊勢海老・宮崎牛をふるさと納税で堪能する秋の南九州旅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-nichinan-obi-iseebi-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-nichinan-obi-iseebi-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-nichinan-obi-iseebi-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-nichinan-obi-iseebi-autumn-stay/"
   };
 
   const faqSchema = {
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"秋の伊勢海老まつり解禁！日南・飫肥城下町の武家屋敷ステイ＆南国日南海岸の絶景オーシャンビュー温泉 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-nichinan-obi-iseebi-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"秋の伊勢海老まつり解禁！日南・飫肥城下町の武家屋敷ステイ＆南国日南海岸の絶景オーシャンビュー温泉 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-nichinan-obi-iseebi-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

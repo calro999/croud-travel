@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '宮崎出張・天然温泉サウナ：南国リゾート・天然温泉日向の湯・宮崎地鶏炭火焼き！橘通ビジネス街を制する厳選3宿',
     description: '宮崎空港からJR・バスで約15〜20分！橘通繁華街至近で最上階天然温泉＆サウナ・名物冷汁朝食を誇る「ドーミーイン宮崎」、たまゆら温泉と本格サウナ完備の「宮崎ライオンズホテル」、男性専用スパ＆サウナ施設併設の「ホテルマリックス」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/miyazaki-city-solo-business-onsen-sauna-stay',
+    url: 'https://croud-travel.pages.dev/miyazaki-city-solo-business-onsen-sauna-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/miyazaki-city-solo-business-onsen-sauna-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/miyazaki-city-solo-business-onsen-sauna-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【宮崎出張・天然温泉サウナ】南国リゾート・天然温泉日向の湯・宮崎地鶏炭火焼き！橘通ビジネス街を制する厳選3宿","item":"https://croud-travel.pages.dev/miyazaki-city-solo-business-onsen-sauna-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【宮崎出張・天然温泉サウナ】南国リゾート・天然温泉日向の湯・宮崎地鶏炭火焼き！橘通ビジネス街を制する厳選3宿","item":"https://croud-travel.pages.dev/miyazaki-city-solo-business-onsen-sauna-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

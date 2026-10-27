@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '10月漁解禁！本場・伊勢志摩の活伊勢海老・あわび・松阪牛尽くし美食温泉旅館×ふるさと納税厳選ガイド鳥取本浦・相差',
     description: '10月に待ちに待った伊勢エビ漁が解禁！本場・伊勢志摩鳥羽でプリップリの伊勢海老お造り・鬼殻焼き・伊勢海老汁を味わい尽くす！自家源泉「珠光の湯」を誇る「サン浦島 悠季の里」、老舗名門「戸田家」、女性に優しい美肌宿「鳥羽ビューホテル 花真珠」。極上の秋の味覚を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-iseshima-autumn-ise-lobster-gourmet-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-iseshima-autumn-ise-lobster-gourmet-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -55,7 +55,7 @@ export default function FurusatoIseshimaAutumnIseLobsterStayPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">伊勢志摩・鳥羽 初物伊勢海老名門温泉宿特集</span>
       </nav>
@@ -384,7 +384,7 @@ export default function FurusatoIseshimaAutumnIseLobsterStayPage() {
 
             <li key="furusato-tax-matsuba-echizen-crab-season-opening-onsen-stay">
               <Link
-                href="/furusato-tax-matsuba-echizen-crab-season-opening-onsen-stay"
+                href="/furusato-tax-matsuba-echizen-crab-season-opening-onsen-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -395,7 +395,7 @@ export default function FurusatoIseshimaAutumnIseLobsterStayPage() {
 
             <li key="furusato-tax-sunset-ocean-magic-hour-stay">
               <Link
-                href="/furusato-tax-sunset-ocean-magic-hour-stay"
+                href="/furusato-tax-sunset-ocean-magic-hour-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -406,7 +406,7 @@ export default function FurusatoIseshimaAutumnIseLobsterStayPage() {
 
             <li key="furusato-tax-brand-jidori-mizutaki-gourmet-stay">
               <Link
-                href="/furusato-tax-brand-jidori-mizutaki-gourmet-stay"
+                href="/furusato-tax-brand-jidori-mizutaki-gourmet-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -417,7 +417,7 @@ export default function FurusatoIseshimaAutumnIseLobsterStayPage() {
 
             <li key="furusato-tax-luxury-hotspring-ryokan-stay">
               <Link
-                href="/furusato-tax-luxury-hotspring-ryokan-stay"
+                href="/furusato-tax-luxury-hotspring-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -437,7 +437,7 @@ export default function FurusatoIseshimaAutumnIseLobsterStayPage() {
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
-            href="/travel-savings-guide"
+            href="/travel-savings-guide/"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 text-stone-950 font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition text-sm"
           >
             🏨 旅行節約総合ハブページを見る ➔

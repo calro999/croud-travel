@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '熊本・平山温泉で過ごす冬の旅（11・12月）！特選肥後あか牛！名宿5選',
     description: '11月から12月にかけて熊本県北部・山鹿市の山あいに隠れる「平山温泉」は、冷涼な初冬の大気の中に立ち上る乳白色の湯けむりと。',
-    url: 'https://croud-travel.pages.dev/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay',
+    url: 'https://croud-travel.pages.dev/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function HirayamaOnsenWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay/"
         },
         "headline": "【11・12月熊本・平山温泉の竹林秘湯と極上トロトロ美肌硫黄泉】加藤清正の霊泉伝説・特選肥後あか牛＆霜降り馬刺し会席の宿5選",
         "description": "11月から12月にかけて熊本県北部・山鹿市の山あいに隠れる「平山温泉」は、冷涼な初冬の大気の中に立ち上る乳白色の湯けむりと、風にそよぐ緑鮮やかな竹林のコントラストが息をのむ静寂の秘湯郷。平安末期に皮膚病を治したと伝わり、戦国武将・加藤清正公が重い汗疹を癒やしたと伝えられる名湯は、pH9.7を誇る強アルカリ性単純硫黄泉。まるで美容液に浸かっているかのような驚異的なトロトロ・ヌルヌルとした湯ざわりは全国の温泉愛好家を圧倒します。全室離れや客室露天を備えた大人の隠れ宿で、ジューシーな赤身が旨い肥後あか牛の溶岩焼きや極上本場馬刺しを味わう厳選宿5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function HirayamaOnsenWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "熊本・平山温泉 竹林秘湯と極上トロトロ硫黄泉・肥後あか牛の宿",
-            "item": "https://croud-travel.pages.dev/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay"
+            "item": "https://croud-travel.pages.dev/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay/"
           }
         ]
       },
@@ -592,42 +592,42 @@ export default function HirayamaOnsenWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay"
+              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">熊本・黒川温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">渓流を照らす幻想の湯あかりイルミネーションと入湯手形めぐりの宿</h3>
             </Link>
             <Link 
-              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay"
+              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">佐賀・嬉野温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">日本三大美肌の湯と名物とろける温泉湯豆腐・佐賀牛を味わう名宿</h3>
             </Link>
             <Link 
-              href="/winter-saga-takeo-onsen-romon-saga-beef-stay"
+              href="/winter-saga-takeo-onsen-romon-saga-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">佐賀・武雄温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">開湯千三百年辰野金吾楼門と極上佐賀牛ステーキ・美肌の宿</h3>
             </Link>
             <Link 
-              href="/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay"
+              href="/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">大分・由布院温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">金鱗湖の幻想的な初冬朝霧と名峰由布岳ビュー・豊後牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay"
+              href="/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">大分・別府鉄輪温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">立ち上る湯けむり景観と伝統地獄蒸し料理・源泉掛け流しの名宿</h3>
             </Link>
             <Link 
-              href="/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay"
+              href="/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">鹿児島・霧島温泉郷</span>

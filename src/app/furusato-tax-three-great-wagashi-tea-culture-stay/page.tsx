@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三大銘菓＆歴史茶の湯・老舗和菓子めぐり風雅宿×ふるさと納税厳選ガイド金沢長生殿・長岡越乃雪・松江山川',
     description: '大名茶人が愛した日本の甘味美学！石川金沢「長生殿」加賀百万石の優美な落雁とひがし茶屋街の料亭旅館、新潟長岡「越乃雪」越後長岡藩御用達の淡雪菓子と蓬平温泉、島根松江「山川」不昧公の風流落雁と宍道湖・玉造温泉。茶の湯文化が息づく城下町の名宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-wagashi-tea-culture-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-wagashi-tea-culture-stay/',
     siteName: 'トラベル総合ナビ',
     locale: 'ja_JP',
     type: 'article',
@@ -650,7 +650,7 @@ export default function Page() {
             
             <Link
               key="0"
-              href="/furusato-tax-sweets-cafe-wagashi-retro-onsen-stay"
+              href="/furusato-tax-sweets-cafe-wagashi-retro-onsen-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -663,7 +663,7 @@ export default function Page() {
             
             <Link
               key="1"
-              href="/furusato-tax-three-great-gardens-heritage-stay"
+              href="/furusato-tax-three-great-gardens-heritage-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -676,7 +676,7 @@ export default function Page() {
             
             <Link
               key="2"
-              href="/furusato-tax-castle-town-heritage-onsen-stay"
+              href="/furusato-tax-castle-town-heritage-onsen-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">

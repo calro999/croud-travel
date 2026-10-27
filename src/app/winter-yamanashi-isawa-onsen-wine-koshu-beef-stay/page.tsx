@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '石和温泉で過ごす冬の旅（11・12月）！富士を望む甲州名湯と甲州牛ステーキ！名宿5選',
     description: '11月3日の山梨ヌーボー解禁とともに華やぐ甲州・石和温泉。雪化粧した富士山や南アルプスを望み、毎分湧出する豊富な美肌アルカリ単純温泉に身を浸す贅沢。最高峰A5ランク甲州牛のステーキと熱々の甲州かぼちゃほうとう、できたての新酒甲州ワインを味わい尽くす初冬の美食湯宿ガイド。',
-    url: 'https://croud-travel.pages.dev/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function IsawaWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function IsawaWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月石和温泉】富士を望む甲州名湯と甲州牛ステーキ！名宿5選","item":"https://croud-travel.pages.dev/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月石和温泉】富士を望む甲州名湯と甲州牛ステーキ！名宿5選","item":"https://croud-travel.pages.dev/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay/"}]}) }}
       />
         
         {/* Intro */}
@@ -636,7 +636,7 @@ export default function IsawaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link 
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay"
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-purple-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-purple-800 uppercase block mb-1">富士見名湯</span>
@@ -646,7 +646,7 @@ export default function IsawaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-fujikawaguchiko-momiji-fuji-view-stay"
+              href="/winter-fujikawaguchiko-momiji-fuji-view-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-purple-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-purple-800 uppercase block mb-1">山梨の富士絶景</span>
@@ -656,7 +656,7 @@ export default function IsawaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-achimura-hirugami-starry-sky-stay"
+              href="/winter-nagano-achimura-hirugami-starry-sky-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-purple-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-purple-800 uppercase block mb-1">信州の星空名湯</span>
@@ -666,7 +666,7 @@ export default function IsawaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay"
+              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-purple-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-purple-800 uppercase block mb-1">伊豆の小京都</span>
@@ -676,7 +676,7 @@ export default function IsawaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay"
+              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-purple-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-purple-800 uppercase block mb-1">上州の名湯</span>
@@ -686,7 +686,7 @@ export default function IsawaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay"
+              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-purple-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-purple-800 uppercase block mb-1">東海の三名泉</span>

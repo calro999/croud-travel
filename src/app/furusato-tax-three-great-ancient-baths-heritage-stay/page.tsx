@@ -60,7 +60,7 @@ export default function FurusatoRound66ArticlePage() {
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">
           <Link href="/" className="hover:text-stone-900 underline transition">ホーム</Link>
           <span>/</span>
-          <Link href="/travel-savings-guide" className="hover:text-stone-900 underline transition">旅行節約ハブ</Link>
+          <Link href="/travel-savings-guide/" className="hover:text-stone-900 underline transition">旅行節約ハブ</Link>
           <span>/</span>
           <span className="text-stone-800 font-medium">日本三古湯・万葉浪漫と最古の歴史名湯ステイ特集</span>
         </nav>
@@ -89,7 +89,7 @@ export default function FurusatoRound66ArticlePage() {
               楽天ふるさと納税トラベルクーポンを獲得する →
             </a>
             <Link
-              href="/furusato-tax-travel-beginners-complete-guide"
+              href="/furusato-tax-travel-beginners-complete-guide/"
               className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-amber-200 font-bold px-5 py-3 rounded-2xl border border-amber-300/20 text-xs sm:text-sm transition"
             >
               📖 初めての方向け完全マニュアル
@@ -343,7 +343,7 @@ export default function FurusatoRound66ArticlePage() {
           <ul className="grid sm:grid-cols-2 gap-2">
 
               <li key="furusato-tax-japan-three-great-hot-springs-heritage-stay">
-                <Link href="/furusato-tax-japan-three-great-hot-springs-heritage-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-japan-three-great-hot-springs-heritage-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三名泉＆天下の名湯・老舗旅館（有馬・草津・下呂）</span>
                 </Link>
@@ -351,7 +351,7 @@ export default function FurusatoRound66ArticlePage() {
     
 
               <li key="furusato-tax-three-great-hot-spring-cure-toji-stay">
-                <Link href="/furusato-tax-three-great-hot-spring-cure-toji-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-three-great-hot-spring-cure-toji-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大湯治場＆現代型リトリート宿（玉川・三朝・草津）</span>
                 </Link>
@@ -359,7 +359,7 @@ export default function FurusatoRound66ArticlePage() {
     
 
               <li key="furusato-tax-three-medicinal-hotsprings-stay">
-                <Link href="/furusato-tax-three-medicinal-hotsprings-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-three-medicinal-hotsprings-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大薬湯＆万病平癒の濃厚泉質湯治宿（草津・有馬・松之山）</span>
                 </Link>
@@ -367,7 +367,7 @@ export default function FurusatoRound66ArticlePage() {
     
 
               <li key="furusato-tax-three-great-ancient-shrines-sacred-stay">
-                <Link href="/furusato-tax-three-great-ancient-shrines-sacred-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-three-great-ancient-shrines-sacred-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大古社＆悠久の祈り聖地宿（伊勢神宮・出雲大社・大神神社）</span>
                 </Link>
@@ -385,7 +385,7 @@ export default function FurusatoRound66ArticlePage() {
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
-            href="/travel-savings-guide"
+            href="/travel-savings-guide/"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 text-stone-950 font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition text-sm"
           >
             🏨 旅行節約総合ハブページを見る ➔

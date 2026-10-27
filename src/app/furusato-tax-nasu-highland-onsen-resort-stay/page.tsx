@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'ロイヤルリゾート那須の自然と名湯！那須温泉の美肌露天風呂＆極上とちぎ和牛・豪華高原バイキング×ふるさと納税極上旅ガイドエピナール那須・山楽・グランドメルキュール',
     description: '御用邸が置かれる日本屈指のロイヤルリゾート・栃木県那須高原！雄大な茶臼岳と豊かな森。「ホテルエピナール那須」「那須温泉 山楽」「グランドメルキュール那須高原リゾート＆スパ」を、栃木県那須町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。大型温泉大浴場、大正創業の昭和天皇ゆかり名門、とちぎ和牛を満喫。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-nasu-highland-onsen-resort-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-nasu-highland-onsen-resort-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoNasuHighlandStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">那須高原 温泉リゾート＆名門宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoNasuHighlandStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-kinugawa-nikko-world-heritage-stay"
+            href="/furusato-tax-kinugawa-nikko-world-heritage-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【日光東照宮＆奥日光乳白色硫黄泉×ふるさと納税】千姫物語・日光金谷・四季彩
           </Link>
           <Link
-            href="/furusato-tax-karuizawa-luxury-resort-villa-stay"
+            href="/furusato-tax-karuizawa-luxury-resort-villa-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【軽井沢 高原リゾート＆名門ホテル×ふるさと納税】マリオット・プリンスイースト・音羽ノ森
           </Link>
           <Link
-            href="/furusato-tax-ikaho-onsen-stone-steps-luxury-stay"
+            href="/furusato-tax-ikaho-onsen-stone-steps-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【伊香保温泉 365段石段街＆二大名湯宿×ふるさと納税】福一・岸権旅館・ホテル木暮
           </Link>
           <Link
-            href="/furusato-tax-luxury-buffet-gourmet-resort-stay"
+            href="/furusato-tax-luxury-buffet-gourmet-resort-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【豪華ビュッフェ＆オープンキッチン名宿×ふるさと納税】美食リゾート

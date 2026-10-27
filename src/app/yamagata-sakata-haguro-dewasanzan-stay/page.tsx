@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '山形・酒田＆羽黒山：山居倉庫・五重塔杉並木＆庄内浜寿司・宿坊 厳選ガイド',
     description: '北前船交易で栄えた湊町酒田の白壁土蔵「山居倉庫」ケヤキ並木・本間家旧本邸、ミシュラン三ツ星・出羽三山羽黒山の「国宝五重塔」と樹齢三百年二千四百四十六段杉並木参道、庄内浜天然地魚の極上握り寿司と平田牧場金華豚を味わう宿を徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/yamagata-sakata-haguro-dewasanzan-stay',
+    url: 'https://croud-travel.pages.dev/yamagata-sakata-haguro-dewasanzan-stay/',
   },
 };
 

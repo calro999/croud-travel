@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'かみのやま温泉ひとり旅・蔵王連峰パノラマおこもり：城下町足湯・山形牛会席・ワイン王国！奥羽三楽郷の名湯に癒やされる厳選3宿',
     description: '山形新幹線かみのやま温泉駅直通！プロが選ぶ日本のホテル旅館100選上位常連の最高峰「日本の宿 古窯」、全館で源泉と美食を味わえる上質宿「葉山舘」、昔ながらの温もりと良質な源泉が愛される「はたや旅館」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/yamagata-kaminoyama-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/yamagata-kaminoyama-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/yamagata-kaminoyama-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/yamagata-kaminoyama-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【かみのやま温泉ひとり旅・蔵王連峰パノラマおこもり】城下町足湯・山形牛会席・ワイン王国！奥羽三楽郷の名湯に癒やされる厳選3宿","item":"https://croud-travel.pages.dev/yamagata-kaminoyama-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【かみのやま温泉ひとり旅・蔵王連峰パノラマおこもり】城下町足湯・山形牛会席・ワイン王国！奥羽三楽郷の名湯に癒やされる厳選3宿","item":"https://croud-travel.pages.dev/yamagata-kaminoyama-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

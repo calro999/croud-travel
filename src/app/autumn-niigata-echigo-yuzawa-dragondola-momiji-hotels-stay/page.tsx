@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "中旬〜11月上旬！苗場ドラゴンドラ紅葉で過ごす冬の旅（10月）！日本最長ゴンドラ空中散歩と越後湯沢名湯宿5選",
     description: "全長5,481m・日本最長を誇る苗場「ドラゴンドラ」で巡る大パノラマ紅葉クルージング！アップダウンを繰り返すスリルと絶景、そして新米魚沼産コシヒカリと越後湯沢温泉に癒やされる厳選宿5選。",
-    url: 'https://croud-travel.pages.dev/autumn-niigata-echigo-yuzawa-dragondola-momiji-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-niigata-echigo-yuzawa-dragondola-momiji-hotels-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -141,7 +141,7 @@ export default function FeaturePage() {
       <nav className="max-w-5xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-500 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
         <Link href="/" className="hover:text-amber-600">ホーム</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <Link href="/features" className="hover:text-amber-600">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-600">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <span className="text-stone-800 font-medium truncate">【10月中旬〜11月上旬！苗場ドラゴンドラ紅葉】日本最長ゴンドラ空中散歩と越後湯沢名湯宿5選</span>
       </nav>
@@ -187,8 +187,8 @@ export default function FeaturePage() {
             "@type": "BreadcrumbList",
             "itemListElement": [
               { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev/" },
-              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features" },
-              { "@type": "ListItem", "position": 3, "name": "【10月中旬〜11月上旬！苗場ドラゴンドラ紅葉】日本最長ゴンドラ空中散歩と越後湯沢名湯宿5選", "item": "https://croud-travel.pages.dev/autumn-niigata-echigo-yuzawa-dragondola-momiji-hotels-stay" }
+              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features/" },
+              { "@type": "ListItem", "position": 3, "name": "【10月中旬〜11月上旬！苗場ドラゴンドラ紅葉】日本最長ゴンドラ空中散歩と越後湯沢名湯宿5選", "item": "https://croud-travel.pages.dev/autumn-niigata-echigo-yuzawa-dragondola-momiji-hotels-stay/" }
             ]
           }) }}
         />

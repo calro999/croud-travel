@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '四季折々の花畑と名園美に包まれる！美しい日本庭園と美肌温泉で心潤す花巡り宿',
     description: '2026年最新！美しい四季の花畑と名園を散策できる極上の日本庭園温泉宿。季節ごとの草花と名湯に癒やされる心潤う女子旅・夫婦旅におすすめの宿。',
-    url: 'https://croud-travel.pages.dev/seasonal-flower-garden-botanical-healing-onsen-stay',
+    url: 'https://croud-travel.pages.dev/seasonal-flower-garden-botanical-healing-onsen-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/seasonal-flower-garden-botanical-healing-onsen-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/seasonal-flower-garden-botanical-healing-onsen-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">四季の名園×花巡り温泉</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             春の桜やツツジ、初夏の紫陽花、秋の紅葉、冬の寒椿まで。丹精込めて手入れされた広大な日本庭園や四季折々の花々を愛でながら、湯量豊富な美肌の湯に浸かる贅沢。花の香りと鳥のさえずりに包まれる優美な温泉宿をご紹介します。
           </p>
           <div className="pt-2">
-            <ShareButtons title="四季折々の花畑と名園美に包まれる！美しい日本庭園と美肌温泉で心潤す花巡り宿" url="https://croud-travel.pages.dev/seasonal-flower-garden-botanical-healing-onsen-stay" />
+            <ShareButtons title="四季折々の花畑と名園美に包まれる！美しい日本庭園と美肌温泉で心潤す花巡り宿" url="https://croud-travel.pages.dev/seasonal-flower-garden-botanical-healing-onsen-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"四季折々の花畑と名園美に包まれる！美しい日本庭園と美肌温泉で心潤す花巡り宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/seasonal-flower-garden-botanical-healing-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"四季折々の花畑と名園美に包まれる！美しい日本庭園と美肌温泉で心潤す花巡り宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/seasonal-flower-garden-botanical-healing-onsen-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

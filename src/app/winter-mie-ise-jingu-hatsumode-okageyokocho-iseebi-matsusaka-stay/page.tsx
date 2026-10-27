@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月三重：冬の極上伊勢海老！名宿5選',
     description: '11月から1月、日本人の心の故郷・伊勢神宮（内宮・外宮）は凛とした神聖な冬の静寂に包まれます。五十鈴川に立ち込める幻想的な朝霧。',
-    url: 'https://croud-travel.pages.dev/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay',
+    url: 'https://croud-travel.pages.dev/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function MieIseJinguWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function MieIseJinguWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '伊勢神宮初詣＆冬の伊勢海老・松阪牛特集',
-        item: 'https://croud-travel.pages.dev/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay'
+        item: 'https://croud-travel.pages.dev/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/'
       }
     ]
   };
@@ -652,7 +652,7 @@ export default function MieIseJinguWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay" 
+              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">三重・鳥羽温泉郷</span>
@@ -662,7 +662,7 @@ export default function MieIseJinguWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay" 
+              href="/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">三重・志摩賢島</span>
@@ -672,7 +672,7 @@ export default function MieIseJinguWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-mie-nabana-no-sato-illumination-stay" 
+              href="/winter-mie-nabana-no-sato-illumination-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">三重・なばなの里</span>
@@ -682,7 +682,7 @@ export default function MieIseJinguWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay" 
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">神奈川・箱根温泉</span>
@@ -692,7 +692,7 @@ export default function MieIseJinguWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay" 
+              href="/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">長野・軽井沢星野</span>
@@ -702,7 +702,7 @@ export default function MieIseJinguWinterPage() {
             </Link>
 
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-stone-100 border border-stone-200 hover:border-amber-400 transition-all group flex flex-col justify-center text-center"
             >
               <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors">

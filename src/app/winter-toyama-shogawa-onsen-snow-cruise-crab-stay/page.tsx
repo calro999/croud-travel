@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '富山・庄川温泉郷で過ごす冬の旅（11・12月）！寒ブリ！名宿5選',
     description: '11月下旬から12月にかけて富山県・庄川峡は、両岸の断崖絶壁が白銀の雪化粧をまとい、水墨画のような幽玄の冬景色が広がります。',
-    url: 'https://croud-travel.pages.dev/winter-toyama-shogawa-onsen-snow-cruise-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-toyama-shogawa-onsen-snow-cruise-crab-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function ShogawaOnsenWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-toyama-shogawa-onsen-snow-cruise-crab-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-toyama-shogawa-onsen-snow-cruise-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-toyama-shogawa-onsen-snow-cruise-crab-stay/"
         },
         "headline": "【11・12月富山・庄川温泉郷の雪見庄川峡遊覧船と冬の味覚】富山湾紅ズワイガニ・寒ブリ・白えび＆源泉美肌の宿5選",
         "description": "11月下旬から12月にかけて富山県・庄川峡は、両岸の断崖絶壁が白銀の雪化粧をまとい、水墨画のような幽玄の冬景色が広がります。庄川峡遊覧船（小牧ダム〜大牧）から望む雪景色と湖面の水鏡、開湯以来湯治客を癒やし続ける庄川清流温泉・鳥越温泉のにごり湯や炭酸泉、11月に本格シーズンを迎える富山湾の紅ズワイガニ、氷見・新湊直送の脂が乗った極上寒ブリの刺身とブリしゃぶ、宝石のような白えびのかき揚げ、富山牛のサーロインを堪能する名宿5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function ShogawaOnsenWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "富山・庄川温泉郷 冬の雪見峡谷と冬の味覚の宿",
-            "item": "https://croud-travel.pages.dev/winter-toyama-shogawa-onsen-snow-cruise-crab-stay"
+            "item": "https://croud-travel.pages.dev/winter-toyama-shogawa-onsen-snow-cruise-crab-stay/"
           }
         ]
       },
@@ -598,42 +598,42 @@ export default function ShogawaOnsenWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay"
+              href="/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">富山・氷見温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">富山湾越し立山連峰雪景色と氷見寒ブリ・氷見牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-toyama-unazuki-onsen-kurobe-snow-stay"
+              href="/winter-toyama-unazuki-onsen-kurobe-snow-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">富山・宇奈月温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">黒部峡谷雪景色と日本一の透明度美肌温泉・富山湾の幸の宿</h3>
             </Link>
             <Link 
-              href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay"
+              href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">福井・越前三国温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">解禁越前がにと東尋坊冬絶景・日本海パノラマ露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-kanazawa-kenrokuen-yukizuri-stay"
+              href="/winter-kanazawa-kenrokuen-yukizuri-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">石川・金沢</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">兼六園の雪吊りと金沢の冬味覚・加能蟹と寒ブリ会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-shirakawago-gassho-snow-illumination-stay"
+              href="/winter-shirakawago-gassho-snow-illumination-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">岐阜・白川郷</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">世界遺産白川郷の雪景色ライトアップと飛騨牛会席の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>

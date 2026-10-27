@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本最古のクラシックリゾートホテル×ふるさと納税厳選ガイド日光金谷・箱根富士屋・雲仙観光ホテルの洋館ステイ',
     description: '明治・大正の薫り漂う登録有形文化財！現存日本最古のリゾート「日光金谷ホテル」、アインシュタインやチャップリンも愛した「箱根宮ノ下富士屋ホテル」、日本初国立公園の洋館「雲仙観光ホテル」。歴史的建築美と伝統フレンチを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-japan-oldest-classic-hotel-heritage-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-japan-oldest-classic-hotel-heritage-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -440,7 +440,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay"
+            href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -456,7 +456,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-literary-heritage-historic-onsen-stay"
+            href="/furusato-tax-literary-heritage-historic-onsen-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -472,7 +472,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-kominka-heritage-townhouse-auberge-stay"
+            href="/furusato-tax-kominka-heritage-townhouse-auberge-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

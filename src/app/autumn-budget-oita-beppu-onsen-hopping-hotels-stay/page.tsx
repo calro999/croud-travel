@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の別府温泉×格安：地獄めぐりと鶴見岳紅葉！源泉かけ流し1泊3,000円台〜のコスパ最強おすすめ宿5選「2026最新」',
     description: '湧出量日本一の別府温泉！源泉かけ流し温泉付き1泊3,000円台〜のコスパ最強おすすめ宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-budget-oita-beppu-onsen-hopping-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-oita-beppu-onsen-hopping-hotels-stay/',
   }
 };
 

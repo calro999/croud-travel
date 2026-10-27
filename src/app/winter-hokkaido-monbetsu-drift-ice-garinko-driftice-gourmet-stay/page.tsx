@@ -27,12 +27,12 @@ export const metadata: Metadata = {
   description: 'オホーツク海に押し寄せる白銀の流氷原を突き進む「流氷砕氷船ガリンコ号III IMERU」徹底攻略ガイド。',
   keywords: '紋別, 流氷, ガリンコ号, ガリンコ号III IMERU, オホーツクタワー, 網走, 北天の丘あばしり湖鶴雅リゾート, ホテルオホーツクパレス, 毛ガニ, ホタテ, 冬の北海道旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-hokkaido-monbetsu-drift-ice-garinko-driftice-gourmet-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-hokkaido-monbetsu-drift-ice-garinko-driftice-gourmet-stay/',
   },
   openGraph: {
     title: '紋別流氷観光＆ガリンコ号：巨大ドリルで氷を砕く圧巻の航海！名宿5選',
     description: 'オホーツク海に押し寄せる白銀の流氷原を突き進む「流氷砕氷船ガリンコ号III IMERU」徹底攻略ガイド。',
-    url: 'https://croud-travel.pages.dev/winter-hokkaido-monbetsu-drift-ice-garinko-driftice-gourmet-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-monbetsu-drift-ice-garinko-driftice-gourmet-stay/',
     siteName: 'トラベルマップ - 日本の観光名所＆ホテル厳選ガイド',
     locale: 'ja_JP',
     type: 'article',
@@ -77,7 +77,7 @@ export default function MonbetsuDriftIcePage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-hokkaido-monbetsu-drift-ice-garinko-driftice-gourmet-stay',
+      '@id': 'https://croud-travel.pages.dev/winter-hokkaido-monbetsu-drift-ice-garinko-driftice-gourmet-stay/',
     },
   };
 
@@ -95,13 +95,13 @@ export default function MonbetsuDriftIcePage() {
         '@type': 'ListItem',
         position: 2,
         name: '特集一覧',
-        item: 'https://croud-travel.pages.dev/features',
+        item: 'https://croud-travel.pages.dev/features/',
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '紋別流氷観光＆ガリンコ号冬特集',
-        item: 'https://croud-travel.pages.dev/winter-hokkaido-monbetsu-drift-ice-garinko-driftice-gourmet-stay',
+        item: 'https://croud-travel.pages.dev/winter-hokkaido-monbetsu-drift-ice-garinko-driftice-gourmet-stay/',
       },
     ],
   };
@@ -158,7 +158,7 @@ export default function MonbetsuDriftIcePage() {
         <div className="max-w-6xl mx-auto px-4 py-3 text-xs sm:text-sm text-slate-600 flex items-center gap-1.5 flex-wrap">
           <Link href="/" className="hover:text-blue-600 transition-colors">ホーム</Link>
           <span className="text-slate-400">/</span>
-          <Link href="/features" className="hover:text-blue-600 transition-colors">特集一覧</Link>
+          <Link href="/features/" className="hover:text-blue-600 transition-colors">特集一覧</Link>
           <span className="text-slate-400">/</span>
           <span className="text-slate-900 font-medium">紋別流氷観光＆ガリンコ号冬特集</span>
         </div>
@@ -198,7 +198,7 @@ export default function MonbetsuDriftIcePage() {
 
           <div className="space-y-5 text-sm sm:text-base text-slate-700 leading-relaxed">
             <p>
-              ユーラシア大陸のアムール川からオホーツク海へと流れ込んだ淡水が、冷酷な北風に晒されて結氷し、南下しながら成長を続ける「流氷」。1月下旬、白い帯となって水平線を覆い尽くし、やがて北海道の北東岸へと押し寄せる光景は、地球規模の気候のダイナミズムを目の当たりにする奇跡の絶景です。道東の冬は、オホーツク海沿岸を巡る<Link href="/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay" className="text-cyan-600 hover:underline font-bold">知床・網走の流氷とキンキ・毛ガニ名宿</Link>や、白銀の原野に舞う<Link href="/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay" className="text-cyan-600 hover:underline font-bold">釧路湿原のタンチョウ鶴と炉端焼き</Link>、さらには幻想的な<Link href="/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay" className="text-cyan-600 hover:underline font-bold">小樽雪あかりの路と運河グルメ</Link>など、一生に一度は見たい冬景色が目白押しです。
+              ユーラシア大陸のアムール川からオホーツク海へと流れ込んだ淡水が、冷酷な北風に晒されて結氷し、南下しながら成長を続ける「流氷」。1月下旬、白い帯となって水平線を覆い尽くし、やがて北海道の北東岸へと押し寄せる光景は、地球規模の気候のダイナミズムを目の当たりにする奇跡の絶景です。道東の冬は、オホーツク海沿岸を巡る<Link href="/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay/" className="text-cyan-600 hover:underline font-bold">知床・網走の流氷とキンキ・毛ガニ名宿</Link>や、白銀の原野に舞う<Link href="/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay/" className="text-cyan-600 hover:underline font-bold">釧路湿原のタンチョウ鶴と炉端焼き</Link>、さらには幻想的な<Link href="/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay/" className="text-cyan-600 hover:underline font-bold">小樽雪あかりの路と運河グルメ</Link>など、一生に一度は見たい冬景色が目白押しです。
             </p>
             <p>
               その白銀の氷海へ勇敢に繰り出すのが、紋別が誇る流氷砕氷船「ガリンコ号III IMERU（イメル）」です。通常の砕氷船が船体の自重で氷を割り進むのに対し、ガリンコ号は船首下部に備えた2本の巨大な「アルキメディアン・スクリュー（螺旋状のドリル）」を高速回転させ、氷に乗り上げてバリバリと粉砕しながら前進します。甲板に伝わる力強い振動と、青白い氷塊が砕け散る迫力、時折氷の上で羽を休める天然記念物のオオワシやオジロワシの神々しい姿は、言葉を失うほどの感動を呼び起こします。
@@ -745,28 +745,28 @@ export default function MonbetsuDriftIcePage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs sm:text-sm">
             <Link 
-              href="/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay"
+              href="/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay/"
               className="p-3 bg-slate-800/80 hover:bg-slate-700/80 rounded-xl border border-slate-700 transition-colors flex items-center justify-between"
             >
               <span>知床・網走オホーツク流氷観光＆高級魚キンキ・毛ガニ名宿</span>
               <ChevronRight className="w-4 h-4 text-slate-400 shrink-0" />
             </Link>
             <Link 
-              href="/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay"
+              href="/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay/"
               className="p-3 bg-slate-800/80 hover:bg-slate-700/80 rounded-xl border border-slate-700 transition-colors flex items-center justify-between"
             >
               <span>釧路湿原のタンチョウ鶴＆勝手丼・炉端焼き冬の道東名宿</span>
               <ChevronRight className="w-4 h-4 text-slate-400 shrink-0" />
             </Link>
             <Link 
-              href="/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay"
+              href="/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay/"
               className="p-3 bg-slate-800/80 hover:bg-slate-700/80 rounded-xl border border-slate-700 transition-colors flex items-center justify-between"
             >
               <span>小樽雪あかりの路＆冬の運河ガス灯・極上寿司と温泉ホテル</span>
               <ChevronRight className="w-4 h-4 text-slate-400 shrink-0" />
             </Link>
             <Link 
-              href="/winter-hokkaido-biei-furano-bluepond-lightup-tokachidake-onsen-stay"
+              href="/winter-hokkaido-biei-furano-bluepond-lightup-tokachidake-onsen-stay/"
               className="p-3 bg-slate-800/80 hover:bg-slate-700/80 rounded-xl border border-slate-700 transition-colors flex items-center justify-between"
             >
               <span>美瑛・青い池冬期ライトアップ＆富良野十勝岳天然温泉名宿</span>

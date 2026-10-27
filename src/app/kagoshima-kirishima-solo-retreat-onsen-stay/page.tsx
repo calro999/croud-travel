@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '霧島温泉ひとり旅・天孫降臨神話おこもり：霧島連峰パノラマ・源泉かけ流し露天・黒豚地鶏会席！坂本龍馬も愛した南九州の霊峰厳選3宿',
     description: '坂本龍馬とお龍が日本初の新婚旅行で訪れた神話の郷・霧島！全室に温泉露天風呂とプライベート空間を誇る「天テラス（あまてらす）」、全室天然温泉付き離れの趣で美食が愛される「いで湯の宿 霧島花紫」、最新の快適性と天然温泉スパを備える「ザ・パルス霧島」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/kagoshima-kirishima-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/kagoshima-kirishima-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/kagoshima-kirishima-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/kagoshima-kirishima-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【霧島温泉ひとり旅・天孫降臨神話おこもり】霧島連峰パノラマ・源泉かけ流し露天・黒豚地鶏会席！坂本龍馬も愛した南九州の霊峰厳選3宿","item":"https://croud-travel.pages.dev/kagoshima-kirishima-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【霧島温泉ひとり旅・天孫降臨神話おこもり】霧島連峰パノラマ・源泉かけ流し露天・黒豚地鶏会席！坂本龍馬も愛した南九州の霊峰厳選3宿","item":"https://croud-travel.pages.dev/kagoshima-kirishima-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

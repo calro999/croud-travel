@@ -430,7 +430,7 @@ export default function KyotoEarlyMorningGuidePage() {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
-              href="/tokyo-kyoto-bus-vs-shinkansen-guide"
+              href="/tokyo-kyoto-bus-vs-shinkansen-guide/"
               className="p-4 bg-white rounded-xl border border-stone-200 hover:border-rose-400 hover:shadow-sm transition-all flex flex-col justify-between"
             >
               <div>
@@ -448,7 +448,7 @@ export default function KyotoEarlyMorningGuidePage() {
             </Link>
 
             <Link
-              href="/kyoto-subway-bus-1day-pass-golden-route"
+              href="/kyoto-subway-bus-1day-pass-golden-route/"
               className="p-4 bg-white rounded-xl border border-stone-200 hover:border-rose-400 hover:shadow-sm transition-all flex flex-col justify-between"
             >
               <div>

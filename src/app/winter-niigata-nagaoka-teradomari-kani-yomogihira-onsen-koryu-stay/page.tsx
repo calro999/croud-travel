@@ -17,12 +17,12 @@ export const metadata: Metadata = {
   title: "日本海魚のアメ横・寺泊冬のカニ市場と商売繁盛高龍神社：2026-2027年冬の新潟・寺泊＆長岡！とろみ美肌湯と越後牛名宿5選",
   description: "冬の日本海の至宝・本ズワイガニや寒ブリが活気あふれる寺泊「魚のアメ横」と、全国の起業家が詣でる商売繁盛の奇跡「高龍神社」新春初詣！長岡の奥座敷・蓬平温泉の極上とろみ美肌湯と、越後牛・地酒に心満たされる新潟の冬名宿5選。",
   alternates: {
-    canonical: "https://croud-travel.pages.dev/winter-niigata-nagaoka-teradomari-kani-yomogihira-onsen-koryu-stay",
+    canonical: "https://croud-travel.pages.dev/winter-niigata-nagaoka-teradomari-kani-yomogihira-onsen-koryu-stay/",
   },
   openGraph: {
     title: "日本海魚のアメ横・寺泊冬のカニ市場と商売繁盛高龍神社：2026-2027年冬の新潟・寺泊＆長岡！とろみ美肌湯と越後牛名宿5選",
     description: "冬の日本海の至宝・本ズワイガニや寒ブリが活気あふれる寺泊「魚のアメ横」と、全国の起業家が詣でる商売繁盛の奇跡「高龍神社」新春初詣！長岡の奥座敷・蓬平温泉の極上とろみ美肌湯と、越後牛・地酒に心満たされる新潟の冬名宿5選。",
-    url: "https://croud-travel.pages.dev/winter-niigata-nagaoka-teradomari-kani-yomogihira-onsen-koryu-stay",
+    url: "https://croud-travel.pages.dev/winter-niigata-nagaoka-teradomari-kani-yomogihira-onsen-koryu-stay/",
     siteName: "日本全国・旅宿クラウド",
     locale: "ja_JP",
     type: "article",
@@ -90,7 +90,7 @@ export default function FeaturePage() {
       "@type": "ListItem",
       "position": 2,
       "name": "特集一覧",
-      "item": "https://croud-travel.pages.dev/features"
+      "item": "https://croud-travel.pages.dev/features/"
     },
     {
       "@type": "ListItem",
@@ -102,7 +102,7 @@ export default function FeaturePage() {
       "@type": "ListItem",
       "position": 4,
       "name": "【日本海魚のアメ横・寺泊冬のカニ市場と商売繁盛高龍神社】2026-2027年冬の新潟・寺泊＆長岡！とろみ美肌湯と越後牛名宿5選",
-      "item": "https://croud-travel.pages.dev/winter-niigata-nagaoka-teradomari-kani-yomogihira-onsen-koryu-stay"
+      "item": "https://croud-travel.pages.dev/winter-niigata-nagaoka-teradomari-kani-yomogihira-onsen-koryu-stay/"
     }
   ]
 };
@@ -139,7 +139,7 @@ export default function FeaturePage() {
             ホーム
           </Link>
           <ChevronRight className="w-3 h-3 text-stone-400" />
-          <Link href="/features" className="hover:text-stone-900 transition-colors">
+          <Link href="/features/" className="hover:text-stone-900 transition-colors">
             特集一覧
           </Link>
           <ChevronRight className="w-3 h-3 text-stone-400" />
@@ -784,21 +784,21 @@ export default function FeaturePage() {
                 <ChevronRight className="w-4 h-4 text-stone-400" />
               </Link>
               <Link
-                href="/features"
+                href="/features/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>全国の季節・目的別厳選特集一覧</span>
                 <ChevronRight className="w-4 h-4 text-stone-400" />
               </Link>
               <Link
-                href="/furusato-tax-luxury-hotspring-ryokan-stay"
+                href="/furusato-tax-luxury-hotspring-ryokan-stay/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>実質2,000円で泊まる高級温泉旅館ガイド</span>
                 <ChevronRight className="w-4 h-4 text-stone-400" />
               </Link>
               <Link
-                href="/furusato-tax-local-gourmet-inn-stay"
+                href="/furusato-tax-local-gourmet-inn-stay/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>ご当地グルメを堪能する全国美食旅特集</span>

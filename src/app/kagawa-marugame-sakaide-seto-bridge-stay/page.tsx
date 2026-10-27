@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '香川・丸亀＆坂出・瀬戸大橋：現存丸亀城・骨付鳥＆瀬戸大橋夕景宿 厳選ガイド',
     description: '総高60mの日本一高い石垣を誇る現存木造十二天守「丸亀城」、全国に誇るご当地グルメ「元祖 骨付鳥（おや・ひな）」のスパイシーな肉汁、東山魁夷せとうち美術館から眺める瀬戸大橋の壮大なパノラマ、本場讃岐うどんの名店めぐり宿を徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/kagawa-marugame-sakaide-seto-bridge-stay',
+    url: 'https://croud-travel.pages.dev/kagawa-marugame-sakaide-seto-bridge-stay/',
   },
 };
 

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '三朝温泉ひとり旅・世界屈指ラジウム泉おこもり：三徳山投入堂・回遊式大庭園露天風呂・鳥取和牛！三日目の朝に病が消える現代湯治厳選3宿',
     description: '世界有数の高濃度ラドン含有量を誇る三朝温泉！アットホームなぬくもりと口コミ★4.9点超の「ちくま旅館」、回遊式大庭園露天風呂「翠の湯」で多彩な湯処を巡る名門「依山楼 岩崎」、三朝川沿いでかがり火と純和風美を堪能できる「かがり火の宿 有楽」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/tottori-misasa-solo-retreat-radium-onsen-stay',
+    url: 'https://croud-travel.pages.dev/tottori-misasa-solo-retreat-radium-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/tottori-misasa-solo-retreat-radium-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/tottori-misasa-solo-retreat-radium-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【三朝温泉ひとり旅・世界屈指ラジウム泉おこもり】三徳山投入堂・回遊式大庭園露天風呂・鳥取和牛！三日目の朝に病が消える現代湯治厳選3宿","item":"https://croud-travel.pages.dev/tottori-misasa-solo-retreat-radium-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【三朝温泉ひとり旅・世界屈指ラジウム泉おこもり】三徳山投入堂・回遊式大庭園露天風呂・鳥取和牛！三日目の朝に病が消える現代湯治厳選3宿","item":"https://croud-travel.pages.dev/tottori-misasa-solo-retreat-radium-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

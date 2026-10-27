@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：黄金の輝きと加賀百万石の雅！金箔貼り体験＆金箔風呂が自慢の金沢温泉宿5選',
     description: '2026年最新！金沢の伝統工芸「金箔」の貼り体験や、金箔が舞う贅沢な金箔風呂、金箔をあしらった豪華加賀会席を満喫できる名門温泉旅館5選。',
-    url: 'https://croud-travel.pages.dev/traditional-gold-leaf-craft-kanazawa-stay',
+    url: 'https://croud-travel.pages.dev/traditional-gold-leaf-craft-kanazawa-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-gold-leaf-craft-kanazawa-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-gold-leaf-craft-kanazawa-stay/"
   };
 
   const faqSchema = {
@@ -130,7 +130,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">加賀金箔工芸×金箔風呂名宿</span>
         </div>
@@ -149,7 +149,7 @@ export default function Page() {
             1万分の1ミリの薄さまで打ち延ばされた黄金の芸術・金沢箔。箸や小箱に金箔を施す伝統工芸体験、湯船に金箔がキラキラと舞う優美な金箔風呂、そして金箔をあしらった華やかな治部煮や加賀会席。百万石の贅と美意識に包まれる雅な金沢ステイ。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】黄金の輝きと加賀百万石の雅！金箔貼り体験＆金箔風呂が自慢の金沢温泉宿5選" url="https://croud-travel.pages.dev/traditional-gold-leaf-craft-kanazawa-stay" />
+            <ShareButtons title="【2026年】黄金の輝きと加賀百万石の雅！金箔貼り体験＆金箔風呂が自慢の金沢温泉宿5選" url="https://croud-travel.pages.dev/traditional-gold-leaf-craft-kanazawa-stay/" />
           </div>
         </div>
       </header>
@@ -158,7 +158,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】黄金の輝きと加賀百万石の雅！金箔貼り体験＆金箔風呂が自慢の金沢温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/traditional-gold-leaf-craft-kanazawa-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】黄金の輝きと加賀百万石の雅！金箔貼り体験＆金箔風呂が自慢の金沢温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/traditional-gold-leaf-craft-kanazawa-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '奥日光で過ごす冬の旅（11・12月）！日本屈指のエメラルド硫黄泉と日光湯波会席！名宿5選',
     description: '11月中旬から雪化粧が始まり、12月には息を呑む白銀の静寂が広がる標高約1500mの奥日光・湯元温泉。日本で4番目に濃いエメラルドグリーンから乳白色へ変わる神秘の硫黄泉露天風呂と、伝統の日光湯波・とちぎ和牛に舌鼓を打つ極上の雪見温泉旅。',
-    url: 'https://croud-travel.pages.dev/winter-tochigi-okunikko-yumoto-snow-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-tochigi-okunikko-yumoto-snow-onsen-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function OkunikkoWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-tochigi-okunikko-yumoto-snow-onsen-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tochigi-okunikko-yumoto-snow-onsen-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function OkunikkoWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月奥日光】日本屈指のエメラルド硫黄泉と日光湯波会席！名宿5選","item":"https://croud-travel.pages.dev/winter-tochigi-okunikko-yumoto-snow-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月奥日光】日本屈指のエメラルド硫黄泉と日光湯波会席！名宿5選","item":"https://croud-travel.pages.dev/winter-tochigi-okunikko-yumoto-snow-onsen-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -397,7 +397,7 @@ export default function OkunikkoWinterPage() {
                   <div className="absolute bottom-4 left-4 right-4 bg-gradient-to-t from-stone-950/90 via-stone-950/60 to-transparent p-3 rounded-2xl text-white text-xs">
                     <p className="font-semibold flex items-center gap-1 text-teal-300">
                       <Star className="w-3.5 h-3.5 fill-teal-400 text-teal-400" />
-                      評価 {hotel.rating} / 5.0
+                      評価 {hotel.rating} // 5.0
                     </p>
                     <p className="text-[11px] text-stone-300 line-clamp-1">{hotel.access}</p>
                   </div>
@@ -672,7 +672,7 @@ export default function OkunikkoWinterPage() {
           {/* 関連特集リンクカード */}
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
             <Link 
-              href="/winter-gunma-manza-snow-milky-hotspring-stay"
+              href="/winter-gunma-manza-snow-milky-hotspring-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-teal-50/60 border border-stone-200 hover:border-teal-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">標高1800m雪見にごり湯</span>
@@ -685,7 +685,7 @@ export default function OkunikkoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-gunma-kusatsu-yukimi-onsen-stay"
+              href="/winter-gunma-kusatsu-yukimi-onsen-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-teal-50/60 border border-stone-200 hover:border-teal-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">名湯雪見特集</span>
@@ -698,7 +698,7 @@ export default function OkunikkoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-chichibu-icicle-misotsuchi-stay"
+              href="/winter-chichibu-icicle-misotsuchi-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-teal-50/60 border border-stone-200 hover:border-teal-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-cyan-800 bg-cyan-100/80 px-2 py-0.5 rounded">冬の氷の絶景</span>

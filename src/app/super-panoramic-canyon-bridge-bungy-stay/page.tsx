@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：爽快ラフティング＆キャニオニング！大自然アクティビティと癒やしの天然温泉宿5選',
     description: '2026年最新！水上・長瀞・吉野川など、大興奮の急流ラフティングやキャニオニング体験と、疲れた体を包み込む天然温泉がセットになった人気宿5選。',
-    url: 'https://croud-travel.pages.dev/super-panoramic-canyon-bridge-bungy-stay',
+    url: 'https://croud-travel.pages.dev/super-panoramic-canyon-bridge-bungy-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/super-panoramic-canyon-bridge-bungy-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/super-panoramic-canyon-bridge-bungy-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">爽快アクティビティ×天然温泉</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             エメラルドグリーンの激流を下るラフティングや、滝壺へ飛び込むキャニオニング。思い切り体を動かして大自然のエネルギーを感じた後は、効能豊かな天然温泉に飛び込んで筋肉の疲労をじんわり解消。仲間や家族と最高の思い出を作る爽快アクティブ旅。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】爽快ラフティング＆キャニオニング！大自然アクティビティと癒やしの天然温泉宿5選" url="https://croud-travel.pages.dev/super-panoramic-canyon-bridge-bungy-stay" />
+            <ShareButtons title="【2026年】爽快ラフティング＆キャニオニング！大自然アクティビティと癒やしの天然温泉宿5選" url="https://croud-travel.pages.dev/super-panoramic-canyon-bridge-bungy-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】爽快ラフティング＆キャニオニング！大自然アクティビティと癒やしの天然温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/super-panoramic-canyon-bridge-bungy-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】爽快ラフティング＆キャニオニング！大自然アクティビティと癒やしの天然温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/super-panoramic-canyon-bridge-bungy-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

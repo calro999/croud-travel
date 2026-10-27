@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選ガイド長湯・下呂・有馬の極上泡風呂',
     description: '日本屈指の高濃度炭酸泉！大分長湯温泉のラムネ風呂、岐阜下呂奥座敷の炭酸源泉、兵庫有馬温泉の銀の湯炭酸泉。肌にびっしり気泡がつく血行促進・冷え性改善の名湯旅館を楽天ふるさと納税宿泊クーポンでお得に予約する完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-carbonated-spring-effervescent-onsen-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-carbonated-spring-effervescent-onsen-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -624,7 +624,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-three-major-bihada-hotspring-stay"
+            href="/furusato-tax-three-major-bihada-hotspring-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -640,7 +640,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-waterfall-river-gorge-healing-onsen-stay"
+            href="/furusato-tax-waterfall-river-gorge-healing-onsen-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -656,7 +656,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-secluded-canyon-isolated-onsen-stay"
+            href="/furusato-tax-secluded-canyon-isolated-onsen-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

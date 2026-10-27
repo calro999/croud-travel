@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '野沢温泉ひとり旅・十三外湯めぐりおこもり：麻釜の湯けむり・源泉かけ流し硫黄泉・信州牛！信信濃のスキーと湯治の里厳選3宿',
     description: '天然温泉100%かけ流しの聖地・野沢温泉！名湯「熊の手洗湯」に直結する唯一の宿「お宿てらゆ」、高台から野沢の山並みを一望する展望露天風呂が評判の「野沢グランドホテル」、自家源泉の温もりと家庭的なおもてなしの「げんたろう屋」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/nagano-nozawa-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/nagano-nozawa-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/nagano-nozawa-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/nagano-nozawa-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【野沢温泉ひとり旅・十三外湯めぐりおこもり】麻釜の湯けむり・源泉かけ流し硫黄泉・信州牛！信信濃のスキーと湯治の里厳選3宿","item":"https://croud-travel.pages.dev/nagano-nozawa-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【野沢温泉ひとり旅・十三外湯めぐりおこもり】麻釜の湯けむり・源泉かけ流し硫黄泉・信州牛！信信濃のスキーと湯治の里厳選3宿","item":"https://croud-travel.pages.dev/nagano-nozawa-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

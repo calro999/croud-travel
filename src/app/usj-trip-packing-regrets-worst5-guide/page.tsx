@@ -377,14 +377,14 @@ export default function UsjTripPackingRegretsWorst5Page() {
           <p className="text-xs text-slate-500 mb-3">あわせて読みたい関西・USJ旅行ガイド</p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link
-              href="/usj-family-hotel-near-osaka-guide"
+              href="/usj-family-hotel-near-osaka-guide/"
               className="text-xs sm:text-sm font-semibold text-indigo-700 hover:text-indigo-900 underline underline-offset-4"
             >
               【子連れUSJホテル完全比較】徒歩圏内オフィシャル宿・格安提携ホテルまとめ
             </Link>
             <span className="text-slate-300">|</span>
             <Link
-              href="/osaka-travel-budget-guide"
+              href="/osaka-travel-budget-guide/"
               className="text-xs sm:text-sm font-semibold text-indigo-700 hover:text-indigo-900 underline underline-offset-4"
             >
               【大阪旅行 予算ガイド】1泊2日・2泊3日の総費用と節約テクニック徹底比較

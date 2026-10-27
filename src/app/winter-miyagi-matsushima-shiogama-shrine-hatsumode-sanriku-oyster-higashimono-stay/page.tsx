@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月宮城：陸奥総鎮守「鹽竈神社」新春初！名宿5選',
     description: '芭蕉も心奪われた日本三景・松島と、千二百年の歴史を刻む陸奥国一ノ宮・塩竈を巡る11〜1月の冬紀行。伊達政宗ゆかりの国宝「瑞巌寺」や五大堂が白。',
-    url: 'https://croud-travel.pages.dev/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay/',
     type: 'article',
     images: [
       {
@@ -60,7 +60,7 @@ export default function MiyagiMatsushimaWinterPage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay"
+      "@id": "https://croud-travel.pages.dev/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay/"
     }
   };
 
@@ -78,13 +78,13 @@ export default function MiyagiMatsushimaWinterPage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "宮城・松島＆塩竈 冬特集",
-        "item": "https://croud-travel.pages.dev/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay"
+        "item": "https://croud-travel.pages.dev/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay/"
       }
     ]
   };
@@ -328,7 +328,7 @@ export default function MiyagiMatsushimaWinterPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 py-4 text-xs text-slate-500 flex items-center gap-2">
         <Link href="/" className="hover:text-cyan-700 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-cyan-700 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-cyan-700 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-slate-700 font-medium">宮城・松島＆塩竈 冬特集</span>
       </nav>
@@ -649,7 +649,7 @@ export default function MiyagiMatsushimaWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm">
             <Link 
-              href="/winter-yamagata-shonai-hagurosan-sakata-kandarajiru-yunohama-onsen-stay"
+              href="/winter-yamagata-shonai-hagurosan-sakata-kandarajiru-yunohama-onsen-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-cyan-400 hover:bg-cyan-50/30 transition block space-y-1"
             >
               <span className="font-bold text-cyan-950 block">【山形】羽黒山国宝五重塔雪景色と酒田山居倉庫・寒鱈汁名宿</span>
@@ -657,7 +657,7 @@ export default function MiyagiMatsushimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay"
+              href="/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-cyan-400 hover:bg-cyan-50/30 transition block space-y-1"
             >
               <span className="font-bold text-cyan-950 block">【京都】天橋立幻雪飛龍観と伊根の舟屋・幻の間人ガニ名宿</span>
@@ -665,7 +665,7 @@ export default function MiyagiMatsushimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-iwate-sanriku-miyako-jodogahama-kegani-stay"
+              href="/winter-iwate-sanriku-miyako-jodogahama-kegani-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-cyan-400 hover:bg-cyan-50/30 transition block space-y-1"
             >
               <span className="font-bold text-cyan-950 block">【岩手】三陸宮古・浄土ヶ浜冬景色と三陸毛ガニ・名湯名宿</span>
@@ -673,7 +673,7 @@ export default function MiyagiMatsushimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay"
+              href="/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-cyan-400 hover:bg-cyan-50/30 transition block space-y-1"
             >
               <span className="font-bold text-cyan-950 block">【群馬】宝徳寺冬の床もみじ初詣と熱々ひもかわうどん名宿</span>
@@ -692,7 +692,7 @@ export default function MiyagiMatsushimaWinterPage() {
           </p>
           <div className="pt-2 flex flex-wrap justify-center gap-3">
             <Link 
-              href="/features" 
+              href="/features/" 
               className="px-6 py-3 bg-white text-slate-900 hover:bg-slate-100 font-black text-xs md:text-sm rounded-xl shadow transition"
             >
               特集記事一覧を見る

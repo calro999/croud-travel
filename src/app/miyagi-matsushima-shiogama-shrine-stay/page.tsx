@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '宮城・松島＆塩竈：日本三景松島クルーズ・塩竈神社＆生マグロ・牡蠣宿 厳選ガイド',
     description: '松尾芭蕉も息を呑んだ日本三景「松島湾」の島巡りクルーズ、伊達政宗の美意識が宿る「国宝 瑞厳寺」と五大堂、陸奥国一之宮「鹽竈神社（塩竈神社）」、日本有数の生マグロ水揚げ港・塩竈の極上寿司と冬の松島焼き牡蠣を味わう宿を徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/miyagi-matsushima-shiogama-shrine-stay',
+    url: 'https://croud-travel.pages.dev/miyagi-matsushima-shiogama-shrine-stay/',
   },
 };
 

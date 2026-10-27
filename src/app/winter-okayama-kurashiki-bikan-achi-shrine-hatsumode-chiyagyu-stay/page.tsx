@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: '江戸情緒を色濃く残す白壁の蔵屋敷となまこ壁の町並み！11〜1月は柳並木の倉敷川沿いがしっとりとした静寂に包まれ。',
   keywords: '倉敷美観地区 冬, 倉敷美観地区 ライトアップ, 阿智神社 初詣, 下津井タコ, 千屋牛 ステーキ, 倉敷アイビースクエア, ドーミーイン倉敷, ロイヤルパークホテル倉敷, 岡山ばら寿司, 倉敷 冬 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-achi-shrine-hatsumode-chiyagyu-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-achi-shrine-hatsumode-chiyagyu-stay/'
   },
   openGraph: {
     title: '11・12・1月岡山：倉敷総鎮守「阿智神社」新春初詣！名宿5選',
     description: '江戸情緒を色濃く残す白壁の蔵屋敷となまこ壁の町並み！11〜1月は柳並木の倉敷川沿いがしっとりとした静寂に包まれ。',
-    url: 'https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-achi-shrine-hatsumode-chiyagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-achi-shrine-hatsumode-chiyagyu-stay/',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -57,7 +57,7 @@ export default function OkayamaKurashikiWinterFeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-achi-shrine-hatsumode-chiyagyu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-achi-shrine-hatsumode-chiyagyu-stay/"
     }
   };
 
@@ -75,13 +75,13 @@ export default function OkayamaKurashikiWinterFeaturePage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "岡山・倉敷美観地区＆阿智神社 冬の初詣と下津井タコ",
-        "item": "https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-achi-shrine-hatsumode-chiyagyu-stay"
+        "item": "https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-achi-shrine-hatsumode-chiyagyu-stay/"
       }
     ]
   };
@@ -275,7 +275,7 @@ export default function OkayamaKurashikiWinterFeaturePage() {
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-indigo-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-indigo-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-indigo-600 transition">特集一覧</Link>
             <span>/</span>
             <span className="text-stone-800 font-medium">岡山・倉敷美観地区＆阿智神社 冬の初詣と下津井タコ</span>
           </div>
@@ -560,28 +560,28 @@ export default function OkayamaKurashikiWinterFeaturePage() {
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               <Link 
-                href="/winter-okayama-kibiji-soja-saijo-inari-hatsumode-chiyagyu-stay"
+                href="/winter-okayama-kibiji-soja-saijo-inari-hatsumode-chiyagyu-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-indigo-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【岡山】吉備路・総社＆最上稲荷初詣</div>
                 <p className="text-stone-500">日本三大稲荷の巨大鳥居と五重塔雪景色・千屋牛と温泉名宿</p>
               </Link>
               <Link 
-                href="/winter-okayama-hinase-ushimado-oyster-kakioko-stay"
+                href="/winter-okayama-hinase-ushimado-oyster-kakioko-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-indigo-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【岡山】日生・牛窓＆牡蠣カキオコ</div>
                 <p className="text-stone-500">瀬戸内海のエーゲ海と日生カキオコ・殻付き真牡蠣と海見温泉名宿</p>
               </Link>
               <Link 
-                href="/winter-hiroshima-saijo-takehara-sake-brewery-bikan-stay"
+                href="/winter-hiroshima-saijo-takehara-sake-brewery-bikan-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-indigo-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【広島】西条酒蔵通り＆竹原町並み</div>
                 <p className="text-stone-500">安芸の小京都の白壁格子戸と寒仕込み美酒鍋・竹原温泉名宿</p>
               </Link>
               <Link 
-                href="/winter-tottori-sakyu-snow-hakuto-shrine-hatsumode-matsubagani-onsen-stay"
+                href="/winter-tottori-sakyu-snow-hakuto-shrine-hatsumode-matsubagani-onsen-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-indigo-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【鳥取】鳥取砂丘雪景色＆白兎神社初詣</div>
@@ -590,7 +590,7 @@ export default function OkayamaKurashikiWinterFeaturePage() {
             </div>
             <div className="mt-6 text-center">
               <Link 
-                href="/features"
+                href="/features/"
                 className="inline-flex items-center gap-1.5 text-xs font-bold text-indigo-600 hover:text-indigo-700 transition"
               >
                 全国の冬特集・温泉宿泊ガイド一覧を見る →

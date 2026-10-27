@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三霊山＆富士山・白山・立山を仰ぐ天空パノラマリゾート×ふるさと納税厳選ガイド霊峰ビュー温泉宿',
     description: '日本古来の山岳信仰が息づく日本三霊山！山梨・静岡「霊峰富士」河口湖逆さ富士展望温泉と甲州ワインビーフ、石川「白山」手取川源流の雪解け美肌湯と加賀会席宿、富山「立山」立山黒部アルペンルート直結マウンテンホテルと富山湾の海の幸。神々が宿る名峰の絶景パノラマを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-sacred-mountains-sky-resort-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-sacred-mountains-sky-resort-stay/',
     siteName: 'トラベル総合ナビ',
     locale: 'ja_JP',
     type: 'article',
@@ -770,7 +770,7 @@ export default function Page() {
             
             <Link
               key="0"
-              href="/furusato-tax-open-air-bath-with-majestic-fuji-view-stay"
+              href="/furusato-tax-open-air-bath-with-majestic-fuji-view-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -783,7 +783,7 @@ export default function Page() {
             
             <Link
               key="1"
-              href="/furusato-tax-alps-trekking-mountain-resort-stay"
+              href="/furusato-tax-alps-trekking-mountain-resort-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -796,7 +796,7 @@ export default function Page() {
             
             <Link
               key="2"
-              href="/furusato-tax-sea-of-clouds-sky-terrace-hotel-stay"
+              href="/furusato-tax-sea-of-clouds-sky-terrace-hotel-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">

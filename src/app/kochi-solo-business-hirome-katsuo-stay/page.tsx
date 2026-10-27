@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '高知出張＆土佐酒ひとり旅：ひろめ市場徒歩すぐ・天然温泉露天風呂・絶品カツオ藁焼き！南国土佐で魂を解放する名宿 厳選3選',
     description: '黒潮躍る太平洋と坂本龍馬のふるさと・高知！「ひろめ市場徒歩5分・最上階に天然温泉大浴場と夜鳴きそば完備」の「ドーミーイン高知」、創業140余年・皇族も迎える名門旅館「城西館」、高知駅前徒歩2分の好立地を誇る「JRクレメントイン高知」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/kochi-solo-business-hirome-katsuo-stay',
+    url: 'https://croud-travel.pages.dev/kochi-solo-business-hirome-katsuo-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T15:40:00+09:00',
     dateModified: '2026-10-19T15:40:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/kochi-solo-business-hirome-katsuo-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/kochi-solo-business-hirome-katsuo-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【高知出張＆土佐酒ひとり旅】ひろめ市場徒歩すぐ・天然温泉露天風呂・絶品カツオ藁焼き！南国土佐で魂を解放する名宿 厳選3選","item":"https://croud-travel.pages.dev/kochi-solo-business-hirome-katsuo-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【高知出張＆土佐酒ひとり旅】ひろめ市場徒歩すぐ・天然温泉露天風呂・絶品カツオ藁焼き！南国土佐で魂を解放する名宿 厳選3選","item":"https://croud-travel.pages.dev/kochi-solo-business-hirome-katsuo-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '2026年：旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選',
     description: '2026年最新！コレステロールが低く旨味成分豊富な沖縄名物「あぐー豚」しゃぶしゃぶ会席！エメラルドグリーンの美ら海を一望する絶景リゾートホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/traditional-okinawa-agu-pork-shabu-stay',
+    url: 'https://croud-travel.pages.dev/traditional-okinawa-agu-pork-shabu-stay/',
   },
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-okinawa-agu-pork-shabu-stay/",
@@ -179,7 +179,7 @@ export default function FeatureDetailPage() {
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-amber-600">トップ</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-amber-600">厳選特集一覧</Link>
+          <Link href="/features/" className="hover:text-amber-600">厳選特集一覧</Link>
           <span>&gt;</span>
           <span className="text-slate-800 font-medium truncate max-w-xs sm:max-w-md md:max-w-none">
             特選あぐー豚しゃぶしゃぶ＆美ら海オーシャンリゾート
@@ -556,7 +556,7 @@ export default function FeatureDetailPage() {
         {/* 特集トップへのリンク */}
         <div className="text-center pt-4">
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold px-8 py-4 rounded-2xl shadow-md transition-all"
           >
             <span>他の厳選特集一覧を見る</span>

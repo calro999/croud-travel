@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '千葉・南房総温泉郷で過ごす冬の旅（11・12月）！太平洋パノラマ絶景露天！名宿5選',
     description: '11月から12月にかけて、東京湾アクアラインで都心からわずか90分で訪れることができる房総半島南部「南房総温泉郷（鴨川・小湊・千倉・館山・白浜）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay',
+    url: 'https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function ChibaMinamibosoWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay"
+          "@id": "https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay/"
         },
         "headline": "【11・12月千葉・南房総温泉郷の温暖避寒旅と旬の伊勢海老・房州地魚】太平洋パノラマ絶景露天＆貸切風呂の宿5選",
         "description": "11月から12月にかけて、東京湾アクアラインで都心からわずか90分で訪れることができる房総半島南部「南房総温泉郷（鴨川・小湊・千倉・館山・白浜）」は、黒潮がもたらす温暖な海洋性気候に包まれ、冬の厳しい寒さを逃れて穏やかな海風を感じられる関東屈指の避寒リゾートです。11・12月は秋に解禁された名物「房州伊勢海老」が最も甘みと身の締まりを極める最盛期を迎え、金目鯛の姿煮や房州アワビ、朝獲れ地魚姿造りが食卓を彩ります。太平洋の水平線から昇る神々しい朝焼けを露天風呂から独占する、初冬の南房総おすすめ名旅館・絶景リゾート5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function ChibaMinamibosoWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "千葉・南房総温泉郷 温暖避寒旅と旬の伊勢海老・太平洋露天の宿",
-            "item": "https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay"
+            "item": "https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay/"
           }
         ]
       },
@@ -592,42 +592,42 @@ export default function ChibaMinamibosoWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay"
+              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">静岡・熱海温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">冬の熱海海上花火大会と脂が乗った金目鯛煮付け・海一望露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-shizuoka-izukogen-granillumi-ito-onsen-stay"
+              href="/winter-shizuoka-izukogen-granillumi-ito-onsen-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">静岡・伊東温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">伊豆高原グランイルミの輝きと源泉掛け流し湯・伊豆会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-izu-kinmedai-shabushabu-luxury-stay"
+              href="/winter-izu-kinmedai-shabushabu-luxury-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">静岡・東伊豆温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">極上金目鯛しゃぶしゃぶと朝獲れ地魚・相模湾オーシャンビューの宿</h3>
             </Link>
             <Link 
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay"
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">神奈川・箱根温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">雪化粧の霊峰富士を望む絶景露天風呂と伝統会席のラグジュアリー宿</h3>
             </Link>
             <Link 
-              href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay"
+              href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">愛知・南知多温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">11月解禁天然とらふぐと知多牛ステーキ・伊勢湾夕景露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-oyster-seafood-gourmet"
+              href="/winter-oyster-seafood-gourmet/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">全国冬の味覚特集</span>

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月福岡：門司港レトロ浪漫灯彩イルミネーション！名宿5選',
     description: '冬の北九州・門司港は、大正ロマン薫る赤煉瓦洋館群が約30万球の光に包まれる「門司港レトロ浪漫灯彩」で幻想的な輝きを放ちます。',
-    url: 'https://croud-travel.pages.dev/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/3164/3164.jpg', width: 1200, height: 630, alt: '門司港レトロ浪漫灯彩と関門海峡の冬夜景' }]
   },
@@ -157,8 +157,8 @@ export default function FukuokaMojikoKokuraPage() {
         '@type': 'BreadcrumbList',
         'itemListElement': [
           { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '門司港レトロイルミネーション＆小倉名宿', 'item': 'https://croud-travel.pages.dev/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay' }
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features/' },
+          { '@type': 'ListItem', 'position': 3, 'name': '門司港レトロイルミネーション＆小倉名宿', 'item': 'https://croud-travel.pages.dev/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay/' }
         ]
       },
       {
@@ -595,37 +595,37 @@ export default function FukuokaMojikoKokuraPage() {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay"
+              href="/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【太宰府天満宮】新春初詣＆二日市温泉・博多和牛の名宿
             </Link>
             <Link
-              href="/winter-fukuoka-itoshima-oyster-hakata-fugu-stay"
+              href="/winter-fukuoka-itoshima-oyster-hakata-fugu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【糸島】冬の焼き牡蠣小屋めぐり＆博多天然とらふぐ名宿
             </Link>
             <Link
-              href="/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay"
+              href="/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【下関・川棚温泉】関門海峡の本場とらふぐ＆名物瓦そば名宿
             </Link>
             <Link
-              href="/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay"
+              href="/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【柳川温泉】冬の風物詩こたつ舟下り＆本場うなぎのせいろ蒸し名宿
             </Link>
             <Link
-              href="/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay"
+              href="/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【唐津・呼子】透明な呼子イカ活造り＆極上佐賀牛の名宿
             </Link>
             <Link
-              href="/features"
+              href="/features/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-bold text-amber-700 block text-center flex items-center justify-center gap-1"
             >
               <span>全国の冬旅特集一覧を見る</span>

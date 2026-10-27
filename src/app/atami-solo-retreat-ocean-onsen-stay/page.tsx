@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '熱海ひとり旅・海望おこもり：相模湾インフィニティ露天・創業200余年の老舗名湯・贅沢海の幸！都心から45分の極上温泉宿 厳選3選',
     description: '東京駅から東海道新幹線でわずか約45分！相模湾のパノラマと夜景を望む「熱海後楽園ホテル」、創業200年超の歴史と名湯・部屋食を誇る名門「古屋旅館」、自家源泉と昭和レトロなもてなしが心地よい「湯宿一番地」を楽天APIデータに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/atami-solo-retreat-ocean-onsen-stay',
+    url: 'https://croud-travel.pages.dev/atami-solo-retreat-ocean-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T15:45:00+09:00',
     dateModified: '2026-10-19T15:45:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/atami-solo-retreat-ocean-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/atami-solo-retreat-ocean-onsen-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【熱海ひとり旅・海望おこもり】相模湾インフィニティ露天・創業200余年の老舗名湯・贅沢海の幸！都心から45分の極上温泉宿 厳選3選","item":"https://croud-travel.pages.dev/atami-solo-retreat-ocean-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【熱海ひとり旅・海望おこもり】相模湾インフィニティ露天・創業200余年の老舗名湯・贅沢海の幸！都心から45分の極上温泉宿 厳選3選","item":"https://croud-travel.pages.dev/atami-solo-retreat-ocean-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

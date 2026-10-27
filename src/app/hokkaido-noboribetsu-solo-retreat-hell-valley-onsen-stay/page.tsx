@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '北海道・登別温泉ひとり旅・地獄谷の多彩な泉質おこもり：9種類の湧出泉・白濁硫黄露天風呂・道産会席！名湯の王様厳選3宿',
     description: '毎分3,000リットルの源泉が湧き出す北海道屈指の名湯・登別温泉！純和風の数寄屋造りと本格部屋食で一人静かに過ごせる名館「御やど清水屋」、地獄谷の絶景を眼前に望み乳白色露天風呂を備える「登別万世閣」、豊富な泉質と野趣あふれる岩風呂が自慢の「名湯の宿 パークホテル雅亭」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/hokkaido-noboribetsu-solo-retreat-hell-valley-onsen-stay',
+    url: 'https://croud-travel.pages.dev/hokkaido-noboribetsu-solo-retreat-hell-valley-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/hokkaido-noboribetsu-solo-retreat-hell-valley-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/hokkaido-noboribetsu-solo-retreat-hell-valley-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【北海道・登別温泉ひとり旅・地獄谷の多彩な泉質おこもり】9種類の湧出泉・白濁硫黄露天風呂・道産会席！名湯の王様厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-noboribetsu-solo-retreat-hell-valley-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【北海道・登別温泉ひとり旅・地獄谷の多彩な泉質おこもり】9種類の湧出泉・白濁硫黄露天風呂・道産会席！名湯の王様厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-noboribetsu-solo-retreat-hell-valley-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

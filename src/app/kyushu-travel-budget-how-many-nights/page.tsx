@@ -88,7 +88,7 @@ export default function KyushuTravelNightsPage() {
           <h4 className="font-bold text-emerald-900 mb-2">✈️ 福岡（博多）到着までの交通費目安（片道）</h4>
           <ul className="space-y-1 text-stone-600">
             <li>・東京から：LCC利用 <span className="font-bold text-stone-800">約5,000〜12,000円</span> / 新幹線 <span className="font-bold text-stone-800">22,220円</span></li>
-            <li>・大阪から：新幹線や高速バスの比較は<Link href="/osaka-fukuoka-bus-vs-shinkansen-guide" className="text-teal-600 underline font-bold">こちら</Link></li>
+            <li>・大阪から：新幹線や高速バスの比較は<Link href="/osaka-fukuoka-bus-vs-shinkansen-guide/" className="text-teal-600 underline font-bold">こちら</Link></li>
           </ul>
         </div>
       </div>
@@ -124,10 +124,10 @@ export default function KyushuTravelNightsPage() {
           </div>
 
           <div className="flex flex-wrap gap-2 text-xs">
-            <Link href="/fukuoka-kumamoto-bus-vs-shinkansen-guide" className="bg-white border border-teal-600 text-teal-700 px-3 py-1.5 rounded-full hover:bg-teal-50">
+            <Link href="/fukuoka-kumamoto-bus-vs-shinkansen-guide/" className="bg-white border border-teal-600 text-teal-700 px-3 py-1.5 rounded-full hover:bg-teal-50">
               👉 福岡〜熊本の移動手段を比較
             </Link>
-            <Link href="/fukuoka-beppu-yufuin-bus-vs-train-guide" className="bg-white border border-teal-600 text-teal-700 px-3 py-1.5 rounded-full hover:bg-teal-50">
+            <Link href="/fukuoka-beppu-yufuin-bus-vs-train-guide/" className="bg-white border border-teal-600 text-teal-700 px-3 py-1.5 rounded-full hover:bg-teal-50">
               👉 福岡〜別府・由布院の移動手段を比較
             </Link>
           </div>
@@ -166,7 +166,7 @@ export default function KyushuTravelNightsPage() {
           </div>
 
           <div className="flex flex-wrap gap-2 text-xs">
-            <Link href="/fukuoka-kagoshima-bus-vs-shinkansen-guide" className="bg-white border border-amber-600 text-amber-700 px-3 py-1.5 rounded-full hover:bg-amber-50">
+            <Link href="/fukuoka-kagoshima-bus-vs-shinkansen-guide/" className="bg-white border border-amber-600 text-amber-700 px-3 py-1.5 rounded-full hover:bg-amber-50">
               👉 福岡〜鹿児島の移動手段を比較（新幹線 vs バス）
             </Link>
           </div>

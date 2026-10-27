@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '花巻南温泉郷で過ごす冬の旅（11・12月）！自噴立ち湯「白猿の湯」と極上前沢牛！名宿5選',
     description: '11月中旬から初冬の白銀世界へと移ろう岩手県花巻市の奥座敷・花巻南温泉郷。豊沢川の清流に沿って点在する鉛温泉や大沢温泉の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-iwate-hanamaki-minami-namari-osawa-snow-stay',
+    url: 'https://croud-travel.pages.dev/winter-iwate-hanamaki-minami-namari-osawa-snow-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -57,7 +57,7 @@ export default function IwateHanamakiMinamiPage() {
         "datePublished": "T18:00:00+09:00",
         "dateModified": "T18:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-iwate-hanamaki-minami-namari-osawa-snow-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-iwate-hanamaki-minami-namari-osawa-snow-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -353,7 +353,7 @@ export default function IwateHanamakiMinamiPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 sm:pt-14 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月花巻南温泉郷】自噴立ち湯「白猿の湯」と極上前沢牛！名宿5選","item":"https://croud-travel.pages.dev/winter-iwate-hanamaki-minami-namari-osawa-snow-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月花巻南温泉郷】自噴立ち湯「白猿の湯」と極上前沢牛！名宿5選","item":"https://croud-travel.pages.dev/winter-iwate-hanamaki-minami-namari-osawa-snow-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -649,7 +649,7 @@ export default function IwateHanamakiMinamiPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay"
+              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">岩手・花巻温泉</span>
@@ -662,7 +662,7 @@ export default function IwateHanamakiMinamiPage() {
             </Link>
 
             <Link 
-              href="/winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay"
+              href="/winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">岩手・八幡平松川温泉</span>
@@ -675,7 +675,7 @@ export default function IwateHanamakiMinamiPage() {
             </Link>
 
             <Link 
-              href="/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay"
+              href="/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">岩手・鶯宿＆雫石温泉</span>

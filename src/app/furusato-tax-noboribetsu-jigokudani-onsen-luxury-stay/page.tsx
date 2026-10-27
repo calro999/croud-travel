@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '湯量毎分3000L・9種の源泉デパート！登別温泉の地獄谷一望大浴場＆カニ食べ放題名門宿×ふるさと納税極上旅ガイド第一滝本館・まほろば・グランドホテル',
     description: '日本屈指の温泉天国・北海道登別温泉！立ちのぼる白煙が圧巻の地獄谷に隣接。「第一滝本館」「登別温泉 ホテル まほろば」「登別温泉 登別グランドホテル」を、北海道登別市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。1500坪の温泉天国、日本最大級露天風呂、カニ食べ放題ビュッフェ、鬼サウナを堪能。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-noboribetsu-jigokudani-onsen-luxury-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-noboribetsu-jigokudani-onsen-luxury-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoNoboribetsuJigokudaniStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">登別温泉 地獄谷＆名湯宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoNoboribetsuJigokudaniStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-crab-all-you-can-eat-winter-buffet-stay"
+            href="/furusato-tax-crab-all-you-can-eat-winter-buffet-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【冬の蟹食べ放題＆本場松葉ガニ名宿×ふるさと納税】夕日ヶ浦・城崎温泉
           </Link>
           <Link
-            href="/furusato-tax-yufuin-onsen-kinrinko-luxury-stay"
+            href="/furusato-tax-yufuin-onsen-kinrinko-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【由布院温泉＆金鱗湖名門宿×ふるさと納税】花由・秀峰館・梅園
           </Link>
           <Link
-            href="/pure-100-percent-kakenagashi-onsen-stay"
+            href="/pure-100-percent-kakenagashi-onsen-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【源泉かけ流し100％名湯×ふるさと納税】加水加温なしの本物の温泉宿
           </Link>
           <Link
-            href="/furusato-tax-indoor-pool-kids-family-resort-stay"
+            href="/furusato-tax-indoor-pool-kids-family-resort-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【一年中泳げる室内温水プール宿×ふるさと納税】那須・草津・別府リゾート

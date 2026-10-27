@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '南紀白浜ひとり旅・海望おこもり：太平洋オーシャンビュー・古都白浜温泉・インフィニティ足湯！南国の絶景に癒やされる厳選3宿',
     description: '南紀白浜空港へ東京羽田からわずか約70分！海に突き出る西洋の城で総工費400億の宮殿温泉ステイ「白浜温泉 ホテル川久」、太平洋を一望するインフィニティ足湯テラスと快適ワーケーションが話題の「SHIRAHAMA KEY TERRACE HOTEL SEAMORE」、白良浜の白い砂浜が目の前に広がる「白良荘グランドホテル」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/nanki-shirahama-solo-retreat-ocean-onsen-stay',
+    url: 'https://croud-travel.pages.dev/nanki-shirahama-solo-retreat-ocean-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T17:40:00+09:00',
     dateModified: '2026-10-19T17:40:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/nanki-shirahama-solo-retreat-ocean-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/nanki-shirahama-solo-retreat-ocean-onsen-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【南紀白浜ひとり旅・海望おこもり】太平洋オーシャンビュー・古都白浜温泉・インフィニティ足湯！南国の絶景に癒やされる厳選3宿","item":"https://croud-travel.pages.dev/nanki-shirahama-solo-retreat-ocean-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【南紀白浜ひとり旅・海望おこもり】太平洋オーシャンビュー・古都白浜温泉・インフィニティ足湯！南国の絶景に癒やされる厳選3宿","item":"https://croud-travel.pages.dev/nanki-shirahama-solo-retreat-ocean-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

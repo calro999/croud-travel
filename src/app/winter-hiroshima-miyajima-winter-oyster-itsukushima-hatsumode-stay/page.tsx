@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     title: '冬の宮島牡蠣三昧と厳島神社新春初詣：2026-2027年冬の宮島・宮浜温泉！世界遺産と絶景潮湯名宿5選',
     description: '冬に実入りがピークを迎える濃厚クリーミーな宮島牡蠣と世界遺産・厳島神社の新春初詣！海上に浮かぶ大鳥居の荘厳な眺望、宮島潮湯温泉や対岸宮浜温泉の絶景露天風呂を愉しむ厳選5宿。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/winter-hiroshima-miyajima-winter-oyster-itsukushima-hatsumode-stay',
+    url: 'https://croud-travel.pages.dev/winter-hiroshima-miyajima-winter-oyster-itsukushima-hatsumode-stay/',
   }
 };
 
@@ -97,7 +97,7 @@ export default function WinterFeaturePage() {
           <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-amber-700 transition">ホーム</Link>
             <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-            <Link href="/features" className="hover:text-amber-700 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-amber-700 transition">特集一覧</Link>
             <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
             <Link href="/prefectures/hiroshima/" className="hover:text-amber-700 transition">広島県</Link>
             <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
@@ -732,15 +732,15 @@ export default function WinterFeaturePage() {
                 <span>広島県のおすすめ観光名所＆温泉宿一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/features" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/features/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>全国の季節・目的別旅行特集一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>実質2,000円で泊まる名湯・高級温泉旅館ガイド</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-local-gourmet-inn-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-local-gourmet-inn-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>ご当地グルメを堪能する全国美食旅特集</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>

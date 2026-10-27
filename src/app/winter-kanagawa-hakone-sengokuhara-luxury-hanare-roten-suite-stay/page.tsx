@@ -15,12 +15,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: '【全室露天風呂付き極上離れと白濁硫黄泉】2026-2027年11-12月初冬の箱根・仙石原！大人の隠れ家高級宿で味わう極上相州牛＆冬懐石・大涌谷にごり湯スイート名宿5選',
     description: '初冬の静寂に包まれる箱根・仙石原！黄金色に輝くすすき草原のフィナーレと、大涌谷から引湯する濃厚な乳白色の硫黄泉。全室に専用露天風呂を備えた大人の極上離れやスイートルームで、人目を気にせず名湯を独り占め。きめ細やかなサシの相州牛や駿河湾・相模湾の冬の味覚を散りばめた本格懐石料理に舌鼓を打つ、憧れの記念日ラグジュアリーステイ厳選5選。',
-    url: 'https://croud-travel.pages.dev/winter-kanagawa-hakone-sengokuhara-luxury-hanare-roten-suite-stay',
+    url: 'https://croud-travel.pages.dev/winter-kanagawa-hakone-sengokuhara-luxury-hanare-roten-suite-stay/',
     type: 'article',
     siteName: 'クラウドトラベル',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-kanagawa-hakone-sengokuhara-luxury-hanare-roten-suite-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-kanagawa-hakone-sengokuhara-luxury-hanare-roten-suite-stay/',
   },
 };
 
@@ -46,13 +46,13 @@ export default function LuxuryWinterFeaturePage() {
                   "@type": "ListItem",
                   "position": 2,
                   "name": "特集一覧",
-                  "item": "https://croud-travel.pages.dev/features"
+                  "item": "https://croud-travel.pages.dev/features/"
                 },
                 {
                   "@type": "ListItem",
                   "position": 3,
                   "name": "【全室露天風呂付き極上離れと白濁硫黄泉】2026-2027年11-12月初冬の箱根・仙石原！大人の隠れ家高級宿で味わう極上相州牛＆冬懐石・大涌谷にごり湯スイート名宿5選",
-                  "item": "https://croud-travel.pages.dev/winter-kanagawa-hakone-sengokuhara-luxury-hanare-roten-suite-stay"
+                  "item": "https://croud-travel.pages.dev/winter-kanagawa-hakone-sengokuhara-luxury-hanare-roten-suite-stay/"
                 }
               ]
             },
@@ -95,7 +95,7 @@ export default function LuxuryWinterFeaturePage() {
         <div className="max-w-5xl mx-auto flex items-center gap-1.5 flex-wrap">
           <Link href="/" className="hover:text-slate-800 transition">ホーム</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
-          <Link href="/features" className="hover:text-slate-800 transition">特集一覧</Link>
+          <Link href="/features/" className="hover:text-slate-800 transition">特集一覧</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
           <span className="text-slate-800 font-medium truncate max-w-xs">【全室露天風呂付き極上離れと白濁硫黄泉】2026-2027年11-12月初冬の箱根・仙石原！大人の隠れ家高級宿で味わう極上相州牛＆冬懐石・大涌谷にごり湯スイート名宿5選</span>
         </div>

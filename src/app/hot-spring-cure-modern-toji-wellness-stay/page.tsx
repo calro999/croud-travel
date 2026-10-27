@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：現代湯治＆ウェルネスリトリート！心と体を根本から整える極上ヘルスケア温泉宿5選',
     description: '2026年最新！伝統の湯治文化を現代風にアップデート。薬草ハーブ湯・玄米自然食・ヨガやファスティングプランが充実した心身リセット温泉宿5選。',
-    url: 'https://croud-travel.pages.dev/hot-spring-cure-modern-toji-wellness-stay',
+    url: 'https://croud-travel.pages.dev/hot-spring-cure-modern-toji-wellness-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/hot-spring-cure-modern-toji-wellness-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/hot-spring-cure-modern-toji-wellness-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">現代湯治×ウェルネスリトリート</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             古くから日本人の健康を支えてきた「湯治」を、モダンで洗練された空間で体験。成分濃厚な名湯での温冷交代浴、無農薬野菜や発酵食を中心とした身体に優しいヘルシー会席、静寂の中で行う瞑想やヨガ。日々の疲れをリセットし、活力をチャージする滞在へ。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】現代湯治＆ウェルネスリトリート！心と体を根本から整える極上ヘルスケア温泉宿5選" url="https://croud-travel.pages.dev/hot-spring-cure-modern-toji-wellness-stay" />
+            <ShareButtons title="【2026年】現代湯治＆ウェルネスリトリート！心と体を根本から整える極上ヘルスケア温泉宿5選" url="https://croud-travel.pages.dev/hot-spring-cure-modern-toji-wellness-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】現代湯治＆ウェルネスリトリート！心と体を根本から整える極上ヘルスケア温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/hot-spring-cure-modern-toji-wellness-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】現代湯治＆ウェルネスリトリート！心と体を根本から整える極上ヘルスケア温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/hot-spring-cure-modern-toji-wellness-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月宮崎：霧島東神社」初詣！名宿5選',
     description: '冬の澄み渡る大空に白銀の冠雪をいただく霧島連山の大パノラマと、天孫降臨神話が息づく11〜1月の宮崎・都城＆高原・小林エリア特集。',
-    url: 'https://croud-travel.pages.dev/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay/',
     type: 'article',
     images: [
       {
@@ -61,7 +61,7 @@ export default function MiyazakiMiyakonojoWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay/"
         }
       },
       {
@@ -77,13 +77,13 @@ export default function MiyazakiMiyakonojoWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "宮崎・都城＆小林 霧島東神社初詣と宮崎牛名宿",
-            "item": "https://croud-travel.pages.dev/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay/"
           }
         ]
       },
@@ -270,7 +270,7 @@ export default function MiyazakiMiyakonojoWinterPage() {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-600 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-blue-600">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/features" className="hover:text-blue-600">特集一覧</Link>
+            <Link href="/features/" className="hover:text-blue-600">特集一覧</Link>
             <span>&gt;</span>
             <span className="text-slate-900 font-semibold">宮崎・都城＆霧島山麓 狭野神社初詣＆宮崎牛名宿</span>
           </div>
@@ -583,7 +583,7 @@ export default function MiyazakiMiyakonojoWinterPage() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               <Link
-                href="/winter-kagoshima-izumi-crane-akune-kurobuta-stay"
+                href="/winter-kagoshima-izumi-crane-akune-kurobuta-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-amber-400 text-xs font-bold block mb-1">鹿児島特集</span>
@@ -591,7 +591,7 @@ export default function MiyazakiMiyakonojoWinterPage() {
                 <span className="text-xs text-slate-300">世界屈指の越冬ツル群舞と阿久根の華アジ・さつま黒豚…</span>
               </Link>
               <Link
-                href="/features"
+                href="/features/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-cyan-400 text-xs font-bold block mb-1">特集一覧</span>

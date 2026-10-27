@@ -169,7 +169,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
           </div>
           <div className="flex flex-wrap items-center gap-2">
             <Link
-              href="/kanto-baby-friendly-onsen-ryokan-guide"
+              href="/kanto-baby-friendly-onsen-ryokan-guide/"
               className="inline-flex items-center text-xs font-bold text-amber-900 bg-white border border-amber-300 hover:bg-amber-600 hover:text-white px-3 py-1.5 rounded-xl shadow-xs transition"
             >
               関東ウェルカムベビー温泉旅館ガイド →

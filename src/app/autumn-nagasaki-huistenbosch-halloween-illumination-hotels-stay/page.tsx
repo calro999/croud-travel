@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: "日本一の広さを誇るテーマパーク「長崎ハウステンボス」が、オレンジとゴールドの光に包まれる「ハロウィーンフェスティバル」。本場ヨーロッパのレンガ造りの街並みや運河沿いには、巨大なカボチャのランタンやフォトジェニックなハロウィーン装飾が点灯。夜には世界最大1300万球が輝く「光の王国」イルミネーションと、大迫力のハロウィーンナイト花火が夜空を染め上げます。クラシカルなヨーロッパ調の直営クラシックホテルや、黄金色の温泉が湧くオフィシャルホテル厳選5選を徹底特集。",
   keywords: 'ハウステンボス ハロウィン, ハウステンボス イルミネーション, ホテルオークラJRハウステンボス, ホテルヨーロッパ, ホテルアムステルダム, ホテルデンハーグ, 長崎 旅行 秋, 佐世保 レモンステーキ',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/autumn-nagasaki-huistenbosch-halloween-illumination-hotels-stay'
+    canonical: 'https://croud-travel.pages.dev/autumn-nagasaki-huistenbosch-halloween-illumination-hotels-stay/'
   },
   openGraph: {
     title: "秋の長崎ハウステンボス：ヨーロッパの街並みが包まれるハロウィーンフェスティバル！世界最大級ナイトイルミネーション・秋のグルメ＆直営・オフィシャル厳選名宿5選",
     description: "日本一の広さを誇るテーマパーク「長崎ハウステンボス」が、オレンジとゴールドの光に包まれる「ハロウィーンフェスティバル」。本場ヨーロッパのレンガ造りの街並みや運河沿いには、巨大なカボチャのランタンやフォトジェニックなハロウィーン装飾が点灯。夜には世界最大1300万球が輝く「光の王国」イルミネーションと、大迫力のハロウィーンナイト花火が夜空を染め上げます。クラシカルなヨーロッパ調の直営クラシックホテルや、黄金色の温泉が湧くオフィシャルホテル厳選5選を徹底特集。",
-    url: 'https://croud-travel.pages.dev/autumn-nagasaki-huistenbosch-halloween-illumination-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-nagasaki-huistenbosch-halloween-illumination-hotels-stay/',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -57,7 +57,7 @@ export default function HuistenboschHalloweenFeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/autumn-nagasaki-huistenbosch-halloween-illumination-hotels-stay"
+      "@id": "https://croud-travel.pages.dev/autumn-nagasaki-huistenbosch-halloween-illumination-hotels-stay/"
     }
   };
 
@@ -75,13 +75,13 @@ export default function HuistenboschHalloweenFeaturePage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "長崎ハウステンボス・ハロウィーン特集",
-        "item": "https://croud-travel.pages.dev/autumn-nagasaki-huistenbosch-halloween-illumination-hotels-stay"
+        "item": "https://croud-travel.pages.dev/autumn-nagasaki-huistenbosch-halloween-illumination-hotels-stay/"
       }
     ]
   };
@@ -254,7 +254,7 @@ export default function HuistenboschHalloweenFeaturePage() {
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-amber-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-amber-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-amber-600 transition">特集一覧</Link>
             <span>/</span>
             <Link href="/prefectures/nagasaki/" className="hover:text-amber-600 transition">長崎県</Link>
             <span>/</span>
@@ -597,13 +597,13 @@ export default function HuistenboschHalloweenFeaturePage() {
               カボチャランタンの優しい灯火、1300万球が織りなす圧倒的な光の王国、そして源泉掛け流し温泉やクラシカルな美邸に泊まる至福。非日常のヨーロッパ秋旅行へ出かけてみませんか。
             </p>
             <div className="flex flex-wrap items-center justify-center gap-3 text-xs">
-              <Link href="/features" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
+              <Link href="/features/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 ← 特集一覧に戻る
               </Link>
               <Link href="/prefectures/nagasaki/" className="px-4 py-2 rounded-full bg-amber-50 hover:bg-amber-100 text-amber-700 font-semibold transition">
                 長崎県の旅行ガイド・名宿一覧
               </Link>
-              <Link href="/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay" className="px-4 py-2 rounded-full bg-rose-50 hover:bg-rose-100 text-rose-700 font-semibold transition">
+              <Link href="/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay/" className="px-4 py-2 rounded-full bg-rose-50 hover:bg-rose-100 text-rose-700 font-semibold transition">
                 USJハロウィーン・ホラー・ナイト特集
               </Link>
               <Link href="/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">

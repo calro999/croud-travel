@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '滝の轟きとマイナスイオンに包まれる！名瀑・清流を望む絶景露天風呂旅館×ふるさと納税厳選ガイド伊豆天城・那須板室・熊本黒川',
     description: '眼前に流れ落ちる名瀑の水しぶきと清流の心地よいせせらぎ、豊かな森林のマイナスイオン！伊豆天城の清流と巨石・巨木露天風呂・名物わさび鍋を味わう「天城湯ヶ島温泉 白壁」、那珂川の源流と滝の響きに抱かれ保養と現代アートを融合させた「板室温泉 大黒屋」、黒川の奥座敷・田の原川のせせらぎと滝を望む静寂の離れ宿「風がささやく離れの宿 山あかり」。水音に五感が研ぎ澄まされる極上の滝ビュー温泉ステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-waterfall-view-sound-stream-onsen-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-waterfall-view-sound-stream-onsen-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoWaterfallViewStreamStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">名瀑・清流滝ビュー露天風呂宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoWaterfallViewStreamStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-waterfall-view-sound-stream-onsen-stay"
+            href="/furusato-tax-waterfall-view-sound-stream-onsen-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【清流・渓谷美を望む絶景露天風呂×ふるさと納税】水音と自然に包まれる旅
           </Link>
           <Link
-            href="/furusato-tax-three-major-forest-therapy-retreat-stay"
+            href="/furusato-tax-three-major-forest-therapy-retreat-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【森林浴＆森林セラピー温泉リゾート×ふるさと納税】木漏れ日と癒しの宿
           </Link>
           <Link
-            href="/furusato-tax-fuji-view-open-air-bath-luxury-stay"
+            href="/furusato-tax-fuji-view-open-air-bath-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【絶景露天風呂名門宿×ふるさと納税】大パノラマと至高の温泉体験
           </Link>
           <Link
-            href="/furusato-tax-private-villa-hanare-hideaway-stay"
+            href="/furusato-tax-private-villa-hanare-hideaway-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【大人の隠れ家・離れ客室×ふるさと納税】静寂とプライベート重視の名宿

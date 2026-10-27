@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月京都伏見宇治：伏見稲荷大社新春千本鳥居初詣！名宿5選',
     description: '冬の京都南部（伏見・宇治）は、全国3万社を数える稲荷神社の総本宮「伏見稲荷大社」の朱塗り千本鳥居が冬の青空に鮮やかに映える絶景ロケーションとともに楽しむ宿泊ガイドです。',
-    url: 'https://croud-travel.pages.dev/winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay',
+    url: 'https://croud-travel.pages.dev/winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/1445/1445.jpg' , alt: "11・12・1月京都伏見宇治：伏見稲荷大社新春千本鳥居初詣！名宿5選"}]
   }
@@ -151,7 +151,7 @@ export default function KyotoFushimiPage() {
         "@type": "Article",
         "headline": "【11・12・1月京都伏見宇治】伏見稲荷大社新春千本鳥居初詣＆伏見名水寒仕込み新酒！冬の平等院鳳凰堂と京鴨鍋に寛ぐ厳選宿5選",
         "description": "冬の京都南部（伏見・宇治）は、全国3万社を数える稲荷神社の総本宮「伏見稲荷大社」の朱塗り千本鳥居が冬の青空に鮮やかに映え、新春初詣の祈りに包まれる特別な季節。伏見名水「伏水」が育む老舗酒蔵群では11月から1月にかけて新酒の寒仕込みが最盛期を迎え、搾りたての原酒や温かい酒粕鍋の芳醇な香りが漂います。白雪をまとった世界遺産「平等院鳳凰堂」の優美な佇まい、冬の宇治茶や滋味豊かな京鴨鍋・京会席に舌鼓を打ち、静寂の古都の隠れ家宿で寛ぐ大人の冬旅。楽天APIから最新取得した信頼の名宿5選を徹底特集します。",
-        "url": 'https://croud-travel.pages.dev/winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay',
+        "url": 'https://croud-travel.pages.dev/winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay/',
         "publisher": {
           "@type": "Organization",
           "name": "週末ごほうび旅・厳選の宿ガイド",
@@ -171,13 +171,13 @@ export default function KyotoFushimiPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "冬の伏見稲荷初詣＆宇治平等院特集",
-            "item": 'https://croud-travel.pages.dev/winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay'
+            "item": 'https://croud-travel.pages.dev/winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay/'
           }
         ]
       },
@@ -250,7 +250,7 @@ export default function KyotoFushimiPage() {
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-red-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-red-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-red-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">冬の伏見稲荷初詣＆宇治平等院特集</li>
         </ol>
@@ -546,28 +546,28 @@ export default function KyotoFushimiPage() {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
-              href="/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay"
+              href="/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-red-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【大阪】住吉大社新春初詣＆御堂筋イルミネーション名宿</span>
               <span className="text-xs text-slate-500">光の回廊と全国総本社開運参拝、冬の本場とらふぐてっちり鍋</span>
             </Link>
             <Link 
-              href="/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay"
+              href="/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-red-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【和歌山・加太】日前神宮初詣＆紀淡海峡夕陽絶景名宿</span>
               <span className="text-xs text-slate-500">紀伊国一宮初詣、加太温泉重曹泉美肌湯と冬の一本釣り真鯛・幻のクエ</span>
             </Link>
             <Link 
-              href="/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay"
+              href="/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-red-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【三重・鈴鹿桑名】椿大神社みちびき初詣＆なばなの里名宿</span>
               <span className="text-xs text-slate-500">伊勢国一の宮初詣、国内最大級イルミネーションと桑名天然蛤鍋</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-red-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>

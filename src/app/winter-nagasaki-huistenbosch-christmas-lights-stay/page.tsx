@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '長崎ハウステンボスで過ごす冬の旅（11・12月）！日本一1300万球「光の街の！名宿5選',
     description: '11月上旬から開幕する世界最大級1300万球の祭典「光の街のクリスマス」！高さ12mの巨大ツリー群、日本初の運河アイススケート、夜空を彩るクリスマス花火を堪能。直営クラシックホテルや源泉温泉付きリゾートで過ごす特別な冬休み。',
-    url: 'https://croud-travel.pages.dev/winter-nagasaki-huistenbosch-christmas-lights-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagasaki-huistenbosch-christmas-lights-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function HuistenboschChristmasPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-nagasaki-huistenbosch-christmas-lights-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagasaki-huistenbosch-christmas-lights-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function HuistenboschChristmasPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月長崎ハウステンボス】日本一1300万球「光の街の！名宿5選","item":"https://croud-travel.pages.dev/winter-nagasaki-huistenbosch-christmas-lights-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月長崎ハウステンボス】日本一1300万球「光の街の！名宿5選","item":"https://croud-travel.pages.dev/winter-nagasaki-huistenbosch-christmas-lights-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -735,13 +735,13 @@ export default function HuistenboschChristmasPage() {
               長崎県の観光・温泉宿一覧 →
             </Link>
             <Link 
-              href="/winter-fukuoka-hakata-christmas-advent-gourmet-stay" 
+              href="/winter-fukuoka-hakata-christmas-advent-gourmet-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-indigo-50 hover:text-indigo-600 transition font-medium border border-stone-100"
             >
               福岡 クリスマスアドベント特集 →
             </Link>
             <Link 
-              href="/winter-kumamoto-kurokawa-yuakari-illumination-stay" 
+              href="/winter-kumamoto-kurokawa-yuakari-illumination-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-indigo-50 hover:text-indigo-600 transition font-medium border border-stone-100"
             >
               熊本 黒川温泉湯あかり特集 →
@@ -759,19 +759,19 @@ export default function HuistenboschChristmasPage() {
               福岡県の温泉ホテル一覧 →
             </Link>
             <Link 
-              href="/winter-kobe-luminarie-illumination-stay" 
+              href="/winter-kobe-luminarie-illumination-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-indigo-50 hover:text-indigo-600 transition font-medium border border-stone-100"
             >
               神戸ルミナリエ特集 →
             </Link>
             <Link 
-              href="/winter-yokohama-minatomirai-christmas-stay" 
+              href="/winter-yokohama-minatomirai-christmas-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-indigo-50 hover:text-indigo-600 transition font-medium border border-stone-100"
             >
               横浜みなとみらいクリスマス特集 →
             </Link>
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-3 rounded-xl bg-stone-900 text-white hover:bg-stone-800 transition font-bold text-center flex items-center justify-center gap-1"
             >
               <span>全国の特集一覧を見る</span>

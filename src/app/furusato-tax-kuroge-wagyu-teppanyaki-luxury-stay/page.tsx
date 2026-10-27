@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさと納税厳選ガイド松阪牛・近江牛・米沢牛の美食ホテル',
     description: 'シェフの華麗な手さばきと極上肉の香り！三重松阪牛のA5サーロイン鉄板焼き、滋賀おごと温泉の日本三大和牛近江牛ステーキ、山形米沢牛の極上フィレ肉ディナー。目の前で焼き上がる音と芳醇な肉汁を名湯とともに楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kuroge-wagyu-teppanyaki-luxury-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kuroge-wagyu-teppanyaki-luxury-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -486,7 +486,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-brand-pork-shabu-gourmet-stay"
+            href="/furusato-tax-brand-pork-shabu-gourmet-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -502,7 +502,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-brand-jidori-mizutaki-gourmet-stay"
+            href="/furusato-tax-brand-jidori-mizutaki-gourmet-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -518,7 +518,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-sake-brewery-pairing-onsen-stay"
+            href="/furusato-tax-sake-brewery-pairing-onsen-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

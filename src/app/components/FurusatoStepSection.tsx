@@ -40,7 +40,7 @@ export default function FurusatoStepSection({ municipality, theme }: FurusatoSte
       </div>
       <div className="text-center mt-6">
         <Link
-          href="/furusato-tax-travel-beginners-complete-guide"
+          href="/furusato-tax-travel-beginners-complete-guide/"
           className="text-amber-800 font-bold text-xs sm:text-sm hover:underline"
         >
           👉 詳しいお金の流れやワンストップ特例の手順はこちらの完全マニュアルへ

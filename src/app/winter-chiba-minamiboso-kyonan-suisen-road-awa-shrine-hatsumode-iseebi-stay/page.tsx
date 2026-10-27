@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: '黒潮の影響で真冬でも温暖な気候に恵まれた常春の地・南房総と鋸南・館山。12月中旬〜1月は山肌を白く染める「江月水仙ロード」の約1000万本の。',
   keywords: '江月水仙ロード 見頃, 安房神社 初詣 金運, 野島埼灯台 初日の出, 房総伊勢海老 冬, 金目鯛 姿煮 南房総, 休暇村館山, 白浜オーシャンリゾート, 千葉 冬 旅行, 南房総 観光',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay/'
   },
   openGraph: {
     title: '11・12・1月千葉：房総伊勢海老！名宿5選',
     description: '黒潮の影響で真冬でも温暖な気候に恵まれた常春の地・南房総と鋸南・館山。12月中旬〜1月は山肌を白く染める「江月水仙ロード」の約1000万本の。',
-    url: 'https://croud-travel.pages.dev/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay',
+    url: 'https://croud-travel.pages.dev/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay/',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -57,7 +57,7 @@ export default function ChibaMinamibosoWinterFeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay"
+      "@id": "https://croud-travel.pages.dev/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay/"
     }
   };
 
@@ -75,13 +75,13 @@ export default function ChibaMinamibosoWinterFeaturePage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "千葉・南房総＆鋸南 冬の水仙ロードと安房神社初詣",
-        "item": "https://croud-travel.pages.dev/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay"
+        "item": "https://croud-travel.pages.dev/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay/"
       }
     ]
   };
@@ -275,7 +275,7 @@ export default function ChibaMinamibosoWinterFeaturePage() {
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-amber-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-amber-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-amber-600 transition">特集一覧</Link>
             <span>/</span>
             <Link href="/prefectures/chiba/" className="hover:text-amber-600 transition">千葉県</Link>
             <span>/</span>
@@ -617,7 +617,7 @@ export default function ChibaMinamibosoWinterFeaturePage() {
               江月水仙ロードの可憐な花景色、安房神社の厳かな金運初詣、野島埼灯台の力強い初日の出、そして房総伊勢海老と金目鯛姿煮。温暖な黒潮の風に抱かれ、本州で一足早く春の温もりを感じる開運冬旅へ出かけてみませんか。
             </p>
             <div className="flex flex-wrap items-center justify-center gap-3 text-xs">
-              <Link href="/features" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
+              <Link href="/features/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 ← 特集一覧に戻る
               </Link>
               <Link href="/prefectures/chiba/" className="px-4 py-2 rounded-full bg-amber-50 hover:bg-amber-100 text-amber-700 font-semibold transition">

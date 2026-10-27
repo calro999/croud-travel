@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の京都×格安：紅葉狩りをお得に満喫！大浴場・サウナ付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」',
     description: '宿泊費が高騰する秋の京都で賢く旅する！大浴場・サウナ完備の1泊4,000円台〜コスパ最強ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-budget-kyoto-momiji-large-bath-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-kyoto-momiji-large-bath-hotels-stay/',
   }
 };
 

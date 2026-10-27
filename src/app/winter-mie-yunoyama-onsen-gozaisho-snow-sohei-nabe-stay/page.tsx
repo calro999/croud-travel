@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '三重・湯で過ごす冬の旅（11・12月）！伊勢湾望む絶景露天！名宿5選',
     description: '11月下旬から12月にかけて鈴鹿山脈の主峰・御在所岳（標高1,212m）は、山上公園に白銀の初雪が舞い降り。',
-    url: 'https://croud-travel.pages.dev/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay',
+    url: 'https://croud-travel.pages.dev/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function YunoyamaOnsenWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay"
+          "@id": "https://croud-travel.pages.dev/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay/"
         },
         "headline": "【11・12月三重・湯の山温泉の御在所岳初雪樹氷と開湯1300年美肌湯】名物僧兵鍋・菰野豚＆伊勢湾望む絶景露天の宿5選",
         "description": "11月下旬から12月にかけて鈴鹿山脈の主峰・御在所岳（標高1,212m）は、山上公園に白銀の初雪が舞い降り、条件が揃えば幻想的な「樹氷（スノーモンスター）」や青白く輝く「氷瀑」が出現します。麓の湯の山温泉は養老2年（718年）開湯、傷ついた鹿が癒やした「鹿の湯」伝説が残るアルカリ性単純温泉。三岳寺の僧兵たちにちなんだ滋養強壮満点の郷土鍋「名物僧兵鍋（猪肉・鶏肉・特製味噌仕立て）」、鈴鹿山麓の清流で育つ甘みたっぷりの「菰野豚（こものぶた）」、露天風呂から遠く伊勢湾や名古屋市街の夜景を見渡す絶景名宿5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function YunoyamaOnsenWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "三重・湯の山温泉 御在所岳初雪樹氷と名物僧兵鍋の宿",
-            "item": "https://croud-travel.pages.dev/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay"
+            "item": "https://croud-travel.pages.dev/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay/"
           }
         ]
       },
@@ -580,42 +580,42 @@ export default function YunoyamaOnsenWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay"
+              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">三重・鳥羽温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">伊勢海老・的矢牡蠣と伊勢湾海景色・美肌温泉の宿</h3>
             </Link>
             <Link 
-              href="/winter-mie-nabana-no-sato-illumination-stay"
+              href="/winter-mie-nabana-no-sato-illumination-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">三重・なばなの里</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">国内最大級イルミネーションと長島温泉リゾートの宿</h3>
             </Link>
             <Link 
-              href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay"
+              href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">愛知・南知多温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">伊勢湾パノラマ夕日露天と天然とらふぐ・知多牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay"
+              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">岐阜・下呂温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">天下の三名泉と冬花火物語・とろける極上飛騨牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay"
+              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">京都・湯の花温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">亀岡盆地の幻想雲海と冬のぼたん鍋・京会席を味わう隠れ宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">特集一覧</span>

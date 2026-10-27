@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
     description: '縮景園もみじライトアップと牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強広島ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay/',
   }
 };
 

@@ -17,12 +17,12 @@ export const metadata: Metadata = {
   title: "関東最古の霊場・鹿島神宮新春初詣と水郷の冬景色：2026-2027年冬の茨城・鹿島＆潮来！鹿島灘はまぐりと極上常陸牛名宿5選",
   description: "日本全国の鹿島神社の総本社・東国三社筆頭「鹿島神宮」の新春開運初詣！冬の水郷潮来・霞ヶ浦の静寂と、寒さとともに身が肥える「鹿島灘はまぐり」の網焼き・酒蒸し、茨城最高峰ブランド「常陸牛」を堪能する水郷鹿行の冬名宿5選。",
   alternates: {
-    canonical: "https://croud-travel.pages.dev/winter-ibaraki-kashima-jingu-hatsumode-itako-hamaguri-hitachigyu-stay",
+    canonical: "https://croud-travel.pages.dev/winter-ibaraki-kashima-jingu-hatsumode-itako-hamaguri-hitachigyu-stay/",
   },
   openGraph: {
     title: "関東最古の霊場・鹿島神宮新春初詣と水郷の冬景色：2026-2027年冬の茨城・鹿島＆潮来！鹿島灘はまぐりと極上常陸牛名宿5選",
     description: "日本全国の鹿島神社の総本社・東国三社筆頭「鹿島神宮」の新春開運初詣！冬の水郷潮来・霞ヶ浦の静寂と、寒さとともに身が肥える「鹿島灘はまぐり」の網焼き・酒蒸し、茨城最高峰ブランド「常陸牛」を堪能する水郷鹿行の冬名宿5選。",
-    url: "https://croud-travel.pages.dev/winter-ibaraki-kashima-jingu-hatsumode-itako-hamaguri-hitachigyu-stay",
+    url: "https://croud-travel.pages.dev/winter-ibaraki-kashima-jingu-hatsumode-itako-hamaguri-hitachigyu-stay/",
     siteName: "日本全国・旅宿クラウド",
     locale: "ja_JP",
     type: "article",
@@ -90,7 +90,7 @@ export default function FeaturePage() {
       "@type": "ListItem",
       "position": 2,
       "name": "特集一覧",
-      "item": "https://croud-travel.pages.dev/features"
+      "item": "https://croud-travel.pages.dev/features/"
     },
     {
       "@type": "ListItem",
@@ -102,7 +102,7 @@ export default function FeaturePage() {
       "@type": "ListItem",
       "position": 4,
       "name": "【関東最古の霊場・鹿島神宮新春初詣と水郷の冬景色】2026-2027年冬の茨城・鹿島＆潮来！鹿島灘はまぐりと極上常陸牛名宿5選",
-      "item": "https://croud-travel.pages.dev/winter-ibaraki-kashima-jingu-hatsumode-itako-hamaguri-hitachigyu-stay"
+      "item": "https://croud-travel.pages.dev/winter-ibaraki-kashima-jingu-hatsumode-itako-hamaguri-hitachigyu-stay/"
     }
   ]
 };
@@ -139,7 +139,7 @@ export default function FeaturePage() {
             ホーム
           </Link>
           <ChevronRight className="w-3 h-3 text-stone-400" />
-          <Link href="/features" className="hover:text-stone-900 transition-colors">
+          <Link href="/features/" className="hover:text-stone-900 transition-colors">
             特集一覧
           </Link>
           <ChevronRight className="w-3 h-3 text-stone-400" />
@@ -783,21 +783,21 @@ export default function FeaturePage() {
                 <ChevronRight className="w-4 h-4 text-stone-400" />
               </Link>
               <Link
-                href="/features"
+                href="/features/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>全国の季節・目的別厳選特集一覧</span>
                 <ChevronRight className="w-4 h-4 text-stone-400" />
               </Link>
               <Link
-                href="/furusato-tax-luxury-hotspring-ryokan-stay"
+                href="/furusato-tax-luxury-hotspring-ryokan-stay/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>実質2,000円で泊まる高級温泉旅館ガイド</span>
                 <ChevronRight className="w-4 h-4 text-stone-400" />
               </Link>
               <Link
-                href="/furusato-tax-local-gourmet-inn-stay"
+                href="/furusato-tax-local-gourmet-inn-stay/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>ご当地グルメを堪能する全国美食旅特集</span>

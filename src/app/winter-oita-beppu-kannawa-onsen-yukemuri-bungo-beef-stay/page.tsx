@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '別府・鉄輪温泉で過ごす冬の旅（11・12月）！初冬の別府湾絶景露天！名宿5選',
     description: '11月から12月にかけて冷気により街一面の湯けむりが最も美しく立ち昇る日本一の湧出量を誇る大分「別府温泉郷」と湯治情緒漂う「鉄輪（かんなわ）温泉」。',
-    url: 'https://croud-travel.pages.dev/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -89,7 +89,7 @@ export default function BeppuOnsenWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay/"
         }
       },
       {
@@ -313,7 +313,7 @@ export default function BeppuOnsenWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月別府・鉄輪温泉】初冬の別府湾絶景露天！名宿5選","item":"https://croud-travel.pages.dev/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月別府・鉄輪温泉】初冬の別府湾絶景露天！名宿5選","item":"https://croud-travel.pages.dev/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -709,42 +709,42 @@ export default function BeppuOnsenWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay"
+              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">熊本・黒川温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">黒川温泉 竹灯篭イルミネーション「湯あかり」と入湯手形の宿</h3>
             </Link>
             <Link 
-              href="/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay"
+              href="/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">長崎・雲仙温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">雲仙温泉 普賢岳初冬霧氷と雲仙地獄湯煙・極上雲仙あかね牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-saga-takeo-onsen-romon-saga-beef-stay"
+              href="/winter-saga-takeo-onsen-romon-saga-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">佐賀・武雄温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">武雄温泉 辰野金吾設計の楼門と美肌名湯・佐賀牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay"
+              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">佐賀・嬉野温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">嬉野温泉 日本三大美肌の湯と名物温泉湯豆腐・とろける美食宿</h3>
             </Link>
             <Link 
-              href="/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay"
+              href="/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">熊本・天草下田温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">天草下田温泉 東シナ海初冬サンセット露天と伊勢海老・車海老の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>

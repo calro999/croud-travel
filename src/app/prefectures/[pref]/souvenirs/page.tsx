@@ -103,9 +103,9 @@ export default async function PrefectureSouvenirsPage({ params }: { params: Prom
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/prefectures" className="hover:text-teal-800 transition">都道府県一覧</Link>
+        <Link href="/prefectures/" className="hover:text-teal-800 transition">都道府県一覧</Link>
         <span>/</span>
-        <Link href={`/prefectures/${prefInfo.slug}`} className="hover:text-teal-800 transition">{prefInfo.name}</Link>
+        <Link href={`/prefectures/${prefInfo.slug}/`} className="hover:text-teal-800 transition">{prefInfo.name}</Link>
         <span>/</span>
         <span className="text-emerald-950 font-bold">人気お土産・銘菓・名物ガイド</span>
       </nav>
@@ -232,7 +232,7 @@ export default async function PrefectureSouvenirsPage({ params }: { params: Prom
               <div className="pt-4 border-t border-emerald-100 flex flex-wrap items-center justify-between gap-4 text-xs font-bold text-emerald-950">
                 <span>📍 主な取扱店: {prefInfo.name}主要駅・空港・お土産店</span>
                 <Link
-                  href={`/prefectures/${prefInfo.slug}`}
+                  href={`/prefectures/${prefInfo.slug}/`}
                   className="text-teal-800 hover:underline flex items-center gap-1 font-extrabold"
                 >
                   <span>{prefInfo.name}の周辺宿・観光ガイドを見る</span>
@@ -286,7 +286,7 @@ export default async function PrefectureSouvenirsPage({ params }: { params: Prom
             🍶 銘酒・地酒ランキングを見る
           </Link>
           <Link
-            href={`/prefectures/${prefInfo.slug}`}
+            href={`/prefectures/${prefInfo.slug}/`}
             className="px-6 py-3 text-xs font-bold text-white bg-emerald-800 hover:bg-emerald-700 rounded-xl transition shadow"
           >
             🗾 {prefInfo.name}観光＆宿ハブへ戻る

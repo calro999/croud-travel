@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '霧島温泉郷で過ごす冬の旅（11・12月）！黒毛和牛！名宿5選',
     description: '坂本龍馬とおりょうが日本初の新婚旅行で訪れた九州屈指の名湯「霧島温泉郷」。初冬の澄み渡る空気の中に立ち上る雄大な湯煙と、霧島連山を望む絶景露天風呂、天然泥パックの美肌泥湯。極上の甘みを誇る「かごしま黒豚」しゃぶしゃぶと黒毛和牛、国宝・霧島神宮参拝を堪能する名宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay',
+    url: 'https://croud-travel.pages.dev/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -88,7 +88,7 @@ export default function KirishimaWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay/"
         }
       },
       {
@@ -312,7 +312,7 @@ export default function KirishimaWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月霧島温泉郷】黒毛和牛！名宿5選","item":"https://croud-travel.pages.dev/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月霧島温泉郷】黒毛和牛！名宿5選","item":"https://croud-travel.pages.dev/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -690,42 +690,42 @@ export default function KirishimaWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay"
+              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay/"
               className="bg-rose-900/80 hover:bg-rose-900 p-4 rounded-2xl transition border border-rose-800/50 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">熊本・黒川</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">黒川温泉 竹灯り「湯あかり」雪景色と肥後赤牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-oita-beppu-jigokumushi-hotspring-stay"
+              href="/winter-oita-beppu-jigokumushi-hotspring-stay/"
               className="bg-rose-900/80 hover:bg-rose-900 p-4 rounded-2xl transition border border-rose-800/50 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">大分・別府</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">別府八湯 湯煙パノラマと地獄蒸し＆関アジ関サバの宿</h3>
             </Link>
             <Link 
-              href="/winter-yufuin-morning-mist-lake-kinrin-stay"
+              href="/winter-yufuin-morning-mist-lake-kinrin-stay/"
               className="bg-rose-900/80 hover:bg-rose-900 p-4 rounded-2xl transition border border-rose-800/50 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">大分・由布院</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">由布院温泉 金鱗湖の冬朝霧パノラマとおおいた和牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay"
+              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay/"
               className="bg-rose-900/80 hover:bg-rose-900 p-4 rounded-2xl transition border border-rose-800/50 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">佐賀・嬉野</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">嬉野温泉 日本三大美肌の湯と温泉湯豆腐・佐賀牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-awajishima-sumoto-3year-torafugu-stay"
+              href="/winter-hyogo-awajishima-sumoto-3year-torafugu-stay/"
               className="bg-rose-900/80 hover:bg-rose-900 p-4 rounded-2xl transition border border-rose-800/50 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">兵庫・淡路島</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">淡路島洲本温泉 紀淡海峡パノラマと淡路島3年とらふぐの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-rose-900/80 hover:bg-rose-900 p-4 rounded-2xl transition border border-rose-800/50 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">特集一覧</span>

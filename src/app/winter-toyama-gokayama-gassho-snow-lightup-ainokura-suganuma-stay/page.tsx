@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: '白銀の山里に佇む世界遺産・五箇山合掌造り集落（相倉・菅沼）の冬景色と幻想的な雪あかり！名物・五箇山堅豆腐や岩魚塩焼き、庄川峡の雪見露天風呂と富山湾の旬味覚を堪能する極上隠れ宿5選。',
   keywords: ['富山県冬旅行', '五箇山・庄川温泉郷・南砺', '冬温泉', '2026', '2027', '雪景色', '冬の味覚', '楽天トラベル', 'ふるさと納税'],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-toyama-gokayama-gassho-snow-lightup-ainokura-suganuma-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-toyama-gokayama-gassho-snow-lightup-ainokura-suganuma-stay/',
   },
   openGraph: {
     title: '世界遺産五箇山合掌集落の雪景色と庄川峡：2026-2027年冬の南砺・五箇山！雪見露天と堅豆腐名宿5選',
     description: '白銀の山里に佇む世界遺産・五箇山合掌造り集落（相倉・菅沼）の冬景色と幻想的な雪あかり！名物・五箇山堅豆腐や岩魚塩焼き、庄川峡の雪見露天風呂と富山湾の旬味覚を堪能する極上隠れ宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-toyama-gokayama-gassho-snow-lightup-ainokura-suganuma-stay',
+    url: 'https://croud-travel.pages.dev/winter-toyama-gokayama-gassho-snow-lightup-ainokura-suganuma-stay/',
     siteName: 'クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
 
 export default function WinterFeaturePage() {
   const faqJsonLd = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "五箇山合掌造り集落の冬のライトアップ日程は？", "acceptedAnswer": {"@type": "Answer", "text": "相倉集落や菅沼集落では、例年冬期に期間限定で夜間ライトアップイベントが開催されます。日没とともに純白の雪を被った合掌造り家屋が柔らかな光に照らし出され、息を呑む幻想的な世界が広がります。開催日や見学ルールは年ごとに異なるため、五箇山総合案内所や南砺市観光協会の最新公式発表を事前にご確認ください。"}}, {"@type": "Question", "name": "冬の五箇山観光に車で行く場合の注意点は？", "acceptedAnswer": {"@type": "Answer", "text": "12月から2月の五箇山および国道156号線は完全な雪道となります。必ずスタッドレスタイヤ（4WD推奨）を装着し、急発進・急ブレーキ・急ハンドルを避けて慎重に運転してください。降雪時は道路除雪が迅速に行われますが、吹雪による視界不良にも注意が必要です。雪道運転に不慣れな方は、JR新高岡駅から運行されている「世界遺産バス」の利用が最も安全で確実です。"}}, {"@type": "Question", "name": "五箇山と白川郷の違いは何ですか？", "acceptedAnswer": {"@type": "Answer", "text": "白川郷（荻町集落）は約100棟の合掌造りが集まる大規模な観光地で大型バスも多く賑やかです。一方、五箇山（相倉・菅沼）は規模が20棟・9棟とコンパクトで、土産物店が立ち並ぶことなく、昔ながらの山里の静けさと住民の慎ましい生活感が色濃く残っています。素朴な日本の原風景と静かな雪景色をじっくり味わいたい方には五箇山が圧倒的におすすめです。"}}]};
-  const breadcrumbJsonLd = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev"}, {"@type": "ListItem", "position": 2, "name": "富山県の観光・温泉宿", "item": "https://croud-travel.pages.dev/prefectures/toyama"}, {"@type": "ListItem", "position": 3, "name": "【世界遺産五箇山合掌集落の雪景色と庄川峡】2026-2027年冬の南砺・五箇山！雪見露天と堅豆腐名宿5選", "item": "https://croud-travel.pages.dev/winter-toyama-gokayama-gassho-snow-lightup-ainokura-suganuma-stay"}]};
+  const breadcrumbJsonLd = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev"}, {"@type": "ListItem", "position": 2, "name": "富山県の観光・温泉宿", "item": "https://croud-travel.pages.dev/prefectures/toyama"}, {"@type": "ListItem", "position": 3, "name": "【世界遺産五箇山合掌集落の雪景色と庄川峡】2026-2027年冬の南砺・五箇山！雪見露天と堅豆腐名宿5選", "item": "https://croud-travel.pages.dev/winter-toyama-gokayama-gassho-snow-lightup-ainokura-suganuma-stay/"}]};
 
   return (
     <>
@@ -589,15 +589,15 @@ export default function WinterFeaturePage() {
                 <span>富山県のおすすめ観光名所＆温泉宿一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/features" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/features/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>全国の季節・目的別旅行特集一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>実質2,000円で泊まる名湯・高級温泉旅館ガイド</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-local-gourmet-inn-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-local-gourmet-inn-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>ご当地グルメを堪能する全国美食旅特集</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>

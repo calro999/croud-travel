@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '世界遺産・湯の峰温泉ひとり旅・開湯1800年つぼ湯おこもり：日本最古の共同浴場・小栗判官伝説・七色に変わる奇跡の源泉！熊野本宮大社参拝厳選3宿',
     description: '世界遺産に登録された日本唯一の入浴できる温泉「つぼ湯」がある和歌山・湯の峰温泉！女将の温かいもてなしと温泉料理が口コミ★4.8超の「よしのや旅館」、創業江戸中期の数寄屋造りと自家源泉掛け流しを誇る「旅館あづまや」、素朴な居心地と湯治の風情が魅力の「民宿あづまや荘」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/wakayama-yunomine-solo-retreat-world-heritage-onsen-stay',
+    url: 'https://croud-travel.pages.dev/wakayama-yunomine-solo-retreat-world-heritage-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/wakayama-yunomine-solo-retreat-world-heritage-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/wakayama-yunomine-solo-retreat-world-heritage-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【世界遺産・湯の峰温泉ひとり旅・開湯1800年つぼ湯おこもり】日本最古の共同浴場・小栗判官伝説・七色に変わる奇跡の源泉！熊野本宮大社参拝厳選3宿","item":"https://croud-travel.pages.dev/wakayama-yunomine-solo-retreat-world-heritage-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【世界遺産・湯の峰温泉ひとり旅・開湯1800年つぼ湯おこもり】日本最古の共同浴場・小栗判官伝説・七色に変わる奇跡の源泉！熊野本宮大社参拝厳選3宿","item":"https://croud-travel.pages.dev/wakayama-yunomine-solo-retreat-world-heritage-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

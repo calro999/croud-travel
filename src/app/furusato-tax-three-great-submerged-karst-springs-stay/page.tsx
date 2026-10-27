@@ -60,7 +60,7 @@ export default function FurusatoRound63ArticlePage() {
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">
           <Link href="/" className="hover:text-stone-900 underline transition">ホーム</Link>
           <span>/</span>
-          <Link href="/travel-savings-guide" className="hover:text-stone-900 underline transition">旅行節約ハブ</Link>
+          <Link href="/travel-savings-guide/" className="hover:text-stone-900 underline transition">旅行節約ハブ</Link>
           <span>/</span>
           <span className="text-stone-800 font-medium">日本三大湧水群・名水清涼リトリート特集</span>
         </nav>
@@ -89,7 +89,7 @@ export default function FurusatoRound63ArticlePage() {
               楽天ふるさと納税トラベルクーポンを獲得する →
             </a>
             <Link
-              href="/furusato-tax-travel-beginners-complete-guide"
+              href="/furusato-tax-travel-beginners-complete-guide/"
               className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-amber-200 font-bold px-5 py-3 rounded-2xl border border-amber-300/20 text-xs sm:text-sm transition"
             >
               📖 初めての方向け完全マニュアル
@@ -343,7 +343,7 @@ export default function FurusatoRound63ArticlePage() {
           <ul className="grid sm:grid-cols-2 gap-2">
 
               <li key="furusato-tax-spring-water-soba-tofu-onsen-stay">
-                <Link href="/furusato-tax-spring-water-soba-tofu-onsen-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-spring-water-soba-tofu-onsen-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿（忍野・安曇野・郡上八幡）</span>
                 </Link>
@@ -351,7 +351,7 @@ export default function FurusatoRound63ArticlePage() {
     
 
               <li key="furusato-tax-three-famous-waters-culinary-stay">
-                <Link href="/furusato-tax-three-famous-waters-culinary-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-three-famous-waters-culinary-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大名水＆清冽な湧水仕込みの美食宿（南阿蘇・白州・伏見）</span>
                 </Link>
@@ -359,7 +359,7 @@ export default function FurusatoRound63ArticlePage() {
     
 
               <li key="furusato-tax-three-great-clear-rivers-stay">
-                <Link href="/furusato-tax-three-great-clear-rivers-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-three-great-clear-rivers-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大清流＆奇跡の透明度と川魚温泉宿（四万十・長良川・柿田川）</span>
                 </Link>
@@ -367,7 +367,7 @@ export default function FurusatoRound63ArticlePage() {
     
 
               <li key="furusato-tax-three-great-ancient-lakes-resort-stay">
-                <Link href="/furusato-tax-three-great-ancient-lakes-resort-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-three-great-ancient-lakes-resort-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">日本三大古代湖＆湖畔リゾート名宿（琵琶湖・諏訪湖・三方五湖）</span>
                 </Link>
@@ -385,7 +385,7 @@ export default function FurusatoRound63ArticlePage() {
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
-            href="/travel-savings-guide"
+            href="/travel-savings-guide/"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 text-stone-950 font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition text-sm"
           >
             🏨 旅行節約総合ハブページを見る ➔

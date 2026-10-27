@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：客室から大迫力の花火を特等席で観賞！花火大会一望＆夜景露天風呂の温泉ホテル5選',
     description: '2026年最新！熱海海上花火大会や洞爺湖ロングラン花火など、人混みを避けて部屋のテラスや露天風呂から大迫力の花火を満喫できるプレミアム宿5選。',
-    url: 'https://croud-travel.pages.dev/traditional-fireworks-festival-view-room-stay',
+    url: 'https://croud-travel.pages.dev/traditional-fireworks-festival-view-room-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-fireworks-festival-view-room-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-fireworks-festival-view-room-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">客室から花火観賞×特等席ステイ</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             夜空いっぱいに広がる大輪の花火と、体に響く轟音。人混みの混雑を気にすることなく、客室のテラスや専用露天風呂からグラス片手に眺める特等席の花火観賞。大切な人との記念日や家族旅行に忘れられない感動を届けるラグジュアリーステイ。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】客室から大迫力の花火を特等席で観賞！花火大会一望＆夜景露天風呂の温泉ホテル5選" url="https://croud-travel.pages.dev/traditional-fireworks-festival-view-room-stay" />
+            <ShareButtons title="【2026年】客室から大迫力の花火を特等席で観賞！花火大会一望＆夜景露天風呂の温泉ホテル5選" url="https://croud-travel.pages.dev/traditional-fireworks-festival-view-room-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】客室から大迫力の花火を特等席で観賞！花火大会一望＆夜景露天風呂の温泉ホテル5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/traditional-fireworks-festival-view-room-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】客室から大迫力の花火を特等席で観賞！花火大会一望＆夜景露天風呂の温泉ホテル5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/traditional-fireworks-festival-view-room-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

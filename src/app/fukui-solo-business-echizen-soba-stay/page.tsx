@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '福井出張＆越前美食ひとり旅：北陸新幹線福井駅前・マリオット最新開業・天然温泉大浴場！越前おろしそばとソースカツ丼を満喫する極上宿 厳選3選',
     description: '北陸新幹線延伸で東京から直結・恐竜王国＆ものづくりの街「福井」！「2024年開業・福井駅前広場正面の最新最高峰」の「コートヤード・バイ・マリオット福井」、福井駅西口徒歩1分で露天風呂付き大浴場とサウナが自慢の「福井マンテンホテル駅前」、駅前大浴場付き「ホテルルートイン福井駅前」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/fukui-solo-business-echizen-soba-stay',
+    url: 'https://croud-travel.pages.dev/fukui-solo-business-echizen-soba-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T15:45:00+09:00',
     dateModified: '2026-10-19T15:45:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/fukui-solo-business-echizen-soba-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/fukui-solo-business-echizen-soba-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【福井出張＆越前美食ひとり旅】北陸新幹線福井駅前・マリオット最新開業・天然温泉大浴場！越前おろしそばとソースカツ丼を満喫する極上宿 厳選3選","item":"https://croud-travel.pages.dev/fukui-solo-business-echizen-soba-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【福井出張＆越前美食ひとり旅】北陸新幹線福井駅前・マリオット最新開業・天然温泉大浴場！越前おろしそばとソースカツ丼を満喫する極上宿 厳選3選","item":"https://croud-travel.pages.dev/fukui-solo-business-echizen-soba-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

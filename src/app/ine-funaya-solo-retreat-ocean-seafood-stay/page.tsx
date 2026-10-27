@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '伊根の舟屋・宮津ひとり旅：海に浮かぶ重要伝統的建造物群・奥伊根温泉客室露天・旬の寒ブリ地魚！日本海最深部の静謐おこもり厳選3宿',
     description: '天橋立駅から丹海バスで約50分！全室に日本海を望む源泉かけ流し露天風呂を備える至高の宿「油屋別館 和亭」、高台から伊根湾の絶景を見下ろす本館「奥伊根温泉 油屋本館」、宮津湾のオーシャンビューとリゾートスパを誇る「メルキュール京都宮津リゾート＆スパ」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/ine-funaya-solo-retreat-ocean-seafood-stay',
+    url: 'https://croud-travel.pages.dev/ine-funaya-solo-retreat-ocean-seafood-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T18:00:00+09:00',
     dateModified: '2026-10-19T18:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/ine-funaya-solo-retreat-ocean-seafood-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/ine-funaya-solo-retreat-ocean-seafood-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【伊根の舟屋・宮津ひとり旅】海に浮かぶ重要伝統的建造物群・奥伊根温泉客室露天・旬の寒ブリ地魚！日本海最深部の静謐おこもり厳選3宿","item":"https://croud-travel.pages.dev/ine-funaya-solo-retreat-ocean-seafood-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【伊根の舟屋・宮津ひとり旅】海に浮かぶ重要伝統的建造物群・奥伊根温泉客室露天・旬の寒ブリ地魚！日本海最深部の静謐おこもり厳選3宿","item":"https://croud-travel.pages.dev/ine-funaya-solo-retreat-ocean-seafood-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

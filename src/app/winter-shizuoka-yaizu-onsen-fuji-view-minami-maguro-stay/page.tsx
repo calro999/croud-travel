@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '焼津温泉で過ごす冬の旅（11・12月）！深層水高張性美肌温まりの湯！名宿5選',
     description: '11月から12月にかけて駿河湾に面した水産都市・静岡県焼津市は、一年の中で最も大気が澄み渡り。',
-    url: 'https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function ShizuokaYaizuWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay/"
         },
         "headline": "【11・12月静岡・焼津温泉の初冬駿河湾越し富士山絶景と天然南マグロ】深層水高張性美肌温まりの湯＆極上鮪尽くしの宿5選",
         "description": "11月から12月にかけて駿河湾に面した水産都市・静岡県焼津市は、一年の中で最も大気が澄み渡り、紺碧の駿河湾越しに純白の雪を戴く雄大な富士山がくっきりと浮かび上がる絶景のピークを迎えます。日本屈指の遠洋漁業基地である焼津港には、南氷洋の荒波で育ち濃厚な甘みと上品な脂の乗りを誇る「天然南マグロ（ミナミマグロ・インドマグロ）」が極上の鮮度で水揚げされます。地下1500メートルの太古の地層から湧出する「焼津温泉」は、海水の約半分の高濃度塩分を含む弱アルカリ性カルシウム・ナトリウム-塩化物泉で、芯まで温まり湯冷めしない奇跡の美肌泉。駿河湾富士見露天と極上南マグロ会席を堪能する厳選宿5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function ShizuokaYaizuWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "静岡・焼津温泉 駿河湾富士山絶景と天然南マグロ・高張性温泉の宿",
-            "item": "https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay"
+            "item": "https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay/"
           }
         ]
       },
@@ -595,42 +595,42 @@ export default function ShizuokaYaizuWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-clear-air-fuji-view-hotels"
+              href="/winter-clear-air-fuji-view-hotels/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">富士山絶景特集</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">空気が澄み渡る冬こそ行きたい！客室や露天風呂から富士山を望む絶景宿</h3>
             </Link>
             <Link 
-              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay"
+              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">静岡・熱海温泉</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">冬の熱海海上花火大会と脂が乗った金目鯛煮付け・海一望露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay"
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">神奈川・箱根温泉</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">雪化粧の富士山を望む絶景露天風呂と伝統会席のラグジュアリー宿</h3>
             </Link>
             <Link 
-              href="/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay"
+              href="/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">富山・氷見温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">富山湾越し立山連峰と11月解禁ひみ寒ぶり宣言・氷見牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay"
+              href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">青森・浅虫温泉</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">陸奥湾の夕景と冬の極上大間本マグロ・津軽三味線の生演奏が響く名宿</h3>
             </Link>
             <Link 
-              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay"
+              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">静岡・修善寺温泉</span>

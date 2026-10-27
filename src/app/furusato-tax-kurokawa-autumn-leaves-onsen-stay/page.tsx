@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '黒川温泉の渓谷露天風呂紅葉＆入湯手形湯めぐり！肥後あか牛会席×ふるさと納税厳選ガイド熊本',
     description: '10月下旬〜11月中旬に田の原川沿いの渓谷が錦秋に染まる熊本屈指の名湯「黒川温泉」。「入湯手形」で巡る個性豊かな野趣あふれる露天風呂と、自然に溶け込む極上宿「旅館 美里」「旅館 奥の湯」「旅館 壱の井」で肥後あか牛や馬刺し・阿蘇の恵みを堪能。ふるさと納税トラベルクーポンで実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-onsen-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kurokawa-autumn-leaves-onsen-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -102,7 +102,7 @@ export default function FeatureArticlePage() {
       <nav className="max-w-6xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-600 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:underline text-stone-500">トップ</Link>
         <span>&gt;</span>
-        <Link href="/autumn-leaves" className="hover:underline text-stone-500">秋・紅葉特集</Link>
+        <Link href="/autumn-leaves/" className="hover:underline text-stone-500">秋・紅葉特集</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-medium">熊本・阿蘇 / 黒川温泉渓谷紅葉＆入湯手形露天風呂めぐり</span>
       </nav>
@@ -391,27 +391,27 @@ export default function FeatureArticlePage() {
             <h4 className="font-bold text-stone-900 text-xs mb-3">🍂 関連する秋の特集</h4>
             <ul className="space-y-2 text-xs text-stone-600">
               <li>
-                <Link href="/furusato-tax-narukokyo-autumn-leaves-onsen-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-narukokyo-autumn-leaves-onsen-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・宮城・鳴子温泉郷＆鳴子峡紅葉
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-unazuki-kurobe-gorge-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-unazuki-kurobe-gorge-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・富山・宇奈月温泉＆黒部峡谷トロッコ
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-iya-valley-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-iya-valley-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・徳島・祖谷渓かずら橋＆秘境祖谷温泉
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-yahiko-autumn-leaves-chrysanthemum-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-yahiko-autumn-leaves-chrysanthemum-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・新潟・弥彦公園もみじ谷＆菊まつり
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-omihachiman-suigo-autumn-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-omihachiman-suigo-autumn-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・滋賀・近江八幡水郷めぐり＆近江牛
                 </Link>
               </li>

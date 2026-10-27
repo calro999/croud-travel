@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：老舗の銘菓と出来立て生和菓子！抹茶ラウンジ＆和スイーツが自慢の温泉宿5選',
     description: '2026年最新！老舗和菓子舗コラボの生菓子や抹茶BAR、パフェが楽しめる和スイーツ好きにおすすめの温泉旅館5選。優雅なお茶時間。',
-    url: 'https://croud-travel.pages.dev/traditional-japanese-sweet-wagashi-matcha-onsen-stay',
+    url: 'https://croud-travel.pages.dev/traditional-japanese-sweet-wagashi-matcha-onsen-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-japanese-sweet-wagashi-matcha-onsen-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-japanese-sweet-wagashi-matcha-onsen-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">老舗和菓子×抹茶ラウンジ宿</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             職人が目の前で仕上げる季節の練り切りや出来立ての本わらび餅。日本庭園を眺めながら点てたての抹茶や特製和パフェを味わえるラウンジ、そして肌をしっとり潤す名湯。五感で日本の繊細な甘美と風情を愛でる癒やしの休日。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】老舗の銘菓と出来立て生和菓子！抹茶ラウンジ＆和スイーツが自慢の温泉宿5選" url="https://croud-travel.pages.dev/traditional-japanese-sweet-wagashi-matcha-onsen-stay" />
+            <ShareButtons title="【2026年】老舗の銘菓と出来立て生和菓子！抹茶ラウンジ＆和スイーツが自慢の温泉宿5選" url="https://croud-travel.pages.dev/traditional-japanese-sweet-wagashi-matcha-onsen-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】老舗の銘菓と出来立て生和菓子！抹茶ラウンジ＆和スイーツが自慢の温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/traditional-japanese-sweet-wagashi-matcha-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】老舗の銘菓と出来立て生和菓子！抹茶ラウンジ＆和スイーツが自慢の温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/traditional-japanese-sweet-wagashi-matcha-onsen-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

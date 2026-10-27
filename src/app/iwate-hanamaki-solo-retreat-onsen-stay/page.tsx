@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '岩手花巻温泉ひとり旅・宮沢賢治イーハトーブおこもり：台川渓谷美・pH9.0美肌の湯・前沢牛会席！イーハトーブの森でととのう厳選3宿',
     description: '宮沢賢治生誕の地・花巻！数寄屋造りの贅ととろとろのアルカリ性単純温泉が評判の最高峰「佳松園」、バラ園隣接で渓流沿いの露天風呂が心地よい「ホテル花巻」、広大な大浴場と充実の館内施設を誇る「ホテル千秋閣」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/iwate-hanamaki-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/iwate-hanamaki-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/iwate-hanamaki-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/iwate-hanamaki-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【岩手花巻温泉ひとり旅・宮沢賢治イーハトーブおこもり】台川渓谷美・pH9.0美肌の湯・前沢牛会席！イーハトーブの森でととのう厳選3宿","item":"https://croud-travel.pages.dev/iwate-hanamaki-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【岩手花巻温泉ひとり旅・宮沢賢治イーハトーブおこもり】台川渓谷美・pH9.0美肌の湯・前沢牛会席！イーハトーブの森でととのう厳選3宿","item":"https://croud-travel.pages.dev/iwate-hanamaki-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月長崎：立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」！名宿5選',
     description: '11月から1月、日本最初の国立公園に指定された標高700mの高原に広がる長崎県島原半島「雲仙（うんぜん）温泉」は、大地の息吹を感じる地獄の白煙と。',
-    url: 'https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -47,7 +47,7 @@ export default function NagasakiUnzenOnsenWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay/"
         },
         "headline": "【11・12・1月長崎】立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」・極上雲仙牛＆島原名物具雑煮を堪能する雲仙温泉名宿5選",
         "description": "11月から1月、日本最初の国立公園に指定された標高700mの高原に広がる長崎県島原半島「雲仙（うんぜん）温泉」は、大地の息吹を感じる地獄の白煙と、冬の山岳が織りなす神秘の銀世界を迎えます。もうもうと立ち上る噴気と硫黄の香りに包まれる「雲仙地獄」は、冬の冷たい空気の中で湯煙の迫力が劇的に倍増。さらに12月から1月にかけては、仁田峠から妙見岳にかけて樹木に過冷却の水滴が氷結する幻想的な自然の芸術「霧氷（地元で『花ぼうろ』と呼ばれる）」が現れ、白銀の樹氷群と眼下に広がる青い有明海・橘湾のコントラストに息を呑みます。強い殺菌力と血行促進力を誇る乳白色の酸性・含硫黄温泉は、冬の冷えや疲れを根底から解き放つ奇跡の温まり湯。夕食には名峰・普賢岳の清らかな伏流水で育つ極上霜降り「雲仙牛」「長崎和牛」のステーキや、島原の乱ゆかりの伝統郷土鍋「具雑煮（ぐぞうに）」、橘湾の寒ビラメや有明海のアナゴが食卓を贅沢に彩ります。明治・大正期から外国人の避暑地として愛されたクラシカルな異国情緒とともに、冬の雲仙を堪能する厳選5宿を徹底ガイドします。",
@@ -68,7 +68,7 @@ export default function NagasakiUnzenOnsenWinterPage() {
             "url": "https://croud-travel.pages.dev/logo.png"
           }
         },
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay"
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay/"
       },
       {
         "@type": "BreadcrumbList",
@@ -84,13 +84,13 @@ export default function NagasakiUnzenOnsenWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "長崎・雲仙温泉の地獄と冬霧氷・雲仙牛特集",
-            "item": "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay"
+            "item": "https://croud-travel.pages.dev/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay/"
           }
         ]
       },
@@ -559,21 +559,21 @@ export default function NagasakiUnzenOnsenWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay" 
+              href="/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">長崎・小浜温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">橘湾の夕日と日本一の熱量・小浜ちゃんぽんと長崎和牛名宿</p>
             </Link>
             <Link 
-              href="/winter-saga-takeo-onsen-romon-saga-beef-stay" 
+              href="/winter-saga-takeo-onsen-romon-saga-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">佐賀・武雄温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">辰野金吾設計の楼門と美肌湯・極上佐賀牛すき焼き名宿</p>
             </Link>
             <Link 
-              href="/winter-kumamoto-kikuchi-onsen-bihada-akagyu-pork-stay" 
+              href="/winter-kumamoto-kikuchi-onsen-bihada-akagyu-pork-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">熊本・菊池温泉</span>

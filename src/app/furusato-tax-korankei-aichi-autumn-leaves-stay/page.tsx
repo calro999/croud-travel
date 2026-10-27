@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '4000本のもみじが燃える東海随一の名所・香嵐渓！巴川ライトアップ＆猿投温泉宿×ふるさと納税厳選ガイド愛知',
     description: '11月上旬〜11月下旬に約4,000本のもみじが巴川を彩る東海屈指の紅葉名所「香嵐渓（こうらんけい）」。待月橋の朱塗りと五色もみじ、夜間ライトアップの幻想的な巴川、奇跡の天然ラドン温泉「猿投温泉 金泉閣」や快適シティホテル「名鉄トヨタホテル」「旅荘 みつい」で三河牛や名物五平餅・鮎料理を堪能。ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-korankei-aichi-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-korankei-aichi-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">愛知・香嵐渓4000本のもみじ狩り＆猿投温泉名宿特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

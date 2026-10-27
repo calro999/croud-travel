@@ -17,12 +17,12 @@ export const metadata: Metadata = {
   title: "白銀の水墨画世界・山寺立石寺と将棋のまち天童温泉：2026-2027年冬の山形・山寺＆天童！美肌名湯と極上山形牛すき焼き名宿5選",
   description: "松尾芭蕉ゆかりの奇岩霊山「宝珠山立石寺（山寺）」が白銀に包まれる一幅の水墨画の絶景と冬の開運千段石段！将棋駒のまち「天童温泉」の美肌の湯、極上霜降り「山形牛」のすき焼き・ステーキと冬の手打ち蕎麦に心温まる東北の名宿5選。",
   alternates: {
-    canonical: "https://croud-travel.pages.dev/winter-yamagata-tendo-onsen-yamadera-snow-risshakuji-yamagatagyu-stay",
+    canonical: "https://croud-travel.pages.dev/winter-yamagata-tendo-onsen-yamadera-snow-risshakuji-yamagatagyu-stay/",
   },
   openGraph: {
     title: "白銀の水墨画世界・山寺立石寺と将棋のまち天童温泉：2026-2027年冬の山形・山寺＆天童！美肌名湯と極上山形牛すき焼き名宿5選",
     description: "松尾芭蕉ゆかりの奇岩霊山「宝珠山立石寺（山寺）」が白銀に包まれる一幅の水墨画の絶景と冬の開運千段石段！将棋駒のまち「天童温泉」の美肌の湯、極上霜降り「山形牛」のすき焼き・ステーキと冬の手打ち蕎麦に心温まる東北の名宿5選。",
-    url: "https://croud-travel.pages.dev/winter-yamagata-tendo-onsen-yamadera-snow-risshakuji-yamagatagyu-stay",
+    url: "https://croud-travel.pages.dev/winter-yamagata-tendo-onsen-yamadera-snow-risshakuji-yamagatagyu-stay/",
     siteName: "日本全国・旅宿クラウド",
     locale: "ja_JP",
     type: "article",
@@ -90,7 +90,7 @@ export default function FeaturePage() {
       "@type": "ListItem",
       "position": 2,
       "name": "特集一覧",
-      "item": "https://croud-travel.pages.dev/features"
+      "item": "https://croud-travel.pages.dev/features/"
     },
     {
       "@type": "ListItem",
@@ -102,7 +102,7 @@ export default function FeaturePage() {
       "@type": "ListItem",
       "position": 4,
       "name": "【白銀の水墨画世界・山寺立石寺と将棋のまち天童温泉】2026-2027年冬の山形・山寺＆天童！美肌名湯と極上山形牛すき焼き名宿5選",
-      "item": "https://croud-travel.pages.dev/winter-yamagata-tendo-onsen-yamadera-snow-risshakuji-yamagatagyu-stay"
+      "item": "https://croud-travel.pages.dev/winter-yamagata-tendo-onsen-yamadera-snow-risshakuji-yamagatagyu-stay/"
     }
   ]
 };
@@ -139,7 +139,7 @@ export default function FeaturePage() {
             ホーム
           </Link>
           <ChevronRight className="w-3 h-3 text-stone-400" />
-          <Link href="/features" className="hover:text-stone-900 transition-colors">
+          <Link href="/features/" className="hover:text-stone-900 transition-colors">
             特集一覧
           </Link>
           <ChevronRight className="w-3 h-3 text-stone-400" />
@@ -784,21 +784,21 @@ export default function FeaturePage() {
                 <ChevronRight className="w-4 h-4 text-stone-400" />
               </Link>
               <Link
-                href="/features"
+                href="/features/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>全国の季節・目的別厳選特集一覧</span>
                 <ChevronRight className="w-4 h-4 text-stone-400" />
               </Link>
               <Link
-                href="/furusato-tax-luxury-hotspring-ryokan-stay"
+                href="/furusato-tax-luxury-hotspring-ryokan-stay/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>実質2,000円で泊まる高級温泉旅館ガイド</span>
                 <ChevronRight className="w-4 h-4 text-stone-400" />
               </Link>
               <Link
-                href="/furusato-tax-local-gourmet-inn-stay"
+                href="/furusato-tax-local-gourmet-inn-stay/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>ご当地グルメを堪能する全国美食旅特集</span>

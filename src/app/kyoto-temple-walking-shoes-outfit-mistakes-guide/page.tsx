@@ -385,7 +385,7 @@ export default function KyotoTempleWalkingShoesGuidePage() {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
             <Link
-              href="/kyoto-travel-budget-how-many-nights"
+              href="/kyoto-travel-budget-how-many-nights/"
               className="p-4 rounded-2xl bg-slate-950/80 border border-teal-900/40 hover:border-teal-400 transition space-y-1.5 group"
             >
               <div className="text-xs font-black text-teal-400 group-hover:text-teal-300">
@@ -400,7 +400,7 @@ export default function KyotoTempleWalkingShoesGuidePage() {
             </Link>
 
             <Link
-              href="/kyoto-rainy-day-temple-cafe-guide"
+              href="/kyoto-rainy-day-temple-cafe-guide/"
               className="p-4 rounded-2xl bg-slate-950/80 border border-teal-900/40 hover:border-teal-400 transition space-y-1.5 group"
             >
               <div className="text-xs font-black text-teal-400 group-hover:text-teal-300">
@@ -419,7 +419,7 @@ export default function KyotoTempleWalkingShoesGuidePage() {
         {/* 全国都道府県一覧 */}
         <div className="text-center pt-4">
           <Link
-            href="/prefectures"
+            href="/prefectures/"
             className="inline-flex items-center gap-2 text-xs font-bold text-slate-300 bg-slate-900 hover:bg-slate-800 border border-teal-900/60 px-8 py-3.5 rounded-2xl transition shadow-sm"
           >
             <span>🗾</span>

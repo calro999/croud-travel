@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '2026年：極上黒豚しゃぶしゃぶ＆百種プレミアム焼酎BAR！指宿・霧島温泉の名旅館5選',
     description: '2026年最新！甘み際立つかごしま黒豚しゃぶしゃぶ会席！森伊蔵や魔王など銘酒芋焼酎のBARラウンジと指宿砂むし・霧島硫黄泉で寛ぐ鹿児島の名宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/traditional-kagoshima-shochu-kurobuta-stay',
+    url: 'https://croud-travel.pages.dev/traditional-kagoshima-shochu-kurobuta-stay/',
   },
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-kagoshima-shochu-kurobuta-stay/",
@@ -179,7 +179,7 @@ export default function FeatureDetailPage() {
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-amber-600">トップ</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-amber-600">厳選特集一覧</Link>
+          <Link href="/features/" className="hover:text-amber-600">厳選特集一覧</Link>
           <span>&gt;</span>
           <span className="text-slate-800 font-medium truncate max-w-xs sm:max-w-md md:max-w-none">
             かごしま黒豚しゃぶしゃぶ＆本格焼酎BAR温泉宿
@@ -556,7 +556,7 @@ export default function FeatureDetailPage() {
         {/* 特集トップへのリンク */}
         <div className="text-center pt-4">
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold px-8 py-4 rounded-2xl shadow-md transition-all"
           >
             <span>他の厳選特集一覧を見る</span>

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '海から昇る初日の出を客室から望む！年末年始・お正月に行きたい絶景オーシャンビュー宿',
     description: '伊豆・房総・沖縄の水平線から昇る朝日を一望できる絶景リゾート。客室露天風呂やお部屋から初日の出を拝む、新年の幕開けにふさわしい贅沢宿を厳選。',
-    url: 'https://croud-travel.pages.dev/new-year-sunrise-ocean-view-resorts',
+    url: 'https://croud-travel.pages.dev/new-year-sunrise-ocean-view-resorts/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/new-year-sunrise-ocean-view-resorts"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/new-year-sunrise-ocean-view-resorts/"
   };
 
   const faqSchema = {
@@ -151,7 +151,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"海から昇る初日の出を客室から望む！年末年始・お正月に行きたい絶景オーシャンビュー宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/new-year-sunrise-ocean-view-resorts"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"海から昇る初日の出を客室から望む！年末年始・お正月に行きたい絶景オーシャンビュー宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/new-year-sunrise-ocean-view-resorts/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -166,7 +166,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">初日の出・海一望リゾート</span>
       </nav>
@@ -284,7 +284,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="海から昇る初日の出を客室から望む！年末年始・お正月に行きたい絶景オーシャンビュー宿"
-            url="https://croud-travel.pages.dev/new-year-sunrise-ocean-view-resorts"
+            url="https://croud-travel.pages.dev/new-year-sunrise-ocean-view-resorts/"
           />
         </div>
 

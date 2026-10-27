@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '霊峰大山「鍵掛峠」ブナ樹海の圧巻紅葉＆皆生温泉・11月解禁本場「松葉がに」と大山黒牛',
     description: '10月下旬〜11月中旬に大山南壁を鮮やかに彩る鍵掛峠のブナ紅葉。日本海に面した皆生温泉で、塩化物泉の温まり美肌湯と11月上旬に初競り解禁となる本場「松葉がに」「鳥取和牛」をふるさと納税で味わう秋の山陰旅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-daisen-kagikaketoge-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-daisen-kagikaketoge-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-daisen-kagikaketoge-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-daisen-kagikaketoge-autumn-stay/"
   };
 
   const faqSchema = {
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"霊峰大山「鍵掛峠」ブナ樹海の圧巻紅葉＆皆生温泉・11月解禁本場「松葉がに」と大山黒牛 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-daisen-kagikaketoge-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"霊峰大山「鍵掛峠」ブナ樹海の圧巻紅葉＆皆生温泉・11月解禁本場「松葉がに」と大山黒牛 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-daisen-kagikaketoge-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

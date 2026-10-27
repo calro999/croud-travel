@@ -431,7 +431,7 @@ export default function IkahoAutumnLeavesGuidePage() {
           </h2>
           <div className="grid sm:grid-cols-2 gap-4">
             <Link
-              href="/kusatsu-vs-ikaho-onsen-comparison"
+              href="/kusatsu-vs-ikaho-onsen-comparison/"
               className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-orange-500 hover:shadow transition group"
             >
               <span className="text-xs text-orange-700 font-bold block mb-1">二大名湯比較</span>
@@ -444,7 +444,7 @@ export default function IkahoAutumnLeavesGuidePage() {
             </Link>
 
             <Link
-              href="/kusatsu-daytrip-hotspring-lunch-guide"
+              href="/kusatsu-daytrip-hotspring-lunch-guide/"
               className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-orange-500 hover:shadow transition group"
             >
               <span className="text-xs text-orange-700 font-bold block mb-1">群馬日帰り温泉</span>

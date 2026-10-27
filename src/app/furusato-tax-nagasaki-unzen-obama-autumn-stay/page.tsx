@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '長崎・雲仙地獄の紅葉とクラシックリゾート！白濁硫黄泉の名湯＆長崎和牛・秋島原グルメ',
     description: '10月・11月の長崎・雲仙＆島原特集！国の名勝・雲仙地獄から立ち上る噴気と仁田峠の鮮やかな普賢岳紅葉ロープウェイ、日本屈指の歴史を誇るクラシックリゾートホテルと乳白色の濃厚硫黄泉、長崎和牛ステーキや島原の秋の味覚をふるさと納税トラベルで堪能する贅沢旅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-nagasaki-unzen-obama-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-nagasaki-unzen-obama-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-nagasaki-unzen-obama-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-nagasaki-unzen-obama-autumn-stay/"
   };
 
   const faqSchema = {
@@ -97,7 +97,7 @@ export default function Page() {
           <div className="flex items-center space-x-4 text-xs font-medium text-stone-600">
             <Link href="/" className="hover:text-emerald-700">トップ</Link>
             <span>/</span>
-            <Link href="/sitemap" className="hover:text-emerald-700">特集一覧</Link>
+            <Link href="/sitemap/" className="hover:text-emerald-700">特集一覧</Link>
             <span>/</span>
             <span className="text-stone-400">秋のふるさと納税特集</span>
           </div>
@@ -126,7 +126,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-12 space-y-12 leading-relaxed">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"長崎・雲仙地獄の紅葉とクラシックリゾート！白濁硫黄泉の名湯＆長崎和牛・秋島原グルメ | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-nagasaki-unzen-obama-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"長崎・雲仙地獄の紅葉とクラシックリゾート！白濁硫黄泉の名湯＆長崎和牛・秋島原グルメ | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-nagasaki-unzen-obama-autumn-stay/"}]}) }}
       />
         {/* イントロダクション */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-4">
@@ -369,16 +369,16 @@ export default function Page() {
         <section className="bg-amber-50/50 p-6 rounded-xl border border-amber-200 space-y-4">
           <h2 className="text-lg font-bold text-stone-900">こちらもチェック！秋のふるさと納税特集</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs md:text-sm">
-            <Link href="/furusato-tax-aizu-urabandai-goshikinuma-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-aizu-urabandai-goshikinuma-autumn-stay/" className="text-emerald-800 hover:underline">
               → 福島・裏磐梯五色沼＆桧原湖（五色沼紅葉＆会津牛）特集
             </Link>
-            <Link href="/furusato-tax-saga-ureshino-takeo-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-saga-ureshino-takeo-autumn-stay/" className="text-emerald-800 hover:underline">
               → 佐賀・嬉野温泉＆武雄温泉（美肌の湯＆佐賀牛）特集
             </Link>
-            <Link href="/furusato-tax-awaji-sunset-onsen-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-awaji-sunset-onsen-autumn-stay/" className="text-emerald-800 hover:underline">
               → 兵庫・淡路島サンセット温泉＆鳴門海峡（3年とらふぐ）特集
             </Link>
-            <Link href="/furusato-tax-shimane-tamatsukuri-izumo-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-shimane-tamatsukuri-izumo-autumn-stay/" className="text-emerald-800 hover:underline">
               → 島根・玉造温泉＆出雲（神在月参拝＆美肌泉）特集
             </Link>
           </div>

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "米沢牛すき焼きと小野川温泉で過ごす冬の旅（11・12月）！小野小町ゆかりの美肌名湯とかまくら雪見宿5選",
     description: "11月下旬から里山が白銀の静寂に包まれる山形・米沢の奥座敷「小野川温泉」。平安の美女・小野小町が病を癒やしたと伝わる美肌の硫黄泉露天風呂と、とろける甘みの日本三大和牛「米沢牛すき焼き」、温泉熱で育つ冬限定のシャキシャキ小野川豆もやしを堪能する温もり旅。",
-    url: 'https://croud-travel.pages.dev/winter-yamagata-onogawa-yonezawa-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-onogawa-yonezawa-beef-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function OnogawaWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-yamagata-onogawa-yonezawa-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamagata-onogawa-yonezawa-beef-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function OnogawaWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月米沢牛すき焼きと小野川温泉】小野小町ゆかりの美肌名湯とかまくら雪見宿5選","item":"https://croud-travel.pages.dev/winter-yamagata-onogawa-yonezawa-beef-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月米沢牛すき焼きと小野川温泉】小野小町ゆかりの美肌名湯とかまくら雪見宿5選","item":"https://croud-travel.pages.dev/winter-yamagata-onogawa-yonezawa-beef-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -397,7 +397,7 @@ export default function OnogawaWinterPage() {
                   <div className="absolute bottom-4 left-4 right-4 bg-gradient-to-t from-stone-950/90 via-stone-950/60 to-transparent p-3 rounded-2xl text-white text-xs">
                     <p className="font-semibold flex items-center gap-1 text-rose-300">
                       <Star className="w-3.5 h-3.5 fill-rose-400 text-rose-400" />
-                      評価 {hotel.rating} / 5.0
+                      評価 {hotel.rating} // 5.0
                     </p>
                     <p className="text-[11px] text-stone-300 line-clamp-1">{hotel.access}</p>
                   </div>
@@ -672,7 +672,7 @@ export default function OnogawaWinterPage() {
           {/* 関連特集リンクカード */}
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
             <Link 
-              href="/winter-zao-snow-monster-ice-tree-stay"
+              href="/winter-zao-snow-monster-ice-tree-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-rose-50/60 border border-stone-200 hover:border-rose-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-cyan-800 bg-cyan-100/80 px-2 py-0.5 rounded">山形冬の絶景</span>
@@ -685,7 +685,7 @@ export default function OnogawaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-aomori-sukayu-hakkoda-yukimi-stay"
+              href="/winter-aomori-sukayu-hakkoda-yukimi-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-rose-50/60 border border-stone-200 hover:border-rose-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">東北豪雪名湯</span>
@@ -698,7 +698,7 @@ export default function OnogawaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-iwate-appi-kogen-snow-resort-stay"
+              href="/winter-iwate-appi-kogen-snow-resort-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-rose-50/60 border border-stone-200 hover:border-rose-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">東北スノーリゾート</span>

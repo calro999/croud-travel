@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "阿智村の日本一の星空ナイトツアーで過ごす冬の旅（11・12月）！昼神温泉の極上美肌湯と南信州冬の味覚宿5選",
     description: "環境省が認定した「日本一星が輝いて見える村」長野県阿智村。11月・12月は空気が最も澄み渡り、息をのむ満天の天の川と星座が広がるベストシーズン。「美肌の湯」として名高いpH9.7の昼神温泉と、信州プレミアム牛や炉端会席を堪能する感動の星空冬旅ガイド。",
-    url: 'https://croud-travel.pages.dev/winter-nagano-achimura-hirugami-starry-sky-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-achimura-hirugami-starry-sky-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function HirugamiWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-nagano-achimura-hirugami-starry-sky-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-achimura-hirugami-starry-sky-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function HirugamiWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月阿智村の日本一の星空ナイトツアー】昼神温泉の極上美肌湯と南信州冬の味覚宿5選","item":"https://croud-travel.pages.dev/winter-nagano-achimura-hirugami-starry-sky-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月阿智村の日本一の星空ナイトツアー】昼神温泉の極上美肌湯と南信州冬の味覚宿5選","item":"https://croud-travel.pages.dev/winter-nagano-achimura-hirugami-starry-sky-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -796,7 +796,7 @@ export default function HirugamiWinterPage() {
           {/* 関連特集リンクカード */}
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
             <Link 
-              href="/winter-starry-sky-astrophotography"
+              href="/winter-starry-sky-astrophotography/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-indigo-50/60 border border-stone-200 hover:border-indigo-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-indigo-800 bg-indigo-100/80 px-2 py-0.5 rounded">天体観測特集</span>
@@ -809,7 +809,7 @@ export default function HirugamiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-jigokudani-snow-monkey-stay"
+              href="/winter-nagano-jigokudani-snow-monkey-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-indigo-50/60 border border-stone-200 hover:border-indigo-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">信州冬特集</span>
@@ -822,7 +822,7 @@ export default function HirugamiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-clear-air-fuji-view-hotels"
+              href="/winter-clear-air-fuji-view-hotels/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-indigo-50/60 border border-stone-200 hover:border-indigo-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">絶景パノラマ</span>

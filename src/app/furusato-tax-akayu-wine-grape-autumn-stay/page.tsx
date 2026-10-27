@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '山形ワイン＆ぶどうの郷「南陽・赤湯温泉」開湯920年の名湯と米沢牛ステーキ・ワイナリー巡り',
     description: '10月〜11月に新酒ワインと実りの秋を迎える山形・南陽赤湯温泉。開湯920年の歴史ある源泉かけ流し美肌湯と、最高峰「米沢牛」ステーキ・すき焼き、地場ワイナリー巡りをふるさと納税でお得に楽しむ秋旅特集。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-akayu-wine-grape-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-akayu-wine-grape-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-akayu-wine-grape-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-akayu-wine-grape-autumn-stay/"
   };
 
   const faqSchema = {
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"山形ワイン＆ぶどうの郷「南陽・赤湯温泉」開湯920年の名湯と米沢牛ステーキ・ワイナリー巡り | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-akayu-wine-grape-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"山形ワイン＆ぶどうの郷「南陽・赤湯温泉」開湯920年の名湯と米沢牛ステーキ・ワイナリー巡り | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-akayu-wine-grape-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

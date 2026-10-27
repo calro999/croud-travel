@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '山形・銀山温泉ひとり旅・大正浪漫ガス灯おこもり：木造多層建築群・銀山川の雪景色・山形牛と尾花沢蕎麦！大正タイムスリップの美湯厳選3宿',
     description: 'ノスタルジックな木造建築が川沿いに並ぶ全国屈指の人気温泉郷・山形・銀山温泉！鏝絵（こてえ）が美しい大正浪漫の象徴「古山閣」、銀山川を見下ろす露天風呂とモダンな快適設備を備えた「仙峡の宿 銀山荘」、銀山温泉のメイン通りに佇む源泉掛け流しの「古勢起屋別館」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/yamagata-ginzan-solo-retreat-taisho-onsen-stay',
+    url: 'https://croud-travel.pages.dev/yamagata-ginzan-solo-retreat-taisho-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/yamagata-ginzan-solo-retreat-taisho-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/yamagata-ginzan-solo-retreat-taisho-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【山形・銀山温泉ひとり旅・大正浪漫ガス灯おこもり】木造多層建築群・銀山川の雪景色・山形牛と尾花沢蕎麦！大正タイムスリップの美湯厳選3宿","item":"https://croud-travel.pages.dev/yamagata-ginzan-solo-retreat-taisho-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【山形・銀山温泉ひとり旅・大正浪漫ガス灯おこもり】木造多層建築群・銀山川の雪景色・山形牛と尾花沢蕎麦！大正タイムスリップの美湯厳選3宿","item":"https://croud-travel.pages.dev/yamagata-ginzan-solo-retreat-taisho-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

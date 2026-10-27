@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: '都心から電車でわずか約50分の霊峰・高尾山。11〜1月の冬シーズンは澄み切った大気の中。',
   keywords: '高尾山 初詣, 高尾山薬王院, ダイヤモンド富士 高尾山, とろろそば 高尾山, 京王高尾山温泉 極楽湯, 京王プラザホテル八王子, タカオネ, 八王子 ホテル, 冬 高尾山 登山, 天狗焼',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay/'
   },
   openGraph: {
     title: '11・12・1月東京：霊峰「高尾山薬王院」新春初詣！名宿5選',
     description: '都心から電車でわずか約50分の霊峰・高尾山。11〜1月の冬シーズンは澄み切った大気の中。',
-    url: 'https://croud-travel.pages.dev/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay',
+    url: 'https://croud-travel.pages.dev/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay/',
     type: 'article',
     images: [
       {
@@ -60,7 +60,7 @@ export default function TokyoTakaoWinterPage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay"
+      "@id": "https://croud-travel.pages.dev/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay/"
     }
   };
 
@@ -78,13 +78,13 @@ export default function TokyoTakaoWinterPage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "東京・高尾山＆八王子 冬特集",
-        "item": "https://croud-travel.pages.dev/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay"
+        "item": "https://croud-travel.pages.dev/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay/"
       }
     ]
   };
@@ -591,7 +591,7 @@ export default function TokyoTakaoWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm mb-8">
             <Link 
-              href="/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay"
+              href="/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-sky-500 transition hover:shadow-md group block"
             >
               <div className="text-sky-600 font-bold text-xs mb-1">東京・奥多摩＆青梅</div>
@@ -604,7 +604,7 @@ export default function TokyoTakaoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay"
+              href="/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-sky-500 transition hover:shadow-md group block"
             >
               <div className="text-sky-600 font-bold text-xs mb-1">神奈川・大山＆伊勢原</div>
@@ -617,7 +617,7 @@ export default function TokyoTakaoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay"
+              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-sky-500 transition hover:shadow-md group block"
             >
               <div className="text-sky-600 font-bold text-xs mb-1">埼玉・秩父＆長瀞</div>
@@ -633,9 +633,9 @@ export default function TokyoTakaoWinterPage() {
           <div className="flex flex-wrap justify-center gap-4 text-xs font-semibold text-slate-600">
             <Link href="/" className="hover:text-sky-600 underline">ホーム</Link>
             <span>•</span>
-            <Link href="/features" className="hover:text-sky-600 underline">特集一覧</Link>
+            <Link href="/features/" className="hover:text-sky-600 underline">特集一覧</Link>
             <span>•</span>
-            <Link href="/posts" className="hover:text-sky-600 underline">記事一覧カタログ</Link>
+            <Link href="/posts/" className="hover:text-sky-600 underline">記事一覧カタログ</Link>
           </div>
         
       <HubRelatedPosts currentSlug="winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay" />

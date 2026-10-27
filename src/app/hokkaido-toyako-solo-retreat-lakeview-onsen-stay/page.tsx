@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '洞爺湖温泉ひとり旅・湖畔絶景おこもり：インフィニティ露天風呂・ロングラン花火・道産牛フレンチ会席！支笏洞爺国立公園厳選3宿',
     description: 'カルデラ湖の壮大なパノラマと有珠山を望む北海道屈指のリゾート温泉地・洞爺湖！最上階インフィニティ露天とビュッフェが圧巻の「洞爺湖万世閣ホテルレイクサイドテラス」、湖畔真横の静寂と源泉100%掛け流しが自慢の「ホテルグランド トーヤ」、昭和レトロな落ち着きと温泉情緒の「大和旅館アネックス」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/hokkaido-toyako-solo-retreat-lakeview-onsen-stay',
+    url: 'https://croud-travel.pages.dev/hokkaido-toyako-solo-retreat-lakeview-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/hokkaido-toyako-solo-retreat-lakeview-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/hokkaido-toyako-solo-retreat-lakeview-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【洞爺湖温泉ひとり旅・湖畔絶景おこもり】インフィニティ露天風呂・ロングラン花火・道産牛フレンチ会席！支笏洞爺国立公園厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-toyako-solo-retreat-lakeview-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【洞爺湖温泉ひとり旅・湖畔絶景おこもり】インフィニティ露天風呂・ロングラン花火・道産牛フレンチ会席！支笏洞爺国立公園厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-toyako-solo-retreat-lakeview-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

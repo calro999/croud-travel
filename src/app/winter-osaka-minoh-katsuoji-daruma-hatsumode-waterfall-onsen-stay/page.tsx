@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: '大阪都心から電車で約30分の北摂に位置する箕面。11〜1月は晩秋の紅葉から冬の雪化粧へと移ろい。',
   keywords: '勝尾寺 初詣, 勝ちダルマ 勝尾寺, 箕面大滝 冬, 箕面大滝 氷瀑, もみじの天ぷら, 箕面温泉, 大江戸温泉物語 箕面観光ホテル, 不死王閣, 箕面萱野駅, 大阪 冬 旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay/'
   },
   openGraph: {
     title: '11・12・1月大阪：勝ち運の寺「勝尾寺」新春初詣！名宿5選',
     description: '大阪都心から電車で約30分の北摂に位置する箕面。11〜1月は晩秋の紅葉から冬の雪化粧へと移ろい。',
-    url: 'https://croud-travel.pages.dev/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay/',
     siteName: 'クラドトラベル',
     type: 'article',
     locale: 'ja_JP',
@@ -57,7 +57,7 @@ export default function OsakaMinohWinterFeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay"
+      "@id": "https://croud-travel.pages.dev/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay/"
     }
   };
 
@@ -75,13 +75,13 @@ export default function OsakaMinohWinterFeaturePage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "大阪・箕面＆勝尾寺 冬の初詣と箕面大滝",
-        "item": "https://croud-travel.pages.dev/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay"
+        "item": "https://croud-travel.pages.dev/winter-osaka-minoh-katsuoji-daruma-hatsumode-waterfall-onsen-stay/"
       }
     ]
   };
@@ -275,7 +275,7 @@ export default function OsakaMinohWinterFeaturePage() {
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-rose-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-rose-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-rose-600 transition">特集一覧</Link>
             <span>/</span>
             <span className="text-stone-800 font-medium">大阪・箕面＆勝尾寺 冬の勝ちダルマ初詣と箕面大滝</span>
           </div>
@@ -560,28 +560,28 @@ export default function OsakaMinohWinterFeaturePage() {
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               <Link 
-                href="/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay"
+                href="/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-rose-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【兵庫】宝塚＆武田尾温泉の冬旅</div>
                 <p className="text-stone-500">清荒神清澄寺の新春初詣と武庫川渓谷の雪見露天・三田牛会席名宿</p>
               </Link>
               <Link 
-                href="/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay"
+                href="/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-rose-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【京都】丹後・天橋立＆伊根の舟屋</div>
                 <p className="text-stone-500">日本三景雪景色と幻の間人蟹・寒鰤しゃぶしゃぶ・絶景海見露天名宿</p>
               </Link>
               <Link 
-                href="/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay"
+                href="/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-rose-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【奈良】橿原神宮＆飛鳥の新春初詣</div>
                 <p className="text-stone-500">日本建国の聖地新春祈願と飛鳥鍋・大和牛・名湯ホテル名宿</p>
               </Link>
               <Link 
-                href="/winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay"
+                href="/winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-rose-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【三重】伊勢神宮初詣＆的矢牡蠣</div>
@@ -590,7 +590,7 @@ export default function OsakaMinohWinterFeaturePage() {
             </div>
             <div className="mt-6 text-center">
               <Link 
-                href="/features"
+                href="/features/"
                 className="inline-flex items-center gap-1.5 text-xs font-bold text-rose-600 hover:text-rose-700 transition"
               >
                 全国の冬特集・温泉宿泊ガイド一覧を見る →

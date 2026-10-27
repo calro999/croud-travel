@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '鳴子温泉ひとり旅・湯めぐりこけしおこもり：日本屈指の多種泉質・源蔵の湯・鳴子峡渓谷美！千年の湯治場で心ほぐれる極上厳選3宿',
     description: '国内11種類の泉質のうち8種類が湧く奇跡の温泉郷・鳴子！エメラルドグリーンなど日によって湯色が変化する硫黄泉が評判の老舗「鳴子ホテル」、源蔵の湯など多彩な湯処を誇る名門「鳴子観光ホテル」、秋の宮温泉郷の渓流沿いで極上の静寂を味わう「稲住温泉」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/miyagi-naruko-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/miyagi-naruko-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/miyagi-naruko-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/miyagi-naruko-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【鳴子温泉ひとり旅・湯めぐりこけしおこもり】日本屈指の多種泉質・源蔵の湯・鳴子峡渓谷美！千年の湯治場で心ほぐれる極上厳選3宿","item":"https://croud-travel.pages.dev/miyagi-naruko-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【鳴子温泉ひとり旅・湯めぐりこけしおこもり】日本屈指の多種泉質・源蔵の湯・鳴子峡渓谷美！千年の湯治場で心ほぐれる極上厳選3宿","item":"https://croud-travel.pages.dev/miyagi-naruko-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

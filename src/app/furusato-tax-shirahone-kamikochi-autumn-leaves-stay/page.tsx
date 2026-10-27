@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '上高地・大正池と河童橋の黄金カラマツ紅葉！乳白色の秘湯・白骨温泉名宿×ふるさと納税厳選ガイド長野',
     description: '10月中旬〜11月上旬に見頃を迎える神降地「上高地（かみこうち）」のカラマツ黄葉と穂高連峰の冠雪！大正池や河童橋の絶景散策、開湯600年の乳白色の秘湯「白骨温泉」の名宿「湯元齋藤旅館」「小梨の湯 笹屋」「白船グランドホテル」で信州プレミアム牛肉や岩魚塩焼きを堪能。楽天ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-shirahone-kamikochi-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-shirahone-kamikochi-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">信州・上高地黄葉＆白骨温泉 3日入れば3年風邪ひかない名湯宿特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

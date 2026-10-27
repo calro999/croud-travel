@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：大画面プロジェクター＆高音質音響！客室シアタールームで映画に没入する温泉宿5選',
     description: '2026年最新！100インチ以上の大画面プロジェクターや最新音響システム、動画配信見放題を備えたシアタールーム完備の極上温泉ホテル5選。',
-    url: 'https://croud-travel.pages.dev/luxury-private-cinema-theater-room-resort-stay',
+    url: 'https://croud-travel.pages.dev/luxury-private-cinema-theater-room-resort-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-private-cinema-theater-room-resort-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-private-cinema-theater-room-resort-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">客室シアター×大画面映画没入</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             お気に入りの映画やライブ映像を、大画面スクリーンと高音質スピーカーで心ゆくまで鑑賞。ルームサービスのお酒やおつまみを片手にソファで寛ぎ、合間には美肌名湯の露天風呂へ。プライベートシアターと温泉が融合した究極のエンタメステイ。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】大画面プロジェクター＆高音質音響！客室シアタールームで映画に没入する温泉宿5選" url="https://croud-travel.pages.dev/luxury-private-cinema-theater-room-resort-stay" />
+            <ShareButtons title="【2026年】大画面プロジェクター＆高音質音響！客室シアタールームで映画に没入する温泉宿5選" url="https://croud-travel.pages.dev/luxury-private-cinema-theater-room-resort-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】大画面プロジェクター＆高音質音響！客室シアタールームで映画に没入する温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/luxury-private-cinema-theater-room-resort-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】大画面プロジェクター＆高音質音響！客室シアタールームで映画に没入する温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/luxury-private-cinema-theater-room-resort-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

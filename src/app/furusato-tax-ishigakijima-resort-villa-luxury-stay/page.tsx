@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'エメラルドグリーンの海と満天の星！石垣島の天然ビーチ直結リゾート＆赤瓦プライベートヴィラ×ふるさと納税極上旅ガイドフサキ・ANAインターコンチネンタル・グランヴィリオ',
     description: '日本屈指の南国アイランド・沖縄県石垣島！エメラルドの川平湾、八重山諸島の絶景パノラマ。「フサキビーチリゾート」「ANAインターコンチネンタル石垣リゾート」「グランヴィリオリゾート石垣島」を、沖縄県石垣市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。天然ビーチ直結、県内最大級ウォータースライダー、石垣牛ステーキを満喫。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-ishigakijima-resort-villa-luxury-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-ishigakijima-resort-villa-luxury-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoIshigakijimaLuxuryStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">石垣島 ビーチリゾート＆ヴィラ特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoIshigakijimaLuxuryStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-miyakojima-allamanda-resort-stay"
+            href="/furusato-tax-miyakojima-allamanda-resort-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【宮古島 シギラリゾート＆ウミガメスイート×ふるさと納税】アラマンダ・ヒルトン・ミラージュ
           </Link>
           <Link
-            href="/furusato-tax-okinawa-beach-resort-luxury-stay"
+            href="/furusato-tax-okinawa-beach-resort-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【沖縄本島最高峰ビーチリゾート×ふるさと納税】ハレクラニ・ルネッサンス・ロワジール
           </Link>
           <Link
-            href="/furusato-tax-shirahama-onsen-ocean-view-luxury-stay"
+            href="/furusato-tax-shirahama-onsen-ocean-view-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【南紀白浜温泉 白良浜オーシャンビュー宿×ふるさと納税】むさし・海舟・シーモア
           </Link>
           <Link
-            href="/furusato-tax-private-villa-hanare-hideaway-stay"
+            href="/furusato-tax-private-villa-hanare-hideaway-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【大人の隠れ家・離れ客室×ふるさと納税】静寂とプライベート重視の名宿

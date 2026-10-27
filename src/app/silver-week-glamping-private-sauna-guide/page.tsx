@@ -379,7 +379,7 @@ export default function SilverWeekGlampingPrivateSaunaPage() {
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
           <Link
-            href="/hakone-couple-1night2days-anniversary-guide"
+            href="/hakone-couple-1night2days-anniversary-guide/"
             className="block p-4 rounded-2xl bg-white border border-rose-200/60 hover:border-rose-400 hover:shadow-md transition group"
           >
             <span className="text-[10px] font-bold text-rose-600 bg-rose-50 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -391,7 +391,7 @@ export default function SilverWeekGlampingPrivateSaunaPage() {
           </Link>
 
           <Link
-            href="/atami-izu-travel-budget-guide"
+            href="/atami-izu-travel-budget-guide/"
             className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-md transition group"
           >
             <span className="text-[10px] font-bold text-stone-600 bg-stone-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -407,7 +407,7 @@ export default function SilverWeekGlampingPrivateSaunaPage() {
       {/* 都道府県一覧への導線 */}
       <div className="text-center pt-4">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-stone-700 bg-white hover:bg-rose-50 border border-stone-300 px-8 py-3.5 rounded-2xl transition shadow-sm"
         >
           <span>🗾</span>

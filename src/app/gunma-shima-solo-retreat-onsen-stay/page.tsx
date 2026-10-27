@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '四万温泉ひとり旅・四万ブルーおこもり：四万川清流露天・四万の病を癒す霊泉・上州牛会席！大自然に抱かれる奥群馬の秘湯厳選3宿',
     description: '「四万の病を癒す」伝説の名湯・四万温泉！自家源泉の掛け流しと季節の会席が心温まる「あやめや旅館」、プライベートな貸切風呂と洗練のモダン空間が評判の「叶 KANOUYA」、清流沿いで上州牛や手打ちそばを堪能できる「料理旅館くれない」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/gunma-shima-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/gunma-shima-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/gunma-shima-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/gunma-shima-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【四万温泉ひとり旅・四万ブルーおこもり】四万川清流露天・四万の病を癒す霊泉・上州牛会席！大自然に抱かれる奥群馬の秘湯厳選3宿","item":"https://croud-travel.pages.dev/gunma-shima-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【四万温泉ひとり旅・四万ブルーおこもり】四万川清流露天・四万の病を癒す霊泉・上州牛会席！大自然に抱かれる奥群馬の秘湯厳選3宿","item":"https://croud-travel.pages.dev/gunma-shima-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

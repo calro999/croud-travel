@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '蔵王温泉ひとり旅・強酸性美肌の湯おこもり：大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿',
     description: '日本屈指の強酸性硫黄泉・蔵王！豊かな白樺林に囲まれ野趣あふれる露天風呂が自慢の「森のホテル ヴァルトベルク」、手軽に源泉かけ流し温泉を満喫できるモダンな「BED\'n ONSEN HAMMOND」、山形牛料理と天然温泉が自慢の「ル・ベール蔵王」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/yamagata-zao-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/yamagata-zao-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/yamagata-zao-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/yamagata-zao-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【蔵王温泉ひとり旅・強酸性美肌の湯おこもり】大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿","item":"https://croud-travel.pages.dev/yamagata-zao-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【蔵王温泉ひとり旅・強酸性美肌の湯おこもり】大露天風呂・樹氷パノラマ・山形牛すき焼き！白濁硫黄泉に包まれる高原ソロリトリート厳選3宿","item":"https://croud-travel.pages.dev/yamagata-zao-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

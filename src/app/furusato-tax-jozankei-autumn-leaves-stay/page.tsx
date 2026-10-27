@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '札幌の奥座敷・定山渓温泉の錦秋渓谷紅葉！豊平峡ダム＆二見吊橋と名湯宿×ふるさと納税厳選ガイド北海道',
     description: '10月上旬〜10月下旬に見頃を迎える北海道屈指の紅葉名所「定山渓温泉」と「豊平峡ダム」。二見吊橋から望む渓谷美と定山渓ネイチャールミナリエ、名宿「ぬくもりの宿 ふる川」「章月グランドホテル」「翠蝶館」で道産ブランド牛や秋鮭・いくらを堪能。楽天ふるさと納税で実質2,000円で泊まる極上の秋旅ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-jozankei-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-jozankei-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">札幌の奥座敷・定山渓温泉 錦秋紅葉めぐり＆名湯宿特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

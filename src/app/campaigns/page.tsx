@@ -117,7 +117,7 @@ export default function CampaignsPage() {
     <div className="space-y-10 max-w-5xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【最新】楽天トラベルお得キャンペーン・クーポン・セール一覧 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/campaigns"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【最新】楽天トラベルお得キャンペーン・クーポン・セール一覧 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/campaigns/"}]}) }}
       />
       {/* 戻るナビゲーション */}
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
@@ -272,7 +272,7 @@ export default function CampaignsPage() {
       {/* フッターリンク */}
       <div className="text-center pt-4">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-emerald-950 bg-white hover:bg-emerald-50 border border-emerald-950/20 px-6 py-3 rounded-xl transition shadow-sm"
         >
           <span>🗾</span>

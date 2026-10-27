@@ -237,7 +237,7 @@ function PostListInner({ initialPosts }: { initialPosts: Post[] }) {
                     ))}
                   </div>
                   <Link
-                    href={`/posts/${post.id}`}
+                    href={`/posts/${post.id}/`}
                     className="w-full text-center text-xs font-extrabold text-white bg-gradient-to-r from-teal-800 to-emerald-900 hover:from-teal-700 hover:to-emerald-800 py-3 rounded-xl shadow transition duration-200 cursor-pointer"
                   >
                     この宿の特集ルポを読む 🧭

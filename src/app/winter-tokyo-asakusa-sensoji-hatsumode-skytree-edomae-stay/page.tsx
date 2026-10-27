@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月浅草押上：浅草寺新春初詣！名宿5選',
     description: '冬の東京・浅草＆押上は、1400年の歴史を誇る浅草寺の朱塗り本堂と雷門が新春初詣の祈りで満ち。',
-    url: 'https://croud-travel.pages.dev/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay',
+    url: 'https://croud-travel.pages.dev/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/177986/177986.jpg' , alt: "11・12・1月浅草押上：浅草寺新春初詣！名宿5選"}]
   }
@@ -150,7 +150,7 @@ export default function TokyoAsakusaWinterPage() {
       {
         "@type": "WebPage",
         "@id": "https://croud-travel.pages.dev/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay#webpage",
-        "url": "https://croud-travel.pages.dev/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay",
+        "url": "https://croud-travel.pages.dev/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay/",
         "name": "【11・12・1月浅草押上】浅草寺新春初詣＆東京スカイツリー冬夜景！老舗すき焼き・江戸前天ぷら・下町天然温泉宿5選",
         "description": "冬の東京・浅草＆押上は、1400年の歴史を誇る浅草寺の朱塗り本堂と雷門が新春初詣の祈りで満ち、冬の澄み渡る夜空に東京スカイツリーの限定ライティングが煌めく最も華やぐ季節。12月の伝統「歳の市（羽子板市）」から1月の初詣・浅草名所七福神巡り、老舗「浅草今半」の極上すき焼きや胡麻油香る江戸前天ぷら、駒形どぜう鍋に舌鼓を打ち、下町名物の黒湯天然温泉に浸かる贅沢な冬旅。楽天APIから最新取得した浅草・スカイツリー至近の信頼の名宿5選を徹底特集します。",
         "inLanguage": "ja",
@@ -174,13 +174,13 @@ export default function TokyoAsakusaWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "浅草寺初詣＆スカイツリー冬夜景名宿",
-            "item": "https://croud-travel.pages.dev/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay"
+            "item": "https://croud-travel.pages.dev/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay/"
           }
         ]
       },
@@ -273,7 +273,7 @@ export default function TokyoAsakusaWinterPage() {
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-red-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-red-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-red-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">冬の浅草寺初詣＆スカイツリー特集</li>
         </ol>
@@ -585,28 +585,28 @@ export default function TokyoAsakusaWinterPage() {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
-              href="/winter-tokyo-marunouchi-illumination-luxury-stay"
+              href="/winter-tokyo-marunouchi-illumination-luxury-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-red-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【東京・丸の内】丸の内イルミネーション＆皇居冬景色名宿</span>
               <span className="text-xs text-slate-500">シャンパンゴールドの並木道と東京駅夜景に寛ぐラグジュアリーステイ</span>
             </Link>
             <Link 
-              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay"
+              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-red-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【鎌倉・江の島】鶴岡八幡宮初詣＆江の島シーキャンドル光の祭典</span>
               <span className="text-xs text-slate-500">冬晴れの湘南海岸と冠雪富士パノラマ、冬の地魚会席名宿</span>
             </Link>
             <Link 
-              href="/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay"
+              href="/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-red-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【千葉・成田山】成田山新勝寺新春初詣＆表参道名物うなぎ宿</span>
               <span className="text-xs text-slate-500">関東屈指の開運大本山参拝と香ばしい秘伝だれの江戸前うなぎ</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-red-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>

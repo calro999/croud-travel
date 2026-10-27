@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石！那須温泉名湯・鹿の湯白濁泉×ふるさと納税厳選ガイド栃木',
     description: '9月下旬〜10月中旬に那須連山の主峰が紅葉絨毯に染まる「栃木・那須高原 茶臼岳」。ロープウェイから見下ろす360度の大パノラマや殺生石散策と、開湯1300年の歴史を誇る名湯「大丸温泉旅館」「那須温泉山楽」「旅館 清水屋」で濃厚な白濁硫黄泉や川床露天風呂、極上とちぎ和牛・那須牛を堪能。ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-nasu-chause-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-nasu-chause-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -102,7 +102,7 @@ export default function FeatureArticlePage() {
       <nav className="max-w-6xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-600 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:underline text-stone-500">トップ</Link>
         <span>&gt;</span>
-        <Link href="/autumn-leaves" className="hover:underline text-stone-500">秋・紅葉特集</Link>
+        <Link href="/autumn-leaves/" className="hover:underline text-stone-500">秋・紅葉特集</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-medium">栃木・那須高原 / 茶臼岳紅葉ロープウェイ＆那須温泉鹿の湯・那須牛</span>
       </nav>
@@ -391,27 +391,27 @@ export default function FeatureArticlePage() {
             <h4 className="font-bold text-stone-900 text-xs mb-3">🍂 関連する秋の特集</h4>
             <ul className="space-y-2 text-xs text-stone-600">
               <li>
-                <Link href="/furusato-tax-boso-yorokeikoku-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-boso-yorokeikoku-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・千葉・房総養老渓谷＆黒湯温泉
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-tenryukyo-hirugami-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-tenryukyo-hirugami-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・長野・天竜峡舟下り＆昼神温泉
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-shosenkyo-kofu-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-shosenkyo-kofu-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・山梨・甲府昇仙峡＆湯村温泉
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-matsue-tamatsukuri-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-matsue-tamatsukuri-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・島根・松江城堀川めぐり＆玉造温泉
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-ishizuchi-omogo-dogo-autumn-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-ishizuchi-omogo-dogo-autumn-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・愛媛・石鎚山面河渓＆道後温泉
                 </Link>
               </li>

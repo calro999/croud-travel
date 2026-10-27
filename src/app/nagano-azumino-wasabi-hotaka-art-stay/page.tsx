@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '長野・安曇野＆穂高温泉：大王わさび農場・蓼川カヤック＆アートライン宿 厳選ガイド',
     description: '北アルプス常念岳の残雪パノラマ、日本最大「大王わさび農場」の蓼川水車小屋とクリアボート体験、名湯「穂高温泉郷」の美肌露天風呂、安曇野アートラインの美術館・ガラス工房めぐり、名物安曇野そばと信州サーモンを味わう宿を徹底厳選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/nagano-azumino-wasabi-hotaka-art-stay',
+    url: 'https://croud-travel.pages.dev/nagano-azumino-wasabi-hotaka-art-stay/',
   },
 };
 

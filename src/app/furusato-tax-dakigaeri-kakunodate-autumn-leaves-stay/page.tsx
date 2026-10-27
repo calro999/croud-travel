@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '抱返り渓谷の碧い渓流紅葉＆角館武家屋敷の黒板塀！田沢湖温泉郷宿×ふるさと納税厳選ガイド秋田',
     description: '10月中旬〜11月上旬にエメラルドグリーンの渓流と紅葉が織りなす東北の耶馬渓「抱返り渓谷」。角館武家屋敷通りの黒板塀に映える深紅のカエデと、田沢湖・水沢温泉郷の名湯「セルリアンリゾートAONI」「ロッジアイリス」「かくのだて温泉 町宿 ねこの鈴」できりたんぽ鍋や比内地鶏・八幡平ポークを堪能。ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-dakigaeri-kakunodate-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-dakigaeri-kakunodate-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -102,7 +102,7 @@ export default function FeatureArticlePage() {
       <nav className="max-w-6xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-600 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:underline text-stone-500">トップ</Link>
         <span>&gt;</span>
-        <Link href="/autumn-leaves" className="hover:underline text-stone-500">秋・紅葉特集</Link>
+        <Link href="/autumn-leaves/" className="hover:underline text-stone-500">秋・紅葉特集</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-medium">秋田・仙北 / 抱返り渓谷紅葉＆角館武家屋敷・田沢湖温泉</span>
       </nav>
@@ -391,27 +391,27 @@ export default function FeatureArticlePage() {
             <h4 className="font-bold text-stone-900 text-xs mb-3">🍂 関連する秋の特集</h4>
             <ul className="space-y-2 text-xs text-stone-600">
               <li>
-                <Link href="/furusato-tax-ikaho-kajikabashi-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-ikaho-kajikabashi-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・群馬・伊香保温泉＆河鹿橋もみじ
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-shuzenji-autumn-leaves-bamboo-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-shuzenji-autumn-leaves-bamboo-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・静岡・修善寺温泉竹林の小径＆文化財宿
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-kurokawa-autumn-leaves-onsen-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-kurokawa-autumn-leaves-onsen-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・熊本・黒川温泉渓谷露天＆入湯手形
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-hakkoda-sukayu-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-hakkoda-sukayu-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・青森・八甲田山＆酸ヶ湯温泉ヒバ千人風呂
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-kinosaki-autumn-leaves-stay" className="hover:text-amber-700 hover:underline block py-1">
+                <Link href="/furusato-tax-kinosaki-autumn-leaves-stay/" className="hover:text-amber-700 hover:underline block py-1">
                   ・兵庫・城崎温泉柳並木＆七つの外湯めぐり
                 </Link>
               </li>

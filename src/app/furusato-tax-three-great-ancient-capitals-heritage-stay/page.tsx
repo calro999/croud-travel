@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '日本三大古都＆千年千載の雅と武家の誇り・歴史息づく町並み宿×ふるさと納税厳選ガイド京都・奈良・鎌倉',
     description: '日本の美と歴史の原点を巡る三大古都グランドツアー！京都「平安京・祇園」千年の美意識と伝統の雅・京乃宿ギオン福住、奈良「平城京・ならまち」シルクロードの終着点と天平文化・ホテルアジール奈良、神奈川「鎌倉幕府・由比ヶ浜」源頼朝の武家文化と相模湾の潮風・鎌倉パークホテル。国宝寺社巡り、路地散策、伝統会席とフレンチを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-ancient-capitals-heritage-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-ancient-capitals-heritage-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -419,7 +419,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-zen-temples-mindfulness-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-zen-temples-mindfulness-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大禅寺＆静寂の枯山水・心洗われる禅寺名宿×ふるさと納税完全ガイド
               </div>
@@ -427,7 +427,7 @@ export default function Page() {
                 南禅寺・建長寺・永平寺。
               </p>
             </Link>
-            <Link href="/furusato-tax-three-great-castles-historic-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-castles-historic-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大名城＆不落の巨城を望む城見ステイ×ふるさと納税完全ガイド
               </div>
@@ -435,7 +435,7 @@ export default function Page() {
                 熊本・名古屋・大阪。
               </p>
             </Link>
-            <Link href="/furusato-tax-three-great-post-towns-nakasendo-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-post-towns-nakasendo-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大宿場町＆木曽路の出桁造り・街道名宿×ふるさと納税完全ガイド
               </div>

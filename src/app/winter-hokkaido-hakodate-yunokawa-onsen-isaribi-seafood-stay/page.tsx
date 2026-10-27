@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '函館湯で過ごす冬の旅（11・12月）！毛蟹会席！名宿5選',
     description: '11月から12月にかけて津軽海峡にイカ釣り漁船の幻想的な漁火（いさりび）が瞬く北海道三大温泉郷「湯の川温泉」。',
-    url: 'https://croud-travel.pages.dev/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -89,7 +89,7 @@ export default function HakodateYunokawaWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay/"
         }
       },
       {
@@ -313,7 +313,7 @@ export default function HakodateYunokawaWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月函館湯】毛蟹会席！名宿5選","item":"https://croud-travel.pages.dev/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月函館湯】毛蟹会席！名宿5選","item":"https://croud-travel.pages.dev/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -681,42 +681,42 @@ export default function HakodateYunokawaWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-hokkaido-sapporo-white-illumination-stay"
+              href="/winter-hokkaido-sapporo-white-illumination-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">北海道・札幌</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">さっぽろホワイトイルミネーションと大通公園周辺の極上ホテル</h3>
             </Link>
             <Link 
-              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay"
+              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">北海道・登別</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">登別温泉 地獄谷雪景色と九種の泉質を誇る名湯宿</h3>
             </Link>
             <Link 
-              href="/winter-hokkaido-jozankei-onsen-snow-keikoku-stay"
+              href="/winter-hokkaido-jozankei-onsen-snow-keikoku-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">北海道・定山渓</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">定山渓温泉 豊平川の雪渓谷美と札幌の奥座敷名湯宿</h3>
             </Link>
             <Link 
-              href="/winter-aomori-sukayu-hakkoda-yukimi-stay"
+              href="/winter-aomori-sukayu-hakkoda-yukimi-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">青森・酸ヶ湯八甲田</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">八甲田・酸ヶ湯温泉 千人風呂と豪雪白銀世界の秘湯宿</h3>
             </Link>
             <Link 
-              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay"
+              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">岩手・花巻</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">花巻温泉郷 宮沢賢治ゆかりの渓谷雪見露天と前沢牛会席の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">特集一覧</span>

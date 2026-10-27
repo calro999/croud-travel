@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三名泉＆天下の名湯・格式ある老舗温泉旅館×ふるさと納税厳選ガイド有馬・草津・下呂',
     description: '室町時代の詩僧・万里集九と江戸時代の儒学者・林羅山が絶賛した日本三名泉！兵庫「有馬温泉」太閤秀吉が愛した赤褐色の金泉と神戸牛会席、群馬「草津温泉」圧倒的湯量を誇る強酸性の名湯と湯畑の風情、岐阜「下呂温泉」絹のように滑らかなpH9.2の美肌湯と飛騨牛朴葉味噌。日本の温泉文化の頂点を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-japan-three-great-hot-springs-heritage-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-japan-three-great-hot-springs-heritage-stay/',
     siteName: 'トラベル総合ナビ',
     locale: 'ja_JP',
     type: 'article',
@@ -774,7 +774,7 @@ export default function Page() {
             
             <Link
               key="0"
-              href="/furusato-tax-bihada-medicinal-springs-retreat-stay"
+              href="/furusato-tax-bihada-medicinal-springs-retreat-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -787,7 +787,7 @@ export default function Page() {
             
             <Link
               key="1"
-              href="/furusato-tax-three-great-medicinal-baths-onsen-stay"
+              href="/furusato-tax-three-great-medicinal-baths-onsen-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -800,7 +800,7 @@ export default function Page() {
             
             <Link
               key="2"
-              href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay"
+              href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">

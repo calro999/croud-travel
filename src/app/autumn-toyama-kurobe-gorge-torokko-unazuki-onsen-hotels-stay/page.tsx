@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "下旬〜11月！黒部峡谷トロッコ電車紅葉で過ごす冬の旅（10月）！日本一のV字峡谷と宇奈月温泉おすすめ宿5選",
     description: "窓なしオープン客車で風を切る黒部峡谷トロッコ電車の紅葉パノラマ！黒部川のエメラルドグリーンと紅葉のコントラストを愛で、美肌の湯・宇奈月温泉と富山湾の海の幸を味わう名宿5選。",
-    url: 'https://croud-travel.pages.dev/autumn-toyama-kurobe-gorge-torokko-unazuki-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-toyama-kurobe-gorge-torokko-unazuki-onsen-hotels-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -141,7 +141,7 @@ export default function FeaturePage() {
       <nav className="max-w-5xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-500 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
         <Link href="/" className="hover:text-amber-600">ホーム</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <Link href="/features" className="hover:text-amber-600">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-600">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <span className="text-stone-800 font-medium truncate">【10月下旬〜11月！黒部峡谷トロッコ電車紅葉】日本一のV字峡谷と宇奈月温泉おすすめ宿5選</span>
       </nav>
@@ -187,8 +187,8 @@ export default function FeaturePage() {
             "@type": "BreadcrumbList",
             "itemListElement": [
               { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev/" },
-              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features" },
-              { "@type": "ListItem", "position": 3, "name": "【10月下旬〜11月！黒部峡谷トロッコ電車紅葉】日本一のV字峡谷と宇奈月温泉おすすめ宿5選", "item": "https://croud-travel.pages.dev/autumn-toyama-kurobe-gorge-torokko-unazuki-onsen-hotels-stay" }
+              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features/" },
+              { "@type": "ListItem", "position": 3, "name": "【10月下旬〜11月！黒部峡谷トロッコ電車紅葉】日本一のV字峡谷と宇奈月温泉おすすめ宿5選", "item": "https://croud-travel.pages.dev/autumn-toyama-kurobe-gorge-torokko-unazuki-onsen-hotels-stay/" }
             ]
           }) }}
         />

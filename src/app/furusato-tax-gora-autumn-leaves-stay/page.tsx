@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '箱根強羅温泉・箱根美術館の苔庭紅葉＆強羅公園秋のバラ！白濁にごり湯宿×ふるさと納税厳選ガイド神奈川',
     description: '11月上旬〜11月下旬に見頃を迎える「箱根強羅温泉（はこねごうらおんせん）」。国登録記念物「箱根美術館」の約130本のもみじが彩る苔庭の絶景と強羅公園の秋バラ、大涌谷引湯の白濁にごり湯や自家源泉を持つ名宿「季の湯 雪月花」「強羅環翠楼」「のうのう箱根」で相模湾の地魚や足柄牛会席を堪能。ふるさと納税で実質2,000円。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-gora-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-gora-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">箱根強羅温泉 箱根美術館名園紅葉＆にごり湯名宿特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月金沢：寒ブリ！名宿5選',
     description: '冬の金沢は、名勝・兼六園の唐崎松に施される雪吊りが冬空に優美な幾何学模様を描き。',
-    url: 'https://croud-travel.pages.dev/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/2050/2050.jpg' , alt: "11・12・1月金沢：寒ブリ！名宿5選"}]
   }
@@ -150,7 +150,7 @@ export default function KanazawaCityWinterPage() {
       {
         "@type": "WebPage",
         "@id": "https://croud-travel.pages.dev/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay#webpage",
-        "url": "https://croud-travel.pages.dev/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay",
+        "url": "https://croud-travel.pages.dev/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay/",
         "name": "【11・12・1月金沢】冬の兼六園雪吊り＆尾山神社新春初詣！近江町市場の香箱ガニ・寒ブリ・加賀おでんに寛ぐ厳選宿5選",
         "description": "冬の金沢は、名勝・兼六園の唐崎松に施される雪吊りが冬空に優美な幾何学模様を描き、11月6日のカニ漁解禁とともに近江町市場が真っ赤な香箱ガニと寒ブリで沸き立つ一年で最も華やぐ季節。12月の白銀ライトアップや1月の尾山神社ステンドグラス神門の新春開運初詣、熱々の金沢おでんやのどぐろ、治部煮に舌鼓を打つ極上の古都冬旅。楽天APIから最新取得した金沢駅周辺・兼六園近接の信頼の名宿5選を徹底特集します。",
         "inLanguage": "ja",
@@ -174,13 +174,13 @@ export default function KanazawaCityWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "金沢雪吊り＆香箱ガニ厳選宿",
-            "item": "https://croud-travel.pages.dev/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay"
+            "item": "https://croud-travel.pages.dev/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay/"
           }
         ]
       },
@@ -273,7 +273,7 @@ export default function KanazawaCityWinterPage() {
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-rose-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-rose-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-rose-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">冬の金沢雪吊り＆香箱ガニ特集</li>
         </ol>
@@ -588,28 +588,28 @@ export default function KanazawaCityWinterPage() {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
-              href="/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay"
+              href="/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-rose-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【金沢・湯涌温泉】竹久夢二ゆかりの美肌いで湯と香箱ガニ名宿</span>
               <span className="text-xs text-slate-500">金沢の奥座敷で味わう静寂の雪見露天風呂と加賀会席</span>
             </Link>
             <Link 
-              href="/winter-toyama-himi-kanburi-luxury-stay"
+              href="/winter-toyama-himi-kanburi-luxury-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-rose-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【富山・氷見】立山連峰海越し絶景＆本場氷見寒ブリ極上宿</span>
               <span className="text-xs text-slate-500">冬の富山湾が誇る至高のブランド寒ブリと展望温泉</span>
             </Link>
             <Link 
-              href="/winter-fukui-awara-onsen-echizen-crab-stay"
+              href="/winter-fukui-awara-onsen-echizen-crab-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-rose-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【福井・芦原温泉】名湯あわら温泉と本場越前ガニ尽くし名宿</span>
               <span className="text-xs text-slate-500">黄色いタグ付き越前ガニの濃厚な旨味と関西の奥座敷</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-rose-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>

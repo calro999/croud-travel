@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '山口・湯田温泉で過ごす冬の旅（11・12月）！やまぐち和牛燦！名宿5選',
     description: '11月から12月にかけて、室町時代の雅な大内文化と幕末維新の胎動が息づく山口県山口市の「湯田温泉（ゆだおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterYamaguchiYudaPage() {
         'headline': "【11・12月山口・湯田温泉の白狐の湯と国宝瑠璃光寺散策】本場下関直送とらふぐフルコース＆やまぐち和牛燦・毎分2000L源泉の名宿5選",
         'description': "11月から12月にかけて、室町時代の雅な大内文化と幕末維新の胎動が息づく山口県山口市の「湯田温泉（ゆだおんせん）」は、冬の美食の最高峰「とらふぐ」が旬を迎え、白狐伝説に彩られた名湯がいっそう恋しくなる季節を迎えます。白狐が毎夜傷を癒やしたと伝わる湯田の湯は、1日2000トン・毎分約2000リットルという西日本屈指の湧出量を誇るpH9.1のアルカリ性単純温泉。柔らかく肌になじむアルカリ泉が古い角質をやさしく洗い流し、つるつるの美肌へ導きます。夕食には本場・下関南風泊港から直送される透き通るような「とらふぐ刺し（てっさ）」や熱々の「ふぐちり鍋」、香ばしい「ふぐヒレ酒」、山口の誇る黒毛和牛「やまぐち和牛 燦（きらめき）」。国宝・瑠璃光寺五重塔の初冬風景とともに至福の滞在を約束する厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterYamaguchiYudaPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-rose-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">山口・湯田温泉</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterYamaguchiYudaPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月山口・湯田温泉】やまぐち和牛燦！名宿5選","item":"https://croud-travel.pages.dev/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月山口・湯田温泉】やまぐち和牛燦！名宿5選","item":"https://croud-travel.pages.dev/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -609,7 +609,7 @@ export default function WinterYamaguchiYudaPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay"
+              href="/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">山口・萩温泉</span>
@@ -622,7 +622,7 @@ export default function WinterYamaguchiYudaPage() {
             </Link>
 
             <Link 
-              href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay"
+              href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">山口・長門湯本温泉</span>
@@ -635,7 +635,7 @@ export default function WinterYamaguchiYudaPage() {
             </Link>
 
             <Link 
-              href="/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay"
+              href="/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">山口・下関川棚温泉</span>

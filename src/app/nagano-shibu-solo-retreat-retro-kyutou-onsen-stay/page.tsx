@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '信州・渋温泉ひとり旅・石畳小路と九湯巡りおこもり：厄除巡浴外湯めぐり・登録有形文化財の街並み・信州牛朴葉味噌！レトロ温泉街厳選3宿',
     description: '千と千尋の神隠しの世界を彷彿とさせる石畳の温泉街・長野・渋温泉！大正ロマンの木造建築と美食で楽天口コミ驚異の★4.88を誇る「味乃宿 ふじや旅館」、源泉かけ流しの貸切風呂と心温まる郷土もてなしの「玉久旅館」、最上階展望露天と自慢の地酒が揃う「御宿 炭乃湯」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/nagano-shibu-solo-retreat-retro-kyutou-onsen-stay',
+    url: 'https://croud-travel.pages.dev/nagano-shibu-solo-retreat-retro-kyutou-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/nagano-shibu-solo-retreat-retro-kyutou-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/nagano-shibu-solo-retreat-retro-kyutou-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【信州・渋温泉ひとり旅・石畳小路と九湯巡りおこもり】厄除巡浴外湯めぐり・登録有形文化財の街並み・信州牛朴葉味噌！レトロ温泉街厳選3宿","item":"https://croud-travel.pages.dev/nagano-shibu-solo-retreat-retro-kyutou-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【信州・渋温泉ひとり旅・石畳小路と九湯巡りおこもり】厄除巡浴外湯めぐり・登録有形文化財の街並み・信州牛朴葉味噌！レトロ温泉街厳選3宿","item":"https://croud-travel.pages.dev/nagano-shibu-solo-retreat-retro-kyutou-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '奈良駅前ひとり旅・天然温泉おこもり：全館畳敷き・吉野桜の湯・若草山＆東大寺！古都1300年の静寂に癒やされる厳選3宿',
     description: 'JR・近鉄奈良駅すぐ！全館素足で過ごせる和風プレミアムホテル「御宿 野乃奈良」、自家源泉天然温泉「奈良若草の湯」と快適デスクワークの「ダイワロイネットホテル奈良」、駅西口直結で上質スパと美食を誇る「ホテル日航奈良」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/nara-station-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/nara-station-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/nara-station-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/nara-station-solo-retreat-onsen-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【奈良駅前ひとり旅・天然温泉おこもり】全館畳敷き・吉野桜の湯・若草山＆東大寺！古都1300年の静寂に癒やされる厳選3宿","item":"https://croud-travel.pages.dev/nara-station-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【奈良駅前ひとり旅・天然温泉おこもり】全館畳敷き・吉野桜の湯・若草山＆東大寺！古都1300年の静寂に癒やされる厳選3宿","item":"https://croud-travel.pages.dev/nara-station-solo-retreat-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

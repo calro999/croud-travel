@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '福島・日本三古湯 いわき湯本温泉と湯の岳パノラマ紅葉！毎分5.5トンの美肌名湯＆常磐もの海鮮会席',
     description: '10月・11月の福島・いわき湯本温泉特集！道後・有馬と並ぶ日本三古湯の一つ「いわき湯本温泉」の毎分5.5トンを誇る極上の硫黄泉、湯ノ岳パノラマラインの錦秋ドライブ、築地・豊洲でも最高評価を受ける「常磐もの（ヒラメ・メヒカリ・あんこう）」をふるさと納税トラベルで味わうみちのく名湯旅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-fukushima-iwaki-yunodake-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-fukushima-iwaki-yunodake-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-fukushima-iwaki-yunodake-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-fukushima-iwaki-yunodake-autumn-stay/"
   };
 
   const faqSchema = {
@@ -97,7 +97,7 @@ export default function Page() {
           <div className="flex items-center space-x-4 text-xs font-medium text-stone-600">
             <Link href="/" className="hover:text-emerald-700">トップ</Link>
             <span>/</span>
-            <Link href="/sitemap" className="hover:text-emerald-700">特集一覧</Link>
+            <Link href="/sitemap/" className="hover:text-emerald-700">特集一覧</Link>
             <span>/</span>
             <span className="text-stone-400">秋のふるさと納税特集</span>
           </div>
@@ -126,7 +126,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-12 space-y-12 leading-relaxed">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"福島・日本三古湯 いわき湯本温泉と湯の岳パノラマ紅葉！毎分5.5トンの美肌名湯＆常磐もの海鮮会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-fukushima-iwaki-yunodake-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"福島・日本三古湯 いわき湯本温泉と湯の岳パノラマ紅葉！毎分5.5トンの美肌名湯＆常磐もの海鮮会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-fukushima-iwaki-yunodake-autumn-stay/"}]}) }}
       />
         {/* イントロダクション */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-4">
@@ -369,16 +369,16 @@ export default function Page() {
         <section className="bg-amber-50/50 p-6 rounded-xl border border-amber-200 space-y-4">
           <h2 className="text-lg font-bold text-stone-900">こちらもチェック！秋のふるさと納税特集</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs md:text-sm">
-            <Link href="/furusato-tax-mie-ise-matsusaka-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-mie-ise-matsusaka-autumn-stay/" className="text-emerald-800 hover:underline">
               → 三重・松阪（松阪城跡紅葉＆松阪牛会席）特集
             </Link>
-            <Link href="/furusato-tax-gifu-ena-nakatsugawa-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-gifu-ena-nakatsugawa-autumn-stay/" className="text-emerald-800 hover:underline">
               → 岐阜・恵那峡＆中津川（紅葉遊覧船＆栗きんとん）特集
             </Link>
-            <Link href="/furusato-tax-nagano-azumino-hotaka-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-nagano-azumino-hotaka-autumn-stay/" className="text-emerald-800 hover:underline">
               → 長野・安曇野＆穂高温泉郷（北アルプス紅葉＆信州サーモン）特集
             </Link>
-            <Link href="/autumn-aomori-oirase-gorge-towada-lake-momiji-hotels-stay" className="text-emerald-800 hover:underline">
+            <Link href="/autumn-aomori-oirase-gorge-towada-lake-momiji-hotels-stay/" className="text-emerald-800 hover:underline">
               → 青森・奥入瀬渓流＆十和田湖（紅葉散策＆十和田湖ひめます）特集
             </Link>
           </div>

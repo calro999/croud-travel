@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '上信越高原・万座温泉ひとり旅・標高1800m雲上の白濁硫黄泉おこもり：日本一の硫黄含有量・星空露天風呂・上州牛会席！空に一番近い秘湯厳選3宿',
     description: '日本屈指の高所と硫黄濃度を誇る雲上の名湯・群馬・万座温泉！ログハウス風の木の温もりと乳白色の極上露天風呂が評判の「万座亭」、多彩な木造湯殿と湯治文化を伝える名門「日進舘」、4つの自家源泉と混浴を含む広大な露天風呂群が自慢の「万座高原ホテル」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/gunma-manza-solo-retreat-milky-onsen-stay',
+    url: 'https://croud-travel.pages.dev/gunma-manza-solo-retreat-milky-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/gunma-manza-solo-retreat-milky-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/gunma-manza-solo-retreat-milky-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【上信越高原・万座温泉ひとり旅・標高1800m雲上の白濁硫黄泉おこもり】日本一の硫黄含有量・星空露天風呂・上州牛会席！空に一番近い秘湯厳選3宿","item":"https://croud-travel.pages.dev/gunma-manza-solo-retreat-milky-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【上信越高原・万座温泉ひとり旅・標高1800m雲上の白濁硫黄泉おこもり】日本一の硫黄含有量・星空露天風呂・上州牛会席！空に一番近い秘湯厳選3宿","item":"https://croud-travel.pages.dev/gunma-manza-solo-retreat-milky-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

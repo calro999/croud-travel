@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '山口・萩温泉郷で過ごす冬の旅（11・12月）！長州黒毛和牛！名宿5選',
     description: '11月から12月にかけて世界遺産の城下町・山口県萩市は、白壁の武家屋敷通りに初冬の柔らかな日差しが差し込み。',
-    url: 'https://croud-travel.pages.dev/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function HagiOnsenWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay/"
         },
         "headline": "【11・12月山口・萩温泉郷の維新城下町と初冬解禁本場天然とらふぐ】萩甘鯛・長州黒毛和牛＆日本海夕景露天の宿5選",
         "description": "11月から12月にかけて世界遺産の城下町・山口県萩市は、白壁の武家屋敷通りに初冬の柔らかな日差しが差し込み、日本海の荒波が育む極上の冬の味覚シーズンへと突入します。下関と並ぶ本場山口の「天然とらふぐ（ふく料理）」が本格解禁を迎え、透き通るような薄造り（てっさ）、熱々のふぐちり鍋（てっちり）、香ばしいヒレ酒が膳を彩ります。さらに萩港特産の高級魚「萩の甘鯛（アマダイ）」の松笠揚げや、きめ細かな肉質の「長州藤光牛・長州黒かしわ」を堪能。開湯20余年ながら塩分を含み体の芯まで温める萩温泉の露天風呂から日本海と菊ヶ浜の夕景を望む厳選名旅館5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function HagiOnsenWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "山口・萩温泉郷 維新城下町と本場天然とらふぐ・日本海夕景露天の宿",
-            "item": "https://croud-travel.pages.dev/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay"
+            "item": "https://croud-travel.pages.dev/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay/"
           }
         ]
       },
@@ -592,42 +592,42 @@ export default function HagiOnsenWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay"
+              href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">山口・長門湯本温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">音信川の清流と立ち寄り湯恩湯・冬のとらふぐ会席を満喫する名宿</h3>
             </Link>
             <Link 
-              href="/winter-shimonoseki-fugu-torafugu-luxury-stay"
+              href="/winter-shimonoseki-fugu-torafugu-luxury-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">山口・下関</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">本場下関の天然とらふぐフルコースと関門海峡絶景ビューの高級旅館</h3>
             </Link>
             <Link 
-              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay"
+              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">島根・玉造温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">神在月の出雲大社参拝と美肌日本一の名湯・冬の松葉ガニ会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">鳥取・三朝温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">世界屈指の高濃度ラジウム泉と11月解禁鳥取松葉ガニを満喫する宿</h3>
             </Link>
             <Link 
-              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay"
+              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">愛媛・道後温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">日本最古の名湯道後温泉本館と冬の鯛めし・伊予牛を堪能する名宿</h3>
             </Link>
             <Link 
-              href="/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay"
+              href="/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">徳島・祖谷温泉</span>

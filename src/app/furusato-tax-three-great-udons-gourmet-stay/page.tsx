@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: '日本三大うどん＆名水と小麦の麺道・ご当地名湯宿×ふるさと納税厳選ガイド讃岐・稲庭・五島',
     description: '日本屈指の麺文化を味わい尽くす！香川琴平「讃岐うどん」強烈なコシとイリコ出汁に唸る湯元こんぴら温泉華の湯紅梅亭、秋田湯沢「稲庭うどん」宮内庁御用達の絹の喉ごしと秘湯泥湯温泉奥山旅館、長崎五島列島「五島うどん」椿油とあご出汁の地獄炊きと五島コンカナ王国ワイナリー＆リゾート。日本三大うどんの聖地と極上湯を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-udons-gourmet-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-udons-gourmet-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -393,7 +393,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-sake-capitals-brewery-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-sake-capitals-brewery-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税完全ガイド
               </div>
@@ -402,7 +402,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-famous-confections-historic-town-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-famous-confections-historic-town-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大銘菓＆城下町茶寮・老舗和菓子文化宿×ふるさと納税完全ガイド
               </div>
@@ -411,7 +411,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-morning-markets-seafood-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-morning-markets-seafood-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大朝市＆獲れたて海鮮・朝ごはん宿×ふるさと納税完全ガイド
               </div>

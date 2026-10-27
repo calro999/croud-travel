@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税厳選ガイド越後湯沢・山形赤湯・京都伏見の酒蔵ステイ',
     description: '日本酒好きの桃源郷！新潟越後湯沢「ぽんしゅ館」越後全酒蔵コイン利き酒と美肌温泉、山形南陽「赤湯温泉」の蔵元直送地酒BARと米沢牛会席、京都「伏見」の名水仕込み銘酒と酒蔵通り町家ホテル。酒蔵見学と極上ペアリングを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-sake-bar-unlimited-tasting-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-sake-bar-unlimited-tasting-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -394,7 +394,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-sake-brewery-pairing-onsen-stay"
+            href="/furusato-tax-sake-brewery-pairing-onsen-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -410,7 +410,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-winery-vineyard-auberge-stay"
+            href="/furusato-tax-winery-vineyard-auberge-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -426,7 +426,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-distillery-whisky-pairing-stay"
+            href="/furusato-tax-distillery-whisky-pairing-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "2026年秋！サンリオピューロランド・ハロウィン：屋内型テーマパークと多摩・立川・府中人気ホテル5選",
     description: "天候を気にせず可愛いキャラクターたちのハロウィンを満喫！ピューロランドへのアクセス良好な京王線・多摩モノレール沿線（府中・立川・八王子）の厳選ホテル5選。",
-    url: 'https://croud-travel.pages.dev/autumn-tokyo-tama-sanrio-puroland-halloween-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-tokyo-tama-sanrio-puroland-halloween-hotels-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -141,7 +141,7 @@ export default function FeaturePage() {
       <nav className="max-w-5xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-500 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
         <Link href="/" className="hover:text-amber-600">ホーム</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <Link href="/features" className="hover:text-amber-600">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-600">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <span className="text-stone-800 font-medium truncate">【2026年秋！サンリオピューロランド・ハロウィン】屋内型テーマパークと多摩・立川・府中人気ホテル5選</span>
       </nav>
@@ -187,8 +187,8 @@ export default function FeaturePage() {
             "@type": "BreadcrumbList",
             "itemListElement": [
               { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev/" },
-              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features" },
-              { "@type": "ListItem", "position": 3, "name": "【2026年秋！サンリオピューロランド・ハロウィン】屋内型テーマパークと多摩・立川・府中人気ホテル5選", "item": "https://croud-travel.pages.dev/autumn-tokyo-tama-sanrio-puroland-halloween-hotels-stay" }
+              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features/" },
+              { "@type": "ListItem", "position": 3, "name": "【2026年秋！サンリオピューロランド・ハロウィン】屋内型テーマパークと多摩・立川・府中人気ホテル5選", "item": "https://croud-travel.pages.dev/autumn-tokyo-tama-sanrio-puroland-halloween-hotels-stay/" }
             ]
           }) }}
         />

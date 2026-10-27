@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月栃木：佐野厄除け大師初詣！名宿5選',
     description: '11月から1月、栃木県足利市と佐野市は、日本三大イルミネーション第1位「あしかがフラワーパーク 光の花の庭」の500万球が輝き。',
-    url: 'https://croud-travel.pages.dev/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay',
+    url: 'https://croud-travel.pages.dev/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '栃木・あしかがフラワーパーク＆佐野厄除け大師特集',
-        item: 'https://croud-travel.pages.dev/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay'
+        item: 'https://croud-travel.pages.dev/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay/'
       }
     ]
   };
@@ -599,7 +599,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
-              href="/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay"
+              href="/winter-tochigi-okunikko-chuzenji-lake-onsen-snow-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-purple-300 flex flex-col justify-between"
             >
               <div>
@@ -612,7 +612,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay"
+              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-purple-300 flex flex-col justify-between"
             >
               <div>
@@ -625,7 +625,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay"
+              href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-purple-300 flex flex-col justify-between"
             >
               <div>
@@ -638,7 +638,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay"
+              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-purple-300 flex flex-col justify-between"
             >
               <div>
@@ -686,7 +686,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
           </p>
           <div className="pt-4">
             <Link 
-              href="/features"
+              href="/features/"
               className="inline-flex items-center gap-2 px-6 py-3 bg-white text-slate-900 font-bold rounded-xl hover:bg-slate-100 transition-colors text-sm"
             >
               <span>冬の特集一覧へ戻る</span>

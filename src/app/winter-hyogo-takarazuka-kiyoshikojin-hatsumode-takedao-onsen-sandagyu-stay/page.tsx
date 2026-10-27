@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: '夢の舞台が華やぐ宝塚大劇場と、武庫川渓谷の奥深くに隠された秘湯・武田尾温泉を巡る11〜1月の冬紀行。「火の神・台所の神」として関西一円から信。',
   keywords: '宝塚大劇場 冬, 清荒神 初詣, 中山寺 初詣, 武田尾温泉 紅葉舘別庭あざれ, 宝塚ホテル, ホテル若水, 三田牛, 宝塚温泉, 兵庫 冬旅行, 隈研吾 温泉',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay/'
   },
   openGraph: {
     title: '11・12・1月兵庫：武田尾温泉の秘湯雪見露天！名宿5選',
     description: '夢の舞台が華やぐ宝塚大劇場と、武庫川渓谷の奥深くに隠された秘湯・武田尾温泉を巡る11〜1月の冬紀行。「火の神・台所の神」として関西一円から信。',
-    url: 'https://croud-travel.pages.dev/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay/',
     type: 'article',
     images: [
       {
@@ -60,7 +60,7 @@ export default function HyogoTakarazukaWinterPage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay/"
     }
   };
 
@@ -78,13 +78,13 @@ export default function HyogoTakarazukaWinterPage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "兵庫・宝塚＆武田尾温泉 冬特集",
-        "item": "https://croud-travel.pages.dev/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay"
+        "item": "https://croud-travel.pages.dev/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay/"
       }
     ]
   };
@@ -591,7 +591,7 @@ export default function HyogoTakarazukaWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm mb-8">
             <Link 
-              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay"
+              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-rose-500 transition hover:shadow-md group block"
             >
               <div className="text-rose-600 font-bold text-xs mb-1">兵庫・有馬温泉＆六甲山</div>
@@ -604,7 +604,7 @@ export default function HyogoTakarazukaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-hyogo-tanba-sasayama-botannabe-castle-stay"
+              href="/winter-hyogo-tanba-sasayama-botannabe-castle-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-rose-500 transition hover:shadow-md group block"
             >
               <div className="text-rose-600 font-bold text-xs mb-1">兵庫・丹波篠山</div>
@@ -617,7 +617,7 @@ export default function HyogoTakarazukaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay"
+              href="/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-rose-500 transition hover:shadow-md group block"
             >
               <div className="text-rose-600 font-bold text-xs mb-1">大阪・住吉大社＆キタ</div>
@@ -633,9 +633,9 @@ export default function HyogoTakarazukaWinterPage() {
           <div className="flex flex-wrap justify-center gap-4 text-xs font-semibold text-slate-600">
             <Link href="/" className="hover:text-rose-600 underline">ホーム</Link>
             <span>•</span>
-            <Link href="/features" className="hover:text-rose-600 underline">特集一覧</Link>
+            <Link href="/features/" className="hover:text-rose-600 underline">特集一覧</Link>
             <span>•</span>
-            <Link href="/posts" className="hover:text-rose-600 underline">記事一覧カタログ</Link>
+            <Link href="/posts/" className="hover:text-rose-600 underline">記事一覧カタログ</Link>
           </div>
         
       <HubRelatedPosts currentSlug="winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay" />

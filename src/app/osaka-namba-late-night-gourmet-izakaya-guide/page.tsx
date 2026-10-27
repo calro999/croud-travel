@@ -344,7 +344,7 @@ export default function OsakaNambaLateNightGuidePage() {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
-              href="/osaka-travel-budget-guide"
+              href="/osaka-travel-budget-guide/"
               className="p-4 bg-slate-900 rounded-xl border border-slate-700 hover:border-emerald-500/50 transition-all flex flex-col justify-between"
             >
               <div>
@@ -362,7 +362,7 @@ export default function OsakaNambaLateNightGuidePage() {
             </Link>
 
             <Link
-              href="/tokyo-osaka-bus-vs-shinkansen-guide"
+              href="/tokyo-osaka-bus-vs-shinkansen-guide/"
               className="p-4 bg-slate-900 rounded-xl border border-slate-700 hover:border-emerald-500/50 transition-all flex flex-col justify-between"
             >
               <div>

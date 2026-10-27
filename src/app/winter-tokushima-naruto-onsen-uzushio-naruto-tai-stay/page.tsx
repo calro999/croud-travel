@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '徳島・鳴門温泉で過ごす冬の旅（11・12月）！大塚国際美術館アート鑑賞！名宿5選',
     description: '11月から12月にかけて、四国の東の玄関口・徳島県鳴門市は、鳴門海峡を吹き抜ける心地よい冬の潮風と。',
-    url: 'https://croud-travel.pages.dev/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay',
+    url: 'https://croud-travel.pages.dev/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function TokushimaNarutoWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay/"
         },
         "headline": "【11・12月徳島・鳴門温泉の冬海峡絶景と激流が育む天然鳴門鯛】大塚国際美術館アート鑑賞・特選阿波牛＆鳴門大橋展望露天の宿5選",
         "description": "11月から12月にかけて、四国の東の玄関口・徳島県鳴門市は、鳴門海峡を吹き抜ける心地よい冬の潮風と、世界三大潮流の一つが織りなす大迫力の「冬の渦潮」の雄姿が旅人を迎えます。激しい潮流に逆らって泳ぎ、骨に「鳴門骨」と呼ばれるコブができるほど鍛え上げられた「鳴門鯛（天然真鯛）」は、冬に越冬のための上質な脂を蓄え、一年で最も美味な旬を迎えます。滋味豊かな「鳴門わかめ」、すだちを添えた「阿波牛」「阿波尾鶏」の極上会席。さらに世界の名画を原寸大で再現した「大塚国際美術館」のゆったりとした冬のアート鑑賞と、鳴門海峡や大鳴門橋を一望する海辺の温泉露天風呂に癒やされる厳選宿5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function TokushimaNarutoWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "徳島・鳴門温泉 冬海峡絶景と天然鳴門鯛・大塚国際美術館アートの宿",
-            "item": "https://croud-travel.pages.dev/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay"
+            "item": "https://croud-travel.pages.dev/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay/"
           }
         ]
       },
@@ -595,42 +595,42 @@ export default function TokushimaNarutoWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-hyogo-awajishima-sumoto-3year-torafugu-stay"
+              href="/winter-hyogo-awajishima-sumoto-3year-torafugu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">兵庫・淡路島温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">鳴門海峡の荒波が育む淡路島3年とらふぐフルコースと美肌露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay"
+              href="/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">兵庫・播州赤穂温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">播磨灘夕景と11月解禁坂越牡蠣・赤穂義士祭とインフィニティ露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay"
+              href="/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">徳島・祖谷温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">日本三大秘境の祖谷渓谷ケーブルカー露天風呂と阿波牛・郷土囲炉裏会席</h3>
             </Link>
             <Link 
-              href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay"
+              href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">香川・ことひら温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">金刀比羅宮の初冬参拝と讃岐オリーブ牛・門前町の温泉情緒を味わう宿</h3>
             </Link>
             <Link 
-              href="/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay"
+              href="/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">香川・小豆島温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">寒霞渓の冬絶景とオリーブ牛ステーキ・瀬戸内海一望の海辺露天風呂</h3>
             </Link>
             <Link 
-              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay"
+              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">愛媛・道後温泉</span>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'ライブ・舞台遠征泊：会場徒歩すぐ＆大画面ミラーリング・推し活応援！遠征民のための快適拠点ホテル 厳選3選',
     description: '東京ドーム、Zepp Shinjuku、ぴあアリーナMM・Kアリーナ横浜などでのライブや観劇・フェス遠征を最高の思い出に！ドーム目の前でうちわも入る限定プランがある「東京ドームホテル」、歌舞伎町タワー直結で大画面スピーカー搭載の「HOTEL GROOVE SHINJUKU」、みなとみらいのライブ会場へ徒歩圏の「横浜東急REIホテル」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/event-expedition-oshi-live-comfort-stay',
+    url: 'https://croud-travel.pages.dev/event-expedition-oshi-live-comfort-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T02:20:00+09:00',
     dateModified: '2026-10-19T02:20:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/event-expedition-oshi-live-comfort-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/event-expedition-oshi-live-comfort-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【ライブ・舞台遠征泊】会場徒歩すぐ＆大画面ミラーリング・推し活応援！遠征民のための快適拠点ホテル 厳選3選","item":"https://croud-travel.pages.dev/event-expedition-oshi-live-comfort-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【ライブ・舞台遠征泊】会場徒歩すぐ＆大画面ミラーリング・推し活応援！遠征民のための快適拠点ホテル 厳選3選","item":"https://croud-travel.pages.dev/event-expedition-oshi-live-comfort-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '岐阜・長良川温泉で過ごす冬の旅（11・12月）！含鉄美肌の黄金赤湯と最高峰A！名宿5選',
     description: '11月中旬から初冬の岐阜・長良川温泉は、夏の鵜飼の賑わいが去り、凛とした冬の澄んだ大気と歴史情緒が色濃く漂う大人の隠れ家へと姿を変えます。',
-    url: 'https://croud-travel.pages.dev/winter-gifu-nagaragawa-onsen-gihujo-hidagyu-ayu-stay',
+    url: 'https://croud-travel.pages.dev/winter-gifu-nagaragawa-onsen-gihujo-hidagyu-ayu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -57,7 +57,7 @@ export default function GifuNagaragawaWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-gifu-nagaragawa-onsen-gihujo-hidagyu-ayu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-gifu-nagaragawa-onsen-gihujo-hidagyu-ayu-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -344,7 +344,7 @@ export default function GifuNagaragawaWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 sm:pt-14 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月岐阜・長良川温泉】含鉄美肌の黄金赤湯と最高峰A！名宿5選","item":"https://croud-travel.pages.dev/winter-gifu-nagaragawa-onsen-gihujo-hidagyu-ayu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月岐阜・長良川温泉】含鉄美肌の黄金赤湯と最高峰A！名宿5選","item":"https://croud-travel.pages.dev/winter-gifu-nagaragawa-onsen-gihujo-hidagyu-ayu-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -623,7 +623,7 @@ export default function GifuNagaragawaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay"
+              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-red-300 bg-red-400/20 px-2 py-0.5 rounded-full inline-block">岐阜・下呂温泉</span>
@@ -636,7 +636,7 @@ export default function GifuNagaragawaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-gifu-okuhida-onsen-yukimi-roten-stay"
+              href="/winter-gifu-okuhida-onsen-yukimi-roten-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-red-300 bg-red-400/20 px-2 py-0.5 rounded-full inline-block">岐阜・奥飛騨温泉郷</span>
@@ -649,7 +649,7 @@ export default function GifuNagaragawaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay"
+              href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-red-300 bg-red-400/20 px-2 py-0.5 rounded-full inline-block">滋賀・長浜太閤温泉</span>

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: '日本三大急潮＆豪快うず潮パノラマ・激流海峡オーシャンビュー宿×ふるさと納税厳選ガイド鳴門・来島・関門',
     description: '海が滝のように唸りを上げる地球のダイナミズム！徳島「鳴門海峡」世界最大級の渦潮パノラマとベイリゾートホテル鳴門海月、愛媛今治「来島海峡」日本三大急潮の八艘飛び潮流とホテル菊水今治、山口下関「関門海峡」早鞆ノ瀬戸の急潮と本場とらふぐの下関グランドホテル。日本三大急潮の迫力ある海峡クルーズと旬魚を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-rapid-currents-strait-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-rapid-currents-strait-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -393,7 +393,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-harbor-cruises-luxury-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-harbor-cruises-luxury-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大港クルーズ＆夜景ディナークルーズ宿×ふるさと納税完全ガイド
               </div>
@@ -402,7 +402,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-precipitous-coasts-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-precipitous-coasts-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大名勝断崖海岸＆パノラマ海宿×ふるさと納税完全ガイド
               </div>
@@ -411,7 +411,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-water-castles-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-water-castles-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大水城＆名城パノラマ宿×ふるさと納税完全ガイド
               </div>

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月岩手：猊鼻渓「雪見こたつ舟」と極上前沢牛を味わう！名宿5選',
     description: '11月下旬から1月、岩手県南部の平泉と一関は、静寂と白銀の神秘に包まれます。奥州藤原氏が築いた世界遺産「中尊寺」での魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/54928/54928.jpg', width: 1200, height: 630, alt: '平泉中尊寺と猊鼻渓こたつ舟・前沢牛名宿' }]
   }
@@ -150,13 +150,13 @@ export default function IwateHiraizumiGeibikeiPage() {
     '@type': 'ItemPage',
     name: "【11・12・1月岩手】世界遺産・平泉中尊寺金色堂の白銀月見坂＆日本百景・猊鼻渓「雪見こたつ舟」と極上前沢牛を味わう名宿5選",
     description: "11月下旬から1月、岩手県南部の平泉と一関は、静寂と白銀の神秘に包まれます。奥州藤原氏が築いた世界遺産「中尊寺」では、老杉の並木道「月見坂」に雪が降り積もり、国宝「金色堂」が黄金の神々しさを一層際立たせます。日本百景の名勝「猊鼻渓（げいびけい）」では、12月から冬の名物「雪見こたつ舟」が運航。切り立つ百尺の断崖絶壁に舞い散る雪を眺めながら、ぽかぽかのこたつで味わう熱々の木流し鍋と船頭の「猊鼻追分」。厳冬の美味「前沢牛」のすき焼きや天然温泉に癒やされる厳選名宿5選を徹底解説します。",
-    url: 'https://croud-travel.pages.dev/winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay/',
     breadcrumb: {
       '@type': 'BreadcrumbList',
       itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://croud-travel.pages.dev/' },
         { '@type': 'ListItem', position: 2, name: '冬の特集一覧', item: 'https://croud-travel.pages.dev/features/' },
-        { '@type': 'ListItem', position: 3, name: '平泉中尊寺＆猊鼻渓こたつ舟・前沢牛ステイ', item: 'https://croud-travel.pages.dev/winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay' }
+        { '@type': 'ListItem', position: 3, name: '平泉中尊寺＆猊鼻渓こたつ舟・前沢牛ステイ', item: 'https://croud-travel.pages.dev/winter-iwate-hiraizumi-chusonji-geibikei-maesawagyu-stay/' }
       ]
     },
     mainEntity: {
@@ -601,7 +601,7 @@ export default function IwateHiraizumiGeibikeiPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-iwate-hanamaki-minami-namari-osawa-snow-stay" 
+              href="/winter-iwate-hanamaki-minami-namari-osawa-snow-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">岩手・花巻温泉郷</span>
@@ -611,7 +611,7 @@ export default function IwateHiraizumiGeibikeiPage() {
             </Link>
 
             <Link 
-              href="/winter-iwate-sanriku-kotatsu-train-kaisen-stay" 
+              href="/winter-iwate-sanriku-kotatsu-train-kaisen-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">岩手・三陸鉄道</span>
@@ -621,7 +621,7 @@ export default function IwateHiraizumiGeibikeiPage() {
             </Link>
 
             <Link 
-              href="/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay" 
+              href="/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">栃木・日光東照宮</span>
@@ -631,7 +631,7 @@ export default function IwateHiraizumiGeibikeiPage() {
             </Link>
 
             <Link 
-              href="/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay" 
+              href="/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">宮城・気仙沼</span>
@@ -641,7 +641,7 @@ export default function IwateHiraizumiGeibikeiPage() {
             </Link>
 
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay" 
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">山形・銀山温泉</span>
@@ -651,7 +651,7 @@ export default function IwateHiraizumiGeibikeiPage() {
             </Link>
 
             <Link 
-              href="/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay" 
+              href="/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">福島・会津大内宿</span>

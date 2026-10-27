@@ -269,7 +269,7 @@ export default function AutumnSpecialHubClient({ posts }: Props) {
               {/* ボタンアクション */}
               <div className="p-5 pt-0 space-y-2">
                 <Link
-                  href={`/posts/${post.id}`}
+                  href={`/posts/${post.id}/`}
                   className="block w-full text-center px-4 py-2.5 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white text-xs font-black rounded-xl shadow transition"
                 >
                   秋の特集記事を詳しく読む 📖

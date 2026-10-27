@@ -190,7 +190,7 @@ export default function KantoBabyFriendlyOnsenGuidePage() {
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs md:text-sm">
           <Link
-            href="/hakone-travel-budget-guide"
+            href="/hakone-travel-budget-guide/"
             className="flex items-start gap-2.5 p-3 rounded-xl bg-white border border-rose-200/60 hover:border-rose-500 hover:shadow transition group"
           >
             <span className="text-rose-600 font-bold text-base">♨️</span>
@@ -204,7 +204,7 @@ export default function KantoBabyFriendlyOnsenGuidePage() {
             </div>
           </Link>
           <Link
-            href="/kusatsu-onsen-travel-budget-guide"
+            href="/kusatsu-onsen-travel-budget-guide/"
             className="flex items-start gap-2.5 p-3 rounded-xl bg-white border border-rose-200/60 hover:border-rose-500 hover:shadow transition group"
           >
             <span className="text-rose-600 font-bold text-base">🌿</span>
@@ -423,7 +423,7 @@ export default function KantoBabyFriendlyOnsenGuidePage() {
       {/* 47都道府県トップへのリンク */}
       <div className="text-center pt-4">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-stone-700 bg-white hover:bg-rose-50 border border-stone-300 hover:border-rose-300 px-6 py-3 rounded-2xl transition shadow-sm"
         >
           <span>🗾</span>

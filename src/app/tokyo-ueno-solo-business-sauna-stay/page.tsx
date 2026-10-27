@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '上野出張・極上サウナステイ：新幹線直結・徒士の湯・アメ横グルメ！下町情緒と北の玄関口を極める厳選3宿',
     description: '東北・上越・北陸新幹線のターミナル上野駅！最上階露天風呂と本格サウナ・名物夜鳴きそばが揃う「ドーミーイン上野・御徒町」、アメ横至近で天照ラジウム温泉スパを備える「センチュリオンホテル＆スパ上野駅前」、24時間快適スパ＆ラウンジの「グランカスタマ上野店」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/tokyo-ueno-solo-business-sauna-stay',
+    url: 'https://croud-travel.pages.dev/tokyo-ueno-solo-business-sauna-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/tokyo-ueno-solo-business-sauna-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/tokyo-ueno-solo-business-sauna-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【上野出張・極上サウナステイ】新幹線直結・徒士の湯・アメ横グルメ！下町情緒と北の玄関口を極める厳選3宿","item":"https://croud-travel.pages.dev/tokyo-ueno-solo-business-sauna-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【上野出張・極上サウナステイ】新幹線直結・徒士の湯・アメ横グルメ！下町情緒と北の玄関口を極める厳選3宿","item":"https://croud-travel.pages.dev/tokyo-ueno-solo-business-sauna-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '豪快な滝の飛沫と深い森の静寂！清流渓谷のせせらぎ＆滝見露天風呂ヒーリング宿',
     description: '奥入瀬渓流・天城湯ヶ島・作並温泉など目の前に迫る豪快な滝や清らかな渓流を望む露天風呂。マイナスイオンとフィトンチッドに満たされる癒やしの旅。',
-    url: 'https://croud-travel.pages.dev/waterfall-gorge-healing-forest-onsen-stay',
+    url: 'https://croud-travel.pages.dev/waterfall-gorge-healing-forest-onsen-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/waterfall-gorge-healing-forest-onsen-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/waterfall-gorge-healing-forest-onsen-stay/"
   };
 
   const faqSchema = {
@@ -151,7 +151,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"豪快な滝の飛沫と深い森の静寂！清流渓谷のせせらぎ＆滝見露天風呂ヒーリング宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/waterfall-gorge-healing-forest-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"豪快な滝の飛沫と深い森の静寂！清流渓谷のせせらぎ＆滝見露天風呂ヒーリング宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/waterfall-gorge-healing-forest-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -166,7 +166,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">滝見露天風呂＆森林セラピー宿</span>
       </nav>
@@ -281,7 +281,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="豪快な滝の飛沫と深い森の静寂！清流渓谷のせせらぎ＆滝見露天風呂ヒーリング宿"
-            url="https://croud-travel.pages.dev/waterfall-gorge-healing-forest-onsen-stay"
+            url="https://croud-travel.pages.dev/waterfall-gorge-healing-forest-onsen-stay/"
           />
         </div>
 

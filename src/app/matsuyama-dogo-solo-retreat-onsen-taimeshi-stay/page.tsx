@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '松山・道後温泉ひとり旅：日本最古の名湯・坊っちゃん湯・松山城・絶品鯛めし！文学と名湯に浸る大人のおこもり宿 厳選3選',
     description: '日本三古湯の一つ・3000年の歴史を誇る愛媛県松山市「道後温泉」！「夏目漱石や皇室を迎えてきた創業390年の名旅館」の「ふなや」、能舞台を備え数寄屋造りの風格が漂う「大和屋本店」、大街道の真ん中で松山城を望む最上階スカイスパ「CANDEO HOTELS 松山大街道」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/matsuyama-dogo-solo-retreat-onsen-taimeshi-stay',
+    url: 'https://croud-travel.pages.dev/matsuyama-dogo-solo-retreat-onsen-taimeshi-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T12:30:00+09:00',
     dateModified: '2026-10-19T12:30:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/matsuyama-dogo-solo-retreat-onsen-taimeshi-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/matsuyama-dogo-solo-retreat-onsen-taimeshi-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【松山・道後温泉ひとり旅】日本最古の名湯・坊っちゃん湯・松山城・絶品鯛めし！文学と名湯に浸る大人のおこもり宿 厳選3選","item":"https://croud-travel.pages.dev/matsuyama-dogo-solo-retreat-onsen-taimeshi-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【松山・道後温泉ひとり旅】日本最古の名湯・坊っちゃん湯・松山城・絶品鯛めし！文学と名湯に浸る大人のおこもり宿 厳選3選","item":"https://croud-travel.pages.dev/matsuyama-dogo-solo-retreat-onsen-taimeshi-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

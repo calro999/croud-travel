@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月奈良：大和牛すき焼きと古都の静謐に寛ぐ厳選！名宿5選',
     description: '1300年の歴史が静かに息づく古都・奈良の冬。世界遺産・春日大社の朱塗りの社殿と無数の釣燈籠が白雪に映える新春開運初詣、東大寺大仏殿の厳かな佇まい。',
-    url: 'https://croud-travel.pages.dev/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/1148/1148.jpg' , alt: "11・12・1月奈良：大和牛すき焼きと古都の静謐に寛ぐ厳選！名宿5選"}]
   }
@@ -150,7 +150,7 @@ export default function NaraParkKasugaWinterPage() {
       {
         "@type": "WebPage",
         "@id": "https://croud-travel.pages.dev/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay#webpage",
-        "url": "https://croud-travel.pages.dev/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay",
+        "url": "https://croud-travel.pages.dev/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay/",
         "name": "【11・12・1月奈良】春日大社新春開運初詣＆東大寺大仏殿冬景色！大和牛すき焼きと古都の静謐に寛ぐ厳選宿5選",
         "description": "1300年の歴史が静かに息づく古都・奈良の冬。世界遺産・春日大社の朱塗りの社殿と無数の釣燈籠が白雪に映える新春開運初詣、東大寺大仏殿の厳かな佇まい、冬毛でもふもふと暖かそうな奈良公園の鹿たちとの出会い。澄み切った夕暮れには若草山が茜色から深い藍色へと染まり、滋味豊かな大和牛すき焼きや飛鳥鍋、三輪そうめんのにゅうめんが冷えた体を優しく温めます。楽天APIから最新取得した奈良公園・ならまち・奈良駅周辺の格調高き名宿5選を徹底特集します。",
         "inLanguage": "ja",
@@ -174,13 +174,13 @@ export default function NaraParkKasugaWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "春日大社初詣＆東大寺冬景色宿",
-            "item": "https://croud-travel.pages.dev/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay/"
           }
         ]
       },
@@ -273,7 +273,7 @@ export default function NaraParkKasugaWinterPage() {
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-emerald-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-emerald-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-emerald-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">春日大社初詣＆東大寺冬景色宿</li>
         </ol>
@@ -596,42 +596,42 @@ export default function NaraParkKasugaWinterPage() {
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 pt-2">
             <Link 
-              href="/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay"
+              href="/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-emerald-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">長谷寺の冬牡丹＆大神神社初詣！大和牛すき焼きの滋味宿</span>
               <span className="text-[11px] text-emerald-600 font-medium mt-2 flex items-center gap-1">奈良・桜井長谷寺特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-nara-dorogawa-onsen-snow-botannabe-stay"
+              href="/winter-nara-dorogawa-onsen-snow-botannabe-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-emerald-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">洞川温泉の雪景色＆名物ぼたん鍋！修験道の秘湯宿</span>
               <span className="text-[11px] text-emerald-600 font-medium mt-2 flex items-center gap-1">奈良・洞川温泉特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay"
+              href="/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-emerald-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">大阪城イルミナージュ＆大阪天満宮初詣！中之島水都夜景宿</span>
               <span className="text-[11px] text-emerald-600 font-medium mt-2 flex items-center gap-1">大阪・大阪城特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay"
+              href="/winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-emerald-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">伏見稲荷大社新春初詣＆宇治抹茶！冬の酒蔵めぐりと京会席宿</span>
               <span className="text-[11px] text-emerald-600 font-medium mt-2 flex items-center gap-1">京都・伏見宇治特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay"
+              href="/winter-mie-suzuka-tsubaki-shrine-nabana-kuwana-hamaguri-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-emerald-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">椿大神社開運初詣＆なばなの里イルミ！桑名蛤と天然温泉宿</span>
               <span className="text-[11px] text-emerald-600 font-medium mt-2 flex items-center gap-1">三重・鈴鹿桑名特集を読む →</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-emerald-50 p-3.5 rounded-2xl border border-emerald-200 hover:bg-emerald-100 transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-emerald-900 line-clamp-2">全国の冬旅・新春初詣＆温泉特選特集一覧</span>

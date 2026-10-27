@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三大渓谷美＆エメラルドグリーンの峡谷温泉宿×ふるさと納税厳選ガイド大歩危・黒部峡谷・清津峡',
     description: '息をのむ大自然の造形美！徳島「大歩危・祖谷渓」エメラルドグリーンの吉野川とケーブルカーで行く谷底露天風呂、富山「黒部峡谷」トロッコ列車で行く断崖パノラマと宇奈月美肌温泉、新潟「清津峡」アートと巨大柱状節理の幻想世界＆越後秘湯。大峡谷の絶景名湯を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-emerald-valley-gorge-hot-spring-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-emerald-valley-gorge-hot-spring-stay/',
     siteName: 'トラベル総合ナビ',
     locale: 'ja_JP',
     type: 'article',
@@ -774,7 +774,7 @@ export default function Page() {
             
             <Link
               key="0"
-              href="/furusato-tax-three-great-rapids-river-activity-stay"
+              href="/furusato-tax-three-great-rapids-river-activity-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -787,7 +787,7 @@ export default function Page() {
             
             <Link
               key="1"
-              href="/furusato-tax-japan-three-great-hot-springs-heritage-stay"
+              href="/furusato-tax-japan-three-great-hot-springs-heritage-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -800,7 +800,7 @@ export default function Page() {
             
             <Link
               key="2"
-              href="/furusato-tax-waterfall-river-gorge-healing-onsen-stay"
+              href="/furusato-tax-waterfall-river-gorge-healing-onsen-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">

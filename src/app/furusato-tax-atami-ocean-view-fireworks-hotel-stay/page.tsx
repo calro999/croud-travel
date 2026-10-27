@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '客室から大迫力の花火を特等席鑑賞！熱海オーシャンビュー温泉ホテル×ふるさと納税極上旅ガイド後楽園・ニューアカオ・パールスター',
     description: '熱海名物・年間十数回開催される熱海海上花火大会！お部屋のバルコニーやインフィニティ温泉露天風呂から、夜空と海を焦がす大迫力の花火を鑑賞。「熱海後楽園ホテル」「ホテルニューアカオ」「熱海パールスターホテル」を、静岡県熱海市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-atami-ocean-view-fireworks-hotel-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-atami-ocean-view-fireworks-hotel-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoAtamiOceanViewFireworksStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">熱海花火大会＆オーシャンビューホテル特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoAtamiOceanViewFireworksStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/infinity-open-air-bath-ocean-view-stay"
+            href="/infinity-open-air-bath-ocean-view-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【海一望インフィニティ温泉×ふるさと納税】波打ち際と水平線に溶け込む宿
           </Link>
           <Link
-            href="/furusato-tax-hakone-onsen-open-air-bath-stay"
+            href="/furusato-tax-hakone-onsen-open-air-bath-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【箱根湯本名湯温泉＆大露天風呂宿×ふるさと納税】ロマンスカー直通名宿
           </Link>
           <Link
-            href="/furusato-tax-hoshino-resorts-risonare-family-stay"
+            href="/furusato-tax-hoshino-resorts-risonare-family-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【星野リゾート リゾナーレ×ふるさと納税】八ヶ岳・熱海・那須
           </Link>
           <Link
-            href="/furusato-tax-tokyo-disney-resort-official-hotel-stay"
+            href="/furusato-tax-tokyo-disney-resort-official-hotel-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【東京ディズニーリゾート公式ホテル×ふるさと納税】舞浜直結オフィシャル

@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   description: '雪化粧に染まる修験道の聖地・世界遺産「吉野山」と金峯山寺蔵王堂の新春初詣！歴史薫る吉野温泉のぬくもり、滋味あふれる大和肉鶏の水炊きや吉野本葛料理、大和牛を味わう静寂の冬名旅館5選。',
   keywords: ['奈良県冬旅行', '吉野山・金峯山寺・吉野温泉', '冬温泉', '2026', '2027', '雪景色', '冬の味覚', '楽天トラベル', 'ふるさと納税'],
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-nara-yoshinoyama-kinpusenji-snow-temple-onsen-yamatotori-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-nara-yoshinoyama-kinpusenji-snow-temple-onsen-yamatotori-stay/',
   },
   openGraph: {
     title: '世界遺産金峯山寺蔵王堂の新春初詣と雪の吉野山：2026-2027年冬の吉野温泉！大和肉鶏と本葛鍋名宿5選',
     description: '雪化粧に染まる修験道の聖地・世界遺産「吉野山」と金峯山寺蔵王堂の新春初詣！歴史薫る吉野温泉のぬくもり、滋味あふれる大和肉鶏の水炊きや吉野本葛料理、大和牛を味わう静寂の冬名旅館5選。',
-    url: 'https://croud-travel.pages.dev/winter-nara-yoshinoyama-kinpusenji-snow-temple-onsen-yamatotori-stay',
+    url: 'https://croud-travel.pages.dev/winter-nara-yoshinoyama-kinpusenji-snow-temple-onsen-yamatotori-stay/',
     siteName: 'クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
 
 export default function WinterFeaturePage() {
   const faqJsonLd = {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "冬の吉野山は車で行けますか？スタッドレスタイヤは必要ですか？", "acceptedAnswer": {"@type": "Answer", "text": "12月から2月の吉野山は急な降雪や夜間の路面凍結が発生します。特に中千本から上千本へ登る坂道は急勾配のため、冬期に車で訪れる場合は必ずスタッドレスタイヤ（またはタイヤチェーン）を装着してください。運転に不安がある方は、近鉄吉野線を利用し、吉野駅から旅館の送迎バスや路線バスを利用するのが最も安全です。"}}, {"@type": "Question", "name": "冬期の金峯山寺蔵王堂は拝観できますか？", "acceptedAnswer": {"@type": "Answer", "text": "はい、冬期も毎日拝観可能です（開門時間は通常8:30〜16:30、年中無休）。特に年末年始は新春初詣の参拝者で賑わい、元旦未明から初護摩祈祷が厳修されます。雪の日の蔵王堂は息を呑むほど神聖な雰囲気に包まれ、四季の中で最も修験道の厳かな空気感を実感できる時期と言えます。"}}, {"@type": "Question", "name": "冬の吉野山でおすすめのランチや郷土料理は？", "acceptedAnswer": {"@type": "Answer", "text": "吉野名物の「柿の葉寿司」はもちろん、冬には温かい「吉野葛うどん」や「葛餅」、大和肉鶏を使った温かい鍋料理がおすすめです。門前町には冬でも営業している老舗食事処や茶屋があり、雪景色を眺めながら温かい葛湯や甘酒を味わう休憩も冬旅の醍醐味です。"}}]};
-  const breadcrumbJsonLd = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev"}, {"@type": "ListItem", "position": 2, "name": "奈良県の観光・温泉宿", "item": "https://croud-travel.pages.dev/prefectures/nara"}, {"@type": "ListItem", "position": 3, "name": "【世界遺産金峯山寺蔵王堂の新春初詣と雪の吉野山】2026-2027年冬の吉野温泉！大和肉鶏と本葛鍋名宿5選", "item": "https://croud-travel.pages.dev/winter-nara-yoshinoyama-kinpusenji-snow-temple-onsen-yamatotori-stay"}]};
+  const breadcrumbJsonLd = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev"}, {"@type": "ListItem", "position": 2, "name": "奈良県の観光・温泉宿", "item": "https://croud-travel.pages.dev/prefectures/nara"}, {"@type": "ListItem", "position": 3, "name": "【世界遺産金峯山寺蔵王堂の新春初詣と雪の吉野山】2026-2027年冬の吉野温泉！大和肉鶏と本葛鍋名宿5選", "item": "https://croud-travel.pages.dev/winter-nara-yoshinoyama-kinpusenji-snow-temple-onsen-yamatotori-stay/"}]};
 
   return (
     <>
@@ -588,15 +588,15 @@ export default function WinterFeaturePage() {
                 <span>奈良県のおすすめ観光名所＆温泉宿一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/features" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/features/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>全国の季節・目的別旅行特集一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>実質2,000円で泊まる名湯・高級温泉旅館ガイド</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-local-gourmet-inn-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-local-gourmet-inn-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>ご当地グルメを堪能する全国美食旅特集</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>

@@ -385,7 +385,7 @@ export default function SilverWeekGlampingWineBreweryCraftbeerPage() {
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
           <Link
-            href="/yamanashi-grape-bus-tour-daytrip-guide"
+            href="/yamanashi-grape-bus-tour-daytrip-guide/"
             className="block p-4 rounded-2xl bg-white border border-amber-200 hover:border-amber-400 hover:shadow-md transition group"
           >
             <span className="text-[10px] font-bold text-amber-800 bg-amber-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -397,7 +397,7 @@ export default function SilverWeekGlampingWineBreweryCraftbeerPage() {
           </Link>
 
           <Link
-            href="/tokyo-fujikawaguchiko-highway-bus-guide"
+            href="/tokyo-fujikawaguchiko-highway-bus-guide/"
             className="block p-4 rounded-2xl bg-white border border-amber-200 hover:border-amber-400 hover:shadow-md transition group"
           >
             <span className="text-[10px] font-bold text-amber-800 bg-amber-100 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -413,7 +413,7 @@ export default function SilverWeekGlampingWineBreweryCraftbeerPage() {
       {/* 都道府県一覧への導線 */}
       <div className="text-center pt-4">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-stone-700 bg-white hover:bg-amber-50 border border-stone-300 px-8 py-3.5 rounded-2xl transition shadow-sm"
         >
           <span>🗾</span>

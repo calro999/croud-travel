@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '由布院温泉ひとり旅・由布岳望むおこもり：金鱗湖朝霧・源泉かけ流し貸切露天・豊後牛！大自然に抱かれる大人のソロリトリート厳選3宿',
     description: '憧れの温泉リゾート・由布院！大正ロマン漂う空間と無料貸切風呂が一人旅に大人気の「由布院いよとみ」、由布岳を真正面に望む大パノラマ露天風呂が自慢の「彩岳館」、全室離れ・全室露天風呂付き極上の隠れ家「楓の小舎」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/oita-yufuin-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/oita-yufuin-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/oita-yufuin-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/oita-yufuin-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【由布院温泉ひとり旅・由布岳望むおこもり】金鱗湖朝霧・源泉かけ流し貸切露天・豊後牛！大自然に抱かれる大人のソロリトリート厳選3宿","item":"https://croud-travel.pages.dev/oita-yufuin-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【由布院温泉ひとり旅・由布岳望むおこもり】金鱗湖朝霧・源泉かけ流し貸切露天・豊後牛！大自然に抱かれる大人のソロリトリート厳選3宿","item":"https://croud-travel.pages.dev/oita-yufuin-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

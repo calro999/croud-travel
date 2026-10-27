@@ -453,14 +453,14 @@ export default function KanazawaEarlyMorningBreakfastPage() {
             </h3>
             <div className="flex flex-col sm:flex-row justify-center items-center gap-4">
               <Link
-                href="/tokyo-kanazawa-bus-vs-shinkansen-guide"
+                href="/tokyo-kanazawa-bus-vs-shinkansen-guide/"
                 className="text-xs sm:text-sm font-semibold text-amber-400 hover:text-amber-300 underline underline-offset-4"
               >
                 【東京〜金沢】新幹線 vs 夜行バス 時間・料金・快適度を徹底比較
               </Link>
               <span className="hidden sm:inline text-slate-600">|</span>
               <Link
-                href="/kanazawa-travel-budget-guide"
+                href="/kanazawa-travel-budget-guide/"
                 className="text-xs sm:text-sm font-semibold text-amber-400 hover:text-amber-300 underline underline-offset-4"
               >
                 【金沢旅行 予算シミュレーション】1泊2日・2泊3日の総費用まとめ

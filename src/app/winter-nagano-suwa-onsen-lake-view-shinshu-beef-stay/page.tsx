@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '諏訪湖・上諏訪温泉で過ごす冬の旅（11・12月）！諏訪湖一望露天と千人風呂！名宿5選',
     description: '11月から12月にかけて冷涼な澄み切った大気の中に冠雪の八ヶ岳と富士山がくっきりと浮かび上がる信州「諏訪湖」と「上諏訪温泉」。',
-    url: 'https://croud-travel.pages.dev/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -89,7 +89,7 @@ export default function SuwaOnsenWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay/"
         }
       },
       {
@@ -313,7 +313,7 @@ export default function SuwaOnsenWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月諏訪湖・上諏訪温泉】諏訪湖一望露天と千人風呂！名宿5選","item":"https://croud-travel.pages.dev/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月諏訪湖・上諏訪温泉】諏訪湖一望露天と千人風呂！名宿5選","item":"https://croud-travel.pages.dev/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -705,42 +705,42 @@ export default function SuwaOnsenWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-nagano-shirahone-onsen-milky-snow-stay"
+              href="/winter-nagano-shirahone-onsen-milky-snow-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">長野・白骨温泉</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">白骨温泉 乳白色の雪見露天風呂と信州秘湯宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-achimura-hirugami-starry-sky-stay"
+              href="/winter-nagano-achimura-hirugami-starry-sky-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">長野・昼神温泉</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">阿智村・昼神温泉 日本一の星空ナイトツアーと美肌湯の宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
+              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">長野・野沢温泉</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">野沢温泉 十三の外湯めぐりとパウダースノーの宿</h3>
             </Link>
             <Link 
-              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay"
+              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">山梨・石和温泉</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">石和温泉 甲州ワインと甲州牛ステーキ会席の名湯宿</h3>
             </Link>
             <Link 
-              href="/winter-fujikawaguchiko-momiji-fuji-view-stay"
+              href="/winter-fujikawaguchiko-momiji-fuji-view-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">山梨・富士河口湖</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">富士河口湖温泉 富士山絶景露天風呂と冬花火の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">特集一覧</span>

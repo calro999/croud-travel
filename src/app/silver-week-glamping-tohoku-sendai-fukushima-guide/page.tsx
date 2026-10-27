@@ -403,7 +403,7 @@ export default function SilverWeekGlampingTohokuPage() {
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
           <Link
-            href="/tokyo-sendai-bus-vs-shinkansen-guide"
+            href="/tokyo-sendai-bus-vs-shinkansen-guide/"
             className="block p-4 rounded-2xl bg-stone-800/80 border border-stone-700 hover:border-rose-400 hover:bg-stone-800 transition group"
           >
             <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -415,7 +415,7 @@ export default function SilverWeekGlampingTohokuPage() {
           </Link>
 
           <Link
-            href="/tohoku-travel-budget-guide"
+            href="/tohoku-travel-budget-guide/"
             className="block p-4 rounded-2xl bg-stone-800/80 border border-stone-700 hover:border-rose-400 hover:bg-stone-800 transition group"
           >
             <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -431,7 +431,7 @@ export default function SilverWeekGlampingTohokuPage() {
       {/* 都道府県一覧への導線 */}
       <div className="text-center pt-4">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-rose-950 bg-rose-50 hover:bg-rose-100 border border-rose-200 px-8 py-3.5 rounded-2xl transition shadow-sm"
         >
           <span>🗾</span>

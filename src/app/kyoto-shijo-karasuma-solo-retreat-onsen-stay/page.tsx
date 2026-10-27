@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '京都四条烏丸ひとり旅・大浴場おこもり：京町家の風情・ラウンジ無料ワイン・錦市場！古都の中心で癒やされる大人の厳選3宿',
     description: '京都駅から地下鉄烏丸線でわずか約3分！ラウンジでの無料ワイン＆お茶漬けバイキングと癒やしの大浴場が自慢の「ホテルインターゲート京都 四条新町」、四条烏丸交差点すぐで観光・ビジネスの機動力抜群な「ダイワロイネットホテル京都四条烏丸」、五条通沿いで静かな大浴場と上質空間を誇る「京王プレリアホテル京都烏丸五条」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/kyoto-shijo-karasuma-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/kyoto-shijo-karasuma-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/kyoto-shijo-karasuma-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/kyoto-shijo-karasuma-solo-retreat-onsen-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【京都四条烏丸ひとり旅・大浴場おこもり】京町家の風情・ラウンジ無料ワイン・錦市場！古都の中心で癒やされる大人の厳選3宿","item":"https://croud-travel.pages.dev/kyoto-shijo-karasuma-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【京都四条烏丸ひとり旅・大浴場おこもり】京町家の風情・ラウンジ無料ワイン・錦市場！古都の中心で癒やされる大人の厳選3宿","item":"https://croud-travel.pages.dev/kyoto-shijo-karasuma-solo-retreat-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

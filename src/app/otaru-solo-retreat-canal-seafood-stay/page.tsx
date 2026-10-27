@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '小樽ひとり旅・絶景レトロおこもり：天然温泉灯の湯・運河夜景パノラマ・豪華海鮮丼！石造り倉庫街で心洗われる厳選3宿',
     description: '札幌からJR快速エアポートでわずか約32分！小樽駅前で天然温泉と豪華海鮮朝食バイキングを誇る「ドーミーインPREMIUM小樽」、小樽運河の目の前に佇むヨーロッパ調の「ホテルノルド小樽」、小樽運河を望む格子戸とノスタルジックなもてなしが魅力の「運河の宿 おたる ふる川」を楽天APIデータに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/otaru-solo-retreat-canal-seafood-stay',
+    url: 'https://croud-travel.pages.dev/otaru-solo-retreat-canal-seafood-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T16:00:00+09:00',
     dateModified: '2026-10-19T16:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/otaru-solo-retreat-canal-seafood-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/otaru-solo-retreat-canal-seafood-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【小樽ひとり旅・絶景レトロおこもり】天然温泉灯の湯・運河夜景パノラマ・豪華海鮮丼！石造り倉庫街で心洗われる厳選3宿","item":"https://croud-travel.pages.dev/otaru-solo-retreat-canal-seafood-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【小樽ひとり旅・絶景レトロおこもり】天然温泉灯の湯・運河夜景パノラマ・豪華海鮮丼！石造り倉庫街で心洗われる厳選3宿","item":"https://croud-travel.pages.dev/otaru-solo-retreat-canal-seafood-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

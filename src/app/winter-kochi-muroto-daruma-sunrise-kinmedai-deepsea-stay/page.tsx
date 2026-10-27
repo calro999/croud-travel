@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月高知：太平洋の奇跡「だるま朝日！名宿5選',
     description: '11月中旬から1月中旬、高知県室戸岬は、冷気と黒潮の海水温差が生む冬の光学現象「だるま朝日・だるま夕日」のベストシーズン。',
-    url: 'https://croud-travel.pages.dev/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay',
+    url: 'https://croud-travel.pages.dev/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function KochiMurotoDarumaWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function KochiMurotoDarumaWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '高知・室戸だるま太陽＆金目鯛特集',
-        item: 'https://croud-travel.pages.dev/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay'
+        item: 'https://croud-travel.pages.dev/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay/'
       }
     ]
   };
@@ -599,7 +599,7 @@ export default function KochiMurotoDarumaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
-              href="/winter-kochi-ashizuri-onsen-ocean-starry-katsuo-tosa-beef-stay"
+              href="/winter-kochi-ashizuri-onsen-ocean-starry-katsuo-tosa-beef-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-rose-300 flex flex-col justify-between"
             >
               <div>
@@ -612,7 +612,7 @@ export default function KochiMurotoDarumaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay"
+              href="/winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-rose-300 flex flex-col justify-between"
             >
               <div>
@@ -625,7 +625,7 @@ export default function KochiMurotoDarumaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kochi-yuzu-hotspring-stay"
+              href="/winter-kochi-yuzu-hotspring-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-rose-300 flex flex-col justify-between"
             >
               <div>
@@ -638,7 +638,7 @@ export default function KochiMurotoDarumaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay"
+              href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-rose-300 flex flex-col justify-between"
             >
               <div>
@@ -686,7 +686,7 @@ export default function KochiMurotoDarumaWinterPage() {
           </p>
           <div className="pt-4">
             <Link 
-              href="/features"
+              href="/features/"
               className="inline-flex items-center gap-2 px-6 py-3 bg-white text-slate-900 font-bold rounded-xl hover:bg-slate-100 transition-colors text-sm"
             >
               <span>冬の特集一覧へ戻る</span>

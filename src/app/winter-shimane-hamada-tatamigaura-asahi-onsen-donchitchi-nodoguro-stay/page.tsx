@@ -214,7 +214,7 @@ export default function Page() {
                 TOP
               </Link>
               <ChevronRight className="w-3 h-3 text-cyan-400" />
-              <Link href="/features" className="text-cyan-200 hover:text-white transition-colors">
+              <Link href="/features/" className="text-cyan-200 hover:text-white transition-colors">
                 冬の厳選特集
               </Link>
               <ChevronRight className="w-3 h-3 text-cyan-400" />
@@ -772,37 +772,37 @@ export default function Page() {
                 </Link>
               </li>
               <li>
-                <Link href="/features" className="hover:underline flex items-center gap-1">
+                <Link href="/features/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>全国の季節・目的別旅行特集一覧</span>
                 </Link>
               </li>
               <li>
-                <Link href="/winter-shimane-tsuwano-taikodani-inari-hatsumode-uzumemeshi-iwamigyu-stay" className="hover:underline flex items-center gap-1">
+                <Link href="/winter-shimane-tsuwano-taikodani-inari-hatsumode-uzumemeshi-iwamigyu-stay/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>【島根】津和野太皷谷稲成神社初詣とうずめ飯・石見牛名宿5選</span>
                 </Link>
               </li>
               <li>
-                <Link href="/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay" className="hover:underline flex items-center gap-1">
+                <Link href="/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>【島根】温泉津温泉・石見銀山冬景色とノドグロ・和牛名宿5選</span>
                 </Link>
               </li>
               <li>
-                <Link href="/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay" className="hover:underline flex items-center gap-1">
+                <Link href="/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>【山口】萩温泉郷冬の維新史跡巡りと長州ふぐ・長州牛名宿5選</span>
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="hover:underline flex items-center gap-1">
+                <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>実質2,000円で泊まる名湯・高級温泉旅館ガイド</span>
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-local-gourmet-inn-stay" className="hover:underline flex items-center gap-1">
+                <Link href="/furusato-tax-local-gourmet-inn-stay/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>ご当地グルメを堪能する全国美食旅特集</span>
                 </Link>

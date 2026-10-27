@@ -167,7 +167,7 @@ export default function KusatsuDaytripHotspringLunchPage() {
         <div className="text-xs font-bold text-stone-700 mb-2">草津温泉の計画に役立つ関連記事</div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           <Link
-            href="/kusatsu-onsen-travel-budget-guide"
+            href="/kusatsu-onsen-travel-budget-guide/"
             className="p-4 bg-white rounded-2xl border border-stone-200 hover:border-stone-400 transition shadow-sm group flex flex-col justify-between"
           >
             <div>
@@ -183,7 +183,7 @@ export default function KusatsuDaytripHotspringLunchPage() {
           </Link>
 
           <Link
-            href="/kusatsu-vs-ikaho-onsen-comparison"
+            href="/kusatsu-vs-ikaho-onsen-comparison/"
             className="p-4 bg-white rounded-2xl border border-stone-200 hover:border-stone-400 transition shadow-sm group flex flex-col justify-between"
           >
             <div>
@@ -199,7 +199,7 @@ export default function KusatsuDaytripHotspringLunchPage() {
           </Link>
 
           <Link
-            href="/tokyo-kusatsu-onsen-highway-bus-guide"
+            href="/tokyo-kusatsu-onsen-highway-bus-guide/"
             className="p-4 bg-white rounded-2xl border border-stone-200 hover:border-stone-400 transition shadow-sm group flex flex-col justify-between"
           >
             <div>

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月和歌山：有田みかん海道と重伝建！名宿5選',
     description: '山々が黄金色に輝くみかんの郷と醤油発祥の日本遺産を巡る11〜1月の和歌山・有田＆湯浅特集。山一面に果実が実る11〜12月の「有田みかん」や「。',
-    url: 'https://croud-travel.pages.dev/winter-wakayama-arida-yuasa-mikan-tachiuo-stay',
+    url: 'https://croud-travel.pages.dev/winter-wakayama-arida-yuasa-mikan-tachiuo-stay/',
     type: 'article',
     images: [
       {
@@ -61,7 +61,7 @@ export default function WakayamaAridaYuasaWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-wakayama-arida-yuasa-mikan-tachiuo-stay"
+          "@id": "https://croud-travel.pages.dev/winter-wakayama-arida-yuasa-mikan-tachiuo-stay/"
         }
       },
       {
@@ -77,13 +77,13 @@ export default function WakayamaAridaYuasaWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "和歌山・有田みかん＆湯浅醤油蔵通り名宿",
-            "item": "https://croud-travel.pages.dev/winter-wakayama-arida-yuasa-mikan-tachiuo-stay"
+            "item": "https://croud-travel.pages.dev/winter-wakayama-arida-yuasa-mikan-tachiuo-stay/"
           }
         ]
       },
@@ -270,7 +270,7 @@ export default function WakayamaAridaYuasaWinterPage() {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-600 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-blue-600">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/features" className="hover:text-blue-600">特集一覧</Link>
+            <Link href="/features/" className="hover:text-blue-600">特集一覧</Link>
             <span>&gt;</span>
             <span className="text-slate-900 font-semibold">和歌山・有田みかん＆湯浅醤油蔵通り名宿</span>
           </div>
@@ -580,7 +580,7 @@ export default function WakayamaAridaYuasaWinterPage() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               <Link
-                href="/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay"
+                href="/winter-wakayama-city-kada-onsen-hatsumode-taimeshi-kue-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-cyan-400 text-xs font-bold block mb-1">和歌山特集</span>
@@ -588,7 +588,7 @@ export default function WakayamaAridaYuasaWinterPage() {
                 <span className="text-xs text-slate-300">紀淡海峡を望む露天風呂と加太の鯛・クエ料理…</span>
               </Link>
               <Link
-                href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay"
+                href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-amber-400 text-xs font-bold block mb-1">和歌山特集</span>
@@ -596,7 +596,7 @@ export default function WakayamaAridaYuasaWinterPage() {
                 <span className="text-xs text-slate-300">南紀白浜の冬の風物詩クエ鍋と太平洋露天風呂…</span>
               </Link>
               <Link
-                href="/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay"
+                href="/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-rose-400 text-xs font-bold block mb-1">和歌山特集</span>
@@ -604,7 +604,7 @@ export default function WakayamaAridaYuasaWinterPage() {
                 <span className="text-xs text-slate-300">白銀に包まれる世界遺産の霊場高野山…</span>
               </Link>
               <Link
-                href="/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay"
+                href="/winter-osaka-minoo-katsuo-ji-daruma-botannabe-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-emerald-400 text-xs font-bold block mb-1">大阪特集</span>
@@ -612,7 +612,7 @@ export default function WakayamaAridaYuasaWinterPage() {
                 <span className="text-xs text-slate-300">日本の滝百選箕面大滝と能勢の天然ぼたん鍋…</span>
               </Link>
               <Link
-                href="/features"
+                href="/features/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-purple-400 text-xs font-bold block mb-1">特集一覧</span>

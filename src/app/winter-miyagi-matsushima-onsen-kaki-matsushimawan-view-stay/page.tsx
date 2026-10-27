@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '松島温泉で過ごす冬の旅（11・12月）！日本三景日の出パノラマ展望露天！名宿5選',
     description: '11月から12月にかけて、日本三景の一つに数えられる宮城県・松島湾は、初冬の澄み切った冷涼な空気によって260余りの島々が最も鮮やかに浮かび。',
-    url: 'https://croud-travel.pages.dev/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function MiyagiMatsushimaWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay"
+          "@id": "https://croud-travel.pages.dev/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay/"
         },
         "headline": "【11・12月宮城・松島温泉の初冬松島湾絶景と解禁・極上松島牡蠣】日本三景日の出パノラマ展望露天＆仙台牛会席の宿5選",
         "description": "11月から12月にかけて、日本三景の一つに数えられる宮城県・松島湾は、初冬の澄み切った冷涼な空気によって260余りの島々が最も鮮やかに浮かび上がる絶景シーズンを迎えます。この時期の松島を象徴するのが、秋から冬にかけて水揚げが本格解禁される名物「松島牡蠣（かき）」。豊かな三陸の山々から流れ込むミネラルをたっぷり吸収した牡蠣は、ぷりぷりと大粒で甘みと濃厚なコクが凝縮しています。さらに宮城が誇る最高峰ブランド「仙台牛」や三陸直送の海の幸、地下深層から湧き出る「絹肌の湯」こと松島温泉が旅人を迎えます。太平洋の水平線から昇る神々しい朝焼けを客室や展望露天風呂から独占する、初冬の松島おすすめ名旅館・ホテル5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function MiyagiMatsushimaWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "宮城・松島温泉 初冬の松島湾絶景と解禁松島牡蠣・仙台牛の宿",
-            "item": "https://croud-travel.pages.dev/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay"
+            "item": "https://croud-travel.pages.dev/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay/"
           }
         ]
       },
@@ -551,42 +551,42 @@ export default function MiyagiMatsushimaWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-oyster-seafood-gourmet"
+              href="/winter-oyster-seafood-gourmet/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">全国冬の味覚特集</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">冬に食べたい極上牡蠣＆海鮮グルメ温泉旅館ランキング</h3>
             </Link>
             <Link 
-              href="/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay"
+              href="/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">山形・赤湯温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">開湯九百年赤湯温泉と最高峰米沢牛・初冬雪見露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay"
+              href="/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">宮城・鳴子温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">多彩な泉質めぐりと雪景色・名湯湯治の宿</h3>
             </Link>
             <Link 
-              href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay"
+              href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">青森・浅虫温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">陸奥湾の初冬夕景と肉厚ホタテ・津軽三味線ライブの宿</h3>
             </Link>
             <Link 
-              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay"
+              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">岩手・花巻温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">初冬渓流雪見露天と前沢牛ステーキ・宮沢賢治ゆかりの名宿</h3>
             </Link>
             <Link 
-              href="/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay"
+              href="/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">千葉・南房総温泉郷</span>

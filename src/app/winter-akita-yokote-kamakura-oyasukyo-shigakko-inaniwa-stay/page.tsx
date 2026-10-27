@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月秋田：雪見露天！名宿5選',
     description: 'みちのくの豪雪地帯・秋田県県南の横手市と湯沢市。11〜1月は450年の伝統を誇る小正月行事「横手のかまくら」の白銀情景が広がり。',
-    url: 'https://croud-travel.pages.dev/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay',
+    url: 'https://croud-travel.pages.dev/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -169,7 +169,7 @@ export default function AkitaYokoteOyasukyoWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay"
+          "@id": "https://croud-travel.pages.dev/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay/"
         },
         "headline": "【11・12・1月秋田】横手＆湯沢・小安峡！約450年の伝統「横手のかまくら」雪まつり＆小安峡大噴湯の巨大氷柱「しがっこ」・本場稲庭うどん＆雪見露天名宿5選",
         "description": "みちのくの豪雪地帯・秋田県県南の横手市と湯沢市。11〜1月は450年の伝統を誇る小正月行事「横手のかまくら」の白銀情景が広がり、湯沢・小安峡では岩肌から噴出する熱湯蒸気と巨大つらら「しがっこ」が大自然の氷結アートを描き出します。日本三大うどん「本場稲庭うどん」や希少な幻のブランド和牛「皆瀬牛」、秋田杉香る名湯・小安峡温泉や秋の宮温泉郷の雪見露天風呂を満喫できる厳選名宿5選を徹底解説します。",
@@ -195,13 +195,13 @@ export default function AkitaYokoteOyasukyoWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "横手＆小安峡温泉冬特集",
-            "item": "https://croud-travel.pages.dev/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay"
+            "item": "https://croud-travel.pages.dev/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay/"
           }
         ]
       },
@@ -613,7 +613,7 @@ export default function AkitaYokoteOyasukyoWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay"
+              href="/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-blue-400 block mb-1">男鹿半島冬特集</span>
@@ -621,7 +621,7 @@ export default function AkitaYokoteOyasukyoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay"
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-blue-400 block mb-1">銀山温泉冬特集</span>
@@ -629,7 +629,7 @@ export default function AkitaYokoteOyasukyoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay"
+              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-blue-400 block mb-1">花巻温泉冬特集</span>

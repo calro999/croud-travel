@@ -438,7 +438,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
           <h2 className="text-xs font-bold uppercase tracking-wider text-stone-400">関連記事・あわせて読みたい東海・名古屋ガイド</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
-              href="/nagoya-departure-daytrip-bus-tour-guide"
+              href="/nagoya-departure-daytrip-bus-tour-guide/"
               className="p-4 rounded-xl bg-stone-900/80 border border-stone-800 hover:border-red-500/40 transition block group"
             >
               <span className="text-red-400 text-xs font-bold">名古屋発バスツアー</span>
@@ -448,7 +448,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
             </Link>
 
             <Link
-              href="/nagoya-kanazawa-bus-vs-train-guide"
+              href="/nagoya-kanazawa-bus-vs-train-guide/"
               className="p-4 rounded-xl bg-stone-900/80 border border-stone-800 hover:border-red-500/40 transition block group"
             >
               <span className="text-red-400 text-xs font-bold">交通・移動比較</span>

@@ -15,12 +15,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: '【小野小町ゆかりの美肌硫黄泉と初冬の米沢牛すき焼き】2026-2027年11-12月初冬の山形・小野川温泉！名物豆もやしラーメンと甲子大黒天参拝・情緒あふれる雪見露天風呂名宿5選',
     description: '平安の美女・小野小町が病を癒やしたと伝わる開湯1200年の名湯「小野川温泉」！毎分千リットルを超える豊富な源泉はラジウムと硫黄・塩分を含み、初冬の冷えた肌をしっとり潤す極上の美肌泉。温泉熱で冬に育てる冬の風物詩「小野川豆もやし」ラーメンや、日本屈指のブランド肉「米沢牛」の芳醇なすき焼き会席。湯煙たなびく温泉街で雪見風呂を心ゆくまで満喫する厳選名宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-yamagata-onogawa-onsen-bihada-yonezawagyu-sukiyaki-mame-moyashi-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-onogawa-onsen-bihada-yonezawagyu-sukiyaki-mame-moyashi-stay/',
     type: 'article',
     siteName: 'クラウドトラベル',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-yamagata-onogawa-onsen-bihada-yonezawagyu-sukiyaki-mame-moyashi-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-yamagata-onogawa-onsen-bihada-yonezawagyu-sukiyaki-mame-moyashi-stay/',
   },
 };
 
@@ -46,13 +46,13 @@ export default function WinterFeaturePage() {
                   "@type": "ListItem",
                   "position": 2,
                   "name": "特集一覧",
-                  "item": "https://croud-travel.pages.dev/features"
+                  "item": "https://croud-travel.pages.dev/features/"
                 },
                 {
                   "@type": "ListItem",
                   "position": 3,
                   "name": "【小野小町ゆかりの美肌硫黄泉と初冬の米沢牛すき焼き】2026-2027年11-12月初冬の山形・小野川温泉！名物豆もやしラーメンと甲子大黒天参拝・情緒あふれる雪見露天風呂名宿5選",
-                  "item": "https://croud-travel.pages.dev/winter-yamagata-onogawa-onsen-bihada-yonezawagyu-sukiyaki-mame-moyashi-stay"
+                  "item": "https://croud-travel.pages.dev/winter-yamagata-onogawa-onsen-bihada-yonezawagyu-sukiyaki-mame-moyashi-stay/"
                 }
               ]
             },
@@ -95,7 +95,7 @@ export default function WinterFeaturePage() {
         <div className="max-w-5xl mx-auto flex items-center gap-1.5 flex-wrap">
           <Link href="/" className="hover:text-slate-800 transition">ホーム</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
-          <Link href="/features" className="hover:text-slate-800 transition">特集一覧</Link>
+          <Link href="/features/" className="hover:text-slate-800 transition">特集一覧</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
           <span className="text-slate-800 font-medium truncate max-w-xs">【小野小町ゆかりの美肌硫黄泉と初冬の米沢牛すき焼き】2026-2027年11-12月初冬の山形・小野川温泉！名物豆もやしラーメンと甲子大黒天参拝・情緒あふれる雪見露天風呂名宿5選</span>
         </div>

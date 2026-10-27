@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月長崎：稲佐山1000万ドルの冬夜景！名宿5選',
     description: '11月から1月、大気が澄み渡る冬の長崎は、モナコ・上海と並び「世界新三大夜景」に認定された稲佐山からのパノラマ夜景が年間で最も美しく輝く最高。',
-    url: 'https://croud-travel.pages.dev/winter-nagasaki-city-inasayama-nightview-glover-champon-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagasaki-city-inasayama-nightview-glover-champon-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -63,7 +63,7 @@ export default function NagasakiCityInasayamaWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-nagasaki-city-inasayama-nightview-glover-champon-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-nagasaki-city-inasayama-nightview-glover-champon-stay/'
     }
   };
 
@@ -81,13 +81,13 @@ export default function NagasakiCityInasayamaWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '長崎市街＆稲佐山 世界新三大夜景と冬グルメ名宿',
-        item: 'https://croud-travel.pages.dev/winter-nagasaki-city-inasayama-nightview-glover-champon-stay'
+        item: 'https://croud-travel.pages.dev/winter-nagasaki-city-inasayama-nightview-glover-champon-stay/'
       }
     ]
   };
@@ -641,7 +641,7 @@ export default function NagasakiCityInasayamaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-nagasaki-huistenbosch-christmas-lights-stay" 
+              href="/winter-nagasaki-huistenbosch-christmas-lights-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">長崎・佐世保</span>
@@ -651,7 +651,7 @@ export default function NagasakiCityInasayamaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay" 
+              href="/winter-nagasaki-unzen-onsen-jigoku-muhyo-unzen-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">長崎・雲仙温泉</span>
@@ -661,7 +661,7 @@ export default function NagasakiCityInasayamaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay" 
+              href="/winter-nagasaki-hirado-onsen-kue-hirame-hirado-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">長崎・平戸</span>
@@ -671,7 +671,7 @@ export default function NagasakiCityInasayamaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay" 
+              href="/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">佐賀・太良町＆嬉野</span>
@@ -681,7 +681,7 @@ export default function NagasakiCityInasayamaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay" 
+              href="/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">宮崎・高千穂</span>
@@ -691,7 +691,7 @@ export default function NagasakiCityInasayamaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay" 
+              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">北海道・函館</span>

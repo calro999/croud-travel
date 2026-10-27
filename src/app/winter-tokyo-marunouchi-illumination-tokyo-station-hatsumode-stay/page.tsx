@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月東京：丸の内イルミネーション！名宿5選',
     description: '冬の東京・丸の内は、約1.2kmにわたりシャンパンゴールドに輝く「丸の内イルミネーション」と、美しくライトアップされた東京駅丸の内赤レンガ駅舎。',
-    url: 'https://croud-travel.pages.dev/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay',
+    url: 'https://croud-travel.pages.dev/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -165,7 +165,7 @@ export default function MarunouchiTokyoWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay/"
         },
         "headline": "【11・12・1月東京】丸の内イルミネーション＆東京駅丸の内駅舎夜景！皇居新春散策と江戸前極上宿5選",
         "description": "冬の東京・丸の内は、約1.2kmにわたりシャンパンゴールドに輝く「丸の内イルミネーション」と、美しくライトアップされた東京駅丸の内赤レンガ駅舎、皇居のお濠端の静寂が広がる年間最高峰のラグジュアリーシーズン。日本橋福徳神社や神田明神の新春初詣、江戸前老舗グルメまで、大人の洗練された冬の都心ステイ。楽天APIから最新取得した東京ステーションホテル、パレスホテル東京など厳選宿5選を徹底特集します。",
@@ -191,13 +191,13 @@ export default function MarunouchiTokyoWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "丸の内・東京駅 冬特集",
-            "item": "https://croud-travel.pages.dev/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay"
+            "item": "https://croud-travel.pages.dev/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay/"
           }
         ]
       },
@@ -600,28 +600,28 @@ export default function MarunouchiTokyoWinterPage() {
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
             <Link 
-              href="/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay" 
+              href="/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>浅草寺新春初詣＆スカイツリー冬夜景！江戸前名店と浅草名宿</span>
               <span className="text-amber-300">→</span>
             </Link>
             <Link 
-              href="/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay" 
+              href="/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>お台場花火＆豊洲千客万来！東京ベイ夜景と天然温泉名宿</span>
               <span className="text-amber-300">→</span>
             </Link>
             <Link 
-              href="/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay" 
+              href="/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>武蔵一宮氷川神社新春初詣＆けやきひろば光の森！寛ぎ名宿</span>
               <span className="text-amber-300">→</span>
             </Link>
             <Link 
-              href="/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay" 
+              href="/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>大阪城イルミナージュ＆大阪天満宮初詣！水都夜景となにわ名宿</span>

@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '乳頭温泉郷の秘湯白濁露天と田沢湖の紅葉パノラマ＆秋田比内地鶏・きりたんぽ鍋ステイ',
     description: '10月中旬〜11月上旬に見頃を迎える乳頭温泉郷のブナ原生林紅葉と神秘の田沢湖。七湯巡りで名高い白濁の秘湯露天風呂と、秋田名物きりたんぽ鍋・比内地鶏をふるさと納税でお得に味わう完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-tazawako-nyuto-onsen-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-tazawako-nyuto-onsen-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-tazawako-nyuto-onsen-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-tazawako-nyuto-onsen-autumn-stay/"
   };
 
   const faqSchema = {
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"乳頭温泉郷の秘湯白濁露天と田沢湖の紅葉パノラマ＆秋田比内地鶏・きりたんぽ鍋ステイ | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-tazawako-nyuto-onsen-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"乳頭温泉郷の秘湯白濁露天と田沢湖の紅葉パノラマ＆秋田比内地鶏・きりたんぽ鍋ステイ | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-tazawako-nyuto-onsen-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

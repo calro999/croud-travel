@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月山梨：冬の八ヶ岳ブルーと満天の星空観賞！名宿5選',
     description: '11月から1月、山梨県北杜市の清里高原・八ヶ岳南麓は、晴天率80%超を誇る抜けるような冬晴れ「八ヶ岳ブルー」と。',
-    url: 'https://croud-travel.pages.dev/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '山梨・清里高原＆八ヶ岳星空特集',
-        item: 'https://croud-travel.pages.dev/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay'
+        item: 'https://croud-travel.pages.dev/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay/'
       }
     ]
   };
@@ -603,7 +603,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
-              href="/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay"
+              href="/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-indigo-300 flex flex-col justify-between"
             >
               <div>
@@ -616,7 +616,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay"
+              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-indigo-300 flex flex-col justify-between"
             >
               <div>
@@ -629,7 +629,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay"
+              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-indigo-300 flex flex-col justify-between"
             >
               <div>
@@ -642,7 +642,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-tateshina-onsen-yatsugatake-snow-shinshu-beef-stay"
+              href="/winter-nagano-tateshina-onsen-yatsugatake-snow-shinshu-beef-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-indigo-300 flex flex-col justify-between"
             >
               <div>
@@ -690,7 +690,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
           </p>
           <div className="pt-4">
             <Link 
-              href="/features"
+              href="/features/"
               className="inline-flex items-center gap-2 px-6 py-3 bg-white text-slate-900 font-bold rounded-xl hover:bg-slate-100 transition-colors text-sm"
             >
               <span>冬の特集一覧へ戻る</span>

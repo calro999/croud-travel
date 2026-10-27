@@ -17,12 +17,12 @@ export const metadata: Metadata = {
   title: "尾ノ内百景氷柱と薬師の湯：2026-2027年冬の埼玉・秩父＆小鹿野！猪鹿ぼたん鍋と武州和牛名宿5選",
   description: "冬の秩父路を幻想的に彩る尾ノ内百景氷柱・三十槌の氷柱と秩父三社新春初詣！名峰両神山麓に湧く美肌の「小鹿野温泉薬師の湯」、滋味豊かな秩父ジビエ猪鹿ぼたん鍋と極上武州和牛を堪能する大人の隠れ家名宿5選。",
   alternates: {
-    canonical: "https://croud-travel.pages.dev/winter-saitama-chichibu-hyochu-onouchi-ogano-onsen-jibier-stay",
+    canonical: "https://croud-travel.pages.dev/winter-saitama-chichibu-hyochu-onouchi-ogano-onsen-jibier-stay/",
   },
   openGraph: {
     title: "尾ノ内百景氷柱と薬師の湯：2026-2027年冬の埼玉・秩父＆小鹿野！猪鹿ぼたん鍋と武州和牛名宿5選",
     description: "冬の秩父路を幻想的に彩る尾ノ内百景氷柱・三十槌の氷柱と秩父三社新春初詣！名峰両神山麓に湧く美肌の「小鹿野温泉薬師の湯」、滋味豊かな秩父ジビエ猪鹿ぼたん鍋と極上武州和牛を堪能する大人の隠れ家名宿5選。",
-    url: "https://croud-travel.pages.dev/winter-saitama-chichibu-hyochu-onouchi-ogano-onsen-jibier-stay",
+    url: "https://croud-travel.pages.dev/winter-saitama-chichibu-hyochu-onouchi-ogano-onsen-jibier-stay/",
     siteName: "日本全国・旅宿クラウド",
     locale: "ja_JP",
     type: "article",
@@ -90,7 +90,7 @@ export default function FeaturePage() {
       "@type": "ListItem",
       "position": 2,
       "name": "特集一覧",
-      "item": "https://croud-travel.pages.dev/features"
+      "item": "https://croud-travel.pages.dev/features/"
     },
     {
       "@type": "ListItem",
@@ -102,7 +102,7 @@ export default function FeaturePage() {
       "@type": "ListItem",
       "position": 4,
       "name": "【尾ノ内百景氷柱と薬師の湯】2026-2027年冬の埼玉・秩父＆小鹿野！猪鹿ぼたん鍋と武州和牛名宿5選",
-      "item": "https://croud-travel.pages.dev/winter-saitama-chichibu-hyochu-onouchi-ogano-onsen-jibier-stay"
+      "item": "https://croud-travel.pages.dev/winter-saitama-chichibu-hyochu-onouchi-ogano-onsen-jibier-stay/"
     }
   ]
 };
@@ -139,7 +139,7 @@ export default function FeaturePage() {
             ホーム
           </Link>
           <ChevronRight className="w-3 h-3 text-stone-400" />
-          <Link href="/features" className="hover:text-stone-900 transition-colors">
+          <Link href="/features/" className="hover:text-stone-900 transition-colors">
             特集一覧
           </Link>
           <ChevronRight className="w-3 h-3 text-stone-400" />
@@ -701,15 +701,15 @@ export default function FeaturePage() {
                 <span>埼玉県のおすすめ観光名所＆温泉宿一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/features" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/features/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>全国の季節・目的別旅行特集一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>実質2,000円で泊まる名湯・高級温泉旅館ガイド</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-local-gourmet-inn-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-local-gourmet-inn-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>ご当地グルメを堪能する全国美食旅特集</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>

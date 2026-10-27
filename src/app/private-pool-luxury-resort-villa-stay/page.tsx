@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '誰にも邪魔されない極上の水辺！専用プライベートプール付き高級リゾートヴィラ',
     description: '宮古島・南房総・淡路島など客室から直接飛び込める専用プライベートプール完備の最高級ヴィラ。海外リゾートのような開放感と贅沢な休日。',
-    url: 'https://croud-travel.pages.dev/private-pool-luxury-resort-villa-stay',
+    url: 'https://croud-travel.pages.dev/private-pool-luxury-resort-villa-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/private-pool-luxury-resort-villa-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/private-pool-luxury-resort-villa-stay/"
   };
 
   const faqSchema = {
@@ -151,7 +151,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"誰にも邪魔されない極上の水辺！専用プライベートプール付き高級リゾートヴィラ ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/private-pool-luxury-resort-villa-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"誰にも邪魔されない極上の水辺！専用プライベートプール付き高級リゾートヴィラ ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/private-pool-luxury-resort-villa-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -166,7 +166,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">専用プール付きラグジュアリーヴィラ</span>
       </nav>
@@ -281,7 +281,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="誰にも邪魔されない極上の水辺！専用プライベートプール付き高級リゾートヴィラ"
-            url="https://croud-travel.pages.dev/private-pool-luxury-resort-villa-stay"
+            url="https://croud-travel.pages.dev/private-pool-luxury-resort-villa-stay/"
           />
         </div>
 

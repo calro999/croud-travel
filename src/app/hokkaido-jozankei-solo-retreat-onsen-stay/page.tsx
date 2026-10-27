@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '定山渓温泉ひとり旅・渓谷美おこもり：札幌から60分・豊平川渓流露天・道産美食！札幌の奥座敷で静寂にととのう厳選3宿',
     description: '札幌中心部からかっぱライナーで約60分！女性一人旅のために設計された癒やしと美の宿「翠蝶館」、名物「蜂蜜バイキング」と渓流露天風呂が評判の老舗「章月グランドホテル」、自家源泉かけ流しと隠れ家の趣が心地よい「悠久の宿白糸」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/hokkaido-jozankei-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/hokkaido-jozankei-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/hokkaido-jozankei-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/hokkaido-jozankei-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【定山渓温泉ひとり旅・渓谷美おこもり】札幌から60分・豊平川渓流露天・道産美食！札幌の奥座敷で静寂にととのう厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-jozankei-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【定山渓温泉ひとり旅・渓谷美おこもり】札幌から60分・豊平川渓流露天・道産美食！札幌の奥座敷で静寂にととのう厳選3宿","item":"https://croud-travel.pages.dev/hokkaido-jozankei-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '日本三大宿場町＆木曽路の出桁造り・江戸の面影残す街道名宿×ふるさと納税厳選ガイド妻籠宿・馬籠宿・奈良井宿',
     description: 'タイムスリップしたかのような木曽路の町並み！長野木曽「妻籠宿」電線地中化で守られた日本初の重要伝統的建造物群保存地区とおん宿蔦屋、岐阜中津川「馬籠宿」坂道に沿って石畳が続く島崎藤村の故郷と天然温泉ホテル花更紗、長野塩尻「奈良井宿」奈良井千軒の壮麗な出桁造りと歴史の宿場町御宿伊勢屋。木曽檜の薫り、信州そば、木曽牛すき焼きを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-post-towns-nakasendo-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-post-towns-nakasendo-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -419,7 +419,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-scenic-drives-highland-resort-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-scenic-drives-highland-resort-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本百名道＆高原パノラマドライブ名宿×ふるさと納税完全ガイド
               </div>
@@ -427,7 +427,7 @@ export default function Page() {
                 ビーナスライン・志賀草津・伊吹山。
               </p>
             </Link>
-            <Link href="/furusato-tax-three-great-lacquerwares-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-lacquerwares-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 伝統工芸の里＆手仕事と職人技を巡る工芸名宿×ふるさと納税完全ガイド
               </div>
@@ -435,7 +435,7 @@ export default function Page() {
                 木曽漆器・輪島塗・越前漆器。
               </p>
             </Link>
-            <Link href="/furusato-tax-three-great-castles-historic-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-castles-historic-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大名城＆不落の巨城を望む城見ステイ×ふるさと納税完全ガイド
               </div>

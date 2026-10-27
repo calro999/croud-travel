@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月和歌山：新春初詣！名宿5選',
     description: '11月から1月、標高約800mの山上盆地に位置する真言密教の聖地・世界遺産「高野山」は、厳かな白銀の雪化粧に包まれる静謐な季節を迎えます。',
-    url: 'https://croud-travel.pages.dev/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay',
+    url: 'https://croud-travel.pages.dev/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -63,7 +63,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay/'
     }
   };
 
@@ -81,13 +81,13 @@ export default function WakayamaKoyasanShukuboWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '高野山＆奥之院 白銀聖地と冬の宿坊精進料理・初詣名宿',
-        item: 'https://croud-travel.pages.dev/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay'
+        item: 'https://croud-travel.pages.dev/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay/'
       }
     ]
   };
@@ -641,7 +641,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay" 
+              href="/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-900 font-bold text-xs block mb-1">和歌山・熊野古道</span>
@@ -651,7 +651,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay" 
+              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-900 font-bold text-xs block mb-1">和歌山・南紀白浜</span>
@@ -661,7 +661,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nara-dorogawa-onsen-snow-botannabe-stay" 
+              href="/winter-nara-dorogawa-onsen-snow-botannabe-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-900 font-bold text-xs block mb-1">奈良・洞川温泉</span>
@@ -671,7 +671,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay" 
+              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-900 font-bold text-xs block mb-1">三重・伊勢神宮</span>
@@ -681,7 +681,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kyoto-arashiyama-onsen-yudofu-stay" 
+              href="/winter-kyoto-arashiyama-onsen-yudofu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-900 font-bold text-xs block mb-1">京都・嵐山温泉</span>
@@ -691,7 +691,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay" 
+              href="/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-900 font-bold text-xs block mb-1">宮崎・高千穂</span>

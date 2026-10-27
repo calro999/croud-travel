@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '富良野・美瑛ひとり旅・絶景おこもり：十勝岳パノラマ・天然温泉紫雲の湯・富良野オムカレー！北の大自然に抱かれる厳選3宿',
     description: '旭川空港から富良野ラベンダー号バスで直通！富良野駅徒歩約3分で最上階天然温泉とサウナが自慢の「ラビスタ富良野ヒルズ」、広大な敷地と風のガーデン・森の時計が美しい「新富良野プリンスホテル」、スイーツサービスやアットホームなおもてなしが評判の「ホテル ナトゥールヴァルト富良野」を楽天APIデータに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/furano-biei-solo-retreat-nature-onsen-stay',
+    url: 'https://croud-travel.pages.dev/furano-biei-solo-retreat-nature-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T18:00:00+09:00',
     dateModified: '2026-10-19T18:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furano-biei-solo-retreat-nature-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furano-biei-solo-retreat-nature-onsen-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【富良野・美瑛ひとり旅・絶景おこもり】十勝岳パノラマ・天然温泉紫雲の湯・富良野オムカレー！北の大自然に抱かれる厳選3宿","item":"https://croud-travel.pages.dev/furano-biei-solo-retreat-nature-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【富良野・美瑛ひとり旅・絶景おこもり】十勝岳パノラマ・天然温泉紫雲の湯・富良野オムカレー！北の大自然に抱かれる厳選3宿","item":"https://croud-travel.pages.dev/furano-biei-solo-retreat-nature-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

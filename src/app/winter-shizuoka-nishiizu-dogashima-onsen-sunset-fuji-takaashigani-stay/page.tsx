@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '西伊豆堂ヶ島温泉で過ごす冬の旅（11・12月）！伊勢海老！名宿5選',
     description: '11月から12月にかけて、西伊豆・堂ヶ島温泉は空気が澄み渡り、駿河湾の彼方に白雪を戴く雄大な富士山と。',
-    url: 'https://croud-travel.pages.dev/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterShizuokaDogashimaPage() {
         'headline': "【11・12月静岡・西伊豆堂ヶ島温泉の夕陽百選＆駿河湾越しの雪化粧富士】名物戸田高足ガニ＆伊勢海老・地金目鯛会席を堪能する絶景オーシャンビュー名宿5選",
         'description': "11月から12月にかけて、西伊豆・堂ヶ島温泉は空気が澄み渡り、駿河湾の彼方に白雪を戴く雄大な富士山と、日本屈指の美しさを誇る「夕陽百選」の黄金色の落日が重なる奇跡のベストシーズンを迎えます。奇岩が織りなす「伊豆の松島」堂ヶ島天窓洞や三四郎島の絶景、海辺に湧く肌触りなめらかな硫酸塩温泉。そして初冬に旬の最盛期を迎える駿河湾深海の名物「戸田の高足ガニ（タカアシガニ）」や伊勢海老、脂の乗った地金目鯛の姿煮を味わう絶景オーシャンビュー名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterShizuokaDogashimaPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-teal-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">静岡・西伊豆堂ヶ島温泉</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterShizuokaDogashimaPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月西伊豆堂ヶ島温泉】伊勢海老！名宿5選","item":"https://croud-travel.pages.dev/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月西伊豆堂ヶ島温泉】伊勢海老！名宿5選","item":"https://croud-travel.pages.dev/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -623,7 +623,7 @@ export default function WinterShizuokaDogashimaPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay"
+              href="/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">東伊豆・熱川</span>
@@ -636,7 +636,7 @@ export default function WinterShizuokaDogashimaPage() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay"
+              href="/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">南伊豆・下田</span>
@@ -649,7 +649,7 @@ export default function WinterShizuokaDogashimaPage() {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay"
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">神奈川・箱根</span>

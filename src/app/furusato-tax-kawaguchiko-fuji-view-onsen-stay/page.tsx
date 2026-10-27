@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '富士河口湖温泉をふるさと納税でお得に旅する！富士山一望露天風呂＆逆さ富士ステイ！絶景客室で癒やされる宿特集｜秀峰閣湖月・若草の宿丸栄・富士レークホテル',
     description: '世界遺産・霊峰富士と湖が織りなす絶景温泉地・山梨県富士河口湖温泉を楽天ふるさと納税でお得に旅する！全室富士山＆河口湖ビューを誇る「秀峰閣 湖月」、最上階展望風呂と本格会席の名宿「若草の宿 丸栄」、創業昭和七年・バリアフリーと歴史の「富士レークホテル」を徹底比較。富士河口湖町トラベルクーポン活用術を解説。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kawaguchiko-fuji-view-onsen-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kawaguchiko-fuji-view-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T16:25:00+09:00',
     dateModified: '2026-10-19T16:25:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kawaguchiko-fuji-view-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kawaguchiko-fuji-view-onsen-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【富士河口湖温泉×ふるさと納税】富士山一望露天風呂＆逆さ富士ステイ！絶景客室で癒やされる宿特集｜秀峰閣湖月・若草の宿丸栄・富士レークホテル","item":"https://croud-travel.pages.dev/furusato-tax-kawaguchiko-fuji-view-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【富士河口湖温泉×ふるさと納税】富士山一望露天風呂＆逆さ富士ステイ！絶景客室で癒やされる宿特集｜秀峰閣湖月・若草の宿丸栄・富士レークホテル","item":"https://croud-travel.pages.dev/furusato-tax-kawaguchiko-fuji-view-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【富士河口湖温泉×ふるさと納税】富士山一望露天風呂＆逆さ富士ステイ！絶景客室で癒やされる宿特集｜秀峰閣湖月・若草の宿丸栄・富士レークホテル</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-beginners-complete-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-beginners-complete-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 超初心者向け ふるさと納税で旅行に安く泊まるマニュアル
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-hakone-sengokuhara-pampas-luxury-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-hakone-sengokuhara-pampas-luxury-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 箱根仙石原温泉 すすき草原＆美肌にごり湯特集
               </Link>
             </li>

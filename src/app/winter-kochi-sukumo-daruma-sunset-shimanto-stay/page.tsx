@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月高知：冬が旬の「宿毛寒ブリ！名宿5選',
     description: '冬の澄み切った大気と水平線が織りなす奇跡の光景を巡る11〜1月の高知西南・宿毛＆四万十特集。冬の宿毛湾を真っ赤に染め上げる蜃気楼の絶景「だる。',
-    url: 'https://croud-travel.pages.dev/winter-kochi-sukumo-daruma-sunset-shimanto-stay',
+    url: 'https://croud-travel.pages.dev/winter-kochi-sukumo-daruma-sunset-shimanto-stay/',
     type: 'article',
     images: [
       {
@@ -61,7 +61,7 @@ export default function KochiSukumoShimantoWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-kochi-sukumo-daruma-sunset-shimanto-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kochi-sukumo-daruma-sunset-shimanto-stay/"
         }
       },
       {
@@ -77,13 +77,13 @@ export default function KochiSukumoShimantoWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "高知・宿毛だるま夕日＆四万十川・寒ブリ名宿",
-            "item": "https://croud-travel.pages.dev/winter-kochi-sukumo-daruma-sunset-shimanto-stay"
+            "item": "https://croud-travel.pages.dev/winter-kochi-sukumo-daruma-sunset-shimanto-stay/"
           }
         ]
       },
@@ -270,7 +270,7 @@ export default function KochiSukumoShimantoWinterPage() {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-600 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-blue-600">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/features" className="hover:text-blue-600">特集一覧</Link>
+            <Link href="/features/" className="hover:text-blue-600">特集一覧</Link>
             <span>&gt;</span>
             <span className="text-slate-900 font-semibold">高知・宿毛だるま夕日＆四万十川・寒ブリ名宿</span>
           </div>
@@ -580,7 +580,7 @@ export default function KochiSukumoShimantoWinterPage() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               <Link
-                href="/winter-kochi-ashizuri-onsen-ocean-starry-katsuo-tosa-beef-stay"
+                href="/winter-kochi-ashizuri-onsen-ocean-starry-katsuo-tosa-beef-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-amber-400 text-xs font-bold block mb-1">高知特集</span>
@@ -588,7 +588,7 @@ export default function KochiSukumoShimantoWinterPage() {
                 <span className="text-xs text-slate-300">四国最南端の雄大な絶景と冬の星空温泉…</span>
               </Link>
               <Link
-                href="/winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay"
+                href="/winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-cyan-400 text-xs font-bold block mb-1">徳島特集</span>
@@ -596,7 +596,7 @@ export default function KochiSukumoShimantoWinterPage() {
                 <span className="text-xs text-slate-300">南阿波の冬の太平洋水平線と厄除け初詣…</span>
               </Link>
               <Link
-                href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay"
+                href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-emerald-400 text-xs font-bold block mb-1">愛媛特集</span>
@@ -604,7 +604,7 @@ export default function KochiSukumoShimantoWinterPage() {
                 <span className="text-xs text-slate-300">本館リニューアル完了の道後温泉と愛媛の美食…</span>
               </Link>
               <Link
-                href="/winter-kagawa-zentsuji-marugame-castle-udon-stay"
+                href="/winter-kagawa-zentsuji-marugame-castle-udon-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-rose-400 text-xs font-bold block mb-1">香川特集</span>
@@ -612,7 +612,7 @@ export default function KochiSukumoShimantoWinterPage() {
                 <span className="text-xs text-slate-300">讃岐冬の名物うどんと歴史ある名刹巡り…</span>
               </Link>
               <Link
-                href="/features"
+                href="/features/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-purple-400 text-xs font-bold block mb-1">特集一覧</span>

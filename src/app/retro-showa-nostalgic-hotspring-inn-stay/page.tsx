@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：昭和ノスタルジーと古き良き湯治文化！レトロタイル風呂と木造建築の秘湯宿5選',
     description: '2026年最新！渋温泉・四万温泉・鉛温泉など、大正・昭和の面影を色濃く残す木造建築、色鮮やかなモザイクタイル風呂、心温まる手作り郷土料理の宿5選。',
-    url: 'https://croud-travel.pages.dev/retro-showa-nostalgic-hotspring-inn-stay',
+    url: 'https://croud-travel.pages.dev/retro-showa-nostalgic-hotspring-inn-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/retro-showa-nostalgic-hotspring-inn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/retro-showa-nostalgic-hotspring-inn-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">昭和レトロ×ノスタルジック秘湯</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             カランコロンと響く下駄の音、趣ある木造の階段、ステンドグラスや美しいモザイクタイルの湯船。まるでタイムスリップしたかのような昭和レトロな温泉街と湯治宿。どこか懐かしく温かいおもてなしと、昔ながらの濃厚な源泉掛け流しに心解き放たれる旅へ。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】昭和ノスタルジーと古き良き湯治文化！レトロタイル風呂と木造建築の秘湯宿5選" url="https://croud-travel.pages.dev/retro-showa-nostalgic-hotspring-inn-stay" />
+            <ShareButtons title="【2026年】昭和ノスタルジーと古き良き湯治文化！レトロタイル風呂と木造建築の秘湯宿5選" url="https://croud-travel.pages.dev/retro-showa-nostalgic-hotspring-inn-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】昭和ノスタルジーと古き良き湯治文化！レトロタイル風呂と木造建築の秘湯宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/retro-showa-nostalgic-hotspring-inn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】昭和ノスタルジーと古き良き湯治文化！レトロタイル風呂と木造建築の秘湯宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/retro-showa-nostalgic-hotspring-inn-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '日本三大味噌の郷＆百花繚乱の郷土発酵美・老舗蔵と郷土鍋の名湯宿×ふるさと納税厳選ガイド信州味噌・八丁味噌・仙台味噌',
     description: '日本の食文化の根幹を支える日本三大味噌の郷巡り！長野「信州味噌」全国シェア4割を誇る澄んだ名水米麹と上諏訪温泉ホテル紅や、愛知岡崎「八丁味噌」大豆と塩のみで二夏二冬熟成させる赤出汁とホテルトレンド岡崎駅前、宮城仙台「仙台味噌」伊達政宗ゆかりの辛口赤味噌と作並温泉ゆづくしSalon一の坊。三大味噌の奥深い風味と郷土会席を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-miso-capitals-gastronomy-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-miso-capitals-gastronomy-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -380,7 +380,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-shoyu-capitals-brewery-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-shoyu-capitals-brewery-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大醤油の醸造地＆木桶仕込みの芳香名宿×ふるさと納税完全ガイド
               </div>
@@ -389,7 +389,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-sake-capitals-brewery-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-sake-capitals-brewery-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大酒処＆銘醸酒蔵・美酒ペアリング宿×ふるさと納税完全ガイド
               </div>
@@ -398,7 +398,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-local-gourmet-inn-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-local-gourmet-inn-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 ご当地グルメ宿を堪能する美食旅特集×ふるさと納税完全ガイド
               </div>

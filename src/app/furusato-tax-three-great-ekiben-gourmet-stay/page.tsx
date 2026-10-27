@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '日本三大駅弁＆鉄道旅情・元祖の味と極上ブランド牛・名湯宿×ふるさと納税厳選ガイド峠の釜めし・いかめし・松阪牛弁当',
     description: '旅の情緒と地域の美味が詰まった日本三大駅弁の聖地巡り！群馬安中「峠の釜めし」益子焼の器に山の幸とおもてなし磯部温泉ホテル磯部ガーデン、北海道森町「元祖森名物いかめし」秘伝タレ炊き込みとラ・ジェント・ステイ函館駅前、三重松阪「松阪牛駅弁・モー太郎弁当」極上黒毛和牛の贅とホテルAU松阪。日本三大駅弁の旅情と美食を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-ekiben-gourmet-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-ekiben-gourmet-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -380,7 +380,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-ramen-capitals-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-ramen-capitals-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大ラーメン＆名湯・屋台街めぐり美食宿×ふるさと納税完全ガイド
               </div>
@@ -389,7 +389,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-train-window-views-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-train-window-views-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大車窓＆天空パノラマ・絶景温泉宿×ふるさと納税完全ガイド
               </div>
@@ -398,7 +398,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-scenic-train-trolley-onsen-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-scenic-train-trolley-onsen-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 絶景観光列車×途中下車の名湯温泉旅館ガイド
               </div>

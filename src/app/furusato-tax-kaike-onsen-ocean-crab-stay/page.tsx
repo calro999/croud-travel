@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '皆生温泉をふるさと納税でお得に旅する！日本海の絶景オーシャンビュー＆境港直送松葉ガニ！米子名門宿ガイド｜皆生つるや・華水亭・白扇',
     description: '日本海と白砂青松の弓ヶ浜を望む山陰屈指の美肌リゾート・鳥取県皆生温泉を楽天ふるさと納税でお得に満喫！数寄屋造りの名門老舗「皆生つるや」、全室海一望のパノラマ露天風呂「華水亭」、全室展望ジャグジー付き「湯喜望 白扇」を徹底比較。松葉ガニや鳥取和牛会席、米子市トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kaike-onsen-ocean-crab-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kaike-onsen-ocean-crab-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T16:48:00+09:00',
     dateModified: '2026-10-19T16:48:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kaike-onsen-ocean-crab-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kaike-onsen-ocean-crab-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【皆生温泉×ふるさと納税】日本海の絶景オーシャンビュー＆境港直送松葉ガニ！米子名門宿ガイド｜皆生つるや・華水亭・白扇","item":"https://croud-travel.pages.dev/furusato-tax-kaike-onsen-ocean-crab-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【皆生温泉×ふるさと納税】日本海の絶景オーシャンビュー＆境港直送松葉ガニ！米子名門宿ガイド｜皆生つるや・華水亭・白扇","item":"https://croud-travel.pages.dev/furusato-tax-kaike-onsen-ocean-crab-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【皆生温泉×ふるさと納税】日本海の絶景オーシャンビュー＆境港直送松葉ガニ！米子名門宿ガイド｜皆生つるや・華水亭・白扇</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-kusatsu-onsen-yubatake-heritage-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-kusatsu-onsen-yubatake-heritage-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 草津温泉 湯畑徒歩圏内の老舗名宿特集
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-arima-onsen-gold-silver-kobe-beef-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-arima-onsen-gold-silver-kobe-beef-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 有馬温泉 金泉・銀泉＆極上神戸牛ステイ特集
               </Link>
             </li>

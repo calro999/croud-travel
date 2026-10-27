@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '登別温泉で過ごす冬の旅（11・12月）！圧倒的湯量と9つの泉質！名宿5選',
     description: '11月下旬の初雪から12月の白銀世界へと移ろう北海道・登別温泉。荒涼とした岩肌からもうもうと白煙を上げる雪化粧の地獄谷。',
-    url: 'https://croud-travel.pages.dev/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function NoboribetsuWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function NoboribetsuWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月登別温泉】圧倒的湯量と9つの泉質！名宿5選","item":"https://croud-travel.pages.dev/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月登別温泉】圧倒的湯量と9つの泉質！名宿5選","item":"https://croud-travel.pages.dev/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/"}]}) }}
       />
         
         {/* Intro */}
@@ -631,7 +631,7 @@ export default function NoboribetsuWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay"
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-cyan-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-cyan-800 uppercase block mb-1">東北の雪見名湯</span>
@@ -641,7 +641,7 @@ export default function NoboribetsuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay"
+              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-cyan-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-cyan-800 uppercase block mb-1">秘湯の雪見露天</span>
@@ -651,7 +651,7 @@ export default function NoboribetsuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay"
+              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-cyan-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-cyan-800 uppercase block mb-1">北関東の雪見秘湯</span>
@@ -661,7 +661,7 @@ export default function NoboribetsuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-crab-gourmet-luxury-inn-ranking"
+              href="/winter-crab-gourmet-luxury-inn-ranking/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-cyan-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-cyan-800 uppercase block mb-1">冬の味覚の王様</span>
@@ -671,7 +671,7 @@ export default function NoboribetsuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
+              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-cyan-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-cyan-800 uppercase block mb-1">信州の白銀名湯</span>
@@ -681,7 +681,7 @@ export default function NoboribetsuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay"
+              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-cyan-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-cyan-800 uppercase block mb-1">会津の初雪名湯</span>

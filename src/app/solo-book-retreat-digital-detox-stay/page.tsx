@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '読書・デジタルデトックス泊：本の世界に没頭するライブラリーホテル＆文豪ゆかりの名湯おこもり宿 厳選3選',
     description: 'スマートフォンを置いて、物語や思索の旅へ出かけよう。何千冊もの蔵書に囲まれる「芝パークホテル」、夏目漱石や島崎藤村が逗留した文化財の宿「湯河原温泉 源泉 上野屋」、志賀直哉が名作『城の崎にて』を執筆した日本旅館の最高峰「城崎温泉 西村屋本館」を徹底特集。心静かに活字と温泉に浸る大人のソロリトリート。',
-    url: 'https://croud-travel.pages.dev/solo-book-retreat-digital-detox-stay',
+    url: 'https://croud-travel.pages.dev/solo-book-retreat-digital-detox-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T02:20:00+09:00',
     dateModified: '2026-10-19T02:20:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/solo-book-retreat-digital-detox-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/solo-book-retreat-digital-detox-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【読書・デジタルデトックス泊】本の世界に没頭するライブラリーホテル＆文豪ゆかりの名湯おこもり宿 厳選3選","item":"https://croud-travel.pages.dev/solo-book-retreat-digital-detox-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【読書・デジタルデトックス泊】本の世界に没頭するライブラリーホテル＆文豪ゆかりの名湯おこもり宿 厳選3選","item":"https://croud-travel.pages.dev/solo-book-retreat-digital-detox-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -240,7 +240,7 @@ export default function ArticlePage() {
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-stone-100">
                 <div className="text-xs text-stone-500 space-y-0.5 text-center sm:text-left">
                   <p>📍 神奈川県足柄下郡湯河原町宮上616</p>
-                  <p>🚆 JR東海道本線　湯河原駅より②番のバスにて温泉場中央下車すぐ　//東名厚木ＩＣより小田原厚木道路・１３５号経由６０分</p>
+                  <p>🚆 JR東海道本線　湯河原駅より②番のバスにて温泉場中央下車すぐ　/東名厚木ＩＣより小田原厚木道路・１３５号経由６０分</p>
                 </div>
                 <div className="flex items-center gap-3 w-full sm:w-auto">
                   <a
@@ -430,7 +430,7 @@ export default function ArticlePage() {
                 <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">14:00〜</strong> 湯河原駅よりアクセス。JR東海道本線 湯河原駅より②番のバスにて温泉場中央下車すぐ //東名厚木ＩＣより小田原厚木道路・１３５号経由６０分。</li>
+                <li>・<strong className="text-stone-800">14:00〜</strong> 湯河原駅よりアクセス。JR東海道本線 湯河原駅より②番のバスにて温泉場中央下車すぐ /東名厚木ＩＣより小田原厚木道路・１３５号経由６０分。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「湯河原温泉 源泉 上野屋」にチェックイン。水戸光圀公も立ち寄られた名湯の宿。貸切露天風呂と足湯が好評！ 自家源泉かけ流しのお湯が自慢！などの宿の特徴に期待を高めつつ客室へ。</li>
                 <li>・<strong className="text-stone-800">17:00〜</strong> 「湯河原温泉 源泉 上野屋」の湯処へ。水戸光圀公も立ち寄られた名湯の宿。貸切露天風呂と足湯が好評！ 自家源泉とともに、夕暮れの特別な寛ぎを満喫。</li>
                 <li>・<strong className="text-stone-800">19:00〜</strong> 「湯河原温泉 源泉 上野屋」でいただく旬の夕食。地場産の味覚を取り入れたおもてなし料理を五感でじっくり味わう贅沢なひととき。</li>

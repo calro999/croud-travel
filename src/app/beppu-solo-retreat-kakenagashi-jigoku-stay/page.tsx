@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '別府温泉ひとり旅・湯治おこもり：別府湾パノラマ・源泉掛け流し客室露天・名物地獄蒸し！湧出量日本一の温泉都で癒やされる名宿 厳選3選',
     description: '日本一の湧出量と泉種を誇るおんせん県おおいたの象徴・別府！「別府湾を一望する大展望露天風呂・棚湯と圧巻のエンタメ温泉リゾート」の「杉乃井ホテル」、全室客室露天風呂付きで海と一体化する波打ち際の最高峰「AMANE RESORT SEIKAI（潮騒の宿 晴海）」、庭園露天風呂と関アジ関サバ会席が自慢の老舗「ホテル白菊」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/beppu-solo-retreat-kakenagashi-jigoku-stay',
+    url: 'https://croud-travel.pages.dev/beppu-solo-retreat-kakenagashi-jigoku-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T03:30:00+09:00',
     dateModified: '2026-10-19T03:30:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/beppu-solo-retreat-kakenagashi-jigoku-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/beppu-solo-retreat-kakenagashi-jigoku-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【別府温泉ひとり旅・湯治おこもり】別府湾パノラマ・源泉掛け流し客室露天・名物地獄蒸し！湧出量日本一の温泉都で癒やされる名宿 厳選3選","item":"https://croud-travel.pages.dev/beppu-solo-retreat-kakenagashi-jigoku-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【別府温泉ひとり旅・湯治おこもり】別府湾パノラマ・源泉掛け流し客室露天・名物地獄蒸し！湧出量日本一の温泉都で癒やされる名宿 厳選3選","item":"https://croud-travel.pages.dev/beppu-solo-retreat-kakenagashi-jigoku-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '宇都宮出張・天然温泉サウナ：新幹線東口・名湯大浴場・元祖宇都宮餃子食べ歩き！北関東ビジネスハブを制する厳選3宿',
     description: '東北新幹線で東京から約50分・LRT開業で注目の宇都宮！駅東口徒歩約3分で広々客室と高セキュリティの「ダイワロイネットホテル宇都宮」、繁華街オリオン通り至近で天然温泉大浴殿＆サウナを備える「ホテルアーバングレイス宇都宮」、LRT沿線で新感覚スパホテルの「たびのホテル宇都宮ゆいの杜」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/utsunomiya-station-solo-business-onsen-sauna-stay',
+    url: 'https://croud-travel.pages.dev/utsunomiya-station-solo-business-onsen-sauna-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/utsunomiya-station-solo-business-onsen-sauna-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/utsunomiya-station-solo-business-onsen-sauna-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【宇都宮出張・天然温泉サウナ】新幹線東口・名湯大浴場・元祖宇都宮餃子食べ歩き！北関東ビジネスハブを制する厳選3宿","item":"https://croud-travel.pages.dev/utsunomiya-station-solo-business-onsen-sauna-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【宇都宮出張・天然温泉サウナ】新幹線東口・名湯大浴場・元祖宇都宮餃子食べ歩き！北関東ビジネスハブを制する厳選3宿","item":"https://croud-travel.pages.dev/utsunomiya-station-solo-business-onsen-sauna-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

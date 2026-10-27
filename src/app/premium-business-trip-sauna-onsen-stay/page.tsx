@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'ワンランク上の出張泊：天然温泉・本格サウナ・絶景ビュー完備！仕事の疲れを極限まで癒やすプレミアムビジネスホテル 厳選3選',
     description: '「出張先のホテルはただ寝るだけではもったいない」「翌日の商談やプレゼンに向けて最高のコンディションを整えたい」。そんなビジネスパーソンへ。地上36階の天空露天風呂を誇る「三井ガーデンホテル豊洲プレミア」、銀座のど真ん中で天然温泉と黒湯サウナを満喫する「ドーミーインPREMIUM銀座」、奥湯河原直送の美肌湯が注ぐ「スーパーホテルPremier銀座」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/premium-business-trip-sauna-onsen-stay',
+    url: 'https://croud-travel.pages.dev/premium-business-trip-sauna-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T02:20:00+09:00',
     dateModified: '2026-10-19T02:20:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/premium-business-trip-sauna-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/premium-business-trip-sauna-onsen-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【ワンランク上の出張泊】天然温泉・本格サウナ・絶景ビュー完備！仕事の疲れを極限まで癒やすプレミアムビジネスホテル 厳選3選","item":"https://croud-travel.pages.dev/premium-business-trip-sauna-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【ワンランク上の出張泊】天然温泉・本格サウナ・絶景ビュー完備！仕事の疲れを極限まで癒やすプレミアムビジネスホテル 厳選3選","item":"https://croud-travel.pages.dev/premium-business-trip-sauna-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月福岡：冬の糸島カキ小屋めぐりと玄界！名宿5選',
     description: '11月から1月、福岡は玄界灘の冬の恵みが一斉に旬を迎える全国屈指の美食パラダイスとなります。福岡市民や全国の旅行者が心待ちにする冬の看板風物詩が。',
-    url: 'https://croud-travel.pages.dev/winter-fukuoka-itoshima-oyster-hakata-fugu-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukuoka-itoshima-oyster-hakata-fugu-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function FukuokaItoshimaHakataWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-fukuoka-itoshima-oyster-hakata-fugu-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-fukuoka-itoshima-oyster-hakata-fugu-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function FukuokaItoshimaHakataWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '糸島カキ小屋と玄界灘とらふぐ・博多冬美食名宿',
-        item: 'https://croud-travel.pages.dev/winter-fukuoka-itoshima-oyster-hakata-fugu-stay'
+        item: 'https://croud-travel.pages.dev/winter-fukuoka-itoshima-oyster-hakata-fugu-stay/'
       }
     ]
   };
@@ -625,21 +625,21 @@ export default function FukuokaItoshimaHakataWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay" 
+              href="/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">佐賀・唐津＆呼子</span>
               <p className="font-bold text-stone-800 line-clamp-2">呼子イカ活き造りと玄界灘の冬魚・佐賀牛を堪能する海沿い温泉宿</p>
             </Link>
             <Link 
-              href="/winter-shimonoseki-fugu-torafugu-luxury-stay" 
+              href="/winter-shimonoseki-fugu-torafugu-luxury-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">山口・下関</span>
               <p className="font-bold text-stone-800 line-clamp-2">本場下関の天然とらふぐフルコースと関門海峡の冬夜景を望む極上宿</p>
             </Link>
             <Link 
-              href="/winter-nagasaki-huistenbosch-christmas-lights-stay" 
+              href="/winter-nagasaki-huistenbosch-christmas-lights-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">長崎・ハウステンボス</span>

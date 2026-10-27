@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '宇宙の神秘と満天の天の川！天体望遠鏡＆星空デッキ完備の星空リゾートホテル',
     description: '阿智村・八ヶ岳・鳥取大山・石垣島など日本屈指の満天の星空を誇る絶景宿。本格天体望遠鏡によるスターウォッチングや星空露天風呂で神秘の夜を体験。',
-    url: 'https://croud-travel.pages.dev/dark-sky-starry-observatory-resort-stay',
+    url: 'https://croud-travel.pages.dev/dark-sky-starry-observatory-resort-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/dark-sky-starry-observatory-resort-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/dark-sky-starry-observatory-resort-stay/"
   };
 
   const faqSchema = {
@@ -151,7 +151,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"宇宙の神秘と満天の天の川！天体望遠鏡＆星空デッキ完備の星空リゾートホテル ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/dark-sky-starry-observatory-resort-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"宇宙の神秘と満天の天の川！天体望遠鏡＆星空デッキ完備の星空リゾートホテル ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/dark-sky-starry-observatory-resort-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -166,7 +166,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">星空保護区・天体観測リゾート</span>
       </nav>
@@ -281,7 +281,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="宇宙の神秘と満天の天の川！天体望遠鏡＆星空デッキ完備の星空リゾートホテル"
-            url="https://croud-travel.pages.dev/dark-sky-starry-observatory-resort-stay"
+            url="https://croud-travel.pages.dev/dark-sky-starry-observatory-resort-stay/"
           />
         </div>
 

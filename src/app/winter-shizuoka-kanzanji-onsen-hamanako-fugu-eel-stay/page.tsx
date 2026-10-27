@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '浜名湖 舘山寺温泉で過ごす冬の旅（11・12月）！名物冬うなぎ！名宿5選',
     description: '11月から12月にかけて、静岡県西部に広がる浜名湖畔の舘山寺（かんざんじ）温泉は、遠州灘の冬の至宝「天然とらふぐ」が水揚げの最盛期を迎え。',
-    url: 'https://croud-travel.pages.dev/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function ShizuokaKanzanjiWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay/"
         },
         "headline": "【11・12月静岡・浜名湖 舘山寺温泉の初冬レイクビューと遠州灘天然とらふぐ】名物冬うなぎ＆湖畔パノラマ展望露天風呂の宿5選",
         "description": "11月から12月にかけて、静岡県西部に広がる浜名湖畔の舘山寺（かんざんじ）温泉は、遠州灘の冬の至宝「天然とらふぐ」が水揚げの最盛期を迎え、脂が乗った名物「浜名湖うなぎ」とともに年間で最も贅沢な美食シーズンに突入します。初冬の澄み渡る青空のもと、湖面越しに遠く冠雪した富士山を望む絶景露天風呂や、舘山寺ロープウェイから眺める夕暮れのパノラマは圧巻。冷えた身体を芯から温める良質な塩化物温泉と、極上の冬の味覚を心ゆくまで堪能できる厳選の温泉宿・リゾートホテル5選を詳しく解説します。",
@@ -100,13 +100,13 @@ export default function ShizuokaKanzanjiWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "静岡・浜名湖 舘山寺温泉 とらふぐ＆冬うなぎ露天風呂の宿",
-            "item": "https://croud-travel.pages.dev/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay"
+            "item": "https://croud-travel.pages.dev/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay/"
           }
         ]
       },
@@ -585,7 +585,7 @@ export default function ShizuokaKanzanjiWinterFeature() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-2">
             <Link 
-              href="/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay"
+              href="/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-rose-500/40 text-rose-200 font-bold text-[10px]">東伊豆・金目鯛</span>
@@ -594,7 +594,7 @@ export default function ShizuokaKanzanjiWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-fugu-pufferfish-gourmet-onsen-stay"
+              href="/winter-fugu-pufferfish-gourmet-onsen-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">全国ふぐ名宿</span>
@@ -603,7 +603,7 @@ export default function ShizuokaKanzanjiWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay"
+              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-sky-500/40 text-sky-200 font-bold text-[10px]">熱海・冬花火</span>
@@ -612,7 +612,7 @@ export default function ShizuokaKanzanjiWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay"
+              href="/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">焼津・南まぐろ</span>

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'パチパチ爆ぜる炭火の温もり！囲炉裏料理と清流川魚・ジビエを味わう里山名湯宿',
     description: '奥飛騨・白川郷・秩父など古き良き日本の風情が残る囲炉裏のある名旅館。炭火でじっくり焼く岩魚や鮎、朴葉味噌、飛騨牛ステーキを堪能する休日。',
-    url: 'https://croud-travel.pages.dev/traditional-irori-charcoal-hearth-satoyama-stay',
+    url: 'https://croud-travel.pages.dev/traditional-irori-charcoal-hearth-satoyama-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-irori-charcoal-hearth-satoyama-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-irori-charcoal-hearth-satoyama-stay/"
   };
 
   const faqSchema = {
@@ -151,7 +151,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"パチパチ爆ぜる炭火の温もり！囲炉裏料理と清流川魚・ジビエを味わう里山名湯宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/traditional-irori-charcoal-hearth-satoyama-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"パチパチ爆ぜる炭火の温もり！囲炉裏料理と清流川魚・ジビエを味わう里山名湯宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/traditional-irori-charcoal-hearth-satoyama-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -166,7 +166,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">囲炉裏料理＆里山名湯古民家宿</span>
       </nav>
@@ -281,7 +281,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="パチパチ爆ぜる炭火の温もり！囲炉裏料理と清流川魚・ジビエを味わう里山名湯宿"
-            url="https://croud-travel.pages.dev/traditional-irori-charcoal-hearth-satoyama-stay"
+            url="https://croud-travel.pages.dev/traditional-irori-charcoal-hearth-satoyama-stay/"
           />
         </div>
 

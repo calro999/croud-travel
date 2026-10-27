@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月鳥取：白銀に染まる「鳥取砂丘」雪景！名宿5選',
     description: '山陰の冬が魅せる奇跡の絶景・鳥取砂丘と神話の里の11〜1月冬紀行。冬の寒波がもたらす白銀の雪砂丘と風が描く風紋のアート。',
-    url: 'https://croud-travel.pages.dev/winter-tottori-sakyu-snow-hakuto-shrine-hatsumode-matsubagani-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-tottori-sakyu-snow-hakuto-shrine-hatsumode-matsubagani-onsen-stay/',
     type: 'article',
     images: [
       {
@@ -60,7 +60,7 @@ export default function TottoriSakyuWinterPage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-tottori-sakyu-snow-hakuto-shrine-hatsumode-matsubagani-onsen-stay"
+      "@id": "https://croud-travel.pages.dev/winter-tottori-sakyu-snow-hakuto-shrine-hatsumode-matsubagani-onsen-stay/"
     }
   };
 
@@ -78,13 +78,13 @@ export default function TottoriSakyuWinterPage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "鳥取・鳥取砂丘＆白兎海岸 冬特集",
-        "item": "https://croud-travel.pages.dev/winter-tottori-sakyu-snow-hakuto-shrine-hatsumode-matsubagani-onsen-stay"
+        "item": "https://croud-travel.pages.dev/winter-tottori-sakyu-snow-hakuto-shrine-hatsumode-matsubagani-onsen-stay/"
       }
     ]
   };
@@ -596,7 +596,7 @@ export default function TottoriSakyuWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm">
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-blue-400 hover:bg-blue-50/30 transition block space-y-1"
             >
               <span className="font-bold text-blue-950 block">【鳥取】世界屈指のラジウム三朝温泉と松葉ガニ名宿</span>
@@ -604,7 +604,7 @@ export default function TottoriSakyuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tottori-kaike-onsen-matsuba-crab-stay"
+              href="/winter-tottori-kaike-onsen-matsuba-crab-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-blue-400 hover:bg-blue-50/30 transition block space-y-1"
             >
               <span className="font-bold text-blue-950 block">【鳥取】米子皆生温泉と大山雪景色・境港松葉ガニ名宿</span>
@@ -612,7 +612,7 @@ export default function TottoriSakyuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay"
+              href="/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-blue-400 hover:bg-blue-50/30 transition block space-y-1"
             >
               <span className="font-bold text-blue-950 block">【島根】出雲大社新春初詣と玉造温泉・しまね和牛名宿</span>
@@ -620,7 +620,7 @@ export default function TottoriSakyuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-blue-400 hover:bg-blue-50/30 transition block space-y-1"
             >
               <span className="font-bold text-blue-950 block">【兵庫】城崎温泉七田外湯めぐりと津居山がに名宿</span>
@@ -639,7 +639,7 @@ export default function TottoriSakyuWinterPage() {
           </p>
           <div className="pt-2 flex flex-wrap justify-center gap-3">
             <Link 
-              href="/features" 
+              href="/features/" 
               className="px-6 py-3 bg-white text-slate-900 hover:bg-slate-100 font-black text-xs md:text-sm rounded-xl shadow transition"
             >
               特集記事一覧を見る

@@ -82,7 +82,7 @@ export default function OsakaTravelBudgetPage() {
         <p>
           まいど！大阪旅行の計画を立てる時、一番気になるのが<strong>「お金」</strong>のこと。
           たこ焼き、串カツ、お好み焼き…美味しいものだらけの大阪だからこそ、食費の計算も欠かせません。
-          東京などから向かう場合の<Link href="/tokyo-osaka-bus-vs-shinkansen-guide" className="text-emerald-600 font-bold underline">交通費</Link>も含め、ガチで計算してみました。
+          東京などから向かう場合の<Link href="/tokyo-osaka-bus-vs-shinkansen-guide/" className="text-emerald-600 font-bold underline">交通費</Link>も含め、ガチで計算してみました。
         </p>
       </div>
 
@@ -527,7 +527,7 @@ export default function OsakaTravelBudgetPage() {
       <section className="bg-emerald-50 rounded-2xl p-6 border border-emerald-100 text-center">
         <h3 className="text-emerald-900 font-bold mb-4">🚕 交通費を抑えたい方はこちらもチェック</h3>
         <Link 
-          href="/tokyo-osaka-bus-vs-shinkansen-guide"
+          href="/tokyo-osaka-bus-vs-shinkansen-guide/"
           className="inline-block bg-white text-emerald-700 font-bold px-6 py-3 rounded-full border border-emerald-200 shadow-sm hover:shadow hover:bg-emerald-50 transition"
         >
           東京〜大阪間の夜行バス vs 新幹線 徹底比較ガイドを見る

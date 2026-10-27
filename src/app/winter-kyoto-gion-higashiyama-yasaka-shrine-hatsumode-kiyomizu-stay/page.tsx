@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月京都：八坂神社新春初詣！名宿5選',
     description: '冬の京都・東山は、観光の喧騒が落ち着き古都本来の静寂と雅な旅情が広がる特別な季節。大晦日の「をけら詣り」から新春の活気に包まれる八坂神社。',
-    url: 'https://croud-travel.pages.dev/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay',
+    url: 'https://croud-travel.pages.dev/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -165,7 +165,7 @@ export default function KyotoGionHigashiyamaWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay/"
         },
         "headline": "【11・12・1月京都】八坂神社新春初詣＆雪の清水寺！冬の祇園白川の風情と老舗湯豆腐・京懐石の雅宿5選",
         "description": "冬の京都・東山は、観光の喧騒が落ち着き古都本来の静寂と雅な旅情が広がる特別な季節。大晦日の「をけら詣り」から新春の活気に包まれる八坂神社、雪化粧をまとう清水寺の舞台、格子戸が連なる祇園白川の石畳。冷えた体を芯から温める老舗の熱々湯豆腐や白味噌雑煮、繊細な冬の京懐石まで。楽天APIから最新取得したホテル ザ セレスティン京都祇園、ウェスティン都ホテル京都など厳選雅宿5選を徹底特集します。",
@@ -191,13 +191,13 @@ export default function KyotoGionHigashiyamaWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "京都・祇園東山 冬特集",
-            "item": "https://croud-travel.pages.dev/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay"
+            "item": "https://croud-travel.pages.dev/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay/"
           }
         ]
       },
@@ -603,28 +603,28 @@ export default function KyotoGionHigashiyamaWinterPage() {
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
             <Link 
-              href="/winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay" 
+              href="/winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>伏見稲荷大社初詣＆宇治抹茶！冬の伏見酒蔵と京名宿</span>
               <span className="text-purple-300">→</span>
             </Link>
             <Link 
-              href="/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay" 
+              href="/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>春日大社初詣＆東大寺大仏殿冬景色！大和牛すき焼き名宿</span>
               <span className="text-purple-300">→</span>
             </Link>
             <Link 
-              href="/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay" 
+              href="/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>生田神社初詣＆神戸ルミナリエ！メリケンパーク冬夜景名宿</span>
               <span className="text-purple-300">→</span>
             </Link>
             <Link 
-              href="/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay" 
+              href="/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>大阪城イルミナージュ＆大阪天満宮初詣！水都夜景となにわ名宿</span>

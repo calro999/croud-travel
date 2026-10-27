@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '伊豆稲取温泉で過ごす冬の旅（11・12月）！オーシャンビュー展望露天風呂！名宿5選',
     description: '11月から12月にかけて、伊豆半島東海岸の岬に広がる稲取温泉は、冬の味覚の最高峰「稲取一本釣り地金目鯛（きんめだい）」が年間で最も上質な脂を。',
-    url: 'https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function ShizuokaInatoriWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay/"
         },
         "headline": "【11・12月静岡・伊豆稲取温泉の極上地金目鯛会席と相模灘絶景】オーシャンビュー展望露天風呂＆伊豆温暖避寒の宿5選",
         "description": "11月から12月にかけて、伊豆半島東海岸の岬に広がる稲取温泉は、冬の味覚の最高峰「稲取一本釣り地金目鯛（きんめだい）」が年間で最も上質な脂を蓄える最高の旬を迎えます。黒潮の恩恵を受ける伊豆稲取は、初冬でも穏やかで温暖な気候に恵まれ、寒さを逃れて贅沢な美食と温泉を楽しみたい避寒旅行に最適。目の前に広がる相模灘の水平線から昇る神々しい朝日、伊豆大島を望むパノラマ絶景露天風呂、そして秘伝のタレでふっくら炊き上げた名物「金目鯛の姿煮」に舌鼓を打つ、厳選のおすすめ温泉旅館5選を旅行専門ライターが徹底ガイドします。",
@@ -100,13 +100,13 @@ export default function ShizuokaInatoriWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "静岡・伊豆稲取温泉 極上地金目鯛会席と相模灘絶景露天の宿",
-            "item": "https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay"
+            "item": "https://croud-travel.pages.dev/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay/"
           }
         ]
       },
@@ -592,42 +592,42 @@ export default function ShizuokaInatoriWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay"
+              href="/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">千葉・南房総温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">温暖避寒旅と旬の房州伊勢海老・太平洋パノラマ露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay"
+              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">静岡・修善寺温泉</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">伊豆の小京都・遅咲き名残の紅葉と竹林の小径・名湯和宿</h3>
             </Link>
             <Link 
-              href="/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay"
+              href="/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">静岡・焼津温泉</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">極上天然本マグロと駿河湾越しの富士山絶景・黒潮温泉の宿</h3>
             </Link>
             <Link 
-              href="/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay"
+              href="/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">茨城・北茨城温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">元祖あんこう鍋濃厚どぶ汁と太平洋絶景・温まり美肌塩化物泉の宿</h3>
             </Link>
             <Link 
-              href="/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay"
+              href="/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">神奈川・湯河原温泉</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">文豪愛した名湯と相模湾海鮮会席・初冬のみかん狩り旅</h3>
             </Link>
             <Link 
-              href="/winter-oyster-seafood-gourmet"
+              href="/winter-oyster-seafood-gourmet/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">全国冬の味覚特集</span>

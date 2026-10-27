@@ -100,7 +100,7 @@ export default function SitemapPage() {
     <div className="space-y-12 max-w-6xl mx-auto px-2 sm:px-4 py-4">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"サイトマップ（全ページ・47都道府県ガイド・特集ハブ・記事一覧） ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/sitemap"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"サイトマップ（全ページ・47都道府県ガイド・特集ハブ・記事一覧） ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/sitemap/"}]}) }}
       />
       {/* パンくずリスト */}
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
@@ -134,28 +134,28 @@ export default function SitemapPage() {
             <div className="text-[11px] text-emerald-950/60 font-medium">全国旅マガジン最新おすすめ</div>
           </Link>
           <Link
-            href="/features"
+            href="/features/"
             className="p-4 rounded-2xl bg-teal-50/50 hover:bg-teal-100/60 border border-teal-200/60 transition group space-y-1 block"
           >
             <div className="font-bold text-emerald-950 group-hover:text-teal-800 text-sm">💎 特集・まとめ一覧</div>
             <div className="text-[11px] text-emerald-950/60 font-medium">目的別厳選テーマ790+本</div>
           </Link>
           <Link
-            href="/prefectures"
+            href="/prefectures/"
             className="p-4 rounded-2xl bg-teal-50/50 hover:bg-teal-100/60 border border-teal-200/60 transition group space-y-1 block"
           >
             <div className="font-bold text-emerald-950 group-hover:text-teal-800 text-sm">🗾 47都道府県一覧</div>
             <div className="text-[11px] text-emerald-950/60 font-medium">地域別・都道府県別の観光拠点</div>
           </Link>
           <Link
-            href="/campaigns"
+            href="/campaigns/"
             className="p-4 rounded-2xl bg-amber-50/60 hover:bg-amber-100/80 border border-amber-200 transition group space-y-1 block"
           >
             <div className="font-bold text-amber-900 group-hover:text-amber-700 text-sm">🎁 お得キャンペーン一覧</div>
             <div className="text-[11px] text-amber-800/70 font-medium">楽天トラベル最新クーポン・セール</div>
           </Link>
           <Link
-            href="/sitemap"
+            href="/sitemap/"
             className="p-4 rounded-2xl bg-emerald-50/50 hover:bg-emerald-100/60 border border-emerald-200/60 transition group space-y-1 block"
           >
             <div className="font-bold text-emerald-950 group-hover:text-teal-800 text-sm">🗺️ サイトマップ</div>
@@ -188,7 +188,7 @@ export default function SitemapPage() {
                     <div key={pInfo.slug} className="bg-white/80 rounded-xl p-2.5 border border-emerald-950/5 space-y-1.5">
                       <div className="flex items-center justify-between">
                         <Link
-                          href={`/prefectures/${pInfo.slug}`}
+                          href={`/prefectures/${pInfo.slug}/`}
                           className="hover:text-teal-800 text-emerald-950 font-bold transition flex items-center gap-1"
                         >
                           <span>📍</span>
@@ -235,7 +235,7 @@ export default function SitemapPage() {
                           {prefSpots.map(s => (
                             <Link
                               key={s.slug}
-                              href={`/spots/${s.slug}`}
+                              href={`/spots/${s.slug}/`}
                               className="text-[10px] text-amber-900 hover:text-teal-700 hover:underline font-medium"
                             >
                               {s.name}
@@ -308,7 +308,7 @@ export default function SitemapPage() {
                     {prefPosts.length}件
                   </span>
                   <Link
-                    href={`/prefectures/${pref.slug}`}
+                    href={`/prefectures/${pref.slug}/`}
                     className="text-xs text-teal-800 hover:underline font-bold ml-auto"
                   >
                     {pref.name}トップ →
@@ -319,7 +319,7 @@ export default function SitemapPage() {
                   {prefPosts.map((post) => (
                     <Link
                       key={post.id}
-                      href={`/posts/${post.id}`}
+                      href={`/posts/${post.id}/`}
                       className="p-3 rounded-xl bg-emerald-50/30 hover:bg-teal-50 border border-emerald-950/5 transition flex items-start gap-2 group"
                     >
                       <span className="text-teal-800 font-bold mt-0.5">📄</span>
@@ -355,7 +355,7 @@ export default function SitemapPage() {
                 {otherPosts.map((post) => (
                   <Link
                     key={post.id}
-                    href={`/posts/${post.id}`}
+                    href={`/posts/${post.id}/`}
                     className="p-3 rounded-xl bg-emerald-50/30 hover:bg-teal-50 border border-emerald-950/5 transition flex items-start gap-2 group"
                   >
                     <span className="text-teal-800 font-bold mt-0.5">📄</span>

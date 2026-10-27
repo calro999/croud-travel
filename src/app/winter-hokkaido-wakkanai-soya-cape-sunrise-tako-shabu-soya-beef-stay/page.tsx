@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: '北緯45度31分、日本最北端の地・稚内と宗谷岬で迎える11〜1月の冬紀行。白銀のオホーツク海から昇る日本最北端の元旦初日の出と。',
   keywords: '宗谷岬 初日の出, 稚内 冬旅行, 稚内港北防波堤ドーム, タコしゃぶ 稚内, 宗谷黒牛, ドーミーイン稚内, サフィールホテル稚内, 稚内グランドホテル, 日本最北端の地の碑, 利尻富士 冬',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay/'
   },
   openGraph: {
     title: '11・12・1月北海道：日本最北端「宗谷岬」冬の初日！名宿5選',
     description: '北緯45度31分、日本最北端の地・稚内と宗谷岬で迎える11〜1月の冬紀行。白銀のオホーツク海から昇る日本最北端の元旦初日の出と。',
-    url: 'https://croud-travel.pages.dev/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay/',
     type: 'article',
     images: [
       {
@@ -60,7 +60,7 @@ export default function HokkaidoWakkanaiWinterPage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay"
+      "@id": "https://croud-travel.pages.dev/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay/"
     }
   };
 
@@ -78,13 +78,13 @@ export default function HokkaidoWakkanaiWinterPage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "北海道・稚内＆宗谷岬 冬特集",
-        "item": "https://croud-travel.pages.dev/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay"
+        "item": "https://croud-travel.pages.dev/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay/"
       }
     ]
   };
@@ -594,7 +594,7 @@ export default function HokkaidoWakkanaiWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm mb-8">
             <Link 
-              href="/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay"
+              href="/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-cyan-500 transition hover:shadow-md group block"
             >
               <div className="text-cyan-600 font-bold text-xs mb-1">北海道・釧路＆鶴居</div>
@@ -607,7 +607,7 @@ export default function HokkaidoWakkanaiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay"
+              href="/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-cyan-500 transition hover:shadow-md group block"
             >
               <div className="text-cyan-600 font-bold text-xs mb-1">北海道・小樽＆朝里川</div>
@@ -620,7 +620,7 @@ export default function HokkaidoWakkanaiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay"
+              href="/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-cyan-500 transition hover:shadow-md group block"
             >
               <div className="text-cyan-600 font-bold text-xs mb-1">青森・下北半島＆大間</div>
@@ -636,9 +636,9 @@ export default function HokkaidoWakkanaiWinterPage() {
           <div className="flex flex-wrap justify-center gap-4 text-xs font-semibold text-slate-600">
             <Link href="/" className="hover:text-cyan-600 underline">ホーム</Link>
             <span>•</span>
-            <Link href="/features" className="hover:text-cyan-600 underline">特集一覧</Link>
+            <Link href="/features/" className="hover:text-cyan-600 underline">特集一覧</Link>
             <span>•</span>
-            <Link href="/posts" className="hover:text-cyan-600 underline">記事一覧カタログ</Link>
+            <Link href="/posts/" className="hover:text-cyan-600 underline">記事一覧カタログ</Link>
           </div>
         
       <HubRelatedPosts currentSlug="winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay" />

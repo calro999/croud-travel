@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '日本三大酒器＆銘酒を引き立てる名陶の里・窯元巡りと美食名宿×ふるさと納税厳選ガイド備前・萩・唐津',
     description: '酒器ひとつで日本酒の味わいが劇的に変わる！岡山「備前焼」釉薬を使わず土と炎の窯変が酒をまろやかにする赤穂温泉銀波荘、山口「萩焼」茶陶の伝統を受け継ぎ使い込むほどに育つ萩温泉郷萩小町、佐賀「唐津焼」料理と美酒を引き立てる土の温もり・純和風の老舗洋々閣。窯元散策やぐい呑み選び、地酒ペアリング会席ディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-sake-vessels-pottery-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-sake-vessels-pottery-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -419,7 +419,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-six-ancient-kilns-pottery-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-six-ancient-kilns-pottery-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本六古窯＆土と炎が織りなす陶芸の里名宿×ふるさと納税完全ガイド
               </div>
@@ -427,7 +427,7 @@ export default function Page() {
                 備前・信楽・丹波・越前・瀬戸・常滑。
               </p>
             </Link>
-            <Link href="/furusato-tax-three-great-sake-capitals-brewery-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-sake-capitals-brewery-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大酒処＆銘醸酒蔵・美酒ペアリング宿×ふるさと納税完全ガイド
               </div>
@@ -435,7 +435,7 @@ export default function Page() {
                 灘・伏見・西条。
               </p>
             </Link>
-            <Link href="/furusato-tax-three-great-traditional-townscapes-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-traditional-townscapes-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大伝統的町並み＆小江戸・白壁の蔵宿×ふるさと納税完全ガイド
               </div>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '富士山ビュー客室露天風呂宿×ふるさと納税厳選ガイド河口湖・日本平・箱根芦ノ湖の霊峰一望リゾート',
     description: '日本人の心のシンボル・富士山を独占！山梨富士河口湖の「逆さ富士」客室露天風呂宿、静岡日本平山頂から富士山と駿河湾を見晴らすパノラマリゾート、神奈川箱根芦ノ湖の海賊船と霊峰一望温泉。四季折々の富士の雄姿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-open-air-bath-with-majestic-fuji-view-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-open-air-bath-with-majestic-fuji-view-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -486,7 +486,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-fuji-view-onsen-resort-stay"
+            href="/furusato-tax-fuji-view-onsen-resort-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -502,7 +502,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-alps-trekking-mountain-resort-stay"
+            href="/furusato-tax-alps-trekking-mountain-resort-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -518,7 +518,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-sky-open-air-glamping-resort-stay"
+            href="/furusato-tax-sky-open-air-glamping-resort-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

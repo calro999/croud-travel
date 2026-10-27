@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '兼六園の雪吊り＆金沢城・紅葉ライトアップ！深谷温泉・湯涌温泉の名湯宿×ふるさと納税厳選ガイド石川',
     description: '11月1日から始まる兼六園の冬支度「雪吊り（ゆきつり）」と紅葉ライトアップ！秋の金沢・兼六園を巡り、開湯1300年の金沢湯涌温泉や深谷温泉の名湯宿「元湯石屋」「湯の出旅館」「百楽荘」で能登牛やのどぐろを堪能。楽天ふるさと納税トラベルクーポンで実質2,000円で泊まる極上の金沢秋旅ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kenrokuen-yukitsuri-autumn-kanazawa-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kenrokuen-yukitsuri-autumn-kanazawa-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">兼六園雪吊り＆秋のライトアップ・金沢温泉旅館特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

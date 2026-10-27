@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月沖縄：冬の石垣島！名宿5選',
     description: '11月から1月、本州の真冬の寒さを逃れて平均気温20度前後の穏やかな暖かさに包まれる八重山諸島の玄関口・石垣島。',
-    url: 'https://croud-travel.pages.dev/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay',
+    url: 'https://croud-travel.pages.dev/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '石垣島・川平湾＆南十字星特集',
-        item: 'https://croud-travel.pages.dev/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay'
+        item: 'https://croud-travel.pages.dev/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay/'
       }
     ]
   };
@@ -652,7 +652,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay" 
+              href="/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">沖縄・恩納＆本部</span>
@@ -662,7 +662,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay" 
+              href="/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">鹿児島・指宿温泉</span>
@@ -672,7 +672,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay" 
+              href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">宮崎・青島温泉</span>
@@ -682,7 +682,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay" 
+              href="/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">千葉・鴨川小湊</span>
@@ -692,7 +692,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay" 
+              href="/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">神奈川・三浦城ヶ島</span>
@@ -702,7 +702,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
             </Link>
 
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-stone-100 border border-stone-200 hover:border-teal-400 transition-all group flex flex-col justify-center text-center"
             >
               <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors">

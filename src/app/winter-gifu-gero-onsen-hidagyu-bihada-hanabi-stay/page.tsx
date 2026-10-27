@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '岐阜・下呂温泉で過ごす冬の旅（11・12月）！名物飛騨牛すき焼き！名宿5選',
     description: '11月から12月にかけて、室町時代の儒学者・万里集九や江戸時代の儒学者・林羅山によって有馬・草津と並ぶ「日本三名泉」に称えられた岐阜県の下呂。',
-    url: 'https://croud-travel.pages.dev/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay',
+    url: 'https://croud-travel.pages.dev/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterGifuGeroOnsenPage() {
         'headline': "【11・12月岐阜・下呂温泉の日本三名泉と冬花火物語】名物飛騨牛すき焼き＆朴葉味噌・極上の美肌ぬめり湯を堪能する老舗名宿5選",
         'description': "11月から12月にかけて、室町時代の儒学者・万里集九や江戸時代の儒学者・林羅山によって有馬・草津と並ぶ「日本三名泉」に称えられた岐阜県の下呂温泉（げろおんせん）は、澄み切った初冬の空気と幻想的な温泉街の明かりが旅情をそそる最高の季節を迎えます。pH9.2前後のアルカリ性単純温泉は、入浴した瞬間に肌がツルツルと滑らかになる天然の石鹸効果を誇る「美肌の湯」。12月に入ると飛騨川河畔で毎週土曜日に「下呂温泉花火物語（冬花火）」が開催され、冬の夜空に大輪の華が咲き誇ります。夕食にはきめ細やかなサシと芳醇な香りがとろける最高級「飛騨牛」のすき焼きや陶板焼き、香ばしい「朴葉味噌（ほおばみそ）」焼き。初冬の飛騨路で極上のぬくもりに浸る厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterGifuGeroOnsenPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-amber-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">岐阜・下呂温泉</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterGifuGeroOnsenPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月岐阜・下呂温泉】名物飛騨牛すき焼き！名宿5選","item":"https://croud-travel.pages.dev/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月岐阜・下呂温泉】名物飛騨牛すき焼き！名宿5選","item":"https://croud-travel.pages.dev/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay/"}]}) }}
       />
         
         {/* Intro Highlight Box */}
@@ -577,7 +577,7 @@ export default function WinterGifuGeroOnsenPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-shirakawago-gassho-snow-illumination-stay"
+              href="/winter-shirakawago-gassho-snow-illumination-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">岐阜・白川郷</span>
@@ -590,7 +590,7 @@ export default function WinterGifuGeroOnsenPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-achimura-hirugami-starry-sky-stay"
+              href="/winter-nagano-achimura-hirugami-starry-sky-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">長野・昼神温泉</span>
@@ -603,7 +603,7 @@ export default function WinterGifuGeroOnsenPage() {
             </Link>
 
             <Link 
-              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay"
+              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">兵庫・有馬温泉</span>

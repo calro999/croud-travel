@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '赤々と燃える炭火と香ばしい煙！囲炉裏料理＆歴史ある古民家名湯宿×ふるさと納税厳選ガイド白川郷・群馬法師・徳島祖谷',
     description: 'パチパチとはぜる炭の音、串に刺した川魚の塩焼きと香ばしい地鶏・特選牛の炭火焼き！世界遺産白川郷の玄関口に佇む合掌造りの宿「御宿 結の庄」、足元湧出の奇跡の温泉と囲炉裏の風情が残る国登録有形文化財「法師温泉 長寿館」、日本三大秘境の渓谷断崖に建ち囲炉裏炭火会席とケーブルカーで行く谷底露天風呂を誇る「和の宿 ホテル祖谷温泉」。日本の原風景に抱かれ温もりに浸る至福の囲炉裏ステイを、楽天ふるさと納税トラベルクーポンで実質2,000円負担で楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-traditional-hearth-irori-charcoal-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-traditional-hearth-irori-charcoal-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoTraditionalHearthIroriStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">囲炉裏料理＆古民家名湯宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoTraditionalHearthIroriStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/tangible-cultural-property-sukiya-carpenter-ryokan-stay"
+            href="/tangible-cultural-property-sukiya-carpenter-ryokan-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【登録有形文化財・宮大工数寄屋造り旅館×ふるさと納税】木造建築美の宿
           </Link>
           <Link
-            href="/furusato-tax-secret-hotspring-lamp-retreat-stay"
+            href="/furusato-tax-secret-hotspring-lamp-retreat-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【秘湯を守る会・ランプの宿×ふるさと納税】山奥の隠れ家温泉リトリート
           </Link>
           <Link
-            href="/furusato-tax-three-great-wagyu-beef-gourmet-stay"
+            href="/furusato-tax-three-great-wagyu-beef-gourmet-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【ブランド和牛食べ比べ温泉宿×ふるさと納税】飛騨牛・米沢牛・阿波牛
           </Link>
           <Link
-            href="/autumn-winter-fireplace-cafe-resort"
+            href="/autumn-winter-fireplace-cafe-resort/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【暖炉・薪ストーブのある極上リゾート×ふるさと納税】揺らぐ炎と冬の温泉

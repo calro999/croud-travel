@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：風を感じる絶景トロッコ列車！黒部峡谷・嵯峨野など渓谷美と沿線名湯の温泉宿5選',
     description: '2026年最新！黒部峡谷トロッコ電車や嵯峨野観光鉄道など、爽快なトロッコ列車旅と沿線の絶景峡谷温泉を満喫できる人気宿5選。',
-    url: 'https://croud-travel.pages.dev/super-panoramic-canyon-train-onsen-stay',
+    url: 'https://croud-travel.pages.dev/super-panoramic-canyon-train-onsen-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/super-panoramic-canyon-train-onsen-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/super-panoramic-canyon-train-onsen-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">トロッコ列車×峡谷絶景温泉</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             窓のないオープン客車からダイナミックな峡谷美と清流のしぶきを肌で感じるトロッコ列車の旅。四季折々のトンネルをくぐり抜けた先に広がる秘境の名湯。川のせせらぎを眼下に望む露天風呂と、地元の山海の幸に舌鼓を打つ感動の鉄道温泉旅へ。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】風を感じる絶景トロッコ列車！黒部峡谷・嵯峨野など渓谷美と沿線名湯の温泉宿5選" url="https://croud-travel.pages.dev/super-panoramic-canyon-train-onsen-stay" />
+            <ShareButtons title="【2026年】風を感じる絶景トロッコ列車！黒部峡谷・嵯峨野など渓谷美と沿線名湯の温泉宿5選" url="https://croud-travel.pages.dev/super-panoramic-canyon-train-onsen-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】風を感じる絶景トロッコ列車！黒部峡谷・嵯峨野など渓谷美と沿線名湯の温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/super-panoramic-canyon-train-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】風を感じる絶景トロッコ列車！黒部峡谷・嵯峨野など渓谷美と沿線名湯の温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/super-panoramic-canyon-train-onsen-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

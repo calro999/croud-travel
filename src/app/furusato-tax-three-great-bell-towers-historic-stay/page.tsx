@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '日本三大名鐘＆心の琴線に響く梵鐘・悠久の寺町宿×ふるさと納税厳選ガイド知恩院・平等院・三井寺',
     description: '澄んだ音色と歴史の重みを感じる日本三大名鐘巡り！京都東山「知恩院・大鐘楼」大晦日の除夜の鐘で知られる日本最大級の鐘と知恩院和順会館、京都宇治「平等院」天人の姿が浮彫にされた国宝名鐘と花やしき浮舟園、滋賀大津「三井寺」弁慶の引き摺り鐘と近江八景の晩鐘・びわ湖大津プリンスホテル。心洗われる鐘の余韻と古都の風情を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-bell-towers-historic-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-bell-towers-historic-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -419,7 +419,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-castles-historic-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-castles-historic-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大名城＆不落の巨城を望む城見ステイ×ふるさと納税完全ガイド
               </div>
@@ -427,7 +427,7 @@ export default function Page() {
                 熊本・名古屋・大阪。
               </p>
             </Link>
-            <Link href="/furusato-tax-three-great-torii-sacred-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-torii-sacred-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大鳥居＆神聖なる巨木の門・古都名宿×ふるさと納税完全ガイド
               </div>
@@ -435,7 +435,7 @@ export default function Page() {
                 宮島・奈良・敦賀。
               </p>
             </Link>
-            <Link href="/furusato-tax-three-great-tea-plantations-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-tea-plantations-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大茶＆薫り高い茶畑パノラマ名宿ふるさと納税完全ガイド
               </div>

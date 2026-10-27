@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の沖縄・那覇×格安：快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選「2026最新」',
     description: '秋の快適オフシーズン沖縄！大浴場付き1泊2,000円〜5,000円台の高コスパ那覇ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-budget-okinawa-naha-resort-large-bath-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-okinawa-naha-resort-large-bath-hotels-stay/',
   }
 };
 

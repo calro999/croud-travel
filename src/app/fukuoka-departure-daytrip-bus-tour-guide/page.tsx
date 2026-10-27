@@ -459,7 +459,7 @@ export default function FukuokaDepartureDaytripBusTourPage() {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
-              href="/fukuoka-beppu-yufuin-bus-vs-train-guide"
+              href="/fukuoka-beppu-yufuin-bus-vs-train-guide/"
               className="p-4 bg-white rounded-2xl border border-slate-200 hover:border-teal-500 hover:shadow-sm transition duration-150 flex items-center justify-between group"
             >
               <div>
@@ -470,7 +470,7 @@ export default function FukuokaDepartureDaytripBusTourPage() {
               </div>
             </Link>
             <Link
-              href="/fukuoka-kumamoto-bus-vs-shinkansen-guide"
+              href="/fukuoka-kumamoto-bus-vs-shinkansen-guide/"
               className="p-4 bg-white rounded-2xl border border-slate-200 hover:border-teal-500 hover:shadow-sm transition duration-150 flex items-center justify-between group"
             >
               <div>

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '日本三大柑橘王国＆黄金色の果樹園・海風薫る爽快リゾートと名湯宿×ふるさと納税厳選ガイド愛媛・和歌山・静岡',
     description: '太陽の光と潮風を浴びて実る黄金の果実！愛媛松山「温州みかん・紅まどんな・伊予柑」道後温泉ホテルルナパーク、和歌山有田・白浜「有田みかん400年の歴史」白浜古賀の井リゾート＆スパ、静岡熱海・三ヶ日「三ヶ日みかん・ニューサマーオレンジ」熱海温泉ホテル大野屋。日本三大柑橘王国の爽快な海風と温泉ステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-citrus-kingdoms-resort-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-citrus-kingdoms-resort-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -380,7 +380,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-fruit-kingdoms-auberge-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-fruit-kingdoms-auberge-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大フルーツ王国＆もぎたて果実の美食リゾート×ふるさと納税完全ガイド
               </div>
@@ -389,7 +389,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-oceanfront-wave-sound-healing-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-oceanfront-wave-sound-healing-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税完全ガイド
               </div>
@@ -398,7 +398,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-major-bihada-hotspring-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-major-bihada-hotspring-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大美肌の湯×炭酸水素塩泉・美肌温泉ふるさと納税完全ガイド
               </div>

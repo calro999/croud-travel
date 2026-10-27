@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '熊本・杖立温泉で過ごす冬の旅（11・12月）！名物地獄蒸しと極上肥後あか牛！名宿5選',
     description: '11月中旬から阿蘇・小国郷の山峡に冷涼な冬の気配が満ち、杖立川の川面から幾筋もの真っ白な湯けむりがダイナミックに立ち上る熊本県・杖立温泉（つ。',
-    url: 'https://croud-travel.pages.dev/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -57,7 +57,7 @@ export default function KumamotoTsuetateWaitaPage() {
         "datePublished": "T18:00:00+09:00",
         "dateModified": "T18:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -353,7 +353,7 @@ export default function KumamotoTsuetateWaitaPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 sm:pt-14 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月熊本・杖立温泉】名物地獄蒸しと極上肥後あか牛！名宿5選","item":"https://croud-travel.pages.dev/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月熊本・杖立温泉】名物地獄蒸しと極上肥後あか牛！名宿5選","item":"https://croud-travel.pages.dev/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -649,7 +649,7 @@ export default function KumamotoTsuetateWaitaPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay"
+              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">熊本・黒川温泉</span>
@@ -662,7 +662,7 @@ export default function KumamotoTsuetateWaitaPage() {
             </Link>
 
             <Link 
-              href="/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay"
+              href="/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">熊本・阿蘇内牧温泉</span>
@@ -675,7 +675,7 @@ export default function KumamotoTsuetateWaitaPage() {
             </Link>
 
             <Link 
-              href="/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay"
+              href="/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">熊本・平山温泉</span>

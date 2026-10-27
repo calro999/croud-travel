@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '岐阜出張・歴史ひとり旅：長良川温泉・金華山岐阜城パノラマ・飛騨牛グルメ！信長公ゆかりの地でととのう厳選3宿',
     description: '名古屋駅からJR新快速でわずか約20分！江戸享保年間創業で長良川の鵜飼舟を望む老舗名湯「長良川温泉 十八楼」、金華山と岐阜城の絶景を望むハイクラスリゾート「都ホテル 岐阜長良川」、JR岐阜駅徒歩約3分の快適ビジネス拠点「ダイワロイネットホテル岐阜」を楽天APIデータに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/gifu-nagaragawa-solo-business-castle-onsen-stay',
+    url: 'https://croud-travel.pages.dev/gifu-nagaragawa-solo-business-castle-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T16:30:00+09:00',
     dateModified: '2026-10-19T16:30:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/gifu-nagaragawa-solo-business-castle-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/gifu-nagaragawa-solo-business-castle-onsen-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【岐阜出張・歴史ひとり旅】長良川温泉・金華山岐阜城パノラマ・飛騨牛グルメ！信長公ゆかりの地でととのう厳選3宿","item":"https://croud-travel.pages.dev/gifu-nagaragawa-solo-business-castle-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【岐阜出張・歴史ひとり旅】長良川温泉・金華山岐阜城パノラマ・飛騨牛グルメ！信長公ゆかりの地でととのう厳選3宿","item":"https://croud-travel.pages.dev/gifu-nagaragawa-solo-business-castle-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

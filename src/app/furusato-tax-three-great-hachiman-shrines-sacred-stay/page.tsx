@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと納税厳選ガイド宇佐神宮・石清水八幡宮・筥崎宮',
     description: '武運長久と国家鎮護の最高峰パワースポット！大分「宇佐神宮」全国4万余社の総本宮と別府八湯の名宿、京都「石清水八幡宮」国宝男山社殿と伏見酒蔵・京料理旅館、福岡「筥崎宮」敵国降伏の扁額と博多湾絶景海鮮ホテル。日本三大八幡の聖地巡礼を楽天ふるさと納税宿泊クーポンでお得に叶える完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-hachiman-shrines-sacred-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-hachiman-shrines-sacred-stay/',
     siteName: 'トラベル総合ナビ',
     locale: 'ja_JP',
     type: 'article',
@@ -774,7 +774,7 @@ export default function Page() {
             
             <Link
               key="0"
-              href="/furusato-tax-ise-kumano-sacred-power-spot-stay"
+              href="/furusato-tax-ise-kumano-sacred-power-spot-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -787,7 +787,7 @@ export default function Page() {
             
             <Link
               key="1"
-              href="/furusato-tax-three-sacred-temple-bells-retreat-stay"
+              href="/furusato-tax-three-sacred-temple-bells-retreat-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -800,7 +800,7 @@ export default function Page() {
             
             <Link
               key="2"
-              href="/furusato-tax-temple-shukubo-shojin-mindfulness-stay"
+              href="/furusato-tax-temple-shukubo-shojin-mindfulness-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">

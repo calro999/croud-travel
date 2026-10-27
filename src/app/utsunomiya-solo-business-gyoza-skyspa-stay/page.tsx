@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選',
     description: '東北・秋田・山形新幹線停車！北関東最大の工業・ビジネス拠点である栃木県宇都宮市。「駅東口直結・最上階スカイスパでととのう新ランドマーク」の「CANDEO HOTELS 宇都宮」、宇都宮駅ビル直結でシモンズベッド完備の「ＪＲ東日本ホテルメッツ 宇都宮」、大谷石ラウンジと広々客室が自慢の「ホテルマイステイズ宇都宮」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/utsunomiya-solo-business-gyoza-skyspa-stay',
+    url: 'https://croud-travel.pages.dev/utsunomiya-solo-business-gyoza-skyspa-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T12:30:00+09:00',
     dateModified: '2026-10-19T12:30:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/utsunomiya-solo-business-gyoza-skyspa-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/utsunomiya-solo-business-gyoza-skyspa-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【宇都宮出張＆餃子ひとり旅】最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選","item":"https://croud-travel.pages.dev/utsunomiya-solo-business-gyoza-skyspa-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【宇都宮出張＆餃子ひとり旅】最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選","item":"https://croud-travel.pages.dev/utsunomiya-solo-business-gyoza-skyspa-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

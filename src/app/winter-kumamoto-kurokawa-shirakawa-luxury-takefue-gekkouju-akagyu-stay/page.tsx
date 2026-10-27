@@ -15,12 +15,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: '【竹林の秘境・日本最高峰ラグジュアリー離れ「竹ふえ」と「月洸樹」】2026-2027年11-12月初冬の熊本・黒川温泉郷奥座敷！広大な客室専用露天風呂と幻のあか牛フィレ炭火焼き・大人の一生に一度は泊まりたい憧れ名宿5選',
     description: '阿蘇外輪山の奥深く、鬱蒼とした竹林と清らかな小川に包まれた南小国・黒川温泉郷の奥座敷。全国の温泉ファンが「一生に一度は泊まりたい」と憧れる日本最高峰のプライベート離れ「竹ふえ」や「月洸樹 黒川」。数百平米もの広さを誇る客室専用露天風呂や内湯に自家源泉が並々と掛け流され、冬の冷たい大気の中で竹林のライトアップを眺める至高の湯浴み。熊本が誇る幻の和牛「あか牛」の極上フィレ肉炭火焼きと季節の創作会席を味わう、究極の贅沢名宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-kumamoto-kurokawa-shirakawa-luxury-takefue-gekkouju-akagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-kumamoto-kurokawa-shirakawa-luxury-takefue-gekkouju-akagyu-stay/',
     type: 'article',
     siteName: 'クラウドトラベル',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-kumamoto-kurokawa-shirakawa-luxury-takefue-gekkouju-akagyu-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-kumamoto-kurokawa-shirakawa-luxury-takefue-gekkouju-akagyu-stay/',
   },
 };
 
@@ -46,13 +46,13 @@ export default function LuxuryWinterFeaturePage() {
                   "@type": "ListItem",
                   "position": 2,
                   "name": "特集一覧",
-                  "item": "https://croud-travel.pages.dev/features"
+                  "item": "https://croud-travel.pages.dev/features/"
                 },
                 {
                   "@type": "ListItem",
                   "position": 3,
                   "name": "【竹林の秘境・日本最高峰ラグジュアリー離れ「竹ふえ」と「月洸樹」】2026-2027年11-12月初冬の熊本・黒川温泉郷奥座敷！広大な客室専用露天風呂と幻のあか牛フィレ炭火焼き・大人の一生に一度は泊まりたい憧れ名宿5選",
-                  "item": "https://croud-travel.pages.dev/winter-kumamoto-kurokawa-shirakawa-luxury-takefue-gekkouju-akagyu-stay"
+                  "item": "https://croud-travel.pages.dev/winter-kumamoto-kurokawa-shirakawa-luxury-takefue-gekkouju-akagyu-stay/"
                 }
               ]
             },
@@ -95,7 +95,7 @@ export default function LuxuryWinterFeaturePage() {
         <div className="max-w-5xl mx-auto flex items-center gap-1.5 flex-wrap">
           <Link href="/" className="hover:text-slate-800 transition">ホーム</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
-          <Link href="/features" className="hover:text-slate-800 transition">特集一覧</Link>
+          <Link href="/features/" className="hover:text-slate-800 transition">特集一覧</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
           <span className="text-slate-800 font-medium truncate max-w-xs">【竹林の秘境・日本最高峰ラグジュアリー離れ「竹ふえ」と「月洸樹」】2026-2027年11-12月初冬の熊本・黒川温泉郷奥座敷！広大な客室専用露天風呂と幻のあか牛フィレ炭火焼き・大人の一生に一度は泊まりたい憧れ名宿5選</span>
         </div>

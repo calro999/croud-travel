@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '伊香保温泉で過ごす冬の旅（11・12月）！365段の石段街と黄金の湯！名宿5選',
     description: '11月から12月にかけて榛名山の澄み切った初冬の空気に包まれる群馬・伊香保温泉。365段の風情ある石段街に灯る温かな提灯、鉄分を豊富に含み体を芯から温める茶褐色の「黄金の湯」と柔らかな「白銀の湯」。とろける上州牛のすき焼きや名物水沢うどんの美食を堪能する極上冬旅ガイド。',
-    url: 'https://croud-travel.pages.dev/winter-gunma-ikaho-stone-steps-joshu-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-gunma-ikaho-stone-steps-joshu-beef-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function IkahoWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-gunma-ikaho-stone-steps-joshu-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-gunma-ikaho-stone-steps-joshu-beef-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function IkahoWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月伊香保温泉】365段の石段街と黄金の湯！名宿5選","item":"https://croud-travel.pages.dev/winter-gunma-ikaho-stone-steps-joshu-beef-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月伊香保温泉】365段の石段街と黄金の湯！名宿5選","item":"https://croud-travel.pages.dev/winter-gunma-ikaho-stone-steps-joshu-beef-stay/"}]}) }}
       />
         
         {/* Intro */}
@@ -647,7 +647,7 @@ export default function IkahoWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link 
-              href="/winter-gunma-kusatsu-yukimi-onsen-stay"
+              href="/winter-gunma-kusatsu-yukimi-onsen-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">群馬の冬名湯</span>
@@ -657,7 +657,7 @@ export default function IkahoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay"
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">関東の冬絶景</span>
@@ -667,7 +667,7 @@ export default function IkahoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay"
+              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">北関東の雪見秘湯</span>
@@ -677,7 +677,7 @@ export default function IkahoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay"
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">東北の初雪特集</span>
@@ -687,7 +687,7 @@ export default function IkahoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay"
+              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">東海の冬花火</span>
@@ -697,7 +697,7 @@ export default function IkahoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-achimura-hirugami-starry-sky-stay"
+              href="/winter-nagano-achimura-hirugami-starry-sky-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">信州の星空名湯</span>

@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: '道東の冬が織りなす白銀の詩情・釧路の11〜1月冬紀行。純白の雪原に優美な翼を広げる特別天然記念物「タンチョウ（丹頂鶴）」の求愛ダンス。',
   keywords: '丹頂鶴 冬, 鶴居村 タンチョウ, 幣舞橋 夕日, 釧路 炉端焼き, 真だち 白子, ラビスタ釧路川, ドーミーイン釧路, 釧路 天然温泉, 勝手丼 和商市場, 道東 冬旅行',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay/'
   },
   openGraph: {
     title: '11・12・1月北海道：雪原に舞う特別天然記念物「丹！名宿5選',
     description: '道東の冬が織りなす白銀の詩情・釧路の11〜1月冬紀行。純白の雪原に優美な翼を広げる特別天然記念物「タンチョウ（丹頂鶴）」の求愛ダンス。',
-    url: 'https://croud-travel.pages.dev/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay/',
     type: 'article',
     images: [
       {
@@ -60,7 +60,7 @@ export default function HokkaidoKushiroWinterPage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay"
+      "@id": "https://croud-travel.pages.dev/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay/"
     }
   };
 
@@ -78,13 +78,13 @@ export default function HokkaidoKushiroWinterPage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "北海道・釧路＆鶴居 冬特集",
-        "item": "https://croud-travel.pages.dev/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay"
+        "item": "https://croud-travel.pages.dev/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay/"
       }
     ]
   };
@@ -596,7 +596,7 @@ export default function HokkaidoKushiroWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm">
             <Link 
-              href="/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay"
+              href="/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-sky-400 hover:bg-sky-50/30 transition block space-y-1"
             >
               <span className="font-bold text-sky-950 block">【北海道】十勝川温泉植物性モール泉と白鳥飛来・十勝牛名宿</span>
@@ -604,7 +604,7 @@ export default function HokkaidoKushiroWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay"
+              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-sky-400 hover:bg-sky-50/30 transition block space-y-1"
             >
               <span className="font-bold text-sky-950 block">【北海道】函館湯の川温泉と冬の津軽海峡漁火・海鮮バイキング名宿</span>
@@ -612,7 +612,7 @@ export default function HokkaidoKushiroWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay"
+              href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-sky-400 hover:bg-sky-50/30 transition block space-y-1"
             >
               <span className="font-bold text-sky-950 block">【青森】八戸蕪島神社初詣と八食センター・銀鯖名宿</span>
@@ -620,7 +620,7 @@ export default function HokkaidoKushiroWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay"
+              href="/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-sky-400 hover:bg-sky-50/30 transition block space-y-1"
             >
               <span className="font-bold text-sky-950 block">【宮城】鹽竈神社初詣と松島雪景色・三陸牡蠣名宿</span>
@@ -639,7 +639,7 @@ export default function HokkaidoKushiroWinterPage() {
           </p>
           <div className="pt-2 flex flex-wrap justify-center gap-3">
             <Link 
-              href="/features" 
+              href="/features/" 
               className="px-6 py-3 bg-white text-slate-900 hover:bg-slate-100 font-black text-xs md:text-sm rounded-xl shadow transition"
             >
               特集記事一覧を見る

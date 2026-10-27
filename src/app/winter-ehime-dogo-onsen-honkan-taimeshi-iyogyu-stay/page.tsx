@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '愛媛・道後温泉で過ごす冬の旅（11・12月）！名物宇和島鯛めし！名宿5選',
     description: '11月から12月にかけて、三千年の歴史を誇り『日本書紀』や『万葉集』にも記された日本三古湯の筆頭「愛媛・道後温泉（どうごおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterEhimeDogoOnsenPage() {
         'headline': "【11・12月愛媛・道後温泉の日本三古湯と冬の瀬戸内味覚】名物宇和島鯛めし＆伊予牛・本館全館営業再開の名湯を巡る名宿5選",
         'description': "11月から12月にかけて、三千年の歴史を誇り『日本書紀』や『万葉集』にも記された日本三古湯の筆頭「愛媛・道後温泉（どうごおんせん）」は、保存修理工事を終えて約5年半ぶりに全館営業を再開した「道後温泉本館」を中心に、冬ならではの落ち着いた情緒と美食のハイシーズンを迎えます。源泉温度42〜51度のアルカリ性単純温泉は、肌に刺激の少ない滑らかな泉質で、湯冷めしにくく冬の身体をやさしく温めてくれます。11月・12月は瀬戸内海で潮流に揉まれた真鯛が最も脂を蓄える旬。名物の「宇和島風鯛めし」や香ばしい「松山鯛めし」、とろけるような肉質の「伊予牛（いよぎゅう）」、みかん果汁を飼料に育つ「みかん鰤」。レトロな坊っちゃん列車や松山城城下町の冬散策とともに至福の滞在を叶える厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterEhimeDogoOnsenPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-orange-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">愛媛・道後温泉</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterEhimeDogoOnsenPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月愛媛・道後温泉】名物宇和島鯛めし！名宿5選","item":"https://croud-travel.pages.dev/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月愛媛・道後温泉】名物宇和島鯛めし！名宿5選","item":"https://croud-travel.pages.dev/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay/"}]}) }}
       />
         
         {/* Intro Highlight Box */}
@@ -577,7 +577,7 @@ export default function WinterEhimeDogoOnsenPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay"
+              href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-orange-300 bg-orange-400/20 px-2 py-0.5 rounded-full inline-block">香川・琴平</span>
@@ -590,7 +590,7 @@ export default function WinterEhimeDogoOnsenPage() {
             </Link>
 
             <Link 
-              href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay"
+              href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-orange-300 bg-orange-400/20 px-2 py-0.5 rounded-full inline-block">徳島・鳴門</span>
@@ -603,7 +603,7 @@ export default function WinterEhimeDogoOnsenPage() {
             </Link>
 
             <Link 
-              href="/winter-kochi-ashizuri-onsen-ocean-starry-katsuo-tosa-beef-stay"
+              href="/winter-kochi-ashizuri-onsen-ocean-starry-katsuo-tosa-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-orange-300 bg-orange-400/20 px-2 py-0.5 rounded-full inline-block">高知・あしずり温泉</span>

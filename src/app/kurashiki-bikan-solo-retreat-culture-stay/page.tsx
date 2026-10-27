@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '倉敷美観地区・ひとり旅おこもり：白壁土蔵の町並み・倉敷紡績の歴史遺産・最上階天然温泉！大原美術館と水運の街を巡る厳選3宿',
     description: '岡山駅からJR山陽本線で約17分！国指定重要文化財の赤レンガ紡績工場を再生したアイコニックな「倉敷アイビースクエア」、美観地区徒歩すぐで最上階に天然温泉大浴場を備える「ドーミーイン倉敷」、天望風呂とラウンジが心地よい「ロイヤルパークホテル倉敷」を楽天APIデータに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/kurashiki-bikan-solo-retreat-culture-stay',
+    url: 'https://croud-travel.pages.dev/kurashiki-bikan-solo-retreat-culture-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T16:15:00+09:00',
     dateModified: '2026-10-19T16:15:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/kurashiki-bikan-solo-retreat-culture-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/kurashiki-bikan-solo-retreat-culture-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【倉敷美観地区・ひとり旅おこもり】白壁土蔵の町並み・倉敷紡績の歴史遺産・最上階天然温泉！大原美術館と水運の街を巡る厳選3宿","item":"https://croud-travel.pages.dev/kurashiki-bikan-solo-retreat-culture-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【倉敷美観地区・ひとり旅おこもり】白壁土蔵の町並み・倉敷紡績の歴史遺産・最上階天然温泉！大原美術館と水運の街を巡る厳選3宿","item":"https://croud-travel.pages.dev/kurashiki-bikan-solo-retreat-culture-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

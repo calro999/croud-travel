@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の熱海温泉×格安：海上花火大会と相模湾絶景！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」',
     description: '秋の熱海海上花火大会と相模湾絶景！1泊4,000円台〜泊まれる熱海温泉のコスパ最強おすすめ宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-budget-shizuoka-atami-onsen-fireworks-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-shizuoka-atami-onsen-fireworks-hotels-stay/',
   }
 };
 

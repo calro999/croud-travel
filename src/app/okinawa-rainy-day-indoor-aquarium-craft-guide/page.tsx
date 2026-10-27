@@ -160,14 +160,14 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
           {/* 内部リンクバナー */}
           <div className="flex flex-wrap gap-3">
             <Link
-              href="/okinawa-travel-budget-plan"
+              href="/okinawa-travel-budget-plan/"
               className="inline-flex items-center gap-1.5 px-4 py-2 bg-cyan-900/80 hover:bg-cyan-800 border border-cyan-500/50 rounded-xl text-cyan-200 text-xs sm:text-sm font-semibold transition"
             >
               <span>💰 沖縄旅行の費用予算プラン（2泊3日・3泊4日）</span>
               <span>→</span>
             </Link>
             <Link
-              href="/okinawa-family-trip-how-many-nights-budget"
+              href="/okinawa-family-trip-how-many-nights-budget/"
               className="inline-flex items-center gap-1.5 px-4 py-2 bg-slate-800/90 hover:bg-slate-700 border border-slate-700 rounded-xl text-slate-300 text-xs sm:text-sm font-semibold transition"
             >
               <span>👨‍👩‍👧 子連れ沖縄旅行は何泊がおすすめ？予算と日程</span>
@@ -364,14 +364,14 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
           <p className="text-xs text-slate-500 mb-3">あわせて読みたい沖縄旅行のお役立ちガイド</p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link
-              href="/okinawa-travel-budget-plan"
+              href="/okinawa-travel-budget-plan/"
               className="text-xs sm:text-sm font-semibold text-cyan-700 hover:text-cyan-800 underline underline-offset-4"
             >
               【沖縄旅行 費用】2泊3日・3泊4日いくらかかる？飛行機・レンタカー・ホテル総額
             </Link>
             <span className="text-slate-400">|</span>
             <Link
-              href="/okinawa-family-trip-how-many-nights-budget"
+              href="/okinawa-family-trip-how-many-nights-budget/"
               className="text-xs sm:text-sm font-semibold text-cyan-700 hover:text-cyan-800 underline underline-offset-4"
             >
               【子連れ沖縄旅行 何泊がベスト？】家族旅行の費用とおすすめモデルコース

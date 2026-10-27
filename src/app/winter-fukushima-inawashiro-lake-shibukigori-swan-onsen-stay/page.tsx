@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '福島で過ごす冬の旅（12・1月）！雪見露天風呂と会津地鶏！名宿5選',
     description: '厳冬期の福島・猪苗代湖は、大自然が創り出す奇跡の氷結アート「しぶき氷」と、シベリアから飛来する数千羽の優雅な白鳥たちが出迎える幻想的な白銀の世界です。',
-    url: 'https://croud-travel.pages.dev/winter-fukushima-inawashiro-lake-shibukigori-swan-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukushima-inawashiro-lake-shibukigori-swan-onsen-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -165,7 +165,7 @@ export default function FukushimaInawashiroBandaiWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-fukushima-inawashiro-lake-shibukigori-swan-onsen-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-fukushima-inawashiro-lake-shibukigori-swan-onsen-stay"
+          "@id": "https://croud-travel.pages.dev/winter-fukushima-inawashiro-lake-shibukigori-swan-onsen-stay/"
         },
         "headline": "【12・1月福島】猪苗代湖＆磐梯熱海温泉！奇跡の「しぶき氷」と白鳥飛来・雪見露天風呂と会津地鶏・福島牛名宿5選",
         "description": "厳冬期の福島・猪苗代湖は、大自然が創り出す奇跡の氷結アート「しぶき氷」と、シベリアから飛来する数千羽の優雅な白鳥たちが出迎える幻想的な白銀の世界です。湖畔の天神浜では強い西風と波しぶきが樹木を凍りつかせ、巨大な氷の彫刻のような絶景が出現。冠雪した秀峰・磐梯山を背に、開湯800年を誇る「萩姫伝説」の名湯・磐梯熱海温泉の美肌雪見露天風呂で体の芯まで温まる至福のひととき。会津地鶏、新鮮な極上馬刺し、福島牛すき焼きの美食を堪能する厳選名宿5選を徹底解説します。",
@@ -191,13 +191,13 @@ export default function FukushimaInawashiroBandaiWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "猪苗代湖＆磐梯熱海温泉冬特集",
-            "item": "https://croud-travel.pages.dev/winter-fukushima-inawashiro-lake-shibukigori-swan-onsen-stay"
+            "item": "https://croud-travel.pages.dev/winter-fukushima-inawashiro-lake-shibukigori-swan-onsen-stay/"
           }
         ]
       },
@@ -620,7 +620,7 @@ export default function FukushimaInawashiroBandaiWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay"
+              href="/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-cyan-400 block mb-1">裏磐梯・五色沼冬特集</span>
@@ -628,7 +628,7 @@ export default function FukushimaInawashiroBandaiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay"
+              href="/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-cyan-400 block mb-1">会津東山・芦ノ牧冬特集</span>
@@ -636,7 +636,7 @@ export default function FukushimaInawashiroBandaiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay"
+              href="/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-cyan-400 block mb-1">山形・赤湯温泉冬特集</span>

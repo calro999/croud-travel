@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '2026年：果物王国の極上スイーツ！名産清水白桃パフェ＆倉敷美観地区・湯原温泉の風情宿5選',
     description: '2026年最新！とろける甘さと芳醇な香りの岡山特産「清水白桃」！白桃パフェ・スイーツと倉敷美観地区の白壁町家、名湯湯原温泉で寛ぐ晴れの国岡山のおすすめ宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/spring-okayama-white-peach-parfait-stay',
+    url: 'https://croud-travel.pages.dev/spring-okayama-white-peach-parfait-stay/',
   },
   alternates: {
     canonical: "https://croud-travel.pages.dev/spring-okayama-white-peach-parfait-stay/",
@@ -178,7 +178,7 @@ export default function FeatureDetailPage() {
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-amber-600">トップ</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-amber-600">厳選特集一覧</Link>
+          <Link href="/features/" className="hover:text-amber-600">厳選特集一覧</Link>
           <span>&gt;</span>
           <span className="text-slate-800 font-medium truncate max-w-xs sm:max-w-md md:max-w-none">
             岡山清水白桃スイーツ＆倉敷美観地区・湯原温泉宿
@@ -549,7 +549,7 @@ export default function FeatureDetailPage() {
 
         <div className="text-center pt-4">
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold px-8 py-4 rounded-2xl shadow-md transition-all"
           >
             <span>他の厳選特集一覧を見る</span>

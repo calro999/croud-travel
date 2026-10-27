@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税厳選ガイド忍野八海・安曇野・郡上八幡の名湯',
     description: '国土の恵み、清冽なる名水の郷へ！世界遺産富士の湧水・山梨忍野八海の手打ち蕎麦宿、北アルプス雪解け湧水・長野安曇野のわさび街道温泉リゾート、名水百選宗祇水・岐阜郡上八幡の天然鮎と名水豆腐。楽天ふるさと納税宿泊クーポンでお得に楽しむ美食水巡りガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-spring-water-soba-tofu-onsen-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-spring-water-soba-tofu-onsen-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -624,7 +624,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-river-activity-canoe-fishing-resort-stay"
+            href="/furusato-tax-river-activity-canoe-fishing-resort-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -640,7 +640,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-highland-resort-french-auberge-stay"
+            href="/furusato-tax-highland-resort-french-auberge-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -656,7 +656,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-sake-brewery-pairing-onsen-stay"
+            href="/furusato-tax-sake-brewery-pairing-onsen-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

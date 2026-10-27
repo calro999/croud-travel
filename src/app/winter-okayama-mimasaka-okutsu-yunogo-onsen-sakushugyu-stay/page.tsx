@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '岡山・美作三湯奥津で過ごす冬の旅（11・12月）！清流奥津渓の初冬雪景色と美肌！名宿5選',
     description: '11月から12月にかけて、中国山地の懐に抱かれた岡山県北部・美作（みまさか）地方は、澄み切った冬空と初雪の山並みに包まれる静寂の温泉シーズンを迎えます。',
-    url: 'https://croud-travel.pages.dev/winter-okayama-mimasaka-okutsu-yunogo-onsen-sakushugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-okayama-mimasaka-okutsu-yunogo-onsen-sakushugyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterOkayamaMimasakaPage() {
         'headline': "【11・12月岡山・美作三湯奥津＆湯郷温泉】清流奥津渓の初冬雪景色と美肌ぬる湯・極上作州牛＆津山そずり鍋を堪能する名宿5選",
         'description': "11月から12月にかけて、中国山地の懐に抱かれた岡山県北部・美作（みまさか）地方は、澄み切った冬空と初雪の山並みに包まれる静寂の温泉シーズンを迎えます。中国地方を代表する名湯地帯「美作三湯（みまさかさんとう）」の中でも、吉井川の清流沿いに湧く「奥津温泉（おくつおんせん）」は、川底の岩盤から自噴する極上の足元湧出泉「鍵湯」や伝統の「足踏み洗濯」で知られる美肌の名湯。一方、白鷺が傷を癒やした伝説が残る「湯郷温泉（ゆのごうおんせん）」は、宮本武蔵の生誕地近くに位置し、肌をしっとり潤すナトリウム・カルシウム-塩化物泉が湯客を優しく温めます。初冬の冷気の中で楽しむ渓流雪見露天、夕食には岡山が誇る最高峰の黒毛和牛「作州牛（さくしゅうぎゅう）」のステーキや陶板焼き、骨まわりの旨味肉を冬野菜と煮込む津山伝統の熱々「そずり鍋」、美作の地酒。大人の贅沢な冬の湯治旅にふさわしい厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-okayama-mimasaka-okutsu-yunogo-onsen-sakushugyu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-okayama-mimasaka-okutsu-yunogo-onsen-sakushugyu-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterOkayamaMimasakaPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-rose-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">岡山・美作三湯奥津＆湯郷</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterOkayamaMimasakaPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月岡山・美作三湯奥津】清流奥津渓の初冬雪景色と美肌！名宿5選","item":"https://croud-travel.pages.dev/winter-okayama-mimasaka-okutsu-yunogo-onsen-sakushugyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月岡山・美作三湯奥津】清流奥津渓の初冬雪景色と美肌！名宿5選","item":"https://croud-travel.pages.dev/winter-okayama-mimasaka-okutsu-yunogo-onsen-sakushugyu-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -531,7 +531,7 @@ export default function WinterOkayamaMimasakaPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay"
+              href="/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">岡山・湯原温泉</span>
@@ -544,7 +544,7 @@ export default function WinterOkayamaMimasakaPage() {
             </Link>
 
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">鳥取・三朝温泉</span>
@@ -557,7 +557,7 @@ export default function WinterOkayamaMimasakaPage() {
             </Link>
 
             <Link 
-              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay"
+              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">島根・玉造温泉</span>

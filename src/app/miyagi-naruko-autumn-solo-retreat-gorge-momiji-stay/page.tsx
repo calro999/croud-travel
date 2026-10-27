@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもりで過ごす冬の旅（10月）！貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿',
     description: '10月中旬〜11月上旬は東北屈指の紅葉名所「鳴子峡」のベストシーズン！日本に湧出する泉質11種のうち8種が集まる宮城・鳴子温泉。離れの貸切露天風呂「母里の湯」と重曹泉が絶賛される「極上の貸切露天風呂 旅館大沼」、純重曹泉と自家源泉かけ流しが評判の「鳴子旅館」、多彩な源泉風呂を誇る「旅館すがわら」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/miyagi-naruko-autumn-solo-retreat-gorge-momiji-stay',
+    url: 'https://croud-travel.pages.dev/miyagi-naruko-autumn-solo-retreat-gorge-momiji-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/miyagi-naruko-autumn-solo-retreat-gorge-momiji-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/miyagi-naruko-autumn-solo-retreat-gorge-momiji-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【10月・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもり】貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿","item":"https://croud-travel.pages.dev/miyagi-naruko-autumn-solo-retreat-gorge-momiji-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【10月・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもり】貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿","item":"https://croud-travel.pages.dev/miyagi-naruko-autumn-solo-retreat-gorge-momiji-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

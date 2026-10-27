@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月山梨：富士山を望む絶景温泉！名宿5選',
     description: '11月から1月、山梨県山中湖・忍野村は、夕陽が富士山頂に重なり黄金色に輝く奇跡の天体ショー「ダイヤモンド富士」と。',
-    url: 'https://croud-travel.pages.dev/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '山梨・山中湖ダイヤモンド富士＆忍野八海特集',
-        item: 'https://croud-travel.pages.dev/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay'
+        item: 'https://croud-travel.pages.dev/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay/'
       }
     ]
   };
@@ -598,7 +598,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link 
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay"
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -615,7 +615,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay"
+              href="/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -632,7 +632,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay"
+              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -649,7 +649,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay"
+              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -666,7 +666,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay"
+              href="/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -683,7 +683,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay"
+              href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>

@@ -583,7 +583,7 @@ export default function HakoneFreepassBreakEvenRoutePage() {
           <h3 className="text-xl font-black mb-4">箱根旅行をさらに極める！関連おすすめガイド</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
-              href="/hakone-travel-budget-guide"
+              href="/hakone-travel-budget-guide/"
               className="p-4 rounded-2xl bg-white/10 hover:bg-white/20 transition border border-white/10 block group"
             >
               <div className="text-xs text-emerald-300 font-bold mb-1">予算シミュレーション</div>
@@ -592,7 +592,7 @@ export default function HakoneFreepassBreakEvenRoutePage() {
               </div>
             </Link>
             <Link
-              href="/hakone-autumn-leaves-lightup-hotspring-guide"
+              href="/hakone-autumn-leaves-lightup-hotspring-guide/"
               className="p-4 rounded-2xl bg-white/10 hover:bg-white/20 transition border border-white/10 block group"
             >
               <div className="text-xs text-emerald-300 font-bold mb-1">季節の絶景＆温泉</div>

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '霊峰富士を独り占め！全室富士山ビュー＆客室専用露天風呂付き絶景リゾートホテル',
     description: '河口湖・山中湖・日本平・箱根芦ノ湖など客室の露天風呂やテラスから雄大な富士山を一望できるラグジュアリーホテル。赤富士や逆さ富士を望む贅沢な旅。',
-    url: 'https://croud-travel.pages.dev/mt-fuji-view-private-open-air-bath-luxury-stay',
+    url: 'https://croud-travel.pages.dev/mt-fuji-view-private-open-air-bath-luxury-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/mt-fuji-view-private-open-air-bath-luxury-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/mt-fuji-view-private-open-air-bath-luxury-stay/"
   };
 
   const faqSchema = {
@@ -151,7 +151,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"霊峰富士を独り占め！全室富士山ビュー＆客室専用露天風呂付き絶景リゾートホテル ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/mt-fuji-view-private-open-air-bath-luxury-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"霊峰富士を独り占め！全室富士山ビュー＆客室専用露天風呂付き絶景リゾートホテル ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/mt-fuji-view-private-open-air-bath-luxury-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -166,7 +166,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">富士山ビュー客室露天風呂宿</span>
       </nav>
@@ -281,7 +281,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="霊峰富士を独り占め！全室富士山ビュー＆客室専用露天風呂付き絶景リゾートホテル"
-            url="https://croud-travel.pages.dev/mt-fuji-view-private-open-air-bath-luxury-stay"
+            url="https://croud-travel.pages.dev/mt-fuji-view-private-open-air-bath-luxury-stay/"
           />
         </div>
 

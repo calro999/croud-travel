@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '兵庫・山陰 湯村温泉「荒湯」の湯けむり紅葉！開湯1200年の高温泉＆本場但馬牛会席',
     description: '10月・11月の兵庫・山陰 湯村温泉特集！源泉温度98度の高温泉が湧き出る名所「荒湯」の立ち上る湯煙と春来川沿いの紅葉ライトアップ、慈覚大師開湯の重曹泉、黒毛和牛の最高峰「但馬牛」のすき焼き・ステーキをふるさと納税トラベルクーポンでお得に堪能する大人の湯治旅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-hyogo-yumura-onsen-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-hyogo-yumura-onsen-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-hyogo-yumura-onsen-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-hyogo-yumura-onsen-autumn-stay/"
   };
 
   const faqSchema = {
@@ -97,7 +97,7 @@ export default function Page() {
           <div className="flex items-center space-x-4 text-xs font-medium text-stone-600">
             <Link href="/" className="hover:text-emerald-700">トップ</Link>
             <span>/</span>
-            <Link href="/sitemap" className="hover:text-emerald-700">特集一覧</Link>
+            <Link href="/sitemap/" className="hover:text-emerald-700">特集一覧</Link>
             <span>/</span>
             <span className="text-stone-400">秋のふるさと納税特集</span>
           </div>
@@ -126,7 +126,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-12 space-y-12 leading-relaxed">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"兵庫・山陰 湯村温泉「荒湯」の湯けむり紅葉！開湯1200年の高温泉＆本場但馬牛会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-hyogo-yumura-onsen-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"兵庫・山陰 湯村温泉「荒湯」の湯けむり紅葉！開湯1200年の高温泉＆本場但馬牛会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-hyogo-yumura-onsen-autumn-stay/"}]}) }}
       />
         {/* イントロダクション */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-4">
@@ -369,16 +369,16 @@ export default function Page() {
         <section className="bg-amber-50/50 p-6 rounded-xl border border-amber-200 space-y-4">
           <h2 className="text-lg font-bold text-stone-900">こちらもチェック！秋のふるさと納税特集</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs md:text-sm">
-            <Link href="/furusato-tax-akita-tazawako-nyuto-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-akita-tazawako-nyuto-autumn-stay/" className="text-emerald-800 hover:underline">
               → 秋田・乳頭温泉郷＆田沢湖（秘湯紅葉＆きりたんぽ）特集
             </Link>
-            <Link href="/furusato-tax-nagano-komagane-senjojiki-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-nagano-komagane-senjojiki-autumn-stay/" className="text-emerald-800 hover:underline">
               → 長野・千畳敷カール＆早太郎温泉（黄金紅葉＆信州アルプス牛）特集
             </Link>
-            <Link href="/furusato-tax-miyazaki-takachiho-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-miyazaki-takachiho-autumn-stay/" className="text-emerald-800 hover:underline">
               → 宮崎・高千穂峡＆神話の里（真名井の滝紅葉＆高千穂牛）特集
             </Link>
-            <Link href="/furusato-tax-nara-yoshino-dorogawa-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-nara-yoshino-dorogawa-autumn-stay/" className="text-emerald-800 hover:underline">
               → 奈良・吉野＆洞川温泉（レトロ街並み＆ぼたん鍋）特集
             </Link>
           </div>

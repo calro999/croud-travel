@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '袋田の滝の四段紅葉と奥久慈大子温泉！名物奥久慈軍鶏・常陸牛と秋蕎麦を味わう茨城の奥座敷旅',
     description: '10月・11月の茨城・奥久慈大子特集！日本三名瀑「袋田の滝」の岩肌を染める鮮やかな四段紅葉とライトアップ「大子来人」、美肌効果の高い奥久慈大子温泉・袋田温泉の渓流露天風呂、旨味際立つ奥久慈軍鶏鍋とA5常陸牛・常陸秋そばをふるさと納税で堪能。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-daigo-fukuroda-falls-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-daigo-fukuroda-falls-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-daigo-fukuroda-falls-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-daigo-fukuroda-falls-autumn-stay/"
   };
 
   const faqSchema = {
@@ -118,7 +118,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto flex items-center space-x-2">
           <Link href="/" className="hover:text-amber-700 underline">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-amber-700 underline">特集一覧</Link>
+          <Link href="/features/" className="hover:text-amber-700 underline">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-900 font-medium">茨城・袋田の滝＆奥久慈温泉特集</span>
         </div>
@@ -128,7 +128,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"袋田の滝の四段紅葉と奥久慈大子温泉！名物奥久慈軍鶏・常陸牛と秋蕎麦を味わう茨城の奥座敷旅 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-daigo-fukuroda-falls-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"袋田の滝の四段紅葉と奥久慈大子温泉！名物奥久慈軍鶏・常陸牛と秋蕎麦を味わう茨城の奥座敷旅 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-daigo-fukuroda-falls-autumn-stay/"}]}) }}
       />
 
         {/* Introduction */}
@@ -646,8 +646,8 @@ export default function Page() {
         <div className="max-w-5xl mx-auto space-y-4">
           <div className="flex justify-center gap-4 text-stone-300">
             <Link href="/" className="hover:text-white">トップページ</Link>
-            <Link href="/features" className="hover:text-white">特集一覧</Link>
-            <Link href="/privacy" className="hover:text-white">プライバシーポリシー</Link>
+            <Link href="/features/" className="hover:text-white">特集一覧</Link>
+            <Link href="/privacy/" className="hover:text-white">プライバシーポリシー</Link>
           </div>
           <p>© 2026 クラウドトラベル (croud-travel.pages.dev) All Rights Reserved.</p>
         </div>

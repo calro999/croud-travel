@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '愛知・三河湾蒲郡温泉郷で過ごす冬の旅（11・12月）！極上三河牛と冬イルミを愉しむ！名宿5選',
     description: '11月から12月にかけて、愛知県・三河湾の風光明媚な海岸線に広がる蒲郡温泉郷（蒲郡・三谷・西浦温泉）は、冬の澄み渡る青空と穏やかな海の絶景を望む極上の温泉旅館を厳選してご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay',
+    url: 'https://croud-travel.pages.dev/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterAichiGamagoriPage() {
         'headline': "【11・12月愛知・三河湾蒲郡温泉郷の竹島夕日パノラマと冬の深海魚】名物メヒカリ＆幻のアカザエビ・極上三河牛と冬イルミを愉しむ海辺名宿5選",
         'description': "11月から12月にかけて、愛知県・三河湾の風光明媚な海岸線に広がる蒲郡温泉郷（蒲郡・三谷・西浦温泉）は、冬の澄み渡る青空と穏やかな海、国指定天然記念物「竹島」を染める真紅のサンセットが最も美しい季節を迎えます。全国屈指の深海魚水揚げを誇る蒲郡漁港で冬に最盛期を迎える名物「メヒカリ（目光）」のサクサク唐揚げや、水深200m超の深海から水揚げされる幻の美味「アカザエビ（深海手長エビ）」の刺身、とろける霜降りのブランド黒毛和牛「三河牛」、冬のラグーナテンボス・イルミネーション。三河湾を一望する絶景オーシャンビュー露天風呂とともに、温暖な冬旅を約束する厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterAichiGamagoriPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-sky-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">愛知・三河湾蒲郡温泉郷</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterAichiGamagoriPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月愛知・三河湾蒲郡温泉郷】極上三河牛と冬イルミを愉しむ！名宿5選","item":"https://croud-travel.pages.dev/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月愛知・三河湾蒲郡温泉郷】極上三河牛と冬イルミを愉しむ！名宿5選","item":"https://croud-travel.pages.dev/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -611,7 +611,7 @@ export default function WinterAichiGamagoriPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay"
+              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">三重・鳥羽温泉郷</span>
@@ -624,7 +624,7 @@ export default function WinterAichiGamagoriPage() {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay"
+              href="/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">静岡・浜名湖舘山寺</span>
@@ -637,7 +637,7 @@ export default function WinterAichiGamagoriPage() {
             </Link>
 
             <Link 
-              href="/winter-mie-nabana-no-sato-illumination-stay"
+              href="/winter-mie-nabana-no-sato-illumination-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">三重・なばなの里</span>

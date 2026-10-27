@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月舞浜：東京ディズニーリゾート冬のクリスマス！名宿5選',
     description: '冬の東京ディズニーリゾート（舞浜）は、シンデレラ城やアメリカンウォーターフロントに巨大クリスマスツリーが輝く「ディズニー・クリスマス」。',
-    url: 'https://croud-travel.pages.dev/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay',
+    url: 'https://croud-travel.pages.dev/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -165,7 +165,7 @@ export default function ChibaMaihamaDisneyWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay"
+          "@id": "https://croud-travel.pages.dev/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay/"
         },
         "headline": "【11・12・1月舞浜】東京ディズニーリゾート冬のクリスマス＆年末年始！直営・オフィシャルホテルで叶える夢の冬旅名宿5選",
         "description": "冬の東京ディズニーリゾート（舞浜）は、シンデレラ城やアメリカンウォーターフロントに巨大クリスマスツリーが輝く「ディズニー・クリスマス」、冬の夜空を彩る花火「スターブライト・クリスマス」、そして和の趣あふれる華やかな「お正月プログラム」へと続く一年で最も夢と魔法に満ちたシーズン。パークで一日中感動に包まれた後は、ディズニーリゾートライン直結・ベイサイド・ステーション至近のオフィシャルホテルへ。パークビューやオーシャンビューのバルコニー、温水スパや贅沢なホテルビュッフェで心温まる冬の舞浜ステイ。楽天APIから最新取得したオフィシャルホテル5選を徹底特集します。",
@@ -191,13 +191,13 @@ export default function ChibaMaihamaDisneyWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "舞浜・東京ディズニーリゾート冬特集",
-            "item": "https://croud-travel.pages.dev/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay"
+            "item": "https://croud-travel.pages.dev/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay/"
           }
         ]
       },
@@ -585,7 +585,7 @@ export default function ChibaMaihamaDisneyWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-kanagawa-yokohama-minatomirai-illumination-chinatown-stay"
+              href="/winter-kanagawa-yokohama-minatomirai-illumination-chinatown-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-rose-400 block mb-1">横浜冬特集</span>
@@ -593,7 +593,7 @@ export default function ChibaMaihamaDisneyWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay"
+              href="/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-rose-400 block mb-1">お台場冬特集</span>
@@ -601,7 +601,7 @@ export default function ChibaMaihamaDisneyWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay"
+              href="/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-rose-400 block mb-1">千葉冬特集</span>

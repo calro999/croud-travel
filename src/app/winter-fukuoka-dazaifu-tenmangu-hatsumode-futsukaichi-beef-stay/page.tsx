@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月福岡：万葉の古湯二日市温泉と博多和牛の！名宿5選',
     description: '11月から1月、福岡・太宰府は本格的な受験シーズンの合格祈願と、新春三が日に200万人以上が訪れる日本屈指の初詣で最も熱気と神気に包まれる季。',
-    url: 'https://croud-travel.pages.dev/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/38630/38630.jpg', width: 1200, height: 630, alt: '太宰府天満宮初詣と二日市温泉名宿' }]
   }
@@ -147,13 +147,13 @@ export default function FukuokaDazaifuFutsukaichiPage() {
     '@type': 'ItemPage',
     name: "【11・12・1月福岡】学問の神様・太宰府天満宮の合格祈願＆新春200万人初詣と名物「梅ヶ枝餅」・万葉の古湯二日市温泉と博多和牛の名宿5選",
     description: "11月から1月、福岡・太宰府は本格的な受験シーズンの合格祈願と、新春三が日に200万人以上が訪れる日本屈指の初詣で最も熱気と神気に包まれる季節を迎えます。菅原道真公を祀る全国約1万2000社の総本宮「太宰府天満宮」では、屋根に緑が茂る美しい現代の仮殿や、道真公を慕って咲く御神木「飛梅（とびうめ）」が冬の境内を神聖に彩ります。参道で頬張る出来立て熱々の名物「梅ヶ枝餅」、万葉集に詠まれた開湯1300年の九州最古の名湯「二日市温泉」、そしてとろける旨味の「博多和牛」や名物水炊き。学業成就と開運を願う冬の厳選名宿5選をご紹介します。",
-    url: 'https://croud-travel.pages.dev/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay/',
     breadcrumb: {
       '@type': 'BreadcrumbList',
       itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://croud-travel.pages.dev/' },
         { '@type': 'ListItem', position: 2, name: '冬の特集一覧', item: 'https://croud-travel.pages.dev/features/' },
-        { '@type': 'ListItem', position: 3, name: '太宰府天満宮初詣＆二日市温泉ステイ', item: 'https://croud-travel.pages.dev/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay' }
+        { '@type': 'ListItem', position: 3, name: '太宰府天満宮初詣＆二日市温泉ステイ', item: 'https://croud-travel.pages.dev/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay/' }
       ]
     },
     mainEntity: {
@@ -615,7 +615,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay" 
+              href="/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-700 font-bold text-xs block mb-1">佐賀・祐徳稲荷＆嬉野</span>
@@ -625,7 +625,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
             </Link>
 
             <Link 
-              href="/winter-nagasaki-city-inasayama-nightview-glover-champon-stay" 
+              href="/winter-nagasaki-city-inasayama-nightview-glover-champon-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-700 font-bold text-xs block mb-1">長崎・稲佐山夜景</span>
@@ -635,7 +635,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
             </Link>
 
             <Link 
-              href="/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay" 
+              href="/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-700 font-bold text-xs block mb-1">宮崎・高千穂峡</span>
@@ -645,7 +645,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
             </Link>
 
             <Link 
-              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay" 
+              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-700 font-bold text-xs block mb-1">熊本・黒川温泉</span>
@@ -655,7 +655,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
             </Link>
 
             <Link 
-              href="/winter-fukuoka-itoshima-oyster-hakata-fugu-stay" 
+              href="/winter-fukuoka-itoshima-oyster-hakata-fugu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-700 font-bold text-xs block mb-1">福岡・糸島＆博多</span>
@@ -665,7 +665,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
             </Link>
 
             <Link 
-              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay" 
+              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-700 font-bold text-xs block mb-1">三重・伊勢神宮</span>

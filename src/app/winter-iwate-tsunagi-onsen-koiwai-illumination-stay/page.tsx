@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '盛岡つなぎ温泉で過ごす冬の旅（11・12月）！秀峰岩手山雪見露天と極上前沢牛会席！名宿5選',
     description: '11月下旬から12月にかけて東北最大級のウインターイルミネーション「小岩井農場 銀河農場の夜」が輝き。',
-    url: 'https://croud-travel.pages.dev/winter-iwate-tsunagi-onsen-koiwai-illumination-stay',
+    url: 'https://croud-travel.pages.dev/winter-iwate-tsunagi-onsen-koiwai-illumination-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -89,7 +89,7 @@ export default function TsunagiOnsenWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-iwate-tsunagi-onsen-koiwai-illumination-stay"
+          "@id": "https://croud-travel.pages.dev/winter-iwate-tsunagi-onsen-koiwai-illumination-stay/"
         }
       },
       {
@@ -313,7 +313,7 @@ export default function TsunagiOnsenWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月盛岡つなぎ温泉】秀峰岩手山雪見露天と極上前沢牛会席！名宿5選","item":"https://croud-travel.pages.dev/winter-iwate-tsunagi-onsen-koiwai-illumination-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月盛岡つなぎ温泉】秀峰岩手山雪見露天と極上前沢牛会席！名宿5選","item":"https://croud-travel.pages.dev/winter-iwate-tsunagi-onsen-koiwai-illumination-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -693,42 +693,42 @@ export default function TsunagiOnsenWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay"
+              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">岩手・花巻</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">花巻温泉郷 宮沢賢治ゆかりの渓谷雪見露天と前沢牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-iwate-appi-kogen-snow-resort-stay"
+              href="/winter-iwate-appi-kogen-snow-resort-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">岩手・安比高原</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">安比高原 極上パウダースノーと白銀リゾートステイ</h3>
             </Link>
             <Link 
-              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay"
+              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">秋田・乳頭温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">乳頭温泉郷 秘湯の雪見風呂ときりたんぽ鍋の宿</h3>
             </Link>
             <Link 
-              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay"
+              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">宮城・秋保温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">秋保温泉 名取川渓谷美と仙台牛・せり鍋会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-aomori-sukayu-hakkoda-yukimi-stay"
+              href="/winter-aomori-sukayu-hakkoda-yukimi-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">青森・酸ヶ湯八甲田</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">八甲田・酸ヶ湯温泉 千人風呂と豪雪白銀世界の秘湯宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">特集一覧</span>

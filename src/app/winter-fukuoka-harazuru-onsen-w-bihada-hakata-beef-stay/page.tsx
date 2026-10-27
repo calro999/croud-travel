@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '福岡・原鶴温泉で過ごす冬の旅（11・12月）！博多和牛会席！名宿5選',
     description: '11月から12月にかけて、福岡市内から高速で約60分、九州一の大河・筑後川のほとりに佇む「原鶴温泉（はらづるおんせん）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function FukuokaHarazuruWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay/"
         },
         "headline": "【11・12月福岡・原鶴温泉の筑後川冬情緒と奇跡のW美肌の湯】博多和牛会席＆掛け流し展望露天の湯巡り宿5選",
         "description": "11月から12月にかけて、福岡市内から高速で約60分、九州一の大河・筑後川のほとりに佇む「原鶴温泉（はらづるおんせん）」は、川面に初冬の朝霧が立ち込め、柿やすだちが実る筑後平野の豊かな風情に包まれます。原鶴温泉の最大の魅力は、角質を落とす「弱アルカリ性単純温泉」と、美白効果を高める「単純硫黄泉」という2つの美肌成分を併せ持つ全国的にも極めて希少な「W美肌の湯（ダブル美肌の湯）」。冬の冷えや乾燥で疲れた肌を驚くほど滑らかに潤す名湯と、福岡が誇る最高峰「博多和牛」のすき焼きや陶板焼き、朝倉の旬の冬野菜をふんだんに使った会席料理を堪能できる、厳選の名旅館・温泉ホテル5選を徹底解説します。",
@@ -100,13 +100,13 @@ export default function FukuokaHarazuruWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "福岡・原鶴温泉 筑後川冬情緒と奇跡のW美肌の湯・博多和牛会席の宿",
-            "item": "https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay"
+            "item": "https://croud-travel.pages.dev/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay/"
           }
         ]
       },
@@ -592,42 +592,42 @@ export default function FukuokaHarazuruWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay"
+              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-violet-300 font-semibold block mb-1">佐賀・嬉野温泉</span>
               <h3 className="text-sm font-bold group-hover:text-violet-200 transition">日本三大美肌の湯と名物温泉湯豆腐・佐賀牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay"
+              href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-violet-300 font-semibold block mb-1">宮崎・青島温泉</span>
               <h3 className="text-sm font-bold group-hover:text-violet-200 transition">南国温暖避寒と鬼の洗濯板絶景・最高峰宮崎牛＆伊勢海老の宿</h3>
             </Link>
             <Link 
-              href="/winter-kumamoto-kurokawa-yuakari-illumination-stay"
+              href="/winter-kumamoto-kurokawa-yuakari-illumination-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-violet-300 font-semibold block mb-1">熊本・黒川温泉</span>
               <h3 className="text-sm font-bold group-hover:text-violet-200 transition">幻想の竹灯籠湯あかりと湯巡り手形・あか牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay"
+              href="/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-violet-300 font-semibold block mb-1">山口・下関と川棚温泉</span>
               <h3 className="text-sm font-bold group-hover:text-violet-200 transition">本場とらふぐ解禁美食と元祖瓦そば・開湯八百年ラジウム泉の宿</h3>
             </Link>
             <Link 
-              href="/ibusuki-vs-kirishima-which-stay"
+              href="/ibusuki-vs-kirishima-which-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-violet-300 font-semibold block mb-1">鹿児島・指宿温泉</span>
               <h3 className="text-sm font-bold group-hover:text-violet-200 transition">名物天然砂むし温泉と錦江湾絶景・南国避寒黒豚会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay"
+              href="/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-violet-300 font-semibold block mb-1">鹿児島・霧島温泉郷</span>

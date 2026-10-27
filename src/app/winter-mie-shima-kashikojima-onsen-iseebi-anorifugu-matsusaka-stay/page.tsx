@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '三重・志摩賢島温泉で過ごす冬の旅（11・12月）！本場伊勢海老！名宿5選',
     description: '11月から12月にかけて、伊勢志摩国立公園の真珠の海「英虞湾（あごわん）」に浮かぶ賢島（かしこじま）周辺は、澄み渡る初冬の青空の下。',
-    url: 'https://croud-travel.pages.dev/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay',
+    url: 'https://croud-travel.pages.dev/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterMieKashikojimaPage() {
         'headline': "【11・12月三重・志摩賢島温泉の英虞湾夕日と冬の伊勢志摩美食】本場伊勢海老＆幻のあのりふぐ・極上松阪牛・真珠の海を望む絶景宿5選",
         'description': "11月から12月にかけて、伊勢志摩国立公園の真珠の海「英虞湾（あごわん）」に浮かぶ賢島（かしこじま）周辺は、澄み渡る初冬の青空の下、無数の真珠養殖筏が織りなすリアス海岸が夕陽に黄金色へと染まり、1年で最もドラマチックな美しさを放ちます。G7伊勢志摩サミットの舞台となった世界的名門ホテルをはじめ、海を一望する絶景温泉旅館が立ち並ぶ賢島温泉。10月に解禁され冬に甘みとプリプリの食感が極まる「伊勢海老」の姿造りや鬼殻焼き、志摩半島安乗沖で獲れる天然トラフグの最高峰「あのりふぐ」、クリーミーな「的矢かき」、世界の美食家を唸らせる極上の「松阪牛」。英虞湾の穏やかな波音と満天の星空に抱かれ、至高の美味と名湯に酔いしれる厳選宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterMieKashikojimaPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-amber-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">三重・志摩賢島温泉</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterMieKashikojimaPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月三重・志摩賢島温泉】本場伊勢海老！名宿5選","item":"https://croud-travel.pages.dev/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月三重・志摩賢島温泉】本場伊勢海老！名宿5選","item":"https://croud-travel.pages.dev/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -609,7 +609,7 @@ export default function WinterMieKashikojimaPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay"
+              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">三重・鳥羽温泉郷</span>
@@ -622,7 +622,7 @@ export default function WinterMieKashikojimaPage() {
             </Link>
 
             <Link 
-              href="/winter-mie-nabana-no-sato-illumination-stay"
+              href="/winter-mie-nabana-no-sato-illumination-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">三重・桑名</span>
@@ -635,7 +635,7 @@ export default function WinterMieKashikojimaPage() {
             </Link>
 
             <Link 
-              href="/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay"
+              href="/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">三重・湯の山温泉</span>

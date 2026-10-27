@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '和倉温泉をふるさと納税でお得に旅する！七尾湾オーシャンビュー＆能登復興応援！海の恵み会席名宿特集｜のと楽・美湾荘・宝仙閣',
     description: '開湯千二百年・七尾湾の波打ち際に湧く海の温泉・石川県和倉温泉を楽天ふるさと納税でお得に旅して応援！広大な庭園露天風呂を誇る「日本の宿 のと楽」、創業百二十年・海一望の「ゆけむりの宿 美湾荘」、総湯隣接の温もり宿「味な宿 宝仙閣」を徹底比較。能登牛や日本海旬魚会席、七尾市トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-wakura-onsen-noto-ocean-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-wakura-onsen-noto-ocean-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T17:00:00+09:00',
     dateModified: '2026-10-19T17:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-wakura-onsen-noto-ocean-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-wakura-onsen-noto-ocean-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【和倉温泉×ふるさと納税】七尾湾オーシャンビュー＆能登復興応援！海の恵み会席名宿特集｜のと楽・美湾荘・宝仙閣","item":"https://croud-travel.pages.dev/furusato-tax-wakura-onsen-noto-ocean-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【和倉温泉×ふるさと納税】七尾湾オーシャンビュー＆能登復興応援！海の恵み会席名宿特集｜のと楽・美湾荘・宝仙閣","item":"https://croud-travel.pages.dev/furusato-tax-wakura-onsen-noto-ocean-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【和倉温泉×ふるさと納税】七尾湾オーシャンビュー＆能登復興応援！海の恵み会席名宿特集｜のと楽・美湾荘・宝仙閣</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-tsukioka-onsen-emerald-bihada-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-tsukioka-onsen-emerald-bihada-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 月岡温泉 エメラルドグリーン硫黄泉＆極上越後会席
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-shima-onsen-retro-sekizenkan-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-shima-onsen-retro-sekizenkan-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 四万温泉 レトロ重要文化財「元禄の湯」＆四万ブルー
               </Link>
             </li>

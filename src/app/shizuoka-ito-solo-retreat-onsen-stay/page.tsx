@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '伊東温泉ひとり旅・相模湾オーシャンおこもり：毎分3万L湧出の名湯・貸切源泉露天・金目鯛姿煮！伊豆東海岸の温暖な湯の街厳選3宿',
     description: '湯量日本屈指の伊東温泉！丘の上に建ち相模湾を一望する月替わり会席の名旅館「青山やまと」、アットホームなもてなしと良質な源泉が愛される「やまだ屋」、24時間入浴可能な源泉かけ流し貸切風呂が温泉好きに大人気の「大東館」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/shizuoka-ito-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/shizuoka-ito-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-ito-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/shizuoka-ito-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【伊東温泉ひとり旅・相模湾オーシャンおこもり】毎分3万L湧出の名湯・貸切源泉露天・金目鯛姿煮！伊豆東海岸の温暖な湯の街厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-ito-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【伊東温泉ひとり旅・相模湾オーシャンおこもり】毎分3万L湧出の名湯・貸切源泉露天・金目鯛姿煮！伊豆東海岸の温暖な湯の街厳選3宿","item":"https://croud-travel.pages.dev/shizuoka-ito-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

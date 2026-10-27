@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税厳選ガイド鹿児島黒豚・平田牧場金華豚・那須高原豚の美食旅',
     description: 'とろける脂の甘みと極上の旨味！本場鹿児島黒豚の出汁しゃぶ会席と砂むし温泉、山形庄内「平田牧場金華豚」の幻の豚肉とあつみ温泉、栃木那須高原三元豚のブランド肉づくしステイ。肉好き必見の極上ポークディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-brand-pork-shabu-gourmet-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-brand-pork-shabu-gourmet-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -578,7 +578,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-brand-jidori-mizutaki-gourmet-stay"
+            href="/furusato-tax-brand-jidori-mizutaki-gourmet-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -594,7 +594,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-highland-resort-french-auberge-stay"
+            href="/furusato-tax-highland-resort-french-auberge-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -610,7 +610,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-sake-brewery-pairing-onsen-stay"
+            href="/furusato-tax-sake-brewery-pairing-onsen-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

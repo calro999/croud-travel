@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもりで過ごす冬の旅（10月）！365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿',
     description: '10月下旬〜11月中旬は河鹿橋の紅葉が真っ赤に燃え上がる群馬・伊香保温泉！フレンチ仕込みの料理とモダンな洋風旅館で一人旅の満足度抜群の「洋風旅館ぴのん」、伊香保のシンボル石段街に近く創業四百余年の歴史を誇る「森秋旅館」、家庭的なもてなしと源泉かけ流しの「石坂旅館」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/gunma-ikaho-autumn-solo-retreat-golden-spring-stay',
+    url: 'https://croud-travel.pages.dev/gunma-ikaho-autumn-solo-retreat-golden-spring-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/gunma-ikaho-autumn-solo-retreat-golden-spring-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/gunma-ikaho-autumn-solo-retreat-golden-spring-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【10月・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもり】365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿","item":"https://croud-travel.pages.dev/gunma-ikaho-autumn-solo-retreat-golden-spring-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【10月・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもり】365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿","item":"https://croud-travel.pages.dev/gunma-ikaho-autumn-solo-retreat-golden-spring-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

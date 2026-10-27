@@ -377,14 +377,14 @@ export default function DisneyTripPackingRegretsWorst5Page() {
           <p className="text-xs text-stone-500 mb-3">あわせて読みたい関連記事</p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link
-              href="/tokyo-disney-resort-family-hotel-comparison"
+              href="/tokyo-disney-resort-family-hotel-comparison/"
               className="text-xs sm:text-sm font-semibold text-rose-700 hover:text-rose-800 underline underline-offset-4"
             >
               【子連れディズニーホテル徹底比較】無料シャトル・洗い場付きお風呂・添い寝無料の厳選宿
             </Link>
             <span className="text-stone-300">|</span>
             <Link
-              href="/tokyo-osaka-bus-vs-shinkansen-guide"
+              href="/tokyo-osaka-bus-vs-shinkansen-guide/"
               className="text-xs sm:text-sm font-semibold text-rose-700 hover:text-rose-800 underline underline-offset-4"
             >
               【東京〜大阪 移動徹底比較】夜行バス vs 新幹線 所要時間・料金・快適度まとめ

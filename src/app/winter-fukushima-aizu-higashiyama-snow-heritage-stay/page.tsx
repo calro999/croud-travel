@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '会津東山温泉で過ごす冬の旅（11・12月）！雪化粧の湯川渓谷露天と会津地鶏！名宿5選',
     description: '11月下旬の初雪から12月の白銀世界へと移ろう福島・会津の奥座敷「東山温泉」。開湯1300年、湯川の渓流沿いに佇む風情ある木造建築群と渓谷美。',
-    url: 'https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-snow-heritage-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-snow-heritage-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function HigashiyamaWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-snow-heritage-stay"
+          "@id": "https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-snow-heritage-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function HigashiyamaWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月会津東山温泉】雪化粧の湯川渓谷露天と会津地鶏！名宿5選","item":"https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-snow-heritage-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月会津東山温泉】雪化粧の湯川渓谷露天と会津地鶏！名宿5選","item":"https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-snow-heritage-stay/"}]}) }}
       />
         
         {/* Intro */}
@@ -647,7 +647,7 @@ export default function HigashiyamaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link 
-              href="/winter-yamagata-onogawa-yonezawa-beef-stay"
+              href="/winter-yamagata-onogawa-yonezawa-beef-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">山形の冬名湯</span>
@@ -657,7 +657,7 @@ export default function HigashiyamaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay"
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">東北の初雪</span>
@@ -667,7 +667,7 @@ export default function HigashiyamaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay"
+              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">秋田の秘湯雪見</span>
@@ -677,7 +677,7 @@ export default function HigashiyamaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay"
+              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">北関東の雪見</span>
@@ -687,7 +687,7 @@ export default function HigashiyamaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-zao-snow-monster-ice-tree-stay"
+              href="/winter-zao-snow-monster-ice-tree-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">山形の樹氷絶景</span>
@@ -697,7 +697,7 @@ export default function HigashiyamaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay"
+              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">上州の名湯</span>

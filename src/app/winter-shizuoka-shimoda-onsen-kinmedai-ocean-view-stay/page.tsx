@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '下田南伊豆温泉郷で過ごす冬の旅（11・12月）！伊勢海老会席を満喫する絶景！名宿5選',
     description: '11月から12月にかけて、伊豆半島南端の下田・南伊豆エリアは、水揚げ日本一を誇る名物「下田の地金目鯛」が最も脂を蓄える最高の旬を迎えます。',
-    url: 'https://croud-travel.pages.dev/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function ShizuokaShimodaWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay/"
         },
         "headline": "【11・12月静岡・下田南伊豆温泉郷の初冬海絶景と極上地金目鯛】水揚げ日本一の金目鯛姿煮＆伊勢海老会席を満喫する絶景宿5選",
         "description": "11月から12月にかけて、伊豆半島南端の下田・南伊豆エリアは、水揚げ日本一を誇る名物「下田の地金目鯛」が最も脂を蓄える最高の旬を迎えます。初冬でも太平洋の黒潮に洗われ温暖な気候が広がり、水平線が茜色に染まる夕暮れや満天の星を望む海辺の絶景露天風呂は格別の心地よさ。12月中旬には爪木崎の水仙まつりが開幕し、エメラルドグリーンの海と白い水仙のコントラストが旅人を魅了します。肉厚でとろける金目鯛の姿煮やしゃぶしゃぶ、伊勢海老、下田温泉・奥下田美肌源泉を心ゆくまで堪能する厳選名宿5選を徹底解説します。",
@@ -100,13 +100,13 @@ export default function ShizuokaShimodaWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "静岡・下田南伊豆温泉郷 初冬海絶景と地金目鯛の宿",
-            "item": "https://croud-travel.pages.dev/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay"
+            "item": "https://croud-travel.pages.dev/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay/"
           }
         ]
       },
@@ -564,7 +564,7 @@ export default function ShizuokaShimodaWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
-              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay"
+              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-cyan-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-700 bg-cyan-100/60 px-2 py-0.5 rounded-full inline-block">静岡・熱海</span>
@@ -576,7 +576,7 @@ export default function ShizuokaShimodaWinterFeature() {
               </p>
             </Link>
             <Link 
-              href="/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay"
+              href="/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-cyan-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-700 bg-cyan-100/60 px-2 py-0.5 rounded-full inline-block">東伊豆・稲取</span>
@@ -588,7 +588,7 @@ export default function ShizuokaShimodaWinterFeature() {
               </p>
             </Link>
             <Link 
-              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay"
+              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-cyan-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-700 bg-cyan-100/60 px-2 py-0.5 rounded-full inline-block">中伊豆・修善寺</span>
@@ -600,7 +600,7 @@ export default function ShizuokaShimodaWinterFeature() {
               </p>
             </Link>
             <Link 
-              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay"
+              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-cyan-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-700 bg-cyan-100/60 px-2 py-0.5 rounded-full inline-block">三重・鳥羽</span>

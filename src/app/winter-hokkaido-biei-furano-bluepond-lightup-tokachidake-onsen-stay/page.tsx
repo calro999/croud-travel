@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月北海道：富良野和牛の！名宿5選',
     description: '11月から1月、北海道・美瑛と富良野は一面が純白のパウダースノーに覆われ、静寂と奇跡の光が交差する白銀のワンダーランドへと姿を変えます。',
-    url: 'https://croud-travel.pages.dev/winter-hokkaido-biei-furano-bluepond-lightup-tokachidake-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-biei-furano-bluepond-lightup-tokachidake-onsen-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -165,7 +165,7 @@ export default function HokkaidoBieiFuranoWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-hokkaido-biei-furano-bluepond-lightup-tokachidake-onsen-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-hokkaido-biei-furano-bluepond-lightup-tokachidake-onsen-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hokkaido-biei-furano-bluepond-lightup-tokachidake-onsen-stay/"
         },
         "headline": "【11・12・1月北海道】美瑛＆富良野！白金青い池・白ひげの滝ライトアップと十勝岳雪見にごり湯・富良野和牛の名宿5選",
         "description": "11月から1月、北海道・美瑛と富良野は一面が純白のパウダースノーに覆われ、静寂と奇跡の光が交差する白銀のワンダーランドへと姿を変えます。凍結した水面と立ち枯れたカラマツが幻想的に浮かび上がる冬期限定「白金青い池ライトアップ」、コバルトブルーの渓流が氷瀑と霧氷をまとう「白ひげの滝」、そして白銀のパッチワークの丘。大雪山十勝岳連峰の標高1,200mに湧く雪見にごり湯と、とろける富良野和牛や濃厚チーズフォンデュに心温まる至福の冬旅。楽天APIから最新取得した実力宿5選を徹底特集します。",
@@ -191,13 +191,13 @@ export default function HokkaidoBieiFuranoWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "美瑛＆富良野冬特集",
-            "item": "https://croud-travel.pages.dev/winter-hokkaido-biei-furano-bluepond-lightup-tokachidake-onsen-stay"
+            "item": "https://croud-travel.pages.dev/winter-hokkaido-biei-furano-bluepond-lightup-tokachidake-onsen-stay/"
           }
         ]
       },
@@ -587,7 +587,7 @@ export default function HokkaidoBieiFuranoWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-hokkaido-sapporo-odori-illumination-jozankei-stay"
+              href="/winter-hokkaido-sapporo-odori-illumination-jozankei-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-cyan-400 block mb-1">札幌冬特集</span>
@@ -595,7 +595,7 @@ export default function HokkaidoBieiFuranoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay"
+              href="/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-cyan-400 block mb-1">小樽冬特集</span>
@@ -603,7 +603,7 @@ export default function HokkaidoBieiFuranoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay"
+              href="/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-cyan-400 block mb-1">ニセコ冬特集</span>

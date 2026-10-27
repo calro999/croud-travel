@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'のぼうの城・行田忍城雪景色と足袋蔵の街重伝建：2026-2027年冬の埼玉・行田＆熊谷！行田天然温泉と武州牛・加須手打ちうどん名宿5選',
     description: '映画『のぼうの城』の舞台・浮き城「忍城」御三階櫓の冬晴れ雪景色と、日本遺産「足袋蔵のまち」レトロ散策！古代のロマン漂うさきたま古墳群や源泉かけ流し行田天然温泉。冬の身体を芯から温める加須手打ちうどん・行田ゼリーフライと極上武州牛を堪能する冬の北埼玉厳選名宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-saitama-gyoda-oshi-castle-sakidama-kofun-tabigura-onsen-bushugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-saitama-gyoda-oshi-castle-sakidama-kofun-tabigura-onsen-bushugyu-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FeaturePage() {
     '@type': 'TouristDestination',
     name: '行田・熊谷・加須・羽生',
     description: '映画『のぼうの城』の舞台・浮き城「忍城」御三階櫓の冬晴れ雪景色と、日本遺産「足袋蔵のまち」レトロ散策！古代のロマン漂うさきたま古墳群や源泉かけ流し行田天然温泉。冬の身体を芯から温める加須手打ちうどん・行田ゼリーフライと極上武州牛を堪能する冬の北埼玉厳選名宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-saitama-gyoda-oshi-castle-sakidama-kofun-tabigura-onsen-bushugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-saitama-gyoda-oshi-castle-sakidama-kofun-tabigura-onsen-bushugyu-stay/',
     touristType: ['温泉旅行', 'グルメ旅行', '歴史散策', '冬旅行'],
     containedInPlace: {
       '@type': 'AdministrativeArea',
@@ -771,47 +771,47 @@ export default function FeaturePage() {
                 </Link>
               </li>
               <li>
-                <Link href="/features" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+                <Link href="/features/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                   <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                   <span>全国の季節・目的別旅行特集一覧</span>
                 </Link>
               </li>
 
               <li>
-                <Link href="/winter-kagoshima-chiran-samurai-makurazaki-katsuo-kaimondake-kurobuta-stay" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+                <Link href="/winter-kagoshima-chiran-samurai-makurazaki-katsuo-kaimondake-kurobuta-stay/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                   <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                   <span>2026-2027年冬の鹿児島・南薩摩＆枕崎！本場一本釣り鰹と鹿児島黒豚・黒牛会席名宿5選</span>
                 </Link>
               </li>
 
               <li>
-                <Link href="/winter-ibaraki-sakuragawa-makabe-townscape-tsukubasan-shrine-hatsumode-hitachigyu-stay" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+                <Link href="/winter-ibaraki-sakuragawa-makabe-townscape-tsukubasan-shrine-hatsumode-hitachigyu-stay/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                   <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                   <span>2026-2027年冬の茨城・桜川＆筑波！名物常陸秋そばと常陸牛会席名宿5選</span>
                 </Link>
               </li>
 
               <li>
-                <Link href="/winter-yamanashi-otsuki-saruhashi-bridge-fuji-view-houtou-koshugyu-stay" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+                <Link href="/winter-yamanashi-otsuki-saruhashi-bridge-fuji-view-houtou-koshugyu-stay/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                   <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                   <span>2026-2027年冬の山梨・大月＆都留！名物手打ちほうとうと甲州牛会席名宿5選</span>
                 </Link>
               </li>
 
               <li>
-                <Link href="/winter-saga-kashima-hizenhamashuku-yutoku-inari-hatsumode-sagagyu-stay" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+                <Link href="/winter-saga-kashima-hizenhamashuku-yutoku-inari-hatsumode-sagagyu-stay/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                   <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                   <span>2026-2027年冬の佐賀・鹿島＆嬉野！冬の新酒仕込みと佐賀牛・有明海苔名宿5選</span>
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+                <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                   <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                   <span>実質2,000円で泊まる名湯・高級温泉旅館ガイド</span>
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-local-gourmet-inn-stay" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+                <Link href="/furusato-tax-local-gourmet-inn-stay/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                   <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                   <span>ご当地グルメを堪能する全国美食旅特集</span>
                 </Link>

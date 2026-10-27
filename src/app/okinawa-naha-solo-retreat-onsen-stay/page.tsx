@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '那覇・国際通りひとり旅：大浴場＆プール・ゆいレール直結・やちむん通り！南国の潮風と琉球文化に浸る大人の厳選3宿',
     description: '那覇空港からゆいレールで約12〜16分！牧志駅直結で雨に濡れずチェックインできる安心の「ダイワロイネットホテル那覇国際通り」、県庁前駅徒歩圏で大浴場＆本格サウナを完備する「ワイズキャビン＆ホテル那覇国際通り」、異国情緒漂うプール＆屋外バーを備えた「ホテルパームロイヤルリゾート国際通り」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/okinawa-naha-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/okinawa-naha-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/okinawa-naha-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/okinawa-naha-solo-retreat-onsen-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【那覇・国際通りひとり旅】大浴場＆プール・ゆいレール直結・やちむん通り！南国の潮風と琉球文化に浸る大人の厳選3宿","item":"https://croud-travel.pages.dev/okinawa-naha-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【那覇・国際通りひとり旅】大浴場＆プール・ゆいレール直結・やちむん通り！南国の潮風と琉球文化に浸る大人の厳選3宿","item":"https://croud-travel.pages.dev/okinawa-naha-solo-retreat-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

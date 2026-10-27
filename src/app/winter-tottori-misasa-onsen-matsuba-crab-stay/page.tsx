@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '解禁！鳥取松葉ガニと三朝温泉で過ごす冬の旅（11月）！日本海直送タグ付き活ガニと世！名宿5選',
     description: '11月6日解禁！境港・網代港直送のブランドタグ付き「活松葉ガニ」フルコース！開湯850年、世界有数のラドン含有量を誇る三朝温泉の奇跡のホルミシス効果に浸かり、国登録有形文化財の老舗宿や大庭園露天風呂で寛ぐ冬の至高旅。',
-    url: 'https://croud-travel.pages.dev/winter-tottori-misasa-onsen-matsuba-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-tottori-misasa-onsen-matsuba-crab-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function MisasaCrabWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-tottori-misasa-onsen-matsuba-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tottori-misasa-onsen-matsuba-crab-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function MisasaCrabWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11月解禁！鳥取松葉ガニと三朝温泉】日本海直送タグ付き活ガニと世！名宿5選","item":"https://croud-travel.pages.dev/winter-tottori-misasa-onsen-matsuba-crab-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11月解禁！鳥取松葉ガニと三朝温泉】日本海直送タグ付き活ガニと世！名宿5選","item":"https://croud-travel.pages.dev/winter-tottori-misasa-onsen-matsuba-crab-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -713,13 +713,13 @@ export default function MisasaCrabWinterPage() {
               鳥取県の温泉宿・ホテル一覧 →
             </Link>
             <Link 
-              href="/winter-crab-gourmet" 
+              href="/winter-crab-gourmet/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-rose-50 hover:text-rose-700 transition font-medium border border-stone-100"
             >
               冬の極上カニグルメ宿特集 →
             </Link>
             <Link 
-              href="/winter-echizen-crab-taiza-luxury-stay" 
+              href="/winter-echizen-crab-taiza-luxury-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-rose-50 hover:text-rose-700 transition font-medium border border-stone-100"
             >
               越前ガニ・間人ガニ特集 →
@@ -743,13 +743,13 @@ export default function MisasaCrabWinterPage() {
               岡山県（湯原・美作）の宿 →
             </Link>
             <Link 
-              href="/winter-snow-onsen" 
+              href="/winter-snow-onsen/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-rose-50 hover:text-rose-700 transition font-medium border border-stone-100"
             >
               全国の雪見温泉宿特集 →
             </Link>
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-3 rounded-xl bg-stone-900 text-white hover:bg-stone-800 transition font-bold text-center flex items-center justify-center gap-1"
             >
               <span>全国の特集一覧を見る</span>

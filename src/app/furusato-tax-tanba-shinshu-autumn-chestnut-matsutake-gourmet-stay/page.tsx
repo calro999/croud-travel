@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '大粒の極上丹波栗＆芳醇な秋松茸！丹波篠山・信州小布施の秋の味覚プレミアム名旅館×ふるさと納税厳選ガイド',
     description: '10月〜11月限定の最高峰グルメ！大粒で濃厚な甘みを誇る「丹波栗・小布施栗」の焼き栗＆栗おこわと、香り高い「秋の焼き松茸・ぼたん鍋」を本場で堪能。「料理旅館 たかさご」「丹波篠山 近又」「小布施温泉 あけびの湯」など老舗名宿を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-tanba-shinshu-autumn-chestnut-matsutake-gourmet-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-tanba-shinshu-autumn-chestnut-matsutake-gourmet-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -55,7 +55,7 @@ export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">丹波篠山＆信州小布施 新栗・松茸美食宿特集</span>
       </nav>
@@ -384,7 +384,7 @@ export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
 
             <li key="furusato-tax-spring-water-soba-tofu-onsen-stay">
               <Link
-                href="/furusato-tax-spring-water-soba-tofu-onsen-stay"
+                href="/furusato-tax-spring-water-soba-tofu-onsen-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -395,7 +395,7 @@ export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
 
             <li key="furusato-tax-tangible-cultural-property-architectural-ryokan-stay">
               <Link
-                href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay"
+                href="/furusato-tax-tangible-cultural-property-architectural-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -406,7 +406,7 @@ export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
 
             <li key="furusato-tax-historical-kaido-post-town-ryokan-stay">
               <Link
-                href="/furusato-tax-historical-kaido-post-town-ryokan-stay"
+                href="/furusato-tax-historical-kaido-post-town-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -417,7 +417,7 @@ export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
 
             <li key="furusato-tax-luxury-hotspring-ryokan-stay">
               <Link
-                href="/furusato-tax-luxury-hotspring-ryokan-stay"
+                href="/furusato-tax-luxury-hotspring-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -437,7 +437,7 @@ export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
-            href="/travel-savings-guide"
+            href="/travel-savings-guide/"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 text-stone-950 font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition text-sm"
           >
             🏨 旅行節約総合ハブページを見る ➔

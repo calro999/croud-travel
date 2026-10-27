@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '山陰・湯村温泉ひとり旅・荒湯源泉98度おこもり：杜氏の愛した美肌湯・但馬牛炭火焼き・夢千代日記の風情！春来川せせらぎの湯治厳選3宿',
     description: '嘉祥元年（848年）開湯、日本屈指の高熱源泉を誇る兵庫・湯村温泉！格式ある日本庭園と展望檜風呂が口コミ★4.5超の名門「佳泉郷 井づつや」、全室素足でくつろげる和モダン温泉宿「御宿コトブキ」、アットホームなもてなしと料理が口コミ★4.8超の「伯雲亭」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/hyogo-yumura-solo-retreat-tajima-onsen-stay',
+    url: 'https://croud-travel.pages.dev/hyogo-yumura-solo-retreat-tajima-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/hyogo-yumura-solo-retreat-tajima-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/hyogo-yumura-solo-retreat-tajima-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【山陰・湯村温泉ひとり旅・荒湯源泉98度おこもり】杜氏の愛した美肌湯・但馬牛炭火焼き・夢千代日記の風情！春来川せせらぎの湯治厳選3宿","item":"https://croud-travel.pages.dev/hyogo-yumura-solo-retreat-tajima-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【山陰・湯村温泉ひとり旅・荒湯源泉98度おこもり】杜氏の愛した美肌湯・但馬牛炭火焼き・夢千代日記の風情！春来川せせらぎの湯治厳選3宿","item":"https://croud-travel.pages.dev/hyogo-yumura-solo-retreat-tajima-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

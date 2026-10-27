@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '一足早い春の訪れ！早咲き河津桜＆梅まつりを愛でる花見露天風呂温泉旅館',
     description: '伊豆河津・南伊豆・熱海など2月から濃いピンク色の花を咲かせる早咲きの河津桜や名木が揃う梅まつり。春の息吹を感じながら浸かる絶景露天風呂。',
-    url: 'https://croud-travel.pages.dev/early-spring-kawazu-sakura-plum-blossom-hotsprings',
+    url: 'https://croud-travel.pages.dev/early-spring-kawazu-sakura-plum-blossom-hotsprings/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/early-spring-kawazu-sakura-plum-blossom-hotsprings"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/early-spring-kawazu-sakura-plum-blossom-hotsprings/"
   };
 
   const faqSchema = {
@@ -151,7 +151,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"一足早い春の訪れ！早咲き河津桜＆梅まつりを愛でる花見露天風呂温泉旅館 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/early-spring-kawazu-sakura-plum-blossom-hotsprings"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"一足早い春の訪れ！早咲き河津桜＆梅まつりを愛でる花見露天風呂温泉旅館 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/early-spring-kawazu-sakura-plum-blossom-hotsprings/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -166,7 +166,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">早咲き河津桜＆梅まつり温泉</span>
       </nav>
@@ -281,7 +281,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="一足早い春の訪れ！早咲き河津桜＆梅まつりを愛でる花見露天風呂温泉旅館"
-            url="https://croud-travel.pages.dev/early-spring-kawazu-sakura-plum-blossom-hotsprings"
+            url="https://croud-travel.pages.dev/early-spring-kawazu-sakura-plum-blossom-hotsprings/"
           />
         </div>
 

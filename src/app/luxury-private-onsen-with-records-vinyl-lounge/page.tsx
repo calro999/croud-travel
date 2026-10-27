@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '2026年：名盤の温もりに浸る。アナログレコード＆真空管アンプラウンジ付き大人の音楽温泉宿5選',
     description: '2026年最新！ヴィンテージレコードと真空管アンプの豊かな響き、名作スピーカーを配したバーラウンジと源泉掛け流し風呂で寛ぐ大人の音楽リトリート5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-records-vinyl-lounge',
+    url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-records-vinyl-lounge/',
   },
   alternates: {
     canonical: "https://croud-travel.pages.dev/luxury-private-onsen-with-records-vinyl-lounge/",
@@ -179,7 +179,7 @@ export default function FeatureDetailPage() {
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-amber-600">トップ</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-amber-600">厳選特集一覧</Link>
+          <Link href="/features/" className="hover:text-amber-600">厳選特集一覧</Link>
           <span>&gt;</span>
           <span className="text-slate-800 font-medium truncate max-w-xs sm:max-w-md md:max-w-none">
             アナログレコードラウンジ＆名機オーディオ温泉宿
@@ -555,7 +555,7 @@ export default function FeatureDetailPage() {
         {/* 特集トップへのリンク */}
         <div className="text-center pt-4">
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold px-8 py-4 rounded-2xl shadow-md transition-all"
           >
             <span>他の厳選特集一覧を見る</span>

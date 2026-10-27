@@ -517,7 +517,7 @@ export default function AsoKumamotoCarFreePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-1">
             <Link
-              href="/fukuoka-kumamoto-bus-vs-shinkansen-guide"
+              href="/fukuoka-kumamoto-bus-vs-shinkansen-guide/"
               className="p-4 bg-white border border-stone-200 rounded-2xl hover:border-amber-400 hover:shadow-sm transition group"
             >
               <div className="text-[11px] text-amber-700 font-bold mb-1">九州新幹線 vs 高速バス</div>
@@ -530,7 +530,7 @@ export default function AsoKumamotoCarFreePage() {
             </Link>
 
             <Link
-              href="/kyushu-travel-budget-how-many-nights"
+              href="/kyushu-travel-budget-how-many-nights/"
               className="p-4 bg-white border border-stone-200 rounded-2xl hover:border-amber-400 hover:shadow-sm transition group"
             >
               <div className="text-[11px] text-amber-700 font-bold mb-1">旅行予算＆宿泊日数目安</div>
@@ -547,7 +547,7 @@ export default function AsoKumamotoCarFreePage() {
         {/* 47都道府県トップリンク */}
         <div className="text-center pt-2">
           <Link
-            href="/prefectures"
+            href="/prefectures/"
             className="inline-flex items-center gap-2 text-xs font-bold text-stone-700 bg-white hover:bg-stone-50 border border-stone-300 px-8 py-3.5 rounded-2xl transition shadow-sm"
           >
             <span>🗾</span>

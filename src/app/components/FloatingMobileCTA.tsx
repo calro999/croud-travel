@@ -44,7 +44,7 @@ export default function FloatingMobileCTA({ affiliateUrl, hotelName, price }: Fl
               <span className="text-emerald-700 font-bold">楽天トラベル公式</span>
             )}
             <Link
-              href="/campaigns"
+              href="/campaigns/"
               className="text-teal-700 underline font-bold"
             >
               クーポン配布中

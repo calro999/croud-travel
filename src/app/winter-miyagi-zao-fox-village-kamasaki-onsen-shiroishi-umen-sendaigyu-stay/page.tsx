@@ -15,12 +15,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: '【冬毛モフモフの蔵王キツネ村と開湯600年鎌先温泉の薬湯】2026-2027年11-12月初冬の宮城・白石！名物白石温麺と極上仙台牛会席・木造湯治宿の雪見風呂名宿5選',
     description: '11月〜12月に冬毛へと生え変わり最もモフモフで愛らしい姿を見せる世界的人気スポット「宮城蔵王キツネ村」！南蔵王の麓、開湯600年の歴史を誇る「奥羽の薬湯」鎌先温泉の風情ある木造旅館群で心身を癒やす旅。油を使わず胃腸に優しい伝統名物「白石温麺（うーめん）」と、きめ細やかなサシがとろける最高峰仙台牛を味わう初冬の厳選名宿5選。',
-    url: 'https://croud-travel.pages.dev/winter-miyagi-zao-fox-village-kamasaki-onsen-shiroishi-umen-sendaigyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyagi-zao-fox-village-kamasaki-onsen-shiroishi-umen-sendaigyu-stay/',
     type: 'article',
     siteName: 'クラウドトラベル',
   },
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-miyagi-zao-fox-village-kamasaki-onsen-shiroishi-umen-sendaigyu-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-miyagi-zao-fox-village-kamasaki-onsen-shiroishi-umen-sendaigyu-stay/',
   },
 };
 
@@ -46,13 +46,13 @@ export default function WinterFeaturePage() {
                   "@type": "ListItem",
                   "position": 2,
                   "name": "特集一覧",
-                  "item": "https://croud-travel.pages.dev/features"
+                  "item": "https://croud-travel.pages.dev/features/"
                 },
                 {
                   "@type": "ListItem",
                   "position": 3,
                   "name": "【冬毛モフモフの蔵王キツネ村と開湯600年鎌先温泉の薬湯】2026-2027年11-12月初冬の宮城・白石！名物白石温麺と極上仙台牛会席・木造湯治宿の雪見風呂名宿5選",
-                  "item": "https://croud-travel.pages.dev/winter-miyagi-zao-fox-village-kamasaki-onsen-shiroishi-umen-sendaigyu-stay"
+                  "item": "https://croud-travel.pages.dev/winter-miyagi-zao-fox-village-kamasaki-onsen-shiroishi-umen-sendaigyu-stay/"
                 }
               ]
             },
@@ -95,7 +95,7 @@ export default function WinterFeaturePage() {
         <div className="max-w-5xl mx-auto flex items-center gap-1.5 flex-wrap">
           <Link href="/" className="hover:text-slate-800 transition">ホーム</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
-          <Link href="/features" className="hover:text-slate-800 transition">特集一覧</Link>
+          <Link href="/features/" className="hover:text-slate-800 transition">特集一覧</Link>
           <ChevronRight className="w-3 h-3 text-slate-400" />
           <span className="text-slate-800 font-medium truncate max-w-xs">【冬毛モフモフの蔵王キツネ村と開湯600年鎌先温泉の薬湯】2026-2027年11-12月初冬の宮城・白石！名物白石温麺と極上仙台牛会席・木造湯治宿の雪見風呂名宿5選</span>
         </div>

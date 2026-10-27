@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '365段の石段街と情緒あふれる湯滝！伊香保温泉の「黄金の湯」「白銀の湯」名門旅館＆上州牛会席×ふるさと納税極上旅ガイド福一・岸権・木暮',
     description: '万葉集にも詠まれた名湯・群馬県伊香保温泉！365段の石段街と湯の花まんじゅう。「福一」「岸権旅館」「ホテル木暮」を、群馬県渋川市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。創業四百四十年最上位の格式、黄金の湯かけ流し、北関東最大級大浴場、上州牛ステーキを満喫。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-stone-steps-luxury-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-stone-steps-luxury-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">伊香保温泉 石段街＆黄金の湯宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay"
+            href="/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【草津温泉 湯畑散策＆名湯名門旅館×ふるさと納税】櫻井・一井・奈良屋
           </Link>
           <Link
-            href="/furusato-tax-kinugawa-onsen-valley-view-luxury-stay"
+            href="/furusato-tax-kinugawa-onsen-valley-view-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【鬼怒川温泉 渓谷美＆名門旅館×ふるさと納税】あさや・金谷ホテル・ホテル三日月
           </Link>
           <Link
-            href="/furusato-tax-chichibu-nagatoro-nature-onsen-stay"
+            href="/furusato-tax-chichibu-nagatoro-nature-onsen-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【秩父・長瀞 名勝岩畳＆美肌温泉宿×ふるさと納税】和どう・新木鉱泉・長生館
           </Link>
           <Link
-            href="/furusato-tax-hakone-onsen-open-air-bath-stay"
+            href="/furusato-tax-hakone-onsen-open-air-bath-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【箱根温泉 客室露天風呂＆名門旅館×ふるさと納税】富士屋ホテル・天成園・はつはな

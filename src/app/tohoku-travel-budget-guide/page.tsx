@@ -135,11 +135,11 @@ export default function TohokuBudgetGuidePage() {
           東北旅行の費用の大部分を占めるのが交通費。安く抑えるなら高速バス、時間を買うなら新幹線です。
         </p>
         <div className="flex flex-col gap-4 mb-6">
-          <Link href="/tokyo-sendai-bus-vs-shinkansen-guide" className="flex-1 bg-slate-50 hover:bg-slate-100 p-4 rounded-2xl border border-slate-200 transition group">
+          <Link href="/tokyo-sendai-bus-vs-shinkansen-guide/" className="flex-1 bg-slate-50 hover:bg-slate-100 p-4 rounded-2xl border border-slate-200 transition group">
             <h3 className="font-bold text-teal-800 text-sm mb-2 group-hover:underline">▶ 東京〜仙台の移動比較</h3>
             <p className="text-xs text-slate-600">新幹線はやぶさ（約11,410円） vs 高速バス（約2,500円〜）の詳細解説はこちら。</p>
           </Link>
-          <Link href="/tokyo-yamagata-zao-bus-vs-shinkansen-guide" className="flex-1 bg-slate-50 hover:bg-slate-100 p-4 rounded-2xl border border-slate-200 transition group">
+          <Link href="/tokyo-yamagata-zao-bus-vs-shinkansen-guide/" className="flex-1 bg-slate-50 hover:bg-slate-100 p-4 rounded-2xl border border-slate-200 transition group">
             <h3 className="font-bold text-teal-800 text-sm mb-2 group-hover:underline">▶ 東京〜山形・蔵王の移動比較</h3>
             <p className="text-xs text-slate-600">山形新幹線（約11,550円） vs 夜行バス（約3,500円〜）の詳細解説はこちら。</p>
           </Link>
@@ -546,7 +546,7 @@ export default function TohokuBudgetGuidePage() {
 
       {/* リンク */}
       <div className="text-center">
-        <Link href="/prefectures" className="inline-flex items-center gap-2 text-sm font-bold text-slate-700 bg-white hover:bg-slate-50 border border-slate-300 px-6 py-3 rounded-xl transition shadow-sm">
+        <Link href="/prefectures/" className="inline-flex items-center gap-2 text-sm font-bold text-slate-700 bg-white hover:bg-slate-50 border border-slate-300 px-6 py-3 rounded-xl transition shadow-sm">
           🗾 全国都道府県ガイドへ
         </Link>
       </div>

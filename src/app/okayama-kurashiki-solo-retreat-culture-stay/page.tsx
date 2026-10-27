@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '岡山・倉敷ひとり旅＆出張：岡山駅直結・倉敷美観地区・大浴場！白壁の街と日本庭園に癒やされる大人のおこもり宿 厳選3選',
     description: '山陽新幹線のハブステーション・岡山と、白壁土蔵が連なる風情の街・倉敷！「岡山駅直結で四国・山陰連絡にも最強のランドマーク」を誇る「ホテルグランヴィア岡山」、倉敷美観地区すぐ隣で木造クラシカルの風格を持つ「倉敷国際ホテル」、最上階に庭園大浴場を備えた「三井ガーデンホテル岡山」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-culture-stay',
+    url: 'https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-culture-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T02:50:00+09:00',
     dateModified: '2026-10-19T02:50:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-culture-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-culture-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【岡山・倉敷ひとり旅＆出張】岡山駅直結・倉敷美観地区・大浴場！白壁の街と日本庭園に癒やされる大人のおこもり宿 厳選3選","item":"https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-culture-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【岡山・倉敷ひとり旅＆出張】岡山駅直結・倉敷美観地区・大浴場！白壁の街と日本庭園に癒やされる大人のおこもり宿 厳選3選","item":"https://croud-travel.pages.dev/okayama-kurashiki-solo-retreat-culture-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

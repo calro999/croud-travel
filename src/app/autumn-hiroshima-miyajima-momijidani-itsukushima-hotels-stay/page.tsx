@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の宮島：紅葉谷公園の真紅のモミジと世界遺産・嚴島神社！秋の味覚と絶景を愛でるおすすめ名宿5選「2026最新」',
     description: '約700本のもみじが燃えるように色づく宮島「紅葉谷公園」と、海に浮かぶ嚴島神社大鳥居の秋絶景！厳選宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-hiroshima-miyajima-momijidani-itsukushima-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-hiroshima-miyajima-momijidani-itsukushima-hotels-stay/',
   }
 };
 

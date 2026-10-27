@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：芳醇な香りに包まれるワイン風呂！ぶどう畑を望むワイナリー温泉リゾート5選',
     description: '2026年最新！本物のワインエキスを注いだワイン風呂やポリフェノールたっぷりのスパ、自社葡萄畑の日本ワインペアリングが堪能できる宿5選。',
-    url: 'https://croud-travel.pages.dev/organic-wine-fermentation-spa-vineyard-stay',
+    url: 'https://croud-travel.pages.dev/organic-wine-fermentation-spa-vineyard-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/organic-wine-fermentation-spa-vineyard-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/organic-wine-fermentation-spa-vineyard-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">ワイン風呂×ぶどう畑ワイナリー</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             ルビー色に輝く湯船から立ち上る華やかなぶどうの香り。美肌効果の高いワイン風呂で優雅なバスタイムを過ごし、夕食はソムリエ厳選のヴィンテージワインと地場フレンチのマリアージュ。葡萄畑のパノラマが広がる丘の上の美食リゾートへ。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】芳醇な香りに包まれるワイン風呂！ぶどう畑を望むワイナリー温泉リゾート5選" url="https://croud-travel.pages.dev/organic-wine-fermentation-spa-vineyard-stay" />
+            <ShareButtons title="【2026年】芳醇な香りに包まれるワイン風呂！ぶどう畑を望むワイナリー温泉リゾート5選" url="https://croud-travel.pages.dev/organic-wine-fermentation-spa-vineyard-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】芳醇な香りに包まれるワイン風呂！ぶどう畑を望むワイナリー温泉リゾート5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/organic-wine-fermentation-spa-vineyard-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】芳醇な香りに包まれるワイン風呂！ぶどう畑を望むワイナリー温泉リゾート5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/organic-wine-fermentation-spa-vineyard-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

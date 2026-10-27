@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '湯河原温泉ひとり旅・万葉集ゆかり名湯おこもり：相模湾一望・自家源泉かけ流し・伊豆の旬懐石！都心60分の文豪リトリート厳選3宿',
     description: '『万葉集』唯一の温泉地・湯河原！驚異の口コミ★5.0満点を誇る自家源泉の隠れ宿「グリーン荘」、高台から相模湾と湯河原の街を見晴らす洋館リゾート「ホテル 眺望山荘」、屋上貸切露天風呂と最高峰の月替わり懐石が評判の「ふきや」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/kanagawa-yugawara-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/kanagawa-yugawara-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/kanagawa-yugawara-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/kanagawa-yugawara-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【湯河原温泉ひとり旅・万葉集ゆかり名湯おこもり】相模湾一望・自家源泉かけ流し・伊豆の旬懐石！都心60分の文豪リトリート厳選3宿","item":"https://croud-travel.pages.dev/kanagawa-yugawara-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【湯河原温泉ひとり旅・万葉集ゆかり名湯おこもり】相模湾一望・自家源泉かけ流し・伊豆の旬懐石！都心60分の文豪リトリート厳選3宿","item":"https://croud-travel.pages.dev/kanagawa-yugawara-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

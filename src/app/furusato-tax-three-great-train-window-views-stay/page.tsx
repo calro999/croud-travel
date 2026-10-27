@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: '日本三大車窓＆絶景スイッチバック・高原パノラマ温泉宿×ふるさと納税厳選ガイド姨捨・矢岳越え・狩勝峠',
     description: '車窓を流れる息をのむ大パノラマ！長野千曲「姨捨駅」善光寺平を見下ろすスイッチバックの絶景と戸倉上山田温泉リバーサイド上田館、宮崎熊本鹿児島「肥薩線矢岳越え」霧島連峰と桜島を望む天空路線と霧島温泉ホテル霧島キャッスル、北海道十勝「旧狩勝峠」大雪山系と十勝平野を望む雄大な大地とサホロリゾートホテル。日本三大車窓の鉄旅ロマンを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-train-window-views-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-train-window-views-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -396,7 +396,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-rapid-rivers-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-rapid-rivers-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大急流＆川下り舟体験・清流鮎グルメ宿×ふるさと納税完全ガイド
               </div>
@@ -405,7 +405,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-mountain-castles-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-mountain-castles-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大山城＆天空の雲海要塞宿×ふるさと納税完全ガイド
               </div>
@@ -414,7 +414,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-secret-hotsprings-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-secret-hotsprings-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大秘湯＆秘境の大自然一軒宿×ふるさと納税完全ガイド
               </div>

@@ -386,7 +386,7 @@ export default function MicroTouristHubPage() {
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72672/72672_gr.jpg" alt="南伊豆弓ヶ浜温泉　なごみ詩 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>松の合間から海が見え.波音が聞こえ.浜辺まで徒歩３０秒の好立地</p>
-                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡南伊豆町湊891-12 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆東海岸道路 伊東～下田 ●東名沼津～伊豆縦貫道～下田～弓ヶ浜//電車利用伊豆急下田からバス４番線</p>
+                  <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡南伊豆町湊891-12 ／ 最寄り駅：伊豆急下田 ／ 交通案内：伊豆東海岸道路 伊東～下田 ●東名沼津～伊豆縦貫道～下田～弓ヶ浜/電車利用伊豆急下田からバス４番線</p>
                   <p><strong>【駐車場・マイカー利用】</strong>アスファルト舗装　６台　無料　平らで一台分のスペース広く止めやすさ抜群　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
@@ -509,7 +509,7 @@ export default function MicroTouristHubPage() {
       {/* 47都道府県トップへのリンク */}
       <div className="text-center pt-8">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-emerald-950 bg-white hover:bg-emerald-50 border border-emerald-950/20 px-8 py-3.5 rounded-2xl transition shadow-sm"
         >
           <span>🗾</span>

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月愛知：冬旬の天然とらふぐ！名宿5選',
     description: '黒潮の恩恵を受ける愛知県・渥美半島（田原市）は、冬でも日差しが暖かく、1月上旬からは日本屈指の早春を告げる「渥美半島菜の花まつり」が開幕に合わせて訪れたい周辺の厳選宿をまとめました。',
-    url: 'https://croud-travel.pages.dev/winter-aichi-atsumi-irako-nanohana-torafugu-asari-stay',
+    url: 'https://croud-travel.pages.dev/winter-aichi-atsumi-irako-nanohana-torafugu-asari-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -165,7 +165,7 @@ export default function AichiAtsumiIrakoWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-aichi-atsumi-irako-nanohana-torafugu-asari-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-aichi-atsumi-irako-nanohana-torafugu-asari-stay"
+          "@id": "https://croud-travel.pages.dev/winter-aichi-atsumi-irako-nanohana-torafugu-asari-stay/"
         },
         "headline": "【11・12・1月愛知】渥美半島＆伊良湖岬！1月満開の菜の花まつりと伊良湖岬初日の出・冬旬の天然とらふぐ＆焼き大アサリ・伊良湖温泉名宿5選",
         "description": "黒潮の恩恵を受ける愛知県・渥美半島（田原市）は、冬でも日差しが暖かく、1月上旬からは日本屈指の早春を告げる「渥美半島菜の花まつり」が開幕。メイン会場の伊良湖菜の花ガーデンには見渡す限りの黄色い絨毯が広がります。元旦には伊良湖岬灯台や日出の石門から昇る雄大な初日の出を拝み、冬の味覚の王様・天然とらふぐのてっさや白子、香ばしい焼き大アサリ、甘みたっぷりの完熟いちご狩りを堪能。2022年に開湯した美肌の湯「伊良湖温泉」と絶景オーシャンビューが広がる厳選の名宿5選を徹底解説します。",
@@ -191,13 +191,13 @@ export default function AichiAtsumiIrakoWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "渥美半島＆伊良湖岬冬特集",
-            "item": "https://croud-travel.pages.dev/winter-aichi-atsumi-irako-nanohana-torafugu-asari-stay"
+            "item": "https://croud-travel.pages.dev/winter-aichi-atsumi-irako-nanohana-torafugu-asari-stay/"
           }
         ]
       },
@@ -617,7 +617,7 @@ export default function AichiAtsumiIrakoWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay"
+              href="/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-amber-400 block mb-1">浜名湖冬特集</span>
@@ -625,7 +625,7 @@ export default function AichiAtsumiIrakoWinterPage() {
             </Link>
 
             <Link 
-              href="/aichi-chita-minamichita-himakajima-stay"
+              href="/aichi-chita-minamichita-himakajima-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-amber-400 block mb-1">知多半島・日間賀島特集</span>
@@ -633,7 +633,7 @@ export default function AichiAtsumiIrakoWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-mie-nabana-no-sato-illumination-stay"
+              href="/winter-mie-nabana-no-sato-illumination-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-amber-400 block mb-1">三重・なばなの里冬特集</span>

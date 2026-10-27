@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '熱川温泉で過ごす冬の旅（11・12月）！名物地金目鯛姿煮！名宿5選',
     description: '11月から12月にかけて、伊豆半島東海岸の熱川温泉（あたがわおんせん）の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -170,7 +170,7 @@ export default function WinterShizuokaAtagawaPage() {
         'headline': "【11・12月静岡・熱川温泉＆東伊豆の湯けむりと水平線日の出露天】名物地金目鯛姿煮＆伊豆牛石焼きステーキを満喫するオーシャンビュー名宿5選",
         'description': "11月から12月にかけて、伊豆半島東海岸の熱川温泉（あたがわおんせん）は、約100度の高温泉が吹き出す温泉櫓（やぐら）から白い湯けむりが温泉街一面に立ち上り、初冬の温泉情緒が最高潮を迎えます。相模灘と正面に浮かぶ伊豆大島の水平線から昇る劇的な日の出を望む絶景露天風呂、南国情緒と温もりあふれる熱川バナナワニ園や温泉玉子作り体験。そして冬に向けて最も脂が乗り旨味が凝縮する名物「地金目鯛」のこってり甘辛姿煮やしゃぶしゃぶ、ジューシーな伊豆牛ステーキ、伊勢海老を味わう厳選オーシャンビュー名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -210,7 +210,7 @@ export default function WinterShizuokaAtagawaPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-teal-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">静岡・熱川温泉＆東伊豆</span>
           </nav>
@@ -247,7 +247,7 @@ export default function WinterShizuokaAtagawaPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月熱川温泉】名物地金目鯛姿煮！名宿5選","item":"https://croud-travel.pages.dev/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月熱川温泉】名物地金目鯛姿煮！名宿5選","item":"https://croud-travel.pages.dev/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay/"}]}) }}
       />
         
         {/* Section 1: Season Context & Highlights */}
@@ -587,7 +587,7 @@ export default function WinterShizuokaAtagawaPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
-              href="/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay"
+              href="/winter-shizuoka-shimoda-onsen-kinmedai-ocean-view-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">静岡・下田</span>
@@ -599,7 +599,7 @@ export default function WinterShizuokaAtagawaPage() {
               </p>
             </Link>
             <Link 
-              href="/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay"
+              href="/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">静岡・稲取</span>
@@ -611,7 +611,7 @@ export default function WinterShizuokaAtagawaPage() {
               </p>
             </Link>
             <Link 
-              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay"
+              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">静岡・熱海</span>
@@ -623,7 +623,7 @@ export default function WinterShizuokaAtagawaPage() {
               </p>
             </Link>
             <Link 
-              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay"
+              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">静岡・修善寺</span>

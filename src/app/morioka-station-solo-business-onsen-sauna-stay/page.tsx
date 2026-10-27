@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '盛岡出張・天然温泉ステイ：東北新幹線・天然温泉さんさの湯・三大麺グルメ！北東北の文化拠点に泊まる厳選3宿',
     description: '東北新幹線「はやぶさ」停車！盛岡中心街で最上階天然温泉＆サウナ・名物わんこそば風朝食を誇る「ドーミーイン盛岡」、駅前徒歩圏で男女別天然温泉を備える「スーパーホテル盛岡」、名勝御所湖畔で源泉かけ流しパノラマ露天風呂に癒やされる「盛岡つなぎ温泉 ホテル紫苑」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/morioka-station-solo-business-onsen-sauna-stay',
+    url: 'https://croud-travel.pages.dev/morioka-station-solo-business-onsen-sauna-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/morioka-station-solo-business-onsen-sauna-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/morioka-station-solo-business-onsen-sauna-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【盛岡出張・天然温泉ステイ】東北新幹線・天然温泉さんさの湯・三大麺グルメ！北東北の文化拠点に泊まる厳選3宿","item":"https://croud-travel.pages.dev/morioka-station-solo-business-onsen-sauna-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【盛岡出張・天然温泉ステイ】東北新幹線・天然温泉さんさの湯・三大麺グルメ！北東北の文化拠点に泊まる厳選3宿","item":"https://croud-travel.pages.dev/morioka-station-solo-business-onsen-sauna-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

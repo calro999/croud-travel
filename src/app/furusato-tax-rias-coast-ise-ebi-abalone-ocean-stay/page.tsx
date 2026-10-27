@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税厳選ガイド志摩英虞湾・南三陸・伊根の舟屋の贅沢旅',
     description: '日本屈指の入江美と海の幸！三重志摩「英虞湾」の夕映え多島美と本場伊勢海老・鮑づくし会席、宮城「南三陸」のリアス海岸インフィニティ露天風呂と鮑踊り焼き、京都「伊根の舟屋」の海に浮かぶ重要伝統建築ステイ。楽天ふるさと納税宿泊クーポンでお得に楽しむオーシャンガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-rias-coast-ise-ebi-abalone-ocean-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-rias-coast-ise-ebi-abalone-ocean-stay/',
     type: 'article',
     siteName: '旅宿クラウド'
   }
@@ -624,7 +624,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="0"
-            href="/furusato-tax-oceanfront-wave-sound-healing-stay"
+            href="/furusato-tax-oceanfront-wave-sound-healing-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -640,7 +640,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="1"
-            href="/furusato-tax-three-scenic-views-heritage-stay"
+            href="/furusato-tax-three-scenic-views-heritage-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
@@ -656,7 +656,7 @@ export default function FurusatoFeaturePage() {
           
           <Link
             key="2"
-            href="/furusato-tax-morning-market-hamayaki-seafood-inn-stay"
+            href="/furusato-tax-morning-market-hamayaki-seafood-inn-stay/"
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>

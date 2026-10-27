@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '鎌倉・湘南をふるさと納税でお得に旅する！七里ヶ浜オーシャンビュー＆古都の歴史情緒！鶴岡八幡宮・江ノ電の名宿特集｜鎌倉プリンス・HOTEL AO・メトロポリタン',
     description: '海と山に囲まれた日本屈指の古都・神奈川県鎌倉市を楽天ふるさと納税でお得に贅沢ステイ！全室オーシャンビュー＆江の島と富士山を一望する「鎌倉プリンスホテル」、腰越の海を望むデザイナーズ宿「HOTEL AO KAMAKURA」、若宮大路沿いで鶴岡八幡宮参拝に最適な「ホテルメトロポリタン 鎌倉」を徹底比較。鎌倉市トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kamakura-shonan-ocean-history-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kamakura-shonan-ocean-history-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T18:00:00+09:00',
     dateModified: '2026-10-19T18:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kamakura-shonan-ocean-history-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-kamakura-shonan-ocean-history-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【鎌倉・湘南×ふるさと納税】七里ヶ浜オーシャンビュー＆古都の歴史情緒！鶴岡八幡宮・江ノ電の名宿特集｜鎌倉プリンス・HOTEL AO・メトロポリタン","item":"https://croud-travel.pages.dev/furusato-tax-kamakura-shonan-ocean-history-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【鎌倉・湘南×ふるさと納税】七里ヶ浜オーシャンビュー＆古都の歴史情緒！鶴岡八幡宮・江ノ電の名宿特集｜鎌倉プリンス・HOTEL AO・メトロポリタン","item":"https://croud-travel.pages.dev/furusato-tax-kamakura-shonan-ocean-history-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【鎌倉・湘南×ふるさと納税】七里ヶ浜オーシャンビュー＆古都の歴史情緒！鶴岡八幡宮・江ノ電の名宿特集｜鎌倉プリンス・HOTEL AO・メトロポリタン</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-shirahama-onsen-ocean-adventure-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-shirahama-onsen-ocean-adventure-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 南紀白浜温泉 白良浜オーシャンビュー＆アドベンチャーワールド特集
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-nozawa-onsen-sotoyu-heritage-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-nozawa-onsen-sotoyu-heritage-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 野沢温泉 十三の外湯めぐり＆源泉麻釜・信州郷土料理特集
               </Link>
             </li>

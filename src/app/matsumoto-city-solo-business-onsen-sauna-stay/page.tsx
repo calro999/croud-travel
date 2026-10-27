@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '松本出張・天然温泉サウナ：国宝松本城・全館畳敷きあづみの湯・信州馬刺し！北アルプス城下町を極める厳選3宿',
     description: '特急あずさ・しなの直通！全館畳敷きで最上階天然温泉＆サウナが評判の和風プレミアム「御宿 野乃松本」、駅前すぐで自家源泉天然温泉大浴場を備える「ドーミーイン松本」、手作り郷土朝食と大浴場が愛される「松本ツーリストホテル」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/matsumoto-city-solo-business-onsen-sauna-stay',
+    url: 'https://croud-travel.pages.dev/matsumoto-city-solo-business-onsen-sauna-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/matsumoto-city-solo-business-onsen-sauna-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/matsumoto-city-solo-business-onsen-sauna-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【松本出張・天然温泉サウナ】国宝松本城・全館畳敷きあづみの湯・信州馬刺し！北アルプス城下町を極める厳選3宿","item":"https://croud-travel.pages.dev/matsumoto-city-solo-business-onsen-sauna-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【松本出張・天然温泉サウナ】国宝松本城・全館畳敷きあづみの湯・信州馬刺し！北アルプス城下町を極める厳選3宿","item":"https://croud-travel.pages.dev/matsumoto-city-solo-business-onsen-sauna-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

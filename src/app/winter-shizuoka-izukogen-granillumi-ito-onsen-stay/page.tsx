@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "伊豆高原グランイルミで過ごす冬の旅（11・12月）！日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選",
     description: "11月中旬から本格シーズンを迎える全国ランキング第1位の体験型ナイトエンターテインメント「伊豆高原グランイルミ」！光の地上絵やジップラインを満喫した後は、伊東・伊豆高原の美肌温泉露天風呂と、冬に脂が最高に乗る名物・金目鯛の姿煮に舌鼓を打つ極上リゾートステイ。",
-    url: 'https://croud-travel.pages.dev/winter-shizuoka-izukogen-granillumi-ito-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-izukogen-granillumi-ito-onsen-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function IzukogenWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-shizuoka-izukogen-granillumi-ito-onsen-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shizuoka-izukogen-granillumi-ito-onsen-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function IzukogenWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月伊豆高原グランイルミ】日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選","item":"https://croud-travel.pages.dev/winter-shizuoka-izukogen-granillumi-ito-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月伊豆高原グランイルミ】日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選","item":"https://croud-travel.pages.dev/winter-shizuoka-izukogen-granillumi-ito-onsen-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -397,7 +397,7 @@ export default function IzukogenWinterPage() {
                   <div className="absolute bottom-4 left-4 right-4 bg-gradient-to-t from-stone-950/90 via-stone-950/60 to-transparent p-3 rounded-2xl text-white text-xs">
                     <p className="font-semibold flex items-center gap-1 text-purple-300">
                       <Star className="w-3.5 h-3.5 fill-purple-400 text-purple-400" />
-                      評価 {hotel.rating} / 5.0
+                      評価 {hotel.rating} // 5.0
                     </p>
                     <p className="text-[11px] text-stone-300 line-clamp-1">{hotel.access}</p>
                   </div>
@@ -672,7 +672,7 @@ export default function IzukogenWinterPage() {
           {/* 関連特集リンクカード */}
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
             <Link 
-              href="/winter-mie-nabana-no-sato-illumination-stay"
+              href="/winter-mie-nabana-no-sato-illumination-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-purple-50/60 border border-stone-200 hover:border-purple-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">国内最大級イルミ</span>
@@ -685,7 +685,7 @@ export default function IzukogenWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-izu-kinmedai-shabushabu-luxury-stay"
+              href="/winter-izu-kinmedai-shabushabu-luxury-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-purple-50/60 border border-stone-200 hover:border-purple-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-rose-800 bg-rose-100/80 px-2 py-0.5 rounded">伊豆冬グルメ</span>
@@ -698,7 +698,7 @@ export default function IzukogenWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-atami-fireworks-ocean-view-stay"
+              href="/winter-atami-fireworks-ocean-view-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-purple-50/60 border border-stone-200 hover:border-purple-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-cyan-800 bg-cyan-100/80 px-2 py-0.5 rounded">冬の熱海海上花火</span>

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '箱根仙石原温泉ひとり旅・ススキ草原白濁おこもり：黄金色のススキ・大涌谷引湯白濁露天・極上フレンチ！標高700mの高原アートリゾート厳選3宿',
     description: '秋のススキ草原と美術館が彩る高原・仙石原！全室温泉風呂付き＆ひらまつが誇る最高峰イタリアンフレンチの「THE HIRAMATSU HOTELS & RESORTS 仙石原」、大正浪漫薫る数寄屋造りと名湯白濁露天の「仙郷楼」、手頃に源泉温泉を楽しめる「箱根ホテル花月園」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-solo-retreat-pampas-onsen-stay',
+    url: 'https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-solo-retreat-pampas-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-solo-retreat-pampas-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-solo-retreat-pampas-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【箱根仙石原温泉ひとり旅・ススキ草原白濁おこもり】黄金色のススキ・大涌谷引湯白濁露天・極上フレンチ！標高700mの高原アートリゾート厳選3宿","item":"https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-solo-retreat-pampas-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【箱根仙石原温泉ひとり旅・ススキ草原白濁おこもり】黄金色のススキ・大涌谷引湯白濁露天・極上フレンチ！標高700mの高原アートリゾート厳選3宿","item":"https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-solo-retreat-pampas-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

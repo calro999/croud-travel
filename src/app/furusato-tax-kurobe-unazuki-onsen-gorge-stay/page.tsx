@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '黒部峡谷トロッコ列車とエメラルドの清流！宇奈月温泉の断崖絶景露天風呂＆富山湾キトキト海の幸名宿×ふるさと納税極上旅ガイド延対寺荘・やまのは・延楽',
     description: '日本一のV字峡・黒部峡谷の玄関口！エメラルドグリーンの黒部川とトロッコ列車。「延対寺荘」「黒部・宇奈月温泉 やまのは」「宇奈月温泉 延楽」を、富山県黒部市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。渓谷露天風呂、展望棚湯、富山湾の白えび・紅ズワイガニ会席を満喫。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kurobe-unazuki-onsen-gorge-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kurobe-unazuki-onsen-gorge-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoKurobeUnazukiStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">宇奈月温泉 黒部峡谷＆名門宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoKurobeUnazukiStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-tateyama-kurobe-alpen-route-resort-stay"
+            href="/furusato-tax-tateyama-kurobe-alpen-route-resort-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【立山黒部アルペンルート 雲上の星空＆高原リゾート×ふるさと納税】弥陀ヶ原・立山高原・森の風
           </Link>
           <Link
-            href="/furusato-tax-kinugawa-onsen-valley-view-luxury-stay"
+            href="/furusato-tax-kinugawa-onsen-valley-view-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【鬼怒川温泉 渓谷美＆名門旅館×ふるさと納税】あさや・金谷ホテル・ホテル三日月
           </Link>
           <Link
-            href="/scenic-open-air-trolley-train-resort-stay"
+            href="/scenic-open-air-trolley-train-resort-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【絶景トロッコ列車＆秘境温泉宿×ふるさと納税】大自然パノラマ
           </Link>
           <Link
-            href="/furusato-tax-hida-takayama-old-town-luxury-stay"
+            href="/furusato-tax-hida-takayama-old-town-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【飛騨高山 古い町並み＆飛騨牛宿×ふるさと納税】花兆庵・花扇・光風館

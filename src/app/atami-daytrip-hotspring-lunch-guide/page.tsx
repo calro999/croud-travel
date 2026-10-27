@@ -160,7 +160,7 @@ export default function AtamiDaytripHotspringLunchPage() {
         <div className="text-xs font-bold text-orange-900 mb-2">熱海・伊豆旅行を検討中の方へのおすすめガイド</div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <Link
-            href="/atami-izu-travel-budget-guide"
+            href="/atami-izu-travel-budget-guide/"
             className="p-4 bg-white rounded-2xl border border-orange-100 hover:border-orange-400 transition shadow-sm group flex items-start justify-between"
           >
             <div>
@@ -173,7 +173,7 @@ export default function AtamiDaytripHotspringLunchPage() {
           </Link>
 
           <Link
-            href="/tokyo-izu-atami-bus-vs-train-guide"
+            href="/tokyo-izu-atami-bus-vs-train-guide/"
             className="p-4 bg-white rounded-2xl border border-orange-100 hover:border-orange-400 transition shadow-sm group flex items-start justify-between"
           >
             <div>

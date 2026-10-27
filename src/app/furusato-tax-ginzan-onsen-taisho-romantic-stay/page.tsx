@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'ガス灯揺らめく大正ロマンの木造楼閣！銀山温泉の川沿い名門旅館＆極上尾花沢牛会席×ふるさと納税極上旅ガイド能登屋・銀山荘・古勢起屋',
     description: 'まるで千と千尋の神隠しの世界！ガス灯揺らめく銀山温泉の木造多層建築。「能登屋旅館」「仙峡の宿 銀山荘」「古勢起屋別館」を、山形県尾花沢市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。国登録有形文化財、川沿い展望露天寝湯、極上の霜降り尾花沢牛会席を満喫。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-ginzan-onsen-taisho-romantic-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-ginzan-onsen-taisho-romantic-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoGinzanOnsenRomanticStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">銀山温泉 大正ロマン宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoGinzanOnsenRomanticStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-noboribetsu-jigokudani-onsen-luxury-stay"
+            href="/furusato-tax-noboribetsu-jigokudani-onsen-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【登別温泉 地獄谷＆名湯ビュッフェ宿×ふるさと納税】第一滝本館・まほろば・グランドホテル
           </Link>
           <Link
-            href="/furusato-tax-kinosaki-onsen-sotoyu-meguri-ryokan-stay"
+            href="/furusato-tax-kinosaki-onsen-sotoyu-meguri-ryokan-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【城崎温泉 七田外湯めぐり＆柳並木宿×ふるさと納税】招月庭・小宿縁・つちや旅館
           </Link>
           <Link
-            href="/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay"
+            href="/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【草津温泉 湯畑散策＆名湯名門旅館×ふるさと納税】櫻井・一井・奈良屋
           </Link>
           <Link
-            href="/tangible-cultural-property-sukiya-carpenter-ryokan-stay"
+            href="/tangible-cultural-property-sukiya-carpenter-ryokan-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【登録有形文化財・宮大工数寄屋造り旅館×ふるさと納税】木造建築美の宿

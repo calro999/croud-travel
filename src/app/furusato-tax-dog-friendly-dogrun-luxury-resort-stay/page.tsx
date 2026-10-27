@@ -60,7 +60,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">
           <Link href="/" className="hover:text-stone-900 underline transition">ホーム</Link>
           <span>/</span>
-          <Link href="/travel-savings-guide" className="hover:text-stone-900 underline transition">旅行節約ハブ</Link>
+          <Link href="/travel-savings-guide/" className="hover:text-stone-900 underline transition">旅行節約ハブ</Link>
           <span>/</span>
           <span className="text-stone-800 font-medium">愛犬同伴ドッグラン付き極上リゾート特集</span>
         </nav>
@@ -89,7 +89,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
               楽天ふるさと納税トラベルクーポンを獲得する →
             </a>
             <Link
-              href="/furusato-tax-travel-beginners-complete-guide"
+              href="/furusato-tax-travel-beginners-complete-guide/"
               className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-amber-200 font-bold px-5 py-3 rounded-2xl border border-amber-300/20 text-xs sm:text-sm transition"
             >
               📖 初めての方向け完全マニュアル
@@ -361,7 +361,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
           <ul className="grid sm:grid-cols-2 gap-2">
 
               <li key="furusato-tax-private-room-open-air-bath-luxury-stay">
-                <Link href="/furusato-tax-private-room-open-air-bath-luxury-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-private-room-open-air-bath-luxury-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【客室露天風呂付き客室×ふるさと納税】修善寺・箱根・嵐山の大人の隠れ宿</span>
                 </Link>
@@ -369,7 +369,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
   
 
               <li key="furusato-tax-highland-ranch-farm-resort-hotel-stay">
-                <Link href="/furusato-tax-highland-ranch-farm-resort-hotel-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-highland-ranch-farm-resort-hotel-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【高原観光牧場＆ファーム体験×ふるさと納税】那須・トマム・阿蘇の休日</span>
                 </Link>
@@ -377,7 +377,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
   
 
               <li key="furusato-tax-private-villa-hanare-hideaway-stay">
-                <Link href="/furusato-tax-private-villa-hanare-hideaway-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-private-villa-hanare-hideaway-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【大人の隠れ家・離れ客室×ふるさと納税】静寂とプライベート重視の名宿</span>
                 </Link>
@@ -385,7 +385,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
   
 
               <li key="furusato-tax-lakeview-onsen-resort-hotel-stay">
-                <Link href="/furusato-tax-lakeview-onsen-resort-hotel-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-lakeview-onsen-resort-hotel-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【絶景レイクビュー温泉リゾート×ふるさと納税】琵琶湖・洞爺湖・箱根芦ノ湖</span>
                 </Link>
@@ -403,7 +403,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
-            href="/travel-savings-guide"
+            href="/travel-savings-guide/"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 text-stone-950 font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition text-sm"
           >
             🏨 旅行節約総合ハブページを見る ➔

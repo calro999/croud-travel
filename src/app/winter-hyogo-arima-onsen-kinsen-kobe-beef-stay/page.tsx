@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '有馬温泉で過ごす冬の旅（11・12月）！日本最古の名湯で芯から温まる冬！名宿5選',
     description: '日本三古湯・三名泉の筆頭として豊臣秀吉もこよなく愛した兵庫・有馬温泉。11月の瑞宝寺公園の紅葉の余韻から。',
-    url: 'https://croud-travel.pages.dev/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function ArimaWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function ArimaWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月有馬温泉】日本最古の名湯で芯から温まる冬！名宿5選","item":"https://croud-travel.pages.dev/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月有馬温泉】日本最古の名湯で芯から温まる冬！名宿5選","item":"https://croud-travel.pages.dev/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/"}]}) }}
       />
         
         {/* Intro */}
@@ -631,7 +631,7 @@ export default function ArimaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link 
-              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">兵庫の冬の王様</span>
@@ -641,7 +641,7 @@ export default function ArimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kyoto-arashiyama-onsen-yudofu-stay"
+              href="/winter-kyoto-arashiyama-onsen-yudofu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">京都の冬情緒</span>
@@ -651,7 +651,7 @@ export default function ArimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay"
+              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">日本三古湯の名湯</span>
@@ -661,7 +661,7 @@ export default function ArimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay"
+              href="/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">近畿・伊勢志摩</span>
@@ -671,7 +671,7 @@ export default function ArimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kue-gourmet-luxury-fish-onsen-stay"
+              href="/winter-kue-gourmet-luxury-fish-onsen-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">紀州の幻の魚</span>
@@ -681,7 +681,7 @@ export default function ArimaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay"
+              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">日本三名泉</span>

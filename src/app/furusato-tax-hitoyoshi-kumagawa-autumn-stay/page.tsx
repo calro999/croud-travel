@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三大急流「球磨川」秋霧と紅葉の渓谷美＆美肌の湯「人吉温泉」・球磨焼酎と極上あか牛',
     description: '10月下旬〜11月下旬に幻想的な朝霧（人吉霧）と清流紅葉が広がる熊本・人吉球磨。弱アルカリ性の柔らかい人吉温泉と、500年の歴史を持つ球磨焼酎・球磨川天然鮎・熊本あか牛会席をふるさと納税で楽しむ秋の南九州旅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-hitoyoshi-kumagawa-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-hitoyoshi-kumagawa-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-hitoyoshi-kumagawa-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-hitoyoshi-kumagawa-autumn-stay/"
   };
 
   const faqSchema = {
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"日本三大急流「球磨川」秋霧と紅葉の渓谷美＆美肌の湯「人吉温泉」・球磨焼酎と極上あか牛 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-hitoyoshi-kumagawa-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"日本三大急流「球磨川」秋霧と紅葉の渓谷美＆美肌の湯「人吉温泉」・球磨焼酎と極上あか牛 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-hitoyoshi-kumagawa-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

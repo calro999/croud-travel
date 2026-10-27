@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '八戸出張＆横丁ひとり旅：みろく横丁徒歩すぐ・八食センター・日本一のイカ美食！東北新幹線直結の快適宿 厳選3選',
     description: '東北新幹線はやぶさ停車・青森県第2の工業・水産都市「八戸」！「中心街・みろく横丁へ徒歩1分の抜群の好立地」を誇る「ダイワロイネットホテル八戸」、八戸駅東口徒歩2分で無料朝食が嬉しい「コンフォートホテル八戸」、八戸の歴史を紡ぐ老舗迎賓ホテル「八戸グランドホテル」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/hachinohe-solo-business-miroku-seafood-stay',
+    url: 'https://croud-travel.pages.dev/hachinohe-solo-business-miroku-seafood-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T12:30:00+09:00',
     dateModified: '2026-10-19T12:30:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/hachinohe-solo-business-miroku-seafood-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/hachinohe-solo-business-miroku-seafood-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【八戸出張＆横丁ひとり旅】みろく横丁徒歩すぐ・八食センター・日本一のイカ美食！東北新幹線直結の快適宿 厳選3選","item":"https://croud-travel.pages.dev/hachinohe-solo-business-miroku-seafood-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【八戸出張＆横丁ひとり旅】みろく横丁徒歩すぐ・八食センター・日本一のイカ美食！東北新幹線直結の快適宿 厳選3選","item":"https://croud-travel.pages.dev/hachinohe-solo-business-miroku-seafood-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

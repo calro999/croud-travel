@@ -346,7 +346,7 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
-              href="/fukuoka-kumamoto-bus-vs-shinkansen-guide"
+              href="/fukuoka-kumamoto-bus-vs-shinkansen-guide/"
               className="p-4 bg-white rounded-xl border border-slate-200 hover:border-slate-400 transition-all flex flex-col justify-between"
             >
               <div>
@@ -364,7 +364,7 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
             </Link>
 
             <Link
-              href="/osaka-fukuoka-bus-vs-shinkansen-guide"
+              href="/osaka-fukuoka-bus-vs-shinkansen-guide/"
               className="p-4 bg-white rounded-xl border border-slate-200 hover:border-slate-400 transition-all flex flex-col justify-between"
             >
               <div>

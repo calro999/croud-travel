@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'みなかみ温泉郷で過ごす冬の旅（11・12月）！利根川渓谷露天と谷川岳初冠雪！名宿5選',
     description: '11月下旬から12月にかけて谷川連峰が白銀の初冠雪を纏い、利根川源流の渓谷に初冬の静寂が広がる群馬「みなかみ温泉郷」。',
-    url: 'https://croud-travel.pages.dev/winter-gunma-minakami-onsen-tanigawa-yukimi-stay',
+    url: 'https://croud-travel.pages.dev/winter-gunma-minakami-onsen-tanigawa-yukimi-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -89,7 +89,7 @@ export default function MinakamiOnsenWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-gunma-minakami-onsen-tanigawa-yukimi-stay"
+          "@id": "https://croud-travel.pages.dev/winter-gunma-minakami-onsen-tanigawa-yukimi-stay/"
         }
       },
       {
@@ -313,7 +313,7 @@ export default function MinakamiOnsenWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月みなかみ温泉郷】利根川渓谷露天と谷川岳初冠雪！名宿5選","item":"https://croud-travel.pages.dev/winter-gunma-minakami-onsen-tanigawa-yukimi-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月みなかみ温泉郷】利根川渓谷露天と谷川岳初冠雪！名宿5選","item":"https://croud-travel.pages.dev/winter-gunma-minakami-onsen-tanigawa-yukimi-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -699,42 +699,42 @@ export default function MinakamiOnsenWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-gunma-kusatsu-yukimi-onsen-stay"
+              href="/winter-gunma-kusatsu-yukimi-onsen-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">群馬・草津温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">草津温泉 湯畑ライトアップと日本三名泉の雪見風呂宿</h3>
             </Link>
             <Link 
-              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay"
+              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">群馬・伊香保温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">伊香保温泉 365段の石段街と黄金の湯・上州牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-gunma-manza-snow-milky-hotspring-stay"
+              href="/winter-gunma-manza-snow-milky-hotspring-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">群馬・万座温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">万座温泉 標高1,800mの白濁硫黄泉と粉雪パノラマ露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay"
+              href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">栃木・那須温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">那須温泉 鹿の湯の白濁木造風呂と那須牛ステーキの宿</h3>
             </Link>
             <Link 
-              href="/winter-niigata-echigo-yuzawa-snow-sake-stay"
+              href="/winter-niigata-echigo-yuzawa-snow-sake-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">新潟・越後湯沢</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">越後湯沢温泉 川端康成雪国の世界と魚沼コシヒカリ・日本酒の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>

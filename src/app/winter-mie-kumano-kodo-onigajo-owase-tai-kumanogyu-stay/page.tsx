@@ -17,12 +17,12 @@ export const metadata: Metadata = {
   title: "世界遺産熊野古道と鬼ヶ城の絶景：2026-2027年冬の三重・熊野＆尾鷲！尾鷲真鯛と熊野牛名宿5選",
   description: "冬こそ歩き頃を迎える世界遺産「熊野古道伊勢路」と奇岩怪石の景勝「鬼ヶ城」！冬に旬を迎える極上「尾鷲真鯛」や幻の銘柄和牛「熊野牛」、名湯・湯ノ口温泉に寛ぎ心洗われる新春の紀伊半島おすすめ名宿5選。",
   alternates: {
-    canonical: "https://croud-travel.pages.dev/winter-mie-kumano-kodo-onigajo-owase-tai-kumanogyu-stay",
+    canonical: "https://croud-travel.pages.dev/winter-mie-kumano-kodo-onigajo-owase-tai-kumanogyu-stay/",
   },
   openGraph: {
     title: "世界遺産熊野古道と鬼ヶ城の絶景：2026-2027年冬の三重・熊野＆尾鷲！尾鷲真鯛と熊野牛名宿5選",
     description: "冬こそ歩き頃を迎える世界遺産「熊野古道伊勢路」と奇岩怪石の景勝「鬼ヶ城」！冬に旬を迎える極上「尾鷲真鯛」や幻の銘柄和牛「熊野牛」、名湯・湯ノ口温泉に寛ぎ心洗われる新春の紀伊半島おすすめ名宿5選。",
-    url: "https://croud-travel.pages.dev/winter-mie-kumano-kodo-onigajo-owase-tai-kumanogyu-stay",
+    url: "https://croud-travel.pages.dev/winter-mie-kumano-kodo-onigajo-owase-tai-kumanogyu-stay/",
     siteName: "日本全国・旅宿クラウド",
     locale: "ja_JP",
     type: "article",
@@ -90,7 +90,7 @@ export default function FeaturePage() {
       "@type": "ListItem",
       "position": 2,
       "name": "特集一覧",
-      "item": "https://croud-travel.pages.dev/features"
+      "item": "https://croud-travel.pages.dev/features/"
     },
     {
       "@type": "ListItem",
@@ -102,7 +102,7 @@ export default function FeaturePage() {
       "@type": "ListItem",
       "position": 4,
       "name": "【世界遺産熊野古道と鬼ヶ城の絶景】2026-2027年冬の三重・熊野＆尾鷲！尾鷲真鯛と熊野牛名宿5選",
-      "item": "https://croud-travel.pages.dev/winter-mie-kumano-kodo-onigajo-owase-tai-kumanogyu-stay"
+      "item": "https://croud-travel.pages.dev/winter-mie-kumano-kodo-onigajo-owase-tai-kumanogyu-stay/"
     }
   ]
 };
@@ -139,7 +139,7 @@ export default function FeaturePage() {
             ホーム
           </Link>
           <ChevronRight className="w-3 h-3 text-stone-400" />
-          <Link href="/features" className="hover:text-stone-900 transition-colors">
+          <Link href="/features/" className="hover:text-stone-900 transition-colors">
             特集一覧
           </Link>
           <ChevronRight className="w-3 h-3 text-stone-400" />
@@ -706,15 +706,15 @@ export default function FeaturePage() {
                 <span>三重県のおすすめ観光名所＆温泉宿一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/features" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/features/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>全国の季節・目的別旅行特集一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>実質2,000円で泊まる名湯・高級温泉旅館ガイド</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-local-gourmet-inn-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-local-gourmet-inn-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>ご当地グルメを堪能する全国美食旅特集</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>

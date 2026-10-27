@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の箱根：仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選「2026最新」',
     description: '台ヶ岳の山麓に広がる箱根仙石原すすき草原の一面黄金色の波と、大涌谷源泉の乳白色にごり湯を満喫！',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay/',
   }
 };
 

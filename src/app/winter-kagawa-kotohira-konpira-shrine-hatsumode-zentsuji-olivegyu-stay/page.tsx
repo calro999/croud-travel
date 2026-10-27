@@ -10,12 +10,12 @@ export const metadata: Metadata = {
   description: '四国屈指のパワースポット「こんぴらさん」で迎える11〜1月の冬紀行。古くから「一生に一度はこんぴら参り」と親しまれる金刀比羅宮御本宮785段。',
   keywords: '金刀比羅宮 初詣, こんぴらさん 温泉, 善通寺 初詣, こんぴら温泉郷 名宿, 讃岐オリーブ牛, 紅梅亭, 琴参閣, 敷島館, 香川 冬旅行, 琴平温泉 露天風呂',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay'
+    canonical: 'https://croud-travel.pages.dev/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay/'
   },
   openGraph: {
     title: '11・12・1月香川：四国随一の初詣「金刀比羅宮」！名宿5選',
     description: '四国屈指のパワースポット「こんぴらさん」で迎える11〜1月の冬紀行。古くから「一生に一度はこんぴら参り」と親しまれる金刀比羅宮御本宮785段。',
-    url: 'https://croud-travel.pages.dev/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay/',
     type: 'article',
     images: [
       {
@@ -60,7 +60,7 @@ export default function KagawaKotohiraWinterPage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay/"
     }
   };
 
@@ -78,13 +78,13 @@ export default function KagawaKotohiraWinterPage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "香川・琴平＆善通寺 冬特集",
-        "item": "https://croud-travel.pages.dev/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay"
+        "item": "https://croud-travel.pages.dev/winter-kagawa-kotohira-konpira-shrine-hatsumode-zentsuji-olivegyu-stay/"
       }
     ]
   };
@@ -596,7 +596,7 @@ export default function KagawaKotohiraWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm">
             <Link 
-              href="/winter-kagawa-takamatsu-tamura-shrine-hatsumode-shionoe-onsen-olivegyu-stay"
+              href="/winter-kagawa-takamatsu-tamura-shrine-hatsumode-shionoe-onsen-olivegyu-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-amber-400 hover:bg-amber-50/30 transition block space-y-1"
             >
               <span className="font-bold text-amber-950 block">【香川】讃岐国一ノ宮田村神社初詣と塩江温泉・オリーブ牛名宿</span>
@@ -604,7 +604,7 @@ export default function KagawaKotohiraWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tokushima-city-oasashiko-shrine-hatsumode-awaodori-awagyu-stay"
+              href="/winter-tokushima-city-oasashiko-shrine-hatsumode-awaodori-awagyu-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-amber-400 hover:bg-amber-50/30 transition block space-y-1"
             >
               <span className="font-bold text-amber-950 block">【徳島】阿波国一ノ宮大麻比古神社初詣と阿波牛名宿</span>
@@ -612,7 +612,7 @@ export default function KagawaKotohiraWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay"
+              href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-amber-400 hover:bg-amber-50/30 transition block space-y-1"
             >
               <span className="font-bold text-amber-950 block">【愛媛】道後温泉本館全館営業再開と松山城・鯛めし名宿</span>
@@ -620,7 +620,7 @@ export default function KagawaKotohiraWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay"
+              href="/winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-amber-400 hover:bg-amber-50/30 transition block space-y-1"
             >
               <span className="font-bold text-amber-950 block">【三重】伊勢神宮新春初詣と冬旬的矢かき・伊勢海老名宿</span>
@@ -639,7 +639,7 @@ export default function KagawaKotohiraWinterPage() {
           </p>
           <div className="pt-2 flex flex-wrap justify-center gap-3">
             <Link 
-              href="/features" 
+              href="/features/" 
               className="px-6 py-3 bg-white text-slate-900 hover:bg-slate-100 font-black text-xs md:text-sm rounded-xl shadow transition"
             >
               特集記事一覧を見る

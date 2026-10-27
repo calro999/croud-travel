@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '雲仙普賢岳の紅葉パノラマ（国天然記念物）＆雲仙地獄の湯けむり白濁硫黄泉・長崎和牛ステーキ',
     description: '10月下旬〜11月中旬に山肌一面が赤や黄に染まる雲仙普賢岳と仁田峠ロープウェイ紅葉。湯けむり立ち込める雲仙地獄の白濁硫黄泉と、日本一に輝いた長崎和牛・秋獲れ伊勢海老をふるさと納税で味わう秋の九州旅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-unzen-jigoku-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-unzen-jigoku-autumn-leaves-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-unzen-jigoku-autumn-leaves-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-unzen-jigoku-autumn-leaves-stay/"
   };
 
   const faqSchema = {
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"雲仙普賢岳の紅葉パノラマ（国天然記念物）＆雲仙地獄の湯けむり白濁硫黄泉・長崎和牛ステーキ | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-unzen-jigoku-autumn-leaves-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"雲仙普賢岳の紅葉パノラマ（国天然記念物）＆雲仙地獄の湯けむり白濁硫黄泉・長崎和牛ステーキ | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-unzen-jigoku-autumn-leaves-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

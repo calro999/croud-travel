@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本三大水郷＆川下り舟舟遊び・水上情景リバーサイド宿×ふるさと納税厳選ガイド柳川・近江八幡・佐原',
     description: '情緒あふれる掘割とどんこ舟の旅！福岡「水郷柳川」網の目のような掘割巡りと名物うなぎのせいろ蒸し老舗宿、滋賀「近江八幡」八幡堀の白壁土蔵と近江牛ステーキ会席宿、千葉「小江戸佐原」利根川水運の歴史的町並みと舟めぐりオーベルジュ。水と暮らす歴史の街を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-water-towns-riverside-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-water-towns-riverside-stay/',
     siteName: 'トラベル総合ナビ',
     locale: 'ja_JP',
     type: 'article',
@@ -770,7 +770,7 @@ export default function Page() {
             
             <Link
               key="0"
-              href="/furusato-tax-riverside-kawadoko-cooling-inn-stay"
+              href="/furusato-tax-riverside-kawadoko-cooling-inn-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -783,7 +783,7 @@ export default function Page() {
             
             <Link
               key="1"
-              href="/furusato-tax-castle-town-heritage-onsen-stay"
+              href="/furusato-tax-castle-town-heritage-onsen-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
@@ -796,7 +796,7 @@ export default function Page() {
             
             <Link
               key="2"
-              href="/furusato-tax-kominka-heritage-townhouse-auberge-stay"
+              href="/furusato-tax-kominka-heritage-townhouse-auberge-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
               <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">

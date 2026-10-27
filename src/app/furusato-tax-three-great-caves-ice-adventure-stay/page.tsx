@@ -378,7 +378,7 @@ export default function Page() {
             
             <Link
               key="0"
-              href="/furusato-tax-three-great-limestone-caves-mystery-stay"
+              href="/furusato-tax-three-great-limestone-caves-mystery-stay/"
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
@@ -396,7 +396,7 @@ export default function Page() {
             </Link>
             <Link
               key="1"
-              href="/furusato-tax-three-great-karsts-highland-drive-stay"
+              href="/furusato-tax-three-great-karsts-highland-drive-stay/"
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
@@ -414,7 +414,7 @@ export default function Page() {
             </Link>
             <Link
               key="2"
-              href="/furusato-tax-three-great-wonders-rock-scenery-stay"
+              href="/furusato-tax-three-great-wonders-rock-scenery-stay/"
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>

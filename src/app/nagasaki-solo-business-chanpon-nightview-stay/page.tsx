@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '長崎出張＆夜景ひとり旅：西九州新幹線直結・天然温泉サウナ・稲佐山ビュー！本場ちゃんぽんを味わう極上宿 厳選3選',
     description: '西九州新幹線かもめ開業で進化する港町・長崎！「JR長崎駅西口直結のワールドクラスホテル」の「ヒルトン長崎」、駅東口徒歩すぐで天然温泉大浴場と夜鳴きそば完備の「ドーミーインPREMIUM長崎駅前」、駅前広場正面の格式ある老舗「ホテルニュー長崎」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/nagasaki-solo-business-chanpon-nightview-stay',
+    url: 'https://croud-travel.pages.dev/nagasaki-solo-business-chanpon-nightview-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T15:40:00+09:00',
     dateModified: '2026-10-19T15:40:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/nagasaki-solo-business-chanpon-nightview-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/nagasaki-solo-business-chanpon-nightview-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【長崎出張＆夜景ひとり旅】西九州新幹線直結・天然温泉サウナ・稲佐山ビュー！本場ちゃんぽんを味わう極上宿 厳選3選","item":"https://croud-travel.pages.dev/nagasaki-solo-business-chanpon-nightview-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【長崎出張＆夜景ひとり旅】西九州新幹線直結・天然温泉サウナ・稲佐山ビュー！本場ちゃんぽんを味わう極上宿 厳選3選","item":"https://croud-travel.pages.dev/nagasaki-solo-business-chanpon-nightview-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

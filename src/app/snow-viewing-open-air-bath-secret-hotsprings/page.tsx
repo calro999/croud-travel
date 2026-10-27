@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '白銀の世界に抱かれる至福！雪見露天風呂と濁り湯が自慢の極上秘湯宿',
     description: '乳頭温泉・万座・奥飛騨など一面の白銀世界を望む雪見露天風呂と濃厚なにごり湯が評判の秘湯旅館を徹底ガイド。冬ならではの絶景温泉ステイ。',
-    url: 'https://croud-travel.pages.dev/snow-viewing-open-air-bath-secret-hotsprings',
+    url: 'https://croud-travel.pages.dev/snow-viewing-open-air-bath-secret-hotsprings/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/snow-viewing-open-air-bath-secret-hotsprings"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/snow-viewing-open-air-bath-secret-hotsprings/"
   };
 
   const faqSchema = {
@@ -151,7 +151,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"白銀の世界に抱かれる至福！雪見露天風呂と濁り湯が自慢の極上秘湯宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/snow-viewing-open-air-bath-secret-hotsprings"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"白銀の世界に抱かれる至福！雪見露天風呂と濁り湯が自慢の極上秘湯宿 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/snow-viewing-open-air-bath-secret-hotsprings/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -166,7 +166,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">雪見露天＆にごり湯秘湯</span>
       </nav>
@@ -284,7 +284,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="白銀の世界に抱かれる至福！雪見露天風呂と濁り湯が自慢の極上秘湯宿"
-            url="https://croud-travel.pages.dev/snow-viewing-open-air-bath-secret-hotsprings"
+            url="https://croud-travel.pages.dev/snow-viewing-open-air-bath-secret-hotsprings/"
           />
         </div>
 

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '石川・能登和倉温泉で過ごす冬の旅（11・12月）！名物能登寒ぶり！名宿5選',
     description: '11月から12月にかけて、能登半島の優美な内海「七尾湾」に抱かれた名湯「和倉温泉（わくらおんせん）」は、冬の日本海がもたらす最高峰の美食と。',
-    url: 'https://croud-travel.pages.dev/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay',
+    url: 'https://croud-travel.pages.dev/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterIshikawaWakuraPage() {
         'headline': "【11・12月石川・能登和倉温泉の七尾湾冬景色と寒の味覚】名物能登寒ぶり＆加能ガニ・極上能登牛・開湯1200年の海のいで湯を愉しむ海辺名宿5選",
         'description': "11月から12月にかけて、能登半島の優美な内海「七尾湾」に抱かれた名湯「和倉温泉（わくらおんせん）」は、冬の日本海がもたらす最高峰の美食と、波静かなオーシャンビューに初雪が舞い散る風情豊かな季節を迎えます。開湯約1200年、海中から湧き出た白鷺伝説に由来する塩化物泉は、国内屈指の高温泉にして豊かな塩分が身体を芯から温める「海のいで湯」。11月6日に解禁される石川県産ブランドズワイガニ「加能ガニ」や内子・外子が詰まった「香箱ガニ」、初冬の寒風に揉まれて脂が乗り切った「能登寒ぶり」のブリしゃぶ、希少な極上「能登牛」。波穏やかな七尾湾と能登島大橋を望む絶景露天風呂とともに、心温まる北陸の贅を尽くす厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterIshikawaWakuraPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-teal-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">石川・能登和倉温泉</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterIshikawaWakuraPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月石川・能登和倉温泉】名物能登寒ぶり！名宿5選","item":"https://croud-travel.pages.dev/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月石川・能登和倉温泉】名物能登寒ぶり！名宿5選","item":"https://croud-travel.pages.dev/winter-ishikawa-noto-wakura-onsen-kanburi-kanogani-ocean-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -609,7 +609,7 @@ export default function WinterIshikawaWakuraPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-kanazawa-kenrokuen-yukizuri-stay"
+              href="/winter-kanazawa-kenrokuen-yukizuri-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">石川・金沢</span>
@@ -622,7 +622,7 @@ export default function WinterIshikawaWakuraPage() {
             </Link>
 
             <Link 
-              href="/winter-ishikawa-kaga-yamashiro-kano-crab-stay"
+              href="/winter-ishikawa-kaga-yamashiro-kano-crab-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">石川・加賀山代温泉</span>
@@ -635,7 +635,7 @@ export default function WinterIshikawaWakuraPage() {
             </Link>
 
             <Link 
-              href="/winter-fukui-awara-onsen-echizen-crab-stay"
+              href="/winter-fukui-awara-onsen-echizen-crab-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">福井・あわら温泉</span>

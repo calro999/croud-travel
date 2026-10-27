@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '修善寺温泉で過ごす冬の旅（11・12月）！伊豆の小京都で桂川の静寂と伊豆牛会席！名宿5選',
     description: '日本で最も遅い11月中旬から12月上旬にかけて見頃を迎える伊豆最古の名湯・修善寺温泉の紅葉。桂川のせせらぎに寄り添う「竹林の小径」と朱塗りの橋、弘法大師ゆかりの独鈷の湯。天城の清流が育む本生わさびと芳醇な伊豆牛ステーキ、駿河湾の冬魚を味わう静寂の初冬ステイ。',
-    url: 'https://croud-travel.pages.dev/winter-shizuoka-shuzenji-late-momiji-bamboo-stay',
+    url: 'https://croud-travel.pages.dev/winter-shizuoka-shuzenji-late-momiji-bamboo-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function ShuzenjiWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-shizuoka-shuzenji-late-momiji-bamboo-stay"
+          "@id": "https://croud-travel.pages.dev/winter-shizuoka-shuzenji-late-momiji-bamboo-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function ShuzenjiWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月修善寺温泉】伊豆の小京都で桂川の静寂と伊豆牛会席！名宿5選","item":"https://croud-travel.pages.dev/winter-shizuoka-shuzenji-late-momiji-bamboo-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月修善寺温泉】伊豆の小京都で桂川の静寂と伊豆牛会席！名宿5選","item":"https://croud-travel.pages.dev/winter-shizuoka-shuzenji-late-momiji-bamboo-stay/"}]}) }}
       />
         
         {/* Intro */}
@@ -647,7 +647,7 @@ export default function ShuzenjiWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link 
-              href="/winter-shizuoka-izukogen-granillumi-ito-onsen-stay"
+              href="/winter-shizuoka-izukogen-granillumi-ito-onsen-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">伊豆の冬エンタメ</span>
@@ -657,7 +657,7 @@ export default function ShuzenjiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-izu-kinmedai-shabushabu-luxury-stay"
+              href="/winter-izu-kinmedai-shabushabu-luxury-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">伊豆の冬美食</span>
@@ -667,7 +667,7 @@ export default function ShuzenjiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-atami-fireworks-ocean-view-stay"
+              href="/winter-atami-fireworks-ocean-view-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">東海の冬花火</span>
@@ -677,7 +677,7 @@ export default function ShuzenjiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay"
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">富士見名湯</span>
@@ -687,7 +687,7 @@ export default function ShuzenjiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay"
+              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">東海の三名泉</span>
@@ -697,7 +697,7 @@ export default function ShuzenjiWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kyoto-arashiyama-onsen-yudofu-stay"
+              href="/winter-kyoto-arashiyama-onsen-yudofu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">関西の小京都</span>

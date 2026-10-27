@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '歴史ある京町家を一棟丸ごと貸切！暮らすように泊まる露天風呂付きプライベート町家旅館×ふるさと納税極上旅ガイドNazuna椿通・Nazuna二条城・お宿花',
     description: '京都の路地裏に佇む伝統建築「京町家」を一棟丸ごと独占！格子戸、坪庭、檜風呂、天然温泉露天風呂完備の完全プライベート空間。「Nazuna 京都 椿通」「Nazuna 京都 二条城」「京町家お宿・花」を、京都市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kyoto-private-machiya-charter-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kyoto-private-machiya-charter-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoKyotoMachiyaCharterStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">京都町家一棟貸切プライベート宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoKyotoMachiyaCharterStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-kyoto-onsen-ryokan-machiya-stay"
+            href="/furusato-tax-kyoto-onsen-ryokan-machiya-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【京都嵐山温泉＆名門京町家旅館×ふるさと納税】渡月亭・翠嵐・花伝抄
           </Link>
           <Link
-            href="/traditional-crafts-pottery-gold-leaf-washi-stay"
+            href="/traditional-crafts-pottery-gold-leaf-washi-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【伝統工芸・日本文化体験宿×ふるさと納税】京都・金沢の名門旅館
           </Link>
           <Link
-            href="/tangible-cultural-property-sukiya-carpenter-ryokan-stay"
+            href="/tangible-cultural-property-sukiya-carpenter-ryokan-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【登録有形文化財・宮大工数寄屋造り旅館×ふるさと納税】木造建築美の宿
           </Link>
           <Link
-            href="/furusato-tax-private-villa-hanare-hideaway-stay"
+            href="/furusato-tax-private-villa-hanare-hideaway-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【大人の隠れ家・離れ客室×ふるさと納税】静寂とプライベート重視の名宿

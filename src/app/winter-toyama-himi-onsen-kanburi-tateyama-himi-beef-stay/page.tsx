@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '富山氷見温泉郷で過ごす冬の旅（11・12月）！寒ブリづくし会席！名宿5選',
     description: '11月下旬から12月にかけて富山湾で水揚げのピークを迎える冬の味覚の王様「ひみ寒ぶり」と、海越しに白銀の3,000m級立山連峰を望む富山県・氷見温泉郷。',
-    url: 'https://croud-travel.pages.dev/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -89,7 +89,7 @@ export default function HimiOnsenWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay/"
         }
       },
       {
@@ -313,7 +313,7 @@ export default function HimiOnsenWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月富山氷見温泉郷】寒ブリづくし会席！名宿5選","item":"https://croud-travel.pages.dev/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月富山氷見温泉郷】寒ブリづくし会席！名宿5選","item":"https://croud-travel.pages.dev/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -679,42 +679,42 @@ export default function HimiOnsenWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-toyama-unazuki-onsen-kurobe-snow-stay"
+              href="/winter-toyama-unazuki-onsen-kurobe-snow-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">富山・宇奈月温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">宇奈月温泉 黒部峡谷の雪景色と名水透明美肌の湯・富山湾旬魚の宿</h3>
             </Link>
             <Link 
-              href="/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay"
+              href="/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">石川・山中温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">山中温泉 鶴仙渓雪景色と極上加能ガニ会席・九谷焼器の宿</h3>
             </Link>
             <Link 
-              href="/winter-fukui-awara-onsen-echizen-crab-stay"
+              href="/winter-fukui-awara-onsen-echizen-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">福井・あわら温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">あわら温泉 越前ガニ黄色タグ尽くしと関西の奥座敷名湯の宿</h3>
             </Link>
             <Link 
-              href="/winter-gifu-okuhida-onsen-yukimi-roten-stay"
+              href="/winter-gifu-okuhida-onsen-yukimi-roten-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">岐阜・奥飛騨温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">奥飛騨温泉郷 北アルプス雪見野天風呂と飛騨牛朴葉味噌ステーキの宿</h3>
             </Link>
             <Link 
-              href="/winter-niigata-tsukioka-onsen-emerald-bihada-stay"
+              href="/winter-niigata-tsukioka-onsen-emerald-bihada-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">新潟・月岡温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">月岡温泉 エメラルドグリーンの含硫黄美肌湯と新潟地酒の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">特集一覧</span>

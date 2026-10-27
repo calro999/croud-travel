@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '三重・鳥羽＆志摩・賢島：英虞湾夕日・鳥羽水族館＆伊勢海老・海女小屋宿 厳選ガイド',
     description: '大小60余の島々が織りなすリアス式海岸「英虞湾」の夕景パノラマ、サミット開催地「賢島」、世界初の真珠養殖成功「ミキモト真珠島」、飼育種類数日本一「鳥羽水族館」、現役海女が炭火で焼く本場の伊勢海老・鮑を堪能する極上リゾート宿を徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/mie-toba-shima-kashikojima-pearl-stay',
+    url: 'https://croud-travel.pages.dev/mie-toba-shima-kashikojima-pearl-stay/',
   },
 };
 

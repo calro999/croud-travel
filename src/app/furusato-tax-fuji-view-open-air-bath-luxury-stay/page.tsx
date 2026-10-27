@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '霊峰富士の絶景を湯船から一望！富士山＆河口湖ビュー露天風呂名門宿×ふるさと納税極上旅ガイド鐘山苑・うぶや・湖南荘',
     description: '世界遺産・富士山の圧倒的な美しさを露天風呂から眼前に見渡す感動体験！「庭園と感動の宿 富士山温泉 ホテル鐘山苑」「河口湖温泉 うぶや」「富士河口湖温泉 湖南荘」を、山梨県富士吉田市・富士河口湖町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。三段構造の深湯露天風呂、全室富士山ビュー、屋上展望足湯を堪能。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-fuji-view-open-air-bath-luxury-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-fuji-view-open-air-bath-luxury-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">富士山ビュー絶景露天風呂宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-fuji-view-open-air-bath-luxury-stay"
+            href="/furusato-tax-fuji-view-open-air-bath-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【絶景露天風呂名門宿×ふるさと納税】大パノラマと至高の温泉体験
           </Link>
           <Link
-            href="/furusato-tax-lakeview-onsen-resort-hotel-stay"
+            href="/furusato-tax-lakeview-onsen-resort-hotel-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【絶景レイクビュー温泉リゾート×ふるさと納税】琵琶湖・洞爺湖・箱根芦ノ湖
           </Link>
           <Link
-            href="/furusato-tax-hakone-onsen-open-air-bath-stay"
+            href="/furusato-tax-hakone-onsen-open-air-bath-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【箱根湯本名湯温泉＆大露天風呂宿×ふるさと納税】ロマンスカー直通名宿
           </Link>
           <Link
-            href="/furusato-tax-atami-ocean-view-fireworks-hotel-stay"
+            href="/furusato-tax-atami-ocean-view-fireworks-hotel-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【熱海花火大会＆オーシャンビューホテル×ふるさと納税】特等席鑑賞

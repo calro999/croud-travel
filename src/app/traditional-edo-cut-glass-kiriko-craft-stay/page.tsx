@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：繊細なカットが生み出す光の芸術！薩摩切子・江戸切子のグラスで愉しむ地酒BARの宿5選',
     description: '2026年最新！鹿児島の薩摩切子や東京の江戸切子の美しい酒器で厳選地酒を味わえるBARや、切子工芸の展示・体験が楽しめる伝統文化の温泉宿5選。',
-    url: 'https://croud-travel.pages.dev/traditional-edo-cut-glass-kiriko-craft-stay',
+    url: 'https://croud-travel.pages.dev/traditional-edo-cut-glass-kiriko-craft-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-edo-cut-glass-kiriko-craft-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-edo-cut-glass-kiriko-craft-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">伝統切子工芸×銘酒BARホテル</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             光を浴びて宝石のようにきらめく薩摩切子や江戸切子の美しいカットガラス。職人が手作業で削り出した極上の酒器に注がれる銘酒を味わう特別な夜。日本の伝統工芸の粋を集めた空間と、美肌名湯に心癒やされる大人の美意識ステイ。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】繊細なカットが生み出す光の芸術！薩摩切子・江戸切子のグラスで愉しむ地酒BARの宿5選" url="https://croud-travel.pages.dev/traditional-edo-cut-glass-kiriko-craft-stay" />
+            <ShareButtons title="【2026年】繊細なカットが生み出す光の芸術！薩摩切子・江戸切子のグラスで愉しむ地酒BARの宿5選" url="https://croud-travel.pages.dev/traditional-edo-cut-glass-kiriko-craft-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】繊細なカットが生み出す光の芸術！薩摩切子・江戸切子のグラスで愉しむ地酒BARの宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/traditional-edo-cut-glass-kiriko-craft-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】繊細なカットが生み出す光の芸術！薩摩切子・江戸切子のグラスで愉しむ地酒BARの宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/traditional-edo-cut-glass-kiriko-craft-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

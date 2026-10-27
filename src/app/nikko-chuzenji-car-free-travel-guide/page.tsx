@@ -277,7 +277,7 @@ export default function NikkoChuzenjiCarFreeTravelGuidePage() {
             </p>
           </div>
           <Link
-            href="/tokyo-sendai-bus-vs-shinkansen-guide"
+            href="/tokyo-sendai-bus-vs-shinkansen-guide/"
             className="shrink-0 bg-white text-emerald-950 hover:bg-emerald-100 font-black px-4 py-2.5 rounded-xl transition shadow text-xs"
           >
             東京〜東北・仙台 交通費比較を見る →
@@ -491,7 +491,7 @@ export default function NikkoChuzenjiCarFreeTravelGuidePage() {
         </h3>
         <div className="grid md:grid-cols-2 gap-4">
           <Link
-            href="/tokyo-sendai-bus-vs-shinkansen-guide"
+            href="/tokyo-sendai-bus-vs-shinkansen-guide/"
             className="p-4 bg-white rounded-2xl border border-slate-200 hover:border-emerald-400 hover:shadow-sm transition group"
           >
             <div className="text-[11px] font-bold text-emerald-700 mb-1">新幹線 vs 高速バス</div>
@@ -500,7 +500,7 @@ export default function NikkoChuzenjiCarFreeTravelGuidePage() {
             </div>
           </Link>
           <Link
-            href="/tokyo-izu-atami-bus-vs-train-guide"
+            href="/tokyo-izu-atami-bus-vs-train-guide/"
             className="p-4 bg-white rounded-2xl border border-slate-200 hover:border-emerald-400 hover:shadow-sm transition group"
           >
             <div className="text-[11px] font-bold text-emerald-700 mb-1">特急＆普通列車お得旅</div>

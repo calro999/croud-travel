@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '日本三大古社＆神話と悠久の祈り・神域に寄り添う聖地宿×ふるさと納税厳選ガイド伊勢神宮・出雲大社・大神神社',
     description: '日本人の心のふるさとを巡る神聖なる古社ステイ！三重伊勢「伊勢神宮」内宮まで徒歩圏内・早朝参拝の静寂とおかげ横丁いにしえの宿伊久、島根出雲「出雲大社」縁結びの聖地・正門前に佇む純和風老舗竹野屋旅館、奈良桜井「三輪山・大神神社」本殿を持たず山をご神体とする日本最古の神社と多武峰観光ホテル。清らかな神域散策と名物グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-ancient-shrines-sacred-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-great-ancient-shrines-sacred-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -419,7 +419,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-torii-sacred-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-torii-sacred-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大鳥居＆神聖なる巨木の門・古都名宿×ふるさと納税完全ガイド
               </div>
@@ -427,7 +427,7 @@ export default function Page() {
                 厳島・春日大社・気比神宮。
               </p>
             </Link>
-            <Link href="/furusato-tax-three-great-zen-temples-mindfulness-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-zen-temples-mindfulness-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大禅寺＆静寂の枯山水・心洗われる禅寺名宿×ふるさと納税完全ガイド
               </div>
@@ -435,7 +435,7 @@ export default function Page() {
                 南禅寺・建長寺・永平寺。
               </p>
             </Link>
-            <Link href="/furusato-tax-three-great-bell-towers-historic-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-bell-towers-historic-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大名鐘＆心の琴線に響く梵鐘・悠久の寺町宿×ふるさと納税完全ガイド
               </div>

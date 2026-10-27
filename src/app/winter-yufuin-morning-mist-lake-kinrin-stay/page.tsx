@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "幻想の朝霧！由布院金鱗湖＆由布岳で過ごす冬の旅（11・12月）！湯けむり包む由布院温泉の離れ客室露天宿5選",
     description: "秋から初冬の早朝にだけ現れる金鱗湖の神秘的な「朝霧（湯気霧）」！湖底から温泉が湧き出ることで生まれる幻想的な霧の風景と、雄大な由布岳を望む離れ客室専用露天風呂で誰にも邪魔されない極上ステイ。",
-    url: 'https://croud-travel.pages.dev/winter-yufuin-morning-mist-lake-kinrin-stay',
+    url: 'https://croud-travel.pages.dev/winter-yufuin-morning-mist-lake-kinrin-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -59,7 +59,7 @@ export default function FeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-yufuin-morning-mist-lake-kinrin-stay"
+      "@id": "https://croud-travel.pages.dev/winter-yufuin-morning-mist-lake-kinrin-stay/"
     }
   };
 
@@ -143,7 +143,7 @@ export default function FeaturePage() {
       <nav className="max-w-5xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-500 flex items-center gap-1.5 overflow-x-auto">
         <Link href="/" className="hover:text-amber-600 transition-colors shrink-0">ホーム</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <Link href="/features" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <span className="text-stone-800 font-medium truncate">【11・12月幻想の朝霧！由布院金鱗湖＆由布岳】湯けむり包む由布院温泉の離れ客室露天宿5選</span>
       </nav>
@@ -155,7 +155,7 @@ export default function FeaturePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月幻想の朝霧！由布院金鱗湖＆由布岳】湯けむり包む由布院温泉の離れ客室露天宿5選","item":"https://croud-travel.pages.dev/winter-yufuin-morning-mist-lake-kinrin-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月幻想の朝霧！由布院金鱗湖＆由布岳】湯けむり包む由布院温泉の離れ客室露天宿5選","item":"https://croud-travel.pages.dev/winter-yufuin-morning-mist-lake-kinrin-stay/"}]}) }}
       />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
@@ -357,7 +357,7 @@ export default function FeaturePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <Link
-              href="/furusato-tax-japanese-garden-view-luxury-ryokan-stay"
+              href="/furusato-tax-japanese-garden-view-luxury-ryokan-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -373,7 +373,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/japan-historic-classic-hotel-heritage-stay"
+              href="/japan-historic-classic-hotel-heritage-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -389,7 +389,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/wakayama-solo-business-ramen-castle-stay"
+              href="/wakayama-solo-business-ramen-castle-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -405,7 +405,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/tokyo-kanazawa-bus-vs-shinkansen-guide"
+              href="/tokyo-kanazawa-bus-vs-shinkansen-guide/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -457,7 +457,7 @@ export default function FeaturePage() {
           <h3 className="text-lg font-bold text-stone-800 mb-3">他の特集記事もチェック</h3>
           <p className="text-sm text-stone-500 mb-6">全国各地の魅力あふれるテーマ別おすすめ宿泊施設をご紹介しています</p>
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 px-8 py-3.5 rounded-xl bg-stone-800 hover:bg-stone-900 text-white font-bold text-sm shadow-sm transition-colors"
           >
             <span>特集一覧ページへ戻る</span>
@@ -515,7 +515,7 @@ export default function FeaturePage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <Link
-              href="/silver-week-glamping-tohoku-sendai-fukushima-guide"
+              href="/silver-week-glamping-tohoku-sendai-fukushima-guide/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -531,7 +531,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/silver-week-glamping-chugoku-shikoku-setouchi-guide"
+              href="/silver-week-glamping-chugoku-shikoku-setouchi-guide/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -547,7 +547,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/silver-week-glamping-wine-brewery-craftbeer-guide"
+              href="/silver-week-glamping-wine-brewery-craftbeer-guide/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -563,7 +563,7 @@ export default function FeaturePage() {
               </span>
             </Link>
             <Link
-              href="/spring-nagano-shinshu-apple-spa-stay"
+              href="/spring-nagano-shinshu-apple-spa-stay/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>

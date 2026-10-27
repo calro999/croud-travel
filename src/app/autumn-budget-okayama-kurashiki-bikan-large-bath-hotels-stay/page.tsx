@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の倉敷美観地区×格安：白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」',
     description: '白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強倉敷ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-budget-okayama-kurashiki-bikan-large-bath-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-okayama-kurashiki-bikan-large-bath-hotels-stay/',
   }
 };
 

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: '日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふるさと納税厳選ガイド宇佐神宮・石清水八幡宮・筥崎宮',
     description: '全国4万社の総本宮と国家鎮護の神域！大分宇佐「宇佐神宮」国宝本殿と宇佐ホテルリバーサイド、京都八幡「石清水八幡宮」エジソンゆかりの男山と京都竹の郷温泉ホテル京都エミナース、福岡博多「筥崎宮」勝運と敵国降伏の扁額と都ホテル博多。日本三大八幡宮の開運・厄除け祈願と名湯・グルメを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-three-sacred-hachiman-shrines-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-three-sacred-hachiman-shrines-stay/',
     siteName: 'トラベルポータル',
   },
 };
@@ -393,7 +393,7 @@ export default function Page() {
           </h2>
           <div className="grid md:grid-cols-3 gap-4">
             
-            <Link href="/furusato-tax-three-great-torii-gates-sacred-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-torii-gates-sacred-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大鳥居＆聖地パワースポット宿×ふるさと納税完全ガイド
               </div>
@@ -402,7 +402,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-great-curious-festivals-heritage-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-great-curious-festivals-heritage-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 日本三大奇祭＆情熱の神事体験宿×ふるさと納税完全ガイド
               </div>
@@ -411,7 +411,7 @@ export default function Page() {
               </p>
             </Link>
             
-            <Link href="/furusato-tax-three-national-treasure-teahouses-stay" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
+            <Link href="/furusato-tax-three-national-treasure-teahouses-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
               <div className="font-bold text-sm text-slate-800 group-hover:text-emerald-700 transition line-clamp-2">
                 国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税完全ガイド
               </div>

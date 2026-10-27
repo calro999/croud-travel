@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '高湯温泉＆土湯温泉で過ごす冬の旅（11・12月）！吾妻連峰の雪見露天と白濁薬湯！名宿5選',
     description: '11月から12月にかけて、福島県福島市の西部にそびえる吾妻連峰の山懐は、澄み渡る冷気と初雪に包まれます。',
-    url: 'https://croud-travel.pages.dev/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
         'headline': "【11・12月福島・高湯温泉＆土湯温泉】吾妻連峰の雪見露天と白濁薬湯・名物福島牛と地酒を味わう名宿5選",
         'description': "11月から12月にかけて、福島県福島市の西部にそびえる吾妻連峰の山懐は、澄み渡る冷気と初雪に包まれます。奥羽三高湯の筆頭として名高い「高湯温泉」は、加水・加温・循環・消毒を一切行わない全国屈指の完全源泉掛け流し宣言を掲げ、青白く濁る強烈な硫黄泉が雪景色の中に湧き立ちます。一方、吾妻小富士の麓に位置する「土湯温泉」は、荒川の清流沿いに木造のこけし工房や湯宿が立ち並び、炭酸水素塩泉や単純温泉など多彩な湯巡りが楽しめます。初冬の冷え切った身体を包み込む白濁湯と渓谷露天風呂、夕食にはきめ細やかな霜降りと上品な甘みが特徴の「福島牛」の陶板焼きやすき焼き、会津や中通りの名酒蔵が醸す新酒、郷土料理のいかにんじんや温かい芋煮。初冬の福島奥座敷で心身を解きほぐす厳選名宿5選を詳しく紹介します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-cyan-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">福島・高湯＆土湯温泉</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月高湯温泉＆土湯温泉】吾妻連峰の雪見露天と白濁薬湯！名宿5選","item":"https://croud-travel.pages.dev/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月高湯温泉＆土湯温泉】吾妻連峰の雪見露天と白濁薬湯！名宿5選","item":"https://croud-travel.pages.dev/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -531,7 +531,7 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay"
+              href="/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block">福島・会津東山温泉</span>
@@ -544,7 +544,7 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
             </Link>
 
             <Link 
-              href="/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay"
+              href="/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block">福島・裏磐梯温泉</span>
@@ -557,7 +557,7 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
             </Link>
 
             <Link 
-              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay"
+              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block">山形・蔵王温泉</span>

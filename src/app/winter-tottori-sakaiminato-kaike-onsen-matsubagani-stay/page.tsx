@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月鳥取：山陰松葉ガニ解禁！名宿5選',
     description: '11月6日の松葉ガニ漁解禁とともに、山陰・鳥取県は年間で最も美食と活気に満ちる冬の黄金期を迎えます。日本屈指のズワイガニ水揚げ量を誇る境港で満喫する至福の宿泊滞在プランをご案内します。',
-    url: 'https://croud-travel.pages.dev/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay',
+    url: 'https://croud-travel.pages.dev/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '境港松葉ガニ＆皆生温泉特集',
-        item: 'https://croud-travel.pages.dev/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay'
+        item: 'https://croud-travel.pages.dev/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay/'
       }
     ]
   };
@@ -641,7 +641,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay" 
+              href="/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">茨城・袋田＆奥久慈</span>
@@ -651,7 +651,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay" 
+              href="/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">神奈川・三浦＆三崎</span>
@@ -661,7 +661,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay" 
+              href="/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">千葉・鴨川＆小湊</span>
@@ -671,7 +671,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay" 
+              href="/winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">北海道・千歳支笏湖</span>
@@ -681,7 +681,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay" 
+              href="/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">沖縄・石垣島＆川平湾</span>
@@ -691,7 +691,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
             </Link>
 
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-gradient-to-br from-cyan-900 to-slate-950 text-white hover:opacity-95 transition-all group block flex flex-col justify-between"
             >
               <div>

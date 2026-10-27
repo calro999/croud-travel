@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '島根・温泉津温泉で過ごす冬の旅（11・12月）！しまね和牛に心奪われる！名宿5選',
     description: '11月中旬から初冬の島根・石見地方に位置する温泉津温泉（ゆのつおんせん）と有福温泉（ありふくおんせん）の魅力とおすすめ宿泊施設を詳しくご紹介します。',
-    url: 'https://croud-travel.pages.dev/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -57,7 +57,7 @@ export default function ShimaneYunotsuWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -344,7 +344,7 @@ export default function ShimaneYunotsuWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10 sm:pt-14 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月島根・温泉津温泉】しまね和牛に心奪われる！名宿5選","item":"https://croud-travel.pages.dev/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月島根・温泉津温泉】しまね和牛に心奪われる！名宿5選","item":"https://croud-travel.pages.dev/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -623,7 +623,7 @@ export default function ShimaneYunotsuWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay"
+              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">島根・玉造温泉</span>
@@ -636,7 +636,7 @@ export default function ShimaneYunotsuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">鳥取・三朝温泉</span>
@@ -649,7 +649,7 @@ export default function ShimaneYunotsuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay"
+              href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">山口・長門湯本温泉</span>

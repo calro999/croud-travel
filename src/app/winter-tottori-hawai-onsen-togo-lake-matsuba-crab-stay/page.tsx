@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '鳥取・はわい温泉で過ごす冬の旅（11・12月）！鳥取和牛オレイン55！名宿5選',
     description: '11月から12月にかけて鳥取県中央部に位置する東郷湖畔の「はわい温泉・東郷温泉」は、静かな湖面から立ち上る幻想的な朝霧と湯けむりに包まれ。',
-    url: 'https://croud-travel.pages.dev/winter-tottori-hawai-onsen-togo-lake-matsuba-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-tottori-hawai-onsen-togo-lake-matsuba-crab-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function HawaiOnsenWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-tottori-hawai-onsen-togo-lake-matsuba-crab-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-tottori-hawai-onsen-togo-lake-matsuba-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tottori-hawai-onsen-togo-lake-matsuba-crab-stay/"
         },
         "headline": "【11・12月鳥取・はわい温泉の東郷湖上露天風呂と11月解禁鳥取松葉ガニ】鳥取和牛オレイン55・源泉かけ流し湖畔名宿5選",
         "description": "11月から12月にかけて鳥取県中央部に位置する東郷湖畔の「はわい温泉・東郷温泉」は、静かな湖面から立ち上る幻想的な朝霧と湯けむりに包まれ、11月6日のカニ漁解禁とともに一年で最も贅沢な冬の味覚シーズンを迎えます。全国的にも極めて珍しい東郷湖上に浮かぶように突き出た「湖上露天風呂」に浸かり、湖水と一体となる奇跡のインフィニティ湯浴みを満喫。境港や泊港から直送される新鮮なタグ付き鳥取松葉ガニのフルコース、脂の融点が低くとろける最高峰ブランド「鳥取和牛オレイン55」のステーキを味わう、初冬の湖畔厳選宿5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function HawaiOnsenWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "鳥取・はわい温泉 東郷湖上露天風呂と解禁松葉ガニの宿",
-            "item": "https://croud-travel.pages.dev/winter-tottori-hawai-onsen-togo-lake-matsuba-crab-stay"
+            "item": "https://croud-travel.pages.dev/winter-tottori-hawai-onsen-togo-lake-matsuba-crab-stay/"
           }
         ]
       },
@@ -595,42 +595,42 @@ export default function HawaiOnsenWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">鳥取・三朝温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">世界屈指の高濃度ラジウム温泉と鳥取松葉ガニ・三朝橋雪景色の名宿</h3>
             </Link>
             <Link 
-              href="/winter-tottori-kaike-onsen-matsuba-crab-stay"
+              href="/winter-tottori-kaike-onsen-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">鳥取・皆生温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">美保湾境港直送松葉ガニと伯耆富士大山雪景色・塩化物泉の宿</h3>
             </Link>
             <Link 
-              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay"
+              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">島根・玉造温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">神在月の出雲路と日本最古の美肌湯・松葉ガニ＆島根和牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay"
+              href="/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">兵庫・香住温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">最高峰ブランド柴山ガニと香住松葉ガニ・但馬牛ステーキの宿</h3>
             </Link>
             <Link 
-              href="/winter-kyoto-tango-yuhigaura-matsuba-crab-stay"
+              href="/winter-kyoto-tango-yuhigaura-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">京都丹後・夕日ヶ浦温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">日本海夕景と11月解禁松葉ガニ・幻の間人ガニ＆美人の湯の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">特集一覧</span>

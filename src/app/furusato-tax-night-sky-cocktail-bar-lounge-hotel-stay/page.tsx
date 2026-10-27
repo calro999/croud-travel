@@ -60,7 +60,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
         <nav className="text-xs md:text-sm text-stone-500 mb-6 flex items-center gap-2 flex-wrap">
           <Link href="/" className="hover:text-stone-900 underline transition">ホーム</Link>
           <span>/</span>
-          <Link href="/travel-savings-guide" className="hover:text-stone-900 underline transition">旅行節約ハブ</Link>
+          <Link href="/travel-savings-guide/" className="hover:text-stone-900 underline transition">旅行節約ハブ</Link>
           <span>/</span>
           <span className="text-stone-800 font-medium">天空スカイバー＆クラブラウンジ夜景ホテル特集</span>
         </nav>
@@ -89,7 +89,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
               楽天ふるさと納税トラベルクーポンを獲得する →
             </a>
             <Link
-              href="/furusato-tax-travel-beginners-complete-guide"
+              href="/furusato-tax-travel-beginners-complete-guide/"
               className="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 text-amber-200 font-bold px-5 py-3 rounded-2xl border border-amber-300/20 text-xs sm:text-sm transition"
             >
               📖 初めての方向け完全マニュアル
@@ -361,7 +361,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
           <ul className="grid sm:grid-cols-2 gap-2">
 
               <li key="furusato-tax-three-major-night-view-luxury-hotel-stay">
-                <Link href="/furusato-tax-three-major-night-view-luxury-hotel-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-three-major-night-view-luxury-hotel-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【日本三大夜景ホテル×ふるさと納税】函館・神戸・長崎の宝石パノラマ名宿</span>
                 </Link>
@@ -369,7 +369,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
   
 
               <li key="furusato-tax-anniversary-luxury-suite-villa-stay">
-                <Link href="/furusato-tax-anniversary-luxury-suite-villa-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-anniversary-luxury-suite-villa-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【記念日・スイートヴィラ×ふるさと納税】一棟貸切と絶景露天の特別ステイ</span>
                 </Link>
@@ -377,7 +377,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
   
 
               <li key="furusato-tax-resort-infinity-pool-luxury-hotel-stay">
-                <Link href="/furusato-tax-resort-infinity-pool-luxury-hotel-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-resort-infinity-pool-luxury-hotel-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【極上インフィニティプール×ふるさと納税】熱海・恩納村・別府リゾート</span>
                 </Link>
@@ -385,7 +385,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
   
 
               <li key="furusato-tax-art-museum-architecture-luxury-hotel-stay">
-                <Link href="/furusato-tax-art-museum-architecture-luxury-hotel-stay" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
+                <Link href="/furusato-tax-art-museum-architecture-luxury-hotel-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
                   <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【美術館ホテル＆現代アート×ふるさと納税】直島・箱根強羅・青森の名宿</span>
                 </Link>
@@ -403,7 +403,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
-            href="/travel-savings-guide"
+            href="/travel-savings-guide/"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 text-stone-950 font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition text-sm"
           >
             🏨 旅行節約総合ハブページを見る ➔

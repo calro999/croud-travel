@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '琵琶湖ひとり旅・絶景おこもり：全室レイクビュー・天然温泉るりの湯・近江牛会席！日本最大の湖に癒やされる極上リゾート宿 厳選3選',
     description: '京都駅からJR新快速でわずか約9〜20分！「全室バルコニー付きレイクビュー＆天然温泉大浴場」を誇る「琵琶湖ホテル」、丹下健三設計の38階超高層パノラマタワー「びわ湖大津プリンスホテル」、客室露天風呂と湖畔の朝夕部屋食が自慢の「おごと温泉 びわこ緑水亭」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/shiga-biwako-solo-retreat-lakeview-onsen-stay',
+    url: 'https://croud-travel.pages.dev/shiga-biwako-solo-retreat-lakeview-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T15:45:00+09:00',
     dateModified: '2026-10-19T15:45:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/shiga-biwako-solo-retreat-lakeview-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/shiga-biwako-solo-retreat-lakeview-onsen-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【琵琶湖ひとり旅・絶景おこもり】全室レイクビュー・天然温泉るりの湯・近江牛会席！日本最大の湖に癒やされる極上リゾート宿 厳選3選","item":"https://croud-travel.pages.dev/shiga-biwako-solo-retreat-lakeview-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【琵琶湖ひとり旅・絶景おこもり】全室レイクビュー・天然温泉るりの湯・近江牛会席！日本最大の湖に癒やされる極上リゾート宿 厳選3選","item":"https://croud-travel.pages.dev/shiga-biwako-solo-retreat-lakeview-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '奈良・大和路奈良町温泉で過ごす冬の旅（11・12月）！名物極上大和牛すき焼き！名宿5選',
     description: '11月から12月にかけて、1300年の歴史を誇る古都・奈良は、秋の喧騒が落ち着きを取り戻し。',
-    url: 'https://croud-travel.pages.dev/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay',
+    url: 'https://croud-travel.pages.dev/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterNaraYamatojiPage() {
         'headline': "【11・12月奈良・大和路奈良町温泉の初冬古都散策と若草山冬景色】名物極上大和牛すき焼き＆飛鳥鍋・東大寺大仏殿を望む歴史名宿5選",
         'description': "11月から12月にかけて、1300年の歴史を誇る古都・奈良は、秋の喧騒が落ち着きを取り戻し、澄み切った初冬の青空の下で静謐な大和路の風情が色濃くなります。冬枯れの木立と愛らしい鹿たちが佇む奈良公園、雪化粧を始めた若草山、凛とした空気に包まれる世界遺産・東大寺大仏殿や春日大社、風情ある格子戸が連なる「ならまち」の散策。夕食には大和の豊かな風土が育んだ最高峰の黒毛和牛「大和牛（やまとうし）」のすき焼きや陶板焼き、牛乳ベースの優しい出汁に鶏肉や旬野菜が溶け合う古代宮廷伝承の郷土鍋「飛鳥鍋（あすかなべ）」、大和野菜。古都の天然温泉に浸かり、歴史の深遠に抱かれる厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterNaraYamatojiPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-amber-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">奈良・大和路奈良町</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterNaraYamatojiPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月奈良・大和路奈良町温泉】名物極上大和牛すき焼き！名宿5選","item":"https://croud-travel.pages.dev/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月奈良・大和路奈良町温泉】名物極上大和牛すき焼き！名宿5選","item":"https://croud-travel.pages.dev/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -611,7 +611,7 @@ export default function WinterNaraYamatojiPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-kyoto-arashiyama-onsen-yudofu-stay"
+              href="/winter-kyoto-arashiyama-onsen-yudofu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">京都・嵐山温泉</span>
@@ -624,7 +624,7 @@ export default function WinterNaraYamatojiPage() {
             </Link>
 
             <Link 
-              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay"
+              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">兵庫・有馬温泉</span>
@@ -637,7 +637,7 @@ export default function WinterNaraYamatojiPage() {
             </Link>
 
             <Link 
-              href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay"
+              href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">滋賀・長浜太閤温泉</span>

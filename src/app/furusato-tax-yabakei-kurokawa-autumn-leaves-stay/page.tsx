@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '奇岩と紅葉が織りなす山水画の世界！耶馬渓・九重連山＆黒川温泉入湯手形露天名宿×ふるさと納税厳選ガイド九州',
     description: '10月下旬〜11月下旬に見頃を迎える日本三大奇勝「耶馬渓（大分）」と九州本土最高峰「九重連山」、そして全国屈指の人気温泉郷「黒川温泉（熊本）」。名物「入湯手形」で巡る大自然の絶景露天風呂！「旅館 奥の湯」「旅館 山河」「やまびこ旅館」。肥後あか牛と秋の山里会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-yabakei-kurokawa-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-yabakei-kurokawa-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -55,7 +55,7 @@ export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">耶馬渓紅葉＆黒川温泉露天名宿特集</span>
       </nav>
@@ -384,7 +384,7 @@ export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
 
             <li key="furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay">
               <Link
-                href="/furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay"
+                href="/furusato-tax-wa-modern-twin-bed-comfortable-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -395,7 +395,7 @@ export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
 
             <li key="furusato-tax-autumn-foliage-open-air-bath-stay">
               <Link
-                href="/furusato-tax-autumn-foliage-open-air-bath-stay"
+                href="/furusato-tax-autumn-foliage-open-air-bath-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -406,7 +406,7 @@ export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
 
             <li key="furusato-tax-pure-kakenagashi-secret-hotspring-stay">
               <Link
-                href="/furusato-tax-secret-hotspring-lamp-retreat-stay"
+                href="/furusato-tax-secret-hotspring-lamp-retreat-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -417,7 +417,7 @@ export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
 
             <li key="furusato-tax-luxury-hotspring-ryokan-stay">
               <Link
-                href="/furusato-tax-luxury-hotspring-ryokan-stay"
+                href="/furusato-tax-luxury-hotspring-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -437,7 +437,7 @@ export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
-            href="/travel-savings-guide"
+            href="/travel-savings-guide/"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 text-stone-950 font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition text-sm"
           >
             🏨 旅行節約総合ハブページを見る ➔

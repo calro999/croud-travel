@@ -426,7 +426,7 @@ export default function OkinawaPackingMistakesGuidePage() {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
             <Link
-              href="/okinawa-travel-budget-plan"
+              href="/okinawa-travel-budget-plan/"
               className="p-4 rounded-2xl bg-slate-950/80 border border-cyan-900/40 hover:border-cyan-400 transition space-y-1.5 group"
             >
               <div className="text-xs font-black text-cyan-400 group-hover:text-cyan-300">
@@ -441,7 +441,7 @@ export default function OkinawaPackingMistakesGuidePage() {
             </Link>
 
             <Link
-              href="/okinawa-family-trip-how-many-nights-budget"
+              href="/okinawa-family-trip-how-many-nights-budget/"
               className="p-4 rounded-2xl bg-slate-950/80 border border-cyan-900/40 hover:border-cyan-400 transition space-y-1.5 group"
             >
               <div className="text-xs font-black text-cyan-400 group-hover:text-cyan-300">
@@ -460,7 +460,7 @@ export default function OkinawaPackingMistakesGuidePage() {
         {/* 全国都道府県一覧 */}
         <div className="text-center pt-4">
           <Link
-            href="/prefectures"
+            href="/prefectures/"
             className="inline-flex items-center gap-2 text-xs font-bold text-slate-300 bg-slate-900 hover:bg-slate-800 border border-cyan-900/60 px-8 py-3.5 rounded-2xl transition shadow-sm"
           >
             <span>🗾</span>

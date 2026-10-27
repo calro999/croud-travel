@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '渋温泉で過ごす冬の旅（11・12月）！木造建築が彩る冬のノスタルジー！名宿5選',
     description: '開湯1300年、下駄の音がカランコロンと響く長野県・信州渋温泉。11月の晩秋の冷気から12月の雪舞う石畳の温泉街へ。',
-    url: 'https://croud-travel.pages.dev/winter-nagano-shibu-onsen-nine-sotoyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-shibu-onsen-nine-sotoyu-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -84,7 +84,7 @@ export default function ShibuWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-nagano-shibu-onsen-nine-sotoyu-stay"
+          "@id": "https://croud-travel.pages.dev/winter-nagano-shibu-onsen-nine-sotoyu-stay/"
         }
       },
       {
@@ -300,7 +300,7 @@ export default function ShibuWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月渋温泉】木造建築が彩る冬のノスタルジー！名宿5選","item":"https://croud-travel.pages.dev/winter-nagano-shibu-onsen-nine-sotoyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月渋温泉】木造建築が彩る冬のノスタルジー！名宿5選","item":"https://croud-travel.pages.dev/winter-nagano-shibu-onsen-nine-sotoyu-stay/"}]}) }}
       />
         
         {/* Intro */}
@@ -508,7 +508,7 @@ export default function ShibuWinterPage() {
                           <span className="text-xs text-stone-400">（{h.reviews}件のクチコミ）</span>
                         </div>
                         <span className="text-xs font-medium px-2.5 py-1 bg-stone-100 text-stone-600 rounded-lg">
-                          目安: {h.price} / 泊
+                          目安: {h.price} // 泊
                         </span>
                       </div>
 
@@ -710,7 +710,7 @@ export default function ShibuWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3.5 text-xs sm:text-sm">
             <Link
-              href="/winter-nagano-jigokudani-snow-monkey-stay"
+              href="/winter-nagano-jigokudani-snow-monkey-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-red-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-red-700 mb-1">
@@ -722,7 +722,7 @@ export default function ShibuWinterPage() {
             </Link>
 
             <Link
-              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
+              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-red-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-red-700 mb-1">
@@ -734,7 +734,7 @@ export default function ShibuWinterPage() {
             </Link>
 
             <Link
-              href="/winter-gunma-kusatsu-yukimi-onsen-stay"
+              href="/winter-gunma-kusatsu-yukimi-onsen-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-red-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-red-700 mb-1">
@@ -746,7 +746,7 @@ export default function ShibuWinterPage() {
             </Link>
 
             <Link
-              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay"
+              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-red-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-red-700 mb-1">
@@ -758,7 +758,7 @@ export default function ShibuWinterPage() {
             </Link>
 
             <Link
-              href="/winter-niigata-echigo-yuzawa-snow-sake-stay"
+              href="/winter-niigata-echigo-yuzawa-snow-sake-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-red-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-red-700 mb-1">
@@ -770,7 +770,7 @@ export default function ShibuWinterPage() {
             </Link>
 
             <Link
-              href="/features"
+              href="/features/"
               className="p-3.5 bg-red-50/70 rounded-xl border border-red-200 hover:bg-red-100/70 transition-all flex flex-col justify-center items-center text-center group"
             >
               <div className="font-bold text-red-900 mb-1">

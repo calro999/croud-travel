@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '加賀温泉郷・粟津温泉ひとり旅・開湯1300年最古の湯おこもり：自家掘り純度100%源泉・加賀会席＆のどぐろ・那谷寺の美林！北陸名湯厳選3宿',
     description: '養老2年（718年）泰澄大師が開湯した加賀温泉郷最古の名湯・粟津温泉！露天風呂付き客室と創業700年の贅を尽くした加賀料理が評判の「のとや」、世界屈指の歴史を誇る老舗旅館「法師」、アットホームな居心地と良心的な価格の「大くぼ旅館」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/ishikawa-awazu-solo-retreat-heritage-onsen-stay',
+    url: 'https://croud-travel.pages.dev/ishikawa-awazu-solo-retreat-heritage-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/ishikawa-awazu-solo-retreat-heritage-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/ishikawa-awazu-solo-retreat-heritage-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【加賀温泉郷・粟津温泉ひとり旅・開湯1300年最古の湯おこもり】自家掘り純度100%源泉・加賀会席＆のどぐろ・那谷寺の美林！北陸名湯厳選3宿","item":"https://croud-travel.pages.dev/ishikawa-awazu-solo-retreat-heritage-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【加賀温泉郷・粟津温泉ひとり旅・開湯1300年最古の湯おこもり】自家掘り純度100%源泉・加賀会席＆のどぐろ・那谷寺の美林！北陸名湯厳選3宿","item":"https://croud-travel.pages.dev/ishikawa-awazu-solo-retreat-heritage-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

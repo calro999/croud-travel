@@ -403,7 +403,7 @@ export default function SilverWeekGlampingPrivatePoolJacuzziPage() {
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
           <Link
-            href="/okinawa-luxury-anniversary-resort-guide"
+            href="/okinawa-luxury-anniversary-resort-guide/"
             className="block p-4 rounded-2xl bg-cyan-900/60 border border-cyan-700/60 hover:border-cyan-400 hover:bg-cyan-900/90 transition group"
           >
             <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -415,7 +415,7 @@ export default function SilverWeekGlampingPrivatePoolJacuzziPage() {
           </Link>
 
           <Link
-            href="/hakone-couple-1night2days-anniversary-guide"
+            href="/hakone-couple-1night2days-anniversary-guide/"
             className="block p-4 rounded-2xl bg-cyan-900/60 border border-cyan-700/60 hover:border-cyan-400 hover:bg-cyan-900/90 transition group"
           >
             <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -431,7 +431,7 @@ export default function SilverWeekGlampingPrivatePoolJacuzziPage() {
       {/* 都道府県一覧への導線 */}
       <div className="text-center pt-4">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-cyan-950 bg-cyan-50 hover:bg-cyan-100 border border-cyan-200 px-8 py-3.5 rounded-2xl transition shadow-sm"
         >
           <span>🗾</span>

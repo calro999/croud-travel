@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '2026年：竹林の小径と渡月橋の風情。嵐山温泉＆極上京懐石を味わう京都の名旅館5選',
     description: '2026年最新！早朝の静寂に包まれる嵐山竹林の小径散策！名物湯豆腐・旬の京懐石とトロトロの嵐山温泉露天風呂で古都の風情に浸るおすすめ名宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/spring-kyoto-bamboo-grove-arashiyama-stay',
+    url: 'https://croud-travel.pages.dev/spring-kyoto-bamboo-grove-arashiyama-stay/',
   },
   alternates: {
     canonical: "https://croud-travel.pages.dev/spring-kyoto-bamboo-grove-arashiyama-stay/",
@@ -179,7 +179,7 @@ export default function FeatureDetailPage() {
         <div className="max-w-6xl mx-auto px-4 py-3 text-sm text-slate-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-amber-600">トップ</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-amber-600">厳選特集一覧</Link>
+          <Link href="/features/" className="hover:text-amber-600">厳選特集一覧</Link>
           <span>&gt;</span>
           <span className="text-slate-800 font-medium truncate max-w-xs sm:max-w-md md:max-w-none">
             嵐山竹林散策＆極上京懐石の京都名湯宿
@@ -556,7 +556,7 @@ export default function FeatureDetailPage() {
         {/* 特集トップへのリンク */}
         <div className="text-center pt-4">
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white font-bold px-8 py-4 rounded-2xl shadow-md transition-all"
           >
             <span>他の厳選特集一覧を見る</span>

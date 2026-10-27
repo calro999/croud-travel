@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '会津東山温泉で過ごす冬の旅（11・12月）！名物会津牛！名宿5選',
     description: '11月から12月にかけて、鶴ヶ城の武家文化と城下町情緒が息づく福島県会津若松市の「東山温泉（ひがしやまおんせん）」と「芦ノ牧温泉（あしのまき。',
-    url: 'https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterFukushimaAizuOnsenPage() {
         'headline': "【11・12月福島・会津東山温泉＆芦ノ牧温泉の渓谷雪景色と城下町情緒】名物会津牛＆極上馬刺し・郷土こづゆと渓谷露天の名宿5選",
         'description': "11月から12月にかけて、鶴ヶ城の武家文化と城下町情緒が息づく福島県会津若松市の「東山温泉（ひがしやまおんせん）」と「芦ノ牧温泉（あしのまきおんせん）」は、湯川渓谷や阿賀川（大川）の切り立つ断崖に初雪が降り積もり、水墨画のような渓谷雪見露天が旅人を魅了する季節を迎えます。開湯約1300年の歴史を誇る東山温泉のサラリとした硫酸塩泉と、湯量豊富な芦ノ牧温泉の弱アルカリ性美肌泉。冷えた身体を温めた後は、会津漆器で振る舞われる江戸時代からの伝統郷土料理「こづゆ」、赤身の芳醇な旨味と甘みが際立つ極上「会津馬刺し」、きめ細やかなサシが入ったブランド黒毛和牛「会津牛」、全国新酒鑑評会で金賞を席巻する会津の銘酒。初冬の奥会津の静寂と温もりに包まれる厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterFukushimaAizuOnsenPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-rose-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">福島・会津東山＆芦ノ牧温泉</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterFukushimaAizuOnsenPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月会津東山温泉】名物会津牛！名宿5選","item":"https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月会津東山温泉】名物会津牛！名宿5選","item":"https://croud-travel.pages.dev/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay/"}]}) }}
       />
         
         {/* Intro Highlight Box */}
@@ -577,7 +577,7 @@ export default function WinterFukushimaAizuOnsenPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-yamagata-kaminoyama-onsen-hoshigaki-yamagata-beef-stay"
+              href="/winter-yamagata-kaminoyama-onsen-hoshigaki-yamagata-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">山形・かみのやま温泉</span>
@@ -590,7 +590,7 @@ export default function WinterFukushimaAizuOnsenPage() {
             </Link>
 
             <Link 
-              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay"
+              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">宮城・秋保温泉</span>
@@ -603,7 +603,7 @@ export default function WinterFukushimaAizuOnsenPage() {
             </Link>
 
             <Link 
-              href="/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay"
+              href="/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">栃木・塩原温泉郷</span>

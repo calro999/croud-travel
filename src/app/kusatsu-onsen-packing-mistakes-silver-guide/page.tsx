@@ -379,7 +379,7 @@ export default function KusatsuPackingMistakesPage() {
         <h3 className="text-lg font-bold text-slate-900">草津温泉の関連記事もあわせてチェック</h3>
         <div className="grid md:grid-cols-3 gap-4 text-sm">
           <Link
-            href="/kusatsu-onsen-travel-budget-guide"
+            href="/kusatsu-onsen-travel-budget-guide/"
             className="p-4 bg-white rounded-2xl border border-slate-200 hover:border-amber-400 hover:shadow-sm transition group"
           >
             <div className="text-amber-700 text-xs font-bold mb-1">費用シミュレーション</div>
@@ -390,7 +390,7 @@ export default function KusatsuPackingMistakesPage() {
           </Link>
 
           <Link
-            href="/kusatsu-vs-ikaho-onsen-comparison"
+            href="/kusatsu-vs-ikaho-onsen-comparison/"
             className="p-4 bg-white rounded-2xl border border-slate-200 hover:border-amber-400 hover:shadow-sm transition group"
           >
             <div className="text-amber-700 text-xs font-bold mb-1">温泉地比較</div>
@@ -401,7 +401,7 @@ export default function KusatsuPackingMistakesPage() {
           </Link>
 
           <Link
-            href="/tokyo-kusatsu-onsen-highway-bus-guide"
+            href="/tokyo-kusatsu-onsen-highway-bus-guide/"
             className="p-4 bg-white rounded-2xl border border-slate-200 hover:border-amber-400 hover:shadow-sm transition group"
           >
             <div className="text-amber-700 text-xs font-bold mb-1">アクセス完全攻略</div>

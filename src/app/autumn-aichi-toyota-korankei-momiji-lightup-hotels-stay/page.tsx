@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の香嵐渓：4000本のもみじ狩りと巴川ライトアップ！三河の名湯と美食を味わうおすすめ宿5選「2026最新」',
     description: '東海随一の紅葉名所・足助「香嵐渓」の約4,000本のもみじと待月橋ライトアップ！三河の名湯宿5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-aichi-toyota-korankei-momiji-lightup-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-aichi-toyota-korankei-momiji-lightup-hotels-stay/',
   }
 };
 

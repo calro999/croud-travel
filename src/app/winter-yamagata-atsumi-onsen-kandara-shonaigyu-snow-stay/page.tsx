@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '庄内あつみ温泉で過ごす冬の旅（11・12月）！名物寒鱈汁！名宿5選',
     description: '11月から12月にかけて、山形県庄内地方の南端に位置する「あつみ温泉（温海温泉）」は、日本海の潮風と出羽の山並みが交錯する渓谷に位置し。',
-    url: 'https://croud-travel.pages.dev/winter-yamagata-atsumi-onsen-kandara-shonaigyu-snow-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-atsumi-onsen-kandara-shonaigyu-snow-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterYamagataAtsumiPage() {
         'headline': "【11・12月山形・庄内あつみ温泉の開湯1200年名湯と冬の日本海味覚】名物寒鱈汁＆紅ズワイガニ・極上庄内牛・温海川雪景色を愛でる老舗名宿5選",
         'description': "11月から12月にかけて、山形県庄内地方の南端に位置する「あつみ温泉（温海温泉）」は、日本海の潮風と出羽の山並みが交錯する渓谷に位置し、初雪の静寂とともに冬の味覚の真髄が幕を開けます。開湯約1200年の歴史を誇り、温海川の清流沿いに風情ある木造建築や名旅館が立ち並ぶ温泉街。初冬の日本海・庄内浜で水揚げされる脂の乗った「寒鱈（かんだら）」のどんがら汁、甘み濃厚な紅ズワイガニ、きめ細やかな霜降りの「庄内牛」、赤紫色の伝統野菜「温海かぶ」。塩化物・硫酸塩泉のまろやかな湯が芯まで身体を温め、湯冷めを防ぎます。日本庭園や露天風呂に舞い落ちる雪を眺めながら極上の郷土料理に舌鼓を打つ、厳選の名宿5選を徹底解説します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-yamagata-atsumi-onsen-kandara-shonaigyu-snow-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-yamagata-atsumi-onsen-kandara-shonaigyu-snow-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterYamagataAtsumiPage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-sky-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">山形・あつみ温泉</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterYamagataAtsumiPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月庄内あつみ温泉】名物寒鱈汁！名宿5選","item":"https://croud-travel.pages.dev/winter-yamagata-atsumi-onsen-kandara-shonaigyu-snow-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月庄内あつみ温泉】名物寒鱈汁！名宿5選","item":"https://croud-travel.pages.dev/winter-yamagata-atsumi-onsen-kandara-shonaigyu-snow-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -609,7 +609,7 @@ export default function WinterYamagataAtsumiPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay"
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">山形・銀山温泉</span>
@@ -622,7 +622,7 @@ export default function WinterYamagataAtsumiPage() {
             </Link>
 
             <Link 
-              href="/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay"
+              href="/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">山形・天童温泉</span>
@@ -635,7 +635,7 @@ export default function WinterYamagataAtsumiPage() {
             </Link>
 
             <Link 
-              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay"
+              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">山形・蔵王温泉</span>

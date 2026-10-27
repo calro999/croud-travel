@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の高知×格安：高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
     description: '高知城の紅葉とひろめ市場の戻りカツオ！大浴場付き1泊3,000円〜6,000円台のコスパ最強高知ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay/',
   }
 };
 

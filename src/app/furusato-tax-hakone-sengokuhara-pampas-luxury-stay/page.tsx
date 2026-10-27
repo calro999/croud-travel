@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: '箱根仙石原温泉をふるさと納税でお得に旅する！黄金のすすき草原＆大涌谷美肌にごり湯！大人の高原リゾート厳選ガイド｜きたの風茶寮・仙郷楼・BLISSTIA箱根仙石原',
     description: '秋の黄金のすすき草原と大自然に抱かれる箱根屈指の高原リゾート「仙石原温泉」を楽天ふるさと納税でお得に満喫！全室客室露天風呂と北海道×箱根の美食オーベルジュ「きたの風茶寮」、創業百五十年の老舗白濁にごり湯「仙郷楼」、全室スイート仕様のモダンホテル「BLISSTIA箱根仙石原」を徹底紹介。箱根町クーポン活用術を網羅。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/furusato-tax-hakone-sengokuhara-pampas-luxury-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-hakone-sengokuhara-pampas-luxury-stay/',
   },
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-hakone-sengokuhara-pampas-luxury-stay/",
@@ -488,22 +488,22 @@ export default function FurusatoTaxArticle() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-beginners-complete-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-beginners-complete-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 超初心者向け ふるさと納税で旅行に安く泊まるマニュアル
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-hakone-gora-onsen-art-luxury-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-hakone-gora-onsen-art-luxury-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 箱根強羅温泉 美肌にごり湯＆客室露天風呂特集
               </Link>
             </li>

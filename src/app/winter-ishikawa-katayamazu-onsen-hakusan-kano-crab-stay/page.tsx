@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '石川・加賀片山津温泉で過ごす冬の旅（11・12月）！11月解禁加能ガニ！名宿5選',
     description: '11月から12月にかけて石川県加賀市の片山津温泉は、柴山潟の穏やかな水面に初冠雪で純白に輝く霊峰白山連峰が鏡のように映り込む。',
-    url: 'https://croud-travel.pages.dev/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function KatayamazuOnsenWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay"
+          "@id": "https://croud-travel.pages.dev/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay/"
         },
         "headline": "【11・12月石川・加賀片山津温泉の柴山潟と霊峰白山初冠雪】11月解禁加能ガニ・香箱ガニ＆塩化物強塩泉ポカポカ温まりの宿5選",
         "description": "11月から12月にかけて石川県加賀市の片山津温泉は、柴山潟の穏やかな水面に初冠雪で純白に輝く霊峰白山連峰が鏡のように映り込む、北陸屈指の絶景パノラマが広がります。承応2年（1653年）発見、湖底から湧き出る塩化物強塩泉は「熱の湯」とも呼ばれ、湯冷めしにくく冬の身体を芯まで温める名湯。11月上旬に解禁される石川県の誇る青タグ付きブランドズワイガニ「加能ガニ」、内子と外子がぎっしり詰まった冬の至宝「香箱ガニ（こうばこがに）」、脂の乗った寒ブリや能登牛を堪能する湖畔の厳選宿5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function KatayamazuOnsenWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "石川・加賀片山津温泉 柴山潟白山絶景と加能ガニの宿",
-            "item": "https://croud-travel.pages.dev/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay"
+            "item": "https://croud-travel.pages.dev/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay/"
           }
         ]
       },
@@ -580,42 +580,42 @@ export default function KatayamazuOnsenWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay"
+              href="/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">石川・山中温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">鶴仙渓の初雪と開湯1300年名湯・加能ガニ会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-ishikawa-kaga-yamashiro-kano-crab-stay"
+              href="/winter-ishikawa-kaga-yamashiro-kano-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">石川・山代温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">薬師山の冬景色と総湯・加能ガニフルコースを味わう名宿</h3>
             </Link>
             <Link 
-              href="/winter-kanazawa-kenrokuen-yukizuri-stay"
+              href="/winter-kanazawa-kenrokuen-yukizuri-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">石川・金沢</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">兼六園の雪吊りと近江町市場の香箱ガニ・加賀料理の宿</h3>
             </Link>
             <Link 
-              href="/winter-fukui-awara-onsen-echizen-crab-stay"
+              href="/winter-fukui-awara-onsen-echizen-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">福井・あわら温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">関西の奥座敷と本場越前ガニ・名湯庭園露天風呂の宿</h3>
             </Link>
             <Link 
-              href="/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay"
+              href="/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">富山・氷見温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">富山湾越しに望む立山連峰初冠雪と本場氷見寒ブリの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">特集一覧</span>

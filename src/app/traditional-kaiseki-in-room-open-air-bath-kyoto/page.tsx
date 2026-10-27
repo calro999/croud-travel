@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：古都の情緒と旬の京会席！客室露天風呂で贅沢に寛ぐ京都の隠れ家名旅館5選',
     description: '2026年最新！嵐山・東山・貴船など京都情緒あふれる空間で、出汁の効いた本格京料理会席とプライベート客室露天風呂を堪能できる厳選宿5選。',
-    url: 'https://croud-travel.pages.dev/traditional-kaiseki-in-room-open-air-bath-kyoto',
+    url: 'https://croud-travel.pages.dev/traditional-kaiseki-in-room-open-air-bath-kyoto/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-kaiseki-in-room-open-air-bath-kyoto"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-kaiseki-in-room-open-air-bath-kyoto/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">京会席×客室露天風呂名宿</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             竹林の静寂や鴨川のせせらぎに包まれる古都・京都。京町家の風情を残す数寄屋造りの客室、四季の美しさを映す坪庭、そして料理人が丹精込めた旬の京会席。プライベートな客室露天風呂で贅沢な時間に浸る大人の京都ステイをご提案します。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】古都の情緒と旬の京会席！客室露天風呂で贅沢に寛ぐ京都の隠れ家名旅館5選" url="https://croud-travel.pages.dev/traditional-kaiseki-in-room-open-air-bath-kyoto" />
+            <ShareButtons title="【2026年】古都の情緒と旬の京会席！客室露天風呂で贅沢に寛ぐ京都の隠れ家名旅館5選" url="https://croud-travel.pages.dev/traditional-kaiseki-in-room-open-air-bath-kyoto/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】古都の情緒と旬の京会席！客室露天風呂で贅沢に寛ぐ京都の隠れ家名旅館5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/traditional-kaiseki-in-room-open-air-bath-kyoto"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】古都の情緒と旬の京会席！客室露天風呂で贅沢に寛ぐ京都の隠れ家名旅館5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/traditional-kaiseki-in-room-open-air-bath-kyoto/"}]}) }}
       />
         
         {/* クーポンバナー */}

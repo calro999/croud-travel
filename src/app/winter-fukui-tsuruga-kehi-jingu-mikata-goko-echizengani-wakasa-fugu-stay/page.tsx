@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月福井：「若狭ふぐ」極上会席！名宿5選',
     description: '北陸新幹線敦賀開業で首都圏・関西からのアクセスが飛躍的に進化した福井・若狭路の11〜1月冬紀行。北陸道総鎮守「氣比神宮」で迎える厳粛な新春初詣。',
-    url: 'https://croud-travel.pages.dev/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay/',
     type: 'article',
     images: [
       {
@@ -60,7 +60,7 @@ export default function FukuiTsurugaWinterPage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay/"
     }
   };
 
@@ -78,13 +78,13 @@ export default function FukuiTsurugaWinterPage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "福井・敦賀＆若狭 冬特集",
-        "item": "https://croud-travel.pages.dev/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay"
+        "item": "https://croud-travel.pages.dev/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay/"
       }
     ]
   };
@@ -328,7 +328,7 @@ export default function FukuiTsurugaWinterPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 py-4 text-xs text-slate-500 flex items-center gap-2">
         <Link href="/" className="hover:text-indigo-700 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-indigo-700 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-indigo-700 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-slate-700 font-medium">福井・敦賀＆若狭 冬特集</span>
       </nav>
@@ -645,7 +645,7 @@ export default function FukuiTsurugaWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm">
             <Link 
-              href="/winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay"
+              href="/winter-ishikawa-hakusan-shirayamahime-hatsumode-tatsunokuchi-onsen-kanougani-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:bg-indigo-50/30 transition block space-y-1"
             >
               <span className="font-bold text-indigo-950 block">【石川】白山比咩神社初詣と辰口温泉・加能ガニ名宿</span>
@@ -653,7 +653,7 @@ export default function FukuiTsurugaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay"
+              href="/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:bg-indigo-50/30 transition block space-y-1"
             >
               <span className="font-bold text-indigo-950 block">【京都】天橋立雪景色と伊根の舟屋・幻の間人ガニ名宿</span>
@@ -661,7 +661,7 @@ export default function FukuiTsurugaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-toyama-amaharashi-tateyama-snow-zuiryuji-hatsumode-kanburi-stay"
+              href="/winter-toyama-amaharashi-tateyama-snow-zuiryuji-hatsumode-kanburi-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:bg-indigo-50/30 transition block space-y-1"
             >
               <span className="font-bold text-indigo-950 block">【富山】国宝瑞龍寺初詣と氷見の寒ブリ名宿</span>
@@ -669,7 +669,7 @@ export default function FukuiTsurugaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay"
+              href="/winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:bg-indigo-50/30 transition block space-y-1"
             >
               <span className="font-bold text-indigo-950 block">【三重】伊勢神宮新春初詣と冬旬的矢かき・伊勢海老名宿</span>
@@ -688,7 +688,7 @@ export default function FukuiTsurugaWinterPage() {
           </p>
           <div className="pt-2 flex flex-wrap justify-center gap-3">
             <Link 
-              href="/features" 
+              href="/features/" 
               className="px-6 py-3 bg-white text-slate-900 hover:bg-slate-100 font-black text-xs md:text-sm rounded-xl shadow transition"
             >
               特集記事一覧を見る

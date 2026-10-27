@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '全国の神々が集う出雲大社「神在月（11月）」参拝＆日本最古の美肌温泉「玉造温泉」・しまね和牛',
     description: '旧暦10月（11月）に全国八百万の神々をお迎えする出雲大社「神在祭」。神々のパワーに包まれる特別な秋に、化粧水のような玉造温泉の極上湯浴みと、しまね和牛・日本海の秋魚会席をふるさと納税で楽しむ開運旅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-izumo-kamiarizuki-tamatsukuri-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-izumo-kamiarizuki-tamatsukuri-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-izumo-kamiarizuki-tamatsukuri-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-izumo-kamiarizuki-tamatsukuri-stay/"
   };
 
   const faqSchema = {
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"全国の神々が集う出雲大社「神在月（11月）」参拝＆日本最古の美肌温泉「玉造温泉」・しまね和牛 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-izumo-kamiarizuki-tamatsukuri-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"全国の神々が集う出雲大社「神在月（11月）」参拝＆日本最古の美肌温泉「玉造温泉」・しまね和牛 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-izumo-kamiarizuki-tamatsukuri-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '神話の渓谷を彩る真名井の滝と紅葉！国見ヶ丘雲海・天岩戸神社＆高千穂名宿×ふるさと納税厳選ガイド宮崎',
     description: '11月上旬〜下旬に見頃を迎える日本屈指のパワースポット「高千穂峡（真名井の滝）」。貸しボートから見上げる紅葉の柱状節理と、国見ヶ丘の奇跡の雲海、夜神楽が奉納される天岩戸神社！「旅館 神仙」「旅館 大和屋」「今国旅館」。日本一の高千穂牛を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-gorge-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-takachiho-autumn-leaves-gorge-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -55,7 +55,7 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">高千穂峡真名井の滝紅葉＆高千穂名宿特集</span>
       </nav>
@@ -384,7 +384,7 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
 
             <li key="furusato-tax-yabakei-kurokawa-autumn-leaves-stay">
               <Link
-                href="/furusato-tax-yabakei-kurokawa-autumn-leaves-stay"
+                href="/furusato-tax-yabakei-kurokawa-autumn-leaves-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -395,7 +395,7 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
 
             <li key="furusato-tax-historical-kaido-post-town-ryokan-stay">
               <Link
-                href="/furusato-tax-historical-kaido-post-town-ryokan-stay"
+                href="/furusato-tax-historical-kaido-post-town-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -406,7 +406,7 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
 
             <li key="furusato-tax-private-villa-hanare-hideaway-stay">
               <Link
-                href="/furusato-tax-private-villa-hanare-hideaway-stay"
+                href="/furusato-tax-private-villa-hanare-hideaway-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -417,7 +417,7 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
 
             <li key="furusato-tax-luxury-hotspring-ryokan-stay">
               <Link
-                href="/furusato-tax-luxury-hotspring-ryokan-stay"
+                href="/furusato-tax-luxury-hotspring-ryokan-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -437,7 +437,7 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
-            href="/travel-savings-guide"
+            href="/travel-savings-guide/"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 text-stone-950 font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition text-sm"
           >
             🏨 旅行節約総合ハブページを見る ➔

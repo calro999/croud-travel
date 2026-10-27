@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '箱根ひとり旅・極上おこもり：滝の流れる大露天風呂・全室客室露天風呂・芦ノ湖インフィニティ！都心から85分の至高温泉リトリート 厳選3選',
     description: '新宿から小田急ロマンスカーで直通約85分！屋上天空大露天風呂と滝の庭園が名物の「箱根湯本温泉 天成園」、強羅の高台に佇み全室に温泉露天風呂を備える極上宿「箱根・強羅 佳ら久」、芦ノ湖の青と一体になる水盤テラスが美しい「箱根・芦ノ湖 はなをり」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/hakone-solo-retreat-forest-onsen-stay',
+    url: 'https://croud-travel.pages.dev/hakone-solo-retreat-forest-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T16:00:00+09:00',
     dateModified: '2026-10-19T16:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/hakone-solo-retreat-forest-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/hakone-solo-retreat-forest-onsen-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【箱根ひとり旅・極上おこもり】滝の流れる大露天風呂・全室客室露天風呂・芦ノ湖インフィニティ！都心から85分の至高温泉リトリート 厳選3選","item":"https://croud-travel.pages.dev/hakone-solo-retreat-forest-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【箱根ひとり旅・極上おこもり】滝の流れる大露天風呂・全室客室露天風呂・芦ノ湖インフィニティ！都心から85分の至高温泉リトリート 厳選3選","item":"https://croud-travel.pages.dev/hakone-solo-retreat-forest-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

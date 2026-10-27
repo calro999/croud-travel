@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '別府鉄輪温泉・ひとり湯治おこもり：立ち上る湯けむり・名物地獄蒸し・源泉かけ流し大露天風呂！別府八湯の真髄を味わう厳選3宿',
     description: '日本屈指の湯量を誇る別府温泉郷の中でも、昔ながらの湯治場情緒が色濃く残る鉄輪（かんなわ）エリア。竹と椿をテーマにした優雅な空間とミクロの気泡風呂が評判の「竹と椿のお宿 花べっぷ」、日本庭園と能舞台を備え全室離れ風の極上宿「山荘 神和苑」、別府最大級の開放的な大露天風呂を誇る「おにやまホテル」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/beppu-kannawa-solo-retreat-jigokumushi-onsen-stay',
+    url: 'https://croud-travel.pages.dev/beppu-kannawa-solo-retreat-jigokumushi-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T16:15:00+09:00',
     dateModified: '2026-10-19T16:15:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/beppu-kannawa-solo-retreat-jigokumushi-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/beppu-kannawa-solo-retreat-jigokumushi-onsen-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【別府鉄輪温泉・ひとり湯治おこもり】立ち上る湯けむり・名物地獄蒸し・源泉かけ流し大露天風呂！別府八湯の真髄を味わう厳選3宿","item":"https://croud-travel.pages.dev/beppu-kannawa-solo-retreat-jigokumushi-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【別府鉄輪温泉・ひとり湯治おこもり】立ち上る湯けむり・名物地獄蒸し・源泉かけ流し大露天風呂！別府八湯の真髄を味わう厳選3宿","item":"https://croud-travel.pages.dev/beppu-kannawa-solo-retreat-jigokumushi-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

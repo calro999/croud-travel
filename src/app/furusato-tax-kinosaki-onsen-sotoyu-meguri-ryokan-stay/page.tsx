@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '浴衣と下駄で七つの外湯を巡る！城崎温泉の柳並木通り＆最高峰但馬牛・カニ名宿×ふるさと納税極上旅ガイド招月庭・小宿縁・つちや旅館',
     description: '「駅は玄関、道路は廊下、宿は客室、外湯は大浴場」！浴衣に下駄を鳴らして巡る城崎温泉の七湯。「西村屋ホテル招月庭」「但馬牛極みの宿 小宿 縁」「城崎温泉 つちや旅館」を、兵庫県豊岡市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。外湯無料パス、五万坪森林庭園、但馬牛ステーキ、カニ料理を満喫。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kinosaki-onsen-sotoyu-meguri-ryokan-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kinosaki-onsen-sotoyu-meguri-ryokan-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoKinosakiSotoyuMeguriStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">城崎温泉 外湯めぐり＆名門宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoKinosakiSotoyuMeguriStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-crab-all-you-can-eat-winter-buffet-stay"
+            href="/furusato-tax-crab-all-you-can-eat-winter-buffet-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【冬の蟹食べ放題＆本場松葉ガニ名宿×ふるさと納税】夕日ヶ浦・城崎温泉
           </Link>
           <Link
-            href="/furusato-tax-dogo-onsen-honkan-walk-luxury-stay"
+            href="/furusato-tax-dogo-onsen-honkan-walk-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【道後温泉 本館散策＆老舗旅館×ふるさと納税】ふなや・道後御湯
           </Link>
           <Link
-            href="/furusato-tax-yufuin-onsen-kinrinko-luxury-stay"
+            href="/furusato-tax-yufuin-onsen-kinrinko-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【由布院温泉＆金鱗湖名門宿×ふるさと納税】花由・秀峰館・梅園
           </Link>
           <Link
-            href="/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay"
+            href="/furusato-tax-kusatsu-onsen-yubatake-walk-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【草津温泉 湯畑散策＆名湯名門宿×ふるさと納税】櫻井・一井・奈良屋

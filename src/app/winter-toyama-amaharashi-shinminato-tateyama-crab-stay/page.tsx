@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月富山：氷見寒ブリ！名宿5選',
     description: '11月から1月、富山湾沿岸（高岡・雨晴・射水新湊・富山市街）は、世界でも稀少な海越しに冠雪した標高3000m級立山連峰が浮かび上がる奇跡の冬絶景と。',
-    url: 'https://croud-travel.pages.dev/winter-toyama-amaharashi-shinminato-tateyama-crab-stay',
+    url: 'https://croud-travel.pages.dev/winter-toyama-amaharashi-shinminato-tateyama-crab-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-toyama-amaharashi-shinminato-tateyama-crab-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-toyama-amaharashi-shinminato-tateyama-crab-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '雨晴海岸・新湊の冬絶景と富山湾海鮮名宿',
-        item: 'https://croud-travel.pages.dev/winter-toyama-amaharashi-shinminato-tateyama-crab-stay'
+        item: 'https://croud-travel.pages.dev/winter-toyama-amaharashi-shinminato-tateyama-crab-stay/'
       }
     ]
   };
@@ -625,21 +625,21 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-toyama-himi-kanburi-luxury-stay" 
+              href="/winter-toyama-himi-kanburi-luxury-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-cyan-700 font-bold block text-[10px]">富山・氷見温泉郷</span>
               <p className="font-bold text-stone-800 line-clamp-2">冬の王者ひみ寒ぶり宣言と富山湾越しの立山連峰・極上寒ブリ尽くしの宿</p>
             </Link>
             <Link 
-              href="/winter-toyama-unazuki-onsen-kurobe-snow-stay" 
+              href="/winter-toyama-unazuki-onsen-kurobe-snow-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-cyan-700 font-bold block text-[10px]">富山・宇奈月温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">黒部峡谷の雪景色と美肌の無色透明温泉・富山湾の冬海鮮を味わう峡谷宿</p>
             </Link>
             <Link 
-              href="/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay" 
+              href="/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-cyan-700 font-bold block text-[10px]">石川・金沢湯涌温泉</span>

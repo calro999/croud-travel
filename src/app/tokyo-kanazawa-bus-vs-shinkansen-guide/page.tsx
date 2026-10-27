@@ -439,7 +439,7 @@ export default function HighwayBusArticlePage() {
           </a>
 
           <Link
-            href="/scenic-tourist-train-onsen-trip-stay"
+            href="/scenic-tourist-train-onsen-trip-stay/"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🚅</div>
@@ -460,7 +460,7 @@ export default function HighwayBusArticlePage() {
       {/* 47都道府県トップへのリンク */}
       <div className="text-center pt-4">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-slate-800 bg-white hover:bg-slate-50 border border-slate-300 px-8 py-3.5 rounded-2xl transition shadow-sm"
         >
           <span>🗾</span>

@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '至福のアフタヌーンティー＆本格極上スパ！女子旅・母娘旅で行きたいご褒美ラグジュアリーホテル',
     description: '京都・横浜・箱根・神戸など季節限定アフタヌーンティーとアロマトリートメントスパが楽しめる高級ホテル。特別な記念日やご褒美女子旅におすすめ。',
-    url: 'https://croud-travel.pages.dev/girls-trip-afternoon-tea-luxury-spa-stay',
+    url: 'https://croud-travel.pages.dev/girls-trip-afternoon-tea-luxury-spa-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/girls-trip-afternoon-tea-luxury-spa-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/girls-trip-afternoon-tea-luxury-spa-stay/"
   };
 
   const faqSchema = {
@@ -151,7 +151,7 @@ export default function Page() {
     <div className="space-y-10 max-w-4xl mx-auto">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"至福のアフタヌーンティー＆本格極上スパ！女子旅・母娘旅で行きたいご褒美ラグジュアリーホテル ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/girls-trip-afternoon-tea-luxury-spa-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"至福のアフタヌーンティー＆本格極上スパ！女子旅・母娘旅で行きたいご褒美ラグジュアリーホテル ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/girls-trip-afternoon-tea-luxury-spa-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -166,7 +166,7 @@ export default function Page() {
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center flex-wrap gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-emerald-950/40 line-clamp-1">アフタヌーンティー＆極上スパ</span>
       </nav>
@@ -281,7 +281,7 @@ export default function Page() {
         <div className="pt-6 border-t border-emerald-950/5">
           <ShareButtons
             title="至福のアフタヌーンティー＆本格極上スパ！女子旅・母娘旅で行きたいご褒美ラグジュアリーホテル"
-            url="https://croud-travel.pages.dev/girls-trip-afternoon-tea-luxury-spa-stay"
+            url="https://croud-travel.pages.dev/girls-trip-afternoon-tea-luxury-spa-stay/"
           />
         </div>
 

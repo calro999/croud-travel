@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '武雄温泉をふるさと納税でお得に旅する！国重文・武雄温泉楼門＆美肌とろとろ湯！焼き物の里宿特集｜京都屋・春慶屋・なかます旅館',
     description: '千三百年余の歴史を誇る佐賀の名湯・武雄温泉を楽天ふるさと納税でお得に贅沢旅！大正ロマンのアンティーク宿「京都屋」、展望露天風呂と佐賀牛の「ホテル春慶屋」、楼門徒歩1分の老舗「なかます旅館」を徹底比較。有田焼・波佐見焼巡りや武雄市トラベルクーポン活用術を網羅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-takeo-onsen-romon-pottery-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-takeo-onsen-romon-pottery-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -41,7 +41,7 @@ export default function FurusatoArticlePage() {
     },
     datePublished: '2026-10-18T16:48:00+09:00',
     dateModified: '2026-10-19T16:48:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-takeo-onsen-romon-pottery-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/furusato-tax-takeo-onsen-romon-pottery-stay/',
   };
 
 
@@ -53,7 +53,7 @@ export default function FurusatoArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【武雄温泉×ふるさと納税】国重文・武雄温泉楼門＆美肌とろとろ湯！焼き物の里宿特集｜京都屋・春慶屋・なかます旅館","item":"https://croud-travel.pages.dev/furusato-tax-takeo-onsen-romon-pottery-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【武雄温泉×ふるさと納税】国重文・武雄温泉楼門＆美肌とろとろ湯！焼き物の里宿特集｜京都屋・春慶屋・なかます旅館","item":"https://croud-travel.pages.dev/furusato-tax-takeo-onsen-romon-pottery-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -64,7 +64,7 @@ export default function FurusatoArticlePage() {
       <nav className="max-w-4xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-1.5">
         <Link href="/" className="hover:underline">ホーム</Link>
         <span>/</span>
-        <Link href="/travel-savings-guide" className="hover:underline">ふるさと納税旅行ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline">ふるさと納税旅行ガイド</Link>
         <span>/</span>
         <span className="text-stone-700 font-medium truncate">【武雄温泉×ふるさと納税】国重文・武雄温泉楼門＆美肌とろとろ湯！焼き物の里宿特集｜京都屋・春慶屋・なかます旅館</span>
       </nav>
@@ -491,22 +491,22 @@ export default function FurusatoArticlePage() {
           </h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
-              <Link href="/travel-savings-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> ふるさと納税×旅行 完全攻略ハブページトップ
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-travel-after-booking-discount-guide" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-travel-after-booking-discount-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 予約済みでも間に合う！楽天トラベル「あとから適用」ガイド
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-kusatsu-onsen-yubatake-heritage-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-kusatsu-onsen-yubatake-heritage-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 草津温泉 湯畑徒歩圏内の老舗名宿特集
               </Link>
             </li>
             <li>
-              <Link href="/furusato-tax-arima-onsen-gold-silver-kobe-beef-stay" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
+              <Link href="/furusato-tax-arima-onsen-gold-silver-kobe-beef-stay/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
                 <span>▸</span> 有馬温泉 金泉・銀泉＆極上神戸牛ステイ特集
               </Link>
             </li>

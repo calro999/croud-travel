@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '専属パティシエ特製スイーツ＆デザートビュッフェ！甘美なご褒美を味わう極上美食ホテル',
     description: '2026年最新！専属パティシエの特製スイーツや豪華デザートビュッフェが自慢のホテル＆温泉旅館。記念日や女子旅、自分へのご褒美に最高の甘美なステイ。',
-    url: 'https://croud-travel.pages.dev/luxury-pastry-chef-sweets-dessert-gourmet-stay',
+    url: 'https://croud-travel.pages.dev/luxury-pastry-chef-sweets-dessert-gourmet-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-pastry-chef-sweets-dessert-gourmet-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/luxury-pastry-chef-sweets-dessert-gourmet-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">パティシエ特製スイーツ×極上美食</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             旅の醍醐味は美味しいデザート！一流パティシエが目の前で仕上げる出来立てミルフィーユや旬フルーツのパフェ、豪華なワゴンデザートサービスまで。スイーツ好きの夢を叶える贅沢な美食リゾート＆温泉ホテルを厳選しました。
           </p>
           <div className="pt-2">
-            <ShareButtons title="専属パティシエ特製スイーツ＆デザートビュッフェ！甘美なご褒美を味わう極上美食ホテル" url="https://croud-travel.pages.dev/luxury-pastry-chef-sweets-dessert-gourmet-stay" />
+            <ShareButtons title="専属パティシエ特製スイーツ＆デザートビュッフェ！甘美なご褒美を味わう極上美食ホテル" url="https://croud-travel.pages.dev/luxury-pastry-chef-sweets-dessert-gourmet-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"専属パティシエ特製スイーツ＆デザートビュッフェ！甘美なご褒美を味わう極上美食ホテル ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/luxury-pastry-chef-sweets-dessert-gourmet-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"専属パティシエ特製スイーツ＆デザートビュッフェ！甘美なご褒美を味わう極上美食ホテル ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/luxury-pastry-chef-sweets-dessert-gourmet-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

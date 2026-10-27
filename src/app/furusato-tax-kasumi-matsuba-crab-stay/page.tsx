@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11月解禁！兵庫香住の松葉ガニ＆幻の香住ガニ！日本海の絶景温泉宿×ふるさと納税厳選ガイド兵庫',
     description: '秋の香住といえば関西唯一の水揚げを誇る紅ズワイ「香住ガニ」と、11月6日解禁の本場「松葉ガニ」！茹でガニ・カニ刺し・焼きガニ・カニ鍋を味わい尽くす贅沢プラン、香住温泉の名宿「さだ助」「甲羅戯」「小宿 梅乃家」で日本海の夕景と名湯を満喫。楽天ふるさと納税で実質2,000円で泊まる冬先取りカニ旅ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-kasumi-matsuba-crab-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-kasumi-matsuba-crab-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -54,7 +54,7 @@ export default function FeatureArticlePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">兵庫香住・幻の香住ガニ＆11月解禁松葉ガニ・温泉旅館特集</span>
       </nav>
@@ -401,7 +401,7 @@ export default function FeatureArticlePage() {
       {/* フッター誘導 */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 text-center space-y-4">
         <Link
-          href="/features"
+          href="/features/"
           className="inline-flex items-center gap-2 bg-stone-800 hover:bg-stone-900 text-white font-bold py-3 px-8 rounded-full shadow transition text-sm"
         >
           <span>← 特集記事一覧に戻る</span>

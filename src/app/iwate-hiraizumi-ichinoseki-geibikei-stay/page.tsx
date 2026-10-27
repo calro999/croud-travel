@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '岩手・平泉＆一関・猊鼻渓：中尊寺金色堂・舟下り＆前沢牛・もち食宿 厳選ガイド',
     description: '奥州藤原氏三代が築いた世界遺産の浄土世界「中尊寺金色堂」「毛越寺浄土庭園」、竿一本で進む日本百景「猊鼻渓舟下り」、エメラルドの激流「厳美渓」名物空飛ぶ郭公だんご、極上「前沢牛」ステーキと300種を超える一関もち食文化を味わう宿を徹底厳選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/iwate-hiraizumi-ichinoseki-geibikei-stay',
+    url: 'https://croud-travel.pages.dev/iwate-hiraizumi-ichinoseki-geibikei-stay/',
   },
 };
 

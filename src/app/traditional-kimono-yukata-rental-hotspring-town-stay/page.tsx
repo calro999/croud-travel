@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：選べる色浴衣とカランコロン下駄歩き！風情ある温泉街湯めぐりが楽しい名宿5選',
     description: '2026年最新！城崎温泉・草津・道後・黒川など、数十種類の色浴衣レンタルや外湯めぐりパス付きで街歩きが満喫できる女子旅・カップルおすすめ宿5選。',
-    url: 'https://croud-travel.pages.dev/traditional-kimono-yukata-rental-hotspring-town-stay',
+    url: 'https://croud-travel.pages.dev/traditional-kimono-yukata-rental-hotspring-town-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-kimono-yukata-rental-hotspring-town-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-kimono-yukata-rental-hotspring-town-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">選べる色浴衣×外湯めぐり街歩き</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             お気に入りの色浴衣と下駄を選んで、柳並木や温泉情緒あふれる街並みへお出かけ。射的や足湯カフェ、温泉まんじゅうの食べ歩きを楽しみ、複数の外湯を巡る贅沢な休日。写真映えも抜群の温泉街ステイを心ゆくまで満喫できる宿をピックアップ。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】選べる色浴衣とカランコロン下駄歩き！風情ある温泉街湯めぐりが楽しい名宿5選" url="https://croud-travel.pages.dev/traditional-kimono-yukata-rental-hotspring-town-stay" />
+            <ShareButtons title="【2026年】選べる色浴衣とカランコロン下駄歩き！風情ある温泉街湯めぐりが楽しい名宿5選" url="https://croud-travel.pages.dev/traditional-kimono-yukata-rental-hotspring-town-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】選べる色浴衣とカランコロン下駄歩き！風情ある温泉街湯めぐりが楽しい名宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/traditional-kimono-yukata-rental-hotspring-town-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】選べる色浴衣とカランコロン下駄歩き！風情ある温泉街湯めぐりが楽しい名宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/traditional-kimono-yukata-rental-hotspring-town-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

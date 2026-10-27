@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：艶やかな漆の器と伝統の技！輪島塗・会津塗の手仕事美を愛でる名湯の宿5選',
     description: '2026年最新！職人が手塗りを重ねた本漆の器で供される優美な日本料理と、伝統工芸のギャラリーや体験が楽しめる文化薫る名旅館5選。',
-    url: 'https://croud-travel.pages.dev/traditional-craft-lacquerware-wajima-aizu-stay',
+    url: 'https://croud-travel.pages.dev/traditional-craft-lacquerware-wajima-aizu-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-craft-lacquerware-wajima-aizu-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/traditional-craft-lacquerware-wajima-aizu-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">伝統漆器×手仕事の美宿</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             しっとりと手に馴染む本漆の器の優しい温もり。輪島塗や会津塗の美しい蒔絵が施された器に盛り付けられる四季の会席料理は、目にも舌にも贅沢。何百年もの伝統を受け継ぐ匠の技と、歴史ある名湯に心を委ねる格調高いステイ。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】艶やかな漆の器と伝統の技！輪島塗・会津塗の手仕事美を愛でる名湯の宿5選" url="https://croud-travel.pages.dev/traditional-craft-lacquerware-wajima-aizu-stay" />
+            <ShareButtons title="【2026年】艶やかな漆の器と伝統の技！輪島塗・会津塗の手仕事美を愛でる名湯の宿5選" url="https://croud-travel.pages.dev/traditional-craft-lacquerware-wajima-aizu-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】艶やかな漆の器と伝統の技！輪島塗・会津塗の手仕事美を愛でる名湯の宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/traditional-craft-lacquerware-wajima-aizu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】艶やかな漆の器と伝統の技！輪島塗・会津塗の手仕事美を愛でる名湯の宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/traditional-craft-lacquerware-wajima-aizu-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

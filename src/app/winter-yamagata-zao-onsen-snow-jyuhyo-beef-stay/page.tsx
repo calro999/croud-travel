@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '山形蔵王温泉で過ごす冬の旅（11・12月）！極上山形牛すき焼き！名宿5選',
     description: '11月下旬から12月にかけて奥羽山脈の主峰・蔵王連峰に雪が降り積もり、冬の奇跡「樹氷（スノーモンスター）」が徐々に姿を現し始める山形「蔵王温泉」。',
-    url: 'https://croud-travel.pages.dev/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay',
+    url: 'https://croud-travel.pages.dev/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -89,7 +89,7 @@ export default function ZaoOnsenWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay"
+          "@id": "https://croud-travel.pages.dev/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/"
         }
       },
       {
@@ -313,7 +313,7 @@ export default function ZaoOnsenWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月山形蔵王温泉】極上山形牛すき焼き！名宿5選","item":"https://croud-travel.pages.dev/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月山形蔵王温泉】極上山形牛すき焼き！名宿5選","item":"https://croud-travel.pages.dev/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -730,42 +730,42 @@ export default function ZaoOnsenWinterPage() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay"
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">山形・銀山温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">銀山温泉 大正ロマンガス灯雪景色と尾花沢牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay"
+              href="/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">山形・天童温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">天童温泉 将棋の里の冬名湯とラ・フランス＆山形牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay"
+              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">宮城・秋保温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">秋保温泉 磊々峡の雪景色と極上仙台牛・名物せり鍋の宿</h3>
             </Link>
             <Link 
-              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay"
+              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">岩手・花巻温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">花巻温泉郷 台川渓谷の雪見露天風呂と極上前沢牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay"
+              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">秋田・乳頭温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">乳頭温泉郷 白濁の秘湯雪見風呂と比内地鶏きりたんぽ鍋の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">特集一覧</span>

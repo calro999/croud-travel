@@ -170,7 +170,7 @@ export default function YamanashiGrapeBusTourPage() {
         <div className="text-xs font-bold text-purple-900 mb-2">山梨・富士五湖エリアのアクセスガイド</div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <Link
-            href="/tokyo-fujikawaguchiko-highway-bus-guide"
+            href="/tokyo-fujikawaguchiko-highway-bus-guide/"
             className="p-4 bg-white rounded-2xl border border-purple-100 hover:border-purple-400 transition shadow-sm group flex items-start justify-between"
           >
             <div>

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '黒川温泉ひとり旅・入湯手形おこもり：渓流露天風呂・立ち湯・あか牛会席！阿蘇の秘湯で里山情緒に浸る極上ソロ温泉厳選3宿',
     description: '阿蘇山麓の静寂の秘湯・黒川！田の原川沿いで渓流露天風呂と足湯が心地よい「夢龍胆」、巨大な大露天風呂や深さ150cmの立ち湯が評判の「やまびこ旅館」、全8室・大人の隠れ家で名湯と美食を味わう「ふじ屋」を楽天トラベル公式API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/kumamoto-kurokawa-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/kumamoto-kurokawa-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/kumamoto-kurokawa-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/kumamoto-kurokawa-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【黒川温泉ひとり旅・入湯手形おこもり】渓流露天風呂・立ち湯・あか牛会席！阿蘇の秘湯で里山情緒に浸る極上ソロ温泉厳選3宿","item":"https://croud-travel.pages.dev/kumamoto-kurokawa-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【黒川温泉ひとり旅・入湯手形おこもり】渓流露天風呂・立ち湯・あか牛会席！阿蘇の秘湯で里山情緒に浸る極上ソロ温泉厳選3宿","item":"https://croud-travel.pages.dev/kumamoto-kurokawa-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

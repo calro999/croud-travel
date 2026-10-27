@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '横浜・みなとみらいひとり旅：大観覧車バルコニー・天空プール・Kアリーナ遠征！大人が心奪われる極上夜景ホテル 厳選3選',
     description: '「コスモクロックのイルミネーションを部屋のバルコニーから独り占めしたい」「KアリーナやぴあアリーナMMでのライブ終演後、ラグジュアリーな空間で優雅に余韻に浸りたい」。大人ソロトラベラーへ。みなとみらい唯一のバルコニー付き「横浜ベイホテル東急」、ウェルネスを極めた最新ライフスタイル「ウェスティンホテル横浜」、20階スカイプールと絶景ロビーを誇る「三井ガーデンホテル横浜みなとみらいプレミア」を徹底特集。',
-    url: 'https://croud-travel.pages.dev/yokohama-minatomirai-solo-nightview-luxury-stay',
+    url: 'https://croud-travel.pages.dev/yokohama-minatomirai-solo-nightview-luxury-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T02:50:00+09:00',
     dateModified: '2026-10-19T02:50:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/yokohama-minatomirai-solo-nightview-luxury-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/yokohama-minatomirai-solo-nightview-luxury-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【横浜・みなとみらいひとり旅】大観覧車バルコニー・天空プール・Kアリーナ遠征！大人が心奪われる極上夜景ホテル 厳選3選","item":"https://croud-travel.pages.dev/yokohama-minatomirai-solo-nightview-luxury-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【横浜・みなとみらいひとり旅】大観覧車バルコニー・天空プール・Kアリーナ遠征！大人が心奪われる極上夜景ホテル 厳選3選","item":"https://croud-travel.pages.dev/yokohama-minatomirai-solo-nightview-luxury-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

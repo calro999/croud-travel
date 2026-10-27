@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: '秋の弘前×格安：弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」',
     description: '弘前城菊と紅葉まつりとアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強弘前ホテル5選。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/autumn-budget-aomori-hirosaki-castle-momiji-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-budget-aomori-hirosaki-castle-momiji-hotels-stay/',
   }
 };
 

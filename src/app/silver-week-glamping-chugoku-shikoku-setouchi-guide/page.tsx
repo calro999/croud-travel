@@ -144,7 +144,7 @@ export default function SilverWeekGlampingSetouchiPage() {
     <div className="min-h-screen bg-amber-950/5 text-slate-800 space-y-12 pb-20">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【瀬戸内・中四国シルバーウィーク グランピング】しまなみ海道の多島美＆オリーブ牛BBQ ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/silver-week-glamping-chugoku-shikoku-setouchi-guide"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【瀬戸内・中四国シルバーウィーク グランピング】しまなみ海道の多島美＆オリーブ牛BBQ ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/silver-week-glamping-chugoku-shikoku-setouchi-guide/"}]}) }}
       />
       <script
         type="application/ld+json"
@@ -376,7 +376,7 @@ export default function SilverWeekGlampingSetouchiPage() {
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
           <Link
-            href="/awaji-island-car-free-bus-trip-guide"
+            href="/awaji-island-car-free-bus-trip-guide/"
             className="block p-4 rounded-2xl bg-stone-800/80 border border-stone-700 hover:border-amber-400 hover:bg-stone-800 transition group"
           >
             <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -388,7 +388,7 @@ export default function SilverWeekGlampingSetouchiPage() {
           </Link>
 
           <Link
-            href="/osaka-departure-daytrip-bus-tour-guide"
+            href="/osaka-departure-daytrip-bus-tour-guide/"
             className="block p-4 rounded-2xl bg-stone-800/80 border border-stone-700 hover:border-amber-400 hover:bg-stone-800 transition group"
           >
             <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block mb-1.5">
@@ -404,7 +404,7 @@ export default function SilverWeekGlampingSetouchiPage() {
       {/* 都道府県一覧への導線 */}
       <div className="text-center pt-4">
         <Link
-          href="/prefectures"
+          href="/prefectures/"
           className="inline-flex items-center gap-2 text-xs font-bold text-amber-950 bg-amber-50 hover:bg-amber-100 border border-amber-200 px-8 py-3.5 rounded-2xl transition shadow-sm"
         >
           <span>🗾</span>

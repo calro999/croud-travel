@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月岐阜：名物鶏ちゃんと極上飛騨牛すき焼きを味わう！名宿5選',
     description: '冬の岐阜・奥美濃は、日本最古の木造再建城「郡上八幡城」が純白の雪をまとい、城下町の水路に清流がせせらぐ静謐な小京都の季節。',
-    url: 'https://croud-travel.pages.dev/winter-gifu-gujo-hachiman-snow-castle-hidagyu-keichan-stay',
+    url: 'https://croud-travel.pages.dev/winter-gifu-gujo-hachiman-snow-castle-hidagyu-keichan-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/41124/41124.jpg', width: 1200, height: 630, alt: '雪化粧の郡上八幡城と宗祇水' }]
   },
@@ -156,8 +156,8 @@ export default function GifuGujoHachimanPage() {
         '@type': 'BreadcrumbList',
         'itemListElement': [
           { '@type': 'ListItem', 'position': 1, 'name': 'ホーム', 'item': 'https://croud-travel.pages.dev' },
-          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features' },
-          { '@type': 'ListItem', 'position': 3, 'name': '郡上八幡城雪景色・宗祇水と飛騨牛名宿', 'item': 'https://croud-travel.pages.dev/winter-gifu-gujo-hachiman-snow-castle-hidagyu-keichan-stay' }
+          { '@type': 'ListItem', 'position': 2, 'name': '特集一覧', 'item': 'https://croud-travel.pages.dev/features/' },
+          { '@type': 'ListItem', 'position': 3, 'name': '郡上八幡城雪景色・宗祇水と飛騨牛名宿', 'item': 'https://croud-travel.pages.dev/winter-gifu-gujo-hachiman-snow-castle-hidagyu-keichan-stay/' }
         ]
       },
       {
@@ -593,37 +593,37 @@ export default function GifuGujoHachimanPage() {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-gifu-hida-takayama-onsen-snow-beef-stay"
+              href="/winter-gifu-hida-takayama-onsen-snow-beef-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-cyan-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-cyan-600 block"
             >
               【飛騨高山・さんまち通り】冬の雪景色と名酒蔵巡り・極上飛騨牛名宿
             </Link>
             <Link
-              href="/winter-shirakawago-gassho-snow-illumination-stay"
+              href="/winter-shirakawago-gassho-snow-illumination-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-cyan-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-cyan-600 block"
             >
               【白川郷】世界遺産合掌造りの雪景色ライトアップと囲炉裏名宿
             </Link>
             <Link
-              href="/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay"
+              href="/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-cyan-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-cyan-600 block"
             >
               【名古屋・熱田神宮】三種の神器新春初詣と名物ひつまぶし名宿
             </Link>
             <Link
-              href="/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay"
+              href="/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-cyan-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-cyan-600 block"
             >
               【比叡山延暦寺＆おごと温泉】冬の根本中堂と琵琶湖一望・近江牛名宿
             </Link>
             <Link
-              href="/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay"
+              href="/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-cyan-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-cyan-600 block"
             >
               【浜名湖・舘山寺温泉】冬の天然とらふぐと極上うなぎ名宿
             </Link>
             <Link
-              href="/features"
+              href="/features/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-cyan-300 hover:shadow-xs transition-all text-sm font-bold text-cyan-700 block text-center flex items-center justify-center gap-1"
             >
               <span>全国の冬旅特集一覧を見る</span>

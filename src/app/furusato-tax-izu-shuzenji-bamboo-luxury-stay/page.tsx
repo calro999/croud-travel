@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '伊豆最古の小京都！修善寺温泉の竹林の小径散策＆桂川のせせらぎ望む老舗旅館×ふるさと納税極上旅ガイド湯回廊菊屋・宙SORA・桂川',
     description: '弘法大師が開湯した伊豆最古の名湯・修善寺温泉！竹林の小径、桂川にかかる恋の橋巡り。「湯回廊 菊屋」「修善寺温泉 宙 SORA 渡月荘金龍」「修善寺温泉 桂川」を、静岡県伊豆市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。創業四百年の渡り廊下、一万五千坪日本庭園、伊豆名物金目鯛・天城わさび会席を満喫。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-izu-shuzenji-bamboo-luxury-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-izu-shuzenji-bamboo-luxury-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
     type: 'article',
@@ -60,7 +60,7 @@ export default function FurusatoShuzenjiBambooStayPage() {
       <nav className="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-1.5" aria-label="Breadcrumb">
         <Link href="/" className="hover:underline hover:text-amber-700">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/travel-savings-guide" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
+        <Link href="/travel-savings-guide/" className="hover:underline hover:text-amber-700">ふるさと納税トラベル完全攻略ガイド</Link>
         <span>&gt;</span>
         <span className="text-gray-800 font-semibold">修善寺温泉 竹林の小径＆名門宿特集</span>
       </nav>
@@ -341,25 +341,25 @@ export default function FurusatoShuzenjiBambooStayPage() {
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link
-            href="/furusato-tax-hakone-onsen-open-air-bath-stay"
+            href="/furusato-tax-hakone-onsen-open-air-bath-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【箱根温泉 客室露天風呂＆名門旅館×ふるさと納税】富士屋ホテル・天成園・はつはな
           </Link>
           <Link
-            href="/furusato-tax-atami-ocean-view-fireworks-hotel-stay"
+            href="/furusato-tax-atami-ocean-view-fireworks-hotel-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【熱海花火大会特等席＆オーシャンビュー温泉宿×ふるさと納税】後楽園・ニューアカオ・パールスター
           </Link>
           <Link
-            href="/furusato-tax-dogo-onsen-honkan-walk-luxury-stay"
+            href="/furusato-tax-dogo-onsen-honkan-walk-luxury-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【道後温泉 本館散策＆老舗旅館×ふるさと納税】ふなや・道後御湯・道後プリンス
           </Link>
           <Link
-            href="/tangible-cultural-property-sukiya-carpenter-ryokan-stay"
+            href="/tangible-cultural-property-sukiya-carpenter-ryokan-stay/"
             className="block p-3 rounded-lg bg-white border border-gray-200 hover:border-amber-400 hover:shadow-xs transition-all text-sm text-amber-900 font-medium"
           >
             ▸ 【登録有形文化財・宮大工数寄屋造り旅館×ふるさと納税】木造建築美の宿

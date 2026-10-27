@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：客室露天から桜を独り占め！お花見露天風呂＆春爛漫の会席料理が自慢の温泉宿5選',
     description: '2026年最新！満開の桜並木や庭園のしだれ桜を湯船から愛でる贅沢なお花見客室露天風呂と、春の旬食材を使った桜会席が人気の名宿5選。',
-    url: 'https://croud-travel.pages.dev/cherry-blossom-viewing-private-bath-spring-stay',
+    url: 'https://croud-travel.pages.dev/cherry-blossom-viewing-private-bath-spring-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/cherry-blossom-viewing-private-bath-spring-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/cherry-blossom-viewing-private-bath-spring-stay/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">お花見露天風呂×春の桜ステイ</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             湯けむりの向こうに咲き誇る淡いピンクの桜。舞い散る花びらが水面に浮かぶ風流なお花見露天風呂。人混みを離れ、プライベートな客室露天風呂から満開の桜を独占する贅沢。筍や山菜、鯛など春の恵みをふんだんに盛り込んだ特製会席とともに。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】客室露天から桜を独り占め！お花見露天風呂＆春爛漫の会席料理が自慢の温泉宿5選" url="https://croud-travel.pages.dev/cherry-blossom-viewing-private-bath-spring-stay" />
+            <ShareButtons title="【2026年】客室露天から桜を独り占め！お花見露天風呂＆春爛漫の会席料理が自慢の温泉宿5選" url="https://croud-travel.pages.dev/cherry-blossom-viewing-private-bath-spring-stay/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】客室露天から桜を独り占め！お花見露天風呂＆春爛漫の会席料理が自慢の温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/cherry-blossom-viewing-private-bath-spring-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】客室露天から桜を独り占め！お花見露天風呂＆春爛漫の会席料理が自慢の温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/cherry-blossom-viewing-private-bath-spring-stay/"}]}) }}
       />
         
         {/* クーポンバナー */}

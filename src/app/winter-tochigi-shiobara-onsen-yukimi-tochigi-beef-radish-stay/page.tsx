@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '栃木・塩原温泉で過ごす冬の旅（11・12月）！極上とちぎ和牛会席！名宿5選',
     description: '11月から12月にかけて、栃木県北部の那須連山山麓に広がる名湯「塩原温泉郷」は、箒川（ほうきがわ）沿いの渓谷が初雪に彩られ。',
-    url: 'https://croud-travel.pages.dev/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay',
+    url: 'https://croud-travel.pages.dev/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function TochigiShiobaraWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay"
+          "@id": "https://croud-travel.pages.dev/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay/"
         },
         "headline": "【11・12月栃木・塩原温泉の初冬箒川雪見露天と名湯十一湯巡り】極上とちぎ和牛会席＆旬の塩原高原大根を味わう老舗宿5選",
         "description": "11月から12月にかけて、栃木県北部の那須連山山麓に広がる名湯「塩原温泉郷」は、箒川（ほうきがわ）沿いの渓谷が初雪に彩られ、静寂と白い湯けむりが立ち込める情緒豊かな初冬を迎えます。千二百年以上の歴史を誇る「塩原十一湯」は、乳白色の硫黄泉から炭酸水素塩泉、弱食塩泉まで多彩な名湯が揃い、雪見露天風呂の風情は格別。さらに初冬に寒暖差で甘みが極限まで凝縮する名物「塩原高原大根」や、とろける霜降り「とちぎ和牛」のすき焼き・ステーキ会席を堪能する至極の老舗旅館5選を詳しく解説します。",
@@ -100,13 +100,13 @@ export default function TochigiShiobaraWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "栃木・塩原温泉 初冬箒川雪見露天と名湯十一湯の宿",
-            "item": "https://croud-travel.pages.dev/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay"
+            "item": "https://croud-travel.pages.dev/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay/"
           }
         ]
       },
@@ -630,7 +630,7 @@ export default function TochigiShiobaraWinterFeature() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-2">
             <Link 
-              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay"
+              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">鬼怒川・渓谷雪景色</span>
@@ -639,7 +639,7 @@ export default function TochigiShiobaraWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay"
+              href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">那須・鹿の湯白濁</span>
@@ -648,7 +648,7 @@ export default function TochigiShiobaraWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-gunma-minakami-onsen-tanigawa-yukimi-stay"
+              href="/winter-gunma-minakami-onsen-tanigawa-yukimi-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-sky-500/40 text-sky-200 font-bold text-[10px]">水上・谷川岳雪見</span>
@@ -657,7 +657,7 @@ export default function TochigiShiobaraWinterFeature() {
             </Link>
 
             <Link 
-              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay"
+              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-rose-500/40 text-rose-200 font-bold text-[10px]">草津・湯畑ライトアップ</span>

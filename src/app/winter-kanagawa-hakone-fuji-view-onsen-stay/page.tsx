@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '箱根芦ノ湖で過ごす冬の旅（11・12月）！澄み渡る空と雪化粧の富士を望む露天風呂！名宿5選',
     description: '年間で最も晴天率が高く空気が研ぎ澄まされる11月・12月の箱根芦ノ湖。紺碧の湖面に映る雪化粧の富士山と箱根神社の平和の鳥居。芦ノ湖を望む絶景露天風呂に浸かり、相模湾の冬魚や足柄牛に舌鼓を打つ、首都圏からすぐ行ける至高の冬リゾート温泉ガイド。',
-    url: 'https://croud-travel.pages.dev/winter-kanagawa-hakone-fuji-view-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-kanagawa-hakone-fuji-view-onsen-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function HakoneWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-kanagawa-hakone-fuji-view-onsen-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kanagawa-hakone-fuji-view-onsen-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function HakoneWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月箱根芦ノ湖】澄み渡る空と雪化粧の富士を望む露天風呂！名宿5選","item":"https://croud-travel.pages.dev/winter-kanagawa-hakone-fuji-view-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月箱根芦ノ湖】澄み渡る空と雪化粧の富士を望む露天風呂！名宿5選","item":"https://croud-travel.pages.dev/winter-kanagawa-hakone-fuji-view-onsen-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -796,7 +796,7 @@ export default function HakoneWinterPage() {
           {/* 関連特集リンクカード */}
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
             <Link 
-              href="/winter-fujikawaguchiko-momiji-fuji-view-stay"
+              href="/winter-fujikawaguchiko-momiji-fuji-view-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-cyan-50/60 border border-stone-200 hover:border-cyan-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-rose-800 bg-rose-100/80 px-2 py-0.5 rounded">富士山特集</span>
@@ -809,7 +809,7 @@ export default function HakoneWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-izu-kinmedai-shabushabu-luxury-stay"
+              href="/winter-izu-kinmedai-shabushabu-luxury-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-cyan-50/60 border border-stone-200 hover:border-cyan-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">近隣温泉特集</span>
@@ -822,7 +822,7 @@ export default function HakoneWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tokyo-marunouchi-illumination-luxury-stay"
+              href="/winter-tokyo-marunouchi-illumination-luxury-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-cyan-50/60 border border-stone-200 hover:border-cyan-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">首都圏冬ステイ</span>

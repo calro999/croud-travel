@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '2026年：本格岩盤浴＆温活デトックス！天然鉱石の遠赤外線と美肌名湯で芯から整う温泉宿5選',
     description: '2026年最新！天寿石・トルマリンなど天然鉱石の本格岩盤浴とロウリュサウナ、源泉掛け流し温泉でたっぷり汗を流しデトックスできる宿5選。',
-    url: 'https://croud-travel.pages.dev/natural-hotspring-with-authentic-stone-spa-ganbanyoku',
+    url: 'https://croud-travel.pages.dev/natural-hotspring-with-authentic-stone-spa-ganbanyoku/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -42,7 +42,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/natural-hotspring-with-authentic-stone-spa-ganbanyoku"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/natural-hotspring-with-authentic-stone-spa-ganbanyoku/"
   };
 
   const faqSchema = {
@@ -158,7 +158,7 @@ export default function Page() {
         <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2">
           <Link href="/" className="hover:text-emerald-700">ホーム</Link>
           <span>&gt;</span>
-          <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+          <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
           <span>&gt;</span>
           <span className="text-stone-800 font-semibold truncate">本格天然岩盤浴×美肌温活デトックス</span>
         </div>
@@ -177,7 +177,7 @@ export default function Page() {
             天然鉱石から放射される遠赤外線とマイナスイオンで、体の芯からじんわりと温まり心地よい汗を流す本格岩盤浴。温まった体を源泉掛け流しの美肌湯で包み込み、日頃の老廃物とストレスを一気に洗い流す究極のデトックス＆リフレッシュステイ。
           </p>
           <div className="pt-2">
-            <ShareButtons title="【2026年】本格岩盤浴＆温活デトックス！天然鉱石の遠赤外線と美肌名湯で芯から整う温泉宿5選" url="https://croud-travel.pages.dev/natural-hotspring-with-authentic-stone-spa-ganbanyoku" />
+            <ShareButtons title="【2026年】本格岩盤浴＆温活デトックス！天然鉱石の遠赤外線と美肌名湯で芯から整う温泉宿5選" url="https://croud-travel.pages.dev/natural-hotspring-with-authentic-stone-spa-ganbanyoku/" />
           </div>
         </div>
       </header>
@@ -186,7 +186,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【2026年】本格岩盤浴＆温活デトックス！天然鉱石の遠赤外線と美肌名湯で芯から整う温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/natural-hotspring-with-authentic-stone-spa-ganbanyoku"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【2026年】本格岩盤浴＆温活デトックス！天然鉱石の遠赤外線と美肌名湯で芯から整う温泉宿5選 ｜ 日本全国・旅宿クラウド","item":"https://croud-travel.pages.dev/natural-hotspring-with-authentic-stone-spa-ganbanyoku/"}]}) }}
       />
         
         {/* クーポンバナー */}

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月北海道：定山渓雪見露天！名宿5選',
     description: '冬の札幌は大通公園を幻想的な光で埋め尽くす「さっぽろホワイトイルミネーション」や「ミュンヘン・クリスマス市」、すすきのの活気。',
-    url: 'https://croud-travel.pages.dev/winter-hokkaido-sapporo-odori-illumination-jozankei-stay',
+    url: 'https://croud-travel.pages.dev/winter-hokkaido-sapporo-odori-illumination-jozankei-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -165,7 +165,7 @@ export default function SapporoJozankeiWinterPage() {
         "@id": "https://croud-travel.pages.dev/winter-hokkaido-sapporo-odori-illumination-jozankei-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-hokkaido-sapporo-odori-illumination-jozankei-stay"
+          "@id": "https://croud-travel.pages.dev/winter-hokkaido-sapporo-odori-illumination-jozankei-stay/"
         },
         "headline": "【11・12・1月北海道】さっぽろホワイトイルミネーション＆定山渓雪見露天！札幌味噌ラーメンと北の味覚に酔いしれる名宿5選",
         "description": "冬の札幌は大通公園を幻想的な光で埋め尽くす「さっぽろホワイトイルミネーション」や「ミュンヘン・クリスマス市」、すすきのの活気、そして車で約50分の奥座敷・定山渓温泉の雪見露天風呂が同時に楽しめる絶景シーズン。本場の熱々札幌味噌ラーメンや道産海鮮丼、シメパフェ文化まで満喫できる冬の北海道王道トリップ。楽天APIから最新取得した札幌駅・大通・定山渓の極上宿5選を徹底特集します。",
@@ -191,13 +191,13 @@ export default function SapporoJozankeiWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "札幌・定山渓温泉 冬特集",
-            "item": "https://croud-travel.pages.dev/winter-hokkaido-sapporo-odori-illumination-jozankei-stay"
+            "item": "https://croud-travel.pages.dev/winter-hokkaido-sapporo-odori-illumination-jozankei-stay/"
           }
         ]
       },
@@ -590,28 +590,28 @@ export default function SapporoJozankeiWinterPage() {
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
             <Link 
-              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay" 
+              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>函館・湯の川温泉＆五稜郭！冬の津軽海峡漁火と海鮮名宿</span>
               <span className="text-cyan-300">→</span>
             </Link>
             <Link 
-              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay" 
+              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>登別温泉地獄谷雪景色＆白老牛！名湯めぐりと冬の味覚宿</span>
               <span className="text-cyan-300">→</span>
             </Link>
             <Link 
-              href="/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay" 
+              href="/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>金沢兼六園の雪吊り＆香箱ガニ！冬の加賀百万石グルメ宿</span>
               <span className="text-cyan-300">→</span>
             </Link>
             <Link 
-              href="/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay" 
+              href="/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>奥入瀬渓流の氷瀑＆八甲田樹氷！酸ヶ湯温泉と青森雪見名宿</span>

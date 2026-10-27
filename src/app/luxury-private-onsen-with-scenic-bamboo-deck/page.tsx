@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "竹林の静寂美：夜のライトアップとプライベート竹林露天！京都・伊豆の風雅な離れ隠れ宿5選",
     description: "風にそよぐ笹の音と幽玄なライトアップに包まれる竹林露天風呂。客室専用ウッドデッキや離れの露天風呂から美しい竹林庭園を独占できる、贅沢で静寂に満ちた隠れ宿を厳選紹介。大人の極上休日を。",
-    url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-bamboo-deck',
+    url: 'https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-bamboo-deck/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -59,7 +59,7 @@ export default function FeaturePage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-bamboo-deck"
+      "@id": "https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-bamboo-deck/"
     }
   };
 
@@ -143,7 +143,7 @@ export default function FeaturePage() {
       <nav className="max-w-5xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-500 flex items-center gap-1.5 overflow-x-auto">
         <Link href="/" className="hover:text-amber-600 transition-colors shrink-0">ホーム</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <Link href="/features" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-600 transition-colors shrink-0">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <span className="text-stone-800 font-medium truncate">【竹林の静寂美】夜のライトアップとプライベート竹林露天！京都・伊豆の風雅な離れ隠れ宿5選</span>
       </nav>
@@ -155,7 +155,7 @@ export default function FeaturePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【竹林の静寂美】夜のライトアップとプライベート竹林露天！京都・伊豆の風雅な離れ隠れ宿5選","item":"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-bamboo-deck"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【竹林の静寂美】夜のライトアップとプライベート竹林露天！京都・伊豆の風雅な離れ隠れ宿5選","item":"https://croud-travel.pages.dev/luxury-private-onsen-with-scenic-bamboo-deck/"}]}) }}
       />
         {/* Intro */}
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
@@ -310,7 +310,7 @@ export default function FeaturePage() {
           <h3 className="text-lg font-bold text-stone-800 mb-3">他の特集記事もチェック</h3>
           <p className="text-sm text-stone-500 mb-6">全国各地の魅力あふれるテーマ別おすすめ宿泊施設をご紹介しています</p>
           <Link
-            href="/features"
+            href="/features/"
             className="inline-flex items-center gap-2 px-8 py-3.5 rounded-xl bg-stone-800 hover:bg-stone-900 text-white font-bold text-sm shadow-sm transition-colors"
           >
             <span>特集一覧ページへ戻る</span>

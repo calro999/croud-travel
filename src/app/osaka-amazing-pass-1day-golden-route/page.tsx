@@ -406,7 +406,7 @@ export default function OsakaAmazingPassPage() {
           </h2>
           <div className="grid sm:grid-cols-2 gap-4">
             <Link
-              href="/osaka-travel-budget-guide"
+              href="/osaka-travel-budget-guide/"
               className="p-4 bg-white rounded-xl border border-slate-200 hover:border-rose-500 hover:shadow-sm transition-all group"
             >
               <h3 className="text-sm font-bold text-slate-800 group-hover:text-rose-600 mb-1">
@@ -417,7 +417,7 @@ export default function OsakaAmazingPassPage() {
               </p>
             </Link>
             <Link
-              href="/usj-family-hotel-near-osaka-guide"
+              href="/usj-family-hotel-near-osaka-guide/"
               className="p-4 bg-white rounded-xl border border-slate-200 hover:border-rose-500 hover:shadow-sm transition-all group"
             >
               <h3 className="text-sm font-bold text-slate-800 group-hover:text-rose-600 mb-1">

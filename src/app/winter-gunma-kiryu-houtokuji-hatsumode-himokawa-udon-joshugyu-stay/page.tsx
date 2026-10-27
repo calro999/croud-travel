@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月群馬：桐生新町と床もみじの名刹「宝徳寺」新春初詣！名宿5選',
     description: '「西の西陣、東の桐生」と称された織物の都・桐生が最も静謐で趣深い表情を見せる11〜1月の冬旅特集。ピカピカに磨かれた本堂の漆床に雪景色や新春。',
-    url: 'https://croud-travel.pages.dev/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay/',
     type: 'article',
     images: [
       {
@@ -60,7 +60,7 @@ export default function GunmaKiryuWinterPage() {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "https://croud-travel.pages.dev/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay"
+      "@id": "https://croud-travel.pages.dev/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay/"
     }
   };
 
@@ -78,13 +78,13 @@ export default function GunmaKiryuWinterPage() {
         "@type": "ListItem",
         "position": 2,
         "name": "特集一覧",
-        "item": "https://croud-travel.pages.dev/features"
+        "item": "https://croud-travel.pages.dev/features/"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "群馬・桐生＆宝徳寺 冬特集",
-        "item": "https://croud-travel.pages.dev/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay"
+        "item": "https://croud-travel.pages.dev/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay/"
       }
     ]
   };
@@ -328,7 +328,7 @@ export default function GunmaKiryuWinterPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 py-4 text-xs text-slate-500 flex items-center gap-2">
         <Link href="/" className="hover:text-indigo-800 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-indigo-800 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-indigo-800 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-slate-700 font-medium">群馬・桐生＆宝徳寺 冬特集</span>
       </nav>
@@ -668,7 +668,7 @@ export default function GunmaKiryuWinterPage() {
           </p>
           <div className="pt-2 flex flex-wrap justify-center gap-3">
             <Link 
-              href="/features" 
+              href="/features/" 
               className="px-6 py-3 bg-white text-slate-900 hover:bg-slate-100 font-black text-xs md:text-sm rounded-xl shadow transition"
             >
               特集記事一覧を見る

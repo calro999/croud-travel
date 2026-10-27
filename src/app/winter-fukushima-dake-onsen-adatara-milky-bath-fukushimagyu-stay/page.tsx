@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '岳温泉で過ごす冬の旅（11・12月）！安達太良山初冬の雪景色と奇跡！名宿5選',
     description: '11月中旬から12月の初冬、高村光太郎の『智恵子抄』で「あだたらの山の上に 毎日出てゐる青い空が 智恵子のほんとの空だといふ」と謳われた名峰。',
-    url: 'https://croud-travel.pages.dev/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -57,7 +57,7 @@ export default function FukushimaDakeWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -380,7 +380,7 @@ export default function FukushimaDakeWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月岳温泉】安達太良山初冬の雪景色と奇跡！名宿5選","item":"https://croud-travel.pages.dev/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月岳温泉】安達太良山初冬の雪景色と奇跡！名宿5選","item":"https://croud-travel.pages.dev/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay/"}]}) }}
       />
 
         {/* Introduction Section */}
@@ -687,7 +687,7 @@ export default function FukushimaDakeWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay"
+              href="/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-300 bg-blue-400/20 px-2 py-0.5 rounded-full inline-block">福島・吾妻高湯土湯</span>
@@ -700,7 +700,7 @@ export default function FukushimaDakeWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay"
+              href="/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-300 bg-blue-400/20 px-2 py-0.5 rounded-full inline-block">福島・郡山奥座敷</span>
@@ -713,7 +713,7 @@ export default function FukushimaDakeWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay"
+              href="/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-300 bg-blue-400/20 px-2 py-0.5 rounded-full inline-block">福島・会津若松</span>

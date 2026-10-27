@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月京都：雪化粧の伊根湾「伊根の舟屋」！名宿5選',
     description: '11月から1月、京都府丹後半島・伊根町と宮津市は、日本海に浮かぶ約230軒の「伊根の舟屋群」が静かに雪をまとう水墨画のような絶景と。',
-    url: 'https://croud-travel.pages.dev/winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay',
+    url: 'https://croud-travel.pages.dev/winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay/',
     siteName: 'クラドトラベル',
     images: [
       {
@@ -62,7 +62,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay'
+      '@id': 'https://croud-travel.pages.dev/winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay/'
     }
   };
 
@@ -80,13 +80,13 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
         '@type': 'ListItem',
         position: 2,
         name: '冬の特集一覧',
-        item: 'https://croud-travel.pages.dev/features'
+        item: 'https://croud-travel.pages.dev/features/'
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '京都・伊根の舟屋＆寒ブリしゃぶ特集',
-        item: 'https://croud-travel.pages.dev/winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay'
+        item: 'https://croud-travel.pages.dev/winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay/'
       }
     ]
   };
@@ -598,7 +598,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link 
-              href="/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay"
+              href="/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -615,7 +615,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-niigata-sado-island-kanburi-crab-snow-stay"
+              href="/winter-niigata-sado-island-kanburi-crab-snow-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -632,7 +632,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay"
+              href="/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -649,7 +649,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay"
+              href="/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -666,7 +666,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-toyama-amaharashi-shinminato-tateyama-crab-stay"
+              href="/winter-toyama-amaharashi-shinminato-tateyama-crab-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -683,7 +683,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay"
+              href="/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>

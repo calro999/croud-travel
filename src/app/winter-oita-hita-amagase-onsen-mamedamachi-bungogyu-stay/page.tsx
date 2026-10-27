@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日田温泉＆天瀬温泉で過ごす冬の旅（11・12月）！水郷ひたの初冬川霧と天領豆田！名宿5選',
     description: '11月中旬から12月の初冬を迎えた大分県日田市は、阿蘇や九重連山を源流とする清流・三隈川（みくまがわ）から立ちのぼる幻想的な朝霧「川霧」に包まれ。',
-    url: 'https://croud-travel.pages.dev/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -57,7 +57,7 @@ export default function OitaHitaAmagaseWinterPage() {
         "datePublished": "2026-10-18T00:00:00+09:00",
         "dateModified": "2026-10-18T00:00:00+09:00",
         "inLanguage": "ja",
-        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay",
+        "mainEntityOfPage": "https://croud-travel.pages.dev/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay/",
         "publisher": {
           "@type": "Organization",
           "name": "クラドトラベル編集部",
@@ -380,7 +380,7 @@ export default function OitaHitaAmagaseWinterPage() {
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月日田温泉＆天瀬温泉】水郷ひたの初冬川霧と天領豆田！名宿5選","item":"https://croud-travel.pages.dev/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月日田温泉＆天瀬温泉】水郷ひたの初冬川霧と天領豆田！名宿5選","item":"https://croud-travel.pages.dev/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay/"}]}) }}
       />
 
         {/* Introduction Section */}
@@ -687,7 +687,7 @@ export default function OitaHitaAmagaseWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay"
+              href="/winter-oita-sujiyu-onsen-kuju-snow-bungo-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">大分・九重筋湯</span>
@@ -700,7 +700,7 @@ export default function OitaHitaAmagaseWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay"
+              href="/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">熊本・杖立わいた</span>
@@ -713,7 +713,7 @@ export default function OitaHitaAmagaseWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay"
+              href="/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">福岡・筑後川</span>

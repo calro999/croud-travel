@@ -504,7 +504,7 @@ export default function EnoshimaKamakuraNoriorikunPage() {
           <h3 className="text-xl font-black mb-4">湘南・鎌倉エリアの旅をさらに深掘り！関連ガイド</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
-              href="/kamakura-vs-enoshima-day-trip"
+              href="/kamakura-vs-enoshima-day-trip/"
               className="p-4 rounded-2xl bg-white/10 hover:bg-white/20 transition border border-white/10 block group"
             >
               <div className="text-xs text-amber-300 font-bold mb-1">旅程比較</div>
@@ -513,7 +513,7 @@ export default function EnoshimaKamakuraNoriorikunPage() {
               </div>
             </Link>
             <Link
-              href="/kamakura-rainy-day-cafe-museum-guide"
+              href="/kamakura-rainy-day-cafe-museum-guide/"
               className="p-4 rounded-2xl bg-white/10 hover:bg-white/20 transition border border-white/10 block group"
             >
               <div className="text-xs text-amber-300 font-bold mb-1">雨の日・カフェ</div>

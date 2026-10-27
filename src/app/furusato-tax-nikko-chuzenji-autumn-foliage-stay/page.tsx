@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '湖面に映える錦秋の男体山！日光中禅寺湖・いろは坂＆奥日光にごり湯温泉宿×ふるさと納税厳選ガイド',
     description: '10月中旬〜11月上旬に見頃を迎える関東屈指の紅葉名所「日光・中禅寺湖・いろは坂・華厳の滝」。湖畔のクラシックリゾートや乳白色硫黄泉の湯元温泉宿「ホテル花庵」「中禅寺金谷ホテル」「湯元板屋」。とちぎ和牛と湯波会席を、楽天ふるさと納税トラベルクーポンで実質2,000円で楽しむ完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-nikko-chuzenji-autumn-foliage-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-nikko-chuzenji-autumn-foliage-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
     type: 'article',
@@ -55,7 +55,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 sm:px-6 pt-6 pb-2 text-xs text-stone-500 flex items-center gap-2 flex-wrap">
         <Link href="/" className="hover:text-stone-800 underline">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-800 underline">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-800 underline">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-800 font-bold">日光中禅寺湖・いろは坂紅葉＆にごり湯宿特集</span>
       </nav>
@@ -384,7 +384,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
 
             <li key="furusato-tax-autumn-foliage-gorge-onsen-stay">
               <Link
-                href="/furusato-tax-autumn-foliage-gorge-onsen-stay"
+                href="/furusato-tax-autumn-foliage-gorge-onsen-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -395,7 +395,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
 
             <li key="furusato-tax-pure-kakenagashi-secret-hotspring-stay">
               <Link
-                href="/furusato-tax-secret-hotspring-lamp-retreat-stay"
+                href="/furusato-tax-secret-hotspring-lamp-retreat-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -406,7 +406,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
 
             <li key="furusato-tax-three-medicinal-hotsprings-stay">
               <Link
-                href="/furusato-tax-three-medicinal-hotsprings-stay"
+                href="/furusato-tax-three-medicinal-hotsprings-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -417,7 +417,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
 
             <li key="furusato-tax-lakeview-onsen-resort-hotel-stay">
               <Link
-                href="/furusato-tax-lakeview-onsen-resort-hotel-stay"
+                href="/furusato-tax-lakeview-onsen-resort-hotel-stay/"
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
@@ -437,7 +437,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
-            href="/travel-savings-guide"
+            href="/travel-savings-guide/"
             className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-amber-500 to-orange-500 text-stone-950 font-black px-7 py-3.5 rounded-2xl shadow-xl hover:opacity-95 transition text-sm"
           >
             🏨 旅行節約総合ハブページを見る ➔

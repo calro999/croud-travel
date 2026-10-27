@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月香川：総本山善通寺の雪の初詣と丸亀！名宿5選',
     description: '真言宗開祖・弘法大師空海の御生誕の地であり四国霊場第75番札所の総本山善通寺での荘厳な初詣。日本一の石垣美を誇る現存十二天守・丸亀城の冬のラ。',
-    url: 'https://croud-travel.pages.dev/winter-kagawa-zentsuji-marugame-castle-udon-stay',
+    url: 'https://croud-travel.pages.dev/winter-kagawa-zentsuji-marugame-castle-udon-stay/',
     siteName: '地域の宿探訪',
     locale: 'ja_JP',
     type: 'article',
@@ -167,7 +167,7 @@ export default function KagawaZentsujiMarugamePage() {
         "@id": "https://croud-travel.pages.dev/winter-kagawa-zentsuji-marugame-castle-udon-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-kagawa-zentsuji-marugame-castle-udon-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kagawa-zentsuji-marugame-castle-udon-stay/"
         },
         "headline": "【11・12・1月香川】善通寺＆丸亀！弘法大師生誕地・総本山善通寺の雪の初詣と丸亀城石垣ライトアップ・冬の讃岐しっぽくうどん＆骨付鳥名宿5選",
         "description": "真言宗開祖・弘法大師空海の御生誕の地であり四国霊場第75番札所の総本山善通寺での荘厳な初詣。日本一の石垣美を誇る現存十二天守・丸亀城の冬のライトアップや、冬期限定の具だくさん郷土麺「讃岐しっぽくうどん」、丸亀発祥のスパイシーな「骨付鳥」。瀬戸内海を望む展望風呂や名湯こんぴら温泉に癒やされる厳選名宿5選を徹底特集します。",
@@ -185,7 +185,7 @@ export default function KagawaZentsujiMarugamePage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-kagawa-zentsuji-marugame-castle-udon-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kagawa-zentsuji-marugame-castle-udon-stay/"
         }
       },
       {
@@ -202,13 +202,13 @@ export default function KagawaZentsujiMarugamePage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "善通寺＆丸亀・弘法大師初詣としっぽくうどん名宿",
-            "item": "https://croud-travel.pages.dev/winter-kagawa-zentsuji-marugame-castle-udon-stay"
+            "item": "https://croud-travel.pages.dev/winter-kagawa-zentsuji-marugame-castle-udon-stay/"
           }
         ]
       },
@@ -239,7 +239,7 @@ export default function KagawaZentsujiMarugamePage() {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 py-4 text-xs font-semibold text-stone-500 flex items-center gap-2">
         <Link href="/" className="hover:text-amber-700 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-amber-700 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-700 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-stone-800">香川・善通寺＆丸亀・初詣としっぽくうどん名宿</span>
       </nav>
@@ -530,19 +530,19 @@ export default function KagawaZentsujiMarugamePage() {
             あわせて読みたい！四国の冬旅＆名湯特集
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
-            <Link href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
+            <Link href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay/" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
               ⛩️ こんぴら温泉郷！金刀比羅宮初詣とオリーブ牛名宿
             </Link>
-            <Link href="/winter-kagawa-takamatsu-ritsurin-yashima-olive-hamachi-udon-stay" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
+            <Link href="/winter-kagawa-takamatsu-ritsurin-yashima-olive-hamachi-udon-stay/" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
               🌊 高松栗林公園の冬景色＆オリーブハマチ・うどん宿
             </Link>
-            <Link href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
+            <Link href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay/" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
               ♨️ 道後温泉本館！冬の伊予鯛めしと名湯名宿
             </Link>
-            <Link href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
+            <Link href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay/" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
               🌀 鳴門温泉＆渦潮！冬の鳴門鯛と絶景リゾート
             </Link>
-            <Link href="/campaigns" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
+            <Link href="/campaigns/" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
               🍁 全国の旬の味覚＆極上温泉宿特集まとめ
             </Link>
           </div>

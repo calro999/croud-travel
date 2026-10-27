@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '高崎出張・天然温泉サウナ：新幹線結節点・榛名の湯・高崎パスタ！上州ビジネスハブを制する厳選3宿',
     description: '上越・北陸新幹線が分岐する群馬最大の交通ターミナル高崎駅！駅東口直結でシモンズベッドと極上スパ・岩盤浴を誇る「ホテルココ・グラン高崎」、展望露天風呂から白衣大観音を望む「ホテル グランビュー高崎」、天然温泉大浴場とサウナ完備の「ドーミーイン高崎」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/gunma-takasaki-solo-business-onsen-stay',
+    url: 'https://croud-travel.pages.dev/gunma-takasaki-solo-business-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/gunma-takasaki-solo-business-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/gunma-takasaki-solo-business-onsen-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【高崎出張・天然温泉サウナ】新幹線結節点・榛名の湯・高崎パスタ！上州ビジネスハブを制する厳選3宿","item":"https://croud-travel.pages.dev/gunma-takasaki-solo-business-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【高崎出張・天然温泉サウナ】新幹線結節点・榛名の湯・高崎パスタ！上州ビジネスハブを制する厳選3宿","item":"https://croud-travel.pages.dev/gunma-takasaki-solo-business-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

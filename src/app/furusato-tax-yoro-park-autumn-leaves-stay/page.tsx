@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '日本の滝100選「養老の滝」約3,000本のもみじ絵巻＆養老温泉・本場飛騨牛街道の極上肉会席',
     description: '11月中旬〜12月上旬に巨木のもみじがトンネルを作る養老公園・養老の滝。養老山麓に湧く天然温泉と、飛騨牛の名産地・養老町ならではの極上飛騨牛すき焼き・焼肉をふるさと納税でお得に味わう完全ガイド。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-yoro-park-autumn-leaves-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-yoro-park-autumn-leaves-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-yoro-park-autumn-leaves-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-yoro-park-autumn-leaves-stay/"
   };
 
   const faqSchema = {
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"日本の滝100選「養老の滝」約3,000本のもみじ絵巻＆養老温泉・本場飛騨牛街道の極上肉会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-yoro-park-autumn-leaves-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"日本の滝100選「養老の滝」約3,000本のもみじ絵巻＆養老温泉・本場飛騨牛街道の極上肉会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-yoro-park-autumn-leaves-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

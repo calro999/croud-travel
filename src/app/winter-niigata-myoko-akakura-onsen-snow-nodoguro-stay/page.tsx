@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '妙高赤倉温泉で過ごす冬の旅（11・12月）！新潟和牛会席！名宿5選',
     description: '11月から12月にかけて新潟県・妙高山麓は、標高2,454mの日本百名山・妙高山が初雪の白銀に輝き、豪雪地帯ならではの純白の冬景色が広がります。',
-    url: 'https://croud-travel.pages.dev/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay',
+    url: 'https://croud-travel.pages.dev/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
     type: 'article',
@@ -65,7 +65,7 @@ export default function AkakuraOnsenWinterFeature() {
         "@id": "https://croud-travel.pages.dev/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay#article",
         "isPartOf": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay"
+          "@id": "https://croud-travel.pages.dev/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay/"
         },
         "headline": "【11・12月新潟・妙高赤倉温泉の初雪妙高山と開湯200年名湯】硫酸塩・炭酸水素塩のダブル美肌露天・冬のどぐろ塩焼き＆新潟和牛会席の宿5選",
         "description": "11月から12月にかけて新潟県・妙高山麓は、標高2,454mの日本百名山・妙高山が初雪の白銀に輝き、豪雪地帯ならではの純白の冬景色が広がります。文化13年（1816年）開湯、妙高山北地獄谷から湧き出る源泉は、「肌を滑らかにする炭酸水素塩泉」と「肌を保湿しコーティングする硫酸塩泉」を併せ持つ日本有数のダブル美肌温泉。創業1937年のクラシックリゾートからの雪海パノラマ、日本海・直江津港や能生漁港から直送される高級魚「冬のどぐろ」の塩焼きや刺身、とろける霜降りの「にいがた和牛」、妙高・魚沼産コシヒカリの新米と地酒を味わう至高の妙高名宿5選を徹底解説。",
@@ -100,13 +100,13 @@ export default function AkakuraOnsenWinterFeature() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "新潟・妙高赤倉温泉 初雪妙高山とダブル美肌湯の宿",
-            "item": "https://croud-travel.pages.dev/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay"
+            "item": "https://croud-travel.pages.dev/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay/"
           }
         ]
       },
@@ -598,42 +598,42 @@ export default function AkakuraOnsenWinterFeature() {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-niigata-echigo-yuzawa-snow-sake-stay"
+              href="/winter-niigata-echigo-yuzawa-snow-sake-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">新潟・越後湯沢</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">雪国情緒と雪見酒・南魚沼コシヒカリと新潟地酒の宿</h3>
             </Link>
             <Link 
-              href="/winter-niigata-tsukioka-onsen-emerald-bihada-stay"
+              href="/winter-niigata-tsukioka-onsen-emerald-bihada-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">新潟・月岡温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">エメラルドグリーンの硫黄泉と美肌湯・越後牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay"
+              href="/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">長野・湯田中渋温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">スノーモンキーと開湯1350年登録有形文化財風呂・信州牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
+              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">長野・野沢温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">13の外湯めぐりと湯煙・信州牛と野沢菜漬けの宿</h3>
             </Link>
             <Link 
-              href="/winter-gunma-manza-snow-milky-hotspring-stay"
+              href="/winter-gunma-manza-snow-milky-hotspring-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">群馬・万座温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">標高1800mの白濁にごり湯雪見露天と満天の星空の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>

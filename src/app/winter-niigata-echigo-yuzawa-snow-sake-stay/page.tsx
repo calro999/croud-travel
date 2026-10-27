@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '越後湯沢温泉で過ごす冬の旅（11・12月）！川端康成ゆかりの名湯！名宿5選',
     description: '東京から新幹線で最速約70分、川端康成の小説『雪国』の舞台として名高い新潟・越後湯沢温泉。11月の収穫期を祝う日本一の南魚沼産コシヒカリ新米。',
-    url: 'https://croud-travel.pages.dev/winter-niigata-echigo-yuzawa-snow-sake-stay',
+    url: 'https://croud-travel.pages.dev/winter-niigata-echigo-yuzawa-snow-sake-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -65,7 +65,7 @@ export default function YuzawaWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-niigata-echigo-yuzawa-snow-sake-stay"
+          "@id": "https://croud-travel.pages.dev/winter-niigata-echigo-yuzawa-snow-sake-stay/"
         }
       },
       {
@@ -281,7 +281,7 @@ export default function YuzawaWinterPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月越後湯沢温泉】川端康成ゆかりの名湯！名宿5選","item":"https://croud-travel.pages.dev/winter-niigata-echigo-yuzawa-snow-sake-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月越後湯沢温泉】川端康成ゆかりの名湯！名宿5選","item":"https://croud-travel.pages.dev/winter-niigata-echigo-yuzawa-snow-sake-stay/"}]}) }}
       />
         
         {/* Intro */}
@@ -620,7 +620,7 @@ export default function YuzawaWinterPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link 
-              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
+              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">信州の白銀名湯</span>
@@ -630,7 +630,7 @@ export default function YuzawaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-yamagata-onogawa-yonezawa-beef-stay"
+              href="/winter-yamagata-onogawa-yonezawa-beef-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">東北の米沢牛名湯</span>
@@ -640,7 +640,7 @@ export default function YuzawaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay"
+              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">関越沿線の名湯</span>
@@ -650,7 +650,7 @@ export default function YuzawaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay"
+              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">会津の初雪名湯</span>
@@ -660,7 +660,7 @@ export default function YuzawaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay"
+              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">甲州の新酒ワイン名湯</span>
@@ -670,7 +670,7 @@ export default function YuzawaWinterPage() {
             </Link>
 
             <Link 
-              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay"
+              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">北関東の雪見秘湯</span>

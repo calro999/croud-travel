@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '宇奈月温泉ひとり旅・黒部峡谷秘境おこもり：日本一の透明度・峡谷美露天風呂・富山湾の白えび＆寒鰤！トロッコ電車玄関口の名湯厳選3宿',
     description: 'V字峡谷の絶景を抱く富山屈指の名湯・宇奈月温泉！峡谷の四季と富山の旬菜料理が評判のラグジュアリー宿「サン柳亭」、露天風呂とサウナ・充実のラウンジサービスを備えた「グランヴィリオホテル宇奈月温泉」、竹久夢二や川端康成ゆかりの黒部川沿いの老舗「延対寺荘」を楽天API最新データに基づき徹底比較。',
-    url: 'https://croud-travel.pages.dev/toyama-unazuki-solo-retreat-onsen-stay',
+    url: 'https://croud-travel.pages.dev/toyama-unazuki-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/toyama-unazuki-solo-retreat-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/toyama-unazuki-solo-retreat-onsen-stay/',
   };
 
 
@@ -68,7 +68,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【宇奈月温泉ひとり旅・黒部峡谷秘境おこもり】日本一の透明度・峡谷美露天風呂・富山湾の白えび＆寒鰤！トロッコ電車玄関口の名湯厳選3宿","item":"https://croud-travel.pages.dev/toyama-unazuki-solo-retreat-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【宇奈月温泉ひとり旅・黒部峡谷秘境おこもり】日本一の透明度・峡谷美露天風呂・富山湾の白えび＆寒鰤！トロッコ電車玄関口の名湯厳選3宿","item":"https://croud-travel.pages.dev/toyama-unazuki-solo-retreat-onsen-stay/"}]}) }}
       />
         {/* ヘッダーエリア */}
         <header className="mb-10 text-center sm:text-left">

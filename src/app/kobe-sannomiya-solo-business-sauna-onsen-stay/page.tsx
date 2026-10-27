@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '神戸三宮出張・極上サウナステイ：サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿',
     description: '新神戸駅から地下鉄で1駅、大阪梅田からもJR新快速で21分！日本サウナ界の至宝・フィンランドサウナ＆露天水風呂を誇る「神戸サウナ＆スパ」、ライフスタイル型のお洒落ラウンジと快適ステイの「ザ ロイヤルパーク キャンバス 神戸三宮」、駅近で抜群の安心感と広々客室を誇る「ダイワロイネットホテル神戸三宮」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/kobe-sannomiya-solo-business-sauna-onsen-stay',
+    url: 'https://croud-travel.pages.dev/kobe-sannomiya-solo-business-sauna-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/kobe-sannomiya-solo-business-sauna-onsen-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/kobe-sannomiya-solo-business-sauna-onsen-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【神戸三宮出張・極上サウナステイ】サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿","item":"https://croud-travel.pages.dev/kobe-sannomiya-solo-business-sauna-onsen-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【神戸三宮出張・極上サウナステイ】サウナシュラン殿堂の聖地・異人館港町夜景・神戸牛！関西屈指の洗練都市を極める厳選3宿","item":"https://croud-travel.pages.dev/kobe-sannomiya-solo-business-sauna-onsen-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

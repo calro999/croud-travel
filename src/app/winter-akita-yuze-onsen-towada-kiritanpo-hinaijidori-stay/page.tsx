@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '湯瀬温泉＆鹿角で過ごす冬の旅（11・12月）！日本三大美人の湯と米代川雪渓谷！名宿5選',
     description: '11月から12月にかけて、十和田八幡平国立公園の南麓に位置する秋田県鹿角市（かづのし）は、澄み切った冷気とともに初雪を迎え。',
-    url: 'https://croud-travel.pages.dev/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay',
+    url: 'https://croud-travel.pages.dev/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay/',
     siteName: 'クラドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -176,7 +176,7 @@ export default function WinterAkitaYuzePage() {
         'headline': "【11・12月秋田・湯瀬温泉＆鹿角】日本三大美人の湯と米代川雪渓谷・本場きりたんぽ鍋と比内地鶏を味わう名宿5選",
         'description': "11月から12月にかけて、十和田八幡平国立公園の南麓に位置する秋田県鹿角市（かづのし）は、澄み切った冷気とともに初雪を迎え、白銀の冬景色へと姿を変えます。清流・米代川の渓谷沿いに湧き出る「湯瀬温泉（ゆぜおんせん）」は、「川の瀬から湯が湧き出す」情景がその名の由来となった名湯で、和歌山県の龍神温泉、群馬県の川中島温泉とともに「日本三大美人の湯」のひとつに数えられます。pH9を超える高アルカリ性の単純温泉は、化粧水のようにトロリとした滑らかな肌触りが特徴で、湯から上がった瞬間に肌がツルツルになると称賛されます。初冬の冷え込みの中で米代川の雪見渓流露天風呂に浸かる心地よさは格別。夕食には発祥の地・鹿角ならではの「本場きりたんぽ鍋」が登場。収穫されたばかりの新米あきたこまちを香ばしく焼き、日本三大地鶏「比内地鶏」の濃厚なガラ出汁、香り高いセリや舞茸とともに煮込む熱々の一杯は、冬の東北旅の真骨頂です。希少なかづの牛や名酒とともに、初冬の秋田で温まる厳選名宿5選を詳しく紹介します。",
         'inLanguage': 'ja',
-        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay',
+        'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay/',
         'datePublished': 'T00:00:00+09:00',
         'dateModified': 'T00:00:00+09:00',
         'publisher': {
@@ -238,7 +238,7 @@ export default function WinterAkitaYuzePage() {
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-emerald-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">秋田・湯瀬温泉＆鹿角</span>
           </nav>
@@ -275,7 +275,7 @@ export default function WinterAkitaYuzePage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【11・12月湯瀬温泉＆鹿角】日本三大美人の湯と米代川雪渓谷！名宿5選","item":"https://croud-travel.pages.dev/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【11・12月湯瀬温泉＆鹿角】日本三大美人の湯と米代川雪渓谷！名宿5選","item":"https://croud-travel.pages.dev/winter-akita-yuze-onsen-towada-kiritanpo-hinaijidori-stay/"}]}) }}
       />
         
         {/* Intro Section */}
@@ -531,7 +531,7 @@ export default function WinterAkitaYuzePage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay"
+              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-hinaijidori-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">秋田・乳頭温泉郷</span>
@@ -544,7 +544,7 @@ export default function WinterAkitaYuzePage() {
             </Link>
 
             <Link 
-              href="/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay"
+              href="/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">秋田・男鹿温泉</span>
@@ -557,7 +557,7 @@ export default function WinterAkitaYuzePage() {
             </Link>
 
             <Link 
-              href="/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay"
+              href="/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">岩手・鶯宿温泉</span>

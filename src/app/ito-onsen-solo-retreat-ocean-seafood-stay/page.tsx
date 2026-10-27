@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '伊東温泉ひとり旅・海望おこもり：相模灘オーシャンビュー・金目鯛会席・7本の自家源泉！東京から特急で叶う極上湯治リトリート 厳選3選',
     description: '東京駅から特急踊り子で直通約1時間40分！高台から相模湾の青い海を望む展望露天風呂が魅力の「伊東ホテルジュラク」、数寄屋造りの静謐な空間で本格部屋食を堪能できる名門「青山やまと」、豊富な自家源泉とバイキングが人気の「ホテルラヴィエ川良」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/ito-onsen-solo-retreat-ocean-seafood-stay',
+    url: 'https://croud-travel.pages.dev/ito-onsen-solo-retreat-ocean-seafood-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -40,7 +40,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T16:00:00+09:00',
     dateModified: '2026-10-19T16:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/ito-onsen-solo-retreat-ocean-seafood-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/ito-onsen-solo-retreat-ocean-seafood-stay/',
   };
 
 
@@ -52,7 +52,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【伊東温泉ひとり旅・海望おこもり】相模灘オーシャンビュー・金目鯛会席・7本の自家源泉！東京から特急で叶う極上湯治リトリート 厳選3選","item":"https://croud-travel.pages.dev/ito-onsen-solo-retreat-ocean-seafood-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【伊東温泉ひとり旅・海望おこもり】相模灘オーシャンビュー・金目鯛会席・7本の自家源泉！東京から特急で叶う極上湯治リトリート 厳選3選","item":"https://croud-travel.pages.dev/ito-onsen-solo-retreat-ocean-seafood-stay/"}]}) }}
       />
       <script
         type="application/ld+json"

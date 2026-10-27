@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月熊本：極上あか牛！名宿5選',
     description: '世界最大級の阿蘇カルデラが白銀に染まる11〜1月の冬旅完全ガイド。澄み渡る冬空にそびえる阿蘇五岳（根子岳・高岳）の雄大な雪景色パノラマと。',
-    url: 'https://croud-travel.pages.dev/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay/',
     type: 'article',
     images: [
       {
@@ -61,7 +61,7 @@ export default function KumamotoMinamiasoWinterPage() {
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://croud-travel.pages.dev/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay"
+          "@id": "https://croud-travel.pages.dev/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay/"
         }
       },
       {
@@ -77,13 +77,13 @@ export default function KumamotoMinamiasoWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "冬の旅特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "熊本・南阿蘇＆高森・阿蘇あか牛名宿",
-            "item": "https://croud-travel.pages.dev/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay"
+            "item": "https://croud-travel.pages.dev/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay/"
           }
         ]
       },
@@ -270,7 +270,7 @@ export default function KumamotoMinamiasoWinterPage() {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-600 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-blue-600">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/features" className="hover:text-blue-600">特集一覧</Link>
+            <Link href="/features/" className="hover:text-blue-600">特集一覧</Link>
             <span>&gt;</span>
             <span className="text-slate-900 font-semibold">熊本・南阿蘇＆高森・阿蘇あか牛名宿</span>
           </div>
@@ -577,22 +577,22 @@ export default function KumamotoMinamiasoWinterPage() {
               <span>熊本および九州の冬の厳選温泉・絶景特集</span>
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
-              <Link href="/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
+              <Link href="/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
                 🥩 都城＆小林・霧島連山と宮崎牛名宿
               </Link>
-              <Link href="/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
+              <Link href="/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
                 ⛩️ 大分宇佐神宮初詣と豊後牛・海鮮名宿
               </Link>
-              <Link href="/winter-kagoshima-izumi-crane-akune-kurobuta-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
+              <Link href="/winter-kagoshima-izumi-crane-akune-kurobuta-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
                 🦩 出水ツル渡来地と阿久根黒豚名宿
               </Link>
-              <Link href="/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
+              <Link href="/winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
                 ♨️ 島原温泉と名物具雑煮・島原城名宿
               </Link>
-              <Link href="/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
+              <Link href="/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
                 🦑 唐津・呼子イカ活造りと佐賀牛名宿
               </Link>
-              <Link href="/features" className="p-3 bg-emerald-700 text-white rounded-xl font-bold hover:bg-emerald-800 transition text-center flex items-center justify-center">
+              <Link href="/features/" className="p-3 bg-emerald-700 text-white rounded-xl font-bold hover:bg-emerald-800 transition text-center flex items-center justify-center">
                 ❄️ 全国の冬の厳選特集一覧を見る →
               </Link>
             </div>

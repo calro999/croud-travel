@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "幻想の朝霧と紅葉！秋の由布院：金鱗湖徒歩圏＆由布岳ビューの極上離れ宿5選",
     description: "冷え込む秋の早朝、湖面から立ち上る幻想的な朝霧に包まれる金鱗湖と由布岳の絶景！金鱗湖徒歩2分の料亭宿から、全室客室露天風呂付きの離れ宿まで厳選5選。",
-    url: 'https://croud-travel.pages.dev/autumn-oita-yufuin-kinrinko-morning-mist-hotels-stay',
+    url: 'https://croud-travel.pages.dev/autumn-oita-yufuin-kinrinko-morning-mist-hotels-stay/',
     siteName: '日本全国・旅宿クラウド',
     type: 'article',
     locale: 'ja_JP',
@@ -141,7 +141,7 @@ export default function FeaturePage() {
       <nav className="max-w-5xl mx-auto px-4 py-4 text-xs md:text-sm text-stone-500 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
         <Link href="/" className="hover:text-amber-600">ホーム</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-        <Link href="/features" className="hover:text-amber-600">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-600">特集一覧</Link>
         <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
         <span className="text-stone-800 font-medium truncate">【幻想の朝霧と紅葉！秋の由布院】金鱗湖徒歩圏＆由布岳ビューの極上離れ宿5選</span>
       </nav>
@@ -187,8 +187,8 @@ export default function FeaturePage() {
             "@type": "BreadcrumbList",
             "itemListElement": [
               { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev/" },
-              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features" },
-              { "@type": "ListItem", "position": 3, "name": "【幻想の朝霧と紅葉！秋の由布院】金鱗湖徒歩圏＆由布岳ビューの極上離れ宿5選", "item": "https://croud-travel.pages.dev/autumn-oita-yufuin-kinrinko-morning-mist-hotels-stay" }
+              { "@type": "ListItem", "position": 2, "name": "特集一覧", "item": "https://croud-travel.pages.dev/features/" },
+              { "@type": "ListItem", "position": 3, "name": "【幻想の朝霧と紅葉！秋の由布院】金鱗湖徒歩圏＆由布岳ビューの極上離れ宿5選", "item": "https://croud-travel.pages.dev/autumn-oita-yufuin-kinrinko-morning-mist-hotels-stay/" }
             ]
           }) }}
         />

@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '名勝「嵐山・渡月橋」と保津川下り紅葉＆嵯峨野竹林の小径・嵐山温泉の湯浴みと本格京懐石',
     description: '11月中旬〜12月上旬に小倉山と渡月橋が錦秋に染まる京都・嵐山。保津川下りの渓谷紅葉と嵐山温泉のしっとりとした美肌湯、伝統の京料理・湯豆腐会席をふるさと納税で堪能する秋の京都贅沢旅。',
-    url: 'https://croud-travel.pages.dev/furusato-tax-arashiyama-hozugawa-autumn-stay',
+    url: 'https://croud-travel.pages.dev/furusato-tax-arashiyama-hozugawa-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
     type: 'article',
     locale: 'ja_JP',
@@ -41,7 +41,7 @@ export default function Page() {
     },
     "datePublished": "",
     "dateModified": "",
-    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-arashiyama-hozugawa-autumn-stay"
+    "mainEntityOfPage": "https://croud-travel.pages.dev/furusato-tax-arashiyama-hozugawa-autumn-stay/"
   };
 
   const faqSchema = {
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"名勝「嵐山・渡月橋」と保津川下り紅葉＆嵯峨野竹林の小径・嵐山温泉の湯浴みと本格京懐石 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-arashiyama-hozugawa-autumn-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"名勝「嵐山・渡月橋」と保津川下り紅葉＆嵯峨野竹林の小径・嵐山温泉の湯浴みと本格京懐石 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-arashiyama-hozugawa-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

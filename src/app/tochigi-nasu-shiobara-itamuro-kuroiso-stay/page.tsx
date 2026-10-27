@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: '栃木・那須塩原＆板室・黒磯：茶臼岳・板室立ち湯＆黒磯カフェ・那須牛宿 厳選ガイド',
     description: '噴煙たなびく那須連山の主峰「茶臼岳ロープウェイ」、九尾の狐伝説が眠る「殺生石」、平安時代開湯・杖いらずの下野薬湯「板室温泉」の深型立ち湯、若者に人気の黒磯駅前SHOZOカフェストリート、とろける極上「那須黒毛和牛」ステーキ宿を徹底解説。',
     type: 'article',
-    url: 'https://croud-travel.pages.dev/tochigi-nasu-shiobara-itamuro-kuroiso-stay',
+    url: 'https://croud-travel.pages.dev/tochigi-nasu-shiobara-itamuro-kuroiso-stay/',
   },
 };
 

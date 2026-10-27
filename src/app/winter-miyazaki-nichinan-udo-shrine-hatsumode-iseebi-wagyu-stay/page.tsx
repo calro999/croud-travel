@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '11・12・1月宮崎日南：名物伊勢海老！名宿5選',
     description: '冬の宮崎・日南海岸エリアは、紺碧の太平洋が広がる温暖な気候のもと、奇岩怪石の断崖洞窟に鎮座する霊場「鵜戸神宮」が新春開運の初詣祈願と運玉投げ。',
-    url: 'https://croud-travel.pages.dev/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay',
+    url: 'https://croud-travel.pages.dev/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay/',
     type: 'article',
     images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/51210/51210.jpg' , alt: "11・12・1月宮崎日南：名物伊勢海老！名宿5選"}]
   }
@@ -150,7 +150,7 @@ export default function MiyazakiNichinanWinterPage() {
       {
         "@type": "WebPage",
         "@id": "https://croud-travel.pages.dev/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay#webpage",
-        "url": "https://croud-travel.pages.dev/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay",
+        "url": "https://croud-travel.pages.dev/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay/",
         "name": "【11・12・1月宮崎日南】冬の鵜戸神宮新春開運初詣＆日南海岸絶景ドライブ！名物伊勢海老・極上宮崎牛と日南温泉名宿5選",
         "description": "冬の宮崎・日南海岸エリアは、紺碧の太平洋が広がる温暖な気候のもと、奇岩怪石の断崖洞窟に鎮座する霊場「鵜戸神宮」が新春開運の初詣祈願と運玉投げで賑わう絶景の地。鬼の洗濯板やフェニックス並木が続く日南フェニックスロードの爽快ドライブ、九州の小京都・飫肥城下町の風情、冬に最盛期を迎える日南名物「伊勢海老」尽くしや日本一の「宮崎牛」に舌鼓を打ち、美肌の天然温泉宿で寛ぐ大人の冬旅。楽天APIから最新取得した日南・南郷・青島の信頼の名宿5選を徹底特集します。",
         "inLanguage": "ja",
@@ -174,13 +174,13 @@ export default function MiyazakiNichinanWinterPage() {
             "@type": "ListItem",
             "position": 2,
             "name": "特集一覧",
-            "item": "https://croud-travel.pages.dev/features"
+            "item": "https://croud-travel.pages.dev/features/"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "鵜戸神宮初詣＆日南伊勢海老名宿",
-            "item": "https://croud-travel.pages.dev/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay"
+            "item": "https://croud-travel.pages.dev/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay/"
           }
         ]
       },
@@ -273,7 +273,7 @@ export default function MiyazakiNichinanWinterPage() {
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-orange-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-orange-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-orange-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">冬の日南海岸・鵜戸神宮初詣＆伊勢海老特集</li>
         </ol>
@@ -585,28 +585,28 @@ export default function MiyazakiNichinanWinterPage() {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
-              href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay"
+              href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-orange-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【宮崎・青島】青島神社初詣＆鬼の洗濯板！美肌温泉リゾート名宿</span>
               <span className="text-xs text-slate-500">青島海岸の絶景オーシャンビューと伊勢海老・宮崎牛の贅</span>
             </Link>
             <Link 
-              href="/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay"
+              href="/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-orange-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【鹿児島・指宿温泉】天然砂むし温泉＆開聞岳絶景！黒豚名宿</span>
               <span className="text-xs text-slate-500">波打ち際の天然砂むし温泉でデトックス、冬の極上かごしま黒豚</span>
             </Link>
             <Link 
-              href="/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay"
+              href="/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-orange-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【福岡・宗像】宗像大社世界遺産新春初詣＆玄界灘天然とらふぐ名宿</span>
               <span className="text-xs text-slate-500">神郡の開運パワースポットと冬の極上天然とらふぐ会席</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-orange-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>

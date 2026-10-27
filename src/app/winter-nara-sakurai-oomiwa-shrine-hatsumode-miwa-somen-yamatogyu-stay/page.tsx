@@ -82,7 +82,7 @@ export default function Page() {
           "@type": "ListItem",
           "position": 2,
           "name": "冬の厳選特集",
-          "item": "https://croud-travel.pages.dev/features"
+          "item": "https://croud-travel.pages.dev/features/"
         },
         {
           "@type": "ListItem",
@@ -186,7 +186,7 @@ export default function Page() {
                 TOP
               </Link>
               <ChevronRight className="w-3 h-3 text-cyan-400" />
-              <Link href="/features" className="text-cyan-200 hover:text-white transition-colors">
+              <Link href="/features/" className="text-cyan-200 hover:text-white transition-colors">
                 冬の厳選特集
               </Link>
               <ChevronRight className="w-3 h-3 text-cyan-400" />
@@ -758,47 +758,47 @@ export default function Page() {
                 </Link>
               </li>
               <li>
-                <Link href="/features" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+                <Link href="/features/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                   <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                   <span>全国の季節・目的別旅行特集一覧</span>
                 </Link>
               </li>
 
             <li>
-              <Link href="/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+              <Link href="/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                 <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                 <span>【長谷寺・冬牡丹と三輪明神初詣】大和牛すき焼き名宿</span>
               </Link>
             </li>
 
             <li>
-              <Link href="/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+              <Link href="/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                 <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                 <span>【橿原神宮・新春開運初詣と明日香村】飛鳥鍋と大和牛名宿</span>
               </Link>
             </li>
 
             <li>
-              <Link href="/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+              <Link href="/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                 <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                 <span>【奈良公園・春日大社初詣と東大寺】冬の古都名宿</span>
               </Link>
             </li>
 
             <li>
-              <Link href="/winter-nara-shigisan-chogosonshiji-hatsumode-onsen-yamatogyu-stay" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+              <Link href="/winter-nara-shigisan-chogosonshiji-hatsumode-onsen-yamatogyu-stay/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                 <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                 <span>【信貴山朝護孫子寺・福寅初詣】信貴山温泉と大和牛名宿</span>
               </Link>
             </li>
               <li>
-                <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+                <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                   <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                   <span>実質2,000円で泊まる名湯・高級温泉旅館ガイド</span>
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-local-gourmet-inn-stay" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+                <Link href="/furusato-tax-local-gourmet-inn-stay/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                   <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                   <span>ご当地グルメを堪能する全国美食旅特集</span>
                 </Link>

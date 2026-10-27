@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '秋田駅前出張・天然温泉サウナ：秋田新幹線こまち・中通温泉こまちの湯・比内地鶏＆きりたんぽ！美酒王国の厳選3宿',
     description: '秋田新幹線「こまち」終点！最上階天然温泉露天風呂とサウナ・名物だまこ汁朝食が自慢の「ドーミーイン秋田」、駅前徒歩約3分でハイクラスな客室設備と広々デスクの「ダイワロイネットホテル秋田駅前」、大町繁華街近くで快適ステイの「クインテッサホテル秋田」を徹底比較。',
-    url: 'https://croud-travel.pages.dev/akita-station-solo-business-onsen-sauna-stay',
+    url: 'https://croud-travel.pages.dev/akita-station-solo-business-onsen-sauna-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
     locale: 'ja_JP',
     type: 'article',
@@ -39,7 +39,7 @@ export default function ArticlePage() {
     },
     datePublished: '2026-10-18T00:00:00+09:00',
     dateModified: '2026-10-19T00:00:00+09:00',
-    mainEntityOfPage: 'https://croud-travel.pages.dev/akita-station-solo-business-onsen-sauna-stay',
+    mainEntityOfPage: 'https://croud-travel.pages.dev/akita-station-solo-business-onsen-sauna-stay/',
   };
 
 
@@ -51,7 +51,7 @@ export default function ArticlePage() {
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features"},{"@type":"ListItem","position":3,"name":"【秋田駅前出張・天然温泉サウナ】秋田新幹線こまち・中通温泉こまちの湯・比内地鶏＆きりたんぽ！美酒王国の厳選3宿","item":"https://croud-travel.pages.dev/akita-station-solo-business-onsen-sauna-stay"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"【秋田駅前出張・天然温泉サウナ】秋田新幹線こまち・中通温泉こまちの湯・比内地鶏＆きりたんぽ！美酒王国の厳選3宿","item":"https://croud-travel.pages.dev/akita-station-solo-business-onsen-sauna-stay/"}]}) }}
       />
       <script
         type="application/ld+json"
