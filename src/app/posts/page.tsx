@@ -84,9 +84,9 @@ export default function PostsIndexPage() {
         </p>
       </div>
 
-      {/* 検索・絞り込み＆記事一覧 */}
+      {/* 検索・絞り込み＆記事一覧（初期36件を高速SSR、以降はオンデマンド展開でCore Web Vitalsを最適化） */}
       <div className="space-y-6">
-        <PostListClient initialPosts={slimPosts} />
+        <PostListClient initialPosts={slimPosts.slice(0, 36)} />
       </div>
     </div>
   );

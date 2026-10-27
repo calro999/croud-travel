@@ -20,8 +20,36 @@ export const metadata: Metadata = {
 };
 
 export default function PrefecturesIndexPage() {
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
+
+  const jsonLdBreadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "ホーム", "item": `${baseUrl}/` },
+      { "@type": "ListItem", "position": 2, "name": "47都道府県の観光ガイド＆厳選宿ハブ", "item": `${baseUrl}/prefectures/` }
+    ]
+  };
+
+  const jsonLdItemList = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "日本全国47都道府県の観光名所・グルメ・厳選宿ガイド",
+    "numberOfItems": PREFECTURES_DATA.length,
+    "itemListElement": PREFECTURES_DATA.map((pref, idx) => ({
+      "@type": "ListItem",
+      "position": idx + 1,
+      "name": pref.name,
+      "url": `${baseUrl}/prefectures/${pref.slug}/`
+    }))
+  };
+
   return (
     <div className="space-y-10 max-w-5xl mx-auto">
+      {/* 構造化データ JSON-LD */}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdItemList) }} />
+
       {/* パンくずリスト */}
       <nav aria-label="Breadcrumb" className="text-xs font-bold text-teal-900/60 flex items-center gap-2">
         <Link href="/" className="hover:text-teal-800 transition">ホーム</Link>
