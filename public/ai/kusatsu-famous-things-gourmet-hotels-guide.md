@@ -1,5 +1,5 @@
 ---
-title: "【群馬・吾妻】日本一の名湯 草津温泉おすすめ名宿セレクションの宿泊記＆口コミ評判｜心とからだにやすらぎを提供します・客室・朝食・アクセス（目安¥9,900〜）"
+title: "【群馬・吾妻】日本一の名湯 草津温泉おすすめ名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/kusatsu-famous-things-gourmet-hotels-guide/"
 hotel_name: "日本一の名湯 草津温泉おすすめ名宿セレクション"
 prefecture: "群馬県"
@@ -10,7 +10,7 @@ review_count: 5033
 last_modified: "2026-10-18"
 ---
 
-# 【群馬・吾妻】日本一の名湯 草津温泉おすすめ名宿セレクションの宿泊記＆口コミ評判｜心とからだにやすらぎを提供します・客室・朝食・アクセス（目安¥9,900〜）
+# 【群馬・吾妻】日本一の名湯 草津温泉おすすめ名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/kusatsu-famous-things-gourmet-hotels-guide/
 - **宿泊施設・特集名**: 日本一の名湯 草津温泉おすすめ名宿セレクション

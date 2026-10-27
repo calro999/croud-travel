@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '朝日と海の絶景インフィニティ温泉！淡路島の全室オーシャンビュー名門宿＆極上淡路牛・天然鯛会席×ふるさと納税極上旅ガイドホテルニューアワジ・夢海游・グランシャリオ',
+  title: "朝日と海の絶景インフィニティ温泉",
   description: '御食国（みけつくに）の豊かな美味と大阪湾・紀淡海峡のパノラマ！兵庫県淡路島。「ホテルニューアワジ」「夢海游 淡路島」「GRAND CHARIOT 北斗七星135°」を、兵庫県洲本市・淡路市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。棚田状インフィニティ露天風呂、極上淡路牛ステーキ、天然鯛・鱧会席を満喫。',
   keywords: ["極上淡路牛", "2026年最新", "ホテルニューアワジ", "夢海游", "グランシャリオ", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-awajishima-ocean-view-luxury-stay/",
   },
   openGraph: {
-    title: '朝日と海の絶景インフィニティ温泉！淡路島の全室オーシャンビュー名門宿＆極上淡路牛・天然鯛会席×ふるさと納税極上旅ガイドホテルニューアワジ・夢海游・グランシャリオ',
+    title: "朝日と海の絶景インフィニティ温泉",
     description: '御食国（みけつくに）の豊かな美味と大阪湾・紀淡海峡のパノラマ！兵庫県淡路島。「ホテルニューアワジ」「夢海游 淡路島」「GRAND CHARIOT 北斗七星135°」を、兵庫県洲本市・淡路市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。棚田状インフィニティ露天風呂、極上淡路牛ステーキ、天然鯛・鱧会席を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-awajishima-ocean-view-luxury-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',

@@ -414,7 +414,7 @@ export default function AutumnBudgetMitoHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,150〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2099/2099_sb.jpg" alt="ホテルシーズン 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2099/2099_sb.jpg" alt="ホテルシーズン 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>まんが(10,000冊)にかこまれたホテル　コンビニ目の前</p>
                   <p><strong>【所在地・アクセス】</strong>〒 茨城県水戸市桜川1-9-6 ／ 最寄り駅：水戸 ／ 交通案内：JR水戸駅南口より徒歩約7分／常磐道・水戸IC約20分／北関東道・水戸南IC約15分／駐車場有料（先着順・30台）</p>

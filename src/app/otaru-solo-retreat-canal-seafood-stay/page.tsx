@@ -144,7 +144,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/76876/76876.jpg"
                   alt="天然温泉　灯の湯　ドーミーインＰＲＥＭＩＵＭ小樽（リニューアルオープン） 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">

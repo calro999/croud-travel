@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '蔵王温泉をふるさと納税でお得に旅する！日本屈指の強酸性白濁硫黄泉＆山形牛！名門名湯宿特集｜深山荘高見屋・蔵王国際ホテル・蔵王四季のホテル',
+  title: "蔵王温泉をふるさと納税でお得に旅する！日本屈指の強酸性白濁硫黄泉＆山形牛！名門名湯宿特集",
   description: '開湯千九百年・蔵王連峰の雄大な自然に抱かれる山形県蔵王温泉を楽天ふるさと納税でお得に満喫！享保年間創業三百年余の最高峰「深山荘 高見屋」、木の温もりあふれる八右衛門の湯「蔵王国際ホテル」、白樺林の離れ湯「蔵王四季のホテル」を徹底比較。大露天風呂や山形牛すき焼き、山形市トラベルクーポン活用術を網羅。',
   keywords: '蔵王温泉 ふるさと納税,深山荘 高見屋 クーポン,蔵王国際ホテル ふるさと納税,蔵王四季のホテル 宿泊,山形市 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-zao-onsen-acid-sulfur-stay/",
   },
   openGraph: {
-    title: '蔵王温泉をふるさと納税でお得に旅する！日本屈指の強酸性白濁硫黄泉＆山形牛！名門名湯宿特集｜深山荘高見屋・蔵王国際ホテル・蔵王四季のホテル',
+    title: "蔵王温泉をふるさと納税でお得に旅する！日本屈指の強酸性白濁硫黄泉＆山形牛！名門名湯宿特集",
     description: '開湯千九百年・蔵王連峰の雄大な自然に抱かれる山形県蔵王温泉を楽天ふるさと納税でお得に満喫！享保年間創業三百年余の最高峰「深山荘 高見屋」、木の温もりあふれる八右衛門の湯「蔵王国際ホテル」、白樺林の離れ湯「蔵王四季のホテル」を徹底比較。大露天風呂や山形牛すき焼き、山形市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-zao-onsen-acid-sulfur-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -148,7 +148,7 @@ export default function FurusatoArticlePage() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/38534/38534.jpg"
                 alt="深山荘　高見屋"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
               <div className="absolute top-4 left-4 bg-stone-900/80 backdrop-blur-sm text-white text-xs px-3 py-1.5 rounded-full font-semibold">
                 第1選

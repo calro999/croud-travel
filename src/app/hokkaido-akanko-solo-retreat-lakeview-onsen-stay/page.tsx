@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-akanko-solo-retreat-lakeview-onsen-stay/" },
-  title: '阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり：全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席！道東国立公園厳選3宿',
+  title: "阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり：全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席",
   description: '特別天然記念物マリモが生息する神秘の湖・阿寒湖温泉！全室客室露天風呂と最高峰のおもてなしを誇る隠れ宿「あかん鶴雅別荘 鄙の座」、阿寒湖と一体になる空中露天風呂が圧巻の「あかん遊久の里 鶴雅」、自然とアートが調和する「THE FOREST 阿寒 TSURUGA RESORT」を楽天API最新データに基づき徹底比較。',
   keywords: '阿寒湖温泉 一人旅 宿,阿寒湖 ホテル 一人 温泉,鄙の座 阿寒湖,遊久の里鶴雅,THE FOREST阿寒,阿寒湖 ひとり旅 おこもり',
   openGraph: {
-    title: '阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり：全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席！道東国立公園厳選3宿',
+    title: "阿寒摩周・阿寒湖温泉ひとり旅・雄阿寒岳とマリモおこもり：全室温泉露天風呂・アイヌコタン木彫り文化・オホーツク会席",
     description: '特別天然記念物マリモが生息する神秘の湖・阿寒湖温泉！全室客室露天風呂と最高峰のおもてなしを誇る隠れ宿「あかん鶴雅別荘 鄙の座」、阿寒湖と一体になる空中露天風呂が圧巻の「あかん遊久の里 鶴雅」、自然とアートが調和する「THE FOREST 阿寒 TSURUGA RESORT」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/hokkaido-akanko-solo-retreat-lakeview-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -132,7 +132,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/37362/37362.jpg"
                   alt="阿寒湖温泉　あかん鶴雅別荘鄙の座 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

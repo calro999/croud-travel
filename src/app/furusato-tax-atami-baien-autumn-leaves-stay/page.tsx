@@ -163,7 +163,7 @@ export default function FeatureArticlePage() {
                 src={HOTEL_DATA.atami_furuya.img}
                 alt={HOTEL_DATA.atami_furuya.name}
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
             </div>
 

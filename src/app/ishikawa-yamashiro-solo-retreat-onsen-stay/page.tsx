@@ -132,7 +132,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/7955/7955.jpg"
                   alt="山代温泉　料理自慢の宿　ホテルききょう 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

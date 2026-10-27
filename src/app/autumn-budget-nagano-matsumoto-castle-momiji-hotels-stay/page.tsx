@@ -414,7 +414,7 @@ export default function AutumnBudgetMatsumotoHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,500〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1599/1599_twn.jpg" alt="ビジネスホテル鶴 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1599/1599_twn.jpg" alt="ビジネスホテル鶴 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>出水市の中心部で川添いの静かなホテルです。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 鹿児島県出水市昭和町24-15 ／ 最寄り駅：出水 ／ 交通案内：ＪＲ出水駅より徒歩５分／南九州西回り自動車道出水ＩＣより車で１０分/鹿児島空港より車で６０分</p>

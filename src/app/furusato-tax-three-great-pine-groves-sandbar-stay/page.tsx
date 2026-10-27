@@ -636,7 +636,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥18,700〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76913/76913_to.jpg" alt="天橋立温泉　和のリゾート　文珠荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76913/76913_to.jpg" alt="天橋立温泉　和のリゾート　文珠荘 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本三景天橋立の運河に佇む宿。2023年春サウナ付大浴場誕生。新しい和のリゾートをお楽しみください。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 京都府宮津市字文珠510 ／ 最寄り駅：天橋立 ／ 交通案内：京都丹後鉄道　天橋立駅より徒歩3分</p>

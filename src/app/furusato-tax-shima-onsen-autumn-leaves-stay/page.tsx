@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/76361/76361.jpg"
                         alt="四万温泉　積善館　佳松亭・山荘"
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

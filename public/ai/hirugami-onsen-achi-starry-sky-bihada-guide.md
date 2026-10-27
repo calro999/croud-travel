@@ -1,5 +1,5 @@
 ---
-title: "【長野・下伊那】昼神温泉　癒楽（ゆら）の宿　清風苑の宿泊記＆口コミ評判｜【2025年楽天トラベルブロンズアワード受賞】・日本一の星空・客室・朝食・アクセス（目安¥15,000〜）"
+title: "【長野・下伊那】昼神温泉　癒楽（ゆら）の宿　清風苑の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/hirugami-onsen-achi-starry-sky-bihada-guide/"
 hotel_name: "昼神温泉　癒楽（ゆら）の宿　清風苑"
 prefecture: "長野県"
@@ -10,7 +10,7 @@ review_count: 1377
 last_modified: "2026-10-18"
 ---
 
-# 【長野・下伊那】昼神温泉　癒楽（ゆら）の宿　清風苑の宿泊記＆口コミ評判｜【2025年楽天トラベルブロンズアワード受賞】・日本一の星空・客室・朝食・アクセス（目安¥15,000〜）
+# 【長野・下伊那】昼神温泉　癒楽（ゆら）の宿　清風苑の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/hirugami-onsen-achi-starry-sky-bihada-guide/
 - **宿泊施設・特集名**: 昼神温泉　癒楽（ゆら）の宿　清風苑

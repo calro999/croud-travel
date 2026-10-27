@@ -651,7 +651,7 @@ export default function FurusatoTaxPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥24,420〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31865/31865_he.jpg" alt="修善寺温泉　国の登録文化財の宿　新井旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31865/31865_he.jpg" alt="修善寺温泉　国の登録文化財の宿　新井旅館 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利です</p>
                   <p><strong>【所在地・アクセス】</strong>〒 静岡県伊豆市修善寺970 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分</p>

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/iwate-morioka-tsunagi-solo-retreat-onsen-stay/" },
-  title: '盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり：源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿',
+  title: "盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり：源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化",
   description: '開湯900年、源義家が愛馬を繋いで湯浴みした伝説の湯・盛岡つなぎ温泉！源泉かけ流しの美肌硫黄泉と女将の手作り郷土料理が温かい「旅染屋 山いち」、御所湖の眺望と良心的な価格でくつろげる「清温荘」、気兼ねない素泊まり・ワーケーションにも最適な「旅やど」を楽天API最新データに基づき徹底比較。',
   keywords: 'つなぎ温泉 一人旅 宿,盛岡 つなぎ温泉 ホテル 一人,山いち つなぎ温泉,清温荘 盛岡,旅やど つなぎ温泉,盛岡 ひとり旅 おこもり',
   openGraph: {
-    title: '盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり：源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化！新幹線盛岡駅25分の名湯厳選3宿',
+    title: "盛岡つなぎ温泉ひとり旅・御所湖畔と岩手山おこもり：源泉かけ流し単純硫黄泉・前沢牛＆盛岡冷麺・南部鉄器文化",
     description: '開湯900年、源義家が愛馬を繋いで湯浴みした伝説の湯・盛岡つなぎ温泉！源泉かけ流しの美肌硫黄泉と女将の手作り郷土料理が温かい「旅染屋 山いち」、御所湖の眺望と良心的な価格でくつろげる「清温荘」、気兼ねない素泊まり・ワーケーションにも最適な「旅やど」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/iwate-morioka-tsunagi-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -132,7 +132,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/31689/31689.jpg"
                   alt="盛岡つなぎ温泉　旅染屋　山いち 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

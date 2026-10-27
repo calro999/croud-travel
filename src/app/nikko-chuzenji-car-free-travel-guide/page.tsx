@@ -409,7 +409,7 @@ export default function NikkoChuzenjiCarFreeTravelGuidePage() {
                           src={hotel.hotelImageUrl}
                           alt={hotel.hotelName}
                           className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                        loading="lazy" decoding="async" />
+                        loading="eager" fetchPriority="high" decoding="async" />
                       ) : (
                         <div className="w-full h-full flex items-center justify-center text-slate-400 text-sm font-bold">
                           NO IMAGE

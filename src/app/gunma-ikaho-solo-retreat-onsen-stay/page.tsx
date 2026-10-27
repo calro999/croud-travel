@@ -132,7 +132,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/10737/10737.jpg"
                   alt="伊香保温泉　和心の宿　大森 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

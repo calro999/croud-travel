@@ -1,5 +1,5 @@
 ---
-title: "【愛媛・松山市】道後温泉 ふなやの温泉・露天風呂＆泉質ガイド｜文人ゆかりの宿・道後一の老舗・日本庭園には"
+title: "【愛媛・松山市】道後温泉 ふなやの温泉・露天風呂＆泉質ガイド｜文人ゆかりの宿・道後一の老舗・日本庭園徹底ガイド"
 url: "https://croud-travel.pages.dev/posts/autumn-shikoku-ehime-mikan-gourmet-guide/"
 hotel_name: "道後温泉 ふなや"
 prefecture: "愛媛県"
@@ -10,7 +10,7 @@ review_count: 2054
 last_modified: "2026-10-18"
 ---
 
-# 【愛媛・松山市】道後温泉 ふなやの温泉・露天風呂＆泉質ガイド｜文人ゆかりの宿・道後一の老舗・日本庭園には
+# 【愛媛・松山市】道後温泉 ふなやの温泉・露天風呂＆泉質ガイド｜文人ゆかりの宿・道後一の老舗・日本庭園徹底ガイド
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-shikoku-ehime-mikan-gourmet-guide/
 - **宿泊施設・特集名**: 道後温泉 ふなや

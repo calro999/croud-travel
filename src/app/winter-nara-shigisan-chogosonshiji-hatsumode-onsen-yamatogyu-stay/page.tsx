@@ -14,13 +14,13 @@ import {
 } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "聖徳太子開創の霊峰・信貴山朝護孫子寺と世界一の福寅：2026-2027年冬の奈良・生駒＆信貴山！信貴山温泉と大和牛・ぼたん鍋名宿5選",
+  title: "聖徳太子開創の霊峰・信貴山朝護孫子寺と世界一の福寅：2026-2027年冬の奈良・生駒＆信貴山",
   description: "巨大な張子の寅が迎える毘沙門天総本山「信貴山朝護孫子寺」の新春開運初詣！登録有形文化財「開運橋」の冬景色と信貴山温泉のぬくもり、滋味あふれる猪鹿ぼたん鍋と奈良が誇る最高峰「大和牛」すき焼きに満たされる大和路の隠れ家名宿5選。",
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nara-shigisan-chogosonshiji-hatsumode-onsen-yamatogyu-stay/",
   },
   openGraph: {
-    title: "聖徳太子開創の霊峰・信貴山朝護孫子寺と世界一の福寅：2026-2027年冬の奈良・生駒＆信貴山！信貴山温泉と大和牛・ぼたん鍋名宿5選",
+    title: "聖徳太子開創の霊峰・信貴山朝護孫子寺と世界一の福寅：2026-2027年冬の奈良・生駒＆信貴山",
     description: "巨大な張子の寅が迎える毘沙門天総本山「信貴山朝護孫子寺」の新春開運初詣！登録有形文化財「開運橋」の冬景色と信貴山温泉のぬくもり、滋味あふれる猪鹿ぼたん鍋と奈良が誇る最高峰「大和牛」すき焼きに満たされる大和路の隠れ家名宿5選。",
     url: "https://croud-travel.pages.dev/winter-nara-shigisan-chogosonshiji-hatsumode-onsen-yamatogyu-stay/",
     siteName: "日本全国・旅宿クラウド",
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "聖徳太子開創の霊峰・信貴山朝護孫子寺と世界一の福寅：2026-2027年冬の奈良・生駒＆信貴山！信貴山温泉と大和牛・ぼたん鍋名宿5選",
+    title: "聖徳太子開創の霊峰・信貴山朝護孫子寺と世界一の福寅：2026-2027年冬の奈良・生駒＆信貴山",
     description: "巨大な張子の寅が迎える毘沙門天総本山「信貴山朝護孫子寺」の新春開運初詣！登録有形文化財「開運橋」の冬景色と信貴山温泉のぬくもり、滋味あふれる猪鹿ぼたん鍋と奈良が誇る最高峰「大和牛」すき焼きに満たされる大和路の隠れ家名宿5選。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/105993/105993.jpg"],
   },
@@ -301,7 +301,7 @@ export default function FeaturePage() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/190104_Chogosonshiji_Heguri_Nara_pref_Japan01s3.jpg/1280px-190104_Chogosonshiji_Heguri_Nara_pref_Japan01s3.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="毘沙門天王総本山・信貴山朝護孫子寺（世界一の福寅と登録有形文化財開運橋）"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
                 <div className="absolute top-3 left-3 bg-cyan-600/90 text-white text-[10px] font-bold px-2 py-0.5 rounded">
                   名所アーカイブ

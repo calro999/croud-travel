@@ -1,5 +1,5 @@
 ---
-title: "【新潟・南魚沼】越後湯沢駅近＆魚沼コシヒカリ地酒名宿セレクションの宿泊記＆口コミ評判｜楽天シルバーアワード3年連続受賞・湯沢旅館部門売上1位・客室・朝食・アクセス（目安¥9,680〜）"
+title: "【新潟・南魚沼】越後湯沢駅近＆魚沼コシヒカリ地酒名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/echigoyuzawa-famous-things-gourmet-hotels-guide/"
 hotel_name: "越後湯沢駅近＆魚沼コシヒカリ地酒名宿セレクション"
 prefecture: "新潟県"
@@ -10,7 +10,7 @@ review_count: 2522
 last_modified: "2026-10-18"
 ---
 
-# 【新潟・南魚沼】越後湯沢駅近＆魚沼コシヒカリ地酒名宿セレクションの宿泊記＆口コミ評判｜楽天シルバーアワード3年連続受賞・湯沢旅館部門売上1位・客室・朝食・アクセス（目安¥9,680〜）
+# 【新潟・南魚沼】越後湯沢駅近＆魚沼コシヒカリ地酒名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/echigoyuzawa-famous-things-gourmet-hotels-guide/
 - **宿泊施設・特集名**: 越後湯沢駅近＆魚沼コシヒカリ地酒名宿セレクション

@@ -185,7 +185,7 @@ export default function HakoneBudgetGuidePage() {
               <article key={hotel.hotelNo} className="bg-white rounded-2xl overflow-hidden shadow-sm border border-slate-200 hover:border-orange-300 transition flex flex-col group">
                 <div className="aspect-[16/9] sm:aspect-[21/9] relative overflow-hidden bg-slate-100">
                   {hotel.hotelImageUrl && (
-                    <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="eager" fetchPriority="high" />
                   )}
                   {hotel.hotelMinCharge > 0 && (
                     <span className="absolute bottom-2 left-2 text-[11px] font-black bg-white/90 text-slate-900 px-2 py-1 rounded shadow">

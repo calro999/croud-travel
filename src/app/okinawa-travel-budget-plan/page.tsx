@@ -207,7 +207,7 @@ export default function OkinawaTravelBudgetPage() {
               <div key={hotel.hotelNo} className="bg-white rounded-2xl shadow-sm border border-stone-200 overflow-hidden flex flex-col">
                 <div className="aspect-[16/9] relative">
                   {hotel.hotelImageUrl ? (
-                    <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover" loading="lazy" />
+                    <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover" loading="eager" fetchPriority="high" />
                   ) : (
                     <div className="w-full h-full bg-stone-100 flex items-center justify-center text-stone-400">NO IMAGE</div>
                   )}

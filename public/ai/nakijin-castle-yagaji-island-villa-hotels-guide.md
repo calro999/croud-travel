@@ -1,5 +1,5 @@
 ---
-title: "【沖縄・国頭】今帰仁＆屋我地島 世界遺産城跡＆オーシャンヴィラセレクションの宿泊記＆口コミ評判｜【楽天トラベル・客室・朝食・アクセス（目安¥26,400〜）"
+title: "【沖縄・国頭】今帰仁＆屋我地島 世界遺産城跡＆オーシャンヴィラセレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/nakijin-castle-yagaji-island-villa-hotels-guide/"
 hotel_name: "今帰仁＆屋我地島 世界遺産城跡＆オーシャンヴィラセレクション"
 prefecture: "沖縄県"
@@ -10,7 +10,7 @@ review_count: 970
 last_modified: "2026-10-18"
 ---
 
-# 【沖縄・国頭】今帰仁＆屋我地島 世界遺産城跡＆オーシャンヴィラセレクションの宿泊記＆口コミ評判｜【楽天トラベル・客室・朝食・アクセス（目安¥26,400〜）
+# 【沖縄・国頭】今帰仁＆屋我地島 世界遺産城跡＆オーシャンヴィラセレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/nakijin-castle-yagaji-island-villa-hotels-guide/
 - **宿泊施設・特集名**: 今帰仁＆屋我地島 世界遺産城跡＆オーシャンヴィラセレクション

@@ -194,7 +194,7 @@ export default function FurusatoFujiKawaguchikoAutumnLeavesStayPage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/2946/2946.jpg"
                         alt="富士河口湖温泉　富士山の見える温泉旅館　大池ホテル"
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/1037/1037.jpg"
                         alt="定山渓温泉　ぬくもりの宿　ふる川"
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

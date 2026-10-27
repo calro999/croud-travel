@@ -171,7 +171,7 @@ export default function Page() {
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Misasa_onsen_kawaranoyu_202106.jpg/1280px-Misasa_onsen_kawaranoyu_202106.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                 alt="三朝温泉"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
             </div>
 

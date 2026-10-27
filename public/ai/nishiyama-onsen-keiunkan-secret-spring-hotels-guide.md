@@ -1,5 +1,5 @@
 ---
-title: "【山梨・南巨摩】西山温泉 世界最古の宿＆南アルプス秘湯セレクションの宿泊記＆口コミ評判｜２０２６年３月リニューアル・日本随一の湯量・客室・朝食・アクセス（目安¥27,500〜）"
+title: "【山梨・南巨摩】西山温泉 世界最古の宿＆南アルプス秘湯セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/nishiyama-onsen-keiunkan-secret-spring-hotels-guide/"
 hotel_name: "西山温泉 世界最古の宿＆南アルプス秘湯セレクション"
 prefecture: "山梨県"
@@ -10,7 +10,7 @@ review_count: 799
 last_modified: "2026-10-18"
 ---
 
-# 【山梨・南巨摩】西山温泉 世界最古の宿＆南アルプス秘湯セレクションの宿泊記＆口コミ評判｜２０２６年３月リニューアル・日本随一の湯量・客室・朝食・アクセス（目安¥27,500〜）
+# 【山梨・南巨摩】西山温泉 世界最古の宿＆南アルプス秘湯セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/nishiyama-onsen-keiunkan-secret-spring-hotels-guide/
 - **宿泊施設・特集名**: 西山温泉 世界最古の宿＆南アルプス秘湯セレクション

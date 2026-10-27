@@ -143,7 +143,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/197927/197927.jpg"
                   alt="天然温泉　越前の湯　御宿　野乃福井（ＯＰＥＮ） 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

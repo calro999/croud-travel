@@ -181,7 +181,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/5933/5933.jpg"
                 alt="木曽福島温泉 山みず季 URARA つたやの外観・温泉風景"
                 className="w-full h-full object-cover"
-              loading="lazy" decoding="async" />
+              loading="eager" fetchPriority="high" decoding="async" />
             </div>
             <div className="flex flex-col justify-between">
               <div>

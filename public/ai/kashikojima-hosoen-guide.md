@@ -1,5 +1,5 @@
 ---
-title: "【三重・志摩市】賢島宝生苑の宿泊記＆口コミ評判｜志摩スペイン村へはお車で約１５分・客室・朝食・アクセス（目安¥14,500〜）"
+title: "【三重・志摩市】賢島宝生苑の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/kashikojima-hosoen-guide/"
 hotel_name: "賢島宝生苑"
 prefecture: "三重県"
@@ -10,7 +10,7 @@ review_count: 2630
 last_modified: "2026-10-18"
 ---
 
-# 【三重・志摩市】賢島宝生苑の宿泊記＆口コミ評判｜志摩スペイン村へはお車で約１５分・客室・朝食・アクセス（目安¥14,500〜）
+# 【三重・志摩市】賢島宝生苑の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/kashikojima-hosoen-guide/
 - **宿泊施設・特集名**: 賢島宝生苑

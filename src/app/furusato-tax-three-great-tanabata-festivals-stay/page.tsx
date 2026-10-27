@@ -636,7 +636,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,540〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191668/191668.jpg" alt="スーパーホテル仙台駅東口天然温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191668/191668.jpg" alt="スーパーホテル仙台駅東口天然温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【仙台駅徒歩5分の好立地】天然温泉◆無料健康朝食とウェルカムバー◆ぐっすり眠れるホテル◆全館禁煙</p>
                   <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市宮城野区名掛丁203-12 ／ 最寄り駅：仙台 ／ 交通案内：仙台駅東口より徒歩で約５分/北部名掛丁自由通路」を通り出口を出てから徒歩2分/高速バス「仙台駅前」のりばから徒歩5分</p>

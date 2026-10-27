@@ -414,7 +414,7 @@ export default function AutumnBudgetNiigataHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,500〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/73877/73877_sig.jpg" alt="コンフォートホテル新潟駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/73877/73877_sig.jpg" alt="コンフォートホテル新潟駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日替わりスムージーが人気★無料朝食サービスがイチオシのコスパ最強ホテル◆小学6年生まで添い寝無料</p>
                   <p><strong>【所在地・アクセス】</strong>〒 新潟県新潟市中央区弁天3-3-1 ／ 最寄り駅：新潟 ／ 交通案内：上越新幹線「JR新潟駅」徒歩3分◆北陸自動車道「新潟西」、磐越自動車道「新潟中央」約20分◆新潟空港バス約25分</p>

@@ -143,7 +143,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/184280/184280.jpg"
                   alt="天然温泉　吉備の湯　ドーミーイン岡山（ドーミーイン・御宿野乃　ホテルズグループ） 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

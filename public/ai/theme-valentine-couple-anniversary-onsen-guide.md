@@ -1,5 +1,5 @@
 ---
-title: "【神奈川・足柄下】箱根・強羅 佳ら久（オリックスホテルズ＆リゾーツ）の宿泊記＆口コミ評判｜【全室温泉露天風呂付・客室・朝食・アクセス（目安¥48,700〜）"
+title: "【神奈川・足柄下】箱根・強羅 佳ら久（オリックスホテルズ＆リゾーツ）の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/theme-valentine-couple-anniversary-onsen-guide/"
 hotel_name: "箱根・強羅 佳ら久（オリックスホテルズ＆リゾーツ）"
 prefecture: "神奈川県"
@@ -10,7 +10,7 @@ review_count: 124
 last_modified: "2026-10-18"
 ---
 
-# 【神奈川・足柄下】箱根・強羅 佳ら久（オリックスホテルズ＆リゾーツ）の宿泊記＆口コミ評判｜【全室温泉露天風呂付・客室・朝食・アクセス（目安¥48,700〜）
+# 【神奈川・足柄下】箱根・強羅 佳ら久（オリックスホテルズ＆リゾーツ）の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/theme-valentine-couple-anniversary-onsen-guide/
 - **宿泊施設・特集名**: 箱根・強羅 佳ら久（オリックスホテルズ＆リゾーツ）

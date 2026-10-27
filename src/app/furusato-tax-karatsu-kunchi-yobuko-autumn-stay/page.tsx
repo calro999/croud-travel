@@ -181,7 +181,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/52129/52129.jpg"
                 alt="唐津シーサイドホテルの外観・温泉風景"
                 className="w-full h-full object-cover"
-              loading="lazy" decoding="async" />
+              loading="eager" fetchPriority="high" decoding="async" />
             </div>
             <div className="flex flex-col justify-between">
               <div>

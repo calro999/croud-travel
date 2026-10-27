@@ -250,7 +250,7 @@ export default function FeatureDetailPage() {
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/171946/171946.jpg"
                     alt="全室源泉かけ流し温泉付き旅館＆グランピング　美肌の湯　こしかの温泉"
                     className="w-full h-full object-cover"
-                    loading="lazy"
+                    loading="eager" fetchPriority="high"
                   />
                   <div className="absolute top-3 left-3 bg-amber-600 text-white text-xs font-bold px-3 py-1 rounded-full shadow">
                     第 1 位

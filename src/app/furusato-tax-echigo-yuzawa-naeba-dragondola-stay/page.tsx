@@ -525,7 +525,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥11,550〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28757/28757_lg.jpg" alt="越後湯沢温泉　一望千里　御湯宿　中屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28757/28757_lg.jpg" alt="越後湯沢温泉　一望千里　御湯宿　中屋 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【温泉口コミ4.68】源泉かけ流し露天風呂の眺望は絶景。人気の露天風呂付客室で季節の旬の味を堪能！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 新潟県南魚沼郡湯沢町湯沢924 ／ 最寄り駅：越後湯沢 ／ 交通案内：越後湯沢駅西口よりお車で約3分・徒歩約20分／湯沢IC→国道17号線約10分　★駅から送迎あり（要連絡20時迄）</p>

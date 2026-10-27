@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '黒川温泉をふるさと納税でお得に旅する！入湯手形で巡る秘境露天風呂＆極上あか牛美食！里山の名門隠れ家宿厳選ガイド｜山みず木・旅館わかば・山の宿新明館',
+  title: "黒川温泉をふるさと納税でお得に旅する！入湯手形で巡る秘境露天風呂＆極上あか牛美食！里山の名門隠れ家宿厳選ガイド",
   description: '熊本・阿蘇の奥深くに佇む日本屈指の人気温泉地・黒川温泉を楽天ふるさと納税でお得に旅する！「入湯手形」でめぐる風情ある露天風呂、渓流沿いの名門隠れ家「山あいの宿 山みず木」、化粧水風呂と囲炉裏会席の「旅館わかば」、名物洞窟風呂の「山の宿 新明館」を徹底解説。南小国町クーポン活用術を網羅。',
   keywords: '黒川温泉 ふるさと納税,黒川温泉 入湯手形 旅館,山みず木 ふるさと納税,新明館 洞窟風呂,南小国町 ふるさと納税 宿泊',
   openGraph: {
-    title: '黒川温泉をふるさと納税でお得に旅する！入湯手形で巡る秘境露天風呂＆極上あか牛美食！里山の名門隠れ家宿厳選ガイド｜山みず木・旅館わかば・山の宿新明館',
+    title: "黒川温泉をふるさと納税でお得に旅する！入湯手形で巡る秘境露天風呂＆極上あか牛美食！里山の名門隠れ家宿厳選ガイド",
     description: '熊本・阿蘇の奥深くに佇む日本屈指の人気温泉地・黒川温泉を楽天ふるさと納税でお得に旅する！「入湯手形」でめぐる風情ある露天風呂、渓流沿いの名門隠れ家「山あいの宿 山みず木」、化粧水風呂と囲炉裏会席の「旅館わかば」、名物洞窟風呂の「山の宿 新明館」を徹底解説。南小国町クーポン活用術を網羅。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-kurokawa-onsen-nyuto-tegata-stay/',
@@ -132,7 +132,7 @@ export default function FurusatoTaxArticle() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/136864/136864.jpg"
                 alt="黒川温泉　山あいの宿　山みず木"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
               <div className="absolute top-4 left-4 bg-stone-900/80 backdrop-blur-sm text-white text-xs px-3 py-1.5 rounded-full font-semibold">
                 第1選

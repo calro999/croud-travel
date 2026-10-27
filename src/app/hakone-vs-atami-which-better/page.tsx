@@ -250,7 +250,7 @@ export default function HakoneVsAtamiPage() {
               {hotels.map((hotel, idx) => (
                 <div key={idx} className="bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-md transition-shadow border border-slate-200">
                   <div className="h-48 relative">
-                    <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover" loading="lazy" decoding="async" />
+                    <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover" loading="eager" fetchPriority="high" decoding="async" />
                   </div>
                   <div className="p-5">
                     <h3 className="font-bold text-lg mb-2 text-slate-800 line-clamp-2">{hotel.hotelName}</h3>

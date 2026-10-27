@@ -1,5 +1,5 @@
 ---
-title: "【石川・金沢市】金沢湯涌温泉 百楽荘の宿泊記＆口コミ評判｜2022楽天ゴールドアワード＆日本の宿47・客室・朝食・アクセス（目安¥22,066〜）"
+title: "【石川・金沢市】金沢湯涌温泉 百楽荘の宿泊記＆口コミ評判｜2022楽天ゴールドアワード・客室・温泉・朝食徹底ガイド"
 url: "https://croud-travel.pages.dev/posts/autumn-hokuriku-kanazawa-sweet-shrimp-guide/"
 hotel_name: "金沢湯涌温泉 百楽荘"
 prefecture: "石川県"
@@ -10,7 +10,7 @@ review_count: 794
 last_modified: "2026-10-18"
 ---
 
-# 【石川・金沢市】金沢湯涌温泉 百楽荘の宿泊記＆口コミ評判｜2022楽天ゴールドアワード＆日本の宿47・客室・朝食・アクセス（目安¥22,066〜）
+# 【石川・金沢市】金沢湯涌温泉 百楽荘の宿泊記＆口コミ評判｜2022楽天ゴールドアワード・客室・温泉・朝食徹底ガイド
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-hokuriku-kanazawa-sweet-shrimp-guide/
 - **宿泊施設・特集名**: 金沢湯涌温泉 百楽荘

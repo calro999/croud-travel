@@ -636,7 +636,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥10,450〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54556/54556_b1.jpg" alt="南紀勝浦温泉　ホテル浦島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54556/54556_b1.jpg" alt="南紀勝浦温泉　ホテル浦島 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベルゴールドアワード受賞】圧倒的なスケールと開放感！天然洞窟温泉など湯巡りを楽しもう♪</p>
                   <p><strong>【所在地・アクセス】</strong>〒 和歌山県東牟婁郡那智勝浦町勝浦1165-2 ／ 最寄り駅：紀伊勝浦 ／ 交通案内：ＪＲ紀勢線　紀伊勝浦駅から徒歩6分で桟橋へ。更に専用ボート又は、シャトルバスで５分　詳しくは交通案内ページをご覧ください</p>

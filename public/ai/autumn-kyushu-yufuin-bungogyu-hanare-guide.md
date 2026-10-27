@@ -1,5 +1,5 @@
 ---
-title: "【大分・由布市】由布院温泉 ゆふいん月燈庵の宿泊記＆口コミ評判｜【『ももクロさん』出演・楽天トラベルCM・客室・朝食・アクセス（目安¥20,000〜）"
+title: "【大分・由布市】由布院温泉 ゆふいん月燈庵の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-kyushu-yufuin-bungogyu-hanare-guide/"
 hotel_name: "由布院温泉 ゆふいん月燈庵"
 prefecture: "大分県"
@@ -10,7 +10,7 @@ review_count: 172
 last_modified: "2026-10-18"
 ---
 
-# 【大分・由布市】由布院温泉 ゆふいん月燈庵の宿泊記＆口コミ評判｜【『ももクロさん』出演・楽天トラベルCM・客室・朝食・アクセス（目安¥20,000〜）
+# 【大分・由布市】由布院温泉 ゆふいん月燈庵の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-kyushu-yufuin-bungogyu-hanare-guide/
 - **宿泊施設・特集名**: 由布院温泉 ゆふいん月燈庵

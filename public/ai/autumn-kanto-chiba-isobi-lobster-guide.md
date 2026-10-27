@@ -1,5 +1,5 @@
 ---
-title: "【千葉・南房総市】グランドホテル太陽の宿泊記＆口コミ評判｜カニ食べ放題・客室から見おろす太平洋は旅の疲れを癒してくれま・客室・朝食・アクセス（目安¥7,550〜）"
+title: "【千葉・南房総市】グランドホテル太陽の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-kanto-chiba-isobi-lobster-guide/"
 hotel_name: "グランドホテル太陽"
 prefecture: "千葉県"
@@ -10,7 +10,7 @@ review_count: 984
 last_modified: "2026-10-18"
 ---
 
-# 【千葉・南房総市】グランドホテル太陽の宿泊記＆口コミ評判｜カニ食べ放題・客室から見おろす太平洋は旅の疲れを癒してくれま・客室・朝食・アクセス（目安¥7,550〜）
+# 【千葉・南房総市】グランドホテル太陽の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-kanto-chiba-isobi-lobster-guide/
 - **宿泊施設・特集名**: グランドホテル太陽

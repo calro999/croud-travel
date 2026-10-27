@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥7,340〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/139796/139796_huro.jpg" alt="天然温泉　金華の湯　ドーミーイン岐阜駅前（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/139796/139796_huro.jpg" alt="天然温泉　金華の湯　ドーミーイン岐阜駅前（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR岐阜駅前で天然温泉大浴場とサウナ完備。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 岐阜県岐阜市吉野町6-31 ／ 最寄り駅：岐阜 ／ 交通案内：ＪＲ　岐阜駅「中央北口」より徒歩約8分／名鉄岐阜駅より徒歩約10分</p>

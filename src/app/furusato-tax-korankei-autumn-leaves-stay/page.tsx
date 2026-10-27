@@ -181,7 +181,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/7144/7144.jpg"
                 alt="しあわせ隠れ里 猿投温泉 癒しの宿 金泉閣の外観・温泉風景"
                 className="w-full h-full object-cover"
-              loading="lazy" decoding="async" />
+              loading="eager" fetchPriority="high" decoding="async" />
             </div>
             <div className="flex flex-col justify-between">
               <div>

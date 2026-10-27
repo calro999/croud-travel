@@ -1,5 +1,5 @@
 ---
-title: "【京都・京都市】小さなホテル 花いかだの宿泊記＆口コミ評判｜【料亭旅館】嵐山・嵯峨野散策に最適な京都・嵐山温泉の・客室・朝食・アクセス（目安¥23,400〜）"
+title: "【京都・京都市】小さなホテル 花いかだの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-kansai-kyoto-matsutake-guide/"
 hotel_name: "小さなホテル 花いかだ"
 prefecture: "京都府"
@@ -10,7 +10,7 @@ review_count: 255
 last_modified: "2026-10-18"
 ---
 
-# 【京都・京都市】小さなホテル 花いかだの宿泊記＆口コミ評判｜【料亭旅館】嵐山・嵯峨野散策に最適な京都・嵐山温泉の・客室・朝食・アクセス（目安¥23,400〜）
+# 【京都・京都市】小さなホテル 花いかだの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-kansai-kyoto-matsutake-guide/
 - **宿泊施設・特集名**: 小さなホテル 花いかだ

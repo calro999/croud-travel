@@ -400,7 +400,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                           width={600}
                           height={338}
                           className="w-full h-full object-cover"
-                          loading="lazy"
+                          loading="eager" fetchPriority="high"
                           decoding="async"
                         />
                       )}

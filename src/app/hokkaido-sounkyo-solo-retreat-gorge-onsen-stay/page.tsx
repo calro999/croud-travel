@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/hokkaido-sounkyo-solo-retreat-gorge-onsen-stay/" },
-  title: '大雪山・層雲峡温泉ひとり旅・柱状節理断崖おこもり：24時間源泉掛け流し・銀河流星の滝・蝦夷鹿＆旭川ラーメン！大雪山国立公園の秘境厳選3宿',
+  title: "大雪山・層雲峡温泉ひとり旅・柱状節理断崖おこもり：24時間源泉掛け流し・銀河流星の滝・蝦夷鹿＆旭川ラーメン",
   description: '大雪山黒岳の麓にそびえる大峡谷・層雲峡温泉！驚異の口コミ★5.0満点を誇る自家源泉掛け流しと心温まるもてなしの隠れ宿「ホテル雲井」、24時間源泉掛け流し露天風呂と無料サービス充実の「湯元 銀泉閣」、アットホームな居心地と温泉が人気の「温泉ペンション銀河」を楽天API最新データに基づき徹底比較。',
   keywords: '層雲峡温泉 一人旅 宿,層雲峡 ホテル 一人 温泉,ホテル雲井 層雲峡,銀泉閣 層雲峡,温泉ペンション銀河,大雪山 ひとり旅 おこもり',
   openGraph: {
-    title: '大雪山・層雲峡温泉ひとり旅・柱状節理断崖おこもり：24時間源泉掛け流し・銀河流星の滝・蝦夷鹿＆旭川ラーメン！大雪山国立公園の秘境厳選3宿',
+    title: "大雪山・層雲峡温泉ひとり旅・柱状節理断崖おこもり：24時間源泉掛け流し・銀河流星の滝・蝦夷鹿＆旭川ラーメン",
     description: '大雪山黒岳の麓にそびえる大峡谷・層雲峡温泉！驚異の口コミ★5.0満点を誇る自家源泉掛け流しと心温まるもてなしの隠れ宿「ホテル雲井」、24時間源泉掛け流し露天風呂と無料サービス充実の「湯元 銀泉閣」、アットホームな居心地と温泉が人気の「温泉ペンション銀河」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/hokkaido-sounkyo-solo-retreat-gorge-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -132,7 +132,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/167255/167255.jpg"
                   alt="層雲峡温泉　ホテル雲井 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

@@ -194,7 +194,7 @@ export default function FurusatoChichibuNagatoroAutumnLeavesStayPage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/5828/5828.jpg"
                         alt="秩父七湯『御代の湯』　新木鉱泉旅館"
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

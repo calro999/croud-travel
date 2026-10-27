@@ -414,7 +414,7 @@ export default function AutumnBudgetNaraHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,000〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153337/153337.jpg" alt="ＡＢホテル奈良 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153337/153337.jpg" alt="ＡＢホテル奈良 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR奈良駅より徒歩約２分♪男女別大浴場完備♪　◆Wi-Fi接続無料◆個別空調◆</p>
                   <p><strong>【所在地・アクセス】</strong>〒 奈良県奈良市三条本町4-30 ／ 最寄り駅：奈良 ／ 交通案内：JR奈良駅より徒歩約２分  近鉄奈良駅より14分</p>

@@ -1,5 +1,5 @@
 ---
-title: "【岩手・宮古市】浄土ヶ浜パークホテルの宿泊記＆口コミ評判｜三陸の海の幸をご用意してお待ちしております・客室・朝食・アクセス（目安¥14,300〜）"
+title: "【岩手・宮古市】浄土ヶ浜パークホテルの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-tohoku-iwate-salmon-gourmet-guide/"
 hotel_name: "浄土ヶ浜パークホテル"
 prefecture: "岩手県"
@@ -10,7 +10,7 @@ review_count: 1627
 last_modified: "2026-10-18"
 ---
 
-# 【岩手・宮古市】浄土ヶ浜パークホテルの宿泊記＆口コミ評判｜三陸の海の幸をご用意してお待ちしております・客室・朝食・アクセス（目安¥14,300〜）
+# 【岩手・宮古市】浄土ヶ浜パークホテルの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-tohoku-iwate-salmon-gourmet-guide/
 - **宿泊施設・特集名**: 浄土ヶ浜パークホテル

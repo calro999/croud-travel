@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/76913/76913.jpg"
                         alt="天橋立温泉　和のリゾート　文珠荘"
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/15989/15989.jpg"
                         alt="秋保温泉　篝火の湯　緑水亭"
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

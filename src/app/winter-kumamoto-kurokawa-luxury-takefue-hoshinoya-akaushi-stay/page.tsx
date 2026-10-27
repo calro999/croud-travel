@@ -166,7 +166,7 @@ export default function LuxuryStayPage() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Kurokawa_Onsen_-%E6%B8%A9%E6%B3%89%E8%A1%97.jpg/1280px-Kurokawa_Onsen_-%E6%B8%A9%E6%B3%89%E8%A1%97.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="黒川温泉"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full md:w-1/2 space-y-3">

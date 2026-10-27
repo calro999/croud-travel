@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/38553/38553.jpg"
                         alt="霧島温泉郷　霧島ホテル"
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

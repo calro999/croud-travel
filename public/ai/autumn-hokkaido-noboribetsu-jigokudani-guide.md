@@ -1,5 +1,5 @@
 ---
-title: "【北海道・登別市】登別温泉 第一滝本館の宿泊記＆口コミ評判｜地獄谷と対峙するロケーション・湧き出る5つの泉質を35種の浴・客室・朝食・アクセス（目安¥13,200〜）"
+title: "【北海道・登別市】登別温泉 第一滝本館の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-hokkaido-noboribetsu-jigokudani-guide/"
 hotel_name: "登別温泉 第一滝本館"
 prefecture: "北海道"
@@ -10,7 +10,7 @@ review_count: 4044
 last_modified: "2026-10-18"
 ---
 
-# 【北海道・登別市】登別温泉 第一滝本館の宿泊記＆口コミ評判｜地獄谷と対峙するロケーション・湧き出る5つの泉質を35種の浴・客室・朝食・アクセス（目安¥13,200〜）
+# 【北海道・登別市】登別温泉 第一滝本館の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-hokkaido-noboribetsu-jigokudani-guide/
 - **宿泊施設・特集名**: 登別温泉 第一滝本館

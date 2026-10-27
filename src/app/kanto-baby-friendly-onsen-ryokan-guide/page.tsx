@@ -319,7 +319,7 @@ export default function KantoBabyFriendlyOnsenGuidePage() {
                         src={hotel.hotelImageUrl}
                         alt={hotel.hotelName}
                         className="w-full h-full object-cover"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     ) : (
                       <div className="w-full h-full flex items-center justify-center text-rose-950/30 text-xs font-bold">

@@ -412,7 +412,7 @@ export default function FurusatoUpgradedPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥10,450〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147592/147592_room.jpg" alt="高見屋　最上川別邸　紅 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147592/147592_room.jpg" alt="高見屋　最上川別邸　紅 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>～名湯一門　高見屋～全ての窓から最上川の風雅な景色を眺める、寛ぎの温泉旅館-ＢＥＮＩ-</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山形県最上郡戸沢村古口3058 ／ 最寄り駅：高屋 ／ 交通案内：東京・仙台方面→東北自動車道→村田JCT→山形自動車道→山形北IC→国道13号→国道47号→宿</p>

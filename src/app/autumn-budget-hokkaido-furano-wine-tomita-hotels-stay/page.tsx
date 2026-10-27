@@ -489,7 +489,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,720〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172266/172266_kan1.jpg" alt="ホテルムニン富良野（Ｈｏｔｅｌ　Ｍｕｎｉｎ　Ｆｕｒａｎｏ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172266/172266_kan1.jpg" alt="ホテルムニン富良野（Ｈｏｔｅｌ　Ｍｕｎｉｎ　Ｆｕｒａｎｏ） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>富良野スキー場北の峰ゴンドラステーションまで徒歩10分。世界のスキーヤーのためのホテル。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 北海道富良野市北の峰町10-23 ／ 最寄り駅：富良野 ／ 交通案内：ＪＲ　富良野駅よりお車にて約８分</p>

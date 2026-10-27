@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '南紀白浜温泉をふるさと納税でお得に旅する！白良浜オーシャンビュー＆名門リゾート特集！アドベンチャーワールド観光宿ガイド｜ホテル川久・むさし・白良荘グランドホテル',
+  title: "南紀白浜温泉をふるさと納税でお得に旅する！白良浜オーシャンビュー＆名門リゾート特集",
   description: '日本三古湯・白砂青松の白良浜が美しい和歌山県南紀白浜温泉を楽天ふるさと納税でお得に満喫！全室スイートの夢の城「ホテル川久」、白良浜徒歩1分・二つの自家源泉を持つ「紀州・白浜温泉 むさし」、オーシャンビュー展望露天風呂の「白良荘グランドホテル」を徹底比較。白浜町トラベルクーポン活用術を網羅。',
   keywords: '南紀白浜温泉 ふるさと納税,ホテル川久 クーポン ふるさと納税,白浜温泉 むさし 宿泊,白良荘グランドホテル ふるさと納税,白浜町 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-adventure-stay/",
   },
   openGraph: {
-    title: '南紀白浜温泉をふるさと納税でお得に旅する！白良浜オーシャンビュー＆名門リゾート特集！アドベンチャーワールド観光宿ガイド｜ホテル川久・むさし・白良荘グランドホテル',
+    title: "南紀白浜温泉をふるさと納税でお得に旅する！白良浜オーシャンビュー＆名門リゾート特集",
     description: '日本三古湯・白砂青松の白良浜が美しい和歌山県南紀白浜温泉を楽天ふるさと納税でお得に満喫！全室スイートの夢の城「ホテル川久」、白良浜徒歩1分・二つの自家源泉を持つ「紀州・白浜温泉 むさし」、オーシャンビュー展望露天風呂の「白良荘グランドホテル」を徹底比較。白浜町トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-shirahama-onsen-ocean-adventure-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -148,7 +148,7 @@ export default function FurusatoArticlePage() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/14111/14111.jpg"
                 alt="白浜温泉　ホテル川久"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
               <div className="absolute top-4 left-4 bg-stone-900/80 backdrop-blur-sm text-white text-xs px-3 py-1.5 rounded-full font-semibold">
                 第1選

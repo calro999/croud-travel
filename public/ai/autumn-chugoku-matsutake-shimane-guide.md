@@ -1,5 +1,5 @@
 ---
-title: "【島根・松江市】玉造温泉 佳翠苑 皆美の宿泊記＆口コミ評判｜旬を生かした伝統料理と4つのお風呂を満喫できる宿・客室・朝食・アクセス（目安¥14,300〜）"
+title: "【島根・松江市】玉造温泉 佳翠苑 皆美の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-chugoku-matsutake-shimane-guide/"
 hotel_name: "玉造温泉 佳翠苑 皆美"
 prefecture: "島根県"
@@ -10,7 +10,7 @@ review_count: 1510
 last_modified: "2026-10-18"
 ---
 
-# 【島根・松江市】玉造温泉 佳翠苑 皆美の宿泊記＆口コミ評判｜旬を生かした伝統料理と4つのお風呂を満喫できる宿・客室・朝食・アクセス（目安¥14,300〜）
+# 【島根・松江市】玉造温泉 佳翠苑 皆美の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-chugoku-matsutake-shimane-guide/
 - **宿泊施設・特集名**: 玉造温泉 佳翠苑 皆美

@@ -438,7 +438,7 @@ export default function SapporoBudgetAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,866〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172398/172398.jpg" alt="ベッセルホテルカンパーナすすきの｜サウナ付大浴場（札幌・すすきの） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172398/172398.jpg" alt="ベッセルホテルカンパーナすすきの｜サウナ付大浴場（札幌・すすきの） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>旅の疲れを癒してくれるサウナ付き大浴場完備。すすきの駅から徒歩４分の好立地</p>
                   <p><strong>【所在地・アクセス】</strong>〒 北海道札幌市中央区南五条西6-16-1 ／ 最寄り駅：すすきの ／ 交通案内：すすきの駅より徒歩にて約４分</p>

@@ -9,11 +9,11 @@ export const metadata: Metadata = {
     canonical: "https://croud-travel.pages.dev/winter-kagoshima-chiran-samurai-makurazaki-katsuo-kaimondake-kurobuta-stay/",
   },
 
-  title: '薩摩の小京都・知覧武家屋敷庭園と開聞岳絶景：2026-2027年冬の鹿児島・南薩摩＆枕崎！本場一本釣り鰹と鹿児島黒豚・黒牛会席名宿5選',
+  title: "薩摩の小京都・知覧武家屋敷庭園と開聞岳絶景：2026-2027年冬の鹿児島・南薩摩＆枕崎",
   description: '薩摩の小京都・国の名勝「知覧武家屋敷庭園」の冬枯山水美と、薩摩富士・開聞岳を望む雄大な冬パノラマ！本場枕崎の最高級本枯節・一本釣り鰹の藁焼きタタキや、極上の鹿児島黒豚・鹿児島黒牛会席に舌鼓。温暖な南薩摩の心地よい潮風と美肌天然温泉に癒やされる厳選名宿5選。',
   keywords: ['南薩摩・知覧・枕崎・開聞岳', '鹿児島県', '冬旅行', '温泉旅館', '楽天トラベル', 'ふるさと納税', 'ホテルおすすめ'],
   openGraph: {
-    title: '薩摩の小京都・知覧武家屋敷庭園と開聞岳絶景：2026-2027年冬の鹿児島・南薩摩＆枕崎！本場一本釣り鰹と鹿児島黒豚・黒牛会席名宿5選',
+    title: "薩摩の小京都・知覧武家屋敷庭園と開聞岳絶景：2026-2027年冬の鹿児島・南薩摩＆枕崎",
     description: '薩摩の小京都・国の名勝「知覧武家屋敷庭園」の冬枯山水美と、薩摩富士・開聞岳を望む雄大な冬パノラマ！本場枕崎の最高級本枯節・一本釣り鰹の藁焼きタタキや、極上の鹿児島黒豚・鹿児島黒牛会席に舌鼓。温暖な南薩摩の心地よい潮風と美肌天然温泉に癒やされる厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-kagoshima-chiran-samurai-makurazaki-katsuo-kaimondake-kurobuta-stay/',
     siteName: '旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '薩摩の小京都・知覧武家屋敷庭園と開聞岳絶景：2026-2027年冬の鹿児島・南薩摩＆枕崎！本場一本釣り鰹と鹿児島黒豚・黒牛会席名宿5選',
+    title: "薩摩の小京都・知覧武家屋敷庭園と開聞岳絶景：2026-2027年冬の鹿児島・南薩摩＆枕崎",
     description: '薩摩の小京都・国の名勝「知覧武家屋敷庭園」の冬枯山水美と、薩摩富士・開聞岳を望む雄大な冬パノラマ！本場枕崎の最高級本枯節・一本釣り鰹の藁焼きタタキや、極上の鹿児島黒豚・鹿児島黒牛会席に舌鼓。温暖な南薩摩の心地よい潮風と美肌天然温泉に癒やされる厳選名宿5選。',
   },
 };
@@ -275,7 +275,7 @@ export default function FeaturePage() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Chiran_Fumoto_01.JPG/1280px-Chiran_Fumoto_01.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="武家屋敷通り (南九州市)"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full space-y-3">

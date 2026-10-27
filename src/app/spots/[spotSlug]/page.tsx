@@ -243,7 +243,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
                       src={post.image}
                       alt={post.hotel_name}
                       className="w-full h-full object-cover"
-                      loading="lazy"
+                      loading="eager" fetchPriority="high"
                     />
                   ) : (
                     <div className="w-full h-full flex items-center justify-center text-emerald-950/30 text-xs font-bold">

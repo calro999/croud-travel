@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,434〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/413/413_ro.jpg" alt="ホテル　ベルフォート日向 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/413/413_ro.jpg" alt="ホテル　ベルフォート日向 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日向市街中心部。交通至便。ビジネス、レジャー両対応。婚礼、宴会、会議等の施設も充実。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 宮崎県日向市上町7-3 ／ 最寄り駅：日向 ／ 交通案内：JR日向市駅徒歩5分。コンビニ1分。市役所4分。市街地中心。光インターネット使い放題。和洋2つのレストランにグルメ満載。</p>

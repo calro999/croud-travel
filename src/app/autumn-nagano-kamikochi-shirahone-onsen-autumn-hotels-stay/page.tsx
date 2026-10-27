@@ -438,7 +438,7 @@ export default function KamikochiShirahoneAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥21,945〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/141241/141241_kya.jpg" alt="白骨温泉　小梨の湯　笹屋 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/141241/141241_kya.jpg" alt="白骨温泉　小梨の湯　笹屋 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>白樺林が織りなす静けさへ。自然に包まれて貸切露天に浸かる、心も身体も湯に溶ける大人旅</p>
                   <p><strong>【所在地・アクセス】</strong>〒 長野県松本市安曇4182-1 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ　松本駅より、松本電鉄　新島々下車、バスにて６０分</p>

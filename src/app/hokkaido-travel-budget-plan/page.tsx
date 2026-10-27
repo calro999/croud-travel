@@ -241,7 +241,7 @@ export default function HokkaidoBudgetGuide() {
               {hotels.slice(0, 3).map((hotel: any, index: number) => (
                 <div key={index} className="bg-white rounded-xl shadow-md overflow-hidden flex flex-col">
                   {hotel.imageUrl && (
-                    <img src={hotel.imageUrl} alt={hotel.hotelName} className="w-full h-40 object-cover" loading="lazy" decoding="async" />
+                    <img src={hotel.imageUrl} alt={hotel.hotelName} className="w-full h-40 object-cover" loading="eager" fetchPriority="high" decoding="async" />
                   )}
                   <div className="p-4 flex-1 flex flex-col">
                     <h4 className="font-bold text-gray-800 mb-2">{hotel.hotelName}</h4>

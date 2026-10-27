@@ -1,5 +1,5 @@
 ---
-title: "【滋賀・大津市】おごと温泉 びわ湖花街道の宿泊記＆口コミ評判｜そして心がほどける・湖国が織りなす季節に移ろいを感じて・客室・朝食・アクセス（目安¥22,770〜）"
+title: "【滋賀・大津市】おごと温泉 びわ湖花街道の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-kansai-shiga-lake-biwa-matsutake-guide/"
 hotel_name: "おごと温泉 びわ湖花街道"
 prefecture: "滋賀県"
@@ -10,7 +10,7 @@ review_count: 695
 last_modified: "2026-10-18"
 ---
 
-# 【滋賀・大津市】おごと温泉 びわ湖花街道の宿泊記＆口コミ評判｜そして心がほどける・湖国が織りなす季節に移ろいを感じて・客室・朝食・アクセス（目安¥22,770〜）
+# 【滋賀・大津市】おごと温泉 びわ湖花街道の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-kansai-shiga-lake-biwa-matsutake-guide/
 - **宿泊施設・特集名**: おごと温泉 びわ湖花街道

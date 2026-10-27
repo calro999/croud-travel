@@ -132,7 +132,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/184034/184034.jpg"
                   alt="天然温泉　あづみの湯　御宿　野乃松本（ドーミーイン・御宿野乃　ホテルズグループ） 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

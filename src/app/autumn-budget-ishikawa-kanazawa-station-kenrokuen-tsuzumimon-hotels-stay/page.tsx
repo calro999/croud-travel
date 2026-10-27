@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,100〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/171908/171908.jpg" alt="ＡＲＩＧＡＴＯ　ＳＴＡＹ金沢駅前（旧　ホテルトレンド金沢駅前） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/171908/171908.jpg" alt="ＡＲＩＧＡＴＯ　ＳＴＡＹ金沢駅前（旧　ホテルトレンド金沢駅前） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR金沢駅から徒歩約3分！金沢城や兼六園など金沢の名所にアクセス抜群！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 石川県金沢市広岡1-3-36 ／ 最寄り駅：金沢 ／ 交通案内：金沢駅西口より徒歩約3分</p>

@@ -171,7 +171,7 @@ export default function Page() {
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Yotei-zan-from-hirafu.jpg/1280px-Yotei-zan-from-hirafu.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                 alt="羊蹄山"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
             </div>
 

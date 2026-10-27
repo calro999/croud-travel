@@ -396,7 +396,7 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,840〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109492/109492.jpg" alt="天然温泉　御在所岳の湯　スーパーホテル四日市・国道１号沿 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109492/109492.jpg" alt="天然温泉　御在所岳の湯　スーパーホテル四日市・国道１号沿 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>温泉・朝食、駐車場有料1500円！長島リゾート・なばなの里・伊勢神宮・鈴鹿へもアクセス良好★</p>
                   <p><strong>【所在地・アクセス】</strong>〒 三重県四日市市浜田町1-6 ／ 最寄り駅：近鉄四日市 ／ 交通案内：近鉄四日市駅、南改札東出口、１号線方面徒歩で６分！！JR四日市駅徒歩10分！！</p>

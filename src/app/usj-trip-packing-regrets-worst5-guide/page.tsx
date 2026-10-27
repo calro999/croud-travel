@@ -313,7 +313,7 @@ export default function UsjTripPackingRegretsWorst5Page() {
                             src={hotel.hotelImageUrl}
                             alt={hotel.hotelName}
                             className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                            loading="lazy"
+                            loading="eager" fetchPriority="high"
                           />
                           <div className="absolute top-3 left-3 bg-slate-950/80 backdrop-blur-md px-2.5 py-0.5 rounded-full text-[10px] font-bold text-indigo-200 border border-indigo-500/30">
                             最寄: {hotel.nearestStation || "ユニバーサルシティ"}

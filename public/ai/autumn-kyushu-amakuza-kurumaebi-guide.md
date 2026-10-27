@@ -1,5 +1,5 @@
 ---
-title: "【熊本・上天草市】松島温泉 海のやすらぎ ホテル竜宮の宿泊記＆口コミ評判｜をご堪能下さい・客室・朝食・アクセス（目安¥18,700〜）"
+title: "【熊本・上天草市】松島温泉 海のやすらぎ ホテル竜宮の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-kyushu-amakuza-kurumaebi-guide/"
 hotel_name: "松島温泉 海のやすらぎ ホテル竜宮"
 prefecture: "熊本県"
@@ -10,7 +10,7 @@ review_count: 1523
 last_modified: "2026-10-18"
 ---
 
-# 【熊本・上天草市】松島温泉 海のやすらぎ ホテル竜宮の宿泊記＆口コミ評判｜をご堪能下さい・客室・朝食・アクセス（目安¥18,700〜）
+# 【熊本・上天草市】松島温泉 海のやすらぎ ホテル竜宮の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-kyushu-amakuza-kurumaebi-guide/
 - **宿泊施設・特集名**: 松島温泉 海のやすらぎ ホテル竜宮

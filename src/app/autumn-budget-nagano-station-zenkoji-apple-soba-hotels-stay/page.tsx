@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,855〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/107609/107609.jpg" alt="相鉄フレッサイン長野駅善光寺口 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/107609/107609.jpg" alt="相鉄フレッサイン長野駅善光寺口 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>長野駅から徒歩2分！全室シモンズ製のベッドとロフテーの快眠枕を設置、全室カードキーシステムです。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 長野県長野市南長野末広町1356 ／ 最寄り駅：長野 ／ 交通案内：長野駅(善光寺口）より徒歩2分！フロントは５Ｆ、ローソン長野駅前店の左側にある自動ドアを入りエレベーターで！</p>

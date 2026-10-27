@@ -249,7 +249,7 @@ export default function KamakuraVsEnoshimaPage() {
                       src={hotel.hotelImageUrl}
                       alt={hotel.hotelName}
                       className="object-cover w-full h-full"
-                      loading="lazy"
+                      loading="eager" fetchPriority="high"
                     />
                   </div>
                 )}

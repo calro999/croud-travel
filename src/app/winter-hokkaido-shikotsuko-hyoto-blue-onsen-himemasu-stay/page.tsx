@@ -273,7 +273,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/9563/9563.jpg" 
             alt="冬の北海道千歳支笏湖ブルーと白銀の山並み" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         

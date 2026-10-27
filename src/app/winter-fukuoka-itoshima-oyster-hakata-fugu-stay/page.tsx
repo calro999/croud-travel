@@ -273,7 +273,7 @@ export default function FukuokaItoshimaHakataWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/1137/1137.jpg" 
             alt="冬の博多湾と福岡都市夜景" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-stone-900/60 to-transparent" />
         

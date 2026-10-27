@@ -163,7 +163,7 @@ export default function FeatureArticlePage() {
                 src={HOTEL_DATA.aso_uchinomaki_yumeoi.img}
                 alt={HOTEL_DATA.aso_uchinomaki_yumeoi.name}
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
             </div>
 

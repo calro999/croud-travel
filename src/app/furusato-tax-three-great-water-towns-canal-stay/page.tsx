@@ -412,7 +412,7 @@ export default function FurusatoUpgradedPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥15,200〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76886/76886_hwa.jpg" alt="休暇村　近江八幡 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/76886/76886_hwa.jpg" alt="休暇村　近江八幡 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>目の前は琵琶湖です。近江牛や郷土料理に舌鼓。温泉に入りながら琵琶湖を眺めるひとときをお楽しみ下さい</p>
                   <p><strong>【所在地・アクセス】</strong>〒 滋賀県近江八幡市沖島町宮ヶ浜 ／ 最寄り駅：主要駅 ／ 交通案内：JR　近江八幡駅より近江鉄道バス休暇村行きにて約43分　※近江鉄道バス休暇村行き、土日祝日運休</p>

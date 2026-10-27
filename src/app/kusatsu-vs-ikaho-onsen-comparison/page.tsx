@@ -276,7 +276,7 @@ export default function KusatsuVsIkahoPage() {
             {hotels.map((hotel, idx) => (
               <div key={idx} className="bg-white rounded-3xl overflow-hidden shadow-md border border-slate-100 flex flex-col">
                 <div className="h-48 overflow-hidden">
-                  <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover transition-transform hover:scale-105 duration-300" loading="lazy" decoding="async" />
+                  <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover transition-transform hover:scale-105 duration-300" loading="eager" fetchPriority="high" decoding="async" />
                 </div>
                 <div className="p-5 flex-grow flex flex-col">
                   <h3 className="font-bold text-lg mb-2 text-slate-800 line-clamp-2">{hotel.hotelName}</h3>

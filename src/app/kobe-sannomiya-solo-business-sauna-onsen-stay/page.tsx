@@ -143,7 +143,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/20516/20516.jpg"
                   alt="神戸サウナ＆スパ（ホテルカプセルイン神戸） 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

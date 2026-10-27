@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '有馬温泉をふるさと納税でお得に旅する！日本最古の名湯・金泉銀泉めぐり＆極上神戸牛！名門老舗旅館ステイ厳選ガイド｜兵衛向陽閣・月光園鴻朧館・陶泉御所坊',
+  title: "有馬温泉をふるさと納税でお得に旅する！日本最古の名湯・金泉銀泉めぐり＆極上神戸牛！名門老舗旅館ステイ厳選ガイド",
   description: '日本三古湯・日本三名泉の頂点に立つ名湯・有馬温泉を楽天ふるさと納税でお得に旅する！創業七百年の伝統を誇る名門「兵衛向陽閣」、落葉山の絶景と自家源泉金泉の「月光園 鴻朧館」、創業八百年・谷崎潤一郎ゆかりの最古の湯宿「陶泉 御所坊」を徹底比較。神戸牛会席や神戸市トラベルクーポン活用術を網羅。',
   keywords: '有馬温泉 ふるさと納税,兵衛向陽閣 ふるさと納税,有馬温泉 金の湯 旅館,月光園鴻朧館 クーポン,神戸市 ふるさと納税 宿泊',
   openGraph: {
-    title: '有馬温泉をふるさと納税でお得に旅する！日本最古の名湯・金泉銀泉めぐり＆極上神戸牛！名門老舗旅館ステイ厳選ガイド｜兵衛向陽閣・月光園鴻朧館・陶泉御所坊',
+    title: "有馬温泉をふるさと納税でお得に旅する！日本最古の名湯・金泉銀泉めぐり＆極上神戸牛！名門老舗旅館ステイ厳選ガイド",
     description: '日本三古湯・日本三名泉の頂点に立つ名湯・有馬温泉を楽天ふるさと納税でお得に旅する！創業七百年の伝統を誇る名門「兵衛向陽閣」、落葉山の絶景と自家源泉金泉の「月光園 鴻朧館」、創業八百年・谷崎潤一郎ゆかりの最古の湯宿「陶泉 御所坊」を徹底比較。神戸牛会席や神戸市トラベルクーポン活用術を網羅。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-arima-onsen-kinsen-ginsen-kobe-beef-stay/',
@@ -132,7 +132,7 @@ export default function FurusatoTaxArticle() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/8636/8636.jpg"
                 alt="有馬温泉　兵衛向陽閣"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
               <div className="absolute top-4 left-4 bg-stone-900/80 backdrop-blur-sm text-white text-xs px-3 py-1.5 rounded-full font-semibold">
                 第1選

@@ -220,7 +220,7 @@ export default function Page() {
                   src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Niyodogawa-2.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
                   alt="奇跡の清流・仁淀川（冬に透明度極まる仁淀ブルー）"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full space-y-3">

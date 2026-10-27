@@ -1,5 +1,5 @@
 ---
-title: "【山形・山形市】深山荘 高見屋の宿泊記＆口コミ評判｜高見屋～創業300年の歴史を誇る老舗旅館・純和風建築に滞在す・客室・朝食・アクセス（目安¥21,780〜）"
+title: "【山形・山形市】深山荘 高見屋の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-tohoku-maitake-beef-guide/"
 hotel_name: "深山荘 高見屋"
 prefecture: "山形県"
@@ -10,7 +10,7 @@ review_count: 729
 last_modified: "2026-10-18"
 ---
 
-# 【山形・山形市】深山荘 高見屋の宿泊記＆口コミ評判｜高見屋～創業300年の歴史を誇る老舗旅館・純和風建築に滞在す・客室・朝食・アクセス（目安¥21,780〜）
+# 【山形・山形市】深山荘 高見屋の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-tohoku-maitake-beef-guide/
 - **宿泊施設・特集名**: 深山荘 高見屋

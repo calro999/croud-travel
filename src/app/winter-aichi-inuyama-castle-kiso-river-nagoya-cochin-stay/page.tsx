@@ -451,7 +451,7 @@ export default function AichiInuyamaPage() {
                     src={hotel.img} 
                     alt={hotel.name}
                     className="w-full h-full object-cover"
-                    loading="lazy"
+                    loading="eager" fetchPriority="high"
                   />
                   <div className="absolute top-4 left-4 bg-rose-950/90 text-white text-xs font-bold px-3 py-1 rounded-full shadow-xs">
                     厳選名宿 #{hotel.id}

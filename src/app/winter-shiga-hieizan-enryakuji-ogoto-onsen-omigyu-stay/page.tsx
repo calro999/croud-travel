@@ -470,7 +470,7 @@ export default function ShigaHieizanOgotoPage() {
                         src={hotel.img} 
                         alt={hotel.name}
                         className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                     <div className="lg:col-span-7 space-y-4">

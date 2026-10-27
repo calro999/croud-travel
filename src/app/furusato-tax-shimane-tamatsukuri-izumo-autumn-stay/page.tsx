@@ -208,7 +208,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/7798/7798.jpg"
                 alt="玉造温泉　佳翠苑　皆美"
                 className="w-full h-full object-cover"
-              loading="lazy" decoding="async" />
+              loading="eager" fetchPriority="high" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>

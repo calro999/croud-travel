@@ -181,7 +181,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/38584/38584.jpg"
                 alt="信州湯田中温泉 ホテルゆだなか ～大浴場「吉の湯」～の外観・温泉風景"
                 className="w-full h-full object-cover"
-              loading="lazy" decoding="async" />
+              loading="eager" fetchPriority="high" decoding="async" />
             </div>
             <div className="flex flex-col justify-between">
               <div>

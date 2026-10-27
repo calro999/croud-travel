@@ -241,7 +241,7 @@ export default function KanazawaVsKyotoPage() {
               {hotels.map((hotel, idx) => (
                 <div key={idx} className="bg-white rounded-3xl overflow-hidden shadow-sm border border-[#e8e4d9] flex flex-col">
                   <div className="h-40 overflow-hidden">
-                    <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover" loading="lazy" decoding="async" />
+                    <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover" loading="eager" fetchPriority="high" decoding="async" />
                   </div>
                   <div className="p-5 flex flex-col flex-grow">
                     <h3 className="font-bold text-md mb-2 text-slate-800">{hotel.hotelName}</h3>

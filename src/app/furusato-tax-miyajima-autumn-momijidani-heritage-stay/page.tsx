@@ -194,7 +194,7 @@ export default function FurusatoMiyajimaAutumnMomijidaniStayPage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/18848/18848.jpg"
                         alt="宮島グランドホテル　有もと"
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

@@ -414,7 +414,7 @@ export default function AutumnBudgetKochiHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,570〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8682/8682_jpr.jpg" alt="サウスブリーズホテル　高知海月 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8682/8682_jpr.jpg" alt="サウスブリーズホテル　高知海月 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>朝ごはんフェス四国１位！女性経営らしい細やかな気配りが嬉しいホテル／展望大浴場／全室Wifi無料</p>
                   <p><strong>【所在地・アクセス】</strong>〒 高知県高知市農人町5-29 ／ 最寄り駅：高知 ／ 交通案内：文化プラザかるぽーと徒歩1分・はりまや橋観光バスターミナル徒歩３分・はりまや橋徒歩7分・高知駅車で5分</p>

@@ -1,5 +1,5 @@
 ---
-title: "【岩手・八幡平市】松川温泉＆八幡平 乳白色硫黄泉秘湯セレクションの宿泊記＆口コミ評判｜自然豊かな八幡平の原生林に囲まれた古民家風の秘湯の宿・源泉掛・客室・朝食・アクセス（目安¥18,000〜）"
+title: "【岩手・八幡平市】松川温泉＆八幡平 乳白色硫黄泉秘湯セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/matsukawa-onsen-hachimantai-milky-sulfur-hotels-guide/"
 hotel_name: "松川温泉＆八幡平 乳白色硫黄泉秘湯セレクション"
 prefecture: "岩手県"
@@ -10,7 +10,7 @@ review_count: 194
 last_modified: "2026-10-18"
 ---
 
-# 【岩手・八幡平市】松川温泉＆八幡平 乳白色硫黄泉秘湯セレクションの宿泊記＆口コミ評判｜自然豊かな八幡平の原生林に囲まれた古民家風の秘湯の宿・源泉掛・客室・朝食・アクセス（目安¥18,000〜）
+# 【岩手・八幡平市】松川温泉＆八幡平 乳白色硫黄泉秘湯セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/matsukawa-onsen-hachimantai-milky-sulfur-hotels-guide/
 - **宿泊施設・特集名**: 松川温泉＆八幡平 乳白色硫黄泉秘湯セレクション

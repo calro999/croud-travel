@@ -176,7 +176,7 @@ export default function MicroTouristHubPage() {
                                 src={hotel.hotelImageUrl}
                                 alt={hotel.hotelName}
                                 className="w-full h-full object-cover"
-                                loading="lazy"
+                                loading="eager" fetchPriority="high"
                               />
                             ) : (
                               <div className="w-full h-full flex items-center justify-center text-teal-950/30 text-xs font-bold">

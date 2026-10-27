@@ -250,7 +250,7 @@ export default function FeatureDetailPage() {
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/30970/30970.jpg"
                     alt="奥札幌の秘湯　湖畔の宿支笏湖　丸駒温泉旅館"
                     className="w-full h-full object-cover"
-                    loading="lazy"
+                    loading="eager" fetchPriority="high"
                   />
                   <div className="absolute top-3 left-3 bg-amber-600 text-white text-xs font-bold px-3 py-1 rounded-full shadow">
                     第 1 位

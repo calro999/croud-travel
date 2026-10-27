@@ -166,7 +166,7 @@ export default function LuxuryStayPage() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/KawaguchiKo.jpg/1280px-KawaguchiKo.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="河口湖"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full md:w-1/2 space-y-3">

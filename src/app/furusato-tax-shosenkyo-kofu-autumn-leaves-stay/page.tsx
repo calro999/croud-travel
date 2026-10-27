@@ -163,7 +163,7 @@ export default function FeatureArticlePage() {
                 src={HOTEL_DATA.shosenkyo_tokiwa.img}
                 alt={HOTEL_DATA.shosenkyo_tokiwa.name}
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
             </div>
 

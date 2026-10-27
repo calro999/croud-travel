@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '遊園地・なばなの里・湯あみの島直結！ナガシマスパーランド公式オフィシャルホテル×ふるさと納税極上旅ガイド花水木・ホテルナガシマ・オリーブ',
+  title: "遊園地・なばなの里・湯あみの島直結",
   description: '日本最大級のアミューズメントリゾート直結！開園10分前入場アーリーエントリー、大温泉「湯あみの島」無料、なばなの里入場無料など特典満載。「ホテル花水木」「ホテルナガシマ」「ガーデンホテルオリーブ」を、三重県桑名市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
   keywords: ["遊園地", "なばなの里", "2026年最新", "花水木", "ホテルナガシマ", "オリーブ", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-nagashima-spaland-official-hotel-stay/",
   },
   openGraph: {
-    title: '遊園地・なばなの里・湯あみの島直結！ナガシマスパーランド公式オフィシャルホテル×ふるさと納税極上旅ガイド花水木・ホテルナガシマ・オリーブ',
+    title: "遊園地・なばなの里・湯あみの島直結",
     description: '日本最大級のアミューズメントリゾート直結！開園10分前入場アーリーエントリー、大温泉「湯あみの島」無料、なばなの里入場無料など特典満載。「ホテル花水木」「ホテルナガシマ」「ガーデンホテルオリーブ」を、三重県桑名市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-nagashima-spaland-official-hotel-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',

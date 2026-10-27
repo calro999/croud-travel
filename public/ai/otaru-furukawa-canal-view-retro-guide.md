@@ -1,5 +1,5 @@
 ---
-title: "【運河の宿 おたる ふる川】宿泊記＆口コミ評判｜小樽運河の絶景・天然温泉・朝食バイキング・レトロモダン名宿ガイド"
+title: "【運河の宿 おたる ふる川】の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/otaru-furukawa-canal-view-retro-guide/"
 hotel_name: "運河の宿　おたる　ふる川"
 prefecture: "北海道"
@@ -10,7 +10,7 @@ review_count: 1137
 last_modified: "2026-10-18"
 ---
 
-# 【運河の宿 おたる ふる川】宿泊記＆口コミ評判｜小樽運河の絶景・天然温泉・朝食バイキング・レトロモダン名宿ガイド
+# 【運河の宿 おたる ふる川】の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/otaru-furukawa-canal-view-retro-guide/
 - **宿泊施設・特集名**: 運河の宿　おたる　ふる川

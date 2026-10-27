@@ -273,7 +273,7 @@ export default function ShizuokaHamanakoKanzanjiWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/3112/3112.jpg" 
             alt="冬の浜名湖と舘山寺温泉の風景" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-amber-950/60 to-transparent" />
         

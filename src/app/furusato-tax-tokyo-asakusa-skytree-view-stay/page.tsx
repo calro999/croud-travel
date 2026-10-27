@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '浅草・スカイツリーをふるさと納税でお得に旅する！雷門の情緒＆大迫力のタワービュー！下町名湯＆最新ホテル特集｜浅草ビューホテル・THE GATE HOTEL・御宿野乃',
+  title: "浅草・スカイツリーをふるさと納税でお得に旅する！雷門の情緒＆大迫力のタワービュー！下町名湯＆最新ホテル特集",
   description: '江戸情緒と最先端のタワーが交差する東京屈指の観光地・東京都台東区「浅草」を楽天ふるさと納税でお得に満喫！東京スカイツリーと浅草寺を一望する「浅草ビューホテル アネックス 六区」、雷門徒歩2分の洗練デザイナーズ「THE GATE HOTEL 雷門 by HULIC」、全館畳敷き＆黒湯天然温泉の「天然温泉 凌雲の湯 御宿 野乃 浅草」を徹底比較。台東区トラベルクーポン活用術を網羅。',
   keywords: '浅草 ホテル ふるさと納税,浅草ビューホテル クーポン,THE GATE HOTEL 雷門 ふるさと納税,御宿野乃 浅草 宿泊,台東区 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-tokyo-asakusa-skytree-view-stay/",
   },
   openGraph: {
-    title: '浅草・スカイツリーをふるさと納税でお得に旅する！雷門の情緒＆大迫力のタワービュー！下町名湯＆最新ホテル特集｜浅草ビューホテル・THE GATE HOTEL・御宿野乃',
+    title: "浅草・スカイツリーをふるさと納税でお得に旅する！雷門の情緒＆大迫力のタワービュー！下町名湯＆最新ホテル特集",
     description: '江戸情緒と最先端のタワーが交差する東京屈指の観光地・東京都台東区「浅草」を楽天ふるさと納税でお得に満喫！東京スカイツリーと浅草寺を一望する「浅草ビューホテル アネックス 六区」、雷門徒歩2分の洗練デザイナーズ「THE GATE HOTEL 雷門 by HULIC」、全館畳敷き＆黒湯天然温泉の「天然温泉 凌雲の湯 御宿 野乃 浅草」を徹底比較。台東区トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-tokyo-asakusa-skytree-view-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -148,7 +148,7 @@ export default function FurusatoArticlePage() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/177986/177986.jpg"
                 alt="浅草ビューホテル　アネックス　六区"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
               <div className="absolute top-4 left-4 bg-stone-900/80 backdrop-blur-sm text-white text-xs px-3 py-1.5 rounded-full font-semibold">
                 第1選

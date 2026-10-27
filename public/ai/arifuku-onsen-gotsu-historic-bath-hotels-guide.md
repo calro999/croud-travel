@@ -1,5 +1,5 @@
 ---
-title: "【島根・江津市】有福温泉＆江津 美人の湯石段街名宿セレクションの宿泊記＆口コミ評判｜Wi-Fi完備・客室・朝食・アクセス（目安¥10,600〜）"
+title: "【島根・江津市】有福温泉＆江津 美人の湯石段街名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/arifuku-onsen-gotsu-historic-bath-hotels-guide/"
 hotel_name: "有福温泉＆江津 美人の湯石段街名宿セレクション"
 prefecture: "島根県"
@@ -10,7 +10,7 @@ review_count: 283
 last_modified: "2026-10-18"
 ---
 
-# 【島根・江津市】有福温泉＆江津 美人の湯石段街名宿セレクションの宿泊記＆口コミ評判｜Wi-Fi完備・客室・朝食・アクセス（目安¥10,600〜）
+# 【島根・江津市】有福温泉＆江津 美人の湯石段街名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/arifuku-onsen-gotsu-historic-bath-hotels-guide/
 - **宿泊施設・特集名**: 有福温泉＆江津 美人の湯石段街名宿セレクション

@@ -414,7 +414,7 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥2,925〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191880/191880.jpg" alt="マンゴーホテル宮崎 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/191880/191880.jpg" alt="マンゴーホテル宮崎 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宮崎最大の飲食店街ニシタチが徒歩圏内！マンゴージュースとアイスを24時間無料提供中！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 宮崎県宮崎市橘通東1-5-8 ／ 最寄り駅：宮崎 ／ 交通案内：ＪＲ日豊本線　宮崎駅から車で約１０分。宮崎空港から空港リムジンバスで約１５分。</p>

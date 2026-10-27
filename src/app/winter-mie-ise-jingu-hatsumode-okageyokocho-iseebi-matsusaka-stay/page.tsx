@@ -273,7 +273,7 @@ export default function MieIseJinguWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/142809/142809.jpg" 
             alt="冬の伊勢神宮内宮宇治橋と清らかな五十鈴川" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-stone-900/60 to-transparent" />
         

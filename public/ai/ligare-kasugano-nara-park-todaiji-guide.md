@@ -1,5 +1,5 @@
 ---
-title: "【ホテル リガーレ春日野】宿泊記＆口コミ評判｜奈良公園・東大寺徒歩圏・無料駐車場完備・大和の郷土会席＆朝食バイキング"
+title: "【ホテル リガーレ春日野】の宿泊記＆口コミ評判｜朝食バイキング・客室・温泉・朝食徹底ガイド"
 url: "https://croud-travel.pages.dev/posts/ligare-kasugano-nara-park-todaiji-guide/"
 hotel_name: "ホテル　リガーレ春日野"
 prefecture: "奈良県"
@@ -10,7 +10,7 @@ review_count: 240
 last_modified: "2026-10-18"
 ---
 
-# 【ホテル リガーレ春日野】宿泊記＆口コミ評判｜奈良公園・東大寺徒歩圏・無料駐車場完備・大和の郷土会席＆朝食バイキング
+# 【ホテル リガーレ春日野】の宿泊記＆口コミ評判｜朝食バイキング・客室・温泉・朝食徹底ガイド
 
 - **URL**: https://croud-travel.pages.dev/posts/ligare-kasugano-nara-park-todaiji-guide/
 - **宿泊施設・特集名**: ホテル　リガーレ春日野

@@ -8,11 +8,11 @@ export const metadata: Metadata = {
     canonical: "https://croud-travel.pages.dev/autumn-budget-toyama-tateyama-kurobe-onsen-hotels-stay/",
   },
 
-  title: '秋の富山×格安：立山連峰の三段紅葉と富山湾の白えび・紅ズワイガニ！天然温泉付き1泊4,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
+  title: "秋の富山×格安：立山連峰の三段紅葉と富山湾の白えび・紅ズワイガニ",
   description: '立山黒部アルペンルートや黒部峡谷トロッコ電車の紅葉拠点！富山湾の「白えび」や秋解禁の紅ズワイガニを満喫。サウナ＆天然温泉大浴場付きで1泊4,000円〜6,000円台で泊まれる富山駅周辺の格安ホテル5選。富山マンテンホテル、御宿野乃富山を徹底比較！',
   keywords: '富山 格安 ホテル, 富山 天然温泉 ホテル 安い, 立山黒部アルペンルート 紅葉 宿, 富山湾 白えび グルメ, 富山マンテンホテル, 御宿野乃富山',
   openGraph: {
-    title: '秋の富山×格安：立山連峰の三段紅葉と富山湾の白えび・紅ズワイガニ！天然温泉付き1泊4,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
+    title: "秋の富山×格安：立山連峰の三段紅葉と富山湾の白えび・紅ズワイガニ",
     description: '立山連峰の三段紅葉と富山湾の海の幸！天然温泉付き1泊4,000円〜6,000円台の富山コスパ最強ホテル5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/autumn-budget-toyama-tateyama-kurobe-onsen-hotels-stay/',
@@ -427,7 +427,7 @@ export default function ToyamaBudgetAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,650〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153267/153267.jpg" alt="天然温泉　剱の湯　御宿　野乃富山（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153267/153267.jpg" alt="天然温泉　剱の湯　御宿　野乃富山（ドーミーイン・御宿野乃　ホテルズグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全館畳敷きの和風ホテル！天然温泉檜風呂付客室もご用意☆ご当地逸品料理「海鮮丼」</p>
                   <p><strong>【所在地・アクセス】</strong>〒 富山県富山市総曲輪3-9-2 ／ 最寄り駅：富山 ／ 交通案内：富山駅より路面電車環状線「大手モール」下車徒歩2分・北陸自動車道『富山ＩＣ』出口より15分</p>

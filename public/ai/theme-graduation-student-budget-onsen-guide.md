@@ -1,5 +1,5 @@
 ---
-title: "【群馬・吾妻】草津温泉 ホテル櫻井の朝食・夕食グルメ徹底解説｜上州牛すき焼き＆5ツ星 認定の宿 華やかな近代和風旅館で草津最大級の"
+title: "【群馬・吾妻】草津温泉 ホテル櫻井の朝食・夕食グルメ徹底解説｜上州牛すき焼き＆5ツ星 認定の宿 華やかな近代和風旅館で草津最大級徹底ガイド"
 url: "https://croud-travel.pages.dev/posts/theme-graduation-student-budget-onsen-guide/"
 hotel_name: "草津温泉 ホテル櫻井"
 prefecture: "群馬県"
@@ -10,7 +10,7 @@ review_count: 5171
 last_modified: "2026-10-18"
 ---
 
-# 【群馬・吾妻】草津温泉 ホテル櫻井の朝食・夕食グルメ徹底解説｜上州牛すき焼き＆5ツ星 認定の宿 華やかな近代和風旅館で草津最大級の
+# 【群馬・吾妻】草津温泉 ホテル櫻井の朝食・夕食グルメ徹底解説｜上州牛すき焼き＆5ツ星 認定の宿 華やかな近代和風旅館で草津最大級徹底ガイド
 
 - **URL**: https://croud-travel.pages.dev/posts/theme-graduation-student-budget-onsen-guide/
 - **宿泊施設・特集名**: 草津温泉 ホテル櫻井

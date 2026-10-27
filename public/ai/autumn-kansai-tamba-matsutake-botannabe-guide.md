@@ -1,5 +1,5 @@
 ---
-title: "【兵庫・宝塚市】武田尾温泉 紅葉舘 別庭 あざれの宿泊記＆口コミ評判｜渓流沿い離れ戸建・源泉かけ流し眺望半露天風呂付・客室・朝食・アクセス（目安¥19,000〜）"
+title: "【兵庫・宝塚市】武田尾温泉 紅葉舘 別庭 あざれの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-kansai-tamba-matsutake-botannabe-guide/"
 hotel_name: "武田尾温泉 紅葉舘 別庭 あざれ"
 prefecture: "兵庫県"
@@ -10,7 +10,7 @@ review_count: 305
 last_modified: "2026-10-18"
 ---
 
-# 【兵庫・宝塚市】武田尾温泉 紅葉舘 別庭 あざれの宿泊記＆口コミ評判｜渓流沿い離れ戸建・源泉かけ流し眺望半露天風呂付・客室・朝食・アクセス（目安¥19,000〜）
+# 【兵庫・宝塚市】武田尾温泉 紅葉舘 別庭 あざれの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-kansai-tamba-matsutake-botannabe-guide/
 - **宿泊施設・特集名**: 武田尾温泉 紅葉舘 別庭 あざれ

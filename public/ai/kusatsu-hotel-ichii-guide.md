@@ -1,5 +1,5 @@
 ---
-title: "【群馬・吾妻】草津温泉 ホテル一井の宿泊記＆口コミ評判｜20室のみの湯畑眺望客室は希少・客室・朝食・アクセス（目安¥18,700〜）"
+title: "【群馬・吾妻】草津温泉 ホテル一井の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/kusatsu-hotel-ichii-guide/"
 hotel_name: "草津温泉 ホテル一井"
 prefecture: "群馬県"
@@ -10,7 +10,7 @@ review_count: 3292
 last_modified: "2026-10-18"
 ---
 
-# 【群馬・吾妻】草津温泉 ホテル一井の宿泊記＆口コミ評判｜20室のみの湯畑眺望客室は希少・客室・朝食・アクセス（目安¥18,700〜）
+# 【群馬・吾妻】草津温泉 ホテル一井の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/kusatsu-hotel-ichii-guide/
 - **宿泊施設・特集名**: 草津温泉 ホテル一井

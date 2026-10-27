@@ -143,7 +143,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/50775/50775.jpg"
                   alt="中通温泉　こまちの湯　ドーミーイン秋田（ドーミーイン・御宿野乃　ホテルズグループ） 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

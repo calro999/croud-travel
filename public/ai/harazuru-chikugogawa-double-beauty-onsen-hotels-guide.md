@@ -1,5 +1,5 @@
 ---
-title: "【福岡・朝倉市】原鶴温泉＆筑後川温泉 ダブル美肌の湯セレクションの宿泊記＆口コミ評判｜“ダブル美肌湯”と称される原鶴の良泉を宿名物ジャング・客室・朝食・アクセス（目安¥7,040〜）"
+title: "【福岡・朝倉市】原鶴温泉＆筑後川温泉 ダブル美肌の湯セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/harazuru-chikugogawa-double-beauty-onsen-hotels-guide/"
 hotel_name: "原鶴温泉＆筑後川温泉 ダブル美肌の湯セレクション"
 prefecture: "福岡県"
@@ -10,7 +10,7 @@ review_count: 1125
 last_modified: "2026-10-18"
 ---
 
-# 【福岡・朝倉市】原鶴温泉＆筑後川温泉 ダブル美肌の湯セレクションの宿泊記＆口コミ評判｜“ダブル美肌湯”と称される原鶴の良泉を宿名物ジャング・客室・朝食・アクセス（目安¥7,040〜）
+# 【福岡・朝倉市】原鶴温泉＆筑後川温泉 ダブル美肌の湯セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/harazuru-chikugogawa-double-beauty-onsen-hotels-guide/
 - **宿泊施設・特集名**: 原鶴温泉＆筑後川温泉 ダブル美肌の湯セレクション

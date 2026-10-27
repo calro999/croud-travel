@@ -489,7 +489,7 @@ export default function AutumnBudgetYonagoStationHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,180〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/814/814_sgl.jpg" alt="ホテルハーベストイン米子 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/814/814_sgl.jpg" alt="ホテルハーベストイン米子 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ米子駅の隣に建つヨーロッパ調の外観。ＪＲ米子駅・バスターミナルから徒歩１分とアクセス環境も抜群。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 鳥取県米子市弥生町8-27 ／ 最寄り駅：米子 ／ 交通案内：米子駅/バスターミナルより徒歩1分。米子空港よりシャトルバスにて２５分。　米子道米子ＩＣより車で１０分。</p>

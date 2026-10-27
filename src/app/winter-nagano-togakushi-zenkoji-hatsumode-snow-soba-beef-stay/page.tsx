@@ -274,7 +274,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/2571/2571.jpg" 
             alt="冬の信州・白銀の戸隠神社奥社杉並木と善光寺" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         

@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,925〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15969/15969.jpg" alt="ホテルルートイン青森駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15969/15969.jpg" alt="ホテルルートイン青森駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★JR青森駅東口より徒歩1分★　大浴場完備でビジネス・観光に最適です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 青森県青森市新町1-1-24 ／ 最寄り駅：青森 ／ 交通案内：★ＪＲ青森駅東口より徒歩1分★／東北自動車道青森インターよりお車にて12分</p>

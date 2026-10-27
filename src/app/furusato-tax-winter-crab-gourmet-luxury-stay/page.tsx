@@ -179,7 +179,7 @@ export default function Page() {
                       src={hotel.hotelImageUrl || hotel.roomImageUrl || '/images/no-image.jpg'}
                       alt={hotel.hotelName}
                       className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                      loading="lazy"
+                      loading="eager" fetchPriority="high"
                     />
                     <div className="absolute top-3 right-3 bg-stone-900/85 backdrop-blur-md text-amber-300 text-xs font-bold px-3 py-1 rounded-full shadow">
                       ★ {hotel.reviewAverage ? hotel.reviewAverage.toFixed(1) : '好評'}

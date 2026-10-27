@@ -274,7 +274,7 @@ export default function NagasakiCityInasayamaWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/8438/8438.jpg" 
             alt="冬の長崎・稲佐山山頂から見下ろす世界新三大夜景" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         

@@ -1,5 +1,5 @@
 ---
-title: "【三重・桑名市】ホテル花水木の宿泊記＆口コミ評判｜自然と情緒を愛する日本の心を原点にお客様をおもてなし・笑顔と・客室・朝食・アクセス（目安¥31,900〜）"
+title: "【三重・桑名市】ホテル花水木の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/nagashima-hanamizuki-guide/"
 hotel_name: "ホテル花水木"
 prefecture: "三重県"
@@ -10,7 +10,7 @@ review_count: 650
 last_modified: "2026-10-18"
 ---
 
-# 【三重・桑名市】ホテル花水木の宿泊記＆口コミ評判｜自然と情緒を愛する日本の心を原点にお客様をおもてなし・笑顔と・客室・朝食・アクセス（目安¥31,900〜）
+# 【三重・桑名市】ホテル花水木の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/nagashima-hanamizuki-guide/
 - **宿泊施設・特集名**: ホテル花水木

@@ -547,7 +547,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥8,800〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/53414/53414_ky.jpg" alt="湯野浜温泉　竹屋ホテル（鶴岡・酒田） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/53414/53414_ky.jpg" alt="湯野浜温泉　竹屋ホテル（鶴岡・酒田） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本海に面した砂浜に位置し夕陽が大変美しい宿。出来たてを大切にした料理で名物「浜焼き」が好評です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山形県鶴岡市湯野浜温泉1-9-25 ／ 最寄り駅：鶴岡 ／ 交通案内：ＪＲ　鶴岡駅から湯の浜温泉まで車で２０分、バスで３５分</p>

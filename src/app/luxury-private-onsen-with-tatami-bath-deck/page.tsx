@@ -250,7 +250,7 @@ export default function FeatureDetailPage() {
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/29387/29387.jpg"
                     alt="伊香保温泉　名物畳風呂と料理自慢の宿　ホテルきむら"
                     className="w-full h-full object-cover"
-                    loading="lazy"
+                    loading="eager" fetchPriority="high"
                   />
                   <div className="absolute top-3 left-3 bg-amber-600 text-white text-xs font-bold px-3 py-1 rounded-full shadow">
                     第 1 位

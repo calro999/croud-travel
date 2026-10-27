@@ -1,5 +1,5 @@
 ---
-title: "【福島・東白川】磐梯熱海温泉 ホテル栄楽館の宿泊記＆口コミ評判｜新しいスタイルの湯治を提案します・客室・朝食・アクセス（目安¥8,000〜）"
+title: "【福島・東白川】磐梯熱海温泉 ホテル栄楽館の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/bandaiatami-eirakukan-guide/"
 hotel_name: "磐梯熱海温泉 ホテル栄楽館"
 prefecture: "福島県"
@@ -10,7 +10,7 @@ review_count: 110
 last_modified: "2026-10-18"
 ---
 
-# 【福島・東白川】磐梯熱海温泉 ホテル栄楽館の宿泊記＆口コミ評判｜新しいスタイルの湯治を提案します・客室・朝食・アクセス（目安¥8,000〜）
+# 【福島・東白川】磐梯熱海温泉 ホテル栄楽館の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/bandaiatami-eirakukan-guide/
 - **宿泊施設・特集名**: 磐梯熱海温泉 ホテル栄楽館

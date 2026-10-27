@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '嬉野温泉をふるさと納税でお得に旅する！日本三大美肌の湯＆名物とろける温泉湯豆腐！茶香る歴史宿厳選ガイド｜和多屋別荘・大正屋・茶心の宿和楽園',
+  title: "嬉野温泉をふるさと納税でお得に旅する！日本三大美肌の湯＆名物とろける温泉湯豆腐！茶香る歴史宿厳選ガイド",
   description: '日本三大美肌の湯として名高い佐賀県・嬉野温泉を楽天ふるさと納税でお得に旅する！二万坪の広大な敷地を誇る「和多屋別荘」、吉村順三設計の美学が光る大正十四年創業の名門「大正屋」、日本初のお茶風呂を愉しむ「茶心の宿 和楽園」を徹底比較。とろける温泉湯豆腐・佐賀牛会席・嬉野市トラベルクーポン活用術を網羅。',
   keywords: '嬉野温泉 ふるさと納税,嬉野温泉 美肌 旅館,和多屋別荘 ふるさと納税,大正屋 嬉野 クーポン,嬉野市 ふるさと納税 宿泊',
   openGraph: {
-    title: '嬉野温泉をふるさと納税でお得に旅する！日本三大美肌の湯＆名物とろける温泉湯豆腐！茶香る歴史宿厳選ガイド｜和多屋別荘・大正屋・茶心の宿和楽園',
+    title: "嬉野温泉をふるさと納税でお得に旅する！日本三大美肌の湯＆名物とろける温泉湯豆腐！茶香る歴史宿厳選ガイド",
     description: '日本三大美肌の湯として名高い佐賀県・嬉野温泉を楽天ふるさと納税でお得に旅する！二万坪の広大な敷地を誇る「和多屋別荘」、吉村順三設計の美学が光る大正十四年創業の名門「大正屋」、日本初のお茶風呂を愉しむ「茶心の宿 和楽園」を徹底比較。とろける温泉湯豆腐・佐賀牛会席・嬉野市トラベルクーポン活用術を網羅。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-ureshino-onsen-bihada-tofu-stay/',
@@ -132,7 +132,7 @@ export default function FurusatoTaxArticle() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/40527/40527.jpg"
                 alt="嬉野温泉　和多屋別荘"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
               <div className="absolute top-4 left-4 bg-stone-900/80 backdrop-blur-sm text-white text-xs px-3 py-1.5 rounded-full font-semibold">
                 第1選

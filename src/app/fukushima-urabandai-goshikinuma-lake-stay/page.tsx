@@ -122,7 +122,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/151377/151377.jpg"
                           alt="裏磐梯レイクリゾート　迎賓館　猫魔離宮（旧：裏磐梯猫魔ホテル）"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy" decoding="async" />
+                        loading="eager" fetchPriority="high" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.5 (827+件)
                         </div>

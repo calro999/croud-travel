@@ -373,7 +373,7 @@ export default function KyotoEarlyMorningGuidePage() {
                           src={hotel.hotelImageUrl}
                           alt={hotel.hotelName}
                           className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                        loading="lazy" decoding="async" />
+                        loading="eager" fetchPriority="high" decoding="async" />
                         {hotel.nearestStation && (
                           <div className="absolute top-2 left-2 bg-black/70 backdrop-blur-sm text-white text-[11px] px-2 py-0.5 rounded font-medium">
                             最寄: {hotel.nearestStation}駅

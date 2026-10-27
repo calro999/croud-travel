@@ -122,7 +122,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/13915/13915.jpg"
                           alt="天橋立温泉　料理旅館　鳥喜"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy" decoding="async" />
+                        loading="eager" fetchPriority="high" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.8 (455+件)
                         </div>

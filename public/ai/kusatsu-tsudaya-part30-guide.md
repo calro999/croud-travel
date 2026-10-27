@@ -1,5 +1,5 @@
 ---
-title: "【群馬・吾妻】草津温泉 お宿つだやの温泉・露天風呂＆泉質ガイド｜5ツ星 認定の宿 華やかな近代和風旅館で草津最大級の"
+title: "【群馬・吾妻】草津温泉 お宿つだやの温泉・露天風呂＆泉質ガイド｜5ツ星 認定の宿 華やかな近代和風旅館で草津最大級徹底ガイド"
 url: "https://croud-travel.pages.dev/posts/kusatsu-tsudaya-part30-guide/"
 hotel_name: "草津温泉 お宿つだや"
 prefecture: "群馬県"
@@ -10,7 +10,7 @@ review_count: 5171
 last_modified: "2026-10-18"
 ---
 
-# 【群馬・吾妻】草津温泉 お宿つだやの温泉・露天風呂＆泉質ガイド｜5ツ星 認定の宿 華やかな近代和風旅館で草津最大級の
+# 【群馬・吾妻】草津温泉 お宿つだやの温泉・露天風呂＆泉質ガイド｜5ツ星 認定の宿 華やかな近代和風旅館で草津最大級徹底ガイド
 
 - **URL**: https://croud-travel.pages.dev/posts/kusatsu-tsudaya-part30-guide/
 - **宿泊施設・特集名**: 草津温泉 お宿つだや

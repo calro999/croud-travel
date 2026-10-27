@@ -173,7 +173,7 @@ export default function FurusatoMatsutakeAutumnGourmetStayPage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/67488/67488.jpg"
                   alt="別所温泉　観音様となりの宿　かしわや本店"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
                 <div className="absolute top-4 left-4 bg-stone-900/85 text-amber-300 text-xs font-bold px-3 py-1.5 rounded-full backdrop-blur-xs border border-amber-400/30">
                   厳選名宿 第1選

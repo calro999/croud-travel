@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '子どもが主役の夢の国！レゴランド・ジャパン公式ホテル＆名古屋ファミリー名宿×ふるさと納税極上旅ガイドレゴランドホテル・マリオット・ベッセル',
+  title: "子どもが主役の夢の国",
   description: 'レゴブロックの世界に泊まる感動体験！パークエントランス目の前の公式「レゴランド・ジャパン・ホテル」、JR名古屋駅直結の高級パートナー「名古屋マリオットアソシアホテル」、18歳以下添い寝無料で大人気の「ベッセルホテルカンパーナ名古屋」を、愛知県名古屋市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
   keywords: ["ジャパン公式ホテル", "2026年最新", "レゴランドホテル", "マリオット", "ベッセル", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-legoland-japan-official-hotel-stay/",
   },
   openGraph: {
-    title: '子どもが主役の夢の国！レゴランド・ジャパン公式ホテル＆名古屋ファミリー名宿×ふるさと納税極上旅ガイドレゴランドホテル・マリオット・ベッセル',
+    title: "子どもが主役の夢の国",
     description: 'レゴブロックの世界に泊まる感動体験！パークエントランス目の前の公式「レゴランド・ジャパン・ホテル」、JR名古屋駅直結の高級パートナー「名古屋マリオットアソシアホテル」、18歳以下添い寝無料で大人気の「ベッセルホテルカンパーナ名古屋」を、愛知県名古屋市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-legoland-japan-official-hotel-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',

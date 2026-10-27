@@ -1,5 +1,5 @@
 ---
-title: "【福島・会津若松市】会津東山温泉 向瀧の宿泊記＆口コミ評判｜会津藩から引き継いだ・源泉掛け流し認定・客室・朝食・アクセス（目安¥27,500〜）"
+title: "【福島・会津若松市】会津東山温泉 向瀧の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/higashiyama-mukaitaki-guide/"
 hotel_name: "会津東山温泉 向瀧"
 prefecture: "福島県"
@@ -10,7 +10,7 @@ review_count: 162
 last_modified: "2026-10-18"
 ---
 
-# 【福島・会津若松市】会津東山温泉 向瀧の宿泊記＆口コミ評判｜会津藩から引き継いだ・源泉掛け流し認定・客室・朝食・アクセス（目安¥27,500〜）
+# 【福島・会津若松市】会津東山温泉 向瀧の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/higashiyama-mukaitaki-guide/
 - **宿泊施設・特集名**: 会津東山温泉 向瀧

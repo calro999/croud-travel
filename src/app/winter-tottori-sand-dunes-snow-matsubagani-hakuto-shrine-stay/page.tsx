@@ -289,7 +289,7 @@ export default function TottoriSandDunesPage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/14072/14072.jpg" 
                         alt="鳥取温泉　観水庭こぜにや 外観・客室イメージ" 
                         className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

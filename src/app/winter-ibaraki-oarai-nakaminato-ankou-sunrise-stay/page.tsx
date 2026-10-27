@@ -273,7 +273,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/178205/178205.jpg" 
             alt="冬の大洗磯前神社神磯の鳥居と初日の出" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         

@@ -1,5 +1,5 @@
 ---
-title: "【北海道・千歳市】奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館の宿泊記＆口コミ評判｜国立公園の絶景温泉とサウナが自慢・客室・朝食・アクセス（目安¥10,000〜）"
+title: "【北海道・千歳市】奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/autumn-hokkaido-shikotsuko-gourmet-guide/"
 hotel_name: "奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館"
 prefecture: "北海道"
@@ -10,7 +10,7 @@ review_count: 966
 last_modified: "2026-10-18"
 ---
 
-# 【北海道・千歳市】奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館の宿泊記＆口コミ評判｜国立公園の絶景温泉とサウナが自慢・客室・朝食・アクセス（目安¥10,000〜）
+# 【北海道・千歳市】奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-hokkaido-shikotsuko-gourmet-guide/
 - **宿泊施設・特集名**: 奥札幌の秘湯 湖畔の宿支笏湖 丸駒温泉旅館

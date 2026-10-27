@@ -1,5 +1,5 @@
 ---
-title: "【神奈川・足柄下】箱根湯本温泉 吉池旅館の宿泊記＆口コミ評判｜６本の自家源泉と広大な日本庭園「山月園」が魅力の宿・源泉かけ・客室・朝食・アクセス（目安¥12,320〜）"
+title: "【神奈川・足柄下】箱根湯本温泉 吉池旅館の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-kanto-hakone-matsutake-gourmet-guide/"
 hotel_name: "箱根湯本温泉 吉池旅館"
 prefecture: "神奈川県"
@@ -10,7 +10,7 @@ review_count: 542
 last_modified: "2026-10-18"
 ---
 
-# 【神奈川・足柄下】箱根湯本温泉 吉池旅館の宿泊記＆口コミ評判｜６本の自家源泉と広大な日本庭園「山月園」が魅力の宿・源泉かけ・客室・朝食・アクセス（目安¥12,320〜）
+# 【神奈川・足柄下】箱根湯本温泉 吉池旅館の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-kanto-hakone-matsutake-gourmet-guide/
 - **宿泊施設・特集名**: 箱根湯本温泉 吉池旅館

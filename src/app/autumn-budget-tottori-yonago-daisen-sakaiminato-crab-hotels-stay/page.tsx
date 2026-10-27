@@ -414,7 +414,7 @@ export default function AutumnBudgetYonagoHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥1,990〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19434/19434_fro.jpg" alt="ホテル真田 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19434/19434_fro.jpg" alt="ホテル真田 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>低料金。無料朝食サービス。無料インターネツト（無線LAN）客室内装備。米子駅前徒歩３分。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 鳥取県米子市明治町197 ／ 最寄り駅：米子 ／ 交通案内：JR米子駅より徒歩3分の好立地です♪　米子自動車道 米子ICより車で1０分♪　米子空港よりバス電車で１５分♪</p>

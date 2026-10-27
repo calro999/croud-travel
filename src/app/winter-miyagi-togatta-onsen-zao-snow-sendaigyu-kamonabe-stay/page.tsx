@@ -447,7 +447,7 @@ export default function MiyagiTogattaWinterPage() {
                         src={hotel.img} 
                         alt={hotel.name}
                         className="w-full h-full object-cover"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                     <div className="w-full space-y-4">

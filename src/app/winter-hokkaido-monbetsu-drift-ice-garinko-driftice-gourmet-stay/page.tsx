@@ -290,7 +290,7 @@ export default function MonbetsuDriftIcePage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/14610/14610.jpg" 
                         alt="ホテルオホーツクパレス 外観・客室イメージ" 
                         className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

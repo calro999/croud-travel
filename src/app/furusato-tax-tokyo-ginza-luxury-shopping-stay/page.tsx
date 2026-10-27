@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '東京・銀座をふるさと納税でお得に旅する！歌舞伎座・ショッピング＆極上スカイビュー！大人の銀座ステイ特集｜三井ガーデン銀座プレミア・ミレニアム・モントレ',
+  title: "東京・銀座をふるさと納税でお得に旅する！歌舞伎座・ショッピング＆極上スカイビュー！大人の銀座ステイ特集",
   description: '日本一の格式とハイブランドが輝く街・東京都中央区「銀座」を楽天ふるさと納税でお得に贅沢ステイ！銀座随一の高層眺望とビューバスを誇る「三井ガーデンホテル銀座プレミア」、銀座四丁目交差点・歌舞伎座徒歩すぐの「ミレニアム 三井ガーデンホテル 東京」、パリのアパルトマン風「ホテルモントレ銀座」を徹底比較。中央区ふるさと納税トラベルクーポン活用術を網羅。',
   keywords: '銀座 ホテル ふるさと納税,三井ガーデンホテル銀座プレミア クーポン,ミレニアム銀座 ふるさと納税,ホテルモントレ銀座 宿泊,中央区 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-tokyo-ginza-luxury-shopping-stay/",
   },
   openGraph: {
-    title: '東京・銀座をふるさと納税でお得に旅する！歌舞伎座・ショッピング＆極上スカイビュー！大人の銀座ステイ特集｜三井ガーデン銀座プレミア・ミレニアム・モントレ',
+    title: "東京・銀座をふるさと納税でお得に旅する！歌舞伎座・ショッピング＆極上スカイビュー！大人の銀座ステイ特集",
     description: '日本一の格式とハイブランドが輝く街・東京都中央区「銀座」を楽天ふるさと納税でお得に贅沢ステイ！銀座随一の高層眺望とビューバスを誇る「三井ガーデンホテル銀座プレミア」、銀座四丁目交差点・歌舞伎座徒歩すぐの「ミレニアム 三井ガーデンホテル 東京」、パリのアパルトマン風「ホテルモントレ銀座」を徹底比較。中央区ふるさと納税トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-tokyo-ginza-luxury-shopping-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -148,7 +148,7 @@ export default function FurusatoArticlePage() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/41069/41069.jpg"
                 alt="三井ガーデンホテル銀座プレミア"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
               <div className="absolute top-4 left-4 bg-stone-900/80 backdrop-blur-sm text-white text-xs px-3 py-1.5 rounded-full font-semibold">
                 第1選

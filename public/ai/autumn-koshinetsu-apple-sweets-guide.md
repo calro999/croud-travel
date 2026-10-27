@@ -1,5 +1,5 @@
 ---
-title: "【長野・下高井】湯田中温泉 燈火、旬遊の宿 あぶらや燈千の宿泊記＆口コミ評判｜夕食は完全個室・客室・朝食・アクセス（目安¥9,405〜）"
+title: "【長野・下高井】湯田中温泉 燈火、旬遊の宿 あぶらや燈千の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/autumn-koshinetsu-apple-sweets-guide/"
 hotel_name: "湯田中温泉 燈火、旬遊の宿 あぶらや燈千"
 prefecture: "長野県"
@@ -10,7 +10,7 @@ review_count: 1506
 last_modified: "2026-10-18"
 ---
 
-# 【長野・下高井】湯田中温泉 燈火、旬遊の宿 あぶらや燈千の宿泊記＆口コミ評判｜夕食は完全個室・客室・朝食・アクセス（目安¥9,405〜）
+# 【長野・下高井】湯田中温泉 燈火、旬遊の宿 あぶらや燈千の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-koshinetsu-apple-sweets-guide/
 - **宿泊施設・特集名**: 湯田中温泉 燈火、旬遊の宿 あぶらや燈千

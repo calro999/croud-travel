@@ -712,7 +712,7 @@ export default function FurusatoTaxPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,000〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2974/2974_heya.jpg" alt="縄文のふる里　大湯温泉　ホテル鹿角 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2974/2974_heya.jpg" alt="縄文のふる里　大湯温泉　ホテル鹿角 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>開湯800年の名湯と四季折々の彩りが添えられた料理を楽しむ。箱根・富士屋ホテルや花巻温泉もグループ。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 秋田県鹿角市十和田大湯字中谷地５－１ ／ 最寄り駅：十和田南 ／ 交通案内：■十和田湖より車で30分■ＪＲ花輪線十和田南駅から車で１２分■東北道十和田ＩＣから国道１０３号線を十和田湖方面へ１２分</p>

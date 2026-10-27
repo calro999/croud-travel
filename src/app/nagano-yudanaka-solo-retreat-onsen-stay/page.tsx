@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-yudanaka-solo-retreat-onsen-stay/" },
-  title: '信州湯田中温泉ひとり旅・開湯千三百年おこもり：長命長寿の霊泉・スノーモンキー拠点・信州郷土会席！志賀高原の麓で静寂にととのう厳選3宿',
+  title: "信州湯田中温泉ひとり旅・開湯千三百年おこもり：長命長寿の霊泉・スノーモンキー拠点・信州郷土会席",
   description: '長野電鉄特急終着駅・湯田中温泉！大人の隠れ家で限定6室の贅と美肌湯が評判の「華灯りの宿 加命の湯」、源泉かけ流し貸切風呂と名物そば会席が愛される「安代館」、湯田中駅前で歴史ある温泉と心温まるもてなしの「清風荘」を楽天API最新データに基づき徹底比較。',
   keywords: '湯田中温泉 一人旅 宿,湯田中 ホテル 一人 温泉,加命の湯,安代館 湯田中,清風荘 湯田中,湯田中温泉 ひとり旅 おこもり',
   openGraph: {
-    title: '信州湯田中温泉ひとり旅・開湯千三百年おこもり：長命長寿の霊泉・スノーモンキー拠点・信州郷土会席！志賀高原の麓で静寂にととのう厳選3宿',
+    title: "信州湯田中温泉ひとり旅・開湯千三百年おこもり：長命長寿の霊泉・スノーモンキー拠点・信州郷土会席",
     description: '長野電鉄特急終着駅・湯田中温泉！大人の隠れ家で限定6室の贅と美肌湯が評判の「華灯りの宿 加命の湯」、源泉かけ流し貸切風呂と名物そば会席が愛される「安代館」、湯田中駅前で歴史ある温泉と心温まるもてなしの「清風荘」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/nagano-yudanaka-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -132,7 +132,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/44187/44187.jpg"
                   alt="信州湯田中温泉　華灯りの宿　加命の湯 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

@@ -181,7 +181,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/162886/162886.jpg"
                 alt="天然温泉 八雲の湯 ドーミーイン出雲（ドーミーイン・御宿野乃 ホテルズグループ）の外観・温泉風景"
                 className="w-full h-full object-cover"
-              loading="lazy" decoding="async" />
+              loading="eager" fetchPriority="high" decoding="async" />
             </div>
             <div className="flex flex-col justify-between">
               <div>

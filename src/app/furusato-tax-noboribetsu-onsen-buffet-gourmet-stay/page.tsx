@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '登別温泉をふるさと納税でお得に旅する！豪華バイキング＆名湯大浴場！北海道三大蟹と地獄谷の絶景を巡る宿ガイド｜まほろば・第一滝本館・登別グランドホテル',
+  title: "登別温泉をふるさと納税でお得に旅する！豪華バイキング＆名湯大浴場！北海道三大蟹と地獄谷の絶景を巡る宿ガイド",
   description: '日本有数の温泉大国・北海道登別温泉を楽天ふるさと納税でお得に満喫！三大蟹食べ放題ビュッフェと全31の湯巡りを誇る「ホテルまほろば」、千五百坪の大浴場に5つの源泉を引く老舗「第一滝本館」、庭園露天風呂と鬼サウナが話題の「登別グランドホテル」を徹底比較。登別市トラベルクーポン活用術を網羅。',
   keywords: '登別温泉 ふるさと納税,登別温泉 バイキング かに,ホテルまほろば ふるさと納税,第一滝本館 クーポン,登別グランドホテル ふるさと納税',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-noboribetsu-onsen-buffet-gourmet-stay/",
   },
   openGraph: {
-    title: '登別温泉をふるさと納税でお得に旅する！豪華バイキング＆名湯大浴場！北海道三大蟹と地獄谷の絶景を巡る宿ガイド｜まほろば・第一滝本館・登別グランドホテル',
+    title: "登別温泉をふるさと納税でお得に旅する！豪華バイキング＆名湯大浴場！北海道三大蟹と地獄谷の絶景を巡る宿ガイド",
     description: '日本有数の温泉大国・北海道登別温泉を楽天ふるさと納税でお得に満喫！三大蟹食べ放題ビュッフェと全31の湯巡りを誇る「ホテルまほろば」、千五百坪の大浴場に5つの源泉を引く老舗「第一滝本館」、庭園露天風呂と鬼サウナが話題の「登別グランドホテル」を徹底比較。登別市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-noboribetsu-onsen-buffet-gourmet-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -148,7 +148,7 @@ export default function FurusatoArticlePage() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/12568/12568.jpg"
                 alt="登別温泉　ホテル　まほろば"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
               <div className="absolute top-4 left-4 bg-stone-900/80 backdrop-blur-sm text-white text-xs px-3 py-1.5 rounded-full font-semibold">
                 第1選

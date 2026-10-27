@@ -1,5 +1,5 @@
 ---
-title: "【広島・廿日市】宮島潮湯温泉 錦水館の宿泊記＆口コミ評判｜温泉付スイートOPEN・客室・朝食・アクセス（目安¥29,700〜）"
+title: "【広島・廿日市】宮島潮湯温泉 錦水館の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/miyajima-kinsuikan-guide/"
 hotel_name: "宮島潮湯温泉 錦水館"
 prefecture: "広島県"
@@ -10,7 +10,7 @@ review_count: 1062
 last_modified: "2026-10-18"
 ---
 
-# 【広島・廿日市】宮島潮湯温泉 錦水館の宿泊記＆口コミ評判｜温泉付スイートOPEN・客室・朝食・アクセス（目安¥29,700〜）
+# 【広島・廿日市】宮島潮湯温泉 錦水館の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/miyajima-kinsuikan-guide/
 - **宿泊施設・特集名**: 宮島潮湯温泉 錦水館

@@ -1,5 +1,5 @@
 ---
-title: "【岐阜・下呂市】下呂温泉　小川屋の宿泊記＆口コミ評判｜楽天トラベルアワード金賞受賞・客室・朝食・アクセス（目安¥8,800〜）"
+title: "【岐阜・下呂市】下呂温泉　小川屋の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/gero-ogawaya-tatami-bath-spa-guide/"
 hotel_name: "下呂温泉　小川屋"
 prefecture: "岐阜県"
@@ -10,7 +10,7 @@ review_count: 5006
 last_modified: "2026-10-18"
 ---
 
-# 【岐阜・下呂市】下呂温泉　小川屋の宿泊記＆口コミ評判｜楽天トラベルアワード金賞受賞・客室・朝食・アクセス（目安¥8,800〜）
+# 【岐阜・下呂市】下呂温泉　小川屋の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/gero-ogawaya-tatami-bath-spa-guide/
 - **宿泊施設・特集名**: 下呂温泉　小川屋

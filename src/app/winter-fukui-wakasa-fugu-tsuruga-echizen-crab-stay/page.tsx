@@ -273,7 +273,7 @@ export default function FukuiWakasaFuguWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/72715/72715.jpg" 
             alt="冬の若狭湾と三方五湖の風景" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-teal-950/60 to-transparent" />
         

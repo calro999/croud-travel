@@ -273,7 +273,7 @@ export default function IbarakiFukurodaIceWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/37878/37878.jpg" 
             alt="冬の袋田の滝氷瀑と奥久慈の山里風景" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         

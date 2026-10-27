@@ -465,7 +465,7 @@ export default function MieIseshimaWinterPage() {
                       src={hotel.img} 
                       alt={hotel.name}
                       className="w-full h-full object-cover absolute inset-0"
-                      loading="lazy"
+                      loading="eager" fetchPriority="high"
                     />
                     <div className="absolute top-3 left-3 bg-amber-900/90 text-white text-xs font-black px-2.5 py-1 rounded-md shadow">
                       第{hotel.id}選

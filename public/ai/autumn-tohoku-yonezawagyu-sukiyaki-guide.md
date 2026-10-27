@@ -1,5 +1,5 @@
 ---
-title: "【山形・米沢市】湯の沢温泉 時の宿すみれの宿泊記＆口コミ評判｜10室だけのおふたり様専用宿・米沢牛創作懐石と美肌の湯で特別・客室・朝食・アクセス（目安¥28,900〜）"
+title: "【山形・米沢市】湯の沢温泉 時の宿すみれの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-tohoku-yonezawagyu-sukiyaki-guide/"
 hotel_name: "湯の沢温泉 時の宿すみれ"
 prefecture: "山形県"
@@ -10,7 +10,7 @@ review_count: 134
 last_modified: "2026-10-18"
 ---
 
-# 【山形・米沢市】湯の沢温泉 時の宿すみれの宿泊記＆口コミ評判｜10室だけのおふたり様専用宿・米沢牛創作懐石と美肌の湯で特別・客室・朝食・アクセス（目安¥28,900〜）
+# 【山形・米沢市】湯の沢温泉 時の宿すみれの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-tohoku-yonezawagyu-sukiyaki-guide/
 - **宿泊施設・特集名**: 湯の沢温泉 時の宿すみれ

@@ -635,7 +635,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥7,300〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19545/19545_r.jpg" alt="ホテルルートイン長岡駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/19545/19545_r.jpg" alt="ホテルルートイン長岡駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR長岡駅より徒歩約3分　ホテルルートイン長岡駅前</p>
                   <p><strong>【所在地・アクセス】</strong>〒 新潟県長岡市城内町1-1-5 ／ 最寄り駅：長岡 ／ 交通案内：JR上越新幹線 長岡駅大手スカイデッキを通り徒歩3分（雨に濡れずお越し頂けます）／関越道長岡ICより車で20分</p>

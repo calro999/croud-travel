@@ -301,7 +301,7 @@ export default function FeaturePage() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Teradomari_Fish_Market_Street_20081013.jpg/1280px-Teradomari_Fish_Market_Street_20081013.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="日本海魚のアメ横・寺泊海岸通り（冬のズワイガニと寒ブリ市場）"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
                 <div className="absolute top-3 left-3 bg-cyan-600/90 text-white text-[10px] font-bold px-2 py-0.5 rounded">
                   名所アーカイブ

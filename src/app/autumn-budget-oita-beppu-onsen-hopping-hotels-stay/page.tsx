@@ -447,7 +447,7 @@ export default function BeppuBudgetAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥7,700〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28628/28628_r.jpg" alt="別府温泉　天空湯房　清海荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28628/28628_r.jpg" alt="別府温泉　天空湯房　清海荘 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>別府で唯一の別府湾の絶景をお楽しみいただける展望貸切露天風呂を十分ご堪能下さい。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 大分県別府市北浜3丁目14-3 ／ 最寄り駅：別府（大分） ／ 交通案内：ＪＲ別府駅～徒歩１5分／別府ＩＣ～お車で１５分</p>

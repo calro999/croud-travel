@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-kamisuwa-solo-retreat-lakeview-onsen-stay/" },
-  title: '信州・上諏訪温泉ひとり旅・諏訪湖パノラマおこもり：自家源泉掛け流し・諏訪大社四社巡り・信州サーモン＆地酒呑み歩き！特急あずさ直通の湖畔厳選3宿',
+  title: "信州・上諏訪温泉ひとり旅・諏訪湖パノラマおこもり：自家源泉掛け流し・諏訪大社四社巡り・信州サーモン＆地酒呑み歩き",
   description: '諏訪湖の雄大な水景と名湯に癒やされる信州屈指の温泉地・上諏訪！創業百有余年の老舗で諏訪湖を望む露天風呂が自慢の「ぬのはん」、庭園露天風呂と琥珀色の独自源泉が極上の「ホテル鷺乃湯」、大正初期の面影を残し自家源泉100%掛け流しを誇る「渋の湯」を楽天API最新データに基づき徹底比較。',
   keywords: '上諏訪温泉 一人旅 宿,上諏訪 ホテル 一人 温泉,ぬのはん 上諏訪,ホテル鷺乃湯,渋の湯 上諏訪,諏訪湖 ひとり旅 おこもり',
   openGraph: {
-    title: '信州・上諏訪温泉ひとり旅・諏訪湖パノラマおこもり：自家源泉掛け流し・諏訪大社四社巡り・信州サーモン＆地酒呑み歩き！特急あずさ直通の湖畔厳選3宿',
+    title: "信州・上諏訪温泉ひとり旅・諏訪湖パノラマおこもり：自家源泉掛け流し・諏訪大社四社巡り・信州サーモン＆地酒呑み歩き",
     description: '諏訪湖の雄大な水景と名湯に癒やされる信州屈指の温泉地・上諏訪！創業百有余年の老舗で諏訪湖を望む露天風呂が自慢の「ぬのはん」、庭園露天風呂と琥珀色の独自源泉が極上の「ホテル鷺乃湯」、大正初期の面影を残し自家源泉100%掛け流しを誇る「渋の湯」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/nagano-kamisuwa-solo-retreat-lakeview-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -132,7 +132,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/7071/7071.jpg"
                   alt="上諏訪温泉　ぬのはん 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

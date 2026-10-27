@@ -1,5 +1,5 @@
 ---
-title: "【北海道・川上】川湯温泉Base＆温泉 川湯第一ホテル忍の宿泊記＆口コミ評判｜H20年露天風呂をリニューアル・川湯の温泉が3種類の温度で楽・客室・朝食・アクセス（目安¥12,330〜）"
+title: "【北海道・川上】川湯温泉Base＆温泉 川湯第一ホテル忍の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/kawayu-shinobu-guide/"
 hotel_name: "川湯温泉Base＆温泉 川湯第一ホテル忍"
 prefecture: "北海道"
@@ -10,7 +10,7 @@ review_count: 778
 last_modified: "2026-10-18"
 ---
 
-# 【北海道・川上】川湯温泉Base＆温泉 川湯第一ホテル忍の宿泊記＆口コミ評判｜H20年露天風呂をリニューアル・川湯の温泉が3種類の温度で楽・客室・朝食・アクセス（目安¥12,330〜）
+# 【北海道・川上】川湯温泉Base＆温泉 川湯第一ホテル忍の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/kawayu-shinobu-guide/
 - **宿泊施設・特集名**: 川湯温泉Base＆温泉 川湯第一ホテル忍

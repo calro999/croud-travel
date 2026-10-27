@@ -4,13 +4,13 @@ import Link from 'next/link';
 import { Star, MapPin, Calendar, Compass, ShieldCheck, Heart, Sparkles, ExternalLink, ChevronRight } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '讃岐の風待ち港町・引田の商家町と白鳥神社新春初詣：2026-2027年冬の香川・東かがわ！安戸池の冬オリーブハマチと瀬戸内温泉名宿5選',
+  title: "讃岐の風待ち港町・引田の商家町と白鳥神社新春初詣：2026-2027年冬の香川・東かがわ",
   description: '日本初のハマチ養殖発祥・安戸池の冬オリーブハマチと、日本武尊白鳥伝説の白鳥神社新春初詣！風待ち港町・引田のレトロ商家町散策。瀬戸内海の潮騒と美肌温泉で心身を解きほぐす冬の東かがわ・さぬき厳選名宿5選。',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-kagawa-higashikagawa-hiketa-shirotori-shrine-hamachi-stay/',
   },
   openGraph: {
-    title: '讃岐の風待ち港町・引田の商家町と白鳥神社新春初詣：2026-2027年冬の香川・東かがわ！安戸池の冬オリーブハマチと瀬戸内温泉名宿5選',
+    title: "讃岐の風待ち港町・引田の商家町と白鳥神社新春初詣：2026-2027年冬の香川・東かがわ",
     description: '日本初のハマチ養殖発祥・安戸池の冬オリーブハマチと、日本武尊白鳥伝説の白鳥神社新春初詣！風待ち港町・引田のレトロ商家町散策。瀬戸内海の潮騒と美肌温泉で心身を解きほぐす冬の東かがわ・さぬき厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-kagawa-higashikagawa-hiketa-shirotori-shrine-hamachi-stay/',
     siteName: '冬の日本厳選旅行ガイド',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '讃岐の風待ち港町・引田の商家町と白鳥神社新春初詣：2026-2027年冬の香川・東かがわ！安戸池の冬オリーブハマチと瀬戸内温泉名宿5選',
+    title: "讃岐の風待ち港町・引田の商家町と白鳥神社新春初詣：2026-2027年冬の香川・東かがわ",
     description: '日本初のハマチ養殖発祥・安戸池の冬オリーブハマチと、日本武尊白鳥伝説の白鳥神社新春初詣！風待ち港町・引田のレトロ商家町散策。瀬戸内海の潮騒と美肌温泉で心身を解きほぐす冬の東かがわ・さぬき厳選名宿5選。',
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/68660/68660.jpg'],
   },
@@ -206,7 +206,7 @@ export default function Page() {
               src="https://img.travel.rakuten.co.jp/share/HOTEL/68660/68660.jpg"
               alt="背景画像"
               className="w-full h-full object-cover blur-sm"
-            loading="lazy" decoding="async" />
+            loading="eager" fetchPriority="high" decoding="async" />
           </div>
           <div className="max-w-4xl mx-auto relative z-10 space-y-4">
             <div className="flex flex-wrap items-center gap-2 text-xs">

@@ -8,11 +8,11 @@ export const metadata: Metadata = {
     canonical: "https://croud-travel.pages.dev/autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay/",
   },
 
-  title: '秋の高知×格安：高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
+  title: "秋の高知×格安：高知城の紅葉とひろめ市場のカツオ藁焼き",
   description: '追手門と天守が一枚の写真に収まる名城・高知城の秋紅葉と、日曜市・ひろめ市場の戻りカツオ藁焼きタタキ！大浴場やサウナ完備で1泊3,000円〜6,000円台で泊まれる高知市内の格安ホテル5選。サウスブリーズホテル、ホテル高砂などを徹底比較！',
   keywords: '高知 格安 ホテル, 高知 大浴場 サウナ ホテル, 高知城 紅葉, ひろめ市場 カツオのタタキ, サウスブリーズホテル高知海月, ホテル高砂 高知',
   openGraph: {
-    title: '秋の高知×格安：高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
+    title: "秋の高知×格安：高知城の紅葉とひろめ市場のカツオ藁焼き",
     description: '高知城の紅葉とひろめ市場の戻りカツオ！大浴場付き1泊3,000円〜6,000円台のコスパ最強高知ホテル5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/autumn-budget-kochi-castle-hirome-market-onsen-hotels-stay/',
@@ -447,7 +447,7 @@ export default function KochiBudgetAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,200〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16087/16087_room.jpg" alt="ホテル高砂＜高知県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16087/16087_room.jpg" alt="ホテル高砂＜高知県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高知駅徒歩３分繁華街まで徒歩５分圏内 とにかく立地が良い和モダンなホテルです。全室禁煙です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 高知県高知市駅前町2-1 ／ 最寄り駅：高知 ／ 交通案内：高知駅より徒歩３分。繁華街まで５分圏内、高知IC車１０分。高知空港から車で３０分。</p>

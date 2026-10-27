@@ -592,7 +592,7 @@ export default function Page() {
             </p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Matsushima_miyagi_z.JPG/1280px-Matsushima_miyagi_z.JPG?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="松島（日本三景）" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Matsushima_miyagi_z.JPG/1280px-Matsushima_miyagi_z.JPG?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="松島（日本三景）" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
                 <h3 className="text-base font-bold text-stone-900">松島（日本三景）</h3>

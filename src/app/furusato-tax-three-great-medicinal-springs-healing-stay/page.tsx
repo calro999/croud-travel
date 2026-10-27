@@ -636,7 +636,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥20,200〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14679/14679_war.jpg" alt="松之山温泉　ひなの宿　ちとせ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14679/14679_war.jpg" alt="松之山温泉　ひなの宿　ちとせ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日本三大薬湯、地産料理、里山朝ごはん、靴を脱いだら畳敷きの館内。素朴さが贅沢な心にも身体にも優しい宿</p>
                   <p><strong>【所在地・アクセス】</strong>〒 新潟県十日町市松之山湯本49-1 ／ 最寄り駅：まつだい ／ 交通案内：ほくほく線まつだい駅より定時送迎あり（要予約）/ 関越道・塩沢石打ICより353号約50分/無料屋内駐車場（最大17台）</p>

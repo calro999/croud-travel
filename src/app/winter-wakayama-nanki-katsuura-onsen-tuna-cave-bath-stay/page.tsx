@@ -334,7 +334,7 @@ export default function NankiKatsuuraWinterPage() {
                       src={h.img} 
                       alt={h.name}
                       className="absolute inset-0 w-full h-full object-cover"
-                      loading="lazy"
+                      loading="eager" fetchPriority="high"
                     />
                     <div className="absolute top-4 left-4 bg-slate-900/85 backdrop-blur-md text-rose-300 px-3 py-1.5 rounded-full text-xs font-bold flex items-center gap-1.5 shadow-sm">
                       <Star className="w-3.5 h-3.5 fill-rose-400 text-rose-400" />

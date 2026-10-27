@@ -1,5 +1,5 @@
 ---
-title: "【鴨川館】宿泊記＆口コミ評判｜客室温泉露天風呂・朝食バイキング・鴨川シーワールド徒歩3分・最安値予約ガイド（2026最新）"
+title: "【鴨川館】の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/kamogawakan-guide/"
 hotel_name: "鴨川館"
 prefecture: "千葉県"
@@ -10,7 +10,7 @@ review_count: 1492
 last_modified: "2026-10-18"
 ---
 
-# 【鴨川館】宿泊記＆口コミ評判｜客室温泉露天風呂・朝食バイキング・鴨川シーワールド徒歩3分・最安値予約ガイド（2026最新）
+# 【鴨川館】の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/kamogawakan-guide/
 - **宿泊施設・特集名**: 鴨川館

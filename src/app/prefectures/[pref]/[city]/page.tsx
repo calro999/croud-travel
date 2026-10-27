@@ -297,7 +297,7 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
                       width={600}
                       height={338}
                       className="w-full h-full object-cover"
-                      loading="lazy"
+                      loading="eager" fetchPriority="high"
                       decoding="async"
                     />
                   ) : (

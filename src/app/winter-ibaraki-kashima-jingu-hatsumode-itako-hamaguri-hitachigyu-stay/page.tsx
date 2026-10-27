@@ -305,7 +305,7 @@ export default function FeaturePage() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Kashima-jingu_haiden-1.JPG/1280px-Kashima-jingu_haiden-1.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="東国三社筆頭・常陸国一宮 鹿島神宮（武甕槌大神の霊場と御手洗池）"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
                 <div className="absolute top-3 left-3 bg-cyan-600/90 text-white text-[10px] font-bold px-2 py-0.5 rounded">
                   名所アーカイブ

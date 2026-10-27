@@ -414,7 +414,7 @@ export default function AutumnBudgetYamagataHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,227〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1691/1691_twn.jpg" alt="山形グランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1691/1691_twn.jpg" alt="山形グランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★2025年7月ラウンジNew OPEN★ 地元繁華街まで徒歩3分の立地です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山形県山形市本町1-7-42 ／ 最寄り駅：山形 ／ 交通案内：JR山形駅から車で5分。市内中心街に立地。中心街１００円循環バスで山形駅より５分。（運行時間/9:30～18:30）</p>

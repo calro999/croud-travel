@@ -289,7 +289,7 @@ export default function GotembaTokinosumikaPage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/67487/67487.jpg" 
                         alt="御殿場高原　時之栖(ときのすみか) 外観・客室イメージ" 
                         className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

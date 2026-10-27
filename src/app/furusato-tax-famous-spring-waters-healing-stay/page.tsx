@@ -412,7 +412,7 @@ export default function FurusatoUpgradedPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥30,500〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/74601/74601_ky1.jpg" alt="南阿蘇夢しずく温泉　別邸蘇庵 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/74601/74601_ky1.jpg" alt="南阿蘇夢しずく温泉　別邸蘇庵 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>四季折々の味覚と温泉・快適な客室が魅力の人気宿。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南阿蘇村河陰5-56 ／ 最寄り駅：白水高原 ／ 交通案内：【長陽大橋開通】熊本ICより57号線経由車で50分・【 俵山トンネル経由】 熊本空港より車で約30分</p>

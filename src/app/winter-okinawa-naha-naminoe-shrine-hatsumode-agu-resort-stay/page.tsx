@@ -348,7 +348,7 @@ export default function OkinawaNahaWinterPage() {
                     src={hotel.img}
                     alt={hotel.name}
                     className="w-full h-full object-cover object-center transform hover:scale-105 transition-transform duration-500"
-                    loading="lazy"
+                    loading="eager" fetchPriority="high"
                   />
                   <div className="absolute top-4 left-4 bg-slate-900/85 backdrop-blur-md text-white text-xs font-bold px-3 py-1.5 rounded-full flex items-center gap-1 shadow-md">
                     <Star className="w-3.5 h-3.5 text-amber-400 fill-amber-400" />

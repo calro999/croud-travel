@@ -8,11 +8,11 @@ export const metadata: Metadata = {
     canonical: "https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay/",
   },
 
-  title: '秋の熊本×格安：熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」',
+  title: "秋の熊本×格安：熊本城の巨大銀杏と阿蘇すすき草原",
   description: '別名「銀杏城」と呼ばれる熊本城の黄金に輝く大イチョウと阿蘇大観峰のすすき草原！熊本ラーメンやあか牛グルメを満喫。サウナの聖地「湯らっくす」や天然温泉付きで1泊4,000円〜7,000円台で泊まれる熊本のコスパ最強ホテル5選をご紹介。レフ熊本、スーパーホテル熊本駅前などを徹底比較！',
   keywords: '熊本 格安 ホテル, 熊本 天然温泉 サウナ ホテル, 熊本城 銀杏 紅葉, 阿蘇 すすき 宿, 湯らっくす 熊本, レフ熊本 ベッセルホテルズ',
   openGraph: {
-    title: '秋の熊本×格安：熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」',
+    title: "秋の熊本×格安：熊本城の巨大銀杏と阿蘇すすき草原",
     description: '熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強熊本ホテル5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/autumn-budget-kumamoto-castle-ginkgo-onsen-sauna-hotels-stay/',
@@ -447,7 +447,7 @@ export default function KumamotoBudgetAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,400〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183439/183439.jpg" alt="天然温泉　神水美肌の湯　スーパーホテル熊本駅前天然温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183439/183439.jpg" alt="天然温泉　神水美肌の湯　スーパーホテル熊本駅前天然温泉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■JR熊本駅目の前■男女別天然温泉完備。無料のウェルカムバー・焼立てパン健康朝食をご用意！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 熊本県熊本市西区春日2-3-23 ／ 最寄り駅：熊本 ／ 交通案内：JR熊本駅白川口（東口）より徒歩２分/九州自動車道 『熊本IC』より車で約30分</p>

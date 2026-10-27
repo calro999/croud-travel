@@ -381,7 +381,7 @@ export default function YokohamaMinatomiraiWinterPage() {
                         src={h.img} 
                         alt={h.name}
                         className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
 

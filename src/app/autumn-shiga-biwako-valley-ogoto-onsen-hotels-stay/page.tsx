@@ -429,7 +429,7 @@ export default function BiwakoOgotoAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥22,770〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8798/8798_heya.jpg" alt="おごと温泉　びわ湖花街道 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/8798/8798_heya.jpg" alt="おごと温泉　びわ湖花街道 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>湖も碧、山の蒼。時を忘れ。そして心がほどける。湖国が織りなす季節に移ろいを感じて。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 滋賀県大津市雄琴1-1-3 ／ 最寄り駅：雄琴 ／ 交通案内：車：名神京都東ＩＣ～約20分　電車：京都駅よりJR湖西線で20分。おごと温泉駅～無料送迎あり。（要連絡）</p>

@@ -414,7 +414,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,800〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/207/207_ky.jpg" alt="ホテル　サンフレックス鹿児島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/207/207_ky.jpg" alt="ホテル　サンフレックス鹿児島 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>鹿児島最大の繁華街『天文館』や離島高速船にも近くて閑静なスタイリッシュホテル。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 鹿児島県鹿児島市堀江町19-14 ／ 最寄り駅：鹿児島中央 ／ 交通案内：鹿児島中央駅より市電「いづろ通」徒歩３分・空港リムジンバス「天文館」５分・高速船旅客ターミナル徒歩７分</p>

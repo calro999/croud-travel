@@ -342,7 +342,7 @@ export default function OsakaAmazingPassPage() {
                         src={hotel.hotelImageUrl}
                         alt={hotel.hotelName}
                         className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                      loading="lazy" decoding="async" />
+                      loading="eager" fetchPriority="high" decoding="async" />
                       {hotel.nearestStation && (
                         <div className="absolute top-3 left-3 bg-rose-900/90 text-rose-100 text-xs font-semibold px-2.5 py-1 rounded-md backdrop-blur-sm">
                           最寄：{hotel.nearestStation}駅

@@ -4,13 +4,13 @@ import Link from 'next/link';
 import { Star, MapPin, Calendar, Compass, ShieldCheck, Heart, Sparkles, ExternalLink, ChevronRight } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '日本三大山城・岩村城跡の霧氷美と女城主の里重伝建：2026-2027年冬の岐阜・恵那！恵那峡温泉の絶景露天と飛騨牛朴葉味噌・五平餅名宿5選',
+  title: "日本三大山城・岩村城跡の霧氷美と女城主の里重伝建：2026-2027年冬の岐阜・恵那",
   description: '霧氷と白雪に抱かれる日本三大山城「岩村城跡」と江戸情緒残る城下町重伝建地区！冬の奇岩パノラマ恵那峡温泉の絶景露天風呂。香ばしい郷土の五平餅や極上飛騨牛の朴葉味噌焼きに満たされる冬の東濃・恵那の厳選名宿5選。',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-gifu-ena-iwamura-castle-snow-enakyo-onsen-goheimochi-hidagyu-stay/',
   },
   openGraph: {
-    title: '日本三大山城・岩村城跡の霧氷美と女城主の里重伝建：2026-2027年冬の岐阜・恵那！恵那峡温泉の絶景露天と飛騨牛朴葉味噌・五平餅名宿5選',
+    title: "日本三大山城・岩村城跡の霧氷美と女城主の里重伝建：2026-2027年冬の岐阜・恵那",
     description: '霧氷と白雪に抱かれる日本三大山城「岩村城跡」と江戸情緒残る城下町重伝建地区！冬の奇岩パノラマ恵那峡温泉の絶景露天風呂。香ばしい郷土の五平餅や極上飛騨牛の朴葉味噌焼きに満たされる冬の東濃・恵那の厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-gifu-ena-iwamura-castle-snow-enakyo-onsen-goheimochi-hidagyu-stay/',
     siteName: '冬の日本厳選旅行ガイド',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '日本三大山城・岩村城跡の霧氷美と女城主の里重伝建：2026-2027年冬の岐阜・恵那！恵那峡温泉の絶景露天と飛騨牛朴葉味噌・五平餅名宿5選',
+    title: "日本三大山城・岩村城跡の霧氷美と女城主の里重伝建：2026-2027年冬の岐阜・恵那",
     description: '霧氷と白雪に抱かれる日本三大山城「岩村城跡」と江戸情緒残る城下町重伝建地区！冬の奇岩パノラマ恵那峡温泉の絶景露天風呂。香ばしい郷土の五平餅や極上飛騨牛の朴葉味噌焼きに満たされる冬の東濃・恵那の厳選名宿5選。',
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/80774/80774.jpg'],
   },
@@ -206,7 +206,7 @@ export default function Page() {
               src="https://img.travel.rakuten.co.jp/share/HOTEL/80774/80774.jpg"
               alt="背景画像"
               className="w-full h-full object-cover blur-sm"
-            loading="lazy" decoding="async" />
+            loading="eager" fetchPriority="high" decoding="async" />
           </div>
           <div className="max-w-4xl mx-auto relative z-10 space-y-4">
             <div className="flex flex-wrap items-center gap-2 text-xs">

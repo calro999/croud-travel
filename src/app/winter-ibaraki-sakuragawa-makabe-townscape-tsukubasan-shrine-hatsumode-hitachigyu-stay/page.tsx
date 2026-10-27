@@ -9,11 +9,11 @@ export const metadata: Metadata = {
     canonical: "https://croud-travel.pages.dev/winter-ibaraki-sakuragawa-makabe-townscape-tsukubasan-shrine-hatsumode-hitachigyu-stay/",
   },
 
-  title: '常陸国の蔵の街・真壁の町並み重伝建と筑波山神社新春初詣：2026-2027年冬の茨城・桜川＆筑波！名物常陸秋そばと常陸牛会席名宿5選',
+  title: "常陸国の蔵の街・真壁の町並み重伝建と筑波山神社新春初詣：2026-2027年冬の茨城・桜川＆筑波",
   description: '国の重伝建・登録文化財が100棟以上連なる蔵の街「真壁の町並み」の冬風情と、関東屈指の開運霊峰「筑波山神社」新春初詣！冬に風味際立つ極上「常陸秋そば」や霜降り常陸牛、筑波山温泉郷の絶景雪見露天風呂。澄み切った関東平野の冬空の下、悠久の歴史と美肌温泉に浸る厳選名宿5選。',
   keywords: ['桜川・真壁・筑波山北麓・つくば', '茨城県', '冬旅行', '温泉旅館', '楽天トラベル', 'ふるさと納税', 'ホテルおすすめ'],
   openGraph: {
-    title: '常陸国の蔵の街・真壁の町並み重伝建と筑波山神社新春初詣：2026-2027年冬の茨城・桜川＆筑波！名物常陸秋そばと常陸牛会席名宿5選',
+    title: "常陸国の蔵の街・真壁の町並み重伝建と筑波山神社新春初詣：2026-2027年冬の茨城・桜川＆筑波",
     description: '国の重伝建・登録文化財が100棟以上連なる蔵の街「真壁の町並み」の冬風情と、関東屈指の開運霊峰「筑波山神社」新春初詣！冬に風味際立つ極上「常陸秋そば」や霜降り常陸牛、筑波山温泉郷の絶景雪見露天風呂。澄み切った関東平野の冬空の下、悠久の歴史と美肌温泉に浸る厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-ibaraki-sakuragawa-makabe-townscape-tsukubasan-shrine-hatsumode-hitachigyu-stay/',
     siteName: '旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '常陸国の蔵の街・真壁の町並み重伝建と筑波山神社新春初詣：2026-2027年冬の茨城・桜川＆筑波！名物常陸秋そばと常陸牛会席名宿5選',
+    title: "常陸国の蔵の街・真壁の町並み重伝建と筑波山神社新春初詣：2026-2027年冬の茨城・桜川＆筑波",
     description: '国の重伝建・登録文化財が100棟以上連なる蔵の街「真壁の町並み」の冬風情と、関東屈指の開運霊峰「筑波山神社」新春初詣！冬に風味際立つ極上「常陸秋そば」や霜降り常陸牛、筑波山温泉郷の絶景雪見露天風呂。澄み切った関東平野の冬空の下、悠久の歴史と美肌温泉に浸る厳選名宿5選。',
   },
 };
@@ -274,7 +274,7 @@ export default function FeaturePage() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Ushioda-ke_House.JPG/1280px-Ushioda-ke_House.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="真壁町"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full space-y-3">

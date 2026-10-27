@@ -194,7 +194,7 @@ export default function FurusatoNarukokyoAkiuAutumnFoliageStayPage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/106139/106139.jpg"
                         alt="鳴子温泉郷　極上の貸切露天風呂　旅館大沼"
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

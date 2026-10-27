@@ -290,7 +290,7 @@ export default function SilverWeekGlampingKidsPlayActivityPage() {
                     src={hotel.hotelImageUrl}
                     alt={hotel.hotelName}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                    loading="lazy"
+                    loading="eager" fetchPriority="high"
                   />
                   {hotel.hotelMinCharge && (
                     <div className="absolute bottom-3 right-3 bg-stone-950/80 backdrop-blur-sm text-white px-3 py-1 rounded-full text-xs font-black shadow-md border border-amber-500/40">

@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '舞浜直結！東京ディズニーリゾート公式オフィシャルホテル×ふるさと納税極上旅ガイドシェラトン・ヒルトン・グランドニッコーで夢の国をお得に満喫',
+  title: "舞浜直結",
   description: 'パークの目の前に泊まる夢の体験！ディズニーリゾートライン駅前でパーク直通シャトル運行、入園保証やホテル内バゲッジデリバリーなど特典満載のオフィシャルホテル。「シェラトン・グランデ・トーキョーベイ・ホテル」「ヒルトン東京ベイ」「グランドニッコー東京ベイ 舞浜」を、千葉県浦安市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
   keywords: ["2026年最新", "シェラトン", "ヒルトン", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-tokyo-disney-resort-official-hotel-stay/",
   },
   openGraph: {
-    title: '舞浜直結！東京ディズニーリゾート公式オフィシャルホテル×ふるさと納税極上旅ガイドシェラトン・ヒルトン・グランドニッコーで夢の国をお得に満喫',
+    title: "舞浜直結",
     description: 'パークの目の前に泊まる夢の体験！ディズニーリゾートライン駅前でパーク直通シャトル運行、入園保証やホテル内バゲッジデリバリーなど特典満載のオフィシャルホテル。「シェラトン・グランデ・トーキョーベイ・ホテル」「ヒルトン東京ベイ」「グランドニッコー東京ベイ 舞浜」を、千葉県浦安市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-tokyo-disney-resort-official-hotel-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',

@@ -1,5 +1,5 @@
 ---
-title: "【静岡・焼津市】焼津温泉 焼津グランドホテルの宿泊記＆口コミ評判｜RakutenTravel・オールインクルーシブ人気宿・客室・朝食・アクセス（目安¥26,600〜）"
+title: "【静岡・焼津市】焼津温泉 焼津グランドホテルの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-tokai-shizuhama-maguro-guide/"
 hotel_name: "焼津温泉 焼津グランドホテル"
 prefecture: "静岡県"
@@ -10,7 +10,7 @@ review_count: 3166
 last_modified: "2026-10-18"
 ---
 
-# 【静岡・焼津市】焼津温泉 焼津グランドホテルの宿泊記＆口コミ評判｜RakutenTravel・オールインクルーシブ人気宿・客室・朝食・アクセス（目安¥26,600〜）
+# 【静岡・焼津市】焼津温泉 焼津グランドホテルの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-tokai-shizuhama-maguro-guide/
 - **宿泊施設・特集名**: 焼津温泉 焼津グランドホテル

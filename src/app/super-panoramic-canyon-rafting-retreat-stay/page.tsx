@@ -250,7 +250,7 @@ export default function FeatureDetailPage() {
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/16280/16280.jpg"
                     alt="国登録有形文化財の宿　人吉温泉　芳野旅館"
                     className="w-full h-full object-cover"
-                    loading="lazy"
+                    loading="eager" fetchPriority="high"
                   />
                   <div className="absolute top-3 left-3 bg-amber-600 text-white text-xs font-bold px-3 py-1 rounded-full shadow">
                     第 1 位

@@ -1,5 +1,5 @@
 ---
-title: "【三重・鳥羽市】鳥羽国際ホテルの宿泊記＆口コミ評判｜鳥羽駅からシャトルバスで5分・神宮から車で約20分・客室・朝食・アクセス（目安¥12,100〜）"
+title: "【三重・鳥羽市】鳥羽国際ホテルの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-tokai-iseebi-gourmet-guide/"
 hotel_name: "鳥羽国際ホテル"
 prefecture: "三重県"
@@ -10,7 +10,7 @@ review_count: 1134
 last_modified: "2026-10-18"
 ---
 
-# 【三重・鳥羽市】鳥羽国際ホテルの宿泊記＆口コミ評判｜鳥羽駅からシャトルバスで5分・神宮から車で約20分・客室・朝食・アクセス（目安¥12,100〜）
+# 【三重・鳥羽市】鳥羽国際ホテルの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-tokai-iseebi-gourmet-guide/
 - **宿泊施設・特集名**: 鳥羽国際ホテル

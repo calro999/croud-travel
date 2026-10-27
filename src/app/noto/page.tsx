@@ -478,7 +478,7 @@ export default function NotoGuidePage() {
                       src={post.image}
                       alt={post.title || "image"}
                       className="w-full h-full object-cover"
-                      loading="lazy"
+                      loading="eager" fetchPriority="high"
                     />
                   ) : (
                     <div className="w-full h-full flex items-center justify-center text-emerald-200 text-xs font-bold">

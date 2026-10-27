@@ -407,7 +407,7 @@ export default function IbarakiMitoKasamaPage() {
                       src={h.img}
                       alt={h.name}
                       className="w-full h-full object-cover"
-                      loading="lazy"
+                      loading="eager" fetchPriority="high"
                     />
                     <div className="absolute top-4 left-4 bg-slate-900/80 backdrop-blur-sm text-white px-3 py-1 rounded-full text-xs font-bold flex items-center gap-1.5">
                       <span className="w-2 h-2 rounded-full bg-amber-400"></span>

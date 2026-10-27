@@ -1,5 +1,5 @@
 ---
-title: "【和歌山・西牟婁】紀州・白浜温泉 むさしの宿泊記＆口コミ評判｜【白良浜まで徒歩1分】2種類の源泉とライブキッチンバ・客室・朝食・アクセス（目安¥8,800〜）"
+title: "【和歌山・西牟婁】紀州・白浜温泉 むさしの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-kansai-wakayama-mikan-kue-guide/"
 hotel_name: "紀州・白浜温泉 むさし"
 prefecture: "和歌山県"
@@ -10,7 +10,7 @@ review_count: 2686
 last_modified: "2026-10-18"
 ---
 
-# 【和歌山・西牟婁】紀州・白浜温泉 むさしの宿泊記＆口コミ評判｜【白良浜まで徒歩1分】2種類の源泉とライブキッチンバ・客室・朝食・アクセス（目安¥8,800〜）
+# 【和歌山・西牟婁】紀州・白浜温泉 むさしの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-kansai-wakayama-mikan-kue-guide/
 - **宿泊施設・特集名**: 紀州・白浜温泉 むさし

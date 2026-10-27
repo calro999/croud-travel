@@ -171,7 +171,7 @@ export default function Page() {
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/181124_Shuzenji_Onsen_Izu_Shizuoka_pref_Japan01s3.jpg/1280px-181124_Shuzenji_Onsen_Izu_Shizuoka_pref_Japan01s3.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                 alt="修善寺温泉"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
             </div>
 

@@ -447,7 +447,7 @@ export default function IkahoOnsenAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥28,600〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70871/70871_matu.jpg" alt="伊香保温泉　香雲館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70871/70871_matu.jpg" alt="伊香保温泉　香雲館 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★全10室・全室露天風呂付客室の宿★大浴場はわずか8軒の【黄金の湯】を100％源泉掛け流しで贅沢に。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 群馬県渋川市伊香保町伊香保175 ／ 最寄り駅：渋川 ／ 交通案内：ＪＲ渋川駅から伊香保温泉行きバス乗車で２５分※バス停までは随時送迎可。到着時お電話下さい。</p>

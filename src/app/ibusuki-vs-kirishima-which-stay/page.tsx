@@ -206,7 +206,7 @@ export default function IbusukiVsKirishimaPage() {
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/12529/12529.jpg"
                     alt="鹿児島　砂むし温泉　指宿白水館"
                     className="w-full h-full object-cover"
-                    loading="lazy"
+                    loading="eager" fetchPriority="high"
                   />
                   <div className="absolute top-3 left-3 bg-amber-600 text-white text-xs font-bold px-3 py-1 rounded-full shadow">
                     指宿名門・砂むし館内完備

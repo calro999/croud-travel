@@ -180,7 +180,7 @@ export default function FeatureArticlePage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/70291/70291.jpg"
                         alt="天然温泉　岩木桜の湯　ドーミーイン弘前（ドーミーイン・御宿野乃　ホテルズグループ）"
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

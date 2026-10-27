@@ -1,5 +1,5 @@
 ---
-title: "【千葉・鴨川市】千葉県 房総海の幸＆名湯おすすめ名宿セレクションの宿泊記＆口コミ評判｜人気の鴨川シーワールドまで徒歩3分・客室・朝食・アクセス（目安¥12,650〜）"
+title: "【千葉・鴨川市】千葉県 房総海の幸＆名湯おすすめ名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/chiba-famous-boso-seafood-sake-hotels-guide/"
 hotel_name: "千葉県 房総海の幸＆名湯おすすめ名宿セレクション"
 prefecture: "千葉県"
@@ -10,7 +10,7 @@ review_count: 1492
 last_modified: "2026-10-18"
 ---
 
-# 【千葉・鴨川市】千葉県 房総海の幸＆名湯おすすめ名宿セレクションの宿泊記＆口コミ評判｜人気の鴨川シーワールドまで徒歩3分・客室・朝食・アクセス（目安¥12,650〜）
+# 【千葉・鴨川市】千葉県 房総海の幸＆名湯おすすめ名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/chiba-famous-boso-seafood-sake-hotels-guide/
 - **宿泊施設・特集名**: 千葉県 房総海の幸＆名湯おすすめ名宿セレクション

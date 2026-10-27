@@ -175,7 +175,7 @@ export default function StargazingHubPage() {
                               src={hotel.hotelImageUrl}
                               alt={hotel.hotelName}
                               className="w-full h-full object-cover"
-                              loading="lazy"
+                              loading="eager" fetchPriority="high"
                             />
                           ) : (
                             <div className="w-full h-full flex items-center justify-center text-indigo-800/40 text-xs font-bold">

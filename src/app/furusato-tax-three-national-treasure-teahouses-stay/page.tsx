@@ -636,7 +636,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥8,100〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10854/10854_war.jpg" alt="京都竹の郷温泉　万葉の湯　ホテル京都エミナース 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10854/10854_war.jpg" alt="京都竹の郷温泉　万葉の湯　ホテル京都エミナース 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ご宿泊者は24時間万葉の湯入り放題！.心ゆくまで温泉を満喫下さい。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 京都府京都市西京区大原野東境谷町2-4 ／ 最寄り駅：桂 ／ 交通案内：最寄駅（ＪＲ桂川、阪急洛西口）から無料送迎バス有。阪急「桂駅」西口より市バス西１、２、５で１５分「境谷大橋」下車すぐ。</p>

@@ -447,7 +447,7 @@ export default function KorankeiAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥17,600〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7144/7144_lob.jpg" alt="しあわせ隠れ里　猿投温泉　癒しの宿　金泉閣 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7144/7144_lob.jpg" alt="しあわせ隠れ里　猿投温泉　癒しの宿　金泉閣 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>名古屋ICから30分　/　駐車場無料　/　天然ラドン温泉　/　　藤ヶ丘駅より巡回バス有</p>
                   <p><strong>【所在地・アクセス】</strong>〒 愛知県豊田市加納町馬道通21 ／ 最寄り駅：保見 ／ 交通案内：東名高速、名古屋ICから車で30分。猿投グリーンロード加納IC下車。</p>

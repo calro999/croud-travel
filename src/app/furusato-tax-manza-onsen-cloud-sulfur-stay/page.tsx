@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '万座温泉をふるさと納税でお得に旅する！日本一濃厚な白濁硫黄泉＆標高1,800m雲上の星空露天！名湯宿特集｜日進舘・万座プリンス・万座高原ホテル',
+  title: "万座温泉をふるさと納税でお得に旅する！日本一濃厚な白濁硫黄泉＆標高1,800m雲上の星空露天！名湯宿特集",
   description: '日本一の硫黄含有量を誇る標高1,800mの雲上温泉・群馬県万座温泉を楽天ふるさと納税でお得に満喫！九つの天然温泉と健康湯治の聖地「日進舘」、絶景露天風呂「こまくさの湯」を誇る「万座プリンスホテル」、名物石庭露天風呂で四色の源泉を巡る「万座高原ホテル」を徹底比較。嬬恋村トラベルクーポン活用術を網羅。',
   keywords: '万座温泉 ふるさと納税,万座温泉 日進舘 クーポン,万座プリンスホテル ふるさと納税,万座高原ホテル 宿泊,嬬恋村 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-manza-onsen-cloud-sulfur-stay/",
   },
   openGraph: {
-    title: '万座温泉をふるさと納税でお得に旅する！日本一濃厚な白濁硫黄泉＆標高1,800m雲上の星空露天！名湯宿特集｜日進舘・万座プリンス・万座高原ホテル',
+    title: "万座温泉をふるさと納税でお得に旅する！日本一濃厚な白濁硫黄泉＆標高1,800m雲上の星空露天！名湯宿特集",
     description: '日本一の硫黄含有量を誇る標高1,800mの雲上温泉・群馬県万座温泉を楽天ふるさと納税でお得に満喫！九つの天然温泉と健康湯治の聖地「日進舘」、絶景露天風呂「こまくさの湯」を誇る「万座プリンスホテル」、名物石庭露天風呂で四色の源泉を巡る「万座高原ホテル」を徹底比較。嬬恋村トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-manza-onsen-cloud-sulfur-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -148,7 +148,7 @@ export default function FurusatoArticlePage() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/3033/3033.jpg"
                 alt="万座温泉　日進舘"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
               <div className="absolute top-4 left-4 bg-stone-900/80 backdrop-blur-sm text-white text-xs px-3 py-1.5 rounded-full font-semibold">
                 第1選

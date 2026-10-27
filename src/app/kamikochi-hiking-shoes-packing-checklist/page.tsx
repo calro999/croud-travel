@@ -338,7 +338,7 @@ export default function KamikochiPackingChecklistPage() {
                     src={hotel.hotelImageUrl}
                     alt={hotel.hotelName}
                     className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                    loading="lazy"
+                    loading="eager" fetchPriority="high"
                   />
                 </div>
               )}

@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '標高2000m超の雲上リゾート！立山黒部アルペンルートの夕日・満天の星と高山植物トレッキング名宿×ふるさと納税極上旅ガイド弥陀ヶ原・立山高原・森の風',
+  title: "標高2000m超の雲上リゾート",
   description: '世界有数の山岳観光ルート・立山黒部アルペンルート！雪の大谷、みくりが池、大パノラマの雲海。「弥陀ヶ原ホテル」「立山高原ホテル」「立山連峰の宿 ホテル森の風立山」を、富山県立山町・富山市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。標高1900m雲上の露天風呂、富山湾の海の幸、星空ツアーを満喫。',
   keywords: ["2026年最新", "弥陀ヶ原", "立山高原", "森の風", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-tateyama-kurobe-alpen-route-resort-stay/",
   },
   openGraph: {
-    title: '標高2000m超の雲上リゾート！立山黒部アルペンルートの夕日・満天の星と高山植物トレッキング名宿×ふるさと納税極上旅ガイド弥陀ヶ原・立山高原・森の風',
+    title: "標高2000m超の雲上リゾート",
     description: '世界有数の山岳観光ルート・立山黒部アルペンルート！雪の大谷、みくりが池、大パノラマの雲海。「弥陀ヶ原ホテル」「立山高原ホテル」「立山連峰の宿 ホテル森の風立山」を、富山県立山町・富山市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。標高1900m雲上の露天風呂、富山湾の海の幸、星空ツアーを満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-tateyama-kurobe-alpen-route-resort-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',

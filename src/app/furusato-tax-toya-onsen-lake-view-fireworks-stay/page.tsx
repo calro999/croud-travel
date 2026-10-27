@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '洞爺湖温泉をふるさと納税でお得に旅する！全室レイクビュー＆ロングラン花火！湖畔絶景リゾート宿特集｜乃の風リゾート・サンパレス・洞爺観光ホテル',
+  title: "洞爺湖温泉をふるさと納税でお得に旅する！全室レイクビュー＆ロングラン花火！湖畔絶景リゾート宿特集",
   description: '支笏洞爺国立公園の美しいカルデラ湖・北海道洞爺湖温泉を楽天ふるさと納税でお得に満喫！屋上天空パノラマ露天風呂の最高峰「乃の風リゾート」、湖と一体化するインフィニティ露天風呂「洞爺サンパレス」、湖畔特等席と洞窟風呂の老舗「洞爺観光ホテル」を徹底比較。洞爺湖町トラベルクーポン活用術を網羅。',
   keywords: '洞爺湖温泉 ふるさと納税,乃の風リゾート クーポン,洞爺サンパレス ふるさと納税,洞爺湖 花火 見える宿,洞爺湖町 ふるさと納税 宿泊',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-toya-onsen-lake-view-fireworks-stay/",
   },
   openGraph: {
-    title: '洞爺湖温泉をふるさと納税でお得に旅する！全室レイクビュー＆ロングラン花火！湖畔絶景リゾート宿特集｜乃の風リゾート・サンパレス・洞爺観光ホテル',
+    title: "洞爺湖温泉をふるさと納税でお得に旅する！全室レイクビュー＆ロングラン花火！湖畔絶景リゾート宿特集",
     description: '支笏洞爺国立公園の美しいカルデラ湖・北海道洞爺湖温泉を楽天ふるさと納税でお得に満喫！屋上天空パノラマ露天風呂の最高峰「乃の風リゾート」、湖と一体化するインフィニティ露天風呂「洞爺サンパレス」、湖畔特等席と洞窟風呂の老舗「洞爺観光ホテル」を徹底比較。洞爺湖町トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-toya-onsen-lake-view-fireworks-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -148,7 +148,7 @@ export default function FurusatoArticlePage() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/139962/139962.jpg"
                 alt="ザ　レイクビュー　ＴＯＹＡ　乃の風リゾート"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
               <div className="absolute top-4 left-4 bg-stone-900/80 backdrop-blur-sm text-white text-xs px-3 py-1.5 rounded-full font-semibold">
                 第1選

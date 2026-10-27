@@ -414,7 +414,7 @@ export default function AutumnBudgetKurumeHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥2,800〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1586/1586_twn.jpg" alt="ハイネスホテル久留米 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1586/1586_twn.jpg" alt="ハイネスホテル久留米 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2023年10月1日より宿泊税別の料金でのご案内に変更となりました。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 福岡県久留米市天神町1-6 ／ 最寄り駅：西鉄久留米 ／ 交通案内：西鉄電車：天神大牟田線「西鉄久留米駅」東口より徒歩0分　※玄関は１階、ホテル玄関横には筑邦銀行国道通支店入口</p>

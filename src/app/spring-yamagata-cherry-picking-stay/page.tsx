@@ -250,7 +250,7 @@ export default function FeatureDetailPage() {
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/11339/11339.jpg"
                     alt="さくらんぼ東根温泉　のゝか本郷館(ののか)"
                     className="w-full h-full object-cover"
-                    loading="lazy"
+                    loading="eager" fetchPriority="high"
                   />
                   <div className="absolute top-3 left-3 bg-amber-600 text-white text-xs font-bold px-3 py-1 rounded-full shadow">
                     第 1 位

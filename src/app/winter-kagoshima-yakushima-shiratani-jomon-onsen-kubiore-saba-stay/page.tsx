@@ -160,7 +160,7 @@ export default function WinterFeaturePage() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Shiratani_Unsui_Gorge_11.jpg/1280px-Shiratani_Unsui_Gorge_11.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="白谷雲水峡（苔むす神秘の森と太鼓岩）"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full space-y-3">

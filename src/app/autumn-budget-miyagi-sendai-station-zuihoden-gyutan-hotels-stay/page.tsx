@@ -491,7 +491,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥2,340〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188111/188111.jpg" alt="ＫＯＫＯ　ＨＯＴＥＬ　仙台駅前　Ｓｏｕｔｈ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188111/188111.jpg" alt="ＫＯＫＯ　ＨＯＴＥＬ　仙台駅前　Ｓｏｕｔｈ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2023年9月リブランドオープン★ビジネスはもちろん観光にも最適の立地。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 宮城県仙台市青葉区中央 4-7-1 ／ 最寄り駅：仙台 ／ 交通案内：仙台駅西口より徒歩7分</p>

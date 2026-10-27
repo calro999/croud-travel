@@ -273,7 +273,7 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/8312/8312.jpg" 
             alt="冬の知床ウトロとオホーツク海の風景" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-sky-950/60 to-transparent" />
         

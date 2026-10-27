@@ -636,7 +636,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,420〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/199179/199179.jpg" alt="アパホテル〈山口岩国駅前西〉（２０２６年６月プレオープン） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/199179/199179.jpg" alt="アパホテル〈山口岩国駅前西〉（２０２６年６月プレオープン） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR山陽本線「岩国駅」徒歩5分の好立地！50型大型テレビ、Wi-Fi6完備のビジネス・観光の新拠点！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山口県岩国市麻里布町2-9-30 ／ 最寄り駅：岩国 ／ 交通案内：JR山陽本線「岩国駅」（西口）より徒歩5分</p>

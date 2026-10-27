@@ -636,7 +636,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥20,240〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16207/16207_war.jpg" alt="あわら温泉　グランディア芳泉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16207/16207_war.jpg" alt="あわら温泉　グランディア芳泉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ラウンジ飲料は無料！5階天上のSPAは眺望随一★全33室庭園露天風呂付客室や和洋室タイプなど色々♪</p>
                   <p><strong>【所在地・アクセス】</strong>〒 福井県あわら市舟津43-26 ／ 最寄り駅：芦原温泉 ／ 交通案内：【車】北陸自動車道金津ICより約15分【電車】JR北陸本線芦原温泉駅より車で約10分【航空機】小松空港より車で約50分</p>

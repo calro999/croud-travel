@@ -153,7 +153,7 @@ export default function Page() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/186850/186850.jpg"
                   alt="和空　三井寺／民泊"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
                 
               </div>

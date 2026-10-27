@@ -1,5 +1,5 @@
 ---
-title: "【山梨・大月市】大月・猿橋 名勝渓谷＆富士山眺望宿セレクションの宿泊記＆口コミ評判｜岩殿山まで徒歩30分・客室・朝食・アクセス（目安¥6,347〜）"
+title: "【山梨・大月市】大月・猿橋 名勝渓谷＆富士山眺望宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/otsuki-saruhashi-fuji-valley-hotels-guide/"
 hotel_name: "大月・猿橋 名勝渓谷＆富士山眺望宿セレクション"
 prefecture: "山梨県"
@@ -10,7 +10,7 @@ review_count: 500
 last_modified: "2026-10-18"
 ---
 
-# 【山梨・大月市】大月・猿橋 名勝渓谷＆富士山眺望宿セレクションの宿泊記＆口コミ評判｜岩殿山まで徒歩30分・客室・朝食・アクセス（目安¥6,347〜）
+# 【山梨・大月市】大月・猿橋 名勝渓谷＆富士山眺望宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/otsuki-saruhashi-fuji-valley-hotels-guide/
 - **宿泊施設・特集名**: 大月・猿橋 名勝渓谷＆富士山眺望宿セレクション

@@ -547,7 +547,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,700〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7592/7592_ss.jpg" alt="小豆島温泉　オリビアン小豆島　夕陽ヶ丘ホテル　＜小豆島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7592/7592_ss.jpg" alt="小豆島温泉　オリビアン小豆島　夕陽ヶ丘ホテル　＜小豆島＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>瀬戸内海を望む23万㎡の高台リゾートホテル。絶景の夕陽と天然温泉、小豆島の味覚を満喫。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 香川県小豆郡土庄町屋形崎甲63-1 ／ 最寄り駅：日生 ／ 交通案内：★土庄港より車で約15分★土庄港より無料定期送迎あり（予約要）</p>

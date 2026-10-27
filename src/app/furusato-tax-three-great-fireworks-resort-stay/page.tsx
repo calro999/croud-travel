@@ -412,7 +412,7 @@ export default function FurusatoUpgradedPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,650〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70699/70699_tt.jpg" alt="ホテルルートイン　大曲駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70699/70699_tt.jpg" alt="ホテルルートイン　大曲駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>四季折々の味覚と温泉・快適な客室が魅力の人気宿。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 秋田県大仙市大曲通町3-14 ／ 最寄り駅：大曲（秋田） ／ 交通案内：ＪＲ秋田新幹線大曲駅より徒歩３分/大曲I.Cより車で約10分/秋田市より秋田自動車道利用で約40分</p>

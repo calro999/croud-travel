@@ -1,5 +1,5 @@
 ---
-title: "【全国・京都市】アメニティ充実 手ぶらで泊まれる名宿セレクションの宿泊記＆口コミ評判｜天然温泉大浴場を完備・高温サウナ＆水風呂あり・客室・朝食・アクセス（目安¥7,875〜）"
+title: "【全国・京都市】アメニティ充実 手ぶらで泊まれる名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/hotel-amenity-packing-checklist-hotels-guide/"
 hotel_name: "アメニティ充実 手ぶらで泊まれる名宿セレクション"
 prefecture: "全国"
@@ -10,7 +10,7 @@ review_count: 5092
 last_modified: "2026-10-18"
 ---
 
-# 【全国・京都市】アメニティ充実 手ぶらで泊まれる名宿セレクションの宿泊記＆口コミ評判｜天然温泉大浴場を完備・高温サウナ＆水風呂あり・客室・朝食・アクセス（目安¥7,875〜）
+# 【全国・京都市】アメニティ充実 手ぶらで泊まれる名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/hotel-amenity-packing-checklist-hotels-guide/
 - **宿泊施設・特集名**: アメニティ充実 手ぶらで泊まれる名宿セレクション

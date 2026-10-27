@@ -525,7 +525,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥7,920〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/56778/56778_ky.jpg" alt="下呂温泉　ホテルくさかべアルメリア 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/56778/56778_ky.jpg" alt="下呂温泉　ホテルくさかべアルメリア 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>下呂市街を一望出来る展望露天風呂！和洋中50種を超えるバイキングや飛騨牛を使用したフルコース会席！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 岐阜県下呂市幸田1811 ／ 最寄り駅：下呂 ／ 交通案内：ＪＲ高山線　下呂駅より車で３分（無料送迎バス有り）/東海環状道富加関ＩＣより７０分又は中央道中津川ＩＣより６０分</p>

@@ -1,5 +1,5 @@
 ---
-title: "【山梨・甲府市】昇仙峡＆湯村温泉 文豪名湯宿セレクションの宿泊記＆口コミ評判｜日本旅館の感性と・都市型ホテルの利便性を兼備えた・客室・朝食・アクセス（目安¥23,100〜）"
+title: "【山梨・甲府市】昇仙峡＆湯村温泉 文豪名湯宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/shosenkyo-yumura-onsen-nature-hotels-guide/"
 hotel_name: "昇仙峡＆湯村温泉 文豪名湯宿セレクション"
 prefecture: "山梨県"
@@ -10,7 +10,7 @@ review_count: 1584
 last_modified: "2026-10-18"
 ---
 
-# 【山梨・甲府市】昇仙峡＆湯村温泉 文豪名湯宿セレクションの宿泊記＆口コミ評判｜日本旅館の感性と・都市型ホテルの利便性を兼備えた・客室・朝食・アクセス（目安¥23,100〜）
+# 【山梨・甲府市】昇仙峡＆湯村温泉 文豪名湯宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/shosenkyo-yumura-onsen-nature-hotels-guide/
 - **宿泊施設・特集名**: 昇仙峡＆湯村温泉 文豪名湯宿セレクション

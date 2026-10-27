@@ -1,5 +1,5 @@
 ---
-title: "【北海道・富良野市】新富良野プリンスホテルの宿泊記＆口コミ評判｜冬の富良野を満喫するチャンス・期間限定タイムセール開催中・客室・朝食・アクセス（目安¥5,412〜）"
+title: "【北海道・富良野市】新富良野プリンスホテルの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-hokkaido-furano-melon-sweets-guide/"
 hotel_name: "新富良野プリンスホテル"
 prefecture: "北海道"
@@ -10,7 +10,7 @@ review_count: 1647
 last_modified: "2026-10-18"
 ---
 
-# 【北海道・富良野市】新富良野プリンスホテルの宿泊記＆口コミ評判｜冬の富良野を満喫するチャンス・期間限定タイムセール開催中・客室・朝食・アクセス（目安¥5,412〜）
+# 【北海道・富良野市】新富良野プリンスホテルの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-hokkaido-furano-melon-sweets-guide/
 - **宿泊施設・特集名**: 新富良野プリンスホテル

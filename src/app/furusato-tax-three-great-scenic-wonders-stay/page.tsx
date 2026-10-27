@@ -412,7 +412,7 @@ export default function FurusatoUpgradedPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥9,900〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29835/29835_d.jpg" alt="妙義温泉　妙義グリーンホテル＆テラス 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29835/29835_d.jpg" alt="妙義温泉　妙義グリーンホテル＆テラス 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【オールインクルーシブ】日本三大奇景「妙義山」を望む、緑豊かなホテルとグランピング</p>
                   <p><strong>【所在地・アクセス】</strong>〒 群馬県富岡市妙義町菅原2678 ／ 最寄り駅：松井田 ／ 交通案内：JR松井田駅よりタクシー12分／磯部駅よりタクシー17分／松井田妙義IC（上信越自動車道）より１２分</p>

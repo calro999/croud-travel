@@ -1,5 +1,5 @@
 ---
-title: "【熊本・水俣市】湯の児温泉＆水俣 海絶景夕日名宿セレクションの宿泊記＆口コミ評判｜・客室・朝食・アクセス（目安¥9,800〜）"
+title: "【熊本・水俣市】湯の児温泉＆水俣 海絶景夕日名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/yunoko-onsen-sunset-ocean-view-tachiuo-hotels-guide/"
 hotel_name: "湯の児温泉＆水俣 海絶景夕日名宿セレクション"
 prefecture: "熊本県"
@@ -10,7 +10,7 @@ review_count: 5
 last_modified: "2026-10-18"
 ---
 
-# 【熊本・水俣市】湯の児温泉＆水俣 海絶景夕日名宿セレクションの宿泊記＆口コミ評判｜・客室・朝食・アクセス（目安¥9,800〜）
+# 【熊本・水俣市】湯の児温泉＆水俣 海絶景夕日名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/yunoko-onsen-sunset-ocean-view-tachiuo-hotels-guide/
 - **宿泊施設・特集名**: 湯の児温泉＆水俣 海絶景夕日名宿セレクション

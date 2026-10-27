@@ -273,7 +273,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/44871/44871.jpg" 
             alt="あしかがフラワーパーク光の花の庭と佐野厄除け大師" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         

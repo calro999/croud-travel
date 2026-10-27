@@ -1,5 +1,5 @@
 ---
-title: "【静岡・賀茂】伊豆熱川温泉 ホテルカターラ RESORT＆SPAの宿泊記＆口コミ評判｜一年中遊べる屋内プールに夏は徒歩５分でビーチ・秋冬はほっこり・客室・朝食・アクセス（目安¥21,000〜）"
+title: "【静岡・賀茂】伊豆熱川温泉 ホテルカターラ RESORT＆SPAの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/atagawa-katara-guide/"
 hotel_name: "伊豆熱川温泉 ホテルカターラ RESORT＆SPA"
 prefecture: "静岡県"
@@ -10,7 +10,7 @@ review_count: 1655
 last_modified: "2026-10-18"
 ---
 
-# 【静岡・賀茂】伊豆熱川温泉 ホテルカターラ RESORT＆SPAの宿泊記＆口コミ評判｜一年中遊べる屋内プールに夏は徒歩５分でビーチ・秋冬はほっこり・客室・朝食・アクセス（目安¥21,000〜）
+# 【静岡・賀茂】伊豆熱川温泉 ホテルカターラ RESORT＆SPAの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/atagawa-katara-guide/
 - **宿泊施設・特集名**: 伊豆熱川温泉 ホテルカターラ RESORT＆SPA

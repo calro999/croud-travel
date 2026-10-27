@@ -1,5 +1,5 @@
 ---
-title: "【石川・金沢市】石川県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜金沢駅から徒歩3分の料理旅館・客室・朝食・アクセス（目安¥17,600〜）"
+title: "【石川・金沢市】石川県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/ishikawa-famous-nodoguro-notogyu-sake-hotels-guide/"
 hotel_name: "石川県 おすすめ名門ホテル・温泉旅館セレクション"
 prefecture: "石川県"
@@ -10,7 +10,7 @@ review_count: 188
 last_modified: "2026-10-18"
 ---
 
-# 【石川・金沢市】石川県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜金沢駅から徒歩3分の料理旅館・客室・朝食・アクセス（目安¥17,600〜）
+# 【石川・金沢市】石川県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/ishikawa-famous-nodoguro-notogyu-sake-hotels-guide/
 - **宿泊施設・特集名**: 石川県 おすすめ名門ホテル・温泉旅館セレクション

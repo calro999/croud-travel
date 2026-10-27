@@ -412,7 +412,7 @@ export default function FurusatoUpgradedPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥11,000〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10728/10728_w.jpg" alt="大鰐温泉　不二やホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10728/10728_w.jpg" alt="大鰐温泉　不二やホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業100周年の歴史ある温泉宿　津軽の四季を感じる露天風呂は格別です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 青森県南津軽郡大鰐町蔵館川原田63 ／ 最寄り駅：大鰐温泉 ／ 交通案内：東北自動車道　大鰐・弘前ＩＣより約10分。　JR奥羽本線大鰐温泉駅下車　徒歩１５分</p>

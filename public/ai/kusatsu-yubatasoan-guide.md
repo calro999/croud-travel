@@ -1,5 +1,5 @@
 ---
-title: "【群馬・吾妻】草津温泉 湯畑草庵の宿泊記＆口コミ評判｜湯畑前の好立地・街歩きに最適・客室・朝食・アクセス（目安¥8,000〜）"
+title: "【群馬・吾妻】草津温泉 湯畑草庵の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/kusatsu-yubatasoan-guide/"
 hotel_name: "草津温泉 湯畑草庵"
 prefecture: "群馬県"
@@ -10,7 +10,7 @@ review_count: 453
 last_modified: "2026-10-18"
 ---
 
-# 【群馬・吾妻】草津温泉 湯畑草庵の宿泊記＆口コミ評判｜湯畑前の好立地・街歩きに最適・客室・朝食・アクセス（目安¥8,000〜）
+# 【群馬・吾妻】草津温泉 湯畑草庵の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/kusatsu-yubatasoan-guide/
 - **宿泊施設・特集名**: 草津温泉 湯畑草庵

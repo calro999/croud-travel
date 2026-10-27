@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '秋保温泉をふるさと納税でお得に旅する！名取川渓谷美＆伊達政宗公ゆかりの名湯！仙台牛美食と老舗宿厳選ガイド｜伝承千年の宿佐勘・緑水亭・ホテルニュー水戸屋',
+  title: "秋保温泉をふるさと納税でお得に旅する！名取川渓谷美＆伊達政宗公ゆかりの名湯！仙台牛美食と老舗宿厳選ガイド",
   description: '仙台駅から車で約30分の奥州三名湯「秋保温泉」を楽天ふるさと納税でお得に旅する！伊達政宗公の湯守を務めた創業千年の格式「伝承千年の宿 佐勘」、広大な日本庭園と幻想的な篝火露天風呂の「緑水亭」、16種類の多彩な温泉を湯巡りできる「ホテルニュー水戸屋」を徹底比較。仙台牛会席や仙台市クーポン活用術を網羅。',
   keywords: '秋保温泉 ふるさと納税,伝承千年の宿佐勘 ふるさと納税,緑水亭 秋保 クーポン,ホテルニュー水戸屋 宿泊,仙台市 ふるさと納税 楽天トラベル',
   openGraph: {
-    title: '秋保温泉をふるさと納税でお得に旅する！名取川渓谷美＆伊達政宗公ゆかりの名湯！仙台牛美食と老舗宿厳選ガイド｜伝承千年の宿佐勘・緑水亭・ホテルニュー水戸屋',
+    title: "秋保温泉をふるさと納税でお得に旅する！名取川渓谷美＆伊達政宗公ゆかりの名湯！仙台牛美食と老舗宿厳選ガイド",
     description: '仙台駅から車で約30分の奥州三名湯「秋保温泉」を楽天ふるさと納税でお得に旅する！伊達政宗公の湯守を務めた創業千年の格式「伝承千年の宿 佐勘」、広大な日本庭園と幻想的な篝火露天風呂の「緑水亭」、16種類の多彩な温泉を湯巡りできる「ホテルニュー水戸屋」を徹底比較。仙台牛会席や仙台市クーポン活用術を網羅。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-akiu-onsen-sendai-retreat-stay/',
@@ -132,7 +132,7 @@ export default function FurusatoTaxArticle() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/63615/63615.jpg"
                 alt="伝承千年の宿　佐勘"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
               <div className="absolute top-4 left-4 bg-stone-900/80 backdrop-blur-sm text-white text-xs px-3 py-1.5 rounded-full font-semibold">
                 第1選

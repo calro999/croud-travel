@@ -203,7 +203,7 @@ export default function KusatsuBudgetGuidePage() {
               <article key={hotel.hotelNo} className="bg-white rounded-2xl overflow-hidden shadow-sm border border-slate-200 hover:shadow-lg transition flex flex-col">
                 <div className="aspect-video relative overflow-hidden bg-slate-100">
                   {hotel.hotelImageUrl && (
-                    <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover" loading="lazy" />
+                    <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover" loading="eager" fetchPriority="high" />
                   )}
                 </div>
                 <div className="p-4 flex-1 flex flex-col justify-between">

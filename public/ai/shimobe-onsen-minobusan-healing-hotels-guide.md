@@ -1,5 +1,5 @@
 ---
-title: "【山梨・南巨摩】下部温泉＆身延山 湯治・ぬる湯名宿セレクションの宿泊記＆口コミ評判｜泉質の異なる「三種類の源泉」を・客室・朝食・アクセス（目安¥17,050〜）"
+title: "【山梨・南巨摩】下部温泉＆身延山 湯治・ぬる湯名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/shimobe-onsen-minobusan-healing-hotels-guide/"
 hotel_name: "下部温泉＆身延山 湯治・ぬる湯名宿セレクション"
 prefecture: "山梨県"
@@ -10,7 +10,7 @@ review_count: 1307
 last_modified: "2026-10-18"
 ---
 
-# 【山梨・南巨摩】下部温泉＆身延山 湯治・ぬる湯名宿セレクションの宿泊記＆口コミ評判｜泉質の異なる「三種類の源泉」を・客室・朝食・アクセス（目安¥17,050〜）
+# 【山梨・南巨摩】下部温泉＆身延山 湯治・ぬる湯名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/shimobe-onsen-minobusan-healing-hotels-guide/
 - **宿泊施設・特集名**: 下部温泉＆身延山 湯治・ぬる湯名宿セレクション

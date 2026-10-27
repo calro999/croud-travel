@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     canonical: "https://croud-travel.pages.dev/winter-saitama-kumagaya-menuma-shodenzan-fukaya-negi-bushugyu-stay/",
   },
 
-  title: '国宝・妻沼聖天山新春初詣と冬の極上深谷ねぎ：2026-2027年冬の埼玉・熊谷＆深谷！美肌天然温泉と武州和牛すき焼き名宿5選 | 旅行キュレーション',
+  title: "国宝・妻沼聖天山新春初詣と冬の極上深谷ねぎ：2026-2027年冬の埼玉・熊谷＆深谷",
   description: '「埼玉の日光東照宮」と称される国宝・妻沼聖天山歓喜院の精緻な彫刻美と新春開運初詣！寒さで糖度15度を超える冬の至宝「深谷ねぎ」のねぎカルビやすき焼き、渋沢栄一の郷愁、天然温泉のぬくもりに癒やされる埼玉北部の厳選名宿5選。',
   keywords: ['熊谷・深谷・本庄', '冬旅行', '新春初詣', '温泉', '名宿', '埼玉県観光', '楽天トラベル', 'ふるさと納税'],
   openGraph: {
@@ -332,7 +332,7 @@ export default function Page() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Menuma_Shouden_Kangi-in_201810a.jpg/1280px-Menuma_Shouden_Kangi-in_201810a.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="国宝・妻沼聖天山歓喜院（埼玉の日光東照宮・精緻な彫刻美と新春縁結び開運）"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full space-y-3">

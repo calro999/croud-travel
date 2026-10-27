@@ -500,7 +500,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,350〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68631/68631_da.jpg" alt="リッチモンドホテル山形駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68631/68631_da.jpg" alt="リッチモンドホテル山形駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>山形駅西口から徒歩5分。ビジネス・観光に最適。目の前にやまぎん県民ホール。学会会場山形テルサそば。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山形県山形市双葉町1-3-11 ／ 最寄り駅：山形 ／ 交通案内：ＪＲ　山形駅西口より徒歩5分　やまぎん県民ホール目の前</p>

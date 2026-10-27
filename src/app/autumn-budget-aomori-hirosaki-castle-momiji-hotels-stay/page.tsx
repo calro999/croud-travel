@@ -8,11 +8,11 @@ export const metadata: Metadata = {
     canonical: "https://croud-travel.pages.dev/autumn-budget-aomori-hirosaki-castle-momiji-hotels-stay/",
   },
 
-  title: '秋の弘前×格安：弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」',
+  title: "秋の弘前×格安：弘前城菊と紅葉まつりと焼きたてアップルパイ",
   description: '約1,000本のモミジが天守とお濠を染める「弘前城菊と紅葉まつり」の幻想的なライトアップ！名物アップルパイの食べ比べや津軽ラーメンを満喫。サウナ＆天然温泉大浴場付きで1泊4,000円〜7,000円台で泊まれる弘前の格安ホテル5選。アートホテル弘前シティ、ドーミーイン弘前などを徹底比較！',
   keywords: '弘前 格安 ホテル, 弘前 大浴場 天然温泉 ホテル, 弘前城菊と紅葉まつり, アップルパイ 弘前, アートホテル弘前シティ, ドーミーイン弘前',
   openGraph: {
-    title: '秋の弘前×格安：弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」',
+    title: "秋の弘前×格安：弘前城菊と紅葉まつりと焼きたてアップルパイ",
     description: '弘前城菊と紅葉まつりとアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強弘前ホテル5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/autumn-budget-aomori-hirosaki-castle-momiji-hotels-stay/',
@@ -447,7 +447,7 @@ export default function HirosakiBudgetAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,780〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/504/504_ky.jpg" alt="アートホテル弘前シティ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/504/504_ky.jpg" alt="アートホテル弘前シティ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR弘前駅前、津軽の自然の彩を感じるホテル。旅の拠点として最適です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 青森県弘前市大町1-1-2 ／ 最寄り駅：弘前 ／ 交通案内：ＪＲ弘前駅中央口より徒歩1分、青森空港より車で約６０分、東北自動車道（大鰐・弘前ＩＣ）より車で約１５分</p>

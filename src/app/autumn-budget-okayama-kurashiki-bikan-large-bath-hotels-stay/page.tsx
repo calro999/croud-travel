@@ -8,11 +8,11 @@ export const metadata: Metadata = {
     canonical: "https://croud-travel.pages.dev/autumn-budget-okayama-kurashiki-bikan-large-bath-hotels-stay/",
   },
 
-  title: '秋の倉敷美観地区×格安：白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」',
+  title: "秋の倉敷美観地区×格安：白壁の町並み紅葉と大原美術館",
   description: '倉敷川沿いの柳並木と紅葉のコントラスト、レトロな白壁の町並み散策！名物ぶっかけうどんや岡山フルーツパフェを満喫。大浴場や天然温泉付きで1泊4,000円〜7,000円台で泊まれる倉敷のコスパ最強ホテル5選。ロイヤルパークホテル倉敷、ドーミーイン倉敷などを徹底比較！',
   keywords: '倉敷 格安 ホテル, 倉敷美観地区 宿泊 安い, 倉敷 大浴場 ホテル, 大原美術館 紅葉, ロイヤルパークホテル倉敷, ドーミーイン倉敷',
   openGraph: {
-    title: '秋の倉敷美観地区×格安：白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」',
+    title: "秋の倉敷美観地区×格安：白壁の町並み紅葉と大原美術館",
     description: '白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強倉敷ホテル5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/autumn-budget-okayama-kurashiki-bikan-large-bath-hotels-stay/',
@@ -447,7 +447,7 @@ export default function KurashikiBudgetAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,180〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178392/178392.jpg" alt="たびのホテル倉敷水島 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/178392/178392.jpg" alt="たびのホテル倉敷水島 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>約30種類の手作り朝食が人気◎コンビニ隣接◆大浴場＆無料駐車場有り◆大型車両もOK（有料・要予約）</p>
                   <p><strong>【所在地・アクセス】</strong>〒 岡山県倉敷市水島西常盤町4-25 ／ 最寄り駅：常盤（岡山） ／ 交通案内：水島臨海鉄道水島本線常盤駅より徒歩5分。瀬戸内中央自動車道水島ICより約14分。</p>

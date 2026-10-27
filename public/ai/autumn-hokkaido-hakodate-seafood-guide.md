@@ -1,5 +1,5 @@
 ---
-title: "【北海道・函館市】センチュリーマリーナ函館の宿泊記＆口コミ評判｜2026年5月1日で開業7周年・宿泊者専用の無料フィットネス・客室・朝食・アクセス（目安¥18,500〜）"
+title: "【北海道・函館市】センチュリーマリーナ函館の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-hokkaido-hakodate-seafood-guide/"
 hotel_name: "センチュリーマリーナ函館"
 prefecture: "北海道"
@@ -10,7 +10,7 @@ review_count: 4064
 last_modified: "2026-10-18"
 ---
 
-# 【北海道・函館市】センチュリーマリーナ函館の宿泊記＆口コミ評判｜2026年5月1日で開業7周年・宿泊者専用の無料フィットネス・客室・朝食・アクセス（目安¥18,500〜）
+# 【北海道・函館市】センチュリーマリーナ函館の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-hokkaido-hakodate-seafood-guide/
 - **宿泊施設・特集名**: センチュリーマリーナ函館

@@ -522,7 +522,7 @@ export default function ArticlePage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥7,120〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184376/184376.jpg" alt="ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）宇都宮 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184376/184376.jpg" alt="ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）宇都宮 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022年8月26日開業「宇都宮駅東口」徒歩2分。露天風呂とロウリュサウナで心洗われるの癒しを。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 栃木県宇都宮市宮みらい1-1 ／ 最寄り駅：宇都宮 ／ 交通案内：JR宇都宮駅から徒歩2分</p>

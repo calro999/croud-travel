@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/wakayama-ryujin-solo-retreat-beauty-onsen-stay/" },
-  title: '日本三美人の湯・紀州龍神温泉ひとり旅・日高川渓谷おこもり：pH8.4極上とろみ重曹泉・紀州梅豚＆あまご・徳川頼宣公の別荘！弘法大師ゆかりの厳選3宿',
+  title: "日本三美人の湯・紀州龍神温泉ひとり旅・日高川渓谷おこもり：pH8.4極上とろみ重曹泉・紀州梅豚＆あまご・徳川頼宣公の別荘",
   description: '島根の斐乃上・群馬の川中と並ぶ日本三美人の湯・和歌山・龍神温泉！紀州徳川家の殿様風呂の歴史を伝える「下御殿」、料理自慢の主人が手掛ける地魚と猪肉会席が評判の「料理旅館 萬屋」、登録有形文化財の風情と高野槇風呂を誇る名門「上御殿」を楽天API最新データに基づき徹底比較。',
   keywords: '龍神温泉 一人旅 宿,龍神 ホテル 一人 温泉,下御殿 龍神,萬屋 龍神温泉,上御殿 龍神,日本三美人の湯 ひとり旅 おこもり',
   openGraph: {
-    title: '日本三美人の湯・紀州龍神温泉ひとり旅・日高川渓谷おこもり：pH8.4極上とろみ重曹泉・紀州梅豚＆あまご・徳川頼宣公の別荘！弘法大師ゆかりの厳選3宿',
+    title: "日本三美人の湯・紀州龍神温泉ひとり旅・日高川渓谷おこもり：pH8.4極上とろみ重曹泉・紀州梅豚＆あまご・徳川頼宣公の別荘",
     description: '島根の斐乃上・群馬の川中と並ぶ日本三美人の湯・和歌山・龍神温泉！紀州徳川家の殿様風呂の歴史を伝える「下御殿」、料理自慢の主人が手掛ける地魚と猪肉会席が評判の「料理旅館 萬屋」、登録有形文化財の風情と高野槇風呂を誇る名門「上御殿」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/wakayama-ryujin-solo-retreat-beauty-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -132,7 +132,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/68138/68138.jpg"
                   alt="龍神温泉　下御殿 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

@@ -151,7 +151,7 @@ export default function FurusatoFeaturePage() {
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/40019/40019.jpg"
                     alt="越後湯沢温泉　松泉閣花月"
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                    loading="lazy"
+                    loading="eager" fetchPriority="high"
                   />
                   <div className="absolute top-2 right-2 px-2.5 py-1 rounded-lg bg-stone-900/80 backdrop-blur border border-stone-700 text-amber-400 text-xs font-bold">
                     ★ 4.53 (421件)

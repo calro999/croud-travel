@@ -1,5 +1,5 @@
 ---
-title: "【長崎・雲仙市】長崎県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜【2022年12月新築リニューアル】雲の中のラグジュ・客室・朝食・アクセス（目安¥31,328〜）"
+title: "【長崎・雲仙市】長崎県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/nagasaki-famous-champon-castella-sake-hotels-guide/"
 hotel_name: "長崎県 おすすめ名門ホテル・温泉旅館セレクション"
 prefecture: "長崎県"
@@ -10,7 +10,7 @@ review_count: 871
 last_modified: "2026-10-18"
 ---
 
-# 【長崎・雲仙市】長崎県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜【2022年12月新築リニューアル】雲の中のラグジュ・客室・朝食・アクセス（目安¥31,328〜）
+# 【長崎・雲仙市】長崎県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/nagasaki-famous-champon-castella-sake-hotels-guide/
 - **宿泊施設・特集名**: 長崎県 おすすめ名門ホテル・温泉旅館セレクション

@@ -470,7 +470,7 @@ export default function TochigiNikkoToshoguPage() {
                       src={hotel.img} 
                       alt={hotel.name}
                       className="w-full h-full object-cover transition-transform duration-500 hover:scale-105"
-                      loading="lazy"
+                      loading="eager" fetchPriority="high"
                     />
                     <div className="absolute bottom-3 right-3 bg-stone-900/85 backdrop-blur-xs text-white px-3.5 py-1.5 rounded-xl text-xs sm:text-sm font-semibold shadow-md">
                       参考宿泊料金：<span className="text-amber-300 font-bold">{hotel.price}</span> / 名

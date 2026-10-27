@@ -1,5 +1,5 @@
 ---
-title: "【大分・由布市】ＥＴＡＶＩＡ 湯布院駅前の宿泊記＆口コミ評判｜由布院駅の目の前・最大6名様までOK・客室・朝食・アクセス（目安¥4,030〜）"
+title: "【大分・由布市】ＥＴＡＶＩＡ 湯布院駅前の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/yufuin-onsen-hanare-guide/"
 hotel_name: "ＥＴＡＶＩＡ 湯布院駅前"
 prefecture: "大分県"
@@ -10,7 +10,7 @@ review_count: 41
 last_modified: "2026-10-18"
 ---
 
-# 【大分・由布市】ＥＴＡＶＩＡ 湯布院駅前の宿泊記＆口コミ評判｜由布院駅の目の前・最大6名様までOK・客室・朝食・アクセス（目安¥4,030〜）
+# 【大分・由布市】ＥＴＡＶＩＡ 湯布院駅前の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/yufuin-onsen-hanare-guide/
 - **宿泊施設・特集名**: ＥＴＡＶＩＡ 湯布院駅前

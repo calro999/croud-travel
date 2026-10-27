@@ -425,7 +425,7 @@ export default function SapporoShimeParfaitLateNightGuidePage() {
                             src={hotel.hotelImageUrl}
                             alt={hotel.hotelName}
                             className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                            loading="lazy"
+                            loading="eager" fetchPriority="high"
                           />
                           {hotel.reviewAverage && (
                             <div className="absolute top-3 right-3 bg-slate-950/85 backdrop-blur-md px-2.5 py-1 rounded-full text-teal-400 text-xs font-black border border-teal-500/30 flex items-center gap-1 shadow">

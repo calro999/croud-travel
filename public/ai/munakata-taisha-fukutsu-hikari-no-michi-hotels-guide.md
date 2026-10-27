@@ -1,5 +1,5 @@
 ---
-title: "【福岡・宗像市】宗像大社＆福津 世界遺産参拝＆玄界灘海鮮名宿セレクションの宿泊記＆口コミ評判｜福岡・北九州から約60分・客室・朝食・アクセス（目安¥5,822〜）"
+title: "【福岡・宗像市】宗像大社＆福津 世界遺産参拝＆玄界灘海鮮名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/munakata-taisha-fukutsu-hikari-no-michi-hotels-guide/"
 hotel_name: "宗像大社＆福津 世界遺産参拝＆玄界灘海鮮名宿セレクション"
 prefecture: "福岡県"
@@ -10,7 +10,7 @@ review_count: 3279
 last_modified: "2026-10-18"
 ---
 
-# 【福岡・宗像市】宗像大社＆福津 世界遺産参拝＆玄界灘海鮮名宿セレクションの宿泊記＆口コミ評判｜福岡・北九州から約60分・客室・朝食・アクセス（目安¥5,822〜）
+# 【福岡・宗像市】宗像大社＆福津 世界遺産参拝＆玄界灘海鮮名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/munakata-taisha-fukutsu-hikari-no-michi-hotels-guide/
 - **宿泊施設・特集名**: 宗像大社＆福津 世界遺産参拝＆玄界灘海鮮名宿セレクション

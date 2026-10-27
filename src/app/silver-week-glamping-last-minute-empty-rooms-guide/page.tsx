@@ -275,7 +275,7 @@ export default function SilverWeekGlampingLastMinuteGuidePage() {
                     src={hotel.hotelImageUrl}
                     alt={hotel.hotelName}
                     className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                    loading="lazy"
+                    loading="eager" fetchPriority="high"
                   />
                   {hotel.hotelMinCharge && (
                     <div className="absolute bottom-3 right-3 bg-emerald-950/80 backdrop-blur-sm text-emerald-200 text-xs font-black px-3 py-1.5 rounded-xl">

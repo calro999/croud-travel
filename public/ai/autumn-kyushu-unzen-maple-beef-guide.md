@@ -1,5 +1,5 @@
 ---
-title: "【長崎・雲仙市】雲仙温泉 旅亭 半水盧の宿泊記＆口コミ評判｜その１棟毎に趣のある庭園をもつ安らぎの場所・客室・朝食・アクセス（目安¥80,150〜）"
+title: "【長崎・雲仙市】雲仙温泉 旅亭 半水盧の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-kyushu-unzen-maple-beef-guide/"
 hotel_name: "雲仙温泉 旅亭 半水盧"
 prefecture: "長崎県"
@@ -10,7 +10,7 @@ review_count: 32
 last_modified: "2026-10-18"
 ---
 
-# 【長崎・雲仙市】雲仙温泉 旅亭 半水盧の宿泊記＆口コミ評判｜その１棟毎に趣のある庭園をもつ安らぎの場所・客室・朝食・アクセス（目安¥80,150〜）
+# 【長崎・雲仙市】雲仙温泉 旅亭 半水盧の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-kyushu-unzen-maple-beef-guide/
 - **宿泊施設・特集名**: 雲仙温泉 旅亭 半水盧

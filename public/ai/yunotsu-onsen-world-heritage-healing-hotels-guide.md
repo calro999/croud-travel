@@ -1,5 +1,5 @@
 ---
-title: "【島根・大田市】世界遺産 温泉津温泉 薬効名湯セレクションの宿泊記＆口コミ評判｜1300年の歴史がある温泉の昔の趣を持つ温泉街にある・客室・朝食・アクセス（目安¥7,700〜）"
+title: "【島根・大田市】世界遺産 温泉津温泉 薬効名湯セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/yunotsu-onsen-world-heritage-healing-hotels-guide/"
 hotel_name: "世界遺産 温泉津温泉 薬効名湯セレクション"
 prefecture: "島根県"
@@ -10,7 +10,7 @@ review_count: 910
 last_modified: "2026-10-18"
 ---
 
-# 【島根・大田市】世界遺産 温泉津温泉 薬効名湯セレクションの宿泊記＆口コミ評判｜1300年の歴史がある温泉の昔の趣を持つ温泉街にある・客室・朝食・アクセス（目安¥7,700〜）
+# 【島根・大田市】世界遺産 温泉津温泉 薬効名湯セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/yunotsu-onsen-world-heritage-healing-hotels-guide/
 - **宿泊施設・特集名**: 世界遺産 温泉津温泉 薬効名湯セレクション

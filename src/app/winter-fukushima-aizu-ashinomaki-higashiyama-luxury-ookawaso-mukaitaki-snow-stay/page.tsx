@@ -171,7 +171,7 @@ export default function Page() {
                 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Higashiyama_Onsen_01.jpg/1280px-Higashiyama_Onsen_01.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                 alt="東山温泉"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
             </div>
 

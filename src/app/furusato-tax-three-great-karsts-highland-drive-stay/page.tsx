@@ -636,7 +636,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,060〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20375/20375_s.jpg" alt="美祢グランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/20375/20375_s.jpg" alt="美祢グランドホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>くつろぎの空間と真心こもったサービスで、快適なホテルライフをお楽しみ下さい。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山口県美祢市大嶺町東分270-1 ／ 最寄り駅：美祢 ／ 交通案内：美祢インターより車で７分。美祢市役所に近く、美祢駅からは徒歩で８分、タクシーで３分。</p>

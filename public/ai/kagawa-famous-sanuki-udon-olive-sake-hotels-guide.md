@@ -1,5 +1,5 @@
 ---
-title: "【香川・仲多度】香川県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜風雅な寛ぎと古き良き日本の心・客室・朝食・アクセス（目安¥9,900〜）"
+title: "【香川・仲多度】香川県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/kagawa-famous-sanuki-udon-olive-sake-hotels-guide/"
 hotel_name: "香川県 おすすめ名門ホテル・温泉旅館セレクション"
 prefecture: "香川県"
@@ -10,7 +10,7 @@ review_count: 3227
 last_modified: "2026-10-18"
 ---
 
-# 【香川・仲多度】香川県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜風雅な寛ぎと古き良き日本の心・客室・朝食・アクセス（目安¥9,900〜）
+# 【香川・仲多度】香川県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/kagawa-famous-sanuki-udon-olive-sake-hotels-guide/
 - **宿泊施設・特集名**: 香川県 おすすめ名門ホテル・温泉旅館セレクション

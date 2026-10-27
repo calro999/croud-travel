@@ -1,5 +1,5 @@
 ---
-title: "【群馬・利根】法師温泉 長寿館の宿泊記＆口コミ評判｜≪国登録有形文化財≫敷き詰められた玉石の間から湧き上・客室・朝食・アクセス（目安¥18,700〜）"
+title: "【群馬・利根】法師温泉 長寿館の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/hoshi-onsens-chojukan-guide/"
 hotel_name: "法師温泉 長寿館"
 prefecture: "群馬県"
@@ -10,7 +10,7 @@ review_count: 528
 last_modified: "2026-10-18"
 ---
 
-# 【群馬・利根】法師温泉 長寿館の宿泊記＆口コミ評判｜≪国登録有形文化財≫敷き詰められた玉石の間から湧き上・客室・朝食・アクセス（目安¥18,700〜）
+# 【群馬・利根】法師温泉 長寿館の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/hoshi-onsens-chojukan-guide/
 - **宿泊施設・特集名**: 法師温泉 長寿館

@@ -400,7 +400,7 @@ export default function GifuNagaragawaWinterPage() {
                       src={hotel.img}
                       alt={hotel.name}
                       className="w-full h-full object-cover"
-                      loading="lazy"
+                      loading="eager" fetchPriority="high"
                     />
                     <div className="absolute top-3 left-3 bg-stone-900/80 backdrop-blur-xs text-white text-xs font-bold px-3 py-1 rounded-full flex items-center gap-1">
                       <Star className="w-3.5 h-3.5 text-amber-400 fill-amber-400" />

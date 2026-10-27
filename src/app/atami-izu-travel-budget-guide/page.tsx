@@ -209,7 +209,7 @@ export default function AtamiBudgetGuidePage() {
               <article key={hotel.hotelNo} className="bg-white rounded-2xl overflow-hidden shadow-sm border border-slate-200 group">
                 <div className="aspect-[16/9] sm:aspect-[21/9] relative overflow-hidden bg-slate-100">
                   {hotel.hotelImageUrl && (
-                    <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="eager" fetchPriority="high" />
                   )}
                   {hotel.hotelMinCharge > 0 && (
                     <span className="absolute top-2 right-2 text-[10px] font-black bg-rose-500 text-white px-2 py-1 rounded-full shadow">

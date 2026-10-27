@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,000〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67446/67446_ky.jpg" alt="高崎駅前プラザホテル　慈光通り（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67446/67446_ky.jpg" alt="高崎駅前プラザホテル　慈光通り（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR高崎駅西口近。バイキング朝食付。Wi-Fi有♪ウエルカムドリンク実施中！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 群馬県高崎市通町4 ／ 最寄り駅：高崎 ／ 交通案内：JR高崎駅西口より徒歩7分、関越道高崎インターより車で約20分。徒歩3分にコンビニ有り。フロントは3Ｆにございます。</p>

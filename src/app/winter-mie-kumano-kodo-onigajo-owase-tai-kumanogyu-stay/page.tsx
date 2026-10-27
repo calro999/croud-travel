@@ -282,7 +282,7 @@ export default function FeaturePage() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Oniga-jo01.JPG/1280px-Oniga-jo01.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="世界遺産・鬼ヶ城（荒波が削り出した奇岩断崖と熊野古道）"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full space-y-3">

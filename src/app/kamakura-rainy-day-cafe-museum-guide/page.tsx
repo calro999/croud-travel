@@ -320,7 +320,7 @@ export default function KamakuraRainyDayCafeMuseumPage() {
                           src={hotel.hotelImageUrl}
                           alt={hotel.hotelName}
                           className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                          loading="lazy"
+                          loading="eager" fetchPriority="high"
                         />
                         <div className="absolute top-3 left-3 bg-indigo-950/80 backdrop-blur-md px-2.5 py-1 rounded-full text-xs font-bold text-violet-300 border border-indigo-700">
                           {hotel.nearestStation ? `${hotel.nearestStation}駅` : "湘南エリア"}

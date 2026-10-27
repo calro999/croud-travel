@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,500〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196888/196888.jpg" alt="アパホテル〈鳥取駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196888/196888.jpg" alt="アパホテル〈鳥取駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2025年10月23日開業！【全室禁煙】準天然人工温泉「光明石温泉」の大浴殿完備</p>
                   <p><strong>【所在地・アクセス】</strong>〒 鳥取県鳥取市富安2-165 ／ 最寄り駅：鳥取 ／ 交通案内：JR山陰本線「鳥取駅」（南口）より徒歩2分　鳥取の観光やビジネスにアクセス便利な好立地！</p>

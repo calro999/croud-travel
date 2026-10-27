@@ -1,5 +1,5 @@
 ---
-title: "【兵庫・美方】山陰湯村温泉 朝野家の温泉・露天風呂＆泉質ガイド｜98℃の湯量豊富な美肌の湯と"
+title: "【兵庫・美方】山陰湯村温泉 朝野家の温泉・露天風呂＆泉質ガイド｜98℃の湯量豊富な美肌の湯徹底ガイド"
 url: "https://croud-travel.pages.dev/posts/yumura-asanoya-guide/"
 hotel_name: "山陰湯村温泉 朝野家"
 prefecture: "兵庫県"
@@ -10,7 +10,7 @@ review_count: 1227
 last_modified: "2026-10-18"
 ---
 
-# 【兵庫・美方】山陰湯村温泉 朝野家の温泉・露天風呂＆泉質ガイド｜98℃の湯量豊富な美肌の湯と
+# 【兵庫・美方】山陰湯村温泉 朝野家の温泉・露天風呂＆泉質ガイド｜98℃の湯量豊富な美肌の湯徹底ガイド
 
 - **URL**: https://croud-travel.pages.dev/posts/yumura-asanoya-guide/
 - **宿泊施設・特集名**: 山陰湯村温泉 朝野家

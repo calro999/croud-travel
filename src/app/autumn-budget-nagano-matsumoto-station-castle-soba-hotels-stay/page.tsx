@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,700〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1562/1562_sgl.jpg" alt="松本駅から一番近い大浴場のある　ホテルニューステーション＜長野県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1562/1562_sgl.jpg" alt="松本駅から一番近い大浴場のある　ホテルニューステーション＜長野県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業50年の老舗ホテル◆松本駅東口徒歩１分◆檜の男女大浴場◆和食レストラン◆長期連泊プラン好評受付中</p>
                   <p><strong>【所在地・アクセス】</strong>〒 長野県松本市中央1-1-11 ／ 最寄り駅：松本 ／ 交通案内：ＪＲ松本駅北隣り徒歩１分。駅（東口）を出て左手４軒目。長野道松本ＩＣから車で１０分。松本バスターミナルから徒歩４分。</p>

@@ -273,7 +273,7 @@ export default function TokushimaIyaValleyWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/13663/13663.jpg" 
             alt="冬の徳島県祖谷渓谷とかずら橋の風景" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         

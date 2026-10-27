@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,000〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37936/37936_he.jpg" alt="リッチモンドホテル宇都宮駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/37936/37936_he.jpg" alt="リッチモンドホテル宇都宮駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆宇都宮出張はリッチモンドへ◆JR宇都宮駅南口徒歩2分の好立地！【全室】18平米以上＆シモンズベッド</p>
                   <p><strong>【所在地・アクセス】</strong>〒 栃木県宇都宮市駅前通り3-5-12 ／ 最寄り駅：宇都宮 ／ 交通案内：ＪＲ宇都宮駅(西口側)南口より徒歩2分。東北自動車道　鹿沼ＩＣより車で約35分</p>

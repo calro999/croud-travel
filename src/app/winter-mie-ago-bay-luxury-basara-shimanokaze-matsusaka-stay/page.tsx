@@ -166,7 +166,7 @@ export default function LuxuryStayPage() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Yokoyama_Viewpoint_001.jpg/1280px-Yokoyama_Viewpoint_001.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="横山展望台"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full md:w-1/2 space-y-3">

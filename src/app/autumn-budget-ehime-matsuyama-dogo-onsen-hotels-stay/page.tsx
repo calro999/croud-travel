@@ -447,7 +447,7 @@ export default function MatsuyamaBudgetAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,590〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151213/151213_kan1.jpg" alt="ダイワロイネットホテル松山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151213/151213_kan1.jpg" alt="ダイワロイネットホテル松山 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★基本セミセパレートバス採用★路面電車「大街道駅」徒歩約1分「道後温泉駅」まで約15分♪観光拠点に◎</p>
                   <p><strong>【所在地・アクセス】</strong>〒 愛媛県松山市一番町2-6-5 ／ 最寄り駅：主要駅 ／ 交通案内：市内路面電車「大街道駅」より徒歩約1分の駅ちかホテル。松山空港からリムジンバス（約30分）大街道下車、徒歩約1分</p>

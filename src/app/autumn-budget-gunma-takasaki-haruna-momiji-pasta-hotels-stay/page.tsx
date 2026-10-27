@@ -413,7 +413,7 @@ export default function AutumnBudgetTakasakiHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,780〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/197229/197229.jpg" alt="アパホテル＜高崎駅東口＞２０２６年１１月２日ＯＰＥＮ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/197229/197229.jpg" alt="アパホテル＜高崎駅東口＞２０２６年１１月２日ＯＰＥＮ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高崎アリーナ・Gメッセ群馬も徒歩圏内！朝食は水沢名店の地元食材を使った和ビュッフェ</p>
                   <p><strong>【所在地・アクセス】</strong>〒 群馬県高崎市東町48-6 ／ 最寄り駅：高崎 ／ 交通案内：上越新幹線・北陸新幹線・JR各線・上信電鉄「高崎駅」（東口）より徒歩6分</p>

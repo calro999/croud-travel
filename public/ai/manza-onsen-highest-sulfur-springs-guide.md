@@ -1,5 +1,5 @@
 ---
-title: "【群馬・万座温泉・草津・嬬恋・北軽井沢】万座温泉　湯の花旅館の宿泊記＆口コミ評判｜万座温泉・草津・嬬恋・北軽井沢の好立地＆上州牛すき焼き・客室・朝食・アクセス（目安¥7,000〜）"
+title: "【群馬・万座温泉・草津・嬬恋・北軽井沢】万座温泉　湯の花旅館の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/manza-onsen-highest-sulfur-springs-guide/"
 hotel_name: "万座温泉　湯の花旅館"
 prefecture: "群馬県"
@@ -10,7 +10,7 @@ review_count: 77
 last_modified: "2026-10-18"
 ---
 
-# 【群馬・万座温泉・草津・嬬恋・北軽井沢】万座温泉　湯の花旅館の宿泊記＆口コミ評判｜万座温泉・草津・嬬恋・北軽井沢の好立地＆上州牛すき焼き・客室・朝食・アクセス（目安¥7,000〜）
+# 【群馬・万座温泉・草津・嬬恋・北軽井沢】万座温泉　湯の花旅館の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/manza-onsen-highest-sulfur-springs-guide/
 - **宿泊施設・特集名**: 万座温泉　湯の花旅館

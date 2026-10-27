@@ -132,7 +132,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/28425/28425.jpg"
                   alt="伊豆熱川温泉　六つの貸切風呂を湯めぐり　ふたりの湯宿　湯花満開 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

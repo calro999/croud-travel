@@ -1,5 +1,5 @@
 ---
-title: "【香川・坂出市】坂出プラザホテルの宿泊記＆口コミ評判｜自家製朝食ビュッフェ・クチコミ4.7・楽天アワード４年連続受・客室・朝食・アクセス（目安¥5,100〜）"
+title: "【香川・坂出市】坂出プラザホテルの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/setouchiso-sakaide-seto-bridge-udon-guide/"
 hotel_name: "坂出プラザホテル"
 prefecture: "香川県"
@@ -10,7 +10,7 @@ review_count: 2651
 last_modified: "2026-10-18"
 ---
 
-# 【香川・坂出市】坂出プラザホテルの宿泊記＆口コミ評判｜自家製朝食ビュッフェ・クチコミ4.7・楽天アワード４年連続受・客室・朝食・アクセス（目安¥5,100〜）
+# 【香川・坂出市】坂出プラザホテルの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/setouchiso-sakaide-seto-bridge-udon-guide/
 - **宿泊施設・特集名**: 坂出プラザホテル

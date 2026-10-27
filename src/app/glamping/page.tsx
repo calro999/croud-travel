@@ -655,7 +655,7 @@ export default function GlampingHubPage() {
                       src={hotel.hotelImageUrl || "https://img.travel.rakuten.co.jp/share/HOTEL/182125/182125.jpg"}
                       alt={hotel.hotelName}
                       className="w-full h-full object-cover"
-                    loading="lazy" decoding="async" />
+                    loading="eager" fetchPriority="high" decoding="async" />
                     {hotel.reviewAverage && (
                       <div className="absolute bottom-2 left-2 bg-slate-900/80 backdrop-blur-sm text-amber-300 text-xs font-bold px-2 py-0.5 rounded flex items-center gap-1">
                         ★ {hotel.reviewAverage.toFixed(1)}

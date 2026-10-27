@@ -1,5 +1,5 @@
 ---
-title: "【岩手・一関市】一関・厳美渓＆猊鼻渓 名勝舟下り＆前沢牛名宿セレクションの宿泊記＆口コミ評判｜前沢牛と旬の味覚を味わう天然温泉宿・客室・朝食・アクセス（目安¥6,050〜）"
+title: "【岩手・一関市】一関・厳美渓＆猊鼻渓 名勝舟下り＆前沢牛名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/ichinoseki-genbikei-geibikei-boat-tour-hotels-guide/"
 hotel_name: "一関・厳美渓＆猊鼻渓 名勝舟下り＆前沢牛名宿セレクション"
 prefecture: "岩手県"
@@ -10,7 +10,7 @@ review_count: 1523
 last_modified: "2026-10-18"
 ---
 
-# 【岩手・一関市】一関・厳美渓＆猊鼻渓 名勝舟下り＆前沢牛名宿セレクションの宿泊記＆口コミ評判｜前沢牛と旬の味覚を味わう天然温泉宿・客室・朝食・アクセス（目安¥6,050〜）
+# 【岩手・一関市】一関・厳美渓＆猊鼻渓 名勝舟下り＆前沢牛名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/ichinoseki-genbikei-geibikei-boat-tour-hotels-guide/
 - **宿泊施設・特集名**: 一関・厳美渓＆猊鼻渓 名勝舟下り＆前沢牛名宿セレクション

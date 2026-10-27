@@ -339,7 +339,7 @@ export default function TokyoShibuyaOmotesandoWinterPage() {
                       src={h.img} 
                       alt={h.name}
                       className="w-full h-full object-cover absolute inset-0"
-                      loading="lazy"
+                      loading="eager" fetchPriority="high"
                     />
                     <div className="absolute top-3 left-3 bg-slate-900/80 backdrop-blur-md text-white text-xs font-bold px-3 py-1 rounded-full border border-white/20">
                       厳選宿 #{h.id}

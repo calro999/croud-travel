@@ -194,7 +194,7 @@ export default function FurusatoMinohFallsArimaAutumnLeavesStayPage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/53390/53390.jpg"
                         alt="有馬温泉　欽山"
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

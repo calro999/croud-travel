@@ -175,7 +175,7 @@ export default function PetDogResortHubPage() {
                               src={hotel.hotelImageUrl}
                               alt={hotel.hotelName}
                               className="w-full h-full object-cover"
-                              loading="lazy"
+                              loading="eager" fetchPriority="high"
                             />
                           ) : (
                             <div className="w-full h-full flex items-center justify-center text-emerald-300 text-xs font-bold">

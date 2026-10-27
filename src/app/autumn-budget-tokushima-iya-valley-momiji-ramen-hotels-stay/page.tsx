@@ -404,7 +404,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,900〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/202210/202210.jpg" alt="ＣＯＺＹ　ＣＯＭＦＯＲＴＳ　ＨＯＴＥＬ（コージーコンフォーツホテル）２０２６年８月８日新規オープン 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/202210/202210.jpg" alt="ＣＯＺＹ　ＣＯＭＦＯＲＴＳ　ＨＯＴＥＬ（コージーコンフォーツホテル）２０２６年８月８日新規オープン 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★令和８年８月８日★新築グランドオープン！〜デザイン性と快適性を兼ね備え快適なご滞在をお届けします〜</p>
                   <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市仲之町1-40 ／ 最寄り駅：徳島 ／ 交通案内：JR徳島駅より車で約4分／徳島阿波おどり空港より車で約25分／徳島最大の歓楽街「秋田町」徒歩1分</p>

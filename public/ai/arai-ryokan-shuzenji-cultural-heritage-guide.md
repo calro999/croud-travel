@@ -1,5 +1,5 @@
 ---
-title: "【静岡・伊豆市】修善寺温泉 国の登録文化財の宿 新井旅館の宿泊記＆口コミ評判｜ミシュランで二つ星の竹林の小径まで徒歩2分・修善寺温泉の中心・客室・朝食・アクセス（目安¥24,420〜）"
+title: "【静岡・伊豆市】修善寺温泉 国の登録文化財の宿 新井旅館の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/arai-ryokan-shuzenji-cultural-heritage-guide/"
 hotel_name: "修善寺温泉 国の登録文化財の宿 新井旅館"
 prefecture: "静岡県"
@@ -10,7 +10,7 @@ review_count: 267
 last_modified: "2026-10-18"
 ---
 
-# 【静岡・伊豆市】修善寺温泉 国の登録文化財の宿 新井旅館の宿泊記＆口コミ評判｜ミシュランで二つ星の竹林の小径まで徒歩2分・修善寺温泉の中心・客室・朝食・アクセス（目安¥24,420〜）
+# 【静岡・伊豆市】修善寺温泉 国の登録文化財の宿 新井旅館の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/arai-ryokan-shuzenji-cultural-heritage-guide/
 - **宿泊施設・特集名**: 修善寺温泉 国の登録文化財の宿 新井旅館

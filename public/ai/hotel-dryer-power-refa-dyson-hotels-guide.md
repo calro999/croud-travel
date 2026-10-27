@@ -1,5 +1,5 @@
 ---
-title: "【全国・京都市】高級ドライヤー・ReFa完備 美髪＆温泉名宿セレクションの宿泊記＆口コミ評判｜天然温泉大浴場を完備・高温サウナ＆水風呂あり・客室・朝食・アクセス（目安¥7,875〜）"
+title: "【全国・京都市】高級ドライヤー・ReFa完備 美髪＆温泉名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/hotel-dryer-power-refa-dyson-hotels-guide/"
 hotel_name: "高級ドライヤー・ReFa完備 美髪＆温泉名宿セレクション"
 prefecture: "全国"
@@ -10,7 +10,7 @@ review_count: 5092
 last_modified: "2026-10-18"
 ---
 
-# 【全国・京都市】高級ドライヤー・ReFa完備 美髪＆温泉名宿セレクションの宿泊記＆口コミ評判｜天然温泉大浴場を完備・高温サウナ＆水風呂あり・客室・朝食・アクセス（目安¥7,875〜）
+# 【全国・京都市】高級ドライヤー・ReFa完備 美髪＆温泉名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/hotel-dryer-power-refa-dyson-hotels-guide/
 - **宿泊施設・特集名**: 高級ドライヤー・ReFa完備 美髪＆温泉名宿セレクション

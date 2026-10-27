@@ -1,5 +1,5 @@
 ---
-title: "【島根・松江市】松江しんじ湖温泉 夕日絶景＆七珍美食宿セレクションの宿泊記＆口コミ評判｜130年の歴史に多くの文人に愛され「和のオーベルジュ・客室・朝食・アクセス（目安¥21,340〜）"
+title: "【島根・松江市】松江しんじ湖温泉 夕日絶景＆七珍美食宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/matsue-shinjiko-onsen-sunset-seven-delicacies-hotels-guide/"
 hotel_name: "松江しんじ湖温泉 夕日絶景＆七珍美食宿セレクション"
 prefecture: "島根県"
@@ -10,7 +10,7 @@ review_count: 391
 last_modified: "2026-10-18"
 ---
 
-# 【島根・松江市】松江しんじ湖温泉 夕日絶景＆七珍美食宿セレクションの宿泊記＆口コミ評判｜130年の歴史に多くの文人に愛され「和のオーベルジュ・客室・朝食・アクセス（目安¥21,340〜）
+# 【島根・松江市】松江しんじ湖温泉 夕日絶景＆七珍美食宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/matsue-shinjiko-onsen-sunset-seven-delicacies-hotels-guide/
 - **宿泊施設・特集名**: 松江しんじ湖温泉 夕日絶景＆七珍美食宿セレクション

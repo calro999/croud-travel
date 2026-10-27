@@ -1,5 +1,5 @@
 ---
-title: "【山梨・北杜市】八ヶ岳・清里高原 星空＆高原リゾートセレクションの宿泊記＆口コミ評判｜2026年5月1日（金）リニューアルオープン・―天空の青音リ・客室・朝食・アクセス（目安¥13,540〜）"
+title: "【山梨・北杜市】八ヶ岳・清里高原 星空＆高原リゾートセレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/yatsugatake-kiyosato-starry-sky-highland-hotels-guide/"
 hotel_name: "八ヶ岳・清里高原 星空＆高原リゾートセレクション"
 prefecture: "山梨県"
@@ -10,7 +10,7 @@ review_count: 1173
 last_modified: "2026-10-18"
 ---
 
-# 【山梨・北杜市】八ヶ岳・清里高原 星空＆高原リゾートセレクションの宿泊記＆口コミ評判｜2026年5月1日（金）リニューアルオープン・―天空の青音リ・客室・朝食・アクセス（目安¥13,540〜）
+# 【山梨・北杜市】八ヶ岳・清里高原 星空＆高原リゾートセレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/yatsugatake-kiyosato-starry-sky-highland-hotels-guide/
 - **宿泊施設・特集名**: 八ヶ岳・清里高原 星空＆高原リゾートセレクション

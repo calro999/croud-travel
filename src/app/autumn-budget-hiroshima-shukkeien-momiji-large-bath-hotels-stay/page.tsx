@@ -8,11 +8,11 @@ export const metadata: Metadata = {
     canonical: "https://croud-travel.pages.dev/autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay/",
   },
 
-  title: '秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
+  title: "秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き",
   description: '名勝「縮景園」の幻想的なもみじライトアップと平和記念公園の紅葉！広島名物のお好み焼きや秋に旬を迎える焼き牡蠣を満喫。大浴場やサウナ完備で1泊3,000円〜6,000円台で泊まれる広島のコスパ最強ホテル5選。アパホテル広島駅前大橋、トラストホテルなどを徹底比較！',
   keywords: '広島 格安 ホテル, 広島 大浴場 ホテル 安い, 縮景園 もみじまつり ライトアップ, 広島 お好み焼き 宿, アパホテル広島駅前大橋, トラストホテル 広島',
   openGraph: {
-    title: '秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」',
+    title: "秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き",
     description: '縮景園もみじライトアップと牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強広島ホテル5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/autumn-budget-hiroshima-shukkeien-momiji-large-bath-hotels-stay/',
@@ -447,7 +447,7 @@ export default function HiroshimaBudgetAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,500〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153290/153290.jpg" alt="アパホテル〈広島駅前大橋〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/153290/153290.jpg" alt="アパホテル〈広島駅前大橋〉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ご宿泊者様専用露天風呂付大浴殿完備！おいしい朝食ビュッフェ付きプランあり！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 広島県広島市南区京橋町2-26 ／ 最寄り駅：広島 ／ 交通案内：［山陽新幹線＋JR各線］広島駅南口8番出口から徒歩4分［市内電車］広島電停から徒歩6分　［空港］広島駅から直通バス50分</p>

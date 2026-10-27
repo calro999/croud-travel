@@ -274,7 +274,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/15784/15784.jpg" 
             alt="冬の三陸海岸・気仙沼湾と太平洋の絶景" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         

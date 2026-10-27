@@ -1,5 +1,5 @@
 ---
-title: "【岩手・釜石市】釜石＆根浜海岸 ラグビー聖地＆三陸海の幸名宿セレクションの宿泊記＆口コミ評判｜露天風呂付浴場・JR釜石線釜石駅隣接・客室・朝食・アクセス（目安¥5,600〜）"
+title: "【岩手・釜石市】釜石＆根浜海岸 ラグビー聖地＆三陸海の幸名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/kamaishi-nebama-coast-rugby-seafood-hotels-guide/"
 hotel_name: "釜石＆根浜海岸 ラグビー聖地＆三陸海の幸名宿セレクション"
 prefecture: "岩手県"
@@ -10,7 +10,7 @@ review_count: 1414
 last_modified: "2026-10-18"
 ---
 
-# 【岩手・釜石市】釜石＆根浜海岸 ラグビー聖地＆三陸海の幸名宿セレクションの宿泊記＆口コミ評判｜露天風呂付浴場・JR釜石線釜石駅隣接・客室・朝食・アクセス（目安¥5,600〜）
+# 【岩手・釜石市】釜石＆根浜海岸 ラグビー聖地＆三陸海の幸名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/kamaishi-nebama-coast-rugby-seafood-hotels-guide/
 - **宿泊施設・特集名**: 釜石＆根浜海岸 ラグビー聖地＆三陸海の幸名宿セレクション

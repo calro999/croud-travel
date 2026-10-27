@@ -1,5 +1,5 @@
 ---
-title: "【岩手・花巻市】花巻温泉　割烹旅館　廣美亭の宿泊記＆口コミ評判｜花巻温泉で唯一の割烹旅館・岩手の旬の素材を使った本格会席料理・客室・朝食・アクセス（目安¥15,400〜）"
+title: "【岩手・花巻市】花巻温泉　割烹旅館　廣美亭の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/hanamaki-onsen-rose-bath-kenji-guide/"
 hotel_name: "花巻温泉　割烹旅館　廣美亭"
 prefecture: "岩手県"
@@ -10,7 +10,7 @@ review_count: 339
 last_modified: "2026-10-18"
 ---
 
-# 【岩手・花巻市】花巻温泉　割烹旅館　廣美亭の宿泊記＆口コミ評判｜花巻温泉で唯一の割烹旅館・岩手の旬の素材を使った本格会席料理・客室・朝食・アクセス（目安¥15,400〜）
+# 【岩手・花巻市】花巻温泉　割烹旅館　廣美亭の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/hanamaki-onsen-rose-bath-kenji-guide/
 - **宿泊施設・特集名**: 花巻温泉　割烹旅館　廣美亭

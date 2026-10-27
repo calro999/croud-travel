@@ -414,7 +414,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,600〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/192879/192879.jpg" alt="ＨＯＴＥＬ　Ｒ９　Ｔｈｅ　Ｙａｒｄ　甲府 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/192879/192879.jpg" alt="ＨＯＴＥＬ　Ｒ９　Ｔｈｅ　Ｙａｒｄ　甲府 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>一宮御坂IC、甲府昭和ICから車で10分！徒歩圏に飲食店多数★ビジネスや観光、ゴルフの宿泊拠点に◎</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山梨県甲府市上阿原町1170-1 ／ 最寄り駅：酒折 ／ 交通案内：【お車】一宮御坂IC、甲府昭和ICより車で約10分【電車】JR甲府駅よりタクシーで15分</p>

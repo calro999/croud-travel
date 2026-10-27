@@ -1,5 +1,5 @@
 ---
-title: "【島根・松江市】玉造温泉　源泉かけ流しの宿　湯陣　千代の湯の宿泊記＆口コミ評判｜最大3,000円クーポン配布中・レトロな雰囲気・客室・朝食・アクセス（目安¥14,300〜）"
+title: "【島根・松江市】玉造温泉　源泉かけ流しの宿　湯陣　千代の湯の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/tamatsukuri-onsen-bihada-magatama-guide/"
 hotel_name: "玉造温泉　源泉かけ流しの宿　湯陣　千代の湯"
 prefecture: "島根県"
@@ -10,7 +10,7 @@ review_count: 886
 last_modified: "2026-10-18"
 ---
 
-# 【島根・松江市】玉造温泉　源泉かけ流しの宿　湯陣　千代の湯の宿泊記＆口コミ評判｜最大3,000円クーポン配布中・レトロな雰囲気・客室・朝食・アクセス（目安¥14,300〜）
+# 【島根・松江市】玉造温泉　源泉かけ流しの宿　湯陣　千代の湯の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/tamatsukuri-onsen-bihada-magatama-guide/
 - **宿泊施設・特集名**: 玉造温泉　源泉かけ流しの宿　湯陣　千代の湯

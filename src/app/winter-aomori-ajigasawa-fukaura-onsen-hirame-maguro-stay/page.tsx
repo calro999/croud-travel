@@ -427,7 +427,7 @@ export default function AomoriAjigasawaFukauraWinterPage() {
                       src={hotel.img} 
                       alt={hotel.name}
                       className="w-full h-full object-cover absolute inset-0"
-                      loading="lazy"
+                      loading="eager" fetchPriority="high"
                     />
                     <div className="absolute top-3 left-3 bg-teal-950/80 backdrop-blur-xs text-white text-xs px-3 py-1 rounded-full font-bold">
                       厳選第{hotel.id}位

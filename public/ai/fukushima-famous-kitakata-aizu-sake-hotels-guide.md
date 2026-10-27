@@ -1,5 +1,5 @@
 ---
-title: "【福島・会津若松市】福島県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜2024楽天アワード受賞・客室・朝食・アクセス（目安¥7,500〜）"
+title: "【福島・会津若松市】福島県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/fukushima-famous-kitakata-aizu-sake-hotels-guide/"
 hotel_name: "福島県 おすすめ名門ホテル・温泉旅館セレクション"
 prefecture: "福島県"
@@ -10,7 +10,7 @@ review_count: 6781
 last_modified: "2026-10-18"
 ---
 
-# 【福島・会津若松市】福島県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜2024楽天アワード受賞・客室・朝食・アクセス（目安¥7,500〜）
+# 【福島・会津若松市】福島県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/fukushima-famous-kitakata-aizu-sake-hotels-guide/
 - **宿泊施設・特集名**: 福島県 おすすめ名門ホテル・温泉旅館セレクション

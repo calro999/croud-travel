@@ -489,7 +489,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥2,763〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/167086/167086.jpg" alt="ホテルリブマックス新潟駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/167086/167086.jpg" alt="ホテルリブマックス新潟駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【全室シモンズベッド】【全室電子レンジ完備】【全室有線LAN・Wi-Fi】【コインランドリー完備】</p>
                   <p><strong>【所在地・アクセス】</strong>〒 新潟県新潟市中央区花園1-7-10 ／ 最寄り駅：新潟 ／ 交通案内：上越新幹線 各線 新潟駅 万代口より徒歩にて約3分。 新潟交通各路線高速バス「新潟駅前」バス停より徒歩5分</p>

@@ -608,7 +608,7 @@ export default function Page() {
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Entrance_to_Echigo-Yuzawa_Onsen.JPG/1280px-Entrance_to_Echigo-Yuzawa_Onsen.JPG?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="苗場山・越後湯沢温泉" className="w-full h-full object-cover" loading="lazy" /></div>
+              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Entrance_to_Echigo-Yuzawa_Onsen.JPG/1280px-Entrance_to_Echigo-Yuzawa_Onsen.JPG?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="苗場山・越後湯沢温泉" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
                 <h3 className="text-base font-bold text-stone-900">苗場山・越後湯沢温泉</h3>

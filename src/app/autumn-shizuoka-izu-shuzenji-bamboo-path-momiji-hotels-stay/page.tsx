@@ -447,7 +447,7 @@ export default function IzuShuzenjiAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥11,000〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/27983/27983_mel.jpg" alt="修善寺温泉　宙ＳＯＲＡ　渡月荘金龍 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/27983/27983_mel.jpg" alt="修善寺温泉　宙ＳＯＲＡ　渡月荘金龍 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>客室からは四季を感じられる自然が一望できます。月替りの会席は人気の絶品です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 静岡県伊豆市修善寺3455 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道修善寺駅から路線バスまたはタクシー（送迎不可）/東名高速沼津ICから伊豆縦貫道・伊豆中央道経由約３５分</p>

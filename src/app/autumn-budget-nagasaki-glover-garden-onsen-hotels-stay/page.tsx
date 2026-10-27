@@ -8,11 +8,11 @@ export const metadata: Metadata = {
     canonical: "https://croud-travel.pages.dev/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay/",
   },
 
-  title: '秋の長崎×格安：グラバー園の秋バラと世界新三大夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」',
+  title: "秋の長崎×格安：グラバー園の秋バラと世界新三大夜景",
   description: '異国情緒あふれる南山手グラバー園の秋バラ・紅葉と、稲佐山から望む世界新三大夜景！長崎ちゃんぽんや卓袱料理を満喫。大浴場やサウナ完備で1泊3,000円〜5,000円台で泊まれる長崎駅周辺の格安ホテル5選。ホテルクオーレ長崎駅前、hotel H2などを徹底比較！',
   keywords: '長崎 格安 ホテル, 長崎 大浴場 ホテル 安い, グラバー園 秋バラ 紅葉, 稲佐山 夜景 宿, ホテルクオーレ長崎駅前, hotel H2 長崎',
   openGraph: {
-    title: '秋の長崎×格安：グラバー園の秋バラと世界新三大夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強ホテル5選「2026最新」',
+    title: "秋の長崎×格安：グラバー園の秋バラと世界新三大夜景",
     description: 'グラバー園の秋バラと稲佐山夜景！大浴場付き1泊3,000円〜5,000円台のコスパ最強長崎ホテル5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/autumn-budget-nagasaki-glover-garden-onsen-hotels-stay/',
@@ -447,7 +447,7 @@ export default function NagasakiBudgetAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,700〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/176612/176612.jpg" alt="ｈｏｔｅｌ　Ｈ２　ホテルエイチツー長崎 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/176612/176612.jpg" alt="ｈｏｔｅｌ　Ｈ２　ホテルエイチツー長崎 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>最上階大浴場＆露天風呂／ 提携駐車場３ヶ所／空港バス停徒歩１分／電停徒歩２分／繁華街徒歩１分</p>
                   <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市築町5-11 ／ 最寄り駅：長崎（長崎） ／ 交通案内：空港バス「中央橋」下車徒歩約１分／長崎駅前より路面電車「西浜町」下車徒歩２分／長崎IC～出島道路出口から車で約3分</p>

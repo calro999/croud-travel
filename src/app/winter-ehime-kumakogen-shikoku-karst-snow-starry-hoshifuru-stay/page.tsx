@@ -220,7 +220,7 @@ export default function Page() {
                   src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Shikokukarusuto01.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
                   alt="標高1,400mの白銀パノラマ・四国カルスト天狗高原"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full space-y-3">

@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '熱海温泉をふるさと納税でお得に旅する！相模湾オーシャンビュー＆熱海海上花火大会特等席！名門老舗＆絶景リゾート厳選ガイド｜熱海後楽園ホテル・古屋旅館・秀花園湯の花膳',
+  title: "熱海温泉をふるさと納税でお得に旅する！相模湾オーシャンビュー＆熱海海上花火大会特等席",
   description: '都心から新幹線で約45分！年中開催の海上花火大会と相模湾の絶景を誇る日本屈指の温泉リゾート「熱海温泉」を楽天ふるさと納税でお得に満喫！海一望のパノラマと大型スパ併設の「熱海後楽園ホテル」、創業百八十余年・熱海最古の名湯を誇る「古屋旅館」、花火と夜景を屋上露天から見晴らす「秀花園 湯の花膳」を徹底紹介。金目鯛会席や熱海市クーポン活用術を網羅。',
   keywords: '熱海温泉 ふるさと納税,熱海 花火大会 見える 宿 ふるさと納税,熱海後楽園ホテル クーポン,古屋旅館 熱海 宿泊,熱海市 ふるさと納税 楽天トラベル',
   openGraph: {
-    title: '熱海温泉をふるさと納税でお得に旅する！相模湾オーシャンビュー＆熱海海上花火大会特等席！名門老舗＆絶景リゾート厳選ガイド｜熱海後楽園ホテル・古屋旅館・秀花園湯の花膳',
+    title: "熱海温泉をふるさと納税でお得に旅する！相模湾オーシャンビュー＆熱海海上花火大会特等席",
     description: '都心から新幹線で約45分！年中開催の海上花火大会と相模湾の絶景を誇る日本屈指の温泉リゾート「熱海温泉」を楽天ふるさと納税でお得に満喫！海一望のパノラマと大型スパ併設の「熱海後楽園ホテル」、創業百八十余年・熱海最古の名湯を誇る「古屋旅館」、花火と夜景を屋上露天から見晴らす「秀花園 湯の花膳」を徹底紹介。金目鯛会席や熱海市クーポン活用術を網羅。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-atami-onsen-fireworks-ocean-stay/',
@@ -132,7 +132,7 @@ export default function FurusatoTaxArticle() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/1656/1656.jpg"
                 alt="熱海温泉　熱海後楽園ホテル"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
               <div className="absolute top-4 left-4 bg-stone-900/80 backdrop-blur-sm text-white text-xs px-3 py-1.5 rounded-full font-semibold">
                 第1選

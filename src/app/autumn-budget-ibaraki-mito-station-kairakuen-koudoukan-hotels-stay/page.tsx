@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,300〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151370/151370_kan1.jpg" alt="アパホテル〈水戸駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/151370/151370_kan1.jpg" alt="アパホテル〈水戸駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ水戸駅（南口）徒歩3分【全室有線ＬＡＮ＆Ｗｉ－Ｆｉ接続無料】</p>
                   <p><strong>【所在地・アクセス】</strong>〒 茨城県水戸市桜川1-1-6 ／ 最寄り駅：水戸 ／ 交通案内：JR常磐線　水戸駅から徒歩3分！★☆ビジネス利用・観光利用にも便利！！☆★</p>

@@ -1,5 +1,5 @@
 ---
-title: "【山梨・南都留】山中湖・忍野八海 富士山ビューリゾートセレクションの宿泊記＆口コミ評判｜1,100ｍの高台に建つ・ホテル中庭から望む・客室・朝食・アクセス（目安¥12,400〜）"
+title: "【山梨・南都留】山中湖・忍野八海 富士山ビューリゾートセレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/yamanakako-oshino-hakkai-fuji-view-hotels-guide/"
 hotel_name: "山中湖・忍野八海 富士山ビューリゾートセレクション"
 prefecture: "山梨県"
@@ -10,7 +10,7 @@ review_count: 1472
 last_modified: "2026-10-18"
 ---
 
-# 【山梨・南都留】山中湖・忍野八海 富士山ビューリゾートセレクションの宿泊記＆口コミ評判｜1,100ｍの高台に建つ・ホテル中庭から望む・客室・朝食・アクセス（目安¥12,400〜）
+# 【山梨・南都留】山中湖・忍野八海 富士山ビューリゾートセレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/yamanakako-oshino-hakkai-fuji-view-hotels-guide/
 - **宿泊施設・特集名**: 山中湖・忍野八海 富士山ビューリゾートセレクション

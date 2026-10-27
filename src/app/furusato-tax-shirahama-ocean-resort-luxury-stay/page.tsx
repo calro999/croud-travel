@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '南紀白浜温泉をふるさと納税でお得に旅する！白良浜オーシャンビュー＆アドベンチャーワールド！名門宮殿リゾート＆極上クエ会席ガイド｜ホテル川久・むさし・白浜マリオット',
+  title: "南紀白浜温泉をふるさと納税でお得に旅する！白良浜オーシャンビュー＆アドベンチャーワールド",
   description: '日本三古湯の一つ・南紀白浜温泉を楽天ふるさと納税でお得にリゾートステイ！総工費400億円の芸術宮殿ホテル「ホテル川久」の王様のビュッフェ、白良浜徒歩1分で2種の源泉を誇る「紀州・白浜温泉 むさし」、太平洋の絶景を望む「南紀白浜マリオットホテル」を徹底比較。和歌山県白浜町クーポン活用術を網羅。',
   keywords: '白浜温泉 ふるさと納税,ホテル川久 ふるさと納税,白良浜 ホテル クーポン,アドベンチャーワールド 宿泊,白浜町 ふるさと納税 楽天トラベル',
   openGraph: {
-    title: '南紀白浜温泉をふるさと納税でお得に旅する！白良浜オーシャンビュー＆アドベンチャーワールド！名門宮殿リゾート＆極上クエ会席ガイド｜ホテル川久・むさし・白浜マリオット',
+    title: "南紀白浜温泉をふるさと納税でお得に旅する！白良浜オーシャンビュー＆アドベンチャーワールド",
     description: '日本三古湯の一つ・南紀白浜温泉を楽天ふるさと納税でお得にリゾートステイ！総工費400億円の芸術宮殿ホテル「ホテル川久」の王様のビュッフェ、白良浜徒歩1分で2種の源泉を誇る「紀州・白浜温泉 むさし」、太平洋の絶景を望む「南紀白浜マリオットホテル」を徹底比較。和歌山県白浜町クーポン活用術を網羅。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-shirahama-ocean-resort-luxury-stay/',
@@ -132,7 +132,7 @@ export default function FurusatoTaxArticle() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/14111/14111.jpg"
                 alt="白浜温泉　ホテル川久"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
               <div className="absolute top-4 left-4 bg-stone-900/80 backdrop-blur-sm text-white text-xs px-3 py-1.5 rounded-full font-semibold">
                 第1選

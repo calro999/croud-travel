@@ -194,7 +194,7 @@ export default function FurusatoIseshimaAutumnIseLobsterStayPage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/8647/8647.jpg"
                         alt="鳥羽本浦温泉　サン浦島　悠季の里"
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

@@ -1,5 +1,5 @@
 ---
-title: "【鳥取・東伯】鳥取県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜舘は国登録有形文化財・自家源泉５ヶ所の内・客室・朝食・アクセス（目安¥14,300〜）"
+title: "【鳥取・東伯】鳥取県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/tottori-famous-crab-sand-dunes-sake-hotels-guide/"
 hotel_name: "鳥取県 おすすめ名門ホテル・温泉旅館セレクション"
 prefecture: "鳥取県"
@@ -10,7 +10,7 @@ review_count: 281
 last_modified: "2026-10-18"
 ---
 
-# 【鳥取・東伯】鳥取県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜舘は国登録有形文化財・自家源泉５ヶ所の内・客室・朝食・アクセス（目安¥14,300〜）
+# 【鳥取・東伯】鳥取県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/tottori-famous-crab-sand-dunes-sake-hotels-guide/
 - **宿泊施設・特集名**: 鳥取県 おすすめ名門ホテル・温泉旅館セレクション

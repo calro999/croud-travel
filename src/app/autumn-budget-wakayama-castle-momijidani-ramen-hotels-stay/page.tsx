@@ -414,7 +414,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,175〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1191/1191_tw.jpg" alt="ホテルグランヴィア和歌山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1191/1191_tw.jpg" alt="ホテルグランヴィア和歌山 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>チェックイン前・チェックアウト後のお荷物一時預り（当日引取り限定）遠慮なくフロント係に申付け下さい。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 和歌山県和歌山市友田町5-18 ／ 最寄り駅：和歌山 ／ 交通案内：JR和歌山駅中央口から徒歩2分！近鉄百貨店様と同じビル</p>

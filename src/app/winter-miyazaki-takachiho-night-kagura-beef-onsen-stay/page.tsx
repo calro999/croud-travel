@@ -273,7 +273,7 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/30082/30082.jpg" 
             alt="冬の宮崎県高千穂峡真名井の滝と夜神楽の風景" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         

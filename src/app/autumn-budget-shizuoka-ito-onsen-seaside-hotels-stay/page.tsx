@@ -447,7 +447,7 @@ export default function ItoBudgetAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,000〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14377/14377_w.jpg" alt="伊東温泉　ホテル　ラヴィエ川良 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/14377/14377_w.jpg" alt="伊東温泉　ホテル　ラヴィエ川良 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>湯舟から溢れる天然100％の温泉と、海の幸が網焼きできる60種類のバイキングを堪能！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市竹の内1-1-3 ／ 最寄り駅：伊東 ／ 交通案内：JR伊東線「伊東駅」下車 徒歩７分／車で東名高速沼津ICから1時間20分・厚木ICから1時間40分／送迎バスあり</p>

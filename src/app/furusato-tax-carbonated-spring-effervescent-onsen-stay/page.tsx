@@ -151,7 +151,7 @@ export default function FurusatoFeaturePage() {
                     src="https://img.travel.rakuten.co.jp/share/HOTEL/37846/37846.jpg"
                     alt="長湯温泉　紅葉館＜大分県＞"
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                    loading="lazy"
+                    loading="eager" fetchPriority="high"
                   />
                   <div className="absolute top-2 right-2 px-2.5 py-1 rounded-lg bg-stone-900/80 backdrop-blur border border-stone-700 text-amber-400 text-xs font-bold">
                     ★ 3.88 (145件)

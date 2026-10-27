@@ -458,7 +458,7 @@ export default function KyotoHubPage() {
                       src={hotel.hotelImageUrl}
                       alt={hotel.hotelName}
                       className="w-full h-full object-cover"
-                      loading="lazy"
+                      loading="eager" fetchPriority="high"
                     />
                     <span className="absolute top-2 left-2 text-[9px] font-extrabold bg-stone-900 text-white px-2.5 py-0.5 rounded-full shadow">
                       京都駅チカ

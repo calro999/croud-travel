@@ -522,7 +522,7 @@ export default function ArticlePage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥9,000〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2055/2055_s.jpg" alt="オークラアクトシティホテル浜松（オークラホテルズ＆リゾーツ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2055/2055_s.jpg" alt="オークラアクトシティホテル浜松（オークラホテルズ＆リゾーツ） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>家康ゆかりの地 浜松☆夜景の見えるシティホテル全国第4位☆上質のおもてなし♪JR浜松駅隣</p>
                   <p><strong>【所在地・アクセス】</strong>〒 静岡県浜松市中央区板屋町111-2 ／ 最寄り駅：浜松 ／ 交通案内：ＪＲ浜松駅２階メイワン改札より連絡通路で徒歩３分。浜松IC.浜松西ICより車で約20分。エコパから電車で約40分</p>

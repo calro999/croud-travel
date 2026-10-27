@@ -208,7 +208,7 @@ export default function Page() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/40434/40434.jpg"
                 alt="奥入瀬渓流ホテル　ｂｙ　星野リゾート"
                 className="w-full h-full object-cover"
-              loading="lazy" decoding="async" />
+              loading="eager" fetchPriority="high" decoding="async" />
             </div>
             <div className="space-y-3">
               <h4 className="font-bold text-stone-900 text-sm">宿の魅力と秋の過ごし方</h4>

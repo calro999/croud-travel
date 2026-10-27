@@ -384,7 +384,7 @@ export default function YamaguchiHofuShunanWinterPage() {
                           src={hotel.img}
                           alt={hotel.name}
                           className="w-full h-full object-cover"
-                          loading="lazy"
+                          loading="eager" fetchPriority="high"
                         />
                         <div className="absolute top-3 left-3 bg-slate-900/80 backdrop-blur-md text-white text-xs font-bold px-3 py-1 rounded-full">
                           第{hotel.id}位 厳選名宿

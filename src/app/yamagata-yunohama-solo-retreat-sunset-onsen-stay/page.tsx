@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/yamagata-yunohama-solo-retreat-sunset-onsen-stay/" },
-  title: '山形・湯野浜温泉ひとり旅・日本海夕陽おこもり：日本の夕陽百選・オーシャン露天・庄内浜鮮魚！波音に包まれる海辺のソロリトリート厳選3宿',
+  title: "山形・湯野浜温泉ひとり旅・日本海夕陽おこもり：日本の夕陽百選・オーシャン露天・庄内浜鮮魚",
   description: '庄内空港から車でわずか10分！全室オーシャンビュー＆波打ち際の展望大浴場が評判の最高峰「海辺のお宿 一久」、日本海一望の絶景露天風呂と庄内の美食会席を誇る名門「游水亭 いさごや」、手頃な料金でパノラマ展望温泉を楽しめる「うしお荘」を楽天API最新データに基づき徹底比較。',
   keywords: '湯野浜温泉 一人旅 宿,湯野浜 ホテル 一人 温泉,海辺のお宿 一久,游水亭 いさごや,うしお荘,湯野浜 夕陽 ひとり旅',
   openGraph: {
-    title: '山形・湯野浜温泉ひとり旅・日本海夕陽おこもり：日本の夕陽百選・オーシャン露天・庄内浜鮮魚！波音に包まれる海辺のソロリトリート厳選3宿',
+    title: "山形・湯野浜温泉ひとり旅・日本海夕陽おこもり：日本の夕陽百選・オーシャン露天・庄内浜鮮魚",
     description: '庄内空港から車でわずか10分！全室オーシャンビュー＆波打ち際の展望大浴場が評判の最高峰「海辺のお宿 一久」、日本海一望の絶景露天風呂と庄内の美食会席を誇る名門「游水亭 いさごや」、手頃な料金でパノラマ展望温泉を楽しめる「うしお荘」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/yamagata-yunohama-solo-retreat-sunset-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -132,7 +132,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/32244/32244.jpg"
                   alt="湯野浜温泉　海辺のお宿　一久 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

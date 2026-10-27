@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '神降ちる清流と穂高連峰の絶景！上高地の大正池・梓川温泉＆本格山岳フレンチ名宿×ふるさと納税極上旅ガイドルミエスタ・大正池ホテル・上高地温泉ホテル',
+  title: "神降ちる清流と穂高連峰の絶景",
   description: '日本屈指の山岳景勝地・長野県上高地！河童橋、大正池、エメラルドに輝く梓川と穂高連峰のパノラマ。「上高地ルミエスタホテル」「上高地大正池ホテル」「上高地温泉ホテル」を、長野県松本市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。自家源泉天然温泉、朝霧の大正池、極上フレンチフルコースを満喫。',
   keywords: ["梓川温泉", "2026年最新", "ルミエスタ", "大正池ホテル", "上高地温泉ホテル", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kamikochi-japan-alps-resort-stay/",
   },
   openGraph: {
-    title: '神降ちる清流と穂高連峰の絶景！上高地の大正池・梓川温泉＆本格山岳フレンチ名宿×ふるさと納税極上旅ガイドルミエスタ・大正池ホテル・上高地温泉ホテル',
+    title: "神降ちる清流と穂高連峰の絶景",
     description: '日本屈指の山岳景勝地・長野県上高地！河童橋、大正池、エメラルドに輝く梓川と穂高連峰のパノラマ。「上高地ルミエスタホテル」「上高地大正池ホテル」「上高地温泉ホテル」を、長野県松本市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。自家源泉天然温泉、朝霧の大正池、極上フレンチフルコースを満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kamikochi-japan-alps-resort-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',

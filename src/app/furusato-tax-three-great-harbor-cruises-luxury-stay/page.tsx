@@ -636,7 +636,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥12,130〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104705/104705_spa.jpg" alt="ホテル　ラ・スイート神戸ハーバーランド 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/104705/104705_spa.jpg" alt="ホテル　ラ・スイート神戸ハーバーランド 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全64室が70㎡以上の大型ジャグジー＆テラス付オーシャンンビュールームのラグジュアリーホテル。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市中央区波止場町7-2 ／ 最寄り駅：神戸（兵庫） ／ 交通案内：JR「神戸駅」より徒歩約10分／地下鉄海岸線「みなと元町駅」より徒歩約4分／阪神高速3号神戸線「京橋出入口」より車約5分</p>

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kagawa-kotohira-solo-retreat-onsen-stay/" },
-  title: 'こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり：石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿',
+  title: "こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり：石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん",
   description: '「さぬきのこんぴらさん」の参道に湧く四国屈指の温泉郷！金刀比羅宮参道口に位置し展望露天風呂や和モダン客室が極上の「琴平グランドホテル 桜の抄」、多彩な庭園露天や館内湯巡りが贅沢な姉妹館「湯元こんぴら温泉華の湯 紅梅亭」、アットホームなもてなしと良心的な価格が魅力の老舗「虎屋旅館」を楽天API最新データに基づき徹底比較。',
   keywords: 'こんぴら温泉 一人旅 宿,琴平 ホテル 一人 温泉,桜の抄 一人旅,紅梅亭 こんぴら温泉,虎屋旅館 琴平,金刀比羅宮 ひとり旅 おこもり',
   openGraph: {
-    title: 'こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり：石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん！四国随一の霊峰リトリート厳選3宿',
+    title: "こんぴら温泉郷ひとり旅・金刀比羅宮門前おこもり：石段街を望む展望露天・美肌の名湯・讃岐牛＆手打ちうどん",
     description: '「さぬきのこんぴらさん」の参道に湧く四国屈指の温泉郷！金刀比羅宮参道口に位置し展望露天風呂や和モダン客室が極上の「琴平グランドホテル 桜の抄」、多彩な庭園露天や館内湯巡りが贅沢な姉妹館「湯元こんぴら温泉華の湯 紅梅亭」、アットホームなもてなしと良心的な価格が魅力の老舗「虎屋旅館」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/kagawa-kotohira-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -132,7 +132,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/5900/5900.jpg"
                   alt="こんぴら温泉　琴平グランドホテル　桜の抄 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

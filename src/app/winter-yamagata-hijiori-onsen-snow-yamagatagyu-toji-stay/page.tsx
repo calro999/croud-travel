@@ -238,7 +238,7 @@ export default function YamagataHijioriOnsenWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/109376/109376.jpg" 
             alt="肘折温泉の冬の雪景色背景" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="relative max-w-4xl mx-auto space-y-4">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-500/20 text-amber-300 text-xs font-bold border border-amber-400/30">

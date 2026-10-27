@@ -489,7 +489,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥2,640〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180388/180388_kan1.jpg" alt="Ｃｏｒｕｓｃａｎｔ　Ｈｏｔｅｌ　長崎駅１（コルサントホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180388/180388_kan1.jpg" alt="Ｃｏｒｕｓｃａｎｔ　Ｈｏｔｅｌ　長崎駅１（コルサントホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆◇長崎駅より徒歩６分の好立地◇◆お仕事・観光に最適【全室Wi-Fi完備／全室トイレ風呂別】</p>
                   <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市大黒町7-15 ／ 最寄り駅：主要駅 ／ 交通案内：長崎駅から徒歩約6分</p>

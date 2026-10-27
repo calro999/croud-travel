@@ -434,7 +434,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
                 alt={`${post.hotel_name} 背景イメージ`}
                 className="absolute inset-0 w-full h-full object-cover blur-md opacity-30 scale-105 pointer-events-none"
                 aria-hidden="true"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
                 decoding="async"
               />
               {/* 全体が見切れないメイン画像 */}

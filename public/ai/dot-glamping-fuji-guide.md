@@ -1,5 +1,5 @@
 ---
-title: "【山梨・南都留】dot glamping 富士山（山梨県河口湖）の宿泊記＆口コミ評判｜日常を離れ、富士山と河口湖を望みながら“Ｓｌｏｗ＆Ｅ・客室・朝食・アクセス（目安¥12,150〜）"
+title: "【山梨・南都留】dot glamping 富士山（山梨県河口湖）の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/dot-glamping-fuji-guide/"
 hotel_name: "dot glamping 富士山（山梨県河口湖）"
 prefecture: "山梨県"
@@ -10,7 +10,7 @@ review_count: 232
 last_modified: "2026-10-18"
 ---
 
-# 【山梨・南都留】dot glamping 富士山（山梨県河口湖）の宿泊記＆口コミ評判｜日常を離れ、富士山と河口湖を望みながら“Ｓｌｏｗ＆Ｅ・客室・朝食・アクセス（目安¥12,150〜）
+# 【山梨・南都留】dot glamping 富士山（山梨県河口湖）の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/dot-glamping-fuji-guide/
 - **宿泊施設・特集名**: dot glamping 富士山（山梨県河口湖）
@@ -65,7 +65,7 @@ last_modified: "2026-10-18"
 
  ✈️ dot glamping 富士山（山梨県河口湖） の最新空室状況・限定お得プランを見る
 
-dot glamping 富士山（山梨県河口湖）をおすすめする3つの理由
+dot glamping 富士山（山梨県河口湖）の魅力とおすすめのポイント
 
  1
  心からくつろげる上質な客室空間と快適なアメニティ環境

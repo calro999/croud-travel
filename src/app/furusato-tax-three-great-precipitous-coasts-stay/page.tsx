@@ -636,7 +636,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,000〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/141313/141313_kya.jpg" alt="ホテル羅賀荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/141313/141313_kya.jpg" alt="ホテル羅賀荘 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>お天気が良ければ朝陽に出会え、部屋の窓からは紺碧の海と白亜紀断層を眺め日々の疲れを癒す海辺のホテル</p>
                   <p><strong>【所在地・アクセス】</strong>〒 岩手県下閉伊郡田野畑村羅賀60-1 ／ 最寄り駅：田野畑 ／ 交通案内：E４５三陸道「宮古市や久慈市」から車で約４５分。龍泉洞は約３０分。三陸鉄道、田野畑駅から車で約３分（予約で送迎ＯＫ）</p>

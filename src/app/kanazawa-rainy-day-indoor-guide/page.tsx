@@ -295,7 +295,7 @@ export default function KanazawaRainyDayIndoorGuidePage() {
                             src={hotel.hotelImageUrl}
                             alt={hotel.hotelName}
                             className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                            loading="lazy"
+                            loading="eager" fetchPriority="high"
                           />
                           <div className="absolute top-3 left-3 bg-slate-900/90 backdrop-blur-md px-3 py-1 rounded-full text-[11px] font-bold text-teal-300 border border-teal-700/50">
                             最寄駅: {hotel.nearestStation || "金沢"}

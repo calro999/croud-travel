@@ -636,7 +636,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,800〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/591/591_a.jpg" alt="鳥取温泉　ホテルモナーク鳥取 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/591/591_a.jpg" alt="鳥取温泉　ホテルモナーク鳥取 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>鳥取温泉繁華街に位置。自家源泉大浴場を完備したシティーホテル。地産食材を活かした朝食ブッフェが自慢</p>
                   <p><strong>【所在地・アクセス】</strong>〒 鳥取県鳥取市永楽温泉町403 ／ 最寄り駅：鳥取 ／ 交通案内：ＪＲ鳥取駅北口出口より徒歩5分 / 鳥取自動車道鳥取ICより車で10分 / コンビニへ徒歩1分 / 鳥取砂丘へ車で20分</p>

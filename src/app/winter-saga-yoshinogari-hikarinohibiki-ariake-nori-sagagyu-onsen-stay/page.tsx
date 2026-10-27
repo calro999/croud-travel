@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     canonical: "https://croud-travel.pages.dev/winter-saga-yoshinogari-hikarinohibiki-ariake-nori-sagagyu-onsen-stay/",
   },
 
-  title: '古代環濠の灯火・吉野ヶ里光の響と冬の初摘み有明海苔：2026-2027年冬の佐賀・神埼＆佐賀城下！古湯名湯と最高峰佐賀牛名宿5選 | 旅行キュレーション',
+  title: "古代環濠の灯火・吉野ヶ里光の響と冬の初摘み有明海苔：2026-2027年冬の佐賀・神埼＆佐賀城下",
   description: '数千個のキャンドルと熱気球が幻想的に夜空を彩る12月の吉野ヶ里歴史公園「光の響」と佐賀城下町！11〜1月に旬を迎える冬の最高峰「有明海初摘み海苔」と口の中でとろける極上「佐賀牛」、ぬる湯名湯・古湯温泉に癒やされる冬の厳選名宿5選。',
   keywords: ['佐賀・吉野ヶ里・古湯', '冬旅行', '新春初詣', '温泉', '名宿', '佐賀県観光', '楽天トラベル', 'ふるさと納税'],
   openGraph: {
@@ -332,7 +332,7 @@ export default function Page() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Yoshinogari-iseki_zenkei.JPG/1280px-Yoshinogari-iseki_zenkei.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="国指定特別史跡・吉野ヶ里歴史公園（弥生の大集落と冬の幻想祭典「光の響」）"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full space-y-3">

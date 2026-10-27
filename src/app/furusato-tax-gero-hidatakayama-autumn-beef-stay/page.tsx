@@ -194,7 +194,7 @@ export default function FurusatoGeroHidaTakayamaAutumnBeefStayPage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/10716/10716.jpg"
                         alt="下呂温泉　小川屋"
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

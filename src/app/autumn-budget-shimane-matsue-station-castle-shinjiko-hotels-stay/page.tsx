@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,100〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/431/431_rm.jpg" alt="島根浜田ワシントンホテルプラザ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/431/431_rm.jpg" alt="島根浜田ワシントンホテルプラザ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>(表示料金は、サービス料・消費税込み 高速インターネット接続可)</p>
                   <p><strong>【所在地・アクセス】</strong>〒 島根県浜田市黒川町4177 ／ 最寄り駅：浜田 ／ 交通案内：ＪＲ浜田駅より徒歩約３分。石見空港よりお車にて約５０分。</p>

@@ -220,7 +220,7 @@ export default function Page() {
                   src="https://upload.wikimedia.org/wikipedia/commons/3/31/Floral_Plate_Nabeshima.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
                   alt="秘窯の里・大川内山（鍋島藩窯跡と冬の白磁散策）"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full space-y-3">

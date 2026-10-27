@@ -1,5 +1,5 @@
 ---
-title: "【千葉・南房総市】千倉温泉 千倉館の宿泊記＆口コミ評判｜千葉県最古の温泉ここにあり・客室・朝食・アクセス（目安¥10,900〜）"
+title: "【千葉・南房総市】千倉温泉 千倉館の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/chikura-chikurakan-guide/"
 hotel_name: "千倉温泉 千倉館"
 prefecture: "千葉県"
@@ -10,7 +10,7 @@ review_count: 187
 last_modified: "2026-10-18"
 ---
 
-# 【千葉・南房総市】千倉温泉 千倉館の宿泊記＆口コミ評判｜千葉県最古の温泉ここにあり・客室・朝食・アクセス（目安¥10,900〜）
+# 【千葉・南房総市】千倉温泉 千倉館の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/chikura-chikurakan-guide/
 - **宿泊施設・特集名**: 千倉温泉 千倉館

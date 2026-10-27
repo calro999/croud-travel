@@ -414,7 +414,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,700〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17529/17529_heya.jpg" alt="シティガーデン　ホテル信濃路 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/17529/17529_heya.jpg" alt="シティガーデン　ホテル信濃路 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>☆無料の青空駐車場あり☆平面で駐車もらくらく！！全室禁煙/wi-fi/長野駅徒歩8分</p>
                   <p><strong>【所在地・アクセス】</strong>〒 長野県長野市中御所岡田町131-4 ／ 最寄り駅：長野 ／ 交通案内：電車：JR長野駅善光寺口より徒歩8分　車：長野ICより県庁方面　”中御所北”信号左折所要時間約20分</p>

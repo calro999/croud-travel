@@ -282,7 +282,7 @@ export default function FeaturePage() {
                   src="https://upload.wikimedia.org/wikipedia/commons/f/f9/%E5%8F%A4%E9%96%91%E3%81%AE%E6%BB%9D.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
                   alt="厳冬の造形美・三十槌の氷柱＆尾ノ内百景氷柱"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full space-y-3">

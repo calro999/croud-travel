@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     canonical: "https://croud-travel.pages.dev/winter-mie-futamiura-meotoiwa-hatsuhinode-vison-matsusaka-stay/",
   },
 
-  title: '伊勢湾の霊峰・二見浦夫婦岩の初日の出と日本最大級VISON：2026-2027年冬の三重・伊勢二見＆多気！薬草温泉と極上松阪牛名宿5選 | 旅行キュレーション',
+  title: "伊勢湾の霊峰・二見浦夫婦岩の初日の出と日本最大級VISON：2026-2027年冬の三重・伊勢二見＆多気",
   description: '冬の澄んだ朝日に輝く二見興玉神社「夫婦岩」の新春初日の出・初詣と冬の満月の神秘！日本最大級の商業リゾート「VISON」の本草湯と美食巡り、本場伊勢の極上「松阪牛」すき焼きや冬の伊勢海老・的矢牡蠣に満たされる三重の厳選名宿5選。',
   keywords: ['二見浦・多気・伊勢', '冬旅行', '新春初詣', '温泉', '名宿', '三重県観光', '楽天トラベル', 'ふるさと納税'],
   openGraph: {
@@ -332,7 +332,7 @@ export default function Page() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Futamiokitama_jinja_Haiden.jpg/1280px-Futamiokitama_jinja_Haiden.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="禊の聖地・二見興玉神社（伊勢湾の夫婦岩と冬の清らかな初日の出・満月）"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full space-y-3">

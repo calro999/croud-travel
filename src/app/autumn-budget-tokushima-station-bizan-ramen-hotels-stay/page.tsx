@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,700〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149130/149130.jpg" alt="ダイワロイネットホテル徳島駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/149130/149130.jpg" alt="ダイワロイネットホテル徳島駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR「徳島駅」より徒歩約1分■1階コンビニ有■バス・トイレ別客室有■徳島産素材使用の朝食メニュー有</p>
                   <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市寺島本町東3丁目8番地 ／ 最寄り駅：徳島 ／ 交通案内：JR「徳島駅」より徒歩約1分 。「徳島阿波おどり空港」よりリムジンバスで（約30分）「徳島駅」下車、徒歩約1分。</p>

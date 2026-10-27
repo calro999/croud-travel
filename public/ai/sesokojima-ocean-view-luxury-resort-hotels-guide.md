@@ -1,5 +1,5 @@
 ---
-title: "【沖縄・国頭】瀬底島 瀬底ブルー＆オンザビーチリゾートセレクションの宿泊記＆口コミ評判｜瀬底ビーチまで徒歩2分・土曜の打ち上げ花火も・客室・朝食・アクセス（目安¥15,375〜）"
+title: "【沖縄・国頭】瀬底島 瀬底ブルー＆オンザビーチリゾートセレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/sesokojima-ocean-view-luxury-resort-hotels-guide/"
 hotel_name: "瀬底島 瀬底ブルー＆オンザビーチリゾートセレクション"
 prefecture: "沖縄県"
@@ -10,7 +10,7 @@ review_count: 201
 last_modified: "2026-10-18"
 ---
 
-# 【沖縄・国頭】瀬底島 瀬底ブルー＆オンザビーチリゾートセレクションの宿泊記＆口コミ評判｜瀬底ビーチまで徒歩2分・土曜の打ち上げ花火も・客室・朝食・アクセス（目安¥15,375〜）
+# 【沖縄・国頭】瀬底島 瀬底ブルー＆オンザビーチリゾートセレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/sesokojima-ocean-view-luxury-resort-hotels-guide/
 - **宿泊施設・特集名**: 瀬底島 瀬底ブルー＆オンザビーチリゾートセレクション

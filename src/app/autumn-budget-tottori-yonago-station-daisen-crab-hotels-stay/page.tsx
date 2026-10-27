@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,100〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/177821/177821.jpg" alt="グリーンリッチホテル米子駅前　人工温泉・二股湯の華 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/177821/177821.jpg" alt="グリーンリッチホテル米子駅前　人工温泉・二股湯の華 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ米子駅北口徒歩３分■男女別大浴場完備■米子コンベンションセンター・ビッグシップまで徒歩5分■</p>
                   <p><strong>【所在地・アクセス】</strong>〒 鳥取県米子市明治町175 ／ 最寄り駅：米子 ／ 交通案内：ＪＲ米子駅北口より徒歩にて約３分／山陰道　米子中ＩＣよりお車にて約４分／米子鬼太郎空港より空港リムジンバスにて約２５分</p>

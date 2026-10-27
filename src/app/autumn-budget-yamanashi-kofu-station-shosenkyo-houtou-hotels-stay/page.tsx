@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,490〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5690/5690_sig.jpg" alt="甲府駅北口　徒歩１分　ホテルニューステーション＜山梨県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5690/5690_sig.jpg" alt="甲府駅北口　徒歩１分　ホテルニューステーション＜山梨県＞ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR甲府駅最寄りのホテル★徒歩1分★有料駐車場※事前予約制 【無料日替わり朝食】</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山梨県甲府市北口1-4-15 ／ 最寄り駅：甲府 ／ 交通案内：JR甲府駅北口より徒歩１分　甲府南ＩＣ及び甲府昭和ＩＣより車で約15分</p>

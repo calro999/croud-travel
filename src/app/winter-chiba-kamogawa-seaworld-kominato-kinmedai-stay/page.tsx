@@ -273,7 +273,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/51733/51733.jpg" 
             alt="冬の南房総鴨川の太平洋とオーシャンビュー絶景" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         

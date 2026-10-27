@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '別府鉄輪温泉をふるさと納税でお得に旅する！湯けむり展望＆名物地獄蒸し！湧出量日本一の名湯宿厳選ガイド｜山荘神和苑・おにやまホテル・ホテル山水館',
+  title: "別府鉄輪温泉をふるさと納税でお得に旅する！湯けむり展望＆名物地獄蒸し！湧出量日本一の名湯宿厳選ガイド",
   description: '日本一の温泉湧出量を誇る別府の象徴・鉄輪温泉を楽天ふるさと納税でお得に旅する！能舞台と二つの自家源泉を擁する最高級宿「山荘 神和苑」、鬼山地獄を望む西日本最大級露天風呂の「おにやまホテル」、地獄蒸しと展望大浴場が自慢の「ホテル山水館」を徹底比較。別府市トラベルクーポン活用術を網羅。',
   keywords: '別府鉄輪温泉 ふるさと納税,別府温泉 旅館 クーポン,山荘神和苑 ふるさと納税,おにやまホテル 別府 宿泊,別府市 ふるさと納税 楽天トラベル',
   openGraph: {
-    title: '別府鉄輪温泉をふるさと納税でお得に旅する！湯けむり展望＆名物地獄蒸し！湧出量日本一の名湯宿厳選ガイド｜山荘神和苑・おにやまホテル・ホテル山水館',
+    title: "別府鉄輪温泉をふるさと納税でお得に旅する！湯けむり展望＆名物地獄蒸し！湧出量日本一の名湯宿厳選ガイド",
     description: '日本一の温泉湧出量を誇る別府の象徴・鉄輪温泉を楽天ふるさと納税でお得に旅する！能舞台と二つの自家源泉を擁する最高級宿「山荘 神和苑」、鬼山地獄を望む西日本最大級露天風呂の「おにやまホテル」、地獄蒸しと展望大浴場が自慢の「ホテル山水館」を徹底比較。別府市トラベルクーポン活用術を網羅。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-beppu-kannawa-onsen-jigokumushi-stay/',
@@ -132,7 +132,7 @@ export default function FurusatoTaxArticle() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/158425/158425.jpg"
                 alt="別府鉄輪温泉　山荘　神和苑"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
               <div className="absolute top-4 left-4 bg-stone-900/80 backdrop-blur-sm text-white text-xs px-3 py-1.5 rounded-full font-semibold">
                 第1選

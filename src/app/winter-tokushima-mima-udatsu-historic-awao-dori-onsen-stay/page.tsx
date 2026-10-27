@@ -220,7 +220,7 @@ export default function Page() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Wakimati_minamimati_20250828_1.jpg/1280px-Wakimati_minamimati_20250828_1.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="国選定重伝建・脇町うだつの町並み（藍商の歴史建築）"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full space-y-3">

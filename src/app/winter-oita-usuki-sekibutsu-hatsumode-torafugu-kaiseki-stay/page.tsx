@@ -160,7 +160,7 @@ export default function WinterFeaturePage() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Usuki_Stone_Buddhas.jpg/1280px-Usuki_Stone_Buddhas.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="国宝・臼杵磨崖仏（平安・鎌倉の奇跡の石仏群）"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full space-y-3">

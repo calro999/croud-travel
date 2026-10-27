@@ -265,7 +265,7 @@ export default function Page() {
                         src={h.hotelImageUrl || h.roomImageUrl || '/images/no-image.jpg'}
                         alt={h.hotelName}
                         className="w-full h-full object-cover"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                     <div className="text-xs text-slate-400 text-center">

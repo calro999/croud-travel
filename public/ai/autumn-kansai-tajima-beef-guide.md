@@ -1,5 +1,5 @@
 ---
-title: "【兵庫・豊岡市】城崎温泉 西村屋本館の宿泊記＆口コミ評判｜売切れの日は公式サイトもご確認下さい・江戸安政期創業・客室・朝食・アクセス（目安¥32,000〜）"
+title: "【兵庫・豊岡市】城崎温泉 西村屋本館の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-kansai-tajima-beef-guide/"
 hotel_name: "城崎温泉 西村屋本館"
 prefecture: "兵庫県"
@@ -10,7 +10,7 @@ review_count: 338
 last_modified: "2026-10-18"
 ---
 
-# 【兵庫・豊岡市】城崎温泉 西村屋本館の宿泊記＆口コミ評判｜売切れの日は公式サイトもご確認下さい・江戸安政期創業・客室・朝食・アクセス（目安¥32,000〜）
+# 【兵庫・豊岡市】城崎温泉 西村屋本館の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-kansai-tajima-beef-guide/
 - **宿泊施設・特集名**: 城崎温泉 西村屋本館

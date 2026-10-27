@@ -1,5 +1,5 @@
 ---
-title: "【秋田・男鹿市】男鹿温泉 男鹿萬盛閣の宿泊記＆口コミ評判｜２１年連続入賞・客室・朝食・アクセス（目安¥18,810〜）"
+title: "【秋田・男鹿市】男鹿温泉 男鹿萬盛閣の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/oga-manseikaku-guide/"
 hotel_name: "男鹿温泉 男鹿萬盛閣"
 prefecture: "秋田県"
@@ -10,7 +10,7 @@ review_count: 491
 last_modified: "2026-10-18"
 ---
 
-# 【秋田・男鹿市】男鹿温泉 男鹿萬盛閣の宿泊記＆口コミ評判｜２１年連続入賞・客室・朝食・アクセス（目安¥18,810〜）
+# 【秋田・男鹿市】男鹿温泉 男鹿萬盛閣の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/oga-manseikaku-guide/
 - **宿泊施設・特集名**: 男鹿温泉 男鹿萬盛閣

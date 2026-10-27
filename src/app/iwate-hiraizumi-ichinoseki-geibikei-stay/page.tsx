@@ -122,7 +122,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/196603/196603.jpg"
                           alt="奥州・平泉温泉旅館　ＩＴＳＵＭＵ"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy" decoding="async" />
+                        loading="eager" fetchPriority="high" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.3 (90+件)
                         </div>

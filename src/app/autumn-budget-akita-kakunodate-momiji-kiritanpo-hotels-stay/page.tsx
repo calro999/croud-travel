@@ -414,7 +414,7 @@ export default function AutumnBudgetAkitaHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥2,800〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187477/187477.jpg" alt="いやし処ほてる寛楽　秋田川反 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187477/187477.jpg" alt="いやし処ほてる寛楽　秋田川反 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★2023年7月29日オープン★全室禁煙・男女別大浴場で癒され、観光・ビジネスの拠点に♪</p>
                   <p><strong>【所在地・アクセス】</strong>〒 秋田県秋田市南通亀の町4-40 ／ 最寄り駅：秋田 ／ 交通案内：秋田駅西口より車6分／秋田南ICより車15分／秋田中央ICより車25分／リムジンバス「北都銀行前」下車・徒歩約6分</p>

@@ -1,5 +1,5 @@
 ---
-title: "【和歌山・東牟婁】南紀勝浦温泉 絶景海露天＆生マグロ名宿セレクションの宿泊記＆口コミ評判｜天然洞窟温泉など湯巡りを楽しもう・客室・朝食・アクセス（目安¥10,450〜）"
+title: "【和歌山・東牟婁】南紀勝浦温泉 絶景海露天＆生マグロ名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/nanki-katsuura-ocean-cave-bath-tuna-hotels-guide/"
 hotel_name: "南紀勝浦温泉 絶景海露天＆生マグロ名宿セレクション"
 prefecture: "和歌山県"
@@ -10,7 +10,7 @@ review_count: 6497
 last_modified: "2026-10-18"
 ---
 
-# 【和歌山・東牟婁】南紀勝浦温泉 絶景海露天＆生マグロ名宿セレクションの宿泊記＆口コミ評判｜天然洞窟温泉など湯巡りを楽しもう・客室・朝食・アクセス（目安¥10,450〜）
+# 【和歌山・東牟婁】南紀勝浦温泉 絶景海露天＆生マグロ名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/nanki-katsuura-ocean-cave-bath-tuna-hotels-guide/
 - **宿泊施設・特集名**: 南紀勝浦温泉 絶景海露天＆生マグロ名宿セレクション

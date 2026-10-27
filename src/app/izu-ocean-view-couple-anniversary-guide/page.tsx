@@ -275,7 +275,7 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
                       src={hotel.hotelImageUrl}
                       alt={hotel.hotelName}
                       className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                      loading="lazy"
+                      loading="eager" fetchPriority="high"
                     />
                   ) : (
                     <div className="w-full h-full flex items-center justify-center bg-cyan-900 text-cyan-200">

@@ -1,5 +1,5 @@
 ---
-title: "【鹿児島・指宿市】指宿温泉　いぶすき秀水園の宿泊記＆口コミ評判｜南薩摩の湯の里指宿にて心尽くしの料理とやすらぎのひと・客室・朝食・アクセス（目安¥26,400〜）"
+title: "【鹿児島・指宿市】指宿温泉　いぶすき秀水園の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/ibusuki-onsen-sand-bath-kaimondake-guide/"
 hotel_name: "指宿温泉　いぶすき秀水園"
 prefecture: "鹿児島県"
@@ -10,7 +10,7 @@ review_count: 547
 last_modified: "2026-10-18"
 ---
 
-# 【鹿児島・指宿市】指宿温泉　いぶすき秀水園の宿泊記＆口コミ評判｜南薩摩の湯の里指宿にて心尽くしの料理とやすらぎのひと・客室・朝食・アクセス（目安¥26,400〜）
+# 【鹿児島・指宿市】指宿温泉　いぶすき秀水園の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/ibusuki-onsen-sand-bath-kaimondake-guide/
 - **宿泊施設・特集名**: 指宿温泉　いぶすき秀水園

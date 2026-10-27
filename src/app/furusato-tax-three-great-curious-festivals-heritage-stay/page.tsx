@@ -636,7 +636,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥9,500〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2880/2880_heya.jpg" alt="上諏訪温泉　ホテル紅や 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2880/2880_heya.jpg" alt="上諏訪温泉　ホテル紅や 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>温泉展望浴場や岩盤浴など施設充実の温泉リゾート。和室・洋室選べるお部屋プランも多彩。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 長野県諏訪市湖岸通り２－７－２１ ／ 最寄り駅：主要駅 ／ 交通案内：【電車】上諏訪駅下車徒歩10分（予約制無料送迎）【お車】諏訪ICから車で15分または諏訪湖スマートICから車で10分</p>

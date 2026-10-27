@@ -301,7 +301,7 @@ export default function FeaturePage() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Haiden_of_Miyajidake_Shrine.JPG/1280px-Haiden_of_Miyajidake_Shrine.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="開運の巨刹・宮地嶽神社（日本一の大注連縄と夕日絶景「光の道」）"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
                 <div className="absolute top-3 left-3 bg-cyan-600/90 text-white text-[10px] font-bold px-2 py-0.5 rounded">
                   名所アーカイブ

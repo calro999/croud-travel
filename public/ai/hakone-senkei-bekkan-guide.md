@@ -1,5 +1,5 @@
 ---
-title: "【神奈川・足柄下】仙景プラザの宿泊記＆口コミ評判｜ホテルタイプのリーズナブルな料金で・より自由な箱根ステイをお・客室・朝食・アクセス（目安¥5,500〜）"
+title: "【神奈川・足柄下】仙景プラザの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/hakone-senkei-bekkan-guide/"
 hotel_name: "仙景プラザ"
 prefecture: "神奈川県"
@@ -10,7 +10,7 @@ review_count: 12
 last_modified: "2026-10-18"
 ---
 
-# 【神奈川・足柄下】仙景プラザの宿泊記＆口コミ評判｜ホテルタイプのリーズナブルな料金で・より自由な箱根ステイをお・客室・朝食・アクセス（目安¥5,500〜）
+# 【神奈川・足柄下】仙景プラザの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/hakone-senkei-bekkan-guide/
 - **宿泊施設・特集名**: 仙景プラザ

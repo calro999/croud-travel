@@ -3,11 +3,11 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '三朝温泉をふるさと納税でお得に旅する！世界屈指の高濃度ラドン温泉＆三徳山投入堂！免疫力向上湯治宿厳選ガイド｜依山楼岩崎・三朝館・万翆楼',
+  title: "三朝温泉をふるさと納税でお得に旅する！世界屈指の高濃度ラドン温泉＆三徳山投入堂！免疫力向上湯治宿厳選ガイド",
   description: '「三たび朝を迎えると元気になる」と伝わる世界屈指のラジウム名湯・鳥取県三朝温泉を楽天ふるさと納税でお得に旅する！文豪が愛した十二の庭園風呂「依山楼 岩崎」、千坪の日本庭園露天風呂を誇る「三朝館」、自家源泉掛け流しの名門「万翆楼」を徹底比較。鳥取和牛や松葉ガニ会席、三朝町トラベルクーポン活用術を網羅。',
   keywords: '三朝温泉 ふるさと納税,三朝温泉 ラドン 旅館,依山楼岩崎 ふるさと納税,三朝館 クーポン,三朝町 ふるさと納税 宿泊',
   openGraph: {
-    title: '三朝温泉をふるさと納税でお得に旅する！世界屈指の高濃度ラドン温泉＆三徳山投入堂！免疫力向上湯治宿厳選ガイド｜依山楼岩崎・三朝館・万翆楼',
+    title: "三朝温泉をふるさと納税でお得に旅する！世界屈指の高濃度ラドン温泉＆三徳山投入堂！免疫力向上湯治宿厳選ガイド",
     description: '「三たび朝を迎えると元気になる」と伝わる世界屈指のラジウム名湯・鳥取県三朝温泉を楽天ふるさと納税でお得に旅する！文豪が愛した十二の庭園風呂「依山楼 岩崎」、千坪の日本庭園露天風呂を誇る「三朝館」、自家源泉掛け流しの名門「万翆楼」を徹底比較。鳥取和牛や松葉ガニ会席、三朝町トラベルクーポン活用術を網羅。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/furusato-tax-misasa-onsen-radon-immunity-stay/',
@@ -132,7 +132,7 @@ export default function FurusatoTaxArticle() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/5840/5840.jpg"
                 alt="三朝温泉　依山楼　岩崎"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
               <div className="absolute top-4 left-4 bg-stone-900/80 backdrop-blur-sm text-white text-xs px-3 py-1.5 rounded-full font-semibold">
                 第1選

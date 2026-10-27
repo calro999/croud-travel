@@ -236,7 +236,7 @@ export default function TohokuBudgetGuidePage() {
               <article key={hotel.hotelNo} className="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md border border-slate-200 transition flex flex-col">
                 <div className="aspect-video relative overflow-hidden bg-slate-100">
                   {hotel.hotelImageUrl && (
-                    <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover" loading="lazy" />
+                    <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover" loading="eager" fetchPriority="high" />
                   )}
                   {hotel.hotelMinCharge > 0 && (
                     <span className="absolute bottom-2 right-2 text-[10px] font-black bg-teal-900/90 text-white px-2 py-1 rounded">

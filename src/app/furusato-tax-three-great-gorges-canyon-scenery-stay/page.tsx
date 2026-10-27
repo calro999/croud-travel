@@ -636,7 +636,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥10,400〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109363/109363_kya.jpg" alt="清津峡湯元温泉　清津館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/109363/109363_kya.jpg" alt="清津峡湯元温泉　清津館 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>インスタ映え間違いなし☆十日町市人気No1スポット「清津峡トンネル」へ徒歩1分の秘湯の宿</p>
                   <p><strong>【所在地・アクセス】</strong>〒 新潟県十日町市小出癸2126-1 ／ 最寄り駅：越後湯沢 ／ 交通案内：塩沢石打ICより車で25分/湯沢ICより車で27分/十日町市内より35分</p>

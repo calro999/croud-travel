@@ -454,7 +454,7 @@ export default function AomoriOwaniHirosakiWinterPage() {
                           src={hotel.img} 
                           alt={hotel.name}
                           className="w-full h-full object-cover"
-                          loading="lazy"
+                          loading="eager" fetchPriority="high"
                         />
                       </div>
                       <p className="text-[11px] text-stone-500 leading-normal">

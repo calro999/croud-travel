@@ -1,5 +1,5 @@
 ---
-title: "【熊本・阿蘇】南阿蘇俵山温泉 旅館 竹楽亭の宿泊記＆口コミ評判｜お食事は夕食も朝食も個室・客室・朝食・アクセス（目安¥26,000〜）"
+title: "【熊本・阿蘇】南阿蘇俵山温泉 旅館 竹楽亭の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/minamiaso-chikurakutei-guide/"
 hotel_name: "南阿蘇俵山温泉 旅館 竹楽亭"
 prefecture: "熊本県"
@@ -10,7 +10,7 @@ review_count: 1377
 last_modified: "2026-10-18"
 ---
 
-# 【熊本・阿蘇】南阿蘇俵山温泉 旅館 竹楽亭の宿泊記＆口コミ評判｜お食事は夕食も朝食も個室・客室・朝食・アクセス（目安¥26,000〜）
+# 【熊本・阿蘇】南阿蘇俵山温泉 旅館 竹楽亭の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/minamiaso-chikurakutei-guide/
 - **宿泊施設・特集名**: 南阿蘇俵山温泉 旅館 竹楽亭

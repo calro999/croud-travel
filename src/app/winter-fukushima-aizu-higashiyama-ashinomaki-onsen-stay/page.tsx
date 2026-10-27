@@ -326,7 +326,7 @@ export default function WinterFukushimaAizuOnsenPage() {
                       src={hotel.img} 
                       alt={hotel.name}
                       className="w-full h-full object-cover transform hover:scale-105 transition duration-500"
-                      loading="lazy"
+                      loading="eager" fetchPriority="high"
                     />
                     <div className="absolute top-4 left-4 bg-stone-900/80 backdrop-blur-md text-white text-xs px-3 py-1.5 rounded-full font-bold flex items-center gap-1.5">
                       <span className="w-2 h-2 rounded-full bg-rose-400 animate-pulse" />

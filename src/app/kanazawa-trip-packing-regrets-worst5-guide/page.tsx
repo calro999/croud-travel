@@ -311,7 +311,7 @@ export default function KanazawaTripPackingRegretsWorst5Page() {
                             src={hotel.hotelImageUrl}
                             alt={hotel.hotelName}
                             className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                            loading="lazy"
+                            loading="eager" fetchPriority="high"
                           />
                           <div className="absolute top-3 left-3 bg-stone-900/80 backdrop-blur-md px-2.5 py-0.5 rounded-full text-[10px] font-bold text-amber-200 border border-amber-500/30">
                             最寄: {hotel.nearestStation || "金沢"}

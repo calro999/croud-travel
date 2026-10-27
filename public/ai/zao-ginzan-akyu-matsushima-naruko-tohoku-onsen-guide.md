@@ -1,5 +1,5 @@
 ---
-title: "【山形・蔵王・銀山・秋保・松島・鳴子】湯野浜温泉　竹屋ホテル（鶴岡・酒田）の宿泊記＆口コミ評判｜蔵王・銀山・秋保・松島・鳴子の好立地＆極上米沢牛すき焼き・客室・朝食・アクセス（目安¥9,900〜）"
+title: "【山形・蔵王・銀山・秋保・松島・鳴子】湯野浜温泉　竹屋ホテル（鶴岡・酒田）の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/zao-ginzan-akyu-matsushima-naruko-tohoku-onsen-guide/"
 hotel_name: "湯野浜温泉　竹屋ホテル（鶴岡・酒田）"
 prefecture: "山形県"
@@ -10,7 +10,7 @@ review_count: 479
 last_modified: "2026-10-18"
 ---
 
-# 【山形・蔵王・銀山・秋保・松島・鳴子】湯野浜温泉　竹屋ホテル（鶴岡・酒田）の宿泊記＆口コミ評判｜蔵王・銀山・秋保・松島・鳴子の好立地＆極上米沢牛すき焼き・客室・朝食・アクセス（目安¥9,900〜）
+# 【山形・蔵王・銀山・秋保・松島・鳴子】湯野浜温泉　竹屋ホテル（鶴岡・酒田）の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/zao-ginzan-akyu-matsushima-naruko-tohoku-onsen-guide/
 - **宿泊施設・特集名**: 湯野浜温泉　竹屋ホテル（鶴岡・酒田）

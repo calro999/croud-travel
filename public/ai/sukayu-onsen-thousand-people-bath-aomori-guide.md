@@ -1,5 +1,5 @@
 ---
-title: "【酸ヶ湯温泉旅館（青森 八甲田）】千人風呂宿泊記＆口コミ評判｜白濁硫黄泉・ヒバ千人風呂の入り方・混浴ルール・最安値予約ガイド"
+title: "【酸ヶ湯温泉旅館（青森 八甲田）】千人風呂の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/sukayu-onsen-thousand-people-bath-aomori-guide/"
 hotel_name: "酸ヶ湯温泉旅館"
 prefecture: "青森県"
@@ -10,7 +10,7 @@ review_count: 1560
 last_modified: "2026-10-18"
 ---
 
-# 【酸ヶ湯温泉旅館（青森 八甲田）】千人風呂宿泊記＆口コミ評判｜白濁硫黄泉・ヒバ千人風呂の入り方・混浴ルール・最安値予約ガイド
+# 【酸ヶ湯温泉旅館（青森 八甲田）】千人風呂の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/sukayu-onsen-thousand-people-bath-aomori-guide/
 - **宿泊施設・特集名**: 酸ヶ湯温泉旅館

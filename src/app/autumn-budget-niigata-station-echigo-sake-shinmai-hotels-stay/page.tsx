@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,400〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67938/67938_ss.jpg" alt="アートホテル新潟駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/67938/67938_ss.jpg" alt="アートホテル新潟駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR新潟駅直結の好立地■東改札から東側連絡通路より徒歩2分■2種類のお米などお勧めの朝食をどうぞ</p>
                   <p><strong>【所在地・アクセス】</strong>〒 新潟県新潟市中央区笹口1-1 ／ 最寄り駅：新潟 ／ 交通案内：JR新潟駅東改札→改札出て右、南口広場方面ペデストリアンデッキ左折→突当り右折・東側連絡通路→階段→左折→階段→ホテル</p>

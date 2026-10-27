@@ -273,7 +273,7 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/18848/18848.jpg" 
             alt="冬の宮島厳島神社大鳥居" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-rose-950/60 to-transparent" />
         

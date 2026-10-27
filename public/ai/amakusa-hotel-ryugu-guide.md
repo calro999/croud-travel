@@ -1,5 +1,5 @@
 ---
-title: "【熊本・天草市】マイホテル 竜宮の宿泊記＆口コミ評判｜広大なリゾート・ゆっくりと楽しめる楽園・客室・朝食・アクセス（目安¥9,000〜）"
+title: "【熊本・天草市】マイホテル 竜宮の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/amakusa-hotel-ryugu-guide/"
 hotel_name: "マイホテル 竜宮"
 prefecture: "熊本県"
@@ -10,7 +10,7 @@ review_count: 767
 last_modified: "2026-10-18"
 ---
 
-# 【熊本・天草市】マイホテル 竜宮の宿泊記＆口コミ評判｜広大なリゾート・ゆっくりと楽しめる楽園・客室・朝食・アクセス（目安¥9,000〜）
+# 【熊本・天草市】マイホテル 竜宮の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/amakusa-hotel-ryugu-guide/
 - **宿泊施設・特集名**: マイホテル 竜宮

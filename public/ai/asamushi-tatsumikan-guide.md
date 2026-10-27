@@ -1,5 +1,5 @@
 ---
-title: "【青森・青森市】浅虫温泉 辰巳館の宿泊記＆口コミ評判｜海の温泉ならではの新鮮な海の幸をどうぞ・客室・朝食・アクセス（目安¥13,500〜）"
+title: "【青森・青森市】浅虫温泉 辰巳館の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/asamushi-tatsumikan-guide/"
 hotel_name: "浅虫温泉 辰巳館"
 prefecture: "青森県"
@@ -10,7 +10,7 @@ review_count: 659
 last_modified: "2026-10-18"
 ---
 
-# 【青森・青森市】浅虫温泉 辰巳館の宿泊記＆口コミ評判｜海の温泉ならではの新鮮な海の幸をどうぞ・客室・朝食・アクセス（目安¥13,500〜）
+# 【青森・青森市】浅虫温泉 辰巳館の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/asamushi-tatsumikan-guide/
 - **宿泊施設・特集名**: 浅虫温泉 辰巳館

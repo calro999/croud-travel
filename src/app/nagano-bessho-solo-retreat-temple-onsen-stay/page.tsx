@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nagano-bessho-solo-retreat-temple-onsen-stay/" },
-  title: '信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり：信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿',
+  title: "信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり：信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔",
   description: '開湯1400年、信州最古の歴史を誇る別所温泉！全館畳敷きの温もりと板前心尽くしの料理が口コミ★4.7超の「玉屋旅館」、眺望露天風呂と心のこもったもてなしが評判の「旅館 中松屋」、大正浪漫薫る登録有形文化財の木造建築美「旅館 花屋」を楽天API最新データに基づき徹底比較。',
   keywords: '別所温泉 一人旅 宿,別所温泉 ホテル 一人,玉屋旅館 別所,中松屋 別所温泉,旅館花屋 別所,別所温泉 ひとり旅 おこもり',
   openGraph: {
-    title: '信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり：信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔！上田電鉄で行く古刹厳選3宿',
+    title: "信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり：信州サーモン＆松茸会席・木造建築文化財・国宝八角三重塔",
     description: '開湯1400年、信州最古の歴史を誇る別所温泉！全館畳敷きの温もりと板前心尽くしの料理が口コミ★4.7超の「玉屋旅館」、眺望露天風呂と心のこもったもてなしが評判の「旅館 中松屋」、大正浪漫薫る登録有形文化財の木造建築美「旅館 花屋」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/nagano-bessho-solo-retreat-temple-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -132,7 +132,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/15864/15864.jpg"
                   alt="信州別所温泉　玉屋旅館 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

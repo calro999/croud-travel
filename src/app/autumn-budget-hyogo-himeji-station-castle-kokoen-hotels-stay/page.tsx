@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥7,288〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/164/164_ky.jpg" alt="ＡＮＡクラウンプラザホテル神戸　ｂｙ　ＩＨＧ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/164/164_ky.jpg" alt="ＡＮＡクラウンプラザホテル神戸　ｂｙ　ＩＨＧ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>神戸の陸の玄関口、新神戸駅直結の37階高層ホテル。アクセス抜群！大阪まで約25分。全室Wi-fi無料</p>
                   <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市中央区北野町1 ／ 最寄り駅：新神戸 ／ 交通案内：新幹線・地下鉄「新神戸駅」直結 。三宮まで１駅2分。大阪まで約25分。</p>

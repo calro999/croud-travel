@@ -153,7 +153,7 @@ export default function Page() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/4707/4707.jpg"
                   alt="加賀屋グループ　料理旅館　金沢茶屋"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
                 
                 <div className="absolute top-3 left-3 bg-white/90 backdrop-blur-sm px-2.5 py-1 rounded-lg shadow text-xs font-bold text-amber-600 flex items-center gap-1">

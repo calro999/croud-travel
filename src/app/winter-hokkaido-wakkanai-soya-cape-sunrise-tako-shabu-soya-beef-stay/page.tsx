@@ -476,7 +476,7 @@ export default function HokkaidoWakkanaiWinterPage() {
                           src={hotel.img} 
                           alt={hotel.name} 
                           className="w-full h-full object-cover hover:scale-105 transition duration-500" 
-                        loading="lazy" decoding="async" />
+                        loading="eager" fetchPriority="high" decoding="async" />
                         <div className="absolute top-3 left-3 bg-slate-900/85 backdrop-blur px-3 py-1 rounded-full text-xs font-bold text-cyan-400 border border-cyan-400/30">
                           厳選宿 #{hotel.id}
                         </div>

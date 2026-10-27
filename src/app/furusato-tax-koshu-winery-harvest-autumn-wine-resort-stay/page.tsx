@@ -194,7 +194,7 @@ export default function FurusatoKoshuWineryHarvestStayPage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/7024/7024.jpg"
                         alt="石和温泉　ホテル古柏園"
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

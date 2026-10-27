@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,940〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172819/172819_kan1.jpg" alt="アンドコンフィホテル熊本城ビュー 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172819/172819_kan1.jpg" alt="アンドコンフィホテル熊本城ビュー 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★楽天アワード受賞★熊本城を望む絶景テラス・快適な客室で、観光・ビジネスの拠点におすすめ◎</p>
                   <p><strong>【所在地・アクセス】</strong>〒 熊本県熊本市中央区城東町5-3 ／ 最寄り駅：主要駅 ／ 交通案内：熊本駅から市電（健軍方面）で通町筋駅へ約15分、阿蘇くまもと空港から通町筋駅までリムジンバスで約40分、下車後徒歩約6分</p>

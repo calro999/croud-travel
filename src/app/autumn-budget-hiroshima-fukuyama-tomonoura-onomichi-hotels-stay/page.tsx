@@ -414,7 +414,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,000〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5313/5313_sgl.jpg" alt="グリーンビジネスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5313/5313_sgl.jpg" alt="グリーンビジネスホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宿泊代を抑えたい方に！この価格で高速インターネット接続無料。静かな立地で疲れをお取り下さい。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 広島県福山市野上町1-4-22 ／ 最寄り駅：福山 ／ 交通案内：車：福山東ICから約20分／電車：JR福山駅から徒歩20分（※中国バスへ乗換、「商工中金前」下車 徒歩3分）</p>

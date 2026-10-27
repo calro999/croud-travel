@@ -1,5 +1,5 @@
 ---
-title: "【岩手・遠野市】遠野 民話の里＆クラフトビール名宿セレクションの宿泊記＆口コミ評判｜全室インターネット無料（無線LAN）・客室・朝食・アクセス（目安¥9,600〜）"
+title: "【岩手・遠野市】遠野 民話の里＆クラフトビール名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/tono-folklore-kappa-craft-beer-hotels-guide/"
 hotel_name: "遠野 民話の里＆クラフトビール名宿セレクション"
 prefecture: "岩手県"
@@ -10,7 +10,7 @@ review_count: 695
 last_modified: "2026-10-18"
 ---
 
-# 【岩手・遠野市】遠野 民話の里＆クラフトビール名宿セレクションの宿泊記＆口コミ評判｜全室インターネット無料（無線LAN）・客室・朝食・アクセス（目安¥9,600〜）
+# 【岩手・遠野市】遠野 民話の里＆クラフトビール名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/tono-folklore-kappa-craft-beer-hotels-guide/
 - **宿泊施設・特集名**: 遠野 民話の里＆クラフトビール名宿セレクション

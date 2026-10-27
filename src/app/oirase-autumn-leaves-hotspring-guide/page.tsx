@@ -283,7 +283,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
                         src={hotel.hotelImageUrl}
                         alt={hotel.hotelName}
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     ) : (
                       <div className="w-full h-full flex items-center justify-center text-stone-500 text-xs">

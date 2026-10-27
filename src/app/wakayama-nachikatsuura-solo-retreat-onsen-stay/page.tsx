@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/wakayama-nachikatsuura-solo-retreat-onsen-stay/" },
-  title: '南紀勝浦温泉ひとり旅・世界遺産熊野古道おこもり：太平洋パノラマ露天・生まぐろ水揚げ日本一・島まるごと天然温泉！那智の滝と海の秘境厳選3宿',
+  title: "南紀勝浦温泉ひとり旅・世界遺産熊野古道おこもり：太平洋パノラマ露天・生まぐろ水揚げ日本一・島まるごと天然温泉",
   description: '世界遺産「紀伊山地の霊場と参詣道」の玄関口・南紀勝浦温泉！熊野灘を一望する絶景露天風呂と旬の生まぐろバイキングが評判の「休暇村 南紀勝浦」、海沿いの静寂と豊かな自家源泉が心温まる「ホテルなぎさや」、専用客船で渡る孤島の天然露天風呂「紀州潮聞之湯」を誇る最高峰「碧き島の宿 熊野別邸 中の島」を楽天API最新データに基づき徹底比較。',
   keywords: '南紀勝浦温泉 一人旅 宿,勝浦 ホテル 一人 温泉,休暇村南紀勝浦,ホテルなぎさや,熊野別邸 中の島,南紀勝浦 熊野古道 ひとり旅',
   openGraph: {
-    title: '南紀勝浦温泉ひとり旅・世界遺産熊野古道おこもり：太平洋パノラマ露天・生まぐろ水揚げ日本一・島まるごと天然温泉！那智の滝と海の秘境厳選3宿',
+    title: "南紀勝浦温泉ひとり旅・世界遺産熊野古道おこもり：太平洋パノラマ露天・生まぐろ水揚げ日本一・島まるごと天然温泉",
     description: '世界遺産「紀伊山地の霊場と参詣道」の玄関口・南紀勝浦温泉！熊野灘を一望する絶景露天風呂と旬の生まぐろバイキングが評判の「休暇村 南紀勝浦」、海沿いの静寂と豊かな自家源泉が心温まる「ホテルなぎさや」、専用客船で渡る孤島の天然露天風呂「紀州潮聞之湯」を誇る最高峰「碧き島の宿 熊野別邸 中の島」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/wakayama-nachikatsuura-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -132,7 +132,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/75227/75227.jpg"
                   alt="勝浦温泉　休暇村　南紀勝浦 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

@@ -1,5 +1,5 @@
 ---
-title: "【北海道・小樽市】運河の宿 おたる ふる川の宿泊記＆口コミ評判｜天然温泉『小樽運河前の温泉宿』・明治時代の商家を再現・客室・朝食・アクセス（目安¥12,100〜）"
+title: "【北海道・小樽市】運河の宿 おたる ふる川の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-hokkaido-otaru-herring-guide/"
 hotel_name: "運河の宿 おたる ふる川"
 prefecture: "北海道"
@@ -10,7 +10,7 @@ review_count: 1137
 last_modified: "2026-10-18"
 ---
 
-# 【北海道・小樽市】運河の宿 おたる ふる川の宿泊記＆口コミ評判｜天然温泉『小樽運河前の温泉宿』・明治時代の商家を再現・客室・朝食・アクセス（目安¥12,100〜）
+# 【北海道・小樽市】運河の宿 おたる ふる川の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-hokkaido-otaru-herring-guide/
 - **宿泊施設・特集名**: 運河の宿 おたる ふる川

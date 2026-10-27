@@ -344,7 +344,7 @@ export default function OkinawaMiyakojimaWinterPage() {
                       src={hotel.img} 
                       alt={hotel.name}
                       className="absolute inset-0 w-full h-full object-cover"
-                      loading="lazy"
+                      loading="eager" fetchPriority="high"
                     />
                     <div className="absolute top-4 left-4 bg-slate-900/80 backdrop-blur-md text-white text-xs font-bold px-3 py-1.5 rounded-full flex items-center gap-1.5 shadow-sm">
                       <Building className="w-3.5 h-3.5 text-cyan-400" />

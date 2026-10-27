@@ -489,7 +489,7 @@ export default function AutumnBudgetOtaruHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,910〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/3119/3119_heya.jpg" alt="ホテルノルド小樽 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/3119/3119_heya.jpg" alt="ホテルノルド小樽 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ご宿泊者様限定で展望ラウンジの無料開放実施中。小樽の日の出をお楽しみ頂けます。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 北海道小樽市色内1-4-16 ／ 最寄り駅：小樽 ／ 交通案内：小樽駅から徒歩7分◆LeTAO・オルゴール堂が人気の堺町通りまで徒歩圏内◆札幌駅から車で40分・電車で35分</p>

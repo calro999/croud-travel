@@ -194,7 +194,7 @@ export default function FurusatoKurobeGorgeAutumnTorokkoStayPage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/10719/10719.jpg"
                         alt="宇奈月温泉　延楽"
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

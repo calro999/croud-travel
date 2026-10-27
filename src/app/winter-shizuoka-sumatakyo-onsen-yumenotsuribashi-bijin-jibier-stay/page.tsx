@@ -273,7 +273,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/10709/10709.jpg" 
             alt="冬の寸又峡夢の吊橋とコバルトブルーの湖面" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         

@@ -197,7 +197,7 @@ export default function Page() {
                         src={hotel.hotelImageUrl}
                         alt={hotel.hotelName}
                         className="w-full h-full object-cover"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                       <div className="absolute top-3 left-3 bg-emerald-900 text-amber-300 text-xs font-black px-2.5 py-1 rounded-md shadow">
                         第{index + 1}位

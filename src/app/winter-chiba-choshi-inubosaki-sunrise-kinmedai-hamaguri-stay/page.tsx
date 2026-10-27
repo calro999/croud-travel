@@ -273,7 +273,7 @@ export default function ChibaChoshiInubosakiWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/4691/4691.jpg" 
             alt="冬の太平洋と犬吠埼灯台の初日の出" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         

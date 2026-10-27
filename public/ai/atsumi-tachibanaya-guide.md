@@ -1,5 +1,5 @@
 ---
-title: "【山形・鶴岡市】温海温泉 たちばなやの宿泊記＆口コミ評判｜心に残る特別な時間をお約束・客室・朝食・アクセス（目安¥5,280〜）"
+title: "【山形・鶴岡市】温海温泉 たちばなやの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/atsumi-tachibanaya-guide/"
 hotel_name: "温海温泉 たちばなや"
 prefecture: "山形県"
@@ -10,7 +10,7 @@ review_count: 1208
 last_modified: "2026-10-18"
 ---
 
-# 【山形・鶴岡市】温海温泉 たちばなやの宿泊記＆口コミ評判｜心に残る特別な時間をお約束・客室・朝食・アクセス（目安¥5,280〜）
+# 【山形・鶴岡市】温海温泉 たちばなやの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/atsumi-tachibanaya-guide/
 - **宿泊施設・特集名**: 温海温泉 たちばなや

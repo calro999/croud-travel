@@ -1,5 +1,5 @@
 ---
-title: "【石川・七尾市】和倉温泉 花ごよみの宿泊記＆口コミ評判｜新鮮素材を使用したボリュームある料理が口コミで評判「・客室・朝食・アクセス（目安¥9,900〜）"
+title: "【石川・七尾市】和倉温泉 花ごよみの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-hokuriku-wajima-noto-beef-guide/"
 hotel_name: "和倉温泉 花ごよみ"
 prefecture: "石川県"
@@ -10,7 +10,7 @@ review_count: 521
 last_modified: "2026-10-18"
 ---
 
-# 【石川・七尾市】和倉温泉 花ごよみの宿泊記＆口コミ評判｜新鮮素材を使用したボリュームある料理が口コミで評判「・客室・朝食・アクセス（目安¥9,900〜）
+# 【石川・七尾市】和倉温泉 花ごよみの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-hokuriku-wajima-noto-beef-guide/
 - **宿泊施設・特集名**: 和倉温泉 花ごよみ

@@ -1,5 +1,5 @@
 ---
-title: "【鳥取・米子市】皆生温泉 湯喜望 白扇の宿泊記＆口コミ評判｜【絶景オーシャンビュー】皆生の老舗旅館で心安らぐひと・客室・朝食・アクセス（目安¥6,050〜）"
+title: "【鳥取・米子市】皆生温泉 湯喜望 白扇の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-chugoku-crab-gourmet-guide/"
 hotel_name: "皆生温泉 湯喜望 白扇"
 prefecture: "鳥取県"
@@ -10,7 +10,7 @@ review_count: 1954
 last_modified: "2026-10-18"
 ---
 
-# 【鳥取・米子市】皆生温泉 湯喜望 白扇の宿泊記＆口コミ評判｜【絶景オーシャンビュー】皆生の老舗旅館で心安らぐひと・客室・朝食・アクセス（目安¥6,050〜）
+# 【鳥取・米子市】皆生温泉 湯喜望 白扇の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-chugoku-crab-gourmet-guide/
 - **宿泊施設・特集名**: 皆生温泉 湯喜望 白扇

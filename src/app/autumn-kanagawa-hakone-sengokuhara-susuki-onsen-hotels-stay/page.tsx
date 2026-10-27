@@ -447,7 +447,7 @@ export default function HakoneSengokuharaAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥15,400〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188402/188402.jpg" alt="ＢＬＩＳＳＴＩＡ箱根仙石原 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/188402/188402.jpg" alt="ＢＬＩＳＳＴＩＡ箱根仙石原 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>《コンドミニアム型ホテル》全室50㎡以上の広々客室で優雅な時間を</p>
                   <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町仙石原29-1 ／ 最寄り駅：箱根湯本 ／ 交通案内：バス停「仙石原小学校前」徒歩2分／箱根湯本駅よりバスで約25分／バスタ新宿より高速バスにて約2時間</p>

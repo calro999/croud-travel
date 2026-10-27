@@ -429,7 +429,7 @@ export default function AtamiBudgetAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,850〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29878/29878_t.jpg" alt="熱海温泉ホテル　夢いろは 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29878/29878_t.jpg" alt="熱海温泉ホテル　夢いろは 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>青山湯の源泉蒸し体験がおすすめ！炊きたてを味わう釜飯御膳が自慢！源泉掛け流し貸切露天風呂で癒される</p>
                   <p><strong>【所在地・アクセス】</strong>〒 静岡県熱海市咲見町4-6 ／ 最寄り駅：熱海 ／ 交通案内：ＪＲ熱海駅より徒歩１０分ほど　タクシーならたった5分</p>

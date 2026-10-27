@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'エメラルドグリーンの海と満天の星！石垣島の天然ビーチ直結リゾート＆赤瓦プライベートヴィラ×ふるさと納税極上旅ガイドフサキ・ANAインターコンチネンタル・グランヴィリオ',
+  title: "エメラルドグリーンの海と満天の星",
   description: '日本屈指の南国アイランド・沖縄県石垣島！エメラルドの川平湾、八重山諸島の絶景パノラマ。「フサキビーチリゾート」「ANAインターコンチネンタル石垣リゾート」「グランヴィリオリゾート石垣島」を、沖縄県石垣市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。天然ビーチ直結、県内最大級ウォータースライダー、石垣牛ステーキを満喫。',
   keywords: ["2026年最新", "フサキ", "ANAインターコンチネンタル", "グランヴィリオ", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-ishigakijima-resort-villa-luxury-stay/",
   },
   openGraph: {
-    title: 'エメラルドグリーンの海と満天の星！石垣島の天然ビーチ直結リゾート＆赤瓦プライベートヴィラ×ふるさと納税極上旅ガイドフサキ・ANAインターコンチネンタル・グランヴィリオ',
+    title: "エメラルドグリーンの海と満天の星",
     description: '日本屈指の南国アイランド・沖縄県石垣島！エメラルドの川平湾、八重山諸島の絶景パノラマ。「フサキビーチリゾート」「ANAインターコンチネンタル石垣リゾート」「グランヴィリオリゾート石垣島」を、沖縄県石垣市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。天然ビーチ直結、県内最大級ウォータースライダー、石垣牛ステーキを満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-ishigakijima-resort-villa-luxury-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',

@@ -1,5 +1,5 @@
 ---
-title: "【島根・浜田市】奥出雲 たたらの里＆亀嵩温泉名宿セレクションの宿泊記＆口コミ評判｜メタケイ酸豊富な肌再生に優れた湯・客室・朝食・アクセス（目安¥7,350〜）"
+title: "【島根・浜田市】奥出雲 たたらの里＆亀嵩温泉名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/okuizumo-tatara-soba-wagyu-hotels-guide/"
 hotel_name: "奥出雲 たたらの里＆亀嵩温泉名宿セレクション"
 prefecture: "島根県"
@@ -10,7 +10,7 @@ review_count: 138
 last_modified: "2026-10-18"
 ---
 
-# 【島根・浜田市】奥出雲 たたらの里＆亀嵩温泉名宿セレクションの宿泊記＆口コミ評判｜メタケイ酸豊富な肌再生に優れた湯・客室・朝食・アクセス（目安¥7,350〜）
+# 【島根・浜田市】奥出雲 たたらの里＆亀嵩温泉名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/okuizumo-tatara-soba-wagyu-hotels-guide/
 - **宿泊施設・特集名**: 奥出雲 たたらの里＆亀嵩温泉名宿セレクション

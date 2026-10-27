@@ -447,7 +447,7 @@ export default function NagoyaBudgetAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,000〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/622/622_bt.jpg" alt="─都心の天然温泉─　名古屋クラウンホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/622/622_bt.jpg" alt="─都心の天然温泉─　名古屋クラウンホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【楽天トラベル シルバーアワード2025受賞】伏見駅徒歩約5分！天然温泉×名古屋めしバイキング</p>
                   <p><strong>【所在地・アクセス】</strong>〒 愛知県名古屋市中区栄1-8-33 ／ 最寄り駅：名古屋 ／ 交通案内：地下鉄（東山線・鶴舞線）「伏見駅」６番出口より徒歩約５分。ＪＲ「名古屋駅」より車で約５分・徒歩約２０分。</p>

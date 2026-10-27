@@ -273,7 +273,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/4615/4615.jpg" 
             alt="冬の静岡・南伊豆下田の海と爪木崎水仙まつりの風景" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         

@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '奈良公園をふるさと納税でお得に旅する！世界遺産の大仏＆若草山の緑！クラシックホテルと露天風呂ヴィラ特集｜奈良ホテル・ふふ奈良・JWマリオット',
+  title: "奈良公園をふるさと納税でお得に旅する！世界遺産の大仏＆若草山の緑！クラシックホテルと露天風呂ヴィラ特集",
   description: '千三百年余の時を刻む古都・奈良県奈良市（奈良公園周辺）を楽天ふるさと納税でお得に贅沢ステイ！明治四十二年創業「関西の迎賓館」として愛される「奈良ホテル」、奈良公園の杜に佇む隈研吾建築「ふふ 奈良」、日本初の最高峰ラグジュアリー「JWマリオット・ホテル奈良」を徹底比較。奈良市ふるさと納税トラベルクーポン活用術を網羅。',
   keywords: '奈良公園 ホテル ふるさと納税,奈良ホテル クーポン,ふふ奈良 ふるさと納税,JWマリオット奈良 宿泊,奈良市 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-nara-park-heritage-luxury-stay/",
   },
   openGraph: {
-    title: '奈良公園をふるさと納税でお得に旅する！世界遺産の大仏＆若草山の緑！クラシックホテルと露天風呂ヴィラ特集｜奈良ホテル・ふふ奈良・JWマリオット',
+    title: "奈良公園をふるさと納税でお得に旅する！世界遺産の大仏＆若草山の緑！クラシックホテルと露天風呂ヴィラ特集",
     description: '千三百年余の時を刻む古都・奈良県奈良市（奈良公園周辺）を楽天ふるさと納税でお得に贅沢ステイ！明治四十二年創業「関西の迎賓館」として愛される「奈良ホテル」、奈良公園の杜に佇む隈研吾建築「ふふ 奈良」、日本初の最高峰ラグジュアリー「JWマリオット・ホテル奈良」を徹底比較。奈良市ふるさと納税トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-nara-park-heritage-luxury-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -148,7 +148,7 @@ export default function FurusatoArticlePage() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/1148/1148.jpg"
                 alt="奈良ホテル"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
               <div className="absolute top-4 left-4 bg-stone-900/80 backdrop-blur-sm text-white text-xs px-3 py-1.5 rounded-full font-semibold">
                 第1選

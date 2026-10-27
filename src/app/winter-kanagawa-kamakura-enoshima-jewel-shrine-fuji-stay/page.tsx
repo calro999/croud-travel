@@ -273,7 +273,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/1679/1679.jpg" 
             alt="冬の相模湾と夕暮れの富士山・江の島の絶景" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         

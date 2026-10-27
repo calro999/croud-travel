@@ -469,7 +469,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
                           src={hotel.hotelImageUrl}
                           alt={hotel.hotelName}
                           className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                          loading="lazy"
+                          loading="eager" fetchPriority="high"
                         />
                         <div className="absolute top-3 left-3 bg-slate-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-cyan-300 border border-slate-700">
                           {hotel.nearestStation ? `最寄: ${hotel.nearestStation}駅` : "箱根温泉郷"}

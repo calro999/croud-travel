@@ -239,7 +239,7 @@ export default function NaraDorogawaOnsenPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/9273/9273.jpg" 
             alt="雪化粧の洞川温泉木造旅館街背景" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="relative max-w-4xl mx-auto space-y-4">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-red-500/20 text-red-300 text-xs font-bold border border-red-400/30">

@@ -636,7 +636,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,350〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68680/68680_k.jpg" alt="ホテルルートイン苅田駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/68680/68680_k.jpg" alt="ホテルルートイン苅田駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能（一般映画のみ：コンフォートルーム特典）</p>
                   <p><strong>【所在地・アクセス】</strong>〒 福岡県京都郡苅田町神田町1-8-1 ／ 最寄り駅：苅田 ／ 交通案内：ＪＲ日豊本線　苅田駅徒歩0分／北九州空港より車で約１5分</p>

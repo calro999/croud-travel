@@ -412,7 +412,7 @@ export default function FurusatoUpgradedPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥23,050〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108991/108991_wa1.jpg" alt="料理旅館　鶴形 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/108991/108991_wa1.jpg" alt="料理旅館　鶴形 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>1744年創建の商家に逗留し瀬戸内の新鮮な魚、旬の食材を使った料理と倉敷の風情をお楽しみ下さい</p>
                   <p><strong>【所在地・アクセス】</strong>〒 岡山県倉敷市中央1-3-15 ／ 最寄り駅：倉敷 ／ 交通案内：倉敷駅から徒歩で約15分／お車で約5分</p>

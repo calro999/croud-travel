@@ -194,7 +194,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/54978/54978.jpg"
                         alt="日光中禅寺湖温泉　ホテル花庵"
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

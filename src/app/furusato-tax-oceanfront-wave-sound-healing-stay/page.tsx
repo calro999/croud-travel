@@ -886,7 +886,7 @@ export default function FurusatoTaxPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,248〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40803/40803_he.jpg" alt="稲取温泉　伊東園ホテル　稲取 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/40803/40803_he.jpg" alt="稲取温泉　伊東園ホテル　稲取 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>雄大な自然、潮騒と大海原の景観がおもてなし</p>
                   <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡東伊豆町1021-24 ／ 最寄り駅：伊豆稲取 ／ 交通案内：伊豆急　伊豆稲取駅より送迎車で約５分</p>

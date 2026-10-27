@@ -274,7 +274,7 @@ export default function SilverWeekGlampingRainyWeatherIndoorPage() {
                     src={hotel.hotelImageUrl}
                     alt={hotel.hotelName}
                     className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                  loading="lazy" decoding="async" />
+                  loading="eager" fetchPriority="high" decoding="async" />
                   {hotel.reviewAverage && (
                     <div className="absolute top-3 right-3 bg-slate-950/80 backdrop-blur-sm text-white px-2.5 py-1 rounded-full text-xs font-bold flex items-center gap-1 shadow">
                       <span className="text-yellow-400">★</span>

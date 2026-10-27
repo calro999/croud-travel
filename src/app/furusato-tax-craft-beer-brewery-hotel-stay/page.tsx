@@ -834,7 +834,7 @@ export default function FurusatoTaxPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,000〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/145006/145006_kan.jpg" alt="プチリゾート　アピア 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/145006/145006_kan.jpg" alt="プチリゾート　アピア 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>開田高原にたたずむプチリゾートホテル「Aｐｐｅａｒ」。癒しの空間で、贅沢な時間を◎</p>
                   <p><strong>【所在地・アクセス】</strong>〒 長野県木曽郡木曽町開田高原西野8064-2 ／ 最寄り駅：木曽福島 ／ 交通案内：木曽福島駅よりバスにて約５０分</p>

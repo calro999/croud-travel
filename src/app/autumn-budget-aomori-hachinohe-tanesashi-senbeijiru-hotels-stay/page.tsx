@@ -414,7 +414,7 @@ export default function AutumnBudgetHachinoheHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥2,550〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/193298/193298.jpg" alt="ホテルリブマックス本八戸駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/193298/193298.jpg" alt="ホテルリブマックス本八戸駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>駅近で便利！ 本八戸駅ホームより徒歩1分</p>
                   <p><strong>【所在地・アクセス】</strong>〒 青森県八戸市城下1丁目8-9 ／ 最寄り駅：本八戸 ／ 交通案内：JR八戸線「本八戸駅」北口徒歩1分</p>

@@ -326,7 +326,7 @@ export default function HighwayBusArticlePage() {
                         src={hotel.hotelImageUrl}
                         alt={hotel.hotelName}
                         className="w-full h-full object-cover"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     ) : (
                       <div className="w-full h-full flex items-center justify-center text-slate-400 text-xs font-bold">

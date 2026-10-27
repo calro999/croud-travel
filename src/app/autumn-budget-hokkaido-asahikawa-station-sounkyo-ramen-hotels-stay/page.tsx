@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,900〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/166948/166948_room.jpg" alt="ワイズホテル　旭川駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/166948/166948_room.jpg" alt="ワイズホテル　旭川駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ゆったりした全室禁煙の客室とくつろぎのラウンジ、旅の疲れを癒す最上階の大浴場とサウナ。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 北海道旭川市宮下通9-2-17 ／ 最寄り駅：旭川 ／ 交通案内：JR旭川駅隣接、旭山動物園や旭川空港行が発着するバス停はホテル目の前の好立地♪</p>

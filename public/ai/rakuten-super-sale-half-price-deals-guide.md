@@ -1,5 +1,5 @@
 ---
-title: "【全国・仙台市】楽天スーパーSALE対象 おすすめ名門リゾートセレクションの宿泊記＆口コミ評判｜仙台中心街からお車で約30分・温泉とともに楽しむ・客室・朝食・アクセス（目安¥14,000〜）"
+title: "【全国・仙台市】楽天スーパーSALE対象 おすすめ名門リゾートセレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/rakuten-super-sale-half-price-deals-guide/"
 hotel_name: "楽天スーパーSALE対象 おすすめ名門リゾートセレクション"
 prefecture: "全国"
@@ -10,7 +10,7 @@ review_count: 7117
 last_modified: "2026-10-18"
 ---
 
-# 【全国・仙台市】楽天スーパーSALE対象 おすすめ名門リゾートセレクションの宿泊記＆口コミ評判｜仙台中心街からお車で約30分・温泉とともに楽しむ・客室・朝食・アクセス（目安¥14,000〜）
+# 【全国・仙台市】楽天スーパーSALE対象 おすすめ名門リゾートセレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/rakuten-super-sale-half-price-deals-guide/
 - **宿泊施設・特集名**: 楽天スーパーSALE対象 おすすめ名門リゾートセレクション

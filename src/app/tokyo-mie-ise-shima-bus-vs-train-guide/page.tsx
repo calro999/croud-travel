@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-mie-ise-shima-bus-vs-train-guide/" },
-  title: "東京〜伊勢神宮・鳥羽：新幹線＋近鉄特急 vs 直行夜行バス徹底比較！片道4,000円〜行くお伊勢参り＆おかげ横丁1泊2日モデルコース",
+  title: "東京〜伊勢神宮・鳥羽：新幹線＋近鉄特急 vs 直行夜行バス徹底比較",
   description: "東京から伊勢神宮・鳥羽へ行くなら近鉄特急と直行夜行バスどっちがお得？料金・所要時間比較！早朝の外宮・内宮早朝参拝とおかげ横丁食べ歩き、鳥羽・伊勢志摩の温泉リゾートを満喫する1泊2日モデルコース。",
   keywords: ["東京〜伊勢神宮", "鳥羽", "新幹線＋近鉄特急", "vs", "おかげ横丁1泊2日モデルコース", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "東京〜伊勢神宮・鳥羽：新幹線＋近鉄特急 vs 直行夜行バス徹底比較！片道4,000円〜行くお伊勢参り＆おかげ横丁1泊2日モデルコース",
+    title: "東京〜伊勢神宮・鳥羽：新幹線＋近鉄特急 vs 直行夜行バス徹底比較",
     description: "東京から伊勢神宮・鳥羽へ行くなら近鉄特急と直行夜行バスどっちがお得？料金・所要時間比較！早朝の外宮・内宮早朝参拝とおかげ横丁食べ歩き、鳥羽・伊勢志摩の温泉リゾートを満喫する1泊2日モデルコース。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "東京〜伊勢神宮・鳥羽：新幹線＋近鉄特急 vs 直行夜行バス徹底比較！片道4,000円〜行くお伊勢参り＆おかげ横丁1泊2日モデルコース",
+    title: "東京〜伊勢神宮・鳥羽：新幹線＋近鉄特急 vs 直行夜行バス徹底比較",
     description: "東京から伊勢神宮・鳥羽へ行くなら近鉄特急と直行夜行バスどっちがお得？料金・所要時間比較！早朝の外宮・内宮早朝参拝とおかげ横丁食べ歩き、鳥羽・伊勢志摩の温泉リゾートを満喫する1泊2日モデルコース。",
   }
 };
@@ -316,7 +316,7 @@ export default function HighwayBusArticlePage() {
                         src={hotel.hotelImageUrl}
                         alt={hotel.hotelName}
                         className="w-full h-full object-cover"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     ) : (
                       <div className="w-full h-full flex items-center justify-center text-slate-400 text-xs font-bold">

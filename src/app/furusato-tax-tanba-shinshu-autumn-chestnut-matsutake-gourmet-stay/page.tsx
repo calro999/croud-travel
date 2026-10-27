@@ -194,7 +194,7 @@ export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/134758/134758.jpg"
                         alt="丹波篠山・料理旅館　たかさご"
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

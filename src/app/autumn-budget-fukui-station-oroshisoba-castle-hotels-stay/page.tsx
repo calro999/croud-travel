@@ -489,7 +489,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥7,000〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4898/4898_heya.jpg" alt="東尋坊温泉　三国オーシャンリゾート＆ホテル（旧：三国観光ホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/4898/4898_heya.jpg" alt="東尋坊温泉　三国オーシャンリゾート＆ホテル（旧：三国観光ホテル） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室オーシャンビュー！日本海に沈む美しい夕陽をお部屋から◆東尋坊まで車で10分＆“和畳の湯”も人気♪</p>
                   <p><strong>【所在地・アクセス】</strong>〒 福井県坂井市三国町緑ヶ丘4-4-8 ／ 最寄り駅：芦原温泉 ／ 交通案内：ＪＲ北陸新幹線・ハピライン芦原温泉下車　京福バス東尋坊経由　終点　龍翔博物館前下車</p>

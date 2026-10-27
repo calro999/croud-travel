@@ -1,5 +1,5 @@
 ---
-title: "【熊本・阿蘇】熊本県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜年【半農半宿】の宿・自家農園で育てた食材・客室・朝食・アクセス（目安¥15,400〜）"
+title: "【熊本・阿蘇】熊本県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/kumamoto-famous-basashi-akaushi-sake-hotels-guide/"
 hotel_name: "熊本県 おすすめ名門ホテル・温泉旅館セレクション"
 prefecture: "熊本県"
@@ -10,7 +10,7 @@ review_count: 484
 last_modified: "2026-10-18"
 ---
 
-# 【熊本・阿蘇】熊本県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜年【半農半宿】の宿・自家農園で育てた食材・客室・朝食・アクセス（目安¥15,400〜）
+# 【熊本・阿蘇】熊本県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/kumamoto-famous-basashi-akaushi-sake-hotels-guide/
 - **宿泊施設・特集名**: 熊本県 おすすめ名門ホテル・温泉旅館セレクション

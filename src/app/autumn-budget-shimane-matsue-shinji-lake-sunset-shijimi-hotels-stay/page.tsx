@@ -508,7 +508,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,250〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5005/5005_twn.jpg" alt="松江しんじ湖温泉　ニューアーバンホテル本館・別館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5005/5005_twn.jpg" alt="松江しんじ湖温泉　ニューアーバンホテル本館・別館 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★ルーフトップのSKYTOPTERRACEがOPEN！天然温泉浴場と地元食材の手作り朝食で癒しステイ</p>
                   <p><strong>【所在地・アクセス】</strong>〒 島根県松江市西茶町40-1 ／ 最寄り駅：松江 ／ 交通案内：★ＪＲ松江駅より『松江市営バス北循環線外回り』で７分須衛都久神社前下車下車徒歩１分　★私鉄松江しんじ湖温泉駅より徒歩５分</p>

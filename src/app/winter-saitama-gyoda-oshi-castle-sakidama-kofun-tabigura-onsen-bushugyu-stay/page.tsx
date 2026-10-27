@@ -9,11 +9,11 @@ export const metadata: Metadata = {
     canonical: "https://croud-travel.pages.dev/winter-saitama-gyoda-oshi-castle-sakidama-kofun-tabigura-onsen-bushugyu-stay/",
   },
 
-  title: 'のぼうの城・行田忍城雪景色と足袋蔵の街重伝建：2026-2027年冬の埼玉・行田＆熊谷！行田天然温泉と武州牛・加須手打ちうどん名宿5選',
+  title: "のぼうの城・行田忍城雪景色と足袋蔵の街重伝建：2026-2027年冬の埼玉・行田＆熊谷",
   description: '映画『のぼうの城』の舞台・浮き城「忍城」御三階櫓の冬晴れ雪景色と、日本遺産「足袋蔵のまち」レトロ散策！古代のロマン漂うさきたま古墳群や源泉かけ流し行田天然温泉。冬の身体を芯から温める加須手打ちうどん・行田ゼリーフライと極上武州牛を堪能する冬の北埼玉厳選名宿5選。',
   keywords: ['行田・熊谷・加須・羽生', '埼玉県', '冬旅行', '温泉旅館', '楽天トラベル', 'ふるさと納税', 'ホテルおすすめ'],
   openGraph: {
-    title: 'のぼうの城・行田忍城雪景色と足袋蔵の街重伝建：2026-2027年冬の埼玉・行田＆熊谷！行田天然温泉と武州牛・加須手打ちうどん名宿5選',
+    title: "のぼうの城・行田忍城雪景色と足袋蔵の街重伝建：2026-2027年冬の埼玉・行田＆熊谷",
     description: '映画『のぼうの城』の舞台・浮き城「忍城」御三階櫓の冬晴れ雪景色と、日本遺産「足袋蔵のまち」レトロ散策！古代のロマン漂うさきたま古墳群や源泉かけ流し行田天然温泉。冬の身体を芯から温める加須手打ちうどん・行田ゼリーフライと極上武州牛を堪能する冬の北埼玉厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-saitama-gyoda-oshi-castle-sakidama-kofun-tabigura-onsen-bushugyu-stay/',
     siteName: '旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'のぼうの城・行田忍城雪景色と足袋蔵の街重伝建：2026-2027年冬の埼玉・行田＆熊谷！行田天然温泉と武州牛・加須手打ちうどん名宿5選',
+    title: "のぼうの城・行田忍城雪景色と足袋蔵の街重伝建：2026-2027年冬の埼玉・行田＆熊谷",
     description: '映画『のぼうの城』の舞台・浮き城「忍城」御三階櫓の冬晴れ雪景色と、日本遺産「足袋蔵のまち」レトロ散策！古代のロマン漂うさきたま古墳群や源泉かけ流し行田天然温泉。冬の身体を芯から温める加須手打ちうどん・行田ゼリーフライと極上武州牛を堪能する冬の北埼玉厳選名宿5選。',
   },
 };
@@ -275,7 +275,7 @@ export default function FeaturePage() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Oshi-jo.JPG/1280px-Oshi-jo.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="忍城"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full space-y-3">

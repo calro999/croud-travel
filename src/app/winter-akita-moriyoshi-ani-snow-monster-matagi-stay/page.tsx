@@ -239,7 +239,7 @@ export default function AkitaMoriyoshiAniPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/43897/43897.jpg" 
             alt="森吉山の樹氷原背景" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="relative max-w-4xl mx-auto space-y-4">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-500/20 text-blue-300 text-xs font-bold border border-blue-400/30">

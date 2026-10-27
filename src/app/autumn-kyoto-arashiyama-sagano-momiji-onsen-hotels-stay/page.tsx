@@ -447,7 +447,7 @@ export default function KyotoArashiyamaAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥64,895〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/158466/158466_kan1.jpg" alt="翠嵐ラグジュアリーコレクションホテル京都 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/158466/158466_kan1.jpg" alt="翠嵐ラグジュアリーコレクションホテル京都 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>京都の歴史に育まれた伝統とモダンの美が融け合う空間で、この地ならではの格別な体験をご提供いたします。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 京都府京都市右京区嵯峨天龍寺芒ノ馬場町12 ／ 最寄り駅：嵐山（京福電気鉄道） ／ 交通案内：京福電鉄嵐山本線 嵐山駅 より徒歩約６分　阪急嵐山線 嵐山駅  、JR山陰本線 嵯峨野線  嵯峨嵐山駅 より徒歩約15分</p>

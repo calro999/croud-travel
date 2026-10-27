@@ -1,5 +1,5 @@
 ---
-title: "【群馬・渋川市】伊香保温泉 福一の宿泊記＆口コミ評判｜創業440年・客室・朝食・アクセス（目安¥9,636〜）"
+title: "【群馬・渋川市】伊香保温泉 福一の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-kanto-gunma-ikaho-momiji-guide/"
 hotel_name: "伊香保温泉 福一"
 prefecture: "群馬県"
@@ -10,7 +10,7 @@ review_count: 1733
 last_modified: "2026-10-18"
 ---
 
-# 【群馬・渋川市】伊香保温泉 福一の宿泊記＆口コミ評判｜創業440年・客室・朝食・アクセス（目安¥9,636〜）
+# 【群馬・渋川市】伊香保温泉 福一の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-kanto-gunma-ikaho-momiji-guide/
 - **宿泊施設・特集名**: 伊香保温泉 福一

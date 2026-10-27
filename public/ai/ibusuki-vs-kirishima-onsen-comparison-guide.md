@@ -1,5 +1,5 @@
 ---
-title: "【鹿児島・指宿市】指宿温泉・霧島温泉 徹底比較＆厳選旅館ガイドの宿泊記＆口コミ評判｜全室オーシャンビュー・名物砂蒸し温泉に貸切風呂も・客室・朝食・アクセス（目安¥8,250〜）"
+title: "【鹿児島・指宿市】指宿温泉・霧島温泉 徹底比較＆厳選旅館ガイドの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/ibusuki-vs-kirishima-onsen-comparison-guide/"
 hotel_name: "指宿温泉・霧島温泉 徹底比較＆厳選旅館ガイド"
 prefecture: "鹿児島県"
@@ -10,7 +10,7 @@ review_count: 1707
 last_modified: "2026-10-18"
 ---
 
-# 【鹿児島・指宿市】指宿温泉・霧島温泉 徹底比較＆厳選旅館ガイドの宿泊記＆口コミ評判｜全室オーシャンビュー・名物砂蒸し温泉に貸切風呂も・客室・朝食・アクセス（目安¥8,250〜）
+# 【鹿児島・指宿市】指宿温泉・霧島温泉 徹底比較＆厳選旅館ガイドの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/ibusuki-vs-kirishima-onsen-comparison-guide/
 - **宿泊施設・特集名**: 指宿温泉・霧島温泉 徹底比較＆厳選旅館ガイド

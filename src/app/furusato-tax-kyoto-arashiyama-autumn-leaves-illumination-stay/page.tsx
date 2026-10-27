@@ -194,7 +194,7 @@ export default function FurusatoKyotoArashiyamaAutumnLeavesStayPage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/8838/8838.jpg"
                         alt="京都　嵐山温泉　渡月亭"
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

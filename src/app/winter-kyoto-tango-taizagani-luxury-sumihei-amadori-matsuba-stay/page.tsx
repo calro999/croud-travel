@@ -166,7 +166,7 @@ export default function LuxuryStayPage() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Funaya_in_Ine_Town%2C_Yosa_District%2C_Kyoto_Prefecture_003.jpg/1280px-Funaya_in_Ine_Town%2C_Yosa_District%2C_Kyoto_Prefecture_003.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="伊根の舟屋"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full md:w-1/2 space-y-3">

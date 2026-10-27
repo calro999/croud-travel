@@ -1,5 +1,5 @@
 ---
-title: "【石川・加賀市】山中温泉 花紫の宿泊記＆口コミ評判｜コンセプトは日本の文化サロン・アートやお茶に浸り・客室・朝食・アクセス（目安¥18,700〜）"
+title: "【石川・加賀市】山中温泉 花紫の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/yamanaka-hanamurasaki-guide/"
 hotel_name: "山中温泉 花紫"
 prefecture: "石川県"
@@ -10,7 +10,7 @@ review_count: 408
 last_modified: "2026-10-18"
 ---
 
-# 【石川・加賀市】山中温泉 花紫の宿泊記＆口コミ評判｜コンセプトは日本の文化サロン・アートやお茶に浸り・客室・朝食・アクセス（目安¥18,700〜）
+# 【石川・加賀市】山中温泉 花紫の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/yamanaka-hanamurasaki-guide/
 - **宿泊施設・特集名**: 山中温泉 花紫

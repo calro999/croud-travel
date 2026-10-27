@@ -1,5 +1,5 @@
 ---
-title: "【岐阜・高山市】飛騨高山・白川郷観光おすすめ名宿セレクションの宿泊記＆口コミ評判｜【高山陣屋】【古い町並】に最も近い宿・客室・朝食・アクセス（目安¥30,360〜）"
+title: "【岐阜・高山市】飛騨高山・白川郷観光おすすめ名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/shirakawago-takayama-famous-things-hotels-guide/"
 hotel_name: "飛騨高山・白川郷観光おすすめ名宿セレクション"
 prefecture: "岐阜県"
@@ -10,7 +10,7 @@ review_count: 839
 last_modified: "2026-10-18"
 ---
 
-# 【岐阜・高山市】飛騨高山・白川郷観光おすすめ名宿セレクションの宿泊記＆口コミ評判｜【高山陣屋】【古い町並】に最も近い宿・客室・朝食・アクセス（目安¥30,360〜）
+# 【岐阜・高山市】飛騨高山・白川郷観光おすすめ名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/shirakawago-takayama-famous-things-hotels-guide/
 - **宿泊施設・特集名**: 飛騨高山・白川郷観光おすすめ名宿セレクション

@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '木漏れ日の高原と洗練の森！軽井沢の温泉露天風呂付きラグジュアリーホテル＆本格フレンチ名宿×ふるさと納税極上旅ガイドマリオット・プリンスイースト・音羽ノ森',
+  title: "木漏れ日の高原と洗練の森",
   description: '日本を代表する最高峰の高原避暑地・軽井沢！白樺と落葉松の森、旧軽井沢銀座散策。「軽井沢マリオットホテル」「軽井沢プリンスホテル イースト」「旧軽井沢 ホテル音羽ノ森」を、長野県軽井沢町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。客室温泉露天風呂、天然温泉スパ、信州牛グリルを満喫。',
   keywords: ["2026年最新", "マリオット", "プリンスイースト", "音羽ノ森", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-karuizawa-luxury-resort-villa-stay/",
   },
   openGraph: {
-    title: '木漏れ日の高原と洗練の森！軽井沢の温泉露天風呂付きラグジュアリーホテル＆本格フレンチ名宿×ふるさと納税極上旅ガイドマリオット・プリンスイースト・音羽ノ森',
+    title: "木漏れ日の高原と洗練の森",
     description: '日本を代表する最高峰の高原避暑地・軽井沢！白樺と落葉松の森、旧軽井沢銀座散策。「軽井沢マリオットホテル」「軽井沢プリンスホテル イースト」「旧軽井沢 ホテル音羽ノ森」を、長野県軽井沢町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。客室温泉露天風呂、天然温泉スパ、信州牛グリルを満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-karuizawa-luxury-resort-villa-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',

@@ -508,7 +508,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,990〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16813/16813_room.jpg" alt="たまゆら温泉＆サウナ完備の宿　宮崎ライオンズホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/16813/16813_room.jpg" alt="たまゆら温泉＆サウナ完備の宿　宮崎ライオンズホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>宮崎市最大の繁華街「ニシタチ」に隣接した好立地！大浴場（たまゆら温泉）＆サウナ併設ビジネスホテル</p>
                   <p><strong>【所在地・アクセス】</strong>〒 宮崎県宮崎市高松町4-39 ／ 最寄り駅：宮崎 ／ 交通案内：宮崎駅より徒歩約15分／宮崎ICよりお車で約15分／宮崎空港よりお車で約20分（駐車場要予約）</p>

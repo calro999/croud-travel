@@ -282,7 +282,7 @@ export default function FeaturePage() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/%E5%9C%93%E8%94%B5%E5%AF%BA_-_panoramio_%282%29.jpg/1280px-%E5%9C%93%E8%94%B5%E5%AF%BA_-_panoramio_%282%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="霊場・福満虚空藏菩薩圓蔵寺（赤べこ発祥と冬の只見川絶景）"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full space-y-3">

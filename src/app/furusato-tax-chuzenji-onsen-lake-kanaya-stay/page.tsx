@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '中禅寺湖温泉をふるさと納税でお得に旅する！白濁硫黄露天風呂＆湖畔絶景クラシックリゾート！名宿特集｜中禅寺金谷ホテル・ホテル花庵・旅籠なごみ',
+  title: "中禅寺湖温泉をふるさと納税でお得に旅する！白濁硫黄露天風呂＆湖畔絶景クラシックリゾート！名宿特集",
   description: '男体山の麓・日本一標高の高い湖畔温泉・栃木県日光中禅寺湖温泉を楽天ふるさと納税でお得に満喫！森と湖に抱かれるクラシック名門「中禅寺金谷ホテル」、全室レイクビューと二つの美肌の湯「ホテル花庵」、源泉掛け流しと地酒を味わう「旅籠なごみ」を徹底比較。日光市トラベルクーポン活用術を網羅。',
   keywords: '中禅寺湖 温泉 ふるさと納税,中禅寺金谷ホテル クーポン,ホテル花庵 ふるさと納税,旅籠なごみ 中禅寺湖 宿泊,日光市 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-chuzenji-onsen-lake-kanaya-stay/",
   },
   openGraph: {
-    title: '中禅寺湖温泉をふるさと納税でお得に旅する！白濁硫黄露天風呂＆湖畔絶景クラシックリゾート！名宿特集｜中禅寺金谷ホテル・ホテル花庵・旅籠なごみ',
+    title: "中禅寺湖温泉をふるさと納税でお得に旅する！白濁硫黄露天風呂＆湖畔絶景クラシックリゾート！名宿特集",
     description: '男体山の麓・日本一標高の高い湖畔温泉・栃木県日光中禅寺湖温泉を楽天ふるさと納税でお得に満喫！森と湖に抱かれるクラシック名門「中禅寺金谷ホテル」、全室レイクビューと二つの美肌の湯「ホテル花庵」、源泉掛け流しと地酒を味わう「旅籠なごみ」を徹底比較。日光市トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-chuzenji-onsen-lake-kanaya-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -148,7 +148,7 @@ export default function FurusatoArticlePage() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/28759/28759.jpg"
                 alt="日光中禅寺温泉　中禅寺金谷ホテル"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
               <div className="absolute top-4 left-4 bg-stone-900/80 backdrop-blur-sm text-white text-xs px-3 py-1.5 rounded-full font-semibold">
                 第1選

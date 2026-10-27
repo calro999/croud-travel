@@ -308,7 +308,7 @@ export default function NagasakiCityWinterPage() {
                     src={h.img} 
                     alt={h.name}
                     className="w-full h-full object-cover absolute inset-0"
-                    loading="lazy"
+                    loading="eager" fetchPriority="high"
                   />
                   <div className="absolute top-3 left-3 bg-rose-900/90 text-white text-xs font-bold px-3 py-1.5 rounded-full backdrop-blur-sm">
                     第{h.id}位 厳選名宿

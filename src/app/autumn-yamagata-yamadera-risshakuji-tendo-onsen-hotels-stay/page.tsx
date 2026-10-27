@@ -447,7 +447,7 @@ export default function YamaderaTendoAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥18,150〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/53746/53746_ro.jpg" alt="天童温泉　ほほえみの宿　滝の湯 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/53746/53746_ro.jpg" alt="天童温泉　ほほえみの宿　滝の湯 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天童温泉と宿泊者専用ラウンジで、心身をやさしく整える滞在をお楽しみください。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山形県天童市鎌田本町1-1-30 ／ 最寄り駅：天童 ／ 交通案内：ＪＲ山形新幹線　天童駅より車にて３分、徒歩にて１５分（無料送迎あり）　山形北ＩＣより２０分</p>

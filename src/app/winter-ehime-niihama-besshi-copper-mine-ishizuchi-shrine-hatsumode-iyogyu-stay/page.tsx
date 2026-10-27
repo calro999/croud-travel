@@ -4,13 +4,13 @@ import Link from 'next/link';
 import { Star, MapPin, Calendar, Compass, ShieldCheck, Heart, Sparkles, ExternalLink, ChevronRight } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '東洋のマチュピチュ・別子銅山の冬霧氷と石鎚神社新春初詣：2026-2027年冬の愛媛・新居浜＆西条！名水うちぬきの里と伊予牛会席名宿5選',
+  title: "東洋のマチュピチュ・別子銅山の冬霧氷と石鎚神社新春初詣：2026-2027年冬の愛媛・新居浜＆西条",
   description: '標高750mに聳える産業遺産・別子銅山「東平」の雪化粧と、霊峰石鎚山を仰ぐ石鎚神社新春開運初詣！日本名水百選・西条「うちぬき」が育む地酒と瀬戸内海の旬魚介、極上の霜降り伊予牛に舌鼓。道後温泉に次ぐ名湯・本谷温泉や快適ホテルで寛ぐ冬の東予・新居浜＆西条厳選名宿5選。',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-ehime-niihama-besshi-copper-mine-ishizuchi-shrine-hatsumode-iyogyu-stay/',
   },
   openGraph: {
-    title: '東洋のマチュピチュ・別子銅山の冬霧氷と石鎚神社新春初詣：2026-2027年冬の愛媛・新居浜＆西条！名水うちぬきの里と伊予牛会席名宿5選',
+    title: "東洋のマチュピチュ・別子銅山の冬霧氷と石鎚神社新春初詣：2026-2027年冬の愛媛・新居浜＆西条",
     description: '標高750mに聳える産業遺産・別子銅山「東平」の雪化粧と、霊峰石鎚山を仰ぐ石鎚神社新春開運初詣！日本名水百選・西条「うちぬき」が育む地酒と瀬戸内海の旬魚介、極上の霜降り伊予牛に舌鼓。道後温泉に次ぐ名湯・本谷温泉や快適ホテルで寛ぐ冬の東予・新居浜＆西条厳選名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-ehime-niihama-besshi-copper-mine-ishizuchi-shrine-hatsumode-iyogyu-stay/',
     siteName: '冬の日本厳選旅行ガイド',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: '東洋のマチュピチュ・別子銅山の冬霧氷と石鎚神社新春初詣：2026-2027年冬の愛媛・新居浜＆西条！名水うちぬきの里と伊予牛会席名宿5選',
+    title: "東洋のマチュピチュ・別子銅山の冬霧氷と石鎚神社新春初詣：2026-2027年冬の愛媛・新居浜＆西条",
     description: '標高750mに聳える産業遺産・別子銅山「東平」の雪化粧と、霊峰石鎚山を仰ぐ石鎚神社新春開運初詣！日本名水百選・西条「うちぬき」が育む地酒と瀬戸内海の旬魚介、極上の霜降り伊予牛に舌鼓。道後温泉に次ぐ名湯・本谷温泉や快適ホテルで寛ぐ冬の東予・新居浜＆西条厳選名宿5選。',
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/110/110.jpg'],
   },
@@ -178,7 +178,7 @@ export default function Page() {
               src="https://img.travel.rakuten.co.jp/share/HOTEL/110/110.jpg"
               alt="背景画像"
               className="w-full h-full object-cover blur-sm"
-            loading="lazy" decoding="async" />
+            loading="eager" fetchPriority="high" decoding="async" />
           </div>
           <div className="max-w-4xl mx-auto relative z-10 space-y-4">
             <div className="flex flex-wrap items-center gap-2 text-xs">

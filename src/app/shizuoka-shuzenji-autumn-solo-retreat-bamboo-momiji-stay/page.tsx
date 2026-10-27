@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/shizuoka-shuzenji-autumn-solo-retreat-bamboo-momiji-stay/" },
-  title: '・11月秋の伊豆修善寺温泉ひとり旅・竹林の小径と修善寺自然公園もみじ林おこもりで過ごす冬の旅（10月）！桂川のせせらぎ・伊豆最古の美肌湯・伊豆旬会席！小京都リトリート厳選3宿',
+  title: "・11月秋の伊豆修善寺温泉ひとり旅・竹林の小径と修善寺自然公園もみじ林おこもりで過ごす冬の旅（10月）",
   description: '11月中旬〜12月上旬は伊豆随一の紅葉名所！桂川沿いに風情ある温泉街が広がる伊豆の小京都・修善寺。貸切露天風呂や最上階展望風呂で楽天口コミ★4.43を誇る「瑞の里 〇久旅館」、数寄屋造りと本格庭園でミシュラン級の評価を受ける最高峰の宿「柳生の庄」、数室限定のプライベート極上ステイ「離れ宿 鬼の栖」を楽天API最新データに基づき徹底比較。',
   keywords: '修善寺温泉 一人旅 宿,修善寺 10月 11月 紅葉 温泉,瑞の里 〇久旅館 一人旅,柳生の庄,鬼の栖,修善寺 竹林の小径 一人旅 おこもり',
   openGraph: {
-    title: '・11月秋の伊豆修善寺温泉ひとり旅・竹林の小径と修善寺自然公園もみじ林おこもりで過ごす冬の旅（10月）！桂川のせせらぎ・伊豆最古の美肌湯・伊豆旬会席！小京都リトリート厳選3宿',
+    title: "・11月秋の伊豆修善寺温泉ひとり旅・竹林の小径と修善寺自然公園もみじ林おこもりで過ごす冬の旅（10月）",
     description: '11月中旬〜12月上旬は伊豆随一の紅葉名所！桂川沿いに風情ある温泉街が広がる伊豆の小京都・修善寺。貸切露天風呂や最上階展望風呂で楽天口コミ★4.43を誇る「瑞の里 〇久旅館」、数寄屋造りと本格庭園でミシュラン級の評価を受ける最高峰の宿「柳生の庄」、数室限定のプライベート極上ステイ「離れ宿 鬼の栖」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/shizuoka-shuzenji-autumn-solo-retreat-bamboo-momiji-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -132,7 +132,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/29806/29806.jpg"
                   alt="修善寺温泉　瑞の里　〇久（まるきゅう）旅館 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

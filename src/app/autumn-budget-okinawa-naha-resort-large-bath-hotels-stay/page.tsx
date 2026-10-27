@@ -446,7 +446,7 @@ export default function OkinawaBudgetAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥6,200〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182884/182884.jpg" alt="ホテルリソルトリニティ那覇 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/182884/182884.jpg" alt="ホテルリソルトリニティ那覇 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022年4月1日開業。国際通りまで徒歩圏の絶好の立地。大浴場を備え、上質なくつろぎをご提供。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 沖縄県那覇市旭町7 ／ 最寄り駅：那覇空港 ／ 交通案内：ゆいレール「旭橋駅」出入口2より徒歩3分</p>

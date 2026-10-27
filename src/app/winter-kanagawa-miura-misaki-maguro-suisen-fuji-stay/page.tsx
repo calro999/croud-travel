@@ -273,7 +273,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/13569/13569.jpg" 
             alt="冬の三浦半島城ヶ島と相模湾越しの富士山夕景" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         

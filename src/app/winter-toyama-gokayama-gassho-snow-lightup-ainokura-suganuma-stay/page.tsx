@@ -160,7 +160,7 @@ export default function WinterFeaturePage() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3%E8%8F%85%E6%B2%BC%E5%90%88%E6%8E%8C%E9%9B%86%E8%90%BD.jpg/1280px-%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3%E8%8F%85%E6%B2%BC%E5%90%88%E6%8E%8C%E9%9B%86%E8%90%BD.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="世界遺産・五箇山合掌造り集落（相倉・菅沼）"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full space-y-3">

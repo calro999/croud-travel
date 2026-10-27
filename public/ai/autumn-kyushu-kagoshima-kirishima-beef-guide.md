@@ -1,5 +1,5 @@
 ---
-title: "【鹿児島・霧島市】霧島温泉郷 霧島ホテルの宿泊記＆口コミ評判｜5つ星の宿 最大【男性13種・女性19種の湯舟】に【・客室・朝食・アクセス（目安¥13,200〜）"
+title: "【鹿児島・霧島市】霧島温泉郷 霧島ホテルの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-kyushu-kagoshima-kirishima-beef-guide/"
 hotel_name: "霧島温泉郷 霧島ホテル"
 prefecture: "鹿児島県"
@@ -10,7 +10,7 @@ review_count: 2169
 last_modified: "2026-10-18"
 ---
 
-# 【鹿児島・霧島市】霧島温泉郷 霧島ホテルの宿泊記＆口コミ評判｜5つ星の宿 最大【男性13種・女性19種の湯舟】に【・客室・朝食・アクセス（目安¥13,200〜）
+# 【鹿児島・霧島市】霧島温泉郷 霧島ホテルの宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-kyushu-kagoshima-kirishima-beef-guide/
 - **宿泊施設・特集名**: 霧島温泉郷 霧島ホテル

@@ -1,5 +1,5 @@
 ---
-title: "【石川・加賀市】北陸 山中温泉＆あわら温泉 温泉プール名宿セレクションの宿泊記＆口コミ評判｜こおろぎ橋・ゆげ街道すぐ・客室・朝食・アクセス（目安¥14,500〜）"
+title: "【石川・加賀市】北陸 山中温泉＆あわら温泉 温泉プール名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/hokuriku-yamanaka-awara-onsen-pool-hotels-guide/"
 hotel_name: "北陸 山中温泉＆あわら温泉 温泉プール名宿セレクション"
 prefecture: "石川県"
@@ -10,7 +10,7 @@ review_count: 1925
 last_modified: "2026-10-18"
 ---
 
-# 【石川・加賀市】北陸 山中温泉＆あわら温泉 温泉プール名宿セレクションの宿泊記＆口コミ評判｜こおろぎ橋・ゆげ街道すぐ・客室・朝食・アクセス（目安¥14,500〜）
+# 【石川・加賀市】北陸 山中温泉＆あわら温泉 温泉プール名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/hokuriku-yamanaka-awara-onsen-pool-hotels-guide/
 - **宿泊施設・特集名**: 北陸 山中温泉＆あわら温泉 温泉プール名宿セレクション

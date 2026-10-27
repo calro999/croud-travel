@@ -429,7 +429,7 @@ export default function SumatakyoAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥15,200〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172896/172896_kan1.jpg" alt="大井川鐵道　川根温泉ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/172896/172896_kan1.jpg" alt="大井川鐵道　川根温泉ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>小学生未満宿泊無料！温泉宿・ホテル総選挙ファミリー部門5年連続全国1位！自然に包まれる癒しの温泉宿</p>
                   <p><strong>【所在地・アクセス】</strong>〒 静岡県島田市川根町笹間渡195-1 ／ 最寄り駅：主要駅 ／ 交通案内：新東名島田金谷ＩＣよりお車にて約３５分／大井川鉄道　川根温泉笹間渡駅より徒歩にて約１０分</p>

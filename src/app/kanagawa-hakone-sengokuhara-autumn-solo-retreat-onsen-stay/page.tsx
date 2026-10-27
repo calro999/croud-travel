@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-autumn-solo-retreat-onsen-stay/" },
-  title: '・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもりで過ごす冬の旅（10月）！全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿',
+  title: "・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもりで過ごす冬の旅（10月）",
   description: '10月〜11月が見頃！台ヶ岳北斜面を埋め尽くす黄金色のススキ草原が圧巻の箱根・仙石原。大涌谷から引湯する乳白色の天然温泉と全室露天風呂付きの贅沢空間が評判の「センチュリオン箱根別邸」、全室客室温泉付きで竹林を望む大人の隠れ家「きたの風茶寮」、アットホームなもてなしと良質なにごり湯の「金時山荘」を楽天API最新データに基づき徹底比較。',
   keywords: '仙石原温泉 一人旅 宿,箱根 仙石原 10月 11月 紅葉 温泉,センチュリオン箱根別邸 一人旅,きたの風茶寮,金時山荘,仙石原 ススキ 一人旅 おこもり',
   openGraph: {
-    title: '・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもりで過ごす冬の旅（10月）！全室露天風呂・北海道×箱根の極上和懐石！秋深まる高原リトリート厳選3宿',
+    title: "・11月秋の箱根仙石原ひとり旅・黄金色ススキ草原と白濁硫黄泉おこもりで過ごす冬の旅（10月）",
     description: '10月〜11月が見頃！台ヶ岳北斜面を埋め尽くす黄金色のススキ草原が圧巻の箱根・仙石原。大涌谷から引湯する乳白色の天然温泉と全室露天風呂付きの贅沢空間が評判の「センチュリオン箱根別邸」、全室客室温泉付きで竹林を望む大人の隠れ家「きたの風茶寮」、アットホームなもてなしと良質なにごり湯の「金時山荘」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/kanagawa-hakone-sengokuhara-autumn-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -132,7 +132,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/176633/176633.jpg"
                   alt="全室露天風呂付客室　仙石原温泉　センチュリオン箱根別邸 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

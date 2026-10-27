@@ -274,7 +274,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/12682/12682.jpg" 
             alt="冬の福島・白銀の大内宿と阿賀川渓谷の雪景色" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         

@@ -173,7 +173,7 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/75399/75399.jpg"
                   alt="城崎温泉　西村屋本館"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
                 <div className="absolute top-4 left-4 bg-stone-900/85 text-amber-300 text-xs font-bold px-3 py-1.5 rounded-full backdrop-blur-xs border border-amber-400/30">
                   厳選名宿 第1選

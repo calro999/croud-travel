@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,280〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180258/180258.jpg" alt="天然温泉　鉄輪の湯　スーパーホテル別府駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/180258/180258.jpg" alt="天然温泉　鉄輪の湯　スーパーホテル別府駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ別府駅東口より徒歩約2分！　鉄輪（かんなわ）温泉直送の天然温泉完備！　駅前繁華街もすぐ！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 大分県別府市駅前町13-8 ／ 最寄り駅：別府（大分） ／ 交通案内：ＪＲ　別府駅　東口より徒歩にて約1分　/　大分空港よりバス(エアライナー)で約1時間　/　別府ICより車で15分</p>

@@ -1,5 +1,5 @@
 ---
-title: "【島根・鹿足】津和野・さぎの湯温泉 歴史名宿セレクションの宿泊記＆口コミ評判｜津和野河畔にたたずむコンドミニアムタイプの一棟貸し宿・客室・朝食・アクセス（目安¥11,500〜）"
+title: "【島根・鹿足】津和野・さぎの湯温泉 歴史名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/tsuwano-iwamiginzan-historic-inn-hotels-guide/"
 hotel_name: "津和野・さぎの湯温泉 歴史名宿セレクション"
 prefecture: "島根県"
@@ -10,7 +10,7 @@ review_count: 2
 last_modified: "2026-10-18"
 ---
 
-# 【島根・鹿足】津和野・さぎの湯温泉 歴史名宿セレクションの宿泊記＆口コミ評判｜津和野河畔にたたずむコンドミニアムタイプの一棟貸し宿・客室・朝食・アクセス（目安¥11,500〜）
+# 【島根・鹿足】津和野・さぎの湯温泉 歴史名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/tsuwano-iwamiginzan-historic-inn-hotels-guide/
 - **宿泊施設・特集名**: 津和野・さぎの湯温泉 歴史名宿セレクション

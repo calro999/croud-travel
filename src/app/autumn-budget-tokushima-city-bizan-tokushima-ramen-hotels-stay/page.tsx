@@ -499,7 +499,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,950〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7503/7503_room.jpg" alt="アパホテル〈徳島駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/7503/7503_room.jpg" alt="アパホテル〈徳島駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>全室50型液晶テレビ・有線LAN・無線LAN（Wi-Fi）・VOD（ビデオオンデマンド）全客室完備</p>
                   <p><strong>【所在地・アクセス】</strong>〒 徳島県徳島市一番町2-21 ／ 最寄り駅：徳島 ／ 交通案内：ＪＲ徳島駅より徒歩3分、徳島阿波踊り空港から車で20分</p>

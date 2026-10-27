@@ -4,14 +4,14 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '大阪・梅田をふるさと納税でお得に旅する！JR大阪駅直結＆地上摩天楼夜景！天下の台所美食特集｜リッツカールトン大阪・インターコンチネンタル・ヒルトン',
+  title: "大阪・梅田をふるさと納税でお得に旅する！JR大阪駅直結＆地上摩天楼夜景！天下の台所美食特集",
   description: '西日本最大のメガターミナル・大阪府大阪市北区「梅田（キタ）」を楽天ふるさと納税でお得に贅沢ステイ！18世紀英国貴族の邸宅の風格「ザ・リッツ・カールトン大阪」、グランフロント大阪直結のスタイリッシュ「インターコンチネンタルホテル大阪」、駅前ランドマーク「ヒルトン大阪」を徹底比較。大阪市ふるさと納税トラベルクーポン活用術を網羅。',
   keywords: '大阪 ホテル ふるさと納税,リッツカールトン大阪 ふるさと納税,インターコンチネンタル大阪 クーポン,ヒルトン大阪 宿泊,大阪市 ふるさと納税 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-osaka-umeda-luxury-skyview-stay/",
   },
   openGraph: {
-    title: '大阪・梅田をふるさと納税でお得に旅する！JR大阪駅直結＆地上摩天楼夜景！天下の台所美食特集｜リッツカールトン大阪・インターコンチネンタル・ヒルトン',
+    title: "大阪・梅田をふるさと納税でお得に旅する！JR大阪駅直結＆地上摩天楼夜景！天下の台所美食特集",
     description: '西日本最大のメガターミナル・大阪府大阪市北区「梅田（キタ）」を楽天ふるさと納税でお得に贅沢ステイ！18世紀英国貴族の邸宅の風格「ザ・リッツ・カールトン大阪」、グランフロント大阪直結のスタイリッシュ「インターコンチネンタルホテル大阪」、駅前ランドマーク「ヒルトン大阪」を徹底比較。大阪市ふるさと納税トラベルクーポン活用術を網羅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-osaka-umeda-luxury-skyview-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -148,7 +148,7 @@ export default function FurusatoArticlePage() {
                 src="https://img.travel.rakuten.co.jp/share/HOTEL/16413/16413.jpg"
                 alt="ザ・リッツ・カールトン大阪"
                 className="w-full h-full object-cover"
-                loading="lazy"
+                loading="eager" fetchPriority="high"
               />
               <div className="absolute top-4 left-4 bg-stone-900/80 backdrop-blur-sm text-white text-xs px-3 py-1.5 rounded-full font-semibold">
                 第1選

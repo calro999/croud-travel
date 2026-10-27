@@ -378,7 +378,7 @@ export default function WinterSagaKaratsuPage() {
                       src={hotel.img}
                       alt={hotel.name}
                       className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                      loading="lazy"
+                      loading="eager" fetchPriority="high"
                     />
                     <div className="absolute top-4 left-4 bg-blue-950/90 text-white text-xs font-bold px-3 py-1.5 rounded-full shadow-md backdrop-blur-xs flex items-center gap-1.5">
                       <Sparkles className="w-3.5 h-3.5 text-amber-300" />

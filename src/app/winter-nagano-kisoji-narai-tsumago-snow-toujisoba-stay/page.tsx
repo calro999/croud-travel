@@ -273,7 +273,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/182769/182769.jpg" 
             alt="冬の木曽路・雪化粧の奈良井宿" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         

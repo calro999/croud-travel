@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/tokyo-shikoku-takamatsu-bus-vs-shinkansen-guide/" },
-  title: "東京〜高松・香川：寝台特急サンライズ vs 新幹線 vs 夜行バス徹底比較！片道5,000円〜行く本場讃岐うどん爆食1泊2日モデルコース",
+  title: "東京〜高松・香川：寝台特急サンライズ vs 新幹線 vs 夜行バス徹底比較",
   description: "東京から高松・香川へ安く行くには？新幹線（岡山乗換マリンライナー）、寝台特急サンライズ瀬戸、夜行高速バスの料金・所要時間比較！早朝6時台から本場讃岐うどんの名店巡り、栗林公園、金刀比羅宮を巡る1泊2日モデルコース。",
   keywords: ["東京〜高松", "香川", "寝台特急サンライズ", "vs", "新幹線", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: "東京〜高松・香川：寝台特急サンライズ vs 新幹線 vs 夜行バス徹底比較！片道5,000円〜行く本場讃岐うどん爆食1泊2日モデルコース",
+    title: "東京〜高松・香川：寝台特急サンライズ vs 新幹線 vs 夜行バス徹底比較",
     description: "東京から高松・香川へ安く行くには？新幹線（岡山乗換マリンライナー）、寝台特急サンライズ瀬戸、夜行高速バスの料金・所要時間比較！早朝6時台から本場讃岐うどんの名店巡り、栗林公園、金刀比羅宮を巡る1泊2日モデルコース。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "東京〜高松・香川：寝台特急サンライズ vs 新幹線 vs 夜行バス徹底比較！片道5,000円〜行く本場讃岐うどん爆食1泊2日モデルコース",
+    title: "東京〜高松・香川：寝台特急サンライズ vs 新幹線 vs 夜行バス徹底比較",
     description: "東京から高松・香川へ安く行くには？新幹線（岡山乗換マリンライナー）、寝台特急サンライズ瀬戸、夜行高速バスの料金・所要時間比較！早朝6時台から本場讃岐うどんの名店巡り、栗林公園、金刀比羅宮を巡る1泊2日モデルコース。",
   }
 };
@@ -334,7 +334,7 @@ export default function HighwayBusArticlePage() {
                         src={hotel.hotelImageUrl}
                         alt={hotel.hotelName}
                         className="w-full h-full object-cover"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     ) : (
                       <div className="w-full h-full flex items-center justify-center text-slate-400 text-xs font-bold">

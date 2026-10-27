@@ -194,7 +194,7 @@ export default function FurusatoShosenkyoYumuraAutumnLeavesStayPage() {
                         src="https://img.travel.rakuten.co.jp/share/HOTEL/9045/9045.jpg"
                         alt="信玄の湯　湯村温泉　常磐ホテル"
                         className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                     </div>
                   </div>

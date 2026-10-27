@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,690〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196889/196889.jpg" alt="アパホテル〈盛岡駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/196889/196889.jpg" alt="アパホテル〈盛岡駅前〉 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■2025年10月開業■VODアパルームシアター視聴無料■アメニティ全室設置■</p>
                   <p><strong>【所在地・アクセス】</strong>〒 岩手県盛岡市盛岡駅前通14-3 ／ 最寄り駅：盛岡 ／ 交通案内：盛岡駅（地下自由通路B4出口）徒歩1分、いわて花巻空港よりリムジンバスで50分</p>

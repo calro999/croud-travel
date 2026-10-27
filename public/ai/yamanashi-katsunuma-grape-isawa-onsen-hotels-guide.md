@@ -1,5 +1,5 @@
 ---
-title: "【山梨・笛吹市】石和温泉　華やぎの章　慶山の宿泊記＆口コミ評判｜石和温泉駅から徒歩で行ける好立地・県下最大の温泉郷の中にあっ・客室・朝食・アクセス（目安¥16,500〜）"
+title: "【山梨・笛吹市】石和温泉　華やぎの章　慶山の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/yamanashi-katsunuma-grape-isawa-onsen-hotels-guide/"
 hotel_name: "石和温泉　華やぎの章　慶山"
 prefecture: "山梨県"
@@ -10,7 +10,7 @@ review_count: 2019
 last_modified: "2026-10-18"
 ---
 
-# 【山梨・笛吹市】石和温泉　華やぎの章　慶山の宿泊記＆口コミ評判｜石和温泉駅から徒歩で行ける好立地・県下最大の温泉郷の中にあっ・客室・朝食・アクセス（目安¥16,500〜）
+# 【山梨・笛吹市】石和温泉　華やぎの章　慶山の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/yamanashi-katsunuma-grape-isawa-onsen-hotels-guide/
 - **宿泊施設・特集名**: 石和温泉　華やぎの章　慶山

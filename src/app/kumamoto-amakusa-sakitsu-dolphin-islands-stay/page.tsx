@@ -122,7 +122,7 @@ export default function Page() {
                           src="https://img.travel.rakuten.co.jp/share/HOTEL/68202/68202.jpg"
                           alt="松島温泉　天草渚亭"
                           className="w-full h-full object-cover group-hover:scale-105 transition duration-500"
-                        loading="lazy" decoding="async" />
+                        loading="eager" fetchPriority="high" decoding="async" />
                         <div className="absolute top-3 right-3 bg-stone-950/80 backdrop-blur-md px-3 py-1 rounded-full text-xs font-bold text-amber-400 border border-amber-500/30">
                           ★ 4.7 (217+件)
                         </div>

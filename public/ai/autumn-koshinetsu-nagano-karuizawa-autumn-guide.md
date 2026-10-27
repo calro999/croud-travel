@@ -1,5 +1,5 @@
 ---
-title: "【長野・北佐久】旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトンの宿泊記＆口コミ評判｜ヒルトン日本初進出のキュリオ・客室・朝食・アクセス（目安¥28,160〜）"
+title: "【長野・北佐久】旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトンの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/autumn-koshinetsu-nagano-karuizawa-autumn-guide/"
 hotel_name: "旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン"
 prefecture: "長野県"
@@ -10,7 +10,7 @@ review_count: 210
 last_modified: "2026-10-18"
 ---
 
-# 【長野・北佐久】旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトンの宿泊記＆口コミ評判｜ヒルトン日本初進出のキュリオ・客室・朝食・アクセス（目安¥28,160〜）
+# 【長野・北佐久】旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトンの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-koshinetsu-nagano-karuizawa-autumn-guide/
 - **宿泊施設・特集名**: 旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン

@@ -1,5 +1,5 @@
 ---
-title: "【長野・諏訪市】上諏訪温泉 しんゆ（親湯）の宿泊記＆口コミ評判｜諏訪湖畔に佇む【癒し】とおもてなしの宿◯自家源泉の湯・客室・朝食・アクセス（目安¥9,000〜）"
+title: "【長野・諏訪市】上諏訪温泉 しんゆ（親湯）の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-koshinetsu-matsutake-shinsu-guide/"
 hotel_name: "上諏訪温泉 しんゆ（親湯）"
 prefecture: "長野県"
@@ -10,7 +10,7 @@ review_count: 2168
 last_modified: "2026-10-18"
 ---
 
-# 【長野・諏訪市】上諏訪温泉 しんゆ（親湯）の宿泊記＆口コミ評判｜諏訪湖畔に佇む【癒し】とおもてなしの宿◯自家源泉の湯・客室・朝食・アクセス（目安¥9,000〜）
+# 【長野・諏訪市】上諏訪温泉 しんゆ（親湯）の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-koshinetsu-matsutake-shinsu-guide/
 - **宿泊施設・特集名**: 上諏訪温泉 しんゆ（親湯）

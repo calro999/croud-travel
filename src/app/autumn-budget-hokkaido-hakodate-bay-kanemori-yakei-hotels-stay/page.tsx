@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥2,760〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9240/9240_room.jpg" alt="ホテル函館ロイヤル　シーサイド　（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/9240/9240_room.jpg" alt="ホテル函館ロイヤル　シーサイド　（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>観光とビジネスに最適な大型シティホテル♪駐車場代無料(普通車)！夜鳴きそば提供中♪</p>
                   <p><strong>【所在地・アクセス】</strong>〒 北海道函館市大森町16-9 ／ 最寄り駅：函館 ／ 交通案内：■函館空港から車で約17分■JR函館駅から徒歩で約10分■市電松風町から徒歩3分■空港線バス大森町から徒歩2分</p>

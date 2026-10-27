@@ -198,7 +198,7 @@ export default function KyushuTravelNightsPage() {
                       src={hotel.hotelImageUrl}
                       alt={hotel.hotelName}
                       className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                      loading="lazy"
+                      loading="eager" fetchPriority="high"
                     />
                   ) : (
                     <div className="w-full h-full bg-stone-100 flex items-center justify-center text-xs text-stone-400">NO IMAGE</div>

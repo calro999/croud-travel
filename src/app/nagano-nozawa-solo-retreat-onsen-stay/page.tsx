@@ -132,7 +132,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/144509/144509.jpg"
                   alt="〜野沢温泉発祥　熊の手洗湯　唯一の宿〜　お宿てらゆ 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

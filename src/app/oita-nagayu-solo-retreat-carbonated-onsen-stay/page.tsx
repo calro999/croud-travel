@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/oita-nagayu-solo-retreat-carbonated-onsen-stay/" },
-  title: '竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり：ラムネ温泉館・芹川せせらぎ露天・豊後牛＆エノハ料理！くじゅう連山山麓厳選3宿',
+  title: "竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり：ラムネ温泉館・芹川せせらぎ露天・豊後牛＆エノハ料理",
   description: '世界有数の炭酸ガス含有量を誇る日本一の炭酸泉・大分・長湯温泉！洗練された数寄屋造りと極上会席が口コミ★4.8超の「丸長旅館」、芹川沿いの名湯露天と川端康成ゆかりの歴史を誇る名門「大丸旅館」、アットホームな湯守の温もりと良泉の「上野屋旅館」を楽天API最新データに基づき徹底比較。',
   keywords: '長湯温泉 一人旅 宿,長湯 ホテル 一人 温泉,丸長旅館 長湯,大丸旅館,上野屋旅館 長湯,長湯 炭酸泉 ひとり旅',
   openGraph: {
-    title: '竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり：ラムネ温泉館・芹川せせらぎ露天・豊後牛＆エノハ料理！くじゅう連山山麓厳選3宿',
+    title: "竹田・長湯温泉ひとり旅・世界屈指の高濃度炭酸泉おこもり：ラムネ温泉館・芹川せせらぎ露天・豊後牛＆エノハ料理",
     description: '世界有数の炭酸ガス含有量を誇る日本一の炭酸泉・大分・長湯温泉！洗練された数寄屋造りと極上会席が口コミ★4.8超の「丸長旅館」、芹川沿いの名湯露天と川端康成ゆかりの歴史を誇る名門「大丸旅館」、アットホームな湯守の温もりと良泉の「上野屋旅館」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/oita-nagayu-solo-retreat-carbonated-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -132,7 +132,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/40731/40731.jpg"
                   alt="長湯温泉　丸長旅館 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

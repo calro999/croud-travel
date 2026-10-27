@@ -6,11 +6,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/oita-solo-business-rooftop-onsen-gourmet-stay/" },
-  title: '大分出張＆豊後ソログルメ泊：大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選',
+  title: "大分出張＆豊後ソログルメ泊：大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ",
   description: 'おんせん県おおいたの県庁所在地・大分市！「JR大分駅直結・最上階21階に天空露天温泉CITY SPAてんくうを擁する」の「JR九州ホテル ブラッサム大分」、大分市中心街のランドマークホテル「ホテル日航大分 オアシスタワー」、府内町ビジネス街至近の「ダイワロイネットホテル大分」を徹底特集。',
   keywords: '大分 出張 ホテル 温泉,大分 一人旅 ホテル おすすめ,ブラッサム大分 温泉,ホテル日航大分 オアシスタワー 宿泊,大分 関アジ 関サバ ホテル',
   openGraph: {
-    title: '大分出張＆豊後ソログルメ泊：大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選',
+    title: "大分出張＆豊後ソログルメ泊：大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ",
     description: 'おんせん県おおいたの県庁所在地・大分市！「JR大分駅直結・最上階21階に天空露天温泉CITY SPAてんくうを擁する」の「JR九州ホテル ブラッサム大分」、大分市中心街のランドマークホテル「ホテル日航大分 オアシスタワー」、府内町ビジネス街至近の「ダイワロイネットホテル大分」を徹底特集。',
     url: 'https://croud-travel.pages.dev/oita-solo-business-rooftop-onsen-gourmet-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -522,7 +522,7 @@ export default function ArticlePage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥5,600〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147712/147712_room.jpg" alt="ＪＲ九州ホテルブラッサム大分 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/147712/147712_room.jpg" alt="ＪＲ九州ホテルブラッサム大分 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR大分駅より徒歩0分！地上80m「CITY SPA てんくう」ではサウナやカフェバーも楽しめます。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 大分県大分市要町1-14 ／ 最寄り駅：大分 ／ 交通案内：JR大分駅より徒歩0分！府内中央口（北口）直結で、バス乗り場も近く、観光・ビジネスの拠点に抜群のアクセス</p>

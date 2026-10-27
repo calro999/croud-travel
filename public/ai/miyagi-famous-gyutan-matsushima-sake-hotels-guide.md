@@ -1,5 +1,5 @@
 ---
-title: "【宮城・仙台市】宮城県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜仙台中心街からお車で約30分・温泉とともに楽しむ・客室・朝食・アクセス（目安¥14,000〜）"
+title: "【宮城・仙台市】宮城県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/miyagi-famous-gyutan-matsushima-sake-hotels-guide/"
 hotel_name: "宮城県 おすすめ名門ホテル・温泉旅館セレクション"
 prefecture: "宮城県"
@@ -10,7 +10,7 @@ review_count: 7117
 last_modified: "2026-10-18"
 ---
 
-# 【宮城・仙台市】宮城県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜仙台中心街からお車で約30分・温泉とともに楽しむ・客室・朝食・アクセス（目安¥14,000〜）
+# 【宮城・仙台市】宮城県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/miyagi-famous-gyutan-matsushima-sake-hotels-guide/
 - **宿泊施設・特集名**: 宮城県 おすすめ名門ホテル・温泉旅館セレクション

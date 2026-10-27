@@ -331,7 +331,7 @@ export default function WinterAkitaYuzePage() {
                       src={h.img}
                       alt={h.name}
                       className="absolute inset-0 w-full h-full object-cover"
-                    loading="lazy" decoding="async" />
+                    loading="eager" fetchPriority="high" decoding="async" />
                     <div className="absolute top-4 left-4 bg-stone-900/80 backdrop-blur-xs text-white text-xs font-bold px-3 py-1 rounded-full flex items-center gap-1.5">
                       <Star className="w-3.5 h-3.5 text-amber-400 fill-amber-400" />
                       <span>★ {h.rating}</span>

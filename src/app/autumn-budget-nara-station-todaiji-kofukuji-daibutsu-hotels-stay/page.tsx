@@ -509,7 +509,7 @@ export default function AutumnBudgetHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥4,500〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183843/183843.jpg" alt="いろはグランホテル近鉄奈良駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183843/183843.jpg" alt="いろはグランホテル近鉄奈良駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★近鉄駅４番出口徒歩２分！2022年7月1日グランドオープン【全室禁煙☆館内完全バリアフリ-】</p>
                   <p><strong>【所在地・アクセス】</strong>〒 奈良県奈良市小西町30-1 ／ 最寄り駅：近鉄奈良 ／ 交通案内：■近鉄奈良駅≪4番出口≫より【徒歩2分】　■JR奈良駅より【徒歩10分】　◆近鉄大和西大寺駅から2駅奈良駅徒歩2分</p>

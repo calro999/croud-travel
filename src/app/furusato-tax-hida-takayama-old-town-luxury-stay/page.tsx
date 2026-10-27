@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '出格子の町家と宮川朝市！飛騨高山の古い町並み徒歩圏＆とろとろ美肌温泉・最高峰飛騨牛会席名宿×ふるさと納税極上旅ガイド花兆庵・花扇・光風館',
+  title: "出格子の町家と宮川朝市",
   description: 'ミシュラン三ツ星の小京都・岐阜県飛騨高山！出格子の古い町並み、赤い中橋、宮川朝市。「本陣平野屋 花兆庵」「飛騨亭 花扇」「本陣平野屋 光風館」を、岐阜県高山市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。古い町並み徒歩1分、神代欅の木造美、A5ランク飛騨牛づくし会席を満喫。',
   keywords: ["とろとろ美肌温泉", "2026年最新", "花兆庵", "花扇", "光風館", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-hida-takayama-old-town-luxury-stay/",
   },
   openGraph: {
-    title: '出格子の町家と宮川朝市！飛騨高山の古い町並み徒歩圏＆とろとろ美肌温泉・最高峰飛騨牛会席名宿×ふるさと納税極上旅ガイド花兆庵・花扇・光風館',
+    title: "出格子の町家と宮川朝市",
     description: 'ミシュラン三ツ星の小京都・岐阜県飛騨高山！出格子の古い町並み、赤い中橋、宮川朝市。「本陣平野屋 花兆庵」「飛騨亭 花扇」「本陣平野屋 光風館」を、岐阜県高山市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。古い町並み徒歩1分、神代欅の木造美、A5ランク飛騨牛づくし会席を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-hida-takayama-old-town-luxury-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',

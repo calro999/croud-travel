@@ -332,7 +332,7 @@ export default function NaraParkKasugaWinterPage() {
                     src={hotel.img} 
                     alt={hotel.name}
                     className="w-full h-full object-cover object-center group-hover:scale-105 transition duration-500"
-                    loading="lazy"
+                    loading="eager" fetchPriority="high"
                   />
                   <div className="absolute top-4 left-4 bg-slate-900/80 backdrop-blur-md text-white text-xs font-bold px-3 py-1.5 rounded-full flex items-center gap-1.5 border border-white/20">
                     <Building className="w-3.5 h-3.5 text-emerald-400" />

@@ -525,7 +525,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥10,752〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10832/10832_heya.jpg" alt="指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10832/10832_heya.jpg" alt="指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～ 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>南九州鹿児島。薩摩半島最南端に位置するホテルからの海の眺めは最高！女性に喜ばれるホテルです</p>
                   <p><strong>【所在地・アクセス】</strong>〒 鹿児島県指宿市十二町4232-1 ／ 最寄り駅：指宿 ／ 交通案内：鹿児島空港→指宿駅　空港バス約１１０分。指宿駅→タクシー約５分。屋久島、霧島、大隅、南薩等指宿を拠点に観光がおすすめ</p>

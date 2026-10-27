@@ -1,5 +1,5 @@
 ---
-title: "【石川・七尾市】和倉温泉 お宿 すず花の宿泊記＆口コミ評判｜源泉100%和倉の湯・客室・朝食・アクセス（目安¥5,500〜）"
+title: "【石川・七尾市】和倉温泉 お宿 すず花の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-hokuriku-wajima-nodoguro-guide/"
 hotel_name: "和倉温泉 お宿 すず花"
 prefecture: "石川県"
@@ -10,7 +10,7 @@ review_count: 364
 last_modified: "2026-10-18"
 ---
 
-# 【石川・七尾市】和倉温泉 お宿 すず花の宿泊記＆口コミ評判｜源泉100%和倉の湯・客室・朝食・アクセス（目安¥5,500〜）
+# 【石川・七尾市】和倉温泉 お宿 すず花の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-hokuriku-wajima-nodoguro-guide/
 - **宿泊施設・特集名**: 和倉温泉 お宿 すず花

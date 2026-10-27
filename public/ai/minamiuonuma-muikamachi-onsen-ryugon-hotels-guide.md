@@ -1,5 +1,5 @@
 ---
-title: "【新潟・南魚沼市】南魚沼・六日町温泉 豪農の館ryugon＆名湯割烹セレクションの宿泊記＆口コミ評判｜越後湯沢の奥座敷・魚沼コシヒカリで有名な米処・客室・朝食・アクセス（目安¥10,387〜）"
+title: "【新潟・南魚沼市】南魚沼・六日町温泉 豪農の館ryugon＆名湯割烹セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/minamiuonuma-muikamachi-onsen-ryugon-hotels-guide/"
 hotel_name: "南魚沼・六日町温泉 豪農の館ryugon＆名湯割烹セレクション"
 prefecture: "新潟県"
@@ -10,7 +10,7 @@ review_count: 137
 last_modified: "2026-10-18"
 ---
 
-# 【新潟・南魚沼市】南魚沼・六日町温泉 豪農の館ryugon＆名湯割烹セレクションの宿泊記＆口コミ評判｜越後湯沢の奥座敷・魚沼コシヒカリで有名な米処・客室・朝食・アクセス（目安¥10,387〜）
+# 【新潟・南魚沼市】南魚沼・六日町温泉 豪農の館ryugon＆名湯割烹セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/minamiuonuma-muikamachi-onsen-ryugon-hotels-guide/
 - **宿泊施設・特集名**: 南魚沼・六日町温泉 豪農の館ryugon＆名湯割烹セレクション

@@ -178,7 +178,7 @@ export default function OkinawaHubPage() {
               <article key={hotel.hotelNo} className="flex flex-col justify-between border border-cyan-900/10 bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition">
                 <div>
                   <div className="aspect-video relative overflow-hidden bg-slate-100">
-                    <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover" loading="lazy" />
+                    <img src={hotel.hotelImageUrl} alt={hotel.hotelName} className="w-full h-full object-cover" loading="eager" fetchPriority="high" />
                     <span className="absolute top-2 left-2 text-[9px] font-extrabold bg-cyan-700 text-white px-2.5 py-0.5 rounded-full">恩納村・リゾート</span>
                     {hotel.hotelMinCharge > 0 && (
                       <span className="absolute bottom-2 right-2 text-[9px] font-black bg-slate-900/90 text-amber-300 px-2 py-0.5 rounded">¥{Number(hotel.hotelMinCharge).toLocaleString()}〜</span>

@@ -1,5 +1,5 @@
 ---
-title: "【長野・千曲市】戸倉上山田温泉 源泉かけ流し名宿セレクションの宿泊記＆口コミ評判｜田舎料理が自慢の宿・牛肉卸売業を姉妹店に持つ信州和牛がおすす・客室・朝食・アクセス（目安¥11,000〜）"
+title: "【長野・千曲市】戸倉上山田温泉 源泉かけ流し名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/togura-kamiyamada-onsen-source-flowing-hotels-guide/"
 hotel_name: "戸倉上山田温泉 源泉かけ流し名宿セレクション"
 prefecture: "長野県"
@@ -10,7 +10,7 @@ review_count: 171
 last_modified: "2026-10-18"
 ---
 
-# 【長野・千曲市】戸倉上山田温泉 源泉かけ流し名宿セレクションの宿泊記＆口コミ評判｜田舎料理が自慢の宿・牛肉卸売業を姉妹店に持つ信州和牛がおすす・客室・朝食・アクセス（目安¥11,000〜）
+# 【長野・千曲市】戸倉上山田温泉 源泉かけ流し名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/togura-kamiyamada-onsen-source-flowing-hotels-guide/
 - **宿泊施設・特集名**: 戸倉上山田温泉 源泉かけ流し名宿セレクション

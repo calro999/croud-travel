@@ -3,14 +3,14 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: '黒部峡谷トロッコ列車とエメラルドの清流！宇奈月温泉の断崖絶景露天風呂＆富山湾キトキト海の幸名宿×ふるさと納税極上旅ガイド延対寺荘・やまのは・延楽',
+  title: "黒部峡谷トロッコ列車とエメラルドの清流",
   description: '日本一のV字峡・黒部峡谷の玄関口！エメラルドグリーンの黒部川とトロッコ列車。「延対寺荘」「黒部・宇奈月温泉 やまのは」「宇奈月温泉 延楽」を、富山県黒部市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。渓谷露天風呂、展望棚湯、富山湾の白えび・紅ズワイガニ会席を満喫。',
   keywords: ["2026年最新", "延対寺荘", "やまのは", "延楽", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kurobe-unazuki-onsen-gorge-stay/",
   },
   openGraph: {
-    title: '黒部峡谷トロッコ列車とエメラルドの清流！宇奈月温泉の断崖絶景露天風呂＆富山湾キトキト海の幸名宿×ふるさと納税極上旅ガイド延対寺荘・やまのは・延楽',
+    title: "黒部峡谷トロッコ列車とエメラルドの清流",
     description: '日本一のV字峡・黒部峡谷の玄関口！エメラルドグリーンの黒部川とトロッコ列車。「延対寺荘」「黒部・宇奈月温泉 やまのは」「宇奈月温泉 延楽」を、富山県黒部市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。渓谷露天風呂、展望棚湯、富山湾の白えび・紅ズワイガニ会席を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kurobe-unazuki-onsen-gorge-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',

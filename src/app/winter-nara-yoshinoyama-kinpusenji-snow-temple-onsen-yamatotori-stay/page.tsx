@@ -159,7 +159,7 @@ export default function WinterFeaturePage() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kinpusenji_Yoshino_Nara02n4272.jpg/1280px-Kinpusenji_Yoshino_Nara02n4272.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="世界遺産・金峯山寺蔵王堂（吉野山修験道の総本山）"
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full space-y-3">

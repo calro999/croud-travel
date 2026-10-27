@@ -304,7 +304,7 @@ export default function SilverWeekGlampingPrivatePoolJacuzziPage() {
                     src={hotel.hotelImageUrl}
                     alt={hotel.hotelName}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                    loading="lazy"
+                    loading="eager" fetchPriority="high"
                   />
                   {hotel.hotelMinCharge && (
                     <div className="absolute bottom-3 right-3 bg-cyan-950/85 backdrop-blur-sm text-cyan-200 px-3 py-1 rounded-full text-xs font-black shadow-md border border-cyan-400/30">

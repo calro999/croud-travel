@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kanagawa-hakone-gora-solo-retreat-onsen-stay/" },
-  title: '箱根強羅温泉ひとり旅・濁り湯アートおこもり：箱根登山鉄道・大涌谷白濁温泉・創作フレンチ会席！箱根屈指の高級別荘地で癒やされる厳選3宿',
+  title: "箱根強羅温泉ひとり旅・濁り湯アートおこもり：箱根登山鉄道・大涌谷白濁温泉・創作フレンチ会席",
   description: '箱根屈指の高原リゾート・強羅！驚異の口コミ高評価と源泉掛け流し濁り湯が自慢の「コージーイン 箱根の山」、閑静な強羅の森で大人の静寂とおしゃれな和洋創作料理を味わう「強羅 風の音」、箱根外輪山を見下ろす絶景露天風呂完備の「箱根 星のあかり」を楽天API最新データに基づき徹底比較。',
   keywords: '強羅温泉 一人旅 宿,強羅 ホテル 一人 温泉,コージーイン箱根の山,強羅 風の音,箱根 星のあかり,強羅 濁り湯 ひとり旅',
   openGraph: {
-    title: '箱根強羅温泉ひとり旅・濁り湯アートおこもり：箱根登山鉄道・大涌谷白濁温泉・創作フレンチ会席！箱根屈指の高級別荘地で癒やされる厳選3宿',
+    title: "箱根強羅温泉ひとり旅・濁り湯アートおこもり：箱根登山鉄道・大涌谷白濁温泉・創作フレンチ会席",
     description: '箱根屈指の高原リゾート・強羅！驚異の口コミ高評価と源泉掛け流し濁り湯が自慢の「コージーイン 箱根の山」、閑静な強羅の森で大人の静寂とおしゃれな和洋創作料理を味わう「強羅 風の音」、箱根外輪山を見下ろす絶景露天風呂完備の「箱根 星のあかり」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/kanagawa-hakone-gora-solo-retreat-onsen-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -132,7 +132,7 @@ export default function ArticlePage() {
                   src="https://img.travel.rakuten.co.jp/share/HOTEL/37475/37475.jpg"
                   alt="箱根強羅温泉　コージーイン　箱根の山 外観・館内"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
             </div>

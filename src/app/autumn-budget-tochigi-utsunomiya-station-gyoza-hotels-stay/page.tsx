@@ -489,7 +489,7 @@ export default function AutumnBudgetUtsunomiyaStationHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥2,820〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/199220/199220.jpg" alt="ほてる寛楽プレミア　宇都宮駅東口（２０２６年７月３日ＯＰＥＮ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/199220/199220.jpg" alt="ほてる寛楽プレミア　宇都宮駅東口（２０２６年７月３日ＯＰＥＮ） 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2026年7月オープン。宇都宮駅東口徒歩7分、地元食材を活かした朝食と、大浴場で寛ぐステイを。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 栃木県宇都宮市元今泉1-2-2 ／ 最寄り駅：宇都宮 ／ 交通案内：JR宇都宮駅東口より徒歩7分</p>

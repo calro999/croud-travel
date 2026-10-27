@@ -508,7 +508,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥2,802〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/176593/176593_kan1.jpg" alt="グランドベース別府駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/176593/176593_kan1.jpg" alt="グランドベース別府駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ＪＲ別府駅まで徒歩５分！アパートタイプの最新ホテル「グランドベース別府駅前」</p>
                   <p><strong>【所在地・アクセス】</strong>〒 大分県別府市田の湯町8-7-1 ／ 最寄り駅：別府（大分） ／ 交通案内：ＪＲ　別府駅より徒歩にて約５分</p>

@@ -344,7 +344,7 @@ export default function IwateMoriokaPage() {
                       src={hotel.img} 
                       alt={hotel.name}
                       className="w-full h-full object-cover"
-                      loading="lazy"
+                      loading="eager" fetchPriority="high"
                     />
                     <div className="absolute top-3 left-3 bg-slate-950/80 text-white text-xs px-2.5 py-1 rounded-full font-bold">
                       厳選宿 #{hotel.id}

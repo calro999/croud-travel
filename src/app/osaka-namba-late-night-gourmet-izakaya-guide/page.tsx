@@ -287,7 +287,7 @@ export default function OsakaNambaLateNightGuidePage() {
                           src={hotel.hotelImageUrl}
                           alt={hotel.hotelName}
                           className="w-full h-full object-cover hover:scale-105 transition-transform duration-300 opacity-90 hover:opacity-100"
-                        loading="lazy" decoding="async" />
+                        loading="eager" fetchPriority="high" decoding="async" />
                         {hotel.nearestStation && (
                           <div className="absolute top-2 left-2 bg-slate-950/80 backdrop-blur-sm text-slate-200 text-[11px] px-2 py-0.5 rounded font-medium border border-slate-700">
                             最寄: {hotel.nearestStation}

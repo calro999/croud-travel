@@ -1,5 +1,5 @@
 ---
-title: "【栃木・日光市】奥日光湯元温泉　ゆの森の宿泊記＆口コミ評判｜天然温泉100％のにごり湯掛流しの露天風呂付・美食＆名湯のス・客室・朝食・アクセス（目安¥41,800〜）"
+title: "【栃木・日光市】奥日光湯元温泉　ゆの森の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/okunikko-yumoto-onsen-sulfur-springs-guide/"
 hotel_name: "奥日光湯元温泉　ゆの森"
 prefecture: "栃木県"
@@ -10,7 +10,7 @@ review_count: 116
 last_modified: "2026-10-18"
 ---
 
-# 【栃木・日光市】奥日光湯元温泉　ゆの森の宿泊記＆口コミ評判｜天然温泉100％のにごり湯掛流しの露天風呂付・美食＆名湯のス・客室・朝食・アクセス（目安¥41,800〜）
+# 【栃木・日光市】奥日光湯元温泉　ゆの森の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/okunikko-yumoto-onsen-sulfur-springs-guide/
 - **宿泊施設・特集名**: 奥日光湯元温泉　ゆの森

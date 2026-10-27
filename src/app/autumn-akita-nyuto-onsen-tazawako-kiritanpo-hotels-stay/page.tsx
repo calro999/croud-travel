@@ -447,7 +447,7 @@ export default function NyutoOnsenAutumnPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥15,500〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72803/72803_wa.jpg" alt="休暇村　乳頭温泉郷 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/72803/72803_wa.jpg" alt="休暇村　乳頭温泉郷 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>美しいブナ林に囲まれた静かな宿です。温泉浴や森林浴が楽しめ、ここでは時間がゆっくりと流れています。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 秋田県仙北市田沢湖生保内駒ヶ岳2-1 ／ 最寄り駅：田沢湖 ／ 交通案内：ＪＲ　田沢湖駅より羽後交通乳頭温泉行「休暇村」下車、徒歩０分</p>

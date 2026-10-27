@@ -1,5 +1,5 @@
 ---
-title: "【宮城・仙台市】仙台 秋保温泉 ホテル瑞鳳の宿泊記＆口コミ評判｜仙台中心街からお車で約30分・温泉とともに楽しむ・客室・朝食・アクセス（目安¥14,000〜）"
+title: "【宮城・仙台市】仙台 秋保温泉 ホテル瑞鳳の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/autumn-tohoku-salmon-gourmet-guide/"
 hotel_name: "仙台 秋保温泉 ホテル瑞鳳"
 prefecture: "宮城県"
@@ -10,7 +10,7 @@ review_count: 7117
 last_modified: "2026-10-18"
 ---
 
-# 【宮城・仙台市】仙台 秋保温泉 ホテル瑞鳳の宿泊記＆口コミ評判｜仙台中心街からお車で約30分・温泉とともに楽しむ・客室・朝食・アクセス（目安¥14,000〜）
+# 【宮城・仙台市】仙台 秋保温泉 ホテル瑞鳳の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-tohoku-salmon-gourmet-guide/
 - **宿泊施設・特集名**: 仙台 秋保温泉 ホテル瑞鳳

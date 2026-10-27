@@ -414,7 +414,7 @@ export default function AutumnBudgetKushiroHotelsPage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥3,600〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/126/126_sgl.jpg" alt="ホテル法華クラブ函館 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/126/126_sgl.jpg" alt="ホテル法華クラブ函館 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>函館郷土料理が豊富な朝食バイキングを是非■人工温泉準天然《光明石温泉》完備！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 北海道函館市本町27-1 ／ 最寄り駅：函館 ／ 交通案内：函館駅からタクシーで約10分、函館空港からタクシーで約15分。市電五稜郭公園前から徒歩1分。</p>

@@ -273,7 +273,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/166325/166325.jpg" 
             alt="冬の八戸港と太平洋の荒波・蕪島神社" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         

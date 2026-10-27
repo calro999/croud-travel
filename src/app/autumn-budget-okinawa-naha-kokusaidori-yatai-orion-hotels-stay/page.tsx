@@ -508,7 +508,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥2,975〜</span>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
-                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/166949/166949_kan1.jpg" alt="ワイズキャビン＆ホテル那覇国際通り 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
+                <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/166949/166949_kan1.jpg" alt="ワイズキャビン＆ホテル那覇国際通り 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ゆったり寛げる男女別サウナ付大浴場併設！キャビン・洋室・和室と幅広いラインナップ！！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 沖縄県那覇市久茂地3-9-18 ／ 最寄り駅：主要駅 ／ 交通案内：ゆいレール県庁前駅徒歩３分</p>

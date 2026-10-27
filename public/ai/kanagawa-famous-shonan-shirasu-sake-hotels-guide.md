@@ -1,5 +1,5 @@
 ---
-title: "【神奈川・足柄下】神奈川県 箱根名湯＆横浜夜景おすすめ名宿セレクションの宿泊記＆口コミ評判｜５本の源泉持ち・良質の温泉が楽しめる宿・客室・朝食・アクセス（目安¥13,600〜）"
+title: "【神奈川・足柄下】神奈川県 箱根名湯＆横浜夜景おすすめ名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
 url: "https://croud-travel.pages.dev/posts/kanagawa-famous-shonan-shirasu-sake-hotels-guide/"
 hotel_name: "神奈川県 箱根名湯＆横浜夜景おすすめ名宿セレクション"
 prefecture: "神奈川県"
@@ -10,7 +10,7 @@ review_count: 1836
 last_modified: "2026-10-18"
 ---
 
-# 【神奈川・足柄下】神奈川県 箱根名湯＆横浜夜景おすすめ名宿セレクションの宿泊記＆口コミ評判｜５本の源泉持ち・良質の温泉が楽しめる宿・客室・朝食・アクセス（目安¥13,600〜）
+# 【神奈川・足柄下】神奈川県 箱根名湯＆横浜夜景おすすめ名宿セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 
 - **URL**: https://croud-travel.pages.dev/posts/kanagawa-famous-shonan-shirasu-sake-hotels-guide/
 - **宿泊施設・特集名**: 神奈川県 箱根名湯＆横浜夜景おすすめ名宿セレクション

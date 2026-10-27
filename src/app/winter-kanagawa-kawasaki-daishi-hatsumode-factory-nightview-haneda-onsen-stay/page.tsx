@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     canonical: "https://croud-travel.pages.dev/winter-kanagawa-kawasaki-daishi-hatsumode-factory-nightview-haneda-onsen-stay/",
   },
 
-  title: '初詣300万人の厄除け霊場・川崎大師と幻想の工場夜景：2026-2027年冬の神奈川・川崎＆羽田！黒湯天然温泉と特選牛名宿5選 | 旅行キュレーション',
+  title: "初詣300万人の厄除け霊場・川崎大師と幻想の工場夜景：2026-2027年冬の神奈川・川崎＆羽田",
   description: '全国有数の初詣参拝者を誇る厄除け大本山「川崎大師（平間寺）」新春初詣！冬の澄んだ夜空に浮かび上がる「川崎工場夜景クルーズ」と羽田空港を望む展望天然温泉、名物久寿餅と上質ディナーを満喫する冬の厳選名宿5選。',
   keywords: ['川崎・羽田・京浜', '冬旅行', '新春初詣', '温泉', '名宿', '神奈川県観光', '楽天トラベル', 'ふるさと納税'],
   openGraph: {
@@ -332,7 +332,7 @@ export default function Page() {
                   src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Kawasaki_Daishi_-_2024_Oct_1_various_19_07_54_558000.jpeg/1280px-Kawasaki_Daishi_-_2024_Oct_1_various_19_07_54_558000.jpeg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
                   alt="厄除弘法大師・金剛山金乗院平間寺（川崎大師・新春初詣300万人の大本山）"
                   className="w-full h-full object-cover"
-                  loading="lazy"
+                  loading="eager" fetchPriority="high"
                 />
               </div>
               <div className="w-full space-y-3">

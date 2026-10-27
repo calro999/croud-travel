@@ -1,5 +1,5 @@
 ---
-title: "【群馬・吾妻】万座温泉 日進舘の宿泊記＆口コミ評判｜得旅キャンペーン実施中・客室・朝食・アクセス（目安¥7,970〜）"
+title: "【群馬・吾妻】万座温泉 日進舘の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
 url: "https://croud-travel.pages.dev/posts/manza-nisshinkan-guide/"
 hotel_name: "万座温泉 日進舘"
 prefecture: "群馬県"
@@ -10,7 +10,7 @@ review_count: 2592
 last_modified: "2026-10-18"
 ---
 
-# 【群馬・吾妻】万座温泉 日進舘の宿泊記＆口コミ評判｜得旅キャンペーン実施中・客室・朝食・アクセス（目安¥7,970〜）
+# 【群馬・吾妻】万座温泉 日進舘の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
 
 - **URL**: https://croud-travel.pages.dev/posts/manza-nisshinkan-guide/
 - **宿泊施設・特集名**: 万座温泉 日進舘

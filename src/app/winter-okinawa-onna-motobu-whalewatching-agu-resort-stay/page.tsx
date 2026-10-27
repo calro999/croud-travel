@@ -273,7 +273,7 @@ export default function OkinawaOnnaMotobuWinterPage() {
             src="https://img.travel.rakuten.co.jp/share/HOTEL/172611/172611.jpg" 
             alt="冬のエメラルドグリーンの沖縄恩納村の海" 
             className="w-full h-full object-cover"
-          loading="lazy" decoding="async" />
+          loading="eager" fetchPriority="high" decoding="async" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-900/60 to-transparent" />
         

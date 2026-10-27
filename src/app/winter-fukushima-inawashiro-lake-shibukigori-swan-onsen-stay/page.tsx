@@ -308,7 +308,7 @@ export default function FukushimaInawashiroBandaiWinterPage() {
                         src={h.img} 
                         alt={h.name}
                         className="w-full h-full object-cover"
-                        loading="lazy"
+                        loading="eager" fetchPriority="high"
                       />
                       <div className="absolute top-3 left-3 bg-slate-900/80 backdrop-blur-sm text-white px-2.5 py-1 rounded-md text-xs font-bold">
                         第{h.id}位
