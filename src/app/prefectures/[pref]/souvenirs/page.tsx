@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: { params: Promise<{ pref: str
     openGraph: {
       title: `${prefInfo.name}の人気お土産・銘菓・名物おすすめ比較ランキング`,
       description: `${prefInfo.name}の失敗しない名物お土産・銘菓をプロが徹底比較！`,
-      url: `${baseUrl}/prefectures/${prefInfo.slug}/souvenirs`,
+      url: `${baseUrl}/prefectures/${prefInfo.slug}/souvenirs/`,
       siteName: "旅宿クラウド",
       images: prefInfo.bannerImage ? [{ url: prefInfo.bannerImage, alt: `${prefInfo.name} お土産` }] : [],
     },
@@ -50,8 +50,8 @@ export default async function PrefectureSouvenirsPage({ params }: { params: Prom
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": baseUrl },
       { "@type": "ListItem", "position": 2, "name": "都道府県一覧", "item": `${baseUrl}/prefectures` },
-      { "@type": "ListItem", "position": 3, "name": `${prefInfo.name}観光ハブ`, "item": `${baseUrl}/prefectures/${prefInfo.slug}` },
-      { "@type": "ListItem", "position": 4, "name": `${prefInfo.name}お土産・銘菓特集`, "item": `${baseUrl}/prefectures/${prefInfo.slug}/souvenirs` }
+      { "@type": "ListItem", "position": 3, "name": `${prefInfo.name}観光ハブ`, "item": `${baseUrl}/prefectures/${prefInfo.slug}/` },
+      { "@type": "ListItem", "position": 4, "name": `${prefInfo.name}お土産・銘菓特集`, "item": `${baseUrl}/prefectures/${prefInfo.slug}/souvenirs/` }
     ]
   };
 

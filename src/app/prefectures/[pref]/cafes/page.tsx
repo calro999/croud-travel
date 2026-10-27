@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: { params: Promise<{ pref: str
     openGraph: {
       title: `${prefInfo.name}のおすすめ絶景＆レトロカフェ・スイーツ比較ランキング`,
       description: `${prefInfo.name}で絶対行きたいカフェ・スイーツの名店をプロが徹底比較！`,
-      url: `${baseUrl}/prefectures/${prefInfo.slug}/cafes`,
+      url: `${baseUrl}/prefectures/${prefInfo.slug}/cafes/`,
       siteName: "旅宿クラウド",
       images: prefInfo.bannerImage ? [{ url: prefInfo.bannerImage, alt: `${prefInfo.name} カフェ` }] : [],
     },
@@ -50,8 +50,8 @@ export default async function PrefectureCafesPage({ params }: { params: Promise<
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": baseUrl },
       { "@type": "ListItem", "position": 2, "name": "都道府県一覧", "item": `${baseUrl}/prefectures` },
-      { "@type": "ListItem", "position": 3, "name": `${prefInfo.name}観光ハブ`, "item": `${baseUrl}/prefectures/${prefInfo.slug}` },
-      { "@type": "ListItem", "position": 4, "name": `${prefInfo.name}カフェ・スイーツ特集`, "item": `${baseUrl}/prefectures/${prefInfo.slug}/cafes` }
+      { "@type": "ListItem", "position": 3, "name": `${prefInfo.name}観光ハブ`, "item": `${baseUrl}/prefectures/${prefInfo.slug}/` },
+      { "@type": "ListItem", "position": 4, "name": `${prefInfo.name}カフェ・スイーツ特集`, "item": `${baseUrl}/prefectures/${prefInfo.slug}/cafes/` }
     ]
   };
 

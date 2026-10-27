@@ -9,13 +9,13 @@ export const metadata: Metadata = {
   openGraph: {
     title: `【天孫降臨の地・霧島連山と天降川渓流の極上源泉離れ宿】2026-2027年11-12月の鹿児島・霧島＆妙見温泉！「妙見石原荘」＆「忘れの里 雅叙苑」・自噴かけ流し温泉と黒毛和牛・黒豚名宿5選`,
     description: `雄大な霧島連山の麓、天降川（あもりがわ）の清流沿いに湧き出る妙見温泉と霧島温泉郷。茅葺き屋根の古民家が点在し囲炉裏料理と自家源泉が名高い「忘れの里 雅叙苑」や、川床に湧く極上の自噴炭酸泉と洗練されたモダン懐石を誇る「妙見石原荘」。南国の初冬の澄んだ大気と極上の湯浴み、鹿児島黒牛・黒豚の贅沢を味わう至高の記念日ステイ厳選5選。`,
-    url: `https://travel.navitime.jp.net/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay`,
+    url: `https://croud-travel.pages.dev/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay/`,
     siteName: 'トラベルNAVI',
     locale: 'ja_JP',
     type: 'article',
   },
   alternates: {
-    canonical: `https://travel.navitime.jp.net/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay`,
+    canonical: `https://croud-travel.pages.dev/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay/`,
   },
 };
 
@@ -58,19 +58,19 @@ export default function LuxuryStayPage() {
       "@type": "ListItem",
       "position": 1,
       "name": "ホーム",
-      "item": "https://travel.navitime.jp.net"
+      "item": "https://croud-travel.pages.dev"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "鹿児島県",
-      "item": "https://travel.navitime.jp.net/prefectures/kagoshima"
+      "item": "https://croud-travel.pages.dev/prefectures/kagoshima/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "【天孫降臨の地・霧島連山と天降川渓流の極上源泉離れ宿】2026-2027年11-12月の鹿児島・霧島＆妙見温泉！「妙見石原荘」＆「忘れの里 雅叙苑」・自噴かけ流し温泉と黒毛和牛・黒豚名宿5選",
-      "item": "https://travel.navitime.jp.net/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay"
+      "item": "https://croud-travel.pages.dev/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay/"
     }
   ]
 };
@@ -636,28 +636,28 @@ export default function LuxuryStayPage() {
             <ul className="grid grid-cols-1 md:grid-cols-2 gap-4">
               
           <li className="bg-white p-4 rounded-xl border border-slate-200/80 shadow-sm hover:shadow-md transition flex items-center justify-between">
-            <a href="https://travel.navitime.jp.net/winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay" className="font-bold text-slate-800 hover:text-amber-600 text-sm md:text-base">
+            <a href="/winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay/" className="font-bold text-slate-800 hover:text-amber-600 text-sm md:text-base">
               三重・志摩英虞湾の最高級露天離れと伊勢海老・松阪牛名宿
             </a>
             <span className="text-amber-500 text-sm font-bold ml-2">→</span>
           </li>
 
           <li className="bg-white p-4 rounded-xl border border-slate-200/80 shadow-sm hover:shadow-md transition flex items-center justify-between">
-            <a href="https://travel.navitime.jp.net/winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay" className="font-bold text-slate-800 hover:text-amber-600 text-sm md:text-base">
+            <a href="/winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay/" className="font-bold text-slate-800 hover:text-amber-600 text-sm md:text-base">
               山梨・富士河口湖の富士山ビュー露天スイートと甲州牛名宿
             </a>
             <span className="text-amber-500 text-sm font-bold ml-2">→</span>
           </li>
 
           <li className="bg-white p-4 rounded-xl border border-slate-200/80 shadow-sm hover:shadow-md transition flex items-center justify-between">
-            <a href="https://travel.navitime.jp.net/winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay" className="font-bold text-slate-800 hover:text-amber-600 text-sm md:text-base">
+            <a href="/winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay/" className="font-bold text-slate-800 hover:text-amber-600 text-sm md:text-base">
               熊本・黒川温泉＆瀬の本の極上隠れ宿離れと阿蘇あか牛名宿
             </a>
             <span className="text-amber-500 text-sm font-bold ml-2">→</span>
           </li>
 
           <li className="bg-white p-4 rounded-xl border border-slate-200/80 shadow-sm hover:shadow-md transition flex items-center justify-between">
-            <a href="https://travel.navitime.jp.net/winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay" className="font-bold text-slate-800 hover:text-amber-600 text-sm md:text-base">
+            <a href="/winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay/" className="font-bold text-slate-800 hover:text-amber-600 text-sm md:text-base">
               京都・丹後間人の幻の間人ガニ創業明治名宿と極上松葉ガニ
             </a>
             <span className="text-amber-500 text-sm font-bold ml-2">→</span>

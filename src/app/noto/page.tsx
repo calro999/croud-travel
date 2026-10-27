@@ -71,7 +71,7 @@ export default function NotoGuidePage() {
     "@type": "BreadcrumbList",
     itemListElement: [
       { "@type": "ListItem", position: 1, name: "ホーム", item: baseUrl },
-      { "@type": "ListItem", position: 2, name: "石川県 観光ガイド", item: `${baseUrl}/prefectures/ishikawa` },
+      { "@type": "ListItem", position: 2, name: "石川県 観光ガイド", item: `${baseUrl}/prefectures/ishikawa/` },
       { "@type": "ListItem", position: 3, name: "能登旅行 完全計画ガイド", item: `${baseUrl}/noto` },
     ],
   };

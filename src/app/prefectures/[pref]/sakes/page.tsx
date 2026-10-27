@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: { params: Promise<{ pref: str
     openGraph: {
       title: `${prefInfo.name}の銘酒・地酒・日本酒＆名醸蔵おすすめ比較ランキング`,
       description: `${prefInfo.name}の失敗しない地酒・名醸蔵をプロが徹底比較！`,
-      url: `${baseUrl}/prefectures/${prefInfo.slug}/sakes`,
+      url: `${baseUrl}/prefectures/${prefInfo.slug}/sakes/`,
       siteName: "旅宿クラウド",
       images: prefInfo.bannerImage ? [{ url: prefInfo.bannerImage, alt: `${prefInfo.name} 地酒` }] : [],
     },
@@ -50,8 +50,8 @@ export default async function PrefectureSakesPage({ params }: { params: Promise<
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": baseUrl },
       { "@type": "ListItem", "position": 2, "name": "都道府県一覧", "item": `${baseUrl}/prefectures` },
-      { "@type": "ListItem", "position": 3, "name": `${prefInfo.name}観光ハブ`, "item": `${baseUrl}/prefectures/${prefInfo.slug}` },
-      { "@type": "ListItem", "position": 4, "name": `${prefInfo.name}地酒・日本酒特集`, "item": `${baseUrl}/prefectures/${prefInfo.slug}/sakes` }
+      { "@type": "ListItem", "position": 3, "name": `${prefInfo.name}観光ハブ`, "item": `${baseUrl}/prefectures/${prefInfo.slug}/` },
+      { "@type": "ListItem", "position": 4, "name": `${prefInfo.name}地酒・日本酒特集`, "item": `${baseUrl}/prefectures/${prefInfo.slug}/sakes/` }
     ]
   };
 

@@ -108,7 +108,7 @@ export default function Home() {
       "@type": "ListItem",
       position: idx + 1,
       name: post.hotel_name,
-      url: `${baseUrl}/posts/${post.id}`,
+      url: `${baseUrl}/posts/${post.id}/`,
     })),
   };
 

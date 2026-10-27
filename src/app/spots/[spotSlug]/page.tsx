@@ -54,7 +54,7 @@ export async function generateMetadata({ params }: { params: Promise<{ spotSlug:
     openGraph: {
       title: `【${spot.name} 徹底解説】見どころ・アクセス＆近くのおすすめホテル宿ガイド`,
       description: spot.description,
-      url: `${baseUrl}/spots/${spot.slug}`,
+      url: `${baseUrl}/spots/${spot.slug}/`,
       siteName: "日本全国・旅宿クラウド",
     },
   };
@@ -118,9 +118,9 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": baseUrl },
-      { "@type": "ListItem", "position": 2, "name": `${spot.prefName}観光ガイド`, "item": `${baseUrl}/prefectures/${spot.prefSlug}` },
-      { "@type": "ListItem", "position": 3, "name": `${spot.cityName} 観光`, "item": `${baseUrl}/prefectures/${spot.prefSlug}/${spot.citySlug}` },
-      { "@type": "ListItem", "position": 4, "name": `${spot.name} 徹底解説`, "item": `${baseUrl}/spots/${spot.slug}` }
+      { "@type": "ListItem", "position": 2, "name": `${spot.prefName}観光ガイド`, "item": `${baseUrl}/prefectures/${spot.prefSlug}/` },
+      { "@type": "ListItem", "position": 3, "name": `${spot.cityName} 観光`, "item": `${baseUrl}/prefectures/${spot.prefSlug}/${spot.citySlug}/` },
+      { "@type": "ListItem", "position": 4, "name": `${spot.name} 徹底解説`, "item": `${baseUrl}/spots/${spot.slug}/` }
     ]
   };
 

@@ -73,7 +73,7 @@ export default function KyotoHubPage() {
     "@type": "BreadcrumbList",
     itemListElement: [
       { "@type": "ListItem", position: 1, name: "ホーム", item: baseUrl },
-      { "@type": "ListItem", position: 2, name: "京都府 観光ハブ", item: `${baseUrl}/prefectures/kyoto` },
+      { "@type": "ListItem", position: 2, name: "京都府 観光ハブ", item: `${baseUrl}/prefectures/kyoto/` },
       { "@type": "ListItem", position: 3, name: "京都旅行 完全ガイド", item: `${baseUrl}/kyoto` },
     ],
   };

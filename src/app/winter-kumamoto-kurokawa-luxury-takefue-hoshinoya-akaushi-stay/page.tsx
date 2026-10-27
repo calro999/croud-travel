@@ -9,13 +9,13 @@ export const metadata: Metadata = {
   openGraph: {
     title: `【阿蘇の静寂と湯煙に抱かれる極上隠れ宿離れ】2026-2027年11-12月初冬の熊本・黒川温泉＆瀬の本！「深山山荘」＆「山あいの宿 山みず木」・初冬の静寂と阿蘇あか牛懐石名宿5選`,
     description: `阿蘇外輪山の北麓、幽玄な渓谷に湯煙が立ちのぼる黒川温泉郷と瀬の本高原。渓流沿いの大自然に抱かれた「黒川温泉 山みず木別邸 深山山荘」や、野趣あふれる名湯と至高のホスピタリティを誇る「山あいの宿 山みず木」、茅葺きや古民家造りの大人の隠れ家リゾート。冬枯れの美しい自然景観と、とろける阿蘇あか牛や郷土会席を五感で味わう至高の贅沢ステイ厳選5選。`,
-    url: `https://travel.navitime.jp.net/winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay`,
+    url: `https://croud-travel.pages.dev/winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay/`,
     siteName: 'トラベルNAVI',
     locale: 'ja_JP',
     type: 'article',
   },
   alternates: {
-    canonical: `https://travel.navitime.jp.net/winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay`,
+    canonical: `https://croud-travel.pages.dev/winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay/`,
   },
 };
 
@@ -58,19 +58,19 @@ export default function LuxuryStayPage() {
       "@type": "ListItem",
       "position": 1,
       "name": "ホーム",
-      "item": "https://travel.navitime.jp.net"
+      "item": "https://croud-travel.pages.dev"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "熊本県",
-      "item": "https://travel.navitime.jp.net/prefectures/kumamoto"
+      "item": "https://croud-travel.pages.dev/prefectures/kumamoto/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "【阿蘇の静寂と湯煙に抱かれる極上隠れ宿離れ】2026-2027年11-12月初冬の熊本・黒川温泉＆瀬の本！「深山山荘」＆「山あいの宿 山みず木」・初冬の静寂と阿蘇あか牛懐石名宿5選",
-      "item": "https://travel.navitime.jp.net/winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay"
+      "item": "https://croud-travel.pages.dev/winter-kumamoto-kurokawa-luxury-takefue-hoshinoya-akaushi-stay/"
     }
   ]
 };
@@ -636,28 +636,28 @@ export default function LuxuryStayPage() {
             <ul className="grid grid-cols-1 md:grid-cols-2 gap-4">
               
           <li className="bg-white p-4 rounded-xl border border-slate-200/80 shadow-sm hover:shadow-md transition flex items-center justify-between">
-            <a href="https://travel.navitime.jp.net/winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay" className="font-bold text-slate-800 hover:text-amber-600 text-sm md:text-base">
+            <a href="/winter-mie-ago-bay-luxury-basara-shimanokaze-matsusaka-stay/" className="font-bold text-slate-800 hover:text-amber-600 text-sm md:text-base">
               三重・志摩英虞湾の最高級露天離れと伊勢海老・松阪牛名宿
             </a>
             <span className="text-amber-500 text-sm font-bold ml-2">→</span>
           </li>
 
           <li className="bg-white p-4 rounded-xl border border-slate-200/80 shadow-sm hover:shadow-md transition flex items-center justify-between">
-            <a href="https://travel.navitime.jp.net/winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay" className="font-bold text-slate-800 hover:text-amber-600 text-sm md:text-base">
+            <a href="/winter-yamanashi-kawaguchiko-luxury-fufu-konansou-fuji-stay/" className="font-bold text-slate-800 hover:text-amber-600 text-sm md:text-base">
               山梨・富士河口湖の富士山ビュー露天スイートと甲州牛名宿
             </a>
             <span className="text-amber-500 text-sm font-bold ml-2">→</span>
           </li>
 
           <li className="bg-white p-4 rounded-xl border border-slate-200/80 shadow-sm hover:shadow-md transition flex items-center justify-between">
-            <a href="https://travel.navitime.jp.net/winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay" className="font-bold text-slate-800 hover:text-amber-600 text-sm md:text-base">
+            <a href="/winter-kyoto-tango-taizagani-luxury-sumihei-amadori-matsuba-stay/" className="font-bold text-slate-800 hover:text-amber-600 text-sm md:text-base">
               京都・丹後間人の幻の間人ガニ創業明治名宿と極上松葉ガニ
             </a>
             <span className="text-amber-500 text-sm font-bold ml-2">→</span>
           </li>
 
           <li className="bg-white p-4 rounded-xl border border-slate-200/80 shadow-sm hover:shadow-md transition flex items-center justify-between">
-            <a href="https://travel.navitime.jp.net/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay" className="font-bold text-slate-800 hover:text-amber-600 text-sm md:text-base">
+            <a href="/winter-kagoshima-kirishima-myoken-luxury-gajin-ishiharaso-kurobuta-stay/" className="font-bold text-slate-800 hover:text-amber-600 text-sm md:text-base">
               鹿児島・霧島妙見温泉の自噴炭酸泉離れと鹿児島黒牛・黒豚名宿
             </a>
             <span className="text-amber-500 text-sm font-bold ml-2">→</span>
