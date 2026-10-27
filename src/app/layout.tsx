@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import Script from "next/script";
 import Link from "next/link";
 import TravelBanner from "./components/TravelBanner";
@@ -70,6 +70,13 @@ export const metadata: Metadata = {
   },
 };
 
+export const viewport: Viewport = {
+  themeColor: "#042f2e",
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 5,
+};
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -78,6 +85,7 @@ export default function RootLayout({
   return (
     <html lang="ja" className="h-full">
       <head>
+        <link rel="manifest" href="/manifest.json" />
         <link rel="alternate" type="application/rss+xml" title="旅宿クラウド 新着記事" href="/feed.xml" />
         <link rel="alternate" type="text/plain" title="llms.txt" href="/llms.txt" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
