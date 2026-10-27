@@ -203,6 +203,9 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
 
   const allPosts = loadAllPosts();
   const isoDate = post.date ? `${post.date.split(" ")[0]}T09:00:00+09:00` : "2026-10-18T09:00:00+09:00";
+  const absoluteImageUrl = post.image
+    ? (post.image.startsWith("http") ? post.image : `${baseUrl}${post.image.startsWith("/") ? "" : "/"}${post.image}`)
+    : undefined;
 
   // Structured Data (JSON-LD): Article + LodgingBusiness / ItemList + Breadcrumb + FAQPage
   const jsonLdArticle = {
@@ -210,7 +213,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
     "@type": "Article",
     "headline": post.title,
     "description": post.description || post.title,
-    "image": post.image ? [post.image] : [],
+    "image": absoluteImageUrl ? [absoluteImageUrl] : [],
     "datePublished": isoDate,
     "dateModified": isoDate,
     "author": {
@@ -234,7 +237,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
     "@type": "LodgingBusiness",
     "name": post.hotel_name,
     "description": post.description || post.title,
-    "image": post.image || undefined,
+    "image": absoluteImageUrl,
     "url": `${baseUrl}/posts/${post.id}/`,
     "address": {
       "@type": "PostalAddress",
