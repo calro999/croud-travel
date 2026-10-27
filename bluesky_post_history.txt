@@ -169,3 +169,4 @@ showcase_oita
 japan-local-sake-brewery-onsen-hotels-guide
 showcase_miyagi
 matsue-shinji-lake-mihonoseki-hotels-guide
+showcase_okinawa
