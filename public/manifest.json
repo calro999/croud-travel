@@ -1,0 +1,22 @@
+{
+  "name": "日本全国・旅宿クラウド",
+  "short_name": "旅宿クラウド",
+  "description": "楽天トラベルでめぐる厳選温泉宿・観光マガジン。47都道府県の厳選ホテル・旅館宿泊記。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#042f2e",
+  "theme_color": "#042f2e",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

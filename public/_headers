@@ -1,4 +1,35 @@
-# https://developers.cloudflare.com/workers/static-assets/headers
-# https://opennext.js.org/cloudflare/caching#static-assets-caching
+# Cloudflare Pages HTTP Headers Configuration
+# Optimized for Core Web Vitals, Security, and Crawler Performance
+
+# 1. Next.js Immutable Static Chunks & Build Assets
 /_next/static/*
   Cache-Control: public,max-age=31536000,immutable
+
+# 2. Public Static Media, Favicons, and PWA Manifest
+/icon.png
+  Cache-Control: public,max-age=2592000,stale-while-revalidate=86400
+/apple-icon.png
+  Cache-Control: public,max-age=2592000,stale-while-revalidate=86400
+/favicon.ico
+  Cache-Control: public,max-age=2592000,stale-while-revalidate=86400
+/manifest.json
+  Cache-Control: public,max-age=86400
+/feed.xml
+  Cache-Control: public,max-age=3600,stale-while-revalidate=86400
+/llms.txt
+  Cache-Control: public,max-age=86400
+/robots.txt
+  Cache-Control: public,max-age=86400
+/sitemap*.xml
+  Cache-Control: public,max-age=3600,stale-while-revalidate=86400
+
+# 3. Dynamic JSON Search Index & Cache
+/data/*
+  Cache-Control: public,max-age=3600,stale-while-revalidate=86400
+
+# 4. Global Security & Crawler Efficiency Headers for All HTML & Requests
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
