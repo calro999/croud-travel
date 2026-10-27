@@ -72,12 +72,19 @@ console.log(`Files in out/ before cleanup: ${beforeCount}`);
 
 cleanDirectory(OUT_DIR, true);
 
-// public/_redirects を確実に out/_redirects にコピー
+// public/_redirects および public/_headers を確実に out/ にコピー同期
 const publicRedirects = path.join(__dirname, 'public', '_redirects');
 const outRedirects = path.join(OUT_DIR, '_redirects');
 if (fs.existsSync(publicRedirects)) {
   fs.copyFileSync(publicRedirects, outRedirects);
   console.log('Successfully synced public/_redirects to out/_redirects');
+}
+
+const publicHeaders = path.join(__dirname, 'public', '_headers');
+const outHeaders = path.join(OUT_DIR, '_headers');
+if (fs.existsSync(publicHeaders)) {
+  fs.copyFileSync(publicHeaders, outHeaders);
+  console.log('Successfully synced public/_headers to out/_headers');
 }
 
 const afterCount = countFiles(OUT_DIR);
