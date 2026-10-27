@@ -165,3 +165,4 @@ showcase_hiroshima
 geto-onsen-kitakami-secret-spring-hotels-guide
 showcase_miyagi
 october-travel-city-kisarazu-futtsu-kids-family-guide
+showcase_oita
