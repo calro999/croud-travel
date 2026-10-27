@@ -225,7 +225,7 @@ def select_best_hotel_post(history_set):
 def build_hotel_post_content(post_data):
     post_id = str(post_data.get("id"))
     affiliate_url = post_data.get("affiliate_url", "")
-    article_url = f"{SITE_BASE_URL}/posts/{post_id}"
+    article_url = f"{SITE_BASE_URL}/posts/{post_id}/"
     hotel_name = post_data.get("hotel_name", "")
     pref = post_data.get("prefecture", "")
     is_special = post_data.get("is_special_feature")
@@ -389,7 +389,7 @@ def build_showcase_post_content(pref_info):
     catch = pref_info["catch"]
     spots = pref_info["spots"][:4]
     gourmet = pref_info["gourmet"]
-    pref_url = f"{SITE_BASE_URL}/prefectures/{code}"
+    pref_url = f"{SITE_BASE_URL}/prefectures/{code}/"
 
     hooks = [
         f"一生に一度は行きたい…！{pref_name}の魅力が詰まった見どころまとめ✨",
