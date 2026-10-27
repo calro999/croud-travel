@@ -497,7 +497,7 @@ def generate_markdown(theme_key):
     
     md_lines.append("## あわせて読みたい関連特集\n")
     md_lines.append(f"- [{pref_ja}のおすすめ観光名所＆温泉宿一覧](https://croud-travel.pages.dev/prefectures/{pref_slug})")
-    md_lines.append("- [全国の季節・目的別旅行特集一覧](https://croud-travel.pages.dev/features)")
+    md_lines.append("- [全国の季節・目的別旅行特集一覧](https://croud-travel.pages.dev/features/)")
     
     # 相互リンク
     for other_key, other_info in THEME_DETAILS.items():
@@ -505,8 +505,8 @@ def generate_markdown(theme_key):
             o_meta = raw_hotels_data[other_key]["meta"]
             md_lines.append(f"- [{o_meta['title']}](https://croud-travel.pages.dev/{o_meta['slug']})")
     
-    md_lines.append("- [実質2,000円で泊まる名湯・高級温泉旅館ガイド](https://croud-travel.pages.dev/furusato-tax-luxury-hotspring-ryokan-stay)")
-    md_lines.append("- [ご当地グルメを堪能する全国美食旅特集](https://croud-travel.pages.dev/furusato-tax-local-gourmet-inn-stay)\n")
+    md_lines.append("- [実質2,000円で泊まる名湯・高級温泉旅館ガイド](https://croud-travel.pages.dev/furusato-tax-luxury-hotspring-ryokan-stay/)")
+    md_lines.append("- [ご当地グルメを堪能する全国美食旅特集](https://croud-travel.pages.dev/furusato-tax-local-gourmet-inn-stay/)\n")
     
     content = "\n".join(md_lines)
     return content
@@ -688,7 +688,7 @@ def generate_tsx(theme_key):
             o_meta = raw_hotels_data[other_key]["meta"]
             related_links_tsx.append(f"""
             <Link
-              href='/{o_meta["slug"]}'
+              href="/{o_meta[/"slug"]}'
               className='block p-4 bg-white rounded-xl border border-gray-200/80 hover:border-emerald-500 hover:shadow-sm transition-all group'
             >
               <div className='text-xs text-emerald-600 font-semibold mb-1'>{o_meta["prefJa"]} / {o_meta["area"]}</div>
@@ -779,11 +779,11 @@ export default function FeaturePage() {{
             </li>
             <li><ChevronRight className='w-3.5 h-3.5 text-gray-400' /></li>
             <li>
-              <Link href='/features' className='hover:text-emerald-700 transition-colors'>旅の特集</Link>
+              <Link href="/features/" className='hover:text-emerald-700 transition-colors'>旅の特集</Link>
             </li>
             <li><ChevronRight className='w-3.5 h-3.5 text-gray-400' /></li>
             <li>
-              <Link href='/prefectures/{pref_slug}' className='hover:text-emerald-700 transition-colors'>{pref_ja}</Link>
+              <Link href="/prefectures/{pref_slug}/" className='hover:text-emerald-700 transition-colors'>{pref_ja}</Link>
             </li>
             <li><ChevronRight className='w-3.5 h-3.5 text-gray-400' /></li>
             <li className='font-medium text-gray-800 truncate max-w-[200px] md:max-w-none'>
@@ -941,7 +941,7 @@ export default function FeaturePage() {{
           <div className='grid grid-cols-1 md:grid-cols-2 gap-4'>
             {all_related_code}
             <Link
-              href='/prefectures/{pref_slug}'
+              href="/prefectures/{pref_slug}/"
               className='block p-4 bg-emerald-50/60 rounded-xl border border-emerald-200/70 hover:border-emerald-500 transition-all group'
             >
               <div className='text-xs text-emerald-700 font-semibold mb-1'>都道府県別ガイド</div>
@@ -950,7 +950,7 @@ export default function FeaturePage() {{
               </div>
             </Link>
             <Link
-              href='/features'
+              href="/features/"
               className='block p-4 bg-emerald-50/60 rounded-xl border border-emerald-200/70 hover:border-emerald-500 transition-all group'
             >
               <div className='text-xs text-emerald-700 font-semibold mb-1'>全国特集まとめ</div>

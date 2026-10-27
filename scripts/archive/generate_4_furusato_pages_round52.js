@@ -254,28 +254,28 @@ export default function FurusatoThreeGreatPage() {
           <h2 className="text-xl font-bold text-slate-900 mb-4">あわせて読みたい極上ふるさと納税旅特集</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
-              href="/furusato-tax-three-great-scenic-coasts-stay"
+              href="/furusato-tax-three-great-scenic-coasts-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-emerald-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-emerald-700 block mb-1">三大絶景海岸</span>
               <span className="font-semibold text-slate-900 text-sm">【日本三大名勝海岸】東尋坊・浄土ヶ浜・白良浜ステイ特集</span>
             </Link>
             <Link
-              href="/furusato-tax-three-famous-waterfalls-healing-stay"
+              href="/furusato-tax-three-famous-waterfalls-healing-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-emerald-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-emerald-700 block mb-1">三大名瀑ヒーリング</span>
               <span className="font-semibold text-slate-900 text-sm">【日本三大名瀑】白糸・吹割・原不動滝の癒やし湯宿特集</span>
             </Link>
             <Link
-              href="/furusato-tax-three-great-hotsprings-luxury-villas-stay"
+              href="/furusato-tax-three-great-hotsprings-luxury-villas-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-emerald-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-emerald-700 block mb-1">三大名湯の離れ</span>
               <span className="font-semibold text-slate-900 text-sm">【日本三大名湯】草津・有馬・下呂の極上別邸ステイ特集</span>
             </Link>
             <Link
-              href="/furusato-tax-three-great-tea-plantations-stay"
+              href="/furusato-tax-three-great-tea-plantations-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-emerald-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-emerald-700 block mb-1">三大茶園テロワール</span>

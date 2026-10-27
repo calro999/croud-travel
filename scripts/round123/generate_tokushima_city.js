@@ -212,7 +212,7 @@ ${faqList.map(f => `    {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-600 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-indigo-700">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/features" className="hover:text-indigo-700">特集一覧</Link>
+            <Link href="/features/" className="hover:text-indigo-700">特集一覧</Link>
             <span>&gt;</span>
             <span className="text-slate-900 font-semibold">徳島・徳島市＆阿波一の宮名宿</span>
           </div>
@@ -521,22 +521,22 @@ ${faqList.map(f => `    {
               <span>四国・徳島および冬の目的別おすすめ特集</span>
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
-              <Link href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-indigo-400 transition font-medium text-slate-700">
+              <Link href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-indigo-400 transition font-medium text-slate-700">
                 🌀 鳴門温泉・冬の渦潮パノラマ＆鳴門鯛名宿
               </Link>
-              <Link href="/winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-indigo-400 transition font-medium text-slate-700">
+              <Link href="/winter-tokushima-minamiawa-yakuouji-hatsumode-iseebi-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-indigo-400 transition font-medium text-slate-700">
                 ⛩️ 徳島美波町・薬王寺初詣＆天然伊勢海老名宿
               </Link>
-              <Link href="/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-indigo-400 transition font-medium text-slate-700">
+              <Link href="/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-indigo-400 transition font-medium text-slate-700">
                 ❄️ 祖谷渓かずら橋雪景色＆秘境温泉名宿
               </Link>
-              <Link href="/winter-kagawa-zentsuji-marugame-castle-udon-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-indigo-400 transition font-medium text-slate-700">
+              <Link href="/winter-kagawa-zentsuji-marugame-castle-udon-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-indigo-400 transition font-medium text-slate-700">
                 🏯 香川善通寺初詣＆丸亀城・讃岐うどん名宿
               </Link>
-              <Link href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-indigo-400 transition font-medium text-slate-700">
+              <Link href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-indigo-400 transition font-medium text-slate-700">
                 ♨️ 道後温泉本館と鯛めし・伊予牛名宿
               </Link>
-              <Link href="/features" className="p-3 bg-indigo-800 text-white rounded-xl font-bold hover:bg-indigo-900 transition text-center flex items-center justify-center">
+              <Link href="/features/" className="p-3 bg-indigo-800 text-white rounded-xl font-bold hover:bg-indigo-900 transition text-center flex items-center justify-center">
                 ❄️ 全国の冬の厳選特集一覧を見る →
               </Link>
             </div>

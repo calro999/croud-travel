@@ -564,21 +564,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-aichi-irago-onsen-torafugu-atsumigyu-stay" 
+              href="/winter-aichi-irago-onsen-torafugu-atsumigyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">愛知・伊良湖温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">遠州灘と三河湾の天然とらふぐ＆渥美牛・海絶景露天風呂を堪能する名宿</p>
             </Link>
             <Link 
-              href="/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay" 
+              href="/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">静岡・西伊豆土肥温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">駿河湾の黄金夕陽と冬の極上金目鯛・海辺の雪見露天風呂を満喫する名宿</p>
             </Link>
             <Link 
-              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay" 
+              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">静岡・熱海温泉</span>

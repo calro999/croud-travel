@@ -564,42 +564,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-kochi-ashizuri-onsen-ocean-starry-katsuo-tosa-beef-stay" 
+              href="/winter-kochi-ashizuri-onsen-ocean-starry-katsuo-tosa-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-red-700 font-bold block text-[10px]">高知・足摺岬温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">四国最南端の満天の星空と黒潮の鰹・土佐牛を味わう絶景温泉宿</p>
             </Link>
             <Link 
-              href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay" 
+              href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-red-700 font-bold block text-[10px]">愛媛・道後温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">全館営業再開の道後温泉本館と冬の寒鯛めし・伊予牛会席の名宿</p>
             </Link>
             <Link 
-              href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay" 
+              href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-red-700 font-bold block text-[10px]">香川・こんぴら温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">金刀比羅宮の冬参宮とオリーブ牛・名湯こんぴら温泉郷の極上宿</p>
             </Link>
             <Link 
-              href="/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay" 
+              href="/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-red-700 font-bold block text-[10px]">徳島・祖谷渓温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">日本三大秘境の雪見ケーブルカー露天風呂と阿波牛・祖谷そばの宿</p>
             </Link>
             <Link 
-              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay" 
+              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-red-700 font-bold block text-[10px]">和歌山・南紀白浜温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">冬の名物本クエ鍋と白良浜の絶景・日本三古湯の名泉を巡る名宿</p>
             </Link>
             <Link 
-              href="/winter-okayama-hinase-ushimado-oyster-kakioko-stay" 
+              href="/winter-okayama-hinase-ushimado-oyster-kakioko-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-red-700 font-bold block text-[10px]">岡山・日生＆牛窓</span>

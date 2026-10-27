@@ -567,42 +567,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-clear-air-fuji-view-hotels"
+              href="/winter-clear-air-fuji-view-hotels/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">富士山絶景特集</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">空気が澄み渡る冬こそ行きたい！客室や露天風呂から富士山を望む絶景宿</h3>
             </Link>
             <Link 
-              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay"
+              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">静岡・熱海温泉</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">冬の熱海海上花火大会と脂が乗った金目鯛煮付け・海一望露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay"
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">神奈川・箱根温泉</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">雪化粧の富士山を望む絶景露天風呂と伝統会席のラグジュアリー宿</h3>
             </Link>
             <Link 
-              href="/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay"
+              href="/winter-toyama-himi-onsen-kanburi-tateyama-himi-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">富山・氷見温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">富山湾越し立山連峰と11月解禁ひみ寒ぶり宣言・氷見牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay"
+              href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">青森・浅虫温泉</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">陸奥湾の夕景と冬の極上大間本マグロ・津軽三味線の生演奏が響く名宿</h3>
             </Link>
             <Link 
-              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay"
+              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">静岡・修善寺温泉</span>

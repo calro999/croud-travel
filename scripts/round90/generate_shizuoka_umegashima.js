@@ -506,21 +506,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-shizuoka-minamiizu-shimogamo-onsen-iseebi-kinmedai-stay" 
+              href="/winter-shizuoka-minamiizu-shimogamo-onsen-iseebi-kinmedai-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">静岡・南伊豆</span>
               <p className="font-bold text-stone-800 line-clamp-2">温暖な避寒リゾートと湯煙南国情緒・旬の伊勢海老＆地金目鯛姿煮名宿</p>
             </Link>
             <Link 
-              href="/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay" 
+              href="/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">千葉・養老渓谷</span>
               <p className="font-bold text-stone-800 line-clamp-2">本州一遅い初冬の紅葉と美肌黒湯天然温泉・房総かずさ和牛＆猪鍋名宿</p>
             </Link>
             <Link 
-              href="/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay" 
+              href="/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">和歌山・熊野本宮</span>

@@ -617,42 +617,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay"
+              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">熊本・黒川温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">黒川温泉 竹灯篭イルミネーション「湯あかり」と入湯手形の宿</h3>
             </Link>
             <Link 
-              href="/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay"
+              href="/winter-nagasaki-unzen-onsen-jigoku-mist-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">長崎・雲仙温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">雲仙温泉 普賢岳初冬霧氷と雲仙地獄湯煙・極上雲仙あかね牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-saga-takeo-onsen-romon-saga-beef-stay"
+              href="/winter-saga-takeo-onsen-romon-saga-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">佐賀・武雄温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">武雄温泉 辰野金吾設計の楼門と美肌名湯・佐賀牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay"
+              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">佐賀・嬉野温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">嬉野温泉 日本三大美肌の湯と名物温泉湯豆腐・とろける美食宿</h3>
             </Link>
             <Link 
-              href="/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay"
+              href="/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">熊本・天草下田温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">天草下田温泉 東シナ海初冬サンセット露天と伊勢海老・車海老の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>

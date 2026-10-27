@@ -287,12 +287,12 @@ function buildSounkyoPost(data) {
   <section class="p-6 bg-gradient-to-r from-sky-50 to-blue-50 rounded-2xl border border-sky-200">
     <h3 class="text-base font-bold text-stone-900 mb-3">🔗 あわせて読みたい！北海道＆冬の絶景温泉特集</h3>
     <ul class="grid grid-cols-1 md:grid-cols-2 gap-2.5 text-xs">
-      <li><a href="/posts/akan-lake-frost-flower-ice-festival-ainu-kotan-winter-guide" class="text-sky-700 hover:text-sky-900 font-bold underline">・阿寒湖の冬の奇跡！フロストフラワーと冬華美・アイヌコタン完全ガイド</a></li>
-      <li><a href="/posts/tokachigawa-onsen-moor-hotspring-jewelry-ice-winter-guide" class="text-sky-700 hover:text-sky-900 font-bold underline">・十勝川温泉の植物性モール泉と大津海岸ジュエリーアイス冬旅ガイド</a></li>
-      <li><a href="/posts/toyako-onsen-winter-illumination-lake-view-yotei-guide" class="text-sky-700 hover:text-sky-900 font-bold underline">・洞爺湖温泉イルミネーショントンネルと雪の羊蹄山ビューホテル特集</a></li>
-      <li><a href="/posts/noboribetsu-onsen-jigokudani-nine-springs-guide" class="text-sky-700 hover:text-sky-900 font-bold underline">・登別温泉地獄谷の雪景色と9つの泉質を巡る名宿完全比較</a></li>
-      <li><a href="/posts/zao-onsen-snow-monster-juhyo-lightup-winter-guide" class="text-sky-700 hover:text-sky-900 font-bold underline">・蔵王温泉の巨大樹氷スノーモンスターと強酸性硫黄泉冬ガイド</a></li>
-      <li><a href="/posts/ikura-kakehodai-kaisendon-hokkaido-hotels-guide" class="text-sky-700 hover:text-sky-900 font-bold underline">・いくら掛け放題！北海道の絶品海鮮丼朝食バイキング名宿まとめ</a></li>
+      <li><a href="/posts/akan-lake-frost-flower-ice-festival-ainu-kotan-winter-guide/" class="text-sky-700 hover:text-sky-900 font-bold underline">・阿寒湖の冬の奇跡！フロストフラワーと冬華美・アイヌコタン完全ガイド</a></li>
+      <li><a href="/posts/tokachigawa-onsen-moor-hotspring-jewelry-ice-winter-guide/" class="text-sky-700 hover:text-sky-900 font-bold underline">・十勝川温泉の植物性モール泉と大津海岸ジュエリーアイス冬旅ガイド</a></li>
+      <li><a href="/posts/toyako-onsen-winter-illumination-lake-view-yotei-guide/" class="text-sky-700 hover:text-sky-900 font-bold underline">・洞爺湖温泉イルミネーショントンネルと雪の羊蹄山ビューホテル特集</a></li>
+      <li><a href="/posts/noboribetsu-onsen-jigokudani-nine-springs-guide/" class="text-sky-700 hover:text-sky-900 font-bold underline">・登別温泉地獄谷の雪景色と9つの泉質を巡る名宿完全比較</a></li>
+      <li><a href="/posts/zao-onsen-snow-monster-juhyo-lightup-winter-guide/" class="text-sky-700 hover:text-sky-900 font-bold underline">・蔵王温泉の巨大樹氷スノーモンスターと強酸性硫黄泉冬ガイド</a></li>
+      <li><a href="/posts/ikura-kakehodai-kaisendon-hokkaido-hotels-guide/" class="text-sky-700 hover:text-sky-900 font-bold underline">・いくら掛け放題！北海道の絶品海鮮丼朝食バイキング名宿まとめ</a></li>
     </ul>
   </section>
 
@@ -583,12 +583,12 @@ function buildShirahonePost(data) {
   <section class="p-6 bg-gradient-to-r from-teal-50 to-emerald-50 rounded-2xl border border-teal-200">
     <h3 class="text-base font-bold text-stone-900 mb-3">🔗 あわせて読みたい！甲信越＆秘湯特集</h3>
     <ul class="grid grid-cols-1 md:grid-cols-2 gap-2.5 text-xs">
-      <li><a href="/posts/okuhida-onsen-kyo-aodaru-hyobaku-lightup-shinhotaka-winter-guide" class="text-teal-700 hover:text-teal-900 font-bold underline">・奥飛騨温泉郷の青だる氷瀑ライトアップと新穂高ロープウェイ完全ガイド</a></li>
-      <li><a href="/posts/nozawa-onsen-soto-yu-meguri-dosojin-matsuri-winter-guide" class="text-teal-700 hover:text-teal-900 font-bold underline">・野沢温泉十三の外湯めぐりと道祖神祭り！熱湯とパウダースノー名宿</a></li>
-      <li><a href="/posts/snow-monkey-jigokudani-shibu-yudanaka-onsen-guide" class="text-teal-700 hover:text-teal-900 font-bold underline">・地獄谷野猿公苑のスノーモンキーと渋温泉九湯めぐりガイド</a></li>
-      <li><a href="/posts/nagano-onsen-ranking-hotels-guide" class="text-teal-700 hover:text-teal-900 font-bold underline">・長野県の人気温泉地ランキング＆おすすめ名宿総合まとめ</a></li>
-      <li><a href="/posts/nyuto-onsen-kyo-snow-secret-bath-kiritanpo-akita-guide" class="text-teal-700 hover:text-teal-900 font-bold underline">・乳頭温泉郷の白銀秘湯！鶴の湯・妙乃湯と秋田きりたんぽ冬旅ガイド</a></li>
-      <li><a href="/posts/january-nagano-suwa-10selection" class="text-teal-700 hover:text-teal-900 font-bold underline">・1月の長野・諏訪湖御神渡りと名湯旅館10選</a></li>
+      <li><a href="/posts/okuhida-onsen-kyo-aodaru-hyobaku-lightup-shinhotaka-winter-guide/" class="text-teal-700 hover:text-teal-900 font-bold underline">・奥飛騨温泉郷の青だる氷瀑ライトアップと新穂高ロープウェイ完全ガイド</a></li>
+      <li><a href="/posts/nozawa-onsen-soto-yu-meguri-dosojin-matsuri-winter-guide/" class="text-teal-700 hover:text-teal-900 font-bold underline">・野沢温泉十三の外湯めぐりと道祖神祭り！熱湯とパウダースノー名宿</a></li>
+      <li><a href="/posts/snow-monkey-jigokudani-shibu-yudanaka-onsen-guide/" class="text-teal-700 hover:text-teal-900 font-bold underline">・地獄谷野猿公苑のスノーモンキーと渋温泉九湯めぐりガイド</a></li>
+      <li><a href="/posts/nagano-onsen-ranking-hotels-guide/" class="text-teal-700 hover:text-teal-900 font-bold underline">・長野県の人気温泉地ランキング＆おすすめ名宿総合まとめ</a></li>
+      <li><a href="/posts/nyuto-onsen-kyo-snow-secret-bath-kiritanpo-akita-guide/" class="text-teal-700 hover:text-teal-900 font-bold underline">・乳頭温泉郷の白銀秘湯！鶴の湯・妙乃湯と秋田きりたんぽ冬旅ガイド</a></li>
+      <li><a href="/posts/january-nagano-suwa-10selection/" class="text-teal-700 hover:text-teal-900 font-bold underline">・1月の長野・諏訪湖御神渡りと名湯旅館10選</a></li>
     </ul>
   </section>
 
@@ -876,12 +876,12 @@ function buildShuzenjiPost(data) {
   <section class="p-6 bg-gradient-to-r from-amber-50 to-rose-50 rounded-2xl border border-amber-200">
     <h3 class="text-base font-bold text-stone-900 mb-3">🔗 あわせて読みたい！静岡・伊豆の温泉特集</h3>
     <ul class="grid grid-cols-1 md:grid-cols-2 gap-2.5 text-xs">
-      <li><a href="/posts/atami-onsen-winter-fireworks-early-plum-kinmedai-guide" class="text-amber-800 hover:text-amber-950 font-bold underline">・熱海温泉の冬海上花火大会と熱海梅園！金目鯛と波音露天名宿ガイド</a></li>
-      <li><a href="/posts/shizuoka-onsen-ranking-hotels-guide" class="text-amber-800 hover:text-amber-950 font-bold underline">・静岡県の人気温泉地ランキング＆海鮮自慢の名宿総合まとめ</a></li>
-      <li><a href="/posts/shuzenji-arai-ryokan-guide" class="text-amber-800 hover:text-amber-950 font-bold underline">・修善寺温泉・新井旅館の文化財建築と天平大浴堂宿泊記</a></li>
-      <li><a href="/posts/autumn-shizuoka-ito-atami-10selection" class="text-amber-800 hover:text-amber-950 font-bold underline">・伊豆・伊東温泉と熱海温泉のおすすめ宿泊ホテル10選</a></li>
-      <li><a href="/posts/january-shizuoka-atami-10selection" class="text-amber-800 hover:text-amber-950 font-bold underline">・1月の静岡・熱海梅まつりとオーシャンビュー温泉旅館10選</a></li>
-      <li><a href="/posts/fuji-gotemba-shizuoka-hamanako-hotels-guide" class="text-amber-800 hover:text-amber-950 font-bold underline">・富士山・御殿場・浜名湖を巡る静岡周遊ドライブ名宿ガイド</a></li>
+      <li><a href="/posts/atami-onsen-winter-fireworks-early-plum-kinmedai-guide/" class="text-amber-800 hover:text-amber-950 font-bold underline">・熱海温泉の冬海上花火大会と熱海梅園！金目鯛と波音露天名宿ガイド</a></li>
+      <li><a href="/posts/shizuoka-onsen-ranking-hotels-guide/" class="text-amber-800 hover:text-amber-950 font-bold underline">・静岡県の人気温泉地ランキング＆海鮮自慢の名宿総合まとめ</a></li>
+      <li><a href="/posts/shuzenji-arai-ryokan-guide/" class="text-amber-800 hover:text-amber-950 font-bold underline">・修善寺温泉・新井旅館の文化財建築と天平大浴堂宿泊記</a></li>
+      <li><a href="/posts/autumn-shizuoka-ito-atami-10selection/" class="text-amber-800 hover:text-amber-950 font-bold underline">・伊豆・伊東温泉と熱海温泉のおすすめ宿泊ホテル10選</a></li>
+      <li><a href="/posts/january-shizuoka-atami-10selection/" class="text-amber-800 hover:text-amber-950 font-bold underline">・1月の静岡・熱海梅まつりとオーシャンビュー温泉旅館10選</a></li>
+      <li><a href="/posts/fuji-gotemba-shizuoka-hamanako-hotels-guide/" class="text-amber-800 hover:text-amber-950 font-bold underline">・富士山・御殿場・浜名湖を巡る静岡周遊ドライブ名宿ガイド</a></li>
     </ul>
   </section>
 
@@ -1169,12 +1169,12 @@ function buildMisasaPost(data) {
   <section class="p-6 bg-gradient-to-r from-red-50 to-rose-50 rounded-2xl border border-red-200">
     <h3 class="text-base font-bold text-stone-900 mb-3">🔗 あわせて読みたい！山陰・カニ温泉特集</h3>
     <ul class="grid grid-cols-1 md:grid-cols-2 gap-2.5 text-xs">
-      <li><a href="/posts/kinosaki-onsen-matsuba-crab-snow-sotoyu-meguri-guide" class="text-red-800 hover:text-red-950 font-bold underline">・城崎温泉の冬本番！活松葉ガニ会席と雪の柳並木七大外湯めぐり</a></li>
-      <li><a href="/posts/december-tottori-misasa-10selection" class="text-red-800 hover:text-red-950 font-bold underline">・12月の鳥取・三朝温泉と松葉ガニおすすめ宿泊プラン10選</a></li>
-      <li><a href="/posts/autumn-tottori-kaike-10selection" class="text-red-800 hover:text-red-950 font-bold underline">・皆生温泉と境港のカニ！オーシャンビュー温泉旅館まとめ</a></li>
-      <li><a href="/posts/matsue-shinjiko-onsen-sunset-seven-delicacies-hotels-guide" class="text-red-800 hover:text-red-950 font-bold underline">・松江しんじ湖温泉の夕日と宍道湖七珍・寒シジミ冬の美味宿</a></li>
-      <li><a href="/posts/tottori-hotels-selection-guide" class="text-red-800 hover:text-red-950 font-bold underline">・鳥取県の人気ホテル・温泉旅館おすすめセレクション</a></li>
-      <li><a href="/posts/shimonoseki-torafugu-nagato-yumoto-onsen-motonosumi-winter-guide" class="text-red-800 hover:text-red-950 font-bold underline">・下関とらふぐと長門湯本温泉！恩湯と元乃隅神社冬旅ガイド</a></li>
+      <li><a href="/posts/kinosaki-onsen-matsuba-crab-snow-sotoyu-meguri-guide/" class="text-red-800 hover:text-red-950 font-bold underline">・城崎温泉の冬本番！活松葉ガニ会席と雪の柳並木七大外湯めぐり</a></li>
+      <li><a href="/posts/december-tottori-misasa-10selection/" class="text-red-800 hover:text-red-950 font-bold underline">・12月の鳥取・三朝温泉と松葉ガニおすすめ宿泊プラン10選</a></li>
+      <li><a href="/posts/autumn-tottori-kaike-10selection/" class="text-red-800 hover:text-red-950 font-bold underline">・皆生温泉と境港のカニ！オーシャンビュー温泉旅館まとめ</a></li>
+      <li><a href="/posts/matsue-shinjiko-onsen-sunset-seven-delicacies-hotels-guide/" class="text-red-800 hover:text-red-950 font-bold underline">・松江しんじ湖温泉の夕日と宍道湖七珍・寒シジミ冬の美味宿</a></li>
+      <li><a href="/posts/tottori-hotels-selection-guide/" class="text-red-800 hover:text-red-950 font-bold underline">・鳥取県の人気ホテル・温泉旅館おすすめセレクション</a></li>
+      <li><a href="/posts/shimonoseki-torafugu-nagato-yumoto-onsen-motonosumi-winter-guide/" class="text-red-800 hover:text-red-950 font-bold underline">・下関とらふぐと長門湯本温泉！恩湯と元乃隅神社冬旅ガイド</a></li>
     </ul>
   </section>
 
@@ -1465,12 +1465,12 @@ function buildTendoPost(data) {
   <section class="p-6 bg-gradient-to-r from-amber-50 to-orange-50 rounded-2xl border border-amber-200">
     <h3 class="text-base font-bold text-stone-900 mb-3">🔗 あわせて読みたい！東北＆山形の冬温泉特集</h3>
     <ul class="grid grid-cols-1 md:grid-cols-2 gap-2.5 text-xs">
-      <li><a href="/posts/zao-onsen-snow-monster-juhyo-lightup-winter-guide" class="text-amber-800 hover:text-amber-950 font-bold underline">・蔵王温泉の巨大樹氷スノーモンスターと強酸性硫黄泉冬ガイド</a></li>
-      <li><a href="/posts/ginzan-onsen-taisho-roman-snow-view-guide" class="text-amber-800 hover:text-amber-950 font-bold underline">・銀山温泉の大正ロマン雪景色とガス灯！能登屋旅館と尾花沢牛冬旅</a></li>
-      <li><a href="/posts/hanamaki-onsen-kyo-tachiyu-snow-roten-ihatov-guide" class="text-amber-800 hover:text-amber-950 font-bold underline">・花巻温泉郷の白銀秘湯・名物立湯雪見風呂と宮沢賢治イーハトーブ名宿</a></li>
-      <li><a href="/posts/november-yamagata-yamadera-10selection" class="text-amber-800 hover:text-amber-950 font-bold underline">・11月の山形・山寺立石寺と天童温泉おすすめ名宿10選</a></li>
-      <li><a href="/posts/yamagata-famous-things-gourmet-spots-guide" class="text-amber-800 hover:text-amber-950 font-bold underline">・山形県の名物グルメとおすすめ温泉地完全観光ガイド</a></li>
-      <li><a href="/posts/aizu-higashiyama-onsen-ouchijuku-snow-tsurugajo-winter-guide" class="text-amber-800 hover:text-amber-950 font-bold underline">・会津東山温泉の大内宿雪まつりと鶴ヶ城！白虎隊の歴史と名宿ガイド</a></li>
+      <li><a href="/posts/zao-onsen-snow-monster-juhyo-lightup-winter-guide/" class="text-amber-800 hover:text-amber-950 font-bold underline">・蔵王温泉の巨大樹氷スノーモンスターと強酸性硫黄泉冬ガイド</a></li>
+      <li><a href="/posts/ginzan-onsen-taisho-roman-snow-view-guide/" class="text-amber-800 hover:text-amber-950 font-bold underline">・銀山温泉の大正ロマン雪景色とガス灯！能登屋旅館と尾花沢牛冬旅</a></li>
+      <li><a href="/posts/hanamaki-onsen-kyo-tachiyu-snow-roten-ihatov-guide/" class="text-amber-800 hover:text-amber-950 font-bold underline">・花巻温泉郷の白銀秘湯・名物立湯雪見風呂と宮沢賢治イーハトーブ名宿</a></li>
+      <li><a href="/posts/november-yamagata-yamadera-10selection/" class="text-amber-800 hover:text-amber-950 font-bold underline">・11月の山形・山寺立石寺と天童温泉おすすめ名宿10選</a></li>
+      <li><a href="/posts/yamagata-famous-things-gourmet-spots-guide/" class="text-amber-800 hover:text-amber-950 font-bold underline">・山形県の名物グルメとおすすめ温泉地完全観光ガイド</a></li>
+      <li><a href="/posts/aizu-higashiyama-onsen-ouchijuku-snow-tsurugajo-winter-guide/" class="text-amber-800 hover:text-amber-950 font-bold underline">・会津東山温泉の大内宿雪まつりと鶴ヶ城！白虎隊の歴史と名宿ガイド</a></li>
     </ul>
   </section>
 

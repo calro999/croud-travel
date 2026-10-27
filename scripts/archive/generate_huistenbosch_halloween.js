@@ -211,9 +211,9 @@ ${hotelCardsCode}
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-amber-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-amber-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-amber-600 transition">特集一覧</Link>
             <span>/</span>
-            <Link href="/prefectures/nagasaki" className="hover:text-amber-600 transition">長崎県</Link>
+            <Link href="/prefectures/nagasaki/" className="hover:text-amber-600 transition">長崎県</Link>
             <span>/</span>
             <span className="text-stone-800 font-medium">長崎ハウステンボス・ハロウィーン特集</span>
           </div>
@@ -558,13 +558,13 @@ ${hotelCardsCode}
               カボチャランタンの優しい灯火、1300万球が織りなす圧倒的な光の王国、そして源泉掛け流し温泉やクラシカルな美邸に泊まる至福。非日常のヨーロッパ秋旅行へ出かけてみませんか。
             </p>
             <div className="flex flex-wrap items-center justify-center gap-3 text-xs">
-              <Link href="/features" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
+              <Link href="/features/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 ← 特集一覧に戻る
               </Link>
-              <Link href="/prefectures/nagasaki" className="px-4 py-2 rounded-full bg-amber-50 hover:bg-amber-100 text-amber-700 font-semibold transition">
+              <Link href="/prefectures/nagasaki/" className="px-4 py-2 rounded-full bg-amber-50 hover:bg-amber-100 text-amber-700 font-semibold transition">
                 長崎県の旅行ガイド・名宿一覧
               </Link>
-              <Link href="/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay" className="px-4 py-2 rounded-full bg-rose-50 hover:bg-rose-100 text-rose-700 font-semibold transition">
+              <Link href="/autumn-usj-halloween-horror-nights-osaka-bay-hotels-stay/" className="px-4 py-2 rounded-full bg-rose-50 hover:bg-rose-100 text-rose-700 font-semibold transition">
                 USJハロウィーン・ホラー・ナイト特集
               </Link>
               <Link href="/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">

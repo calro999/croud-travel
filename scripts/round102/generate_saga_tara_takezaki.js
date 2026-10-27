@@ -582,7 +582,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay" 
+              href="/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">鳥取・境港＆皆生温泉</span>
@@ -592,7 +592,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay" 
+              href="/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">静岡・下田＆爪木崎</span>
@@ -602,7 +602,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay" 
+              href="/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">沖縄・石垣島＆川平湾</span>
@@ -612,7 +612,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay" 
+              href="/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">千葉・鴨川＆小湊</span>
@@ -622,7 +622,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay" 
+              href="/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">茨城・袋田＆奥久慈</span>
@@ -632,7 +632,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-gradient-to-br from-amber-900 to-slate-950 text-white hover:opacity-95 transition-all group block flex flex-col justify-between"
             >
               <div>

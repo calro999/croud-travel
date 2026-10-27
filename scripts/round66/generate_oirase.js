@@ -509,42 +509,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay"
+              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">山形・蔵王温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">白銀の樹氷群と強酸性硫黄泉露天風呂・極上山形牛すき焼きの宿</h3>
             </Link>
             <Link 
-              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay"
+              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">秋田・乳頭温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">秘湯白濁雪見露天と本場きりたんぽ鍋・比内地鶏会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay"
+              href="/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">宮城・鳴子温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">多彩な湯めぐりと雪見露天風呂・最高級仙台牛ステーキの宿</h3>
             </Link>
             <Link 
-              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay"
+              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">岩手・花巻温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">渓流雪見露天風呂と最高峰前沢牛すき焼き・宮沢賢治ゆかりの宿</h3>
             </Link>
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay"
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">山形・銀山温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">ガス灯照らす大正ロマン雪景色と名湯・尾花沢牛会席の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>

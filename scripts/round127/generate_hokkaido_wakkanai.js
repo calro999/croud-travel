@@ -541,7 +541,7 @@ ${faqList.map(item => `    {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm mb-8">
             <Link 
-              href="/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay"
+              href="/winter-hokkaido-kushiro-tancho-crane-snow-nusamaibashi-sunset-robata-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-cyan-500 transition hover:shadow-md group block"
             >
               <div className="text-cyan-600 font-bold text-xs mb-1">北海道・釧路＆鶴居</div>
@@ -554,7 +554,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay"
+              href="/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-cyan-500 transition hover:shadow-md group block"
             >
               <div className="text-cyan-600 font-bold text-xs mb-1">北海道・小樽＆朝里川</div>
@@ -567,7 +567,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay"
+              href="/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-cyan-500 transition hover:shadow-md group block"
             >
               <div className="text-cyan-600 font-bold text-xs mb-1">青森・下北半島＆大間</div>
@@ -583,9 +583,9 @@ ${faqList.map(item => `    {
           <div className="flex flex-wrap justify-center gap-4 text-xs font-semibold text-slate-600">
             <Link href="/" className="hover:text-cyan-600 underline">ホーム</Link>
             <span>•</span>
-            <Link href="/features" className="hover:text-cyan-600 underline">特集一覧</Link>
+            <Link href="/features/" className="hover:text-cyan-600 underline">特集一覧</Link>
             <span>•</span>
-            <Link href="/posts" className="hover:text-cyan-600 underline">記事一覧カタログ</Link>
+            <Link href="/posts/" className="hover:text-cyan-600 underline">記事一覧カタログ</Link>
           </div>
         </div>
       </section>

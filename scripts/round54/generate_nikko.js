@@ -610,7 +610,7 @@ ${hotelCardsCode}
           {/* 関連特集リンクカード */}
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
             <Link 
-              href="/winter-gunma-manza-snow-milky-hotspring-stay"
+              href="/winter-gunma-manza-snow-milky-hotspring-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-teal-50/60 border border-stone-200 hover:border-teal-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">標高1800m雪見にごり湯</span>
@@ -623,7 +623,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-gunma-kusatsu-yukimi-onsen-stay"
+              href="/winter-gunma-kusatsu-yukimi-onsen-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-teal-50/60 border border-stone-200 hover:border-teal-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">名湯雪見特集</span>
@@ -636,7 +636,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-chichibu-icicle-misotsuchi-stay"
+              href="/winter-chichibu-icicle-misotsuchi-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-teal-50/60 border border-stone-200 hover:border-teal-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-cyan-800 bg-cyan-100/80 px-2 py-0.5 rounded">冬の氷の絶景</span>
@@ -655,13 +655,13 @@ ${hotelCardsCode}
               近隣・全国の都道府県別おすすめ宿
             </h3>
             <div className="flex flex-wrap gap-2 text-xs">
-              <Link href="/prefectures/tochigi" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">栃木県の宿一覧</Link>
-              <Link href="/prefectures/gunma" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">群馬県の宿一覧</Link>
-              <Link href="/prefectures/fukushima" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">福島県の宿一覧</Link>
-              <Link href="/prefectures/ibaraki" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">茨城県の宿一覧</Link>
-              <Link href="/prefectures/saitama" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">埼玉県の宿一覧</Link>
-              <Link href="/prefectures/nagano" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">長野県の宿一覧</Link>
-              <Link href="/prefectures/niigata" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">新潟県の宿一覧</Link>
+              <Link href="/prefectures/tochigi/" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">栃木県の宿一覧</Link>
+              <Link href="/prefectures/gunma/" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">群馬県の宿一覧</Link>
+              <Link href="/prefectures/fukushima/" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">福島県の宿一覧</Link>
+              <Link href="/prefectures/ibaraki/" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">茨城県の宿一覧</Link>
+              <Link href="/prefectures/saitama/" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">埼玉県の宿一覧</Link>
+              <Link href="/prefectures/nagano/" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">長野県の宿一覧</Link>
+              <Link href="/prefectures/niigata/" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">新潟県の宿一覧</Link>
             </div>
           </div>
         </section>

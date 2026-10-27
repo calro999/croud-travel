@@ -586,42 +586,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-ishikawa-kaga-yamashiro-kano-crab-stay"
+              href="/winter-ishikawa-kaga-yamashiro-kano-crab-stay/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">石川・加賀山代</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">加賀山代温泉 魯山人ゆかりの名湯と極上カニ尽くしの宿</h3>
             </Link>
             <Link 
-              href="/winter-kanazawa-kenrokuen-yukizuri-stay"
+              href="/winter-kanazawa-kenrokuen-yukizuri-stay/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">石川・金沢</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">金沢 兼六園の雪吊りと加能ガニ会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-fukui-awara-onsen-echizen-crab-stay"
+              href="/winter-fukui-awara-onsen-echizen-crab-stay/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">福井・あわら</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">あわら温泉 黄色タグ付き越前がにと庭園露天風呂の宿</h3>
             </Link>
             <Link 
-              href="/winter-toyama-unazuki-onsen-kurobe-snow-stay"
+              href="/winter-toyama-unazuki-onsen-kurobe-snow-stay/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">富山・宇奈月</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">宇奈月温泉 黒部峡谷雪景色と富山湾寒ブリ・紅ズワイガニの宿</h3>
             </Link>
             <Link 
-              href="/winter-kyoto-amanohashidate-matsuba-crab-stay"
+              href="/winter-kyoto-amanohashidate-matsuba-crab-stay/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">京都・天橋立</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">天橋立 日本三景の冬景色と幻の間人ガニ・松葉ガニの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">特集一覧</span>

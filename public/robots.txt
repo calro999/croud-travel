@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
 Disallow: /private/
+Disallow: /posts/note-
 
 # DuckDuckGo Crawler
 User-agent: DuckDuckBot

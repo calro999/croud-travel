@@ -569,7 +569,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay" 
+              href="/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-700 font-bold text-xs block mb-1">鳥取・境港＆皆生温泉</span>
@@ -579,7 +579,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay" 
+              href="/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-700 font-bold text-xs block mb-1">島根・松江しんじ湖</span>
@@ -589,7 +589,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay" 
+              href="/winter-shimane-izumo-taisha-kamiarizuki-shimane-wagyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-700 font-bold text-xs block mb-1">島根・出雲大社</span>
@@ -599,7 +599,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay" 
+              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-700 font-bold text-xs block mb-1">島根・玉造温泉</span>
@@ -609,7 +609,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay" 
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-700 font-bold text-xs block mb-1">鳥取・三朝温泉</span>
@@ -619,7 +619,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay" 
+              href="/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-700 font-bold text-xs block mb-1">岡山・倉敷＆吉備津</span>

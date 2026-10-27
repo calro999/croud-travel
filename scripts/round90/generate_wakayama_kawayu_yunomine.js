@@ -506,21 +506,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay" 
+              href="/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">三重・鳥羽相差</span>
               <p className="font-bold text-stone-800 line-clamp-2">伊勢志摩の冬の恵み・答志島トロサワラ＆極上松阪牛と美肌露天風呂</p>
             </Link>
             <Link 
-              href="/winter-shizuoka-minamiizu-shimogamo-onsen-iseebi-kinmedai-stay" 
+              href="/winter-shizuoka-minamiizu-shimogamo-onsen-iseebi-kinmedai-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">静岡・南伊豆</span>
               <p className="font-bold text-stone-800 line-clamp-2">温暖な避寒リゾートと湯煙南国情緒・旬の伊勢海老＆地金目鯛姿煮名宿</p>
             </Link>
             <Link 
-              href="/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay" 
+              href="/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">宮城・遠刈田温泉</span>

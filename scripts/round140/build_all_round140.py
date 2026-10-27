@@ -737,11 +737,11 @@ export default function Page() {{
                 TOP
               </Link>
               <ChevronRight className="w-3 h-3 text-cyan-400" />
-              <Link href="/features" className="text-cyan-200 hover:text-white transition-colors">
+              <Link href="/features/" className="text-cyan-200 hover:text-white transition-colors">
                 冬の厳選特集
               </Link>
               <ChevronRight className="w-3 h-3 text-cyan-400" />
-              <Link href="/prefectures/{pref}" className="text-cyan-200 hover:text-white transition-colors">
+              <Link href="/prefectures/{pref}/" className="text-cyan-200 hover:text-white transition-colors">
                 {pref_ja}
               </Link>
               <ChevronRight className="w-3 h-3 text-cyan-400" />
@@ -890,26 +890,26 @@ export default function Page() {{
             <h3 className="font-bold text-stone-800">あわせて読みたい関連特集</h3>
             <ul className="space-y-1.5 text-cyan-800">
               <li>
-                <Link href="/prefectures/{pref}" className="hover:underline flex items-center gap-1">
+                <Link href="/prefectures/{pref}/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>{pref_ja}のおすすめ観光名所＆温泉宿一覧</span>
                 </Link>
               </li>
               <li>
-                <Link href="/features" className="hover:underline flex items-center gap-1">
+                <Link href="/features/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>全国の季節・目的別旅行特集一覧</span>
                 </Link>
               </li>
 {all_internal_links_str}
               <li>
-                <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="hover:underline flex items-center gap-1">
+                <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>実質2,000円で泊まる名湯・高級温泉旅館ガイド</span>
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-local-gourmet-inn-stay" className="hover:underline flex items-center gap-1">
+                <Link href="/furusato-tax-local-gourmet-inn-stay/" className="hover:underline flex items-center gap-1">
                   <span>→</span>
                   <span>ご当地グルメを堪能する全国美食旅特集</span>
                 </Link>
@@ -1039,10 +1039,10 @@ A. {a}""")
 ## あわせて読みたい関連特集
 
 - [{pref_ja}のおすすめ観光名所＆温泉宿一覧](https://croud-travel.pages.dev/prefectures/{pref})
-- [全国の季節・目的別旅行特集一覧](https://croud-travel.pages.dev/features)
+- [全国の季節・目的別旅行特集一覧](https://croud-travel.pages.dev/features/)
 {all_note_links_str}
-- [実質2,000円で泊まる名湯・高級温泉旅館ガイド](https://croud-travel.pages.dev/furusato-tax-luxury-hotspring-ryokan-stay)
-- [ご当地グルメを堪能する全国美食旅特集](https://croud-travel.pages.dev/furusato-tax-local-gourmet-inn-stay)
+- [実質2,000円で泊まる名湯・高級温泉旅館ガイド](https://croud-travel.pages.dev/furusato-tax-luxury-hotspring-ryokan-stay/)
+- [ご当地グルメを堪能する全国美食旅特集](https://croud-travel.pages.dev/furusato-tax-local-gourmet-inn-stay/)
 """
 
         note_file = f"note-{note_num}.md"

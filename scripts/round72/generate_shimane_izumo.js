@@ -567,42 +567,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay"
+              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-purple-300 font-semibold block mb-1">島根・玉造温泉</span>
               <h3 className="text-sm font-bold group-hover:text-purple-200 transition">神の湯・玉肌美肌温泉と11月解禁松葉ガニ・宍道湖七道湖温泉の宿</h3>
             </Link>
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-purple-300 font-semibold block mb-1">鳥取・三朝温泉</span>
               <h3 className="text-sm font-bold group-hover:text-purple-200 transition">世界屈指の高濃度ラドン温泉と鳥取名物松葉ガニ・鳥取和牛の極上湯治宿</h3>
             </Link>
             <Link 
-              href="/winter-tottori-kaike-onsen-matsuba-crab-stay"
+              href="/winter-tottori-kaike-onsen-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-purple-300 font-semibold block mb-1">鳥取・皆生温泉</span>
               <h3 className="text-sm font-bold group-hover:text-purple-200 transition">白砂青松の弓ヶ浜と日本海から湧く塩化物泉・境港水揚げ松葉ガニ会席</h3>
             </Link>
             <Link 
-              href="/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay"
+              href="/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-purple-300 font-semibold block mb-1">山口・萩温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-purple-200 transition">維新城下町と初冬解禁天然とらふぐ・萩甘鯛＆日本海夕景露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay"
+              href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-purple-300 font-semibold block mb-1">山口・長門湯本温泉</span>
               <h3 className="text-sm font-bold group-hover:text-purple-200 transition">音信川の温泉街リノベーションと本場とらふぐフルコース・美肌古湯の宿</h3>
             </Link>
             <Link 
-              href="/winter-crab-gourmet-luxury-inn-ranking"
+              href="/winter-crab-gourmet-luxury-inn-ranking/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-purple-300 font-semibold block mb-1">全国冬の味覚特集</span>

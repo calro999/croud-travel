@@ -564,21 +564,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-shirakawago-gassho-snow-illumination-stay" 
+              href="/winter-shirakawago-gassho-snow-illumination-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">岐阜・白川郷</span>
               <p className="font-bold text-stone-800 line-clamp-2">世界遺産白川郷の合掌造り雪景色ライトアップと飛騨牛会席の宿</p>
             </Link>
             <Link 
-              href="/winter-gifu-okuhida-onsen-yukimi-roten-stay" 
+              href="/winter-gifu-okuhida-onsen-yukimi-roten-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">岐阜・奥飛騨温泉郷</span>
               <p className="font-bold text-stone-800 line-clamp-2">日本屈指の大露天風呂と北アルプス雪見風呂・青だる氷瀑めぐりの名宿</p>
             </Link>
             <Link 
-              href="/winter-nagano-asama-onsen-matsumoto-castle-snow-stay" 
+              href="/winter-nagano-asama-onsen-matsumoto-castle-snow-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">長野・浅間温泉＆松本城</span>

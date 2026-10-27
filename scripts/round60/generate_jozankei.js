@@ -612,42 +612,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay"
+              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/"
               className="bg-sky-900/80 hover:bg-sky-900 p-4 rounded-2xl transition border border-sky-800/50 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">北海道・登別</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">登別温泉 雪景色地獄谷と9種の泉質・北海カニ尽くしの宿</h3>
             </Link>
             <Link 
-              href="/winter-hokkaido-sapporo-white-illumination-stay"
+              href="/winter-hokkaido-sapporo-white-illumination-stay/"
               className="bg-sky-900/80 hover:bg-sky-900 p-4 rounded-2xl transition border border-sky-800/50 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">北海道・札幌</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">さっぽろホワイトイルミネーションと大通公園周辺の宿</h3>
             </Link>
             <Link 
-              href="/winter-niseko-powder-snow-ski-resort-stay"
+              href="/winter-niseko-powder-snow-ski-resort-stay/"
               className="bg-sky-900/80 hover:bg-sky-900 p-4 rounded-2xl transition border border-sky-800/50 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">北海道・ニセコ</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">ニセコ 極上パウダースノーと羊蹄山ビュー温泉リゾート</h3>
             </Link>
             <Link 
-              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay"
+              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/"
               className="bg-sky-900/80 hover:bg-sky-900 p-4 rounded-2xl transition border border-sky-800/50 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">岩手・花巻</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">花巻温泉郷 白銀雪見露天と前沢牛＆白金豚の宿</h3>
             </Link>
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay"
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/"
               className="bg-sky-900/80 hover:bg-sky-900 p-4 rounded-2xl transition border border-sky-800/50 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">山形・銀山</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">銀山温泉 大正ロマン雪景色とガス灯情緒の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-sky-900/80 hover:bg-sky-900 p-4 rounded-2xl transition border border-sky-800/50 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">特集一覧</span>

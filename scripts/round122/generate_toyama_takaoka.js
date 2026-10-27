@@ -212,7 +212,7 @@ ${faqList.map(f => `    {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-600 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-blue-600">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/features" className="hover:text-blue-600">特集一覧</Link>
+            <Link href="/features/" className="hover:text-blue-600">特集一覧</Link>
             <span>&gt;</span>
             <span className="text-slate-900 font-semibold">富山・高岡瑞龍寺初詣＆雨晴気嵐・新湊カニ名宿</span>
           </div>
@@ -528,22 +528,22 @@ ${faqList.map(f => `    {
               <span>富山および北陸甲信越の冬の厳選温泉・カニ特集</span>
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
-              <Link href="/winter-toyama-unazuki-onsen-kurobe-snow-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-blue-400 transition font-medium text-slate-700">
+              <Link href="/winter-toyama-unazuki-onsen-kurobe-snow-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-blue-400 transition font-medium text-slate-700">
                 ♨️ 宇奈月温泉と黒部峡谷雪景色名宿
               </Link>
-              <Link href="/winter-toyama-shogawa-onsen-snow-cruise-crab-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-blue-400 transition font-medium text-slate-700">
+              <Link href="/winter-toyama-shogawa-onsen-snow-cruise-crab-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-blue-400 transition font-medium text-slate-700">
                 🚢 庄川峡雪見クルーズと温泉名宿
               </Link>
-              <Link href="/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-blue-400 transition font-medium text-slate-700">
+              <Link href="/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-blue-400 transition font-medium text-slate-700">
                 🦀 金沢兼六園雪吊りと香箱ガニ名宿
               </Link>
-              <Link href="/winter-fukui-echizen-coast-suisen-crab-misaki-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-blue-400 transition font-medium text-slate-700">
+              <Link href="/winter-fukui-echizen-coast-suisen-crab-misaki-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-blue-400 transition font-medium text-slate-700">
                 🦀 越前海岸水仙まつりと越前がに名宿
               </Link>
-              <Link href="/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-blue-400 transition font-medium text-slate-700">
+              <Link href="/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-blue-400 transition font-medium text-slate-700">
                 🎿 妙高赤倉温泉雪見露天とのどぐろ名宿
               </Link>
-              <Link href="/features" className="p-3 bg-blue-700 text-white rounded-xl font-bold hover:bg-blue-800 transition text-center flex items-center justify-center">
+              <Link href="/features/" className="p-3 bg-blue-700 text-white rounded-xl font-bold hover:bg-blue-800 transition text-center flex items-center justify-center">
                 ❄️ 全国の冬の厳選特集一覧を見る →
               </Link>
             </div>

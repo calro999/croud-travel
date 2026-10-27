@@ -7,7 +7,7 @@ import FeaturesGrid, { FeaturePost } from "./FeaturesGrid";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/features/" },
-  title: "厳選！特集・まとめ記事一覧 ｜ 日本全国・旅宿クラウド",
+  title: "旅のテーマ別特集＆ホテル厳選まとめ一覧",
   description: "楽天トラベルで人気の高級宿、絶景リゾート、温泉旅館、カップル旅行、ファミリー向けホテルなどを旅の目的別にまとめた特設ページです。",
   keywords: ["厳選！", "まとめ記事一覧", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   openGraph: {

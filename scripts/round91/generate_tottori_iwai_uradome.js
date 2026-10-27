@@ -533,21 +533,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay" 
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">鳥取・三朝温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">世界屈指のラジウム温泉と松葉ガニ・三徳山投入堂の冬情趣名宿</p>
             </Link>
             <Link 
-              href="/winter-tottori-kaike-onsen-matsuba-crab-stay" 
+              href="/winter-tottori-kaike-onsen-matsuba-crab-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">鳥取・皆生温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">米子白砂青松の海中温泉と境港直送松葉ガニ・大山雪見露天風呂</p>
             </Link>
             <Link 
-              href="/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay" 
+              href="/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">兵庫・香住＆柴山</span>

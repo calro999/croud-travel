@@ -254,28 +254,28 @@ export default function FurusatoRound54Page() {
           <h2 className="text-xl font-bold text-slate-900 mb-4">あわせて読みたい極上ふるさと納税旅特集</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
-              href="/furusato-tax-three-great-rivers-riverside-stay"
+              href="/furusato-tax-three-great-rivers-riverside-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-indigo-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-indigo-700 block mb-1">三大河川名湯</span>
               <span className="font-semibold text-slate-900 text-sm">【日本三大河川】利根川・筑後川・吉野川のせせらぎ宿特集</span>
             </Link>
             <Link
-              href="/furusato-tax-three-great-karsts-highland-stay"
+              href="/furusato-tax-three-great-karsts-highland-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-indigo-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-indigo-700 block mb-1">三大カルスト天空リゾート</span>
               <span className="font-semibold text-slate-900 text-sm">【日本三大カルスト】秋吉台・四国カルスト・平尾台特集</span>
             </Link>
             <Link
-              href="/furusato-tax-three-great-wagyu-beef-luxury-stay"
+              href="/furusato-tax-three-great-wagyu-beef-luxury-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-indigo-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-indigo-700 block mb-1">三大和牛ガストロノミー</span>
               <span className="font-semibold text-slate-900 text-sm">【日本三大銘牛】松阪牛・神戸牛・米沢牛の名湯贅沢ステイ</span>
             </Link>
             <Link
-              href="/furusato-tax-three-great-dunes-oceanview-stay"
+              href="/furusato-tax-three-great-dunes-oceanview-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-indigo-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-indigo-700 block mb-1">三大砂丘風紋絶景</span>

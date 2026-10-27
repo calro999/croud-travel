@@ -580,7 +580,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-okinawa-miyakojima-shigira-resort-sunrisepoint-miyakogyu-stay"
+              href="/winter-okinawa-miyakojima-shigira-resort-sunrisepoint-miyakogyu-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-pink-400 block mb-1">宮古島冬特集</span>
@@ -588,7 +588,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay"
+              href="/winter-okinawa-naha-naminoe-shrine-hatsumode-agu-resort-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-pink-400 block mb-1">那覇・波上宮冬特集</span>
@@ -596,7 +596,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay"
+              href="/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-pink-400 block mb-1">恩納村・ホエールウォッチング特集</span>

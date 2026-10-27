@@ -281,11 +281,11 @@ function buildKinosakiPost(data) {
   <section class="my-8 p-5 bg-red-50/80 rounded-2xl border border-red-200">
     <h3 class="font-bold text-sm text-red-950 mb-3">📌 合わせて読みたい兵庫・関西の冬名湯＆ご当地グルメ特集</h3>
     <ul class="text-xs text-red-900 space-y-2 list-disc list-inside">
-      <li><a href="/prefectures/hyogo" class="underline font-bold hover:text-red-700">兵庫県の人気温泉旅館・観光名所完全ガイド（城崎・有馬・淡路島・湯村）</a></li>
-      <li><a href="/furusato-tax-winter-crab-gourmet-luxury-stay" class="underline hover:text-red-700">冬の味覚の王様×活蟹尽くし極上温泉宿ガイド（城崎・三国・皆生のタグ付き松葉ガニ）</a></li>
-      <li><a href="/furusato-tax-luxury-hotspring-ryokan-stay" class="underline hover:text-red-700">実質2,000円で泊まる名湯・高級温泉旅館完全ガイド（有馬・草津・伊豆）</a></li>
-      <li><a href="/posts/nanki-katsuura-onsen-tuna-bokido-kumano-nachi-winter-guide" class="underline hover:text-red-700">南紀勝浦温泉の冬本番生マグロ会席と洞窟露天風呂・忘帰洞ガイド</a></li>
-      <li><a href="/posts/kifune-shrine-snow-lightup-botannabe-kyoto-onsen-guide" class="underline hover:text-red-700">貴船神社の雪景色ライトアップと名物ぼたん鍋・京都奥座敷温泉ガイド</a></li>
+      <li><a href="/prefectures/hyogo/" class="underline font-bold hover:text-red-700">兵庫県の人気温泉旅館・観光名所完全ガイド（城崎・有馬・淡路島・湯村）</a></li>
+      <li><a href="/furusato-tax-winter-crab-gourmet-luxury-stay/" class="underline hover:text-red-700">冬の味覚の王様×活蟹尽くし極上温泉宿ガイド（城崎・三国・皆生のタグ付き松葉ガニ）</a></li>
+      <li><a href="/furusato-tax-luxury-hotspring-ryokan-stay/" class="underline hover:text-red-700">実質2,000円で泊まる名湯・高級温泉旅館完全ガイド（有馬・草津・伊豆）</a></li>
+      <li><a href="/posts/nanki-katsuura-onsen-tuna-bokido-kumano-nachi-winter-guide/" class="underline hover:text-red-700">南紀勝浦温泉の冬本番生マグロ会席と洞窟露天風呂・忘帰洞ガイド</a></li>
+      <li><a href="/posts/kifune-shrine-snow-lightup-botannabe-kyoto-onsen-guide/" class="underline hover:text-red-700">貴船神社の雪景色ライトアップと名物ぼたん鍋・京都奥座敷温泉ガイド</a></li>
     </ul>
   </section>
 
@@ -584,11 +584,11 @@ function buildHanamakiPost(data) {
   <section class="my-8 p-5 bg-indigo-50/80 rounded-2xl border border-indigo-200">
     <h3 class="font-bold text-sm text-indigo-950 mb-3">📌 合わせて読みたい岩手・東北の冬名湯＆秘湯特集</h3>
     <ul class="text-xs text-indigo-900 space-y-2 list-disc list-inside">
-      <li><a href="/prefectures/iwate" class="underline font-bold hover:text-indigo-700">岩手県の人気温泉旅館・観光名所完全ガイド（花巻・八幡平・平泉・盛岡）</a></li>
-      <li><a href="/posts/nyuto-onsen-kyo-snow-secret-bath-kiritanpo-akita-guide" class="underline hover:text-indigo-700">乳頭温泉郷の雪見露天風呂と鶴の湯・きりたんぽ鍋ガイド</a></li>
-      <li><a href="/posts/zao-onsen-snow-monster-juhyo-lightup-winter-guide" class="underline hover:text-indigo-700">蔵王温泉の樹氷スノーモンスターと強酸性硫黄泉名宿ガイド</a></li>
-      <li><a href="/furusato-tax-rare-wagyu-tankaku-akagyu-gourmet-stay" class="underline hover:text-indigo-700">幻の極上赤身肉「短角牛・あか牛」美食宿ふるさと納税完全ガイド</a></li>
-      <li><a href="/posts/aizu-higashiyama-onsen-ouchijuku-snow-tsurugajo-winter-guide" class="underline hover:text-indigo-700">会津東山温泉の大内宿雪景色と鶴ヶ城ライトアップガイド</a></li>
+      <li><a href="/prefectures/iwate/" class="underline font-bold hover:text-indigo-700">岩手県の人気温泉旅館・観光名所完全ガイド（花巻・八幡平・平泉・盛岡）</a></li>
+      <li><a href="/posts/nyuto-onsen-kyo-snow-secret-bath-kiritanpo-akita-guide/" class="underline hover:text-indigo-700">乳頭温泉郷の雪見露天風呂と鶴の湯・きりたんぽ鍋ガイド</a></li>
+      <li><a href="/posts/zao-onsen-snow-monster-juhyo-lightup-winter-guide/" class="underline hover:text-indigo-700">蔵王温泉の樹氷スノーモンスターと強酸性硫黄泉名宿ガイド</a></li>
+      <li><a href="/furusato-tax-rare-wagyu-tankaku-akagyu-gourmet-stay/" class="underline hover:text-indigo-700">幻の極上赤身肉「短角牛・あか牛」美食宿ふるさと納税完全ガイド</a></li>
+      <li><a href="/posts/aizu-higashiyama-onsen-ouchijuku-snow-tsurugajo-winter-guide/" class="underline hover:text-indigo-700">会津東山温泉の大内宿雪景色と鶴ヶ城ライトアップガイド</a></li>
     </ul>
   </section>
 
@@ -888,11 +888,11 @@ function buildKurokawaPost(data) {
   <section class="my-8 p-5 bg-teal-50/80 rounded-2xl border border-teal-200">
     <h3 class="font-bold text-sm text-teal-950 mb-3">📌 合わせて読みたい熊本・九州の冬名湯＆絶景特集</h3>
     <ul class="text-xs text-teal-900 space-y-2 list-disc list-inside">
-      <li><a href="/prefectures/kumamoto" class="underline font-bold hover:text-teal-700">熊本県の人気温泉旅館・観光名所完全ガイド（黒川・阿蘇・天草・人吉）</a></li>
-      <li><a href="/posts/nagayu-onsen-natural-carbonated-spring-kuju-winter-guide" class="underline hover:text-teal-700">長湯温泉の奇跡の天然炭酸泉とラムネ温泉館・九重連山雪景色ガイド</a></li>
-      <li><a href="/furusato-tax-bihada-medicinal-springs-retreat-stay" class="underline hover:text-teal-700">奇跡の名湯×強炭酸泉・泥湯・美肌温泉リトリート（長湯・霧島・嬉野）</a></li>
-      <li><a href="/posts/shimonoseki-torafugu-nagato-yumoto-onsen-motonosumi-winter-guide" class="underline hover:text-teal-700">下関トラフグ会席と長門湯本温泉・元乃隅神社冬絶景ガイド</a></li>
-      <li><a href="/furusato-tax-private-villa-hanare-hideaway-stay" class="underline hover:text-teal-700">全室離れの隠れ家おこもり宿×極上プライベートヴィラ（由布院・伊豆・定山渓）</a></li>
+      <li><a href="/prefectures/kumamoto/" class="underline font-bold hover:text-teal-700">熊本県の人気温泉旅館・観光名所完全ガイド（黒川・阿蘇・天草・人吉）</a></li>
+      <li><a href="/posts/nagayu-onsen-natural-carbonated-spring-kuju-winter-guide/" class="underline hover:text-teal-700">長湯温泉の奇跡の天然炭酸泉とラムネ温泉館・九重連山雪景色ガイド</a></li>
+      <li><a href="/furusato-tax-bihada-medicinal-springs-retreat-stay/" class="underline hover:text-teal-700">奇跡の名湯×強炭酸泉・泥湯・美肌温泉リトリート（長湯・霧島・嬉野）</a></li>
+      <li><a href="/posts/shimonoseki-torafugu-nagato-yumoto-onsen-motonosumi-winter-guide/" class="underline hover:text-teal-700">下関トラフグ会席と長門湯本温泉・元乃隅神社冬絶景ガイド</a></li>
+      <li><a href="/furusato-tax-private-villa-hanare-hideaway-stay/" class="underline hover:text-teal-700">全室離れの隠れ家おこもり宿×極上プライベートヴィラ（由布院・伊豆・定山渓）</a></li>
     </ul>
   </section>
 
@@ -1194,11 +1194,11 @@ function buildUnazukiPost(data) {
   <section class="my-8 p-5 bg-sky-50/80 rounded-2xl border border-sky-200">
     <h3 class="font-bold text-sm text-sky-950 mb-3">📌 合わせて読みたい富山・北陸の冬名湯＆海の幸特集</h3>
     <ul class="text-xs text-sky-900 space-y-2 list-disc list-inside">
-      <li><a href="/prefectures/toyama" class="underline font-bold hover:text-sky-700">富山県の人気温泉旅館・観光名所完全ガイド（宇奈月・氷見・富山湾・立山）</a></li>
-      <li><a href="/posts/kenrokuen-yukitsuri-kanazawa-koubakogani-kaga-onsen-guide" class="underline hover:text-sky-700">兼六園の雪吊りと金沢香箱ガニ・加賀温泉郷名宿ガイド</a></li>
-      <li><a href="/furusato-tax-shinkansen-station-walk-hotspring-stay" class="underline hover:text-sky-700">車なし・新幹線駅直結の名湯旅館ガイド（越後湯沢・熱海・加賀温泉）</a></li>
-      <li><a href="/posts/tokachigawa-onsen-moor-hotspring-jewelry-ice-winter-guide" class="underline hover:text-sky-700">十勝川温泉の奇跡のモール温泉と豊頃町ジュエリーアイスガイド</a></li>
-      <li><a href="/furusato-tax-winter-crab-gourmet-luxury-stay" class="underline hover:text-sky-700">冬の味覚の王様×活蟹尽くし極上温泉宿ガイド（タグ付き越前ガニ・松葉ガニ）</a></li>
+      <li><a href="/prefectures/toyama/" class="underline font-bold hover:text-sky-700">富山県の人気温泉旅館・観光名所完全ガイド（宇奈月・氷見・富山湾・立山）</a></li>
+      <li><a href="/posts/kenrokuen-yukitsuri-kanazawa-koubakogani-kaga-onsen-guide/" class="underline hover:text-sky-700">兼六園の雪吊りと金沢香箱ガニ・加賀温泉郷名宿ガイド</a></li>
+      <li><a href="/furusato-tax-shinkansen-station-walk-hotspring-stay/" class="underline hover:text-sky-700">車なし・新幹線駅直結の名湯旅館ガイド（越後湯沢・熱海・加賀温泉）</a></li>
+      <li><a href="/posts/tokachigawa-onsen-moor-hotspring-jewelry-ice-winter-guide/" class="underline hover:text-sky-700">十勝川温泉の奇跡のモール温泉と豊頃町ジュエリーアイスガイド</a></li>
+      <li><a href="/furusato-tax-winter-crab-gourmet-luxury-stay/" class="underline hover:text-sky-700">冬の味覚の王様×活蟹尽くし極上温泉宿ガイド（タグ付き越前ガニ・松葉ガニ）</a></li>
     </ul>
   </section>
 
@@ -1497,11 +1497,11 @@ function buildAtamiPost(data) {
   <section class="my-8 p-5 bg-rose-50/80 rounded-2xl border border-rose-200">
     <h3 class="font-bold text-sm text-rose-950 mb-3">📌 合わせて読みたい静岡・伊豆の冬名湯＆オーシャンビュー特集</h3>
     <ul class="text-xs text-rose-900 space-y-2 list-disc list-inside">
-      <li><a href="/prefectures/shizuoka" class="underline font-bold hover:text-rose-700">静岡県の人気温泉旅館・観光名所完全ガイド（熱海・伊東・下田・修善寺）</a></li>
-      <li><a href="/posts/shimoda-tsumekizaki-narcissus-kinmedai-winter-onsen-guide" class="underline hover:text-rose-700">下田・爪木崎水仙まつりと金目鯛会席・南伊豆温泉ガイド</a></li>
-      <li><a href="/furusato-tax-infinity-onsen-sky-ocean-view-stay" class="underline hover:text-rose-700">絶景インフィニティ温泉×海空一体パノラマ露天宿（熱海・南紀白浜・指宿）</a></li>
-      <li><a href="/posts/minakami-onsen-tanigawadake-snow-river-roten-guide" class="underline hover:text-rose-700">水上温泉郷の谷川岳冠雪パノラマと利根川渓谷雪見露天風呂ガイド</a></li>
-      <li><a href="/posts/nanki-katsuura-onsen-tuna-bokido-kumano-nachi-winter-guide" class="underline hover:text-rose-700">南紀勝浦温泉の冬本番生マグロ会席と洞窟露天風呂・忘帰洞ガイド</a></li>
+      <li><a href="/prefectures/shizuoka/" class="underline font-bold hover:text-rose-700">静岡県の人気温泉旅館・観光名所完全ガイド（熱海・伊東・下田・修善寺）</a></li>
+      <li><a href="/posts/shimoda-tsumekizaki-narcissus-kinmedai-winter-onsen-guide/" class="underline hover:text-rose-700">下田・爪木崎水仙まつりと金目鯛会席・南伊豆温泉ガイド</a></li>
+      <li><a href="/furusato-tax-infinity-onsen-sky-ocean-view-stay/" class="underline hover:text-rose-700">絶景インフィニティ温泉×海空一体パノラマ露天宿（熱海・南紀白浜・指宿）</a></li>
+      <li><a href="/posts/minakami-onsen-tanigawadake-snow-river-roten-guide/" class="underline hover:text-rose-700">水上温泉郷の谷川岳冠雪パノラマと利根川渓谷雪見露天風呂ガイド</a></li>
+      <li><a href="/posts/nanki-katsuura-onsen-tuna-bokido-kumano-nachi-winter-guide/" class="underline hover:text-rose-700">南紀勝浦温泉の冬本番生マグロ会席と洞窟露天風呂・忘帰洞ガイド</a></li>
     </ul>
   </section>
 

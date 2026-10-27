@@ -572,28 +572,28 @@ ${hotelCardsCode}
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
             <Link 
-              href="/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay" 
+              href="/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>浅草寺新春初詣＆スカイツリー冬夜景！江戸前名店と浅草名宿</span>
               <span className="text-amber-300">→</span>
             </Link>
             <Link 
-              href="/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay" 
+              href="/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>お台場花火＆豊洲千客万来！東京ベイ夜景と天然温泉名宿</span>
               <span className="text-amber-300">→</span>
             </Link>
             <Link 
-              href="/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay" 
+              href="/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>武蔵一宮氷川神社新春初詣＆けやきひろば光の森！寛ぎ名宿</span>
               <span className="text-amber-300">→</span>
             </Link>
             <Link 
-              href="/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay" 
+              href="/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>大阪城イルミナージュ＆大阪天満宮初詣！水都夜景となにわ名宿</span>

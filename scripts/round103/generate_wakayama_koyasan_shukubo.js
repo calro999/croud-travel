@@ -580,7 +580,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay" 
+              href="/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-900 font-bold text-xs block mb-1">和歌山・熊野古道</span>
@@ -590,7 +590,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay" 
+              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-900 font-bold text-xs block mb-1">和歌山・南紀白浜</span>
@@ -600,7 +600,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-nara-dorogawa-onsen-snow-botannabe-stay" 
+              href="/winter-nara-dorogawa-onsen-snow-botannabe-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-900 font-bold text-xs block mb-1">奈良・洞川温泉</span>
@@ -610,7 +610,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay" 
+              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-900 font-bold text-xs block mb-1">三重・伊勢神宮</span>
@@ -620,7 +620,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-kyoto-arashiyama-onsen-yudofu-stay" 
+              href="/winter-kyoto-arashiyama-onsen-yudofu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-900 font-bold text-xs block mb-1">京都・嵐山温泉</span>
@@ -630,7 +630,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay" 
+              href="/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-900 font-bold text-xs block mb-1">宮崎・高千穂</span>

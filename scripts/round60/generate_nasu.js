@@ -612,42 +612,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay"
+              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay/"
               className="bg-amber-900/80 hover:bg-amber-900 p-4 rounded-2xl transition border border-amber-800/50 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">栃木・鬼怒川</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">鬼怒川温泉 初冬渓谷美と日光生ゆば＆とちぎ和牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay"
+              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay/"
               className="bg-amber-900/80 hover:bg-amber-900 p-4 rounded-2xl transition border border-amber-800/50 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">栃木・奥日光湯元</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">奥日光湯元温泉 湯ノ湖雪景色と乳白色硫黄泉の宿</h3>
             </Link>
             <Link 
-              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay"
+              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay/"
               className="bg-amber-900/80 hover:bg-amber-900 p-4 rounded-2xl transition border border-amber-800/50 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">群馬・伊香保</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">伊香保温泉 石段街の冬情緒と黄金の湯・上州牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-gunma-kusatsu-yukimi-onsen-stay"
+              href="/winter-gunma-kusatsu-yukimi-onsen-stay/"
               className="bg-amber-900/80 hover:bg-amber-900 p-4 rounded-2xl transition border border-amber-800/50 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">群馬・草津</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">草津温泉 湯畑雪景色と日本一の強酸性泉・雪見露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay"
+              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay/"
               className="bg-amber-900/80 hover:bg-amber-900 p-4 rounded-2xl transition border border-amber-800/50 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">福島・会津東山</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">会津東山温泉 雪化粧の渓谷美と武家屋敷情緒の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-amber-900/80 hover:bg-amber-900 p-4 rounded-2xl transition border border-amber-800/50 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">特集一覧</span>

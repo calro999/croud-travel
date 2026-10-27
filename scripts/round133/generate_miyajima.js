@@ -152,9 +152,9 @@ export default function MiyajimaWinterOysterHatsumodePage() {
           <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-amber-700 transition">ホーム</Link>
             <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-            <Link href="/features" className="hover:text-amber-700 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-amber-700 transition">特集一覧</Link>
             <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-            <Link href="/prefectures/hiroshima" className="hover:text-amber-700 transition">広島県</Link>
+            <Link href="/prefectures/hiroshima/" className="hover:text-amber-700 transition">広島県</Link>
             <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
             <span className="text-stone-900 font-medium">宮島牡蠣＆厳島神社初詣</span>
           </div>
@@ -419,19 +419,19 @@ export default function MiyajimaWinterOysterHatsumodePage() {
           <div className="bg-stone-100 rounded-2xl p-6 sm:p-8 border border-stone-200 space-y-4">
             <h3 className="text-base sm:text-lg font-bold text-stone-900">あわせて読みたい広島＆山陽の厳選温泉特集</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
-              <Link href="/prefectures/hiroshima" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-amber-700 hover:border-amber-300 transition flex items-center justify-between">
+              <Link href="/prefectures/hiroshima/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-amber-700 hover:border-amber-300 transition flex items-center justify-between">
                 <span>広島県のおすすめ観光名所＆温泉宿一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-three-scenic-views-heritage-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-amber-700 hover:border-amber-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-three-scenic-views-heritage-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-amber-700 hover:border-amber-300 transition flex items-center justify-between">
                 <span>日本三景（松島・天橋立・宮島）の名門旅館特集</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-three-great-torii-gates-sacred-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-amber-700 hover:border-amber-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-three-great-torii-gates-sacred-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-amber-700 hover:border-amber-300 transition flex items-center justify-between">
                 <span>日本三大鳥居＆聖地パワースポット宿ガイド</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-local-gourmet-inn-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-amber-700 hover:border-amber-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-local-gourmet-inn-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-amber-700 hover:border-amber-300 transition flex items-center justify-between">
                 <span>ご当地グルメを堪能する全国美食旅特集</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
@@ -554,7 +554,7 @@ A3. 宮島口と宮島を結ぶフェリー（JR西日本宮島フェリーお�
 当サイトでは、宮島・尾道・広島市内をはじめ広島県各地の温泉宿・観光スポット情報を詳しくご紹介しています。
 
 👉 [【最新版】広島県のおすすめ観光・温泉宿一覧はこちら](https://croud-travel.pages.dev/prefectures/hiroshima)
-👉 [日本三景（松島・天橋立・宮島）の名門旅館特集はこちら](https://croud-travel.pages.dev/furusato-tax-three-scenic-views-heritage-stay)
+👉 [日本三景（松島・天橋立・宮島）の名門旅館特集はこちら](https://croud-travel.pages.dev/furusato-tax-three-scenic-views-heritage-stay/)
 `;
 
   fs.writeFileSync(path.join(process.cwd(), 'note-139.md'), noteContent, 'utf8');

@@ -535,37 +535,37 @@ ${faqList.map(item => `          {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay"
+              href="/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【太宰府天満宮】新春初詣＆二日市温泉・博多和牛の名宿
             </Link>
             <Link
-              href="/winter-fukuoka-itoshima-oyster-hakata-fugu-stay"
+              href="/winter-fukuoka-itoshima-oyster-hakata-fugu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【糸島】冬の焼き牡蠣小屋めぐり＆博多天然とらふぐ名宿
             </Link>
             <Link
-              href="/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay"
+              href="/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【下関・川棚温泉】関門海峡の本場とらふぐ＆名物瓦そば名宿
             </Link>
             <Link
-              href="/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay"
+              href="/winter-fukuoka-yanagawa-onsen-kotatsubune-unagi-seiromushi-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【柳川温泉】冬の風物詩こたつ舟下り＆本場うなぎのせいろ蒸し名宿
             </Link>
             <Link
-              href="/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay"
+              href="/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【唐津・呼子】透明な呼子イカ活造り＆極上佐賀牛の名宿
             </Link>
             <Link
-              href="/features"
+              href="/features/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-bold text-amber-700 block text-center flex items-center justify-center gap-1"
             >
               <span>全国の冬旅特集一覧を見る</span>

@@ -552,7 +552,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay" 
+              href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">愛知・南知多＆日間賀島</span>
@@ -562,7 +562,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay" 
+              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">三重・伊勢神宮</span>
@@ -572,7 +572,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay" 
+              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">岐阜・下呂温泉</span>
@@ -582,7 +582,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay" 
+              href="/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">静岡・浜名湖舘山寺</span>
@@ -592,7 +592,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay" 
+              href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">滋賀・彦根＆近江八幡</span>
@@ -602,7 +602,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay" 
+              href="/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">長野・昼神温泉</span>

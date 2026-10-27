@@ -534,42 +534,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay"
+              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">山梨・河口湖温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">逆さ富士望む湖畔露天風呂と甲州牛ステーキの宿</h3>
             </Link>
             <Link 
-              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay"
+              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">静岡・熱海温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">熱海海上冬花火絶景露天と金目鯛姿煮会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay"
+              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">群馬・草津温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">湯畑ライトアップと天下の名湯・上州牛すき焼きの宿</h3>
             </Link>
             <Link 
-              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay"
+              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">群馬・伊香保温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">365段石段街と黄金・白銀の二大名湯・上州牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay"
+              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">静岡・修善寺温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">伊豆の小京都・初冬の竹林小径と名湯露天・伊豆牛の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">特集一覧</span>

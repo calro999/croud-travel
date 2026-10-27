@@ -538,7 +538,7 @@ ${faqList.map(item => `    {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm mb-8">
             <Link 
-              href="/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay"
+              href="/winter-tokyo-okutama-mitake-shrine-hatsumode-hikawa-gorge-akikawagyu-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-sky-500 transition hover:shadow-md group block"
             >
               <div className="text-sky-600 font-bold text-xs mb-1">東京・奥多摩＆青梅</div>
@@ -551,7 +551,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay"
+              href="/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-sky-500 transition hover:shadow-md group block"
             >
               <div className="text-sky-600 font-bold text-xs mb-1">神奈川・大山＆伊勢原</div>
@@ -564,7 +564,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay"
+              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-sky-500 transition hover:shadow-md group block"
             >
               <div className="text-sky-600 font-bold text-xs mb-1">埼玉・秩父＆長瀞</div>
@@ -580,9 +580,9 @@ ${faqList.map(item => `    {
           <div className="flex flex-wrap justify-center gap-4 text-xs font-semibold text-slate-600">
             <Link href="/" className="hover:text-sky-600 underline">ホーム</Link>
             <span>•</span>
-            <Link href="/features" className="hover:text-sky-600 underline">特集一覧</Link>
+            <Link href="/features/" className="hover:text-sky-600 underline">特集一覧</Link>
             <span>•</span>
-            <Link href="/posts" className="hover:text-sky-600 underline">記事一覧カタログ</Link>
+            <Link href="/posts/" className="hover:text-sky-600 underline">記事一覧カタログ</Link>
           </div>
         </div>
       </section>

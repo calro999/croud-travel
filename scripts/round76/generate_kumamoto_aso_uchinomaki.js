@@ -602,7 +602,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-2">
             <Link 
-              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay"
+              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">黒川・湯あかり幻想</span>
@@ -611,7 +611,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay"
+              href="/winter-kumamoto-hirayama-onsen-sulfur-bihada-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-rose-500/40 text-rose-200 font-bold text-[10px]">平山・極上硫黄泉</span>
@@ -620,7 +620,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay"
+              href="/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">由布院・金鱗湖朝霧</span>
@@ -629,7 +629,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay"
+              href="/winter-fukuoka-harazuru-onsen-w-bihada-hakata-beef-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-orange-500/40 text-orange-200 font-bold text-[10px]">原鶴・W美肌の湯</span>

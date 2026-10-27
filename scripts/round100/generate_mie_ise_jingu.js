@@ -593,7 +593,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay" 
+              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">三重・鳥羽温泉郷</span>
@@ -603,7 +603,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay" 
+              href="/winter-mie-shima-kashikojima-onsen-iseebi-anorifugu-matsusaka-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">三重・志摩賢島</span>
@@ -613,7 +613,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-mie-nabana-no-sato-illumination-stay" 
+              href="/winter-mie-nabana-no-sato-illumination-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">三重・なばなの里</span>
@@ -623,7 +623,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay" 
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">神奈川・箱根温泉</span>
@@ -633,7 +633,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay" 
+              href="/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-800 font-bold text-xs block mb-1">長野・軽井沢星野</span>
@@ -643,7 +643,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-stone-100 border border-stone-200 hover:border-amber-400 transition-all group flex flex-col justify-center text-center"
             >
               <span className="text-stone-900 font-bold group-hover:text-amber-900 transition-colors">

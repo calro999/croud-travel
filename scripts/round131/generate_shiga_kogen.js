@@ -175,12 +175,12 @@ export const metadata: Metadata = {
   description: '世界が息を呑む奇跡の光景「温泉に入る雪猿（スノーモンキー）」地獄谷野猿公苑の冬攻略完全ガイド。白銀の横手山・焼額山パウダースノー、渋温泉の石畳九湯めぐり、登録有形文化財の名湯「桃山風呂」や老舗金具屋など、冬の北信濃を満喫する厳選ホテル・温泉旅館5選を徹底特集。雪道アクセスや防寒対策も詳しく解説。',
   keywords: '志賀高原, 地獄谷野猿公苑, スノーモンキー, 湯田中温泉, 渋温泉, 志賀高原プリンスホテル, 金具屋, よろづや, 九湯めぐり, 信州牛, 冬旅行, スキー',
   alternates: {
-    canonical: 'https://croud-travel.pages.dev/winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay',
+    canonical: 'https://croud-travel.pages.dev/winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay/',
   },
   openGraph: {
     title: '【志賀高原＆地獄谷野猿公苑】スノーモンキーと極上パウダースノー！湯田中・渋温泉郷の九湯めぐり＆信州牛を堪能する冬の名宿5選',
     description: '世界が息を呑む奇跡の光景「温泉に入る雪猿（スノーモンキー）」地獄谷野猿公苑の冬攻略完全ガイド。白銀の横手山・焼額山パウダースノー、渋温泉の石畳九湯めぐり、登録有形文化財の名湯「桃山風呂」や老舗金具屋など、冬の北信濃を満喫する厳選ホテル・温泉旅館5選を徹底特集。',
-    url: 'https://croud-travel.pages.dev/winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay',
+    url: 'https://croud-travel.pages.dev/winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay/',
     siteName: 'トラベルマップ - 日本の観光名所＆ホテル厳選ガイド',
     locale: 'ja_JP',
     type: 'article',
@@ -225,7 +225,7 @@ export default function ShigaKogenSnowMonkeyPage() {
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://croud-travel.pages.dev/winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay',
+      '@id': 'https://croud-travel.pages.dev/winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay/',
     },
   };
 
@@ -243,13 +243,13 @@ export default function ShigaKogenSnowMonkeyPage() {
         '@type': 'ListItem',
         position: 2,
         name: '特集一覧',
-        item: 'https://croud-travel.pages.dev/features',
+        item: 'https://croud-travel.pages.dev/features/',
       },
       {
         '@type': 'ListItem',
         position: 3,
         name: '志賀高原＆地獄谷スノーモンキー冬特集',
-        item: 'https://croud-travel.pages.dev/winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay',
+        item: 'https://croud-travel.pages.dev/winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay/',
       },
     ],
   };
@@ -306,7 +306,7 @@ export default function ShigaKogenSnowMonkeyPage() {
         <div className="max-w-6xl mx-auto px-4 py-3 text-xs sm:text-sm text-slate-600 flex items-center gap-1.5 flex-wrap">
           <Link href="/" className="hover:text-blue-600 transition-colors">ホーム</Link>
           <span className="text-slate-400">/</span>
-          <Link href="/features" className="hover:text-blue-600 transition-colors">特集一覧</Link>
+          <Link href="/features/" className="hover:text-blue-600 transition-colors">特集一覧</Link>
           <span className="text-slate-400">/</span>
           <span className="text-slate-900 font-medium">志賀高原＆地獄谷スノーモンキー冬特集</span>
         </div>
@@ -352,7 +352,7 @@ export default function ShigaKogenSnowMonkeyPage() {
 
           <div className="space-y-5 text-sm sm:text-base text-slate-700 leading-relaxed">
             <p>
-              長野県北東部、上信越高原国立公園の中核をなす山ノ内町。冬になると日本海からの湿った季節風が志賀連峰にぶつかり、標高1,500mから2,300mに及ぶ高原地帯には、湿り気のないサラサラとした世界最高水準の「プラチナパウダースノー」が降り積もります。全18ものスキー場が連結し、単一のリゾートエリアとしては日本最大規模を誇る志賀高原は、パウダースノーを愛するスキーヤー・スノーボーダーにとって紛れもない冬の聖地です。信州の冬旅では、門前町が賑わう<Link href="/winter-nagano-zenkoji-hatsumode-soba-onsen-stay" className="text-blue-600 hover:underline font-bold">長野・善光寺の初詣</Link>や、隣接する<Link href="/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay" className="text-blue-600 hover:underline font-bold">小布施の栗と渋温泉</Link>、さらには歴史ある<Link href="/nagano-nozawa-solo-retreat-onsen-stay" className="text-blue-600 hover:underline font-bold">野沢温泉の外湯めぐり</Link>と組み合わせた周遊ルートも絶大な人気を集めています。
+              長野県北東部、上信越高原国立公園の中核をなす山ノ内町。冬になると日本海からの湿った季節風が志賀連峰にぶつかり、標高1,500mから2,300mに及ぶ高原地帯には、湿り気のないサラサラとした世界最高水準の「プラチナパウダースノー」が降り積もります。全18ものスキー場が連結し、単一のリゾートエリアとしては日本最大規模を誇る志賀高原は、パウダースノーを愛するスキーヤー・スノーボーダーにとって紛れもない冬の聖地です。信州の冬旅では、門前町が賑わう<Link href="/winter-nagano-zenkoji-hatsumode-soba-onsen-stay/" className="text-blue-600 hover:underline font-bold">長野・善光寺の初詣</Link>や、隣接する<Link href="/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay/" className="text-blue-600 hover:underline font-bold">小布施の栗と渋温泉</Link>、さらには歴史ある<Link href="/nagano-nozawa-solo-retreat-onsen-stay/" className="text-blue-600 hover:underline font-bold">野沢温泉の外湯めぐり</Link>と組み合わせた周遊ルートも絶大な人気を集めています。
             </p>
             <p>
               その志賀高原の麓、横湯川の険しい渓谷沿いに位置するのが世界的に知られる「地獄谷野猿公苑（Jigokudani Monkey Park）」です。冬の厳しい寒さと豪雪を耐え抜くため、野生のニホンザルが天然露天風呂に肩まで浸かって目を細める姿は、米TIME誌の表紙を飾るなど地球上で唯一無二の絶景として知られます。頭の上に雪を積もらせながら仲間同士で身を寄せ合い、湯煙の中で温まる愛らしい姿は、厳しい自然の中で生きる生命の温もりを直に感じさせてくれます。
@@ -482,28 +482,28 @@ export default function ShigaKogenSnowMonkeyPage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs sm:text-sm">
             <Link 
-              href="/winter-nagano-zenkoji-hatsumode-soba-onsen-stay"
+              href="/winter-nagano-zenkoji-hatsumode-soba-onsen-stay/"
               className="p-3 bg-slate-800/80 hover:bg-slate-700/80 rounded-xl border border-slate-700 transition-colors flex items-center justify-between"
             >
               <span>長野・善光寺新春初詣＆戸隠そば・信州温泉名宿</span>
               <ChevronRight className="w-4 h-4 text-slate-400 shrink-0" />
             </Link>
             <Link 
-              href="/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay"
+              href="/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay/"
               className="p-3 bg-slate-800/80 hover:bg-slate-700/80 rounded-xl border border-slate-700 transition-colors flex items-center justify-between"
             >
               <span>長野・小布施栗の小径散策＆渋温泉・信州牛美食名宿</span>
               <ChevronRight className="w-4 h-4 text-slate-400 shrink-0" />
             </Link>
             <Link 
-              href="/winter-nagano-tateshina-onsen-yatsugatake-snow-shinshu-beef-stay"
+              href="/winter-nagano-tateshina-onsen-yatsugatake-snow-shinshu-beef-stay/"
               className="p-3 bg-slate-800/80 hover:bg-slate-700/80 rounded-xl border border-slate-700 transition-colors flex items-center justify-between"
             >
               <span>長野・蓼科温泉＆八ヶ岳雪景色・信州牛ローストビーフ名宿</span>
               <ChevronRight className="w-4 h-4 text-slate-400 shrink-0" />
             </Link>
             <Link 
-              href="/nagano-nozawa-solo-retreat-onsen-stay"
+              href="/nagano-nozawa-solo-retreat-onsen-stay/"
               className="p-3 bg-slate-800/80 hover:bg-slate-700/80 rounded-xl border border-slate-700 transition-colors flex items-center justify-between"
             >
               <span>長野・野沢温泉十三外湯めぐり＆名物野沢菜一人旅名宿</span>

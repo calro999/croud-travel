@@ -256,10 +256,10 @@ function buildHimiPost(data) {
   <section class="p-5 bg-stone-50 rounded-2xl border border-stone-200 space-y-3 text-xs md:text-sm">
     <h3 class="font-bold text-stone-900">🔗 あわせて読みたい北陸の冬旅・温泉特集（サイト内ガイド）</h3>
     <ul class="grid grid-cols-1 md:grid-cols-2 gap-2 text-blue-800">
-      <li>・<a href="/prefectures/toyama" class="hover:underline font-semibold">富山県の観光・名所・温泉宿完全ガイド</a></li>
-      <li>・<a href="/posts/unazuki-onsen-kurobe-gorge-snow-kanburi-crab-guide" class="hover:underline font-semibold">宇奈月温泉と黒部峡谷雪景色・富山湾寒ブリ＆カニ特集</a></li>
-      <li>・<a href="/features/onsen" class="hover:underline font-semibold">全国の厳選名湯・源泉かけ流し温泉特集</a></li>
-      <li>・<a href="/features/gourmet" class="hover:underline font-semibold">冬の極上味覚！カニ・寒ぶり・郷土グルメの旅</a></li>
+      <li>・<a href="/prefectures/toyama/" class="hover:underline font-semibold">富山県の観光・名所・温泉宿完全ガイド</a></li>
+      <li>・<a href="/posts/unazuki-onsen-kurobe-gorge-snow-kanburi-crab-guide/" class="hover:underline font-semibold">宇奈月温泉と黒部峡谷雪景色・富山湾寒ブリ＆カニ特集</a></li>
+      <li>・<a href="/features/onsen/" class="hover:underline font-semibold">全国の厳選名湯・源泉かけ流し温泉特集</a></li>
+      <li>・<a href="/features/gourmet/" class="hover:underline font-semibold">冬の極上味覚！カニ・寒ぶり・郷土グルメの旅</a></li>
     </ul>
   </section>
 
@@ -557,10 +557,10 @@ function buildTangoPost(data) {
   <section class="p-5 bg-stone-50 rounded-2xl border border-stone-200 space-y-3 text-xs md:text-sm">
     <h3 class="font-bold text-stone-900">🔗 あわせて読みたい関西・山陰の冬旅・カニ特集（サイト内ガイド）</h3>
     <ul class="grid grid-cols-1 md:grid-cols-2 gap-2 text-emerald-800">
-      <li>・<a href="/prefectures/kyoto" class="hover:underline font-semibold">京都府の観光名所・エリア別厳選宿ガイド</a></li>
-      <li>・<a href="/posts/kinosaki-onsen-matsuba-crab-snow-sotoyu-meguri-guide" class="hover:underline font-semibold">城崎温泉の松葉ガニと雪の七田外湯めぐり完全ガイド</a></li>
-      <li>・<a href="/features/gourmet" class="hover:underline font-semibold">冬の極上カニ尽くし！全国のブランド蟹おすすめ宿</a></li>
-      <li>・<a href="/features/ocean-view" class="hover:underline font-semibold">日本海を一望！オーシャンビュー絶景宿特集</a></li>
+      <li>・<a href="/prefectures/kyoto/" class="hover:underline font-semibold">京都府の観光名所・エリア別厳選宿ガイド</a></li>
+      <li>・<a href="/posts/kinosaki-onsen-matsuba-crab-snow-sotoyu-meguri-guide/" class="hover:underline font-semibold">城崎温泉の松葉ガニと雪の七田外湯めぐり完全ガイド</a></li>
+      <li>・<a href="/features/gourmet/" class="hover:underline font-semibold">冬の極上カニ尽くし！全国のブランド蟹おすすめ宿</a></li>
+      <li>・<a href="/features/ocean-view/" class="hover:underline font-semibold">日本海を一望！オーシャンビュー絶景宿特集</a></li>
     </ul>
   </section>
 
@@ -858,10 +858,10 @@ function buildAwajishimaPost(data) {
   <section class="p-5 bg-stone-50 rounded-2xl border border-stone-200 space-y-3 text-xs md:text-sm">
     <h3 class="font-bold text-stone-900">🔗 あわせて読みたい兵庫県・関西の冬旅特集（サイト内ガイド）</h3>
     <ul class="grid grid-cols-1 md:grid-cols-2 gap-2 text-amber-800">
-      <li>・<a href="/prefectures/hyogo" class="hover:underline font-semibold">兵庫県の温泉・観光・リゾート宿完全ガイド</a></li>
-      <li>・<a href="/posts/nanki-katsuura-onsen-tuna-bokido-kumano-nachi-winter-guide" class="hover:underline font-semibold">南紀勝浦温泉の生マグロと忘帰洞・熊野那智大社冬旅</a></li>
-      <li>・<a href="/features/gourmet" class="hover:underline font-semibold">全国の冬の高級味覚グルメ宿特集</a></li>
-      <li>・<a href="/features/onsen" class="hover:underline font-semibold">美肌の湯・ぬるぬる重曹泉のおすすめ温泉宿</a></li>
+      <li>・<a href="/prefectures/hyogo/" class="hover:underline font-semibold">兵庫県の温泉・観光・リゾート宿完全ガイド</a></li>
+      <li>・<a href="/posts/nanki-katsuura-onsen-tuna-bokido-kumano-nachi-winter-guide/" class="hover:underline font-semibold">南紀勝浦温泉の生マグロと忘帰洞・熊野那智大社冬旅</a></li>
+      <li>・<a href="/features/gourmet/" class="hover:underline font-semibold">全国の冬の高級味覚グルメ宿特集</a></li>
+      <li>・<a href="/features/onsen/" class="hover:underline font-semibold">美肌の湯・ぬるぬる重曹泉のおすすめ温泉宿</a></li>
     </ul>
   </section>
 
@@ -1160,10 +1160,10 @@ function buildHuistenboschPost(data) {
   <section class="p-5 bg-stone-50 rounded-2xl border border-stone-200 space-y-3 text-xs md:text-sm">
     <h3 class="font-bold text-stone-900">🔗 あわせて読みたい九州の冬旅・イルミネーション特集（サイト内ガイド）</h3>
     <ul class="grid grid-cols-1 md:grid-cols-2 gap-2 text-purple-800">
-      <li>・<a href="/prefectures/nagasaki" class="hover:underline font-semibold">長崎県の観光名所・島原・佐世保厳選ホテルガイド</a></li>
-      <li>・<a href="/posts/kurokawa-onsen-yuakari-snow-noten-aso-guide" class="hover:underline font-semibold">黒川温泉の湯あかり竹灯籠と雪見露天風呂完全ガイド</a></li>
-      <li>・<a href="/features/winter" class="hover:underline font-semibold">全国の冬イルミネーション・雪景色絶景特集</a></li>
-      <li>・<a href="/features/luxury" class="hover:underline font-semibold">大人のご褒美記念日！憧れのラグジュアリーホテル特集</a></li>
+      <li>・<a href="/prefectures/nagasaki/" class="hover:underline font-semibold">長崎県の観光名所・島原・佐世保厳選ホテルガイド</a></li>
+      <li>・<a href="/posts/kurokawa-onsen-yuakari-snow-noten-aso-guide/" class="hover:underline font-semibold">黒川温泉の湯あかり竹灯籠と雪見露天風呂完全ガイド</a></li>
+      <li>・<a href="/features/winter/" class="hover:underline font-semibold">全国の冬イルミネーション・雪景色絶景特集</a></li>
+      <li>・<a href="/features/luxury/" class="hover:underline font-semibold">大人のご褒美記念日！憧れのラグジュアリーホテル特集</a></li>
     </ul>
   </section>
 
@@ -1461,10 +1461,10 @@ function buildManzaPost(data) {
   <section class="p-5 bg-stone-50 rounded-2xl border border-stone-200 space-y-3 text-xs md:text-sm">
     <h3 class="font-bold text-stone-900">🔗 あわせて読みたい群馬県・信越の冬旅・秘湯特集（サイト内ガイド）</h3>
     <ul class="grid grid-cols-1 md:grid-cols-2 gap-2 text-cyan-800">
-      <li>・<a href="/prefectures/gunma" class="hover:underline font-semibold">群馬県の温泉・観光・草津万座伊香保完全ガイド</a></li>
-      <li>・<a href="/posts/minakami-onsen-tanigawadake-snow-river-roten-guide" class="hover:underline font-semibold">水上温泉と谷川岳雪景色・利根川雪見露天風呂特集</a></li>
-      <li>・<a href="/features/onsen" class="hover:underline font-semibold">にごり湯・硫黄泉・秘湯の厳選名湯特集</a></li>
-      <li>・<a href="/features/winter" class="hover:underline font-semibold">白銀の絶景！雪見露天風呂のある宿特集</a></li>
+      <li>・<a href="/prefectures/gunma/" class="hover:underline font-semibold">群馬県の温泉・観光・草津万座伊香保完全ガイド</a></li>
+      <li>・<a href="/posts/minakami-onsen-tanigawadake-snow-river-roten-guide/" class="hover:underline font-semibold">水上温泉と谷川岳雪景色・利根川雪見露天風呂特集</a></li>
+      <li>・<a href="/features/onsen/" class="hover:underline font-semibold">にごり湯・硫黄泉・秘湯の厳選名湯特集</a></li>
+      <li>・<a href="/features/winter/" class="hover:underline font-semibold">白銀の絶景！雪見露天風呂のある宿特集</a></li>
     </ul>
   </section>
 

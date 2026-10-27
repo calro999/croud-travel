@@ -107,7 +107,7 @@ export default function Page() {
           <div className="flex items-center space-x-4 text-xs font-medium text-stone-600">
             <Link href="/" className="hover:text-emerald-700">トップ</Link>
             <span>/</span>
-            <Link href="/sitemap" className="hover:text-emerald-700">特集一覧</Link>
+            <Link href="/sitemap/" className="hover:text-emerald-700">特集一覧</Link>
             <span>/</span>
             <span className="text-stone-400">秋のふるさと納税特集</span>
           </div>
@@ -397,16 +397,16 @@ export default function Page() {
         <section className="bg-amber-50/50 p-6 rounded-xl border border-amber-200 space-y-4">
           <h2 className="text-lg font-bold text-stone-900">こちらもチェック！秋のふるさと納税特集</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs md:text-sm">
-            <Link href="/furusato-tax-echigo-tsumari-tokamachi-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-echigo-tsumari-tokamachi-autumn-stay/" className="text-emerald-800 hover:underline">
               → 新潟・十日町星峠の棚田雲海＆松之山温泉特集
             </Link>
-            <Link href="/furusato-tax-shirakawa-gokayama-gassho-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-shirakawa-gokayama-gassho-autumn-stay/" className="text-emerald-800 hover:underline">
               → 富山・五箇山合掌造り＆庄川峡紅葉遊覧船特集
             </Link>
-            <Link href="/furusato-tax-nasu-rindo-momiji-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-nasu-rindo-momiji-autumn-stay/" className="text-emerald-800 hover:underline">
               → 栃木・那須もみじ谷大吊橋＆那須温泉郷特集
             </Link>
-            <Link href="/furusato-tax-shodoshima-kankakei-olive-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-shodoshima-kankakei-olive-autumn-stay/" className="text-emerald-800 hover:underline">
               → 香川・小豆島寒霞渓＆オリーブ収穫祭特集
             </Link>
           </div>

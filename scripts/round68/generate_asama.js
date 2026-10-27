@@ -570,42 +570,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay"
+              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">長野・諏訪湖温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">諏訪湖一望の絶景露天風呂と信州牛・地酒蔵めぐりの宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-shirahone-onsen-milky-snow-stay"
+              href="/winter-nagano-shirahone-onsen-milky-snow-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">長野・白骨温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">3日入れば3年風邪ひかぬ乳白色にごり湯と雪見露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay"
+              href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">長野・白馬温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">白銀の北アルプス絶景とパウダースノー・信州牛ステーキの宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-achimura-hirugami-starry-sky-stay"
+              href="/winter-nagano-achimura-hirugami-starry-sky-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">長野・阿智村昼神温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">日本一の星空ナイトツアーと美肌名湯・南信州牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay"
+              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">岐阜・下呂温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">冬の花火ミュージカルと日本三名泉・飛騨牛づくしの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>

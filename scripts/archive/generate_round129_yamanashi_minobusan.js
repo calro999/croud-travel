@@ -213,9 +213,9 @@ ${hotelCardsCode}
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-indigo-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-indigo-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-indigo-600 transition">特集一覧</Link>
             <span>/</span>
-            <Link href="/prefectures/yamanashi" className="hover:text-indigo-600 transition">山梨県</Link>
+            <Link href="/prefectures/yamanashi/" className="hover:text-indigo-600 transition">山梨県</Link>
             <span>/</span>
             <span className="text-stone-800 font-medium">身延山久遠寺初詣＆下部温泉ぬる湯治</span>
           </div>
@@ -559,10 +559,10 @@ ${hotelCardsCode}
               白銀の富士山を仰ぐ身延山久遠寺の奥之院新春初詣、滋味深い身延山ゆば料理、そして信玄公ゆかりの下部温泉での極上ぬる湯治。冬の寒さを忘れさせてくれる豊かな歴史と名湯が、新年の清々しい門出を温かく祝福してくれます。
             </p>
             <div className="flex flex-wrap items-center justify-center gap-3 text-xs">
-              <Link href="/features" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
+              <Link href="/features/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 ← 特集一覧に戻る
               </Link>
-              <Link href="/prefectures/yamanashi" className="px-4 py-2 rounded-full bg-indigo-50 hover:bg-indigo-100 text-indigo-700 font-semibold transition">
+              <Link href="/prefectures/yamanashi/" className="px-4 py-2 rounded-full bg-indigo-50 hover:bg-indigo-100 text-indigo-700 font-semibold transition">
                 山梨県の旅行ガイド・宿一覧
               </Link>
               <Link href="/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">

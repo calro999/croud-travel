@@ -298,11 +298,11 @@ function buildNozawaPost(data) {
   <section class="my-8 p-5 bg-teal-50/80 rounded-2xl border border-teal-200">
     <h3 class="font-bold text-sm text-teal-950 mb-3">📌 合わせて読みたい長野・甲信越の雪見名湯・冬旅特集</h3>
     <ul class="text-xs text-teal-900 space-y-2 list-disc list-inside">
-      <li><a href="/nagano" class="underline font-bold hover:text-teal-700">長野県の人気温泉旅館・観光名所完全ガイド（渋・野沢・白馬・上高地）</a></li>
-      <li><a href="/posts/snow-monkey-jigokudani-shibu-yudanaka-onsen-guide" class="underline hover:text-teal-700">地獄谷野猿公苑スノーモンキーと渋温泉・湯田中温泉郷の旅！九湯めぐりガイド</a></li>
-      <li><a href="/posts/kusatsu-onsen-yubatake-winter-lightup-snow-bath-guide" class="underline hover:text-teal-700">草津温泉の冬の湯畑ライトアップと西の河原雪見露天風呂！極上名宿ガイド</a></li>
-      <li><a href="/posts/zao-onsen-snow-monster-juhyo-lightup-winter-guide" class="underline hover:text-teal-700">蔵王温泉の樹氷ライトアップ・スノーモンスター体験と強酸性硫黄泉名宿ガイド</a></li>
-      <li><a href="/posts/echigoyuzawa-famous-things-gourmet-hotels-guide" class="underline hover:text-teal-700">越後湯沢の雪国情緒と日本酒ぽんしゅ館・魚沼コシヒカリ美食温泉宿ガイド</a></li>
+      <li><a href="/nagano/" class="underline font-bold hover:text-teal-700">長野県の人気温泉旅館・観光名所完全ガイド（渋・野沢・白馬・上高地）</a></li>
+      <li><a href="/posts/snow-monkey-jigokudani-shibu-yudanaka-onsen-guide/" class="underline hover:text-teal-700">地獄谷野猿公苑スノーモンキーと渋温泉・湯田中温泉郷の旅！九湯めぐりガイド</a></li>
+      <li><a href="/posts/kusatsu-onsen-yubatake-winter-lightup-snow-bath-guide/" class="underline hover:text-teal-700">草津温泉の冬の湯畑ライトアップと西の河原雪見露天風呂！極上名宿ガイド</a></li>
+      <li><a href="/posts/zao-onsen-snow-monster-juhyo-lightup-winter-guide/" class="underline hover:text-teal-700">蔵王温泉の樹氷ライトアップ・スノーモンスター体験と強酸性硫黄泉名宿ガイド</a></li>
+      <li><a href="/posts/echigoyuzawa-famous-things-gourmet-hotels-guide/" class="underline hover:text-teal-700">越後湯沢の雪国情緒と日本酒ぽんしゅ館・魚沼コシヒカリ美食温泉宿ガイド</a></li>
     </ul>
   </section>
 
@@ -622,11 +622,11 @@ function buildOkuhidaPost(data) {
   <section class="my-8 p-5 bg-indigo-50/80 rounded-2xl border border-indigo-200">
     <h3 class="font-bold text-sm text-indigo-950 mb-3">📌 合わせて読みたい飛騨・中部の雪見名湯・冬旅特集</h3>
     <ul class="text-xs text-indigo-900 space-y-2 list-disc list-inside">
-      <li><a href="/gifu" class="underline font-bold hover:text-indigo-700">岐阜県の人気温泉旅館・観光名所完全ガイド（下呂・奥飛騨・白川郷・高山）</a></li>
-      <li><a href="/posts/shirakawago-okuhida-shinhotaka-hotels-guide" class="underline hover:text-indigo-700">白川郷合掌造り雪景色と奥飛騨温泉郷・新穂高絶景露天風呂巡りガイド</a></li>
-      <li><a href="/posts/gero-onsen-bihada-ranking-guide" class="underline hover:text-indigo-700">下呂温泉：天下の三名泉！とろとろ美肌の湯と飛騨牛食べ比べ名宿ガイド</a></li>
-      <li><a href="/posts/kusatsu-onsen-yubatake-winter-lightup-snow-bath-guide" class="underline hover:text-indigo-700">草津温泉の冬の湯畑ライトアップと西の河原雪見露天風呂！極上名宿ガイド</a></li>
-      <li><a href="/posts/himi-onsen-tateyama-view-buri-guide" class="underline hover:text-indigo-700">富山・氷見温泉郷：雪の立山連峰パノラマと冬の王様「寒ぶり」会席ガイド</a></li>
+      <li><a href="/gifu/" class="underline font-bold hover:text-indigo-700">岐阜県の人気温泉旅館・観光名所完全ガイド（下呂・奥飛騨・白川郷・高山）</a></li>
+      <li><a href="/posts/shirakawago-okuhida-shinhotaka-hotels-guide/" class="underline hover:text-indigo-700">白川郷合掌造り雪景色と奥飛騨温泉郷・新穂高絶景露天風呂巡りガイド</a></li>
+      <li><a href="/posts/gero-onsen-bihada-ranking-guide/" class="underline hover:text-indigo-700">下呂温泉：天下の三名泉！とろとろ美肌の湯と飛騨牛食べ比べ名宿ガイド</a></li>
+      <li><a href="/posts/kusatsu-onsen-yubatake-winter-lightup-snow-bath-guide/" class="underline hover:text-indigo-700">草津温泉の冬の湯畑ライトアップと西の河原雪見露天風呂！極上名宿ガイド</a></li>
+      <li><a href="/posts/himi-onsen-tateyama-view-buri-guide/" class="underline hover:text-indigo-700">富山・氷見温泉郷：雪の立山連峰パノラマと冬の王様「寒ぶり」会席ガイド</a></li>
     </ul>
   </section>
 
@@ -945,11 +945,11 @@ function buildAkanPost(data) {
   <section class="my-8 p-5 bg-blue-50/80 rounded-2xl border border-blue-200">
     <h3 class="font-bold text-sm text-blue-950 mb-3">📌 合わせて読みたい北海道・道東の雪見名湯・冬旅特集</h3>
     <ul class="text-xs text-blue-900 space-y-2 list-disc list-inside">
-      <li><a href="/hokkaido" class="underline font-bold hover:text-blue-700">北海道の人気温泉リゾート・観光名所完全ガイド（定山渓・登別・洞爺湖・阿寒湖）</a></li>
-      <li><a href="/posts/drift-ice-walk-icebreaker-cruise-okhotsk-hotels-guide" class="underline hover:text-blue-700">オホーツク流氷ウォークと砕氷船おーろら号！知床ウトロ・網走温泉名宿ガイド</a></li>
-      <li><a href="/posts/otaru-snow-story-canal-illumination-asarigawa-onsen-guide" class="underline hover:text-blue-700">小樽ゆき物語「青の運河」と朝里川温泉！冬の小樽寿司と雪見露天名宿ガイド</a></li>
-      <li><a href="/posts/zao-onsen-snow-monster-juhyo-lightup-winter-guide" class="underline hover:text-blue-700">蔵王温泉の樹氷ライトアップ・スノーモンスター体験と強酸性硫黄泉名宿ガイド</a></li>
-      <li><a href="/posts/nyuto-onsen-kyo-snow-secret-bath-kiritanpo-akita-guide" class="underline hover:text-blue-700">秋田・乳頭温泉郷の白銀雪見露天風呂と本場きりたんぽ鍋ガイド</a></li>
+      <li><a href="/hokkaido/" class="underline font-bold hover:text-blue-700">北海道の人気温泉リゾート・観光名所完全ガイド（定山渓・登別・洞爺湖・阿寒湖）</a></li>
+      <li><a href="/posts/drift-ice-walk-icebreaker-cruise-okhotsk-hotels-guide/" class="underline hover:text-blue-700">オホーツク流氷ウォークと砕氷船おーろら号！知床ウトロ・網走温泉名宿ガイド</a></li>
+      <li><a href="/posts/otaru-snow-story-canal-illumination-asarigawa-onsen-guide/" class="underline hover:text-blue-700">小樽ゆき物語「青の運河」と朝里川温泉！冬の小樽寿司と雪見露天名宿ガイド</a></li>
+      <li><a href="/posts/zao-onsen-snow-monster-juhyo-lightup-winter-guide/" class="underline hover:text-blue-700">蔵王温泉の樹氷ライトアップ・スノーモンスター体験と強酸性硫黄泉名宿ガイド</a></li>
+      <li><a href="/posts/nyuto-onsen-kyo-snow-secret-bath-kiritanpo-akita-guide/" class="underline hover:text-blue-700">秋田・乳頭温泉郷の白銀雪見露天風呂と本場きりたんぽ鍋ガイド</a></li>
     </ul>
   </section>
 
@@ -1269,11 +1269,11 @@ function buildShimonosekiPost(data) {
   <section class="my-8 p-5 bg-rose-50/80 rounded-2xl border border-rose-200">
     <h3 class="font-bold text-sm text-rose-950 mb-3">📌 合わせて読みたい山口・西日本の冬の美食名湯特集</h3>
     <ul class="text-xs text-rose-900 space-y-2 list-disc list-inside">
-      <li><a href="/yamaguchi" class="underline font-bold hover:text-rose-700">山口県の人気温泉旅館・観光名所完全ガイド（長門湯本・萩・下関・湯田）</a></li>
-      <li><a href="/posts/hagi-castle-town-shokasonjuku-hotels-guide" class="underline hover:text-rose-700">萩の城下町と松下村塾！世界遺産と日本海鮮魚を堪能する名旅館ガイド</a></li>
-      <li><a href="/posts/torafugu-blowfish-kaiseki-gourmet-hotels-guide" class="underline hover:text-rose-700">本場とらふぐ会席が美味しい名宿！全国の厳選ふぐ料理温泉宿比較ガイド</a></li>
-      <li><a href="/posts/kinosaki-onsen-seven-baths-yukata-guide" class="underline hover:text-rose-700">城崎温泉カニ旅行：七つの外湯めぐりと冬の極上松葉ガニ会席ガイド</a></li>
-      <li><a href="/posts/dogo-onsen-matsuyama-hotels-guide" class="underline hover:text-rose-700">愛媛・道後温泉：日本最古の名湯本館と瀬戸内冬真鯛・伊予牛名宿ガイド</a></li>
+      <li><a href="/yamaguchi/" class="underline font-bold hover:text-rose-700">山口県の人気温泉旅館・観光名所完全ガイド（長門湯本・萩・下関・湯田）</a></li>
+      <li><a href="/posts/hagi-castle-town-shokasonjuku-hotels-guide/" class="underline hover:text-rose-700">萩の城下町と松下村塾！世界遺産と日本海鮮魚を堪能する名旅館ガイド</a></li>
+      <li><a href="/posts/torafugu-blowfish-kaiseki-gourmet-hotels-guide/" class="underline hover:text-rose-700">本場とらふぐ会席が美味しい名宿！全国の厳選ふぐ料理温泉宿比較ガイド</a></li>
+      <li><a href="/posts/kinosaki-onsen-seven-baths-yukata-guide/" class="underline hover:text-rose-700">城崎温泉カニ旅行：七つの外湯めぐりと冬の極上松葉ガニ会席ガイド</a></li>
+      <li><a href="/posts/dogo-onsen-matsuyama-hotels-guide/" class="underline hover:text-rose-700">愛媛・道後温泉：日本最古の名湯本館と瀬戸内冬真鯛・伊予牛名宿ガイド</a></li>
     </ul>
   </section>
 
@@ -1596,11 +1596,11 @@ function buildAizuPost(data) {
   <section class="my-8 p-5 bg-amber-50/80 rounded-2xl border border-amber-200">
     <h3 class="font-bold text-sm text-amber-950 mb-3">📌 合わせて読みたい福島・東北の雪見名湯・冬旅特集</h3>
     <ul class="text-xs text-amber-900 space-y-2 list-disc list-inside">
-      <li><a href="/fukushima" class="underline font-bold hover:text-amber-700">福島県の人気温泉旅館・観光名所完全ガイド（会津若松・磐梯・東山・いわき）</a></li>
-      <li><a href="/posts/155" class="underline hover:text-amber-700">白銀のJR只見線と奥会津柳津！名湯と会津地鶏を満喫する冬の厳選名宿ガイド</a></li>
-      <li><a href="/posts/zao-onsen-snow-monster-juhyo-lightup-winter-guide" class="underline hover:text-amber-700">蔵王温泉の樹氷ライトアップ・スノーモンスター体験と強酸性硫黄泉名宿ガイド</a></li>
-      <li><a href="/posts/ginzan-onsen-taisho-roman-snow-view-guide" class="underline hover:text-amber-700">山形・銀山温泉：大正ロマンの木造建築＆ガス灯灯る雪景色宿おすすめガイド</a></li>
-      <li><a href="/posts/nyuto-onsen-kyo-snow-secret-bath-kiritanpo-akita-guide" class="underline hover:text-amber-700">秋田・乳頭温泉郷の白銀雪見露天風呂と本場きりたんぽ鍋ガイド</a></li>
+      <li><a href="/fukushima/" class="underline font-bold hover:text-amber-700">福島県の人気温泉旅館・観光名所完全ガイド（会津若松・磐梯・東山・いわき）</a></li>
+      <li><a href="/posts/155/" class="underline hover:text-amber-700">白銀のJR只見線と奥会津柳津！名湯と会津地鶏を満喫する冬の厳選名宿ガイド</a></li>
+      <li><a href="/posts/zao-onsen-snow-monster-juhyo-lightup-winter-guide/" class="underline hover:text-amber-700">蔵王温泉の樹氷ライトアップ・スノーモンスター体験と強酸性硫黄泉名宿ガイド</a></li>
+      <li><a href="/posts/ginzan-onsen-taisho-roman-snow-view-guide/" class="underline hover:text-amber-700">山形・銀山温泉：大正ロマンの木造建築＆ガス灯灯る雪景色宿おすすめガイド</a></li>
+      <li><a href="/posts/nyuto-onsen-kyo-snow-secret-bath-kiritanpo-akita-guide/" class="underline hover:text-amber-700">秋田・乳頭温泉郷の白銀雪見露天風呂と本場きりたんぽ鍋ガイド</a></li>
     </ul>
   </section>
 

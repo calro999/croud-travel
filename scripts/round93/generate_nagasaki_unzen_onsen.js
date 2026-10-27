@@ -537,21 +537,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay" 
+              href="/winter-nagasaki-obama-onsen-sunset-crab-champon-wagyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">長崎・小浜温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">橘湾の夕日と日本一の熱量・小浜ちゃんぽんと長崎和牛名宿</p>
             </Link>
             <Link 
-              href="/winter-saga-takeo-onsen-romon-saga-beef-stay" 
+              href="/winter-saga-takeo-onsen-romon-saga-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">佐賀・武雄温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">辰野金吾設計の楼門と美肌湯・極上佐賀牛すき焼き名宿</p>
             </Link>
             <Link 
-              href="/winter-kumamoto-kikuchi-onsen-bihada-akagyu-pork-stay" 
+              href="/winter-kumamoto-kikuchi-onsen-bihada-akagyu-pork-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">熊本・菊池温泉</span>

@@ -541,21 +541,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay" 
+              href="/winter-nagano-obuse-shibu-onsen-shinshugyu-apple-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">長野・渋温泉＆小布施</span>
               <p className="font-bold text-stone-800 line-clamp-2">小布施の冬栗おこわ＆完熟サンふじ・石畳の渋温泉「九湯めぐり」名宿</p>
             </Link>
             <Link 
-              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay" 
+              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">長野・諏訪湖温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">諏訪湖の湖畔絶景と信州牛すき焼き・冬の澄んだ空気と名湯めぐり</p>
             </Link>
             <Link 
-              href="/winter-gifu-gero-onsen-bihada-hidagyu-stay" 
+              href="/winter-gifu-gero-onsen-bihada-hidagyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">岐阜・下呂温泉</span>

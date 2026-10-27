@@ -589,7 +589,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay"
+              href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-sky-400 block mb-1">八戸・蕪島冬特集</span>
@@ -597,7 +597,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay"
+              href="/winter-aomori-asamushi-onsen-mutsu-bay-maguro-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-sky-400 block mb-1">浅虫温泉冬特集</span>
@@ -605,7 +605,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay"
+              href="/winter-iwate-hachimantai-matsukawa-onsen-snow-maesawagyu-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-sky-400 block mb-1">八幡平・松川温泉冬特集</span>

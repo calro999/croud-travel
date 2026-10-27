@@ -562,28 +562,28 @@ ${hotelCardsCode}
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
             <Link 
-              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay" 
+              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>函館・湯の川温泉＆五稜郭！冬の津軽海峡漁火と海鮮名宿</span>
               <span className="text-cyan-300">→</span>
             </Link>
             <Link 
-              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay" 
+              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>登別温泉地獄谷雪景色＆白老牛！名湯めぐりと冬の味覚宿</span>
               <span className="text-cyan-300">→</span>
             </Link>
             <Link 
-              href="/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay" 
+              href="/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>金沢兼六園の雪吊り＆香箱ガニ！冬の加賀百万石グルメ宿</span>
               <span className="text-cyan-300">→</span>
             </Link>
             <Link 
-              href="/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay" 
+              href="/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>奥入瀬渓流の氷瀑＆八甲田樹氷！酸ヶ湯温泉と青森雪見名宿</span>

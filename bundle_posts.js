@@ -31,7 +31,7 @@ function main() {
   let posts = [];
   
   if (fs.existsSync(POSTS_DIR)) {
-    const files = fs.readdirSync(POSTS_DIR).filter(file => file.endsWith('.json'));
+    const files = fs.readdirSync(POSTS_DIR).filter(file => file.endsWith('.json') && !file.startsWith('note-'));
     
     posts = files.map(file => {
       try {
@@ -210,6 +210,7 @@ function main() {
   const robotsTxt = `User-agent: *
 Allow: /
 Disallow: /private/
+Disallow: /posts/note-
 
 # DuckDuckGo Crawler
 User-agent: DuckDuckBot

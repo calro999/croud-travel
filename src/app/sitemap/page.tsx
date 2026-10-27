@@ -7,14 +7,14 @@ import { CITIES_DATA } from "@/data/citiesData";
 import { SPOTS_DATA } from "@/data/spotsData";
 
 export const metadata: Metadata = {
-  title: "サイトマップ｜47都道府県観光ガイド＆全国温泉宿・ホテル特集一覧【旅宿クラウド】",
+  title: "サイトマップ｜全ページ構造化ナビゲーション",
   description: "日本全国・旅宿クラウドの全ページ完全サイトマップ。47都道府県の観光名所・名物グルメ・人気お土産ガイド、全国の温泉旅館・ホテルランキング、季節別・目的別特集（2026秋冬紅葉・カニ・雪見温泉・年末年始）の全ページ完全インデックス。",
   keywords: ["サイトマップ", "47都道府県ガイド", "温泉宿 ランキング", "ホテル 予約", "ご当地グルメ", "観光名所", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/sitemap/",
   },
   openGraph: {
-    title: "サイトマップ｜47都道府県観光ガイド＆全国温泉宿・ホテル特集一覧【旅宿クラウド】",
+    title: "サイトマップ｜全ページ構造化ナビゲーション",
     description: "日本全国47都道府県の観光名所・名物グルメ・人気お土産ガイド、全国の温泉旅館・ホテルランキングの全ページ完全インデックス。",
   }
 };

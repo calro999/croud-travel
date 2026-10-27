@@ -207,7 +207,7 @@ ${hotelCardsCode}
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-emerald-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">秋田・湯瀬温泉＆鹿角</span>
           </nav>
@@ -501,7 +501,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-akita-nyuto-onsen-tsurunoyu-snow-stay"
+              href="/winter-akita-nyuto-onsen-tsurunoyu-snow-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">秋田・乳頭温泉郷</span>
@@ -514,7 +514,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay"
+              href="/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">秋田・男鹿温泉</span>
@@ -527,7 +527,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay"
+              href="/winter-iwate-oshuku-shizukuishi-onsen-koiwai-snow-shizukuishigyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">岩手・鶯宿温泉</span>

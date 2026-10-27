@@ -544,7 +544,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
-              href="/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay"
+              href="/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-indigo-300 flex flex-col justify-between"
             >
               <div>
@@ -557,7 +557,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay"
+              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-indigo-300 flex flex-col justify-between"
             >
               <div>
@@ -570,7 +570,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay"
+              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-indigo-300 flex flex-col justify-between"
             >
               <div>
@@ -583,7 +583,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-nagano-tateshina-onsen-yatsugatake-snow-shinshu-beef-stay"
+              href="/winter-nagano-tateshina-onsen-yatsugatake-snow-shinshu-beef-stay/"
               className="group bg-white p-4 rounded-2xl border border-stone-200 shadow-xs hover:shadow-md transition-all hover:border-indigo-300 flex flex-col justify-between"
             >
               <div>
@@ -631,7 +631,7 @@ ${hotelCardsCode}
           </p>
           <div className="pt-4">
             <Link 
-              href="/features"
+              href="/features/"
               className="inline-flex items-center gap-2 px-6 py-3 bg-white text-slate-900 font-bold rounded-xl hover:bg-slate-100 transition-colors text-sm"
             >
               <span>冬の特集一覧へ戻る</span>

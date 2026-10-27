@@ -152,9 +152,9 @@ export default function HakubaValleyPowderSnowPage() {
           <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-amber-700 transition">ホーム</Link>
             <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-            <Link href="/features" className="hover:text-amber-700 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-amber-700 transition">特集一覧</Link>
             <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-            <Link href="/prefectures/nagano" className="hover:text-amber-700 transition">長野県</Link>
+            <Link href="/prefectures/nagano/" className="hover:text-amber-700 transition">長野県</Link>
             <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
             <span className="text-stone-900 font-medium">白馬パウダースノー＆美肌湯</span>
           </div>
@@ -419,19 +419,19 @@ export default function HakubaValleyPowderSnowPage() {
           <div className="bg-stone-100 rounded-2xl p-6 sm:p-8 border border-stone-200 space-y-4">
             <h3 className="text-base sm:text-lg font-bold text-stone-900">あわせて読みたい長野＆信州スノーリゾート特集</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
-              <Link href="/prefectures/nagano" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-blue-700 hover:border-blue-300 transition flex items-center justify-between">
+              <Link href="/prefectures/nagano/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-blue-700 hover:border-blue-300 transition flex items-center justify-between">
                 <span>長野県のおすすめ観光名所＆温泉宿一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-blue-700 hover:border-blue-300 transition flex items-center justify-between">
+              <Link href="/winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-blue-700 hover:border-blue-300 transition flex items-center justify-between">
                 <span>志賀高原スノーモンキー＆渋温泉名宿ガイド</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-ski-snowboard-slope-resort-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-blue-700 hover:border-blue-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-ski-snowboard-slope-resort-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-blue-700 hover:border-blue-300 transition flex items-center justify-between">
                 <span>全国ゲレンデ直結スキー＆スノーボードホテル特集</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-alps-trekking-mountain-resort-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-blue-700 hover:border-blue-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-alps-trekking-mountain-resort-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-blue-700 hover:border-blue-300 transition flex items-center justify-between">
                 <span>日本アルプス山岳リゾート宿ガイド</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
@@ -554,7 +554,7 @@ A3. 電車・新幹線利用の場合、北陸新幹線「長野駅」東口か�
 当サイトでは、白馬をはじめ志賀高原・軽井沢・野沢温泉など長野県各地の温泉宿・観光スポット情報を詳しくご紹介しています。
 
 👉 [【最新版】長野県のおすすめ観光・温泉宿一覧はこちら](https://croud-travel.pages.dev/prefectures/nagano)
-👉 [志賀高原スノーモンキー＆渋温泉特集はこちら](https://croud-travel.pages.dev/winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay)
+👉 [志賀高原スノーモンキー＆渋温泉特集はこちら](https://croud-travel.pages.dev/winter-nagano-shiga-kogen-snow-monkey-jigokudani-onsen-stay/)
 `;
 
   fs.writeFileSync(path.join(process.cwd(), 'note-140.md'), noteContent, 'utf8');

@@ -222,7 +222,7 @@ ${hotelCardsCode}
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-rose-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-rose-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-rose-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">神戸ルミナリエ＆生田神社初詣宿</li>
         </ol>
@@ -545,42 +545,42 @@ ${hotelCardsCode}
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 pt-2">
             <Link 
-              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay"
+              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-rose-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">有馬温泉の金泉銀泉＆冬の極上神戸牛！日本最古の名湯宿</span>
               <span className="text-[11px] text-rose-600 font-medium mt-2 flex items-center gap-1">兵庫・有馬温泉特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-hyogo-himeji-castle-shoshasan-hatsumode-oyster-banshubee-stay"
+              href="/winter-hyogo-himeji-castle-shoshasan-hatsumode-oyster-banshubee-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-rose-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">世界遺産姫路城冬景色＆書写山圓教寺初詣！播磨牡蠣の名宿</span>
               <span className="text-[11px] text-rose-600 font-medium mt-2 flex items-center gap-1">兵庫・姫路特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay"
+              href="/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-rose-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">大阪城イルミナージュ＆大阪天満宮初詣！中之島水都夜景宿</span>
               <span className="text-[11px] text-rose-600 font-medium mt-2 flex items-center gap-1">大阪・大阪城特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay"
+              href="/winter-nara-park-kasuga-taisha-hatsumode-todaiji-yamatogyu-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-rose-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">春日大社新春開運初詣＆東大寺冬景色！大和牛すき焼きの古都宿</span>
               <span className="text-[11px] text-rose-600 font-medium mt-2 flex items-center gap-1">奈良・奈良公園特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay"
+              href="/winter-kyoto-fushimi-inari-hatsumode-uji-sake-matcha-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-rose-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">伏見稲荷大社新春初詣＆宇治抹茶！冬の酒蔵めぐりと京会席宿</span>
               <span className="text-[11px] text-rose-600 font-medium mt-2 flex items-center gap-1">京都・伏見宇治特集を読む →</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-rose-50 p-3.5 rounded-2xl border border-rose-200 hover:bg-rose-100 transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-rose-900 line-clamp-2">全国の冬旅・新春初詣＆温泉特選特集一覧</span>

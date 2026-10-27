@@ -734,7 +734,7 @@ ${hotelCardsCode}
           {/* 関連特集リンクカード */}
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
             <Link 
-              href="/winter-aomori-sukayu-hakkoda-yukimi-stay"
+              href="/winter-aomori-sukayu-hakkoda-yukimi-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-emerald-50/60 border border-stone-200 hover:border-emerald-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">東北雪見秘湯</span>
@@ -747,7 +747,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay"
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-emerald-50/60 border border-stone-200 hover:border-emerald-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">山形冬特集</span>
@@ -760,7 +760,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-gunma-manza-snow-milky-hotspring-stay"
+              href="/winter-gunma-manza-snow-milky-hotspring-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-emerald-50/60 border border-stone-200 hover:border-emerald-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-sky-800 bg-sky-100/80 px-2 py-0.5 rounded">にごり湯特集</span>
@@ -779,12 +779,12 @@ ${hotelCardsCode}
               秋田県および東北エリアのおすすめ温泉宿一覧
             </h3>
             <div className="flex flex-wrap gap-2 text-xs">
-              <Link href="/prefectures/akita" className="px-3 py-1.5 bg-stone-100 hover:bg-emerald-100 text-stone-700 hover:text-emerald-900 rounded-lg transition-colors font-medium">秋田県の宿一覧</Link>
-              <Link href="/prefectures/iwate" className="px-3 py-1.5 bg-stone-100 hover:bg-emerald-100 text-stone-700 hover:text-emerald-900 rounded-lg transition-colors font-medium">岩手県の宿一覧</Link>
-              <Link href="/prefectures/aomori" className="px-3 py-1.5 bg-stone-100 hover:bg-emerald-100 text-stone-700 hover:text-emerald-900 rounded-lg transition-colors font-medium">青森県の宿一覧</Link>
-              <Link href="/prefectures/yamagata" className="px-3 py-1.5 bg-stone-100 hover:bg-emerald-100 text-stone-700 hover:text-emerald-900 rounded-lg transition-colors font-medium">山形県の宿一覧</Link>
-              <Link href="/prefectures/miyagi" className="px-3 py-1.5 bg-stone-100 hover:bg-emerald-100 text-stone-700 hover:text-emerald-900 rounded-lg transition-colors font-medium">宮城県の宿一覧</Link>
-              <Link href="/prefectures/fukushima" className="px-3 py-1.5 bg-stone-100 hover:bg-emerald-100 text-stone-700 hover:text-emerald-900 rounded-lg transition-colors font-medium">福島県の宿一覧</Link>
+              <Link href="/prefectures/akita/" className="px-3 py-1.5 bg-stone-100 hover:bg-emerald-100 text-stone-700 hover:text-emerald-900 rounded-lg transition-colors font-medium">秋田県の宿一覧</Link>
+              <Link href="/prefectures/iwate/" className="px-3 py-1.5 bg-stone-100 hover:bg-emerald-100 text-stone-700 hover:text-emerald-900 rounded-lg transition-colors font-medium">岩手県の宿一覧</Link>
+              <Link href="/prefectures/aomori/" className="px-3 py-1.5 bg-stone-100 hover:bg-emerald-100 text-stone-700 hover:text-emerald-900 rounded-lg transition-colors font-medium">青森県の宿一覧</Link>
+              <Link href="/prefectures/yamagata/" className="px-3 py-1.5 bg-stone-100 hover:bg-emerald-100 text-stone-700 hover:text-emerald-900 rounded-lg transition-colors font-medium">山形県の宿一覧</Link>
+              <Link href="/prefectures/miyagi/" className="px-3 py-1.5 bg-stone-100 hover:bg-emerald-100 text-stone-700 hover:text-emerald-900 rounded-lg transition-colors font-medium">宮城県の宿一覧</Link>
+              <Link href="/prefectures/fukushima/" className="px-3 py-1.5 bg-stone-100 hover:bg-emerald-100 text-stone-700 hover:text-emerald-900 rounded-lg transition-colors font-medium">福島県の宿一覧</Link>
             </div>
           </div>
         </section>

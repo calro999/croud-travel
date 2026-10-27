@@ -536,7 +536,7 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
-              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay"
+              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-emerald-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-700 bg-emerald-100/60 px-2 py-0.5 rounded-full inline-block">長野・上諏訪</span>
@@ -548,7 +548,7 @@ ${hotelCardsCode}
               </p>
             </Link>
             <Link 
-              href="/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay"
+              href="/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-emerald-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-700 bg-emerald-100/60 px-2 py-0.5 rounded-full inline-block">信州・別所</span>
@@ -560,7 +560,7 @@ ${hotelCardsCode}
               </p>
             </Link>
             <Link 
-              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay"
+              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-emerald-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-700 bg-emerald-100/60 px-2 py-0.5 rounded-full inline-block">山梨・河口湖</span>
@@ -572,7 +572,7 @@ ${hotelCardsCode}
               </p>
             </Link>
             <Link 
-              href="/winter-nagano-asama-onsen-matsumoto-castle-snow-stay"
+              href="/winter-nagano-asama-onsen-matsumoto-castle-snow-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-emerald-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-700 bg-emerald-100/60 px-2 py-0.5 rounded-full inline-block">信州・松本浅間</span>

@@ -771,7 +771,7 @@ export default function Page() {{
           <div className="max-w-5xl mx-auto flex items-center gap-2 text-slate-500 flex-wrap">
             <Link href="/" className="hover:text-amber-600">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/prefecture/{target['pref']}" className="hover:text-amber-600">{target['prefJa']}</Link>
+            <Link href="/prefecture/{target[/"pref']}" className="hover:text-amber-600">{target['prefJa']}</Link>
             <span>&gt;</span>
             <span className="text-slate-800 font-medium truncate">{target['title']}</span>
           </div>

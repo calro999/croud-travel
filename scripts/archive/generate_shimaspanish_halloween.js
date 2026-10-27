@@ -211,9 +211,9 @@ ${hotelCardsCode}
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-amber-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-amber-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-amber-600 transition">特集一覧</Link>
             <span>/</span>
-            <Link href="/prefectures/mie" className="hover:text-amber-600 transition">三重県</Link>
+            <Link href="/prefectures/mie/" className="hover:text-amber-600 transition">三重県</Link>
             <span>/</span>
             <span className="text-stone-800 font-medium">志摩スペイン村ハロウィーン特集</span>
           </div>
@@ -554,13 +554,13 @@ ${hotelCardsCode}
               白壁の街並みに映えるモンスターパンプキン、陽気な音楽とパエリャの美味、そして美肌天然温泉ひまわりの湯。笑顔と温もりに包まれる秋の南欧リゾート旅へ出かけてみませんか。
             </p>
             <div className="flex flex-wrap items-center justify-center gap-3 text-xs">
-              <Link href="/features" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
+              <Link href="/features/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 ← 特集一覧に戻る
               </Link>
-              <Link href="/prefectures/mie" className="px-4 py-2 rounded-full bg-amber-50 hover:bg-amber-100 text-amber-700 font-semibold transition">
+              <Link href="/prefectures/mie/" className="px-4 py-2 rounded-full bg-amber-50 hover:bg-amber-100 text-amber-700 font-semibold transition">
                 三重県の旅行ガイド・名宿一覧
               </Link>
-              <Link href="/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
+              <Link href="/winter-mie-iga-ueno-castle-akame-48waterfalls-hyobaku-igagyu-stay/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 伊賀上野城＆赤目四十八滝特集
               </Link>
               <Link href="/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">

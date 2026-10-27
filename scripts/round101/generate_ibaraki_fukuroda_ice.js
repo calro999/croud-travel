@@ -593,7 +593,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay" 
+              href="/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">栃木・足利＆佐野</span>
@@ -603,7 +603,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay" 
+              href="/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">福島・岳温泉</span>
@@ -613,7 +613,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay" 
+              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">埼玉・秩父温泉</span>
@@ -623,7 +623,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay" 
+              href="/winter-tochigi-nasu-itamuro-onsen-toji-tochigigyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">栃木・那須板室</span>
@@ -633,7 +633,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay" 
+              href="/winter-gunma-kusatsu-onsen-yubatake-yukimi-joshugyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">群馬・草津温泉</span>
@@ -643,7 +643,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-stone-100 border border-stone-200 hover:border-cyan-400 transition-all group flex flex-col justify-center text-center"
             >
               <span className="text-stone-900 font-bold group-hover:text-cyan-900 transition-colors">

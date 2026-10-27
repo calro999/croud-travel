@@ -212,7 +212,7 @@ ${faqList.map(f => `    {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-600 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-amber-700">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/features" className="hover:text-amber-700">特集一覧</Link>
+            <Link href="/features/" className="hover:text-amber-700">特集一覧</Link>
             <span>&gt;</span>
             <span className="text-slate-900 font-semibold">広島・西条＆竹原名宿</span>
           </div>
@@ -521,22 +521,22 @@ ${faqList.map(f => `    {
               <span>中国・瀬戸内および冬の目的別おすすめ特集</span>
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
-              <Link href="/winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
+              <Link href="/winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
                 🚲 尾道・千光寺初詣＆しまなみオコゼ名宿
               </Link>
-              <Link href="/winter-hiroshima-kure-edajima-oyster-yamato-port-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
+              <Link href="/winter-hiroshima-kure-edajima-oyster-yamato-port-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
                 ⚓ 呉＆江田島・大和ミュージアムと牡蠣名宿
               </Link>
-              <Link href="/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
+              <Link href="/winter-hiroshima-tomonoura-onsen-setouchi-taimeshi-taoshitagyu-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
                 🌊 鞆の浦温泉・冬の仙酔島夕景と鯛めし名宿
               </Link>
-              <Link href="/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
+              <Link href="/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
                 🏮 倉敷美観地区・冬の夜景と吉備津神社名宿
               </Link>
-              <Link href="/winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
+              <Link href="/winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
                 🌉 岩国錦帯橋冬情趣＆周防大島みかん鍋名宿
               </Link>
-              <Link href="/features" className="p-3 bg-amber-800 text-white rounded-xl font-bold hover:bg-amber-900 transition text-center flex items-center justify-center">
+              <Link href="/features/" className="p-3 bg-amber-800 text-white rounded-xl font-bold hover:bg-amber-900 transition text-center flex items-center justify-center">
                 ❄️ 全国の冬の厳選特集一覧を見る →
               </Link>
             </div>

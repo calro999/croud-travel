@@ -601,42 +601,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay"
+              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay/"
               className="bg-emerald-900/80 hover:bg-emerald-900 p-4 rounded-2xl transition border border-emerald-800/50 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">熊本・黒川</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">黒川温泉 冬の湯あかりイルミネーションと名湯露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-fukuoka-hakata-christmas-advent-gourmet-stay"
+              href="/winter-fukuoka-hakata-christmas-advent-gourmet-stay/"
               className="bg-emerald-900/80 hover:bg-emerald-900 p-4 rounded-2xl transition border border-emerald-800/50 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">福岡・博多</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">博多クリスマスアドベントと冬のもつ鍋・水炊きの宿</h3>
             </Link>
             <Link 
-              href="/winter-nagasaki-huistenbosch-christmas-lights-stay"
+              href="/winter-nagasaki-huistenbosch-christmas-lights-stay/"
               className="bg-emerald-900/80 hover:bg-emerald-900 p-4 rounded-2xl transition border border-emerald-800/50 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">長崎・佐世保</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">ハウステンボス 光の街のクリスマスとイルミネーションの宿</h3>
             </Link>
             <Link 
-              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay"
+              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay/"
               className="bg-emerald-900/80 hover:bg-emerald-900 p-4 rounded-2xl transition border border-emerald-800/50 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">愛媛・道後</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">道後温泉 本館リニューアルと宇和島鯛めしの名宿</h3>
             </Link>
             <Link 
-              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay"
+              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay/"
               className="bg-emerald-900/80 hover:bg-emerald-900 p-4 rounded-2xl transition border border-emerald-800/50 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">和歌山・白浜</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">南紀白浜温泉 太平洋夕陽と幻の紀州本クエ鍋の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-emerald-900/80 hover:bg-emerald-900 p-4 rounded-2xl transition border border-emerald-800/50 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">特集一覧</span>

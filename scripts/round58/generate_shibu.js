@@ -642,7 +642,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3.5 text-xs sm:text-sm">
             <Link
-              href="/winter-nagano-jigokudani-snow-monkey-stay"
+              href="/winter-nagano-jigokudani-snow-monkey-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-red-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-red-700 mb-1">
@@ -654,7 +654,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
+              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-red-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-red-700 mb-1">
@@ -666,7 +666,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-gunma-kusatsu-yukimi-onsen-stay"
+              href="/winter-gunma-kusatsu-yukimi-onsen-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-red-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-red-700 mb-1">
@@ -678,7 +678,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay"
+              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-red-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-red-700 mb-1">
@@ -690,7 +690,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-niigata-echigo-yuzawa-snow-sake-stay"
+              href="/winter-niigata-echigo-yuzawa-snow-sake-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-red-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-red-700 mb-1">
@@ -702,7 +702,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/features"
+              href="/features/"
               className="p-3.5 bg-red-50/70 rounded-xl border border-red-200 hover:bg-red-100/70 transition-all flex flex-col justify-center items-center text-center group"
             >
               <div className="font-bold text-red-900 mb-1">

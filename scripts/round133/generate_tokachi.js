@@ -153,9 +153,9 @@ export default function TokachiJewelryIcePage() {
           <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-amber-700 transition">ホーム</Link>
             <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-            <Link href="/features" className="hover:text-amber-700 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-amber-700 transition">特集一覧</Link>
             <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-            <Link href="/prefectures/hokkaido" className="hover:text-amber-700 transition">北海道</Link>
+            <Link href="/prefectures/hokkaido/" className="hover:text-amber-700 transition">北海道</Link>
             <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
             <span className="text-stone-900 font-medium">十勝ジュエリーアイス＆モール温泉</span>
           </div>
@@ -420,19 +420,19 @@ export default function TokachiJewelryIcePage() {
           <div className="bg-stone-100 rounded-2xl p-6 sm:p-8 border border-stone-200 space-y-4">
             <h3 className="text-base sm:text-lg font-bold text-stone-900">あわせて読みたい北海道＆冬の厳選温泉特集</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
-              <Link href="/prefectures/hokkaido" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/prefectures/hokkaido/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>北海道のおすすめ観光名所＆温泉宿一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/winter-hokkaido-monbetsu-drift-ice-garinko-driftice-gourmet-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/winter-hokkaido-monbetsu-drift-ice-garinko-driftice-gourmet-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>紋別・オホーツク流氷ガリンコ号と毛ガニ宿</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-kura-sauna-private-villa-charter-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-kura-sauna-private-villa-charter-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>全国の極上プライベートサウナ＆ととのい宿</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>実質2,000円で泊まる名湯・高級温泉旅館ガイド</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
@@ -554,7 +554,7 @@ A3. 十勝川温泉のモール温泉は、太古のヨシなどの植物堆積�
 当サイトでは、十勝・道東をはじめ北海道各地の温泉宿・観光スポット情報を詳しくご紹介しています。
 
 👉 [【最新版】北海道のおすすめ観光・温泉宿一覧はこちら](https://croud-travel.pages.dev/prefectures/hokkaido)
-👉 [オホーツク流氷砕氷船ガリンコ号と紋別の冬宿特集はこちら](https://croud-travel.pages.dev/winter-hokkaido-monbetsu-drift-ice-garinko-driftice-gourmet-stay)
+👉 [オホーツク流氷砕氷船ガリンコ号と紋別の冬宿特集はこちら](https://croud-travel.pages.dev/winter-hokkaido-monbetsu-drift-ice-garinko-driftice-gourmet-stay/)
 `;
 
   fs.writeFileSync(path.join(process.cwd(), 'note-137.md'), noteContent, 'utf8');

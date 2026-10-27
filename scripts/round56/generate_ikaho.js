@@ -585,7 +585,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link 
-              href="/winter-gunma-kusatsu-yukimi-onsen-stay"
+              href="/winter-gunma-kusatsu-yukimi-onsen-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">群馬の冬名湯</span>
@@ -595,7 +595,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay"
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">関東の冬絶景</span>
@@ -605,7 +605,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay"
+              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">北関東の雪見秘湯</span>
@@ -615,7 +615,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay"
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">東北の初雪特集</span>
@@ -625,7 +625,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay"
+              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">東海の冬花火</span>
@@ -635,7 +635,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-nagano-achimura-hirugami-starry-sky-stay"
+              href="/winter-nagano-achimura-hirugami-starry-sky-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">信州の星空名湯</span>

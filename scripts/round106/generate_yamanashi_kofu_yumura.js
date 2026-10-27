@@ -535,37 +535,37 @@ ${faqList.map(item => `          {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay"
+              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-red-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-red-600 block"
             >
               【石和温泉】名湯美肌風呂＆極上甲州ワインと甲州牛ステーキ名宿
             </Link>
             <Link
-              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay"
+              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-red-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-red-600 block"
             >
               【河口湖温泉】富士山雪景色と甲州牛会席を満喫する湖畔宿
             </Link>
             <Link
-              href="/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay"
+              href="/winter-yamanashi-kiyosato-yatsugatake-starry-sky-winebeef-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-red-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-red-600 block"
             >
               【清里・八ヶ岳】満天の冬星空観賞と甲州ワインビーフ名宿
             </Link>
             <Link
-              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay"
+              href="/winter-nagano-suwa-onsen-lake-view-shinshu-beef-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-red-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-red-600 block"
             >
               【上諏訪温泉】諏訪大社四社まいり初詣＆信州牛と地酒名宿
             </Link>
             <Link
-              href="/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay"
+              href="/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-red-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-red-600 block"
             >
               【富士宮】浅間大社新春初詣＆白雪富士山・静岡そだち牛名宿
             </Link>
             <Link
-              href="/features"
+              href="/features/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-red-300 hover:shadow-xs transition-all text-sm font-bold text-red-700 block text-center flex items-center justify-center gap-1"
             >
               <span>全国の冬旅特集一覧を見る</span>

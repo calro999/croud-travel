@@ -222,7 +222,7 @@ ${hotelCardsCode}
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-orange-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-orange-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-orange-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">冬の日南海岸・鵜戸神宮初詣＆伊勢海老特集</li>
         </ol>
@@ -534,28 +534,28 @@ ${hotelCardsCode}
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
-              href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay"
+              href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-orange-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【宮崎・青島】青島神社初詣＆鬼の洗濯板！美肌温泉リゾート名宿</span>
               <span className="text-xs text-slate-500">青島海岸の絶景オーシャンビューと伊勢海老・宮崎牛の贅</span>
             </Link>
             <Link 
-              href="/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay"
+              href="/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-orange-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【鹿児島・指宿温泉】天然砂むし温泉＆開聞岳絶景！黒豚名宿</span>
               <span className="text-xs text-slate-500">波打ち際の天然砂むし温泉でデトックス、冬の極上かごしま黒豚</span>
             </Link>
             <Link 
-              href="/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay"
+              href="/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-orange-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【福岡・宗像】宗像大社世界遺産新春初詣＆玄界灘天然とらふぐ名宿</span>
               <span className="text-xs text-slate-500">神郡の開運パワースポットと冬の極上天然とらふぐ会席</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-orange-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>

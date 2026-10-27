@@ -587,7 +587,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3.5 text-xs sm:text-sm">
             <Link
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay"
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-orange-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-orange-700 mb-1">
@@ -599,7 +599,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-atami-fireworks-ocean-view-stay"
+              href="/winter-atami-fireworks-ocean-view-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-orange-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-orange-700 mb-1">
@@ -611,7 +611,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay"
+              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-orange-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-orange-700 mb-1">
@@ -623,7 +623,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-shizuoka-izukogen-granillumi-ito-onsen-stay"
+              href="/winter-shizuoka-izukogen-granillumi-ito-onsen-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-orange-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-orange-700 mb-1">
@@ -635,7 +635,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-chichibu-icicle-misotsuchi-stay"
+              href="/winter-chichibu-icicle-misotsuchi-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-orange-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-orange-700 mb-1">
@@ -647,7 +647,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/features"
+              href="/features/"
               className="p-3.5 bg-orange-50/70 rounded-xl border border-orange-200 hover:bg-orange-100/70 transition-all flex flex-col justify-center items-center text-center group"
             >
               <div className="font-bold text-orange-900 mb-1">

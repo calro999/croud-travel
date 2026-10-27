@@ -106,7 +106,7 @@ export default function Page() {
           <div className="flex items-center space-x-4 text-xs font-medium text-stone-600">
             <Link href="/" className="hover:text-emerald-700">トップ</Link>
             <span>/</span>
-            <Link href="/sitemap" className="hover:text-emerald-700">特集一覧</Link>
+            <Link href="/sitemap/" className="hover:text-emerald-700">特集一覧</Link>
             <span>/</span>
             <span className="text-stone-400">秋のふるさと納税特集</span>
           </div>
@@ -396,16 +396,16 @@ export default function Page() {
         <section className="bg-amber-50/50 p-6 rounded-xl border border-amber-200 space-y-4">
           <h2 className="text-lg font-bold text-stone-900">こちらもチェック！秋のふるさと納税特集</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs md:text-sm">
-            <Link href="/furusato-tax-niigata-yahiko-iwamuro-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-niigata-yahiko-iwamuro-autumn-stay/" className="text-emerald-800 hover:underline">
               → 新潟・弥彦神社もみじ谷＆岩室温泉（菊まつり＆のどぐろ）特集
             </Link>
-            <Link href="/furusato-tax-hyogo-kobe-rokko-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-hyogo-kobe-rokko-autumn-stay/" className="text-emerald-800 hover:underline">
               → 兵庫・神戸六甲山＆有馬温泉（金泉銀泉＆神戸牛）特集
             </Link>
-            <Link href="/furusato-tax-tokushima-naruto-uzushio-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-tokushima-naruto-uzushio-autumn-stay/" className="text-emerald-800 hover:underline">
               → 徳島・鳴門海峡大潮うずしお＆大毛島リゾート（鳴門鯛＆阿波牛）特集
             </Link>
-            <Link href="/furusato-tax-chiba-boso-kamogawa-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-chiba-boso-kamogawa-autumn-stay/" className="text-emerald-800 hover:underline">
               → 千葉・南房総 鴨川温泉（オーシャンビュー＆伊勢海老）特集
             </Link>
           </div>

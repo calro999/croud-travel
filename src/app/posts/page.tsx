@@ -5,13 +5,13 @@ import path from "path";
 import PostListClient from "../components/PostListClient";
 
 export const metadata: Metadata = {
-  title: "厳選宿泊記・特集ルポ一覧 ｜ 日本全国・旅宿クラウド",
+  title: "厳選宿泊記・全国旅行ルポ一覧",
   description: "日本全国47都道府県の厳選された温泉宿、高級ホテル、絶景リゾート、グルメ宿の宿泊体験記・ルポ全件一覧。楽天トラベルの最新料金・お得プランと連携。",
   alternates: {
     canonical: "https://croud-travel.pages.dev/posts/",
   },
   openGraph: {
-    title: "厳選宿泊記・特集ルポ一覧 ｜ 日本全国・旅宿クラウド",
+    title: "厳選宿泊記・全国旅行ルポ一覧",
     description: "日本全国47都道府県の温泉宿・高級ホテル・リゾートの宿泊体験記・ルポ全件一覧。",
     url: "https://croud-travel.pages.dev/posts/",
   },

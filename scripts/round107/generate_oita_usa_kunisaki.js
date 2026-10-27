@@ -530,37 +530,37 @@ ${faqList.map(item => `          {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay"
+              href="/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-emerald-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-emerald-600 block"
             >
               【門司港レトロ＆小倉】冬の浪漫灯彩と豊前海一粒牡蠣・小倉牛名宿
             </Link>
             <Link
-              href="/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay"
+              href="/winter-oita-beppu-kannawa-onsen-yukemuri-bungo-beef-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-emerald-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-emerald-600 block"
             >
               【別府・鉄輪温泉】冬の立ち上る湯煙と地獄蒸し・豊後牛名宿
             </Link>
             <Link
-              href="/winter-fukuoka-dazaifu-tenmangu-futsukaichi-onsen-hakata-wagyu-stay"
+              href="/winter-fukuoka-dazaifu-tenmangu-futsukaichi-onsen-hakata-wagyu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-emerald-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-emerald-600 block"
             >
               【太宰府天満宮＆二日市温泉】飛梅と新春初詣・博多和牛名宿
             </Link>
             <Link
-              href="/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay"
+              href="/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-emerald-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-emerald-600 block"
             >
               【佐賀・太良＆祐徳稲荷】冬の竹崎カニと三大稲荷初詣・美肌温泉名宿
             </Link>
             <Link
-              href="/winter-kumamoto-kurokawa-onsen-yuakari-snow-stay"
+              href="/winter-kumamoto-kurokawa-onsen-yuakari-snow-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-emerald-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-emerald-600 block"
             >
               【黒川温泉】冬の竹あかり幻想露天風呂とあか牛・入湯手形名宿
             </Link>
             <Link
-              href="/features"
+              href="/features/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-emerald-300 hover:shadow-xs transition-all text-sm font-bold text-emerald-700 block text-center flex items-center justify-center gap-1"
             >
               <span>全国の冬旅特集一覧を見る</span>

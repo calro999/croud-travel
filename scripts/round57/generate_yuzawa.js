@@ -560,7 +560,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link 
-              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
+              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">信州の白銀名湯</span>
@@ -570,7 +570,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-yamagata-onogawa-yonezawa-beef-stay"
+              href="/winter-yamagata-onogawa-yonezawa-beef-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">東北の米沢牛名湯</span>
@@ -580,7 +580,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay"
+              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">関越沿線の名湯</span>
@@ -590,7 +590,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay"
+              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">会津の初雪名湯</span>
@@ -600,7 +600,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay"
+              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">甲州の新酒ワイン名湯</span>
@@ -610,7 +610,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay"
+              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">北関東の雪見秘湯</span>

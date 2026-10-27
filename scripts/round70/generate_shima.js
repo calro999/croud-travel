@@ -564,42 +564,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay"
+              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">群馬・草津温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">湯畑ライトアップと天下の名湯強酸性泉・上州牛すき焼きの宿</h3>
             </Link>
             <Link 
-              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay"
+              href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">群馬・伊香保温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">365段の石段街と黄金の湯・白銀の湯・上州牛会席を満喫する宿</h3>
             </Link>
             <Link 
-              href="/winter-gunma-minakami-onsen-tanigawa-yukimi-stay"
+              href="/winter-gunma-minakami-onsen-tanigawa-yukimi-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">群馬・水上温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">谷川岳初雪パノラマと利根川渓流雪見露天・みなかみ旬会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay"
+              href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">栃木・那須温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">開湯千三百年鹿の湯白濁硫黄泉と那須黒毛和牛ステーキの宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay"
+              href="/winter-nagano-yudanaka-onsen-snow-monkey-shinshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">長野・湯田中渋温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">地獄谷スノーモンキーと九つの外湯めぐり・信州牛すき焼きの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">特集一覧</span>

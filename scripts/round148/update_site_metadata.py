@@ -83,7 +83,7 @@ def update_accordion():
             links_code = ""
             for feat in NEW_FEATURES:
                 links_code += f"""              <Link
-                href="/{feat['slug']}"
+                href="/{feat[/"slug']}"
                 className="px-2.5 py-1 text-[11px] font-semibold text-slate-700 bg-white hover:bg-teal-700 hover:text-white rounded-lg border border-slate-200/80 shadow-2xs transition truncate max-w-[200px]"
                 title="{feat['title']}"
               >

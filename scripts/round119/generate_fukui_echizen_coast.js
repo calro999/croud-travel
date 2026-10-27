@@ -208,7 +208,7 @@ ${hotelCardsCode}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 py-4 text-xs font-semibold text-stone-500 flex items-center gap-2">
         <Link href="/" className="hover:text-amber-700 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-amber-700 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-700 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-stone-800">福井・越前海岸＆越前町水仙まつり・越前がに名宿</span>
       </nav>
@@ -501,19 +501,19 @@ ${hotelCardsCode}
             あわせて読みたい！冬の味覚＆温泉特集
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
-            <Link href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
+            <Link href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay/" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
               🦀 三国温泉＆東尋坊！越前がにと絶景露天
             </Link>
-            <Link href="/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
+            <Link href="/winter-fukui-eiheiji-snow-zen-echizen-oroshi-soba-wakasa-beef-stay/" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
               ❄️ 永平寺の雪景色＆越前おろし蕎麦・若狭牛名宿
             </Link>
-            <Link href="/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
+            <Link href="/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay/" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
               🌲 金沢兼六園の雪吊り＆香箱ガニ・加賀名宿
             </Link>
-            <Link href="/winter-tottori-daisen-kaike-onsen-matsubagani-snow-stay" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
+            <Link href="/winter-tottori-daisen-kaike-onsen-matsubagani-snow-stay/" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
               🏔️ 伯耆大山雪景色＆皆生温泉・松葉ガニ名宿
             </Link>
-            <Link href="/campaigns/autumn-gourmet-travel" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
+            <Link href="/campaigns/autumn-gourmet-travel/" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
               🍁 全国の旬の味覚＆極上温泉宿特集まとめ
             </Link>
           </div>

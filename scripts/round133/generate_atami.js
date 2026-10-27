@@ -152,9 +152,9 @@ export default function AtamiPlumGardenFireworksPage() {
           <div className="max-w-5xl mx-auto px-4 py-3 text-xs text-stone-500 flex items-center space-x-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-amber-700 transition">ホーム</Link>
             <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-            <Link href="/features" className="hover:text-amber-700 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-amber-700 transition">特集一覧</Link>
             <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
-            <Link href="/prefectures/shizuoka" className="hover:text-amber-700 transition">静岡県</Link>
+            <Link href="/prefectures/shizuoka/" className="hover:text-amber-700 transition">静岡県</Link>
             <ChevronRight className="w-3.5 h-3.5 text-stone-400 shrink-0" />
             <span className="text-stone-900 font-medium">熱海梅園＆冬花火・金目鯛</span>
           </div>
@@ -419,19 +419,19 @@ export default function AtamiPlumGardenFireworksPage() {
           <div className="bg-stone-100 rounded-2xl p-6 sm:p-8 border border-stone-200 space-y-4">
             <h3 className="text-base sm:text-lg font-bold text-stone-900">あわせて読みたい静岡＆伊豆の厳選温泉特集</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
-              <Link href="/prefectures/shizuoka" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-rose-700 hover:border-rose-300 transition flex items-center justify-between">
+              <Link href="/prefectures/shizuoka/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-rose-700 hover:border-rose-300 transition flex items-center justify-between">
                 <span>静岡県のおすすめ観光名所＆温泉宿一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-rose-700 hover:border-rose-300 transition flex items-center justify-between">
+              <Link href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-rose-700 hover:border-rose-300 transition flex items-center justify-between">
                 <span>熱海海上冬花火と金目鯛会席の温泉宿</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-infinity-onsen-sky-ocean-view-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-rose-700 hover:border-rose-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-infinity-onsen-sky-ocean-view-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-rose-700 hover:border-rose-300 transition flex items-center justify-between">
                 <span>全国の絶景インフィニティ露天風呂宿特集</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-shinkansen-station-walk-hotspring-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-rose-700 hover:border-rose-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-shinkansen-station-walk-hotspring-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-rose-700 hover:border-rose-300 transition flex items-center justify-between">
                 <span>新幹線駅直結＆徒歩圏の名湯温泉旅館ガイド</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
@@ -554,7 +554,7 @@ A3. 冬の熱海では、脂がたっぷりと乗った「金目鯛の姿煮付�
 当サイトでは、熱海をはじめ伊豆・富士山麓など静岡県各地の温泉宿・観光スポット情報を詳しくご紹介しています。
 
 👉 [【最新版】静岡県のおすすめ観光・温泉宿一覧はこちら](https://croud-travel.pages.dev/prefectures/shizuoka)
-👉 [熱海温泉の海上冬花火と金目鯛特集はこちら](https://croud-travel.pages.dev/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay)
+👉 [熱海温泉の海上冬花火と金目鯛特集はこちら](https://croud-travel.pages.dev/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/)
 `;
 
   fs.writeFileSync(path.join(process.cwd(), 'note-138.md'), noteContent, 'utf8');

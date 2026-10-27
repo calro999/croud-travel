@@ -604,42 +604,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay"
+              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/"
               className="bg-cyan-900/80 hover:bg-cyan-900 p-4 rounded-2xl transition border border-cyan-800/50 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">兵庫・有馬</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">有馬温泉 日本三古湯の金泉銀泉と極上神戸牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay"
+              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay/"
               className="bg-cyan-900/80 hover:bg-cyan-900 p-4 rounded-2xl transition border border-cyan-800/50 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">愛媛・道後</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">道後温泉 本館リニューアルと宇和島鯛めしの名宿</h3>
             </Link>
             <Link 
-              href="/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay"
+              href="/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay/"
               className="bg-cyan-900/80 hover:bg-cyan-900 p-4 rounded-2xl transition border border-cyan-800/50 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">三重・伊勢志摩</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">伊勢志摩 宇治橋冬至日の出と的矢かき＆伊勢海老の宿</h3>
             </Link>
             <Link 
-              href="/winter-kyoto-amanohashidate-matsuba-crab-stay"
+              href="/winter-kyoto-amanohashidate-matsuba-crab-stay/"
               className="bg-cyan-900/80 hover:bg-cyan-900 p-4 rounded-2xl transition border border-cyan-800/50 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">京都・天橋立</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">天橋立温泉 白砂青松雪景色とカニ解禁・寒ブリの宿</h3>
             </Link>
             <Link 
-              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay"
+              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay/"
               className="bg-cyan-900/80 hover:bg-cyan-900 p-4 rounded-2xl transition border border-cyan-800/50 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">栃木・鬼怒川</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">鬼怒川温泉 初冬渓谷美と日光生ゆば＆とちぎ和牛の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-cyan-900/80 hover:bg-cyan-900 p-4 rounded-2xl transition border border-cyan-800/50 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">特集一覧</span>

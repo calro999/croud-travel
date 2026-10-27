@@ -509,42 +509,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-hokkaido-jozankei-onsen-snow-keikoku-stay"
+              href="/winter-hokkaido-jozankei-onsen-snow-keikoku-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">北海道・定山渓温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">札幌の奥座敷・雪見渓谷露天風呂と北海道産食材会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay"
+              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">北海道・登別温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">白銀の地獄谷と多彩な9種の泉質・北海三大ガニ会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay"
+              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">北海道・函館湯の川温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">津軽海峡の漁火を望む海辺露天と函館極上海鮮グルメの宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay"
+              href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">長野・白馬山麓温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">白銀北アルプス絶景露天＆pH11超美肌湯・信州プレミアム牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
+              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">長野・野沢温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">極上パウダースノーと13の外湯めぐり・信州牛すき焼きの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">特集一覧</span>

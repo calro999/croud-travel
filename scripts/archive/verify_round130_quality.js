@@ -75,7 +75,7 @@ async function verifyQuality() {
 
     // 5. Check Internal links
     const internalLinks = [
-      content.includes('href="/features"'),
+      content.includes('href="/features/"'),
       content.includes('href="/prefectures/'),
       content.includes('href="/"')
     ];

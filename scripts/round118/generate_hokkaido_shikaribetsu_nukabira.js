@@ -588,7 +588,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay"
+              href="/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-sky-400 block mb-1">十勝川温泉冬特集</span>
@@ -596,7 +596,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-hokkaido-biei-furano-bluepond-lightup-tokachidake-onsen-stay"
+              href="/winter-hokkaido-biei-furano-bluepond-lightup-tokachidake-onsen-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-sky-400 block mb-1">美瑛・富良野冬特集</span>
@@ -604,7 +604,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-niseko-powder-snow-ski-resort-stay"
+              href="/winter-niseko-powder-snow-ski-resort-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-sky-400 block mb-1">ニセコ冬特集</span>

@@ -564,42 +564,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay"
+              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">静岡・熱海温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">冬の熱海海上花火大会と脂が乗った金目鯛煮付け・海一望露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-shizuoka-izukogen-granillumi-ito-onsen-stay"
+              href="/winter-shizuoka-izukogen-granillumi-ito-onsen-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">静岡・伊東温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">伊豆高原グランイルミの輝きと源泉掛け流し湯・伊豆会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-izu-kinmedai-shabushabu-luxury-stay"
+              href="/winter-izu-kinmedai-shabushabu-luxury-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">静岡・東伊豆温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">極上金目鯛しゃぶしゃぶと朝獲れ地魚・相模湾オーシャンビューの宿</h3>
             </Link>
             <Link 
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay"
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">神奈川・箱根温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">雪化粧の霊峰富士を望む絶景露天風呂と伝統会席のラグジュアリー宿</h3>
             </Link>
             <Link 
-              href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay"
+              href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">愛知・南知多温泉</span>
               <h3 className="text-sm font-bold group-hover:text-amber-200 transition">11月解禁天然とらふぐと知多牛ステーキ・伊勢湾夕景露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-oyster-seafood-gourmet"
+              href="/winter-oyster-seafood-gourmet/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">全国冬の味覚特集</span>

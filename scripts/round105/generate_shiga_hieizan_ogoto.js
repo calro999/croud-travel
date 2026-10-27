@@ -552,7 +552,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay" 
+              href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">滋賀・長浜太閤温泉</span>
@@ -562,7 +562,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay" 
+              href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">滋賀・彦根＆近江八幡</span>
@@ -572,7 +572,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-kyoto-ohara-sanzenin-snow-hosenin-misonabe-stay" 
+              href="/winter-kyoto-ohara-sanzenin-snow-hosenin-misonabe-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">京都・大原三千院</span>
@@ -582,7 +582,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay" 
+              href="/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">京都・貴船＆鞍馬</span>
@@ -592,7 +592,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay" 
+              href="/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">和歌山・高野山</span>
@@ -602,7 +602,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay" 
+              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">兵庫・有馬温泉</span>

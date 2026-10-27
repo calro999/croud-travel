@@ -740,7 +740,7 @@ export default function LuxuryStayPage() {{
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-500 flex items-center space-x-2">
             <Link href="/" className="hover:text-amber-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/prefecture/{target['pref']}" className="hover:text-amber-600 transition">{target['prefJa']}</Link>
+            <Link href="/prefecture/{target[/"pref']}" className="hover:text-amber-600 transition">{target['prefJa']}</Link>
             <span>/</span>
             <span className="text-slate-800 font-semibold truncate">{target['area']} 最高級宿特集</span>
           </div>

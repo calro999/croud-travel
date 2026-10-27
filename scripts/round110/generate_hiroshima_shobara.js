@@ -157,7 +157,7 @@ export default function Page() {
         <nav className="text-sm text-gray-500 mb-6">
           <Link href="/" className="hover:underline">ホーム</Link>
           <span className="mx-2">›</span>
-          <Link href="/features" className="hover:underline">冬の旅行特集</Link>
+          <Link href="/features/" className="hover:underline">冬の旅行特集</Link>
           <span className="mx-2">›</span>
           <span>冬の帝釈峡・庄原×神楽×比婆牛×温泉宿</span>
         </nav>
@@ -268,11 +268,11 @@ export default function Page() {
         <section className="mb-10">
           <h2 className="text-xl font-bold mb-4 border-l-4 border-green-600 pl-3">関連記事——中国地方の冬旅をもっと深く</h2>
           <ul className="space-y-2 text-sm">
-            <li>→ <Link href="/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay" className="text-blue-600 hover:underline">冬の宮島・牡蠣と温泉で過ごす瀬戸内の絶景宿</Link></li>
-            <li>→ <Link href="/winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay" className="text-blue-600 hover:underline">冬の尾道・千光寺公園としまなみ海道・穴子&尾道ラーメン宿</Link></li>
-            <li>→ <Link href="/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay" className="text-blue-600 hover:underline">冬の湯原温泉・砂湯と蒜山和牛の岡山山間旅</Link></li>
-            <li>→ <Link href="/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay" className="text-blue-600 hover:underline">冬の松江・宍道湖夕景と松葉ガニ・しじみ汁温泉宿</Link></li>
-            <li>→ <Link href="/winter-tottori-misasa-onsen-matsuba-crab-stay" className="text-blue-600 hover:underline">冬の三朝温泉・ラジウム湯と松葉ガニの鳥取旅</Link></li>
+            <li>→ <Link href="/winter-hiroshima-miyajima-onsen-kaki-oyster-seto-stay/" className="text-blue-600 hover:underline">冬の宮島・牡蠣と温泉で過ごす瀬戸内の絶景宿</Link></li>
+            <li>→ <Link href="/winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay/" className="text-blue-600 hover:underline">冬の尾道・千光寺公園としまなみ海道・穴子&尾道ラーメン宿</Link></li>
+            <li>→ <Link href="/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay/" className="text-blue-600 hover:underline">冬の湯原温泉・砂湯と蒜山和牛の岡山山間旅</Link></li>
+            <li>→ <Link href="/winter-shimane-matsue-shinjiko-onsen-sunset-matsubagani-shijimi-stay/" className="text-blue-600 hover:underline">冬の松江・宍道湖夕景と松葉ガニ・しじみ汁温泉宿</Link></li>
+            <li>→ <Link href="/winter-tottori-misasa-onsen-matsuba-crab-stay/" className="text-blue-600 hover:underline">冬の三朝温泉・ラジウム湯と松葉ガニの鳥取旅</Link></li>
           </ul>
         </section>
       </main>

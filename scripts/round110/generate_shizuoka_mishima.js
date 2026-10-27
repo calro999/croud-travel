@@ -199,7 +199,7 @@ ${hotelCardsCode}
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-sky-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-sky-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-sky-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">冬の三島・沼津・三嶋大社初詣＆富士山絶景特集</li>
         </ol>
@@ -492,28 +492,28 @@ ${hotelCardsCode}
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
-              href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay"
+              href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-sky-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【箱根】冬の箱根湯本＆芦ノ湖・箱根神社初詣と富士山名宿</span>
               <span className="text-xs text-slate-500">澄み渡る白雪富士と関東総鎮守の開運祈願、相模湾の寒魚会席</span>
             </Link>
             <Link 
-              href="/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay"
+              href="/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-sky-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【盛岡】盛岡八幡宮新春初詣＆岩手山白銀絶景名宿</span>
               <span className="text-xs text-slate-500">繋温泉の源泉掛け流し美肌湯と盛岡三大麺、極上雫石牛すき焼き</span>
             </Link>
             <Link 
-              href="/winter-ehime-imabari-shimanami-oomishima-taimeshi-onsen-stay"
+              href="/winter-ehime-imabari-shimanami-oomishima-taimeshi-onsen-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-sky-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【愛媛・しまなみ】大山祇神社新春初詣＆天然真鯛名宿</span>
               <span className="text-xs text-slate-500">冬晴れの来島海峡大橋絶景と日本総鎮守初詣、ふっくら鯛めし</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-sky-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>

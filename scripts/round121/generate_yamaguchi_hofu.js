@@ -212,7 +212,7 @@ ${faqList.map(f => `    {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-600 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-blue-600">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/features" className="hover:text-blue-600">特集一覧</Link>
+            <Link href="/features/" className="hover:text-blue-600">特集一覧</Link>
             <span>&gt;</span>
             <span className="text-slate-900 font-semibold">山口・防府天満宮初詣＆周南とらふぐ名宿</span>
           </div>
@@ -522,7 +522,7 @@ ${faqList.map(f => `    {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               <Link
-                href="/winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay"
+                href="/winter-yamaguchi-iwakuni-kintaikyo-suo-oshima-mikan-nabe-takamorigyu-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-amber-400 text-xs font-bold block mb-1">山口特集</span>
@@ -530,7 +530,7 @@ ${faqList.map(f => `    {
                 <span className="text-xs text-slate-300">名橋錦帯橋の冬情趣と名物みかん鍋…</span>
               </Link>
               <Link
-                href="/winter-yamaguchi-nagato-tsunoshima-motonosumi-shrine-hatsumode-onsen-stay"
+                href="/winter-yamaguchi-nagato-tsunoshima-motonosumi-shrine-hatsumode-onsen-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-cyan-400 text-xs font-bold block mb-1">山口特集</span>
@@ -538,7 +538,7 @@ ${faqList.map(f => `    {
                 <span className="text-xs text-slate-300">赤い鳥居が連なる絶景神社初詣と老舗温泉街…</span>
               </Link>
               <Link
-                href="/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay"
+                href="/winter-yamaguchi-shimonoseki-kawatana-onsen-torafugu-kawarasoba-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-emerald-400 text-xs font-bold block mb-1">山口特集</span>
@@ -546,7 +546,7 @@ ${faqList.map(f => `    {
                 <span className="text-xs text-slate-300">関門海峡の冬のふぐ本場と名湯川棚温泉…</span>
               </Link>
               <Link
-                href="/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay"
+                href="/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-purple-400 text-xs font-bold block mb-1">山口特集</span>
@@ -554,7 +554,7 @@ ${faqList.map(f => `    {
                 <span className="text-xs text-slate-300">山口市街地の名湯・湯田温泉の足湯めぐりと美食…</span>
               </Link>
               <Link
-                href="/features"
+                href="/features/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-rose-400 text-xs font-bold block mb-1">特集一覧</span>

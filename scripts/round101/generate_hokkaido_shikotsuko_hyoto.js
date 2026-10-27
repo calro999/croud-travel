@@ -593,7 +593,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay" 
+              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">北海道・登別温泉</span>
@@ -603,7 +603,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay" 
+              href="/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">北海道・小樽運河</span>
@@ -613,7 +613,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-hokkaido-sounkyo-onsen-snow-gorge-stay" 
+              href="/winter-hokkaido-sounkyo-onsen-snow-gorge-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">北海道・層雲峡温泉</span>
@@ -623,7 +623,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay" 
+              href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">青森・八戸蕪島</span>
@@ -633,7 +633,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay" 
+              href="/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-800 font-bold text-xs block mb-1">茨城・袋田の滝</span>
@@ -643,7 +643,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-stone-100 border border-stone-200 hover:border-indigo-400 transition-all group flex flex-col justify-center text-center"
             >
               <span className="text-stone-900 font-bold group-hover:text-indigo-900 transition-colors">

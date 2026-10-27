@@ -254,28 +254,28 @@ export default function FurusatoRound56Page() {
           <h2 className="text-xl font-bold text-slate-900 mb-4">あわせて読みたい極上ふるさと納税旅特集</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
-              href="/furusato-tax-scenic-drives-highland-resort-stay"
+              href="/furusato-tax-scenic-drives-highland-resort-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-emerald-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-emerald-700 block mb-1">日本百名道ドライブ</span>
               <span className="font-semibold text-slate-900 text-sm">【日本百名道】ビーナスライン・志賀草津・やまなみハイウェイ特集</span>
             </Link>
             <Link
-              href="/furusato-tax-three-great-bridges-heritage-stay"
+              href="/furusato-tax-three-great-bridges-heritage-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-emerald-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-emerald-700 block mb-1">三大名橋歴史美</span>
               <span className="font-semibold text-slate-900 text-sm">【日本三大名橋】日本橋・錦帯橋・長崎眼鏡橋ステイ特集</span>
             </Link>
             <Link
-              href="/furusato-tax-three-great-water-towns-canal-stay"
+              href="/furusato-tax-three-great-water-towns-canal-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-emerald-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-emerald-700 block mb-1">三大水郷舟運川下り</span>
               <span className="font-semibold text-slate-900 text-sm">【日本三大水郷】近江八幡・柳川・潮来の水辺名湯特集</span>
             </Link>
             <Link
-              href="/furusato-tax-kumano-kodo-world-heritage-stay"
+              href="/furusato-tax-kumano-kodo-world-heritage-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-emerald-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-emerald-700 block mb-1">世界遺産熊野古道</span>

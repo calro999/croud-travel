@@ -533,37 +533,37 @@ ${faqList.map(item => `          {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay"
+              href="/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【倉敷美観地区】冬のライトアップ夜景と吉備津神社・千屋牛名宿
             </Link>
             <Link
-              href="/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay"
+              href="/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【湯原温泉・砂湯】冬の露天風呂番付西の横綱と蒜山和牛名宿
             </Link>
             <Link
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【三朝温泉】世界屈指のラジウム温泉と極上鳥取松葉がに名宿
             </Link>
             <Link
-              href="/winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay"
+              href="/winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【尾道水道＆千光寺】冬の絶景夕景とオコゼ・尾道ラーメン名宿
             </Link>
             <Link
-              href="/winter-okayama-mimasaka-okutsu-yunogo-onsen-sakushugyu-stay"
+              href="/winter-okayama-mimasaka-okutsu-yunogo-onsen-sakushugyu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【美作三湯・奥津＆湯郷】足踏み洗濯と美肌温泉・作州牛名宿
             </Link>
             <Link
-              href="/features"
+              href="/features/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-bold text-amber-700 block text-center flex items-center justify-center gap-1"
             >
               <span>全国の冬旅特集一覧を見る</span>

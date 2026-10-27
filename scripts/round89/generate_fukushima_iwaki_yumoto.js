@@ -570,7 +570,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay"
+              href="/winter-fukushima-dake-onsen-adatara-milky-bath-fukushimagyu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">福島・岳温泉</span>
@@ -580,7 +580,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay"
+              href="/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">福島・高湯＆土湯温泉</span>
@@ -590,7 +590,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay"
+              href="/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">福島・会津東山温泉</span>
@@ -600,7 +600,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay"
+              href="/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">千葉・南房総館山</span>
@@ -610,7 +610,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-miyagi-matsushima-oyster-hotspring-stay"
+              href="/winter-miyagi-matsushima-oyster-hotspring-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">宮城・松島温泉</span>
@@ -620,7 +620,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/features"
+              href="/features/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2 flex flex-col justify-center items-center text-center"
             >
               <span className="text-xs font-bold text-amber-700">全国の旬の温泉特集一覧へ</span>

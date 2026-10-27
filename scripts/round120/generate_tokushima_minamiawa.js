@@ -212,7 +212,7 @@ ${faqList.map(f => `    {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-600 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-blue-600">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/features" className="hover:text-blue-600">特集一覧</Link>
+            <Link href="/features/" className="hover:text-blue-600">特集一覧</Link>
             <span>&gt;</span>
             <span className="text-slate-900 font-semibold">徳島・美波＆海陽町 薬王寺初詣＆伊勢海老名宿</span>
           </div>
@@ -528,7 +528,7 @@ ${faqList.map(f => `    {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               <Link
-                href="/winter-kagawa-zentsuji-marugame-castle-udon-stay"
+                href="/winter-kagawa-zentsuji-marugame-castle-udon-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-amber-400 text-xs font-bold block mb-1">香川特集</span>
@@ -536,7 +536,7 @@ ${faqList.map(f => `    {
                 <span className="text-xs text-slate-300">弘法大師生誕の総本山善通寺と讃岐冬うどん巡り…</span>
               </Link>
               <Link
-                href="/features"
+                href="/features/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-cyan-400 text-xs font-bold block mb-1">特集一覧</span>

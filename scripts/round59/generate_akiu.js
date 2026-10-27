@@ -607,42 +607,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay"
+              href="/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/"
               className="bg-emerald-900/80 hover:bg-emerald-900 p-4 rounded-2xl transition border border-emerald-800/50 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">岩手・花巻</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">花巻温泉郷 白銀雪見露天と前沢牛＆白金豚の宿</h3>
             </Link>
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay"
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/"
               className="bg-emerald-900/80 hover:bg-emerald-900 p-4 rounded-2xl transition border border-emerald-800/50 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">山形・銀山</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">銀山温泉 大正ロマン雪景色とガス灯情緒の宿</h3>
             </Link>
             <Link 
-              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay"
+              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay/"
               className="bg-emerald-900/80 hover:bg-emerald-900 p-4 rounded-2xl transition border border-emerald-800/50 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">秋田・乳頭</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">乳頭温泉郷 秘湯の雪見露天ときりたんぽ鍋の宿</h3>
             </Link>
             <Link 
-              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay"
+              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay/"
               className="bg-emerald-900/80 hover:bg-emerald-900 p-4 rounded-2xl transition border border-emerald-800/50 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">福島・会津東山</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">会津東山温泉 雪化粧の渓谷美と武家屋敷情緒の宿</h3>
             </Link>
             <Link 
-              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay"
+              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay/"
               className="bg-emerald-900/80 hover:bg-emerald-900 p-4 rounded-2xl transition border border-emerald-800/50 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">栃木・鬼怒川</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">鬼怒川温泉 初冬渓谷美と日光生ゆば＆とちぎ和牛の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-emerald-900/80 hover:bg-emerald-900 p-4 rounded-2xl transition border border-emerald-800/50 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">特集一覧</span>

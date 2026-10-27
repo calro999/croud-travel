@@ -157,7 +157,7 @@ export default function Page() {
         <nav className="text-sm text-gray-500 mb-6">
           <Link href="/" className="hover:underline">ホーム</Link>
           <span className="mx-2">›</span>
-          <Link href="/features" className="hover:underline">冬の旅行特集</Link>
+          <Link href="/features/" className="hover:underline">冬の旅行特集</Link>
           <span className="mx-2">›</span>
           <span>冬の仙台市内・光のページェント×仙台牛×温泉宿</span>
         </nav>
@@ -278,11 +278,11 @@ export default function Page() {
         <section className="mb-10">
           <h2 className="text-xl font-bold mb-4 border-l-4 border-blue-500 pl-3">関連記事——東北の冬旅をもっと深く</h2>
           <ul className="space-y-2 text-sm">
-            <li>→ <Link href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay" className="text-blue-600 hover:underline">冬の松島・牡蠣と温泉で過ごす宮城の海絶景宿</Link></li>
-            <li>→ <Link href="/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay" className="text-blue-600 hover:underline">冬の鳴子温泉・雪見露天と仙台牛の贅沢湯治旅</Link></li>
-            <li>→ <Link href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay" className="text-blue-600 hover:underline">冬の秋保温泉・せり鍋と仙台牛で温まる名湯宿</Link></li>
-            <li>→ <Link href="/winter-iwate-hiraizumi-geibikei-wanko-soba-maesawagyu-stay" className="text-blue-600 hover:underline">冬の平泉・世界遺産と前沢牛・わんこそばの岩手旅</Link></li>
-            <li>→ <Link href="/winter-yamagata-ginzan-onsen-snow-taisho-stay" className="text-blue-600 hover:underline">冬の銀山温泉・大正ロマン雪見と山形牛の極上旅</Link></li>
+            <li>→ <Link href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay/" className="text-blue-600 hover:underline">冬の松島・牡蠣と温泉で過ごす宮城の海絶景宿</Link></li>
+            <li>→ <Link href="/winter-miyagi-naruko-onsen-yukimi-sendai-beef-stay/" className="text-blue-600 hover:underline">冬の鳴子温泉・雪見露天と仙台牛の贅沢湯治旅</Link></li>
+            <li>→ <Link href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay/" className="text-blue-600 hover:underline">冬の秋保温泉・せり鍋と仙台牛で温まる名湯宿</Link></li>
+            <li>→ <Link href="/winter-iwate-hiraizumi-geibikei-wanko-soba-maesawagyu-stay/" className="text-blue-600 hover:underline">冬の平泉・世界遺産と前沢牛・わんこそばの岩手旅</Link></li>
+            <li>→ <Link href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/" className="text-blue-600 hover:underline">冬の銀山温泉・大正ロマン雪見と山形牛の極上旅</Link></li>
           </ul>
         </section>
       </main>

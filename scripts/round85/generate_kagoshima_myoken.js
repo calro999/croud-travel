@@ -211,7 +211,7 @@ ${hotelCardsCode}
       <nav className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-4 text-xs text-stone-500 flex items-center gap-1.5 flex-wrap">
         <Link href="/" className="hover:text-stone-900 transition">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-900 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-900 transition">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-700 font-medium">鹿児島・妙見温泉 初冬名宿5選</span>
       </nav>
@@ -557,7 +557,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay"
+              href="/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">鹿児島・霧島温泉郷</span>
@@ -570,7 +570,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay"
+              href="/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">鹿児島・指宿温泉</span>
@@ -583,7 +583,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay"
+              href="/winter-miyazaki-takachiho-yokagura-gorge-takachihogyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">宮崎・高千穂峡</span>

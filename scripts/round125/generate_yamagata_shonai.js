@@ -273,7 +273,7 @@ ${faqList.map(item => `    {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 py-4 text-xs text-slate-500 flex items-center gap-2">
         <Link href="/" className="hover:text-teal-700 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-teal-700 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-teal-700 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-slate-700 font-medium">山形・庄内＆出羽三山 冬特集</span>
       </nav>
@@ -590,7 +590,7 @@ ${faqList.map(item => `    {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm">
             <Link 
-              href="/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay"
+              href="/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-teal-400 hover:bg-teal-50/30 transition block space-y-1"
             >
               <span className="font-bold text-teal-950 block">【宮城】陸奥総鎮守「鹽竈神社」初詣と松島雪景色・三陸かき名宿</span>
@@ -598,7 +598,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay"
+              href="/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-teal-400 hover:bg-teal-50/30 transition block space-y-1"
             >
               <span className="font-bold text-teal-950 block">【福井】氣比神宮初詣と三方五湖冬静寂・越前がに名宿</span>
@@ -606,7 +606,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay"
+              href="/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-teal-400 hover:bg-teal-50/30 transition block space-y-1"
             >
               <span className="font-bold text-teal-950 block">【群馬】宝徳寺冬の床もみじ初詣と熱々ひもかわうどん名宿</span>
@@ -614,7 +614,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-iwate-sanriku-miyako-jodogahama-hatsumode-donguri-oyster-stay"
+              href="/winter-iwate-sanriku-miyako-jodogahama-hatsumode-donguri-oyster-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-teal-400 hover:bg-teal-50/30 transition block space-y-1"
             >
               <span className="font-bold text-teal-950 block">【岩手】三陸宮古・浄土ヶ浜冬景色と三陸毛ガニ・名湯名宿</span>
@@ -633,7 +633,7 @@ ${faqList.map(item => `    {
           </p>
           <div className="pt-2 flex flex-wrap justify-center gap-3">
             <Link 
-              href="/features" 
+              href="/features/" 
               className="px-6 py-3 bg-white text-slate-900 hover:bg-slate-100 font-black text-xs md:text-sm rounded-xl shadow transition"
             >
               特集記事一覧を見る

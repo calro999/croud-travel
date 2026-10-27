@@ -595,42 +595,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay"
+              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay/"
               className="bg-rose-900/80 hover:bg-rose-900 p-4 rounded-2xl transition border border-rose-800/50 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">熊本・黒川</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">黒川温泉 竹灯り「湯あかり」雪景色と肥後赤牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-oita-beppu-jigokumushi-hotspring-stay"
+              href="/winter-oita-beppu-jigokumushi-hotspring-stay/"
               className="bg-rose-900/80 hover:bg-rose-900 p-4 rounded-2xl transition border border-rose-800/50 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">大分・別府</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">別府八湯 湯煙パノラマと地獄蒸し＆関アジ関サバの宿</h3>
             </Link>
             <Link 
-              href="/winter-yufuin-morning-mist-lake-kinrin-stay"
+              href="/winter-yufuin-morning-mist-lake-kinrin-stay/"
               className="bg-rose-900/80 hover:bg-rose-900 p-4 rounded-2xl transition border border-rose-800/50 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">大分・由布院</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">由布院温泉 金鱗湖の冬朝霧パノラマとおおいた和牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay"
+              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay/"
               className="bg-rose-900/80 hover:bg-rose-900 p-4 rounded-2xl transition border border-rose-800/50 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">佐賀・嬉野</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">嬉野温泉 日本三大美肌の湯と温泉湯豆腐・佐賀牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-awajishima-sumoto-3year-torafugu-stay"
+              href="/winter-hyogo-awajishima-sumoto-3year-torafugu-stay/"
               className="bg-rose-900/80 hover:bg-rose-900 p-4 rounded-2xl transition border border-rose-800/50 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">兵庫・淡路島</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">淡路島洲本温泉 紀淡海峡パノラマと淡路島3年とらふぐの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-rose-900/80 hover:bg-rose-900 p-4 rounded-2xl transition border border-rose-800/50 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">特集一覧</span>

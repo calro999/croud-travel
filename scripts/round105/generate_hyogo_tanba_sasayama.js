@@ -552,7 +552,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay" 
+              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">兵庫・有馬温泉</span>
@@ -562,7 +562,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay" 
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">兵庫・城崎温泉</span>
@@ -572,7 +572,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay" 
+              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">京都・湯の花温泉</span>
@@ -582,7 +582,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-nara-dorogawa-onsen-snow-botannabe-stay" 
+              href="/winter-nara-dorogawa-onsen-snow-botannabe-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">奈良・洞川温泉</span>
@@ -592,7 +592,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay" 
+              href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">滋賀・長浜太閤温泉</span>
@@ -602,7 +602,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-hyogo-awajishima-sumoto-3year-torafugu-stay" 
+              href="/winter-hyogo-awajishima-sumoto-3year-torafugu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">兵庫・淡路島洲本</span>

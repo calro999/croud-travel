@@ -564,21 +564,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-toyama-himi-kanburi-luxury-stay" 
+              href="/winter-toyama-himi-kanburi-luxury-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-cyan-700 font-bold block text-[10px]">富山・氷見温泉郷</span>
               <p className="font-bold text-stone-800 line-clamp-2">冬の王者ひみ寒ぶり宣言と富山湾越しの立山連峰・極上寒ブリ尽くしの宿</p>
             </Link>
             <Link 
-              href="/winter-toyama-unazuki-onsen-kurobe-snow-stay" 
+              href="/winter-toyama-unazuki-onsen-kurobe-snow-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-cyan-700 font-bold block text-[10px]">富山・宇奈月温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">黒部峡谷の雪景色と美肌の無色透明温泉・富山湾の冬海鮮を味わう峡谷宿</p>
             </Link>
             <Link 
-              href="/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay" 
+              href="/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-cyan-700 font-bold block text-[10px]">石川・金沢湯涌温泉</span>

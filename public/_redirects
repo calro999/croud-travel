@@ -89,3 +89,7 @@
 /posts/kusatsu_now_resort/ /posts/kusatsu-now-resort/ 301
 /spots/wakita-yunos%20eko /spots/wakita-yunoseko/ 301
 /spots/wakita-yunos%20eko/ /spots/wakita-yunoseko/ 301
+
+# 7. Note drafts redirect to home (preserve SEO equity, prevent 404/GSC crawl errors)
+/posts/note-:slug / 301
+/posts/note-:slug/ / 301

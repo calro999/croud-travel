@@ -543,21 +543,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-iwate-hanamaki-minami-namari-osawa-snow-stay" 
+              href="/winter-iwate-hanamaki-minami-namari-osawa-snow-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-cyan-700 font-bold block text-[10px]">岩手・花巻南温泉郷</span>
               <p className="font-bold text-stone-800 line-clamp-2">鉛温泉・大沢温泉の白銀秘湯と前沢牛・立ち湯湯治の冬籠もり</p>
             </Link>
             <Link 
-              href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay" 
+              href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-cyan-700 font-bold block text-[10px]">宮城・松島温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">日本三景松島の冬景色と焼き牡蠣食べ放題・絶景松島湾の海沿い名宿</p>
             </Link>
             <Link 
-              href="/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay" 
+              href="/winter-aomori-shimofuro-onsen-oma-maguro-ankou-tsugaru-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-cyan-700 font-bold block text-[10px]">青森・下風呂温泉</span>

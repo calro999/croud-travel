@@ -533,21 +533,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay" 
+              href="/winter-oita-yufuin-onsen-kinrinko-asamiri-bungo-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">大分・由布院温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">金鱗湖の幻想的な冬朝霧と極上豊後牛・由布岳を望む露天名宿</p>
             </Link>
             <Link 
-              href="/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay" 
+              href="/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">大分・日田＆天ヶ瀬</span>
               <p className="font-bold text-stone-800 line-clamp-2">豆田町の初冬蔵屋敷散策と玖珠川清流露天風呂・豊後牛名宿</p>
             </Link>
             <Link 
-              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay" 
+              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">熊本・黒川温泉</span>

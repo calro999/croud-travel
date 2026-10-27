@@ -572,28 +572,28 @@ ${hotelCardsCode}
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
             <Link 
-              href="/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay" 
+              href="/winter-gifu-gero-onsen-hidagyu-bihada-hanabi-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>下呂温泉花火物語＆美肌の湯！飛騨牛と冬の温泉街名宿</span>
               <span className="text-amber-300">→</span>
             </Link>
             <Link 
-              href="/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay" 
+              href="/winter-ishikawa-kanazawa-city-kenrokuen-yukizuri-koubako-crab-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>金沢兼六園雪吊り＆香箱ガニ！冬の加賀百万石グルメ宿</span>
               <span className="text-amber-300">→</span>
             </Link>
             <Link 
-              href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay" 
+              href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>白馬パウダースノー＆美肌温泉！北アルプス雪景色と信州牛宿</span>
               <span className="text-amber-300">→</span>
             </Link>
             <Link 
-              href="/winter-toyama-amaharashi-shinminato-tateyama-crab-stay" 
+              href="/winter-toyama-amaharashi-shinminato-tateyama-crab-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>雨晴海岸から望む立山連峰＆新湊カニ！富山湾冬の絶景名宿</span>

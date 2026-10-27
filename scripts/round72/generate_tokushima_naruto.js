@@ -567,42 +567,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-hyogo-awajishima-sumoto-3year-torafugu-stay"
+              href="/winter-hyogo-awajishima-sumoto-3year-torafugu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">兵庫・淡路島温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">鳴門海峡の荒波が育む淡路島3年とらふぐフルコースと美肌露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay"
+              href="/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">兵庫・播州赤穂温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">播磨灘夕景と11月解禁坂越牡蠣・赤穂義士祭とインフィニティ露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay"
+              href="/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">徳島・祖谷温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">日本三大秘境の祖谷渓谷ケーブルカー露天風呂と阿波牛・郷土囲炉裏会席</h3>
             </Link>
             <Link 
-              href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay"
+              href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">香川・ことひら温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">金刀比羅宮の初冬参拝と讃岐オリーブ牛・門前町の温泉情緒を味わう宿</h3>
             </Link>
             <Link 
-              href="/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay"
+              href="/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">香川・小豆島温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">寒霞渓の冬絶景とオリーブ牛ステーキ・瀬戸内海一望の海辺露天風呂</h3>
             </Link>
             <Link 
-              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay"
+              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">愛媛・道後温泉</span>

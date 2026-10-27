@@ -534,21 +534,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay" 
+              href="/winter-shimane-yunotsu-onsen-iwamiginzan-nodoguro-wagyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-red-700 font-bold block text-[10px]">島根・温泉津温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">石見銀山の世界遺産名湯と冬の極上のどぐろ・石見和牛を味わうレトロ宿</p>
             </Link>
             <Link 
-              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay" 
+              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-red-700 font-bold block text-[10px]">島根・玉造温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">神の湯の天然化粧水風呂と11月解禁松葉ガニ・出雲大社初冬参拝</p>
             </Link>
             <Link 
-              href="/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay" 
+              href="/winter-yamaguchi-yuda-onsen-torafugu-byakko-choshu-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-red-700 font-bold block text-[10px]">山口・湯田温泉</span>

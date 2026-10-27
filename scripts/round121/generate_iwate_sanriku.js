@@ -212,7 +212,7 @@ ${faqList.map(f => `    {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-600 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-blue-600">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/features" className="hover:text-blue-600">特集一覧</Link>
+            <Link href="/features/" className="hover:text-blue-600">特集一覧</Link>
             <span>&gt;</span>
             <span className="text-slate-900 font-semibold">岩手・浄土ヶ浜＆三陸毛ガニ・瓶ドン名宿</span>
           </div>
@@ -527,7 +527,7 @@ ${faqList.map(f => `    {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               <Link
-                href="/winter-iwate-morioka-tsunagi-wagyu-stay"
+                href="/winter-iwate-morioka-tsunagi-wagyu-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-amber-400 text-xs font-bold block mb-1">岩手特集</span>
@@ -535,7 +535,7 @@ ${faqList.map(f => `    {
                 <span className="text-xs text-slate-300">盛岡の奥座敷・繋温泉の源泉と名牛ステーキ…</span>
               </Link>
               <Link
-                href="/winter-iwate-hiraizumi-geibikei-maesawagyu-stay"
+                href="/winter-iwate-hiraizumi-geibikei-maesawagyu-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-emerald-400 text-xs font-bold block mb-1">岩手特集</span>
@@ -543,7 +543,7 @@ ${faqList.map(f => `    {
                 <span className="text-xs text-slate-300">世界遺産平泉の新春初詣と猊鼻渓の冬情趣…</span>
               </Link>
               <Link
-                href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay"
+                href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-cyan-400 text-xs font-bold block mb-1">青森特集</span>
@@ -551,7 +551,7 @@ ${faqList.map(f => `    {
                 <span className="text-xs text-slate-300">三陸北端の港町八戸の絶品銀サバと朝市…</span>
               </Link>
               <Link
-                href="/winter-miyagi-kesennuma-mekajiki-stay"
+                href="/winter-miyagi-kesennuma-mekajiki-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-rose-400 text-xs font-bold block mb-1">宮城特集</span>
@@ -559,7 +559,7 @@ ${faqList.map(f => `    {
                 <span className="text-xs text-slate-300">三陸南部の冬の主役メカジキしゃぶしゃぶ…</span>
               </Link>
               <Link
-                href="/features"
+                href="/features/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-purple-400 text-xs font-bold block mb-1">特集一覧</span>

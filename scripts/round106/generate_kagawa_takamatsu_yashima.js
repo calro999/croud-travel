@@ -538,37 +538,37 @@ ${faqList.map(item => `          {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay"
+              href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-teal-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-teal-600 block"
             >
               【こんぴら温泉】金刀比羅宮新春初詣＆名物讃岐うどんとオリーブ牛名宿
             </Link>
             <Link
-              href="/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay"
+              href="/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-teal-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-teal-600 block"
             >
               【小豆島温泉】寒霞渓冬景色＆オリーブ牛会席とオーシャンビュー名宿
             </Link>
             <Link
-              href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay"
+              href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-teal-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-teal-600 block"
             >
               【道後温泉本館】日本最古の名湯＆冬の瀬戸内寒鯛めし・伊予牛名宿
             </Link>
             <Link
-              href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay"
+              href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-teal-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-teal-600 block"
             >
               【鳴門温泉】鳴門海峡の冬絶景露天風呂＆極上鳴門鯛づくし名宿
             </Link>
             <Link
-              href="/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay"
+              href="/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-teal-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-teal-600 block"
             >
               【祖谷渓温泉】秘境かずら橋雪景色＆祖谷そばと阿波牛囲炉裏名宿
             </Link>
             <Link
-              href="/features"
+              href="/features/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-teal-300 hover:shadow-xs transition-all text-sm font-bold text-teal-700 block text-center flex items-center justify-center gap-1"
             >
               <span>全国の冬旅特集一覧を見る</span>

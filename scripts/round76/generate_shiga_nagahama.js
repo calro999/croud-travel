@@ -602,7 +602,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-2">
             <Link 
-              href="/winter-shiga-ogoto-onsen-biwako-omigyu-stay"
+              href="/winter-shiga-ogoto-onsen-biwako-omigyu-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">雄琴・美肌の湯</span>
@@ -611,7 +611,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay"
+              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-rose-500/40 text-rose-200 font-bold text-[10px]">湯の花・ぼたん鍋</span>
@@ -620,7 +620,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay"
+              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-amber-500/40 text-amber-200 font-bold text-[10px]">有馬・金泉銀泉</span>
@@ -629,7 +629,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay"
+              href="/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay/"
               className="bg-white/10 hover:bg-white/20 p-4 rounded-2xl border border-white/15 transition-all text-xs space-y-2 block"
             >
               <span className="px-2 py-0.5 rounded bg-emerald-500/40 text-emerald-200 font-bold text-[10px]">湯村・松葉ガニ＆但馬牛</span>

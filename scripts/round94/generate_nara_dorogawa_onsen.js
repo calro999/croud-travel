@@ -547,21 +547,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay" 
+              href="/winter-nara-yamatoji-wakakusayama-yamatogyu-asukabeef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-red-700 font-bold block text-[10px]">奈良・大和路</span>
               <p className="font-bold text-stone-800 line-clamp-2">若草山焼きの冬絶景と古都の雪景色・大和牛と飛鳥鍋を堪能する名宿</p>
             </Link>
             <Link 
-              href="/winter-wakayama-ryujin-onsen-bihada-botannabe-stay" 
+              href="/winter-wakayama-ryujin-onsen-bihada-botannabe-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-red-700 font-bold block text-[10px]">和歌山・龍神温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">日本三美人の湯と渓谷雪景色・極上ぼたん鍋と熊野牛を味わう名湯</p>
             </Link>
             <Link 
-              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay" 
+              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-red-700 font-bold block text-[10px]">京都・湯の花温泉</span>

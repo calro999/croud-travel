@@ -222,7 +222,7 @@ ${hotelCardsCode}
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-sky-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-sky-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-sky-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">お台場花火＆豊洲千客万来夜景宿</li>
         </ol>
@@ -545,42 +545,42 @@ ${hotelCardsCode}
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 pt-2">
             <Link 
-              href="/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay"
+              href="/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-sky-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">浅草寺新春初詣＆スカイツリー冬夜景！下町老舗グルメ宿</span>
               <span className="text-[11px] text-sky-600 font-medium mt-2 flex items-center gap-1">東京・浅草特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-tokyo-marunouchi-illumination-luxury-stay"
+              href="/winter-tokyo-marunouchi-illumination-luxury-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-sky-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">丸の内シャンパンゴールドイルミ＆大手町ラグジュアリーステイ</span>
               <span className="text-[11px] text-sky-600 font-medium mt-2 flex items-center gap-1">東京・丸の内特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay"
+              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-sky-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">湘南の宝石イルミ＆江の島・鎌倉八幡宮初詣！冬富士の絶景宿</span>
               <span className="text-[11px] text-sky-600 font-medium mt-2 flex items-center gap-1">神奈川・鎌倉江の島特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay"
+              href="/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-sky-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">成田山新勝寺新春初詣＆佐原の小江戸！名物うなぎと天然温泉宿</span>
               <span className="text-[11px] text-sky-600 font-medium mt-2 flex items-center gap-1">千葉・成田佐原特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay"
+              href="/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-sky-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">武蔵一宮氷川神社新春初詣＆けやきひろば光の森！武州牛の寛ぎ宿</span>
               <span className="text-[11px] text-sky-600 font-medium mt-2 flex items-center gap-1">埼玉・大宮新都心特集を読む →</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-sky-50 p-3.5 rounded-2xl border border-sky-200 hover:bg-sky-100 transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-sky-900 line-clamp-2">全国の冬旅・新春初詣＆温泉特選特集一覧</span>

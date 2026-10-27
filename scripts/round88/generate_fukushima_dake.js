@@ -530,7 +530,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay"
+              href="/winter-fukushima-takayu-tsuchiyu-onsen-yukimi-fukushimagyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-300 bg-blue-400/20 px-2 py-0.5 rounded-full inline-block">福島・吾妻高湯土湯</span>
@@ -543,7 +543,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-fukushima-bandaiatami-onsen-toji-fukushimagyu-stay"
+              href="/winter-fukushima-bandaiatami-onsen-toji-fukushimagyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-300 bg-blue-400/20 px-2 py-0.5 rounded-full inline-block">福島・郡山奥座敷</span>
@@ -556,7 +556,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay"
+              href="/winter-fukushima-aizu-higashiyama-ashinomaki-onsen-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-300 bg-blue-400/20 px-2 py-0.5 rounded-full inline-block">福島・会津若松</span>

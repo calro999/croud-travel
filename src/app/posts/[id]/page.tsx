@@ -70,7 +70,7 @@ export async function generateStaticParams() {
     return [];
   }
   try {
-    const files = fs.readdirSync(postsDir).filter((f) => f.endsWith(".json"));
+    const files = fs.readdirSync(postsDir).filter((f) => f.endsWith(".json") && !f.startsWith("note-"));
     return files.map((file) => ({
       id: file.replace(".json", ""),
     }));
@@ -82,6 +82,12 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ id: string }> }): Promise<Metadata> {
   const { id } = await params;
+  if (id.startsWith("note-")) {
+    return {
+      title: "ページが見つかりません",
+      robots: { index: false, follow: false },
+    };
+  }
   const postPath = path.join(process.cwd(), "src", "data", "posts", `${id}.json`);
   const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
@@ -112,6 +118,10 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
       pageTitle = `${post.hotel_name}（${post.prefecture}）おすすめ観光＆宿泊ガイド`;
     }
 
+    const ogImageUrl = post.image
+      ? (post.image.startsWith("http") ? post.image : `${baseUrl}${post.image.startsWith("/") ? "" : "/"}${post.image}`)
+      : undefined;
+
     return {
       title: pageTitle,
       description: descriptionText,
@@ -134,7 +144,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
         description: descriptionText,
         url: `${baseUrl}/posts/${id}/`,
         siteName: "日本全国・旅宿クラウド",
-        images: post.image ? [{ url: post.image, alt: post.hotel_name, width: 1200, height: 630 }] : [],
+        images: ogImageUrl ? [{ url: ogImageUrl, alt: post.hotel_name, width: 1200, height: 630 }] : [],
         type: "article",
         publishedTime: post.date ? `${post.date.split(" ")[0]}T09:00:00+09:00` : undefined,
         modifiedTime: post.date ? `${post.date.split(" ")[0]}T09:00:00+09:00` : undefined,
@@ -143,7 +153,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
         card: "summary_large_image",
         title: `${pageTitle} ｜ 旅宿クラウド`,
         description: descriptionText,
-        images: post.image ? [post.image] : [],
+        images: ogImageUrl ? [ogImageUrl] : [],
       },
     };
   } catch (e) {
@@ -169,6 +179,9 @@ function loadAllPosts(): PostSummary[] {
 
 export default async function PostPage({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
+  if (id.startsWith("note-")) {
+    notFound();
+  }
   const postPath = path.join(process.cwd(), "src", "data", "posts", `${id}.json`);
   const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 

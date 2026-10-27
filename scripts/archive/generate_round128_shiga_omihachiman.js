@@ -213,7 +213,7 @@ ${hotelCardsCode}
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-amber-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-amber-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-amber-600 transition">特集一覧</Link>
             <span>/</span>
             <span className="text-stone-800 font-medium">滋賀・近江八幡 冬のこたつ舟と日牟禮八幡宮初詣</span>
           </div>
@@ -502,28 +502,28 @@ ${hotelCardsCode}
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               <Link 
-                href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay"
+                href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-amber-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【滋賀】長浜・太閤温泉＆湖北の冬旅</div>
                 <p className="text-stone-500">湖北の冬の風物詩「天然真鴨鍋」と竹生島クルーズ・長浜黒壁スクエア名宿</p>
               </Link>
               <Link 
-                href="/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay"
+                href="/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-amber-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【滋賀】比叡山延暦寺＆おごと温泉</div>
                 <p className="text-stone-500">世界遺産・不滅の法灯新春初詣と琵琶湖一望の美肌露天・近江牛会席名宿</p>
               </Link>
               <Link 
-                href="/winter-kyoto-arashiyama-onsen-yudofu-stay"
+                href="/winter-kyoto-arashiyama-onsen-yudofu-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-amber-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【京都】嵐山温泉＆名物湯豆腐の冬散策</div>
                 <p className="text-stone-500">渡月橋雪景色と嵯峨野竹林の小径・老舗湯豆腐と嵐山天然温泉名宿</p>
               </Link>
               <Link 
-                href="/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay"
+                href="/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay/"
                 className="p-3 bg-white border border-stone-200 rounded-lg hover:border-amber-400 hover:shadow-sm transition"
               >
                 <div className="font-bold text-stone-800 mb-1">【福井】敦賀・気比神宮初詣＆越前蟹</div>
@@ -532,7 +532,7 @@ ${hotelCardsCode}
             </div>
             <div className="mt-6 text-center">
               <Link 
-                href="/features"
+                href="/features/"
                 className="inline-flex items-center gap-1.5 text-xs font-bold text-amber-600 hover:text-amber-700 transition"
               >
                 全国の冬特集・温泉宿泊ガイド一覧を見る →

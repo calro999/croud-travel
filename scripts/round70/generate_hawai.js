@@ -567,42 +567,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">鳥取・三朝温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">世界屈指の高濃度ラジウム温泉と鳥取松葉ガニ・三朝橋雪景色の名宿</h3>
             </Link>
             <Link 
-              href="/winter-tottori-kaike-onsen-matsuba-crab-stay"
+              href="/winter-tottori-kaike-onsen-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">鳥取・皆生温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">美保湾境港直送松葉ガニと伯耆富士大山雪景色・塩化物泉の宿</h3>
             </Link>
             <Link 
-              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay"
+              href="/winter-shimane-tamatsukuri-onsen-kamiarizuki-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">島根・玉造温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">神在月の出雲路と日本最古の美肌湯・松葉ガニ＆島根和牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay"
+              href="/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">兵庫・香住温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">最高峰ブランド柴山ガニと香住松葉ガニ・但馬牛ステーキの宿</h3>
             </Link>
             <Link 
-              href="/winter-kyoto-tango-yuhigaura-matsuba-crab-stay"
+              href="/winter-kyoto-tango-yuhigaura-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">京都丹後・夕日ヶ浦温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">日本海夕景と11月解禁松葉ガニ・幻の間人ガニ＆美人の湯の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">特集一覧</span>

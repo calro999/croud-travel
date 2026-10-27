@@ -254,28 +254,28 @@ export default function FurusatoRound55Page() {
           <h2 className="text-xl font-bold text-slate-900 mb-4">あわせて読みたい極上ふるさと納税旅特集</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
-              href="/furusato-tax-three-great-caves-underground-stay"
+              href="/furusato-tax-three-great-caves-underground-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-teal-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-teal-700 block mb-1">三大鍾乳洞地底美</span>
               <span className="font-semibold text-slate-900 text-sm">【日本三大鍾乳洞】龍泉洞・秋芳洞・龍河洞ステイ特集</span>
             </Link>
             <Link
-              href="/furusato-tax-three-great-pine-groves-oceanview-stay"
+              href="/furusato-tax-three-great-pine-groves-oceanview-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-teal-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-teal-700 block mb-1">三大松原オーシャンビュー</span>
               <span className="font-semibold text-slate-900 text-sm">【日本三大松原】三保・虹の松原・気比の松原特集</span>
             </Link>
             <Link
-              href="/furusato-tax-three-great-mountain-castles-history-stay"
+              href="/furusato-tax-three-great-mountain-castles-history-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-teal-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-teal-700 block mb-1">天空の山城雲海</span>
               <span className="font-semibold text-slate-900 text-sm">【日本三大山城】竹田城・備中松山城・岩村城特集</span>
             </Link>
             <Link
-              href="/furusato-tax-three-great-train-views-scenic-stay"
+              href="/furusato-tax-three-great-train-views-scenic-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-teal-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-teal-700 block mb-1">三大車窓パノラマ</span>

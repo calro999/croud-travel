@@ -667,49 +667,49 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs sm:text-sm">
             <Link 
-              href="/prefectures/nagasaki" 
+              href="/prefectures/nagasaki/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-indigo-50 hover:text-indigo-600 transition font-medium border border-stone-100"
             >
               長崎県の観光・温泉宿一覧 →
             </Link>
             <Link 
-              href="/winter-fukuoka-hakata-christmas-advent-gourmet-stay" 
+              href="/winter-fukuoka-hakata-christmas-advent-gourmet-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-indigo-50 hover:text-indigo-600 transition font-medium border border-stone-100"
             >
               福岡 クリスマスアドベント特集 →
             </Link>
             <Link 
-              href="/winter-kumamoto-kurokawa-yuakari-illumination-stay" 
+              href="/winter-kumamoto-kurokawa-yuakari-illumination-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-indigo-50 hover:text-indigo-600 transition font-medium border border-stone-100"
             >
               熊本 黒川温泉湯あかり特集 →
             </Link>
             <Link 
-              href="/prefectures/saga" 
+              href="/prefectures/saga/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-indigo-50 hover:text-indigo-600 transition font-medium border border-stone-100"
             >
               佐賀県（武雄・嬉野温泉）の宿 →
             </Link>
             <Link 
-              href="/prefectures/fukuoka" 
+              href="/prefectures/fukuoka/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-indigo-50 hover:text-indigo-600 transition font-medium border border-stone-100"
             >
               福岡県の温泉ホテル一覧 →
             </Link>
             <Link 
-              href="/winter-kobe-luminarie-illumination-stay" 
+              href="/winter-kobe-luminarie-illumination-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-indigo-50 hover:text-indigo-600 transition font-medium border border-stone-100"
             >
               神戸ルミナリエ特集 →
             </Link>
             <Link 
-              href="/winter-yokohama-minatomirai-christmas-stay" 
+              href="/winter-yokohama-minatomirai-christmas-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-indigo-50 hover:text-indigo-600 transition font-medium border border-stone-100"
             >
               横浜みなとみらいクリスマス特集 →
             </Link>
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-3 rounded-xl bg-stone-900 text-white hover:bg-stone-800 transition font-bold text-center flex items-center justify-center gap-1"
             >
               <span>全国の特集一覧を見る</span>

@@ -208,7 +208,7 @@ ${hotelCardsCode}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 py-4 text-xs font-semibold text-stone-500 flex items-center gap-2">
         <Link href="/" className="hover:text-blue-700 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-blue-700 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-blue-700 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-stone-800">山形・酒田＆鶴岡・羽黒山初詣と寒鱈名宿</span>
       </nav>
@@ -501,19 +501,19 @@ ${hotelCardsCode}
             あわせて読みたい！東北の冬景色＆温泉特集
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
-            <Link href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
+            <Link href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
               ❄️ 蔵王温泉＆スノーモンスター樹氷・米沢牛名宿
             </Link>
-            <Link href="/winter-yamagata-ginzan-onsen-snow-taisho-stay" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
+            <Link href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
               🏮 銀山温泉！大正ロマンの雪景色とガス灯・山形牛
             </Link>
-            <Link href="/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
+            <Link href="/winter-akita-yokote-kamakura-oyasukyo-shigakko-inaniwa-stay/" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
               ⛄ 横手のかまくら雪まつり＆小安峡巨大氷柱名宿
             </Link>
-            <Link href="/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
+            <Link href="/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay/" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
               🌊 瀬波温泉！日本海夕日と塩引き鮭・村上牛名宿
             </Link>
-            <Link href="/campaigns/autumn-gourmet-travel" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
+            <Link href="/campaigns/autumn-gourmet-travel/" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
               🍁 全国の旬の味覚＆極上温泉宿特集まとめ
             </Link>
           </div>

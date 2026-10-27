@@ -592,7 +592,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay"
+              href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-emerald-400 block mb-1">近江八幡・彦根冬特集</span>
@@ -600,7 +600,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay"
+              href="/winter-kyoto-ine-funaya-ineburi-shabu-miyazu-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-emerald-400 block mb-1">京都・伊根の舟屋冬特集</span>
@@ -608,7 +608,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay"
+              href="/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-emerald-400 block mb-1">福井・三方五湖冬特集</span>

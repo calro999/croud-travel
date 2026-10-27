@@ -212,7 +212,7 @@ ${faqList.map(f => `    {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-600 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-blue-600">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/features" className="hover:text-blue-600">特集一覧</Link>
+            <Link href="/features/" className="hover:text-blue-600">特集一覧</Link>
             <span>&gt;</span>
             <span className="text-slate-900 font-semibold">愛知・豊川稲荷初詣＆奥三河湯谷温泉名宿</span>
           </div>
@@ -523,7 +523,7 @@ ${faqList.map(f => `    {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               <Link
-                href="/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay"
+                href="/winter-aichi-gamagori-onsen-mikawawan-mehikari-akazaebi-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-cyan-400 text-xs font-bold block mb-1">愛知特集</span>
@@ -531,7 +531,7 @@ ${faqList.map(f => `    {
                 <span className="text-xs text-slate-300">三河湾の冬の味覚アカザエビと竹島弁天初詣…</span>
               </Link>
               <Link
-                href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay"
+                href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-amber-400 text-xs font-bold block mb-1">愛知特集</span>
@@ -539,7 +539,7 @@ ${faqList.map(f => `    {
                 <span className="text-xs text-slate-300">知多半島の冬のとらふぐ三昧と絶景オーシャンビュー…</span>
               </Link>
               <Link
-                href="/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay"
+                href="/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-emerald-400 text-xs font-bold block mb-1">静岡特集</span>
@@ -547,7 +547,7 @@ ${faqList.map(f => `    {
                 <span className="text-xs text-slate-300">東三河に隣接する浜名湖の冬の極上美食温泉…</span>
               </Link>
               <Link
-                href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay"
+                href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-rose-400 text-xs font-bold block mb-1">岐阜特集</span>
@@ -555,7 +555,7 @@ ${faqList.map(f => `    {
                 <span className="text-xs text-slate-300">日本三名泉の美肌湯と冬花火の競演…</span>
               </Link>
               <Link
-                href="/features"
+                href="/features/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-purple-400 text-xs font-bold block mb-1">特集一覧</span>

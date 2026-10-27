@@ -570,7 +570,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay"
+              href="/winter-shizuoka-izunagaoka-onsen-fujiview-kinmedai-izugyu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-md">静岡・伊豆長岡温泉</span>
@@ -580,7 +580,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay"
+              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-md">静岡・熱海温泉</span>
@@ -590,7 +590,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay"
+              href="/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-md">静岡・稲取温泉</span>
@@ -600,7 +600,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay"
+              href="/winter-shizuoka-nishiizu-dogashima-onsen-sunset-fuji-takaashigani-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-md">静岡・西伊豆堂ヶ島温泉</span>
@@ -610,7 +610,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay"
+              href="/winter-shizuoka-shuzenji-late-momiji-bamboo-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-md">静岡・修善寺温泉</span>
@@ -620,7 +620,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/features"
+              href="/features/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2 flex flex-col justify-center items-center text-center"
             >
               <span className="text-xs font-bold text-teal-700">全国の旬の温泉特集一覧へ</span>

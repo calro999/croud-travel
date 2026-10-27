@@ -530,21 +530,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay" 
+              href="/winter-tochigi-nasu-onsen-shikanoyu-snow-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">栃木・那須温泉郷</span>
               <p className="font-bold text-stone-800 line-clamp-2">開湯1300年鹿の湯の白濁硫黄泉と雪見露天風呂・那須黒毛和牛名宿</p>
             </Link>
             <Link 
-              href="/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay" 
+              href="/winter-tochigi-shiobara-onsen-yukimi-tochigi-beef-radish-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">栃木・塩原温泉郷</span>
               <p className="font-bold text-stone-800 line-clamp-2">箒川渓谷の雪景色と名物塩原大根・とちぎ和牛すき焼きを味わう宿</p>
             </Link>
             <Link 
-              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay" 
+              href="/winter-tochigi-okunikko-yumoto-snow-onsen-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">栃木・奥日光湯元温泉</span>

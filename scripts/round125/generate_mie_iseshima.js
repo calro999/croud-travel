@@ -273,7 +273,7 @@ ${faqList.map(item => `    {
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 py-4 text-xs text-slate-500 flex items-center gap-2">
         <Link href="/" className="hover:text-amber-700 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-amber-700 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-700 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-slate-700 font-medium">三重・伊勢志摩＆鳥羽 冬特集</span>
       </nav>
@@ -594,7 +594,7 @@ ${faqList.map(item => `    {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm">
             <Link 
-              href="/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay"
+              href="/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-amber-400 hover:bg-amber-50/30 transition block space-y-1"
             >
               <span className="font-bold text-amber-950 block">【奈良】橿原神宮初詣と明日香・飛鳥鍋＆大和牛名宿</span>
@@ -602,7 +602,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay"
+              href="/winter-fukui-tsuruga-kehi-jingu-mikata-goko-echizengani-wakasa-fugu-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-amber-400 hover:bg-amber-50/30 transition block space-y-1"
             >
               <span className="font-bold text-amber-950 block">【福井】氣比神宮初詣と三方五湖冬静寂・越前がに名宿</span>
@@ -610,7 +610,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay"
+              href="/winter-shizuoka-kakegawa-fukuroi-hattasan-hatsumode-yumesakigyu-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-amber-400 hover:bg-amber-50/30 transition block space-y-1"
             >
               <span className="font-bold text-amber-950 block">【静岡】法多山尊永寺初詣と掛川城木造天守・遠州夢咲牛名宿</span>
@@ -618,7 +618,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-aichi-toyokawa-inari-hatsumode-mikawa-unagi-stay"
+              href="/winter-aichi-toyokawa-inari-hatsumode-mikawa-unagi-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-amber-400 hover:bg-amber-50/30 transition block space-y-1"
             >
               <span className="font-bold text-amber-950 block">【愛知】豊川稲荷新春初詣と三河一色うなぎ名宿</span>
@@ -637,7 +637,7 @@ ${faqList.map(item => `    {
           </p>
           <div className="pt-2 flex flex-wrap justify-center gap-3">
             <Link 
-              href="/features" 
+              href="/features/" 
               className="px-6 py-3 bg-white text-slate-900 hover:bg-slate-100 font-black text-xs md:text-sm rounded-xl shadow transition"
             >
               特集記事一覧を見る

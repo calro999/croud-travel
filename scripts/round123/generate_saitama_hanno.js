@@ -212,7 +212,7 @@ ${faqList.map(f => `    {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-600 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-emerald-700">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/features" className="hover:text-emerald-700">特集一覧</Link>
+            <Link href="/features/" className="hover:text-emerald-700">特集一覧</Link>
             <span>&gt;</span>
             <span className="text-slate-900 font-semibold">埼玉・飯能＆名栗温泉名宿</span>
           </div>
@@ -521,22 +521,22 @@ ${faqList.map(f => `    {
               <span>埼玉・関東甲信越および冬の目的別おすすめ特集</span>
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
-              <Link href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
+              <Link href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
                 🏮 秩父夜祭と名湯・長瀞こたつ舟名宿
               </Link>
-              <Link href="/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
+              <Link href="/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
                 🌼 長瀞・宝登山蝋梅と荒川こたつ舟名宿
               </Link>
-              <Link href="/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
+              <Link href="/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
                 🏯 川越小江戸・喜多院だるま市と鰻名宿
               </Link>
-              <Link href="/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
+              <Link href="/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
                 ⛩️ 高崎＆榛名神社初詣・磯部温泉名宿
               </Link>
-              <Link href="/winter-tokyo-shinjuku-nishishinjuku-illumination-hatsumode-luxury-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
+              <Link href="/winter-tokyo-shinjuku-nishishinjuku-illumination-hatsumode-luxury-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-emerald-400 transition font-medium text-slate-700">
                 ✨ 新宿・高層ビル群イルミ＆新春初詣名宿
               </Link>
-              <Link href="/features" className="p-3 bg-emerald-800 text-white rounded-xl font-bold hover:bg-emerald-900 transition text-center flex items-center justify-center">
+              <Link href="/features/" className="p-3 bg-emerald-800 text-white rounded-xl font-bold hover:bg-emerald-900 transition text-center flex items-center justify-center">
                 ❄️ 全国の冬の厳選特集一覧を見る →
               </Link>
             </div>

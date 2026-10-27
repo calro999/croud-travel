@@ -87,7 +87,7 @@ async function verify() {
     }
 
     // 1-5. Internal links check (must include /features, /, and RELATED WINTER FEATURES links)
-    const hasInternalNav = content.includes('<Link \n              href="/features"') || content.includes('<Link href="/features"');
+    const hasInternalNav = content.includes('<Link \n              href="/features/"') || content.includes('<Link href="/features/"');
     const hasHomeNav = content.includes('<Link \n              href="/"') || content.includes('<Link href="/"');
     const hasRelatedLinks = content.includes('RELATED WINTER FEATURES');
     if (!hasInternalNav || !hasHomeNav || !hasRelatedLinks) {

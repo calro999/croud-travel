@@ -211,9 +211,9 @@ ${hotelCardsCode}
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-rose-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-rose-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-rose-600 transition">特集一覧</Link>
             <span>/</span>
-            <Link href="/prefectures/osaka" className="hover:text-rose-600 transition">大阪府</Link>
+            <Link href="/prefectures/osaka/" className="hover:text-rose-600 transition">大阪府</Link>
             <span>/</span>
             <span className="text-stone-800 font-medium">USJハロウィーン・ホラー・ナイト特集</span>
           </div>
@@ -540,13 +540,13 @@ ${hotelCardsCode}
               叫んで、踊って、笑って、日常のすべてを吹き飛ばす秋のエンターテインメント。熱狂のあとはパーク直結ホテルや展望温泉で贅沢に寛ぎ、忘れられないハロウィーンの夜を刻みましょう。
             </p>
             <div className="flex flex-wrap items-center justify-center gap-3 text-xs">
-              <Link href="/features" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
+              <Link href="/features/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 ← 特集一覧に戻る
               </Link>
-              <Link href="/prefectures/osaka" className="px-4 py-2 rounded-full bg-rose-50 hover:bg-rose-100 text-rose-700 font-semibold transition">
+              <Link href="/prefectures/osaka/" className="px-4 py-2 rounded-full bg-rose-50 hover:bg-rose-100 text-rose-700 font-semibold transition">
                 大阪府の旅行ガイド・ホテル一覧
               </Link>
-              <Link href="/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay" className="px-4 py-2 rounded-full bg-orange-50 hover:bg-orange-100 text-orange-700 font-semibold transition">
+              <Link href="/autumn-tokyo-disney-resort-halloween-maihama-hotels-stay/" className="px-4 py-2 rounded-full bg-orange-50 hover:bg-orange-100 text-orange-700 font-semibold transition">
                 東京ディズニーリゾート・ハロウィーン特集
               </Link>
               <Link href="/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">

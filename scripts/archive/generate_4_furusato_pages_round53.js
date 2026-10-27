@@ -254,28 +254,28 @@ export default function FurusatoRound53Page() {
           <h2 className="text-xl font-bold text-slate-900 mb-4">あわせて読みたい極上ふるさと納税旅特集</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
-              href="/furusato-tax-three-great-valleys-riverside-stay"
+              href="/furusato-tax-three-great-valleys-riverside-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-teal-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-teal-700 block mb-1">三大渓流露天風呂</span>
               <span className="font-semibold text-slate-900 text-sm">【日本三大渓流】奥入瀬・三段峡・御岳の清流美特集</span>
             </Link>
             <Link
-              href="/furusato-tax-three-great-scenic-wonders-stay"
+              href="/furusato-tax-three-great-scenic-wonders-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-teal-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-teal-700 block mb-1">三大奇勝岩壁美</span>
               <span className="font-semibold text-slate-900 text-sm">【日本三大奇勝】妙義山・耶馬渓・寒霞渓ステイ特集</span>
             </Link>
             <Link
-              href="/furusato-tax-three-sacred-mountains-stay"
+              href="/furusato-tax-three-sacred-mountains-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-teal-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-teal-700 block mb-1">三大霊峰雲海ステイ</span>
               <span className="font-semibold text-slate-900 text-sm">【日本三大霊峰】富士山・立山・白山の聖地温泉特集</span>
             </Link>
             <Link
-              href="/furusato-tax-top100-hidden-paradise-stay"
+              href="/furusato-tax-top100-hidden-paradise-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-teal-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-teal-700 block mb-1">秘境百選の隠れ宿</span>

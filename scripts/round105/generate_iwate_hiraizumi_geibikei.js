@@ -552,7 +552,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-iwate-hanamaki-minami-namari-osawa-snow-stay" 
+              href="/winter-iwate-hanamaki-minami-namari-osawa-snow-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">岩手・花巻温泉郷</span>
@@ -562,7 +562,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-iwate-sanriku-kotatsu-train-kaisen-stay" 
+              href="/winter-iwate-sanriku-kotatsu-train-kaisen-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">岩手・三陸鉄道</span>
@@ -572,7 +572,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay" 
+              href="/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">栃木・日光東照宮</span>
@@ -582,7 +582,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-miyagi-kesennuma-mekajiki-fuyu-onsen-stay" 
+              href="/winter-miyagi-kesennuma-mekajiki-fuyu-onsen-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">宮城・気仙沼</span>
@@ -592,7 +592,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay" 
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">山形・銀山温泉</span>
@@ -602,7 +602,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-fukushima-aizu-ouchijuku-snow-negi-soba-stay" 
+              href="/winter-fukushima-aizu-ouchijuku-snow-negi-soba-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-amber-700 font-bold text-xs block mb-1">福島・会津大内宿</span>

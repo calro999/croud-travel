@@ -545,21 +545,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay" 
+              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">山形・蔵王温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">幻想の樹氷ライトアップと強酸性美肌硫黄泉・極上山形牛を味わう名宿</p>
             </Link>
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-romantic-stay" 
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-romantic-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">山形・銀山温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">ガス灯揺れる大正浪漫の雪景色・尾花沢牛と木造楼閣の老舗旅館</p>
             </Link>
             <Link 
-              href="/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay" 
+              href="/winter-akita-oyasukyo-akinomiya-onsen-minasegyu-seri-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">秋田・小安峡＆秋の宮</span>

@@ -552,42 +552,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay"
+              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">三重・鳥羽温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">伊勢海老・的矢牡蠣と伊勢湾海景色・美肌温泉の宿</h3>
             </Link>
             <Link 
-              href="/winter-mie-nabana-no-sato-illumination-stay"
+              href="/winter-mie-nabana-no-sato-illumination-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">三重・なばなの里</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">国内最大級イルミネーションと長島温泉リゾートの宿</h3>
             </Link>
             <Link 
-              href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay"
+              href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">愛知・南知多温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">伊勢湾パノラマ夕日露天と天然とらふぐ・知多牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay"
+              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">岐阜・下呂温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">天下の三名泉と冬花火物語・とろける極上飛騨牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay"
+              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">京都・湯の花温泉</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">亀岡盆地の幻想雲海と冬のぼたん鍋・京会席を味わう隠れ宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">特集一覧</span>

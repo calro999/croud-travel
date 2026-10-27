@@ -211,9 +211,9 @@ ${hotelCardsCode}
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-amber-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-amber-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-amber-600 transition">特集一覧</Link>
             <span>/</span>
-            <Link href="/prefectures/kanagawa" className="hover:text-amber-600 transition">神奈川県</Link>
+            <Link href="/prefectures/kanagawa/" className="hover:text-amber-600 transition">神奈川県</Link>
             <span>/</span>
             <span className="text-stone-800 font-medium">横浜山手西洋館ハロウィーン特集</span>
           </div>
@@ -551,13 +551,13 @@ ${hotelCardsCode}
               クラシカルな洋館に息づくアート装飾、香り立つ秋バラ、そしてバルコニーから眺める大観覧車のイルミネーション。大人の感性を刺激する洗練された横浜の秋を体験してみませんか。
             </p>
             <div className="flex flex-wrap items-center justify-center gap-3 text-xs">
-              <Link href="/features" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
+              <Link href="/features/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 ← 特集一覧に戻る
               </Link>
-              <Link href="/prefectures/kanagawa" className="px-4 py-2 rounded-full bg-amber-50 hover:bg-amber-100 text-amber-700 font-semibold transition">
+              <Link href="/prefectures/kanagawa/" className="px-4 py-2 rounded-full bg-amber-50 hover:bg-amber-100 text-amber-700 font-semibold transition">
                 神奈川県の旅行ガイド・名宿一覧
               </Link>
-              <Link href="/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
+              <Link href="/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 高尾山薬王院初詣＆とろろそば特集
               </Link>
               <Link href="/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">

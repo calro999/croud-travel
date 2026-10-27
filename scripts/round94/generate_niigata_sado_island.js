@@ -547,21 +547,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay" 
+              href="/winter-niigata-iwamuro-yahiko-onsen-kanburi-nodoguro-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">新潟・岩室＆弥彦温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">越後一宮弥彦神社の雪景色と日本海寒ブリ・極上のどぐろを味わう名宿</p>
             </Link>
             <Link 
-              href="/winter-toyama-himi-kanburi-luxury-stay" 
+              href="/winter-toyama-himi-kanburi-luxury-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">富山・氷見温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">富山湾越しに望む白銀の立山連峰と最高峰の氷見寒ブリづくし名宿</p>
             </Link>
             <Link 
-              href="/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay" 
+              href="/winter-niigata-senami-onsen-sunset-ocean-salmon-murakami-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">新潟・瀬波温泉</span>

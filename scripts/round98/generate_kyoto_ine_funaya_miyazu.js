@@ -537,7 +537,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link 
-              href="/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay"
+              href="/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -554,7 +554,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-niigata-sado-island-kanburi-crab-snow-stay"
+              href="/winter-niigata-sado-island-kanburi-crab-snow-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -571,7 +571,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay"
+              href="/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -588,7 +588,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay"
+              href="/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -605,7 +605,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-toyama-amaharashi-shinminato-tateyama-crab-stay"
+              href="/winter-toyama-amaharashi-shinminato-tateyama-crab-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
@@ -622,7 +622,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay"
+              href="/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay/"
               className="group p-4 bg-slate-800/70 hover:bg-slate-800 rounded-2xl border border-slate-700/80 hover:border-orange-400/50 transition-all duration-300 flex flex-col justify-between"
             >
               <div>

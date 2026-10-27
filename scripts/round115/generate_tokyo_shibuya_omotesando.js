@@ -553,7 +553,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-tokyo-roppongi-hills-azabudai-keyakizaka-illumination-stay"
+              href="/winter-tokyo-roppongi-hills-azabudai-keyakizaka-illumination-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-indigo-400 block mb-1">東京夜景冬特集</span>
@@ -561,7 +561,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay"
+              href="/winter-tokyo-marunouchi-illumination-tokyo-station-hatsumode-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-indigo-400 block mb-1">東京駅冬特集</span>
@@ -569,7 +569,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay"
+              href="/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-indigo-400 block mb-1">東京ベイ冬特集</span>

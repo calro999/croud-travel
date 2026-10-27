@@ -620,7 +620,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3.5 text-xs sm:text-sm">
             <Link
-              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-teal-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-teal-700 mb-1">
@@ -632,7 +632,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-teal-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-teal-700 mb-1">
@@ -644,7 +644,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-ishikawa-kaga-yamashiro-kano-crab-stay"
+              href="/winter-ishikawa-kaga-yamashiro-kano-crab-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-teal-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-teal-700 mb-1">
@@ -656,7 +656,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-kyoto-arashiyama-onsen-yudofu-stay"
+              href="/winter-kyoto-arashiyama-onsen-yudofu-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-teal-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-teal-700 mb-1">
@@ -668,7 +668,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay"
+              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-teal-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-teal-700 mb-1">
@@ -680,7 +680,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/features"
+              href="/features/"
               className="p-3.5 bg-teal-50/70 rounded-xl border border-teal-200 hover:bg-teal-100/70 transition-all flex flex-col justify-center items-center text-center group"
             >
               <div className="font-bold text-teal-900 mb-1">

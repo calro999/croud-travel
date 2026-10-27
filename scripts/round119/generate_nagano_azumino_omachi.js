@@ -208,7 +208,7 @@ ${hotelCardsCode}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 py-4 text-xs font-semibold text-stone-500 flex items-center gap-2">
         <Link href="/" className="hover:text-emerald-700 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-emerald-700 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-emerald-700 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-stone-800">長野・安曇野＆大町温泉郷・アルプス山麓名宿</span>
       </nav>
@@ -501,19 +501,19 @@ ${hotelCardsCode}
             あわせて読みたい！冬の信州＆雪見露天特集
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
-            <Link href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
+            <Link href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay/" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
               ⛷️ 白馬バレー！世界最高峰パウダースノー＆アルプス雪見宿
             </Link>
-            <Link href="/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
+            <Link href="/winter-nagano-togakushi-zenkoji-hatsumode-snow-soba-beef-stay/" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
               ⛩️ 善光寺＆戸隠神社初詣・冬の手打ち蕎麦と信州牛名宿
             </Link>
-            <Link href="/winter-nagano-shirahone-onsen-milky-snow-stay" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
+            <Link href="/winter-nagano-shirahone-onsen-milky-snow-stay/" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
               ♨️ 白骨温泉！乳白色の秘湯雪見露天風呂と信州美食宿
             </Link>
-            <Link href="/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
+            <Link href="/winter-nagano-karuizawa-hoshino-illumination-tonbonoyu-shinshugyu-stay/" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
               ✨ 軽井沢星野イルミネーション＆トンボの湯リゾートステイ
             </Link>
-            <Link href="/campaigns/autumn-gourmet-travel" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
+            <Link href="/campaigns/autumn-gourmet-travel/" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
               🍁 全国の旬の味覚＆極上温泉宿特集まとめ
             </Link>
           </div>

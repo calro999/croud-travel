@@ -423,7 +423,7 @@ function generatePage(page) {
 
   const relatedLinksCode = page.relatedLinks.map(rel => `
             <Link
-              href="/${rel.slug}"
+              href="/${rel.slug}/"
               className="group block bg-white rounded-2xl p-6 border border-stone-200 hover:border-amber-400 hover:shadow-md transition duration-300"
             >
               <div className="flex items-center justify-between mb-2">

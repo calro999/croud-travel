@@ -211,7 +211,7 @@ ${hotelCardsCode}
       <nav className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-4 text-xs text-stone-500 flex items-center gap-1.5 flex-wrap">
         <Link href="/" className="hover:text-stone-900 transition">ホーム</Link>
         <span>&gt;</span>
-        <Link href="/features" className="hover:text-stone-900 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-stone-900 transition">特集一覧</Link>
         <span>&gt;</span>
         <span className="text-stone-700 font-medium">長野・山田温泉＆松川渓谷 初冬名宿5選</span>
       </nav>
@@ -557,7 +557,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-nagano-shibu-onsen-nine-sotoyu-stay"
+              href="/winter-nagano-shibu-onsen-nine-sotoyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">長野・渋温泉</span>
@@ -570,7 +570,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay"
+              href="/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">長野・別所温泉</span>
@@ -583,7 +583,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-nagano-asama-onsen-matsumoto-castle-snow-stay"
+              href="/winter-nagano-asama-onsen-matsumoto-castle-snow-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">長野・浅間温泉</span>

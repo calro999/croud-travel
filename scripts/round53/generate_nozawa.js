@@ -649,49 +649,49 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs sm:text-sm">
             <Link 
-              href="/prefectures/nagano" 
+              href="/prefectures/nagano/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-teal-50 hover:text-teal-700 transition font-medium border border-stone-100"
             >
               長野県の温泉宿・ホテル一覧 →
             </Link>
             <Link 
-              href="/winter-hakuba-snow-resort-ski-stay" 
+              href="/winter-hakuba-snow-resort-ski-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-teal-50 hover:text-teal-700 transition font-medium border border-stone-100"
             >
               白馬スノーリゾート特集 →
             </Link>
             <Link 
-              href="/winter-nagano-jigokudani-snow-monkey-stay" 
+              href="/winter-nagano-jigokudani-snow-monkey-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-teal-50 hover:text-teal-700 transition font-medium border border-stone-100"
             >
               地獄谷スノーモンキー宿特集 →
             </Link>
             <Link 
-              href="/winter-gunma-manza-snow-milky-hotspring-stay" 
+              href="/winter-gunma-manza-snow-milky-hotspring-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-teal-50 hover:text-teal-700 transition font-medium border border-stone-100"
             >
               万座温泉 にごり湯特集 →
             </Link>
             <Link 
-              href="/prefectures/niigata" 
+              href="/prefectures/niigata/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-teal-50 hover:text-teal-700 transition font-medium border border-stone-100"
             >
               新潟県（湯沢・妙高）の宿 →
             </Link>
             <Link 
-              href="/prefectures/gunma" 
+              href="/prefectures/gunma/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-teal-50 hover:text-teal-700 transition font-medium border border-stone-100"
             >
               群馬県（草津・伊香保）の宿 →
             </Link>
             <Link 
-              href="/winter-ski-snowboard-resort" 
+              href="/winter-ski-snowboard-resort/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-teal-50 hover:text-teal-700 transition font-medium border border-stone-100"
             >
               全国スキー＆スノーボード宿特集 →
             </Link>
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-3 rounded-xl bg-stone-900 text-white hover:bg-stone-800 transition font-bold text-center flex items-center justify-center gap-1"
             >
               <span>全国の特集一覧を見る</span>

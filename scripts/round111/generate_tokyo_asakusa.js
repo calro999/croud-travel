@@ -222,7 +222,7 @@ ${hotelCardsCode}
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-red-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-red-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-red-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">冬の浅草寺初詣＆スカイツリー特集</li>
         </ol>
@@ -534,28 +534,28 @@ ${hotelCardsCode}
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
-              href="/winter-tokyo-marunouchi-illumination-luxury-stay"
+              href="/winter-tokyo-marunouchi-illumination-luxury-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-red-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【東京・丸の内】丸の内イルミネーション＆皇居冬景色名宿</span>
               <span className="text-xs text-slate-500">シャンパンゴールドの並木道と東京駅夜景に寛ぐラグジュアリーステイ</span>
             </Link>
             <Link 
-              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay"
+              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-red-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【鎌倉・江の島】鶴岡八幡宮初詣＆江の島シーキャンドル光の祭典</span>
               <span className="text-xs text-slate-500">冬晴れの湘南海岸と冠雪富士パノラマ、冬の地魚会席名宿</span>
             </Link>
             <Link 
-              href="/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay"
+              href="/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-red-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【千葉・成田山】成田山新勝寺新春初詣＆表参道名物うなぎ宿</span>
               <span className="text-xs text-slate-500">関東屈指の開運大本山参拝と香ばしい秘伝だれの江戸前うなぎ</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-red-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>

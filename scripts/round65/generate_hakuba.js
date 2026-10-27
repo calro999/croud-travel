@@ -587,42 +587,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
+              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">長野・野沢温泉</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">野沢温泉 極上パウダースノーと13の外湯巡り・信州牛郷土膳の宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-shibu-onsen-nine-sotoyu-stay"
+              href="/winter-nagano-shibu-onsen-nine-sotoyu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">長野・渋温泉</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">渋温泉 九つの外湯巡りと石畳街路の初冬情緒あふれる宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-shirahone-onsen-milky-snow-stay"
+              href="/winter-nagano-shirahone-onsen-milky-snow-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">長野・白骨温泉</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">白骨温泉 渓谷に湧く乳白色のにごり湯雪見露天と温泉粥の宿</h3>
             </Link>
             <Link 
-              href="/winter-gifu-okuhida-onsen-yukimi-roten-stay"
+              href="/winter-gifu-okuhida-onsen-yukimi-roten-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">岐阜・奥飛騨温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">奥飛騨温泉郷 北アルプス雪見野天風呂と飛騨牛朴葉味噌ステーキの宿</h3>
             </Link>
             <Link 
-              href="/winter-niigata-echigo-yuzawa-snow-sake-stay"
+              href="/winter-niigata-echigo-yuzawa-snow-sake-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">新潟・越後湯沢温泉</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">越後湯沢温泉 新幹線直結の白銀雪見露天と魚沼コシヒカリの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">特集一覧</span>

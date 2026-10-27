@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/campaigns/" },
-  title: "最新：楽天トラベルお得キャンペーン・クーポン・セール一覧 ｜ 日本全国・旅宿クラウド",
+  title: "楽天トラベル最新キャンペーン・割引クーポン・セール情報",
   description: "楽天トラベルの最新割引クーポン、5と0のつく日高級宿セール、ふるさと納税宿泊クーポン、ボーナスプログラム、初めて利用キャンペーンなどの超お得な最新セール情報を一挙ご紹介！",
   keywords: ["最新", "楽天トラベルお得キャンペーン", "クーポン", "セール一覧", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {

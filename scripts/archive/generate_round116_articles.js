@@ -107,7 +107,7 @@ export default function Page() {
           <div className="flex items-center space-x-4 text-xs font-medium text-stone-600">
             <Link href="/" className="hover:text-emerald-700">トップ</Link>
             <span>/</span>
-            <Link href="/sitemap" className="hover:text-emerald-700">特集一覧</Link>
+            <Link href="/sitemap/" className="hover:text-emerald-700">特集一覧</Link>
             <span>/</span>
             <span className="text-stone-400">秋のふるさと納税特集</span>
           </div>
@@ -397,16 +397,16 @@ export default function Page() {
         <section className="bg-amber-50/50 p-6 rounded-xl border border-amber-200 space-y-4">
           <h2 className="text-lg font-bold text-stone-900">こちらもチェック！秋のふるさと納税特集</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs md:text-sm">
-            <Link href="/furusato-tax-toba-ise-shima-iseebi-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-toba-ise-shima-iseebi-autumn-stay/" className="text-emerald-800 hover:underline">
               → 三重・鳥羽＆伊勢志摩（伊勢海老解禁＆オーシャンビュー温泉）特集
             </Link>
-            <Link href="/furusato-tax-shiga-biwako-otsu-ogoto-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-shiga-biwako-otsu-ogoto-autumn-stay/" className="text-emerald-800 hover:underline">
               → 滋賀・大津＆おごと温泉（比叡山延暦寺紅葉＆近江牛）特集
             </Link>
-            <Link href="/furusato-tax-miyagi-matsushima-shiogama-kaki-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-miyagi-matsushima-shiogama-kaki-autumn-stay/" className="text-emerald-800 hover:underline">
               → 宮城・松島＆塩竈（円通院紅葉ライトアップ＆松島牡蠣）特集
             </Link>
-            <Link href="/furusato-tax-kanazawa-kenrokuen-kaga-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-kanazawa-kenrokuen-kaga-autumn-stay/" className="text-emerald-800 hover:underline">
               → 石川・金沢＆湯涌温泉（兼六園雪吊り＆加能ガニ解禁）特集
             </Link>
           </div>

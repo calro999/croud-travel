@@ -531,37 +531,37 @@ ${faqList.map(item => `          {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-ibaraki-fukuroda-ice-waterfall-daigo-onsen-hitachi-beef-stay"
+              href="/winter-ibaraki-fukuroda-ice-waterfall-daigo-onsen-hitachi-beef-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【袋田の滝・大子温泉】冬の氷瀑絶景と常陸牛・奥久慈軍鶏名宿
             </Link>
             <Link
-              href="/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay"
+              href="/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【成田山新春初詣＆佐原】大本山新春開運祈願と老舗うなぎ名宿
             </Link>
             <Link
-              href="/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay"
+              href="/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【あしかがフラワーパーク】冬の光の花の庭と佐野厄除け大師名宿
             </Link>
             <Link
-              href="/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay"
+              href="/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【日光東照宮】雪景色の日光初詣と伝統の湯波料理・温泉名宿
             </Link>
             <Link
-              href="/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay"
+              href="/winter-fukushima-iwaki-yumoto-onsen-ankou-jobanmono-fukushimagyu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-amber-600 block"
             >
               【いわき湯本温泉】冬の常磐ものアンコウ鍋と美肌の硫黄泉名宿
             </Link>
             <Link
-              href="/features"
+              href="/features/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-amber-300 hover:shadow-xs transition-all text-sm font-bold text-amber-700 block text-center flex items-center justify-center gap-1"
             >
               <span>全国の冬旅特集一覧を見る</span>

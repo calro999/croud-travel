@@ -533,21 +533,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay" 
+              href="/winter-kumamoto-yamaga-hirayama-onsen-bihada-akagyu-basashi-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">熊本・山鹿＆平山</span>
               <p className="font-bold text-stone-800 line-clamp-2">八千代座の初冬風情と極上とろとろ硫黄泉・熊本あか牛＆馬刺し名宿</p>
             </Link>
             <Link 
-              href="/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay" 
+              href="/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">熊本・阿蘇内牧温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">阿蘇カルデラの初冬絶景と極上あか牛丼・名湯百選露天風呂名宿</p>
             </Link>
             <Link 
-              href="/winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay" 
+              href="/winter-saga-furuyu-kumanokawa-onsen-nuruyu-sagagyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">佐賀・古湯＆熊の川</span>

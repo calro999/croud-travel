@@ -207,7 +207,7 @@ ${hotelCardsCode}
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-indigo-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">長野・鹿教湯温泉＆信州上田</span>
           </nav>
@@ -501,7 +501,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay"
+              href="/winter-nagano-bessho-onsen-shinshu-beef-heritage-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-indigo-300 bg-indigo-400/20 px-2 py-0.5 rounded-full inline-block">長野・別所温泉</span>
@@ -514,7 +514,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-nagano-asama-onsen-matsumoto-castle-snow-stay"
+              href="/winter-nagano-asama-onsen-matsumoto-castle-snow-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-indigo-300 bg-indigo-400/20 px-2 py-0.5 rounded-full inline-block">長野・浅間温泉</span>
@@ -527,7 +527,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
+              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-indigo-300 bg-indigo-400/20 px-2 py-0.5 rounded-full inline-block">長野・野沢温泉</span>

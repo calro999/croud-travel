@@ -567,42 +567,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-hokkaido-toyako-onsen-lakeview-illumination-stay"
+              href="/winter-hokkaido-toyako-onsen-lakeview-illumination-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">北海道・洞爺湖温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">初冬イルミネーションと冠雪羊蹄山絶景・インフィニティ露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay"
+              href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">北海道・登別温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">白銀の地獄谷と名湯九泉・初冬雪見露天風呂の宿</h3>
             </Link>
             <Link 
-              href="/winter-hokkaido-niseko-powder-snow-resort-stay"
+              href="/winter-hokkaido-niseko-powder-snow-resort-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">北海道・ニセコ温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">極上パウダースノーと羊蹄山ビュー露天・美食リゾートの宿</h3>
             </Link>
             <Link 
-              href="/winter-aomori-asamushi-onsen-mutsu-bay-hotate-stay"
+              href="/winter-aomori-asamushi-onsen-mutsu-bay-hotate-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">青森・浅虫温泉</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">陸奥湾の初冬夕景と肉厚ホタテ・津軽三味線ライブの宿</h3>
             </Link>
             <Link 
-              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay"
+              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">秋田・乳頭温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">秘湯白濁の湯とブナ原生林の雪景色・比内地鶏きりたんぽ鍋の宿</h3>
             </Link>
             <Link 
-              href="/winter-zao-snow-monster-ice-tree-stay"
+              href="/winter-zao-snow-monster-ice-tree-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">山形・蔵王温泉</span>

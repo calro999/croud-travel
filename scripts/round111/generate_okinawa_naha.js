@@ -222,7 +222,7 @@ ${hotelCardsCode}
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-cyan-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-cyan-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-cyan-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">冬の那覇・波上宮初詣＆避冬リゾート特集</li>
         </ol>
@@ -534,28 +534,28 @@ ${hotelCardsCode}
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
-              href="/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay"
+              href="/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-cyan-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【沖縄・恩納本部】冬のホエールウォッチング＆高級ビーチリゾート</span>
               <span className="text-xs text-slate-500">冬の美ら海で出会うザトウクジラとあぐー豚・オーシャンビューホテル</span>
             </Link>
             <Link 
-              href="/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay"
+              href="/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-cyan-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【沖縄・石垣島】冬の川平湾エメラルド絶景＆南十字星星空名宿</span>
               <span className="text-xs text-slate-500">日本一の星空保護区と幻の石垣牛・極上リゾートステイ</span>
             </Link>
             <Link 
-              href="/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay"
+              href="/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-cyan-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【宮崎・日南】鵜戸神宮新春開運初詣＆日南海岸伊勢海老名宿</span>
               <span className="text-xs text-slate-500">冬でも温暖な日南フェニックスロードと本場伊勢海老・宮崎牛</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-cyan-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>

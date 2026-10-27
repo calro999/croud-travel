@@ -213,9 +213,9 @@ ${hotelCardsCode}
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-emerald-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-emerald-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-emerald-600 transition">特集一覧</Link>
             <span>/</span>
-            <Link href="/prefectures/mie" className="hover:text-emerald-600 transition">三重県</Link>
+            <Link href="/prefectures/mie/" className="hover:text-emerald-600 transition">三重県</Link>
             <span>/</span>
             <span className="text-stone-800 font-medium">伊賀上野城初詣＆赤目四十八滝氷瀑</span>
           </div>
@@ -555,10 +555,10 @@ ${hotelCardsCode}
               藤堂高虎公の誇る高石垣と上野天神宮の厳かな初詣、赤目四十八滝のクリスタル氷瀑、そして幻の伊賀牛すき焼きと赤目温泉。冬の凛とした空気の中で味わう歴史と自然の恵みが、新年の旅路を贅沢に彩ってくれます。
             </p>
             <div className="flex flex-wrap items-center justify-center gap-3 text-xs">
-              <Link href="/features" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
+              <Link href="/features/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 ← 特集一覧に戻る
               </Link>
-              <Link href="/prefectures/mie" className="px-4 py-2 rounded-full bg-emerald-50 hover:bg-emerald-100 text-emerald-700 font-semibold transition">
+              <Link href="/prefectures/mie/" className="px-4 py-2 rounded-full bg-emerald-50 hover:bg-emerald-100 text-emerald-700 font-semibold transition">
                 三重県の旅行ガイド・宿一覧
               </Link>
               <Link href="/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">

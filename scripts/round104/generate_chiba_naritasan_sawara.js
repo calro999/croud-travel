@@ -569,7 +569,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay" 
+              href="/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">埼玉・川越小江戸</span>
@@ -579,7 +579,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay" 
+              href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">千葉・銚子犬吠埼</span>
@@ -589,7 +589,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay" 
+              href="/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">千葉・南房総鴨川</span>
@@ -599,7 +599,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay" 
+              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">神奈川・鎌倉＆江の島</span>
@@ -609,7 +609,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay" 
+              href="/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">栃木・日光東照宮</span>
@@ -619,7 +619,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay" 
+              href="/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-700 font-bold text-xs block mb-1">茨城・大洗＆那珂湊</span>

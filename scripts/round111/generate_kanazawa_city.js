@@ -222,7 +222,7 @@ ${hotelCardsCode}
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-rose-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-rose-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-rose-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">冬の金沢雪吊り＆香箱ガニ特集</li>
         </ol>
@@ -537,28 +537,28 @@ ${hotelCardsCode}
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
-              href="/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay"
+              href="/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-rose-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【金沢・湯涌温泉】竹久夢二ゆかりの美肌いで湯と香箱ガニ名宿</span>
               <span className="text-xs text-slate-500">金沢の奥座敷で味わう静寂の雪見露天風呂と加賀会席</span>
             </Link>
             <Link 
-              href="/winter-toyama-himi-kanburi-luxury-stay"
+              href="/winter-toyama-himi-kanburi-luxury-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-rose-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【富山・氷見】立山連峰海越し絶景＆本場氷見寒ブリ極上宿</span>
               <span className="text-xs text-slate-500">冬の富山湾が誇る至高のブランド寒ブリと展望温泉</span>
             </Link>
             <Link 
-              href="/winter-fukui-awara-onsen-echizen-crab-stay"
+              href="/winter-fukui-awara-onsen-echizen-crab-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-rose-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【福井・芦原温泉】名湯あわら温泉と本場越前ガニ尽くし名宿</span>
               <span className="text-xs text-slate-500">黄色いタグ付き越前ガニの濃厚な旨味と関西の奥座敷</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-rose-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>

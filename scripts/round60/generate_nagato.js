@@ -612,42 +612,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-shimonoseki-fugu-torafugu-luxury-stay"
+              href="/winter-shimonoseki-fugu-torafugu-luxury-stay/"
               className="bg-indigo-900/80 hover:bg-indigo-900 p-4 rounded-2xl transition border border-indigo-800/50 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">山口・下関</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">下関 本場とらふぐフルコースと関門海峡絶景の宿</h3>
             </Link>
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="bg-indigo-900/80 hover:bg-indigo-900 p-4 rounded-2xl transition border border-indigo-800/50 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">鳥取・三朝</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">三朝温泉 世界屈指のラジウム泉と松葉ガニ会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-tottori-kaike-onsen-matsuba-crab-stay"
+              href="/winter-tottori-kaike-onsen-matsuba-crab-stay/"
               className="bg-indigo-900/80 hover:bg-indigo-900 p-4 rounded-2xl transition border border-indigo-800/50 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">鳥取・皆生</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">皆生温泉 大山雪景色と境港活松葉ガニ解禁の宿</h3>
             </Link>
             <Link 
-              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay"
+              href="/winter-ehime-dogo-onsen-taimeshi-heritage-stay/"
               className="bg-indigo-900/80 hover:bg-indigo-900 p-4 rounded-2xl transition border border-indigo-800/50 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">愛媛・道後</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">道後温泉 日本最古の湯と名物宇和島鯛めしの宿</h3>
             </Link>
             <Link 
-              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay"
+              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay/"
               className="bg-indigo-900/80 hover:bg-indigo-900 p-4 rounded-2xl transition border border-indigo-800/50 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">佐賀・嬉野</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">嬉野温泉 日本三大美肌の湯ととろける温泉湯豆腐の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-indigo-900/80 hover:bg-indigo-900 p-4 rounded-2xl transition border border-indigo-800/50 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">特集一覧</span>

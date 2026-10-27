@@ -300,11 +300,11 @@ function buildTokachigawaPost(data) {
   <section class="my-8 p-5 bg-amber-50/80 rounded-2xl border border-amber-200">
     <h3 class="font-bold text-sm text-amber-950 mb-3">📌 合わせて読みたい北海道・極上冬旅特集</h3>
     <ul class="text-xs text-amber-900 space-y-2 list-disc list-inside">
-      <li><a href="/prefectures/hokkaido" class="underline font-bold hover:text-amber-700">北海道の厳選温泉旅館・観光名所完全ガイド（十勝・阿寒・登別・定山渓）</a></li>
-      <li><a href="/posts/akan-lake-frost-flower-ice-festival-ainu-kotan-winter-guide" class="underline hover:text-amber-700">阿寒湖の奇跡フロストフラワーと氷上フェスティバル！アイヌコタン雪灯り名宿ガイド</a></li>
-      <li><a href="/posts/noboribetsu-onsen-snow-jigokudani-winter-guide" class="underline hover:text-amber-700">登別温泉の地獄谷白銀雪景色と九種の多彩泉質！冬の湯治贅沢ホテル完全比較</a></li>
-      <li><a href="/posts/otaru-canal-snow-light-path-winter-guide" class="underline hover:text-amber-700">小樽雪あかりの路と運河ガス灯雪景色！冬の極上寿司とノスタルジックホテルガイド</a></li>
-      <li><a href="/posts/hakodate-yunokawa-onsen-winter-gourmet-night-view-guide" class="underline hover:text-amber-700">函館湯の川温泉と冬の100万ドル夜景！津軽海峡海鮮ビュッフェ宿ガイド</a></li>
+      <li><a href="/prefectures/hokkaido/" class="underline font-bold hover:text-amber-700">北海道の厳選温泉旅館・観光名所完全ガイド（十勝・阿寒・登別・定山渓）</a></li>
+      <li><a href="/posts/akan-lake-frost-flower-ice-festival-ainu-kotan-winter-guide/" class="underline hover:text-amber-700">阿寒湖の奇跡フロストフラワーと氷上フェスティバル！アイヌコタン雪灯り名宿ガイド</a></li>
+      <li><a href="/posts/noboribetsu-onsen-snow-jigokudani-winter-guide/" class="underline hover:text-amber-700">登別温泉の地獄谷白銀雪景色と九種の多彩泉質！冬の湯治贅沢ホテル完全比較</a></li>
+      <li><a href="/posts/otaru-canal-snow-light-path-winter-guide/" class="underline hover:text-amber-700">小樽雪あかりの路と運河ガス灯雪景色！冬の極上寿司とノスタルジックホテルガイド</a></li>
+      <li><a href="/posts/hakodate-yunokawa-onsen-winter-gourmet-night-view-guide/" class="underline hover:text-amber-700">函館湯の川温泉と冬の100万ドル夜景！津軽海峡海鮮ビュッフェ宿ガイド</a></li>
     </ul>
   </section>
 
@@ -624,11 +624,11 @@ function buildToyakoPost(data) {
   <section class="my-8 p-5 bg-blue-50/80 rounded-2xl border border-blue-200">
     <h3 class="font-bold text-sm text-blue-950 mb-3">📌 合わせて読みたい道南・北海道の冬名湯特集</h3>
     <ul class="text-xs text-blue-900 space-y-2 list-disc list-inside">
-      <li><a href="/prefectures/hokkaido" class="underline font-bold hover:text-blue-700">北海道の厳選温泉旅館・観光名所完全ガイド（洞爺・登別・定山渓・函館）</a></li>
-      <li><a href="/posts/noboribetsu-onsen-snow-jigokudani-winter-guide" class="underline hover:text-blue-700">登別温泉の地獄谷白銀雪景色と九種の多彩泉質！冬の湯治贅沢ホテル完全比較</a></li>
-      <li><a href="/posts/hakodate-yunokawa-onsen-winter-gourmet-night-view-guide" class="underline hover:text-blue-700">函館湯の川温泉と冬の100万ドル夜景！津軽海峡海鮮ビュッフェ宿ガイド</a></li>
-      <li><a href="/posts/jozankei-onsen-snow-light-yukitouro-winter-guide" class="underline hover:text-blue-700">定山渓温泉の雪灯路と渓谷雪見露天！札幌奥座敷の美食湯宿おすすめガイド</a></li>
-      <li><a href="/posts/otaru-canal-snow-light-path-winter-guide" class="underline hover:text-blue-700">小樽雪あかりの路と運河ガス灯雪景色！冬の極上寿司とノスタルジックホテルガイド</a></li>
+      <li><a href="/prefectures/hokkaido/" class="underline font-bold hover:text-blue-700">北海道の厳選温泉旅館・観光名所完全ガイド（洞爺・登別・定山渓・函館）</a></li>
+      <li><a href="/posts/noboribetsu-onsen-snow-jigokudani-winter-guide/" class="underline hover:text-blue-700">登別温泉の地獄谷白銀雪景色と九種の多彩泉質！冬の湯治贅沢ホテル完全比較</a></li>
+      <li><a href="/posts/hakodate-yunokawa-onsen-winter-gourmet-night-view-guide/" class="underline hover:text-blue-700">函館湯の川温泉と冬の100万ドル夜景！津軽海峡海鮮ビュッフェ宿ガイド</a></li>
+      <li><a href="/posts/jozankei-onsen-snow-light-yukitouro-winter-guide/" class="underline hover:text-blue-700">定山渓温泉の雪灯路と渓谷雪見露天！札幌奥座敷の美食湯宿おすすめガイド</a></li>
+      <li><a href="/posts/otaru-canal-snow-light-path-winter-guide/" class="underline hover:text-blue-700">小樽雪あかりの路と運河ガス灯雪景色！冬の極上寿司とノスタルジックホテルガイド</a></li>
     </ul>
   </section>
 
@@ -950,11 +950,11 @@ function buildMinakamiPost(data) {
   <section class="my-8 p-5 bg-emerald-50/80 rounded-2xl border border-emerald-200">
     <h3 class="font-bold text-sm text-emerald-950 mb-3">📌 合わせて読みたい群馬・北関東の名湯特集</h3>
     <ul class="text-xs text-emerald-900 space-y-2 list-disc list-inside">
-      <li><a href="/prefectures/gunma" class="underline font-bold hover:text-emerald-700">群馬県の人気温泉旅館・観光名所完全ガイド（水上・草津・伊香保・四万）</a></li>
-      <li><a href="/posts/kusatsu-onsen-yubatake-winter-snow-guide" class="underline hover:text-emerald-700">草津温泉の湯畑ライトアップと雪見露天風呂！天下の名湯と上州牛会席ガイド</a></li>
-      <li><a href="/posts/ikaho-onsen-stone-steps-winter-guide" class="underline hover:text-emerald-700">伊香保温泉の365段石段街と黄金の湯！冬のレトロ情緒と名物水沢うどん宿ガイド</a></li>
-      <li><a href="/posts/shima-onsen-sekizenkan-retro-winter-guide" class="underline hover:text-emerald-700">四万温泉・積善館の千と千尋世界と四万ブルー！雪景色に灯る歴史名宿ガイド</a></li>
-      <li><a href="/posts/manza-onsen-snow-milky-sulfur-winter-guide" class="underline hover:text-emerald-700">万座温泉の標高1800m白濁硫黄泉！白銀スノーパノラマと濁り湯治宿ガイド</a></li>
+      <li><a href="/prefectures/gunma/" class="underline font-bold hover:text-emerald-700">群馬県の人気温泉旅館・観光名所完全ガイド（水上・草津・伊香保・四万）</a></li>
+      <li><a href="/posts/kusatsu-onsen-yubatake-winter-snow-guide/" class="underline hover:text-emerald-700">草津温泉の湯畑ライトアップと雪見露天風呂！天下の名湯と上州牛会席ガイド</a></li>
+      <li><a href="/posts/ikaho-onsen-stone-steps-winter-guide/" class="underline hover:text-emerald-700">伊香保温泉の365段石段街と黄金の湯！冬のレトロ情緒と名物水沢うどん宿ガイド</a></li>
+      <li><a href="/posts/shima-onsen-sekizenkan-retro-winter-guide/" class="underline hover:text-emerald-700">四万温泉・積善館の千と千尋世界と四万ブルー！雪景色に灯る歴史名宿ガイド</a></li>
+      <li><a href="/posts/manza-onsen-snow-milky-sulfur-winter-guide/" class="underline hover:text-emerald-700">万座温泉の標高1800m白濁硫黄泉！白銀スノーパノラマと濁り湯治宿ガイド</a></li>
     </ul>
   </section>
 
@@ -1276,11 +1276,11 @@ function buildKatsuuraPost(data) {
   <section class="my-8 p-5 bg-red-50/80 rounded-2xl border border-red-200">
     <h3 class="font-bold text-sm text-red-950 mb-3">📌 合わせて読みたい和歌山・紀伊半島の冬名湯特集</h3>
     <ul class="text-xs text-red-900 space-y-2 list-disc list-inside">
-      <li><a href="/prefectures/wakayama" class="underline font-bold hover:text-red-700">和歌山県の人気温泉旅館・観光名所完全ガイド（勝浦・白浜・熊野古道・高野山）</a></li>
-      <li><a href="/posts/nanki-shirahama-senjojiki-sunset-hotspring-guide" class="underline hover:text-red-700">南紀白浜温泉の白良浜冬景色と崎の湯波打ち際露天！クエ鍋会席とリゾートホテルガイド</a></li>
-      <li><a href="/posts/kumano-kodo-world-heritage-pilgrimage-hotels-guide" class="underline hover:text-red-700">世界遺産熊野古道と湯の峰温泉つぼ湯！神聖な祈りの道と歴史湯宿ガイド</a></li>
-      <li><a href="/posts/katsuura-onsen-tuna-feast-oceanview-hotels-guide" class="underline hover:text-red-700">南紀勝浦温泉の生マグロ食べ比べと絶景オーシャンビュー宿おすすめ比較ガイド</a></li>
-      <li><a href="/posts/koyasan-shukubo-temple-winter-retreat-guide" class="underline hover:text-red-700">高野山の白銀静寂宿坊体験！本格精進料理と朝のお勤めで心洗われる冬旅ガイド</a></li>
+      <li><a href="/prefectures/wakayama/" class="underline font-bold hover:text-red-700">和歌山県の人気温泉旅館・観光名所完全ガイド（勝浦・白浜・熊野古道・高野山）</a></li>
+      <li><a href="/posts/nanki-shirahama-senjojiki-sunset-hotspring-guide/" class="underline hover:text-red-700">南紀白浜温泉の白良浜冬景色と崎の湯波打ち際露天！クエ鍋会席とリゾートホテルガイド</a></li>
+      <li><a href="/posts/kumano-kodo-world-heritage-pilgrimage-hotels-guide/" class="underline hover:text-red-700">世界遺産熊野古道と湯の峰温泉つぼ湯！神聖な祈りの道と歴史湯宿ガイド</a></li>
+      <li><a href="/posts/katsuura-onsen-tuna-feast-oceanview-hotels-guide/" class="underline hover:text-red-700">南紀勝浦温泉の生マグロ食べ比べと絶景オーシャンビュー宿おすすめ比較ガイド</a></li>
+      <li><a href="/posts/koyasan-shukubo-temple-winter-retreat-guide/" class="underline hover:text-red-700">高野山の白銀静寂宿坊体験！本格精進料理と朝のお勤めで心洗われる冬旅ガイド</a></li>
     </ul>
   </section>
 
@@ -1601,11 +1601,11 @@ function buildNagayuPost(data) {
   <section class="my-8 p-5 bg-teal-50/80 rounded-2xl border border-teal-200">
     <h3 class="font-bold text-sm text-teal-950 mb-3">📌 合わせて読みたい大分・九州の冬名湯特集</h3>
     <ul class="text-xs text-teal-900 space-y-2 list-disc list-inside">
-      <li><a href="/prefectures/oita" class="underline font-bold hover:text-teal-700">大分県の人気温泉旅館・観光名所完全ガイド（長湯・別府・由布院・日田）</a></li>
-      <li><a href="/posts/beppu-onsen-jigoku-meguri-winter-guide" class="underline hover:text-teal-700">別府温泉の地獄めぐりと八湯湯治！湯煙ライトアップと関アジ関サバ宿ガイド</a></li>
-      <li><a href="/posts/yufuin-onsen-kinrin-lake-morning-mist-guide" class="underline hover:text-teal-700">由布院温泉・金鱗湖の冬朝霧と由布岳雪景色！大人の隠れ家離れ宿おすすめガイド</a></li>
-      <li><a href="/posts/kurokawa-onsen-yuakari-winter-guide" class="underline hover:text-teal-700">黒川温泉の竹灯り「湯あかり」雪景色と入湯手形！渓流野天風呂と肥後赤牛名宿ガイド</a></li>
-      <li><a href="/posts/aso-caldera-winter-hotspring-guide" class="underline hover:text-teal-700">阿蘇カルデラの冬絶景と雪見温泉！大観峰の雲海パノラマとあか牛丼ガイド</a></li>
+      <li><a href="/prefectures/oita/" class="underline font-bold hover:text-teal-700">大分県の人気温泉旅館・観光名所完全ガイド（長湯・別府・由布院・日田）</a></li>
+      <li><a href="/posts/beppu-onsen-jigoku-meguri-winter-guide/" class="underline hover:text-teal-700">別府温泉の地獄めぐりと八湯湯治！湯煙ライトアップと関アジ関サバ宿ガイド</a></li>
+      <li><a href="/posts/yufuin-onsen-kinrin-lake-morning-mist-guide/" class="underline hover:text-teal-700">由布院温泉・金鱗湖の冬朝霧と由布岳雪景色！大人の隠れ家離れ宿おすすめガイド</a></li>
+      <li><a href="/posts/kurokawa-onsen-yuakari-winter-guide/" class="underline hover:text-teal-700">黒川温泉の竹灯り「湯あかり」雪景色と入湯手形！渓流野天風呂と肥後赤牛名宿ガイド</a></li>
+      <li><a href="/posts/aso-caldera-winter-hotspring-guide/" class="underline hover:text-teal-700">阿蘇カルデラの冬絶景と雪見温泉！大観峰の雲海パノラマとあか牛丼ガイド</a></li>
     </ul>
   </section>
 

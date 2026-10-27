@@ -208,7 +208,7 @@ ${hotelCardsCode}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 py-4 text-xs font-semibold text-stone-500 flex items-center gap-2">
         <Link href="/" className="hover:text-amber-700 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-amber-700 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-amber-700 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-stone-800">香川・善通寺＆丸亀・初詣としっぽくうどん名宿</span>
       </nav>
@@ -501,19 +501,19 @@ ${hotelCardsCode}
             あわせて読みたい！四国の冬旅＆名湯特集
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
-            <Link href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
+            <Link href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay/" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
               ⛩️ こんぴら温泉郷！金刀比羅宮初詣とオリーブ牛名宿
             </Link>
-            <Link href="/winter-kagawa-takamatsu-ritsurin-yashima-olive-hamachi-udon-stay" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
+            <Link href="/winter-kagawa-takamatsu-ritsurin-yashima-olive-hamachi-udon-stay/" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
               🌊 高松栗林公園の冬景色＆オリーブハマチ・うどん宿
             </Link>
-            <Link href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
+            <Link href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay/" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
               ♨️ 道後温泉本館！冬の伊予鯛めしと名湯名宿
             </Link>
-            <Link href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
+            <Link href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay/" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
               🌀 鳴門温泉＆渦潮！冬の鳴門鯛と絶景リゾート
             </Link>
-            <Link href="/campaigns/autumn-gourmet-travel" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
+            <Link href="/campaigns/autumn-gourmet-travel/" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
               🍁 全国の旬の味覚＆極上温泉宿特集まとめ
             </Link>
           </div>

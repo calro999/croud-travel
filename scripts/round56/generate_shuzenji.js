@@ -585,7 +585,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link 
-              href="/winter-shizuoka-izukogen-granillumi-ito-onsen-stay"
+              href="/winter-shizuoka-izukogen-granillumi-ito-onsen-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">伊豆の冬エンタメ</span>
@@ -595,7 +595,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-izu-kinmedai-shabushabu-luxury-stay"
+              href="/winter-izu-kinmedai-shabushabu-luxury-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">伊豆の冬美食</span>
@@ -605,7 +605,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-atami-fireworks-ocean-view-stay"
+              href="/winter-atami-fireworks-ocean-view-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">東海の冬花火</span>
@@ -615,7 +615,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-kanagawa-hakone-fuji-view-onsen-stay"
+              href="/winter-kanagawa-hakone-fuji-view-onsen-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">富士見名湯</span>
@@ -625,7 +625,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay"
+              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">東海の三名泉</span>
@@ -635,7 +635,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-kyoto-arashiyama-onsen-yudofu-stay"
+              href="/winter-kyoto-arashiyama-onsen-yudofu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">関西の小京都</span>

@@ -367,31 +367,31 @@ export default function Page() {
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <Link
-              href="/japan-classic-hotel-association-heritage-stay"
+              href="/japan-classic-hotel-association-heritage-stay/"
               className="px-4 py-2 bg-white text-stone-800 rounded-full text-xs md:text-sm font-semibold hover:bg-amber-100 border border-stone-300 transition shadow-sm"
             >
               🏛️ 日本クラシックホテルの会加盟宿
             </Link>
             <Link
-              href="/taisho-roman-showa-modern-art-deco-hotel-stay"
+              href="/taisho-roman-showa-modern-art-deco-hotel-stay/"
               className="px-4 py-2 bg-white text-stone-800 rounded-full text-xs md:text-sm font-semibold hover:bg-amber-100 border border-stone-300 transition shadow-sm"
             >
               🎨 大正ロマン＆アールデコ建築宿
             </Link>
             <Link
-              href="/tangible-cultural-property-sukiya-carpenter-ryokan-stay"
+              href="/tangible-cultural-property-sukiya-carpenter-ryokan-stay/"
               className="px-4 py-2 bg-white text-stone-800 rounded-full text-xs md:text-sm font-semibold hover:bg-amber-100 border border-stone-300 transition shadow-sm"
             >
               🪵 登録有形文化財・宮大工の宿
             </Link>
             <Link
-              href="/former-aristocrat-zaibatsu-imperial-villa-resort-stay"
+              href="/former-aristocrat-zaibatsu-imperial-villa-resort-stay/"
               className="px-4 py-2 bg-white text-stone-800 rounded-full text-xs md:text-sm font-semibold hover:bg-amber-100 border border-stone-300 transition shadow-sm"
             >
               👑 旧華族・旧財閥別邸ステイ
             </Link>
             <Link
-              href="/vories-frank-lloyd-wright-architecture-resort-stay"
+              href="/vories-frank-lloyd-wright-architecture-resort-stay/"
               className="px-4 py-2 bg-white text-stone-800 rounded-full text-xs md:text-sm font-semibold hover:bg-amber-100 border border-stone-300 transition shadow-sm"
             >
               📐 巨匠建築・ヴォーリズ＆ライト宿

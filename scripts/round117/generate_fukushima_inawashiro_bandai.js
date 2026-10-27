@@ -592,7 +592,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay"
+              href="/winter-fukushima-urabandai-onsen-goshikinuma-snow-fukushimagyu-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-cyan-400 block mb-1">裏磐梯・五色沼冬特集</span>
@@ -600,7 +600,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-fukushima-aizu-higashiyama-ashinomaki-snow-tsurugajo-stay"
+              href="/winter-fukushima-aizu-higashiyama-ashinomaki-snow-tsurugajo-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-cyan-400 block mb-1">会津東山・芦ノ牧冬特集</span>
@@ -608,7 +608,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay"
+              href="/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-cyan-400 block mb-1">山形・赤湯温泉冬特集</span>

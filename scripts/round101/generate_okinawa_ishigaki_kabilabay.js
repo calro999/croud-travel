@@ -593,7 +593,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay" 
+              href="/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">沖縄・恩納＆本部</span>
@@ -603,7 +603,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay" 
+              href="/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">鹿児島・指宿温泉</span>
@@ -613,7 +613,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay" 
+              href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">宮崎・青島温泉</span>
@@ -623,7 +623,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay" 
+              href="/winter-chiba-kamogawa-seaworld-kominato-kinmedai-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">千葉・鴨川小湊</span>
@@ -633,7 +633,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay" 
+              href="/winter-kanagawa-miura-misaki-maguro-suisen-fuji-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-teal-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-teal-800 font-bold text-xs block mb-1">神奈川・三浦城ヶ島</span>
@@ -643,7 +643,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-stone-100 border border-stone-200 hover:border-teal-400 transition-all group flex flex-col justify-center text-center"
             >
               <span className="text-stone-900 font-bold group-hover:text-teal-900 transition-colors">

@@ -208,7 +208,7 @@ ${faqList.map(item => `          {
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-sky-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-sky-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-sky-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">冬の箱根湯本＆芦ノ湖特集</li>
         </ol>
@@ -507,42 +507,42 @@ ${faqList.map(item => `          {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay" 
+              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-sky-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-sky-700 mb-1">鎌倉・江の島冬の湘南ジュエル</div>
               <div className="text-slate-500 text-xs">鶴岡八幡宮初詣とシーキャンドル夜景・富士山展望</div>
             </Link>
             <Link 
-              href="/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay" 
+              href="/winter-kanagawa-yugawara-onsen-bungo-kaiseki-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-sky-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-sky-700 mb-1">湯河原温泉の文豪ゆかりの名湯</div>
               <div className="text-slate-500 text-xs">万葉の隠れ湯と相模湾の冬会席・静穏な大人の冬籠もり</div>
             </Link>
             <Link 
-              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay" 
+              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-sky-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-sky-700 mb-1">熱海温泉の冬花火＆金目鯛</div>
               <div className="text-slate-500 text-xs">澄んだ冬空を焦がす海上花火と絶景オーシャンビュー名宿</div>
             </Link>
             <Link 
-              href="/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay" 
+              href="/winter-shizuoka-fujinomiya-sengen-taisha-fuji-view-wagyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-sky-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-sky-700 mb-1">富士山本宮浅間大社と富士宮</div>
               <div className="text-slate-500 text-xs">世界遺産富士山の湧水と新春初詣・極上静岡牛の名宿</div>
             </Link>
             <Link 
-              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay" 
+              href="/winter-yamanashi-kawaguchiko-onsen-fuji-view-koshu-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-sky-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-sky-700 mb-1">富士河口湖温泉の逆さ富士冬景色</div>
               <div className="text-slate-500 text-xs">冬花火と甲州ワインビーフ・湖畔の絶景露天風呂名宿</div>
             </Link>
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-sky-900 text-white hover:bg-sky-950 transition-all block flex flex-col justify-center items-center text-center font-bold"
             >
               <span>全国の冬特集一覧を見る →</span>

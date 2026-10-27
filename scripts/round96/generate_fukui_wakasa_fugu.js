@@ -564,21 +564,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay" 
+              href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">福井・三国温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">東尋坊の冬景色と本場越前がにの極上フルコース・夕陽の海辺温泉宿</p>
             </Link>
             <Link 
-              href="/winter-fukui-awara-onsen-echizen-crab-stay" 
+              href="/winter-fukui-awara-onsen-echizen-crab-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">福井・あわら温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">関西の奥座敷あわら温泉の庭園名宿と越前がに・日本海の冬美食ステイ</p>
             </Link>
             <Link 
-              href="/winter-kyoto-amanohashidate-matsuba-crab-stay" 
+              href="/winter-kyoto-amanohashidate-matsuba-crab-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">京都・天橋立温泉</span>

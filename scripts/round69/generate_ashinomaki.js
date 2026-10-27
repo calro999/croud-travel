@@ -552,42 +552,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay"
+              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">福島・会津東山温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">竹久夢二ゆかりの名湯と雪見滝露天・会津郷土料理の宿</h3>
             </Link>
             <Link 
-              href="/winter-fukushima-bandai-atami-onsen-bihada-swan-stay"
+              href="/winter-fukushima-bandai-atami-onsen-bihada-swan-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">福島・磐梯熱海温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">萩姫伝説の美肌アルカリ泉と猪苗代湖の白鳥・福島牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay"
+              href="/winter-tochigi-kinugawa-onsen-valley-snow-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">栃木・鬼怒川温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">鬼怒川渓谷美と雪景色・日光名物ゆばととちぎ和牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-yamagata-onogawa-yonezawa-beef-stay"
+              href="/winter-yamagata-onogawa-yonezawa-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">山形・小野川温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">小野小町伝説の美肌湯と米沢牛すき焼き・冬のかまくら村の宿</h3>
             </Link>
             <Link 
-              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay"
+              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">宮城・秋保温泉</span>
               <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">開湯1500年の名湯と名取川渓谷美・仙台牛と仙台せり鍋の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">特集一覧</span>

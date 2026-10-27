@@ -564,21 +564,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-niseko-powder-snow-ski-resort-stay" 
+              href="/winter-niseko-powder-snow-ski-resort-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">北海道・ニセコ</span>
               <p className="font-bold text-stone-800 line-clamp-2">世界最高峰パウダースノーと羊蹄山雪景色・ラグジュアリースキーリゾート</p>
             </Link>
             <Link 
-              href="/winter-hokkaido-toyako-onsen-lakeview-illumination-stay" 
+              href="/winter-hokkaido-toyako-onsen-lakeview-illumination-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">北海道・洞爺湖温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">洞爺湖イルミネーショントンネルとレイクビュー絶景温泉・冬の北海道牛</p>
             </Link>
             <Link 
-              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay" 
+              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">北海道・函館湯の川温泉</span>

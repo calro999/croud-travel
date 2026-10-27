@@ -613,42 +613,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-nagano-shirahone-onsen-milky-snow-stay"
+              href="/winter-nagano-shirahone-onsen-milky-snow-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">長野・白骨温泉</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">白骨温泉 乳白色の雪見露天風呂と信州秘湯宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-achimura-hirugami-starry-sky-stay"
+              href="/winter-nagano-achimura-hirugami-starry-sky-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">長野・昼神温泉</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">阿智村・昼神温泉 日本一の星空ナイトツアーと美肌湯の宿</h3>
             </Link>
             <Link 
-              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
+              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">長野・野沢温泉</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">野沢温泉 十三の外湯めぐりとパウダースノーの宿</h3>
             </Link>
             <Link 
-              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay"
+              href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">山梨・石和温泉</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">石和温泉 甲州ワインと甲州牛ステーキ会席の名湯宿</h3>
             </Link>
             <Link 
-              href="/winter-fujikawaguchiko-momiji-fuji-view-stay"
+              href="/winter-fujikawaguchiko-momiji-fuji-view-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">山梨・富士河口湖</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">富士河口湖温泉 富士山絶景露天風呂と冬花火の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">特集一覧</span>

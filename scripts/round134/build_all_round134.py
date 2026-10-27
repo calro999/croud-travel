@@ -632,7 +632,7 @@ export default function WinterFeaturePage() {{
           <div className="max-w-4xl mx-auto px-4 py-2.5 text-xs text-stone-500 flex items-center gap-1.5 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-cyan-700 transition">ホーム</Link>
             <ChevronRight className="w-3 h-3 text-stone-400" />
-            <Link href="/prefectures/{pref}" className="hover:text-cyan-700 transition">{pref_ja}の観光宿</Link>
+            <Link href="/prefectures/{pref}/" className="hover:text-cyan-700 transition">{pref_ja}の観光宿</Link>
             <ChevronRight className="w-3 h-3 text-stone-400" />
             <span className="text-stone-800 font-semibold">{area}冬特集</span>
           </div>
@@ -789,19 +789,19 @@ export default function WinterFeaturePage() {{
           <div className="bg-stone-100 rounded-2xl p-6 sm:p-8 border border-stone-200 space-y-4">
             <h3 className="text-base sm:text-lg font-bold text-stone-900">あわせて読みたい{pref_ja}＆冬の厳選温泉特集</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
-              <Link href="/prefectures/{pref}" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/prefectures/{pref}/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>{pref_ja}のおすすめ観光名所＆温泉宿一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/features" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/features/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>全国の季節・目的別旅行特集一覧</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>実質2,000円で泊まる名湯・高級温泉旅館ガイド</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
-              <Link href="/furusato-tax-local-gourmet-inn-stay" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
+              <Link href="/furusato-tax-local-gourmet-inn-stay/" className="p-3 bg-white rounded-xl border border-stone-200 text-xs font-semibold text-stone-800 hover:text-cyan-700 hover:border-cyan-300 transition flex items-center justify-between">
                 <span>ご当地グルメを堪能する全国美食旅特集</span>
                 <ChevronRight className="w-3.5 h-3.5 text-stone-400" />
               </Link>
@@ -923,8 +923,8 @@ export default function WinterFeaturePage() {{
 当サイトでは、{area}をはじめ{pref_ja}各地の温泉宿・観光スポット情報を詳しくご紹介しています。
 
 👉 [【最新版】{pref_ja}のおすすめ観光・温泉宿一覧はこちら](https://croud-travel.pages.dev/prefectures/{pref})
-👉 [全国の季節・目的別旅行特集一覧はこちら](https://croud-travel.pages.dev/features)
-👉 [【実質2,000円】ふるさと納税×極上温泉旅館ガイドはこちら](https://croud-travel.pages.dev/furusato-tax-luxury-hotspring-ryokan-stay)
+👉 [全国の季節・目的別旅行特集一覧はこちら](https://croud-travel.pages.dev/features/)
+👉 [【実質2,000円】ふるさと納税×極上温泉旅館ガイドはこちら](https://croud-travel.pages.dev/furusato-tax-luxury-hotspring-ryokan-stay/)
 """
 
     note_file = f"note-{note_num}.md"

@@ -574,7 +574,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-kumamoto-kurokawa-yuakari-illumination-stay"
+              href="/winter-kumamoto-kurokawa-yuakari-illumination-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded-md">熊本・黒川温泉</span>
@@ -584,7 +584,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay"
+              href="/winter-kumamoto-aso-uchinomaki-onsen-akagyu-caldera-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded-md">熊本・阿蘇内牧温泉</span>
@@ -594,7 +594,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay"
+              href="/winter-saga-ureshino-onsen-bihada-yudofu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded-md">佐賀・嬉野温泉</span>
@@ -604,7 +604,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay"
+              href="/winter-oita-hita-amagase-onsen-mamedamachi-bungogyu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded-md">大分・日田＆天瀬温泉</span>
@@ -614,7 +614,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay"
+              href="/winter-kumamoto-tsuetate-waita-onsen-steaming-higogyu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded-md">熊本・杖立温泉</span>
@@ -624,7 +624,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/features"
+              href="/features/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2 flex flex-col justify-center items-center text-center"
             >
               <span className="text-xs font-bold text-red-700">全国の旬の温泉特集一覧へ</span>

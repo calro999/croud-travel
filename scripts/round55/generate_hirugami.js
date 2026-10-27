@@ -734,7 +734,7 @@ ${hotelCardsCode}
           {/* 関連特集リンクカード */}
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
             <Link 
-              href="/winter-starry-sky-astrophotography"
+              href="/winter-starry-sky-astrophotography/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-indigo-50/60 border border-stone-200 hover:border-indigo-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-indigo-800 bg-indigo-100/80 px-2 py-0.5 rounded">天体観測特集</span>
@@ -747,7 +747,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-nagano-jigokudani-snow-monkey-stay"
+              href="/winter-nagano-jigokudani-snow-monkey-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-indigo-50/60 border border-stone-200 hover:border-indigo-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">信州冬特集</span>
@@ -760,7 +760,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-clear-air-fuji-view-hotels"
+              href="/winter-clear-air-fuji-view-hotels/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-indigo-50/60 border border-stone-200 hover:border-indigo-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">絶景パノラマ</span>
@@ -779,12 +779,12 @@ ${hotelCardsCode}
               長野県および甲信越・中部エリアのおすすめ温泉宿一覧
             </h3>
             <div className="flex flex-wrap gap-2 text-xs">
-              <Link href="/prefectures/nagano" className="px-3 py-1.5 bg-stone-100 hover:bg-indigo-100 text-stone-700 hover:text-indigo-900 rounded-lg transition-colors font-medium">長野県の宿一覧</Link>
-              <Link href="/prefectures/yamanashi" className="px-3 py-1.5 bg-stone-100 hover:bg-indigo-100 text-stone-700 hover:text-indigo-900 rounded-lg transition-colors font-medium">山梨県の宿一覧</Link>
-              <Link href="/prefectures/gifu" className="px-3 py-1.5 bg-stone-100 hover:bg-indigo-100 text-stone-700 hover:text-indigo-900 rounded-lg transition-colors font-medium">岐阜県の宿一覧</Link>
-              <Link href="/prefectures/shizuoka" className="px-3 py-1.5 bg-stone-100 hover:bg-indigo-100 text-stone-700 hover:text-indigo-900 rounded-lg transition-colors font-medium">静岡県の宿一覧</Link>
-              <Link href="/prefectures/aichi" className="px-3 py-1.5 bg-stone-100 hover:bg-indigo-100 text-stone-700 hover:text-indigo-900 rounded-lg transition-colors font-medium">愛知県の宿一覧</Link>
-              <Link href="/prefectures/gunma" className="px-3 py-1.5 bg-stone-100 hover:bg-indigo-100 text-stone-700 hover:text-indigo-900 rounded-lg transition-colors font-medium">群馬県の宿一覧</Link>
+              <Link href="/prefectures/nagano/" className="px-3 py-1.5 bg-stone-100 hover:bg-indigo-100 text-stone-700 hover:text-indigo-900 rounded-lg transition-colors font-medium">長野県の宿一覧</Link>
+              <Link href="/prefectures/yamanashi/" className="px-3 py-1.5 bg-stone-100 hover:bg-indigo-100 text-stone-700 hover:text-indigo-900 rounded-lg transition-colors font-medium">山梨県の宿一覧</Link>
+              <Link href="/prefectures/gifu/" className="px-3 py-1.5 bg-stone-100 hover:bg-indigo-100 text-stone-700 hover:text-indigo-900 rounded-lg transition-colors font-medium">岐阜県の宿一覧</Link>
+              <Link href="/prefectures/shizuoka/" className="px-3 py-1.5 bg-stone-100 hover:bg-indigo-100 text-stone-700 hover:text-indigo-900 rounded-lg transition-colors font-medium">静岡県の宿一覧</Link>
+              <Link href="/prefectures/aichi/" className="px-3 py-1.5 bg-stone-100 hover:bg-indigo-100 text-stone-700 hover:text-indigo-900 rounded-lg transition-colors font-medium">愛知県の宿一覧</Link>
+              <Link href="/prefectures/gunma/" className="px-3 py-1.5 bg-stone-100 hover:bg-indigo-100 text-stone-700 hover:text-indigo-900 rounded-lg transition-colors font-medium">群馬県の宿一覧</Link>
             </div>
           </div>
         </section>

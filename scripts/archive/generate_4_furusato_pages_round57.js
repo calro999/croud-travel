@@ -254,28 +254,28 @@ export default function FurusatoRound57Page() {
           <h2 className="text-xl font-bold text-slate-900 mb-4">あわせて読みたい極上ふるさと納税旅特集</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
-              href="/furusato-tax-preservation-districts-heritage-stay"
+              href="/furusato-tax-preservation-districts-heritage-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-rose-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-rose-700 block mb-1">重要伝統的建造物群</span>
               <span className="font-semibold text-slate-900 text-sm">【重伝建の町並み】倉敷・萩・今井町の歴史町家宿特集</span>
             </Link>
             <Link
-              href="/furusato-tax-famous-spring-waters-healing-stay"
+              href="/furusato-tax-famous-spring-waters-healing-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-rose-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-rose-700 block mb-1">名水百選リトリート</span>
               <span className="font-semibold text-slate-900 text-sm">【日本名水百選】白川水源・安曇野・柿田川の美食名湯特集</span>
             </Link>
             <Link
-              href="/furusato-tax-six-ancient-kilns-pottery-stay"
+              href="/furusato-tax-six-ancient-kilns-pottery-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-rose-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-rose-700 block mb-1">日本六古窯の里</span>
               <span className="font-semibold text-slate-900 text-sm">【日本六古窯】備前・信楽・丹波立杭の陶芸名料亭特集</span>
             </Link>
             <Link
-              href="/furusato-tax-three-great-forests-wood-villa-stay"
+              href="/furusato-tax-three-great-forests-wood-villa-stay/"
               className="block p-4 rounded-xl bg-slate-50 hover:bg-rose-50 border border-slate-200 transition"
             >
               <span className="text-xs font-bold text-rose-700 block mb-1">日本三大美林セラピー</span>

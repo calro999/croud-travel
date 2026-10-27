@@ -663,49 +663,49 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs sm:text-sm">
             <Link 
-              href="/prefectures/mie" 
+              href="/prefectures/mie/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-amber-50 hover:text-amber-700 transition font-medium border border-stone-100"
             >
               三重県の温泉宿・ホテル一覧 →
             </Link>
             <Link 
-              href="/winter-mie-nabana-no-sato-illumination-stay" 
+              href="/winter-mie-nabana-no-sato-illumination-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-amber-50 hover:text-amber-700 transition font-medium border border-stone-100"
             >
               なばなの里 イルミネーション特集 →
             </Link>
             <Link 
-              href="/winter-ise-ebi-lobster-luxury-gourmet-stay" 
+              href="/winter-ise-ebi-lobster-luxury-gourmet-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-amber-50 hover:text-amber-700 transition font-medium border border-stone-100"
             >
               冬の伊勢海老グルメ宿特集 →
             </Link>
             <Link 
-              href="/prefectures/aichi" 
+              href="/prefectures/aichi/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-amber-50 hover:text-amber-700 transition font-medium border border-stone-100"
             >
               愛知県（知多・蒲郡）の宿 →
             </Link>
             <Link 
-              href="/prefectures/kyoto" 
+              href="/prefectures/kyoto/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-amber-50 hover:text-amber-700 transition font-medium border border-stone-100"
             >
               京都府の旅館・名宿一覧 →
             </Link>
             <Link 
-              href="/prefectures/shiga" 
+              href="/prefectures/shiga/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-amber-50 hover:text-amber-700 transition font-medium border border-stone-100"
             >
               滋賀県（おごと温泉等）の宿 →
             </Link>
             <Link 
-              href="/winter-oyster-seafood-gourmet" 
+              href="/winter-oyster-seafood-gourmet/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-amber-50 hover:text-amber-700 transition font-medium border border-stone-100"
             >
               冬の絶品牡蠣グルメ宿特集 →
             </Link>
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-3 rounded-xl bg-stone-900 text-white hover:bg-stone-800 transition font-bold text-center flex items-center justify-center gap-1"
             >
               <span>全国の特集一覧を見る</span>

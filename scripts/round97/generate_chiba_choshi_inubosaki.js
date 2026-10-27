@@ -564,42 +564,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay" 
+              href="/winter-chiba-minamiboso-tateyama-chikura-ocean-iseebi-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-orange-700 font-bold block text-[10px]">千葉・南房総＆館山</span>
               <p className="font-bold text-stone-800 line-clamp-2">房州伊勢海老と太平洋オーシャンビュー温泉・水仙花畑を巡る名宿</p>
             </Link>
             <Link 
-              href="/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay" 
+              href="/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-orange-700 font-bold block text-[10px]">千葉・養老渓谷温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">名湯黒湯温泉と上総牛・ジビエ料理・晩秋紅葉から冬の静寂の渓谷宿</p>
             </Link>
             <Link 
-              href="/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay" 
+              href="/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-orange-700 font-bold block text-[10px]">茨城・北茨城磯原温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">本場あんこうのどぶ汁と五浦海岸雪景色・常磐沖の海の恵みを味わう名宿</p>
             </Link>
             <Link 
-              href="/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay" 
+              href="/winter-shizuoka-inatori-onsen-kinmedai-oceanview-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-orange-700 font-bold block text-[10px]">静岡・伊豆稲取温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">稲取金目鯛の姿煮と太平洋オーシャンビュー温泉露天風呂の名宿</p>
             </Link>
             <Link 
-              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay" 
+              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-orange-700 font-bold block text-[10px]">静岡・熱海温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">冬の熱海海上花火大会と金目鯛会席・相模湾を望む絶景温泉宿</p>
             </Link>
             <Link 
-              href="/winter-tokyo-marunouchi-illumination-luxury-stay" 
+              href="/winter-tokyo-marunouchi-illumination-luxury-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-orange-700 font-bold block text-[10px]">東京・丸の内</span>

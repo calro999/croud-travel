@@ -533,21 +533,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay" 
+              href="/winter-mie-yunoyama-onsen-gozaisho-snow-sohei-nabe-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">三重・湯の山温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">御在所岳の樹氷ロープウェイと開湯1300年鹿の湯・僧兵鍋名宿</p>
             </Link>
             <Link 
-              href="/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay" 
+              href="/winter-mie-toba-osaatsu-onsen-seafood-torasawara-matsusaka-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">三重・鳥羽相差</span>
               <p className="font-bold text-stone-800 line-clamp-2">伊勢志摩の冬の恵み・答志島トロサワラ＆極上松阪牛と美肌露天風呂</p>
             </Link>
             <Link 
-              href="/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay" 
+              href="/winter-wakayama-kawayu-yunomine-onsen-senninburo-kumanogyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-emerald-700 font-bold block text-[10px]">和歌山・熊野本宮</span>

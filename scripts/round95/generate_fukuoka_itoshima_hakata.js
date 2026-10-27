@@ -564,21 +564,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay" 
+              href="/winter-saga-karatsu-onsen-yobuko-ika-sagagyu-genkai-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">佐賀・唐津＆呼子</span>
               <p className="font-bold text-stone-800 line-clamp-2">呼子イカ活き造りと玄界灘の冬魚・佐賀牛を堪能する海沿い温泉宿</p>
             </Link>
             <Link 
-              href="/winter-shimonoseki-fugu-torafugu-luxury-stay" 
+              href="/winter-shimonoseki-fugu-torafugu-luxury-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">山口・下関</span>
               <p className="font-bold text-stone-800 line-clamp-2">本場下関の天然とらふぐフルコースと関門海峡の冬夜景を望む極上宿</p>
             </Link>
             <Link 
-              href="/winter-nagasaki-huistenbosch-christmas-lights-stay" 
+              href="/winter-nagasaki-huistenbosch-christmas-lights-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-teal-700 font-bold block text-[10px]">長崎・ハウステンボス</span>

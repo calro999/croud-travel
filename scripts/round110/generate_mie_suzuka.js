@@ -199,7 +199,7 @@ ${hotelCardsCode}
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-amber-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-amber-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-amber-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">冬の三重鈴鹿・椿大神社初詣＆なばなの里特集</li>
         </ol>
@@ -492,28 +492,28 @@ ${hotelCardsCode}
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
-              href="/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay"
+              href="/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-amber-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【三島・沼津】三嶋大社初詣＆富士山スカイウォーク絶景名宿</span>
               <span className="text-xs text-slate-500">源頼朝旗揚げの勝運初詣、駿河湾深海魚と沼津港寒魚、富士山展望温泉</span>
             </Link>
             <Link 
-              href="/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay"
+              href="/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-amber-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【大阪】住吉大社新春初詣＆御堂筋イルミネーション名宿</span>
               <span className="text-xs text-slate-500">光の回廊と全国総本社開運参拝、冬の本場とらふぐてっちり鍋</span>
             </Link>
             <Link 
-              href="/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay"
+              href="/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-amber-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【盛岡】盛岡八幡宮新春初詣＆岩手山白銀パノラマ名宿</span>
               <span className="text-xs text-slate-500">繋温泉の源泉掛け流し美肌湯と盛岡三大麺、極上雫石牛すき焼き</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-white p-5 rounded-2xl shadow-xs hover:border-amber-400 border border-slate-200 transition-all flex flex-col justify-between"
             >
               <span className="font-bold text-slate-900 mb-1">【全国】冬の厳選温泉＆旬グルメ特集一覧へ</span>

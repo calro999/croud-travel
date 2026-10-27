@@ -557,7 +557,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-kanagawa-yokohama-minatomirai-illumination-chinatown-stay"
+              href="/winter-kanagawa-yokohama-minatomirai-illumination-chinatown-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-rose-400 block mb-1">横浜冬特集</span>
@@ -565,7 +565,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay"
+              href="/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-rose-400 block mb-1">お台場冬特集</span>
@@ -573,7 +573,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay"
+              href="/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-rose-400 block mb-1">千葉冬特集</span>

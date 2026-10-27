@@ -212,7 +212,7 @@ ${faqList.map(f => `    {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-600 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-blue-600">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/features" className="hover:text-blue-600">特集一覧</Link>
+            <Link href="/features/" className="hover:text-blue-600">特集一覧</Link>
             <span>&gt;</span>
             <span className="text-slate-900 font-semibold">鹿児島・国宝霧島神宮初詣＆丸尾温泉名宿</span>
           </div>
@@ -525,22 +525,22 @@ ${faqList.map(f => `    {
               <span>鹿児島および九州の冬の厳選温泉特集</span>
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
-              <Link href="/winter-kagoshima-city-sakurajima-view-kurobuta-kanburi-onsen-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
+              <Link href="/winter-kagoshima-city-sakurajima-view-kurobuta-kanburi-onsen-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
                 🌋 鹿児島市・桜島ビュー露天と黒豚名宿
               </Link>
-              <Link href="/winter-kagoshima-izumi-crane-akune-kurobuta-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
+              <Link href="/winter-kagoshima-izumi-crane-akune-kurobuta-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
                 🦩 出水ツル渡来地と阿久根黒豚名宿
               </Link>
-              <Link href="/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
+              <Link href="/winter-miyazaki-nichinan-udo-shrine-hatsumode-iseebi-wagyu-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
                 ⛩️ 宮崎日南・鵜戸神宮初詣と伊勢海老名宿
               </Link>
-              <Link href="/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
+              <Link href="/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
                 🥩 都城＆小林・霧島連山と宮崎牛名宿
               </Link>
-              <Link href="/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
+              <Link href="/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
                 🏔️ 南阿蘇＆高森・阿蘇五岳と高森田楽名宿
               </Link>
-              <Link href="/features" className="p-3 bg-amber-700 text-white rounded-xl font-bold hover:bg-amber-800 transition text-center flex items-center justify-center">
+              <Link href="/features/" className="p-3 bg-amber-700 text-white rounded-xl font-bold hover:bg-amber-800 transition text-center flex items-center justify-center">
                 ❄️ 全国の冬の厳選特集一覧を見る →
               </Link>
             </div>

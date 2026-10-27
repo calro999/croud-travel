@@ -585,7 +585,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link 
-              href="/winter-kochi-yuzu-hotspring-stay"
+              href="/winter-kochi-yuzu-hotspring-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">四国の冬名物</span>
@@ -595,7 +595,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-fukuoka-hakata-christmas-advent-gourmet-stay"
+              href="/winter-fukuoka-hakata-christmas-advent-gourmet-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">九州の冬グルメ</span>
@@ -605,7 +605,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-oita-beppu-jigokumushi-hotspring-stay"
+              href="/winter-oita-beppu-jigokumushi-hotspring-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">九州の湧出量日本一</span>
@@ -615,7 +615,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">関西の冬名湯</span>
@@ -625,7 +625,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay"
+              href="/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">東海の冬絶景</span>
@@ -635,7 +635,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">山陰のラジウム温泉</span>

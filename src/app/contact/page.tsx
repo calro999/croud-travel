@@ -3,17 +3,17 @@ import Link from "next/link";
 import { Mail, HelpCircle, AlertCircle } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "お問い合わせ ｜ 日本全国・旅宿クラウド",
+  title: "お問い合わせ・ご意見窓口",
   description: "日本全国・旅宿クラウドに関するお問い合わせ、掲載内容のご指摘、取材のご相談はこちらのページよりお願いいたします。",
   alternates: { canonical: "https://croud-travel.pages.dev/contact/" },
   openGraph: {
-    title: "お問い合わせ ｜ 日本全国・旅宿クラウド",
+    title: "お問い合わせ・ご意見窓口",
     description: "日本全国・旅宿クラウドに関するお問い合わせ、掲載内容のご指摘、取材のご相談はこちらのページよりお願いいたします。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "お問い合わせ ｜ 日本全国・旅宿クラウド",
+    title: "お問い合わせ・ご意見窓口",
     description: "日本全国・旅宿クラウドに関するお問い合わせ、掲載内容のご指摘、取材のご相談はこちらのページよりお願いいたします。",
   }
 };

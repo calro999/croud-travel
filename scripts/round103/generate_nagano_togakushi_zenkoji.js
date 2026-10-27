@@ -580,7 +580,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-nagano-shibu-onsen-nine-sotoyu-stay" 
+              href="/winter-nagano-shibu-onsen-nine-sotoyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">長野・渋温泉</span>
@@ -590,7 +590,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay" 
+              href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">長野・白馬</span>
@@ -600,7 +600,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay" 
+              href="/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">長野・阿智村</span>
@@ -610,7 +610,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay" 
+              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">三重・伊勢神宮</span>
@@ -620,7 +620,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay" 
+              href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">群馬・草津温泉</span>
@@ -630,7 +630,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay" 
+              href="/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-800 font-bold text-xs block mb-1">徳島・祖谷渓谷</span>

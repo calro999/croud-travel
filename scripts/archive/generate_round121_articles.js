@@ -107,7 +107,7 @@ export default function Page() {
           <div className="flex items-center space-x-4 text-xs font-medium text-stone-600">
             <Link href="/" className="hover:text-emerald-700">トップ</Link>
             <span>/</span>
-            <Link href="/sitemap" className="hover:text-emerald-700">特集一覧</Link>
+            <Link href="/sitemap/" className="hover:text-emerald-700">特集一覧</Link>
             <span>/</span>
             <span className="text-stone-400">秋のふるさと納税特集</span>
           </div>
@@ -397,16 +397,16 @@ export default function Page() {
         <section className="bg-amber-50/50 p-6 rounded-xl border border-amber-200 space-y-4">
           <h2 className="text-lg font-bold text-stone-900">こちらもチェック！秋のふるさと納税特集</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs md:text-sm">
-            <Link href="/furusato-tax-kyoto-kurama-kifune-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-kyoto-kurama-kifune-autumn-stay/" className="text-emerald-800 hover:underline">
               → 京都・洛北 貴船＆鞍馬（もみじトンネル＆ぼたん鍋）特集
             </Link>
-            <Link href="/furusato-tax-kumamoto-hitoyoshi-kuma-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-kumamoto-hitoyoshi-kuma-autumn-stay/" className="text-emerald-800 hover:underline">
               → 熊本・人吉温泉＆球磨川（幻想朝霧＆球磨焼酎鮎会席）特集
             </Link>
-            <Link href="/furusato-tax-hyogo-yumura-onsen-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-hyogo-yumura-onsen-autumn-stay/" className="text-emerald-800 hover:underline">
               → 兵庫・山陰 湯村温泉（荒湯湯けむり紅葉＆但馬牛）特集
             </Link>
-            <Link href="/furusato-tax-ishikawa-yamashiro-yamanaka-autumn-stay" className="text-emerald-800 hover:underline">
+            <Link href="/furusato-tax-ishikawa-yamashiro-yamanaka-autumn-stay/" className="text-emerald-800 hover:underline">
               → 石川・加賀山代温泉（古総湯＆加能ガニ・能登牛）特集
             </Link>
           </div>

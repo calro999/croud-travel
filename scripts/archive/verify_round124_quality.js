@@ -87,7 +87,7 @@ async function verify() {
     }
 
     // 1-5. Internal links check
-    const hasInternalLinks = content.includes('<Link href="/features"') && content.includes('<Link href="/');
+    const hasInternalLinks = content.includes('<Link href="/features/"') && content.includes('<Link href="/');
     if (!hasInternalLinks) {
       console.error(`  x FAILED: Missing internal links`);
       overallPass = false;

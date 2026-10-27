@@ -604,42 +604,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="bg-blue-900/80 hover:bg-blue-900 p-4 rounded-2xl transition border border-blue-800/50 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">鳥取・三朝</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">三朝温泉 世界屈指のラジウム泉と活松葉ガニの宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"
               className="bg-blue-900/80 hover:bg-blue-900 p-4 rounded-2xl transition border border-blue-800/50 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">兵庫・城崎</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">城崎温泉 七つの外湯めぐりと津居山カニの宿</h3>
             </Link>
             <Link 
-              href="/winter-kyoto-amanohashidate-matsuba-crab-stay"
+              href="/winter-kyoto-amanohashidate-matsuba-crab-stay/"
               className="bg-blue-900/80 hover:bg-blue-900 p-4 rounded-2xl transition border border-blue-800/50 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">京都・天橋立</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">天橋立温泉 白砂青松雪景色とカニ解禁・寒ブリの宿</h3>
             </Link>
             <Link 
-              href="/winter-ishikawa-kaga-yamashiro-kano-crab-stay"
+              href="/winter-ishikawa-kaga-yamashiro-kano-crab-stay/"
               className="bg-blue-900/80 hover:bg-blue-900 p-4 rounded-2xl transition border border-blue-800/50 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">石川・加賀</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">山代温泉 加能ガニ解禁と九谷焼・名湯露天の宿</h3>
             </Link>
             <Link 
-              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay"
+              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay/"
               className="bg-blue-900/80 hover:bg-blue-900 p-4 rounded-2xl transition border border-blue-800/50 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">和歌山・白浜</span>
               <h3 className="text-sm font-bold group-hover:text-blue-200 transition">南紀白浜温泉 太平洋夕陽と幻の紀州本クエ鍋の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-blue-900/80 hover:bg-blue-900 p-4 rounded-2xl transition border border-blue-800/50 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">特集一覧</span>

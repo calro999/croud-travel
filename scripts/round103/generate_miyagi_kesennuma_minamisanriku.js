@@ -580,7 +580,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay" 
+              href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">宮城・松島</span>
@@ -590,7 +590,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay" 
+              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">宮城・秋保温泉</span>
@@ -600,7 +600,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay" 
+              href="/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">青森・奥入瀬＆八甲田</span>
@@ -610,7 +610,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay" 
+              href="/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">鳥取・境港＆皆生温泉</span>
@@ -620,7 +620,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay" 
+              href="/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">静岡・下田＆爪木崎</span>
@@ -630,7 +630,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay" 
+              href="/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-cyan-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-cyan-800 font-bold text-xs block mb-1">佐賀・太良町＆嬉野温泉</span>

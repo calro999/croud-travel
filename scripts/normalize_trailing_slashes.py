@@ -17,7 +17,7 @@ STATIC_EXTS = ('.png', '.jpg', '.jpeg', '.svg', '.webp', '.ico', '.txt', '.xml',
 def fix_content(content):
     modified = False
     
-    # 1. href="/slug" or href='/slug' (where not static file, not ending in slash, no ?, no #)
+    # 1. href="/slug/" or href="/slug/" (where not static file, not ending in slash, no ?, no #)
     def href_repl(m):
         path = m.group(1)
         # Check if already has extension
@@ -43,7 +43,7 @@ def fix_content(content):
             content = new_content
 
     # 3. Full URLs in openGraph / metadata / JSON-LD
-    # e.g. url: 'https://croud-travel.pages.dev/slug' -> 'https://croud-travel.pages.dev/slug/'
+    # e.g. url: 'https://croud-travel.pages.dev/slug/' -> 'https://croud-travel.pages.dev/slug/'
     def url_repl(m):
         full_url = m.group(1)
         last_seg = full_url.split('/')[-1]

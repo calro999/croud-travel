@@ -533,37 +533,37 @@ ${faqList.map(item => `          {
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-gifu-hida-takayama-sanmachi-snow-hidagyu-stay"
+              href="/winter-gifu-hida-takayama-sanmachi-snow-hidagyu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-cyan-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-cyan-600 block"
             >
               【飛騨高山・さんまち通り】冬の雪景色と名酒蔵巡り・極上飛騨牛名宿
             </Link>
             <Link
-              href="/winter-shirakawago-gassho-snow-illumination-stay"
+              href="/winter-shirakawago-gassho-snow-illumination-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-cyan-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-cyan-600 block"
             >
               【白川郷】世界遺産合掌造りの雪景色ライトアップと囲炉裏名宿
             </Link>
             <Link
-              href="/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay"
+              href="/winter-aichi-nagoya-atsuta-jingu-hatsumode-hitsumabushi-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-cyan-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-cyan-600 block"
             >
               【名古屋・熱田神宮】三種の神器新春初詣と名物ひつまぶし名宿
             </Link>
             <Link
-              href="/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay"
+              href="/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-cyan-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-cyan-600 block"
             >
               【比叡山延暦寺＆おごと温泉】冬の根本中堂と琵琶湖一望・近江牛名宿
             </Link>
             <Link
-              href="/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay"
+              href="/winter-shizuoka-hamanako-kanzanji-torafugu-unagi-stay/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-cyan-300 hover:shadow-xs transition-all text-sm font-medium text-slate-800 hover:text-cyan-600 block"
             >
               【浜名湖・舘山寺温泉】冬の天然とらふぐと極上うなぎ名宿
             </Link>
             <Link
-              href="/features"
+              href="/features/"
               className="p-4 bg-white rounded-2xl border border-slate-200/80 hover:border-cyan-300 hover:shadow-xs transition-all text-sm font-bold text-cyan-700 block text-center flex items-center justify-center gap-1"
             >
               <span>全国の冬旅特集一覧を見る</span>

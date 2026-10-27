@@ -589,42 +589,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay"
+              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay/"
               className="bg-sky-900/80 hover:bg-sky-900 p-4 rounded-2xl transition border border-sky-800/50 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">和歌山・白浜</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">南紀白浜温泉 太平洋一望の崎の湯と冬の幻の高級魚クエ鍋の宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay"
+              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/"
               className="bg-sky-900/80 hover:bg-sky-900 p-4 rounded-2xl transition border border-sky-800/50 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">兵庫・有馬</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">有馬温泉 日本三古湯の金泉・銀泉と極上神戸牛会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"
               className="bg-sky-900/80 hover:bg-sky-900 p-4 rounded-2xl transition border border-sky-800/50 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">兵庫・城崎</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">城崎温泉 七つの外湯巡りと本場松葉ガニ会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-fukui-awara-onsen-echizen-crab-stay"
+              href="/winter-fukui-awara-onsen-echizen-crab-stay/"
               className="bg-sky-900/80 hover:bg-sky-900 p-4 rounded-2xl transition border border-sky-800/50 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">福井・あわら</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">あわら温泉 庭園露天風呂と黄色いタグ付き越前がにの宿</h3>
             </Link>
             <Link 
-              href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay"
+              href="/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay/"
               className="bg-sky-900/80 hover:bg-sky-900 p-4 rounded-2xl transition border border-sky-800/50 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">山口・長門湯本</span>
               <h3 className="text-sm font-bold group-hover:text-sky-200 transition">長門湯本温泉 音信川冬灯りと下関直送活本とらふぐの宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-sky-900/80 hover:bg-sky-900 p-4 rounded-2xl transition border border-sky-800/50 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">特集一覧</span>

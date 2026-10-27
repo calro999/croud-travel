@@ -541,7 +541,7 @@ ${faqList.map(item => `    {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm">
             <Link 
-              href="/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay"
+              href="/winter-wakayama-nanki-katsuura-onsen-tuna-cave-bath-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-cyan-400 hover:bg-cyan-50/30 transition block space-y-1"
             >
               <span className="font-bold text-cyan-950 block">【和歌山】南紀勝浦温泉洞窟風呂と生まぐろ・熊野古道名宿</span>
@@ -549,7 +549,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay"
+              href="/winter-wakayama-nanki-shirahama-kue-hotspring-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-cyan-400 hover:bg-cyan-50/30 transition block space-y-1"
             >
               <span className="font-bold text-cyan-950 block">【和歌山】南紀白浜温泉と冬の幻の高級魚クエ鍋名宿</span>
@@ -557,7 +557,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay"
+              href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-cyan-400 hover:bg-cyan-50/30 transition block space-y-1"
             >
               <span className="font-bold text-cyan-950 block">【千葉】犬吠埼の日本一早い初日の出と銚子つりきんめ名宿</span>
@@ -565,7 +565,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay"
+              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-cyan-400 hover:bg-cyan-50/30 transition block space-y-1"
             >
               <span className="font-bold text-cyan-950 block">【三重】鳥羽温泉郷と冬旬伊勢海老・的矢かき名宿</span>
@@ -584,7 +584,7 @@ ${faqList.map(item => `    {
           </p>
           <div className="pt-2 flex flex-wrap justify-center gap-3">
             <Link 
-              href="/features" 
+              href="/features/" 
               className="px-6 py-3 bg-white text-slate-900 hover:bg-slate-100 font-black text-xs md:text-sm rounded-xl shadow transition"
             >
               特集記事一覧を見る

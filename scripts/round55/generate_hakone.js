@@ -734,7 +734,7 @@ ${hotelCardsCode}
           {/* 関連特集リンクカード */}
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
             <Link 
-              href="/winter-fujikawaguchiko-momiji-fuji-view-stay"
+              href="/winter-fujikawaguchiko-momiji-fuji-view-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-cyan-50/60 border border-stone-200 hover:border-cyan-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-rose-800 bg-rose-100/80 px-2 py-0.5 rounded">富士山特集</span>
@@ -747,7 +747,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-izu-kinmedai-shabushabu-luxury-stay"
+              href="/winter-izu-kinmedai-shabushabu-luxury-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-cyan-50/60 border border-stone-200 hover:border-cyan-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">近隣温泉特集</span>
@@ -760,7 +760,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-tokyo-marunouchi-illumination-luxury-stay"
+              href="/winter-tokyo-marunouchi-illumination-luxury-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-cyan-50/60 border border-stone-200 hover:border-cyan-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">首都圏冬ステイ</span>
@@ -779,12 +779,12 @@ ${hotelCardsCode}
               神奈川県および関東・甲信越エリアのおすすめ温泉宿一覧
             </h3>
             <div className="flex flex-wrap gap-2 text-xs">
-              <Link href="/prefectures/kanagawa" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">神奈川県の宿一覧</Link>
-              <Link href="/prefectures/shizuoka" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">静岡県の宿一覧</Link>
-              <Link href="/prefectures/yamanashi" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">山梨県の宿一覧</Link>
-              <Link href="/prefectures/tokyo" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">東京都の宿一覧</Link>
-              <Link href="/prefectures/chiba" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">千葉県の宿一覧</Link>
-              <Link href="/prefectures/saitama" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">埼玉県の宿一覧</Link>
+              <Link href="/prefectures/kanagawa/" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">神奈川県の宿一覧</Link>
+              <Link href="/prefectures/shizuoka/" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">静岡県の宿一覧</Link>
+              <Link href="/prefectures/yamanashi/" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">山梨県の宿一覧</Link>
+              <Link href="/prefectures/tokyo/" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">東京都の宿一覧</Link>
+              <Link href="/prefectures/chiba/" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">千葉県の宿一覧</Link>
+              <Link href="/prefectures/saitama/" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">埼玉県の宿一覧</Link>
             </div>
           </div>
         </section>

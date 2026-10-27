@@ -204,7 +204,7 @@ for (const item of featuresMeta) {
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
 ${related.map(rf => `            <Link
-              href="/${rf.slug}"
+              href="/${rf.slug}/"
               className="p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200/70 hover:border-amber-300 transition group flex flex-col justify-between"
             >
               <div>
@@ -224,7 +224,7 @@ ${related.map(rf => `            <Link
             <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
 ${relatedPrefs.map(p => `              <Link
-                href="/prefectures/${p.slug}"
+                href="/prefectures/${p.slug}/"
                 className="text-xs px-3 py-1.5 rounded-lg bg-stone-100 hover:bg-amber-500 hover:text-white text-stone-700 transition font-medium"
               >
                 ${p.name}の宿・温泉

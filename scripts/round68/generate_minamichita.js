@@ -570,42 +570,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay"
+              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">三重・鳥羽温泉郷</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">伊勢湾を望む絶景露天風呂と伊勢海老・的矢かき会席の宿</h3>
             </Link>
             <Link 
-              href="/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay"
+              href="/winter-iseshima-ujibashi-sunrise-matoya-oyster-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">三重・伊勢志摩</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">冬至の宇治橋鳥居日の出絶景と的矢牡蠣・松阪牛の宿</h3>
             </Link>
             <Link 
-              href="/winter-fugu-pufferfish-gourmet-onsen-stay"
+              href="/winter-fugu-pufferfish-gourmet-onsen-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">全国冬のふぐ特集</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の極上とらふぐフルコースと名湯露天風呂の宿まとめ</h3>
             </Link>
             <Link 
-              href="/winter-mie-nabana-no-sato-illumination-stay"
+              href="/winter-mie-nabana-no-sato-illumination-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">三重・桑名</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">国内最大級なばなの里イルミネーションと長島温泉の宿</h3>
             </Link>
             <Link 
-              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay"
+              href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">静岡・熱海温泉</span>
               <h3 className="text-sm font-bold group-hover:text-teal-200 transition">冬の熱海海上花火大会と金目鯛煮付け・相模湾海の幸の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>

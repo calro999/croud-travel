@@ -569,7 +569,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-nara-dorogawa-onsen-snow-botannabe-stay" 
+              href="/winter-nara-dorogawa-onsen-snow-botannabe-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-purple-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-purple-700 font-bold text-xs block mb-1">奈良・洞川温泉</span>
@@ -579,7 +579,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay" 
+              href="/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-purple-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-purple-700 font-bold text-xs block mb-1">和歌山・高野山</span>
@@ -589,7 +589,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay" 
+              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-purple-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-purple-700 font-bold text-xs block mb-1">三重・伊勢神宮</span>
@@ -599,7 +599,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay" 
+              href="/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-purple-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-purple-700 font-bold text-xs block mb-1">京都・貴船＆鞍馬</span>
@@ -609,7 +609,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay" 
+              href="/winter-shiga-omihachiman-hikone-snow-castle-omigyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-purple-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-purple-700 font-bold text-xs block mb-1">滋賀・近江八幡＆彦根</span>
@@ -619,7 +619,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay" 
+              href="/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-purple-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-purple-700 font-bold text-xs block mb-1">岡山・倉敷＆吉備津</span>

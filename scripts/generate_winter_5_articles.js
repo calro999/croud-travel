@@ -315,10 +315,10 @@ function buildZaoPost(data) {
   <section class="my-8 p-5 bg-sky-50/80 rounded-2xl border border-sky-200">
     <h3 class="font-bold text-sm text-sky-950 mb-3">📌 合わせて読みたい山形・東北の雪見温泉・冬の旅特集</h3>
     <ul class="text-xs text-sky-900 space-y-2 list-disc list-inside">
-      <li><a href="/yamagata" class="underline font-bold hover:text-sky-700">山形県の温泉旅館・観光名所完全ガイド（蔵王・銀山・かみのやま・天童）</a></li>
-      <li><a href="/posts/74573" class="underline hover:text-sky-700">山形県・東北観光：名所と旬のグルメを満喫する周遊おすすめモデルコースガイド</a></li>
-      <li><a href="/posts/zao-ginzan-akyu-matsushima-naruko-tohoku-onsen-guide" class="underline hover:text-sky-700">東北の名湯めぐり！蔵王・銀山・秋保・鳴子温泉の雪見露天風呂比較ガイド</a></li>
-      <li><a href="/posts/snow-monkey-jigokudani-shibu-yudanaka-onsen-guide" class="underline hover:text-sky-700">冬の白銀世界！地獄谷野猿公苑スノーモンキーと渋温泉九湯めぐりガイド</a></li>
+      <li><a href="/yamagata/" class="underline font-bold hover:text-sky-700">山形県の温泉旅館・観光名所完全ガイド（蔵王・銀山・かみのやま・天童）</a></li>
+      <li><a href="/posts/74573/" class="underline hover:text-sky-700">山形県・東北観光：名所と旬のグルメを満喫する周遊おすすめモデルコースガイド</a></li>
+      <li><a href="/posts/zao-ginzan-akyu-matsushima-naruko-tohoku-onsen-guide/" class="underline hover:text-sky-700">東北の名湯めぐり！蔵王・銀山・秋保・鳴子温泉の雪見露天風呂比較ガイド</a></li>
+      <li><a href="/posts/snow-monkey-jigokudani-shibu-yudanaka-onsen-guide/" class="underline hover:text-sky-700">冬の白銀世界！地獄谷野猿公苑スノーモンキーと渋温泉九湯めぐりガイド</a></li>
     </ul>
   </section>
 
@@ -637,10 +637,10 @@ function buildKanazawaKagaPost(data) {
   <section class="my-8 p-5 bg-rose-50/80 rounded-2xl border border-rose-200">
     <h3 class="font-bold text-sm text-rose-950 mb-3">📌 合わせて読みたい石川・北陸の温泉＆美食特集</h3>
     <ul class="text-xs text-rose-900 space-y-2 list-disc list-inside">
-      <li><a href="/ishikawa" class="underline font-bold hover:text-rose-700">石川県の温泉旅館・観光名所完全ガイド（金沢・加賀温泉郷・能登）</a></li>
-      <li><a href="/posts/noto-pokemon-travel-guide" class="underline hover:text-rose-700">能登半島・応援観光ガイド：和倉温泉・能登の美食を味わう復興応援の旅</a></li>
-      <li><a href="/posts/larc-link-location-travel-guide" class="underline hover:text-rose-700">山代温泉・加賀名湯旅館の宿泊ルポ＆客室・露天風呂比較ガイド</a></li>
-      <li><a href="/posts/ise-jingu-newyear-hatsumode-toba-onsen-ise-ebi-guide" class="underline hover:text-rose-700">冬の味覚対決！伊勢神宮初詣＆鳥羽温泉郷の活伊勢海老・的矢牡蠣ガイド</a></li>
+      <li><a href="/ishikawa/" class="underline font-bold hover:text-rose-700">石川県の温泉旅館・観光名所完全ガイド（金沢・加賀温泉郷・能登）</a></li>
+      <li><a href="/posts/noto-pokemon-travel-guide/" class="underline hover:text-rose-700">能登半島・応援観光ガイド：和倉温泉・能登の美食を味わう復興応援の旅</a></li>
+      <li><a href="/posts/larc-link-location-travel-guide/" class="underline hover:text-rose-700">山代温泉・加賀名湯旅館の宿泊ルポ＆客室・露天風呂比較ガイド</a></li>
+      <li><a href="/posts/ise-jingu-newyear-hatsumode-toba-onsen-ise-ebi-guide/" class="underline hover:text-rose-700">冬の味覚対決！伊勢神宮初詣＆鳥羽温泉郷の活伊勢海老・的矢牡蠣ガイド</a></li>
     </ul>
   </section>
 
@@ -984,10 +984,10 @@ function buildKusatsuPost(data) {
   <section class="my-8 p-5 bg-teal-50/80 rounded-2xl border border-teal-200">
     <h3 class="font-bold text-sm text-teal-950 mb-3">📌 合わせて読みたい群馬・関東の温泉名宿特集</h3>
     <ul class="text-xs text-teal-900 space-y-2 list-disc list-inside">
-      <li><a href="/gunma" class="underline font-bold hover:text-teal-700">群馬県の温泉旅館・観光名所完全ガイド（草津・伊香保・四万・みなかみ）</a></li>
-      <li><a href="/posts/16110" class="underline hover:text-teal-700">亀の井ホテル草津リゾート（草津温泉）の宿泊ルポ＆見どころガイド</a></li>
-      <li><a href="/posts/manza-onsen-highest-sulfur-springs-guide" class="underline hover:text-teal-700">標高1800mの白濁極上雪見露天！万座温泉名湯ガイド</a></li>
-      <li><a href="/posts/yunishigawa-onsen-kamakura-festival-snow-heike-guide" class="underline hover:text-teal-700">栃木・湯西川温泉かまくら祭＆平家落人の隠れ里雪見露天ガイド</a></li>
+      <li><a href="/gunma/" class="underline font-bold hover:text-teal-700">群馬県の温泉旅館・観光名所完全ガイド（草津・伊香保・四万・みなかみ）</a></li>
+      <li><a href="/posts/16110/" class="underline hover:text-teal-700">亀の井ホテル草津リゾート（草津温泉）の宿泊ルポ＆見どころガイド</a></li>
+      <li><a href="/posts/manza-onsen-highest-sulfur-springs-guide/" class="underline hover:text-teal-700">標高1800mの白濁極上雪見露天！万座温泉名湯ガイド</a></li>
+      <li><a href="/posts/yunishigawa-onsen-kamakura-festival-snow-heike-guide/" class="underline hover:text-teal-700">栃木・湯西川温泉かまくら祭＆平家落人の隠れ里雪見露天ガイド</a></li>
     </ul>
   </section>
 
@@ -1356,10 +1356,10 @@ function buildKifuneKyotoPost(data) {
   <section class="my-8 p-5 bg-amber-50/80 rounded-2xl border border-amber-200">
     <h3 class="font-bold text-sm text-amber-950 mb-3">📌 合わせて読みたい京都・近畿の温泉旅館＆冬特集</h3>
     <ul class="text-xs text-amber-900 space-y-2 list-disc list-inside">
-      <li><a href="/kyoto" class="underline font-bold hover:text-amber-700">京都府の温泉旅館・観光名所完全ガイド（嵐山・大原・天橋立・宮津）</a></li>
-      <li><a href="/posts/129608" class="underline hover:text-amber-700">京都府・近畿観光：名所と旬のグルメを満喫する周遊おすすめモデルコースガイド</a></li>
-      <li><a href="/posts/note-127" class="underline hover:text-amber-700">京都の紅葉ライトアップと憧れの極上温泉旅館厳選ガイド</a></li>
-      <li><a href="/posts/ise-jingu-newyear-hatsumode-toba-onsen-ise-ebi-guide" class="underline hover:text-amber-700">新春初詣と美食温泉！伊勢神宮＆鳥羽温泉郷の開運旅行ガイド</a></li>
+      <li><a href="/kyoto/" class="underline font-bold hover:text-amber-700">京都府の温泉旅館・観光名所完全ガイド（嵐山・大原・天橋立・宮津）</a></li>
+      <li><a href="/posts/129608/" class="underline hover:text-amber-700">京都府・近畿観光：名所と旬のグルメを満喫する周遊おすすめモデルコースガイド</a></li>
+      <li><a href="/posts/note-127/" class="underline hover:text-amber-700">京都の紅葉ライトアップと憧れの極上温泉旅館厳選ガイド</a></li>
+      <li><a href="/posts/ise-jingu-newyear-hatsumode-toba-onsen-ise-ebi-guide/" class="underline hover:text-amber-700">新春初詣と美食温泉！伊勢神宮＆鳥羽温泉郷の開運旅行ガイド</a></li>
     </ul>
   </section>
 
@@ -1673,10 +1673,10 @@ function buildNyutoPost(data) {
   <section class="my-8 p-5 bg-indigo-50/80 rounded-2xl border border-indigo-200">
     <h3 class="font-bold text-sm text-indigo-950 mb-3">📌 合わせて読みたい秋田・東北の温泉旅館特集</h3>
     <ul class="text-xs text-indigo-900 space-y-2 list-disc list-inside">
-      <li><a href="/akita" class="underline font-bold hover:text-indigo-700">秋田県の温泉旅館・観光名所完全ガイド（乳頭温泉・田沢湖・男鹿・角館）</a></li>
-      <li><a href="/posts/akita-famous-kiritanpo-hinai-sake-hotels-guide" class="underline hover:text-indigo-700">秋田名物きりたんぽ・比内地鶏と極上温泉宿ガイド</a></li>
-      <li><a href="/posts/october-travel-akita-kids-family-guide" class="underline hover:text-indigo-700">秋田県の紅葉・味覚と人気温泉旅館ガイド</a></li>
-      <li><a href="/posts/snow-monkey-jigokudani-shibu-yudanaka-onsen-guide" class="underline hover:text-indigo-700">冬の日本の原風景！長野・地獄谷野猿公苑と渋温泉九湯めぐりガイド</a></li>
+      <li><a href="/akita/" class="underline font-bold hover:text-indigo-700">秋田県の温泉旅館・観光名所完全ガイド（乳頭温泉・田沢湖・男鹿・角館）</a></li>
+      <li><a href="/posts/akita-famous-kiritanpo-hinai-sake-hotels-guide/" class="underline hover:text-indigo-700">秋田名物きりたんぽ・比内地鶏と極上温泉宿ガイド</a></li>
+      <li><a href="/posts/october-travel-akita-kids-family-guide/" class="underline hover:text-indigo-700">秋田県の紅葉・味覚と人気温泉旅館ガイド</a></li>
+      <li><a href="/posts/snow-monkey-jigokudani-shibu-yudanaka-onsen-guide/" class="underline hover:text-indigo-700">冬の日本の原風景！長野・地獄谷野猿公苑と渋温泉九湯めぐりガイド</a></li>
     </ul>
   </section>
 

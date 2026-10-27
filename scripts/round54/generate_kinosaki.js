@@ -610,7 +610,7 @@ ${hotelCardsCode}
           {/* 関連特集リンクカード */}
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay"
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-cyan-50/60 border border-stone-200 hover:border-cyan-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">山陰カニ名湯</span>
@@ -623,7 +623,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-echizen-crab-taiza-luxury-stay"
+              href="/winter-echizen-crab-taiza-luxury-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-cyan-50/60 border border-stone-200 hover:border-cyan-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-rose-800 bg-rose-100/80 px-2 py-0.5 rounded">幻の最高峰ガニ</span>
@@ -636,7 +636,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-kue-gourmet-luxury-fish-onsen-stay"
+              href="/winter-kue-gourmet-luxury-fish-onsen-stay/"
               className="p-4 rounded-2xl bg-stone-50 hover:bg-cyan-50/60 border border-stone-200 hover:border-cyan-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">幻の高級魚鍋</span>
@@ -655,13 +655,13 @@ ${hotelCardsCode}
               関西・山陰・全国の都道府県別おすすめ宿
             </h3>
             <div className="flex flex-wrap gap-2 text-xs">
-              <Link href="/prefectures/hyogo" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">兵庫県の宿一覧</Link>
-              <Link href="/prefectures/kyoto" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">京都府の宿一覧</Link>
-              <Link href="/prefectures/tottori" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">鳥取県の宿一覧</Link>
-              <Link href="/prefectures/osaka" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">大阪府の宿一覧</Link>
-              <Link href="/prefectures/fukui" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">福井県の宿一覧</Link>
-              <Link href="/prefectures/shimane" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">島根県の宿一覧</Link>
-              <Link href="/prefectures/okayama" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">岡山県の宿一覧</Link>
+              <Link href="/prefectures/hyogo/" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">兵庫県の宿一覧</Link>
+              <Link href="/prefectures/kyoto/" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">京都府の宿一覧</Link>
+              <Link href="/prefectures/tottori/" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">鳥取県の宿一覧</Link>
+              <Link href="/prefectures/osaka/" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">大阪府の宿一覧</Link>
+              <Link href="/prefectures/fukui/" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">福井県の宿一覧</Link>
+              <Link href="/prefectures/shimane/" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">島根県の宿一覧</Link>
+              <Link href="/prefectures/okayama/" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">岡山県の宿一覧</Link>
             </div>
           </div>
         </section>

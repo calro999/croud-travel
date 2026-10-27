@@ -367,31 +367,31 @@ export default function Page() {
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <Link
-              href="/zen-meditation-shojin-cuisine-temple-retreat-stay"
+              href="/zen-meditation-shojin-cuisine-temple-retreat-stay/"
               className="px-4 py-2 bg-white text-stone-800 rounded-full text-xs md:text-sm font-semibold hover:bg-amber-100 border border-stone-300 transition shadow-sm"
             >
               🧘‍♂️ 禅寺坐禅＆精進料理宿坊
             </Link>
             <Link
-              href="/tea-ceremony-authentic-chashitsu-matcha-ryokan-stay"
+              href="/tea-ceremony-authentic-chashitsu-matcha-ryokan-stay/"
               className="px-4 py-2 bg-white text-stone-800 rounded-full text-xs md:text-sm font-semibold hover:bg-amber-100 border border-stone-300 transition shadow-sm"
             >
               🍵 本格茶室＆茶道体験宿
             </Link>
             <Link
-              href="/shakyo-meditation-mindfulness-sacred-temple-stay"
+              href="/shakyo-meditation-mindfulness-sacred-temple-stay/"
               className="px-4 py-2 bg-white text-stone-800 rounded-full text-xs md:text-sm font-semibold hover:bg-amber-100 border border-stone-300 transition shadow-sm"
             >
               ✍️ 写経・写仏＆瞑想宿
             </Link>
             <Link
-              href="/samurai-katana-armor-buke-yashiki-heritage-stay"
+              href="/samurai-katana-armor-buke-yashiki-heritage-stay/"
               className="px-4 py-2 bg-white text-stone-800 rounded-full text-xs md:text-sm font-semibold hover:bg-amber-100 border border-stone-300 transition shadow-sm"
             >
               ⚔️ 武家屋敷＆サムライ体験宿
             </Link>
             <Link
-              href="/traditional-crafts-pottery-gold-leaf-washi-stay"
+              href="/traditional-crafts-pottery-gold-leaf-washi-stay/"
               className="px-4 py-2 bg-white text-stone-800 rounded-full text-xs md:text-sm font-semibold hover:bg-amber-100 border border-stone-300 transition shadow-sm"
             >
               🏺 金箔・和紙・陶芸工芸宿

@@ -541,7 +541,7 @@ ${faqList.map(item => `    {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm">
             <Link 
-              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay"
+              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-emerald-400 hover:bg-emerald-50/30 transition block space-y-1"
             >
               <span className="font-bold text-emerald-950 block">【埼玉】秩父神社初詣と長瀞こたつ舟・武州牛名宿</span>
@@ -549,7 +549,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay"
+              href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-emerald-400 hover:bg-emerald-50/30 transition block space-y-1"
             >
               <span className="font-bold text-emerald-950 block">【神奈川】箱根神社初詣と芦ノ湖富士山ビュー・箱根温泉名宿</span>
@@ -557,7 +557,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay"
+              href="/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-emerald-400 hover:bg-emerald-50/30 transition block space-y-1"
             >
               <span className="font-bold text-emerald-950 block">【群馬】榛名神社初詣と磯部温泉・上州牛すき焼き名宿</span>
@@ -565,7 +565,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay"
+              href="/winter-tokyo-asakusa-sensoji-hatsumode-skytree-edomae-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-emerald-400 hover:bg-emerald-50/30 transition block space-y-1"
             >
               <span className="font-bold text-emerald-950 block">【東京】浅草寺新春初詣とスカイツリー夜景・江戸前寿司名宿</span>
@@ -584,7 +584,7 @@ ${faqList.map(item => `    {
           </p>
           <div className="pt-2 flex flex-wrap justify-center gap-3">
             <Link 
-              href="/features" 
+              href="/features/" 
               className="px-6 py-3 bg-white text-slate-900 hover:bg-slate-100 font-black text-xs md:text-sm rounded-xl shadow transition"
             >
               特集記事一覧を見る

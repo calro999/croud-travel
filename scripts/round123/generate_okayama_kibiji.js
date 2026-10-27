@@ -212,7 +212,7 @@ ${faqList.map(f => `    {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-600 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-red-700">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/features" className="hover:text-red-700">特集一覧</Link>
+            <Link href="/features/" className="hover:text-red-700">特集一覧</Link>
             <span>&gt;</span>
             <span className="text-slate-900 font-semibold">岡山・吉備路＆最上稲荷名宿</span>
           </div>
@@ -521,22 +521,22 @@ ${faqList.map(f => `    {
               <span>岡山・山陽および冬の目的別おすすめ特集</span>
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
-              <Link href="/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-red-400 transition font-medium text-slate-700">
+              <Link href="/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-red-400 transition font-medium text-slate-700">
                 🏮 倉敷美観地区・冬の夜景と千屋牛名宿
               </Link>
-              <Link href="/winter-okayama-takahashi-bitchu-matsuyama-castle-unkai-chiyagyu-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-red-400 transition font-medium text-slate-700">
+              <Link href="/winter-okayama-takahashi-bitchu-matsuyama-castle-unkai-chiyagyu-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-red-400 transition font-medium text-slate-700">
                 🏯 備中松山城雲海と吹屋ベンガラ名宿
               </Link>
-              <Link href="/winter-okayama-hinase-ushimado-oyster-kakioko-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-red-400 transition font-medium text-slate-700">
+              <Link href="/winter-okayama-hinase-ushimado-oyster-kakioko-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-red-400 transition font-medium text-slate-700">
                 🦪 日生カキオコ＆牛窓オリーブ名宿
               </Link>
-              <Link href="/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-red-400 transition font-medium text-slate-700">
+              <Link href="/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-red-400 transition font-medium text-slate-700">
                 ♨️ 湯原温泉砂湯雪見風呂＆蒜山和牛名宿
               </Link>
-              <Link href="/winter-okayama-mimasaka-okutsu-yunogo-onsen-sakushugyu-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-red-400 transition font-medium text-slate-700">
+              <Link href="/winter-okayama-mimasaka-okutsu-yunogo-onsen-sakushugyu-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-red-400 transition font-medium text-slate-700">
                 🧖 奥津・湯郷温泉と作州牛名宿
               </Link>
-              <Link href="/features" className="p-3 bg-red-800 text-white rounded-xl font-bold hover:bg-red-900 transition text-center flex items-center justify-center">
+              <Link href="/features/" className="p-3 bg-red-800 text-white rounded-xl font-bold hover:bg-red-900 transition text-center flex items-center justify-center">
                 ❄️ 全国の冬の厳選特集一覧を見る →
               </Link>
             </div>

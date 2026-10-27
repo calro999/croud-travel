@@ -506,21 +506,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay" 
+              href="/winter-chiba-yoro-keikoku-onsen-kuroyu-kazusagyu-jibier-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">千葉・養老渓谷</span>
               <p className="font-bold text-stone-800 line-clamp-2">本州一遅い初冬の紅葉と美肌黒湯天然温泉・房総かずさ和牛＆猪鍋名宿</p>
             </Link>
             <Link 
-              href="/winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay" 
+              href="/winter-nagano-togura-kamiyamada-onsen-shinshugyu-apple-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">長野・戸倉上山田</span>
               <p className="font-bold text-stone-800 line-clamp-2">善光寺精進落としの美肌硫黄泉と極上信州プレミアム牛＆完熟サンふじ名宿</p>
             </Link>
             <Link 
-              href="/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay" 
+              href="/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-amber-700 font-bold block text-[10px]">宮城・遠刈田温泉</span>

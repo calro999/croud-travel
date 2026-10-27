@@ -86,7 +86,7 @@ slugs.forEach((slug, idx) => {
   }
 
   // 5. 内部リンクチェック
-  if (!content.includes('<Link') || !content.includes('href="/winter-')) {
+  if (!content.includes('<Link') || !content.includes('href="/winter-/")) {
     console.error(`  [FAIL] Missing internal feature links`);
     hasErrors = true;
   } else {

@@ -580,42 +580,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay"
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">山形・銀山</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">銀山温泉 大正ロマンガス灯雪景色と木造多層建築の宿</h3>
             </Link>
             <Link 
-              href="/winter-yamagata-onogawa-yonezawa-beef-stay"
+              href="/winter-yamagata-onogawa-yonezawa-beef-stay/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">山形・小野川</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">小野川温泉 小野小町ゆかりの美肌湯と米沢牛すき焼きの宿</h3>
             </Link>
             <Link 
-              href="/winter-zao-snow-monster-ice-tree-stay"
+              href="/winter-zao-snow-monster-ice-tree-stay/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">山形・蔵王</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">蔵王温泉 樹氷ライトアップと強酸性にごり湯露天風呂の宿</h3>
             </Link>
             <Link 
-              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay"
+              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">宮城・秋保</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">秋保温泉 名取川渓谷美とA5仙台牛・名物せり鍋の宿</h3>
             </Link>
             <Link 
-              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay"
+              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">福島・会津東山</span>
               <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">会津東山温泉 歴史ある渓流雪見露天と会津郷土料理の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">特集一覧</span>

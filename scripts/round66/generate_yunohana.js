@@ -509,42 +509,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-kyoto-arashiyama-onsen-yudofu-stay"
+              href="/winter-kyoto-arashiyama-onsen-yudofu-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">京都・嵐山温泉</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">嵐山初冬の渡月橋と名物湯豆腐・京懐石を楽しむ風雅な宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay"
+              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">兵庫・有馬温泉</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">日本最古の名湯金泉・銀泉と最高級神戸牛すき焼きの宿</h3>
             </Link>
             <Link 
-              href="/winter-kyoto-amanohashidate-matsuba-crab-stay"
+              href="/winter-kyoto-amanohashidate-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">京都・天橋立温泉</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">雪化粧の日本三景天橋立と解禁本場松葉ガニフルコースの宿</h3>
             </Link>
             <Link 
-              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay"
+              href="/winter-hyogo-kinosaki-onsen-matsuba-crab-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">兵庫・城崎温泉</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">冬の外湯めぐりと解禁津居山ガニ・但馬牛を堪能する名宿</h3>
             </Link>
             <Link 
-              href="/winter-hot-pot-gibier-wild-game-satoyama-stay"
+              href="/winter-hot-pot-gibier-wild-game-satoyama-stay/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">全国ジビエ鍋特集</span>
               <h3 className="text-sm font-bold group-hover:text-rose-200 transition">冬のジビエ・天然猪鍋＆熊鍋を味わう里山秘湯温泉の宿</h3>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">特集一覧</span>

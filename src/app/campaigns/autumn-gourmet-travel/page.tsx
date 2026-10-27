@@ -6,7 +6,7 @@ import AutumnSpecialHubClient from "./AutumnSpecialHubClient";
 import autumnPostsData from "@/data/autumnFeaturesData.json";
 
 export const metadata: Metadata = {
-  title: "全国の秋の味覚＆紅葉を満喫する絶品温泉宿特集まとめ ｜ 日本全国・旅宿クラウド",
+  title: "秋の味覚＆紅葉を満喫する絶品温泉宿特集まとめ",
   description: "北海道のカニ・いくら、北陸のズワイガニ・甘エビ、信州・丹波の松茸、長野のシャインマスカット・信州りんご、九州の伊勢海老・車海老など、全国エリア別・目的別の秋の味覚＆紅葉名湯旅館特集を網羅！",
   keywords: ["秋の味覚", "カニ食べ放題", "松茸料理", "シャインマスカット", "伊勢海老", "紅葉温泉", "楽天トラベル", "秋旅行"],
   alternates: {

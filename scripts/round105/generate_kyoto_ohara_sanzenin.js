@@ -552,7 +552,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay" 
+              href="/winter-kyoto-kifune-kurama-snow-lightup-botannabe-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-700 font-bold text-xs block mb-1">京都・貴船＆鞍馬</span>
@@ -562,7 +562,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-kyoto-arashiyama-onsen-yudofu-stay" 
+              href="/winter-kyoto-arashiyama-onsen-yudofu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-700 font-bold text-xs block mb-1">京都・嵐山温泉</span>
@@ -572,7 +572,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay" 
+              href="/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-700 font-bold text-xs block mb-1">滋賀・比叡山＆おごと温泉</span>
@@ -582,7 +582,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-hyogo-tanba-sasayama-botannabe-castle-stay" 
+              href="/winter-hyogo-tanba-sasayama-botannabe-castle-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-700 font-bold text-xs block mb-1">兵庫・丹波篠山</span>
@@ -592,7 +592,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay" 
+              href="/winter-nara-hasedera-winter-peony-oomiwa-yamatogyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-700 font-bold text-xs block mb-1">奈良・長谷寺＆大神神社</span>
@@ -602,7 +602,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay" 
+              href="/winter-kyoto-yunohana-onsen-unkai-botan-nabe-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-emerald-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-emerald-700 font-bold text-xs block mb-1">京都・湯の花温泉</span>

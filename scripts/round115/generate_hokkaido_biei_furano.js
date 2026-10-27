@@ -559,7 +559,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">
             <Link 
-              href="/winter-hokkaido-sapporo-odori-illumination-jozankei-stay"
+              href="/winter-hokkaido-sapporo-odori-illumination-jozankei-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-cyan-400 block mb-1">札幌冬特集</span>
@@ -567,7 +567,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay"
+              href="/winter-hokkaido-otaru-canal-illumination-sushi-asarigawa-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-cyan-400 block mb-1">小樽冬特集</span>
@@ -575,7 +575,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay"
+              href="/winter-hokkaido-niseko-onsen-powder-snow-yotei-stay/"
               className="p-4 rounded-xl bg-slate-800/80 hover:bg-slate-700/80 border border-slate-700 transition-colors block"
             >
               <span className="text-xs text-cyan-400 block mb-1">ニセコ冬特集</span>

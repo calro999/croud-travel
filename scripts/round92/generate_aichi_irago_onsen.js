@@ -530,21 +530,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay" 
+              href="/winter-aichi-minamichita-onsen-torafugu-chita-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-blue-700 font-bold block text-[10px]">愛知・南知多</span>
               <p className="font-bold text-stone-800 line-clamp-2">日間賀島のとらふぐと知多牛・伊勢湾を望む美肌温泉名宿</p>
             </Link>
             <Link 
-              href="/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay" 
+              href="/winter-shizuoka-kanzanji-onsen-hamanako-fugu-eel-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-blue-700 font-bold block text-[10px]">静岡・浜名湖舘山寺</span>
               <p className="font-bold text-stone-800 line-clamp-2">浜名湖の天然トラフグと名物うなぎ・湖畔の絶景露天風呂宿</p>
             </Link>
             <Link 
-              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay" 
+              href="/winter-mie-toba-onsen-ise-ebi-matoya-oyster-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-blue-700 font-bold block text-[10px]">三重・鳥羽温泉郷</span>

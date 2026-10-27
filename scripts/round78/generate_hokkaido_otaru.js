@@ -179,7 +179,7 @@ ${hotelCardsCode}
           <nav className="flex items-center gap-2 text-xs sm:text-sm text-teal-200">
             <Link href="/" className="hover:underline hover:text-white transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:underline hover:text-white transition">特集一覧</Link>
+            <Link href="/features/" className="hover:underline hover:text-white transition">特集一覧</Link>
             <span>/</span>
             <span className="text-white font-medium">小樽・朝里川温泉</span>
           </nav>
@@ -557,7 +557,7 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
-              href="/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay"
+              href="/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">北海道・阿寒湖</span>
@@ -569,7 +569,7 @@ ${hotelCardsCode}
               </p>
             </Link>
             <Link 
-              href="/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay"
+              href="/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">北海道・十勝川</span>
@@ -581,7 +581,7 @@ ${hotelCardsCode}
               </p>
             </Link>
             <Link 
-              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay"
+              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">北海道・函館湯の川</span>
@@ -593,7 +593,7 @@ ${hotelCardsCode}
               </p>
             </Link>
             <Link 
-              href="/winter-hokkaido-jozankei-onsen-snow-keikoku-stay"
+              href="/winter-hokkaido-jozankei-onsen-snow-keikoku-stay/"
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">北海道・定山渓</span>

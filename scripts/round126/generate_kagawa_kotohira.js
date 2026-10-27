@@ -541,7 +541,7 @@ ${faqList.map(item => `    {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm">
             <Link 
-              href="/winter-kagawa-takamatsu-tamura-shrine-hatsumode-shionoe-onsen-olivegyu-stay"
+              href="/winter-kagawa-takamatsu-tamura-shrine-hatsumode-shionoe-onsen-olivegyu-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-amber-400 hover:bg-amber-50/30 transition block space-y-1"
             >
               <span className="font-bold text-amber-950 block">【香川】讃岐国一ノ宮田村神社初詣と塩江温泉・オリーブ牛名宿</span>
@@ -549,7 +549,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-tokushima-city-oasashiko-shrine-hatsumode-awaodori-awagyu-stay"
+              href="/winter-tokushima-city-oasashiko-shrine-hatsumode-awaodori-awagyu-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-amber-400 hover:bg-amber-50/30 transition block space-y-1"
             >
               <span className="font-bold text-amber-950 block">【徳島】阿波国一ノ宮大麻比古神社初詣と阿波牛名宿</span>
@@ -557,7 +557,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay"
+              href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-amber-400 hover:bg-amber-50/30 transition block space-y-1"
             >
               <span className="font-bold text-amber-950 block">【愛媛】道後温泉本館全館営業再開と松山城・鯛めし名宿</span>
@@ -565,7 +565,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay"
+              href="/winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-amber-400 hover:bg-amber-50/30 transition block space-y-1"
             >
               <span className="font-bold text-amber-950 block">【三重】伊勢神宮新春初詣と冬旬的矢かき・伊勢海老名宿</span>
@@ -584,7 +584,7 @@ ${faqList.map(item => `    {
           </p>
           <div className="pt-2 flex flex-wrap justify-center gap-3">
             <Link 
-              href="/features" 
+              href="/features/" 
               className="px-6 py-3 bg-white text-slate-900 hover:bg-slate-100 font-black text-xs md:text-sm rounded-xl shadow transition"
             >
               特集記事一覧を見る

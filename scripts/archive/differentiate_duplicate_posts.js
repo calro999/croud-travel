@@ -90,7 +90,7 @@ function differentiateDuplicates() {
   <ul class="space-y-1.5 text-xs">
     ${otherItems.map(other => `
       <li>
-        👉 <a href="/posts/${other.id}" class="text-emerald-700 hover:text-emerald-900 font-bold underline">
+        👉 <a href="/posts/${other.id}/" class="text-emerald-700 hover:text-emerald-900 font-bold underline">
           ${other.post.title || other.id}
         </a>
       </li>

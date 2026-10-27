@@ -212,7 +212,7 @@ ${faqList.map(f => `    {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-600 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-blue-600">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/features" className="hover:text-blue-600">特集一覧</Link>
+            <Link href="/features/" className="hover:text-blue-600">特集一覧</Link>
             <span>&gt;</span>
             <span className="text-slate-900 font-semibold">群馬・高崎＆榛名神社初詣・磯部温泉名宿</span>
           </div>
@@ -522,22 +522,22 @@ ${faqList.map(f => `    {
               <span>群馬および関東甲信越の冬の厳選温泉特集</span>
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
-              <Link href="/winter-gunma-manza-onsen-snow-milky-sulfur-starry-joshugyu-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
+              <Link href="/winter-gunma-manza-onsen-snow-milky-sulfur-starry-joshugyu-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
                 ♨️ 万座温泉・白濁硫黄泉と雪見星空名宿
               </Link>
-              <Link href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
+              <Link href="/winter-gunma-ikaho-stone-steps-joshu-beef-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
                 ♨️ 伊香保温泉石段街と黄金の湯名宿
               </Link>
-              <Link href="/winter-gunma-minakami-onsen-tanigawa-yukimi-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
+              <Link href="/winter-gunma-minakami-onsen-tanigawa-yukimi-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
                 ❄️ みなかみ温泉郷・谷川岳雪見露天名宿
               </Link>
-              <Link href="/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
+              <Link href="/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
                 🚣 秩父長瀞こたつ舟と宝登山ロウバイ名宿
               </Link>
-              <Link href="/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
+              <Link href="/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
                 🏔️ 安曇野＆大町温泉・北アルプス雪景色名宿
               </Link>
-              <Link href="/features" className="p-3 bg-amber-700 text-white rounded-xl font-bold hover:bg-amber-800 transition text-center flex items-center justify-center">
+              <Link href="/features/" className="p-3 bg-amber-700 text-white rounded-xl font-bold hover:bg-amber-800 transition text-center flex items-center justify-center">
                 ❄️ 全国の冬の厳選特集一覧を見る →
               </Link>
             </div>

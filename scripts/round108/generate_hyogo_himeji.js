@@ -504,42 +504,42 @@ ${faqList.map(item => `          {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay" 
+              href="/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-indigo-700 mb-1">赤穂温泉と坂越牡蠣インフィニティ風呂</div>
               <div className="text-slate-500 text-xs">瀬戸内海絶景の露天風呂と本場坂越の濃厚牡蠣づくし名宿</div>
             </Link>
             <Link 
-              href="/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay" 
+              href="/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-indigo-700 mb-1">倉敷美観地区冬夜景＆吉備津神社初詣</div>
               <div className="text-slate-500 text-xs">白壁の町並みライトアップと幻の千屋牛すき焼き名宿特集</div>
             </Link>
             <Link 
-              href="/winter-okayama-hinase-ushimado-oyster-kakioko-stay" 
+              href="/winter-okayama-hinase-ushimado-oyster-kakioko-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-indigo-700 mb-1">日生カキオコ＆牛窓オリーブ温泉</div>
               <div className="text-slate-500 text-xs">瀬戸内の冬名物カキオコと日本のエーゲ海リゾートステイ</div>
             </Link>
             <Link 
-              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay" 
+              href="/winter-hyogo-arima-onsen-kinsen-kobe-beef-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-indigo-700 mb-1">有馬温泉の金泉・銀泉と神戸牛</div>
               <div className="text-slate-500 text-xs">日本最古の名湯と極上神戸牛鉄板焼き・冬の贅沢温泉街散策</div>
             </Link>
             <Link 
-              href="/winter-hyogo-tanba-sasayama-botannabe-castle-stay" 
+              href="/winter-hyogo-tanba-sasayama-botannabe-castle-stay/" 
               className="p-4 rounded-2xl bg-white border border-slate-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <div className="font-bold text-slate-900 group-hover:text-indigo-700 mb-1">丹波篠山城下町と本場ぼたん鍋</div>
               <div className="text-slate-500 text-xs">丹波の冬の味覚・天然猪肉ぼたん鍋と歴史ある城下町ステイ</div>
             </Link>
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-indigo-950 text-white hover:bg-stone-950 transition-all block flex flex-col justify-center items-center text-center font-bold"
             >
               <span>全国の冬特集一覧を見る →</span>

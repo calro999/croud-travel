@@ -213,9 +213,9 @@ ${hotelCardsCode}
           <div className="max-w-5xl mx-auto flex items-center space-x-2">
             <Link href="/" className="hover:text-amber-600 transition">ホーム</Link>
             <span>/</span>
-            <Link href="/features" className="hover:text-amber-600 transition">特集一覧</Link>
+            <Link href="/features/" className="hover:text-amber-600 transition">特集一覧</Link>
             <span>/</span>
-            <Link href="/prefectures/chiba" className="hover:text-amber-600 transition">千葉県</Link>
+            <Link href="/prefectures/chiba/" className="hover:text-amber-600 transition">千葉県</Link>
             <span>/</span>
             <span className="text-stone-800 font-medium">南房総水仙ロード＆安房神社初詣</span>
           </div>
@@ -559,10 +559,10 @@ ${hotelCardsCode}
               江月水仙ロードの可憐な花景色、安房神社の厳かな金運初詣、野島埼灯台の力強い初日の出、そして房総伊勢海老と金目鯛姿煮。温暖な黒潮の風に抱かれ、本州で一足早く春の温もりを感じる開運冬旅へ出かけてみませんか。
             </p>
             <div className="flex flex-wrap items-center justify-center gap-3 text-xs">
-              <Link href="/features" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
+              <Link href="/features/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">
                 ← 特集一覧に戻る
               </Link>
-              <Link href="/prefectures/chiba" className="px-4 py-2 rounded-full bg-amber-50 hover:bg-amber-100 text-amber-700 font-semibold transition">
+              <Link href="/prefectures/chiba/" className="px-4 py-2 rounded-full bg-amber-50 hover:bg-amber-100 text-amber-700 font-semibold transition">
                 千葉県の旅行ガイド・宿一覧
               </Link>
               <Link href="/" className="px-4 py-2 rounded-full bg-stone-100 hover:bg-stone-200 text-stone-700 transition">

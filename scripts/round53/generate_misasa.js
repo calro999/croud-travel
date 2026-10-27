@@ -645,49 +645,49 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs sm:text-sm">
             <Link 
-              href="/prefectures/tottori" 
+              href="/prefectures/tottori/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-rose-50 hover:text-rose-700 transition font-medium border border-stone-100"
             >
               鳥取県の温泉宿・ホテル一覧 →
             </Link>
             <Link 
-              href="/winter-crab-gourmet" 
+              href="/winter-crab-gourmet/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-rose-50 hover:text-rose-700 transition font-medium border border-stone-100"
             >
               冬の極上カニグルメ宿特集 →
             </Link>
             <Link 
-              href="/winter-echizen-crab-taiza-luxury-stay" 
+              href="/winter-echizen-crab-taiza-luxury-stay/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-rose-50 hover:text-rose-700 transition font-medium border border-stone-100"
             >
               越前ガニ・間人ガニ特集 →
             </Link>
             <Link 
-              href="/prefectures/shimane" 
+              href="/prefectures/shimane/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-rose-50 hover:text-rose-700 transition font-medium border border-stone-100"
             >
               島根県（玉造温泉等）の宿 →
             </Link>
             <Link 
-              href="/prefectures/hyogo" 
+              href="/prefectures/hyogo/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-rose-50 hover:text-rose-700 transition font-medium border border-stone-100"
             >
               兵庫県（城崎・有馬温泉）の宿 →
             </Link>
             <Link 
-              href="/prefectures/okayama" 
+              href="/prefectures/okayama/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-rose-50 hover:text-rose-700 transition font-medium border border-stone-100"
             >
               岡山県（湯原・美作）の宿 →
             </Link>
             <Link 
-              href="/winter-snow-onsen" 
+              href="/winter-snow-onsen/" 
               className="p-3 rounded-xl bg-stone-50 hover:bg-rose-50 hover:text-rose-700 transition font-medium border border-stone-100"
             >
               全国の雪見温泉宿特集 →
             </Link>
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-3 rounded-xl bg-stone-900 text-white hover:bg-stone-800 transition font-bold text-center flex items-center justify-center gap-1"
             >
               <span>全国の特集一覧を見る</span>

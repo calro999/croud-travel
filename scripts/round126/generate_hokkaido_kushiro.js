@@ -541,7 +541,7 @@ ${faqList.map(item => `    {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm">
             <Link 
-              href="/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay"
+              href="/winter-hokkaido-tokachigawa-onsen-moor-swan-tokachi-beef-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-sky-400 hover:bg-sky-50/30 transition block space-y-1"
             >
               <span className="font-bold text-sky-950 block">【北海道】十勝川温泉植物性モール泉と白鳥飛来・十勝牛名宿</span>
@@ -549,7 +549,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay"
+              href="/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-sky-400 hover:bg-sky-50/30 transition block space-y-1"
             >
               <span className="font-bold text-sky-950 block">【北海道】函館湯の川温泉と冬の津軽海峡漁火・海鮮バイキング名宿</span>
@@ -557,7 +557,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay"
+              href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-sky-400 hover:bg-sky-50/30 transition block space-y-1"
             >
               <span className="font-bold text-sky-950 block">【青森】八戸蕪島神社初詣と八食センター・銀鯖名宿</span>
@@ -565,7 +565,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay"
+              href="/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay/"
               className="p-4 rounded-xl border border-slate-200 hover:border-sky-400 hover:bg-sky-50/30 transition block space-y-1"
             >
               <span className="font-bold text-sky-950 block">【宮城】鹽竈神社初詣と松島雪景色・三陸牡蠣名宿</span>
@@ -584,7 +584,7 @@ ${faqList.map(item => `    {
           </p>
           <div className="pt-2 flex flex-wrap justify-center gap-3">
             <Link 
-              href="/features" 
+              href="/features/" 
               className="px-6 py-3 bg-white text-slate-900 hover:bg-slate-100 font-black text-xs md:text-sm rounded-xl shadow transition"
             >
               特集記事一覧を見る

@@ -541,7 +541,7 @@ ${faqList.map(item => `    {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm mb-8">
             <Link 
-              href="/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay"
+              href="/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-teal-500 transition hover:shadow-md group block"
             >
               <div className="text-teal-600 font-bold text-xs mb-1">東京・高尾山＆八王子</div>
@@ -554,7 +554,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay"
+              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-teal-500 transition hover:shadow-md group block"
             >
               <div className="text-teal-600 font-bold text-xs mb-1">神奈川・鎌倉＆江の島</div>
@@ -567,7 +567,7 @@ ${faqList.map(item => `    {
             </Link>
 
             <Link 
-              href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay"
+              href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay/"
               className="bg-white p-4 rounded-xl border border-slate-200 hover:border-teal-500 transition hover:shadow-md group block"
             >
               <div className="text-teal-600 font-bold text-xs mb-1">神奈川・箱根＆芦ノ湖</div>
@@ -583,9 +583,9 @@ ${faqList.map(item => `    {
           <div className="flex flex-wrap justify-center gap-4 text-xs font-semibold text-slate-600">
             <Link href="/" className="hover:text-teal-600 underline">ホーム</Link>
             <span>•</span>
-            <Link href="/features" className="hover:text-teal-600 underline">特集一覧</Link>
+            <Link href="/features/" className="hover:text-teal-600 underline">特集一覧</Link>
             <span>•</span>
-            <Link href="/posts" className="hover:text-teal-600 underline">記事一覧カタログ</Link>
+            <Link href="/posts/" className="hover:text-teal-600 underline">記事一覧カタログ</Link>
           </div>
         </div>
       </section>

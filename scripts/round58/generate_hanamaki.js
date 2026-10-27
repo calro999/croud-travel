@@ -629,7 +629,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3.5 text-xs sm:text-sm">
             <Link
-              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay"
+              href="/winter-akita-nyuto-onsen-yukimi-kiritanpo-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-indigo-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-indigo-700 mb-1">
@@ -641,7 +641,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay"
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-indigo-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-indigo-700 mb-1">
@@ -653,7 +653,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-zao-snow-monster-ice-tree-stay"
+              href="/winter-zao-snow-monster-ice-tree-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-indigo-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-indigo-700 mb-1">
@@ -665,7 +665,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-aomori-sukayu-hakkoda-yukimi-stay"
+              href="/winter-aomori-sukayu-hakkoda-yukimi-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-indigo-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-indigo-700 mb-1">
@@ -677,7 +677,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay"
+              href="/winter-fukushima-aizu-higashiyama-snow-heritage-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-indigo-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-indigo-700 mb-1">
@@ -689,7 +689,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/features"
+              href="/features/"
               className="p-3.5 bg-indigo-50/70 rounded-xl border border-indigo-200 hover:bg-indigo-100/70 transition-all flex flex-col justify-center items-center text-center group"
             >
               <div className="font-bold text-indigo-900 mb-1">

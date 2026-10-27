@@ -222,7 +222,7 @@ ${hotelCardsCode}
         <ol className="flex items-center space-x-2">
           <li><Link href="/" className="hover:text-teal-600 transition">ホーム</Link></li>
           <li><span>/</span></li>
-          <li><Link href="/features" className="hover:text-teal-600 transition">特集一覧</Link></li>
+          <li><Link href="/features/" className="hover:text-teal-600 transition">特集一覧</Link></li>
           <li><span>/</span></li>
           <li className="text-slate-800 font-medium truncate">大宮氷川神社初詣＆けやきひろば宿</li>
         </ol>
@@ -545,42 +545,42 @@ ${hotelCardsCode}
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 pt-2">
             <Link 
-              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay"
+              href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-teal-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">秩父夜祭の屋台曳行＆長瀞雪景色！武州牛と美肌温泉宿</span>
               <span className="text-[11px] text-teal-600 font-medium mt-2 flex items-center gap-1">埼玉・秩父特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay"
+              href="/winter-saitama-kawagoe-koedo-kitain-daruma-unagi-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-teal-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">小江戸川越喜多院初詣＆だるま市！名物うなぎと蔵造り宿</span>
               <span className="text-[11px] text-teal-600 font-medium mt-2 flex items-center gap-1">埼玉・川越特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay"
+              href="/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-teal-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">お台場レインボー花火＆豊洲千客万来！東京ベイ夜景と温泉宿</span>
               <span className="text-[11px] text-teal-600 font-medium mt-2 flex items-center gap-1">東京・お台場豊洲特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay"
+              href="/winter-tochigi-ashikaga-flowerpark-sano-yakuyoke-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-teal-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">あしかがフラワーパーク日本三大イルミ＆佐野厄除け大師初詣宿</span>
               <span className="text-[11px] text-teal-600 font-medium mt-2 flex items-center gap-1">栃木・足利佐野特集を読む →</span>
             </Link>
             <Link 
-              href="/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay"
+              href="/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay/"
               className="bg-white p-3.5 rounded-2xl border border-slate-200 hover:border-teal-400 hover:shadow-xs transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-slate-800 line-clamp-2">筑波山神社新春初詣＆関東平野大夜景！常陸牛と天然温泉宿</span>
               <span className="text-[11px] text-teal-600 font-medium mt-2 flex items-center gap-1">茨城・筑波山特集を読む →</span>
             </Link>
             <Link 
-              href="/features"
+              href="/features/"
               className="bg-teal-50 p-3.5 rounded-2xl border border-teal-200 hover:bg-teal-100 transition flex flex-col justify-between"
             >
               <span className="font-bold text-xs sm:text-sm text-teal-900 line-clamp-2">全国の冬旅・新春初詣＆温泉特選特集一覧</span>

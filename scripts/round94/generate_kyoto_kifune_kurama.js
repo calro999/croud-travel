@@ -547,21 +547,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-kyoto-arashiyama-onsen-yudofu-stay" 
+              href="/winter-kyoto-arashiyama-onsen-yudofu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-rose-700 font-bold block text-[10px]">京都・嵐山温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">渡月橋と竹林の小径の冬景色・名物湯豆腐と京都牛会席を味わう温泉旅館</p>
             </Link>
             <Link 
-              href="/winter-kyoto-amanohashidate-matsuba-crab-stay" 
+              href="/winter-kyoto-amanohashidate-matsuba-crab-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-rose-700 font-bold block text-[10px]">京都・天橋立</span>
               <p className="font-bold text-stone-800 line-clamp-2">日本三景天橋立の冬絶景と幻の間人ガニ・最高峰松葉ガニづくしの名宿</p>
             </Link>
             <Link 
-              href="/winter-shiga-ogoto-onsen-biwako-omigyu-stay" 
+              href="/winter-shiga-ogoto-onsen-biwako-omigyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-rose-700 font-bold block text-[10px]">滋賀・おごと温泉</span>

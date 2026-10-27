@@ -571,7 +571,7 @@ def main():
             clean_title = re.sub(r'【.*?】', '', o_title).strip()
             other_links_jsx.append(f"""
               <li>
-                <Link href="/{o_slug}" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+                <Link href="/{o_slug}/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                   <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                   <span>{clean_title}</span>
                 </Link>
@@ -835,26 +835,26 @@ export default function FeaturePage() {{
             </h3>
             <ul className="grid grid-cols-1 sm:grid-cols-2 gap-3">
               <li>
-                <Link href="/prefectures/{pref}" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+                <Link href="/prefectures/{pref}/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                   <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                   <span>{pref_ja}のおすすめ観光名所＆温泉宿一覧</span>
                 </Link>
               </li>
               <li>
-                <Link href="/features" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+                <Link href="/features/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                   <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                   <span>全国の季節・目的別旅行特集一覧</span>
                 </Link>
               </li>
 {all_links_jsx_str}
               <li>
-                <Link href="/furusato-tax-luxury-hotspring-ryokan-stay" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+                <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                   <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                   <span>実質2,000円で泊まる名湯・高級温泉旅館ガイド</span>
                 </Link>
               </li>
               <li>
-                <Link href="/furusato-tax-local-gourmet-inn-stay" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
+                <Link href="/furusato-tax-local-gourmet-inn-stay/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">
                   <ChevronRight className="w-4 h-4 text-cyan-600 shrink-0" />
                   <span>ご当地グルメを堪能する全国美食旅特集</span>
                 </Link>
@@ -989,10 +989,10 @@ A. {a_text}""")
 ## あわせて読みたい関連特集
 
 - [{pref_ja}のおすすめ観光名所＆温泉宿一覧](https://croud-travel.pages.dev/prefectures/{pref})
-- [全国の季節・目的別旅行特集一覧](https://croud-travel.pages.dev/features)
+- [全国の季節・目的別旅行特集一覧](https://croud-travel.pages.dev/features/)
 {all_note_links_str}
-- [実質2,000円で泊まる名湯・高級温泉旅館ガイド](https://croud-travel.pages.dev/furusato-tax-luxury-hotspring-ryokan-stay)
-- [ご当地グルメを堪能する全国美食旅特集](https://croud-travel.pages.dev/furusato-tax-local-gourmet-inn-stay)
+- [実質2,000円で泊まる名湯・高級温泉旅館ガイド](https://croud-travel.pages.dev/furusato-tax-luxury-hotspring-ryokan-stay/)
+- [ご当地グルメを堪能する全国美食旅特集](https://croud-travel.pages.dev/furusato-tax-local-gourmet-inn-stay/)
 """
 
         note_file = f"note-{note_num}.md"

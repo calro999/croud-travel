@@ -566,28 +566,28 @@ ${hotelCardsCode}
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
             <Link 
-              href="/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay" 
+              href="/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>東京お台場花火＆豊洲千客万来！ベイエリア夜景と天然温泉名宿</span>
               <span className="text-amber-300">→</span>
             </Link>
             <Link 
-              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay" 
+              href="/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>鎌倉・江の島「湘南の宝石」イルミネーション＆初詣！富士絶景宿</span>
               <span className="text-amber-300">→</span>
             </Link>
             <Link 
-              href="/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay" 
+              href="/winter-hyogo-kobe-port-ikuta-shrine-luminarie-beef-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>神戸港＆ルミナリエ！生田神社初詣と極上神戸牛の名宿</span>
               <span className="text-amber-300">→</span>
             </Link>
             <Link 
-              href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay" 
+              href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay/" 
               className="bg-white/10 hover:bg-white/20 p-3.5 rounded-xl border border-white/10 transition-colors text-xs sm:text-sm font-medium flex items-center justify-between"
             >
               <span>箱根湯本＆芦ノ湖！冬の富士山絶景と箱根神社初詣の名湯宿</span>

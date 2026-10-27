@@ -123,6 +123,10 @@ export default function RootLayout({
                 <span>🗾 47都道府県の見所</span>
               </Link>
               <span className="text-emerald-950/20">/</span>
+              <Link href="/winter-travel-special/" className="text-sky-800 hover:text-sky-600 transition flex items-center gap-1 font-black">
+                <span>❄️ 冬温泉＆カニ特集</span>
+              </Link>
+              <span className="text-emerald-950/20">/</span>
               <Link href="/features/" className="text-teal-800 hover:text-teal-600 transition flex items-center gap-1 font-black">
                 <span>✨ 特集・まとめ</span>
               </Link>

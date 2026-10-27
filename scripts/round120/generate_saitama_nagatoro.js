@@ -212,7 +212,7 @@ ${faqList.map(f => `    {
           <div className="max-w-6xl mx-auto px-4 py-3 text-xs md:text-sm text-slate-600 flex items-center gap-2 overflow-x-auto whitespace-nowrap">
             <Link href="/" className="hover:text-blue-600">ホーム</Link>
             <span>&gt;</span>
-            <Link href="/features" className="hover:text-blue-600">特集一覧</Link>
+            <Link href="/features/" className="hover:text-blue-600">特集一覧</Link>
             <span>&gt;</span>
             <span className="text-slate-900 font-semibold">埼玉・長瀞＆宝登山 ロウバイ園＆こたつ舟名宿</span>
           </div>
@@ -529,7 +529,7 @@ ${faqList.map(f => `    {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               <Link
-                href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay"
+                href="/winter-saitama-chichibu-onsen-yomatsuri-nagatoro-bushugyu-stay/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-amber-400 text-xs font-bold block mb-1">秩父特集</span>
@@ -537,7 +537,7 @@ ${faqList.map(f => `    {
                 <span className="text-xs text-slate-300">日本三大曳山祭りの熱気と秩父温泉郷の名宿…</span>
               </Link>
               <Link
-                href="/features"
+                href="/features/"
                 className="bg-white/10 hover:bg-white/20 p-4 rounded-xl border border-white/10 transition-colors block"
               >
                 <span className="text-cyan-400 text-xs font-bold block mb-1">特集一覧</span>

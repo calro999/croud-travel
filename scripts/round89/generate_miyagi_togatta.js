@@ -570,7 +570,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
-              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay"
+              href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md">宮城・秋保温泉</span>
@@ -580,7 +580,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay"
+              href="/winter-miyagi-sakunami-onsen-yukimi-sendai-beef-serinabe-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md">宮城・作並温泉</span>
@@ -590,7 +590,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay"
+              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md">山形・蔵王温泉</span>
@@ -600,7 +600,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay"
+              href="/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md">福島・磐梯熱海温泉</span>
@@ -610,7 +610,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay"
+              href="/winter-miyagi-matsushima-onsen-kaki-matsushimawan-view-stay/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md">宮城・松島温泉</span>
@@ -620,7 +620,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/features"
+              href="/features/"
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2 flex flex-col justify-center items-center text-center"
             >
               <span className="text-xs font-bold text-blue-700">全国の旬の温泉特集一覧へ</span>

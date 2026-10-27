@@ -27,7 +27,9 @@ interface Post {
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.dev";
 
 export const metadata: Metadata = {
-  title: "日本全国の厳選宿・温泉旅館・ホテル一覧 ｜ 楽天トラベルで予約 ｜ 旅宿クラウド",
+  title: {
+    absolute: "日本全国・旅宿クラウド｜楽天トラベルでめぐる厳選温泉宿・観光マガジン",
+  },
   description:
     "北海道から沖縄まで47都道府県の温泉宿・高級ホテル・リゾートを旅ライターが厳選紹介。楽天トラベルで今すぐ空室確認・予約可能。ひとり旅・出張・サウナ・カップル・女子旅など旅のテーマ別に検索できます。",
   keywords: [
@@ -202,10 +204,10 @@ export default function Home() {
             <p className="text-xs text-emerald-950/70 line-clamp-2">寄付額の最大30%クーポン進呈。あとから予約への適用も可能な大人気制度。</p>
           </Link>
 
-          <Link href="/campaigns/" className="group bg-white p-5 rounded-2xl border border-amber-500/20 shadow-sm hover:shadow-md transition space-y-2">
-            <span className="text-[9px] font-extrabold text-emerald-800 bg-emerald-100 px-2.5 py-0.5 rounded-full inline-block">期間限定セール</span>
-            <h3 className="text-sm font-bold text-emerald-950 group-hover:text-emerald-800 transition">サマーセール＆季節の感謝祭</h3>
-            <p className="text-xs text-emerald-950/70 line-clamp-2">半額プラン多数＆限定1万円クーポン配布中。季節の旅がお得に。</p>
+          <Link href="/winter-travel-special/" className="group bg-white p-5 rounded-2xl border border-sky-500/20 shadow-sm hover:shadow-md transition space-y-2">
+            <span className="text-[9px] font-extrabold text-sky-800 bg-sky-100 px-2.5 py-0.5 rounded-full inline-block">秋冬〜年末年始特設</span>
+            <h3 className="text-sm font-bold text-emerald-950 group-hover:text-sky-800 transition">冬の絶景温泉＆冬の味覚（カニ・フグ）特集</h3>
+            <p className="text-xs text-emerald-950/70 line-clamp-2">越前がに・松葉ガニ解禁、雪見露天風呂、イルミネーション＆年末年始おすすめ宿。</p>
           </Link>
         </div>
       </section>

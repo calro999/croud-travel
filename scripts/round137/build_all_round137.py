@@ -480,7 +480,7 @@ def build_all():
                     "@type": "ListItem",
                     "position": 2,
                     "name": "特集一覧",
-                    "item": "https://croud-travel.pages.dev/features"
+                    "item": "https://croud-travel.pages.dev/features/"
                 },
                 {
                     "@type": "ListItem",
@@ -705,12 +705,12 @@ export default function FeaturePage() {{
             ホーム
           </Link>
           <ChevronRight className="w-3 h-3 text-stone-400" />
-          <Link href="/features" className="hover:text-stone-900 transition-colors">
+          <Link href="/features/" className="hover:text-stone-900 transition-colors">
             特集一覧
           </Link>
           <ChevronRight className="w-3 h-3 text-stone-400" />
           <Link
-            href="/prefectures/{pref}"
+            href="/prefectures/{pref}/"
             className="hover:text-stone-900 transition-colors"
           >
             {pref_ja}
@@ -885,28 +885,28 @@ export default function FeaturePage() {{
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               <Link
-                href="/prefectures/{pref}"
+                href="/prefectures/{pref}/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>{pref_ja}のおすすめ温泉宿・ホテル一覧</span>
                 <ChevronRight className="w-4 h-4 text-stone-400" />
               </Link>
               <Link
-                href="/features"
+                href="/features/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>全国の季節・目的別厳選特集一覧</span>
                 <ChevronRight className="w-4 h-4 text-stone-400" />
               </Link>
               <Link
-                href="/furusato-tax-luxury-hotspring-ryokan-stay"
+                href="/furusato-tax-luxury-hotspring-ryokan-stay/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>実質2,000円で泊まる高級温泉旅館ガイド</span>
                 <ChevronRight className="w-4 h-4 text-stone-400" />
               </Link>
               <Link
-                href="/furusato-tax-local-gourmet-inn-stay"
+                href="/furusato-tax-local-gourmet-inn-stay/"
                 className="p-3 rounded-xl bg-stone-50 hover:bg-cyan-50 hover:text-cyan-800 transition-colors flex items-center justify-between font-medium text-stone-700 border border-stone-200/60"
               >
                 <span>ご当地グルメを堪能する全国美食旅特集</span>
@@ -1028,9 +1028,9 @@ A. {a}""")
 ## あわせて読みたい関連特集
 
 - [{pref_ja}のおすすめ観光名所＆温泉宿一覧](https://croud-travel.pages.dev/prefectures/{pref})
-- [全国の季節・目的別旅行特集一覧](https://croud-travel.pages.dev/features)
-- [実質2,000円で泊まる名湯・高級温泉旅館ガイド](https://croud-travel.pages.dev/furusato-tax-luxury-hotspring-ryokan-stay)
-- [ご当地グルメを堪能する全国美食旅特集](https://croud-travel.pages.dev/furusato-tax-local-gourmet-inn-stay)
+- [全国の季節・目的別旅行特集一覧](https://croud-travel.pages.dev/features/)
+- [実質2,000円で泊まる名湯・高級温泉旅館ガイド](https://croud-travel.pages.dev/furusato-tax-luxury-hotspring-ryokan-stay/)
+- [ご当地グルメを堪能する全国美食旅特集](https://croud-travel.pages.dev/furusato-tax-local-gourmet-inn-stay/)
 - [本記事のWebサイト版（高画質フォト・最新空室検索）](https://croud-travel.pages.dev/{slug})
 """
 

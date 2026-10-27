@@ -564,42 +564,42 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay" 
+              href="/winter-hyogo-ako-onsen-sakoshi-oyster-infinity-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">兵庫・赤穂温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">坂越牡蠣とインフィニティ露天風呂・播磨灘の絶景を望む名宿</p>
             </Link>
             <Link 
-              href="/winter-hiroshima-miyajima-etajima-oyster-onsen-stay" 
+              href="/winter-hiroshima-miyajima-etajima-oyster-onsen-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">広島・宮島＆江田島</span>
               <p className="font-bold text-stone-800 line-clamp-2">冬の旬広島牡蠣と厳島神社初詣・江田島オリーブ温泉の名宿</p>
             </Link>
             <Link 
-              href="/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay" 
+              href="/winter-okayama-yubara-onsen-sunayu-hiruzen-wagyu-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">岡山・湯原温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">名泉砂湯の雪見露天風呂と蒜山和牛・美作の山里温泉ステイ</p>
             </Link>
             <Link 
-              href="/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay" 
+              href="/winter-kagawa-shodoshima-onsen-kankakei-olive-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">香川・小豆島温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">寒霞渓の冬景色とオリーブ牛・海を望むオリーブ温泉リゾート</p>
             </Link>
             <Link 
-              href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay" 
+              href="/winter-tokushima-naruto-onsen-uzushio-naruto-tai-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">徳島・鳴門温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">冬の渦潮と鳴門鯛・阿波牛を味わうオーシャンビュー温泉宿</p>
             </Link>
             <Link 
-              href="/winter-tottori-misasa-onsen-matsuba-crab-stay" 
+              href="/winter-tottori-misasa-onsen-matsuba-crab-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-sky-700 font-bold block text-[10px]">鳥取・三朝温泉</span>

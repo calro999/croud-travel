@@ -208,7 +208,7 @@ ${hotelCardsCode}
       <nav aria-label="Breadcrumb" className="max-w-5xl mx-auto px-4 py-4 text-xs font-semibold text-stone-500 flex items-center gap-2">
         <Link href="/" className="hover:text-red-700 transition">ホーム</Link>
         <span>/</span>
-        <Link href="/features" className="hover:text-red-700 transition">特集一覧</Link>
+        <Link href="/features/" className="hover:text-red-700 transition">特集一覧</Link>
         <span>/</span>
         <span className="text-stone-800">鹿児島・出水＆阿久根・ツル渡来地と黒豚名宿</span>
       </nav>
@@ -501,19 +501,19 @@ ${hotelCardsCode}
             あわせて読みたい！九州の冬旅＆名湯特集
           </h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
-            <Link href="/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
+            <Link href="/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay/" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
               ♨️ 霧島温泉郷！霧島神宮初詣と黒豚しゃぶしゃぶ名宿
             </Link>
-            <Link href="/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
+            <Link href="/winter-kagoshima-ibusuki-onsen-sunamushi-black-pork-stay/" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
               🏖️ 指宿温泉！天然砂むし温泉と開聞岳絶景・黒豚ステイ
             </Link>
-            <Link href="/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
+            <Link href="/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay/" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
               ⛰️ 人吉温泉＆球磨川の朝霧・国宝青井阿蘇神社初詣
             </Link>
-            <Link href="/winter-kumamoto-kurokawa-onsen-yuakari-stay" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
+            <Link href="/winter-kumamoto-kurokawa-onsen-yuakari-stay/" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
               🏮 黒川温泉湯あかり！竹灯籠イルミネーションと露天巡り
             </Link>
-            <Link href="/campaigns/autumn-gourmet-travel" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
+            <Link href="/campaigns/autumn-gourmet-travel/" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
               🍁 全国の旬の味覚＆極上温泉宿特集まとめ
             </Link>
           </div>

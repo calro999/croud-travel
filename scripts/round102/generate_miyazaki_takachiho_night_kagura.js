@@ -582,7 +582,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay" 
+              href="/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-800 font-bold text-xs block mb-1">佐賀・太良＆嬉野</span>
@@ -592,7 +592,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay" 
+              href="/winter-tokushima-iya-valley-kazurabashi-snow-onsen-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-800 font-bold text-xs block mb-1">徳島・祖谷渓谷＆大歩危</span>
@@ -602,7 +602,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay" 
+              href="/winter-tottori-sakaiminato-kaike-onsen-matsubagani-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-800 font-bold text-xs block mb-1">鳥取・境港＆皆生温泉</span>
@@ -612,7 +612,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay" 
+              href="/winter-shizuoka-shimoda-tsumekizaki-suisen-kinmedai-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-800 font-bold text-xs block mb-1">静岡・下田＆爪木崎</span>
@@ -622,7 +622,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay" 
+              href="/winter-okinawa-ishigaki-kabilabay-starrysky-beef-resort-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-rose-800 font-bold text-xs block mb-1">沖縄・石垣島＆川平湾</span>
@@ -632,7 +632,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/features" 
+              href="/features/" 
               className="p-4 rounded-2xl bg-gradient-to-br from-rose-900 to-slate-950 text-white hover:opacity-95 transition-all group block flex flex-col justify-between"
             >
               <div>

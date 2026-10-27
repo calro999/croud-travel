@@ -530,7 +530,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-2">
             <Link 
-              href="/winter-nagano-kakeyu-onsen-toji-shinshugyu-stay"
+              href="/winter-nagano-kakeyu-onsen-toji-shinshugyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">長野・上田鹿教湯</span>
@@ -543,7 +543,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-nagano-yamada-matsukawa-keikoku-onsen-shinshugyu-stay"
+              href="/winter-nagano-yamada-matsukawa-keikoku-onsen-shinshugyu-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">長野・信州高山</span>
@@ -556,7 +556,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-nagano-achimura-hirugami-starry-sky-stay"
+              href="/winter-nagano-achimura-hirugami-starry-sky-stay/"
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">長野・阿智村昼神</span>

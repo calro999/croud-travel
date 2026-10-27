@@ -569,7 +569,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <Link 
-              href="/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay" 
+              href="/winter-saga-tara-takezaki-crab-yutoku-inari-ureshino-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-700 font-bold text-xs block mb-1">佐賀・祐徳稲荷＆嬉野</span>
@@ -579,7 +579,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-nagasaki-city-inasayama-nightview-glover-champon-stay" 
+              href="/winter-nagasaki-city-inasayama-nightview-glover-champon-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-700 font-bold text-xs block mb-1">長崎・稲佐山夜景</span>
@@ -589,7 +589,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay" 
+              href="/winter-miyazaki-takachiho-night-kagura-beef-onsen-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-700 font-bold text-xs block mb-1">宮崎・高千穂峡</span>
@@ -599,7 +599,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay" 
+              href="/winter-kumamoto-kurokawa-onsen-yuakari-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-700 font-bold text-xs block mb-1">熊本・黒川温泉</span>
@@ -609,7 +609,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-fukuoka-itoshima-oyster-hakata-fugu-stay" 
+              href="/winter-fukuoka-itoshima-oyster-hakata-fugu-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-700 font-bold text-xs block mb-1">福岡・糸島＆博多</span>
@@ -619,7 +619,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link 
-              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay" 
+              href="/winter-mie-ise-jingu-hatsumode-okageyokocho-iseebi-matsusaka-stay/" 
               className="p-4 rounded-2xl bg-white border border-stone-200 hover:border-indigo-400 hover:shadow-xs transition-all group block"
             >
               <span className="text-indigo-700 font-bold text-xs block mb-1">三重・伊勢神宮</span>

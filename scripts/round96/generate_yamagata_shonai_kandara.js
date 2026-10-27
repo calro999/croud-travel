@@ -564,21 +564,21 @@ ${hotelCardsCode}
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs">
             <Link 
-              href="/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay" 
+              href="/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">山形・肘折温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">豪雪の秘湯肘折温泉と冬の湯治文化・山形牛すき焼き＆雪見露天の宿</p>
             </Link>
             <Link 
-              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay" 
+              href="/winter-yamagata-ginzan-onsen-snow-taisho-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">山形・銀山温泉</span>
               <p className="font-bold text-stone-800 line-clamp-2">大正ロマンのガス灯と雪景色の温泉街・尾花沢牛と名湯に浸る極上宿</p>
             </Link>
             <Link 
-              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay" 
+              href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/" 
               className="bg-white p-4 rounded-xl shadow-2xs hover:shadow-xs transition border border-stone-200/60 block space-y-1"
             >
               <span className="text-indigo-700 font-bold block text-[10px]">山形・蔵王温泉</span>

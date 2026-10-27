@@ -648,7 +648,7 @@ ${hotelCardsCode}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3.5 text-xs sm:text-sm">
             <Link
-              href="/winter-shirakawago-gassho-snow-illumination-stay"
+              href="/winter-shirakawago-gassho-snow-illumination-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-emerald-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-emerald-700 mb-1">
@@ -660,7 +660,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay"
+              href="/winter-gifu-gero-onsen-fireworks-hida-beef-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-emerald-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-emerald-700 mb-1">
@@ -672,7 +672,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-toyama-himi-kanburi-luxury-stay"
+              href="/winter-toyama-himi-kanburi-luxury-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-emerald-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-emerald-700 mb-1">
@@ -684,7 +684,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay"
+              href="/winter-nagano-nozawa-onsen-powder-snow-sotoyu-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-emerald-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-emerald-700 mb-1">
@@ -696,7 +696,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/winter-gunma-kusatsu-yukimi-onsen-stay"
+              href="/winter-gunma-kusatsu-yukimi-onsen-stay/"
               className="p-3.5 bg-white rounded-xl border border-stone-200/80 hover:border-emerald-500 hover:shadow-sm transition-all group"
             >
               <div className="font-bold text-stone-900 group-hover:text-emerald-700 mb-1">
@@ -708,7 +708,7 @@ ${hotelCardsCode}
             </Link>
 
             <Link
-              href="/features"
+              href="/features/"
               className="p-3.5 bg-emerald-50/70 rounded-xl border border-emerald-200 hover:bg-emerald-100/70 transition-all flex flex-col justify-center items-center text-center group"
             >
               <div className="font-bold text-emerald-900 mb-1">
