@@ -167,3 +167,4 @@ showcase_miyagi
 october-travel-city-kisarazu-futtsu-kids-family-guide
 showcase_oita
 japan-local-sake-brewery-onsen-hotels-guide
+showcase_miyagi
