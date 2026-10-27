@@ -1,4 +1,4 @@
-# 全国・複数県の宿泊・観光記事（477件）
+# 全国・複数県の宿泊・観光記事（478件）
 
 ## 【11月名建築と絶景の旅】箱根クラシックの紅葉から四万温泉積善館・鳥取皆生インフィニティ・定山渓隠れ家へ！楽天トラベル★4.6〜4.7超の名宿4選
 - 記事: https://croud-travel.pages.dev/posts/note-263/
@@ -11,6 +11,14 @@
 ## 【11月錦秋と美食の極み】雲仙仁田峠の紅葉から奥津渓足下湧出泉・天草車海老・指宿砂むし会席へ！楽天トラベル★4.6〜4.9超の名宿4選
 - 記事: https://croud-travel.pages.dev/posts/note-264/
 - 全文Markdown: https://croud-travel.pages.dev/ai/note-264.md
+- 宿泊施設名: undefined
+- エリア: 
+
+
+
+## 【11月光と庭園の極み】富士山雪嶺露天から御船山チームラボ紅葉・鳥羽パール温泉・長崎世界夜景へ！楽天トラベル★4.5〜4.7超の名宿4選
+- 記事: https://croud-travel.pages.dev/posts/note-265/
+- 全文Markdown: https://croud-travel.pages.dev/ai/note-265.md
 - 宿泊施設名: undefined
 - エリア: 
 
