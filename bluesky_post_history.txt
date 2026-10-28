@@ -177,3 +177,4 @@ showcase_kyoto
 bicarbonate-skin-trouble-remedy-beauty-hotels-guide
 showcase_hokkaido
 minamialps-shimobe-minobu-hotels-guide
+showcase_kanagawa
