@@ -1,4 +1,14 @@
-# 兵庫県の宿泊・観光記事（67件）
+# 兵庫県の宿泊・観光記事（68件）
+
+## 【兵庫・京都・福井】11月6日カニ漁解禁！越前がに・松葉がに初競りと本場タグ付き活蟹を極める山陰・北陸名湯露天の宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-crab-season-matsuba-echizen-onsen-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-crab-season-matsuba-echizen-onsen-hotels-guide.md
+- 宿泊施設名: カニ解禁！越前がに＆松葉がに 厳選名宿5選
+- エリア: 城崎温泉・あわら温泉・三国
+- 参考価格: ¥28000〜
+- 評価: 5
+
+毎年11月6日午前0時に一斉解禁される日本海の冬の王様・ズワイガニ漁。福井の「黄色タグ（越前がに）」、山陰の「青色・ピンクタグ（津居山・柴山・香住の松葉がに）」の初競りと本場活蟹フルコースを堪能できる城崎温泉・あわら温泉・三国温泉の極上名宿5選と、失敗しないカニ旅の選び方を徹底解説。
 
 ## 【有馬温泉】有馬グランドホテル宿泊ルポ！絶景大浴苑と極上の金泉・銀泉を満喫
 - 記事: https://croud-travel.pages.dev/posts/25128/
