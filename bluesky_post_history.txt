@@ -187,3 +187,4 @@ showcase_hyogo
 winter-shizuoka-izu-shuzenji-luxury-asaba-sora-onsen-stay
 showcase_aomori
 sapporo-otaru-jozankei-hotels-guide
+showcase_ishikawa
