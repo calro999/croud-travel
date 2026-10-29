@@ -183,3 +183,4 @@ showcase_nagano
 nishiyama-onsen-keiunkan-secret-spring-hotels-guide
 showcase_hokkaido
 autumn-ehime-dogo-onsen-matsuyama-taimeshi-guide
+showcase_hyogo
