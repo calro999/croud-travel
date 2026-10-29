@@ -319,6 +319,7 @@
 - [OKINAWA 観光名所・名物グルメ・人気温泉ホテル完全ガイド](https://croud-travel.pages.dev/prefectures/okinawa/)
 
 ## 最新厳選宿・観光ルポ記事
+- [【盛岡】ホテルグローバルビュー盛岡宿泊ルポ！駅近快適ステイと絶品手作り朝食の魅力](https://croud-travel.pages.dev/posts/153340/): ホテルグローバルビュー盛岡（旧：ＨＯＴＥＬ　ＪＩＮ盛岡駅前）（岩手県）
 - [【北海道観光】女子旅に人気のパワースポットと写真映えを満喫する旅！おすすめモデルコースと厳選宿](https://croud-travel.pages.dev/posts/28261/): 網走湖温泉　温泉旅館もとよし（北海道）
 - [【京都・東山】永観堂・清水寺・東福寺の紅葉ライトアップ夜間特別拝観！秋の古都を雅に歩く大人の特選名宿5選](https://croud-travel.pages.dev/posts/autumn-kyoto-momiji-lightup-eikando-kiyomizu-hotels-guide/): 京都紅葉ライトアップ周辺 厳選名宿5選（京都府）
 - [【佐賀・唐津】2026佐賀インターナショナルバルーンフェスタ＆唐津くんち完全攻略！秋空の熱気球と伝統曳山絵巻を特等席で楽しむ厳選名宿5選](https://croud-travel.pages.dev/posts/autumn-saga-balloon-karatsukunchi-hotels-guide/): 佐賀バルーンフェスタ＆唐津くんち周辺 厳選宿5選（佐賀県）
@@ -378,4 +379,3 @@
 - [の北海道・支笏湖で過ごす大人の冬旅！北海道産白老牛と冬の極上毛ガニと名湯で自分を甘やかす極上ステイ](https://croud-travel.pages.dev/posts/winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay/): 北海道・支笏湖 厳選おすすめ名宿（北海道）
 - [初冬の兵庫・有馬温泉で過ごす大人の冬旅！ミシュラン掲載の大人の最高峰高級旅館5選と名湯で自分を甘やかす極上ステイ](https://croud-travel.pages.dev/posts/winter-hyogo-arima-onsen-luxury-kinzan-gold-silver-kobe-beef-stay/): 兵庫・有馬温泉 厳選おすすめ名宿（兵庫）
 - [兵庫・城崎温泉で過ごす大人の冬旅！活松葉ガニフルコースと外湯めぐりと名湯で自分を甘やかす極上ステイ](https://croud-travel.pages.dev/posts/winter-hyogo-kinosaki-luxury-nishimuraya-mikiya-tsuiyamagani-stay/): 兵庫・城崎温泉 厳選おすすめ名宿（兵庫）
-- [の兵庫・西播磨で過ごす大人の冬旅！播磨灘オーシャンビュー温泉と名湯で自分を甘やかす極上ステイ](https://croud-travel.pages.dev/posts/winter-hyogo-tatsuno-murotsu-oyster-shinmaiko-sunset-aioi-onsen-stay/): 兵庫・西播磨 厳選おすすめ名宿（兵庫）
