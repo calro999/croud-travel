@@ -1,4 +1,14 @@
-# 滋賀県の宿泊・観光記事（37件）
+# 滋賀県の宿泊・観光記事（38件）
+
+## 【滋賀・湖東】湖東三山＆永源寺「錦秋の紅葉曼荼羅」完全攻略！日本紅葉名所100選と近江牛懐石、名湯・おごと温泉の絶景露天風呂を巡る厳選宿5選
+- 記事: https://croud-travel.pages.dev/posts/autumn-koto-sanzan-eigenji-momiji-ogoto-onsen-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/autumn-koto-sanzan-eigenji-momiji-ogoto-onsen-hotels-guide.md
+- 宿泊施設名: 湖東三山＆永源寺錦秋紅葉周辺 厳選宿5選
+- エリア: 湖東・彦根・近江八幡・おごと温泉
+- 参考価格: ¥21900〜
+- 評価: 4.66
+
+11月中旬から下旬、鈴鹿山脈の西麓が燃えるような深紅に染まる滋賀の名刹「湖東三山（西明寺・金剛輪寺・百済寺）」と大本山「永源寺」。金剛輪寺の『血染めのもみじ』や西明寺の不断桜と紅葉の奇跡の共演、彦根城玄宮園ライトアップを巡る大人旅。日本三大和牛・近江牛の本格会席と、びわ湖の絶景を望むおごと温泉・彦根の厳選名宿5選を徹底解説。
 
 ## 冬休みの琵琶湖びわ湖バレイ雪遊び＆雄琴温泉家族旅行！絶景びわ湖テラスと近江牛すき焼き名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-family-shiga-biwako-snow-ski-guide/

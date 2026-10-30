@@ -1,4 +1,14 @@
-# 長野県の宿泊・観光記事（98件）
+# 長野県の宿泊・観光記事（99件）
+
+## 【長野・松本】国宝松本城 天守ナイトイルミネーション＆晩秋の信州アルプス完全攻略！漆黒の名城を彩る光のレーザーと浅間温泉・美ヶ原温泉の名湯巡る厳選宿5選
+- 記事: https://croud-travel.pages.dev/posts/autumn-winter-matsumoto-castle-night-illumination-onsen-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/autumn-winter-matsumoto-castle-night-illumination-onsen-hotels-guide.md
+- 宿泊施設名: 国宝松本城ナイトイルミネーション周辺 厳選宿5選
+- エリア: 松本・浅間温泉・美ヶ原温泉
+- 参考価格: ¥15950〜
+- 評価: 4.54
+
+11月下旬から冬にかけて開催される「松本城天守プロジェクションマッピング＆ナイトイルミネーション」。北アルプスの雪嶺を背に、現存五重天守の黒漆と白漆喰がお濠の水鏡とともに光のレーザーで幻想的に浮かび上がります。11月解禁の香り高い「信州新そば」、開湯1300年の名湯「浅間温泉」「美ヶ原温泉」、松本民芸家具が息づくクラシックホテルなど厳選5宿を徹底ガイド。
 
 ## 【長野県】ご当地絶品グルメと地酒巡り！美食と美酒に酔いしれる旅路
 - 記事: https://croud-travel.pages.dev/posts/1562/
