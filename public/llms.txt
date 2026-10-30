@@ -319,6 +319,7 @@
 - [OKINAWA 観光名所・名物グルメ・人気温泉ホテル完全ガイド](https://croud-travel.pages.dev/prefectures/okinawa/)
 
 ## 最新厳選宿・観光ルポ記事
+- [【山梨県】木曽福島温泉　山みず季　URARA　つたや宿泊ガイド！駅前に佇む高台の宿。＜美しい木曽の四・アクセス＆魅力ルポ](https://croud-travel.pages.dev/posts/5933/): 木曽福島温泉　山みず季　URARA　つたや（山梨県）
 - [茨城で過ごす特別な週末！カップルにおすすめの絶景と厳選宿3選](https://croud-travel.pages.dev/posts/6274/): 大洗パークホテル（２０２６年３月１日リニューアルオープン）（茨城県）
 - [【群馬】四万温泉シマブルー宿泊ルポ！渓流沿いグランピングコテージと源泉かけ流しステイ](https://croud-travel.pages.dev/posts/162764/): 四万温泉　シマブルー（群馬県）
 - [【京都】絶品グルメと地酒を巡る旅！古都の美食と温泉を愉しむ厳選宿泊ガイド](https://croud-travel.pages.dev/posts/183776/): 四条河原町温泉　空庭テラス京都　別邸（京都府）
@@ -378,4 +379,3 @@
 - [【2026年11月限定】信州「秋の新そば解禁」＆国宝松本城の三段紅葉特選名宿5選](https://croud-travel.pages.dev/posts/autumn-november-shinshu-soba-matsumoto-guide/): 信州 松本城三段紅葉＆手打ち新そば特選宿（長野県）
 - [【11月解禁！南紀白浜クエ旅】冬の味覚の王様「紀州本クエ」と円月島の夕景美！源泉かけ流し温泉旅館5選（2026年秋）](https://croud-travel.pages.dev/posts/autumn-november-shirahama-kue-onsen-guide/): 南紀白浜 紀州本クエ解禁＆名湯特選宿5選（和歌山県）
 - [【2026年11月限定】世界遺産・白川郷「秋の一斉放水」＆飛騨高山紅葉特選名宿5選](https://croud-travel.pages.dev/posts/autumn-november-shirakawago-fire-drill-guide/): 白川郷 一斉放水訓練＆飛騨高山温泉特選宿（岐阜県）
-- [【2026年11月最新】全国紅葉ライトアップ＆巨大イルミ攻略｜富士河口湖・京都東山・香嵐渓・なばなの里特選宿5選](https://croud-travel.pages.dev/posts/autumn-november-special-events-hotels-guide/): 11月全国紅葉ライトアップ＆イルミネーション特選ホテル（全国）
