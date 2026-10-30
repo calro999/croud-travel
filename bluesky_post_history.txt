@@ -191,3 +191,4 @@ showcase_ishikawa
 autumn-chugoku-hiroshima-oyster-guide
 showcase_nara
 winter-hokkaido-shikotsuko-luxury-aonoza-suizantei-shiraogyu-stay
+showcase_nara
