@@ -195,3 +195,4 @@ showcase_nara
 niseko-luxury-condominium-onsen-hotels-guide
 showcase_hokkaido
 kisarazu-futtsu-nokogiriyama-hotels-guide
+showcase_oita
