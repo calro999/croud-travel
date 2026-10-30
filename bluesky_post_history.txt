@@ -189,3 +189,4 @@ showcase_aomori
 sapporo-otaru-jozankei-hotels-guide
 showcase_ishikawa
 autumn-chugoku-hiroshima-oyster-guide
+showcase_nara
