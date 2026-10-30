@@ -319,6 +319,7 @@
 - [OKINAWA 観光名所・名物グルメ・人気温泉ホテル完全ガイド](https://croud-travel.pages.dev/prefectures/okinawa/)
 
 ## 最新厳選宿・観光ルポ記事
+- [【群馬】四万温泉シマブルー宿泊ルポ！渓流沿いグランピングコテージと源泉かけ流しステイ](https://croud-travel.pages.dev/posts/162764/): 四万温泉　シマブルー（群馬県）
 - [【京都】絶品グルメと地酒を巡る旅！古都の美食と温泉を愉しむ厳選宿泊ガイド](https://croud-travel.pages.dev/posts/183776/): 四条河原町温泉　空庭テラス京都　別邸（京都府）
 - [【滋賀・湖東】湖東三山＆永源寺「錦秋の紅葉曼荼羅」完全攻略！日本紅葉名所100選と近江牛懐石、名湯・おごと温泉の絶景露天風呂を巡る厳選宿5選](https://croud-travel.pages.dev/posts/autumn-koto-sanzan-eigenji-momiji-ogoto-onsen-hotels-guide/): 湖東三山＆永源寺錦秋紅葉周辺 厳選宿5選（滋賀県）
 - [【栃木・足利】あしかがフラワーパーク「光の花の庭」＆日本遺産・史跡足利学校ライトアップ完全攻略！日本三大イルミネーションと名湯・ご当地グルメを満喫する厳選宿5選](https://croud-travel.pages.dev/posts/autumn-winter-ashikaga-flower-park-illumination-hotels-guide/): あしかがフラワーパーク＆足利学校周辺 厳選宿5選（栃木県）
@@ -378,4 +379,3 @@
 - [【2026年11月限定】世界遺産・白川郷「秋の一斉放水」＆飛騨高山紅葉特選名宿5選](https://croud-travel.pages.dev/posts/autumn-november-shirakawago-fire-drill-guide/): 白川郷 一斉放水訓練＆飛騨高山温泉特選宿（岐阜県）
 - [【2026年11月最新】全国紅葉ライトアップ＆巨大イルミ攻略｜富士河口湖・京都東山・香嵐渓・なばなの里特選宿5選](https://croud-travel.pages.dev/posts/autumn-november-special-events-hotels-guide/): 11月全国紅葉ライトアップ＆イルミネーション特選ホテル（全国）
 - [【2026年11月の大祭典】浅草酉の市・ユネスコ唐津くんち・山梨ヌーボー解禁ワイン特選宿5選](https://croud-travel.pages.dev/posts/autumn-november-traditional-festivals-wine-guide/): 11月伝統大祭＆新酒ワイン解禁特選宿（東京都・佐賀県・山梨県）
-- [【2026年11月限定】山中湖「夕焼けの渚 紅葉まつり」＆ダイヤモンド富士完全攻略特選宿5選](https://croud-travel.pages.dev/posts/autumn-november-yamanakako-diamond-fuji-guide/): 山中湖 夕焼けの渚紅葉まつり＆ダイヤモンド富士特選宿（山梨県）
