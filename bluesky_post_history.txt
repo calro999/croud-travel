@@ -197,3 +197,4 @@ showcase_hokkaido
 kisarazu-futtsu-nokogiriyama-hotels-guide
 showcase_oita
 autumn-miyagi-matsushima-onsen-oyster-guide
+showcase_miyagi
