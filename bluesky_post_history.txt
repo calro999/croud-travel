@@ -205,3 +205,4 @@ showcase_okinawa
 treehouse-forest-cabin-nature-resort-hotels-guide
 showcase_aomori
 ehime-famous-mikan-taimeshi-sake-hotels-guide
+showcase_hiroshima
