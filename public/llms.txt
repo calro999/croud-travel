@@ -319,6 +319,7 @@
 - [OKINAWA 観光名所・名物グルメ・人気温泉ホテル完全ガイド](https://croud-travel.pages.dev/prefectures/okinawa/)
 
 ## 最新厳選宿・観光ルポ記事
+- [【新潟県】カップルで過ごすロマンチックな週末を満喫する大人の旅](https://croud-travel.pages.dev/posts/109523/): 蓬平温泉　蓬莱館　福引屋（新潟県）
 - [小豆島・エンジェルロード目の前の絶景宿！海辺の宿入舟で過ごす島時間](https://croud-travel.pages.dev/posts/20489/): 海辺の宿　入舟　＜香川県・小豆島＞（香川県）
 - [【岐阜県】歴史とレトロな街並み散策を満喫する旅！おすすめモデルコースと厳選宿3選](https://croud-travel.pages.dev/posts/25143/): 郡上ヴァカンス村ホテル（岐阜県）
 - [【山梨・河口湖】富士河口湖紅葉まつり2026＆もみじ回廊ライトアップ完全攻略！紅葉と富士山の絶景パノラマ露天風呂を愉しむ厳選温泉宿5選](https://croud-travel.pages.dev/posts/autumn-fuji-kawaguchiko-momiji-festival-lake-view-onsen-hotels-guide/): 富士河口湖紅葉まつり周辺 厳選温泉宿5選（山梨県）
@@ -378,4 +379,3 @@
 - [【福井県】女子旅に人気のパワースポットと写真映えを満喫する旅！おすすめモデルコースと厳選宿3選](https://croud-travel.pages.dev/posts/181073/): ホテルフジタ福井（福井県）
 - [【2026年11月限定イベント】佐賀バルーンフェスタ・長野えびす講煙火大会・11月6日城崎カニ解禁特選宿5選](https://croud-travel.pages.dev/posts/autumn-november-balloon-fireworks-crab-guide/): 11月限定イベント特選宿（バルーン・花火・松葉ガニ）（佐賀県・長野県・兵庫県）
 - [【2026年11月最新】全館再開の「道後温泉本館」と松山城紅葉完全攻略特選宿5選](https://croud-travel.pages.dev/posts/autumn-november-dogo-onsen-matsuyama-guide/): 愛媛 道後温泉本館全館再開＆松山城紅葉特選宿（愛媛県）
-- [【2026年11月限定】博多ライトアップウォーク「博多千年煌夜」＆秋の博多グルメ特選宿5選](https://croud-travel.pages.dev/posts/autumn-november-hakata-lightup-walk-guide/): 博多 博多千年煌夜ライトアップ＆天然温泉特選ホテル（福岡県）

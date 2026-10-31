@@ -202,3 +202,4 @@ kannawa-onsen-beppu-jigokumushi-view-guide
 showcase_miyagi
 naha-kokusaidori-south-hotels-guide
 showcase_okinawa
+treehouse-forest-cabin-nature-resort-hotels-guide
