@@ -1,0 +1,511 @@
+// scripts/new_articles/article7_sendai.js
+module.exports = function buildArticle7(themeData) {
+  const hotels = themeData.hotels;
+  const wiki = themeData.wiki;
+
+  const slug = "winter-sendai-hikari-no-pageant-akiu-onsen-hotels-guide";
+  const title = "【宮城・仙台】2026SENDAI光のページェント＆名湯秋保・作並温泉完全攻略！杜の都を黄金色に染めるケヤキ並木と仙台牛・セリ鍋を堪能する厳選名宿5選";
+  const description = "杜の都・仙台の初冬の風物詩「SENDAI光のページェント」。定禅寺通のケヤキ並木が数十万球のLEDで黄金色の光のトンネルへと変貌し、一瞬消灯して再点灯する「スターライト・ウインク」が感動を呼びます。11月から旬を迎える名物「仙台セリ鍋」や極上仙台牛、伊達政宗公の湯守を務めた開湯1500年の秋保温泉名門宿や広瀬川の渓流露天風呂など厳選5宿を徹底ガイド。";
+  const date = "2026-10-31";
+  const prefecture = "宮城県";
+  const area = "仙台・秋保・作並";
+
+  const hSakan = hotels.find(h => h.hotelNo === 63615) || hotels[0];
+  const hZuiho = hotels.find(h => h.hotelNo === 30766) || hotels[1];
+  const hSoen = hotels.find(h => h.hotelNo === 38345) || hotels[2];
+  const hIwamatsu = hotels.find(h => h.hotelNo === 38433) || hotels[3];
+  const hWestin = hotels.find(h => h.hotelNo === 107740) || hotels[4];
+
+  const wJozenji = wiki["定禅寺通"] || {};
+  const wAkiu = wiki["秋保温泉"] || {};
+  const wZuihoden = wiki["瑞鳳殿"] || {};
+  const wSendaiCastle = wiki["仙台城"] || {};
+
+  const reviewHtml = `
+<div class="my-6 p-4 rounded-2xl bg-gradient-to-r from-amber-950 via-yellow-900 to-stone-900 text-white shadow-md flex flex-col sm:flex-row items-center justify-between gap-3">
+  <div class="space-y-0.5 text-center sm:text-left">
+    <div class="flex items-center justify-center sm:justify-start gap-1.5 text-amber-300 font-extrabold text-xs">
+      <span>✨</span><span>2026年 SENDAI光のページェント＆初冬の杜の都速報</span>
+    </div>
+    <p class="text-xs text-stone-200">
+      定禅寺通のケヤキ並木が黄金色に輝く東北最大の光の祭典！11月は秋の味覚「仙台セリ鍋」や三陸牡蠣が本格解禁。秋保温泉の老舗湯守宿と組み合わせるのが大人の贅沢。
+    </p>
+  </div>
+  <a href="${hSakan.affiliateUrl}" target="_blank" rel="sponsored noopener noreferrer" class="shrink-0 px-4 py-2 bg-amber-500 hover:bg-amber-400 text-stone-950 font-black text-xs rounded-xl shadow transition transform hover:scale-105">
+    ✨ 伝承千年の宿 佐勘の空室・プランを見る →
+  </a>
+</div>
+
+<h2 id="intro" class="text-xl md:text-2xl font-bold text-stone-900 border-b-2 border-amber-600 pb-2 mb-4">
+  定禅寺通を包み込む温かな黄金の光と、開湯1500年を誇る奥州の名湯
+</h2>
+<p class="text-sm md:text-base text-stone-700 leading-relaxed mb-4">
+  晩秋の気配が深まり、冷涼な初冬の風が青葉城址を吹き抜ける頃、杜の都・仙台のメインストリート「定禅寺通」は息を呑むような変貌を遂げます。160本を超えるケヤキの巨木に数十万球もの温白色LEDが張り巡らされ、夕暮れの点灯とともに、頭上を覆う圧倒的な光のアーチが出現する「SENDAI光のページェント」。澄み渡る夜空に浮かび上がる光の粒は、どこか温もりを帯び、街を行き交う人々の笑顔を優しく照らし出します。
+</p>
+<p class="text-sm md:text-base text-stone-700 leading-relaxed mb-6">
+  そして仙台の冬旅の真髄は、光の回廊を満喫した後に味わう滋味あふれる郷土の味覚と、名湯での至福の湯浴みにあります。11月から旬を迎える名取名産の根セリをシャキシャキとした食感でいただく「仙台セリ鍋」、とろけるような肉質の最高級「仙台牛」、そして伊達政宗公が愛した秋保温泉や広瀬川上流の作並温泉。本特集では、仙台市街のイルミネーションと名湯・美食を完璧に楽しむための厳選5宿と現地実践ルートをご紹介します。
+</p>
+
+<h2 id="event-guide" class="text-xl md:text-2xl font-bold text-stone-900 border-b-2 border-amber-600 pb-2 my-6">
+  🎪 2026SENDAI光のページェントの見どころ＆初冬のグルメ完全攻略
+</h2>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6 my-6">
+  <div class="p-6 rounded-3xl bg-white border border-stone-200 shadow-sm space-y-3">
+    <div class="flex items-center gap-2 border-b border-stone-100 pb-3">
+      <span class="px-2.5 py-1 bg-amber-100 text-amber-800 font-extrabold text-xs rounded-lg">鑑賞ハイライト</span>
+      <h3 class="text-base font-bold text-stone-900">定禅寺通の光のアーチとスターライト・ウインク</h3>
+    </div>
+    <div class="text-xs text-stone-700 space-y-2 leading-relaxed">
+      <p>① <strong>中央遊歩道の緑道散策:</strong> 定禅寺通の中央にはケヤキ並木に挟まれた遊歩道があり、頭上360度を覆い尽くす光のトンネルの中を歩くことができます。彫刻家エミリオ・グレコ作のブロンズ像「夏の思い出」周辺は人気のフォトスポット。</p>
+      <p>② <strong>奇跡の再点灯「スターライト・ウインク」:</strong> 毎日決まった時間（18:00・19:00・20:00など）に、全ての明かりが一瞬一斉に消灯。静寂に包まれた数秒後、再び一斉にパッと光が蘇る演出は、歓声と拍手が沸き起こる感動の瞬間です。</p>
+      <p>③ <strong>アイリッシュパブや屋外ヒカペラウンジ:</strong> 勾当台公園・市民広場周辺には温かいホットワインやクラフトビール、宮城の地酒や温かいスープを提供するヒカペラウンジが開設され、冷えた身体を心地よく温めてくれます。</p>
+      <p>④ <strong>11月のプレビューと秋の味覚:</strong> 11月中旬からはケヤキへの電球取り付け工事が始まり、月末には試験点灯が行われることも。11月は三陸の戻り鰹や殻付き牡蠣、仙台セリ鍋が旬の盛りを迎える最高のグルメ旅行期です。</p>
+    </div>
+  </div>
+
+  <div class="p-6 rounded-3xl bg-white border border-stone-200 shadow-sm space-y-3">
+    <div class="flex items-center gap-2 border-b border-stone-100 pb-3">
+      <span class="px-2.5 py-1 bg-yellow-100 text-yellow-800 font-extrabold text-xs rounded-lg">実戦アドバイス</span>
+      <h3 class="text-base font-bold text-stone-900">アクセスと寒さ対策のポイント</h3>
+    </div>
+    <div class="text-xs text-stone-700 space-y-2 leading-relaxed">
+      <p><strong>【渋滞と駐車場問題】</strong> 点灯時間帯の定禅寺通周辺および晩翠通・東二番丁通は一般車とタクシーで非常に混雑します。近隣コインパーキングは満車となるため、秋保温泉や作並温泉に宿泊する場合は宿の無料送迎バスまたは公共交通機関（地下鉄南北線「勾当台公園駅」利用）でアクセスするのが最も快適です。</p>
+      <p><strong>【寒風対策】</strong> 仙台の初冬は「蔵王おろし」と呼ばれる冷たい北風が吹き抜けます。夜間の屋外散策は氷点下近くまで冷え込むことがあるため、厚手のダウンジャケット、手袋、マフラー、滑りにくい靴を必ず着用してください。</p>
+      <p><strong>【仙台セリ鍋の予約】</strong> 11月から翌年2月にかけて大人気となる「セリ鍋」。根っこごと煮込んでシャキシャキの歯ごたえを楽しむ仙台発祥の鍋料理は、名店では数週間前から満席になるため事前予約が必須です。</p>
+    </div>
+  </div>
+</div>
+
+<h2 id="hotel-selection" class="text-xl md:text-2xl font-bold text-stone-900 border-b-2 border-amber-600 pb-2 my-8">
+  🏨 仙台の光と名湯を堪能する！厳選おすすめ名宿5選
+</h2>
+
+<!-- 宿1: 伝承千年の宿 佐勘 -->
+<div class="my-8 p-6 md:p-8 rounded-3xl bg-white border border-stone-200 shadow-md space-y-5">
+  <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between border-b border-stone-100 pb-4 gap-2">
+    <div>
+      <span class="px-3 py-1 bg-amber-100 text-amber-900 font-black text-xs rounded-full">伊達政宗公の湯守を務めた開湯1500年の名門</span>
+      <h3 class="text-lg md:text-xl font-extrabold text-stone-900 mt-1">1. 伝承千年の宿 佐勘（宮城県仙台市太白区・秋保温泉）</h3>
+    </div>
+    <span class="px-3 py-1.5 bg-amber-50 border border-amber-300 text-amber-900 font-black text-xs rounded-xl">⭐ 楽天トラベル評価 ${hSakan.reviewAverage}（${hSakan.reviewCount}件）</span>
+  </div>
+  <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-start">
+    <div class="md:col-span-5 space-y-3">
+      <img src="${hSakan.hotelImageUrl}" alt="${hSakan.hotelName} 外観" class="w-full h-52 object-cover rounded-2xl border border-stone-200 shadow-xs" loading="lazy" />
+      <img src="${hSakan.roomImageUrl || hSakan.hotelImageUrl}" alt="${hSakan.hotelName} 客室" class="w-full h-40 object-cover rounded-2xl border border-stone-200 shadow-xs" loading="lazy" />
+    </div>
+    <div class="md:col-span-7 space-y-3 text-xs text-stone-700 leading-relaxed">
+      <p class="text-sm font-semibold text-stone-800">名取川の清流に抱かれ、政宗公が愛した「名取の御湯」を守り継ぐ奥州屈指の格式</p>
+      <p>「伝承千年の宿 佐勘」は、欽明天皇の時代に開湯したと伝えられる秋保温泉の草分けであり、仙台藩祖・伊達政宗公の湯守として代々仕えてきた由緒正しき名門旅館。名取川のせせらぎを眼下に望む源泉掛け流しの「名取川露天風呂」や、秋保温泉最古の湯浴み処を再現した「河原の湯」など、歴史情緒あふれる多彩な湯船が揃います。夕食は仙台牛のステーキや三陸の極上海鮮、名取名産の根セリ鍋など、東北の厳選食材を炭火で焼き上げる本格会席が評判。仙台駅からの無料送迎バスも毎日運行しており、光のページェント鑑賞後のチェックインにも便利です。</p>
+      <div class="p-3 bg-stone-50 rounded-xl space-y-1 border border-stone-200">
+        <p><strong>【所在地】</strong> ${hSakan.address1}${hSakan.address2}</p>
+        <p><strong>【アクセス】</strong> ${hSakan.access}</p>
+        <p><strong>【温泉・施設】</strong> 秋保温泉（ナトリウム・カルシウム-塩化物泉）。名取川露天風呂、大浴場、貸切風呂、茶寮、エステ。</p>
+      </div>
+      <div class="pt-2 flex flex-col sm:flex-row items-center justify-between gap-3">
+        <span class="text-stone-900 font-extrabold text-sm">宿泊目安: 1名 ¥${(hSakan.hotelMinCharge || 20000).toLocaleString()}〜</span>
+        <a href="${hSakan.affiliateUrl}" target="_blank" rel="sponsored noopener noreferrer" class="w-full sm:w-auto px-5 py-2.5 bg-amber-600 hover:bg-amber-500 text-white font-black text-xs rounded-xl shadow transition text-center">
+          伝承千年の宿 佐勘の宿泊プラン・空室を見る →
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 宿2: ホテル瑞鳳 -->
+<div class="my-8 p-6 md:p-8 rounded-3xl bg-white border border-stone-200 shadow-md space-y-5">
+  <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between border-b border-stone-100 pb-4 gap-2">
+    <div>
+      <span class="px-3 py-1 bg-yellow-100 text-yellow-900 font-black text-xs rounded-full">美しい日本庭園と6つの露天風呂・豪華バイキング</span>
+      <h3 class="text-lg md:text-xl font-extrabold text-stone-900 mt-1">2. 仙台 秋保温泉 ホテル瑞鳳（宮城県仙台市太白区・秋保温泉）</h3>
+    </div>
+    <span class="px-3 py-1.5 bg-yellow-50 border border-yellow-300 text-yellow-900 font-black text-xs rounded-xl">⭐ 楽天トラベル評価 ${hZuiho.reviewAverage}（${hZuiho.reviewCount}件）</span>
+  </div>
+  <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-start">
+    <div class="md:col-span-5 space-y-3">
+      <img src="${hZuiho.hotelImageUrl}" alt="${hZuiho.hotelName} 外観" class="w-full h-52 object-cover rounded-2xl border border-stone-200 shadow-xs" loading="lazy" />
+      <img src="${hZuiho.roomImageUrl || hZuiho.hotelImageUrl}" alt="${hZuiho.hotelName} 客室" class="w-full h-40 object-cover rounded-2xl border border-stone-200 shadow-xs" loading="lazy" />
+    </div>
+    <div class="md:col-span-7 space-y-3 text-xs text-stone-700 leading-relaxed">
+      <p class="text-sm font-semibold text-stone-800">数寄屋造りの贅を尽くした空間、立ちのぼる湯煙と焼き立て牛タン・ズワイガニ食べ放題</p>
+      <p>名取川の渓谷美を眼下に望む「ホテル瑞鳳」は、広大な日本庭園と圧巻のスケールを誇る温泉リゾート。約1,000平米もの大浴場には、潮騒の湯・打たせ湯・立ち湯など趣の異なる6つの日本庭園露天風呂が点在し、湯めぐりを心ゆくまで満喫できます。夕食バイキングは全国屈指の人気を誇り、職人が目の前で焼き上げる厚切り仙台牛タンや揚げたて天ぷら、本ズワイガニ、新鮮なお寿司などが食べ放題。温水プールやサウナも完備されており、三世代家族旅行やグループ旅行にも最高の満足度を提供します。</p>
+      <div class="p-3 bg-stone-50 rounded-xl space-y-1 border border-stone-200">
+        <p><strong>【所在地】</strong> ${hZuiho.address1}${hZuiho.address2}</p>
+        <p><strong>【アクセス】</strong> ${hZuiho.access}</p>
+        <p><strong>【温泉・施設】</strong> 庭園露天風呂、屋内温水プール、サウナ、豪華バイキングレストラン、宴会場。</p>
+      </div>
+      <div class="pt-2 flex flex-col sm:flex-row items-center justify-between gap-3">
+        <span class="text-stone-900 font-extrabold text-sm">宿泊目安: 1名 ¥${(hZuiho.hotelMinCharge || 16000).toLocaleString()}〜</span>
+        <a href="${hZuiho.affiliateUrl}" target="_blank" rel="sponsored noopener noreferrer" class="w-full sm:w-auto px-5 py-2.5 bg-yellow-600 hover:bg-yellow-500 text-white font-black text-xs rounded-xl shadow transition text-center">
+          ホテル瑞鳳の宿泊プラン・空室を見る →
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 宿3: 茶寮宗園 -->
+<div class="my-8 p-6 md:p-8 rounded-3xl bg-white border border-stone-200 shadow-md space-y-5">
+  <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between border-b border-stone-100 pb-4 gap-2">
+    <div>
+      <span class="px-3 py-1 bg-stone-200 text-stone-900 font-black text-xs rounded-full">約8000坪の日本庭園・数寄屋風建築の最高峰料亭旅館</span>
+      <h3 class="text-lg md:text-xl font-extrabold text-stone-900 mt-1">3. 秋保温泉 茶寮宗園（宮城県仙台市太白区・秋保温泉）</h3>
+    </div>
+    <span class="px-3 py-1.5 bg-stone-50 border border-stone-300 text-stone-900 font-black text-xs rounded-xl">⭐ 楽天トラベル評価 ${hSoen.reviewAverage}（${hSoen.reviewCount}件）</span>
+  </div>
+  <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-start">
+    <div class="md:col-span-5 space-y-3">
+      <img src="${hSoen.hotelImageUrl}" alt="${hSoen.hotelName} 外観" class="w-full h-52 object-cover rounded-2xl border border-stone-200 shadow-xs" loading="lazy" />
+      <img src="${hSoen.roomImageUrl || hSoen.hotelImageUrl}" alt="${hSoen.hotelName} 客室" class="w-full h-40 object-cover rounded-2xl border border-stone-200 shadow-xs" loading="lazy" />
+    </div>
+    <div class="md:col-span-7 space-y-3 text-xs text-stone-700 leading-relaxed">
+      <p class="text-sm font-semibold text-stone-800">静寂の日本庭園に点在する離れ。日本の美意識の粋を集めた究極のおこもり宿</p>
+      <p>約8,000坪の広大な敷地にわずか26室。日本の伝統建築技術の粋を極めた数寄屋造りの「茶寮宗園」は、東北屈指の格式を誇る純和風高級旅館です。鯉が泳ぐ美しい池を配した日本庭園は四季折々の表情を見せ、初冬には雪吊りの松と白雪の静けさが漂います。客室には露天風呂付きの離れ棟もあり、誰にも邪魔されない極上のプライベート空間をお約束。夕食は四季の移ろいを繊細に表現した本格茶懐石料理で、一器一会のおもてなしと至高の美食に酔いしれることができます。</p>
+      <div class="p-3 bg-stone-50 rounded-xl space-y-1 border border-stone-200">
+        <p><strong>【所在地】</strong> ${hSoen.address1}${hSoen.address2}</p>
+        <p><strong>【アクセス】</strong> ${hSoen.access}</p>
+        <p><strong>【温泉・施設】</strong> 露天風呂付き離れ客室、庭園大浴場、日本庭園、茶室、料亭個室。</p>
+      </div>
+      <div class="pt-2 flex flex-col sm:flex-row items-center justify-between gap-3">
+        <span class="text-stone-900 font-extrabold text-sm">宿泊目安: 1名 ¥${(hSoen.hotelMinCharge || 45000).toLocaleString()}〜</span>
+        <a href="${hSoen.affiliateUrl}" target="_blank" rel="sponsored noopener noreferrer" class="w-full sm:w-auto px-5 py-2.5 bg-stone-800 hover:bg-stone-700 text-white font-black text-xs rounded-xl shadow transition text-center">
+          茶寮宗園の宿泊プラン・空室を見る →
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 宿4: 作並温泉 鷹泉閣 岩松旅館 -->
+<div class="my-8 p-6 md:p-8 rounded-3xl bg-white border border-stone-200 shadow-md space-y-5">
+  <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between border-b border-stone-100 pb-4 gap-2">
+    <div>
+      <span class="px-3 py-1 bg-emerald-100 text-emerald-900 font-black text-xs rounded-full">開湯寛政8年・広瀬川渓流沿いの天然自噴岩風呂</span>
+      <h3 class="text-lg md:text-xl font-extrabold text-stone-900 mt-1">4. 大江戸温泉物語Premium 仙台作並（旧：岩松旅館）（宮城県仙台市青葉区）</h3>
+    </div>
+    <span class="px-3 py-1.5 bg-emerald-50 border border-emerald-300 text-emerald-900 font-black text-xs rounded-xl">⭐ 楽天トラベル評価 ${hIwamatsu.reviewAverage}（${hIwamatsu.reviewCount}件）</span>
+  </div>
+  <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-start">
+    <div class="md:col-span-5 space-y-3">
+      <img src="${hIwamatsu.hotelImageUrl}" alt="${hIwamatsu.hotelName} 外観" class="w-full h-52 object-cover rounded-2xl border border-stone-200 shadow-xs" loading="lazy" />
+      <img src="${hIwamatsu.roomImageUrl || hIwamatsu.hotelImageUrl}" alt="${hIwamatsu.hotelName} 客室" class="w-full h-40 object-cover rounded-2xl border border-stone-200 shadow-xs" loading="lazy" />
+    </div>
+    <div class="md:col-span-7 space-y-3 text-xs text-stone-700 leading-relaxed">
+      <p class="text-sm font-semibold text-stone-800">木造階段を下りた先、広瀬川の清流に手が届きそうな4つの天然湧出露天風呂の奇跡</p>
+      <p>作並温泉のシンボルとして寛政8年（1796年）に開湯した歴史ある名宿。88段の木造階段を下りてたどり着く名物の天然岩風呂は、広瀬川の川底から自噴する温泉をそのまま湯船にした奇跡のロケーション。川のせせらぎと初冬の渓谷美を間近に感じながらの湯浴みは唯一無二の体験です。リニューアルを経て大江戸温泉物語Premiumとして生まれ変わり、ラウンジでの無料ビール＆ドリンクサービスや、宮城の山海の幸をライブキッチンで味わう豪華プレミアムビュッフェが加わり、快適性が大幅に向上しました。</p>
+      <div class="p-3 bg-stone-50 rounded-xl space-y-1 border border-stone-200">
+        <p><strong>【所在地】</strong> ${hIwamatsu.address1}${hIwamatsu.address2}</p>
+        <p><strong>【アクセス】</strong> ${hIwamatsu.access}</p>
+        <p><strong>【温泉・施設】</strong> 作並温泉（単純温泉・低張性弱アルカリ性高温泉）。天然岩風呂（混浴・女性専用時間あり）、大浴場、無料プレミアムラウンジ。</p>
+      </div>
+      <div class="pt-2 flex flex-col sm:flex-row items-center justify-between gap-3">
+        <span class="text-stone-900 font-extrabold text-sm">宿泊目安: 1名 ¥${(hIwamatsu.hotelMinCharge || 14000).toLocaleString()}〜</span>
+        <a href="${hIwamatsu.affiliateUrl}" target="_blank" rel="sponsored noopener noreferrer" class="w-full sm:w-auto px-5 py-2.5 bg-emerald-600 hover:bg-emerald-500 text-white font-black text-xs rounded-xl shadow transition text-center">
+          仙台作並（旧岩松旅館）の宿泊プラン・空室を見る →
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 宿5: ウェスティンホテル仙台 -->
+<div class="my-8 p-6 md:p-8 rounded-3xl bg-white border border-stone-200 shadow-md space-y-5">
+  <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between border-b border-stone-100 pb-4 gap-2">
+    <div>
+      <span class="px-3 py-1 bg-cyan-100 text-cyan-900 font-black text-xs rounded-full">仙台市街一望・東北最高層のラグジュアリーホテル</span>
+      <h3 class="text-lg md:text-xl font-extrabold text-stone-900 mt-1">5. ウェスティンホテル仙台（宮城県仙台市青葉区）</h3>
+    </div>
+    <span class="px-3 py-1.5 bg-cyan-50 border border-cyan-300 text-cyan-900 font-black text-xs rounded-xl">⭐ 楽天トラベル評価 ${hWestin.reviewAverage}（${hWestin.reviewCount}件）</span>
+  </div>
+  <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-start">
+    <div class="md:col-span-5 space-y-3">
+      <img src="${hWestin.hotelImageUrl}" alt="${hWestin.hotelName} 外観" class="w-full h-52 object-cover rounded-2xl border border-stone-200 shadow-xs" loading="lazy" />
+      <img src="${hWestin.roomImageUrl || hWestin.hotelImageUrl}" alt="${hWestin.hotelName} 客室" class="w-full h-40 object-cover rounded-2xl border border-stone-200 shadow-xs" loading="lazy" />
+    </div>
+    <div class="md:col-span-7 space-y-3 text-xs text-stone-700 leading-relaxed">
+      <p class="text-sm font-semibold text-stone-800">仙台トラストタワー上層階。定禅寺通へ直結、天空のヘブンリーベッドで極上の眠り</p>
+      <p>仙台駅西口から徒歩約9分、東北最高層ビル「仙台トラストタワー」の25階〜37階に位置する国際的ラグジュアリーホテル。全客室が地上約100メートル以上に位置し、広大なピクチャーウィンドウからは杜の都の煌めく夜景や遠く太平洋まで見晴らすことができます。名物の「ヘブンリーベッド」が旅の疲れを優しく癒やし、定禅寺通の光のページェント会場へもタクシーで約5分と好アクセス。夜は26階のラウンジバー「ホライゾン」でイルミネーションの余韻に浸りながらシグネチャーカクテルを傾ける大人の都市型ステイが叶います。</p>
+      <div class="p-3 bg-stone-50 rounded-xl space-y-1 border border-stone-200">
+        <p><strong>【所在地】</strong> ${hWestin.address1}${hWestin.address2}</p>
+        <p><strong>【アクセス】</strong> ${hWestin.access}</p>
+        <p><strong>【施設・サービス】</strong> クラブラウンジ、フィットネス、スパ、高層レストラン「シンフォニー」、バーラウンジ。</p>
+      </div>
+      <div class="pt-2 flex flex-col sm:flex-row items-center justify-between gap-3">
+        <span class="text-stone-900 font-extrabold text-sm">宿泊目安: 1名 ¥${(hWestin.hotelMinCharge || 18000).toLocaleString()}〜</span>
+        <a href="${hWestin.affiliateUrl}" target="_blank" rel="sponsored noopener noreferrer" class="w-full sm:w-auto px-5 py-2.5 bg-cyan-700 hover:bg-cyan-600 text-white font-black text-xs rounded-xl shadow transition text-center">
+          ウェスティンホテル仙台の宿泊プラン・空室を見る →
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<h2 id="nearby-spots" class="text-xl md:text-2xl font-bold text-stone-900 border-b-2 border-amber-600 pb-2 my-8">
+  📸 宿の近隣観光地ガイド（Wikipedia公式データ連携）
+</h2>
+<p class="text-xs text-stone-600 mb-6">
+  仙台・宮城の歴史と文化を象徴する名所をピックアップ。光のページェント鑑賞や温泉宿泊とあわせて巡る観光プランにお役立てください。
+</p>
+
+<div class="space-y-6 my-6">
+  <!-- スポット1: 定禅寺通 -->
+  <div class="p-6 rounded-3xl bg-white border border-stone-200 shadow-sm">
+    <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
+      <div class="md:col-span-5">
+        <img src="${wJozenji.thumbnail || hWestin.hotelImageUrl}" alt="定禅寺通" class="w-full h-48 object-cover rounded-2xl border border-stone-200" loading="lazy" />
+      </div>
+      <div class="md:col-span-7 space-y-2 text-xs text-stone-700 leading-relaxed">
+        <span class="inline-block px-2.5 py-0.5 bg-amber-100 text-amber-800 font-bold text-[11px] rounded-md">✨ 杜の都のシンボル・ヒカペメイン会場</span>
+        <h3 class="text-base font-bold text-stone-900">定禅寺通（宮城県仙台市青葉区）</h3>
+        <p>${wJozenji.extract}</p>
+        <p class="text-stone-500"><strong>【宿からの移動】</strong> ウェスティンホテル仙台からタクシーで約5分・徒歩約20分。秋保温泉各宿から車で約30分。</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- スポット2: 秋保温泉 -->
+  <div class="p-6 rounded-3xl bg-white border border-stone-200 shadow-sm">
+    <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
+      <div class="md:col-span-5">
+        <img src="${wAkiu.thumbnail || hSakan.hotelImageUrl}" alt="秋保温泉" class="w-full h-48 object-cover rounded-2xl border border-stone-200" loading="lazy" />
+      </div>
+      <div class="md:col-span-7 space-y-2 text-xs text-stone-700 leading-relaxed">
+        <span class="inline-block px-2.5 py-0.5 bg-emerald-100 text-emerald-800 font-bold text-[11px] rounded-md">♨️ 日本三御湯・奥州の名湯</span>
+        <h3 class="text-base font-bold text-stone-900">秋保温泉（宮城県仙台市太白区）</h3>
+        <p>${wAkiu.extract}</p>
+        <p class="text-stone-500"><strong>【宿からの移動】</strong> 佐勘・瑞鳳・茶寮宗園の所在地。名勝「磊々峡（らいらいきょう）」や「秋保大滝」の散策も魅力。</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- スポット3: 瑞鳳殿 -->
+  <div class="p-6 rounded-3xl bg-white border border-stone-200 shadow-sm">
+    <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
+      <div class="md:col-span-5">
+        <img src="${wZuihoden.thumbnail || hZuiho.hotelImageUrl}" alt="瑞鳳殿" class="w-full h-48 object-cover rounded-2xl border border-stone-200" loading="lazy" />
+      </div>
+      <div class="md:col-span-7 space-y-2 text-xs text-stone-700 leading-relaxed">
+        <span class="inline-block px-2.5 py-0.5 bg-purple-100 text-purple-800 font-bold text-[11px] rounded-md">🏛️ 伊達政宗公の霊屋・桃山建築の極美</span>
+        <h3 class="text-base font-bold text-stone-900">瑞鳳殿（宮城県仙台市青葉区）</h3>
+        <p>${wZuihoden.extract}</p>
+        <p class="text-stone-500"><strong>【宿からの移動】</strong> 仙台市中心部から車で約10分。晩秋には参道の杉木立ともみじの紅葉グラデーションが見事です。</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- スポット4: 仙台城（青葉城） -->
+  <div class="p-6 rounded-3xl bg-white border border-stone-200 shadow-sm">
+    <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
+      <div class="md:col-span-5">
+        <img src="${wSendaiCastle.thumbnail || hSoen.hotelImageUrl}" alt="仙台城" class="w-full h-48 object-cover rounded-2xl border border-stone-200" loading="lazy" />
+      </div>
+      <div class="md:col-span-7 space-y-2 text-xs text-stone-700 leading-relaxed">
+        <span class="inline-block px-2.5 py-0.5 bg-blue-100 text-blue-800 font-bold text-[11px] rounded-md">🏯 国指定史跡・伊達政宗公騎馬像</span>
+        <h3 class="text-base font-bold text-stone-900">仙台城跡（宮城県仙台市青葉区）</h3>
+        <p>${wSendaiCastle.extract}</p>
+        <p class="text-stone-500"><strong>【宿からの移動】</strong> 仙台市中心部から車で約15分。本丸跡の伊達政宗公騎馬像前からは、仙台市街のパノラマ夜景を一望できます。</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<h2 id="model-course" class="text-xl md:text-2xl font-bold text-stone-900 border-b-2 border-amber-600 pb-2 my-8">
+  🗺️ 仙台光のページェント＆秋保温泉 1泊2日満喫モデルコース
+</h2>
+<div class="my-6 p-6 rounded-3xl bg-gradient-to-br from-amber-50/60 to-yellow-50/40 border border-amber-200 space-y-4 text-xs text-stone-700 leading-relaxed">
+  <div class="space-y-1">
+    <h3 class="font-bold text-sm text-stone-900">【1日目】仙台城址・瑞鳳殿めぐりと定禅寺通の光のページェント鑑賞</h3>
+    <p>午前中に東北新幹線で仙台駅に到着。レンタカーまたは「るーぷる仙台」で瑞鳳殿と仙台城跡を散策し、政宗公の騎馬像前で記念撮影。昼食は駅周辺で名物の牛タン焼き定食を堪能。15:30に秋保温泉「伝承千年の宿 佐勘」へチェックイン。名取川露天風呂で温まり、早めの夕食で旬の仙台セリ鍋と仙台牛会席を味わう。18:30に宿の送迎または車で市内中心部へ向かい、定禅寺通のSENDAI光のページェントを散策。19:00の「スターライト・ウインク」の再点灯の瞬間に立ち会い、光のトンネルを歩いて宿へと戻る。</p>
+  </div>
+  <div class="space-y-1">
+    <h3 class="font-bold text-sm text-stone-900">【2日目】磊々峡散策とニッカウヰスキー宮城峡蒸溜所・松島へ</h3>
+    <p>早朝、秋保温泉街の遊歩道「磊々峡」を散策し、奇岩と紅葉・雪の渓谷美を鑑賞。朝食後、作並方面へ車を走らせ「ニッカウヰスキー宮城峡蒸溜所」を見学（試飲付き）。昼食は塩竈または松島へ移動し、11月に解禁されたばかりのぷりっぷりの「松島産生牡蠣・焼き牡蠣」と海鮮丼に舌鼓。国宝・瑞巌寺を参拝し、仙台駅でお土産（萩の月、笹かまぼこ）を購入して帰路へ。</p>
+  </div>
+</div>
+
+<h2 id="faq" class="text-xl md:text-2xl font-bold text-stone-900 border-b-2 border-amber-600 pb-2 my-8">
+  ❓ よくある質問（FAQ）
+</h2>
+<div class="space-y-3 my-6 text-xs text-stone-800">
+  <div class="p-4 rounded-2xl bg-white border border-stone-200 space-y-1">
+    <h3 class="font-bold text-stone-900">Q1. 光のページェントの点灯時間と期間はいつですか？</h3>
+    <p class="text-stone-600">A. 例年12月上旬から12月下旬（クリスマス・年末まで）開催されます。点灯時間は平日は19:00〜22:00、土日は18:00〜22:00頃です。点灯の瞬間とスターライト・ウインクの時間帯は特に多くの人で賑わいます。</p>
+  </div>
+  <div class="p-4 rounded-2xl bg-white border border-stone-200 space-y-1">
+    <h3 class="font-bold text-stone-900">Q2. 秋保温泉から定禅寺通まではどのように移動するのが便利ですか？</h3>
+    <p class="text-stone-600">A. 秋保温泉から定禅寺通までは車またはタクシーで約30分です。宿によっては仙台駅までの無料送迎バスを運行しているため、仙台駅に車を置いて地下鉄南北線で「勾当台公園駅」（定禅寺通直結）へ向かうと渋滞知らずで最もスムーズです。</p>
+  </div>
+  <div class="p-4 rounded-2xl bg-white border border-stone-200 space-y-1">
+    <h3 class="font-bold text-stone-900">Q3. 仙台セリ鍋が一番美味しく食べられる時期はいつですか？</h3>
+    <p class="text-stone-600">A. 仙台セリ鍋の旬は11月から翌年2月頃です。特に11月中旬以降は根っこが太く成長し、最もシャキシャキとした食感と芳醇な香りが楽しめます。名取市の特産品である「仙台せり」を根ごと鴨肉や鶏肉の出汁にくぐらせていただくのが本場の食べ方です。</p>
+  </div>
+</div>
+
+<div class="my-8 p-6 rounded-3xl bg-amber-50/60 border border-amber-200">
+  <h3 class="text-sm font-bold text-amber-950 mb-2">🔗 あわせてチェックしたい宮城・東北の旅行特集</h3>
+  <ul class="text-xs space-y-1.5 font-medium text-stone-700">
+    <li>👉 <a href="/prefectures/miyagi/" class="text-amber-800 hover:text-amber-600 underline">宮城県の観光名所・秋保名湯＆ホテル徹底ガイド</a></li>
+    <li>👉 <a href="/akyu-onsen-sendai-family-buffet-hotels-guide" class="text-amber-800 hover:text-amber-600 underline">秋保温泉の豪華バイキング＆露天風呂付きおすすめ宿</a></li>
+    <li>👉 <a href="/furusato-tax-distillery-whisky-pairing-stay/" class="text-amber-800 hover:text-amber-600 underline">国産ウイスキー蒸溜所（宮城峡・余市）＆銘酒ペアリング宿</a></li>
+  </ul>
+</div>
+`;
+
+  const postData = {
+    id: slug,
+    slug: slug,
+    title: title,
+    description: description,
+    prefecture: prefecture,
+    area: area,
+    hot_spring_info: "秋保温泉（ナトリウム・カルシウム-塩化物泉。湯冷めしにくく美肌・神経痛に効能）・作並温泉（単純温泉）",
+    parking_info: "秋保温泉・作並温泉各宿に無料大型駐車場完備。仙台市内中心部へは地下鉄南北線利用推奨。",
+    meal_availability: "仙台牛A5ステーキ・仙台名物セリ鍋・三陸産生牡蠣・炭火焼き厚切り牛タン・三陸戻り鰹・海鮮バイキング",
+    hotel_name: "SENDAI光のページェント周辺 厳選名宿5選",
+    image: hSakan.hotelImageUrl,
+    affiliate_url: hSakan.affiliateUrl,
+    categories: ["11月旅行", "12月旅行", "イルミネーション", "温泉宿", "ご当地グルメ", "宮城旅行"],
+    keywords: [
+      "SENDAI光のページェント 2026",
+      "仙台 イルミネーション 定禅寺通",
+      "秋保温泉 ホテル おすすめ",
+      "伝承千年の宿 佐勘",
+      "ホテル瑞鳳 バイキング",
+      "茶寮宗園 秋保",
+      "作並温泉 岩松旅館",
+      "ウェスティンホテル仙台",
+      "仙台セリ鍋 時期",
+      "宮城 11月 イベント"
+    ],
+    review: reviewHtml,
+    price: hSakan.hotelMinCharge || 20000,
+    rating: hSakan.reviewAverage || 4.6,
+    date: date,
+    other_images: [
+      hZuiho.hotelImageUrl,
+      hSoen.hotelImageUrl,
+      hIwamatsu.hotelImageUrl,
+      hWestin.hotelImageUrl,
+      wJozenji.thumbnail,
+      wAkiu.thumbnail
+    ].filter(Boolean),
+    summary: description,
+    review_count: (hSakan.reviewCount || 0) + (hZuiho.reviewCount || 0),
+    family_friendly: "はい、ホテル瑞鳳の屋内温水プールや豪華バイキング、佐勘の広々とした和室など家族連れにも最適です。"
+  };
+
+  const noteMarkdown = `---
+title: "${title}"
+date: "${date}"
+description: "${description}"
+tags: ["仙台", "光のページェント", "秋保温泉", "作並温泉", "仙台セリ鍋", "宮城旅行", "楽天トラベル"]
+---
+
+杜の都・仙台の初冬を象徴する国内屈指の光の祭典「SENDAI光のページェント」。定禅寺通のケヤキ並木160本以上に張り巡らされた数十万球のLEDが灯ると、頭上に眩いばかりの黄金の光のアーチが出現します。一瞬の静寂ののちに光が蘇る「スターライト・ウインク」の瞬間は、毎年多くの旅人の心を震わせます。
+
+さらに11月から12月にかけての宮城は、名物「仙台セリ鍋」や極上「仙台牛」、三陸の「松島牡蠣」など冬の味覚が最高潮を迎える黄金期。街のイルミネーションを堪能した後は、伊達政宗公ゆかりの開湯1500年の名湯「秋保温泉」や広瀬川の渓流沿いに湧く「作並温泉」の湯船に身を沈めるのが大人の贅沢です。
+
+楽天トラベルの最新データから高評価の名宿5選を厳選し、見どころと混雑回避の実戦ルートを徹底解説します。
+
+---
+
+## ✨ SENDAI光のページェント＆冬の仙台攻略ポイント
+- **開催場所**: 仙台市青葉区 定禅寺通（東二番丁通〜市民会館前）
+- **開催期間**: 例年12月上旬〜12月下旬（点灯時間は平日19:00〜22:00、土日18:00〜22:00）
+- **スターライト・ウインク**: 1日3回、全灯が一斉に消灯し数秒後に再点灯する感動の瞬間を見逃さないこと。
+- **11月のグルメ旬入り**: 11月は名取名産の根セリを使った「仙台セリ鍋」や三陸牡蠣が本格解禁。街の混雑前に美食旅を楽しむのもおすすめです。
+- **アクセス**: 点灯時間帯は周辺道路が渋滞するため、宿の無料送迎バスや地下鉄南北線「勾当台公園駅」の利用が快適。
+
+---
+
+## 1. 伝承千年の宿 佐勘（宮城県仙台市太白区・秋保温泉）
+![伝承千年の宿 佐勘](${hSakan.hotelImageUrl})
+開湯1500年、仙台藩主・伊達政宗公の湯守を務めた格式高い名旅館。名取川の清流を望む「名取川露天風呂」や秋保最古の湯を再現した「河原の湯」など名湯を満喫。夕食は仙台牛や仙台セリ鍋など東北の贅を尽くした炭火会席が評判です。
+
+- **楽天トラベル総合評価**: ★${hSakan.reviewAverage}（クチコミ ${hSakan.reviewCount}件）
+- **目安料金**: 1名 ¥${(hSakan.hotelMinCharge || 20000).toLocaleString()}〜
+- **所在地**: ${hSakan.address1}${hSakan.address2}
+- **アクセス**: ${hSakan.access}
+- **駐車場**: ${hSakan.parkingInformation}
+- [👉 伝承千年の宿 佐勘の宿泊プラン・空室状況を見る](${hSakan.affiliateUrl})
+
+---
+
+## 2. 仙台 秋保温泉 ホテル瑞鳳（宮城県仙台市太白区・秋保温泉）
+![ホテル瑞鳳](${hZuiho.hotelImageUrl})
+広大な日本庭園と6つの庭園露天風呂を誇る大型温泉リゾート。職人が目の前で焼き上げる厚切り仙台牛タンや本ズワイガニ、揚げたて天ぷらが並ぶ豪華バイキングは圧巻。屋内温水プールやサウナも完備しファミリーにも大人気です。
+
+- **楽天トラベル総合評価**: ★${hZuiho.reviewAverage}（クチコミ ${hZuiho.reviewCount}件）
+- **目安料金**: 1名 ¥${(hZuiho.hotelMinCharge || 16000).toLocaleString()}〜
+- **所在地**: ${hZuiho.address1}${hZuiho.address2}
+- **アクセス**: ${hZuiho.access}
+- **駐車場**: ${hZuiho.parkingInformation}
+- [👉 ホテル瑞鳳の宿泊プラン・空室状況を見る](${hZuiho.affiliateUrl})
+
+---
+
+## 3. 秋保温泉 茶寮宗園（宮城県仙台市太白区・秋保温泉）
+![茶寮宗園](${hSoen.hotelImageUrl})
+約8,000坪の美しい日本庭園にわずか26室の数寄屋造り料亭旅館。日本の伝統美と静寂に包まれた露天風呂付き離れ棟、四季の移ろいを繊細に映し出す本格茶懐石料理など、大人のための至福のおこもりステイが叶います。
+
+- **楽天トラベル総合評価**: ★${hSoen.reviewAverage}（クチコミ ${hSoen.reviewCount}件）
+- **目安料金**: 1名 ¥${(hSoen.hotelMinCharge || 45000).toLocaleString()}〜
+- **所在地**: ${hSoen.address1}${hSoen.address2}
+- **アクセス**: ${hSoen.access}
+- **駐車場**: ${hSoen.parkingInformation}
+- [👉 茶寮宗園の宿泊プラン・空室状況を見る](${hSoen.affiliateUrl})
+
+---
+
+## 4. 大江戸温泉物語Premium 仙台作並（旧：岩松旅館）（宮城県仙台市青葉区）
+![仙台作並（旧岩松旅館）](${hIwamatsu.hotelImageUrl})
+寛政8年開湯の歴史を刻む名宿。88段の木造階段を下りた先にある広瀬川渓流沿いの天然自噴岩風呂は圧巻。大江戸温泉物語Premiumとしてリニューアルし、無料プレミアムラウンジやライブキッチン付きビュッフェで快適性が劇的に進化しました。
+
+- **楽天トラベル総合評価**: ★${hIwamatsu.reviewAverage}（クチコミ ${hIwamatsu.reviewCount}件）
+- **目安料金**: 1名 ¥${(hIwamatsu.hotelMinCharge || 14000).toLocaleString()}〜
+- **所在地**: ${hIwamatsu.address1}${hIwamatsu.address2}
+- **アクセス**: ${hIwamatsu.access}
+- **駐車場**: ${hIwamatsu.parkingInformation}
+- [👉 仙台作並（旧岩松旅館）の宿泊プラン・空室状況を見る](${hIwamatsu.affiliateUrl})
+
+---
+
+## 5. ウェスティンホテル仙台（宮城県仙台市青葉区）
+![ウェスティンホテル仙台](${hWestin.hotelImageUrl})
+東北最高層ビル「仙台トラストタワー」上層階に位置するラグジュアリーホテル。全室から仙台市街の壮麗な夜景を一望。名物のヘブンリーベッドで上質な眠りに就き、定禅寺通へも車で約5分と都市型イルミネーション旅に最適な拠点です。
+
+- **楽天トラベル総合評価**: ★${hWestin.reviewAverage}（クチコミ ${hWestin.reviewCount}件）
+- **目安料金**: 1名 ¥${(hWestin.hotelMinCharge || 18000).toLocaleString()}〜
+- **所在地**: ${hWestin.address1}${hWestin.address2}
+- **アクセス**: ${hWestin.access}
+- **駐車場**: ${hWestin.parkingInformation}
+- [👉 ウェスティンホテル仙台の宿泊プラン・空室状況を見る](${hWestin.affiliateUrl})
+
+---
+
+## 📸 宿の近隣観光地ガイド（Wikipedia公式データ連携）
+
+### 定禅寺通（宮城県仙台市青葉区）
+![定禅寺通](${wJozenji.thumbnail || hWestin.hotelImageUrl})
+${wJozenji.extract}
+- **宿からのアクセス**: ウェスティンホテル仙台からタクシー約5分。秋保温泉から車で約30分。
+
+### 秋保温泉（宮城県仙台市太白区）
+![秋保温泉](${wAkiu.thumbnail || hSakan.hotelImageUrl})
+${wAkiu.extract}
+- **宿からのアクセス**: 佐勘、瑞鳳、茶寮宗園の所在地。磊々峡遊歩道の奇岩散策も徒歩すぐ。
+
+### 瑞鳳殿（宮城県仙台市青葉区）
+![瑞鳳殿](${wZuihoden.thumbnail || hZuiho.hotelImageUrl})
+${wZuihoden.extract}
+- **宿からのアクセス**: 仙台駅から車で約10分。伊達政宗公が眠る極彩色の霊屋建築が見事です。
+
+### 仙台城跡（青葉城）（宮城県仙台市青葉区）
+![仙台城](${wSendaiCastle.thumbnail || hSoen.hotelImageUrl})
+${wSendaiCastle.extract}
+- **宿からのアクセス**: 仙台駅から車で約15分。伊達政宗公騎馬像の前に立つと仙台市街が一望できます。
+`;
+
+  return { postData, noteMarkdown };
+};

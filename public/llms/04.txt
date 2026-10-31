@@ -1,4 +1,14 @@
-# 宮城県の宿泊・観光記事（50件）
+# 宮城県の宿泊・観光記事（51件）
+
+## 【宮城・仙台】2026SENDAI光のページェント＆名湯秋保・作並温泉完全攻略！杜の都を黄金色に染めるケヤキ並木と仙台牛・セリ鍋を堪能する厳選名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-sendai-hikari-no-pageant-akiu-onsen-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-sendai-hikari-no-pageant-akiu-onsen-hotels-guide.md
+- 宿泊施設名: SENDAI光のページェント周辺 厳選名宿5選
+- エリア: 仙台・秋保・作並
+- 参考価格: ¥16720〜
+- 評価: 4.44
+
+杜の都・仙台の初冬の風物詩「SENDAI光のページェント」。定禅寺通のケヤキ並木が数十万球のLEDで黄金色の光のトンネルへと変貌し、一瞬消灯して再点灯する「スターライト・ウインク」が感動を呼びます。11月から旬を迎える名物「仙台セリ鍋」や極上仙台牛、伊達政宗公の湯守を務めた開湯1500年の秋保温泉名門宿や広瀬川の渓流露天風呂など厳選5宿を徹底ガイド。
 
 ## 【2026年11月限定】日本三景・松島「円通院」紅葉ライトアップ＆初牡蠣特選宿5選
 - 記事: https://croud-travel.pages.dev/posts/autumn-november-matsushima-entuuin-kaki-guide/

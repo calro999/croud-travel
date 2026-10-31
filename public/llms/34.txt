@@ -1,4 +1,14 @@
-# 広島県の宿泊・観光記事（45件）
+# 広島県の宿泊・観光記事（46件）
+
+## 【広島・宮島】世界遺産・嚴島神社＆紅葉谷公園もみじ狩り完全攻略！大鳥居の潮汐と紅葉ライトアップ、旬の広島牡蠣・穴子を堪能する厳選温泉宿5選
+- 記事: https://croud-travel.pages.dev/posts/autumn-hiroshima-miyajima-momijidani-itsukushima-onsen-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/autumn-hiroshima-miyajima-momijidani-itsukushima-onsen-hotels-guide.md
+- 宿泊施設名: 宮島嚴島神社＆紅葉谷公園周辺 厳選名宿5選
+- エリア: 宮島・廿日市・宮浜温泉
+- 参考価格: ¥37400〜
+- 評価: 4.67
+
+日本三景の筆頭・安芸の宮島が一年で最も華やぐ11月の紅葉シーズン。約700本ものモミジが朱に染まる「紅葉谷公園」では、清流にもみじ橋が映り込む錦秋の絶景が広がり、夜は世界遺産・嚴島神社の大鳥居が幻想的に照らし出されます。11月に旨味のピークを迎える名物「広島牡蠣」や極上穴子めし、神の島に湧く宮島潮湯温泉の名旅館や対岸・宮浜温泉の絶景庭園宿など厳選5宿を徹底解説。
 
 ## 冬休みの世界遺産宮島厳島神社＆広島お好み焼き学生旅行！揚げもみじ食べ歩きと宮島コーラルホテル名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-youth-hiroshima-miyajima-oyster-coral-guide/
