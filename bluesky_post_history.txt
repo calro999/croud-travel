@@ -203,3 +203,4 @@ showcase_miyagi
 naha-kokusaidori-south-hotels-guide
 showcase_okinawa
 treehouse-forest-cabin-nature-resort-hotels-guide
+showcase_aomori
