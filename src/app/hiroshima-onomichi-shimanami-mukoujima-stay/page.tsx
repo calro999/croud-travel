@@ -352,7 +352,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2022年3月　「2タイプのスイートルーム」　「プレミアムラウンジ」がOPEN！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 広島県福山市鞆町鞆136 ／ 最寄り駅：福山 ／ 交通案内：福山駅南口～予約制シャトルバス1日3便12：00／14：45／16：15　福山東IC・福山西IC共に車で30分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
+                  <p>【広島・尾道＆しまなみ海道向島：千光寺坂の街・猫の細道】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションと料理が最高、清掃も完璧こちらの旅館が1番の楽しみで来ました。まず、クチコミ通りロケーションが素晴らしくお料理も大変美味しかったです。フロントさんの接客も丁寧でおはようございますや…　2026-08-19 12:52:07投稿」
@@ -396,7 +396,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>目の前に広がる尾道の絶景をお楽しみください☆特におすすめは夜景！水面に映る街灯りが幻想的です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 広島県尾道市向島町84-2 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【広島・尾道＆しまなみ海道向島：千光寺坂の街・猫の細道】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>尾道やすらぎの宿　しーそーの滞在ポイント：</strong>「広島・尾道＆しまなみ海道向島エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」

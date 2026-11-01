@@ -371,28 +371,26 @@ export default function Page() {
 
         {/* Furusato Tax Guide Section */}
         <section className="bg-gradient-to-br from-amber-900 to-stone-900 text-white rounded-2xl p-6 sm:p-8 shadow-lg mb-12">
-          <h3 className="text-xl sm:text-2xl font-bold mb-4 text-amber-200">
-            💡 楽天ふるさと納税で「宿泊クーポン」を賢く手に入れる3ステップ
-          </h3>
+          <h3 className="text-xl sm:text-2xl font-bold mb-4 text-amber-200">💡 楽天ふるさと納税で「宿泊クーポン」を賢く手に入れる3ステップ（世界遺産・吉野山の秋色グラデーション（下千本）</h3>
           <p className="text-stone-200 text-sm sm:text-base leading-relaxed mb-6">
             楽天ふるさと納税を利用すれば、奈良県内の対象宿泊施設で使える楽天トラベルクーポンが寄付額に応じて返礼品として付与されます。実質負担2,000円で高級宿に泊まれるお得な活用法をチェックしましょう。
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
             <div className="bg-stone-800/80 p-4 rounded-xl border border-stone-700">
               <div className="text-amber-400 font-bold text-sm mb-1">STEP 1. 控除上限額を確認</div>
-              <p className="text-xs text-stone-300">
+              <p className="text-xs text-stone-300">【世界遺産・吉野山の秋色グラデーション（下千本】 
                 ご自身の年収や家族構成から、自己負担2,000円で寄付できる年間控除上限額をシミュレーションします。
               </p>
             </div>
             <div className="bg-stone-800/80 p-4 rounded-xl border border-stone-700">
               <div className="text-amber-400 font-bold text-sm mb-1">STEP 2. 自治体へ寄付</div>
-              <p className="text-xs text-stone-300">
+              <p className="text-xs text-stone-300">【世界遺産・吉野山の秋色グラデーション（下千本】 
                 楽天ふるさと納税から対象自治体の「楽天トラベルクーポン返礼品」を選んで寄付を申し込みます。
               </p>
             </div>
             <div className="bg-stone-800/80 p-4 rounded-xl border border-stone-700">
               <div className="text-amber-400 font-bold text-sm mb-1">STEP 3. 予約時にクーポン適用</div>
-              <p className="text-xs text-stone-300">
+              <p className="text-xs text-stone-300">【世界遺産・吉野山の秋色グラデーション（下千本】 
                 付与されたクーポンを楽天トラベルの予約画面で選択するだけで、即座に宿泊代金が割引されます。
               </p>
             </div>
@@ -407,9 +405,7 @@ export default function Page() {
 
         {/* FAQ Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
-          <h3 className="text-xl sm:text-2xl font-bold text-slate-900 border-b border-slate-200 pb-3 mb-6">
-            よくある質問（FAQ）
-          </h3>
+          <h3 className="text-xl sm:text-2xl font-bold text-slate-900 border-b border-slate-200 pb-3 mb-6">よくある質問（FAQ）（世界遺産・吉野山の秋色グラデーション（下千本）</h3>
           <div className="space-y-6">
             <div className="border-b border-slate-100 pb-4">
               <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2">
@@ -423,7 +419,7 @@ export default function Page() {
               <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2">
                 <span className="text-amber-600 font-bold">Q.</span> ふるさと納税クーポンと楽天トラベルの他セールクーポンは併用できますか？
               </h4>
-              <p className="text-sm text-slate-600 leading-relaxed pl-6">
+              <p className="text-sm text-slate-600 leading-relaxed pl-6">【世界遺産・吉野山の秋色グラデーション（下千本】 
                 楽天トラベルでは、原則として自治体発行のふるさと納税クーポンと一部の宿クーポン等を組み合わせて利用可能です。予約ステップで適用可能なクーポンが自動表示されます。
               </p>
             </div>
@@ -458,7 +454,7 @@ export default function Page() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（世界遺産・吉野山の秋色グラデーション（下千本）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 吉野（奈良）駅よりアクセス。近鉄 吉野駅より徒歩にて２０分、送迎車あり。</li>
@@ -470,7 +466,7 @@ export default function Page() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（世界遺産・吉野山の秋色グラデーション（下千本）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「吉野温泉元湯」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -488,9 +484,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜世界遺産・吉野山の秋色グラデーション（下千本</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-niigata-echigo-yuzawa-dragondola-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -511,7 +505,7 @@ export default function Page() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（世界遺産・吉野山の秋色グラデーション（下千本）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/niigata/"

@@ -647,7 +647,7 @@ export default function HokkaidoWakkanaiWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs">
-        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
+        <p>【11・12・1月北海道：日本最北端「宗谷岬」冬の初日】 © 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-1 text-slate-500">
           ※本記事に掲載している宿泊施設情報、価格、評価、交通アクセス等は、楽天トラベルAPIおよび公式サイトの最新データに基づいています。冬期の宗谷岬方面バス運行ダイヤや天候による運休情報は、事前にお確かめください。
         </p>

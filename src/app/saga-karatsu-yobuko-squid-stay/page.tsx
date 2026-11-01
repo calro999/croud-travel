@@ -321,7 +321,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「佐賀・唐津＆呼子（唐津城・虹の松原＆呼子活イカ姿造り・佐賀牛宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：福岡空港、JR博多駅よりＪＲ唐津行唐津駅下車、車３分　徒歩１5分／長崎自動車道多久ＩＣより４０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【佐賀・唐津＆呼子：唐津城・虹の松原＆呼子活イカ姿造り】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の美味しいお宿です名物の呼子イカ佐賀牛の大満足会席プランを利用させていただきました。大満足のお食事で唐津城を見ながら食事をすることができ気持ちよく食事をいただきました。お宿は歴史のある…　2026-09-07 15:21:50投稿」
@@ -365,7 +365,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>“美食と歴史”を堪能する宿。玄界灘の海の幸と唐津焼、歴史ある空間が織りなすひとときをお愉しみください</p>
                   <p><strong>【所在地・アクセス】</strong>〒 佐賀県唐津市東城内4-50 ／ 最寄り駅：唐津 ／ 交通案内：ＪＲ唐津駅より車で約５分／長崎自動車道多久ＩＣより４０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
+                  <p>【佐賀・唐津＆呼子：唐津城・虹の松原＆呼子活イカ姿造り】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>日本料理　水野旅館＜唐津＞の滞在ポイント：</strong>「佐賀・唐津＆呼子エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」

@@ -76,7 +76,7 @@ export default function ArticlePage() {
             神奈川・箱根湯本温泉ひとり旅＆渓流美おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「箱根湯本ひとり旅・自然渓流おこもり」ロマンスカー直通・渓流露天風呂・旬会席！都心から85分の極上ソロ温泉リトリート厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">【箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通】 
             更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
           </p>
           
@@ -95,10 +95,8 @@ export default function ArticlePage() {
 
         {/* 目次 */}
         <section className="bg-white p-5 rounded-2xl border border-stone-200 shadow-sm mb-10">
-          <h2 className="text-sm font-bold text-stone-900 mb-3 flex items-center gap-2">
-            <span>📑</span>
-            <span>この記事で紹介する厳選ホテル（楽天トラベル最新評価順）</span>
-          </h2>
+          <h2 className="text-sm font-bold text-stone-900 mb-3 flex items-center gap-2"><span>📑</span>
+            <span>この記事で紹介する厳選ホテル（楽天トラベル最新評価順）</span>｜箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通</h2>
           <ul className="text-xs sm:text-sm space-y-2">
             <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 箱根湯本　温泉旅館「大和館」（★4.76 / 最低目安：9,900円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. 箱根湯本温泉　箱根パークス吉野（★4.29 / 最低目安：7,130円〜）</a></li>
@@ -142,7 +140,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通）</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>〜江戸初期創業</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>箱根最古の良質な温泉を「源泉かけ流し」「貸切」で〜【温泉ソムリエ がいる宿】</span></li>
@@ -198,7 +196,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通）</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>楽天アワード2025　地上２０ｍ展望露天風呂からの眺望はリフレッシュに最適　三箇所ある貸切風呂も好評</span></li>
               </ul>
@@ -253,7 +251,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通）</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>全室離れお部屋食の宿</span></li>
               </ul>
@@ -299,10 +297,8 @@ export default function ArticlePage() {
 
         {/* よくある質問 FAQ */}
         <section className="bg-amber-50/40 rounded-2xl border border-amber-200/60 p-6 sm:p-8 mb-10">
-          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span>❓</span>
-            <span>よくある質問（FAQ）</span>
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span>❓</span>
+            <span>よくある質問（FAQ）</span>｜箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通</h2>
           <div className="space-y-4">
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
               <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
@@ -327,7 +323,7 @@ export default function ArticlePage() {
 
         {/* 記事末尾CTA */}
         <div className="text-center bg-stone-900 text-white p-8 rounded-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold mb-3">気になる宿は見つかりましたか？</h2>
+          <h2 className="text-xl sm:text-2xl font-bold mb-3">気になる宿は見つかりましたか？｜箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通</h2>
           <p className="text-stone-300 text-xs sm:text-sm max-w-lg mx-auto mb-6">
             「箱根湯本ひとり旅・自然渓流おこもり（ロマンスカー直通・渓流露天風呂・旬会席）」で人気の「箱根湯本　温泉旅館「大和館」」をはじめ、週末や連休は条件の良い客室から埋まりやすいため、楽天トラベルの空室カレンダーから早めの日程確認をおすすめします。
           </p>
@@ -351,7 +347,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 箱根湯本駅よりアクセス。「箱根湯本駅」より徒歩約6分／「温泉場入口」バス停より徒歩すぐ／小田原厚木道路「箱根口IC」より10分（5km）。</li>
@@ -363,7 +359,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「箱根湯本 温泉旅館「大和館」」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -381,9 +377,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-budget-iwate-morioka-station-castle-reimen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -404,7 +398,7 @@ export default function ArticlePage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/tokushima/"
@@ -534,7 +528,7 @@ export default function ArticlePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>楽天アワード2025　地上２０ｍ展望露天風呂からの眺望はリフレッシュに最適　三箇所ある貸切風呂も好評</p>
                   <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町湯本茶屋139-5 ／ 最寄り駅：箱根湯本 ／ 交通案内：箱根湯本駅より徒歩12分。お車では小田原厚木道路小田原西ICから国道1号線経由約12分。無料駐車場併設。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
+                  <p>【箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が和室でリニューアルしてない部屋なので薄気味悪い感じの電気でメイクする時暗くて見にくかった。そしてご飯から戻ってきて部屋に入るとカビ臭くて窓開けないと無理だった。リニューアルしてある部屋にすれば良…　2026-08-22 23:21:06投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9669&quot; class=&quot;3click&quot;」
@@ -576,16 +570,16 @@ export default function ArticlePage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">中尊寺金色堂（平泉）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">世界遺産・平泉の象徴であり、奥州藤原氏の栄華を今に伝える極楽浄土の建築。堂全体が金箔で覆われ、螺鈿細工や象牙の装飾が施された国宝の美しさは言葉を失うほどです。</p>
+                <h3 className="text-base font-bold text-stone-900">中尊寺金色堂（平泉）（箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通】 世界遺産・平泉の象徴であり、奥州藤原氏の栄華を今に伝える極楽浄土の建築。堂全体が金箔で覆われ、螺鈿細工や象牙の装飾が施された国宝の美しさは言葉を失うほどです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">浄土ヶ浜</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">三陸復興国立公園を代表する三陸海岸の景勝地。白い鋭利な岩肌と青松、穏やかで透明度の高いエメラルドグリーンの入江が「まるで極楽浄土のよう」と称えられています。</p>
+                <h3 className="text-base font-bold text-stone-900">浄土ヶ浜（箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通】 三陸復興国立公園を代表する三陸海岸の景勝地。白い鋭利な岩肌と青松、穏やかで透明度の高いエメラルドグリーンの入江が「まるで極楽浄土のよう」と称えられています。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -593,15 +587,15 @@ export default function ArticlePage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
                 <h3 className="text-base font-bold text-stone-900">龍泉洞</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三大鍾乳洞の一つで、国の天然記念物。洞内に湧き出る地底湖は世界有数の透明度を誇り、「ドラゴンブルー」と呼ばれる神秘的な青い輝きに吸い込まれそうになります。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通】 日本三大鍾乳洞の一つで、国の天然記念物。洞内に湧き出る地底湖は世界有数の透明度を誇り、「ドラゴンブルー」と呼ばれる神秘的な青い輝きに吸い込まれそうになります。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">小岩井農場</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">岩手山の雄大な山麓に広がる日本最大級の民間総合農場。美しい一本桜や歴史あるレンガサイロ、搾りたての牛乳を使った絶品アイスクリームなどが楽しめます。</p>
+                <h3 className="text-base font-bold text-stone-900">小岩井農場（箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通】 岩手山の雄大な山麓に広がる日本最大級の民間総合農場。美しい一本桜や歴史あるレンガサイロ、搾りたての牛乳を使った絶品アイスクリームなどが楽しめます。</p>
               </div>
             </div>
             </div>

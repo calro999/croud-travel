@@ -97,10 +97,8 @@ export default function ArticlePage() {
         {/* 厳選ホテルリスト */}
         <div className="space-y-10">
           <div className="border-l-4 border-amber-800 pl-4 py-1">
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900">
-              編集部が厳選！おすすめの極上宿・ホテル詳細
-            </h2>
-            <p className="text-xs sm:text-sm text-stone-500 mt-1">
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900">編集部が厳選！おすすめの極上宿・ホテル詳細｜浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上</h2>
+            <p className="text-xs sm:text-sm text-stone-500 mt-1">【浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上】 
               楽天トラベルの最新APIデータを反映。口コミ高評価＆こだわり設備を徹底チェック
             </p>
           </div>
@@ -378,9 +376,7 @@ export default function ArticlePage() {
 
         {/* よくある質問 FAQ */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-stone-900 border-b border-stone-200 pb-3">
-            よくある質問（FAQ）
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-stone-900 border-b border-stone-200 pb-3">よくある質問（FAQ）｜浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上</h2>
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
@@ -441,7 +437,7 @@ export default function ArticlePage() {
                 <span>Q. 事前準備や持ち物で注意すべきポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
-              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
+              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">【浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上】 
                 A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
@@ -590,32 +586,32 @@ export default function ArticlePage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">三島スカイウォーク</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本一長い歩行者専用吊り橋（全長400m）。富士山と駿河湾のパノラマ絶景を空中散歩感覚で楽しめ、ジップラインなどのアクティビティも充実しています。</p>
+                <h3 className="text-base font-bold text-stone-900">三島スカイウォーク（浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上】 日本一長い歩行者専用吊り橋（全長400m）。富士山と駿河湾のパノラマ絶景を空中散歩感覚で楽しめ、ジップラインなどのアクティビティも充実しています。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">熱海温泉・サンビーチ</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">都心からのアクセスが抜群な海辺の温泉リゾート。地中海リゾートを彷彿とさせるサンビーチや年間を通して開催される熱海海上花火大会が人気です。</p>
+                <h3 className="text-base font-bold text-stone-900">熱海温泉・サンビーチ（浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上】 都心からのアクセスが抜群な海辺の温泉リゾート。地中海リゾートを彷彿とさせるサンビーチや年間を通して開催される熱海海上花火大会が人気です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">伊豆シャボテン動物公園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">1,500種類のサボテンと世界中の動物たちが暮らすテーマパーク。冬限定の「元祖カピバラの露天風呂」の癒やされる姿は全国的に有名です。</p>
+                <h3 className="text-base font-bold text-stone-900">伊豆シャボテン動物公園（浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上】 1,500種類のサボテンと世界中の動物たちが暮らすテーマパーク。冬限定の「元祖カピバラの露天風呂」の癒やされる姿は全国的に有名です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">白糸の滝</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">富士山の湧水が幅150mの湾曲した絶壁から千本の絹糸のように流れ落ちる国指定の名勝・天然記念物。清涼なマイナスイオンと富士の恵みを体感できます。</p>
+                <h3 className="text-base font-bold text-stone-900">白糸の滝（浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上】 富士山の湧水が幅150mの湾曲した絶壁から千本の絹糸のように流れ落ちる国指定の名勝・天然記念物。清涼なマイナスイオンと富士の恵みを体感できます。</p>
               </div>
             </div>
             </div>

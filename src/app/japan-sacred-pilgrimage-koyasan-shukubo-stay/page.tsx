@@ -330,7 +330,7 @@ export default function HistoryHeritageHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高野山街の中央.お買い物や各所観光に便利な宿坊。手作りごま豆腐と伝統の「精進料理」は好評です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 和歌山県伊都郡高野町高野山447 ／ 最寄り駅：主要駅 ／ 交通案内：南海高野山駅より「奥の院」行きバスで１３分。「小田原通り」下車すぐ前。タクシーで約８分。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
+                  <p>【世界遺産・霊場巡り＆宿坊体験宿：高野山宿坊・熊野古道】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.58 ／ 立地 ★4 ／ 部屋 ★3.68 ／ 設備 ★3.71 ／ 風呂 ★3.44 ／ 食事 ★4.53</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「精進料理が美味しく、部屋もグレードアップ西門院さんの精進料理美味しかったです!シルバーウィーク明けでたまたま宿泊客が少なかったせいか、お部屋はトイレなし→トイレありにグレードアップしていただい…　2026-09-26 22:36:08投稿」

@@ -440,7 +440,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>人気のワイン風呂や星空露天寝湯、サウナも完備。河口湖畔に佇む当館でのんびり静かなひと時を。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山梨県南都留郡富士河口湖町長浜395 ／ 最寄り駅：河口湖 ／ 交通案内：【電車】富士急行線河口湖駅より車で約10分【車】河口湖ICより約3キロ・約15分。勝山から湖畔道路を大石方面へ湖畔沿いへ</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
+                  <p>【山梨・富士五湖＆河口湖：逆さ富士・富士急ハイランド＆】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.19 ／ 部屋 ★4.16 ／ 設備 ★4.12 ／ 風呂 ★4.35 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「外観は少し古く感じますが、館内はとても清潔に整えられていて、お部屋もキレイで快適に過ごす事ができました。電車での旅でしたので、駅から送迎バスがあって助かりました。クチコミの詳細はこちらから…　2026-10-06 18:12:22投稿」
@@ -460,32 +460,32 @@ export default function MicroTouristHubPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">富士山（吉田ルート/五合目）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本の最高峰であり世界文化遺産の象徴。富士スバルラインで行く五合目は観光施設が充実し、眼下に雲海を望む圧巻のスタート地点です。</p>
+                <h3 className="text-base font-bold text-stone-900">富士山（吉田ルート/五合目）（山梨・富士五湖＆河口湖：逆さ富士・富士急ハイランド＆）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【山梨・富士五湖＆河口湖：逆さ富士・富士急ハイランド＆】 日本の最高峰であり世界文化遺産の象徴。富士スバルラインで行く五合目は観光施設が充実し、眼下に雲海を望む圧巻のスタート地点です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">新倉山浅間公園（忠霊塔）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">五重塔（忠霊塔）越しに雄大な富士山と満開の桜を一望できる、世界中の観光客が熱望する「これぞ日本」という究極のアジアンビジュアルスポット。</p>
+                <h3 className="text-base font-bold text-stone-900">新倉山浅間公園（忠霊塔）（山梨・富士五湖＆河口湖：逆さ富士・富士急ハイランド＆）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【山梨・富士五湖＆河口湖：逆さ富士・富士急ハイランド＆】 五重塔（忠霊塔）越しに雄大な富士山と満開の桜を一望できる、世界中の観光客が熱望する「これぞ日本」という究極のアジアンビジュアルスポット。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">富士五湖（河口湖）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">富士山の北麓に位置する静かな湖畔リゾート。四季折々の富士山が水面に映る「逆さ富士」や、大石公園のコキア・ラベンダー越しのアングルが人気です。</p>
+                <h3 className="text-base font-bold text-stone-900">富士五湖（河口湖）（山梨・富士五湖＆河口湖：逆さ富士・富士急ハイランド＆）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【山梨・富士五湖＆河口湖：逆さ富士・富士急ハイランド＆】 富士山の北麓に位置する静かな湖畔リゾート。四季折々の富士山が水面に映る「逆さ富士」や、大石公園のコキア・ラベンダー越しのアングルが人気です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">勝沼ぶどうの丘</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本有数のワイン産地・勝沼の高台に立つ総合ワインリゾート。タパスとともに100種類以上の甲州ワインを試飲できる地下ワインカーヴが魅力です。</p>
+                <h3 className="text-base font-bold text-stone-900">勝沼ぶどうの丘（山梨・富士五湖＆河口湖：逆さ富士・富士急ハイランド＆）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【山梨・富士五湖＆河口湖：逆さ富士・富士急ハイランド＆】 日本有数のワイン産地・勝沼の高台に立つ総合ワインリゾート。タパスとともに100種類以上の甲州ワインを試飲できる地下ワインカーヴが魅力です。</p>
               </div>
             </div>
             </div>

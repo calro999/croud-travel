@@ -61,10 +61,8 @@ export default function FurusatoFeaturePage() {
 
           {/* 公式キャンペーンCTA */}
           <div className="p-6 rounded-3xl bg-gradient-to-br from-amber-500/20 via-amber-600/10 to-transparent border border-amber-500/30 backdrop-blur max-w-2xl mx-auto">
-            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">
-              楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！
-            </h2>
-            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">
+            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！｜クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳</h2>
+            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">【クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳】 
               寄附翌日には楽天トラベルで使えるクーポンが付与。有効期限はたっぷり3年間あるため、次の大型連休や記念日旅行にも安心して活用いただけます。
             </p>
             <a
@@ -412,10 +410,8 @@ export default function FurusatoFeaturePage() {
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto">
         <div className="p-8 sm:p-10 rounded-3xl bg-gradient-to-r from-amber-600/30 via-orange-600/20 to-stone-900 border border-amber-500/40 text-center relative overflow-hidden">
           <div className="relative z-10">
-            <h2 className="text-2xl sm:text-3xl font-black text-amber-100 mb-4">
-              ふるさと納税の宿泊クーポンでお得に極上の旅へ
-            </h2>
-            <p className="text-sm sm:text-base text-stone-300 max-w-2xl mx-auto mb-6 leading-relaxed">
+            <h2 className="text-2xl sm:text-3xl font-black text-amber-100 mb-4">ふるさと納税の宿泊クーポンでお得に極上の旅へ｜クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳</h2>
+            <p className="text-sm sm:text-base text-stone-300 max-w-2xl mx-auto mb-6 leading-relaxed">【クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳】 
               寄附上限額の範囲内なら、実質自己負担2,000円で憧れの特等席宿やリゾートに宿泊可能。楽天ポイント還元も併用して、賢く贅沢なひとときをお過ごしください。
             </p>
             <a
@@ -433,9 +429,7 @@ export default function FurusatoFeaturePage() {
 
       {/* 関連記事 内部リンク */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-t border-stone-800">
-        <h2 className="text-xl sm:text-2xl font-bold text-amber-200 mb-6">
-          あわせて読みたい！テーマ別ふるさと納税トラベルガイド
-        </h2>
+        <h2 className="text-xl sm:text-2xl font-bold text-amber-200 mb-6">あわせて読みたい！テーマ別ふるさと納税トラベルガイド｜クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <Link
@@ -607,7 +601,7 @@ export default function FurusatoFeaturePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>閑静で落ち着いた昔変らぬ宿心。移り変わる風情とともに、台温泉で過ごすお時間をごゆるりとお寛ぎ下さい</p>
                   <p><strong>【所在地・アクセス】</strong>〒 岩手県花巻市台２－４５ ／ 最寄り駅：花巻 ／ 交通案内：ＪＲ東北本線　花巻駅より車で１５分／東北新幹線　新花巻駅より車で２０分／花巻空港より車で１５分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
+                  <p>【クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.04 ／ 立地 ★3.83 ／ 部屋 ★3.89 ／ 設備 ★3.74 ／ 風呂 ★4.03 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古めだが清潔で食事も美味しく満足設備は多少古い感じはしますが、十分綺麗に行き届いた感じになっております。食事も十分でおいしかったです。また機会がありましたら伺いたいと思います。大変満足いたし…　2026-09-30 21:14:12投稿」
@@ -651,7 +645,7 @@ export default function FurusatoFeaturePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>とろとろの湯と心に残るおもてなし。特別な日を佳松園で過ごす愉しみ。花巻ICよりわずか5分の別世界。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 岩手県花巻市湯本第1地割125-2 ／ 最寄り駅：新花巻 ／ 交通案内：花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
+                  <p>【クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.61 ／ 部屋 ★4.64 ／ 設備 ★4.68 ／ 風呂 ★4.79 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が良く、食事も温泉も大満足スタッフの皆さんの対応が感じよく、チェックインからチェックアウトまでとても気持ちよく過ごすことができました。食事も温泉もお部屋も満足で非日常の空間でリフレッ…　2026-10-10 17:17:52投稿」
@@ -673,7 +667,7 @@ export default function FurusatoFeaturePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳選ガイド弘前・遠野・南信州飯田の果実酒ステイ」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ飯田線 伊那市駅より車で２５分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「高遠湖の景色と温泉、スマートな接客に大満足高遠湖を臨むお部屋は、景色を眺めとてもリラックスすることができました。 美肌効果のある温泉はとっても気持ちよかったです。レストランは夕食 朝食ともに 、ち… 2026-08-26 21:43:37投稿」
@@ -693,32 +687,32 @@ export default function FurusatoFeaturePage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">弘前公園（弘前城）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本屈指の桜の名所として知られる城郭公園。春には約2,600本の桜が咲き誇り、お堀を埋め尽くす「花いかだ」の幻想的な景色は世界中から絶賛されています。</p>
+                <h3 className="text-base font-bold text-stone-900">弘前公園（弘前城）（クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳】 日本屈指の桜の名所として知られる城郭公園。春には約2,600本の桜が咲き誇り、お堀を埋め尽くす「花いかだ」の幻想的な景色は世界中から絶賛されています。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Oirase-keiryu.jpg/1280px-Oirase-keiryu.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="奥入瀬渓流" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">奥入瀬渓流</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">十和田湖から流れる約14kmの美しい清流。豊かな樹木と苔むした岩々、無数の滝が織りなすせせらぎに沿って遊歩道が整備されており、極上のネイチャーウォークを楽しめます。 奥入瀬渓流（おいらせけいりゅう）は、青森県十和田市の十和田湖東岸の子ノ口（ねのくち）から北東に、焼山（十和田市法量（大字）焼山（字））までの約14 kmにわたる奥入瀬川の渓流。十和田八幡平国立公園に属する。国指定の特別名勝及び天然記念物（天然保護区域）。…</p>
+                <h3 className="text-base font-bold text-stone-900">奥入瀬渓流（クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳】 十和田湖から流れる約14kmの美しい清流。豊かな樹木と苔むした岩々、無数の滝が織りなすせせらぎに沿って遊歩道が整備されており、極上のネイチャーウォークを楽しめます。 奥入瀬渓流（おいらせけいりゅう）は、青森県十和田市の十和田湖東岸の子ノ口（ねのくち）から北東に、焼山（十和田市法量（大字）焼山（字））までの約14 kmにわたる奥入瀬川の渓流。十和田八幡平国立公園に属する。国指定の特別名勝及び天然記念物（天然保護区域）。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">ねぶたの家 ワ・ラッセ</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">青森夏の風物詩「青森ねぶた祭」の歴史と魅力を一年中体感できる大型展示施設。実際に祭りで運行された大型ねぶたの迫力を間近で鑑賞できます。</p>
+                <h3 className="text-base font-bold text-stone-900">ねぶたの家 ワ・ラッセ（クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳】 青森夏の風物詩「青森ねぶた祭」の歴史と魅力を一年中体感できる大型展示施設。実際に祭りで運行された大型ねぶたの迫力を間近で鑑賞できます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">仏ヶ浦（ほとけがうら）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">下北半島にある、白緑色の奇岩群が約2kmにわたって続く国の名勝。巨大な如来や観音に見立てられた壮大な自然の彫刻と、澄み渡る陸奥湾の青さが圧巻です。</p>
+                <h3 className="text-base font-bold text-stone-900">仏ヶ浦（ほとけがうら）（クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳】 下北半島にある、白緑色の奇岩群が約2kmにわたって続く国の名勝。巨大な如来や観音に見立てられた壮大な自然の彫刻と、澄み渡る陸奥湾の青さが圧巻です。</p>
               </div>
             </div>
             </div>

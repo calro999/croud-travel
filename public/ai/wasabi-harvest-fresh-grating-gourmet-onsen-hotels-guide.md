@@ -1,5 +1,5 @@
 ---
-title: "本わさび体験ができる宿おすすめ10選！比較"
+title: "【2026最新】本わさび収穫・生わさびすりおろし体験！清流の恵みを味わう名門温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/wasabi-harvest-fresh-grating-gourmet-onsen-hotels-guide/"
 hotel_name: "本わさび収穫・生わさびすりおろし体験！清流の恵みを味わう名門温泉宿おすすめ10選"
 prefecture: "全国"
@@ -10,7 +10,7 @@ review_count: 492
 last_modified: "2026-10-13"
 ---
 
-# 本わさび体験ができる宿おすすめ10選！比較
+# 【2026最新】本わさび収穫・生わさびすりおろし体験！清流の恵みを味わう名門温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/wasabi-harvest-fresh-grating-gourmet-onsen-hotels-guide/
 - **宿泊施設・特集名**: 本わさび収穫・生わさびすりおろし体験！清流の恵みを味わう名門温泉宿おすすめ10選

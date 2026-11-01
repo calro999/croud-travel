@@ -191,10 +191,8 @@ export default function Page() {
 
         {/* 厳選ホテル・宿ランキング比較一覧 */}
         <div className="space-y-8 pt-4">
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2 border-b border-emerald-950/10 pb-3">
-            <span>🏆</span>
-            <span>編集部が厳選したおすすめ宿泊施設 TOP3</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2 border-b border-emerald-950/10 pb-3"><span>🏆</span>
+            <span>編集部が厳選したおすすめ宿泊施設 TOP3</span>｜澄んだ冬空の下で極上の外気浴</h2>
 
           <div className="space-y-8">
             {hotels.map((h, idx) => (
@@ -297,13 +295,13 @@ export default function Page() {
           <div className="space-y-3 text-xs">
             <div className="p-4 rounded-xl bg-teal-50/30 border border-teal-900/10 space-y-1.5">
               <h4 className="font-bold text-teal-950">Q. サウナ・ととのい旅の予約でお得な方法はありますか？</h4>
-              <p className="text-emerald-950/80 leading-relaxed">
+              <p className="text-emerald-950/80 leading-relaxed">【澄んだ冬空の下で極上の外気浴】 
                 楽天トラベルの「5と0のつく日セール」による最大20%割引や、実質2,000円の自己負担で宿泊できる「楽天ふるさと納税宿泊クーポン」の併用が最もお得でおすすめです。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-teal-50/30 border border-teal-900/10 space-y-1.5">
               <h4 className="font-bold text-teal-950">Q. キャンセル料や予約変更はどうなっていますか？</h4>
-              <p className="text-emerald-950/80 leading-relaxed">
+              <p className="text-emerald-950/80 leading-relaxed">【澄んだ冬空の下で極上の外気浴】 
                 各宿泊施設および予約プランによってキャンセル規定が異なります。ご予約完了前に楽天トラベルの詳細ページにてキャンセルポリシーを必ずご確認ください。
               </p>
             </div>
@@ -453,32 +451,32 @@ export default function Page() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">富士山（吉田ルート/五合目）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本の最高峰であり世界文化遺産の象徴。富士スバルラインで行く五合目は観光施設が充実し、眼下に雲海を望む圧巻のスタート地点です。</p>
+                <h3 className="text-base font-bold text-stone-900">富士山（吉田ルート/五合目）（澄んだ冬空の下で極上の外気浴）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【澄んだ冬空の下で極上の外気浴】 日本の最高峰であり世界文化遺産の象徴。富士スバルラインで行く五合目は観光施設が充実し、眼下に雲海を望む圧巻のスタート地点です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">新倉山浅間公園（忠霊塔）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">五重塔（忠霊塔）越しに雄大な富士山と満開の桜を一望できる、世界中の観光客が熱望する「これぞ日本」という究極のアジアンビジュアルスポット。</p>
+                <h3 className="text-base font-bold text-stone-900">新倉山浅間公園（忠霊塔）（澄んだ冬空の下で極上の外気浴）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【澄んだ冬空の下で極上の外気浴】 五重塔（忠霊塔）越しに雄大な富士山と満開の桜を一望できる、世界中の観光客が熱望する「これぞ日本」という究極のアジアンビジュアルスポット。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">富士五湖（河口湖）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">富士山の北麓に位置する静かな湖畔リゾート。四季折々の富士山が水面に映る「逆さ富士」や、大石公園のコキア・ラベンダー越しのアングルが人気です。</p>
+                <h3 className="text-base font-bold text-stone-900">富士五湖（河口湖）（澄んだ冬空の下で極上の外気浴）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【澄んだ冬空の下で極上の外気浴】 富士山の北麓に位置する静かな湖畔リゾート。四季折々の富士山が水面に映る「逆さ富士」や、大石公園のコキア・ラベンダー越しのアングルが人気です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">勝沼ぶどうの丘</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本有数のワイン産地・勝沼の高台に立つ総合ワインリゾート。タパスとともに100種類以上の甲州ワインを試飲できる地下ワインカーヴが魅力です。</p>
+                <h3 className="text-base font-bold text-stone-900">勝沼ぶどうの丘（澄んだ冬空の下で極上の外気浴）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【澄んだ冬空の下で極上の外気浴】 日本有数のワイン産地・勝沼の高台に立つ総合ワインリゾート。タパスとともに100種類以上の甲州ワインを試飲できる地下ワインカーヴが魅力です。</p>
               </div>
             </div>
             </div>

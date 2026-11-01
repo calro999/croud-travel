@@ -99,10 +99,8 @@ export default function FurusatoBookLibraryHotelStayPage() {
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
-          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-6 flex items-center gap-3">
-            <span className="text-amber-600 text-xl md:text-2xl">◆</span>
-            この旅で体感したい3つの醍醐味
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-6 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
+            この旅で体感したい3つの醍醐味｜数千冊の本に囲まれて眠る至福の読書リトリート＆ブック</h2>
           <div className="grid gap-6">
 
             <div className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200/80 shadow-xs">
@@ -155,11 +153,9 @@ export default function FurusatoBookLibraryHotelStayPage() {
         {/* 厳選名宿セクション */}
         <section className="mb-16">
           <div className="mb-8">
-            <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-3 flex items-center gap-3">
-              <span className="text-amber-600 text-xl md:text-2xl">◆</span>
-              ふるさと納税で泊まる厳選名宿
-            </h2>
-            <p className="text-stone-600 text-sm leading-relaxed">
+            <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-3 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
+              ふるさと納税で泊まる厳選名宿｜数千冊の本に囲まれて眠る至福の読書リトリート＆ブック</h2>
+            <p className="text-stone-600 text-sm leading-relaxed">【数千冊の本に囲まれて眠る至福の読書リトリート＆ブック】 
               楽天トラベルAPIから最新の実在宿データを取得。対象自治体のふるさと納税クーポンを利用して実質2,000円で泊まれる名宿です。
             </p>
           </div>
@@ -194,7 +190,7 @@ export default function FurusatoBookLibraryHotelStayPage() {
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     日本民俗学の父・柳田國男の故郷である兵庫県福崎町に位置し、約三百年前に建てられた大庄屋・三木家の旧邸宅を洗練された宿泊施設として再生した名門古民家ホテル。柳田國男の著書や民俗学、妖怪文化、日本の歴史に関する膨大な書籍が書架に並び、歴史ある木造日本建築の陰影の中で静かに読書を楽しめる贅沢な空間が広がります。地元の新鮮な野菜や但馬牛を使った手作りの創作フレンチ会席、檜風呂の温もりとともに、まるで学問の館にタイムスリップしたかのような静謐な読書リトリートが叶います。
                   </p>
-                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
+                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">【数千冊の本に囲まれて眠る至福の読書リトリート＆ブック】 
                     訪れるすべてのお客様に心安らぐ贅沢な寛ぎの時間を提供し、高い評価を獲得している極上宿です。
                   </p>
                   
@@ -355,9 +351,7 @@ export default function FurusatoBookLibraryHotelStayPage() {
 
         {/* 関連特集クロスリンク */}
         <section className="bg-stone-50 rounded-3xl p-8 border border-stone-200/80 mb-16">
-          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">
-            あわせて読みたい関連特集
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">あわせて読みたい関連特集｜数千冊の本に囲まれて眠る至福の読書リトリート＆ブック</h2>
           <ul className="grid sm:grid-cols-2 gap-2">
 
               <li key="furusato-tax-art-museum-architecture-luxury-hotel-stay">
@@ -396,10 +390,8 @@ export default function FurusatoBookLibraryHotelStayPage() {
 
         {/* ハブページへの誘導フッター */}
         <div className="bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 text-white rounded-3xl p-8 md:p-10 shadow-xl border border-amber-900/40 text-center mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">
-            もっとお得に旅を楽しむためのハブページへ
-          </h2>
-          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">
+          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">もっとお得に旅を楽しむためのハブページへ｜数千冊の本に囲まれて眠る至福の読書リトリート＆ブック</h2>
+          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">【数千冊の本に囲まれて眠る至福の読書リトリート＆ブック】 
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
@@ -429,7 +421,7 @@ export default function FurusatoBookLibraryHotelStayPage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（数千冊の本に囲まれて眠る至福の読書リトリート＆ブック）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 福崎駅よりアクセス。ＪＲ播但線 福崎駅よりお車にて約１０分。</li>
@@ -441,7 +433,7 @@ export default function FurusatoBookLibraryHotelStayPage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（数千冊の本に囲まれて眠る至福の読書リトリート＆ブック）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ＮＩＰＰＯＮＩＡ 播磨福崎 蔵書の館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -495,9 +487,7 @@ export default function FurusatoBookLibraryHotelStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜数千冊の本に囲まれて眠る至福の読書リトリート＆ブック</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-oirase-towada-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -518,7 +508,7 @@ export default function FurusatoBookLibraryHotelStayPage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（数千冊の本に囲まれて眠る至福の読書リトリート＆ブック）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/akita/"

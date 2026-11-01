@@ -83,14 +83,12 @@ export default function FurusatoTaxArticle() {
             三朝の湯の真骨頂は、温泉に浸かる「入浴」だけでなく、ラドンガスを肺から取り込む「吸入」、そして胃腸の調子を整える「飲泉」と、三位一体で健康を取り戻せること。さらに近海で獲れた新鮮な松葉ガニやモサエビ、鳥取和牛の贅沢会席が心と体を満たします。鳥取県三朝町へのふるさと納税を利用すれば、30%相当のトラベルクーポンにより名門旅館へお得に宿泊でき、本物の癒やしを実感できる湯治旅が叶います。
           </p>
           <div className="bg-amber-50 rounded-2xl p-4 sm:p-5 border border-amber-200/80 text-amber-950 text-xs sm:text-sm space-y-2">
-            <h3 className="font-bold text-amber-900 flex items-center gap-2">
-              <span>💡</span> この記事でわかること
-            </h3>
+            <h3 className="font-bold text-amber-900 flex items-center gap-2"><span>💡</span> この記事でわかること（三朝温泉をふるさと納税でお得に旅する）</h3>
             <ul className="grid sm:grid-cols-2 gap-2 text-stone-800 list-disc list-inside">
-              <li>ふるさと納税で泊まれる名門宿のリアルな魅力と特徴</li>
-              <li>楽天トラベルクーポンを使った最大割引予約の手順</li>
-              <li>失敗しない現地観光モデルルート＆名物グルメ</li>
-              <li>予約済みでも間に合う「クーポンあとから適用」のやり方</li>
+              <li>ふるさと納税で泊まれる名門宿のリアルな魅力と特徴（三朝温泉をふるさと納税でお得に旅する）</li>
+              <li>楽天トラベルクーポンを使った最大割引予約の手順（三朝温泉をふるさと納税でお得に旅する）</li>
+              <li>失敗しない現地観光モデルルート＆名物グルメ（三朝温泉をふるさと納税でお得に旅する）</li>
+              <li>予約済みでも間に合う「クーポンあとから適用」のやり方（三朝温泉をふるさと納税でお得に旅する）</li>
             </ul>
           </div>
         </section>
@@ -98,9 +96,9 @@ export default function FurusatoTaxArticle() {
         {/* 楽天トラベル クーポン獲得バナー導線 */}
         <div className="bg-gradient-to-r from-red-600 via-rose-600 to-amber-600 text-white rounded-2xl p-6 shadow-xl flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="space-y-1 text-center sm:text-left">
-            <p className="text-xs uppercase tracking-widest font-bold text-amber-200">Rakuten Travel Furusato Tax</p>
+            <p className="text-xs uppercase tracking-widest font-bold text-amber-200">【三朝温泉をふるさと納税でお得に旅する】 Rakuten Travel Furusato Tax</p>
             <h3 className="text-lg sm:text-xl font-bold font-serif">鳥取県三朝町のふるさと納税クーポンをチェック</h3>
-            <p className="text-xs text-rose-100">寄付額の最大30%オフ！3年間有効・予約済み日程にも適用可能</p>
+            <p className="text-xs text-rose-100">【三朝温泉をふるさと納税でお得に旅する】 寄付額の最大30%オフ！3年間有効・予約済み日程にも適用可能</p>
           </div>
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
@@ -116,10 +114,8 @@ export default function FurusatoTaxArticle() {
         {/* 厳選ホテル徹底解剖 */}
         <section className="space-y-10">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-bold font-serif text-stone-900">
-              ふるさと納税で泊まる厳選名宿3選
-            </h2>
-            <p className="text-stone-600 text-xs sm:text-sm">
+            <h2 className="text-2xl sm:text-3xl font-bold font-serif text-stone-900">ふるさと納税で泊まる厳選名宿3選｜三朝温泉をふるさと納税でお得に旅する</h2>
+            <p className="text-stone-600 text-xs sm:text-sm">【三朝温泉をふるさと納税でお得に旅する】 
               実際に楽天トラベルで圧倒的な高評価を獲得している名門ホテル・老舗旅館をピックアップ
             </p>
           </div>
@@ -445,7 +441,7 @@ export default function FurusatoTaxArticle() {
             <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
               鳥取県三朝町ふるさと納税×楽天トラベルクーポン活用手順
             </h2>
-            <p className="text-stone-300 text-xs sm:text-sm">
+            <p className="text-stone-300 text-xs sm:text-sm">【三朝温泉をふるさと納税でお得に旅する】 
               初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -483,9 +479,7 @@ export default function FurusatoTaxArticle() {
 
         {/* 内部リンク・ハブ導線 */}
         <section className="border-t border-stone-200 pt-8 space-y-4">
-          <h3 className="text-base sm:text-lg font-bold font-serif text-stone-900">
-            関連するふるさと納税トラベル特集
-          </h3>
+          <h3 className="text-base sm:text-lg font-bold font-serif text-stone-900">関連するふるさと納税トラベル特集（三朝温泉をふるさと納税でお得に旅する）</h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
               <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">
@@ -521,7 +515,7 @@ export default function FurusatoTaxArticle() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（三朝温泉をふるさと納税でお得に旅する）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 倉吉駅よりアクセス。◆車 中国道院庄IC60分／山陰道泊東郷IC20分 ◆JR 倉吉駅送迎バス14時20分～18時 ※要予約（前日まで）。</li>
@@ -533,7 +527,7 @@ export default function FurusatoTaxArticle() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（三朝温泉をふるさと納税でお得に旅する）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「三朝温泉 依山楼 岩崎」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -587,9 +581,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜三朝温泉をふるさと納税でお得に旅する</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-aomori-oirase-gorge-towada-lake-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -610,7 +602,7 @@ export default function FurusatoTaxArticle() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（三朝温泉をふるさと納税でお得に旅する）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/nara/"

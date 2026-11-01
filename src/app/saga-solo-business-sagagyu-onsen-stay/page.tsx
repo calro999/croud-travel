@@ -97,9 +97,7 @@ export default function ArticlePage() {
       {/* 目次インデックス */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-stone-100 p-5 rounded-xl border border-stone-200">
-          <h2 className="text-base font-bold text-stone-900 mb-3 flex items-center gap-2">
-            <span>📑</span> 本記事でご紹介する厳選ホテル
-          </h2>
+          <h2 className="text-base font-bold text-stone-900 mb-3 flex items-center gap-2"><span>📑</span> 本記事でご紹介する厳選ホテル｜佐賀出張・男一人旅：お濠の水辺ビュー・佐賀牛グルメ・</h2>
           <ul className="space-y-2 text-sm text-stone-700">
             <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. ホテルニューオータニ佐賀（★4.25 / 最低目安：5,200円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. コンフォートホテル佐賀（★4.1 / 最低目安：3,600円〜）</a></li>
@@ -158,9 +156,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">
-                <span>🌟</span> ひとり滞在・出張で選ばれる理由
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由（佐賀出張・男一人旅：お濠の水辺ビュー・佐賀牛グルメ・）</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>佐賀県唯一のシティホテル</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>歴史とモダンが調和する上質なひとときを</span></li>
@@ -228,9 +224,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">
-                <span>🌟</span> ひとり滞在・出張で選ばれる理由
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由（佐賀出張・男一人旅：お濠の水辺ビュー・佐賀牛グルメ・）</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>日替わりスムージーが人気★無料朝食サービスがイチオシのコスパ最強ホテル◆小学6年生まで添い寝無料</span></li>
               </ul>
@@ -297,9 +291,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">
-                <span>🌟</span> ひとり滞在・出張で選ばれる理由
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由（佐賀出張・男一人旅：お濠の水辺ビュー・佐賀牛グルメ・）</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>駅に近く、交通至便</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>ビジネス・観光の拠点として最適</span></li>
@@ -356,9 +348,7 @@ export default function ArticlePage() {
       {/* FAQ セクション */}
       <section id="faq" className="max-w-4xl mx-auto px-4 sm:px-6 mt-16">
         <div className="bg-stone-100 p-6 sm:p-8 rounded-2xl border border-stone-200">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-300 pb-3">
-            <span>❓</span> 滞在に関するよくある質問（FAQ）
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-300 pb-3"><span>❓</span> 滞在に関するよくある質問（FAQ）｜佐賀出張・男一人旅：お濠の水辺ビュー・佐賀牛グルメ・</h2>
           <div className="space-y-4">
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
               <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
@@ -385,10 +375,8 @@ export default function ArticlePage() {
       {/* 予約案内バナー */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mt-16">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-6 sm:p-8 rounded-2xl shadow-md text-center">
-          <h3 className="text-lg sm:text-xl font-bold mb-2">
-            楽天トラベルで最新の空室状況・限定ポイントキャンペーンをチェック
-          </h3>
-          <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">
+          <h3 className="text-lg sm:text-xl font-bold mb-2">楽天トラベルで最新の空室状況・限定ポイントキャンペーンをチェック（佐賀出張・男一人旅：お濠の水辺ビュー・佐賀牛グルメ・）</h3>
+          <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">【佐賀出張・男一人旅：お濠の水辺ビュー・佐賀牛グルメ・】 
             平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
@@ -412,7 +400,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（佐賀出張・男一人旅：お濠の水辺ビュー・佐賀牛グルメ・）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 佐賀駅よりアクセス。JR佐賀駅より車にて8分、空港バス利用～県庁前バス停下車～徒歩にて約10分、佐賀空港より車にて20分。</li>
@@ -424,7 +412,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（佐賀出張・男一人旅：お濠の水辺ビュー・佐賀牛グルメ・）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ホテルニューオータニ佐賀」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -570,7 +558,7 @@ export default function ArticlePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>佐賀県唯一のシティホテル。歴史とモダンが調和する上質なひとときを。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 佐賀県佐賀市与賀町1-2 ／ 最寄り駅：佐賀 ／ 交通案内：JR佐賀駅より車にて8分、空港バス利用～県庁前バス停下車～徒歩にて約10分、佐賀空港より車にて20分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
+                  <p>【佐賀出張・男一人旅：お濠の水辺ビュー・佐賀牛グルメ・】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.26 ／ 部屋 ★4.11 ／ 設備 ★4.08 ／ 風呂 ★3.99 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「広くて清潔な部屋と丁寧な接客に大満足素泊まりで利用させていただきました。お部屋は広くて清潔感があり、とても快適に過ごすことができました。また、フロントのスタッフの方々も非常に丁寧で親切にご対応…　2026-10-10 10:13:34投稿」

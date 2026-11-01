@@ -76,7 +76,7 @@ export default function ArticlePage() {
             静岡・修善寺温泉ひとり旅＆伊豆小京都おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「修善寺温泉ひとり旅・伊豆小京都おこもり」竹林の小径・国の登録文化財・桂川渓流露天！千二百年の歴史に抱かれる大人の隠れ宿厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">【修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・】 
             更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
           </p>
           
@@ -95,10 +95,8 @@ export default function ArticlePage() {
 
         {/* 目次 */}
         <section className="bg-white p-5 rounded-2xl border border-stone-200 shadow-sm mb-10">
-          <h2 className="text-sm font-bold text-stone-900 mb-3 flex items-center gap-2">
-            <span>📑</span>
-            <span>この記事で紹介する厳選ホテル（楽天トラベル最新評価順）</span>
-          </h2>
+          <h2 className="text-sm font-bold text-stone-900 mb-3 flex items-center gap-2"><span>📑</span>
+            <span>この記事で紹介する厳選ホテル（楽天トラベル最新評価順）</span>｜修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・</h2>
           <ul className="text-xs sm:text-sm space-y-2">
             <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 修善寺温泉　国の登録文化財の宿　新井旅館（★4.68 / 最低目安：24,420円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. 修善寺温泉　宙ＳＯＲＡ　渡月荘金龍（★4.67 / 最低目安：11,000円〜）</a></li>
@@ -142,7 +140,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・）</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利です</span></li>
               </ul>
@@ -197,7 +195,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・）</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>客室からは四季を感じられる自然が一望できます</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>月替りの会席は人気の絶品です</span></li>
@@ -253,7 +251,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・）</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>2021年1月グランドオープン◇無料の7つの貸切風呂で楽しむ美肌の修善寺温泉</span></li>
               </ul>
@@ -299,10 +297,8 @@ export default function ArticlePage() {
 
         {/* よくある質問 FAQ */}
         <section className="bg-amber-50/40 rounded-2xl border border-amber-200/60 p-6 sm:p-8 mb-10">
-          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span>❓</span>
-            <span>よくある質問（FAQ）</span>
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span>❓</span>
+            <span>よくある質問（FAQ）</span>｜修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・</h2>
           <div className="space-y-4">
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
               <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
@@ -327,7 +323,7 @@ export default function ArticlePage() {
 
         {/* 記事末尾CTA */}
         <div className="text-center bg-stone-900 text-white p-8 rounded-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold mb-3">気になる宿は見つかりましたか？</h2>
+          <h2 className="text-xl sm:text-2xl font-bold mb-3">気になる宿は見つかりましたか？｜修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・</h2>
           <p className="text-stone-300 text-xs sm:text-sm max-w-lg mx-auto mb-6">
             「修善寺温泉ひとり旅・伊豆小京都おこもり（竹林の小径・国の登録文化財・桂川渓流露天）」で人気の「修善寺温泉　国の登録文化財の宿　新井旅館」をはじめ、週末や連休は条件の良い客室から埋まりやすいため、楽天トラベルの空室カレンダーから早めの日程確認をおすすめします。
           </p>
@@ -351,7 +347,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 修善寺駅よりアクセス。伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分。</li>
@@ -363,7 +359,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「修善寺温泉 国の登録文化財の宿 新井旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -381,9 +377,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-narukokyo-akiu-autumn-foliage-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -404,7 +398,7 @@ export default function ArticlePage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/miyazaki/"
@@ -502,7 +496,7 @@ export default function ArticlePage() {
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>
                   <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
-                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">修善寺温泉　国の登録文化財の宿　新井旅館</h3>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">修善寺温泉　国の登録文化財の宿　新井旅館（修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・）</h3>
                   <span className="text-xs text-stone-400 ml-2">（しゅぜんじおんせん　くにのとうろくぶんかざいのやど　あらいりょかん）</span>
                 </div>
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥24,420〜</span>
@@ -534,7 +528,7 @@ export default function ArticlePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>客室からは四季を感じられる自然が一望できます。月替りの会席は人気の絶品です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 静岡県伊豆市修善寺3455 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道修善寺駅から路線バスまたはタクシー（送迎不可）/東名高速沼津ICから伊豆縦貫道・伊豆中央道経由約３５分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
+                  <p>【修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンの音がうるさく、少し気になった総合的には満足でしたがエアコンの音がうるさく感じられたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-09-01 13:01:12投稿」
@@ -576,24 +570,24 @@ export default function ArticlePage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Matsushima_miyagi_z.JPG/1280px-Matsushima_miyagi_z.JPG?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="松島（日本三景）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">松島（日本三景）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">松島湾に浮かぶ260余りの島々が描く、日本三景の一つに数えられる美景。瑞巌寺や五大堂といった歴史的建造物と、遊覧船からの島々の眺望が訪れる者を魅了します。 松島（まつしま）は、宮城県北東部の松島湾内外にある約260の島々からなる諸島やそれを擁する多島海（島の数については諸説ある後述）。または、湾周囲を囲む松島丘陵も含めた修景地区のことである。日本三景の一つに数えられている。2019年の観光入込客数は約598万人。かつては「東の松島 西の象潟」と謳われ、同じく東北地方に存在していた修景地の象潟と並び称されていた。…</p>
+                <h3 className="text-base font-bold text-stone-900">松島（日本三景）（修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・】 松島湾に浮かぶ260余りの島々が描く、日本三景の一つに数えられる美景。瑞巌寺や五大堂といった歴史的建造物と、遊覧船からの島々の眺望が訪れる者を魅了します。 松島（まつしま）は、宮城県北東部の松島湾内外にある約260の島々からなる諸島やそれを擁する多島海（島の数については諸説ある後述）。または、湾周囲を囲む松島丘陵も含めた修景地区のことである。日本三景の一つに数えられている。2019年の観光入込客数は約598万人。かつては「東の松島 西の象潟」と謳われ、同じく東北地方に存在していた修景地の象潟と並び称されていた。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">仙台城跡（青葉城）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">伊達政宗公が築城した仙台藩の拠点。本丸跡に立つ政宗公の騎馬像越しに仙台市街を一望でき、日暮れには眼下に広がる輝く夜景スポットとしても大人気です。</p>
+                <h3 className="text-base font-bold text-stone-900">仙台城跡（青葉城）（修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・】 伊達政宗公が築城した仙台藩の拠点。本丸跡に立つ政宗公の騎馬像越しに仙台市街を一望でき、日暮れには眼下に広がる輝く夜景スポットとしても大人気です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Zaou_Gongen_Circumstancial_appearance_of_Mount_Yoshino.jpg/1280px-Zaou_Gongen_Circumstancial_appearance_of_Mount_Yoshino.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="蔵王の御釜" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">蔵王の御釜</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">蔵王連峰の標高高台に位置する、エメラルドグリーンの神秘的なカルデラ湖。光の当たり方で色合いが変化することから「五色沼」とも呼ばれる圧巻の火山絶景です。 蔵王、藏王（ざ-おう） 読みとしては、「蔵王」の本来の読み、旧仮名づかい「ざう-わう(ぞう-おう)」（音読み）が連声化したもの。 修験道の神である蔵王権現のこと。日本各地にみられる「蔵王」という名称は、後述の地名を含め、その大半が蔵王権現（奈良県吉野の発祥）に由来している（蔵王権現を参照）。 上述の蔵王権現を祭っている神社（蔵王権現社、御嶽神社（御岳神社）、…</p>
+                <h3 className="text-base font-bold text-stone-900">蔵王の御釜（修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・】 蔵王連峰の標高高台に位置する、エメラルドグリーンの神秘的なカルデラ湖。光の当たり方で色合いが変化することから「五色沼」とも呼ばれる圧巻の火山絶景です。 蔵王、藏王（ざ-おう） 読みとしては、「蔵王」の本来の読み、旧仮名づかい「ざう-わう(ぞう-おう)」（音読み）が連声化したもの。 修験道の神である蔵王権現のこと。日本各地にみられる「蔵王」という名称は、後述の地名を含め、その大半が蔵王権現（奈良県吉野の発祥）に由来している（蔵王権現を参照）。 上述の蔵王権現を祭っている神社（蔵王権現社、御嶽神社（御岳神社）、…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -601,7 +595,7 @@ export default function ArticlePage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
                 <h3 className="text-base font-bold text-stone-900">瑞鳳殿</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">仙台藩祖・伊達政宗公の霊屋。桃山文化の華麗な建築様式を今に伝える絢欄豪華な装飾と、周囲の静寂な杉木立が見事な対比を見せています。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【修善寺温泉ひとり旅・伊豆小京都おこもり：竹林の小径・】 仙台藩祖・伊達政宗公の霊屋。桃山文化の華麗な建築様式を今に伝える絢欄豪華な装飾と、周囲の静寂な杉木立が見事な対比を見せています。</p>
               </div>
             </div>
             </div>

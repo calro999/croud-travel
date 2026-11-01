@@ -391,26 +391,24 @@ export default function AutumnBudgetHotelsPage() {
       {/* 予約のコツ・アドバイス */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-br from-amber-50 to-orange-50 border border-amber-200/80 rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg font-bold text-amber-950 flex items-center gap-2">
-            <CheckCircle2 className="w-5 h-5 text-amber-600" />
-            秋の格安旅行をお得に満喫するためのポイント
-          </h2>
+          <h2 className="text-lg font-bold text-amber-950 flex items-center gap-2"><CheckCircle2 className="w-5 h-5 text-amber-600" />
+            秋の格安旅行をお得に満喫するためのポイント｜八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せん</h2>
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             <div className="bg-white/80 rounded-xl p-4 border border-amber-100">
-              <h3 className="font-bold text-sm text-slate-900 mb-1">平日泊で更なる割引</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">
+              <h3 className="font-bold text-sm text-slate-900 mb-1">平日泊で更なる割引（八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せん）</h3>
+              <p className="text-xs text-slate-600 leading-relaxed">【八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せん】 
                 紅葉シーズンは金曜・土曜の宿泊料金が高騰しがちですが、日〜木曜の平日泊なら最安プランが狙い目。人混みも少なく快適に名所を楽しめます。
               </p>
             </div>
             <div className="bg-white/80 rounded-xl p-4 border border-amber-100">
-              <h3 className="font-bold text-sm text-slate-900 mb-1">直前割＆早割を活用</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">
+              <h3 className="font-bold text-sm text-slate-900 mb-1">直前割＆早割を活用（八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せん）</h3>
+              <p className="text-xs text-slate-600 leading-relaxed">【八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せん】 
                 14日前〜28日前までの早期予約や、空室が出た直前のタイムセールを狙うことで、通常価格より1,000円〜2,000円以上安く泊まれるチャンスがあります。
               </p>
             </div>
             <div className="bg-white/80 rounded-xl p-4 border border-amber-100">
-              <h3 className="font-bold text-sm text-slate-900 mb-1">浮いた予算で旬の味覚</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">
+              <h3 className="font-bold text-sm text-slate-900 mb-1">浮いた予算で旬の味覚（八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せん）</h3>
+              <p className="text-xs text-slate-600 leading-relaxed">【八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せん】 
                 宿泊を賢く格安ホテルに抑えることで、浮いた数千円の予算をご当地の豪華な旬の味覚や地酒ディナー、日帰り温泉の入浴料に贅沢に使えます。
               </p>
             </div>
@@ -621,32 +619,32 @@ export default function AutumnBudgetHotelsPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">弘前公園（弘前城）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本屈指の桜の名所として知られる城郭公園。春には約2,600本の桜が咲き誇り、お堀を埋め尽くす「花いかだ」の幻想的な景色は世界中から絶賛されています。</p>
+                <h3 className="text-base font-bold text-stone-900">弘前公園（弘前城）（八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せん）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せん】 日本屈指の桜の名所として知られる城郭公園。春には約2,600本の桜が咲き誇り、お堀を埋め尽くす「花いかだ」の幻想的な景色は世界中から絶賛されています。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Oirase-keiryu.jpg/1280px-Oirase-keiryu.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="奥入瀬渓流" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">奥入瀬渓流</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">十和田湖から流れる約14kmの美しい清流。豊かな樹木と苔むした岩々、無数の滝が織りなすせせらぎに沿って遊歩道が整備されており、極上のネイチャーウォークを楽しめます。 奥入瀬渓流（おいらせけいりゅう）は、青森県十和田市の十和田湖東岸の子ノ口（ねのくち）から北東に、焼山（十和田市法量（大字）焼山（字））までの約14 kmにわたる奥入瀬川の渓流。十和田八幡平国立公園に属する。国指定の特別名勝及び天然記念物（天然保護区域）。…</p>
+                <h3 className="text-base font-bold text-stone-900">奥入瀬渓流（八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せん）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せん】 十和田湖から流れる約14kmの美しい清流。豊かな樹木と苔むした岩々、無数の滝が織りなすせせらぎに沿って遊歩道が整備されており、極上のネイチャーウォークを楽しめます。 奥入瀬渓流（おいらせけいりゅう）は、青森県十和田市の十和田湖東岸の子ノ口（ねのくち）から北東に、焼山（十和田市法量（大字）焼山（字））までの約14 kmにわたる奥入瀬川の渓流。十和田八幡平国立公園に属する。国指定の特別名勝及び天然記念物（天然保護区域）。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">ねぶたの家 ワ・ラッセ</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">青森夏の風物詩「青森ねぶた祭」の歴史と魅力を一年中体感できる大型展示施設。実際に祭りで運行された大型ねぶたの迫力を間近で鑑賞できます。</p>
+                <h3 className="text-base font-bold text-stone-900">ねぶたの家 ワ・ラッセ（八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せん）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せん】 青森夏の風物詩「青森ねぶた祭」の歴史と魅力を一年中体感できる大型展示施設。実際に祭りで運行された大型ねぶたの迫力を間近で鑑賞できます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">仏ヶ浦（ほとけがうら）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">下北半島にある、白緑色の奇岩群が約2kmにわたって続く国の名勝。巨大な如来や観音に見立てられた壮大な自然の彫刻と、澄み渡る陸奥湾の青さが圧巻です。</p>
+                <h3 className="text-base font-bold text-stone-900">仏ヶ浦（ほとけがうら）（八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せん）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【八戸駅・本八戸：種差海岸の秋絶景＆館鼻岸壁朝市・せん】 下北半島にある、白緑色の奇岩群が約2kmにわたって続く国の名勝。巨大な如来や観音に見立てられた壮大な自然の彫刻と、澄み渡る陸奥湾の青さが圧巻です。</p>
               </div>
             </div>
             </div>

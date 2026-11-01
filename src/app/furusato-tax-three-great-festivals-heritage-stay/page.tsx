@@ -76,9 +76,7 @@ export default function Page() {
       />
         {/* Intro Card */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">
-            はじめに
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">はじめに｜日本三大美祭＆伝統工芸・山鉾の街の老舗旅館×ふるさと</h2>
           <p className="text-slate-700 leading-relaxed text-base sm:text-lg">
             日本三大美祭――春・秋の飛騨高山を彩る「高山祭」、秩父神社の例祭として師走の寒空を熱狂で包む「秩父夜祭」、そして千百年の歴史を誇る夏の京都の風物詩「祇園祭」。いずれも精緻を極めた漆塗り、金箔、木彫刻の技が息づく山鉾や屋台が街を巡行し、国の重要無形民俗文化財およびユネスコ無形文化遺産にも登録されています。伝統の職人技が今なお息づく古い町並みや石畳の小路に佇む老舗旅館や上質町家宿に泊まり、地域の伝統料理と美酒を味わいながら、日本の美の神髄に触れる贅沢なひとときを楽天ふるさと納税で叶えましょう。
           </p>
@@ -87,10 +85,8 @@ export default function Page() {
             <div className="flex items-start gap-4">
               <span className="text-3xl">💡</span>
               <div>
-                <h3 className="text-base sm:text-lg font-bold text-amber-900 mb-1">
-                  楽天ふるさと納税「トラベルクーポン」賢い活用法
-                </h3>
-                <p className="text-sm sm:text-base text-amber-800 leading-relaxed">
+                <h3 className="text-base sm:text-lg font-bold text-amber-900 mb-1">楽天ふるさと納税「トラベルクーポン」賢い活用法（日本三大美祭＆伝統工芸・山鉾の街の老舗旅館×ふるさと）</h3>
+                <p className="text-sm sm:text-base text-amber-800 leading-relaxed">【日本三大美祭＆伝統工芸・山鉾の街の老舗旅館×ふるさと】 
                   寄付額の最大30%分の宿泊クーポンが付与され、寄付当日から予約に即時利用可能。通常の楽天ポイント還元やお買い物マラソンとも併用できるため、実質自己負担2,000円で憧れの高級リゾートや名湯旅館に泊まれる最強の制度です。
                 </p>
               </div>
@@ -100,9 +96,7 @@ export default function Page() {
 
         {/* 3 Merits */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 border-l-4 border-indigo-600 pl-4">
-            この特集ならではの3大魅力
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 border-l-4 border-indigo-600 pl-4">この特集ならではの3大魅力｜日本三大美祭＆伝統工芸・山鉾の街の老舗旅館×ふるさと</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
             <div key="0" className="bg-slate-50 rounded-xl p-5 border border-slate-200 hover:border-indigo-300 transition-colors">
@@ -743,10 +737,8 @@ export default function Page() {
             <span>🎟️</span>
             <span>楽天ふるさと納税×楽天トラベル 公式連携</span>
           </div>
-          <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold mb-4 leading-tight">
-            ふるさと納税で賢くお得に、憧れの極上宿へ
-          </h2>
-          <p className="text-slate-300 text-sm sm:text-base max-w-2xl mx-auto mb-8 leading-relaxed">
+          <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold mb-4 leading-tight">ふるさと納税で賢くお得に、憧れの極上宿へ｜日本三大美祭＆伝統工芸・山鉾の街の老舗旅館×ふるさと</h2>
+          <p className="text-slate-300 text-sm sm:text-base max-w-2xl mx-auto mb-8 leading-relaxed">【日本三大美祭＆伝統工芸・山鉾の街の老舗旅館×ふるさと】 
             返礼品の宿泊クーポンは翌年以降の旅行にも活用でき、ポイント還元もフル適用。実質2,000円の自己負担でワンランク上の滞在をお楽しみください。
           </p>
           <div className="flex flex-col sm:flex-row justify-center items-center gap-4 max-w-md mx-auto">
@@ -763,9 +755,7 @@ export default function Page() {
 
         {/* Cross Links Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
-          <h2 className="text-lg sm:text-xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">
-            あわせて読みたい関連特集ガイド
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">あわせて読みたい関連特集ガイド｜日本三大美祭＆伝統工芸・山鉾の街の老舗旅館×ふるさと</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             
             <Link
@@ -820,7 +810,7 @@ export default function Page() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（日本三大美祭＆伝統工芸・山鉾の街の老舗旅館×ふるさと）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 高山駅よりアクセス。高山駅・濃飛バスセンターよりさるぼぼバスにて約１０分（飛騨の里下下車）徒歩１分。</li>
@@ -832,7 +822,7 @@ export default function Page() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（日本三大美祭＆伝統工芸・山鉾の街の老舗旅館×ふるさと）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「飛騨高山温泉 飛騨の里 旅館 むら山」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -886,9 +876,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜日本三大美祭＆伝統工芸・山鉾の街の老舗旅館×ふるさと</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/yamagata-tsuruoka-hagurosan-dewasanzan-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -909,7 +897,7 @@ export default function Page() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（日本三大美祭＆伝統工芸・山鉾の街の老舗旅館×ふるさと）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/mie/"

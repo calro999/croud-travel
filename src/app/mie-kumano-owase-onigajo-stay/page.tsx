@@ -325,7 +325,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「三重・熊野＆尾鷲・鬼ヶ城（世界遺産鬼ヶ城・獅子岩＆熊野古道伊勢路・尾鷲ガスエビ宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ 熊野市駅よりお車で10分／送迎バス有り 【熊野古道まで車で15分】</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【三重・熊野＆尾鷲・鬼ヶ城：世界遺産鬼ヶ城・獅子岩＆熊】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋のアップグレードに母も大喜び母の療養をするための旅行でした。お部屋のランクをご厚意で上げていただき、本当にゆっくりできました。母もとても喜んでいて、完治した際はまた宿泊したいと思います。… 2026-09-05 14:21:36投稿」

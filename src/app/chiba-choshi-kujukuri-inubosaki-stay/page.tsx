@@ -398,32 +398,32 @@ export default function MicroTouristHubPage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Menton-C%C3%B4te_d%27Azur.jpg/1280px-Menton-C%C3%B4te_d%27Azur.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="東京ディズニーリゾート" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">東京ディズニーリゾート</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">夢と魔法の王国「東京ディズニーランド」と冒険とイマジネーションの海「東京ディズニーシー」からなる日本最高峰のテーマパークリゾート。 リゾート（Resort）とは、大勢の人が休暇・余暇を過ごす場所のこと。行楽地。保養地。 行楽や保養、観光が地元の文化や経済の主要な要素となっている都市を、リゾート都市またはリゾートタウンと呼ぶ（en:Resort town）。…</p>
+                <h3 className="text-base font-bold text-stone-900">東京ディズニーリゾート（千葉・銚子＆九十九里・犬吠埼：本州一早い日の出・犬吠）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【千葉・銚子＆九十九里・犬吠埼：本州一早い日の出・犬吠】 夢と魔法の王国「東京ディズニーランド」と冒険とイマジネーションの海「東京ディズニーシー」からなる日本最高峰のテーマパークリゾート。 リゾート（Resort）とは、大勢の人が休暇・余暇を過ごす場所のこと。行楽地。保養地。 行楽や保養、観光が地元の文化や経済の主要な要素となっている都市を、リゾート都市またはリゾートタウンと呼ぶ（en:Resort town）。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">鴨川シーワールド</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">太平洋をバックに繰り広げられる豪快なシャチのパフォーマンスが有名な総合海洋レジャーセンター。イルカやベルーガのショーも見応え抜群です。</p>
+                <h3 className="text-base font-bold text-stone-900">鴨川シーワールド（千葉・銚子＆九十九里・犬吠埼：本州一早い日の出・犬吠）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【千葉・銚子＆九十九里・犬吠埼：本州一早い日の出・犬吠】 太平洋をバックに繰り広げられる豪快なシャチのパフォーマンスが有名な総合海洋レジャーセンター。イルカやベルーガのショーも見応え抜群です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">成田山新勝寺</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">千年以上の日数を数える全国屈指の大本山。参道には老舗のうなぎ店や土産物屋がひしめき、正月や節分には大勢の参拝客で賑わいます。</p>
+                <h3 className="text-base font-bold text-stone-900">成田山新勝寺（千葉・銚子＆九十九里・犬吠埼：本州一早い日の出・犬吠）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【千葉・銚子＆九十九里・犬吠埼：本州一早い日の出・犬吠】 千年以上の日数を数える全国屈指の大本山。参道には老舗のうなぎ店や土産物屋がひしめき、正月や節分には大勢の参拝客で賑わいます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">鋸山（日本寺・地獄のぞき）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">房総半島からの絶景が広がる山。山頂近くの断崖絶壁から突き出した「地獄のぞき」からのスリル満点の眺望や日本一の大きさを誇る石仏の大仏様が有名です。</p>
+                <h3 className="text-base font-bold text-stone-900">鋸山（日本寺・地獄のぞき）（千葉・銚子＆九十九里・犬吠埼：本州一早い日の出・犬吠）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【千葉・銚子＆九十九里・犬吠埼：本州一早い日の出・犬吠】 房総半島からの絶景が広がる山。山頂近くの断崖絶壁から突き出した「地獄のぞき」からのスリル満点の眺望や日本一の大きさを誇る石仏の大仏様が有名です。</p>
               </div>
             </div>
             </div>

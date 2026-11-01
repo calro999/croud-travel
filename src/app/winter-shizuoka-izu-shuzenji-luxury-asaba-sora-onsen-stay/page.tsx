@@ -339,9 +339,7 @@ export default function Page() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第3位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                修善寺温泉　国の登録文化財の宿　新井旅館
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">修善寺温泉　国の登録文化財の宿　新井旅館（winter-shizuoka-izu-shuzen）</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 全館が国の登録文化財！文豪・画人が愛した明治創業の名門旅館と天平大浴堂
               </p>

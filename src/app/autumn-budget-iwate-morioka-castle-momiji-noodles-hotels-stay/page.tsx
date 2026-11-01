@@ -462,7 +462,7 @@ export default function AutumnBudgetMoriokaHotelsPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【2025年4月1日全館リニューアル♪「盛岡駅」より路線バスで約10分。繁華街「大通商店街」の好立地</p>
                   <p><strong>【所在地・アクセス】</strong>〒 岩手県盛岡市大通1-8-10 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【盛岡：盛岡城跡公園の紅葉絵巻と三大麺巡り】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「繁華街がすぐ近くで移動に便利繁華街が近くで便利でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/80512?r…　2026-09-05 23:20:43投稿」
@@ -526,16 +526,16 @@ export default function AutumnBudgetMoriokaHotelsPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">中尊寺金色堂（平泉）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">世界遺産・平泉の象徴であり、奥州藤原氏の栄華を今に伝える極楽浄土の建築。堂全体が金箔で覆われ、螺鈿細工や象牙の装飾が施された国宝の美しさは言葉を失うほどです。</p>
+                <h3 className="text-base font-bold text-stone-900">中尊寺金色堂（平泉）（盛岡：盛岡城跡公園の紅葉絵巻と三大麺巡り）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【盛岡：盛岡城跡公園の紅葉絵巻と三大麺巡り】 世界遺産・平泉の象徴であり、奥州藤原氏の栄華を今に伝える極楽浄土の建築。堂全体が金箔で覆われ、螺鈿細工や象牙の装飾が施された国宝の美しさは言葉を失うほどです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">浄土ヶ浜</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">三陸復興国立公園を代表する三陸海岸の景勝地。白い鋭利な岩肌と青松、穏やかで透明度の高いエメラルドグリーンの入江が「まるで極楽浄土のよう」と称えられています。</p>
+                <h3 className="text-base font-bold text-stone-900">浄土ヶ浜（盛岡：盛岡城跡公園の紅葉絵巻と三大麺巡り）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【盛岡：盛岡城跡公園の紅葉絵巻と三大麺巡り】 三陸復興国立公園を代表する三陸海岸の景勝地。白い鋭利な岩肌と青松、穏やかで透明度の高いエメラルドグリーンの入江が「まるで極楽浄土のよう」と称えられています。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -543,15 +543,15 @@ export default function AutumnBudgetMoriokaHotelsPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
                 <h3 className="text-base font-bold text-stone-900">龍泉洞</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三大鍾乳洞の一つで、国の天然記念物。洞内に湧き出る地底湖は世界有数の透明度を誇り、「ドラゴンブルー」と呼ばれる神秘的な青い輝きに吸い込まれそうになります。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【盛岡：盛岡城跡公園の紅葉絵巻と三大麺巡り】 日本三大鍾乳洞の一つで、国の天然記念物。洞内に湧き出る地底湖は世界有数の透明度を誇り、「ドラゴンブルー」と呼ばれる神秘的な青い輝きに吸い込まれそうになります。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">小岩井農場</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">岩手山の雄大な山麓に広がる日本最大級の民間総合農場。美しい一本桜や歴史あるレンガサイロ、搾りたての牛乳を使った絶品アイスクリームなどが楽しめます。</p>
+                <h3 className="text-base font-bold text-stone-900">小岩井農場（盛岡：盛岡城跡公園の紅葉絵巻と三大麺巡り）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【盛岡：盛岡城跡公園の紅葉絵巻と三大麺巡り】 岩手山の雄大な山麓に広がる日本最大級の民間総合農場。美しい一本桜や歴史あるレンガサイロ、搾りたての牛乳を使った絶品アイスクリームなどが楽しめます。</p>
               </div>
             </div>
             </div>

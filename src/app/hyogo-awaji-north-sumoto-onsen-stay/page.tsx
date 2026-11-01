@@ -418,7 +418,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業160年の老舗料理旅館！当館名物料理「鯛めん」＆美肌の湯【潮崎温泉】を堪能あれ◎</p>
                   <p><strong>【所在地・アクセス】</strong>〒 兵庫県南あわじ市福良乙4 ／ 最寄り駅：三宮 ／ 交通案内：ＪＲ三宮駅またはＪＲ舞子駅より福良行きバス　終点より徒歩5分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
+                  <p>【兵庫・淡路島北部＆洲本温泉：明石海峡大橋・花さじき＆】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋と絶品の料理、泉質も最高部屋は新しくはないものの、清潔に清掃されていました。トイレと手洗い場が一緒なのは少々残念でした。お風呂の泉質は非常に良かった。料理は夜も朝も出てくるもの全て100…　2026-08-16 18:57:15投稿」
@@ -461,7 +461,7 @@ export default function MicroTouristHubPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
                 <h3 className="text-base font-bold text-stone-900">国宝 姫路城（白鷺城）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【兵庫・淡路島北部＆洲本温泉：明石海峡大橋・花さじき＆】 鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">

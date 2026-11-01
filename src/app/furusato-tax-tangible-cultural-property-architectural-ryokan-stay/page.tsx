@@ -103,10 +103,8 @@ export default function FurusatoTaxPage() {
         {/* メリット3選 */}
         <section className="space-y-6">
           <div className="text-center">
-            <h2 className="text-xl md:text-3xl font-black text-white">
-              楽天ふるさと納税トラベルクーポンが圧倒的にお得な3つの理由
-            </h2>
-            <p className="text-slate-400 text-xs md:text-sm mt-2">
+            <h2 className="text-xl md:text-3xl font-black text-white">楽天ふるさと納税トラベルクーポンが圧倒的にお得な3つの理由｜登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガ</h2>
+            <p className="text-slate-400 text-xs md:text-sm mt-2">【登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガ】 
               予約前の獲得はもちろん、予約後の「あとから適用」も可能な最高峰の使い勝手
             </p>
           </div>
@@ -160,10 +158,8 @@ export default function FurusatoTaxPage() {
         {/* 自治体＆厳選宿セクション */}
         <section className="space-y-12">
           <div className="border-l-4 border-amber-500 pl-4">
-            <h2 className="text-2xl md:text-3xl font-black text-white">
-              ふるさと納税対象・厳選おすすめ宿泊施設
-            </h2>
-            <p className="text-slate-400 text-xs md:text-sm mt-1">
+            <h2 className="text-2xl md:text-3xl font-black text-white">ふるさと納税対象・厳選おすすめ宿泊施設｜登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガ</h2>
+            <p className="text-slate-400 text-xs md:text-sm mt-1">【登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガ】 
               楽天トラベルAPIより最新の料金・宿泊プラン・空室情報をリアルタイム反映中
             </p>
           </div>
@@ -380,8 +376,8 @@ export default function FurusatoTaxPage() {
         {/* 関連・相互リンク集 */}
         <section className="bg-slate-900/60 border border-slate-800 rounded-3xl p-6 md:p-8 space-y-6">
           <div className="border-l-4 border-amber-500 pl-3">
-            <h3 className="text-lg md:text-xl font-black text-white">あわせて読みたいふるさと納税トラベル特集</h3>
-            <p className="text-slate-400 text-xs mt-1">目的や同伴者に合わせて最適な宿泊クーポンを活用しよう</p>
+            <h3 className="text-lg md:text-xl font-black text-white">あわせて読みたいふるさと納税トラベル特集（登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガ）</h3>
+            <p className="text-slate-400 text-xs mt-1">【登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガ】 目的や同伴者に合わせて最適な宿泊クーポンを活用しよう</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             
@@ -430,10 +426,8 @@ export default function FurusatoTaxPage() {
         {/* クーポン獲得CTA */}
         <section className="bg-gradient-to-br from-amber-500/20 via-slate-900 to-slate-900 border border-amber-500/30 rounded-3xl p-8 text-center space-y-6 shadow-2xl">
           <span className="text-3xl">🎫</span>
-          <h2 className="text-xl md:text-3xl font-black text-white">
-            楽天トラベルふるさと納税クーポンで、一生の思い出に残るプレミアムステイへ
-          </h2>
-          <p className="text-slate-300 text-xs md:text-base max-w-2xl mx-auto leading-relaxed">
+          <h2 className="text-xl md:text-3xl font-black text-white">楽天トラベルふるさと納税クーポンで、一生の思い出に残るプレミアムステイへ｜登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガ</h2>
+          <p className="text-slate-300 text-xs md:text-base max-w-2xl mx-auto leading-relaxed">【登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガ】 
             返礼品クーポンは寄付手続き完了後、数分で楽天トラベルのアカウントに即時付与されます。今年の寄付上限枠を賢く使って、家族みんなの最高の笑顔とくつろぎを手に入れましょう。
           </p>
           <div>
@@ -458,7 +452,7 @@ export default function FurusatoTaxPage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガ）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 修善寺駅よりアクセス。伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分。</li>
@@ -470,7 +464,7 @@ export default function FurusatoTaxPage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガ）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「修善寺温泉 国の登録文化財の宿 新井旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -524,9 +518,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガ</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/gunma-shima-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -547,7 +539,7 @@ export default function FurusatoTaxPage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガ）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/niigata/"
@@ -645,7 +637,7 @@ export default function FurusatoTaxPage() {
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>
                   <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
-                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">修善寺温泉　国の登録文化財の宿　新井旅館</h3>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">修善寺温泉　国の登録文化財の宿　新井旅館（登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガ）</h3>
                   <span className="text-xs text-stone-400 ml-2">（しゅぜんじおんせん　くにのとうろくぶんかざいのやど　あらいりょかん）</span>
                 </div>
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥24,420〜</span>
@@ -719,32 +711,32 @@ export default function FurusatoTaxPage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Yubatake_%28Kusatsu_Onsen%29.jpg/1280px-Yubatake_%28Kusatsu_Onsen%29.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="草津温泉（湯畑）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">草津温泉（湯畑）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三名泉の一つで自然湧出量日本一を誇る温泉街のシンボル。毎分4,000リットルの源泉が湯滝となって湧き出し、湯もみ体験や夜のライトアップも人気です。 草津温泉（くさつおんせん）は、群馬県吾妻郡草津町草津界隈（江戸時代における上野国吾妻郡草津村界隈、幕藩体制下の上州御料草津村界隈〈初期は沼田藩知行〉）に所在する温泉である。草津白根山東麓に位置する。 毎分3万2300リットル以上の自然湧出量は日本一。室町時代には万里集九が有馬温泉や下呂温泉とともに「三名泉」とし、江戸時代には林羅山もこれらの三温泉を「天下の三…</p>
+                <h3 className="text-base font-bold text-stone-900">草津温泉（湯畑）（登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガ】 日本三名泉の一つで自然湧出量日本一を誇る温泉街のシンボル。毎分4,000リットルの源泉が湯滝となって湧き出し、湯もみ体験や夜のライトアップも人気です。 草津温泉（くさつおんせん）は、群馬県吾妻郡草津町草津界隈（江戸時代における上野国吾妻郡草津村界隈、幕藩体制下の上州御料草津村界隈〈初期は沼田藩知行〉）に所在する温泉である。草津白根山東麓に位置する。 毎分3万2300リットル以上の自然湧出量は日本一。室町時代には万里集九が有馬温泉や下呂温泉とともに「三名泉」とし、江戸時代には林羅山もこれらの三温泉を「天下の三…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Ikaho_Onsen_03.jpg/1280px-Ikaho_Onsen_03.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="伊香保温泉（石段街）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">伊香保温泉（石段街）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">365段の石段が続く情緒溢れる温泉街。石段の両脇には射的場や土産物店、足湯が立ち並び、温泉まんじゅう発祥の地としても知られています。 伊香保温泉（いかほおんせん）は、群馬県渋川市伊香保町にある温泉。草津温泉と並んで県を代表する名湯で、上毛かるたでは「伊香保温泉 日本の名湯」と歌われている。 「伊香保温泉」として地域団体商標に登録されている。…</p>
+                <h3 className="text-base font-bold text-stone-900">伊香保温泉（石段街）（登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガ】 365段の石段が続く情緒溢れる温泉街。石段の両脇には射的場や土産物店、足湯が立ち並び、温泉まんじゅう発祥の地としても知られています。 伊香保温泉（いかほおんせん）は、群馬県渋川市伊香保町にある温泉。草津温泉と並んで県を代表する名湯で、上毛かるたでは「伊香保温泉 日本の名湯」と歌われている。 「伊香保温泉」として地域団体商標に登録されている。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">富岡製糸場</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">明治政府が設立した日本初の本格的な製糸工場であり、世界文化遺産。木骨レンガ造りの巨大な繰糸所や蚕室が良好に保存されており、日本の近代化の足跡を辿れます。</p>
+                <h3 className="text-base font-bold text-stone-900">富岡製糸場（登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガ】 明治政府が設立した日本初の本格的な製糸工場であり、世界文化遺産。木骨レンガ造りの巨大な繰糸所や蚕室が良好に保存されており、日本の近代化の足跡を辿れます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">吹割の滝（ふきわれのたき）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「東洋のナイアガラ」と称されるダイナミックな滝。巨大な岩盤が割れ目の中に河川の水が吸い込まれるように流れ落ちる迫力ある景観が魅力です。</p>
+                <h3 className="text-base font-bold text-stone-900">吹割の滝（ふきわれのたき）（登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガ】 「東洋のナイアガラ」と称されるダイナミックな滝。巨大な岩盤が割れ目の中に河川の水が吸い込まれるように流れ落ちる迫力ある景観が魅力です。</p>
               </div>
             </div>
             </div>

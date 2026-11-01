@@ -97,10 +97,8 @@ export default function ArticlePage() {
         {/* 厳選ホテルリスト */}
         <div className="space-y-10">
           <div className="border-l-4 border-amber-800 pl-4 py-1">
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900">
-              編集部が厳選！おすすめの極上宿・ホテル詳細
-            </h2>
-            <p className="text-xs sm:text-sm text-stone-500 mt-1">
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900">編集部が厳選！おすすめの極上宿・ホテル詳細｜秋田出張＆美酒ひとり旅：秋田駅直結・天然温泉大浴場・</h2>
+            <p className="text-xs sm:text-sm text-stone-500 mt-1">【秋田出張＆美酒ひとり旅：秋田駅直結・天然温泉大浴場・】 
               楽天トラベルの最新APIデータを反映。口コミ高評価＆こだわり設備を徹底チェック
             </p>
           </div>
@@ -378,9 +376,7 @@ export default function ArticlePage() {
 
         {/* よくある質問 FAQ */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-stone-900 border-b border-stone-200 pb-3">
-            よくある質問（FAQ）
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-stone-900 border-b border-stone-200 pb-3">よくある質問（FAQ）｜秋田出張＆美酒ひとり旅：秋田駅直結・天然温泉大浴場・</h2>
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
@@ -427,7 +423,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（秋田出張＆美酒ひとり旅：秋田駅直結・天然温泉大浴場・）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 秋田駅よりアクセス。ＪＲ秋田新幹線秋田駅西口から徒歩で1分。</li>
@@ -439,7 +435,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（秋田出張＆美酒ひとり旅：秋田駅直結・天然温泉大浴場・）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ホテルメトロポリタン秋田」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>

@@ -76,7 +76,7 @@ export default function ArticlePage() {
             宮城鳴子温泉・10-11月秋の鳴子峡紅葉＆美肌湯治ひとり旅おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもりで過ごす冬の旅（10月）！貸切庭園露天・重曹美肌湯・黒毛和牛！みちのく湯治リトリート厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">【・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷】 
             更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
           </p>
           
@@ -95,10 +95,8 @@ export default function ArticlePage() {
 
         {/* 目次 */}
         <section className="bg-white p-5 rounded-2xl border border-stone-200 shadow-sm mb-10">
-          <h2 className="text-sm font-bold text-stone-900 mb-3 flex items-center gap-2">
-            <span>📑</span>
-            <span>この記事で紹介する厳選ホテル（楽天トラベル最新評価順）</span>
-          </h2>
+          <h2 className="text-sm font-bold text-stone-900 mb-3 flex items-center gap-2"><span>📑</span>
+            <span>この記事で紹介する厳選ホテル（楽天トラベル最新評価順）</span>｜・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷</h2>
           <ul className="text-xs sm:text-sm space-y-2">
             <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 鳴子温泉郷　極上の貸切露天風呂　旅館大沼（★4.58 / 最低目安：13,530円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. 鳴子温泉　鳴子旅館（★4.67 / 最低目安：7,370円〜）</a></li>
@@ -142,7 +140,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷）</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>美肌湯が自慢の宮城</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>東鳴子温泉の秘湯宿</span></li>
@@ -199,7 +197,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷）</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>家庭的な雰囲気でのんびりくつろげる様に心がけている小さな温泉旅館</span></li>
               </ul>
@@ -254,7 +252,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷）</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>貸切風呂（自家源泉掛け流し）は４箇所有り全て無料！</span></li>
               </ul>
@@ -300,10 +298,8 @@ export default function ArticlePage() {
 
         {/* よくある質問 FAQ */}
         <section className="bg-amber-50/40 rounded-2xl border border-amber-200/60 p-6 sm:p-8 mb-10">
-          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span>❓</span>
-            <span>よくある質問（FAQ）</span>
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span>❓</span>
+            <span>よくある質問（FAQ）</span>｜・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷</h2>
           <div className="space-y-4">
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
               <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
@@ -328,7 +324,7 @@ export default function ArticlePage() {
 
         {/* 記事末尾CTA */}
         <div className="text-center bg-stone-900 text-white p-8 rounded-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold mb-3">気になる宿は見つかりましたか？</h2>
+          <h2 className="text-xl sm:text-2xl font-bold mb-3">気になる宿は見つかりましたか？｜・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷</h2>
           <p className="text-stone-300 text-xs sm:text-sm max-w-lg mx-auto mb-6">
             10月・11月の紅葉ハイシーズンは部屋数が限られます。楽天トラベルの最新空室カレンダーからお早めの日程チェックをおすすめします。
           </p>
@@ -352,7 +348,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 鳴子御殿湯駅よりアクセス。東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、徒歩５分。</li>
@@ -364,7 +360,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「鳴子温泉郷 極上の貸切露天風呂 旅館大沼」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -382,9 +378,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/miyagi-matsushima-shiogama-bay-seafood-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -405,7 +399,7 @@ export default function ArticlePage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/ibaraki/"
@@ -513,7 +507,7 @@ export default function ArticlePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷と日本一多彩な泉質おこもりで過ごす冬の旅（10月）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、徒歩５分。鳴子温泉からはタクシーで約5分。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。蒸し風呂(サウナ)に入れます方法が内湯から入れるようになると入りやすいと思います…　2026-09-12 11:02:52投稿」
@@ -577,24 +571,24 @@ export default function ArticlePage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Matsushima_miyagi_z.JPG/1280px-Matsushima_miyagi_z.JPG?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="松島（日本三景）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">松島（日本三景）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">松島湾に浮かぶ260余りの島々が描く、日本三景の一つに数えられる美景。瑞巌寺や五大堂といった歴史的建造物と、遊覧船からの島々の眺望が訪れる者を魅了します。 松島（まつしま）は、宮城県北東部の松島湾内外にある約260の島々からなる諸島やそれを擁する多島海（島の数については諸説ある後述）。または、湾周囲を囲む松島丘陵も含めた修景地区のことである。日本三景の一つに数えられている。2019年の観光入込客数は約598万人。かつては「東の松島 西の象潟」と謳われ、同じく東北地方に存在していた修景地の象潟と並び称されていた。…</p>
+                <h3 className="text-base font-bold text-stone-900">松島（日本三景）（・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷】 松島湾に浮かぶ260余りの島々が描く、日本三景の一つに数えられる美景。瑞巌寺や五大堂といった歴史的建造物と、遊覧船からの島々の眺望が訪れる者を魅了します。 松島（まつしま）は、宮城県北東部の松島湾内外にある約260の島々からなる諸島やそれを擁する多島海（島の数については諸説ある後述）。または、湾周囲を囲む松島丘陵も含めた修景地区のことである。日本三景の一つに数えられている。2019年の観光入込客数は約598万人。かつては「東の松島 西の象潟」と謳われ、同じく東北地方に存在していた修景地の象潟と並び称されていた。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">仙台城跡（青葉城）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">伊達政宗公が築城した仙台藩の拠点。本丸跡に立つ政宗公の騎馬像越しに仙台市街を一望でき、日暮れには眼下に広がる輝く夜景スポットとしても大人気です。</p>
+                <h3 className="text-base font-bold text-stone-900">仙台城跡（青葉城）（・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷】 伊達政宗公が築城した仙台藩の拠点。本丸跡に立つ政宗公の騎馬像越しに仙台市街を一望でき、日暮れには眼下に広がる輝く夜景スポットとしても大人気です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Zaou_Gongen_Circumstancial_appearance_of_Mount_Yoshino.jpg/1280px-Zaou_Gongen_Circumstancial_appearance_of_Mount_Yoshino.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="蔵王の御釜" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">蔵王の御釜</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">蔵王連峰の標高高台に位置する、エメラルドグリーンの神秘的なカルデラ湖。光の当たり方で色合いが変化することから「五色沼」とも呼ばれる圧巻の火山絶景です。 蔵王、藏王（ざ-おう） 読みとしては、「蔵王」の本来の読み、旧仮名づかい「ざう-わう(ぞう-おう)」（音読み）が連声化したもの。 修験道の神である蔵王権現のこと。日本各地にみられる「蔵王」という名称は、後述の地名を含め、その大半が蔵王権現（奈良県吉野の発祥）に由来している（蔵王権現を参照）。 上述の蔵王権現を祭っている神社（蔵王権現社、御嶽神社（御岳神社）、…</p>
+                <h3 className="text-base font-bold text-stone-900">蔵王の御釜（・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷】 蔵王連峰の標高高台に位置する、エメラルドグリーンの神秘的なカルデラ湖。光の当たり方で色合いが変化することから「五色沼」とも呼ばれる圧巻の火山絶景です。 蔵王、藏王（ざ-おう） 読みとしては、「蔵王」の本来の読み、旧仮名づかい「ざう-わう(ぞう-おう)」（音読み）が連声化したもの。 修験道の神である蔵王権現のこと。日本各地にみられる「蔵王」という名称は、後述の地名を含め、その大半が蔵王権現（奈良県吉野の発祥）に由来している（蔵王権現を参照）。 上述の蔵王権現を祭っている神社（蔵王権現社、御嶽神社（御岳神社）、…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -602,7 +596,7 @@ export default function ArticlePage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
                 <h3 className="text-base font-bold text-stone-900">瑞鳳殿</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">仙台藩祖・伊達政宗公の霊屋。桃山文化の華麗な建築様式を今に伝える絢欄豪華な装飾と、周囲の静寂な杉木立が見事な対比を見せています。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷】 仙台藩祖・伊達政宗公の霊屋。桃山文化の華麗な建築様式を今に伝える絢欄豪華な装飾と、周囲の静寂な杉木立が見事な対比を見せています。</p>
               </div>
             </div>
             </div>

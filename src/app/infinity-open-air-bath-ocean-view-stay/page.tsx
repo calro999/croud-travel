@@ -378,7 +378,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>新潟市へ一番近い美食を満喫できる温泉宿★インフィニティ露天風呂とこだわりのサウナが人気！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 新潟県南蒲原郡田上町田上乙1322-1 ／ 最寄り駅：新津 ／ 交通案内：関越道 三条・燕ICよりR403を車で30分／JR信越線 田上駅下車（無料送迎あり）</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
+                  <p>【絶景インフィニティ露天風呂の宿：海・空・湖と一体化す】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れへの配慮が細やかで安心して過ごせた1歳の子どもを連れての宿泊でした。ウェルカムベビーの宿とうたってはいないけど、ベビー用品の貸し出しがあったり食事ではエプロンや子ども用取り皿、ハイチェアなど…　2026-08-21 15:11:11投稿」
@@ -398,32 +398,32 @@ export default function HeritageOnsenHubPage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Menton-C%C3%B4te_d%27Azur.jpg/1280px-Menton-C%C3%B4te_d%27Azur.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="東京ディズニーリゾート" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">東京ディズニーリゾート</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">夢と魔法の王国「東京ディズニーランド」と冒険とイマジネーションの海「東京ディズニーシー」からなる日本最高峰のテーマパークリゾート。 リゾート（Resort）とは、大勢の人が休暇・余暇を過ごす場所のこと。行楽地。保養地。 行楽や保養、観光が地元の文化や経済の主要な要素となっている都市を、リゾート都市またはリゾートタウンと呼ぶ（en:Resort town）。…</p>
+                <h3 className="text-base font-bold text-stone-900">東京ディズニーリゾート（絶景インフィニティ露天風呂の宿：海・空・湖と一体化す）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【絶景インフィニティ露天風呂の宿：海・空・湖と一体化す】 夢と魔法の王国「東京ディズニーランド」と冒険とイマジネーションの海「東京ディズニーシー」からなる日本最高峰のテーマパークリゾート。 リゾート（Resort）とは、大勢の人が休暇・余暇を過ごす場所のこと。行楽地。保養地。 行楽や保養、観光が地元の文化や経済の主要な要素となっている都市を、リゾート都市またはリゾートタウンと呼ぶ（en:Resort town）。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">鴨川シーワールド</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">太平洋をバックに繰り広げられる豪快なシャチのパフォーマンスが有名な総合海洋レジャーセンター。イルカやベルーガのショーも見応え抜群です。</p>
+                <h3 className="text-base font-bold text-stone-900">鴨川シーワールド（絶景インフィニティ露天風呂の宿：海・空・湖と一体化す）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【絶景インフィニティ露天風呂の宿：海・空・湖と一体化す】 太平洋をバックに繰り広げられる豪快なシャチのパフォーマンスが有名な総合海洋レジャーセンター。イルカやベルーガのショーも見応え抜群です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">成田山新勝寺</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">千年以上の日数を数える全国屈指の大本山。参道には老舗のうなぎ店や土産物屋がひしめき、正月や節分には大勢の参拝客で賑わいます。</p>
+                <h3 className="text-base font-bold text-stone-900">成田山新勝寺（絶景インフィニティ露天風呂の宿：海・空・湖と一体化す）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【絶景インフィニティ露天風呂の宿：海・空・湖と一体化す】 千年以上の日数を数える全国屈指の大本山。参道には老舗のうなぎ店や土産物屋がひしめき、正月や節分には大勢の参拝客で賑わいます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">鋸山（日本寺・地獄のぞき）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">房総半島からの絶景が広がる山。山頂近くの断崖絶壁から突き出した「地獄のぞき」からのスリル満点の眺望や日本一の大きさを誇る石仏の大仏様が有名です。</p>
+                <h3 className="text-base font-bold text-stone-900">鋸山（日本寺・地獄のぞき）（絶景インフィニティ露天風呂の宿：海・空・湖と一体化す）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【絶景インフィニティ露天風呂の宿：海・空・湖と一体化す】 房総半島からの絶景が広がる山。山頂近くの断崖絶壁から突き出した「地獄のぞき」からのスリル満点の眺望や日本一の大きさを誇る石仏の大仏様が有名です。</p>
               </div>
             </div>
             </div>

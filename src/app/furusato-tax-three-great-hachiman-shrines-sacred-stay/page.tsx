@@ -76,9 +76,7 @@ export default function Page() {
       />
         {/* Intro Card */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">
-            はじめに
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">はじめに｜日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと</h2>
           <p className="text-slate-700 leading-relaxed text-base sm:text-lg">
             全国に約44,000社ある八幡神社の頂点に君臨する「日本三大八幡宮」――神仏習合の発祥の地にして全国八幡宮の総本宮である大分県「宇佐神宮」、平安京の裏鬼門を守護し歴代朝廷や武家に崇敬された京都府「石清水八幡宮」、そして玄界灘を望み蒙古襲来時の神風伝承で名高い福岡県「筥崎宮（または鶴岡八幡宮）」。原生林に囲まれた厳かな参道を歩き、朱塗りの国宝社殿で手を合わせる祈りの旅は、古くから多くの人々に強い運気と心の安らぎを与えてきました。参拝の前後には、別府温泉の名湯や伏見の酒蔵会席、博多の新鮮な玄界灘グルメを味わう名宿に泊まり、ふるさと納税を活用して充実した聖地巡礼をお楽しみください。
           </p>
@@ -87,10 +85,8 @@ export default function Page() {
             <div className="flex items-start gap-4">
               <span className="text-3xl">💡</span>
               <div>
-                <h3 className="text-base sm:text-lg font-bold text-amber-900 mb-1">
-                  楽天ふるさと納税「トラベルクーポン」賢い活用法
-                </h3>
-                <p className="text-sm sm:text-base text-amber-800 leading-relaxed">
+                <h3 className="text-base sm:text-lg font-bold text-amber-900 mb-1">楽天ふるさと納税「トラベルクーポン」賢い活用法（日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと）</h3>
+                <p className="text-sm sm:text-base text-amber-800 leading-relaxed">【日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと】 
                   寄付額の最大30%分の宿泊クーポンが付与され、寄付当日から予約に即時利用可能。通常の楽天ポイント還元やお買い物マラソンとも併用できるため、実質自己負担2,000円で憧れの高級リゾートや名湯旅館に泊まれる最強の制度です。
                 </p>
               </div>
@@ -100,9 +96,7 @@ export default function Page() {
 
         {/* 3 Merits */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 border-l-4 border-indigo-600 pl-4">
-            この特集ならではの3大魅力
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 border-l-4 border-indigo-600 pl-4">この特集ならではの3大魅力｜日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
             <div key="0" className="bg-slate-50 rounded-xl p-5 border border-slate-200 hover:border-indigo-300 transition-colors">
@@ -747,10 +741,8 @@ export default function Page() {
             <span>🎟️</span>
             <span>楽天ふるさと納税×楽天トラベル 公式連携</span>
           </div>
-          <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold mb-4 leading-tight">
-            ふるさと納税で賢くお得に、憧れの極上宿へ
-          </h2>
-          <p className="text-slate-300 text-sm sm:text-base max-w-2xl mx-auto mb-8 leading-relaxed">
+          <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold mb-4 leading-tight">ふるさと納税で賢くお得に、憧れの極上宿へ｜日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと</h2>
+          <p className="text-slate-300 text-sm sm:text-base max-w-2xl mx-auto mb-8 leading-relaxed">【日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと】 
             返礼品の宿泊クーポンは翌年以降の旅行にも活用でき、ポイント還元もフル適用。実質2,000円の自己負担でワンランク上の滞在をお楽しみください。
           </p>
           <div className="flex flex-col sm:flex-row justify-center items-center gap-4 max-w-md mx-auto">
@@ -767,9 +759,7 @@ export default function Page() {
 
         {/* Cross Links Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
-          <h2 className="text-lg sm:text-xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">
-            あわせて読みたい関連特集ガイド
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">あわせて読みたい関連特集ガイド｜日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             
             <Link
@@ -824,7 +814,7 @@ export default function Page() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 別府（大分）駅よりアクセス。ＪＲ日豊本線別府駅より徒歩２分／九州自動車道別府ＩＣより車で１５分。</li>
@@ -836,7 +826,7 @@ export default function Page() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「別府温泉 旅館 千成」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -890,9 +880,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-iwate-appi-kogen-snow-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -913,7 +901,7 @@ export default function Page() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（日本三大八幡宮＆厄除け開運祈願・門前町名宿×ふるさと）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/osaka/"

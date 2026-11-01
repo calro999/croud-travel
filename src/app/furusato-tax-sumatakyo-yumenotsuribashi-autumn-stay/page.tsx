@@ -127,21 +127,17 @@ export default function FeatureArticlePage() {
         <article className="lg:col-span-2 space-y-10">
           {/* エリア概要セクション */}
           <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-stone-200/80">
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 pb-3 border-b border-stone-200 flex items-center gap-3">
-              <span className="text-2xl">🍂</span>
-              秋の風情と旬の味覚を堪能する特別な旅
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 pb-3 border-b border-stone-200 flex items-center gap-3"><span className="text-2xl">🍂</span>
+              秋の風情と旬の味覚を堪能する特別な旅｜寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯</h2>
             <p className="text-stone-700 leading-relaxed text-sm md:text-base mb-6">
               静岡県・大井川上流の南アルプス山麓に位置する寸又峡は、手つかずの大自然が残る奥静の秘境。エメラルドグリーンに輝くダム湖に架かる長さ90m・高さ8mの「夢の吊橋」は、死ぬまでに渡りたい世界の徒歩吊橋に選出された名所。秋には周囲の原生林が鮮やかに色づき幻想的な美しさに。湯上がりに肌がつるつるになる「美女づくりの湯」と山菜・イノシシ鍋など秘境グルメを堪能できます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">
-                <span>💡</span> 10月〜11月の旅を満喫する3大ポイント
-              </h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2"><span>💡</span> 10月〜11月の旅を満喫する3大ポイント（寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯）</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
-                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞</li>
-                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢</li>
-                <li><strong>実質2,000円ステイ：</strong>楽天ふるさと納税トラベルクーポンで賢く予約</li>
+                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯）</li>
+                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯）</li>
+                <li><strong>実質2,000円ステイ：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯）</li>
               </ul>
             </div>
           </section>
@@ -331,11 +327,9 @@ export default function FeatureArticlePage() {
 
           {/* ふるさと納税活用法 */}
           <section className="bg-gradient-to-r from-amber-500 to-orange-600 text-white rounded-2xl p-6 md:p-8 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2">
-              <span>🎁</span> 楽天ふるさと納税で実質2,000円宿泊する方法
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で実質2,000円宿泊する方法｜寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯</h2>
             <div className="space-y-4 text-xs md:text-sm text-amber-50 leading-relaxed">
-              <p>
+              <p>【寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯】 
                 楽天ふるさと納税の「トラベルクーポン（宿泊補助券）」を利用すると、寄付金額に応じた割引クーポンが即時または後日発行され、楽天トラベルでの宿泊予約時に直接利用できます。
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-3 pt-2 text-stone-900">
@@ -362,9 +356,7 @@ export default function FeatureArticlePage() {
         {/* サイドバー */}
         <aside className="space-y-6">
           <div className="bg-white rounded-2xl p-6 shadow-sm border border-stone-200/80 sticky top-6">
-            <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2">
-              <span>📌</span> この特集で紹介した宿
-            </h3>
+            <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2"><span>📌</span> この特集で紹介した宿（寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯）</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.sumata_hiryu.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
@@ -430,7 +422,7 @@ export default function FeatureArticlePage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 千頭駅よりアクセス。東海道線金谷駅より大井川鉄道で千頭駅下車 寸又峡温泉行きバスにて約60分 / 静岡ICより362号線経由約2時間。</li>
@@ -442,7 +434,7 @@ export default function FeatureArticlePage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「寸又峡温泉 湯屋飛龍の宿」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -496,9 +488,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/tokyo-yamagata-zao-bus-vs-shinkansen-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -519,7 +509,7 @@ export default function FeatureArticlePage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（寸又峡・夢の吊橋のエメラルド湖面紅葉＆美女づくりの湯）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/yamagata/"

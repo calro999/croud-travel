@@ -760,9 +760,7 @@ export default function FeaturePage() {
 
           {/* 関連特集リンク */}
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-b border-stone-100 pb-3">
-              あわせて読みたい関連特集
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-b border-stone-100 pb-3">あわせて読みたい関連特集（薩摩の小京都・知覧武家屋敷庭園と開聞岳絶景：2026）</h3>
             <ul className="grid grid-cols-1 sm:grid-cols-2 gap-3">
               <li>
                 <Link href="/prefectures/kagoshima/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">

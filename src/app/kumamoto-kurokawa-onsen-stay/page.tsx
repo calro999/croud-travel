@@ -396,7 +396,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>日田の奥座敷にひっそりと佇む大正浪漫の宿。高い評価を頂く、食で、滞在をより印象的なものへと導きます。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 大分県日田市琴平1529-1 ／ 最寄り駅：日田 ／ 交通案内：JR日田駅、日田バスセンターから車で１０分（送迎可） 日田ICから車で15分、湯布院温泉、別府温泉、黒川温泉迄1時間圏内</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
+                  <p>【熊本・黒川温泉：入湯手形＆渓流露天風呂めぐり極上宿 】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.85 ／ 立地 ★4.76 ／ 部屋 ★4.88 ／ 設備 ★4.78 ／ 風呂 ★4.82 ／ 食事 ★4.9</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「毎年通うほど全てが最高!3年ほど前に見つけた、最高の宿毎年いってます!雰囲気、お風呂、料理全てが最高!他の画像やクチコミの詳細はこちらから　https://review.trave…　2026-10-07 10:12:35投稿」
@@ -440,7 +440,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>黒川温泉中心部に位置し、清流田ノ原川のほとりに面した情緒溢れるお料理自慢の純和風旅館。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南小国町満願寺6430-1 ／ 最寄り駅：阿蘇 ／ 交通案内：大分道日田ＩＣより車で６０分、黒川温泉バス停より徒歩1分。送迎あり(条件あり)事前予約要。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
+                  <p>【熊本・黒川温泉：入湯手形＆渓流露天風呂めぐり極上宿 】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「庭園の風情と美味しい食事に癒やされる再訪以前泊まってとても良かったのでリピートしました!お部屋は1階でしたが目の前に庭園がありとても風情があります。建物は古いですが、露天風呂は広くスタッフ…　2026-08-21 20:12:13投稿」

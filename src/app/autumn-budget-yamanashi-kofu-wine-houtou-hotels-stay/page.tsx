@@ -601,32 +601,32 @@ export default function AutumnBudgetKofuHotelsPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">富士山（吉田ルート/五合目）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本の最高峰であり世界文化遺産の象徴。富士スバルラインで行く五合目は観光施設が充実し、眼下に雲海を望む圧巻のスタート地点です。</p>
+                <h3 className="text-base font-bold text-stone-900">富士山（吉田ルート/五合目）（甲府：新酒甲州ワインと名物ほうとう）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【甲府：新酒甲州ワインと名物ほうとう】 日本の最高峰であり世界文化遺産の象徴。富士スバルラインで行く五合目は観光施設が充実し、眼下に雲海を望む圧巻のスタート地点です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">新倉山浅間公園（忠霊塔）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">五重塔（忠霊塔）越しに雄大な富士山と満開の桜を一望できる、世界中の観光客が熱望する「これぞ日本」という究極のアジアンビジュアルスポット。</p>
+                <h3 className="text-base font-bold text-stone-900">新倉山浅間公園（忠霊塔）（甲府：新酒甲州ワインと名物ほうとう）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【甲府：新酒甲州ワインと名物ほうとう】 五重塔（忠霊塔）越しに雄大な富士山と満開の桜を一望できる、世界中の観光客が熱望する「これぞ日本」という究極のアジアンビジュアルスポット。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">富士五湖（河口湖）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">富士山の北麓に位置する静かな湖畔リゾート。四季折々の富士山が水面に映る「逆さ富士」や、大石公園のコキア・ラベンダー越しのアングルが人気です。</p>
+                <h3 className="text-base font-bold text-stone-900">富士五湖（河口湖）（甲府：新酒甲州ワインと名物ほうとう）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【甲府：新酒甲州ワインと名物ほうとう】 富士山の北麓に位置する静かな湖畔リゾート。四季折々の富士山が水面に映る「逆さ富士」や、大石公園のコキア・ラベンダー越しのアングルが人気です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">勝沼ぶどうの丘</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本有数のワイン産地・勝沼の高台に立つ総合ワインリゾート。タパスとともに100種類以上の甲州ワインを試飲できる地下ワインカーヴが魅力です。</p>
+                <h3 className="text-base font-bold text-stone-900">勝沼ぶどうの丘（甲府：新酒甲州ワインと名物ほうとう）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【甲府：新酒甲州ワインと名物ほうとう】 日本有数のワイン産地・勝沼の高台に立つ総合ワインリゾート。タパスとともに100種類以上の甲州ワインを試飲できる地下ワインカーヴが魅力です。</p>
               </div>
             </div>
             </div>

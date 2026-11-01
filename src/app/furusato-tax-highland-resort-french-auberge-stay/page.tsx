@@ -103,10 +103,8 @@ export default function FurusatoTaxPage() {
         {/* メリット3選 */}
         <section className="space-y-6">
           <div className="text-center">
-            <h2 className="text-xl md:text-3xl font-black text-white">
-              楽天ふるさと納税トラベルクーポンが圧倒的にお得な3つの理由
-            </h2>
-            <p className="text-slate-400 text-xs md:text-sm mt-2">
+            <h2 className="text-xl md:text-3xl font-black text-white">楽天ふるさと納税トラベルクーポンが圧倒的にお得な3つの理由｜高原リゾート＆美食フレンチオーベルジュ×ふるさと納税</h2>
+            <p className="text-slate-400 text-xs md:text-sm mt-2">【高原リゾート＆美食フレンチオーベルジュ×ふるさと納税】 
               予約前の獲得はもちろん、予約後の「あとから適用」も可能な最高峰の使い勝手
             </p>
           </div>
@@ -160,10 +158,8 @@ export default function FurusatoTaxPage() {
         {/* 自治体＆厳選宿セクション */}
         <section className="space-y-12">
           <div className="border-l-4 border-amber-500 pl-4">
-            <h2 className="text-2xl md:text-3xl font-black text-white">
-              ふるさと納税対象・厳選おすすめ宿泊施設
-            </h2>
-            <p className="text-slate-400 text-xs md:text-sm mt-1">
+            <h2 className="text-2xl md:text-3xl font-black text-white">ふるさと納税対象・厳選おすすめ宿泊施設｜高原リゾート＆美食フレンチオーベルジュ×ふるさと納税</h2>
+            <p className="text-slate-400 text-xs md:text-sm mt-1">【高原リゾート＆美食フレンチオーベルジュ×ふるさと納税】 
               楽天トラベルAPIより最新の料金・宿泊プラン・空室情報をリアルタイム反映中
             </p>
           </div>
@@ -691,8 +687,8 @@ export default function FurusatoTaxPage() {
         {/* 関連・相互リンク集 */}
         <section className="bg-slate-900/60 border border-slate-800 rounded-3xl p-6 md:p-8 space-y-6">
           <div className="border-l-4 border-amber-500 pl-3">
-            <h3 className="text-lg md:text-xl font-black text-white">あわせて読みたいふるさと納税トラベル特集</h3>
-            <p className="text-slate-400 text-xs mt-1">目的や同伴者に合わせて最適な宿泊クーポンを活用しよう</p>
+            <h3 className="text-lg md:text-xl font-black text-white">あわせて読みたいふるさと納税トラベル特集（高原リゾート＆美食フレンチオーベルジュ×ふるさと納税）</h3>
+            <p className="text-slate-400 text-xs mt-1">【高原リゾート＆美食フレンチオーベルジュ×ふるさと納税】 目的や同伴者に合わせて最適な宿泊クーポンを活用しよう</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             
@@ -741,10 +737,8 @@ export default function FurusatoTaxPage() {
         {/* クーポン獲得CTA */}
         <section className="bg-gradient-to-br from-amber-500/20 via-slate-900 to-slate-900 border border-amber-500/30 rounded-3xl p-8 text-center space-y-6 shadow-2xl">
           <span className="text-3xl">🎫</span>
-          <h2 className="text-xl md:text-3xl font-black text-white">
-            楽天トラベルふるさと納税クーポンで、一生の思い出に残るプレミアムステイへ
-          </h2>
-          <p className="text-slate-300 text-xs md:text-base max-w-2xl mx-auto leading-relaxed">
+          <h2 className="text-xl md:text-3xl font-black text-white">楽天トラベルふるさと納税クーポンで、一生の思い出に残るプレミアムステイへ｜高原リゾート＆美食フレンチオーベルジュ×ふるさと納税</h2>
+          <p className="text-slate-300 text-xs md:text-base max-w-2xl mx-auto leading-relaxed">【高原リゾート＆美食フレンチオーベルジュ×ふるさと納税】 
             返礼品クーポンは寄付手続き完了後、数分で楽天トラベルのアカウントに即時付与されます。今年の寄付上限枠を賢く使って、家族みんなの最高の笑顔とくつろぎを手に入れましょう。
           </p>
           <div>
@@ -769,7 +763,7 @@ export default function FurusatoTaxPage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（高原リゾート＆美食フレンチオーベルジュ×ふるさと納税）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 那須塩原駅よりアクセス。東北自動車道那須ICより車で約20分／那須塩原駅より路線バス有り（有料／要予約）詳しくはホテルまでお問い合わせ下さい。</li>
@@ -781,7 +775,7 @@ export default function FurusatoTaxPage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（高原リゾート＆美食フレンチオーベルジュ×ふるさと納税）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「フォートリート＋那須高原」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -835,9 +829,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜高原リゾート＆美食フレンチオーベルジュ×ふるさと納税</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -858,7 +850,7 @@ export default function FurusatoTaxPage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（高原リゾート＆美食フレンチオーベルジュ×ふるさと納税）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/osaka/"

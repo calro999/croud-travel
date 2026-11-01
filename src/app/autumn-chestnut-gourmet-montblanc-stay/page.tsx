@@ -195,9 +195,7 @@ export default function Page() {
         {/* 宿一覧 */}
         <section className="space-y-8">
           <div className="border-b-2 border-emerald-900/10 pb-3 flex items-center justify-between">
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-              <span>🏆</span> 厳選おすすめ宿ランキング
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>🏆</span> 厳選おすすめ宿ランキング｜小布施・丹波の極上和栗</h2>
             <span className="text-xs text-stone-500">楽天トラベル最新データ更新</span>
           </div>
 
@@ -277,23 +275,17 @@ export default function Page() {
 
         {/* 旅のQ&A */}
         <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>❓</span> よくある質問・失敗しない宿選び
-          </h2>
+          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>❓</span> よくある質問・失敗しない宿選び｜小布施・丹波の極上和栗</h2>
           <div className="space-y-4 text-sm">
             <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5">
-                <span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？
-              </h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">
+              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？（小布施・丹波の極上和栗）</h3>
+              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">【小布施・丹波の極上和栗】 
                 人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
               </p>
             </div>
             <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5">
-                <span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？
-              </h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">
+              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？（小布施・丹波の極上和栗）</h3>
+              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">【小布施・丹波の極上和栗】 
                 宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
               </p>
             </div>
@@ -310,7 +302,7 @@ export default function Page() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（小布施・丹波の極上和栗）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 豊後竹田駅よりアクセス。◆湯布院IC国道210号を湯平温泉経由で広域農道50分◆ＪＲ豊肥本線 豊後竹田駅から車（タクシー）で３０分。</li>
@@ -322,7 +314,7 @@ export default function Page() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（小布施・丹波の極上和栗）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「長湯温泉 丸長旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -376,9 +368,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜小布施・丹波の極上和栗</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-fukushima-bandaiatami-onsen-hagihime-fukushimagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -399,7 +389,7 @@ export default function Page() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（小布施・丹波の極上和栗）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/fukushima/"
@@ -525,7 +515,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「小布施・丹波の極上和栗（搾りたて生モンブラン＆栗おこわ会席の秋グルメ宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：◆湯布院IC国道210号を湯平温泉経由で広域農道50分◆ＪＲ豊肥本線　豊後竹田駅から車（タクシー）で３０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【小布施・丹波の極上和栗】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
@@ -569,7 +559,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「小布施・丹波の極上和栗（搾りたて生モンブラン＆栗おこわ会席の秋グルメ宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：山陰道浜田東ＩＣより車で約２０分　山陰本線波子駅よりタクシーで約10分　料金は約4000円　事前のご予約をおすすめします</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【小布施・丹波の極上和栗】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>予約前チェック：</strong>「最新の宿泊プランや部屋タイプ別の空室状況、季節限定クーポンの有無は楽天トラベル公式ページにて確認できます。」
@@ -591,7 +581,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「小布施・丹波の極上和栗（搾りたて生モンブラン＆栗おこわ会席の秋グルメ宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ播州赤穂。送迎バスの御利用は、お電話でお申し込み下さい。　お迎え15時４0分・16時４0分　朝送り10時</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【小布施・丹波の極上和栗】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「水槽の魚掬いが制限されており残念三度目の利用でした。以前は鯛などの大きい魚も真ん中の大きい水槽の側で掬えましたが、現在は木の踏み台の腐食を理由にアコウ、アジなどの小さい水槽に移し、小さい網でし…　2026-08-31 11:10:19投稿」
@@ -634,31 +624,31 @@ export default function Page() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
                 <h3 className="text-base font-bold text-stone-900">大内宿</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">江戸時代の宿場町の面影をそのまま残す国の重要伝統的建造物群保存地区。茅葺き屋根の民家が街道沿いに並び、名物の「高遠そば（一本ねぎそば）」を味わえます。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【小布施・丹波の極上和栗】 江戸時代の宿場町の面影をそのまま残す国の重要伝統的建造物群保存地区。茅葺き屋根の民家が街道沿いに並び、名物の「高遠そば（一本ねぎそば）」を味わえます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">鶴ヶ城（会津若松城）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">戊辰戦争の激戦に耐え抜いた難攻不落の名城。赤瓦を纏った天守閣は日本唯一であり、内部の歴史資料館や最上階からの城下町一望が見どころです。</p>
+                <h3 className="text-base font-bold text-stone-900">鶴ヶ城（会津若松城）（小布施・丹波の極上和栗）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【小布施・丹波の極上和栗】 戊辰戦争の激戦に耐え抜いた難攻不落の名城。赤瓦を纏った天守閣は日本唯一であり、内部の歴史資料館や最上階からの城下町一望が見どころです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">五色沼湖沼群（裏磐梯）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">磐梯山の噴火によって形成された無数の神秘的な沼群。水に含まれる鉱物や気象条件により、エメラルドグリーンやコバルトブルーに色彩が変わるハイキングコースです。</p>
+                <h3 className="text-base font-bold text-stone-900">五色沼湖沼群（裏磐梯）（小布施・丹波の極上和栗）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【小布施・丹波の極上和栗】 磐梯山の噴火によって形成された無数の神秘的な沼群。水に含まれる鉱物や気象条件により、エメラルドグリーンやコバルトブルーに色彩が変わるハイキングコースです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">猪苗代湖</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「天鏡湖」とも称される日本第4位の面積を誇る美しい湖。雄大な磐梯山を水面に映し出し、冬には飛来するハクチョウやしぶき氷の絶景が見られます。</p>
+                <h3 className="text-base font-bold text-stone-900">猪苗代湖（小布施・丹波の極上和栗）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【小布施・丹波の極上和栗】 「天鏡湖」とも称される日本第4位の面積を誇る美しい湖。雄大な磐梯山を水面に映し出し、冬には飛来するハクチョウやしぶき氷の絶景が見られます。</p>
               </div>
             </div>
             </div>

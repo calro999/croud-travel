@@ -195,9 +195,7 @@ export default function Page() {
         {/* 宿一覧 */}
         <section className="space-y-8">
           <div className="border-b-2 border-emerald-900/10 pb-3 flex items-center justify-between">
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-              <span>🏆</span> 厳選おすすめ宿ランキング
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>🏆</span> 厳選おすすめ宿ランキング｜香ばしい味噌の香りと極上霜降り</h2>
             <span className="text-xs text-stone-500">楽天トラベル最新データ更新</span>
           </div>
 
@@ -277,23 +275,17 @@ export default function Page() {
 
         {/* 旅のQ&A */}
         <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>❓</span> よくある質問・失敗しない宿選び
-          </h2>
+          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>❓</span> よくある質問・失敗しない宿選び｜香ばしい味噌の香りと極上霜降り</h2>
           <div className="space-y-4 text-sm">
             <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5">
-                <span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？
-              </h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">
+              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？（香ばしい味噌の香りと極上霜降り）</h3>
+              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">【香ばしい味噌の香りと極上霜降り】 
                 人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
               </p>
             </div>
             <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5">
-                <span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？
-              </h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">
+              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？（香ばしい味噌の香りと極上霜降り）</h3>
+              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">【香ばしい味噌の香りと極上霜降り】 
                 宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
               </p>
             </div>
@@ -310,7 +302,7 @@ export default function Page() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（香ばしい味噌の香りと極上霜降り）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 高山駅よりバスで６０分／中央道松本ICより車でR１５８ ６０分／東海北陸道・中部縦貫道高山ＩＣより車で６０分で現地へ到着。</li>
@@ -322,7 +314,7 @@ export default function Page() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（香ばしい味噌の香りと極上霜降り）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「奥飛騨平湯温泉 旅館たなか＜岐阜県＞」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -376,9 +368,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜香ばしい味噌の香りと極上霜降り</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -399,7 +389,7 @@ export default function Page() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（香ばしい味噌の香りと極上霜降り）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/nagasaki/"
@@ -508,9 +498,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 2026年エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">🏨 2026年エリアの宿泊施設別スペック＆滞在チェックポイント（香ばしい味噌の香りと極上霜降り）</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>
@@ -569,7 +557,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「香ばしい味噌の香りと極上霜降り（名物「飛騨牛朴葉味噌焼き」会席の温泉宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ高山線　下呂駅より徒歩１２分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【香ばしい味噌の香りと極上霜降り】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの湯と親切な接客に大満足源泉掛け流しの湯が最高に気持ちよかったスタッフの方も親切で質問に真摯に対応くださって大変気持ちよかったです。立地もメイン通りに近く散策しやすかったですクチコ…　2026-09-08 20:52:48投稿」
@@ -613,7 +601,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「香ばしい味噌の香りと極上霜降り（名物「飛騨牛朴葉味噌焼き」会席の温泉宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：高山ICから車で70分。松本ICから車で70分。11月～3月はスタットレスタイヤの着用をお願い致します。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【香ばしい味噌の香りと極上霜降り】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「心地よい旅館一番の感想は、スタッフの方々の笑顔が多くて接客が心地良いです。貸切露天風呂は洗い場が無いので、お部屋か大浴場で一度体を洗ってから服を着て移動する必要がありますが、予約制じゃないから…　2026-09-19 09:20:20投稿」
@@ -633,8 +621,8 @@ export default function Page() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Japan_Tojinbo02n4592.jpg/1280px-Japan_Tojinbo02n4592.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="福井県立恐竜博物館" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">福井県立恐竜博物館</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">世界三大恐竜博物館の一つに数えられる世界最大級の恐竜専門博物館。44体もの恐竜全身骨格や迫力満点の動く実物大恐竜ロボットが展示されています。 福井県（ふくいけん）は、日本の中部地方（北陸地方）に位置する県。行政管轄区分において近畿地方に包括される場合もある。令制国の越前国と若狭国に相当する。県庁所在地は福井市。 北陸地方の最西端に位置しており、同地方で最も人口が少ない県である。…</p>
+                <h3 className="text-base font-bold text-stone-900">福井県立恐竜博物館（香ばしい味噌の香りと極上霜降り）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【香ばしい味噌の香りと極上霜降り】 世界三大恐竜博物館の一つに数えられる世界最大級の恐竜専門博物館。44体もの恐竜全身骨格や迫力満点の動く実物大恐竜ロボットが展示されています。 福井県（ふくいけん）は、日本の中部地方（北陸地方）に位置する県。行政管轄区分において近畿地方に包括される場合もある。令制国の越前国と若狭国に相当する。県庁所在地は福井市。 北陸地方の最西端に位置しており、同地方で最も人口が少ない県である。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -642,23 +630,23 @@ export default function Page() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
                 <h3 className="text-base font-bold text-stone-900">東尋坊</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本海の荒波によって削られた断崖絶壁が約1km続く国の天然記念物。柱状節理という世界的に珍しい奇岩の崖の上から見下ろす波はスリル満点です。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【香ばしい味噌の香りと極上霜降り】 日本海の荒波によって削られた断崖絶壁が約1km続く国の天然記念物。柱状節理という世界的に珍しい奇岩の崖の上から見下ろす波はスリル満点です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">大本山 永平寺</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">道元禅師によって開かれた曹洞宗の大本山。樹齢数百年の老杉に囲まれた静寂な境内に大小70余りの堂宇が廊下で結ばれ、厳かな修行の息吹が漂います。</p>
+                <h3 className="text-base font-bold text-stone-900">大本山 永平寺（香ばしい味噌の香りと極上霜降り）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【香ばしい味噌の香りと極上霜降り】 道元禅師によって開かれた曹洞宗の大本山。樹齢数百年の老杉に囲まれた静寂な境内に大小70余りの堂宇が廊下で結ばれ、厳かな修行の息吹が漂います。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">三方五湖（レインボーライン）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">淡水・半塩水・海水と水質や水深が異なる5つの湖。山頂公園へ向かうレインボーライン山頂公園からは「五色の湖」と日本海の360度パノラマを楽しめます。</p>
+                <h3 className="text-base font-bold text-stone-900">三方五湖（レインボーライン）（香ばしい味噌の香りと極上霜降り）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【香ばしい味噌の香りと極上霜降り】 淡水・半塩水・海水と水質や水深が異なる5つの湖。山頂公園へ向かうレインボーライン山頂公園からは「五色の湖」と日本海の360度パノラマを楽しめます。</p>
               </div>
             </div>
             </div>

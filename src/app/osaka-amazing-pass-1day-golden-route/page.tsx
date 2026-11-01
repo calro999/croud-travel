@@ -454,7 +454,7 @@ export default function OsakaAmazingPassPage() {
                 <span>Q. 事前準備や持ち物で注意すべきポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
-              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
+              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">【大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋】 
                 A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
@@ -465,9 +465,7 @@ export default function OsakaAmazingPassPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-gunma-kusatsu-onsen-yubatake-joshu-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -488,7 +486,7 @@ export default function OsakaAmazingPassPage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/yamanashi/"
@@ -671,7 +669,7 @@ export default function OsakaAmazingPassPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「大阪周遊パス1日券 完全元取りガイド（電車乗り放題＋40ヶ所以上の観光施設が無料）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：梅田から約5分、新大阪から約15分。阪急「十三駅」西口より徒歩約2分の好立地です。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションも良く駐車場もあり設備もよく値段も安くまた使いたいです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/17…　2026-09-18 15:39:19投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=177866&quot; class=&quot;3click&quot;」
@@ -691,32 +689,32 @@ export default function OsakaAmazingPassPage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Yubatake_%28Kusatsu_Onsen%29.jpg/1280px-Yubatake_%28Kusatsu_Onsen%29.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="草津温泉（湯畑）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">草津温泉（湯畑）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三名泉の一つで自然湧出量日本一を誇る温泉街のシンボル。毎分4,000リットルの源泉が湯滝となって湧き出し、湯もみ体験や夜のライトアップも人気です。 草津温泉（くさつおんせん）は、群馬県吾妻郡草津町草津界隈（江戸時代における上野国吾妻郡草津村界隈、幕藩体制下の上州御料草津村界隈〈初期は沼田藩知行〉）に所在する温泉である。草津白根山東麓に位置する。 毎分3万2300リットル以上の自然湧出量は日本一。室町時代には万里集九が有馬温泉や下呂温泉とともに「三名泉」とし、江戸時代には林羅山もこれらの三温泉を「天下の三…</p>
+                <h3 className="text-base font-bold text-stone-900">草津温泉（湯畑）（大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋】 日本三名泉の一つで自然湧出量日本一を誇る温泉街のシンボル。毎分4,000リットルの源泉が湯滝となって湧き出し、湯もみ体験や夜のライトアップも人気です。 草津温泉（くさつおんせん）は、群馬県吾妻郡草津町草津界隈（江戸時代における上野国吾妻郡草津村界隈、幕藩体制下の上州御料草津村界隈〈初期は沼田藩知行〉）に所在する温泉である。草津白根山東麓に位置する。 毎分3万2300リットル以上の自然湧出量は日本一。室町時代には万里集九が有馬温泉や下呂温泉とともに「三名泉」とし、江戸時代には林羅山もこれらの三温泉を「天下の三…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Ikaho_Onsen_03.jpg/1280px-Ikaho_Onsen_03.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="伊香保温泉（石段街）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">伊香保温泉（石段街）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">365段の石段が続く情緒溢れる温泉街。石段の両脇には射的場や土産物店、足湯が立ち並び、温泉まんじゅう発祥の地としても知られています。 伊香保温泉（いかほおんせん）は、群馬県渋川市伊香保町にある温泉。草津温泉と並んで県を代表する名湯で、上毛かるたでは「伊香保温泉 日本の名湯」と歌われている。 「伊香保温泉」として地域団体商標に登録されている。…</p>
+                <h3 className="text-base font-bold text-stone-900">伊香保温泉（石段街）（大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋】 365段の石段が続く情緒溢れる温泉街。石段の両脇には射的場や土産物店、足湯が立ち並び、温泉まんじゅう発祥の地としても知られています。 伊香保温泉（いかほおんせん）は、群馬県渋川市伊香保町にある温泉。草津温泉と並んで県を代表する名湯で、上毛かるたでは「伊香保温泉 日本の名湯」と歌われている。 「伊香保温泉」として地域団体商標に登録されている。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">富岡製糸場</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">明治政府が設立した日本初の本格的な製糸工場であり、世界文化遺産。木骨レンガ造りの巨大な繰糸所や蚕室が良好に保存されており、日本の近代化の足跡を辿れます。</p>
+                <h3 className="text-base font-bold text-stone-900">富岡製糸場（大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋】 明治政府が設立した日本初の本格的な製糸工場であり、世界文化遺産。木骨レンガ造りの巨大な繰糸所や蚕室が良好に保存されており、日本の近代化の足跡を辿れます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">吹割の滝（ふきわれのたき）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「東洋のナイアガラ」と称されるダイナミックな滝。巨大な岩盤が割れ目の中に河川の水が吸い込まれるように流れ落ちる迫力ある景観が魅力です。</p>
+                <h3 className="text-base font-bold text-stone-900">吹割の滝（ふきわれのたき）（大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋】 「東洋のナイアガラ」と称されるダイナミックな滝。巨大な岩盤が割れ目の中に河川の水が吸い込まれるように流れ落ちる迫力ある景観が魅力です。</p>
               </div>
             </div>
             </div>

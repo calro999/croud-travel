@@ -76,7 +76,7 @@ export default function ArticlePage() {
             熊本黒川温泉・10-11月秋の阿蘇紅葉＆入湯手形ひとり旅おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもりで過ごす冬の旅（10月）！雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">【・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入】 
             更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
           </p>
           
@@ -95,10 +95,8 @@ export default function ArticlePage() {
 
         {/* 目次 */}
         <section className="bg-white p-5 rounded-2xl border border-stone-200 shadow-sm mb-10">
-          <h2 className="text-sm font-bold text-stone-900 mb-3 flex items-center gap-2">
-            <span>📑</span>
-            <span>この記事で紹介する厳選ホテル（楽天トラベル最新評価順）</span>
-          </h2>
+          <h2 className="text-sm font-bold text-stone-900 mb-3 flex items-center gap-2"><span>📑</span>
+            <span>この記事で紹介する厳選ホテル（楽天トラベル最新評価順）</span>｜・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入</h2>
           <ul className="text-xs sm:text-sm space-y-2">
             <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 黒川温泉　旅館　美里（★4.62 / 最低目安：11,000円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. 黒川温泉　旅館　壱の井（★4.61 / 最低目安：22,000円〜）</a></li>
@@ -142,7 +140,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入）</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>黒川唯一の時間によって色が変わる不思議な硫黄泉</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>露天風呂</span></li>
@@ -199,7 +197,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入）</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>黒川温泉中心部まで徒歩７分</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>静かな山間</span></li>
@@ -256,7 +254,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入）</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>黒川温泉の下手にある山河旅館</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>温泉街とはまた違った風情をお楽しみいただけます</span></li>
@@ -303,10 +301,8 @@ export default function ArticlePage() {
 
         {/* よくある質問 FAQ */}
         <section className="bg-amber-50/40 rounded-2xl border border-amber-200/60 p-6 sm:p-8 mb-10">
-          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span>❓</span>
-            <span>よくある質問（FAQ）</span>
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span>❓</span>
+            <span>よくある質問（FAQ）</span>｜・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入</h2>
           <div className="space-y-4">
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
               <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
@@ -331,7 +327,7 @@ export default function ArticlePage() {
 
         {/* 記事末尾CTA */}
         <div className="text-center bg-stone-900 text-white p-8 rounded-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold mb-3">気になる宿は見つかりましたか？</h2>
+          <h2 className="text-xl sm:text-2xl font-bold mb-3">気になる宿は見つかりましたか？｜・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入</h2>
           <p className="text-stone-300 text-xs sm:text-sm max-w-lg mx-auto mb-6">
             10月・11月の紅葉ハイシーズンは部屋数が限られます。楽天トラベルの最新空室カレンダーからお早めの日程チェックをおすすめします。
           </p>
@@ -355,7 +351,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 阿蘇駅よりアクセス。阿蘇駅から車で約４０分／九州横断バスにて約１時間。</li>
@@ -367,7 +363,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「黒川温泉 旅館 美里」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -385,9 +381,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-shima-onsen-shimablue-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -408,7 +402,7 @@ export default function ArticlePage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/chiba/"
@@ -516,7 +510,7 @@ export default function ArticlePage() {
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>黒川唯一の時間によって色が変わる不思議な硫黄泉、露天風呂・内湯・家族湯にてご堪能ください♪</p>
                   <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南小国町満願寺6690 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>黒川温泉　旅館　美里の滞在ポイント：</strong>「・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもりで過ごす冬の旅（10月）エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
@@ -560,7 +554,7 @@ export default function ArticlePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>黒川温泉の下手にある山河旅館。温泉街とはまた違った風情をお楽しみいただけます。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南小国町 ／ 最寄り駅：阿蘇 ／ 交通案内：阿蘇駅からバスで５０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
+                  <p>【・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「山河のねむの木と泉質が最高!とにかく山河さんのねむの木がお気に入りです。なかなか予約が取れないので早めにチェックしています。泉質も最高です。クチコミの詳細はこちらから　https://re…　2026-06-25 07:50:07投稿」
@@ -580,32 +574,32 @@ export default function ArticlePage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Yubatake_%28Kusatsu_Onsen%29.jpg/1280px-Yubatake_%28Kusatsu_Onsen%29.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="草津温泉（湯畑）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">草津温泉（湯畑）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三名泉の一つで自然湧出量日本一を誇る温泉街のシンボル。毎分4,000リットルの源泉が湯滝となって湧き出し、湯もみ体験や夜のライトアップも人気です。 草津温泉（くさつおんせん）は、群馬県吾妻郡草津町草津界隈（江戸時代における上野国吾妻郡草津村界隈、幕藩体制下の上州御料草津村界隈〈初期は沼田藩知行〉）に所在する温泉である。草津白根山東麓に位置する。 毎分3万2300リットル以上の自然湧出量は日本一。室町時代には万里集九が有馬温泉や下呂温泉とともに「三名泉」とし、江戸時代には林羅山もこれらの三温泉を「天下の三…</p>
+                <h3 className="text-base font-bold text-stone-900">草津温泉（湯畑）（・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入】 日本三名泉の一つで自然湧出量日本一を誇る温泉街のシンボル。毎分4,000リットルの源泉が湯滝となって湧き出し、湯もみ体験や夜のライトアップも人気です。 草津温泉（くさつおんせん）は、群馬県吾妻郡草津町草津界隈（江戸時代における上野国吾妻郡草津村界隈、幕藩体制下の上州御料草津村界隈〈初期は沼田藩知行〉）に所在する温泉である。草津白根山東麓に位置する。 毎分3万2300リットル以上の自然湧出量は日本一。室町時代には万里集九が有馬温泉や下呂温泉とともに「三名泉」とし、江戸時代には林羅山もこれらの三温泉を「天下の三…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Ikaho_Onsen_03.jpg/1280px-Ikaho_Onsen_03.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="伊香保温泉（石段街）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">伊香保温泉（石段街）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">365段の石段が続く情緒溢れる温泉街。石段の両脇には射的場や土産物店、足湯が立ち並び、温泉まんじゅう発祥の地としても知られています。 伊香保温泉（いかほおんせん）は、群馬県渋川市伊香保町にある温泉。草津温泉と並んで県を代表する名湯で、上毛かるたでは「伊香保温泉 日本の名湯」と歌われている。 「伊香保温泉」として地域団体商標に登録されている。…</p>
+                <h3 className="text-base font-bold text-stone-900">伊香保温泉（石段街）（・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入】 365段の石段が続く情緒溢れる温泉街。石段の両脇には射的場や土産物店、足湯が立ち並び、温泉まんじゅう発祥の地としても知られています。 伊香保温泉（いかほおんせん）は、群馬県渋川市伊香保町にある温泉。草津温泉と並んで県を代表する名湯で、上毛かるたでは「伊香保温泉 日本の名湯」と歌われている。 「伊香保温泉」として地域団体商標に登録されている。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">富岡製糸場</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">明治政府が設立した日本初の本格的な製糸工場であり、世界文化遺産。木骨レンガ造りの巨大な繰糸所や蚕室が良好に保存されており、日本の近代化の足跡を辿れます。</p>
+                <h3 className="text-base font-bold text-stone-900">富岡製糸場（・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入】 明治政府が設立した日本初の本格的な製糸工場であり、世界文化遺産。木骨レンガ造りの巨大な繰糸所や蚕室が良好に保存されており、日本の近代化の足跡を辿れます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">吹割の滝（ふきわれのたき）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「東洋のナイアガラ」と称されるダイナミックな滝。巨大な岩盤が割れ目の中に河川の水が吸い込まれるように流れ落ちる迫力ある景観が魅力です。</p>
+                <h3 className="text-base font-bold text-stone-900">吹割の滝（ふきわれのたき）（・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入】 「東洋のナイアガラ」と称されるダイナミックな滝。巨大な岩盤が割れ目の中に河川の水が吸い込まれるように流れ落ちる迫力ある景観が魅力です。</p>
               </div>
             </div>
             </div>

@@ -440,7 +440,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>南薩摩の湯の里指宿にて心尽くしの料理とやすらぎのひとときを…</p>
                   <p><strong>【所在地・アクセス】</strong>〒 鹿児島県指宿市湯の浜5-27-27 ／ 最寄り駅：指宿 ／ 交通案内：ＪＲ指宿枕崎線指宿駅まで送迎あり／九州自動車道谷山インターより５０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
+                  <p>【鹿児島・指宿温泉：天然砂むし温泉＆開聞岳パノラマ・黒】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.76 ／ 立地 ★4.55 ／ 部屋 ★4.55 ／ 設備 ★4.45 ／ 風呂 ★4.5 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「期待値が高すぎたのか、普通に感じた前評判が良すぎて、期待しすぎていたのかもしれません。別に悪くはないんだけど、そんな絶賛するほどじゃなかったかな...というのが正直なところです。砂…　2026-10-09 21:39:32投稿」

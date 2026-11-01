@@ -418,7 +418,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【夕食時フリードリンク】ペットと楽しむ海辺のリゾート。天草海の幸づくしの食事はペットも一緒に♪</p>
                   <p><strong>【所在地・アクセス】</strong>〒 熊本県上天草市松島町合津6082-4 ／ 最寄り駅：熊本空港 ／ 交通案内：熊本空港よりお車にて約90分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
+                  <p>【熊本・天草諸島＆三角：世界遺産﨑津集落・イルカウォッ】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「海を眺めながら愛犬と楽しむ絶品ディナーウェルカムスウィーツで冷たいシャーベットを頂いたり目の前に綺麗な海が広がっていたりと、リゾート気分になれるホテルでした。ディナーは愛犬も一緒に座る事ができ…　2026-08-13 14:41:58投稿」
@@ -440,7 +440,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>広大なリゾート、ゆっくりと楽しめる楽園、藍の島をお楽しみ下さい。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 熊本県天草市本渡町広瀬996 ／ 最寄り駅：天草空港 ／ 交通案内：ＪＲ熊本駅から車で１５０分／本渡バスセンターから車で１０分／天草空港から車で１５分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
+                  <p>【熊本・天草諸島＆三角：世界遺産﨑津集落・イルカウォッ】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「プライベートビーチと豪華な食事に大満足震災で行けるか心配でしたが天草の方は被害が少なかったようで安心しました。予算は心配ではあったものの、楽しみに伺わせていただきました。裏手はプライベート…　2026-08-21 11:32:39投稿」

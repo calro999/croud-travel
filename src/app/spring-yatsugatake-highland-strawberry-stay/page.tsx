@@ -212,21 +212,21 @@ export default function FeatureDetailPage() {
             <Award className="w-6 h-6 text-amber-600" />
             高原完熟いちご狩り＆特製苺スイーツの八ヶ岳リゾートの楽しみ方＆おすすめの選び方
           </h2>
-          <p className="text-slate-600 leading-relaxed text-sm sm:text-base">
+          <p className="text-slate-600 leading-relaxed text-sm sm:text-base">【甘い香りに満ちる春の高原】 
             楽天トラベルに寄せられたリアルな宿泊者口コミの中から、特に評価の高いハイクラス宿・隠れ家宿を厳選。テーマに特化した最高峰の体験とおもてなしをお約束します。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-4">
             <div className="bg-amber-50/60 p-4 rounded-xl border border-amber-100">
-              <h3 className="font-bold text-amber-900 text-sm mb-1">① 圧倒的な世界観と体験</h3>
-              <p className="text-xs text-amber-800">ここでしか味わえない非日常の空間と贅沢なひとときを追求。</p>
+              <h3 className="font-bold text-amber-900 text-sm mb-1">① 圧倒的な世界観と体験（甘い香りに満ちる春の高原）</h3>
+              <p className="text-xs text-amber-800">【甘い香りに満ちる春の高原】 ここでしか味わえない非日常の空間と贅沢なひとときを追求。</p>
             </div>
             <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm mb-1">② 口コミ高評価の宿を厳選</h3>
-              <p className="text-xs text-slate-600">総合評価★4.2以上を中心に満足度の高い宿のみをセレクト。</p>
+              <h3 className="font-bold text-slate-900 text-sm mb-1">② 口コミ高評価の宿を厳選（甘い香りに満ちる春の高原）</h3>
+              <p className="text-xs text-slate-600">【甘い香りに満ちる春の高原】 総合評価★4.2以上を中心に満足度の高い宿のみをセレクト。</p>
             </div>
             <div className="bg-emerald-50/60 p-4 rounded-xl border border-emerald-100">
-              <h3 className="font-bold text-emerald-900 text-sm mb-1">③ 楽天トラベル直結予約</h3>
-              <p className="text-xs text-emerald-800">リアルタイムの空室・プラン・限定クーポンを今すぐチェック可能。</p>
+              <h3 className="font-bold text-emerald-900 text-sm mb-1">③ 楽天トラベル直結予約（甘い香りに満ちる春の高原）</h3>
+              <p className="text-xs text-emerald-800">【甘い香りに満ちる春の高原】 リアルタイムの空室・プラン・限定クーポンを今すぐチェック可能。</p>
             </div>
           </div>
         </section>
@@ -237,7 +237,7 @@ export default function FeatureDetailPage() {
             <h2 className="text-2xl font-bold text-slate-900">
               編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）
             </h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">【甘い香りに満ちる春の高原】 楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -541,7 +541,7 @@ export default function FeatureDetailPage() {
 
         {/* 関連タグ */}
         <section className="bg-white rounded-2xl p-6 border border-slate-200">
-          <h3 className="text-sm font-bold text-slate-700 mb-3">関連キーワード・タグ</h3>
+          <h3 className="text-sm font-bold text-slate-700 mb-3">関連キーワード・タグ（甘い香りに満ちる春の高原）</h3>
           <div className="flex flex-wrap gap-2">
             <span className="text-xs bg-slate-100 text-slate-600 px-3 py-1.5 rounded-lg">#八ヶ岳いちご狩り</span>
             <span className="text-xs bg-slate-100 text-slate-600 px-3 py-1.5 rounded-lg">#いちごスイーツ</span>
@@ -574,7 +574,7 @@ export default function FeatureDetailPage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（甘い香りに満ちる春の高原）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 清里駅よりアクセス。JR小海線・清里駅から車で5分／中央道・長坂ICから25分。</li>
@@ -586,7 +586,7 @@ export default function FeatureDetailPage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（甘い香りに満ちる春の高原）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「八ヶ岳の恵みを味わうレストラン＆ホテル オーベルジュ清里」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -640,9 +640,7 @@ export default function FeatureDetailPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜甘い香りに満ちる春の高原</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/spring-niigata-echigo-hime-strawberry-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -663,7 +661,7 @@ export default function FeatureDetailPage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（甘い香りに満ちる春の高原）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/toyama/"
@@ -772,9 +770,7 @@ export default function FeatureDetailPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 2026年エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">🏨 2026年エリアの宿泊施設別スペック＆滞在チェックポイント（甘い香りに満ちる春の高原）</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>
@@ -789,7 +785,7 @@ export default function FeatureDetailPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のホテル</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山梨県北杜市高根町清里３５４５－９４３　コートドゥヴェール内 ／ 最寄り駅：清里 ／ 交通案内：JR小海線・清里駅から車で5分／中央道・長坂ICから25分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
+                  <p>【甘い香りに満ちる春の高原】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里の滞在ポイント：</strong>「2026年エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
@@ -897,32 +893,32 @@ export default function FeatureDetailPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">清津峡渓谷トンネル（Tunnel of Light）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三大峡谷の一つ・清津峡の絶景を楽しめるアートトンネル。終点のパノラマステーションでは水鏡に渓谷のダイナミックな景観が映り込む映えスポットです。</p>
+                <h3 className="text-base font-bold text-stone-900">清津峡渓谷トンネル（Tunnel of Light）（甘い香りに満ちる春の高原）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【甘い香りに満ちる春の高原】 日本三大峡谷の一つ・清津峡の絶景を楽しめるアートトンネル。終点のパノラマステーションでは水鏡に渓谷のダイナミックな景観が映り込む映えスポットです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">佐渡金山</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">江戸時代から平成まで400年にわたって採掘が続いた日本最大の金銀山。手掘りの坑道跡や巨大な金山遺構「北沢浮遊選鉱場」のノスタルジーが感動的です。</p>
+                <h3 className="text-base font-bold text-stone-900">佐渡金山（甘い香りに満ちる春の高原）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【甘い香りに満ちる春の高原】 江戸時代から平成まで400年にわたって採掘が続いた日本最大の金銀山。手掘りの坑道跡や巨大な金山遺構「北沢浮遊選鉱場」のノスタルジーが感動的です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Entrance_to_Echigo-Yuzawa_Onsen.JPG/1280px-Entrance_to_Echigo-Yuzawa_Onsen.JPG?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="苗場山・越後湯沢温泉" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">苗場山・越後湯沢温泉</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">四季を通じてアウトドアやリゾートが楽しめる一大リゾート地。冬は上質なパウダースノーのスキー場、秋はドラゴンドラからの日本一長い紅葉空中散歩が自慢です。 越後湯沢温泉（えちごゆざわおんせん）は、新潟県南魚沼郡湯沢町（旧越後国）にある温泉。川端康成の小説『雪国』のモデルになった温泉地である。単に湯沢温泉と呼ばれることもある。 この項目で扱うように、同じ湯沢町にある他の温泉も含めた呼び名としても用いられる。…</p>
+                <h3 className="text-base font-bold text-stone-900">苗場山・越後湯沢温泉（甘い香りに満ちる春の高原）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【甘い香りに満ちる春の高原】 四季を通じてアウトドアやリゾートが楽しめる一大リゾート地。冬は上質なパウダースノーのスキー場、秋はドラゴンドラからの日本一長い紅葉空中散歩が自慢です。 越後湯沢温泉（えちごゆざわおんせん）は、新潟県南魚沼郡湯沢町（旧越後国）にある温泉。川端康成の小説『雪国』のモデルになった温泉地である。単に湯沢温泉と呼ばれることもある。 この項目で扱うように、同じ湯沢町にある他の温泉も含めた呼び名としても用いられる。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">萬代橋（ばんだいばし）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">信濃川にかかる6連アーチが美しい新潟市のシンボルであり国指定重要文化財。重厚な石造りの橋脚と美しい川辺の遊歩道が市民や観光客に親しまれています。</p>
+                <h3 className="text-base font-bold text-stone-900">萬代橋（ばんだいばし）（甘い香りに満ちる春の高原）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【甘い香りに満ちる春の高原】 信濃川にかかる6連アーチが美しい新潟市のシンボルであり国指定重要文化財。重厚な石造りの橋脚と美しい川辺の遊歩道が市民や観光客に親しまれています。</p>
               </div>
             </div>
             </div>

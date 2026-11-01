@@ -123,10 +123,8 @@ export default function UltraLuxuryWinterFeaturePage() {
         
         {/* 導入解説 */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
-          <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-amber-600 shrink-0" />
-            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600 shrink-0" />
+            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>｜2026-2027年11-12月初冬の静岡・熱海伊豆</h2>
           <p className="text-xs md:text-sm text-slate-700 leading-relaxed whitespace-pre-line">
             東京駅から東海道新幹線でわずか45分。相模湾を見下ろす断崖絶壁に豊かな源泉が湧き出す熱海の奥座敷『伊豆山（いずさん）』。古くは鎌倉幕府を開いた源頼朝が配流の身であった頃に身を寄せ、北条政子と劇的な愛を育んだ『伊豆山神社』が鎮座する由緒あるパワースポットです。熱海駅周辺の賑やかな温泉街から少し離れた伊豆山・南熱海エリアは、水平線まで見渡す相模湾のパノラマと、日本三大古泉『走り湯』に象徴される豊富な湯量を誇り、大人のためのハイエンド宿や全室オーシャンビューのプライベートヴィラが集中する熱海最高峰のエリア。11月から12月の初冬は、空気が澄み渡ることで海の青さが一段と深まり、夜には『熱海海上花火大会』が冬の夜空と波間を色鮮やかに染め上げます。客室のテラスや露天風呂から、誰にも邪魔されずに花火の轟音と火の粉を眺める時間はまさに特権的な贅沢。夕食には、冬に甘みと旨味が最高潮に達する相模湾・駿河湾の天然活伊勢海老やアワビ、そして柔らかなサシがとろける静岡県産銘柄牛『静岡そだち』の鉄板焼き。海と空の境界線が溶け合うインフィニティ露天風呂に浸かり、心地よい潮風を感じながら過ごす初冬の熱海は、記念日やエグゼクティブのリフレッシュに選ばれ続ける本物のラグジュアリーです。
           </p>
@@ -560,10 +558,8 @@ export default function UltraLuxuryWinterFeaturePage() {
 
         {/* アクセス＆見頃情報 */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300">
-            <Train className="w-5 h-5 shrink-0" />
-            <span>アクセスガイド・気候と服装のポイント</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300"><Train className="w-5 h-5 shrink-0" />
+            <span>アクセスガイド・気候と服装のポイント</span>｜2026-2027年11-12月初冬の静岡・熱海伊豆</h2>
           <div className="text-xs md:text-sm text-slate-300 leading-relaxed whitespace-pre-line">
             【エリアへのアクセス】
 ・新幹線・電車：東海道新幹線「熱海駅」下車。東京駅より「ひかり」で約35分、「こだま」で約45分。名古屋駅からは約1時間20分。熱海駅からは各ホテルの専用送迎車（要予約）またはタクシーで約5〜10分。
@@ -579,10 +575,8 @@ export default function UltraLuxuryWinterFeaturePage() {
 
         {/* よくある質問 (FAQ) */}
         <section className="bg-slate-100 rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2">
-            <ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
-            <span>よくある質問（FAQ）</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
+            <span>よくある質問（FAQ）</span>｜2026-2027年11-12月初冬の静岡・熱海伊豆</h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
             <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
@@ -616,9 +610,7 @@ export default function UltraLuxuryWinterFeaturePage() {
 
         {/* ふるさと納税・関連リンク */}
         <section className="bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 rounded-2xl p-6 md:p-8 space-y-3 text-center">
-          <h2 className="text-xl md:text-2xl font-black">
-            楽天トラベル ふるさと納税で最大30%お得に予約！
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！｜2026-2027年11-12月初冬の静岡・熱海伊豆</h2>
           <p className="text-xs md:text-sm max-w-xl mx-auto font-medium">
             高価格帯の高級宿だからこそ、楽天トラベルふるさと納税クーポンの割引効果は絶大。実質2,000円の自己負担で憧れのスイートルームに宿泊できます。
           </p>

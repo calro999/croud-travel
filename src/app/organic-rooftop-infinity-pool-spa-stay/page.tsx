@@ -212,21 +212,21 @@ export default function FeatureDetailPage() {
             <Award className="w-6 h-6 text-amber-600" />
             ルーフトップインフィニティプール＆都会の天然温泉の楽しみ方＆おすすめの選び方
           </h2>
-          <p className="text-slate-600 leading-relaxed text-sm sm:text-base">
+          <p className="text-slate-600 leading-relaxed text-sm sm:text-base">【都会の空に浮かぶオアシス】 
             楽天トラベルに寄せられたリアルな宿泊者口コミの中から、特に評価の高いハイクラス宿・隠れ家宿を厳選。テーマに特化した最高峰の体験とおもてなしをお約束します。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-4">
             <div className="bg-amber-50/60 p-4 rounded-xl border border-amber-100">
-              <h3 className="font-bold text-amber-900 text-sm mb-1">① 圧倒的な世界観と体験</h3>
-              <p className="text-xs text-amber-800">ここでしか味わえない非日常の空間と贅沢なひとときを追求。</p>
+              <h3 className="font-bold text-amber-900 text-sm mb-1">① 圧倒的な世界観と体験（都会の空に浮かぶオアシス）</h3>
+              <p className="text-xs text-amber-800">【都会の空に浮かぶオアシス】 ここでしか味わえない非日常の空間と贅沢なひとときを追求。</p>
             </div>
             <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm mb-1">② 口コミ高評価の宿を厳選</h3>
-              <p className="text-xs text-slate-600">総合評価★4.2以上を中心に満足度の高い宿のみをセレクト。</p>
+              <h3 className="font-bold text-slate-900 text-sm mb-1">② 口コミ高評価の宿を厳選（都会の空に浮かぶオアシス）</h3>
+              <p className="text-xs text-slate-600">【都会の空に浮かぶオアシス】 総合評価★4.2以上を中心に満足度の高い宿のみをセレクト。</p>
             </div>
             <div className="bg-emerald-50/60 p-4 rounded-xl border border-emerald-100">
-              <h3 className="font-bold text-emerald-900 text-sm mb-1">③ 楽天トラベル直結予約</h3>
-              <p className="text-xs text-emerald-800">リアルタイムの空室・プラン・限定クーポンを今すぐチェック可能。</p>
+              <h3 className="font-bold text-emerald-900 text-sm mb-1">③ 楽天トラベル直結予約（都会の空に浮かぶオアシス）</h3>
+              <p className="text-xs text-emerald-800">【都会の空に浮かぶオアシス】 リアルタイムの空室・プラン・限定クーポンを今すぐチェック可能。</p>
             </div>
           </div>
         </section>
@@ -237,7 +237,7 @@ export default function FeatureDetailPage() {
             <h2 className="text-2xl font-bold text-slate-900">
               編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）
             </h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">【都会の空に浮かぶオアシス】 楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -541,7 +541,7 @@ export default function FeatureDetailPage() {
 
         {/* 関連タグ */}
         <section className="bg-white rounded-2xl p-6 border border-slate-200">
-          <h3 className="text-sm font-bold text-slate-700 mb-3">関連キーワード・タグ</h3>
+          <h3 className="text-sm font-bold text-slate-700 mb-3">関連キーワード・タグ（都会の空に浮かぶオアシス）</h3>
           <div className="flex flex-wrap gap-2">
             <span className="text-xs bg-slate-100 text-slate-600 px-3 py-1.5 rounded-lg">#インフィニティプール</span>
             <span className="text-xs bg-slate-100 text-slate-600 px-3 py-1.5 rounded-lg">#ルーフトップバー</span>
@@ -573,7 +573,7 @@ export default function FeatureDetailPage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（都会の空に浮かぶオアシス）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 空港から車で約8分◆ホテルと那覇空港を結ぶシャトルバスも運行中◆崖の上の「縁結びパワースポット」波上宮まで 徒歩4分で現地へ到着。</li>
@@ -585,7 +585,7 @@ export default function FeatureDetailPage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（都会の空に浮かぶオアシス）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ＨＯＴＥＬ ＳＡＮＳＵＩ ＮＡＨＡ 琉球温泉 波之上の湯」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -639,9 +639,7 @@ export default function FeatureDetailPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜都会の空に浮かぶオアシス</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-ibaraki-kitaibaraki-isohara-onsen-ankou-dobujiru-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -662,7 +660,7 @@ export default function FeatureDetailPage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（都会の空に浮かぶオアシス）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/nagasaki/"
@@ -771,9 +769,7 @@ export default function FeatureDetailPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 2026年で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">🏨 2026年で比較したい各宿のロケーション・駐車場・料金詳細（都会の空に浮かぶオアシス）</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>
@@ -832,7 +828,7 @@ export default function FeatureDetailPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「都会の空に浮かぶオアシス（ルーフトップインフィニティプール＆天然温泉ホテル5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：博多駅直結！徒歩約１分。＜東７番出口＞福岡空港から地下鉄で約７分、車で約15分。一歩足を踏み入れたらもうそこはリゾート！</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【都会の空に浮かぶオアシス】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から近くて田舎者には分かり易くて大変良かったです。ウェルカムドリンクも最高でした。涼しくなってからも利用したいと思います。クチコミの詳細はこちらから　https://review.tra…　2026-09-16 17:10:32投稿」
@@ -854,7 +850,7 @@ export default function FeatureDetailPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「都会の空に浮かぶオアシス（ルーフトップインフィニティプール＆天然温泉ホテル5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：山陽本線 [大野浦駅]から車で5分・[玖波駅]から車で5分・[宮島口駅]から車で15分　岩国空港から車で30分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【都会の空に浮かぶオアシス】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広々快適だが食事会場は混雑気味オーシャンスイートに泊まりました。部屋は広々しており居心地も良く設備等含め快適でした。食事はバイキング会場が狭く隣との間隔があまりないので、テーブルを仕切っ…　2026-09-19 15:26:12投稿」
@@ -876,7 +872,7 @@ export default function FeatureDetailPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「都会の空に浮かぶオアシス（ルーフトップインフィニティプール＆天然温泉ホテル5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR大阪駅より新快速で21分、各線三宮駅からシャトルバスで5分。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【都会の空に浮かぶオアシス】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が美味しく、部屋も広くて清潔料理内容がよく、部屋は広く清潔感あるクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/…　2026-09-18 16:57:51投稿」
@@ -896,24 +892,24 @@ export default function FeatureDetailPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">国営ひたち海浜公園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">春のネモフィラ、秋のコキアをはじめ、四季折々の広大な花畑が美しい国営公園。みはらしの丘一面が青や赤に染まる光景は世界中から絶賛される絶景です。</p>
+                <h3 className="text-base font-bold text-stone-900">国営ひたち海浜公園（都会の空に浮かぶオアシス）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【都会の空に浮かぶオアシス】 春のネモフィラ、秋のコキアをはじめ、四季折々の広大な花畑が美しい国営公園。みはらしの丘一面が青や赤に染まる光景は世界中から絶賛される絶景です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">水戸偕楽園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">金沢兼六園・岡山後楽園と並ぶ日本三名園の一つ。徳川斉昭公によって造園され、春には約100品種3,000本の梅が咲き誇る歴史ある回遊式庭園です。</p>
+                <h3 className="text-base font-bold text-stone-900">水戸偕楽園（都会の空に浮かぶオアシス）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【都会の空に浮かぶオアシス】 金沢兼六園・岡山後楽園と並ぶ日本三名園の一つ。徳川斉昭公によって造園され、春には約100品種3,000本の梅が咲き誇る歴史ある回遊式庭園です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">袋田の滝</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三名瀑に数えられる高さ120m・幅73mのダイナミックな4段の滝。四季ごとに全く異なる表情を見せ、冬には滝全体が凍結する「氷瀑」が見事です。</p>
+                <h3 className="text-base font-bold text-stone-900">袋田の滝（都会の空に浮かぶオアシス）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【都会の空に浮かぶオアシス】 日本三名瀑に数えられる高さ120m・幅73mのダイナミックな4段の滝。四季ごとに全く異なる表情を見せ、冬には滝全体が凍結する「氷瀑」が見事です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -921,7 +917,7 @@ export default function FeatureDetailPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
                 <h3 className="text-base font-bold text-stone-900">筑波山</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「西の富士、東の筑波」と称される紫峰。男体山と女体山の2峰からなり、ケーブルカーやロープウェイで気軽に山頂へ登れ、関東平野の一望を楽しめます。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【都会の空に浮かぶオアシス】 「西の富士、東の筑波」と称される紫峰。男体山と女体山の2峰からなり、ケーブルカーやロープウェイで気軽に山頂へ登れ、関東平野の一望を楽しめます。</p>
               </div>
             </div>
             </div>

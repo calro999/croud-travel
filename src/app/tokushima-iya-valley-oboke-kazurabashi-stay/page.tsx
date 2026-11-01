@@ -312,7 +312,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ケーブルカーで登る天空露天風呂と囲炉裏の宿。渓谷の絶景と郷土料理、温かなおもてなしでお迎えいたします</p>
                   <p><strong>【所在地・アクセス】</strong>〒 徳島県三好市西祖谷山村善徳３３－１ ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲのお客様 大歩危駅～路線バス20分（タクシー15分）・お車のお客様　徳島自動車道井川池田ＩＣより大歩危経由で５０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
+                  <p>【徳島・祖谷渓＆大歩危・かずら橋：日本三大秘境・スリル】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「心配りが行き届き、かずら橋ツアーも最高スタッフの方、お料理、温泉等、みんな心配りが行き届いており、とても良かったです。両親もすごく満足してくれました。また、夜のかずら橋ツアーは、ホテルのボンネット…　2026-09-05 22:04:36投稿」

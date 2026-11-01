@@ -185,7 +185,7 @@ export default function WinterFeaturePage() {
             <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
               屋久島・宮之浦・安房 厳選の温泉＆リゾート宿5選
             </h2>
-            <p className="text-xs sm:text-sm text-stone-500">
+            <p className="text-xs sm:text-sm text-stone-500">【静寂の原生林と白谷雲水峡・極上温泉：2026-202】 
               楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
@@ -528,7 +528,7 @@ export default function WinterFeaturePage() {
                 <h3 className="text-xl sm:text-2xl font-bold">
                   鹿児島県の宿に実質2,000円で泊まる賢い方法
                 </h3>
-                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">
+                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">【静寂の原生林と白谷雲水峡・極上温泉：2026-202】 
                   楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>

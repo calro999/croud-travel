@@ -61,10 +61,8 @@ export default function FurusatoFeaturePage() {
 
           {/* 公式キャンペーンCTA */}
           <div className="p-6 rounded-3xl bg-gradient-to-br from-amber-500/20 via-amber-600/10 to-transparent border border-amber-500/30 backdrop-blur max-w-2xl mx-auto">
-            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">
-              楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！
-            </h2>
-            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">
+            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！｜名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと</h2>
+            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">【名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと】 
               寄附翌日には楽天トラベルで使えるクーポンが付与。有効期限はたっぷり3年間あるため、次の大型連休や記念日旅行にも安心して活用いただけます。
             </p>
             <a
@@ -596,10 +594,8 @@ export default function FurusatoFeaturePage() {
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto">
         <div className="p-8 sm:p-10 rounded-3xl bg-gradient-to-r from-amber-600/30 via-orange-600/20 to-stone-900 border border-amber-500/40 text-center relative overflow-hidden">
           <div className="relative z-10">
-            <h2 className="text-2xl sm:text-3xl font-black text-amber-100 mb-4">
-              ふるさと納税の宿泊クーポンでお得に極上の旅へ
-            </h2>
-            <p className="text-sm sm:text-base text-stone-300 max-w-2xl mx-auto mb-6 leading-relaxed">
+            <h2 className="text-2xl sm:text-3xl font-black text-amber-100 mb-4">ふるさと納税の宿泊クーポンでお得に極上の旅へ｜名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと</h2>
+            <p className="text-sm sm:text-base text-stone-300 max-w-2xl mx-auto mb-6 leading-relaxed">【名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと】 
               寄附上限額の範囲内なら、実質自己負担2,000円で憧れの特等席宿やリゾートに宿泊可能。楽天ポイント還元も併用して、賢く贅沢なひとときをお過ごしください。
             </p>
             <a
@@ -617,9 +613,7 @@ export default function FurusatoFeaturePage() {
 
       {/* 関連記事 内部リンク */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-t border-stone-800">
-        <h2 className="text-xl sm:text-2xl font-bold text-amber-200 mb-6">
-          あわせて読みたい！テーマ別ふるさと納税トラベルガイド
-        </h2>
+        <h2 className="text-xl sm:text-2xl font-bold text-amber-200 mb-6">あわせて読みたい！テーマ別ふるさと納税トラベルガイド｜名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <Link
@@ -908,32 +902,32 @@ export default function FurusatoFeaturePage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">富士山（吉田ルート/五合目）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本の最高峰であり世界文化遺産の象徴。富士スバルラインで行く五合目は観光施設が充実し、眼下に雲海を望む圧巻のスタート地点です。</p>
+                <h3 className="text-base font-bold text-stone-900">富士山（吉田ルート/五合目）（名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと】 日本の最高峰であり世界文化遺産の象徴。富士スバルラインで行く五合目は観光施設が充実し、眼下に雲海を望む圧巻のスタート地点です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">新倉山浅間公園（忠霊塔）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">五重塔（忠霊塔）越しに雄大な富士山と満開の桜を一望できる、世界中の観光客が熱望する「これぞ日本」という究極のアジアンビジュアルスポット。</p>
+                <h3 className="text-base font-bold text-stone-900">新倉山浅間公園（忠霊塔）（名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと】 五重塔（忠霊塔）越しに雄大な富士山と満開の桜を一望できる、世界中の観光客が熱望する「これぞ日本」という究極のアジアンビジュアルスポット。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">富士五湖（河口湖）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">富士山の北麓に位置する静かな湖畔リゾート。四季折々の富士山が水面に映る「逆さ富士」や、大石公園のコキア・ラベンダー越しのアングルが人気です。</p>
+                <h3 className="text-base font-bold text-stone-900">富士五湖（河口湖）（名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと】 富士山の北麓に位置する静かな湖畔リゾート。四季折々の富士山が水面に映る「逆さ富士」や、大石公園のコキア・ラベンダー越しのアングルが人気です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">勝沼ぶどうの丘</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本有数のワイン産地・勝沼の高台に立つ総合ワインリゾート。タパスとともに100種類以上の甲州ワインを試飲できる地下ワインカーヴが魅力です。</p>
+                <h3 className="text-base font-bold text-stone-900">勝沼ぶどうの丘（名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと】 日本有数のワイン産地・勝沼の高台に立つ総合ワインリゾート。タパスとともに100種類以上の甲州ワインを試飲できる地下ワインカーヴが魅力です。</p>
               </div>
             </div>
             </div>

@@ -374,7 +374,7 @@ export default function TargetAudienceHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>奥湯河原温泉の雄大な自然を270度満喫できる【展望露天風呂】が自慢。個室食事処で四季折々の会席が魅力</p>
                   <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡湯河原町宮上673 ／ 最寄り駅：湯河原 ／ 交通案内：お車の場合、西湘ＢＰ石橋ＩＣより真鶴道路経由約３５分。電車の場合湯河原駅より奥湯河原行きバスで終点奥湯河原下車徒歩1分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
+                  <p>【大人の女子旅・ご褒美温泉：極上スパエステ・アフタヌー】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「すべてが素晴らしく、何度もリピート中!お料理、お風呂、お部屋、接客、すべて素晴らしくてリピートしてます!他の画像やクチコミの詳細はこちらから　https://review.travel.rak…　2026-08-22 21:14:39投稿」
@@ -396,7 +396,7 @@ export default function TargetAudienceHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「大人の女子旅・ご褒美温泉（極上スパエステ・アフタヌーンティー＆美肌宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：金沢駅の兼六園口（東口）から徒歩約１分。小松空港からリムジンバスで４０分。北陸自動車道の金沢東インターから車で１０分。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【大人の女子旅・ご褒美温泉：極上スパエステ・アフタヌー】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「駅前でロケーション最高、朝食も絶品名門ホテルという感じです。スタッフの皆さんは対応はいいと思います。駅前なのでロケーションは最高でした。外観とは違い部屋内も綺麗なため過ごしやすいと思います。朝食ビ…　2026-09-17 08:09:30投稿」
@@ -461,7 +461,7 @@ export default function TargetAudienceHubPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
                 <h3 className="text-base font-bold text-stone-900">国宝 姫路城（白鷺城）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【大人の女子旅・ご褒美温泉：極上スパエステ・アフタヌー】 鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">

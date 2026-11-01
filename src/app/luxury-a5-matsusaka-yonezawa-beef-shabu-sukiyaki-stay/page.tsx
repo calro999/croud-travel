@@ -195,9 +195,7 @@ export default function Page() {
         {/* 宿一覧 */}
         <section className="space-y-8">
           <div className="border-b-2 border-emerald-900/10 pb-3 flex items-center justify-between">
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-              <span>🏆</span> 厳選おすすめ宿ランキング
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>🏆</span> 厳選おすすめ宿ランキング｜とろける極上の霜降り</h2>
             <span className="text-xs text-stone-500">楽天トラベル最新データ更新</span>
           </div>
 
@@ -277,23 +275,17 @@ export default function Page() {
 
         {/* 旅のQ&A */}
         <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>❓</span> よくある質問・失敗しない宿選び
-          </h2>
+          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>❓</span> よくある質問・失敗しない宿選び｜とろける極上の霜降り</h2>
           <div className="space-y-4 text-sm">
             <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5">
-                <span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？
-              </h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">
+              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？（とろける極上の霜降り）</h3>
+              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">【とろける極上の霜降り】 
                 人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
               </p>
             </div>
             <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5">
-                <span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？
-              </h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">
+              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？（とろける極上の霜降り）</h3>
+              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">【とろける極上の霜降り】 
                 宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
               </p>
             </div>
@@ -310,7 +302,7 @@ export default function Page() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（とろける極上の霜降り）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 榊原温泉口駅よりアクセス。近畿日本鉄道大阪線「榊原温泉口駅」より車で約10分 送迎あり／伊勢自動車道ICより車で約15分。</li>
@@ -322,7 +314,7 @@ export default function Page() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（とろける極上の霜降り）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「榊原温泉 旅館 清少納言」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -376,9 +368,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜とろける極上の霜降り</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-gunma-minakami-onsen-tanigawa-yukimi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -399,7 +389,7 @@ export default function Page() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（とろける極上の霜降り）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/tokushima/"
@@ -508,9 +498,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 2026年で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">🏨 2026年で比較したい各宿のロケーション・駐車場・料金詳細（とろける極上の霜降り）</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>
@@ -525,7 +513,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>枕草子にも 【三大名泉】 と謳われた、湯治にも最適の湯宿。温泉自慢！ 堂々の【クチコミ★4.0以上】</p>
                   <p><strong>【所在地・アクセス】</strong>〒 三重県津市榊原町6010 ／ 最寄り駅：榊原温泉口 ／ 交通案内：近畿日本鉄道大阪線「榊原温泉口駅」より車で約10分 送迎あり／伊勢自動車道ICより車で約15分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
+                  <p>【とろける極上の霜降り】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.93 ／ 立地 ★3.79 ／ 部屋 ★3.85 ／ 設備 ★3.61 ／ 風呂 ★4.26 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「古さを感じさせない管理と温泉に満足古い施設と判断していたが古くてもきれいに管理され Goodに評価できました。温泉はうわさ通りで 良いお湯でした。      肌ざわり良くきれいで湯温も…　2026-10-07 19:31:51投稿」
@@ -569,7 +557,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「とろける極上の霜降り（A5松阪牛・米沢牛の特選すき焼き＆しゃぶしゃぶ名宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：加佐登駅より車で8分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【とろける極上の霜降り】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「料理旅館の食事とアットホームな接客に大満足料理旅館は初めてでしたが、大人も子どももおいしく頂けました。接客もアットホームな感じで気さくにお話しできました。また三重に行く時は利用したいてす。クチ…　2026-08-16 09:37:22投稿」
@@ -591,7 +579,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「とろける極上の霜降り（A5松阪牛・米沢牛の特選すき焼き＆しゃぶしゃぶ名宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：近鉄大阪線「赤目口駅」より車で5分。送迎もございます（事前予約は不要ですが、当日の到着時間はお電話でご連絡ください）</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【とろける極上の霜降り】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「一人でも快適、食事や風呂も大満足一人でも宿泊できるのが良いです。一人部屋は普通ですが、食事、風呂、接客サービスなど、大変満足しました。クチコミの詳細はこちらから　https://review.…　2026-09-10 09:48:43投稿」
@@ -613,7 +601,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「とろける極上の霜降り（A5松阪牛・米沢牛の特選すき焼き＆しゃぶしゃぶ名宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：電車：近鉄津新町駅下車（送迎バス有り）。車:伊勢道久居ＩＣより１０分。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【とろける極上の霜降り】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃が行き届いておらずほこりだらけ設備は古く階段のアップダウンがあるので足の悪い方にはおすすめできません。その辺りは事前に調べればわかるので問題なかったのですが、清掃が全く行き届いておらず、共有の…　2026-08-15 22:55:21投稿」
@@ -633,32 +621,32 @@ export default function Page() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Yubatake_%28Kusatsu_Onsen%29.jpg/1280px-Yubatake_%28Kusatsu_Onsen%29.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="草津温泉（湯畑）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">草津温泉（湯畑）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三名泉の一つで自然湧出量日本一を誇る温泉街のシンボル。毎分4,000リットルの源泉が湯滝となって湧き出し、湯もみ体験や夜のライトアップも人気です。 草津温泉（くさつおんせん）は、群馬県吾妻郡草津町草津界隈（江戸時代における上野国吾妻郡草津村界隈、幕藩体制下の上州御料草津村界隈〈初期は沼田藩知行〉）に所在する温泉である。草津白根山東麓に位置する。 毎分3万2300リットル以上の自然湧出量は日本一。室町時代には万里集九が有馬温泉や下呂温泉とともに「三名泉」とし、江戸時代には林羅山もこれらの三温泉を「天下の三…</p>
+                <h3 className="text-base font-bold text-stone-900">草津温泉（湯畑）（とろける極上の霜降り）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【とろける極上の霜降り】 日本三名泉の一つで自然湧出量日本一を誇る温泉街のシンボル。毎分4,000リットルの源泉が湯滝となって湧き出し、湯もみ体験や夜のライトアップも人気です。 草津温泉（くさつおんせん）は、群馬県吾妻郡草津町草津界隈（江戸時代における上野国吾妻郡草津村界隈、幕藩体制下の上州御料草津村界隈〈初期は沼田藩知行〉）に所在する温泉である。草津白根山東麓に位置する。 毎分3万2300リットル以上の自然湧出量は日本一。室町時代には万里集九が有馬温泉や下呂温泉とともに「三名泉」とし、江戸時代には林羅山もこれらの三温泉を「天下の三…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Ikaho_Onsen_03.jpg/1280px-Ikaho_Onsen_03.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="伊香保温泉（石段街）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">伊香保温泉（石段街）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">365段の石段が続く情緒溢れる温泉街。石段の両脇には射的場や土産物店、足湯が立ち並び、温泉まんじゅう発祥の地としても知られています。 伊香保温泉（いかほおんせん）は、群馬県渋川市伊香保町にある温泉。草津温泉と並んで県を代表する名湯で、上毛かるたでは「伊香保温泉 日本の名湯」と歌われている。 「伊香保温泉」として地域団体商標に登録されている。…</p>
+                <h3 className="text-base font-bold text-stone-900">伊香保温泉（石段街）（とろける極上の霜降り）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【とろける極上の霜降り】 365段の石段が続く情緒溢れる温泉街。石段の両脇には射的場や土産物店、足湯が立ち並び、温泉まんじゅう発祥の地としても知られています。 伊香保温泉（いかほおんせん）は、群馬県渋川市伊香保町にある温泉。草津温泉と並んで県を代表する名湯で、上毛かるたでは「伊香保温泉 日本の名湯」と歌われている。 「伊香保温泉」として地域団体商標に登録されている。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">富岡製糸場</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">明治政府が設立した日本初の本格的な製糸工場であり、世界文化遺産。木骨レンガ造りの巨大な繰糸所や蚕室が良好に保存されており、日本の近代化の足跡を辿れます。</p>
+                <h3 className="text-base font-bold text-stone-900">富岡製糸場（とろける極上の霜降り）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【とろける極上の霜降り】 明治政府が設立した日本初の本格的な製糸工場であり、世界文化遺産。木骨レンガ造りの巨大な繰糸所や蚕室が良好に保存されており、日本の近代化の足跡を辿れます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">吹割の滝（ふきわれのたき）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「東洋のナイアガラ」と称されるダイナミックな滝。巨大な岩盤が割れ目の中に河川の水が吸い込まれるように流れ落ちる迫力ある景観が魅力です。</p>
+                <h3 className="text-base font-bold text-stone-900">吹割の滝（ふきわれのたき）（とろける極上の霜降り）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【とろける極上の霜降り】 「東洋のナイアガラ」と称されるダイナミックな滝。巨大な岩盤が割れ目の中に河川の水が吸い込まれるように流れ落ちる迫力ある景観が魅力です。</p>
               </div>
             </div>
             </div>

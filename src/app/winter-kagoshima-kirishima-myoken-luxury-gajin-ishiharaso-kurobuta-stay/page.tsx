@@ -565,9 +565,7 @@ export default function LuxuryStayPage() {
 
           <section className="space-y-6">
             <div className="text-center mb-8">
-              <h2 className="text-2xl md:text-3xl font-extrabold text-slate-900">
-                よくある質問（FAQ）
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-extrabold text-slate-900">よくある質問（FAQ）｜winter-kagoshima-kirishima</h2>
               <p className="text-slate-600 text-sm mt-1">
                 初冬の滞在や予約に関する疑問にお答えします
               </p>

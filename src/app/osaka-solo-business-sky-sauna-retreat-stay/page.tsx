@@ -97,10 +97,8 @@ export default function ArticlePage() {
         {/* 厳選ホテルリスト */}
         <div className="space-y-10">
           <div className="border-l-4 border-amber-800 pl-4 py-1">
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900">
-              編集部が厳選！おすすめの極上宿・ホテル詳細
-            </h2>
-            <p className="text-xs sm:text-sm text-stone-500 mt-1">
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900">編集部が厳選！おすすめの極上宿・ホテル詳細｜大阪出張・梅田ご褒美泊：地上130mスカイスパ・展望</h2>
+            <p className="text-xs sm:text-sm text-stone-500 mt-1">【大阪出張・梅田ご褒美泊：地上130mスカイスパ・展望】 
               楽天トラベルの最新APIデータを反映。口コミ高評価＆こだわり設備を徹底チェック
             </p>
           </div>
@@ -378,9 +376,7 @@ export default function ArticlePage() {
 
         {/* よくある質問 FAQ */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-stone-900 border-b border-stone-200 pb-3">
-            よくある質問（FAQ）
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-stone-900 border-b border-stone-200 pb-3">よくある質問（FAQ）｜大阪出張・梅田ご褒美泊：地上130mスカイスパ・展望</h2>
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
@@ -441,7 +437,7 @@ export default function ArticlePage() {
                 <span>Q. 事前準備や持ち物で注意すべきポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
-              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
+              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">【大阪出張・梅田ご褒美泊：地上130mスカイスパ・展望】 
                 A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>

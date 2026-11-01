@@ -76,7 +76,7 @@ export default function ArticlePage() {
             石川・山代温泉ひとり旅＆加賀伝統文化おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「山代温泉ひとり旅・加賀百万石おこもり」総湯・古総湯・加賀橋立港の海の幸！千三百年続く加賀温泉郷の歴史と美湯に浸る厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">【山代温泉ひとり旅・加賀百万石おこもり：総湯・古総湯・】 
             更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
           </p>
           
@@ -95,10 +95,8 @@ export default function ArticlePage() {
 
         {/* 目次 */}
         <section className="bg-white p-5 rounded-2xl border border-stone-200 shadow-sm mb-10">
-          <h2 className="text-sm font-bold text-stone-900 mb-3 flex items-center gap-2">
-            <span>📑</span>
-            <span>この記事で紹介する厳選ホテル（楽天トラベル最新評価順）</span>
-          </h2>
+          <h2 className="text-sm font-bold text-stone-900 mb-3 flex items-center gap-2"><span>📑</span>
+            <span>この記事で紹介する厳選ホテル（楽天トラベル最新評価順）</span>｜山代温泉ひとり旅・加賀百万石おこもり：総湯・古総湯・</h2>
           <ul className="text-xs sm:text-sm space-y-2">
             <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 山代温泉　料理自慢の宿　ホテルききょう（★4.68 / 最低目安：11,000円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. 山代温泉　葉渡莉（はとり）（★4.41 / 最低目安：8,470円〜）</a></li>
@@ -142,7 +140,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（山代温泉ひとり旅・加賀百万石おこもり：総湯・古総湯・）</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>18部屋の料理自慢の宿　新しくなった「くろ」と「しろ」を基調とした天然温泉が心と体を癒します</span></li>
               </ul>
@@ -197,7 +195,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（山代温泉ひとり旅・加賀百万石おこもり：総湯・古総湯・）</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>自然と人の優しさ溢れる和の上質宿</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>加賀の旬のお料理と2種類の大浴場が自慢です</span></li>
@@ -253,7 +251,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（山代温泉ひとり旅・加賀百万石おこもり：総湯・古総湯・）</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>進化する日本の宿</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>上質な心地よいもてなしでお客様をお迎えします</span></li>
@@ -300,10 +298,8 @@ export default function ArticlePage() {
 
         {/* よくある質問 FAQ */}
         <section className="bg-amber-50/40 rounded-2xl border border-amber-200/60 p-6 sm:p-8 mb-10">
-          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span>❓</span>
-            <span>よくある質問（FAQ）</span>
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span>❓</span>
+            <span>よくある質問（FAQ）</span>｜山代温泉ひとり旅・加賀百万石おこもり：総湯・古総湯・</h2>
           <div className="space-y-4">
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
               <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
@@ -328,7 +324,7 @@ export default function ArticlePage() {
 
         {/* 記事末尾CTA */}
         <div className="text-center bg-stone-900 text-white p-8 rounded-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold mb-3">気になる宿は見つかりましたか？</h2>
+          <h2 className="text-xl sm:text-2xl font-bold mb-3">気になる宿は見つかりましたか？｜山代温泉ひとり旅・加賀百万石おこもり：総湯・古総湯・</h2>
           <p className="text-stone-300 text-xs sm:text-sm max-w-lg mx-auto mb-6">
             「山代温泉ひとり旅・加賀百万石おこもり（総湯・古総湯・加賀橋立港の海の幸）」で人気の「山代温泉　料理自慢の宿　ホテルききょう」をはじめ、週末や連休は条件の良い客室から埋まりやすいため、楽天トラベルの空室カレンダーから早めの日程確認をおすすめします。
           </p>
@@ -352,7 +348,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（山代温泉ひとり旅・加賀百万石おこもり：総湯・古総湯・）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 加賀温泉駅よりアクセス。◆JR加賀温泉駅より車で10分◆JR金沢駅より車で55分◆小松空港より車で25分。</li>
@@ -364,7 +360,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（山代温泉ひとり旅・加賀百万石おこもり：総湯・古総湯・）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「山代温泉 料理自慢の宿 ホテルききょう」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -382,9 +378,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜山代温泉ひとり旅・加賀百万石おこもり：総湯・古総湯・</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-hot-pot-gibier-wild-game-satoyama-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -405,7 +399,7 @@ export default function ArticlePage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（山代温泉ひとり旅・加賀百万石おこもり：総湯・古総湯・）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/yamanashi/"

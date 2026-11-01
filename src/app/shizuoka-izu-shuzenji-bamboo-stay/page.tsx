@@ -320,7 +320,7 @@ export default function MicroTouristHubPage() {
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>
                   <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #1</span>
-                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">修善寺温泉　国の登録文化財の宿　新井旅館</h3>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">修善寺温泉　国の登録文化財の宿　新井旅館（静岡・伊豆修善寺：竹林の小径・独鈷の湯＆伊豆牛・本わ）</h3>
                   <span className="text-xs text-stone-400 ml-2">（しゅぜんじおんせん　くにのとうろくぶんかざいのやど　あらいりょかん）</span>
                 </div>
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥24,420〜</span>
@@ -374,7 +374,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>修善寺温泉の奥にある閑静な旅館。本格懐石料理と露天風呂が好評。露天風呂付客室や離れもおすすめ。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 静岡県伊豆市修善寺1116-6 ／ 最寄り駅：修善寺 ／ 交通案内：伊豆箱根鉄道　修善寺駅から車で約１０分 東名高速道路沼津ICまたは新東名高速道路長泉沼津ICから30分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
+                  <p>【静岡・伊豆修善寺：竹林の小径・独鈷の湯＆伊豆牛・本わ】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>修善寺温泉　柳生の庄の滞在ポイント：</strong>「静岡・伊豆修善寺エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
@@ -418,7 +418,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大浴場・露天風呂から望む秀峰富士はまさに絶景。◆本館WI-FI無料</p>
                   <p><strong>【所在地・アクセス】</strong>〒 静岡県伊豆の国市吉田1178 ／ 最寄り駅：大仁 ／ 交通案内：伊豆箱根鉄道　大仁駅から車で３分／東名高速道路　沼津ＩＣから国道１３６号線・伊豆中央道経由で約２４ｋｍ</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
+                  <p>【静岡・伊豆修善寺：竹林の小径・独鈷の湯＆伊豆牛・本わ】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★4.19 ／ 部屋 ★3.89 ／ 設備 ★3.82 ／ 風呂 ★4.12 ／ 食事 ★3.98</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「カラオケ三昧と源泉かけ流しの貸切風呂カラオケが朝8時から夜11時までできるのが魅力的です。貸切風呂も小さいですが、源泉かけ流しで無料で50分間入れてとても気持ちがよいです。夕食のマグロの刺身も…　2026-10-08 19:20:47投稿」
@@ -460,32 +460,32 @@ export default function MicroTouristHubPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">三島スカイウォーク</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本一長い歩行者専用吊り橋（全長400m）。富士山と駿河湾のパノラマ絶景を空中散歩感覚で楽しめ、ジップラインなどのアクティビティも充実しています。</p>
+                <h3 className="text-base font-bold text-stone-900">三島スカイウォーク（静岡・伊豆修善寺：竹林の小径・独鈷の湯＆伊豆牛・本わ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【静岡・伊豆修善寺：竹林の小径・独鈷の湯＆伊豆牛・本わ】 日本一長い歩行者専用吊り橋（全長400m）。富士山と駿河湾のパノラマ絶景を空中散歩感覚で楽しめ、ジップラインなどのアクティビティも充実しています。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">熱海温泉・サンビーチ</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">都心からのアクセスが抜群な海辺の温泉リゾート。地中海リゾートを彷彿とさせるサンビーチや年間を通して開催される熱海海上花火大会が人気です。</p>
+                <h3 className="text-base font-bold text-stone-900">熱海温泉・サンビーチ（静岡・伊豆修善寺：竹林の小径・独鈷の湯＆伊豆牛・本わ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【静岡・伊豆修善寺：竹林の小径・独鈷の湯＆伊豆牛・本わ】 都心からのアクセスが抜群な海辺の温泉リゾート。地中海リゾートを彷彿とさせるサンビーチや年間を通して開催される熱海海上花火大会が人気です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">伊豆シャボテン動物公園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">1,500種類のサボテンと世界中の動物たちが暮らすテーマパーク。冬限定の「元祖カピバラの露天風呂」の癒やされる姿は全国的に有名です。</p>
+                <h3 className="text-base font-bold text-stone-900">伊豆シャボテン動物公園（静岡・伊豆修善寺：竹林の小径・独鈷の湯＆伊豆牛・本わ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【静岡・伊豆修善寺：竹林の小径・独鈷の湯＆伊豆牛・本わ】 1,500種類のサボテンと世界中の動物たちが暮らすテーマパーク。冬限定の「元祖カピバラの露天風呂」の癒やされる姿は全国的に有名です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">白糸の滝</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">富士山の湧水が幅150mの湾曲した絶壁から千本の絹糸のように流れ落ちる国指定の名勝・天然記念物。清涼なマイナスイオンと富士の恵みを体感できます。</p>
+                <h3 className="text-base font-bold text-stone-900">白糸の滝（静岡・伊豆修善寺：竹林の小径・独鈷の湯＆伊豆牛・本わ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【静岡・伊豆修善寺：竹林の小径・独鈷の湯＆伊豆牛・本わ】 富士山の湧水が幅150mの湾曲した絶壁から千本の絹糸のように流れ落ちる国指定の名勝・天然記念物。清涼なマイナスイオンと富士の恵みを体感できます。</p>
               </div>
             </div>
             </div>

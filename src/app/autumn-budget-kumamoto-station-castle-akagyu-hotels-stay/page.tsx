@@ -391,26 +391,24 @@ export default function AutumnBudgetHotelsPage() {
       {/* 予約のコツ・アドバイス */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-br from-amber-50 to-orange-50 border border-amber-200/80 rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg font-bold text-amber-950 flex items-center gap-2">
-            <CheckCircle2 className="w-5 h-5 text-amber-600" />
-            秋の格安旅行をお得に満喫するためのポイント
-          </h2>
+          <h2 className="text-lg font-bold text-amber-950 flex items-center gap-2"><CheckCircle2 className="w-5 h-5 text-amber-600" />
+            秋の格安旅行をお得に満喫するためのポイント｜熊本駅前：日本三名城熊本城の銀杏紅葉＆名物あか牛丼・</h2>
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             <div className="bg-white/80 rounded-xl p-4 border border-amber-100">
-              <h3 className="font-bold text-sm text-slate-900 mb-1">平日泊で更なる割引</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">
+              <h3 className="font-bold text-sm text-slate-900 mb-1">平日泊で更なる割引（熊本駅前：日本三名城熊本城の銀杏紅葉＆名物あか牛丼・）</h3>
+              <p className="text-xs text-slate-600 leading-relaxed">【熊本駅前：日本三名城熊本城の銀杏紅葉＆名物あか牛丼・】 
                 紅葉シーズンは金曜・土曜の宿泊料金が高騰しがちですが、日〜木曜の平日泊なら最安プランが狙い目。人混みも少なく快適に名所を楽しめます。
               </p>
             </div>
             <div className="bg-white/80 rounded-xl p-4 border border-amber-100">
-              <h3 className="font-bold text-sm text-slate-900 mb-1">直前割＆早割を活用</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">
+              <h3 className="font-bold text-sm text-slate-900 mb-1">直前割＆早割を活用（熊本駅前：日本三名城熊本城の銀杏紅葉＆名物あか牛丼・）</h3>
+              <p className="text-xs text-slate-600 leading-relaxed">【熊本駅前：日本三名城熊本城の銀杏紅葉＆名物あか牛丼・】 
                 14日前〜28日前までの早期予約や、空室が出た直前のタイムセールを狙うことで、通常価格より1,000円〜2,000円以上安く泊まれるチャンスがあります。
               </p>
             </div>
             <div className="bg-white/80 rounded-xl p-4 border border-amber-100">
-              <h3 className="font-bold text-sm text-slate-900 mb-1">浮いた予算で旬の味覚</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">
+              <h3 className="font-bold text-sm text-slate-900 mb-1">浮いた予算で旬の味覚（熊本駅前：日本三名城熊本城の銀杏紅葉＆名物あか牛丼・）</h3>
+              <p className="text-xs text-slate-600 leading-relaxed">【熊本駅前：日本三名城熊本城の銀杏紅葉＆名物あか牛丼・】 
                 宿泊を賢く格安ホテルに抑えることで、浮いた数千円の予算をご当地の豪華な旬の味覚や地酒ディナー、日帰り温泉の入浴料に贅沢に使えます。
               </p>
             </div>

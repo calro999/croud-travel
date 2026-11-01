@@ -93,10 +93,8 @@ export default function Page() {
         {/* 3 Key Merits */}
         <section className="space-y-6">
           <div className="text-center">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">
-              ふるさと納税トラベルで巡る3つの至高メリット
-            </h2>
-            <p className="text-sm sm:text-base text-slate-400 mt-2">実質自己負担2,000円で憧れの名旅館＆特産グルメをアップグレード</p>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">ふるさと納税トラベルで巡る3つの至高メリット｜日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド</h2>
+            <p className="text-sm sm:text-base text-slate-400 mt-2">【日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド】 実質自己負担2,000円で憧れの名旅館＆特産グルメをアップグレード</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
@@ -127,10 +125,8 @@ export default function Page() {
         {/* Featured Hotels & Regions */}
         <section className="space-y-12">
           <div className="border-b border-slate-800 pb-4">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">
-              厳選名所＆楽天トラベル提携おすすめ名宿
-            </h2>
-            <p className="text-slate-400 text-sm sm:text-base mt-1">楽天ふるさと納税宿泊クーポンが利用可能な極上宿</p>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">厳選名所＆楽天トラベル提携おすすめ名宿｜日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド</h2>
+            <p className="text-slate-400 text-sm sm:text-base mt-1">【日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド】 楽天ふるさと納税宿泊クーポンが利用可能な極上宿</p>
           </div>
 
           <div className="space-y-12">
@@ -353,10 +349,8 @@ export default function Page() {
 
         {/* Official Banner CTA */}
         <section className="bg-gradient-to-r from-rose-950/60 via-red-900/40 to-amber-950/60 border border-rose-500/30 rounded-3xl p-8 text-center relative overflow-hidden shadow-2xl">
-          <h2 className="text-2xl sm:text-3xl font-black text-white mb-4">
-            楽天ふるさと納税トラベルで、今すぐ賢く旅に出よう
-          </h2>
-          <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base mb-8 leading-relaxed">
+          <h2 className="text-2xl sm:text-3xl font-black text-white mb-4">楽天ふるさと納税トラベルで、今すぐ賢く旅に出よう｜日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド</h2>
+          <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base mb-8 leading-relaxed">【日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド】 
             寄付翌日から最大3年間使える宿泊クーポンで、行きたかった憧れの名宿を今すぐお得にリザーブ。実質2,000円負担で極上の日本再発見の旅へ。
           </p>
           <a
@@ -371,9 +365,7 @@ export default function Page() {
 
         {/* Cross Link Section */}
         <section className="border-t border-slate-800/80 pt-12 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            あわせて読みたい関連特集ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい関連特集ガイド｜日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
             <Link
@@ -443,7 +435,7 @@ export default function Page() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 直江津駅よりアクセス。JR新潟駅→佐渡汽船新潟港～佐渡両津港→車で６０分。</li>
@@ -455,7 +447,7 @@ export default function Page() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「小木温泉 旅館かもめ荘 ＜佐渡島＞」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -509,9 +501,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/kanagawa-yugawara-onsen-bangei-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -532,7 +522,7 @@ export default function Page() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/kanagawa/"
@@ -704,24 +694,24 @@ export default function Page() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">横浜みなとみらい21</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
+                <h3 className="text-base font-bold text-stone-900">横浜みなとみらい21（日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド】 ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">鎌倉大仏（高徳院）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">高さ約11.3mを誇る鎌倉のシンボル的な国宝銅造阿弥陀如来坐像。四季折々の花々や歴史ある古刹巡り、小町通りの食べ歩きとともに鎌倉散策の定番です。</p>
+                <h3 className="text-base font-bold text-stone-900">鎌倉大仏（高徳院）（日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド】 高さ約11.3mを誇る鎌倉のシンボル的な国宝銅造阿弥陀如来坐像。四季折々の花々や歴史ある古刹巡り、小町通りの食べ歩きとともに鎌倉散策の定番です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Lake_Ashi_from_Mt.Komagatake_03-2.jpg/1280px-Lake_Ashi_from_Mt.Komagatake_03-2.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="箱根 芦ノ湖・大涌谷" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">箱根 芦ノ湖・大涌谷</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">富士山を望む箱根海賊船クルーズが人気の芦ノ湖と、現在も硫黄煙が噴き出す火山地帯・大涌谷。名物の「黒たまご」を食べると寿命が延びると伝えられます。 箱根（はこね、古くは「函根」、「函嶺」とも呼ばれた）は、静岡県に近い神奈川県南西部の一角、箱根カルデラ近辺の一帯を指す地名。…</p>
+                <h3 className="text-base font-bold text-stone-900">箱根 芦ノ湖・大涌谷（日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド】 富士山を望む箱根海賊船クルーズが人気の芦ノ湖と、現在も硫黄煙が噴き出す火山地帯・大涌谷。名物の「黒たまご」を食べると寿命が延びると伝えられます。 箱根（はこね、古くは「函根」、「函嶺」とも呼ばれた）は、静岡県に近い神奈川県南西部の一角、箱根カルデラ近辺の一帯を指す地名。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -729,7 +719,7 @@ export default function Page() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
                 <h3 className="text-base font-bold text-stone-900">江の島</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">湘南海岸に浮かぶ美しい島。江島神社への参道散策やシーキャンドル（展望灯台）からの太平洋の絶景、新鮮な生しらす丼など魅力が詰まっています。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド】 湘南海岸に浮かぶ美しい島。江島神社への参道散策やシーキャンドル（展望灯台）からの太平洋の絶景、新鮮な生しらす丼など魅力が詰まっています。</p>
               </div>
             </div>
             </div>

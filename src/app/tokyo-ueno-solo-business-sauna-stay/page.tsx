@@ -96,9 +96,7 @@ export default function ArticlePage() {
       {/* 目次インデックス */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-stone-100 p-5 rounded-xl border border-stone-200">
-          <h2 className="text-base font-bold text-stone-900 mb-3 flex items-center gap-2">
-            <span>📑</span> 本記事でご紹介する厳選ホテル
-          </h2>
+          <h2 className="text-base font-bold text-stone-900 mb-3 flex items-center gap-2"><span>📑</span> 本記事でご紹介する厳選ホテル｜上野出張・極上サウナステイ：新幹線直結・徒士の湯・ア</h2>
           <ul className="space-y-2 text-sm text-stone-700">
             <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 徒士の湯　ドーミーイン上野・御徒町（ドーミーイン・御宿野乃　ホテルズグループ）（★4.29 / 最低目安：8,531円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. センチュリオンホテル＆スパ上野駅前（★3.81 / 最低目安：4,200円〜）</a></li>
@@ -149,9 +147,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">
-                <span>🌟</span> ひとり滞在・出張で選ばれる理由
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由（上野出張・極上サウナステイ：新幹線直結・徒士の湯・ア）</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>【男女別大浴場＆サウナ完備！】上野駅＆御徒町駅徒歩圏内、マンガ2,000冊読み放題♪</span></li>
               </ul>
@@ -210,9 +206,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">
-                <span>🌟</span> ひとり滞在・出張で選ばれる理由
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由（上野出張・極上サウナステイ：新幹線直結・徒士の湯・ア）</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>◆本館1F焼肉「陽山道」の夕食付プランがお得◆好評の天照ラジウム温泉大浴場・サウナは24時間利用可！</span></li>
               </ul>
@@ -271,9 +265,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">
-                <span>🌟</span> ひとり滞在・出張で選ばれる理由
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由（上野出張・極上サウナステイ：新幹線直結・徒士の湯・ア）</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>東京都心の北玄関口「上野駅」より徒歩３分</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>カプセルホテル＋サウナ＋ネットカフェが融合した複合施設</span></li>
@@ -330,9 +322,7 @@ export default function ArticlePage() {
       {/* FAQ セクション */}
       <section id="faq" className="max-w-4xl mx-auto px-4 sm:px-6 mt-16">
         <div className="bg-stone-100 p-6 sm:p-8 rounded-2xl border border-stone-200">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-300 pb-3">
-            <span>❓</span> 滞在に関するよくある質問（FAQ）
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-300 pb-3"><span>❓</span> 滞在に関するよくある質問（FAQ）｜上野出張・極上サウナステイ：新幹線直結・徒士の湯・ア</h2>
           <div className="space-y-4">
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
               <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
@@ -359,10 +349,8 @@ export default function ArticlePage() {
       {/* 予約案内バナー */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mt-16">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-6 sm:p-8 rounded-2xl shadow-md text-center">
-          <h3 className="text-lg sm:text-xl font-bold mb-2">
-            楽天トラベルで最新の空室状況・限定ポイントキャンペーンをチェック
-          </h3>
-          <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">
+          <h3 className="text-lg sm:text-xl font-bold mb-2">楽天トラベルで最新の空室状況・限定ポイントキャンペーンをチェック（上野出張・極上サウナステイ：新幹線直結・徒士の湯・ア）</h3>
+          <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">【上野出張・極上サウナステイ：新幹線直結・徒士の湯・ア】 
             平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
@@ -400,7 +388,7 @@ export default function ArticlePage() {
                 <span>Q. 事前準備や持ち物で注意すべきポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
-              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
+              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">【上野出張・極上サウナステイ：新幹線直結・徒士の湯・ア】 
                 A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
@@ -549,32 +537,32 @@ export default function ArticlePage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">浅草寺・雷門</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">都内最古の寺院であり、巨大な大提灯が吊り下げられた「雷門」が東京観光の顔。仲見世通りには名物の人形焼きや煎餅店が立ち並び江戸風情を色濃く残します。</p>
+                <h3 className="text-base font-bold text-stone-900">浅草寺・雷門（上野出張・極上サウナステイ：新幹線直結・徒士の湯・ア）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【上野出張・極上サウナステイ：新幹線直結・徒士の湯・ア】 都内最古の寺院であり、巨大な大提灯が吊り下げられた「雷門」が東京観光の顔。仲見世通りには名物の人形焼きや煎餅店が立ち並び江戸風情を色濃く残します。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">東京タワー</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">昭和33年に開業した高さ333mの赤と白の総合電波塔。メインデッキやトップデッキからの都心のナイトビューと季節ごとのライトアップが人気です。</p>
+                <h3 className="text-base font-bold text-stone-900">東京タワー（上野出張・極上サウナステイ：新幹線直結・徒士の湯・ア）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【上野出張・極上サウナステイ：新幹線直結・徒士の湯・ア】 昭和33年に開業した高さ333mの赤と白の総合電波塔。メインデッキやトップデッキからの都心のナイトビューと季節ごとのライトアップが人気です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">東京スカイツリー</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">高さ634mを誇る世界一高い自立式電波塔。地上350m・450mの展望台からは関東一円を見渡せる超パノラマ絶景が広がり、商業施設ソラマチも隣接しています。</p>
+                <h3 className="text-base font-bold text-stone-900">東京スカイツリー（上野出張・極上サウナステイ：新幹線直結・徒士の湯・ア）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【上野出張・極上サウナステイ：新幹線直結・徒士の湯・ア】 高さ634mを誇る世界一高い自立式電波塔。地上350m・450mの展望台からは関東一円を見渡せる超パノラマ絶景が広がり、商業施設ソラマチも隣接しています。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">明治神宮</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">明治天皇と昭憲皇太后をお祀りする神社。都会の真ん中にありながら約70ヘクタールの豊かな人工林に囲まれた清らかな癒やしとパワーのスポットです。</p>
+                <h3 className="text-base font-bold text-stone-900">明治神宮（上野出張・極上サウナステイ：新幹線直結・徒士の湯・ア）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【上野出張・極上サウナステイ：新幹線直結・徒士の湯・ア】 明治天皇と昭憲皇太后をお祀りする神社。都会の真ん中にありながら約70ヘクタールの豊かな人工林に囲まれた清らかな癒やしとパワーのスポットです。</p>
               </div>
             </div>
             </div>

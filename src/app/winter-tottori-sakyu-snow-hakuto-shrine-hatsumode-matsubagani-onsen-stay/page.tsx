@@ -631,10 +631,8 @@ export default function TottoriSakyuWinterPage() {
 
         {/* Internal Link CTA */}
         <section className="bg-gradient-to-r from-blue-950 to-slate-900 text-white rounded-2xl p-8 text-center space-y-4">
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif">
-            冬の日本全国・厳選特集をチェック
-          </h2>
-          <p className="text-slate-300 text-xs md:text-sm max-w-xl mx-auto">
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif">冬の日本全国・厳選特集をチェック｜11・12・1月鳥取：白銀に染まる「鳥取砂丘」雪景</h2>
+          <p className="text-slate-300 text-xs md:text-sm max-w-xl mx-auto">【11・12・1月鳥取：白銀に染まる「鳥取砂丘」雪景】 
             11月・12月・1月が旬の温泉郷、新春初詣、冬の味覚、雪景色を特集したオリジナル旅行ガイドを多数公開中。次の旅の目的地を見つけてください。
           </p>
           <div className="pt-2 flex flex-wrap justify-center gap-3">
@@ -659,8 +657,8 @@ export default function TottoriSakyuWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
-        <p className="mt-2 text-slate-500">掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
+        <p>【11・12・1月鳥取：白銀に染まる「鳥取砂丘」雪景】 © 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
+        <p className="mt-2 text-slate-500">【11・12・1月鳥取：白銀に染まる「鳥取砂丘」雪景】 掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>
   );

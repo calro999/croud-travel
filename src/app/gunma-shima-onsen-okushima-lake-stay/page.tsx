@@ -330,7 +330,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>『歴史と浪漫・優雅と静寂』の旅館棟。国の重要文化財のある「山荘」・贅を尽くした「佳松亭」</p>
                   <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡中之条町四万甲4236 ／ 最寄り駅：中之条 ／ 交通案内：中之条駅からバス４０分終点下車・車で２５分／渋川伊香保ＩＣ→Ｒ１７→Ｒ３５３で約３９ｋｍ６０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
+                  <p>【群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.6 ／ 部屋 ★4.6 ／ 設備 ★4.52 ／ 風呂 ★4.69 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「館内ツアーで歴史を学び有意義なひととき歴史ある宿で館内ツアーもあり建物や過去の時代の詳しい説明があり有意義な時間を過ごせました。クチコミの詳細はこちらから　https://review.tra…　2026-10-05 05:10:21投稿」
@@ -352,7 +352,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「群馬・四万温泉＆奥四万湖（奇跡の四万ブルー・千と千尋レトロ木造湯宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：関越自動車道『渋川伊香保IC』→R１７→R３５３で５０分　JR吾妻線『中之条駅』下車バス四万温泉『桐の木平』下車徒歩２分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉を堪能し、女将さんの想いに感銘を受けたその節はありがとうございました。全ての貸切風呂にも入ることができましたし、部屋の温泉にも入りたい時に入れましたし、本当に温泉を堪能することができました…　2026-09-06 19:13:41投稿」
@@ -374,7 +374,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「群馬・四万温泉＆奥四万湖（奇跡の四万ブルー・千と千尋レトロ木造湯宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：関越自動車道・渋川伊香保Ｉ.Ｃから国道353経由60分JR中之条駅からバスで30分　終点から徒歩20分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「奥四万ダムに近く、温泉と地産料理に癒される奥四万ダムから比較的近いです。料理は量がちょうどよく群馬の食材をつかっておりとても美味しかったです。温泉の湯質は最高でした。何もすることが…　2026-09-19 12:41:07投稿」
@@ -396,7 +396,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>2025年3月放映「マツコの知らない世界」で四万温泉が紹介されました！当館でも「美肌の湯」を満喫！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡中之条町四万4228 ／ 最寄り駅：中之条 ／ 交通案内：ＪＲ吾妻線中之条駅／関越交通四万温泉行き終点１分／関越道渋川伊香保ＩＣより約３９ｋｍ６０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
+                  <p>【群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋】 <strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「2回の角部屋でした。洗面所の窓がそのままでカーテンもなく外から丸見えな感じで嫌でした。 夕食は、バイキングで楽しんでいたねに、まだ食べ物があるのに下げられて不快でした。風呂上がりに牛乳、コ…　2026-08-29 19:56:04投稿」
@@ -460,32 +460,32 @@ export default function MicroTouristHubPage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Yubatake_%28Kusatsu_Onsen%29.jpg/1280px-Yubatake_%28Kusatsu_Onsen%29.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="草津温泉（湯畑）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">草津温泉（湯畑）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三名泉の一つで自然湧出量日本一を誇る温泉街のシンボル。毎分4,000リットルの源泉が湯滝となって湧き出し、湯もみ体験や夜のライトアップも人気です。 草津温泉（くさつおんせん）は、群馬県吾妻郡草津町草津界隈（江戸時代における上野国吾妻郡草津村界隈、幕藩体制下の上州御料草津村界隈〈初期は沼田藩知行〉）に所在する温泉である。草津白根山東麓に位置する。 毎分3万2300リットル以上の自然湧出量は日本一。室町時代には万里集九が有馬温泉や下呂温泉とともに「三名泉」とし、江戸時代には林羅山もこれらの三温泉を「天下の三…</p>
+                <h3 className="text-base font-bold text-stone-900">草津温泉（湯畑）（群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋】 日本三名泉の一つで自然湧出量日本一を誇る温泉街のシンボル。毎分4,000リットルの源泉が湯滝となって湧き出し、湯もみ体験や夜のライトアップも人気です。 草津温泉（くさつおんせん）は、群馬県吾妻郡草津町草津界隈（江戸時代における上野国吾妻郡草津村界隈、幕藩体制下の上州御料草津村界隈〈初期は沼田藩知行〉）に所在する温泉である。草津白根山東麓に位置する。 毎分3万2300リットル以上の自然湧出量は日本一。室町時代には万里集九が有馬温泉や下呂温泉とともに「三名泉」とし、江戸時代には林羅山もこれらの三温泉を「天下の三…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Ikaho_Onsen_03.jpg/1280px-Ikaho_Onsen_03.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="伊香保温泉（石段街）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">伊香保温泉（石段街）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">365段の石段が続く情緒溢れる温泉街。石段の両脇には射的場や土産物店、足湯が立ち並び、温泉まんじゅう発祥の地としても知られています。 伊香保温泉（いかほおんせん）は、群馬県渋川市伊香保町にある温泉。草津温泉と並んで県を代表する名湯で、上毛かるたでは「伊香保温泉 日本の名湯」と歌われている。 「伊香保温泉」として地域団体商標に登録されている。…</p>
+                <h3 className="text-base font-bold text-stone-900">伊香保温泉（石段街）（群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋】 365段の石段が続く情緒溢れる温泉街。石段の両脇には射的場や土産物店、足湯が立ち並び、温泉まんじゅう発祥の地としても知られています。 伊香保温泉（いかほおんせん）は、群馬県渋川市伊香保町にある温泉。草津温泉と並んで県を代表する名湯で、上毛かるたでは「伊香保温泉 日本の名湯」と歌われている。 「伊香保温泉」として地域団体商標に登録されている。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">富岡製糸場</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">明治政府が設立した日本初の本格的な製糸工場であり、世界文化遺産。木骨レンガ造りの巨大な繰糸所や蚕室が良好に保存されており、日本の近代化の足跡を辿れます。</p>
+                <h3 className="text-base font-bold text-stone-900">富岡製糸場（群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋】 明治政府が設立した日本初の本格的な製糸工場であり、世界文化遺産。木骨レンガ造りの巨大な繰糸所や蚕室が良好に保存されており、日本の近代化の足跡を辿れます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">吹割の滝（ふきわれのたき）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「東洋のナイアガラ」と称されるダイナミックな滝。巨大な岩盤が割れ目の中に河川の水が吸い込まれるように流れ落ちる迫力ある景観が魅力です。</p>
+                <h3 className="text-base font-bold text-stone-900">吹割の滝（ふきわれのたき）（群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋】 「東洋のナイアガラ」と称されるダイナミックな滝。巨大な岩盤が割れ目の中に河川の水が吸い込まれるように流れ落ちる迫力ある景観が魅力です。</p>
               </div>
             </div>
             </div>

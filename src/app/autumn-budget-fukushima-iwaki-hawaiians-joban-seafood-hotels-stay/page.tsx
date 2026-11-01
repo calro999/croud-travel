@@ -527,31 +527,31 @@ export default function AutumnBudgetIwakiHotelsPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
                 <h3 className="text-base font-bold text-stone-900">大内宿</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">江戸時代の宿場町の面影をそのまま残す国の重要伝統的建造物群保存地区。茅葺き屋根の民家が街道沿いに並び、名物の「高遠そば（一本ねぎそば）」を味わえます。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【いわき：常磐ものの秋魚グルメ＆ハワイアンズ拠点】 江戸時代の宿場町の面影をそのまま残す国の重要伝統的建造物群保存地区。茅葺き屋根の民家が街道沿いに並び、名物の「高遠そば（一本ねぎそば）」を味わえます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">鶴ヶ城（会津若松城）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">戊辰戦争の激戦に耐え抜いた難攻不落の名城。赤瓦を纏った天守閣は日本唯一であり、内部の歴史資料館や最上階からの城下町一望が見どころです。</p>
+                <h3 className="text-base font-bold text-stone-900">鶴ヶ城（会津若松城）（いわき：常磐ものの秋魚グルメ＆ハワイアンズ拠点）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【いわき：常磐ものの秋魚グルメ＆ハワイアンズ拠点】 戊辰戦争の激戦に耐え抜いた難攻不落の名城。赤瓦を纏った天守閣は日本唯一であり、内部の歴史資料館や最上階からの城下町一望が見どころです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">五色沼湖沼群（裏磐梯）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">磐梯山の噴火によって形成された無数の神秘的な沼群。水に含まれる鉱物や気象条件により、エメラルドグリーンやコバルトブルーに色彩が変わるハイキングコースです。</p>
+                <h3 className="text-base font-bold text-stone-900">五色沼湖沼群（裏磐梯）（いわき：常磐ものの秋魚グルメ＆ハワイアンズ拠点）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【いわき：常磐ものの秋魚グルメ＆ハワイアンズ拠点】 磐梯山の噴火によって形成された無数の神秘的な沼群。水に含まれる鉱物や気象条件により、エメラルドグリーンやコバルトブルーに色彩が変わるハイキングコースです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">猪苗代湖</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「天鏡湖」とも称される日本第4位の面積を誇る美しい湖。雄大な磐梯山を水面に映し出し、冬には飛来するハクチョウやしぶき氷の絶景が見られます。</p>
+                <h3 className="text-base font-bold text-stone-900">猪苗代湖（いわき：常磐ものの秋魚グルメ＆ハワイアンズ拠点）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【いわき：常磐ものの秋魚グルメ＆ハワイアンズ拠点】 「天鏡湖」とも称される日本第4位の面積を誇る美しい湖。雄大な磐梯山を水面に映し出し、冬には飛来するハクチョウやしぶき氷の絶景が見られます。</p>
               </div>
             </div>
             </div>

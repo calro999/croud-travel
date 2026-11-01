@@ -750,9 +750,7 @@ export default function Page() {
 
           {/* 関連特集リンク */}
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-b border-stone-100 pb-3">
-              あわせて読みたい関連特集
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-b border-stone-100 pb-3">あわせて読みたい関連特集（土佐の小京都・安芸武家屋敷と室戸岬冬のだるま朝日：2）</h3>
             <ul className="grid grid-cols-1 sm:grid-cols-2 gap-3">
               <li>
                 <Link href="/prefectures/kochi/" className="text-cyan-800 hover:text-cyan-950 font-medium hover:underline flex items-center gap-1.5 text-sm">

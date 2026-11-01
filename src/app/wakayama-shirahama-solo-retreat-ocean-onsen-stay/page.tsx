@@ -76,7 +76,7 @@ export default function ArticlePage() {
             和歌山・南紀白浜温泉ひとり旅＆海一望おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「南紀白浜ひとり旅・海一望名湯おこもり」白良浜オーシャンビュー・日本三古湯・クエ＆伊勢海老！太平洋の絶景に抱かれる厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">【南紀白浜ひとり旅・海一望名湯おこもり：白良浜オーシャ】 
             更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
           </p>
           
@@ -95,10 +95,8 @@ export default function ArticlePage() {
 
         {/* 目次 */}
         <section className="bg-white p-5 rounded-2xl border border-stone-200 shadow-sm mb-10">
-          <h2 className="text-sm font-bold text-stone-900 mb-3 flex items-center gap-2">
-            <span>📑</span>
-            <span>この記事で紹介する厳選ホテル（楽天トラベル最新評価順）</span>
-          </h2>
+          <h2 className="text-sm font-bold text-stone-900 mb-3 flex items-center gap-2"><span>📑</span>
+            <span>この記事で紹介する厳選ホテル（楽天トラベル最新評価順）</span>｜南紀白浜ひとり旅・海一望名湯おこもり：白良浜オーシャ</h2>
           <ul className="text-xs sm:text-sm space-y-2">
             <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 白浜・温泉リゾート　海岳（★5 / 最低目安：12,000円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. 白浜古賀の井リゾート＆スパ（★4.42 / 最低目安：11,900円〜）</a></li>
@@ -142,7 +140,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（南紀白浜ひとり旅・海一望名湯おこもり：白良浜オーシャ）</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>◆紀州の厳選食材満載の極上グルメと源泉かけ流し温泉をご堪能◆アイス無料御提供</span></li>
               </ul>
@@ -197,7 +195,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（南紀白浜ひとり旅・海一望名湯おこもり：白良浜オーシャ）</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>優雅に美しく贅沢な休日を</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>露天風呂やスパエリアも充実！南紀白浜の温泉リゾートホテル</span></li>
@@ -253,7 +251,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（南紀白浜ひとり旅・海一望名湯おこもり：白良浜オーシャ）</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>【白良浜まで徒歩1分】2種類の源泉とライブキッチンバイキングが愉しめる本格和風旅館へ</span></li>
               </ul>
@@ -299,10 +297,8 @@ export default function ArticlePage() {
 
         {/* よくある質問 FAQ */}
         <section className="bg-amber-50/40 rounded-2xl border border-amber-200/60 p-6 sm:p-8 mb-10">
-          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span>❓</span>
-            <span>よくある質問（FAQ）</span>
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span>❓</span>
+            <span>よくある質問（FAQ）</span>｜南紀白浜ひとり旅・海一望名湯おこもり：白良浜オーシャ</h2>
           <div className="space-y-4">
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
               <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
@@ -327,7 +323,7 @@ export default function ArticlePage() {
 
         {/* 記事末尾CTA */}
         <div className="text-center bg-stone-900 text-white p-8 rounded-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold mb-3">気になる宿は見つかりましたか？</h2>
+          <h2 className="text-xl sm:text-2xl font-bold mb-3">気になる宿は見つかりましたか？｜南紀白浜ひとり旅・海一望名湯おこもり：白良浜オーシャ</h2>
           <p className="text-stone-300 text-xs sm:text-sm max-w-lg mx-auto mb-6">
             「南紀白浜ひとり旅・海一望名湯おこもり（白良浜オーシャンビュー・日本三古湯・クエ＆伊勢海老）」で人気の「白浜・温泉リゾート　海岳」をはじめ、週末や連休は条件の良い客室から埋まりやすいため、楽天トラベルの空室カレンダーから早めの日程確認をおすすめします。
           </p>
@@ -351,7 +347,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（南紀白浜ひとり旅・海一望名湯おこもり：白良浜オーシャ）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 白浜駅よりアクセス。JR白浜駅から車で約10分※無料送迎バス運行中／南紀白浜空港から車で約8分／大阪から車で阪和道南紀田辺IC経由で約2時間。</li>
@@ -363,7 +359,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（南紀白浜ひとり旅・海一望名湯おこもり：白良浜オーシャ）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「白浜古賀の井リゾート＆スパ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -381,9 +377,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜南紀白浜ひとり旅・海一望名湯おこもり：白良浜オーシャ</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/aichi-chita-minamichita-himakajima-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -404,7 +398,7 @@ export default function ArticlePage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（南紀白浜ひとり旅・海一望名湯おこもり：白良浜オーシャ）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/aichi/"
@@ -512,7 +506,7 @@ export default function ArticlePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆紀州の厳選食材満載の極上グルメと源泉かけ流し温泉をご堪能◆アイス無料御提供</p>
                   <p><strong>【所在地・アクセス】</strong>〒 和歌山県西牟婁郡白浜町3212-12 ／ 最寄り駅：白浜 ／ 交通案内：白浜駅から車で8分、南紀白浜空港から車で15分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
+                  <p>【南紀白浜ひとり旅・海一望名湯おこもり：白良浜オーシャ】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>白浜・温泉リゾート　海岳の滞在ポイント：</strong>「南紀白浜ひとり旅・海一望名湯おこもりエリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」

@@ -343,7 +343,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>蔵王の森に囲まれた　愛らしさあふれる宿／大自然の恵み＜湯量豊富な白濁の温泉＞に身をゆだねる至福の時間</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山形県山形市蔵王温泉清水坂889-1 ／ 最寄り駅：山形 ／ 交通案内：山形駅よりバスで蔵王温泉行終点まで約40分。下車徒歩15分／バスターミナル送迎有り（要予約）</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
+                  <p>【山形・天童温泉＆山寺立石寺：将棋の街・千段の石段絶景】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「リピートしているが今回は少し残念な内容蔵王ではお気に入りのホテルで何度かリピートしております。今回は野天風呂が利用出来ず残念でした。料理もいつもに比べるとお米の味が落ちたように感じました。…　2026-08-15 21:48:01投稿」
@@ -429,32 +429,32 @@ export default function MicroTouristHubPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">宝珠山 立石寺（山寺）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">松尾芭蕉が「閑さや岩にしみ入る蝉の声」と詠んだことで名高い名刹。1015段の石段を登りきった五大堂からは、山形の大自然と里山を一望する壮大な絶景が広がります。</p>
+                <h3 className="text-base font-bold text-stone-900">宝珠山 立石寺（山寺）（山形・天童温泉＆山寺立石寺：将棋の街・千段の石段絶景）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【山形・天童温泉＆山寺立石寺：将棋の街・千段の石段絶景】 松尾芭蕉が「閑さや岩にしみ入る蝉の声」と詠んだことで名高い名刹。1015段の石段を登りきった五大堂からは、山形の大自然と里山を一望する壮大な絶景が広がります。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Evening_twilight_in_Ginzan_Onsen_town_January_2022_A.jpg/1280px-Evening_twilight_in_Ginzan_Onsen_town_January_2022_A.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="銀山温泉" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">銀山温泉</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">銀山川の両岸に木造多層の温泉旅館が立ち並ぶ、大正ロマンあふれる温泉街。夕暮れ時にガス灯の温かな光が雪景色や大正建築を照らし出す風景は感動的です。 銀山温泉（ぎんざんおんせん）は、山形県尾花沢市（旧国出羽国、明治以降は羽前国）にある温泉である。 NHK連続テレビ小説『おしん』の舞台となったことで一躍脚光を浴び、全国的にその名を知られることになった。…</p>
+                <h3 className="text-base font-bold text-stone-900">銀山温泉（山形・天童温泉＆山寺立石寺：将棋の街・千段の石段絶景）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【山形・天童温泉＆山寺立石寺：将棋の街・千段の石段絶景】 銀山川の両岸に木造多層の温泉旅館が立ち並ぶ、大正ロマンあふれる温泉街。夕暮れ時にガス灯の温かな光が雪景色や大正建築を照らし出す風景は感動的です。 銀山温泉（ぎんざんおんせん）は、山形県尾花沢市（旧国出羽国、明治以降は羽前国）にある温泉である。 NHK連続テレビ小説『おしん』の舞台となったことで一躍脚光を浴び、全国的にその名を知られることになった。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Zaou_Gongen_Circumstancial_appearance_of_Mount_Yoshino.jpg/1280px-Zaou_Gongen_Circumstancial_appearance_of_Mount_Yoshino.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="蔵王の樹氷" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">蔵王の樹氷</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">冬の蔵王連峰で見られる自然の芸術「アイスモンスター」。アオモリトドマツに雪と氷が吹き付けられて巨大化した樹氷群を、ロープウェイやナイターライトアップで楽しめます。 蔵王、藏王（ざ-おう） 読みとしては、「蔵王」の本来の読み、旧仮名づかい「ざう-わう(ぞう-おう)」（音読み）が連声化したもの。 修験道の神である蔵王権現のこと。日本各地にみられる「蔵王」という名称は、後述の地名を含め、その大半が蔵王権現（奈良県吉野の発祥）に由来している（蔵王権現を参照）。 上述の蔵王権現を祭っている神社（蔵王権現社、御嶽神社（御岳神社）、…</p>
+                <h3 className="text-base font-bold text-stone-900">蔵王の樹氷（山形・天童温泉＆山寺立石寺：将棋の街・千段の石段絶景）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【山形・天童温泉＆山寺立石寺：将棋の街・千段の石段絶景】 冬の蔵王連峰で見られる自然の芸術「アイスモンスター」。アオモリトドマツに雪と氷が吹き付けられて巨大化した樹氷群を、ロープウェイやナイターライトアップで楽しめます。 蔵王、藏王（ざ-おう） 読みとしては、「蔵王」の本来の読み、旧仮名づかい「ざう-わう(ぞう-おう)」（音読み）が連声化したもの。 修験道の神である蔵王権現のこと。日本各地にみられる「蔵王」という名称は、後述の地名を含め、その大半が蔵王権現（奈良県吉野の発祥）に由来している（蔵王権現を参照）。 上述の蔵王権現を祭っている神社（蔵王権現社、御嶽神社（御岳神社）、…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">羽黒山 三重塔</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">出羽三山神社への参道杉木立の中に佇む、東北最古の国宝木造塔。樹齢数百年の巨大な老杉に囲まれた静寂な空間は、強いパワースポットとして知られています。</p>
+                <h3 className="text-base font-bold text-stone-900">羽黒山 三重塔（山形・天童温泉＆山寺立石寺：将棋の街・千段の石段絶景）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【山形・天童温泉＆山寺立石寺：将棋の街・千段の石段絶景】 出羽三山神社への参道杉木立の中に佇む、東北最古の国宝木造塔。樹齢数百年の巨大な老杉に囲まれた静寂な空間は、強いパワースポットとして知られています。</p>
               </div>
             </div>
             </div>

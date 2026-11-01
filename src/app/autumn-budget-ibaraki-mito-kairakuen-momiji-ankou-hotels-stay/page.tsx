@@ -526,24 +526,24 @@ export default function AutumnBudgetMitoHotelsPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">国営ひたち海浜公園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">春のネモフィラ、秋のコキアをはじめ、四季折々の広大な花畑が美しい国営公園。みはらしの丘一面が青や赤に染まる光景は世界中から絶賛される絶景です。</p>
+                <h3 className="text-base font-bold text-stone-900">国営ひたち海浜公園（水戸：偕楽園もみじ谷ライトアップと旬のあんこう鍋）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【水戸：偕楽園もみじ谷ライトアップと旬のあんこう鍋】 春のネモフィラ、秋のコキアをはじめ、四季折々の広大な花畑が美しい国営公園。みはらしの丘一面が青や赤に染まる光景は世界中から絶賛される絶景です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">水戸偕楽園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">金沢兼六園・岡山後楽園と並ぶ日本三名園の一つ。徳川斉昭公によって造園され、春には約100品種3,000本の梅が咲き誇る歴史ある回遊式庭園です。</p>
+                <h3 className="text-base font-bold text-stone-900">水戸偕楽園（水戸：偕楽園もみじ谷ライトアップと旬のあんこう鍋）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【水戸：偕楽園もみじ谷ライトアップと旬のあんこう鍋】 金沢兼六園・岡山後楽園と並ぶ日本三名園の一つ。徳川斉昭公によって造園され、春には約100品種3,000本の梅が咲き誇る歴史ある回遊式庭園です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">袋田の滝</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三名瀑に数えられる高さ120m・幅73mのダイナミックな4段の滝。四季ごとに全く異なる表情を見せ、冬には滝全体が凍結する「氷瀑」が見事です。</p>
+                <h3 className="text-base font-bold text-stone-900">袋田の滝（水戸：偕楽園もみじ谷ライトアップと旬のあんこう鍋）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【水戸：偕楽園もみじ谷ライトアップと旬のあんこう鍋】 日本三名瀑に数えられる高さ120m・幅73mのダイナミックな4段の滝。四季ごとに全く異なる表情を見せ、冬には滝全体が凍結する「氷瀑」が見事です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -551,7 +551,7 @@ export default function AutumnBudgetMitoHotelsPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
                 <h3 className="text-base font-bold text-stone-900">筑波山</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「西の富士、東の筑波」と称される紫峰。男体山と女体山の2峰からなり、ケーブルカーやロープウェイで気軽に山頂へ登れ、関東平野の一望を楽しめます。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【水戸：偕楽園もみじ谷ライトアップと旬のあんこう鍋】 「西の富士、東の筑波」と称される紫峰。男体山と女体山の2峰からなり、ケーブルカーやロープウェイで気軽に山頂へ登れ、関東平野の一望を楽しめます。</p>
               </div>
             </div>
             </div>

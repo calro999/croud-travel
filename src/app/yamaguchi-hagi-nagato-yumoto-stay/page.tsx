@@ -352,7 +352,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>最上級の泉質　アルカリ性単純泉の自家源泉と市営泉の湯量豊富なブレンド天然温泉でお肌もつるつる</p>
                   <p><strong>【所在地・アクセス】</strong>〒 福島県郡山市熱海町熱海4-47 ／ 最寄り駅：主要駅 ／ 交通案内：■郡山駅から磐越西線で15分　磐梯熱海駅から徒歩３分 ■磐越道 磐梯熱海ＩＣ下車　車で約5分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
+                  <p>【山口・萩＆長門湯本温泉：維新の城下町・川床テラス＆元】 <strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「食事が最高夕食がとても美味しかった。お刺身も牛肉ステーキも最高。会津娘というお酒を注文してこれまた最高。お風呂も綺麗で良かったですクチコミの詳細はこちらから　https://review.…　2026-09-12 10:52:34投稿」
@@ -440,7 +440,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「山口・萩＆長門湯本温泉（維新の城下町・川床テラス＆元乃隅神社・瓦そば宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ　下関駅より徒歩にて3分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【山口・萩＆長門湯本温泉：維新の城下町・川床テラス＆元】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「ふく料理と骨酒が最高、お風呂も充実朝夕共にお食事がふく料理でとっても美味しかったです。お酒の種類も色々あり選ぶ楽しみもあります。ふくの骨酒最高でした!貸切風呂や食事で宿を決めたい方に是非泊まってほ…　2026-09-18 22:59:10投稿」

@@ -191,10 +191,8 @@ export default function Page() {
 
         {/* 厳選ホテル・宿ランキング比較一覧 */}
         <div className="space-y-8 pt-4">
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2 border-b border-emerald-950/10 pb-3">
-            <span>🏆</span>
-            <span>編集部が厳選したおすすめ宿泊施設 TOP3</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2 border-b border-emerald-950/10 pb-3"><span>🏆</span>
+            <span>編集部が厳選したおすすめ宿泊施設 TOP3</span>｜文豪たちが筆を走らせた名湯</h2>
 
           <div className="space-y-8">
             {hotels.map((h, idx) => (
@@ -294,13 +292,13 @@ export default function Page() {
           <div className="space-y-3 text-xs">
             <div className="p-4 rounded-xl bg-teal-50/30 border border-teal-900/10 space-y-1.5">
               <h4 className="font-bold text-teal-950">Q. 文学散歩・文豪ゆかりの名宿の予約でお得な方法はありますか？</h4>
-              <p className="text-emerald-950/80 leading-relaxed">
+              <p className="text-emerald-950/80 leading-relaxed">【文豪たちが筆を走らせた名湯】 
                 楽天トラベルの「5と0のつく日セール」による最大20%割引や、実質2,000円の自己負担で宿泊できる「楽天ふるさと納税宿泊クーポン」の併用が最もお得でおすすめです。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-teal-50/30 border border-teal-900/10 space-y-1.5">
               <h4 className="font-bold text-teal-950">Q. キャンセル料や予約変更はどうなっていますか？</h4>
-              <p className="text-emerald-950/80 leading-relaxed">
+              <p className="text-emerald-950/80 leading-relaxed">【文豪たちが筆を走らせた名湯】 
                 各宿泊施設および予約プランによってキャンセル規定が異なります。ご予約完了前に楽天トラベルの詳細ページにてキャンセルポリシーを必ずご確認ください。
               </p>
             </div>
@@ -408,7 +406,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>■全国旅行支援利用の際はクーポンを獲得下さい■最大5000円オフ＋地域クーポン券最大3,000円分</p>
                   <p><strong>【所在地・アクセス】</strong>〒 長野県小県郡青木村田沢温泉2686 ／ 最寄り駅：上田（長野） ／ 交通案内：上信越自動車道上田菅平ＩＣ若しくは長野自動車道麻績より30分／新幹線上田駅下車、バスで30分（タクシー20分）青木行</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
+                  <p>【文豪たちが筆を走らせた名湯】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.81 ／ 立地 ★4.54 ／ 部屋 ★4.62 ／ 設備 ★4.44 ／ 風呂 ★4.62 ／ 食事 ★4.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「文化財の建物とマツタケ料理に感動文化財となっているだけあって、素晴らしい建物でした。お部屋をグレードアップしてくださり、ゆったりゆっくりできました。木造で階段が多いので、HPにあった通り足腰の弱い…　2026-10-05 17:31:11投稿」
@@ -430,7 +428,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>太宰治ゆかりの宿【スタッフの笑顔と創作料理・おもてなしの心】・貸切露天風呂・足湯も大好評</p>
                   <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町谷川524-1 ／ 最寄り駅：水上 ／ 交通案内：ＪＲ水上駅より車で７分（送迎あり）、関越自動車道水上ＩＣより１５分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
+                  <p>【文豪たちが筆を走らせた名湯】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.3 ／ 部屋 ★4.49 ／ 設備 ★4.37 ／ 風呂 ★4.37 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と食事が最高、常宿にしたいスタッフの方々が皆さん明るく親切でした。夕食も個室でゆっくりお料理を堪能できました。部屋も清潔感がありコンセントもたくさんあったので使い勝手が良く過ごしやす…　2026-10-07 17:59:15投稿」
@@ -450,32 +448,32 @@ export default function Page() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Yubatake_%28Kusatsu_Onsen%29.jpg/1280px-Yubatake_%28Kusatsu_Onsen%29.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="草津温泉（湯畑）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">草津温泉（湯畑）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三名泉の一つで自然湧出量日本一を誇る温泉街のシンボル。毎分4,000リットルの源泉が湯滝となって湧き出し、湯もみ体験や夜のライトアップも人気です。 草津温泉（くさつおんせん）は、群馬県吾妻郡草津町草津界隈（江戸時代における上野国吾妻郡草津村界隈、幕藩体制下の上州御料草津村界隈〈初期は沼田藩知行〉）に所在する温泉である。草津白根山東麓に位置する。 毎分3万2300リットル以上の自然湧出量は日本一。室町時代には万里集九が有馬温泉や下呂温泉とともに「三名泉」とし、江戸時代には林羅山もこれらの三温泉を「天下の三…</p>
+                <h3 className="text-base font-bold text-stone-900">草津温泉（湯畑）（文豪たちが筆を走らせた名湯）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【文豪たちが筆を走らせた名湯】 日本三名泉の一つで自然湧出量日本一を誇る温泉街のシンボル。毎分4,000リットルの源泉が湯滝となって湧き出し、湯もみ体験や夜のライトアップも人気です。 草津温泉（くさつおんせん）は、群馬県吾妻郡草津町草津界隈（江戸時代における上野国吾妻郡草津村界隈、幕藩体制下の上州御料草津村界隈〈初期は沼田藩知行〉）に所在する温泉である。草津白根山東麓に位置する。 毎分3万2300リットル以上の自然湧出量は日本一。室町時代には万里集九が有馬温泉や下呂温泉とともに「三名泉」とし、江戸時代には林羅山もこれらの三温泉を「天下の三…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Ikaho_Onsen_03.jpg/1280px-Ikaho_Onsen_03.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="伊香保温泉（石段街）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">伊香保温泉（石段街）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">365段の石段が続く情緒溢れる温泉街。石段の両脇には射的場や土産物店、足湯が立ち並び、温泉まんじゅう発祥の地としても知られています。 伊香保温泉（いかほおんせん）は、群馬県渋川市伊香保町にある温泉。草津温泉と並んで県を代表する名湯で、上毛かるたでは「伊香保温泉 日本の名湯」と歌われている。 「伊香保温泉」として地域団体商標に登録されている。…</p>
+                <h3 className="text-base font-bold text-stone-900">伊香保温泉（石段街）（文豪たちが筆を走らせた名湯）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【文豪たちが筆を走らせた名湯】 365段の石段が続く情緒溢れる温泉街。石段の両脇には射的場や土産物店、足湯が立ち並び、温泉まんじゅう発祥の地としても知られています。 伊香保温泉（いかほおんせん）は、群馬県渋川市伊香保町にある温泉。草津温泉と並んで県を代表する名湯で、上毛かるたでは「伊香保温泉 日本の名湯」と歌われている。 「伊香保温泉」として地域団体商標に登録されている。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">富岡製糸場</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">明治政府が設立した日本初の本格的な製糸工場であり、世界文化遺産。木骨レンガ造りの巨大な繰糸所や蚕室が良好に保存されており、日本の近代化の足跡を辿れます。</p>
+                <h3 className="text-base font-bold text-stone-900">富岡製糸場（文豪たちが筆を走らせた名湯）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【文豪たちが筆を走らせた名湯】 明治政府が設立した日本初の本格的な製糸工場であり、世界文化遺産。木骨レンガ造りの巨大な繰糸所や蚕室が良好に保存されており、日本の近代化の足跡を辿れます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">吹割の滝（ふきわれのたき）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「東洋のナイアガラ」と称されるダイナミックな滝。巨大な岩盤が割れ目の中に河川の水が吸い込まれるように流れ落ちる迫力ある景観が魅力です。</p>
+                <h3 className="text-base font-bold text-stone-900">吹割の滝（ふきわれのたき）（文豪たちが筆を走らせた名湯）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【文豪たちが筆を走らせた名湯】 「東洋のナイアガラ」と称されるダイナミックな滝。巨大な岩盤が割れ目の中に河川の水が吸い込まれるように流れ落ちる迫力ある景観が魅力です。</p>
               </div>
             </div>
             </div>

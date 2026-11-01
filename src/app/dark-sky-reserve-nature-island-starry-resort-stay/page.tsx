@@ -330,7 +330,7 @@ export default function StargazingHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>目の前に広がるコバルトブルーの海！満点の星空、雄大なサンセットに感動！嬉しい朝食無料サービス♪</p>
                   <p><strong>【所在地・アクセス】</strong>〒 沖縄県八重山郡竹富町西表949 ／ 最寄り駅：石垣空港 ／ 交通案内：石垣島の「離島ターミナル」から上原港まで約50分、上原港からバスで約20分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
+                  <p>【国際星空保護区＆離島ネイチャーステイ：石垣島・西表島】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>ホテル星立　西表島＜西表島＞の滞在ポイント：</strong>「国際星空保護区＆離島ネイチャーステイエリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
@@ -460,32 +460,32 @@ export default function StargazingHubPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">浅草寺・雷門</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">都内最古の寺院であり、巨大な大提灯が吊り下げられた「雷門」が東京観光の顔。仲見世通りには名物の人形焼きや煎餅店が立ち並び江戸風情を色濃く残します。</p>
+                <h3 className="text-base font-bold text-stone-900">浅草寺・雷門（国際星空保護区＆離島ネイチャーステイ：石垣島・西表島）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【国際星空保護区＆離島ネイチャーステイ：石垣島・西表島】 都内最古の寺院であり、巨大な大提灯が吊り下げられた「雷門」が東京観光の顔。仲見世通りには名物の人形焼きや煎餅店が立ち並び江戸風情を色濃く残します。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">東京タワー</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">昭和33年に開業した高さ333mの赤と白の総合電波塔。メインデッキやトップデッキからの都心のナイトビューと季節ごとのライトアップが人気です。</p>
+                <h3 className="text-base font-bold text-stone-900">東京タワー（国際星空保護区＆離島ネイチャーステイ：石垣島・西表島）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【国際星空保護区＆離島ネイチャーステイ：石垣島・西表島】 昭和33年に開業した高さ333mの赤と白の総合電波塔。メインデッキやトップデッキからの都心のナイトビューと季節ごとのライトアップが人気です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">東京スカイツリー</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">高さ634mを誇る世界一高い自立式電波塔。地上350m・450mの展望台からは関東一円を見渡せる超パノラマ絶景が広がり、商業施設ソラマチも隣接しています。</p>
+                <h3 className="text-base font-bold text-stone-900">東京スカイツリー（国際星空保護区＆離島ネイチャーステイ：石垣島・西表島）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【国際星空保護区＆離島ネイチャーステイ：石垣島・西表島】 高さ634mを誇る世界一高い自立式電波塔。地上350m・450mの展望台からは関東一円を見渡せる超パノラマ絶景が広がり、商業施設ソラマチも隣接しています。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">明治神宮</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">明治天皇と昭憲皇太后をお祀りする神社。都会の真ん中にありながら約70ヘクタールの豊かな人工林に囲まれた清らかな癒やしとパワーのスポットです。</p>
+                <h3 className="text-base font-bold text-stone-900">明治神宮（国際星空保護区＆離島ネイチャーステイ：石垣島・西表島）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【国際星空保護区＆離島ネイチャーステイ：石垣島・西表島】 明治天皇と昭憲皇太后をお祀りする神社。都会の真ん中にありながら約70ヘクタールの豊かな人工林に囲まれた清らかな癒やしとパワーのスポットです。</p>
               </div>
             </div>
             </div>

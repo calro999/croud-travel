@@ -1,5 +1,5 @@
 ---
-title: "薪ストーブがある宿おすすめ10選！比較"
+title: "【2026最新】薪ストーブ＆本格薪割り体験・焚き火アウトドア料理が楽しめる高原リゾートホテルおすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/wood-stove-firewood-chopping-forest-resort-hotels-guide/"
 hotel_name: "薪ストーブ＆本格薪割り体験・焚き火アウトドア料理が楽しめる高原リゾートホテルおすすめ10選"
 prefecture: "全国"
@@ -10,7 +10,7 @@ review_count: 492
 last_modified: "2026-10-13"
 ---
 
-# 薪ストーブがある宿おすすめ10選！比較
+# 【2026最新】薪ストーブ＆本格薪割り体験・焚き火アウトドア料理が楽しめる高原リゾートホテルおすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/wood-stove-firewood-chopping-forest-resort-hotels-guide/
 - **宿泊施設・特集名**: 薪ストーブ＆本格薪割り体験・焚き火アウトドア料理が楽しめる高原リゾートホテルおすすめ10選

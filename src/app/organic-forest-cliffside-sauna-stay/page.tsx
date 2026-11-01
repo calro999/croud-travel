@@ -212,21 +212,21 @@ export default function FeatureDetailPage() {
             <Award className="w-6 h-6 text-amber-600" />
             天空パノラマサウナ＆絶壁インフィニティ水風呂宿の楽しみ方＆おすすめの選び方
           </h2>
-          <p className="text-slate-600 leading-relaxed text-sm sm:text-base">
+          <p className="text-slate-600 leading-relaxed text-sm sm:text-base">【天空の絶景ととのい体験】 
             楽天トラベルに寄せられたリアルな宿泊者口コミの中から、特に評価の高いハイクラス宿・隠れ家宿を厳選。テーマに特化した最高峰の体験とおもてなしをお約束します。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-4">
             <div className="bg-amber-50/60 p-4 rounded-xl border border-amber-100">
-              <h3 className="font-bold text-amber-900 text-sm mb-1">① 圧倒的な世界観と体験</h3>
-              <p className="text-xs text-amber-800">ここでしか味わえない非日常の空間と贅沢なひとときを追求。</p>
+              <h3 className="font-bold text-amber-900 text-sm mb-1">① 圧倒的な世界観と体験（天空の絶景ととのい体験）</h3>
+              <p className="text-xs text-amber-800">【天空の絶景ととのい体験】 ここでしか味わえない非日常の空間と贅沢なひとときを追求。</p>
             </div>
             <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm mb-1">② 口コミ高評価の宿を厳選</h3>
-              <p className="text-xs text-slate-600">総合評価★4.2以上を中心に満足度の高い宿のみをセレクト。</p>
+              <h3 className="font-bold text-slate-900 text-sm mb-1">② 口コミ高評価の宿を厳選（天空の絶景ととのい体験）</h3>
+              <p className="text-xs text-slate-600">【天空の絶景ととのい体験】 総合評価★4.2以上を中心に満足度の高い宿のみをセレクト。</p>
             </div>
             <div className="bg-emerald-50/60 p-4 rounded-xl border border-emerald-100">
-              <h3 className="font-bold text-emerald-900 text-sm mb-1">③ 楽天トラベル直結予約</h3>
-              <p className="text-xs text-emerald-800">リアルタイムの空室・プラン・限定クーポンを今すぐチェック可能。</p>
+              <h3 className="font-bold text-emerald-900 text-sm mb-1">③ 楽天トラベル直結予約（天空の絶景ととのい体験）</h3>
+              <p className="text-xs text-emerald-800">【天空の絶景ととのい体験】 リアルタイムの空室・プラン・限定クーポンを今すぐチェック可能。</p>
             </div>
           </div>
         </section>
@@ -237,7 +237,7 @@ export default function FeatureDetailPage() {
             <h2 className="text-2xl font-bold text-slate-900">
               編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）
             </h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">【天空の絶景ととのい体験】 楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -541,7 +541,7 @@ export default function FeatureDetailPage() {
 
         {/* 関連タグ */}
         <section className="bg-white rounded-2xl p-6 border border-slate-200">
-          <h3 className="text-sm font-bold text-slate-700 mb-3">関連キーワード・タグ</h3>
+          <h3 className="text-sm font-bold text-slate-700 mb-3">関連キーワード・タグ（天空の絶景ととのい体験）</h3>
           <div className="flex flex-wrap gap-2">
             <span className="text-xs bg-slate-100 text-slate-600 px-3 py-1.5 rounded-lg">#絶景サウナ</span>
             <span className="text-xs bg-slate-100 text-slate-600 px-3 py-1.5 rounded-lg">#パノラマサウナ</span>
@@ -574,7 +574,7 @@ export default function FeatureDetailPage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（天空の絶景ととのい体験）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 播州赤穂駅よりアクセス。JR山陽本線・播州赤穂駅より路線バス約20分「御崎バス停」より徒歩1分・無料送迎あり／山陽自動車道・赤穂ＩＣより約10分。</li>
@@ -586,7 +586,7 @@ export default function FeatureDetailPage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（天空の絶景ととのい体験）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「赤穂温泉 絶景露天風呂の宿 銀波荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -640,9 +640,7 @@ export default function FeatureDetailPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜天空の絶景ととのい体験</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/organic-forest-infinity-panoramic-barrel-sauna-hokkaido/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -663,7 +661,7 @@ export default function FeatureDetailPage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（天空の絶景ととのい体験）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/yamagata/"
@@ -789,7 +787,7 @@ export default function FeatureDetailPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「天空の絶景ととのい体験（断崖絶壁パノラマサウナ＆インフィニティ水風呂の宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR山陽本線・播州赤穂駅より路線バス約20分「御崎バス停」より徒歩1分・無料送迎あり／山陽自動車道・赤穂ＩＣより約10分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【天空の絶景ととのい体験】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>予約前チェック：</strong>「最新の宿泊プランや部屋タイプ別の空室状況、季節限定クーポンの有無は楽天トラベル公式ページにて確認できます。」
@@ -811,7 +809,7 @@ export default function FeatureDetailPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「天空の絶景ととのい体験（断崖絶壁パノラマサウナ＆インフィニティ水風呂の宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：【お車の場合】：道の駅椿はなの湯から約２分【空港、電車等でお越しの場合】：無料の送迎サービスをご利用いただけます</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【天空の絶景ととのい体験】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質は最高、スタッフの対応も親切口コミを見てホテル予約をしました。部屋の清掃が行き届いている、料理が美味しい、温泉が良い。概ねその通りで満足です。特に温泉は本当に泉質が良く何…　2026-08-04 17:10:27投稿」
@@ -833,7 +831,7 @@ export default function FeatureDetailPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「天空の絶景ととのい体験（断崖絶壁パノラマサウナ＆インフィニティ水風呂の宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：名鉄西浦駅より無料送迎バスで１０分（14：20～16：20）／音羽蒲郡ICより車で３０分／ラグーナまで車で３０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【天空の絶景ととのい体験】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ最高、料理も温泉も眺めも大満足コスパ最高すぎです 料理は美味しいし、お風呂も良い なんと言っても眺めが良いクチコミの詳細はこちらから　https://review.travel.raku…　2026-09-17 20:08:21投稿」
@@ -877,7 +875,7 @@ export default function FeatureDetailPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊豆七島を一望する波打際のホテル。新鮮な魚介を使った海鮮料理を満喫頂けます。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡東伊豆町稲取1599-1 ／ 最寄り駅：伊豆稲取 ／ 交通案内：伊豆急線伊豆稲取駅下車。徒歩約１５分。無料送迎バスあり　※要事前予約（13：30～18：00）　明朝は定期便あります。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
+                  <p>【天空の絶景ととのい体験】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「間近で見る花火と美味しい食事に大満足部屋から海と花火が見たくて花火が近くて上がる日で予約しました。半露天の角部屋にグレードアップしていただき、間近で花火が見れて嬉しかったです。建物は年季が入ってい…　2026-08-29 17:15:06投稿」
@@ -897,7 +895,7 @@ export default function FeatureDetailPage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Wide_view_of_Mount_Hakodate_from_Mashu-Maru.jpg/1280px-Wide_view_of_Mount_Hakodate_from_Mashu-Maru.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="函館山（夜景）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">函館山（夜景）</h3>
+                <h3 className="text-base font-bold text-stone-900">函館山（夜景）（天空の絶景ととのい体験）</h3>
                 <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。 函館山（はこだてやま）は、北海道函館市の市街地西端にある火山であり陸繋島でもある。…（「天空の絶景ととのい体験（断崖絶壁パノラマサウナ＆インフィニティ水風呂の宿5選）」の周遊ルートとしても人気の立ち寄り先です）</p>
               </div>
             </div>
@@ -905,7 +903,7 @@ export default function FeatureDetailPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">富良野 ファーム富田</h3>
+                <h3 className="text-base font-bold text-stone-900">富良野 ファーム富田（天空の絶景ととのい体験）</h3>
                 <p className="text-xs text-stone-600 leading-relaxed">一面に広がる鮮やかな紫色のラベンダー畑と、虹色に彩られた花畑が織りなすパノラマロード。富良野の雄大な自然と爽やかな香りに包まれる絶好の観光名所です。（「天空の絶景ととのい体験（断崖絶壁パノラマサウナ＆インフィニティ水風呂の宿5選）」の周遊ルートとしても人気の立ち寄り先です）</p>
               </div>
             </div>
@@ -913,16 +911,16 @@ export default function FeatureDetailPage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Otaru_Hokkaido_Japan.jpg/1280px-Otaru_Hokkaido_Japan.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="小樽運河" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">小樽運河</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">大正時代に造られたノスタルジックな石造り倉庫群が立ち並ぶ小樽のシンボル。夕暮れ時にはガス灯が灯り、幻想的な雰囲気の中で散策やナイトクルーズを楽しめます。 小樽運河（おたるうんが）は、北海道小樽市にある運河。現在は物流機能としての使命を終えており、文化庁選定日本遺産「北海道の『心臓』と呼ばれたまち・小樽」を構成する遺産のひとつ。 1923年（大正12年）完成。日本国内唯一となる海岸の沖合い埋立て方式で造られており、緩やかに湾曲しているのが特徴になっている。全長1,140 mあり、幅は臨港線沿いは20 m、北部（…</p>
+                <h3 className="text-base font-bold text-stone-900">小樽運河（天空の絶景ととのい体験）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【天空の絶景ととのい体験】 大正時代に造られたノスタルジックな石造り倉庫群が立ち並ぶ小樽のシンボル。夕暮れ時にはガス灯が灯り、幻想的な雰囲気の中で散策やナイトクルーズを楽しめます。 小樽運河（おたるうんが）は、北海道小樽市にある運河。現在は物流機能としての使命を終えており、文化庁選定日本遺産「北海道の『心臓』と呼ばれたまち・小樽」を構成する遺産のひとつ。 1923年（大正12年）完成。日本国内唯一となる海岸の沖合い埋立て方式で造られており、緩やかに湾曲しているのが特徴になっている。全長1,140 mあり、幅は臨港線沿いは20 m、北部（…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Asahikawa_Montage.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" alt="旭川市旭山動物園" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">旭川市旭山動物園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">行動展示で全国的に有名な日本最北の動物園。水中でダイナミックに泳ぐホッキョクグマや、円柱水槽を行き来するアザラシなど、生き生きとした動物たちの姿を間近で観察できます。 旭川市（あさひかわし）は、北海道のほぼ中央に位置し、上川総合振興局に属する市。振興局所在地であり、札幌市に次ぐ北海道第2位の人口（約31万人）を有する中核市である。 北海道中央部に位置し、上川盆地に広がっている。道北の経済・産業・文化の中心都市。ユネスコの「デザイン都市」、そして「国際会議観光都市」に認定されている。交通面では国道や鉄道路線の終起点となり高速…</p>
+                <h3 className="text-base font-bold text-stone-900">旭川市旭山動物園（天空の絶景ととのい体験）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【天空の絶景ととのい体験】 行動展示で全国的に有名な日本最北の動物園。水中でダイナミックに泳ぐホッキョクグマや、円柱水槽を行き来するアザラシなど、生き生きとした動物たちの姿を間近で観察できます。 旭川市（あさひかわし）は、北海道のほぼ中央に位置し、上川総合振興局に属する市。振興局所在地であり、札幌市に次ぐ北海道第2位の人口（約31万人）を有する中核市である。 北海道中央部に位置し、上川盆地に広がっている。道北の経済・産業・文化の中心都市。ユネスコの「デザイン都市」、そして「国際会議観光都市」に認定されている。交通面では国道や鉄道路線の終起点となり高速…</p>
               </div>
             </div>
             </div>

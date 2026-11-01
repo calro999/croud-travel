@@ -123,10 +123,8 @@ export default function UltraLuxuryWinterFeaturePage() {
         
         {/* 導入解説 */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
-          <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-amber-600 shrink-0" />
-            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600 shrink-0" />
+            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>｜2026-2027年11-12月初冬の栃木・日光中禅</h2>
           <p className="text-xs md:text-sm text-slate-700 leading-relaxed whitespace-pre-line">
             世界遺産・日光東照宮が鎮座する日光山内から、九十九折のいろは坂を登りきった標高1269mの別天地『中禅寺湖（ちゅうぜんじこ）』。霊峰・男体山の噴火によって生まれたこの天空の湖は、明治期よりイギリスやイタリアなど各国の外交官が避暑に訪れ、湖畔に大使館別荘を構えた日本屈指の由緒ある国際的リゾート地です。11月から12月にかけての初冬、奥日光は紅葉の喧騒が完全に去り、山頂を白く雪化粧した男体山が深い藍色の中禅寺湖畔に映り込む『最も凛とした美しさに満ちた静寂の季節』を迎えます。この地に誕生した世界最高峰のデスティネーションホテルが『ザ・リッツ・カールトン日光』。全室が湖または男体山を望むバルコニー付きスイートで、木造建築の美学とリッツ・カールトンの一流のサービスが融合。さらに、リッツ・カールトンブランドとして世界で初めて導入された天然温泉大浴場には、日光湯元から引湯される濃厚な乳白色の硫黄泉が注がれ、雪見露天風呂から冬の満天の星空を眺める体験は息を呑むほど贅沢です。そして湖畔に佇むもうひとつの名門が、日本最古のリゾートホテルの伝統を受け継ぐ『中禅寺金谷ホテル』。ログハウス風の重厚な暖炉が灯るラウンジと、名物『金谷ホテル伝統の虹鱒のソテー』やとちぎ和牛のフィレステーキを味わう本格ディナー。静まり返る奥日光の大自然に抱かれ、名湯と最高峰の美食に浸る時間は、大人の特別な記念日旅行に最高の輝きを与えてくれます。
           </p>
@@ -563,10 +561,8 @@ export default function UltraLuxuryWinterFeaturePage() {
 
         {/* アクセス＆見頃情報 */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300">
-            <Train className="w-5 h-5 shrink-0" />
-            <span>アクセスガイド・気候と服装のポイント</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300"><Train className="w-5 h-5 shrink-0" />
+            <span>アクセスガイド・気候と服装のポイント</span>｜2026-2027年11-12月初冬の栃木・日光中禅</h2>
           <div className="text-xs md:text-sm text-slate-300 leading-relaxed whitespace-pre-line">
             【エリアへのアクセス】
 ・電車・バス：東武日光線「東武日光駅」またはJR日光線「日光駅」下車。東武バス（中禅寺温泉・湯元温泉行き）に乗り換え「中禅寺温泉」バス停まで約45分。ザ・リッツ・カールトン日光へはバス停より徒歩約5分。各ホテルへの無料送迎バスも運行（要事前確認）。
@@ -582,10 +578,8 @@ export default function UltraLuxuryWinterFeaturePage() {
 
         {/* よくある質問 (FAQ) */}
         <section className="bg-slate-100 rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2">
-            <ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
-            <span>よくある質問（FAQ）</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
+            <span>よくある質問（FAQ）</span>｜2026-2027年11-12月初冬の栃木・日光中禅</h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
             <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
@@ -619,9 +613,7 @@ export default function UltraLuxuryWinterFeaturePage() {
 
         {/* ふるさと納税・関連リンク */}
         <section className="bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 rounded-2xl p-6 md:p-8 space-y-3 text-center">
-          <h2 className="text-xl md:text-2xl font-black">
-            楽天トラベル ふるさと納税で最大30%お得に予約！
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！｜2026-2027年11-12月初冬の栃木・日光中禅</h2>
           <p className="text-xs md:text-sm max-w-xl mx-auto font-medium">
             高価格帯の高級宿だからこそ、楽天トラベルふるさと納税クーポンの割引効果は絶大。実質2,000円の自己負担で憧れのスイートルームに宿泊できます。
           </p>

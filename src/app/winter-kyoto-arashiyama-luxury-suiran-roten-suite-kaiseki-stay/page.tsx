@@ -123,10 +123,8 @@ export default function UltraLuxuryWinterFeaturePage() {
         
         {/* 導入解説 */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
-          <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-amber-600 shrink-0" />
-            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600 shrink-0" />
+            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>｜2026-2027年11-12月初冬の京都・嵐山</h2>
           <p className="text-xs md:text-sm text-slate-700 leading-relaxed whitespace-pre-line">
             平安の貴族たちが舟遊びを愉しみ、小倉百人一首の舞台となった風光明媚な景勝地・京都『嵐山（あらしやま）』。紅葉で沸き立った秋の観光ラッシュが過ぎ去る11月下旬から12月、嵐山は息を呑むような静寂を取り戻し、朝靄が保津川（大堰川）の水面を覆う『京都が最も美しい冬の姿』を現します。凛とした冷たい大気の中、渡月橋を渡り、朝の柔らかな光が差し込む竹林の小径を歩く時間は、この時期に嵐山に宿泊した者だけが味わえる特権です。この嵐山の保津川沿いに佇むのが、マリオット・インターナショナルの最高峰ラグジュアリーブランド『翠嵐（すいらん） ラグジュアリーコレクションホテル 京都』。明治期の歴史的建造物を再生したカフェやレストランを擁し、客室の専用露天風呂にはアルカリ性で肌に吸い付くような肌触りの『嵐山温泉』が満たされています。川のせせらぎと竹林の葉音に耳を傾けながら、部屋の露天風呂で温まる湯浴みは至福そのもの。夕食には、京都の伝統的な会席料理の技法にフレンチの美意識を融合させたモダン懐石ディナー。丹波牛のフィレ炭火焼きや冬の聖護院大根、九条ネギなど京野菜が織りなす繊細な味覚は、五感を深く刺激します。宿泊には翠嵐をはじめ、趣ある佇まいの『嵐山辨慶』や老舗『渡月亭』など、大人のための静けさと日本の美意識の粋を極めた名宿を厳選。古都の歴史と世界基準のラグジュアリーが調和した初冬の嵐山は、一生の記憶に残る記念日旅行を叶えてくれます。
           </p>
@@ -560,10 +558,8 @@ export default function UltraLuxuryWinterFeaturePage() {
 
         {/* アクセス＆見頃情報 */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300">
-            <Train className="w-5 h-5 shrink-0" />
-            <span>アクセスガイド・気候と服装のポイント</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300"><Train className="w-5 h-5 shrink-0" />
+            <span>アクセスガイド・気候と服装のポイント</span>｜2026-2027年11-12月初冬の京都・嵐山</h2>
           <div className="text-xs md:text-sm text-slate-300 leading-relaxed whitespace-pre-line">
             【エリアへのアクセス】
 ・電車：JR山陰本線（嵯峨野線）「嵯峨嵐山駅」下車、徒歩約12〜15分。JR京都駅より快速で約11分、普通で約17分。
@@ -580,10 +576,8 @@ export default function UltraLuxuryWinterFeaturePage() {
 
         {/* よくある質問 (FAQ) */}
         <section className="bg-slate-100 rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2">
-            <ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
-            <span>よくある質問（FAQ）</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
+            <span>よくある質問（FAQ）</span>｜2026-2027年11-12月初冬の京都・嵐山</h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
             <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
@@ -617,9 +611,7 @@ export default function UltraLuxuryWinterFeaturePage() {
 
         {/* ふるさと納税・関連リンク */}
         <section className="bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 rounded-2xl p-6 md:p-8 space-y-3 text-center">
-          <h2 className="text-xl md:text-2xl font-black">
-            楽天トラベル ふるさと納税で最大30%お得に予約！
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！｜2026-2027年11-12月初冬の京都・嵐山</h2>
           <p className="text-xs md:text-sm max-w-xl mx-auto font-medium">
             高価格帯の高級宿だからこそ、楽天トラベルふるさと納税クーポンの割引効果は絶大。実質2,000円の自己負担で憧れのスイートルームに宿泊できます。
           </p>

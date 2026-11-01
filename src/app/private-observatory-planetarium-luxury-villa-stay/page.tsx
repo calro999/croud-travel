@@ -195,9 +195,7 @@ export default function Page() {
         {/* 宿一覧 */}
         <section className="space-y-8">
           <div className="border-b-2 border-emerald-900/10 pb-3 flex items-center justify-between">
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-              <span>🏆</span> 厳選おすすめ宿ランキング
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>🏆</span> 厳選おすすめ宿ランキング｜プラネタリウム＆星空シアター付き</h2>
             <span className="text-xs text-stone-500">楽天トラベル最新データ更新</span>
           </div>
 
@@ -277,23 +275,17 @@ export default function Page() {
 
         {/* 旅のQ&A */}
         <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>❓</span> よくある質問・失敗しない宿選び
-          </h2>
+          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>❓</span> よくある質問・失敗しない宿選び｜プラネタリウム＆星空シアター付き</h2>
           <div className="space-y-4 text-sm">
             <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5">
-                <span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？
-              </h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">
+              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？（プラネタリウム＆星空シアター付き）</h3>
+              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">【プラネタリウム＆星空シアター付き】 
                 人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
               </p>
             </div>
             <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5">
-                <span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？
-              </h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">
+              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？（プラネタリウム＆星空シアター付き）</h3>
+              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">【プラネタリウム＆星空シアター付き】 
                 宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
               </p>
             </div>
@@ -310,7 +302,7 @@ export default function Page() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（プラネタリウム＆星空シアター付き）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 西武秩父駅よりアクセス。西武秩父駅よりお車で約１５分 西武秩父駅より終点バス停（定峰）から徒歩1分 関越自動車道花園ＩＣよりお車で約３０分。</li>
@@ -322,7 +314,7 @@ export default function Page() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（プラネタリウム＆星空シアター付き）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「星空と清流の森 グランピングＩＲＯＤＯＲＩ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -376,9 +368,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜プラネタリウム＆星空シアター付き</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/fukushima-bandaiatami-solo-retreat-clearskin-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -399,7 +389,7 @@ export default function Page() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（プラネタリウム＆星空シアター付き）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/fukushima/"
@@ -508,9 +498,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 2026年で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">🏨 2026年で比較したい各宿のロケーション・駐車場・料金詳細（プラネタリウム＆星空シアター付き）</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>
@@ -525,7 +513,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「プラネタリウム＆星空シアター付き（満天の星と宇宙の神秘に浸るリゾート宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：西武秩父駅よりお車で約１５分　西武秩父駅より終点バス停（定峰）から徒歩1分   関越自動車道花園ＩＣよりお車で約３０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【プラネタリウム＆星空シアター付き】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「せっかく自然の多い秩父に泊まるということで、雰囲気の良さげな宿を予約しました。風呂トイレは共用ですが、部屋の数が3部屋のみのため混みあうこともなく、風呂は時間帯で交代性でとても良かったです。夜はバ…　2026-09-16 06:37:33投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=188816&quot; class=&quot;3click&quot;」
@@ -547,7 +535,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「プラネタリウム＆星空シアター付き（満天の星と宇宙の神秘に浸るリゾート宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：山陽本線　河内駅より車で約１０分　　広島空港より車で約２０分　　山陽道河内ＩＣより車で約25分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【プラネタリウム＆星空シアター付き】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「近くのゴルフ場が雷の為中断になり早めにチェックインさせて頂きました助かりました。料理も量もちょうどよくとてもおいしかったです。スタッフの方達も皆さん 感じがよく安いプランなどあれば…　2026-09-15 14:04:58投稿」
@@ -591,7 +579,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「プラネタリウム＆星空シアター付き（満天の星と宇宙の神秘に浸るリゾート宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR外房線「上総一ノ宮駅」タクシー約7分（定時送迎バス有）九十九里有料道路終点（一宮）より約3ｋｍ/ドイツ村まで60分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【プラネタリウム＆星空シアター付き】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「送迎や細やかな心遣いに感謝、最高の旅行に電車で行きましたが、駅までお迎えに来てくださりありがとうございました。お部屋は広くて快適で、窓から海が見え、朝食もとてもおいしかったです。次の日は大雨の…　2026-09-19 16:58:06投稿」
@@ -634,31 +622,31 @@ export default function Page() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
                 <h3 className="text-base font-bold text-stone-900">大内宿</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">江戸時代の宿場町の面影をそのまま残す国の重要伝統的建造物群保存地区。茅葺き屋根の民家が街道沿いに並び、名物の「高遠そば（一本ねぎそば）」を味わえます。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【プラネタリウム＆星空シアター付き】 江戸時代の宿場町の面影をそのまま残す国の重要伝統的建造物群保存地区。茅葺き屋根の民家が街道沿いに並び、名物の「高遠そば（一本ねぎそば）」を味わえます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">鶴ヶ城（会津若松城）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">戊辰戦争の激戦に耐え抜いた難攻不落の名城。赤瓦を纏った天守閣は日本唯一であり、内部の歴史資料館や最上階からの城下町一望が見どころです。</p>
+                <h3 className="text-base font-bold text-stone-900">鶴ヶ城（会津若松城）（プラネタリウム＆星空シアター付き）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【プラネタリウム＆星空シアター付き】 戊辰戦争の激戦に耐え抜いた難攻不落の名城。赤瓦を纏った天守閣は日本唯一であり、内部の歴史資料館や最上階からの城下町一望が見どころです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">五色沼湖沼群（裏磐梯）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">磐梯山の噴火によって形成された無数の神秘的な沼群。水に含まれる鉱物や気象条件により、エメラルドグリーンやコバルトブルーに色彩が変わるハイキングコースです。</p>
+                <h3 className="text-base font-bold text-stone-900">五色沼湖沼群（裏磐梯）（プラネタリウム＆星空シアター付き）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【プラネタリウム＆星空シアター付き】 磐梯山の噴火によって形成された無数の神秘的な沼群。水に含まれる鉱物や気象条件により、エメラルドグリーンやコバルトブルーに色彩が変わるハイキングコースです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">猪苗代湖</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「天鏡湖」とも称される日本第4位の面積を誇る美しい湖。雄大な磐梯山を水面に映し出し、冬には飛来するハクチョウやしぶき氷の絶景が見られます。</p>
+                <h3 className="text-base font-bold text-stone-900">猪苗代湖（プラネタリウム＆星空シアター付き）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【プラネタリウム＆星空シアター付き】 「天鏡湖」とも称される日本第4位の面積を誇る美しい湖。雄大な磐梯山を水面に映し出し、冬には飛来するハクチョウやしぶき氷の絶景が見られます。</p>
               </div>
             </div>
             </div>

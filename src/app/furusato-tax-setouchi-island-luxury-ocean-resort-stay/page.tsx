@@ -99,10 +99,8 @@ export default function FurusatoSetouchiIslandResortStayPage() {
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
-          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-6 flex items-center gap-3">
-            <span className="text-amber-600 text-xl md:text-2xl">◆</span>
-            この旅で体感したい3つの醍醐味
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-6 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
+            この旅で体感したい3つの醍醐味｜穏やかな海と多島美に癒やされる瀬戸内アイランドリゾー</h2>
           <div className="grid gap-6">
 
             <div className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200/80 shadow-xs">
@@ -155,11 +153,9 @@ export default function FurusatoSetouchiIslandResortStayPage() {
         {/* 厳選名宿セクション */}
         <section className="mb-16">
           <div className="mb-8">
-            <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-3 flex items-center gap-3">
-              <span className="text-amber-600 text-xl md:text-2xl">◆</span>
-              ふるさと納税で泊まる厳選名宿
-            </h2>
-            <p className="text-stone-600 text-sm leading-relaxed">
+            <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-3 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
+              ふるさと納税で泊まる厳選名宿｜穏やかな海と多島美に癒やされる瀬戸内アイランドリゾー</h2>
+            <p className="text-stone-600 text-sm leading-relaxed">【穏やかな海と多島美に癒やされる瀬戸内アイランドリゾー】 
               楽天トラベルAPIから最新の実在宿データを取得。対象自治体のふるさと納税クーポンを利用して実質2,000円で泊まれる名宿です。
             </p>
           </div>
@@ -316,7 +312,7 @@ export default function FurusatoSetouchiIslandResortStayPage() {
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     しまなみ海道のほぼ中央に位置するレモンの島・生口島瀬戸田のしおまち商店街に誕生した、アマン創業者エイドリアン・ゼッカ氏が手掛ける世界注目の旅館。築140年の製塩豪商・堀内家の旧邸宅を数寄屋大工の手で再生し、伝統的な日本建築の陰影と現代の洗練されたホスピタリティが融合しています。中庭の緑を望むヒノキ風呂付き客室、瀬戸内の契約農家や漁師から届く食材で構成される極上のダイニング、向かいにある銭湯「yubune」でのサウナ・温浴体験など、旅の本質を極めた至高の文化体験が叶います。
                   </p>
-                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
+                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">【穏やかな海と多島美に癒やされる瀬戸内アイランドリゾー】 
                     訪れるすべてのお客様に心安らぐ贅沢な寛ぎの時間を提供し、高い評価を獲得している極上宿です。
                   </p>
                   
@@ -355,9 +351,7 @@ export default function FurusatoSetouchiIslandResortStayPage() {
 
         {/* 関連特集クロスリンク */}
         <section className="bg-stone-50 rounded-3xl p-8 border border-stone-200/80 mb-16">
-          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">
-            あわせて読みたい関連特集
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">あわせて読みたい関連特集｜穏やかな海と多島美に癒やされる瀬戸内アイランドリゾー</h2>
           <ul className="grid sm:grid-cols-2 gap-2">
 
               <li key="furusato-tax-remote-island-luxury-resort-stay">
@@ -396,10 +390,8 @@ export default function FurusatoSetouchiIslandResortStayPage() {
 
         {/* ハブページへの誘導フッター */}
         <div className="bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 text-white rounded-3xl p-8 md:p-10 shadow-xl border border-amber-900/40 text-center mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">
-            もっとお得に旅を楽しむためのハブページへ
-          </h2>
-          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">
+          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">もっとお得に旅を楽しむためのハブページへ｜穏やかな海と多島美に癒やされる瀬戸内アイランドリゾー</h2>
+          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">【穏やかな海と多島美に癒やされる瀬戸内アイランドリゾー】 
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
@@ -429,7 +421,7 @@ export default function FurusatoSetouchiIslandResortStayPage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（穏やかな海と多島美に癒やされる瀬戸内アイランドリゾー）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 高松（香川）駅よりアクセス。土庄港よりお車にて約７分。</li>
@@ -441,7 +433,7 @@ export default function FurusatoSetouchiIslandResortStayPage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（穏やかな海と多島美に癒やされる瀬戸内アイランドリゾー）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「小豆島国際ホテル ＜小豆島＞」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -495,9 +487,7 @@ export default function FurusatoSetouchiIslandResortStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜穏やかな海と多島美に癒やされる瀬戸内アイランドリゾー</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-aomori-towada-lake-oirase-hyobaku-snow-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -518,7 +508,7 @@ export default function FurusatoSetouchiIslandResortStayPage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（穏やかな海と多島美に癒やされる瀬戸内アイランドリゾー）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/aomori/"

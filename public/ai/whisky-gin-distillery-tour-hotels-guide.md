@@ -1,5 +1,5 @@
 ---
-title: "ウイスキー蒸溜所ホテルおすすめ10選！比較"
+title: "【2026最新】クラフトジン＆ウイスキー蒸溜所ツアー直結！ディスティラリーホテルおすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/whisky-gin-distillery-tour-hotels-guide/"
 hotel_name: "クラフトジン＆ウイスキー蒸溜所ツアー直結！ディスティラリーホテルおすすめ10選"
 prefecture: "全国"
@@ -9,7 +9,7 @@ rating: 4.98
 last_modified: "2026-10-13"
 ---
 
-# ウイスキー蒸溜所ホテルおすすめ10選！比較
+# 【2026最新】クラフトジン＆ウイスキー蒸溜所ツアー直結！ディスティラリーホテルおすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/whisky-gin-distillery-tour-hotels-guide/
 - **宿泊施設・特集名**: クラフトジン＆ウイスキー蒸溜所ツアー直結！ディスティラリーホテルおすすめ10選

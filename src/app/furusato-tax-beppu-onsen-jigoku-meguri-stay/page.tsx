@@ -90,37 +90,33 @@ export default function FurusatoBeppuOnsenJigokuStayPage() {
           毎分8万リットルを超える驚異の温泉湧出量と、2,000箇所を超える源泉数を誇る、名実ともに日本一の温泉都市「別府温泉（別府八湯）」。街のいたるところから白い湯けむりが立ちのぼる光景は国の重要文化的景観にも選ばれており、海地獄や血の池地獄をはじめとする奇観を巡る「別府地獄めぐり」は、別府を訪れたら外せない大人気観光コースです。別府温泉の魅力は、世界にある全11種類の泉質のうち10種類が揃うとされる泉質の多彩さ。塩化物泉、硫黄泉、炭酸水素塩泉など、浴場ごとに全く異なる肌触りと効能を体感できます。さらに、高温の温泉蒸気で旬の野菜や肉、魚介を一気に蒸し上げる伝統の調理法「地獄蒸し料理」や、大分名物の「とり天」、新鮮な「関アジ・関サバ」など、別府ならではの豊かな食文化が旅の満足度を極限まで高めてくれます。本特集では、棚田状の大展望露天風呂「棚湯」や噴水ショーが全国的な知名度を誇る一大リゾート「別府温泉 杉乃井ホテル」、湯けむり立ち上る鉄輪温泉で展望露天風呂と名物地獄蒸し料理を堪能できる「別府鉄輪温泉 ホテル山水館」、そして別府駅徒歩4分の好立地で広々大浴場と郷土料理バイキングがファミリーに大人気の「亀の井ホテル 別府」の3大名宿を厳選。大分県別府市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で別府温泉の贅沢な温泉旅をお得に予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
-          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">
-            <span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？
-          </h3>
+          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？（源泉数・湧出量日本一）</h3>
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
               <span><strong>寄付額の最大30％が宿泊クーポンとして即時付与</strong>され、楽天ポイントも二重に貯まる</span>
-            </li>
+            （源泉数・湧出量日本一）</li>
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
               <span><strong>有効期限はたっぷり3年間！</strong>寄付後に旅行時期や部屋タイプをじっくり選べる安心設計</span>
-            </li>
+            （源泉数・湧出量日本一）</li>
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
               <span>予約済み日程への<strong>「あとからクーポン適用」</strong>にも対応（※条件あり）で直前でも安心</span>
-            </li>
+            （源泉数・湧出量日本一）</li>
           </ul>
         </div>
       </section>
 
       {/* 目次 */}
       <section className="bg-gray-50 rounded-xl p-5 mb-12 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">
-          <span>📑</span> 目次
-        </h2>
+        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次｜源泉数・湧出量日本一</h2>
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">別府温泉 地獄めぐり宿特集が選ばれる3つの理由</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】別府温泉　杉乃井ホテル（オリックスホテルズ＆リゾーツ）</a></li>
           <li><a href="#hotel-2" className="text-amber-800 hover:underline font-medium">【第2選】別府鉄輪温泉　ホテル山水館</a></li>
           <li><a href="#hotel-3" className="text-amber-800 hover:underline font-medium">【第3選】亀の井ホテル　別府</a></li>
-          <li><a href="#furusato-step" className="text-amber-800 hover:underline font-medium">実質自己負担2,000円で予約する簡単4ステップ手順</a></li>
+          <li><a href="#furusato-step" className="text-amber-800 hover:underline font-medium">実質自己負担2,000円で予約する簡単4ステップ手順</a>（源泉数・湧出量日本一）</li>
           <li><a href="#faq" className="text-amber-800 hover:underline font-medium">よくある質問（Q&A）</a></li>
         </ol>
       </section>
@@ -262,36 +258,34 @@ export default function FurusatoBeppuOnsenJigokuStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2">
-          <span>💡</span> 楽天ふるさと納税トラベルクーポンで実質2,000円予約する4ステップ
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで実質2,000円予約する4ステップ｜源泉数・湧出量日本一</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-1">控除限度額をチェック</h3>
-              <p className="text-xs md:text-sm text-gray-600">年収や家族構成によって自己負担2,000円で利用できる上限額が決まります。まずは楽天ふるさと納税のシミュレーターで上限を確認しましょう。</p>
+              <h3 className="font-bold text-gray-900 mb-1">控除限度額をチェック（源泉数・湧出量日本一）</h3>
+              <p className="text-xs md:text-sm text-gray-600">【源泉数・湧出量日本一】 年収や家族構成によって自己負担2,000円で利用できる上限額が決まります。まずは楽天ふるさと納税のシミュレーターで上限を確認しましょう。</p>
             </div>
           </div>
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">2</div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-1">自治体を選んでトラベルクーポンを寄付</h3>
-              <p className="text-xs md:text-sm text-gray-600">訪れたい温泉宿のある自治体へ寄付。寄付額の最大30％相当の楽天トラベルクーポンが数日以内にマイクーポンへ自動付与されます。</p>
+              <h3 className="font-bold text-gray-900 mb-1">自治体を選んでトラベルクーポンを寄付（源泉数・湧出量日本一）</h3>
+              <p className="text-xs md:text-sm text-gray-600">【源泉数・湧出量日本一】 訪れたい温泉宿のある自治体へ寄付。寄付額の最大30％相当の楽天トラベルクーポンが数日以内にマイクーポンへ自動付与されます。</p>
             </div>
           </div>
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">3</div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-1">楽天トラベルで宿泊予約＆クーポン適用</h3>
-              <p className="text-xs md:text-sm text-gray-600">有効期限は3年間。宿泊日や部屋タイプを決め、予約画面で取得したトラベルクーポンを選択すると宿泊代金から即時値引きされます。</p>
+              <h3 className="font-bold text-gray-900 mb-1">楽天トラベルで宿泊予約＆クーポン適用（源泉数・湧出量日本一）</h3>
+              <p className="text-xs md:text-sm text-gray-600">【源泉数・湧出量日本一】 有効期限は3年間。宿泊日や部屋タイプを決め、予約画面で取得したトラベルクーポンを選択すると宿泊代金から即時値引きされます。</p>
             </div>
           </div>
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">4</div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-1">ワンストップ特例または確定申告で完了</h3>
-              <p className="text-xs md:text-sm text-gray-600">翌年の住民税・所得税から控除され、実質負担は年間2,000円のみ！浮いた予算で旅行をさらにアップグレードできます。</p>
+              <h3 className="font-bold text-gray-900 mb-1">ワンストップ特例または確定申告で完了（源泉数・湧出量日本一）</h3>
+              <p className="text-xs md:text-sm text-gray-600">【源泉数・湧出量日本一】 翌年の住民税・所得税から控除され、実質負担は年間2,000円のみ！浮いた予算で旅行をさらにアップグレードできます。</p>
             </div>
           </div>
         </div>
@@ -299,16 +293,14 @@ export default function FurusatoBeppuOnsenJigokuStayPage() {
 
       {/* FAQ */}
       <section id="faq" className="mb-16">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">
-          <span>❓</span> よくある質問（Q&A）
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）｜源泉数・湧出量日本一</h2>
         <div className="space-y-4">
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
             <summary className="font-bold text-gray-900 text-sm md:text-base flex justify-between items-center">
               <span>すでに予約している宿泊プランにもふるさと納税クーポンは使えますか？</span>
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
-            <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
+            <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">【源泉数・湧出量日本一】 
               はい！楽天トラベルの「あとからクーポン適用」機能に対応している施設であれば、予約後でもマイページから自治体クーポンを適用して割引を受けられます。
             </p>
           </details>
@@ -317,7 +309,7 @@ export default function FurusatoBeppuOnsenJigokuStayPage() {
               <span>トラベルクーポンの有効期限はどれくらいですか？</span>
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
-            <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
+            <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">【源泉数・湧出量日本一】 
               楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
@@ -326,7 +318,7 @@ export default function FurusatoBeppuOnsenJigokuStayPage() {
               <span>ハイシーズンや週末でも利用できますか？</span>
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
-            <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
+            <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">【源泉数・湧出量日本一】 
               はい、対象ホテルの空室があれば、年末年始やゴールデンウィーク、お盆や紅葉・雪見シーズンのハイシーズンでも除外日なくクーポンをご利用いただけます。
             </p>
           </details>
@@ -335,9 +327,7 @@ export default function FurusatoBeppuOnsenJigokuStayPage() {
 
       {/* 関連記事リンク */}
       <section className="bg-gray-50 p-6 md:p-8 rounded-2xl border border-gray-200">
-        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
-          <span>🔗</span> あわせて読みたい注目のふるさと納税特集
-        </h2>
+        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2"><span>🔗</span> あわせて読みたい注目のふるさと納税特集｜源泉数・湧出量日本一</h2>
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link

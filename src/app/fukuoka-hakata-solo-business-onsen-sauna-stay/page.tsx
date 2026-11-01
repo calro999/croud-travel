@@ -96,9 +96,7 @@ export default function ArticlePage() {
       {/* 目次インデックス */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-stone-100 p-5 rounded-xl border border-stone-200">
-          <h2 className="text-base font-bold text-stone-900 mb-3 flex items-center gap-2">
-            <span>📑</span> 本記事でご紹介する厳選ホテル
-          </h2>
+          <h2 className="text-base font-bold text-stone-900 mb-3 flex items-center gap-2"><span>📑</span> 本記事でご紹介する厳選ホテル｜福岡博多出張・天然温泉サウナ：博多駅直結・自家源泉の</h2>
           <ul className="space-y-2 text-sm text-stone-700">
             <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 天然温泉　八百治の湯　八百治博多ホテル（★4.19 / 最低目安：7,450円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. 天然温泉　御笠の湯　ドーミーイン博多祇園（リニューアルオープン）（★4.26 / 最低目安：8,192円〜）</a></li>
@@ -157,9 +155,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">
-                <span>🌟</span> ひとり滞在・出張で選ばれる理由
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由（福岡博多出張・天然温泉サウナ：博多駅直結・自家源泉の）</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>博多駅徒歩5分!!天然温泉大浴場完備!!Wi-Fi無料＆加湿機能付空気清浄機完備♪</span></li>
               </ul>
@@ -226,9 +222,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">
-                <span>🌟</span> ひとり滞在・出張で選ばれる理由
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由（福岡博多出張・天然温泉サウナ：博多駅直結・自家源泉の）</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>【4月リニューアルオープン】天然温泉大浴場＆サウナ完備！ 繁華街近くの好立地！ 夜鳴きそばサービス！</span></li>
               </ul>
@@ -295,9 +289,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">
-                <span>🌟</span> ひとり滞在・出張で選ばれる理由
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由（福岡博多出張・天然温泉サウナ：博多駅直結・自家源泉の）</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>天然温泉・サウナ完備／博多駅すぐ隣／開放的で居心地のよいロビー空間／コンビニ併設</span></li>
               </ul>
@@ -353,9 +345,7 @@ export default function ArticlePage() {
       {/* FAQ セクション */}
       <section id="faq" className="max-w-4xl mx-auto px-4 sm:px-6 mt-16">
         <div className="bg-stone-100 p-6 sm:p-8 rounded-2xl border border-stone-200">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-300 pb-3">
-            <span>❓</span> 滞在に関するよくある質問（FAQ）
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-300 pb-3"><span>❓</span> 滞在に関するよくある質問（FAQ）｜福岡博多出張・天然温泉サウナ：博多駅直結・自家源泉の</h2>
           <div className="space-y-4">
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
               <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
@@ -382,10 +372,8 @@ export default function ArticlePage() {
       {/* 予約案内バナー */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mt-16">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-6 sm:p-8 rounded-2xl shadow-md text-center">
-          <h3 className="text-lg sm:text-xl font-bold mb-2">
-            楽天トラベルで最新の空室状況・限定ポイントキャンペーンをチェック
-          </h3>
-          <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">
+          <h3 className="text-lg sm:text-xl font-bold mb-2">楽天トラベルで最新の空室状況・限定ポイントキャンペーンをチェック（福岡博多出張・天然温泉サウナ：博多駅直結・自家源泉の）</h3>
+          <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">【福岡博多出張・天然温泉サウナ：博多駅直結・自家源泉の】 
             平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
@@ -409,7 +397,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（福岡博多出張・天然温泉サウナ：博多駅直結・自家源泉の）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 博多駅よりアクセス。博多駅博多口より徒歩５分（福岡空港から博多駅まで地下鉄で５分。</li>
@@ -421,7 +409,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（福岡博多出張・天然温泉サウナ：博多駅直結・自家源泉の）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「天然温泉 八百治の湯 八百治博多ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -439,9 +427,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜福岡博多出張・天然温泉サウナ：博多駅直結・自家源泉の</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/toyama-tateyama-kurobe-alpen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -462,7 +448,7 @@ export default function ArticlePage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（福岡博多出張・天然温泉サウナ：博多駅直結・自家源泉の）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/shimane/"

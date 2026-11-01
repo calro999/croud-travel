@@ -396,7 +396,7 @@ export default function GourmetCuisineHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉かけ流しの宿。ビジネスの方大歓迎！！看板犬がお出迎え。大切なワンちゃんと一緒にご宿泊できます。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山形県南陽市赤湯２５０－１ ／ 最寄り駅：赤湯 ／ 交通案内：山形新幹線　赤湯駅下車　タクシーで約4分　徒歩だと約15-20分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
+                  <p>【日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「ペットに優しく夕飯も豪華、リピ確定!ペットプランで宿泊しました。ペットに優しく、とてもいい感じでした。夕飯も豪華で、リピ確定です。クチコミの詳細はこちらから　https://revie…　2026-08-15 17:29:31投稿」
@@ -418,7 +418,7 @@ export default function GourmetCuisineHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊能忠敬が泊まった源泉掛け流し老舗旅館。源泉かけ流しのお風呂でごゆっくり♪</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山形県南陽市赤湯1003 ／ 最寄り駅：赤湯 ／ 交通案内：山形新幹線　赤湯駅より車で７分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
+                  <p>【日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆっくり寛げました場所がらお部屋からの眺めはそれ程期待出来ませんが、お部屋は8畳広縁に椅子付きでゆったり過ごす事ができました。お食事会場も広々とし、お花も綺麗に活けて有りお隣との感覚も広く寛げ…　2026-08-13 14:25:37投稿」
@@ -460,32 +460,32 @@ export default function GourmetCuisineHubPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">宝珠山 立石寺（山寺）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">松尾芭蕉が「閑さや岩にしみ入る蝉の声」と詠んだことで名高い名刹。1015段の石段を登りきった五大堂からは、山形の大自然と里山を一望する壮大な絶景が広がります。</p>
+                <h3 className="text-base font-bold text-stone-900">宝珠山 立石寺（山寺）（日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近】 松尾芭蕉が「閑さや岩にしみ入る蝉の声」と詠んだことで名高い名刹。1015段の石段を登りきった五大堂からは、山形の大自然と里山を一望する壮大な絶景が広がります。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Evening_twilight_in_Ginzan_Onsen_town_January_2022_A.jpg/1280px-Evening_twilight_in_Ginzan_Onsen_town_January_2022_A.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="銀山温泉" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">銀山温泉</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">銀山川の両岸に木造多層の温泉旅館が立ち並ぶ、大正ロマンあふれる温泉街。夕暮れ時にガス灯の温かな光が雪景色や大正建築を照らし出す風景は感動的です。 銀山温泉（ぎんざんおんせん）は、山形県尾花沢市（旧国出羽国、明治以降は羽前国）にある温泉である。 NHK連続テレビ小説『おしん』の舞台となったことで一躍脚光を浴び、全国的にその名を知られることになった。…</p>
+                <h3 className="text-base font-bold text-stone-900">銀山温泉（日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近】 銀山川の両岸に木造多層の温泉旅館が立ち並ぶ、大正ロマンあふれる温泉街。夕暮れ時にガス灯の温かな光が雪景色や大正建築を照らし出す風景は感動的です。 銀山温泉（ぎんざんおんせん）は、山形県尾花沢市（旧国出羽国、明治以降は羽前国）にある温泉である。 NHK連続テレビ小説『おしん』の舞台となったことで一躍脚光を浴び、全国的にその名を知られることになった。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Zaou_Gongen_Circumstancial_appearance_of_Mount_Yoshino.jpg/1280px-Zaou_Gongen_Circumstancial_appearance_of_Mount_Yoshino.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="蔵王の樹氷" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">蔵王の樹氷</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">冬の蔵王連峰で見られる自然の芸術「アイスモンスター」。アオモリトドマツに雪と氷が吹き付けられて巨大化した樹氷群を、ロープウェイやナイターライトアップで楽しめます。 蔵王、藏王（ざ-おう） 読みとしては、「蔵王」の本来の読み、旧仮名づかい「ざう-わう(ぞう-おう)」（音読み）が連声化したもの。 修験道の神である蔵王権現のこと。日本各地にみられる「蔵王」という名称は、後述の地名を含め、その大半が蔵王権現（奈良県吉野の発祥）に由来している（蔵王権現を参照）。 上述の蔵王権現を祭っている神社（蔵王権現社、御嶽神社（御岳神社）、…</p>
+                <h3 className="text-base font-bold text-stone-900">蔵王の樹氷（日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近】 冬の蔵王連峰で見られる自然の芸術「アイスモンスター」。アオモリトドマツに雪と氷が吹き付けられて巨大化した樹氷群を、ロープウェイやナイターライトアップで楽しめます。 蔵王、藏王（ざ-おう） 読みとしては、「蔵王」の本来の読み、旧仮名づかい「ざう-わう(ぞう-おう)」（音読み）が連声化したもの。 修験道の神である蔵王権現のこと。日本各地にみられる「蔵王」という名称は、後述の地名を含め、その大半が蔵王権現（奈良県吉野の発祥）に由来している（蔵王権現を参照）。 上述の蔵王権現を祭っている神社（蔵王権現社、御嶽神社（御岳神社）、…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">羽黒山 三重塔</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">出羽三山神社への参道杉木立の中に佇む、東北最古の国宝木造塔。樹齢数百年の巨大な老杉に囲まれた静寂な空間は、強いパワースポットとして知られています。</p>
+                <h3 className="text-base font-bold text-stone-900">羽黒山 三重塔（日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近】 出羽三山神社への参道杉木立の中に佇む、東北最古の国宝木造塔。樹齢数百年の巨大な老杉に囲まれた静寂な空間は、強いパワースポットとして知られています。</p>
               </div>
             </div>
             </div>

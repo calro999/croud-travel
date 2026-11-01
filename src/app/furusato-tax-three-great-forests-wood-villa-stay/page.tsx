@@ -115,10 +115,8 @@ export default function FurusatoUpgradedPage() {
 
           {/* 公式キャンペーンCTA */}
           <div className="p-6 rounded-3xl bg-gradient-to-br from-amber-500/20 via-amber-600/10 to-transparent border border-amber-500/30 backdrop-blur max-w-2xl mx-auto shadow-2xl">
-            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">
-              楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！
-            </h2>
-            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">
+            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！｜日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿</h2>
+            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">【日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿】 
               寄附翌日には楽天トラベルで使えるクーポンが付与。有効期限はたっぷり3年間あるため、次の大型連休や記念日旅行にも安心してご活用いただけます。
             </p>
             <a
@@ -136,9 +134,7 @@ export default function FurusatoUpgradedPage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          この特集で出会える極上の滞在体験と3つの魅力
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">この特集で出会える極上の滞在体験と3つの魅力｜日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="01" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
@@ -262,31 +258,29 @@ export default function FurusatoUpgradedPage() {
       {/* 利用ステップ */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-t border-stone-800">
         <div className="rounded-3xl bg-gradient-to-br from-amber-500/10 via-stone-900 to-stone-950 border border-amber-500/20 p-8 sm:p-12 text-center">
-          <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-4">
-            ふるさと納税トラベルクーポンの簡単3ステップ
-          </h2>
-          <p className="text-stone-300 text-sm sm:text-base max-w-2xl mx-auto mb-10 leading-relaxed">
+          <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-4">ふるさと納税トラベルクーポンの簡単3ステップ｜日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿</h2>
+          <p className="text-stone-300 text-sm sm:text-base max-w-2xl mx-auto mb-10 leading-relaxed">【日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿】 
             寄附から割引適用まで全てオンラインで完結。実質2,000円の負担で憧れの名旅館や絶景リゾートをお得に楽しめます。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-left mb-10">
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
               <div className="text-2xl font-black text-amber-400 mb-2">STEP 01</div>
-              <h3 className="font-bold text-white mb-2">自治体に寄附する</h3>
-              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
+              <h3 className="font-bold text-white mb-2">自治体に寄附する（日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿）</h3>
+              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">【日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿】 
                 宿泊したい施設がある自治体を選び、楽天ふるさと納税で寄附を申し込みます。楽天ポイントも通常通り進呈されます。
               </p>
             </div>
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
               <div className="text-2xl font-black text-amber-400 mb-2">STEP 02</div>
-              <h3 className="font-bold text-white mb-2">クーポンが自動付与</h3>
-              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
+              <h3 className="font-bold text-white mb-2">クーポンが自動付与（日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿）</h3>
+              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">【日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿】 
                 寄附完了の翌日、楽天アカウントの「マイクーポン」に寄附額に応じた宿泊割引クーポンが自動的に追加されます。
               </p>
             </div>
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
               <div className="text-2xl font-black text-amber-400 mb-2">STEP 03</div>
-              <h3 className="font-bold text-white mb-2">楽天トラベルで予約</h3>
-              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
+              <h3 className="font-bold text-white mb-2">楽天トラベルで予約（日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿）</h3>
+              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">【日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿】 
                 対象のホテル・旅館を予約する際、決済画面でクーポンを選択するだけで宿泊代金から最大30%が即座に割引されます。
               </p>
             </div>
@@ -305,7 +299,7 @@ export default function FurusatoUpgradedPage() {
 
       {/* 相互リンク */}
       <section className="py-12 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto">
-        <h2 className="text-xl font-black text-amber-200 mb-6">あわせて読みたい極上ふるさと納税旅特集</h2>
+        <h2 className="text-xl font-black text-amber-200 mb-6">あわせて読みたい極上ふるさと納税旅特集｜日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <Link
             href="/furusato-tax-three-great-scenic-coasts-stay/"
@@ -416,7 +410,7 @@ export default function FurusatoUpgradedPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業100周年の歴史ある温泉宿　津軽の四季を感じる露天風呂は格別です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 青森県南津軽郡大鰐町蔵館川原田63 ／ 最寄り駅：大鰐温泉 ／ 交通案内：東北自動車道　大鰐・弘前ＩＣより約10分。　JR奥羽本線大鰐温泉駅下車　徒歩１５分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
+                  <p>【日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.29 ／ 部屋 ★4.42 ／ 設備 ★4.34 ／ 風呂 ★4.54 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「飯がうまい。部屋が広い。川がみえるクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/10728?reviewId=3312…　2026-10-09 22:39:22投稿」
@@ -480,32 +474,32 @@ export default function FurusatoUpgradedPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">弘前公園（弘前城）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本屈指の桜の名所として知られる城郭公園。春には約2,600本の桜が咲き誇り、お堀を埋め尽くす「花いかだ」の幻想的な景色は世界中から絶賛されています。</p>
+                <h3 className="text-base font-bold text-stone-900">弘前公園（弘前城）（日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿】 日本屈指の桜の名所として知られる城郭公園。春には約2,600本の桜が咲き誇り、お堀を埋め尽くす「花いかだ」の幻想的な景色は世界中から絶賛されています。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Oirase-keiryu.jpg/1280px-Oirase-keiryu.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="奥入瀬渓流" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">奥入瀬渓流</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">十和田湖から流れる約14kmの美しい清流。豊かな樹木と苔むした岩々、無数の滝が織りなすせせらぎに沿って遊歩道が整備されており、極上のネイチャーウォークを楽しめます。 奥入瀬渓流（おいらせけいりゅう）は、青森県十和田市の十和田湖東岸の子ノ口（ねのくち）から北東に、焼山（十和田市法量（大字）焼山（字））までの約14 kmにわたる奥入瀬川の渓流。十和田八幡平国立公園に属する。国指定の特別名勝及び天然記念物（天然保護区域）。…</p>
+                <h3 className="text-base font-bold text-stone-900">奥入瀬渓流（日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿】 十和田湖から流れる約14kmの美しい清流。豊かな樹木と苔むした岩々、無数の滝が織りなすせせらぎに沿って遊歩道が整備されており、極上のネイチャーウォークを楽しめます。 奥入瀬渓流（おいらせけいりゅう）は、青森県十和田市の十和田湖東岸の子ノ口（ねのくち）から北東に、焼山（十和田市法量（大字）焼山（字））までの約14 kmにわたる奥入瀬川の渓流。十和田八幡平国立公園に属する。国指定の特別名勝及び天然記念物（天然保護区域）。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">ねぶたの家 ワ・ラッセ</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">青森夏の風物詩「青森ねぶた祭」の歴史と魅力を一年中体感できる大型展示施設。実際に祭りで運行された大型ねぶたの迫力を間近で鑑賞できます。</p>
+                <h3 className="text-base font-bold text-stone-900">ねぶたの家 ワ・ラッセ（日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿】 青森夏の風物詩「青森ねぶた祭」の歴史と魅力を一年中体感できる大型展示施設。実際に祭りで運行された大型ねぶたの迫力を間近で鑑賞できます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">仏ヶ浦（ほとけがうら）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">下北半島にある、白緑色の奇岩群が約2kmにわたって続く国の名勝。巨大な如来や観音に見立てられた壮大な自然の彫刻と、澄み渡る陸奥湾の青さが圧巻です。</p>
+                <h3 className="text-base font-bold text-stone-900">仏ヶ浦（ほとけがうら）（日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿】 下北半島にある、白緑色の奇岩群が約2kmにわたって続く国の名勝。巨大な如来や観音に見立てられた壮大な自然の彫刻と、澄み渡る陸奥湾の青さが圧巻です。</p>
               </div>
             </div>
             </div>

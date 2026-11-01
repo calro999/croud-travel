@@ -1,5 +1,5 @@
 ---
-title: "金継ぎ漆芸体験ができる宿おすすめ10選"
+title: "【2026最新】金継ぎ・蒔絵・沈金！漆芸工芸体験ができる名湯温泉旅館おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/kintsugi-lacquerware-urushi-craft-onsen-hotels-guide/"
 hotel_name: "金継ぎ・蒔絵・沈金！漆芸工芸体験ができる名湯温泉旅館おすすめ10選"
 prefecture: "全国"
@@ -10,7 +10,7 @@ review_count: 492
 last_modified: "2026-10-13"
 ---
 
-# 金継ぎ漆芸体験ができる宿おすすめ10選
+# 【2026最新】金継ぎ・蒔絵・沈金！漆芸工芸体験ができる名湯温泉旅館おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/kintsugi-lacquerware-urushi-craft-onsen-hotels-guide/
 - **宿泊施設・特集名**: 金継ぎ・蒔絵・沈金！漆芸工芸体験ができる名湯温泉旅館おすすめ10選

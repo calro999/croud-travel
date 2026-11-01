@@ -127,21 +127,17 @@ export default function FeatureArticlePage() {
         <article className="lg:col-span-2 space-y-10">
           {/* エリア概要セクション */}
           <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-stone-200/80">
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 pb-3 border-b border-stone-200 flex items-center gap-3">
-              <span className="text-2xl">🍂</span>
-              秋の風情と旬の味覚を堪能する特別な旅
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 pb-3 border-b border-stone-200 flex items-center gap-3"><span className="text-2xl">🍂</span>
+              秋の風情と旬の味覚を堪能する特別な旅｜京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみ</h2>
             <p className="text-stone-700 leading-relaxed text-sm md:text-base mb-6">
               京の奥座敷として名高い洛北・貴船エリア。秋になると叡山電車の市原〜二ノ瀬間にある「もみじのトンネル」がライトアップされ、車内の明かりを消して徐行運転する幻想的な車窓が大人気。貴船神社の本宮参道には朱塗りの春日灯篭と深紅のモミジが折り重なり、息をのむ美しさに包まれます。貴船川沿いの伝統ある料理旅館で、秋の味覚である名物ぼたん鍋や丹波牛懐石を堪能できます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">
-                <span>💡</span> 10月〜11月の旅を満喫する3大ポイント
-              </h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2"><span>💡</span> 10月〜11月の旅を満喫する3大ポイント（京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみ）</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
-                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞</li>
-                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢</li>
-                <li><strong>実質2,000円ステイ：</strong>楽天ふるさと納税トラベルクーポンで賢く予約</li>
+                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみ）</li>
+                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみ）</li>
+                <li><strong>実質2,000円ステイ：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみ）</li>
               </ul>
             </div>
           </section>
@@ -331,11 +327,9 @@ export default function FeatureArticlePage() {
 
           {/* ふるさと納税活用法 */}
           <section className="bg-gradient-to-r from-amber-500 to-orange-600 text-white rounded-2xl p-6 md:p-8 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2">
-              <span>🎁</span> 楽天ふるさと納税で実質2,000円宿泊する方法
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で実質2,000円宿泊する方法｜京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみ</h2>
             <div className="space-y-4 text-xs md:text-sm text-amber-50 leading-relaxed">
-              <p>
+              <p>【京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみ】 
                 楽天ふるさと納税の「トラベルクーポン（宿泊補助券）」を利用すると、寄付金額に応じた割引クーポンが即時または後日発行され、楽天トラベルでの宿泊予約時に直接利用できます。
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-3 pt-2 text-stone-900">
@@ -362,9 +356,7 @@ export default function FeatureArticlePage() {
         {/* サイドバー */}
         <aside className="space-y-6">
           <div className="bg-white rounded-2xl p-6 shadow-sm border border-stone-200/80 sticky top-6">
-            <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2">
-              <span>📌</span> この特集で紹介した宿
-            </h3>
+            <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2"><span>📌</span> この特集で紹介した宿（京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみ）</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.kifune_fujiya.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
@@ -430,7 +422,7 @@ export default function FeatureArticlePage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみ）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 貴船口駅よりアクセス。叡山電車鞍馬線 貴船口駅より徒歩２０分（送迎有り・事前予約不要。</li>
@@ -442,7 +434,7 @@ export default function FeatureArticlePage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみ）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「京都“元祖川床”発祥の老舗料理旅館 貴船ふじや」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -496,9 +488,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみ</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-hokkaido-sounkyo-onsen-snow-gorge-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -519,7 +509,7 @@ export default function FeatureArticlePage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（京都・貴船神社のもみじ灯篭ライトアップ＆叡山電車もみ）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/shizuoka/"

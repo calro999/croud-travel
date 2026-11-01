@@ -312,7 +312,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>泉質の異なる「三種類の源泉」を、七つの露天風呂を含む大浴場など「十二の湯舟」でご堪能いただけます</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山梨県南巨摩郡身延町上之平1900 ／ 最寄り駅：下部温泉 ／ 交通案内：ＪＲ身延線下部温泉駅徒歩１分／車：中部横断道下部温泉早川ＩＣより５分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
+                  <p>【山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.31 ／ 部屋 ★4.27 ／ 設備 ★4.27 ／ 風呂 ★4.54 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフのイベントが魅力的で大満足!8月のお盆休みで、子供達、孫達と宿泊させて頂きました。スタッフのイベントの取り組みが、いっぱいでとても魅力的で。楽しませてもらいましたも足湯も、とて…　2026-10-10 21:38:24投稿」
@@ -398,32 +398,32 @@ export default function MicroTouristHubPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">富士山（吉田ルート/五合目）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本の最高峰であり世界文化遺産の象徴。富士スバルラインで行く五合目は観光施設が充実し、眼下に雲海を望む圧巻のスタート地点です。</p>
+                <h3 className="text-base font-bold text-stone-900">富士山（吉田ルート/五合目）（山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・】 日本の最高峰であり世界文化遺産の象徴。富士スバルラインで行く五合目は観光施設が充実し、眼下に雲海を望む圧巻のスタート地点です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">新倉山浅間公園（忠霊塔）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">五重塔（忠霊塔）越しに雄大な富士山と満開の桜を一望できる、世界中の観光客が熱望する「これぞ日本」という究極のアジアンビジュアルスポット。</p>
+                <h3 className="text-base font-bold text-stone-900">新倉山浅間公園（忠霊塔）（山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・】 五重塔（忠霊塔）越しに雄大な富士山と満開の桜を一望できる、世界中の観光客が熱望する「これぞ日本」という究極のアジアンビジュアルスポット。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">富士五湖（河口湖）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">富士山の北麓に位置する静かな湖畔リゾート。四季折々の富士山が水面に映る「逆さ富士」や、大石公園のコキア・ラベンダー越しのアングルが人気です。</p>
+                <h3 className="text-base font-bold text-stone-900">富士五湖（河口湖）（山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・】 富士山の北麓に位置する静かな湖畔リゾート。四季折々の富士山が水面に映る「逆さ富士」や、大石公園のコキア・ラベンダー越しのアングルが人気です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">勝沼ぶどうの丘</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本有数のワイン産地・勝沼の高台に立つ総合ワインリゾート。タパスとともに100種類以上の甲州ワインを試飲できる地下ワインカーヴが魅力です。</p>
+                <h3 className="text-base font-bold text-stone-900">勝沼ぶどうの丘（山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・】 日本有数のワイン産地・勝沼の高台に立つ総合ワインリゾート。タパスとともに100種類以上の甲州ワインを試飲できる地下ワインカーヴが魅力です。</p>
               </div>
             </div>
             </div>

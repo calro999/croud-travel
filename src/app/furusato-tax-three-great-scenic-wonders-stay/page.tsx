@@ -115,10 +115,8 @@ export default function FurusatoUpgradedPage() {
 
           {/* 公式キャンペーンCTA */}
           <div className="p-6 rounded-3xl bg-gradient-to-br from-amber-500/20 via-amber-600/10 to-transparent border border-amber-500/30 backdrop-blur max-w-2xl mx-auto shadow-2xl">
-            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">
-              楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！
-            </h2>
-            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">
+            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！｜日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選</h2>
+            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">【日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選】 
               寄附翌日には楽天トラベルで使えるクーポンが付与。有効期限はたっぷり3年間あるため、次の大型連休や記念日旅行にも安心してご活用いただけます。
             </p>
             <a
@@ -136,9 +134,7 @@ export default function FurusatoUpgradedPage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          この特集で出会える極上の滞在体験と3つの魅力
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">この特集で出会える極上の滞在体験と3つの魅力｜日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="01" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
@@ -262,31 +258,29 @@ export default function FurusatoUpgradedPage() {
       {/* 利用ステップ */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-t border-stone-800">
         <div className="rounded-3xl bg-gradient-to-br from-amber-500/10 via-stone-900 to-stone-950 border border-amber-500/20 p-8 sm:p-12 text-center">
-          <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-4">
-            ふるさと納税トラベルクーポンの簡単3ステップ
-          </h2>
-          <p className="text-stone-300 text-sm sm:text-base max-w-2xl mx-auto mb-10 leading-relaxed">
+          <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-4">ふるさと納税トラベルクーポンの簡単3ステップ｜日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選</h2>
+          <p className="text-stone-300 text-sm sm:text-base max-w-2xl mx-auto mb-10 leading-relaxed">【日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選】 
             寄附から割引適用まで全てオンラインで完結。実質2,000円の負担で憧れの名旅館や絶景リゾートをお得に楽しめます。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-left mb-10">
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
               <div className="text-2xl font-black text-amber-400 mb-2">STEP 01</div>
-              <h3 className="font-bold text-white mb-2">自治体に寄附する</h3>
-              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
+              <h3 className="font-bold text-white mb-2">自治体に寄附する（日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選）</h3>
+              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">【日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選】 
                 宿泊したい施設がある自治体を選び、楽天ふるさと納税で寄附を申し込みます。楽天ポイントも通常通り進呈されます。
               </p>
             </div>
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
               <div className="text-2xl font-black text-amber-400 mb-2">STEP 02</div>
-              <h3 className="font-bold text-white mb-2">クーポンが自動付与</h3>
-              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
+              <h3 className="font-bold text-white mb-2">クーポンが自動付与（日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選）</h3>
+              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">【日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選】 
                 寄附完了の翌日、楽天アカウントの「マイクーポン」に寄附額に応じた宿泊割引クーポンが自動的に追加されます。
               </p>
             </div>
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
               <div className="text-2xl font-black text-amber-400 mb-2">STEP 03</div>
-              <h3 className="font-bold text-white mb-2">楽天トラベルで予約</h3>
-              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
+              <h3 className="font-bold text-white mb-2">楽天トラベルで予約（日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選）</h3>
+              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">【日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選】 
                 対象のホテル・旅館を予約する際、決済画面でクーポンを選択するだけで宿泊代金から最大30%が即座に割引されます。
               </p>
             </div>
@@ -305,7 +299,7 @@ export default function FurusatoUpgradedPage() {
 
       {/* 相互リンク */}
       <section className="py-12 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto">
-        <h2 className="text-xl font-black text-amber-200 mb-6">あわせて読みたい極上ふるさと納税旅特集</h2>
+        <h2 className="text-xl font-black text-amber-200 mb-6">あわせて読みたい極上ふるさと納税旅特集｜日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <Link
             href="/furusato-tax-three-great-scenic-coasts-stay/"
@@ -480,32 +474,32 @@ export default function FurusatoUpgradedPage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Yubatake_%28Kusatsu_Onsen%29.jpg/1280px-Yubatake_%28Kusatsu_Onsen%29.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="草津温泉（湯畑）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">草津温泉（湯畑）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三名泉の一つで自然湧出量日本一を誇る温泉街のシンボル。毎分4,000リットルの源泉が湯滝となって湧き出し、湯もみ体験や夜のライトアップも人気です。 草津温泉（くさつおんせん）は、群馬県吾妻郡草津町草津界隈（江戸時代における上野国吾妻郡草津村界隈、幕藩体制下の上州御料草津村界隈〈初期は沼田藩知行〉）に所在する温泉である。草津白根山東麓に位置する。 毎分3万2300リットル以上の自然湧出量は日本一。室町時代には万里集九が有馬温泉や下呂温泉とともに「三名泉」とし、江戸時代には林羅山もこれらの三温泉を「天下の三…</p>
+                <h3 className="text-base font-bold text-stone-900">草津温泉（湯畑）（日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選】 日本三名泉の一つで自然湧出量日本一を誇る温泉街のシンボル。毎分4,000リットルの源泉が湯滝となって湧き出し、湯もみ体験や夜のライトアップも人気です。 草津温泉（くさつおんせん）は、群馬県吾妻郡草津町草津界隈（江戸時代における上野国吾妻郡草津村界隈、幕藩体制下の上州御料草津村界隈〈初期は沼田藩知行〉）に所在する温泉である。草津白根山東麓に位置する。 毎分3万2300リットル以上の自然湧出量は日本一。室町時代には万里集九が有馬温泉や下呂温泉とともに「三名泉」とし、江戸時代には林羅山もこれらの三温泉を「天下の三…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Ikaho_Onsen_03.jpg/1280px-Ikaho_Onsen_03.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="伊香保温泉（石段街）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">伊香保温泉（石段街）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">365段の石段が続く情緒溢れる温泉街。石段の両脇には射的場や土産物店、足湯が立ち並び、温泉まんじゅう発祥の地としても知られています。 伊香保温泉（いかほおんせん）は、群馬県渋川市伊香保町にある温泉。草津温泉と並んで県を代表する名湯で、上毛かるたでは「伊香保温泉 日本の名湯」と歌われている。 「伊香保温泉」として地域団体商標に登録されている。…</p>
+                <h3 className="text-base font-bold text-stone-900">伊香保温泉（石段街）（日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選】 365段の石段が続く情緒溢れる温泉街。石段の両脇には射的場や土産物店、足湯が立ち並び、温泉まんじゅう発祥の地としても知られています。 伊香保温泉（いかほおんせん）は、群馬県渋川市伊香保町にある温泉。草津温泉と並んで県を代表する名湯で、上毛かるたでは「伊香保温泉 日本の名湯」と歌われている。 「伊香保温泉」として地域団体商標に登録されている。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">富岡製糸場</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">明治政府が設立した日本初の本格的な製糸工場であり、世界文化遺産。木骨レンガ造りの巨大な繰糸所や蚕室が良好に保存されており、日本の近代化の足跡を辿れます。</p>
+                <h3 className="text-base font-bold text-stone-900">富岡製糸場（日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選】 明治政府が設立した日本初の本格的な製糸工場であり、世界文化遺産。木骨レンガ造りの巨大な繰糸所や蚕室が良好に保存されており、日本の近代化の足跡を辿れます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">吹割の滝（ふきわれのたき）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「東洋のナイアガラ」と称されるダイナミックな滝。巨大な岩盤が割れ目の中に河川の水が吸い込まれるように流れ落ちる迫力ある景観が魅力です。</p>
+                <h3 className="text-base font-bold text-stone-900">吹割の滝（ふきわれのたき）（日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大奇勝の壮麗な岩壁美と秘湯宿×ふるさと納税厳選】 「東洋のナイアガラ」と称されるダイナミックな滝。巨大な岩盤が割れ目の中に河川の水が吸い込まれるように流れ落ちる迫力ある景観が魅力です。</p>
               </div>
             </div>
             </div>

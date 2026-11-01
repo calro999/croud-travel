@@ -219,10 +219,8 @@ export default function Page() {
         {/* 厳選ホテルリスト */}
         <section className="space-y-10">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">
-              楽天ふるさと納税で泊まる名宿＆厳選ホテル
-            </h2>
-            <p className="text-xs md:text-sm text-slate-500">
+            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル｜日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の</h2>
+            <p className="text-xs md:text-sm text-slate-500">【日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の】 
               楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
             </p>
           </div>
@@ -318,10 +316,8 @@ export default function Page() {
         {/* 楽天ふるさと納税トラベル利用ステップ */}
         <section className="bg-gradient-to-br from-slate-900 to-emerald-950 text-white rounded-2xl p-6 md:p-8 space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-xl md:text-2xl font-bold">
-              楽天ふるさと納税×楽天トラベル 簡単3ステップ
-            </h2>
-            <p className="text-xs md:text-sm text-slate-300">
+            <h2 className="text-xl md:text-2xl font-bold">楽天ふるさと納税×楽天トラベル 簡単3ステップ｜日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の</h2>
+            <p className="text-xs md:text-sm text-slate-300">【日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の】 
               実質2,000円の自己負担で憧れの高級宿・温泉旅館をお得に予約できます
             </p>
           </div>
@@ -331,8 +327,8 @@ export default function Page() {
               <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
                 1
               </div>
-              <h3 className="font-bold text-sm text-white">自治体に寄付</h3>
-              <p className="text-xs leading-relaxed text-slate-300">
+              <h3 className="font-bold text-sm text-white">自治体に寄付（日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の）</h3>
+              <p className="text-xs leading-relaxed text-slate-300">【日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の】 
                 希望の自治体と寄付金額を選び、楽天ふるさと納税で寄付を行います。寄付額に応じたトラベルクーポンが即時付与されます。
               </p>
             </div>
@@ -341,8 +337,8 @@ export default function Page() {
               <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
                 2
               </div>
-              <h3 className="font-bold text-sm text-white">対象宿・プランを予約</h3>
-              <p className="text-xs leading-relaxed text-slate-300">
+              <h3 className="font-bold text-sm text-white">対象宿・プランを予約（日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の）</h3>
+              <p className="text-xs leading-relaxed text-slate-300">【日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の】 
                 楽天トラベルで対象地域の宿泊施設を検索。獲得したふるさと納税クーポンを予約ステップで適用します。
               </p>
             </div>
@@ -351,8 +347,8 @@ export default function Page() {
               <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
                 3
               </div>
-              <h3 className="font-bold text-sm text-white">現地で贅沢ステイ</h3>
-              <p className="text-xs leading-relaxed text-slate-300">
+              <h3 className="font-bold text-sm text-white">現地で贅沢ステイ（日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の）</h3>
+              <p className="text-xs leading-relaxed text-slate-300">【日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の】 
                 宿泊当日は通常通りチェックイン。割引されたお得な価格で、名湯や美食、絶景体験を満喫できます。
               </p>
             </div>
@@ -420,7 +416,7 @@ export default function Page() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 東名 焼津ICより10分/JR焼津駅より無料シャトルバスあり！焼津は静岡駅から3駅約13分のアクセスで現地へ到着。</li>
@@ -432,7 +428,7 @@ export default function Page() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「焼津温泉 ホテルアンビア松風閣」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -486,9 +482,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-budget-fukui-station-oroshisoba-castle-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -509,7 +503,7 @@ export default function Page() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/shimane/"
@@ -639,7 +633,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR宇治駅南口より徒歩約3分♪源氏物語ミュージアムや平等院鳳凰堂など観光にGood☆</p>
                   <p><strong>【所在地・アクセス】</strong>〒 京都府宇治市宇治壱番19-2 ／ 最寄り駅：主要駅 ／ 交通案内：JR宇治駅より徒歩にて約3分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、駐車場の手配もスムーズJR宇治駅から1番近いですが、今回は仕事で訪れました。車で向かう予定でしたので事前にその旨を伝えたところ、駐車場の手配もして頂きありがとうございます。公共…　2026-08-22 17:29:51投稿」
@@ -661,7 +655,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>四季折々の草花が咲きみだれ、お食事、温泉、合宿と　さまざまなプランで、大満足頂けます。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 福岡県八女市黒木町木屋10905 ／ 最寄り駅：主要駅 ／ 交通案内：九州自動車道八女IC下車。国道442号線経由、黒木平公園線へ（県道802号）約22km、約40分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「プールと食事に大満足、コスパ抜群でまた行きたい夏休みに2泊しました。プールの規模もほどよく、夜ご飯はお腹いっぱいすぎるくらい!施設は少々古くても、お部屋は快適に過ごせました。大浴場も十…　2026-08-27 01:01:02投稿」
@@ -681,8 +675,8 @@ export default function Page() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Japan_Tojinbo02n4592.jpg/1280px-Japan_Tojinbo02n4592.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="福井県立恐竜博物館" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">福井県立恐竜博物館</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">世界三大恐竜博物館の一つに数えられる世界最大級の恐竜専門博物館。44体もの恐竜全身骨格や迫力満点の動く実物大恐竜ロボットが展示されています。 福井県（ふくいけん）は、日本の中部地方（北陸地方）に位置する県。行政管轄区分において近畿地方に包括される場合もある。令制国の越前国と若狭国に相当する。県庁所在地は福井市。 北陸地方の最西端に位置しており、同地方で最も人口が少ない県である。…</p>
+                <h3 className="text-base font-bold text-stone-900">福井県立恐竜博物館（日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の】 世界三大恐竜博物館の一つに数えられる世界最大級の恐竜専門博物館。44体もの恐竜全身骨格や迫力満点の動く実物大恐竜ロボットが展示されています。 福井県（ふくいけん）は、日本の中部地方（北陸地方）に位置する県。行政管轄区分において近畿地方に包括される場合もある。令制国の越前国と若狭国に相当する。県庁所在地は福井市。 北陸地方の最西端に位置しており、同地方で最も人口が少ない県である。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -690,23 +684,23 @@ export default function Page() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
                 <h3 className="text-base font-bold text-stone-900">東尋坊</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本海の荒波によって削られた断崖絶壁が約1km続く国の天然記念物。柱状節理という世界的に珍しい奇岩の崖の上から見下ろす波はスリル満点です。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の】 日本海の荒波によって削られた断崖絶壁が約1km続く国の天然記念物。柱状節理という世界的に珍しい奇岩の崖の上から見下ろす波はスリル満点です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">大本山 永平寺</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">道元禅師によって開かれた曹洞宗の大本山。樹齢数百年の老杉に囲まれた静寂な境内に大小70余りの堂宇が廊下で結ばれ、厳かな修行の息吹が漂います。</p>
+                <h3 className="text-base font-bold text-stone-900">大本山 永平寺（日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の】 道元禅師によって開かれた曹洞宗の大本山。樹齢数百年の老杉に囲まれた静寂な境内に大小70余りの堂宇が廊下で結ばれ、厳かな修行の息吹が漂います。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">三方五湖（レインボーライン）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">淡水・半塩水・海水と水質や水深が異なる5つの湖。山頂公園へ向かうレインボーライン山頂公園からは「五色の湖」と日本海の360度パノラマを楽しめます。</p>
+                <h3 className="text-base font-bold text-stone-900">三方五湖（レインボーライン）（日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の】 淡水・半塩水・海水と水質や水深が異なる5つの湖。山頂公園へ向かうレインボーライン山頂公園からは「五色の湖」と日本海の360度パノラマを楽しめます。</p>
               </div>
             </div>
             </div>
@@ -727,7 +721,7 @@ export default function Page() {
 
       {/* フッター */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
-        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
+        <p>【日本三大茶園＆天空の緑の絨毯・茶畑パノラマと最高峰の】 © 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
     
       <HubRelatedPosts currentSlug="furusato-tax-three-great-tea-plantations-stay" />

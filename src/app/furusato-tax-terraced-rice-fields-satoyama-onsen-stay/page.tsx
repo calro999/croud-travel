@@ -61,10 +61,8 @@ export default function FurusatoFeaturePage() {
 
           {/* 公式キャンペーンCTA */}
           <div className="p-6 rounded-3xl bg-gradient-to-br from-amber-500/20 via-amber-600/10 to-transparent border border-amber-500/30 backdrop-blur max-w-2xl mx-auto">
-            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">
-              楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！
-            </h2>
-            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">
+            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！｜絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガ</h2>
+            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">【絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガ】 
               寄附翌日には楽天トラベルで使えるクーポンが付与。有効期限はたっぷり3年間あるため、次の大型連休や記念日旅行にも安心して活用いただけます。
             </p>
             <a
@@ -458,10 +456,8 @@ export default function FurusatoFeaturePage() {
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto">
         <div className="p-8 sm:p-10 rounded-3xl bg-gradient-to-r from-amber-600/30 via-orange-600/20 to-stone-900 border border-amber-500/40 text-center relative overflow-hidden">
           <div className="relative z-10">
-            <h2 className="text-2xl sm:text-3xl font-black text-amber-100 mb-4">
-              ふるさと納税の宿泊クーポンでお得に極上の旅へ
-            </h2>
-            <p className="text-sm sm:text-base text-stone-300 max-w-2xl mx-auto mb-6 leading-relaxed">
+            <h2 className="text-2xl sm:text-3xl font-black text-amber-100 mb-4">ふるさと納税の宿泊クーポンでお得に極上の旅へ｜絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガ</h2>
+            <p className="text-sm sm:text-base text-stone-300 max-w-2xl mx-auto mb-6 leading-relaxed">【絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガ】 
               寄附上限額の範囲内なら、実質自己負担2,000円で憧れの特等席宿やリゾートに宿泊可能。楽天ポイント還元も併用して、賢く贅沢なひとときをお過ごしください。
             </p>
             <a
@@ -479,9 +475,7 @@ export default function FurusatoFeaturePage() {
 
       {/* 関連記事 内部リンク */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-t border-stone-800">
-        <h2 className="text-xl sm:text-2xl font-bold text-amber-200 mb-6">
-          あわせて読みたい！テーマ別ふるさと納税トラベルガイド
-        </h2>
+        <h2 className="text-xl sm:text-2xl font-bold text-amber-200 mb-6">あわせて読みたい！テーマ別ふるさと納税トラベルガイド｜絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガ</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <Link
@@ -640,7 +634,7 @@ export default function FurusatoFeaturePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>地酒（第一酒造）のラインナップは自称世界一！お酒とお料理と温泉が楽しめます。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 新潟県十日町市松之山天水越88-2 ／ 最寄り駅：松代 ／ 交通案内：ほくほく線　松代駅より路線バスにて２０分　只今、松代駅へ送迎は停止させて頂きます。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
+                  <p>【絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガ】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>越後松之山温泉　旅館明星の滞在ポイント：</strong>「絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガイド星峠・白米千枚田・大山千枚田の休日エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
@@ -684,7 +678,7 @@ export default function FurusatoFeaturePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>能登の山と海の自然な素材を生かした料理を味わっていただきながら心に刻まれる安らぎのひと時をどうぞ。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 石川県珠洲市狼煙町 ／ 最寄り駅：珠洲 ／ 交通案内：奥能登観光バスで狼煙下車、徒歩３分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
+                  <p>【絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガ】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「老朽化と光漏れが気になるが食事は美味全体的に老朽化が目立つ感じでした。部屋から街灯が差し込み、少し寝づらかった。ご飯は美味しかった。魚のフライがフワフワ。宿の人も優しかった。ク…　2026-08-23 18:06:14投稿」
@@ -770,32 +764,32 @@ export default function FurusatoFeaturePage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Menton-C%C3%B4te_d%27Azur.jpg/1280px-Menton-C%C3%B4te_d%27Azur.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="東京ディズニーリゾート" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">東京ディズニーリゾート</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">夢と魔法の王国「東京ディズニーランド」と冒険とイマジネーションの海「東京ディズニーシー」からなる日本最高峰のテーマパークリゾート。 リゾート（Resort）とは、大勢の人が休暇・余暇を過ごす場所のこと。行楽地。保養地。 行楽や保養、観光が地元の文化や経済の主要な要素となっている都市を、リゾート都市またはリゾートタウンと呼ぶ（en:Resort town）。…</p>
+                <h3 className="text-base font-bold text-stone-900">東京ディズニーリゾート（絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガ】 夢と魔法の王国「東京ディズニーランド」と冒険とイマジネーションの海「東京ディズニーシー」からなる日本最高峰のテーマパークリゾート。 リゾート（Resort）とは、大勢の人が休暇・余暇を過ごす場所のこと。行楽地。保養地。 行楽や保養、観光が地元の文化や経済の主要な要素となっている都市を、リゾート都市またはリゾートタウンと呼ぶ（en:Resort town）。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">鴨川シーワールド</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">太平洋をバックに繰り広げられる豪快なシャチのパフォーマンスが有名な総合海洋レジャーセンター。イルカやベルーガのショーも見応え抜群です。</p>
+                <h3 className="text-base font-bold text-stone-900">鴨川シーワールド（絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガ】 太平洋をバックに繰り広げられる豪快なシャチのパフォーマンスが有名な総合海洋レジャーセンター。イルカやベルーガのショーも見応え抜群です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">成田山新勝寺</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">千年以上の日数を数える全国屈指の大本山。参道には老舗のうなぎ店や土産物屋がひしめき、正月や節分には大勢の参拝客で賑わいます。</p>
+                <h3 className="text-base font-bold text-stone-900">成田山新勝寺（絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガ】 千年以上の日数を数える全国屈指の大本山。参道には老舗のうなぎ店や土産物屋がひしめき、正月や節分には大勢の参拝客で賑わいます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">鋸山（日本寺・地獄のぞき）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">房総半島からの絶景が広がる山。山頂近くの断崖絶壁から突き出した「地獄のぞき」からのスリル満点の眺望や日本一の大きさを誇る石仏の大仏様が有名です。</p>
+                <h3 className="text-base font-bold text-stone-900">鋸山（日本寺・地獄のぞき）（絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガ】 房総半島からの絶景が広がる山。山頂近くの断崖絶壁から突き出した「地獄のぞき」からのスリル満点の眺望や日本一の大きさを誇る石仏の大仏様が有名です。</p>
               </div>
             </div>
             </div>

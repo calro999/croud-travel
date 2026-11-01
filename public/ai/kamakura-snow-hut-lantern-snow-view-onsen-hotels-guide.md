@@ -1,5 +1,5 @@
 ---
-title: "かまくら体験ができる宿おすすめ10選！比較"
+title: "【2026最新】幻想のかまくら・雪灯籠体験＆雪見露天風呂・雪国ごちそう鍋が味わえる名門温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/kamakura-snow-hut-lantern-snow-view-onsen-hotels-guide/"
 hotel_name: "幻想のかまくら・雪灯籠体験＆雪見露天風呂・雪国ごちそう鍋が味わえる名門温泉宿おすすめ10選"
 prefecture: "全国"
@@ -10,7 +10,7 @@ review_count: 492
 last_modified: "2026-10-13"
 ---
 
-# かまくら体験ができる宿おすすめ10選！比較
+# 【2026最新】幻想のかまくら・雪灯籠体験＆雪見露天風呂・雪国ごちそう鍋が味わえる名門温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/kamakura-snow-hut-lantern-snow-view-onsen-hotels-guide/
 - **宿泊施設・特集名**: 幻想のかまくら・雪灯籠体験＆雪見露天風呂・雪国ごちそう鍋が味わえる名門温泉宿おすすめ10選

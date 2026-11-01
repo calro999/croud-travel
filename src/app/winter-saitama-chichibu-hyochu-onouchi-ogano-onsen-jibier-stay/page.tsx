@@ -307,7 +307,7 @@ export default function FeaturePage() {
             <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
               秩父・小鹿野・両神 厳選の温泉＆名宿5選
             </h2>
-            <p className="text-xs sm:text-sm text-stone-500">
+            <p className="text-xs sm:text-sm text-stone-500">【尾ノ内百景氷柱と薬師の湯：2026-2027年冬の埼】 
               楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
@@ -630,7 +630,7 @@ export default function FeaturePage() {
                 <h3 className="text-xl sm:text-2xl font-bold">
                   埼玉県の宿に実質2,000円で泊まる賢い方法
                 </h3>
-                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">
+                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">【尾ノ内百景氷柱と薬師の湯：2026-2027年冬の埼】 
                   楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>

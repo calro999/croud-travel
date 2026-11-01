@@ -393,11 +393,11 @@ export default function AutumnLeavesOnsenPage() {
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
               <h4 className="text-sm font-bold text-stone-900">📍 横浜みなとみらい21</h4>
-              <p className="text-xs text-stone-600 leading-relaxed">ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
+              <p className="text-xs text-stone-600 leading-relaxed">【全国：紅葉露天風呂＆絶景温泉旅館ガイド】 ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
               <h4 className="text-sm font-bold text-stone-900">📍 国宝 姫路城（白鷺城）</h4>
-              <p className="text-xs text-stone-600 leading-relaxed">鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
+              <p className="text-xs text-stone-600 leading-relaxed">【全国：紅葉露天風呂＆絶景温泉旅館ガイド】 鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
             </div>
             </div>
           </div>

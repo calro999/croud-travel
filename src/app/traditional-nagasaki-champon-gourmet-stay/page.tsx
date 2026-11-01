@@ -212,21 +212,21 @@ export default function FeatureDetailPage() {
             <Award className="w-6 h-6 text-amber-600" />
             長崎特製ちゃんぽん・卓袱料理＆雲仙・小浜名湯宿の楽しみ方＆おすすめの選び方
           </h2>
-          <p className="text-slate-600 leading-relaxed text-sm sm:text-base">
+          <p className="text-slate-600 leading-relaxed text-sm sm:text-base">【長崎名物・海鮮ちゃんぽん＆卓袱料理】 
             楽天トラベルに寄せられたリアルな宿泊者口コミの中から、特に評価の高いハイクラス宿・隠れ家宿を厳選。テーマに特化した最高峰の体験とおもてなしをお約束します。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-4">
             <div className="bg-amber-50/60 p-4 rounded-xl border border-amber-100">
-              <h3 className="font-bold text-amber-900 text-sm mb-1">① 圧倒的な世界観と体験</h3>
-              <p className="text-xs text-amber-800">ここでしか味わえない非日常の空間と贅沢なひとときを追求。</p>
+              <h3 className="font-bold text-amber-900 text-sm mb-1">① 圧倒的な世界観と体験（長崎名物・海鮮ちゃんぽん＆卓袱料理）</h3>
+              <p className="text-xs text-amber-800">【長崎名物・海鮮ちゃんぽん＆卓袱料理】 ここでしか味わえない非日常の空間と贅沢なひとときを追求。</p>
             </div>
             <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm mb-1">② 口コミ高評価の宿を厳選</h3>
-              <p className="text-xs text-slate-600">総合評価★4.2以上を中心に満足度の高い宿のみをセレクト。</p>
+              <h3 className="font-bold text-slate-900 text-sm mb-1">② 口コミ高評価の宿を厳選（長崎名物・海鮮ちゃんぽん＆卓袱料理）</h3>
+              <p className="text-xs text-slate-600">【長崎名物・海鮮ちゃんぽん＆卓袱料理】 総合評価★4.2以上を中心に満足度の高い宿のみをセレクト。</p>
             </div>
             <div className="bg-emerald-50/60 p-4 rounded-xl border border-emerald-100">
-              <h3 className="font-bold text-emerald-900 text-sm mb-1">③ 楽天トラベル直結予約</h3>
-              <p className="text-xs text-emerald-800">リアルタイムの空室・プラン・限定クーポンを今すぐチェック可能。</p>
+              <h3 className="font-bold text-emerald-900 text-sm mb-1">③ 楽天トラベル直結予約（長崎名物・海鮮ちゃんぽん＆卓袱料理）</h3>
+              <p className="text-xs text-emerald-800">【長崎名物・海鮮ちゃんぽん＆卓袱料理】 リアルタイムの空室・プラン・限定クーポンを今すぐチェック可能。</p>
             </div>
           </div>
         </section>
@@ -237,7 +237,7 @@ export default function FeatureDetailPage() {
             <h2 className="text-2xl font-bold text-slate-900">
               編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）
             </h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">【長崎名物・海鮮ちゃんぽん＆卓袱料理】 楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -541,7 +541,7 @@ export default function FeatureDetailPage() {
 
         {/* 関連タグ */}
         <section className="bg-white rounded-2xl p-6 border border-slate-200">
-          <h3 className="text-sm font-bold text-slate-700 mb-3">関連キーワード・タグ</h3>
+          <h3 className="text-sm font-bold text-slate-700 mb-3">関連キーワード・タグ（長崎名物・海鮮ちゃんぽん＆卓袱料理）</h3>
           <div className="flex flex-wrap gap-2">
             <span className="text-xs bg-slate-100 text-slate-600 px-3 py-1.5 rounded-lg">#長崎ちゃんぽん</span>
             <span className="text-xs bg-slate-100 text-slate-600 px-3 py-1.5 rounded-lg">#卓袱料理</span>
@@ -574,7 +574,7 @@ export default function FeatureDetailPage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（長崎名物・海鮮ちゃんぽん＆卓袱料理）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 諫早駅よりアクセス。JR長崎本線諌早駅よりバスにて80分（雲仙行）。</li>
@@ -586,7 +586,7 @@ export default function FeatureDetailPage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（長崎名物・海鮮ちゃんぽん＆卓袱料理）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「雲仙温泉 名湯の宿 雲仙いわき旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -640,9 +640,7 @@ export default function FeatureDetailPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜長崎名物・海鮮ちゃんぽん＆卓袱料理</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/fukushima-aizu-higashiyama-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -663,7 +661,7 @@ export default function FeatureDetailPage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（長崎名物・海鮮ちゃんぽん＆卓袱料理）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/fukushima/"
@@ -898,31 +896,31 @@ export default function FeatureDetailPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
                 <h3 className="text-base font-bold text-stone-900">大内宿</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">江戸時代の宿場町の面影をそのまま残す国の重要伝統的建造物群保存地区。茅葺き屋根の民家が街道沿いに並び、名物の「高遠そば（一本ねぎそば）」を味わえます。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【長崎名物・海鮮ちゃんぽん＆卓袱料理】 江戸時代の宿場町の面影をそのまま残す国の重要伝統的建造物群保存地区。茅葺き屋根の民家が街道沿いに並び、名物の「高遠そば（一本ねぎそば）」を味わえます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">鶴ヶ城（会津若松城）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">戊辰戦争の激戦に耐え抜いた難攻不落の名城。赤瓦を纏った天守閣は日本唯一であり、内部の歴史資料館や最上階からの城下町一望が見どころです。</p>
+                <h3 className="text-base font-bold text-stone-900">鶴ヶ城（会津若松城）（長崎名物・海鮮ちゃんぽん＆卓袱料理）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【長崎名物・海鮮ちゃんぽん＆卓袱料理】 戊辰戦争の激戦に耐え抜いた難攻不落の名城。赤瓦を纏った天守閣は日本唯一であり、内部の歴史資料館や最上階からの城下町一望が見どころです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">五色沼湖沼群（裏磐梯）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">磐梯山の噴火によって形成された無数の神秘的な沼群。水に含まれる鉱物や気象条件により、エメラルドグリーンやコバルトブルーに色彩が変わるハイキングコースです。</p>
+                <h3 className="text-base font-bold text-stone-900">五色沼湖沼群（裏磐梯）（長崎名物・海鮮ちゃんぽん＆卓袱料理）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【長崎名物・海鮮ちゃんぽん＆卓袱料理】 磐梯山の噴火によって形成された無数の神秘的な沼群。水に含まれる鉱物や気象条件により、エメラルドグリーンやコバルトブルーに色彩が変わるハイキングコースです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">猪苗代湖</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「天鏡湖」とも称される日本第4位の面積を誇る美しい湖。雄大な磐梯山を水面に映し出し、冬には飛来するハクチョウやしぶき氷の絶景が見られます。</p>
+                <h3 className="text-base font-bold text-stone-900">猪苗代湖（長崎名物・海鮮ちゃんぽん＆卓袱料理）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【長崎名物・海鮮ちゃんぽん＆卓袱料理】 「天鏡湖」とも称される日本第4位の面積を誇る美しい湖。雄大な磐梯山を水面に映し出し、冬には飛来するハクチョウやしぶき氷の絶景が見られます。</p>
               </div>
             </div>
             </div>

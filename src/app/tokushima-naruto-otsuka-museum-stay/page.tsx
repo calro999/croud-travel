@@ -325,7 +325,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「徳島・鳴門＆大塚国際美術館（世界三大潮流・鳴門の渦潮＆陶板名画・鳴門鯛宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：神戸淡路鳴門自動車道 鳴門北ＩＣより１分 ＪＲ鳴門駅より車で約１０分 大塚美術館まで車で3分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【徳島・鳴門＆大塚国際美術館：世界三大潮流・鳴門の渦潮】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「子供も大人も大満足、海辺の遊びと食事を満喫家族で伺いました。チェックインは15時でしたが.12時にホテルにつきチェックインまで海辺や、釣りぼり、職業体験などでとても楽しむことができました。… 2026-09-05 20:05:36投稿」

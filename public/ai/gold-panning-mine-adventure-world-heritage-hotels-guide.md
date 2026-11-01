@@ -1,5 +1,5 @@
 ---
-title: "砂金採り体験ができる宿おすすめ10選！比較"
+title: "【2026最新】砂金採り・鉱山探検・世界遺産！金山ゴールドラッシュ体験ができる温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/gold-panning-mine-adventure-world-heritage-hotels-guide/"
 hotel_name: "砂金採り・鉱山探検・世界遺産！金山ゴールドラッシュ体験ができる温泉宿おすすめ10選"
 prefecture: "全国"
@@ -10,7 +10,7 @@ review_count: 492
 last_modified: "2026-10-13"
 ---
 
-# 砂金採り体験ができる宿おすすめ10選！比較
+# 【2026最新】砂金採り・鉱山探検・世界遺産！金山ゴールドラッシュ体験ができる温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/gold-panning-mine-adventure-world-heritage-hotels-guide/
 - **宿泊施設・特集名**: 砂金採り・鉱山探検・世界遺産！金山ゴールドラッシュ体験ができる温泉宿おすすめ10選

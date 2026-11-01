@@ -391,26 +391,24 @@ export default function AutumnBudgetHotelsPage() {
       {/* 予約のコツ・アドバイス */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-br from-amber-50 to-orange-50 border border-amber-200/80 rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg font-bold text-amber-950 flex items-center gap-2">
-            <CheckCircle2 className="w-5 h-5 text-amber-600" />
-            秋の格安旅行をお得に満喫するためのポイント
-          </h2>
+          <h2 className="text-lg font-bold text-amber-950 flex items-center gap-2"><CheckCircle2 className="w-5 h-5 text-amber-600" />
+            秋の格安旅行をお得に満喫するためのポイント｜鳥取駅前：黄金の鳥取砂丘＆幻のモサエビ・鳥取和牛</h2>
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             <div className="bg-white/80 rounded-xl p-4 border border-amber-100">
-              <h3 className="font-bold text-sm text-slate-900 mb-1">平日泊で更なる割引</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">
+              <h3 className="font-bold text-sm text-slate-900 mb-1">平日泊で更なる割引（鳥取駅前：黄金の鳥取砂丘＆幻のモサエビ・鳥取和牛）</h3>
+              <p className="text-xs text-slate-600 leading-relaxed">【鳥取駅前：黄金の鳥取砂丘＆幻のモサエビ・鳥取和牛】 
                 紅葉シーズンは金曜・土曜の宿泊料金が高騰しがちですが、日〜木曜の平日泊なら最安プランが狙い目。人混みも少なく快適に名所を楽しめます。
               </p>
             </div>
             <div className="bg-white/80 rounded-xl p-4 border border-amber-100">
-              <h3 className="font-bold text-sm text-slate-900 mb-1">直前割＆早割を活用</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">
+              <h3 className="font-bold text-sm text-slate-900 mb-1">直前割＆早割を活用（鳥取駅前：黄金の鳥取砂丘＆幻のモサエビ・鳥取和牛）</h3>
+              <p className="text-xs text-slate-600 leading-relaxed">【鳥取駅前：黄金の鳥取砂丘＆幻のモサエビ・鳥取和牛】 
                 14日前〜28日前までの早期予約や、空室が出た直前のタイムセールを狙うことで、通常価格より1,000円〜2,000円以上安く泊まれるチャンスがあります。
               </p>
             </div>
             <div className="bg-white/80 rounded-xl p-4 border border-amber-100">
-              <h3 className="font-bold text-sm text-slate-900 mb-1">浮いた予算で旬の味覚</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">
+              <h3 className="font-bold text-sm text-slate-900 mb-1">浮いた予算で旬の味覚（鳥取駅前：黄金の鳥取砂丘＆幻のモサエビ・鳥取和牛）</h3>
+              <p className="text-xs text-slate-600 leading-relaxed">【鳥取駅前：黄金の鳥取砂丘＆幻のモサエビ・鳥取和牛】 
                 宿泊を賢く格安ホテルに抑えることで、浮いた数千円の予算をご当地の豪華な旬の味覚や地酒ディナー、日帰り温泉の入浴料に贅沢に使えます。
               </p>
             </div>
@@ -535,7 +533,7 @@ export default function AutumnBudgetHotelsPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「鳥取駅前（黄金の鳥取砂丘＆幻のモサエビ・鳥取和牛）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ鳥取駅北口より徒歩にて約３分、鳥取自動車道 鳥取ＩＣより国道53号線を鳥取市方面へ車で14分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【鳥取駅前：黄金の鳥取砂丘＆幻のモサエビ・鳥取和牛】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「1週間でリピートするほど大満足の定宿毎度毎度毎度毎度の定宿!いつもお世話になっております。前の週にプライベート(夏休み)でも訪れて、1週間でのリピート。それでもそれでも大満足のGRクオリティはシン…　2026-09-18 15:45:29投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=176748&quot; class=&quot;3click&quot;」

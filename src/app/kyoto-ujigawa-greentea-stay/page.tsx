@@ -409,7 +409,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>JR宇治駅南口より徒歩約3分♪源氏物語ミュージアムや平等院鳳凰堂など観光にGood☆</p>
                   <p><strong>【所在地・アクセス】</strong>〒 京都府宇治市宇治壱番19-2 ／ 最寄り駅：主要駅 ／ 交通案内：JR宇治駅より徒歩にて約3分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【京都・宇治：平等院鳳凰堂・宇治茶＆源氏物語ゆかりの川】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、駐車場の手配もスムーズJR宇治駅から1番近いですが、今回は仕事で訪れました。車で向かう予定でしたので事前にその旨を伝えたところ、駐車場の手配もして頂きありがとうございます。公共…　2026-08-22 17:29:51投稿」

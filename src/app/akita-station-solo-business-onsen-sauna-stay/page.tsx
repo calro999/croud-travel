@@ -96,9 +96,7 @@ export default function ArticlePage() {
       {/* 目次インデックス */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-stone-100 p-5 rounded-xl border border-stone-200">
-          <h2 className="text-base font-bold text-stone-900 mb-3 flex items-center gap-2">
-            <span>📑</span> 本記事でご紹介する厳選ホテル
-          </h2>
+          <h2 className="text-base font-bold text-stone-900 mb-3 flex items-center gap-2"><span>📑</span> 本記事でご紹介する厳選ホテル｜秋田駅前出張・天然温泉サウナ：秋田新幹線こまち・中通</h2>
           <ul className="space-y-2 text-sm text-stone-700">
             <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 中通温泉　こまちの湯　ドーミーイン秋田（ドーミーイン・御宿野乃　ホテルズグループ）（★4.44 / 最低目安：5,989円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. ダイワロイネットホテル秋田駅前（★4.52 / 最低目安：4,275円〜）</a></li>
@@ -149,9 +147,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">
-                <span>🌟</span> ひとり滞在・出張で選ばれる理由
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由（秋田駅前出張・天然温泉サウナ：秋田新幹線こまち・中通）</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>駅から徒歩約8分！ホテル最上階“露天風呂”と“天然温泉大浴場”が人気！</span></li>
               </ul>
@@ -210,9 +206,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">
-                <span>🌟</span> ひとり滞在・出張で選ばれる理由
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由（秋田駅前出張・天然温泉サウナ：秋田新幹線こまち・中通）</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>2025年2月新築開業！ダイワロイネットホテルズで初サウナ完備の大浴場が登場／1階コンビニ有で便利！</span></li>
               </ul>
@@ -271,9 +265,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">
-                <span>🌟</span> ひとり滞在・出張で選ばれる理由
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由（秋田駅前出張・天然温泉サウナ：秋田新幹線こまち・中通）</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>リブランドによる、新しく美しい木質空間</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>大浴場と郷土料理を提供するレストランを完備</span></li>
@@ -330,9 +322,7 @@ export default function ArticlePage() {
       {/* FAQ セクション */}
       <section id="faq" className="max-w-4xl mx-auto px-4 sm:px-6 mt-16">
         <div className="bg-stone-100 p-6 sm:p-8 rounded-2xl border border-stone-200">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-300 pb-3">
-            <span>❓</span> 滞在に関するよくある質問（FAQ）
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-300 pb-3"><span>❓</span> 滞在に関するよくある質問（FAQ）｜秋田駅前出張・天然温泉サウナ：秋田新幹線こまち・中通</h2>
           <div className="space-y-4">
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
               <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
@@ -359,10 +349,8 @@ export default function ArticlePage() {
       {/* 予約案内バナー */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mt-16">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-6 sm:p-8 rounded-2xl shadow-md text-center">
-          <h3 className="text-lg sm:text-xl font-bold mb-2">
-            楽天トラベルで最新の空室状況・限定ポイントキャンペーンをチェック
-          </h3>
-          <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">
+          <h3 className="text-lg sm:text-xl font-bold mb-2">楽天トラベルで最新の空室状況・限定ポイントキャンペーンをチェック（秋田駅前出張・天然温泉サウナ：秋田新幹線こまち・中通）</h3>
+          <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">【秋田駅前出張・天然温泉サウナ：秋田新幹線こまち・中通】 
             平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
@@ -400,7 +388,7 @@ export default function ArticlePage() {
                 <span>Q. 事前準備や持ち物で注意すべきポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
-              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
+              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">【秋田駅前出張・天然温泉サウナ：秋田新幹線こまち・中通】 
                 A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
@@ -611,16 +599,16 @@ export default function ArticlePage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Pathway_to_the_Qkamura_Nyuto_Onsenkyo.jpg/1280px-Pathway_to_the_Qkamura_Nyuto_Onsenkyo.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="乳頭温泉郷" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">乳頭温泉郷</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">十和田八幡平国立公園のブナ原生林に点在する7つの秘湯温泉郷。独自のお湯と茅葺き屋根の木造旅籠が醸し出すノスタルジーは、全国の温泉ファン憧れの聖地です。 乳頭温泉郷（にゅうとうおんせんきょう）は、秋田県仙北市、十和田八幡平国立公園内乳頭山の山麓に点在する温泉の総称、温泉郷である。 標高600 - 800メートル付近に温泉郷が広がっている。…</p>
+                <h3 className="text-base font-bold text-stone-900">乳頭温泉郷（秋田駅前出張・天然温泉サウナ：秋田新幹線こまち・中通）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【秋田駅前出張・天然温泉サウナ：秋田新幹線こまち・中通】 十和田八幡平国立公園のブナ原生林に点在する7つの秘湯温泉郷。独自のお湯と茅葺き屋根の木造旅籠が醸し出すノスタルジーは、全国の温泉ファン憧れの聖地です。 乳頭温泉郷（にゅうとうおんせんきょう）は、秋田県仙北市、十和田八幡平国立公園内乳頭山の山麓に点在する温泉の総称、温泉郷である。 標高600 - 800メートル付近に温泉郷が広がっている。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">角館の武家屋敷通り</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「みちのくの小京都」と称される歴史情緒あふれる城下町。黒板塀が続く静かな通りと、春には塀越しに垂れ下がる垂れ桜、秋には紅葉のコントラストが実に映えます。</p>
+                <h3 className="text-base font-bold text-stone-900">角館の武家屋敷通り（秋田駅前出張・天然温泉サウナ：秋田新幹線こまち・中通）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【秋田駅前出張・天然温泉サウナ：秋田新幹線こまち・中通】 「みちのくの小京都」と称される歴史情緒あふれる城下町。黒板塀が続く静かな通りと、春には塀越しに垂れ下がる垂れ桜、秋には紅葉のコントラストが実に映えます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -628,15 +616,15 @@ export default function ArticlePage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
                 <h3 className="text-base font-bold text-stone-900">田沢湖</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本一の水深（423.4m）を誇る円形の淡水湖。水深ゆえの深い瑠璃色の水面と、金色の辰子姫像が神秘的な美しさを漂わせています。 田沢湖（たざわこ）は、秋田県仙北市にある淡水湖。一級河川雄物川水系に属する。日本で最も深い湖であり、日本で19番目に広い湖沼でもある。その全域が田沢湖抱返り県立自然公園に指定されており、日本百景にも選ばれている景勝地である。1956年（昭和31年）から2005年（平成17年）まで存在した自治体である田沢湖町の名の由来であり、現在も旧田沢湖町の区域の地名冠称と…</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【秋田駅前出張・天然温泉サウナ：秋田新幹線こまち・中通】 日本一の水深（423.4m）を誇る円形の淡水湖。水深ゆえの深い瑠璃色の水面と、金色の辰子姫像が神秘的な美しさを漂わせています。 田沢湖（たざわこ）は、秋田県仙北市にある淡水湖。一級河川雄物川水系に属する。日本で最も深い湖であり、日本で19番目に広い湖沼でもある。その全域が田沢湖抱返り県立自然公園に指定されており、日本百景にも選ばれている景勝地である。1956年（昭和31年）から2005年（平成17年）まで存在した自治体である田沢湖町の名の由来であり、現在も旧田沢湖町の区域の地名冠称と…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">男鹿半島・入道崎</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本海の絶壁と緑の芝生がコントラストを成す男鹿半島の最北端。北緯40度線上に位置し、白黒ラインの入道崎灯台から眺める夕日は日本の灯台50選に選ばれています。</p>
+                <h3 className="text-base font-bold text-stone-900">男鹿半島・入道崎（秋田駅前出張・天然温泉サウナ：秋田新幹線こまち・中通）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【秋田駅前出張・天然温泉サウナ：秋田新幹線こまち・中通】 日本海の絶壁と緑の芝生がコントラストを成す男鹿半島の最北端。北緯40度線上に位置し、白黒ラインの入道崎灯台から眺める夕日は日本の灯台50選に選ばれています。</p>
               </div>
             </div>
             </div>

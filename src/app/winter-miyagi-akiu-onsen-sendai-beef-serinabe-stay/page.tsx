@@ -321,10 +321,8 @@ export default function AkiuWinterPage() {
 
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
-          <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-emerald-700" />
-            目次・インデックス
-          </h2>
+          <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-emerald-700" />
+            目次・インデックス｜秋保温泉で過ごす冬の旅（11・12月）</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#rairaikyo" className="hover:text-emerald-700 hover:underline flex items-center gap-1.5">
               <span>1. 磊々峡の初冬景観：名取川の浸食が生んだ奇岩とハートの岩</span>
@@ -637,9 +635,7 @@ export default function AkiuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜秋保温泉で過ごす冬の旅（11・12月）</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -711,7 +707,7 @@ export default function AkiuWinterPage() {
               className="bg-emerald-900/80 hover:bg-emerald-900 p-4 rounded-2xl transition border border-emerald-800/50 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
+              <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">全国の厳選温泉・宿特集まとめを見る（秋保温泉で過ごす冬の旅（11・12月））</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay" />

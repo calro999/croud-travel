@@ -1,5 +1,5 @@
 ---
-title: "手漉き和紙体験ができる宿おすすめ10選"
+title: "【2026最新】手漉き和紙・美濃和紙・越前和紙！伝統和紙作り体験ができる温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/handcrafted-washi-papermaking-artisan-onsen-hotels-guide/"
 hotel_name: "手漉き和紙・美濃和紙・越前和紙！伝統和紙作り体験ができる温泉宿おすすめ10選"
 prefecture: "全国"
@@ -10,7 +10,7 @@ review_count: 492
 last_modified: "2026-10-13"
 ---
 
-# 手漉き和紙体験ができる宿おすすめ10選
+# 【2026最新】手漉き和紙・美濃和紙・越前和紙！伝統和紙作り体験ができる温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/handcrafted-washi-papermaking-artisan-onsen-hotels-guide/
 - **宿泊施設・特集名**: 手漉き和紙・美濃和紙・越前和紙！伝統和紙作り体験ができる温泉宿おすすめ10選

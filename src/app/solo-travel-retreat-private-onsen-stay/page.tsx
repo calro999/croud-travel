@@ -440,7 +440,7 @@ export default function TargetAudienceHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【秩父雲海】標高417メートル！眺望自慢の宿★展望風呂・地産食材のお料理が自慢</p>
                   <p><strong>【所在地・アクセス】</strong>〒 埼玉県秩父郡皆野町皆野3415 ／ 最寄り駅：皆野 ／ 交通案内：関越花園IC約30分。皆野駅より15:00無料送迎（要予約）。西武秩父駅は10名以上で対応。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
+                  <p>【大人のひとり温泉旅：お部屋食・客室露天風呂＆レイトア】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は最高だが接客に大きな不満ありお食事は文句なしですお部屋の掃除も入浴施設もまあまあの及第点かな。接客についてはマイナス50点ぐらい?お客様をもてなすという宿泊施設の原点というか基本がな…　2026-08-22 09:18:45投稿」

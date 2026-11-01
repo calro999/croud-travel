@@ -321,7 +321,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>京都の旅館ならではの日本の伝統美と現代アートの空間で四季折々の京懐石とオーストリアワインを愉しむ</p>
                   <p><strong>【所在地・アクセス】</strong>〒 京都府亀岡市湯の花温泉 ／ 最寄り駅：亀岡 ／ 交通案内：JR亀岡駅より車で２０分/京都縦貫道亀岡ICよりR372で約１０分/阪神高速池田線木部ICよりR423で約４０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
+                  <p>【京都・嵐山：竹林の小径・渡月橋＆嵯峨野おこもり宿 厳】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.41 ／ 立地 ★4.26 ／ 部屋 ★4.4 ／ 設備 ★4.28 ／ 風呂 ★4.35 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「工夫された食事と露天風呂付きの広い部屋お食事内容が大変工夫されていました。お味も見た目の美しさも量も種類も満足にいただきました。露天風呂付きお部屋でしたが、広く落ち着いた雰囲気で湯量もたっぷり出て…　2026-09-17 02:13:54投稿」

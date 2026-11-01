@@ -76,9 +76,7 @@ export default function Page() {
       />
         {/* Intro Card */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">
-            はじめに
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">はじめに｜日本のウイスキー聖地＆蒸溜所ツアーと極上オーベルジュ</h2>
           <p className="text-slate-700 leading-relaxed text-base sm:text-lg">
             世界5大ウイスキーの一つとして世界中のコレクターやウイスキーファンを魅了し続ける「ジャパニーズウイスキー」。竹鶴政孝が本場スコットランドの製法を愚直に再現した北の聖地・北海道「余市蒸溜所」、南アルプスの広大な天然水林に囲まれ世界でも稀な森の蒸溜所として知られる山梨「白州蒸溜所」、そして霊峰富士の裾野で清らかな雪解け地下水をふんだんに用いてグレーンウイスキーの極みを追求する静岡「富士御殿場蒸溜所」。蒸溜所での限定試飲や見学を楽しんだ後は、地元の極上食材とウイスキーペアリングディナーを提供するオーベルジュや温泉ホテルに泊まり、至福のナイトキャップを楽しむ大人の贅沢旅を楽天ふるさと納税で体験しましょう。
           </p>
@@ -87,10 +85,8 @@ export default function Page() {
             <div className="flex items-start gap-4">
               <span className="text-3xl">💡</span>
               <div>
-                <h3 className="text-base sm:text-lg font-bold text-amber-900 mb-1">
-                  楽天ふるさと納税「トラベルクーポン」賢い活用法
-                </h3>
-                <p className="text-sm sm:text-base text-amber-800 leading-relaxed">
+                <h3 className="text-base sm:text-lg font-bold text-amber-900 mb-1">楽天ふるさと納税「トラベルクーポン」賢い活用法（日本のウイスキー聖地＆蒸溜所ツアーと極上オーベルジュ）</h3>
+                <p className="text-sm sm:text-base text-amber-800 leading-relaxed">【日本のウイスキー聖地＆蒸溜所ツアーと極上オーベルジュ】 
                   寄付額の最大30%分の宿泊クーポンが付与され、寄付当日から予約に即時利用可能。通常の楽天ポイント還元やお買い物マラソンとも併用できるため、実質自己負担2,000円で憧れの高級リゾートや名湯旅館に泊まれる最強の制度です。
                 </p>
               </div>
@@ -100,9 +96,7 @@ export default function Page() {
 
         {/* 3 Merits */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 border-l-4 border-indigo-600 pl-4">
-            この特集ならではの3大魅力
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 border-l-4 border-indigo-600 pl-4">この特集ならではの3大魅力｜日本のウイスキー聖地＆蒸溜所ツアーと極上オーベルジュ</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
             <div key="0" className="bg-slate-50 rounded-xl p-5 border border-slate-200 hover:border-indigo-300 transition-colors">
@@ -673,10 +667,8 @@ export default function Page() {
             <span>🎟️</span>
             <span>楽天ふるさと納税×楽天トラベル 公式連携</span>
           </div>
-          <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold mb-4 leading-tight">
-            ふるさと納税で賢くお得に、憧れの極上宿へ
-          </h2>
-          <p className="text-slate-300 text-sm sm:text-base max-w-2xl mx-auto mb-8 leading-relaxed">
+          <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold mb-4 leading-tight">ふるさと納税で賢くお得に、憧れの極上宿へ｜日本のウイスキー聖地＆蒸溜所ツアーと極上オーベルジュ</h2>
+          <p className="text-slate-300 text-sm sm:text-base max-w-2xl mx-auto mb-8 leading-relaxed">【日本のウイスキー聖地＆蒸溜所ツアーと極上オーベルジュ】 
             返礼品の宿泊クーポンは翌年以降の旅行にも活用でき、ポイント還元もフル適用。実質2,000円の自己負担でワンランク上の滞在をお楽しみください。
           </p>
           <div className="flex flex-col sm:flex-row justify-center items-center gap-4 max-w-md mx-auto">
@@ -693,9 +685,7 @@ export default function Page() {
 
         {/* Cross Links Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
-          <h2 className="text-lg sm:text-xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">
-            あわせて読みたい関連特集ガイド
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">あわせて読みたい関連特集ガイド｜日本のウイスキー聖地＆蒸溜所ツアーと極上オーベルジュ</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             
             <Link
@@ -750,7 +740,7 @@ export default function Page() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（日本のウイスキー聖地＆蒸溜所ツアーと極上オーベルジュ）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 余市駅よりアクセス。ＪＲ余市駅より約３キロ、タクシー片道1200円程度／札樽自動車道・札幌西～仁木ＩＣ経由 約４５分。</li>
@@ -762,7 +752,7 @@ export default function Page() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（日本のウイスキー聖地＆蒸溜所ツアーと極上オーベルジュ）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ホテル 水明閣」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -816,9 +806,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜日本のウイスキー聖地＆蒸溜所ツアーと極上オーベルジュ</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/traditional-hokkaido-kaisen-don-morning-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -839,7 +827,7 @@ export default function Page() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（日本のウイスキー聖地＆蒸溜所ツアーと極上オーベルジュ）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/fukui/"

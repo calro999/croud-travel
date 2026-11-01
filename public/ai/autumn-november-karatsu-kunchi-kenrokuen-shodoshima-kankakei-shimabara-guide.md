@@ -1,5 +1,5 @@
 ---
-title: "【2026年11月】唐津くんち＆呼子イカ・金沢兼六園の雪吊り・小豆島寒霞渓・島原温泉！楽天★4.4〜4.7の名宿4選"
+title: "【2026年11月】洋々閣・金沢湯涌温泉 百楽荘 ほか｜楽天トラベル高評価の名宿・温泉・口コミ徹底比較"
 url: "https://croud-travel.pages.dev/posts/autumn-november-karatsu-kunchi-kenrokuen-shodoshima-kankakei-shimabara-guide/"
 hotel_name: "洋々閣・金沢湯涌温泉 百楽荘 ほか"
 prefecture: "石川県"
@@ -10,7 +10,7 @@ review_count: 160
 last_modified: "2026-11-01"
 ---
 
-# 【2026年11月】唐津くんち＆呼子イカ・金沢兼六園の雪吊り・小豆島寒霞渓・島原温泉！楽天★4.4〜4.7の名宿4選
+# 【2026年11月】洋々閣・金沢湯涌温泉 百楽荘 ほか｜楽天トラベル高評価の名宿・温泉・口コミ徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-november-karatsu-kunchi-kenrokuen-shodoshima-kankakei-shimabara-guide/
 - **宿泊施設・特集名**: 洋々閣・金沢湯涌温泉 百楽荘 ほか

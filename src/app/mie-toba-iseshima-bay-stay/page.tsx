@@ -396,7 +396,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自家源泉の宿。旅のお疲れを源泉で癒した後は鳥羽湾を眺望しながら伊勢志摩の幸をご堪能下さい。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 三重県鳥羽市安楽島町1075-100 ／ 最寄り駅：鳥羽 ／ 交通案内：JR・近鉄「鳥羽駅」下車（無料送迎バス有・要予約） / 伊勢自動車道 伊勢ICより車で２０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
+                  <p>【三重・鳥羽温泉郷：鳥羽水族館・ミキモト真珠島＆伊勢海】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「眺望と食事と温泉は最高、館内は暑めお部屋から見える眺望が素晴らしくて、夜には花火がよく見えました。鮑と松阪牛つきの夕食は高齢の私には少し多いかなと思っていましたが、とても美味しくてペロリといただき…　2026-08-20 18:58:02投稿」

@@ -99,10 +99,8 @@ export default function FurusatoHighlandRanchFarmStayPage() {
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
-          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-6 flex items-center gap-3">
-            <span className="text-amber-600 text-xl md:text-2xl">◆</span>
-            この旅で体感したい3つの醍醐味
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-6 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
+            この旅で体感したい3つの醍醐味｜動物とのふれあい体験＆高原観光牧場リゾート名門ホテル</h2>
           <div className="grid gap-6">
 
             <div className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200/80 shadow-xs">
@@ -155,11 +153,9 @@ export default function FurusatoHighlandRanchFarmStayPage() {
         {/* 厳選名宿セクション */}
         <section className="mb-16">
           <div className="mb-8">
-            <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-3 flex items-center gap-3">
-              <span className="text-amber-600 text-xl md:text-2xl">◆</span>
-              ふるさと納税で泊まる厳選名宿
-            </h2>
-            <p className="text-stone-600 text-sm leading-relaxed">
+            <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-3 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
+              ふるさと納税で泊まる厳選名宿｜動物とのふれあい体験＆高原観光牧場リゾート名門ホテル</h2>
+            <p className="text-stone-600 text-sm leading-relaxed">【動物とのふれあい体験＆高原観光牧場リゾート名門ホテル】 
               楽天トラベルAPIから最新の実在宿データを取得。対象自治体のふるさと納税クーポンを利用して実質2,000円で泊まれる名宿です。
             </p>
           </div>
@@ -355,9 +351,7 @@ export default function FurusatoHighlandRanchFarmStayPage() {
 
         {/* 関連特集クロスリンク */}
         <section className="bg-stone-50 rounded-3xl p-8 border border-stone-200/80 mb-16">
-          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">
-            あわせて読みたい関連特集
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">あわせて読みたい関連特集｜動物とのふれあい体験＆高原観光牧場リゾート名門ホテル</h2>
           <ul className="grid sm:grid-cols-2 gap-2">
 
               <li key="furusato-tax-welcome-baby-family-kids-stay">
@@ -396,10 +390,8 @@ export default function FurusatoHighlandRanchFarmStayPage() {
 
         {/* ハブページへの誘導フッター */}
         <div className="bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 text-white rounded-3xl p-8 md:p-10 shadow-xl border border-amber-900/40 text-center mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">
-            もっとお得に旅を楽しむためのハブページへ
-          </h2>
-          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">
+          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">もっとお得に旅を楽しむためのハブページへ｜動物とのふれあい体験＆高原観光牧場リゾート名門ホテル</h2>
+          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">【動物とのふれあい体験＆高原観光牧場リゾート名門ホテル】 
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
@@ -429,7 +421,7 @@ export default function FurusatoHighlandRanchFarmStayPage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（動物とのふれあい体験＆高原観光牧場リゾート名門ホテル）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 黒磯駅よりアクセス。那須塩原駅西口よりホテルまで無料バスにて約40分 要予約 、東北自動車道那須ICより「那須街道」を湯本方面へ約20分。</li>
@@ -441,7 +433,7 @@ export default function FurusatoHighlandRanchFarmStayPage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（動物とのふれあい体験＆高原観光牧場リゾート名門ホテル）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「那須温泉 ホテルサンバレー那須」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -495,9 +487,7 @@ export default function FurusatoHighlandRanchFarmStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜動物とのふれあい体験＆高原観光牧場リゾート名門ホテル</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-budget-hokkaido-hakodate-station-goryokaku-asaichi-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -518,7 +508,7 @@ export default function FurusatoHighlandRanchFarmStayPage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（動物とのふれあい体験＆高原観光牧場リゾート名門ホテル）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/wakayama/"

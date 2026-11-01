@@ -391,26 +391,24 @@ export default function AutumnBudgetHotelsPage() {
       {/* 予約のコツ・アドバイス */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-br from-amber-50 to-orange-50 border border-amber-200/80 rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg font-bold text-amber-950 flex items-center gap-2">
-            <CheckCircle2 className="w-5 h-5 text-amber-600" />
-            秋の格安旅行をお得に満喫するためのポイント
-          </h2>
+          <h2 className="text-lg font-bold text-amber-950 flex items-center gap-2"><CheckCircle2 className="w-5 h-5 text-amber-600" />
+            秋の格安旅行をお得に満喫するためのポイント｜高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ</h2>
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             <div className="bg-white/80 rounded-xl p-4 border border-amber-100">
-              <h3 className="font-bold text-sm text-slate-900 mb-1">平日泊で更なる割引</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">
+              <h3 className="font-bold text-sm text-slate-900 mb-1">平日泊で更なる割引（高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ）</h3>
+              <p className="text-xs text-slate-600 leading-relaxed">【高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ】 
                 紅葉シーズンは金曜・土曜の宿泊料金が高騰しがちですが、日〜木曜の平日泊なら最安プランが狙い目。人混みも少なく快適に名所を楽しめます。
               </p>
             </div>
             <div className="bg-white/80 rounded-xl p-4 border border-amber-100">
-              <h3 className="font-bold text-sm text-slate-900 mb-1">直前割＆早割を活用</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">
+              <h3 className="font-bold text-sm text-slate-900 mb-1">直前割＆早割を活用（高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ）</h3>
+              <p className="text-xs text-slate-600 leading-relaxed">【高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ】 
                 14日前〜28日前までの早期予約や、空室が出た直前のタイムセールを狙うことで、通常価格より1,000円〜2,000円以上安く泊まれるチャンスがあります。
               </p>
             </div>
             <div className="bg-white/80 rounded-xl p-4 border border-amber-100">
-              <h3 className="font-bold text-sm text-slate-900 mb-1">浮いた予算で旬の味覚</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">
+              <h3 className="font-bold text-sm text-slate-900 mb-1">浮いた予算で旬の味覚（高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ）</h3>
+              <p className="text-xs text-slate-600 leading-relaxed">【高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ】 
                 宿泊を賢く格安ホテルに抑えることで、浮いた数千円の予算をご当地の豪華な旬の味覚や地酒ディナー、日帰り温泉の入浴料に贅沢に使えます。
               </p>
             </div>
@@ -621,32 +619,32 @@ export default function AutumnBudgetHotelsPage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Yubatake_%28Kusatsu_Onsen%29.jpg/1280px-Yubatake_%28Kusatsu_Onsen%29.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="草津温泉（湯畑）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">草津温泉（湯畑）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三名泉の一つで自然湧出量日本一を誇る温泉街のシンボル。毎分4,000リットルの源泉が湯滝となって湧き出し、湯もみ体験や夜のライトアップも人気です。 草津温泉（くさつおんせん）は、群馬県吾妻郡草津町草津界隈（江戸時代における上野国吾妻郡草津村界隈、幕藩体制下の上州御料草津村界隈〈初期は沼田藩知行〉）に所在する温泉である。草津白根山東麓に位置する。 毎分3万2300リットル以上の自然湧出量は日本一。室町時代には万里集九が有馬温泉や下呂温泉とともに「三名泉」とし、江戸時代には林羅山もこれらの三温泉を「天下の三…</p>
+                <h3 className="text-base font-bold text-stone-900">草津温泉（湯畑）（高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ】 日本三名泉の一つで自然湧出量日本一を誇る温泉街のシンボル。毎分4,000リットルの源泉が湯滝となって湧き出し、湯もみ体験や夜のライトアップも人気です。 草津温泉（くさつおんせん）は、群馬県吾妻郡草津町草津界隈（江戸時代における上野国吾妻郡草津村界隈、幕藩体制下の上州御料草津村界隈〈初期は沼田藩知行〉）に所在する温泉である。草津白根山東麓に位置する。 毎分3万2300リットル以上の自然湧出量は日本一。室町時代には万里集九が有馬温泉や下呂温泉とともに「三名泉」とし、江戸時代には林羅山もこれらの三温泉を「天下の三…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Ikaho_Onsen_03.jpg/1280px-Ikaho_Onsen_03.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="伊香保温泉（石段街）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">伊香保温泉（石段街）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">365段の石段が続く情緒溢れる温泉街。石段の両脇には射的場や土産物店、足湯が立ち並び、温泉まんじゅう発祥の地としても知られています。 伊香保温泉（いかほおんせん）は、群馬県渋川市伊香保町にある温泉。草津温泉と並んで県を代表する名湯で、上毛かるたでは「伊香保温泉 日本の名湯」と歌われている。 「伊香保温泉」として地域団体商標に登録されている。…</p>
+                <h3 className="text-base font-bold text-stone-900">伊香保温泉（石段街）（高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ】 365段の石段が続く情緒溢れる温泉街。石段の両脇には射的場や土産物店、足湯が立ち並び、温泉まんじゅう発祥の地としても知られています。 伊香保温泉（いかほおんせん）は、群馬県渋川市伊香保町にある温泉。草津温泉と並んで県を代表する名湯で、上毛かるたでは「伊香保温泉 日本の名湯」と歌われている。 「伊香保温泉」として地域団体商標に登録されている。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">富岡製糸場</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">明治政府が設立した日本初の本格的な製糸工場であり、世界文化遺産。木骨レンガ造りの巨大な繰糸所や蚕室が良好に保存されており、日本の近代化の足跡を辿れます。</p>
+                <h3 className="text-base font-bold text-stone-900">富岡製糸場（高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ】 明治政府が設立した日本初の本格的な製糸工場であり、世界文化遺産。木骨レンガ造りの巨大な繰糸所や蚕室が良好に保存されており、日本の近代化の足跡を辿れます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">吹割の滝（ふきわれのたき）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「東洋のナイアガラ」と称されるダイナミックな滝。巨大な岩盤が割れ目の中に河川の水が吸い込まれるように流れ落ちる迫力ある景観が魅力です。</p>
+                <h3 className="text-base font-bold text-stone-900">吹割の滝（ふきわれのたき）（高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【高崎駅前：上毛三山・榛名山紅葉＆名物高崎パスタ】 「東洋のナイアガラ」と称されるダイナミックな滝。巨大な岩盤が割れ目の中に河川の水が吸い込まれるように流れ落ちる迫力ある景観が魅力です。</p>
               </div>
             </div>
             </div>

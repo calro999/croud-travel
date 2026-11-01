@@ -96,9 +96,7 @@ export default function ArticlePage() {
       {/* 目次インデックス */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-stone-100 p-5 rounded-xl border border-stone-200">
-          <h2 className="text-base font-bold text-stone-900 mb-3 flex items-center gap-2">
-            <span>📑</span> 本記事でご紹介する厳選ホテル
-          </h2>
+          <h2 className="text-base font-bold text-stone-900 mb-3 flex items-center gap-2"><span>📑</span> 本記事でご紹介する厳選ホテル｜札幌すすきの出張・サウナステイ：サウナ付大浴場・すす</h2>
           <ul className="space-y-2 text-sm text-stone-700">
             <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. ベッセルホテルカンパーナすすきの｜サウナ付大浴場（札幌・すすきの）（★4.56 / 最低目安：5,366円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. ホテル・アンドルームス札幌すすきの（★4.19 / 最低目安：3,890円〜）</a></li>
@@ -149,9 +147,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">
-                <span>🌟</span> ひとり滞在・出張で選ばれる理由
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由（札幌すすきの出張・サウナステイ：サウナ付大浴場・すす）</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>旅の疲れを癒してくれるサウナ付き大浴場完備</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>すすきの駅から徒歩４分の好立地</span></li>
@@ -211,9 +207,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">
-                <span>🌟</span> ひとり滞在・出張で選ばれる理由
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由（札幌すすきの出張・サウナステイ：サウナ付大浴場・すす）</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>豊水すすきの駅徒歩2分、すすきの駅徒歩8分</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>セルフロウリュ可の本格サウナと外気浴スペース完備！</span></li>
@@ -273,9 +267,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">
-                <span>🌟</span> ひとり滞在・出張で選ばれる理由
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由（札幌すすきの出張・サウナステイ：サウナ付大浴場・すす）</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>全室20㎡以上♪すすきの中心部まで徒歩3分！観光・ビジネスで各方面へのアクセス抜群です！</span></li>
               </ul>
@@ -331,9 +323,7 @@ export default function ArticlePage() {
       {/* FAQ セクション */}
       <section id="faq" className="max-w-4xl mx-auto px-4 sm:px-6 mt-16">
         <div className="bg-stone-100 p-6 sm:p-8 rounded-2xl border border-stone-200">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-300 pb-3">
-            <span>❓</span> 滞在に関するよくある質問（FAQ）
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-300 pb-3"><span>❓</span> 滞在に関するよくある質問（FAQ）｜札幌すすきの出張・サウナステイ：サウナ付大浴場・すす</h2>
           <div className="space-y-4">
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
               <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
@@ -360,10 +350,8 @@ export default function ArticlePage() {
       {/* 予約案内バナー */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mt-16">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-6 sm:p-8 rounded-2xl shadow-md text-center">
-          <h3 className="text-lg sm:text-xl font-bold mb-2">
-            楽天トラベルで最新の空室状況・限定ポイントキャンペーンをチェック
-          </h3>
-          <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">
+          <h3 className="text-lg sm:text-xl font-bold mb-2">楽天トラベルで最新の空室状況・限定ポイントキャンペーンをチェック（札幌すすきの出張・サウナステイ：サウナ付大浴場・すす）</h3>
+          <p className="text-sm text-amber-100 mb-6 max-w-2xl mx-auto">【札幌すすきの出張・サウナステイ：サウナ付大浴場・すす】 
             平日限定の一人旅割引や、早期割・直前割など、楽天トラベルならではの特典プランが多数用意されています。人気日程は早めの予約がおすすめです。
           </p>
           <a
@@ -387,7 +375,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（札幌すすきの出張・サウナステイ：サウナ付大浴場・すす）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> すすきの駅よりアクセス。すすきの駅より徒歩にて約４分。</li>
@@ -399,7 +387,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（札幌すすきの出張・サウナステイ：サウナ付大浴場・すす）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「ベッセルホテルカンパーナすすきの｜サウナ付大浴場」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -417,9 +405,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜札幌すすきの出張・サウナステイ：サウナ付大浴場・すす</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-sounkyo-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -440,7 +426,7 @@ export default function ArticlePage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（札幌すすきの出張・サウナステイ：サウナ付大浴場・すす）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/toyama/"

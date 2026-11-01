@@ -391,26 +391,24 @@ export default function AutumnBudgetHotelsPage() {
       {/* 予約のコツ・アドバイス */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-br from-amber-50 to-orange-50 border border-amber-200/80 rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg font-bold text-amber-950 flex items-center gap-2">
-            <CheckCircle2 className="w-5 h-5 text-amber-600" />
-            秋の格安旅行をお得に満喫するためのポイント
-          </h2>
+          <h2 className="text-lg font-bold text-amber-950 flex items-center gap-2"><CheckCircle2 className="w-5 h-5 text-amber-600" />
+            秋の格安旅行をお得に満喫するためのポイント｜釧路駅前：世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚</h2>
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             <div className="bg-white/80 rounded-xl p-4 border border-amber-100">
-              <h3 className="font-bold text-sm text-slate-900 mb-1">平日泊で更なる割引</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">
+              <h3 className="font-bold text-sm text-slate-900 mb-1">平日泊で更なる割引（釧路駅前：世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚）</h3>
+              <p className="text-xs text-slate-600 leading-relaxed">【釧路駅前：世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚】 
                 紅葉シーズンは金曜・土曜の宿泊料金が高騰しがちですが、日〜木曜の平日泊なら最安プランが狙い目。人混みも少なく快適に名所を楽しめます。
               </p>
             </div>
             <div className="bg-white/80 rounded-xl p-4 border border-amber-100">
-              <h3 className="font-bold text-sm text-slate-900 mb-1">直前割＆早割を活用</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">
+              <h3 className="font-bold text-sm text-slate-900 mb-1">直前割＆早割を活用（釧路駅前：世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚）</h3>
+              <p className="text-xs text-slate-600 leading-relaxed">【釧路駅前：世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚】 
                 14日前〜28日前までの早期予約や、空室が出た直前のタイムセールを狙うことで、通常価格より1,000円〜2,000円以上安く泊まれるチャンスがあります。
               </p>
             </div>
             <div className="bg-white/80 rounded-xl p-4 border border-amber-100">
-              <h3 className="font-bold text-sm text-slate-900 mb-1">浮いた予算で旬の味覚</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">
+              <h3 className="font-bold text-sm text-slate-900 mb-1">浮いた予算で旬の味覚（釧路駅前：世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚）</h3>
+              <p className="text-xs text-slate-600 leading-relaxed">【釧路駅前：世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚】 
                 宿泊を賢く格安ホテルに抑えることで、浮いた数千円の予算をご当地の豪華な旬の味覚や地酒ディナー、日帰り温泉の入浴料に贅沢に使えます。
               </p>
             </div>
@@ -621,7 +619,7 @@ export default function AutumnBudgetHotelsPage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Wide_view_of_Mount_Hakodate_from_Mashu-Maru.jpg/1280px-Wide_view_of_Mount_Hakodate_from_Mashu-Maru.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="函館山（夜景）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">函館山（夜景）</h3>
+                <h3 className="text-base font-bold text-stone-900">函館山（夜景）（釧路駅前：世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚）</h3>
                 <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。 函館山（はこだてやま）は、北海道函館市の市街地西端にある火山であり陸繋島でもある。…（「釧路駅前（世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚）」の周遊ルートとしても人気の立ち寄り先です）</p>
               </div>
             </div>
@@ -629,7 +627,7 @@ export default function AutumnBudgetHotelsPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">富良野 ファーム富田</h3>
+                <h3 className="text-base font-bold text-stone-900">富良野 ファーム富田（釧路駅前：世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚）</h3>
                 <p className="text-xs text-stone-600 leading-relaxed">一面に広がる鮮やかな紫色のラベンダー畑と、虹色に彩られた花畑が織りなすパノラマロード。富良野の雄大な自然と爽やかな香りに包まれる絶好の観光名所です。（「釧路駅前（世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚）」の周遊ルートとしても人気の立ち寄り先です）</p>
               </div>
             </div>
@@ -637,16 +635,16 @@ export default function AutumnBudgetHotelsPage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Otaru_Hokkaido_Japan.jpg/1280px-Otaru_Hokkaido_Japan.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="小樽運河" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">小樽運河</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">大正時代に造られたノスタルジックな石造り倉庫群が立ち並ぶ小樽のシンボル。夕暮れ時にはガス灯が灯り、幻想的な雰囲気の中で散策やナイトクルーズを楽しめます。 小樽運河（おたるうんが）は、北海道小樽市にある運河。現在は物流機能としての使命を終えており、文化庁選定日本遺産「北海道の『心臓』と呼ばれたまち・小樽」を構成する遺産のひとつ。 1923年（大正12年）完成。日本国内唯一となる海岸の沖合い埋立て方式で造られており、緩やかに湾曲しているのが特徴になっている。全長1,140 mあり、幅は臨港線沿いは20 m、北部（…</p>
+                <h3 className="text-base font-bold text-stone-900">小樽運河（釧路駅前：世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【釧路駅前：世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚】 大正時代に造られたノスタルジックな石造り倉庫群が立ち並ぶ小樽のシンボル。夕暮れ時にはガス灯が灯り、幻想的な雰囲気の中で散策やナイトクルーズを楽しめます。 小樽運河（おたるうんが）は、北海道小樽市にある運河。現在は物流機能としての使命を終えており、文化庁選定日本遺産「北海道の『心臓』と呼ばれたまち・小樽」を構成する遺産のひとつ。 1923年（大正12年）完成。日本国内唯一となる海岸の沖合い埋立て方式で造られており、緩やかに湾曲しているのが特徴になっている。全長1,140 mあり、幅は臨港線沿いは20 m、北部（…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Asahikawa_Montage.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" alt="旭川市旭山動物園" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">旭川市旭山動物園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">行動展示で全国的に有名な日本最北の動物園。水中でダイナミックに泳ぐホッキョクグマや、円柱水槽を行き来するアザラシなど、生き生きとした動物たちの姿を間近で観察できます。 旭川市（あさひかわし）は、北海道のほぼ中央に位置し、上川総合振興局に属する市。振興局所在地であり、札幌市に次ぐ北海道第2位の人口（約31万人）を有する中核市である。 北海道中央部に位置し、上川盆地に広がっている。道北の経済・産業・文化の中心都市。ユネスコの「デザイン都市」、そして「国際会議観光都市」に認定されている。交通面では国道や鉄道路線の終起点となり高速…</p>
+                <h3 className="text-base font-bold text-stone-900">旭川市旭山動物園（釧路駅前：世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【釧路駅前：世界三大夕日・幣舞橋＆名物炉端焼き・秋刀魚】 行動展示で全国的に有名な日本最北の動物園。水中でダイナミックに泳ぐホッキョクグマや、円柱水槽を行き来するアザラシなど、生き生きとした動物たちの姿を間近で観察できます。 旭川市（あさひかわし）は、北海道のほぼ中央に位置し、上川総合振興局に属する市。振興局所在地であり、札幌市に次ぐ北海道第2位の人口（約31万人）を有する中核市である。 北海道中央部に位置し、上川盆地に広がっている。道北の経済・産業・文化の中心都市。ユネスコの「デザイン都市」、そして「国際会議観光都市」に認定されている。交通面では国道や鉄道路線の終起点となり高速…</p>
               </div>
             </div>
             </div>

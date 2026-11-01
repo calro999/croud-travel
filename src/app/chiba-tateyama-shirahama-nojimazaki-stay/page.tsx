@@ -352,7 +352,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大人気！！カニ食べ放題！客室から見おろす太平洋は旅の疲れを癒してくれます。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 千葉県南房総市白浜町白浜3535-5 ／ 最寄り駅：主要駅 ／ 交通案内：お車で：アクアラインより館山自動車道経由富浦ICから約３０分／電車で：白浜バス停より徒歩にて７分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
+                  <p>【千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラ】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂を期待して行ったのに、露天風呂にゴミが浮いててぬめりもあり入る気になれませんでした。翌朝入れ替わった露天風呂はとても良かっただけに残念です。クチコミの詳細はこちらから　https://r…　2026-08-29 22:58:29投稿」
@@ -396,7 +396,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>館山の海であがった新鮮な地魚を使った田舎料理が自慢の小さなお宿ならでは！本物の笑顔でお迎えします。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 千葉県館山市塩見225 ／ 最寄り駅：館山 ／ 交通案内：ＪＲ　館山駅よりＪＲバスで２０分、車で１３分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
+                  <p>【千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラ】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「リピ宿泊。お食事がとても美味しく、どこもとても清潔で管理されています。お風呂も熱すぎないので海を眺めてゆっくりしまくれる。海の目の前で海で遊んで、宿泊者専用のトイレやシャワー(水です)が利用できるのも…　2026-08-11 13:39:08投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=44003&quot; class=&quot;3click」
@@ -460,32 +460,32 @@ export default function MicroTouristHubPage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Menton-C%C3%B4te_d%27Azur.jpg/1280px-Menton-C%C3%B4te_d%27Azur.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="東京ディズニーリゾート" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">東京ディズニーリゾート</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">夢と魔法の王国「東京ディズニーランド」と冒険とイマジネーションの海「東京ディズニーシー」からなる日本最高峰のテーマパークリゾート。 リゾート（Resort）とは、大勢の人が休暇・余暇を過ごす場所のこと。行楽地。保養地。 行楽や保養、観光が地元の文化や経済の主要な要素となっている都市を、リゾート都市またはリゾートタウンと呼ぶ（en:Resort town）。…</p>
+                <h3 className="text-base font-bold text-stone-900">東京ディズニーリゾート（千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラ】 夢と魔法の王国「東京ディズニーランド」と冒険とイマジネーションの海「東京ディズニーシー」からなる日本最高峰のテーマパークリゾート。 リゾート（Resort）とは、大勢の人が休暇・余暇を過ごす場所のこと。行楽地。保養地。 行楽や保養、観光が地元の文化や経済の主要な要素となっている都市を、リゾート都市またはリゾートタウンと呼ぶ（en:Resort town）。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">鴨川シーワールド</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">太平洋をバックに繰り広げられる豪快なシャチのパフォーマンスが有名な総合海洋レジャーセンター。イルカやベルーガのショーも見応え抜群です。</p>
+                <h3 className="text-base font-bold text-stone-900">鴨川シーワールド（千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラ】 太平洋をバックに繰り広げられる豪快なシャチのパフォーマンスが有名な総合海洋レジャーセンター。イルカやベルーガのショーも見応え抜群です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">成田山新勝寺</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">千年以上の日数を数える全国屈指の大本山。参道には老舗のうなぎ店や土産物屋がひしめき、正月や節分には大勢の参拝客で賑わいます。</p>
+                <h3 className="text-base font-bold text-stone-900">成田山新勝寺（千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラ】 千年以上の日数を数える全国屈指の大本山。参道には老舗のうなぎ店や土産物屋がひしめき、正月や節分には大勢の参拝客で賑わいます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">鋸山（日本寺・地獄のぞき）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">房総半島からの絶景が広がる山。山頂近くの断崖絶壁から突き出した「地獄のぞき」からのスリル満点の眺望や日本一の大きさを誇る石仏の大仏様が有名です。</p>
+                <h3 className="text-base font-bold text-stone-900">鋸山（日本寺・地獄のぞき）（千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラ】 房総半島からの絶景が広がる山。山頂近くの断崖絶壁から突き出した「地獄のぞき」からのスリル満点の眺望や日本一の大きさを誇る石仏の大仏様が有名です。</p>
               </div>
             </div>
             </div>

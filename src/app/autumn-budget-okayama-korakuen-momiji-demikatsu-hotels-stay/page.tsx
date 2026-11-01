@@ -462,7 +462,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>瀬戸内海を眺望できる大浴場サウナ付きホテル。夏はプール営業やガーデンBBQあり。研修施設充実。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 岡山県倉敷市児島塩生2767-21 ／ 最寄り駅：児島 ／ 交通案内：■水島ICから車15分■水島工場C地区に隣接■鷲羽山ハイランドまで車10分■倉敷由加山まで車30分■駐車場無料■</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
+                  <p>【岡山：後楽園・烏城の秋紅葉と名物デミカツ丼】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーション最高でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/799?reviewId=331234790337…　2026-08-21 07:28:02投稿」

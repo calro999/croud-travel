@@ -330,7 +330,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>料理長が贈る美味しい芸術！【源泉掛け流し】露天風呂（男女別）／貸切家族風呂／離れ露天風呂付客室あり</p>
                   <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇市内牧1354 ／ 最寄り駅：阿蘇 ／ 交通案内：肥後豊肥線　阿蘇駅より車で１５分程／肥後豊肥線　内牧駅より車で１５分程</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
+                  <p>【熊本・阿蘇カルデラ＆南阿蘇：大観峰・草千里ヶ浜＆あか】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.44 ／ 部屋 ★4.61 ／ 設備 ★4.46 ／ 風呂 ★4.18 ／ 食事 ★4.78</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「本当に全てのサービスが星5つ!!家族4人2泊3日でお世話になりました。館内・お部屋共に清潔に保たれており、床材がとても素敵でした。お風呂は家族風呂が無料で入ることができ、朝・夜とも入らせて…　2026-08-23 12:23:31投稿」
@@ -352,7 +352,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「熊本・阿蘇カルデラ＆南阿蘇（大観峰・草千里ヶ浜＆あか牛・白川水源宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南阿蘇村河陰5-56 ／ 最寄り駅：白水高原 ／ 交通案内：【長陽大橋開通】熊本ICより57号線経由車で50分・【 俵山トンネル経由】 熊本空港より車で約30分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
+                  <p>【熊本・阿蘇カルデラ＆南阿蘇：大観峰・草千里ヶ浜＆あか】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「すき焼きと釜炊きご飯が絶品、接客も丁寧露天風呂付き客室。風呂場は広いが湯船は少し狭い。自動湯はりシステムは、1度に出るお湯の量が少なく何度も出さなければならないのが少し面倒。ロケー…　2026-09-04 22:00:01投稿」
@@ -440,7 +440,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>約3000坪の敷地にわずか10棟。南阿蘇の田園地帯に佇む全室離れ、内湯・露天付の湯宿。お食事は個室で</p>
                   <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南阿蘇村河陰2510 ／ 最寄り駅：長陽 ／ 交通案内：阿蘇くまもと空港より（俵山トンネルルート）車で約30分・JR立野駅から車で約15分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
+                  <p>【熊本・阿蘇カルデラ＆南阿蘇：大観峰・草千里ヶ浜＆あか】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「バースデー旅行 バースデー旅行で、前日にケーキをお願いして用意していただきました。 夕飯も美味しく、量もたくさんあるので、お部屋でケーキを食べました。いつでも温泉に入れるのは、本当に嬉しか…　2026-08-18 11:48:28投稿」

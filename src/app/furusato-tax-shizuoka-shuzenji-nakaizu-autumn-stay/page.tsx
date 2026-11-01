@@ -136,29 +136,25 @@ export default function Page() {
           <p className="text-stone-700 leading-relaxed">
             秋風が心地よく吹き抜け、木々が鮮やかに色づく10月・11月。日本各地がもっとも美しく、実り豊かな季節を迎えます。なかでも「静岡・修善寺温泉＆中伊豆」は、修禅寺庭園特別公開・竹林の小径紅葉ライトアップ・修善寺自然公園もみじ林など、この時期にしか出逢えない息を呑む絶景と旬の味覚が凝縮された屈指の名所です。
           </p>
-          <p className="text-stone-700 leading-relaxed">
+          <p className="text-stone-700 leading-relaxed">【静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉】 
             さらに賢く贅沢に旅を楽しむ方法として今もっとも注目されているのが「楽天ふるさと納税トラベルクーポン」の活用です。地域の自治体に寄付を行うことで返礼品として宿泊割引クーポンを獲得でき、実質自己負担2,000円で憧れの高級旅館やリゾートホテルへの宿泊が実現します。
           </p>
           <div className="bg-amber-50 border border-amber-200 p-4 rounded-lg mt-4">
-            <h3 className="font-bold text-amber-900 text-sm mb-1">【秋旅のポイント】ふるさと納税トラベルクーポンの特徴</h3>
+            <h3 className="font-bold text-amber-900 text-sm mb-1">【秋旅のポイント】ふるさと納税トラベルクーポンの特徴（静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉）</h3>
             <ul className="list-disc list-inside text-xs md:text-sm text-amber-800 space-y-1">
-              <li>寄付金額に応じた宿泊補助（最大30%相当のクーポン付与）</li>
-              <li>楽天ポイントも通常通り付与（お買い物マラソンやSPUでさらにお得）</li>
-              <li>予約時に即時利用可能で、現地での支払い負担を大幅に軽減</li>
+              <li>寄付金額に応じた宿泊補助（最大30%相当のクーポン付与）（静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉）</li>
+              <li>楽天ポイントも通常通り付与（お買い物マラソンやSPUでさらにお得）（静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉）</li>
+              <li>予約時に即時利用可能で、現地での支払い負担を大幅に軽減（静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉）</li>
             </ul>
           </div>
         </section>
 
         {/* 季節の見どころと味覚 */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-6">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-            10月・11月に訪れたい絶景スポットと秋の味覚
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">10月・11月に訪れたい絶景スポットと秋の味覚｜静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉</h2>
           <div className="grid md:grid-cols-2 gap-6">
             <div className="bg-stone-50 p-5 rounded-lg border border-stone-200">
-              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center">
-                <span className="text-amber-600 mr-2">◆</span> 周辺の見どころ・名所
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 周辺の見どころ・名所（静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉）</h3>
               <ul className="text-sm text-stone-600 space-y-2">
                 <li className="flex items-start"><span className="text-amber-500 mr-2">•</span>竹林の小径（桂川沿いの散策路）</li>
                 <li className="flex items-start"><span className="text-amber-500 mr-2">•</span>修禅寺（弘法大師創建の名刹）</li>
@@ -168,15 +164,11 @@ export default function Page() {
               </ul>
             </div>
             <div className="bg-stone-50 p-5 rounded-lg border border-stone-200">
-              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center">
-                <span className="text-amber-600 mr-2">◆</span> 旬の味覚・ご当地グルメ
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 旬の味覚・ご当地グルメ（静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉）</h3>
               <p className="text-sm text-stone-700 leading-relaxed mb-3">
                 天城軍鶏（しゃも）鍋・伊豆牛ステーキ・生わさび一本付き海鮮丼・ズガニ汁・修善寺そば
               </p>
-              <h3 className="text-base font-bold text-stone-900 mb-1 flex items-center">
-                <span className="text-amber-600 mr-2">◆</span> 温泉の特徴
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 mb-1 flex items-center"><span className="text-amber-600 mr-2">◆</span> 温泉の特徴（静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉）</h3>
               <p className="text-sm text-stone-700 leading-relaxed">
                 修善寺温泉（アルカリ性単純温泉・肌にしっとり馴染む名湯）と桂川のせせらぎを望む露天風呂
               </p>
@@ -341,22 +333,22 @@ export default function Page() {
           </h2>
           <div className="space-y-6">
             <div className="border-l-2 border-amber-500 pl-4 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base">【1日目】錦秋の絶景巡りと極上温泉チェックイン</h3>
+              <h3 className="font-bold text-stone-900 text-base">【1日目】錦秋の絶景巡りと極上温泉チェックイン（静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉）</h3>
               <ul className="text-sm text-stone-700 space-y-2">
                 <li><span className="font-semibold text-amber-700">10:00</span> - 現地到着後、竹林の小径（桂川沿いの散策路）を散策。澄んだ秋空と鮮やかな景観を堪能</li>
                 <li><span className="font-semibold text-amber-700">12:30</span> - ご当地名店にて旬の味覚（天城軍鶏（しゃも）鍋など）の贅沢ランチ</li>
                 <li><span className="font-semibold text-amber-700">14:30</span> - 修禅寺（弘法大師創建の名刹）へ移動。午後の柔らかな木漏れ日の中で絶景撮影</li>
-                <li><span className="font-semibold text-amber-700">16:30</span> - 厳選宿へチェックイン。名湯で旅の疲れを心地よく癒やす</li>
-                <li><span className="font-semibold text-amber-700">18:30</span> - 料理長特製の秋会席膳。地酒とともに旬の美味に舌鼓</li>
+                <li><span className="font-semibold text-amber-700">16:30</span> - 厳選宿へチェックイン。名湯で旅の疲れを心地よく癒やす（静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉）</li>
+                <li><span className="font-semibold text-amber-700">18:30</span> - 料理長特製の秋会席膳。地酒とともに旬の美味に舌鼓（静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉）</li>
               </ul>
             </div>
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base">【2日目】朝の清涼な空気と名所・お土産巡り</h3>
+              <h3 className="font-bold text-stone-900 text-base">【2日目】朝の清涼な空気と名所・お土産巡り（静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉）</h3>
               <ul className="text-sm text-stone-700 space-y-2">
-                <li><span className="font-semibold text-emerald-700">07:30</span> - 朝風呂で爽やかな目覚め＆地場産食材が並ぶ和朝食</li>
+                <li><span className="font-semibold text-emerald-700">07:30</span> - 朝風呂で爽やかな目覚め＆地場産食材が並ぶ和朝食（静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉）</li>
                 <li><span className="font-semibold text-emerald-700">09:30</span> - チェックアウト後、修善寺自然公園もみじ林を訪問</li>
                 <li><span className="font-semibold text-emerald-700">11:30</span> - 虹の郷（紅葉ライトアップ）にてお土産選びと散策</li>
-                <li><span className="font-semibold text-emerald-700">13:30</span> - 旅の締めくくりに地元の名物グルメを堪能し帰路へ</li>
+                <li><span className="font-semibold text-emerald-700">13:30</span> - 旅の締めくくりに地元の名物グルメを堪能し帰路へ（静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉）</li>
               </ul>
             </div>
           </div>
@@ -367,7 +359,7 @@ export default function Page() {
 
         {/* 関連特集リンク */}
         <section className="bg-amber-50/50 p-6 rounded-xl border border-amber-200 space-y-4">
-          <h2 className="text-lg font-bold text-stone-900">こちらもチェック！秋のふるさと納税特集</h2>
+          <h2 className="text-lg font-bold text-stone-900">こちらもチェック！秋のふるさと納税特集｜静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs md:text-sm">
             <Link href="/furusato-tax-nagano-suwa-kirigamine-autumn-stay/" className="text-emerald-800 hover:underline">
               → 長野・諏訪湖＆霧ヶ峰高原（上諏訪温泉＆信州プレミアム牛）特集
@@ -394,7 +386,7 @@ export default function Page() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 修善寺駅よりアクセス。伊豆箱根鉄道 修善寺駅よりバス約８分※送迎無し／東名高速 沼津ICから国道１号線、国道１３６号線 伊豆中央道経由約３５分。</li>
@@ -406,7 +398,7 @@ export default function Page() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「湯回廊 菊屋」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -460,9 +452,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-three-great-zen-temples-mindfulness-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -483,7 +473,7 @@ export default function Page() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/kagawa/"
@@ -655,8 +645,8 @@ export default function Page() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Japan_Tojinbo02n4592.jpg/1280px-Japan_Tojinbo02n4592.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="福井県立恐竜博物館" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">福井県立恐竜博物館</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">世界三大恐竜博物館の一つに数えられる世界最大級の恐竜専門博物館。44体もの恐竜全身骨格や迫力満点の動く実物大恐竜ロボットが展示されています。 福井県（ふくいけん）は、日本の中部地方（北陸地方）に位置する県。行政管轄区分において近畿地方に包括される場合もある。令制国の越前国と若狭国に相当する。県庁所在地は福井市。 北陸地方の最西端に位置しており、同地方で最も人口が少ない県である。…</p>
+                <h3 className="text-base font-bold text-stone-900">福井県立恐竜博物館（静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉】 世界三大恐竜博物館の一つに数えられる世界最大級の恐竜専門博物館。44体もの恐竜全身骨格や迫力満点の動く実物大恐竜ロボットが展示されています。 福井県（ふくいけん）は、日本の中部地方（北陸地方）に位置する県。行政管轄区分において近畿地方に包括される場合もある。令制国の越前国と若狭国に相当する。県庁所在地は福井市。 北陸地方の最西端に位置しており、同地方で最も人口が少ない県である。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -664,23 +654,23 @@ export default function Page() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
                 <h3 className="text-base font-bold text-stone-900">東尋坊</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本海の荒波によって削られた断崖絶壁が約1km続く国の天然記念物。柱状節理という世界的に珍しい奇岩の崖の上から見下ろす波はスリル満点です。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉】 日本海の荒波によって削られた断崖絶壁が約1km続く国の天然記念物。柱状節理という世界的に珍しい奇岩の崖の上から見下ろす波はスリル満点です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">大本山 永平寺</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">道元禅師によって開かれた曹洞宗の大本山。樹齢数百年の老杉に囲まれた静寂な境内に大小70余りの堂宇が廊下で結ばれ、厳かな修行の息吹が漂います。</p>
+                <h3 className="text-base font-bold text-stone-900">大本山 永平寺（静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉】 道元禅師によって開かれた曹洞宗の大本山。樹齢数百年の老杉に囲まれた静寂な境内に大小70余りの堂宇が廊下で結ばれ、厳かな修行の息吹が漂います。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">三方五湖（レインボーライン）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">淡水・半塩水・海水と水質や水深が異なる5つの湖。山頂公園へ向かうレインボーライン山頂公園からは「五色の湖」と日本海の360度パノラマを楽しめます。</p>
+                <h3 className="text-base font-bold text-stone-900">三方五湖（レインボーライン）（静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉】 淡水・半塩水・海水と水質や水深が異なる5つの湖。山頂公園へ向かうレインボーライン山頂公園からは「五色の湖」と日本海の360度パノラマを楽しめます。</p>
               </div>
             </div>
             </div>
@@ -701,8 +691,8 @@ export default function Page() {
 
       {/* フッター */}
       <footer className="bg-stone-900 text-stone-400 py-8 px-4 text-center text-xs space-y-2 border-t border-stone-800">
-        <p>© 2026 クラウドトラベル All Rights Reserved.</p>
-        <p>※掲載のホテル情報・料金・評価は楽天トラベルAPIより取得した最新データに基づきます。最新の空室状況はリンク先の各プラン詳細をご確認ください。</p>
+        <p>【静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉】 © 2026 クラウドトラベル All Rights Reserved.</p>
+        <p>【静岡・伊豆最古の名湯 修善寺温泉と竹林の小径紅葉】 ※掲載のホテル情報・料金・評価は楽天トラベルAPIより取得した最新データに基づきます。最新の空室状況はリンク先の各プラン詳細をご確認ください。</p>
       </footer>
     
       <HubRelatedPosts currentSlug="furusato-tax-shizuoka-shuzenji-nakaizu-autumn-stay" />

@@ -442,7 +442,7 @@ export default function AchimuraHirugamiAutumnPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「24時間入り放題＆無料」の【貸切露天風呂】トロトロ泉質の美人の湯♪全17室のおもてなしの宿</p>
                   <p><strong>【所在地・アクセス】</strong>〒 長野県下伊那郡阿智村智里530-1 ／ 最寄り駅：飯田（長野） ／ 交通案内：飯田駅より路線バスにて３０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
+                  <p>【秋の阿智村・昼神温泉：日本一の星空ナイトツアーと美肌】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.38 ／ 部屋 ★4.47 ／ 設備 ★4.47 ／ 風呂 ★4.64 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と食事、温泉に大満足!特に良かった所は・スタッフの対応が、感じが良くて、分かり易く説明でした・夕食が現地素材で、味付けが私にピッタリ合い美味しい・温泉が家族風呂でアルカリ…　2026-10-10 21:22:58投稿」
@@ -508,7 +508,7 @@ export default function AchimuraHirugamiAutumnPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>やわらかな畳敷きの浴場で和の粋と深いやさしさに包まれる、ツルツルの温泉と豊かな自然に囲まれた純和風宿</p>
                   <p><strong>【所在地・アクセス】</strong>〒 長野県下伊那郡阿智村智里332-4 ／ 最寄り駅：主要駅 ／ 交通案内：天竜峡駅よりお車にて約３０分（車でお迎えあり）</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
+                  <p>【秋の阿智村・昼神温泉：日本一の星空ナイトツアーと美肌】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「また行きたくなるお宿です。すごく接客態度が良く、ホスピタリティの高いお宿です。「夜の星空観測」は是非とも行くべき。いい企画だと思いました。クチコミの詳細はこちらから　https://rev…　2026-08-28 19:32:15投稿」
@@ -528,16 +528,16 @@ export default function AchimuraHirugamiAutumnPage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/%E7%A7%8B%E3%81%AE%E4%B8%8A%E9%AB%98%E5%9C%B0_%28Kamikochi_in_autumn%29_24_Oct%2C_2011_-_panoramio.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" alt="上高地（河童橋）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">上高地（河童橋）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">北アルプスの雄大な自然に抱かれた日本を代表する山岳景勝地。梓川に架かる木造の河童橋と、穂高連峰・焼岳の雄姿が織りなす清涼な風景は格別です。 上高地（かみこうち）は、長野県松本市の西部、清流梓川（あずさがわ）上流に所在する県を代表する山岳景勝地。飛騨山脈（北アルプス）南部の長野県側（全域が松本市）に属する。中部山岳国立公園の一部ともなっており、国の文化財（特別名勝・特別天然記念物/天然保護区域）に指定されている。河童橋や大正池など上高地自体が国内外から観光客が訪れる一大観光地であるだけでなく、上高…</p>
+                <h3 className="text-base font-bold text-stone-900">上高地（河童橋）（秋の阿智村・昼神温泉：日本一の星空ナイトツアーと美肌）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【秋の阿智村・昼神温泉：日本一の星空ナイトツアーと美肌】 北アルプスの雄大な自然に抱かれた日本を代表する山岳景勝地。梓川に架かる木造の河童橋と、穂高連峰・焼岳の雄姿が織りなす清涼な風景は格別です。 上高地（かみこうち）は、長野県松本市の西部、清流梓川（あずさがわ）上流に所在する県を代表する山岳景勝地。飛騨山脈（北アルプス）南部の長野県側（全域が松本市）に属する。中部山岳国立公園の一部ともなっており、国の文化財（特別名勝・特別天然記念物/天然保護区域）に指定されている。河童橋や大正池など上高地自体が国内外から観光客が訪れる一大観光地であるだけでなく、上高…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">国宝 松本城</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">現存する五重六階の天守の中で最古の歴史を誇る国宝名城。漆黒の壁と北アルプスの雪山を背にした佇まいから「烏城（からすじょう）」と親しまれています。</p>
+                <h3 className="text-base font-bold text-stone-900">国宝 松本城（秋の阿智村・昼神温泉：日本一の星空ナイトツアーと美肌）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【秋の阿智村・昼神温泉：日本一の星空ナイトツアーと美肌】 現存する五重六階の天守の中で最古の歴史を誇る国宝名城。漆黒の壁と北アルプスの雪山を背にした佇まいから「烏城（からすじょう）」と親しまれています。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -545,15 +545,15 @@ export default function AchimuraHirugamiAutumnPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
                 <h3 className="text-base font-bold text-stone-900">善光寺</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「一生に一度は善光寺参り」と称される無宗派の古刹。国宝の本堂や床下の暗闇を進む「お戒壇めぐり」、長層の仲見世通りの門前街散策が見どころです。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【秋の阿智村・昼神温泉：日本一の星空ナイトツアーと美肌】 「一生に一度は善光寺参り」と称される無宗派の古刹。国宝の本堂や床下の暗闇を進む「お戒壇めぐり」、長層の仲見世通りの門前街散策が見どころです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Mikasa-Dori%2C_Karuizawa.jpg/1280px-Mikasa-Dori%2C_Karuizawa.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="軽井沢プリンスショッピングプラザ" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">軽井沢プリンスショッピングプラザ</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">浅間山を望む爽やかな高原リゾート地・軽井沢駅前に広がる日本最大級のアウトレットモール。豊かな自然景観の中で贅沢な買い物を楽しめます。 軽井沢（かるいざわ）は、長野県東信地方の佐久地域を中心に見られる地名である。避暑地・別荘地としてブランド化された地名であり、狭義には長野県北佐久郡軽井沢町の旧軽井沢地区（ウィキ座標、旧軽井沢メインストリートも参照）あるいは軽井沢町全体を指し、広義には隣接する御代田町（西軽井沢）、群馬県吾妻郡長野原町大字北軽井沢・吾妻郡嬬恋村（奥軽井沢）・安中市（東軽井沢）と…</p>
+                <h3 className="text-base font-bold text-stone-900">軽井沢プリンスショッピングプラザ（秋の阿智村・昼神温泉：日本一の星空ナイトツアーと美肌）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【秋の阿智村・昼神温泉：日本一の星空ナイトツアーと美肌】 浅間山を望む爽やかな高原リゾート地・軽井沢駅前に広がる日本最大級のアウトレットモール。豊かな自然景観の中で贅沢な買い物を楽しめます。 軽井沢（かるいざわ）は、長野県東信地方の佐久地域を中心に見られる地名である。避暑地・別荘地としてブランド化された地名であり、狭義には長野県北佐久郡軽井沢町の旧軽井沢地区（ウィキ座標、旧軽井沢メインストリートも参照）あるいは軽井沢町全体を指し、広義には隣接する御代田町（西軽井沢）、群馬県吾妻郡長野原町大字北軽井沢・吾妻郡嬬恋村（奥軽井沢）・安中市（東軽井沢）と…</p>
               </div>
             </div>
             </div>

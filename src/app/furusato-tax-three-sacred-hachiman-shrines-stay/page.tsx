@@ -232,10 +232,8 @@ export default function Page() {
         {/* 厳選ホテルリスト */}
         <section className="space-y-10">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">
-              楽天ふるさと納税で泊まる名宿＆厳選ホテル
-            </h2>
-            <p className="text-xs md:text-sm text-slate-500">
+            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル｜日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる</h2>
+            <p className="text-xs md:text-sm text-slate-500">【日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる】 
               楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
             </p>
           </div>
@@ -331,10 +329,8 @@ export default function Page() {
         {/* 楽天ふるさと納税トラベル利用ステップ */}
         <section className="bg-gradient-to-br from-slate-900 to-emerald-950 text-white rounded-2xl p-6 md:p-8 space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-xl md:text-2xl font-bold">
-              楽天ふるさと納税×楽天トラベル 簡単3ステップ
-            </h2>
-            <p className="text-xs md:text-sm text-slate-300">
+            <h2 className="text-xl md:text-2xl font-bold">楽天ふるさと納税×楽天トラベル 簡単3ステップ｜日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる</h2>
+            <p className="text-xs md:text-sm text-slate-300">【日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる】 
               実質2,000円の自己負担で憧れの高級宿・温泉旅館をお得に予約できます
             </p>
           </div>
@@ -344,8 +340,8 @@ export default function Page() {
               <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
                 1
               </div>
-              <h3 className="font-bold text-sm text-white">自治体に寄付</h3>
-              <p className="text-xs leading-relaxed text-slate-300">
+              <h3 className="font-bold text-sm text-white">自治体に寄付（日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる）</h3>
+              <p className="text-xs leading-relaxed text-slate-300">【日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる】 
                 希望の自治体と寄付金額を選び、楽天ふるさと納税で寄付を行います。寄付額に応じたトラベルクーポンが即時付与されます。
               </p>
             </div>
@@ -354,8 +350,8 @@ export default function Page() {
               <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
                 2
               </div>
-              <h3 className="font-bold text-sm text-white">対象宿・プランを予約</h3>
-              <p className="text-xs leading-relaxed text-slate-300">
+              <h3 className="font-bold text-sm text-white">対象宿・プランを予約（日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる）</h3>
+              <p className="text-xs leading-relaxed text-slate-300">【日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる】 
                 楽天トラベルで対象地域の宿泊施設を検索。獲得したふるさと納税クーポンを予約ステップで適用します。
               </p>
             </div>
@@ -364,8 +360,8 @@ export default function Page() {
               <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
                 3
               </div>
-              <h3 className="font-bold text-sm text-white">現地で贅沢ステイ</h3>
-              <p className="text-xs leading-relaxed text-slate-300">
+              <h3 className="font-bold text-sm text-white">現地で贅沢ステイ（日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる）</h3>
+              <p className="text-xs leading-relaxed text-slate-300">【日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる】 
                 宿泊当日は通常通りチェックイン。割引されたお得な価格で、名湯や美食、絶景体験を満喫できます。
               </p>
             </div>
@@ -433,7 +429,7 @@ export default function Page() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 柳ヶ浦駅よりアクセス。電車：JR日豊本線、柳ヶ浦駅より車で8分／お車：東九州自動車道、宇佐ICより5分。</li>
@@ -445,7 +441,7 @@ export default function Page() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「宇佐ホテルリバーサイド」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -499,9 +495,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-budget-hokkaido-otaru-canal-shako-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -522,7 +516,7 @@ export default function Page() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/gunma/"
@@ -630,7 +624,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【フロントは安心の24時間対応】国宝宇佐神宮のお膝元、駅館川のほとり、今日もなごやかに営業中♪</p>
                   <p><strong>【所在地・アクセス】</strong>〒 大分県宇佐市別府6 ／ 最寄り駅：柳ヶ浦 ／ 交通案内：電車：JR日豊本線、柳ヶ浦駅より車で8分／お車：東九州自動車道、宇佐ICより5分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
+                  <p>【日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが接客が丁寧で静かに過ごせたホテルは少し古いですが、ホテルの方の接客が丁寧で好感を持てました川沿いの静かな場所でゆっくり出来ましたクチコミの詳細はこちらから　https://re…　2026-08-14 17:56:28投稿」
@@ -674,7 +668,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふるさと納税厳選ガイド宇佐神宮・石清水八幡宮・筥崎宮」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：博多駅直結！徒歩約１分。＜東７番出口＞福岡空港から地下鉄で約７分、車で約15分。一歩足を踏み入れたらもうそこはリゾート！</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から近くて田舎者には分かり易くて大変良かったです。ウェルカムドリンクも最高でした。涼しくなってからも利用したいと思います。クチコミの詳細はこちらから　https://review.tra…　2026-09-16 17:10:32投稿」
@@ -694,7 +688,7 @@ export default function Page() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Wide_view_of_Mount_Hakodate_from_Mashu-Maru.jpg/1280px-Wide_view_of_Mount_Hakodate_from_Mashu-Maru.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="函館山（夜景）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">函館山（夜景）</h3>
+                <h3 className="text-base font-bold text-stone-900">函館山（夜景）（日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる）</h3>
                 <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。 函館山（はこだてやま）は、北海道函館市の市街地西端にある火山であり陸繋島でもある。…（「日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふるさと納税厳選ガイド宇佐神宮・石清水八幡宮・筥崎宮」の周遊ルートとしても人気の立ち寄り先です）</p>
               </div>
             </div>
@@ -702,7 +696,7 @@ export default function Page() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">富良野 ファーム富田</h3>
+                <h3 className="text-base font-bold text-stone-900">富良野 ファーム富田（日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる）</h3>
                 <p className="text-xs text-stone-600 leading-relaxed">一面に広がる鮮やかな紫色のラベンダー畑と、虹色に彩られた花畑が織りなすパノラマロード。富良野の雄大な自然と爽やかな香りに包まれる絶好の観光名所です。（「日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふるさと納税厳選ガイド宇佐神宮・石清水八幡宮・筥崎宮」の周遊ルートとしても人気の立ち寄り先です）</p>
               </div>
             </div>
@@ -710,16 +704,16 @@ export default function Page() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Otaru_Hokkaido_Japan.jpg/1280px-Otaru_Hokkaido_Japan.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="小樽運河" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">小樽運河</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">大正時代に造られたノスタルジックな石造り倉庫群が立ち並ぶ小樽のシンボル。夕暮れ時にはガス灯が灯り、幻想的な雰囲気の中で散策やナイトクルーズを楽しめます。 小樽運河（おたるうんが）は、北海道小樽市にある運河。現在は物流機能としての使命を終えており、文化庁選定日本遺産「北海道の『心臓』と呼ばれたまち・小樽」を構成する遺産のひとつ。 1923年（大正12年）完成。日本国内唯一となる海岸の沖合い埋立て方式で造られており、緩やかに湾曲しているのが特徴になっている。全長1,140 mあり、幅は臨港線沿いは20 m、北部（…</p>
+                <h3 className="text-base font-bold text-stone-900">小樽運河（日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる】 大正時代に造られたノスタルジックな石造り倉庫群が立ち並ぶ小樽のシンボル。夕暮れ時にはガス灯が灯り、幻想的な雰囲気の中で散策やナイトクルーズを楽しめます。 小樽運河（おたるうんが）は、北海道小樽市にある運河。現在は物流機能としての使命を終えており、文化庁選定日本遺産「北海道の『心臓』と呼ばれたまち・小樽」を構成する遺産のひとつ。 1923年（大正12年）完成。日本国内唯一となる海岸の沖合い埋立て方式で造られており、緩やかに湾曲しているのが特徴になっている。全長1,140 mあり、幅は臨港線沿いは20 m、北部（…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Asahikawa_Montage.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" alt="旭川市旭山動物園" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">旭川市旭山動物園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">行動展示で全国的に有名な日本最北の動物園。水中でダイナミックに泳ぐホッキョクグマや、円柱水槽を行き来するアザラシなど、生き生きとした動物たちの姿を間近で観察できます。 旭川市（あさひかわし）は、北海道のほぼ中央に位置し、上川総合振興局に属する市。振興局所在地であり、札幌市に次ぐ北海道第2位の人口（約31万人）を有する中核市である。 北海道中央部に位置し、上川盆地に広がっている。道北の経済・産業・文化の中心都市。ユネスコの「デザイン都市」、そして「国際会議観光都市」に認定されている。交通面では国道や鉄道路線の終起点となり高速…</p>
+                <h3 className="text-base font-bold text-stone-900">旭川市旭山動物園（日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる】 行動展示で全国的に有名な日本最北の動物園。水中でダイナミックに泳ぐホッキョクグマや、円柱水槽を行き来するアザラシなど、生き生きとした動物たちの姿を間近で観察できます。 旭川市（あさひかわし）は、北海道のほぼ中央に位置し、上川総合振興局に属する市。振興局所在地であり、札幌市に次ぐ北海道第2位の人口（約31万人）を有する中核市である。 北海道中央部に位置し、上川盆地に広がっている。道北の経済・産業・文化の中心都市。ユネスコの「デザイン都市」、そして「国際会議観光都市」に認定されている。交通面では国道や鉄道路線の終起点となり高速…</p>
               </div>
             </div>
             </div>
@@ -740,7 +734,7 @@ export default function Page() {
 
       {/* フッター */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
-        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
+        <p>【日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる】 © 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
     
       <HubRelatedPosts currentSlug="furusato-tax-three-sacred-hachiman-shrines-stay" />

@@ -99,10 +99,8 @@ export default function FurusatoOnsenSteamHealingStayPage() {
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
-          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-6 flex items-center gap-3">
-            <span className="text-amber-600 text-xl md:text-2xl">◆</span>
-            この旅で体感したい3つの醍醐味
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-6 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
+            この旅で体感したい3つの醍醐味｜湯煙たなびく温泉街・名物地獄蒸し＆天然砂むし極上湯治</h2>
           <div className="grid gap-6">
 
             <div className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200/80 shadow-xs">
@@ -155,11 +153,9 @@ export default function FurusatoOnsenSteamHealingStayPage() {
         {/* 厳選名宿セクション */}
         <section className="mb-16">
           <div className="mb-8">
-            <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-3 flex items-center gap-3">
-              <span className="text-amber-600 text-xl md:text-2xl">◆</span>
-              ふるさと納税で泊まる厳選名宿
-            </h2>
-            <p className="text-stone-600 text-sm leading-relaxed">
+            <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-3 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
+              ふるさと納税で泊まる厳選名宿｜湯煙たなびく温泉街・名物地獄蒸し＆天然砂むし極上湯治</h2>
+            <p className="text-stone-600 text-sm leading-relaxed">【湯煙たなびく温泉街・名物地獄蒸し＆天然砂むし極上湯治】 
               楽天トラベルAPIから最新の実在宿データを取得。対象自治体のふるさと納税クーポンを利用して実質2,000円で泊まれる名宿です。
             </p>
           </div>
@@ -194,7 +190,7 @@ export default function FurusatoOnsenSteamHealingStayPage() {
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     別府八湯の中でも最も湯煙情緒あふれる鉄輪温泉の中心に佇む、温かなもてなしと家庭的な心地よさが魅力の温泉旅館。敷地内には自家源泉から湧き出る天然スチームを利用した地獄蒸し釜が設置されており、宿泊客が自由に地元の食材を持ち込んで蒸し料理を楽しむことができます。高温で良質な源泉かけ流しの内湯と露天風呂でじっくり身体の芯まで温まった後は、レトロな鉄輪の湯煙の街並みをそぞろ歩きする贅沢な湯治ステイが楽しめます。
                   </p>
-                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
+                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">【湯煙たなびく温泉街・名物地獄蒸し＆天然砂むし極上湯治】 
                     訪れるすべてのお客様に心安らぐ贅沢な寛ぎの時間を提供し、高い評価を獲得している極上宿です。
                   </p>
                   
@@ -355,9 +351,7 @@ export default function FurusatoOnsenSteamHealingStayPage() {
 
         {/* 関連特集クロスリンク */}
         <section className="bg-stone-50 rounded-3xl p-8 border border-stone-200/80 mb-16">
-          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">
-            あわせて読みたい関連特集
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">あわせて読みたい関連特集｜湯煙たなびく温泉街・名物地獄蒸し＆天然砂むし極上湯治</h2>
           <ul className="grid sm:grid-cols-2 gap-2">
 
               <li key="furusato-tax-three-medicinal-hotsprings-stay">
@@ -396,10 +390,8 @@ export default function FurusatoOnsenSteamHealingStayPage() {
 
         {/* ハブページへの誘導フッター */}
         <div className="bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 text-white rounded-3xl p-8 md:p-10 shadow-xl border border-amber-900/40 text-center mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">
-            もっとお得に旅を楽しむためのハブページへ
-          </h2>
-          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">
+          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">もっとお得に旅を楽しむためのハブページへ｜湯煙たなびく温泉街・名物地獄蒸し＆天然砂むし極上湯治</h2>
+          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">【湯煙たなびく温泉街・名物地獄蒸し＆天然砂むし極上湯治】 
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
@@ -429,7 +421,7 @@ export default function FurusatoOnsenSteamHealingStayPage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（湯煙たなびく温泉街・名物地獄蒸し＆天然砂むし極上湯治）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 別府（大分）駅よりアクセス。「みゆき坂」から「いでゆ坂」へ下り、湯けむり通りへ入る。</li>
@@ -441,7 +433,7 @@ export default function FurusatoOnsenSteamHealingStayPage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（湯煙たなびく温泉街・名物地獄蒸し＆天然砂むし極上湯治）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -495,9 +487,7 @@ export default function FurusatoOnsenSteamHealingStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜湯煙たなびく温泉街・名物地獄蒸し＆天然砂むし極上湯治</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-aomori-towada-oirase-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -518,7 +508,7 @@ export default function FurusatoOnsenSteamHealingStayPage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（湯煙たなびく温泉街・名物地獄蒸し＆天然砂むし極上湯治）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/kumamoto/"

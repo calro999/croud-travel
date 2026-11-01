@@ -352,7 +352,7 @@ export default function PetDogResortHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>オーシャンビューのテラスから海と夕日を一望。全10室の温泉露天風呂付客室で日常の疲れを癒す至福の刻</p>
                   <p><strong>【所在地・アクセス】</strong>〒 静岡県伊豆市小土肥309-1 ／ 最寄り駅：主要駅 ／ 交通案内：修善寺駅より東海バスで土肥・松崎行</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
+                  <p>【愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と一緒に絶景を眺めて楽しいひととき愛犬と泊まることができて、景色もきれいで、とても楽しい時間を過ごせました!クチコミの詳細はこちらから　https://review.travel.raku…　2026-08-18 21:03:39投稿」
@@ -460,32 +460,32 @@ export default function PetDogResortHubPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">三島スカイウォーク</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本一長い歩行者専用吊り橋（全長400m）。富士山と駿河湾のパノラマ絶景を空中散歩感覚で楽しめ、ジップラインなどのアクティビティも充実しています。</p>
+                <h3 className="text-base font-bold text-stone-900">三島スカイウォーク（愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添】 日本一長い歩行者専用吊り橋（全長400m）。富士山と駿河湾のパノラマ絶景を空中散歩感覚で楽しめ、ジップラインなどのアクティビティも充実しています。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">熱海温泉・サンビーチ</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">都心からのアクセスが抜群な海辺の温泉リゾート。地中海リゾートを彷彿とさせるサンビーチや年間を通して開催される熱海海上花火大会が人気です。</p>
+                <h3 className="text-base font-bold text-stone-900">熱海温泉・サンビーチ（愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添】 都心からのアクセスが抜群な海辺の温泉リゾート。地中海リゾートを彷彿とさせるサンビーチや年間を通して開催される熱海海上花火大会が人気です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">伊豆シャボテン動物公園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">1,500種類のサボテンと世界中の動物たちが暮らすテーマパーク。冬限定の「元祖カピバラの露天風呂」の癒やされる姿は全国的に有名です。</p>
+                <h3 className="text-base font-bold text-stone-900">伊豆シャボテン動物公園（愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添】 1,500種類のサボテンと世界中の動物たちが暮らすテーマパーク。冬限定の「元祖カピバラの露天風呂」の癒やされる姿は全国的に有名です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">白糸の滝</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">富士山の湧水が幅150mの湾曲した絶壁から千本の絹糸のように流れ落ちる国指定の名勝・天然記念物。清涼なマイナスイオンと富士の恵みを体感できます。</p>
+                <h3 className="text-base font-bold text-stone-900">白糸の滝（愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添】 富士山の湧水が幅150mの湾曲した絶壁から千本の絹糸のように流れ落ちる国指定の名勝・天然記念物。清涼なマイナスイオンと富士の恵みを体感できます。</p>
               </div>
             </div>
             </div>

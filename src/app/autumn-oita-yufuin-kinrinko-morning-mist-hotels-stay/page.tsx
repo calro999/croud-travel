@@ -271,7 +271,7 @@ export default function FeaturePage() {
               <span className="text-teal-700 font-bold tracking-wider text-xs md:text-sm uppercase">金鱗湖散策と由布岳を望むおすすめ宿</span>
               <h2 className="text-2xl md:text-3xl font-extrabold text-stone-900 mt-1">厳選離れ・高級旅館 5選</h2>
             </div>
-            <p className="text-xs md:text-sm text-stone-500">※宿泊料金は楽天トラベル記載の目安料金です</p>
+            <p className="text-xs md:text-sm text-stone-500">【幻想の朝霧と紅葉】 ※宿泊料金は楽天トラベル記載の目安料金です</p>
           </div>
 
           <div className="grid grid-cols-1 gap-8">

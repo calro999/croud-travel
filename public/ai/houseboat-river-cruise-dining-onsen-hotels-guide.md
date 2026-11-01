@@ -1,5 +1,5 @@
 ---
-title: "屋形船舟遊びができる宿おすすめ10選"
+title: "【2026最新】貸切屋形船・川下り舟遊び！風流な水上ディナー＆舟巡り温泉旅館おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/houseboat-river-cruise-dining-onsen-hotels-guide/"
 hotel_name: "貸切屋形船・川下り舟遊び！風流な水上ディナー＆舟巡り温泉旅館おすすめ10選"
 prefecture: "全国"
@@ -10,7 +10,7 @@ review_count: 492
 last_modified: "2026-10-13"
 ---
 
-# 屋形船舟遊びができる宿おすすめ10選
+# 【2026最新】貸切屋形船・川下り舟遊び！風流な水上ディナー＆舟巡り温泉旅館おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/houseboat-river-cruise-dining-onsen-hotels-guide/
 - **宿泊施設・特集名**: 貸切屋形船・川下り舟遊び！風流な水上ディナー＆舟巡り温泉旅館おすすめ10選

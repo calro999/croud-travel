@@ -99,10 +99,8 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
-          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-6 flex items-center gap-3">
-            <span className="text-amber-600 text-xl md:text-2xl">◆</span>
-            この旅で体感したい3つの醍醐味
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-6 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
+            この旅で体感したい3つの醍醐味｜カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴</h2>
           <div className="grid gap-6">
 
             <div className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200/80 shadow-xs">
@@ -155,11 +153,9 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
         {/* 厳選名宿セクション */}
         <section className="mb-16">
           <div className="mb-8">
-            <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-3 flex items-center gap-3">
-              <span className="text-amber-600 text-xl md:text-2xl">◆</span>
-              ふるさと納税で泊まる厳選名宿
-            </h2>
-            <p className="text-stone-600 text-sm leading-relaxed">
+            <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-3 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
+              ふるさと納税で泊まる厳選名宿｜カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴</h2>
+            <p className="text-stone-600 text-sm leading-relaxed">【カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴】 
               楽天トラベルAPIから最新の実在宿データを取得。対象自治体のふるさと納税クーポンを利用して実質2,000円で泊まれる名宿です。
             </p>
           </div>
@@ -255,7 +251,7 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     国の天然記念物に指定される名所「麻釜（おがま）」のすぐ隣に位置し、明治２年創業の歴史を紡ぐ野沢温泉屈指の老舗温泉宿。村内に点在する13箇所の外湯（大湯・真湯・熊の手洗湯など）への湯めぐり拠点として最高の立地を誇り、宿自慢の内湯には麻釜熱湯源泉が自然湧出で掛け流されています。信州の民芸美が薫る落ち着いた客室、地元契約農家の野沢菜や信州サーモン、みゆき豚を取り入れた滋味あふれる田舎会席料理が評判で、本物の温泉文化と温かな村のぬくもりに包まれる旅が叶います。
                   </p>
-                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
+                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">【カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴】 
                     訪れるすべてのお客様に心安らぐ贅沢な寛ぎの時間を提供し、高い評価を獲得している極上宿です。
                   </p>
                   
@@ -355,9 +351,7 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
 
         {/* 関連特集クロスリンク */}
         <section className="bg-stone-50 rounded-3xl p-8 border border-stone-200/80 mb-16">
-          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">
-            あわせて読みたい関連特集
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">あわせて読みたい関連特集｜カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴</h2>
           <ul className="grid sm:grid-cols-2 gap-2">
 
               <li key="furusato-tax-retro-onsen-town-yukata-walk-stay">
@@ -396,10 +390,8 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
 
         {/* ハブページへの誘導フッター */}
         <div className="bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 text-white rounded-3xl p-8 md:p-10 shadow-xl border border-amber-900/40 text-center mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">
-            もっとお得に旅を楽しむためのハブページへ
-          </h2>
-          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">
+          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">もっとお得に旅を楽しむためのハブページへ｜カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴</h2>
+          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">【カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴】 
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
@@ -429,7 +421,7 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 城崎温泉駅より徒歩にて１３分で現地へ到着。</li>
@@ -441,7 +433,7 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「城崎温泉 登録有形文化財の宿 三木屋」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -495,9 +487,7 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-iwate-hanamaki-tsunagi-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -518,7 +508,7 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（カランコロンと下駄を鳴らす外湯めぐり＆情緒あふれる浴）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/hiroshima/"

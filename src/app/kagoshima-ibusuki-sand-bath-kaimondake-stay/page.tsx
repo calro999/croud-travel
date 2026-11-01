@@ -107,10 +107,8 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2">
-              <span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span>
-            </h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
+              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span>（鹿児島・指宿＆開聞岳・知覧：天然砂むし・開聞岳＆知覧）</h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -246,10 +244,8 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2">
-              <span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span>
-            </h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
+              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span>（鹿児島・指宿＆開聞岳・知覧：天然砂むし・開聞岳＆知覧）</h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -477,10 +473,8 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2">
-              <span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span>
-            </h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
+              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span>（鹿児島・指宿＆開聞岳・知覧：天然砂むし・開聞岳＆知覧）</h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -676,9 +670,7 @@ export default function Page() {
 
         {/* まとめ・下部ナビ */}
         <section className="bg-stone-900/60 rounded-3xl p-8 border border-stone-800 text-center space-y-6 shadow-2xl">
-          <h3 className="text-xl sm:text-2xl font-black text-amber-200">
-            四季の感動に出逢う、極上のステイへ出かけよう
-          </h3>
+          <h3 className="text-xl sm:text-2xl font-black text-amber-200">四季の感動に出逢う、極上のステイへ出かけよう（鹿児島・指宿＆開聞岳・知覧：天然砂むし・開聞岳＆知覧）</h3>
           <p className="text-stone-300 text-xs sm:text-sm max-w-2xl mx-auto leading-relaxed">
             日本各地の風土が育んだ奇跡の景観、受け継がれる伝統文化、そして心ほどける名湯。
             お気に入りの宿を見つけて、特別な旅の思い出を刻んでみませんか。
@@ -703,7 +695,7 @@ export default function Page() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（鹿児島・指宿＆開聞岳・知覧：天然砂むし・開聞岳＆知覧）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 指宿駅よりアクセス。ＪＲ指宿枕崎線指宿駅まで送迎あり／九州自動車道谷山インターより５０分。</li>
@@ -715,7 +707,7 @@ export default function Page() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（鹿児島・指宿＆開聞岳・知覧：天然砂むし・開聞岳＆知覧）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「指宿温泉 いぶすき秀水園」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -769,9 +761,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜鹿児島・指宿＆開聞岳・知覧：天然砂むし・開聞岳＆知覧</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/yamagata-kaminoyama-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -792,7 +782,7 @@ export default function Page() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（鹿児島・指宿＆開聞岳・知覧：天然砂むし・開聞岳＆知覧）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/yamagata/"

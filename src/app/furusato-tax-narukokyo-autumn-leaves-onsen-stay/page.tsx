@@ -127,21 +127,17 @@ export default function FeatureArticlePage() {
         <article className="lg:col-span-2 space-y-10">
           {/* エリア概要セクション */}
           <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-stone-200/80">
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 pb-3 border-b border-stone-200 flex items-center gap-3">
-              <span className="text-2xl">🍂</span>
-              秋の風情と旬の味覚を堪能する特別な旅
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 pb-3 border-b border-stone-200 flex items-center gap-3"><span className="text-2xl">🍂</span>
+              秋の風情と旬の味覚を堪能する特別な旅｜鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷</h2>
             <p className="text-stone-700 leading-relaxed text-sm md:text-base mb-6">
               宮城県北西部に位置する鳴子温泉郷は、大谷川沿いに広がる日本屈指の名湯地帯。秋の深まりとともに鳴子峡は全山が錦繍の衣装をまとい、レストハウス展望台や遊歩道から望む大深沢橋と紅葉のコントラストは圧巻の美しさを誇ります。千年の歴史を誇る温泉街には多彩な源泉が湧き出し、肌を滑らかにする硫黄泉や重曹泉など極上の湯巡りが楽しめます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">
-                <span>💡</span> 10月〜11月の旅を満喫する3大ポイント
-              </h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2"><span>💡</span> 10月〜11月の旅を満喫する3大ポイント（鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷）</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
-                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞</li>
-                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢</li>
-                <li><strong>実質2,000円ステイ：</strong>楽天ふるさと納税トラベルクーポンで賢く予約</li>
+                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷）</li>
+                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷）</li>
+                <li><strong>実質2,000円ステイ：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷）</li>
               </ul>
             </div>
           </section>
@@ -331,11 +327,9 @@ export default function FeatureArticlePage() {
 
           {/* ふるさと納税活用法 */}
           <section className="bg-gradient-to-r from-amber-500 to-orange-600 text-white rounded-2xl p-6 md:p-8 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2">
-              <span>🎁</span> 楽天ふるさと納税で実質2,000円宿泊する方法
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で実質2,000円宿泊する方法｜鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷</h2>
             <div className="space-y-4 text-xs md:text-sm text-amber-50 leading-relaxed">
-              <p>
+              <p>【鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷】 
                 楽天ふるさと納税の「トラベルクーポン（宿泊補助券）」を利用すると、寄付金額に応じた割引クーポンが即時または後日発行され、楽天トラベルでの宿泊予約時に直接利用できます。
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-3 pt-2 text-stone-900">
@@ -362,9 +356,7 @@ export default function FeatureArticlePage() {
         {/* サイドバー */}
         <aside className="space-y-6">
           <div className="bg-white rounded-2xl p-6 shadow-sm border border-stone-200/80 sticky top-6">
-            <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2">
-              <span>📌</span> この特集で紹介した宿
-            </h3>
+            <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2"><span>📌</span> この特集で紹介した宿（鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷）</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.naruko_bentenkaku.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
@@ -430,7 +422,7 @@ export default function FeatureArticlePage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 鳴子温泉駅よりアクセス。お車 東北道古川ICより約40分 電車 鳴子御殿湯駅より徒歩10分 高速バス 東鳴子赤湯より徒歩10分。</li>
@@ -442,7 +434,7 @@ export default function FeatureArticlePage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「鳴子温泉 旅館弁天閣」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -496,9 +488,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-budget-miyagi-sendai-station-zuihoden-gyutan-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -519,7 +509,7 @@ export default function FeatureArticlePage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（鳴子峡の深紅の大峡谷＆多彩な名湯・鳴子温泉郷）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/chiba/"

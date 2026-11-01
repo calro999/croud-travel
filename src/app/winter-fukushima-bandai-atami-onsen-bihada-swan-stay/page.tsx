@@ -360,10 +360,8 @@ export default function BandaiAtamiWinterPage() {
 
         {/* Table of Contents */}
         <section className="bg-slate-100/80 rounded-2xl p-6 border border-slate-200">
-          <h2 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-teal-800" />
-            目次・インデックス
-          </h2>
+          <h2 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-teal-800" />
+            目次・インデックス｜磐梯熱海温泉で過ごす冬の旅（11・12月）</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-slate-700">
             <a href="#spring-feature" className="hover:text-teal-800 hover:underline flex items-center gap-1.5">
               <span>1. 磐梯熱海温泉の魅力：pH9超の美人の湯と伝統の「あつ湯・ぬる湯」交互浴</span>
@@ -646,9 +644,7 @@ export default function BandaiAtamiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜磐梯熱海温泉で過ごす冬の旅（11・12月）</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -720,7 +716,7 @@ export default function BandaiAtamiWinterPage() {
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
+              <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・宿特集まとめを見る（磐梯熱海温泉で過ごす冬の旅（11・12月））</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-fukushima-bandai-atami-onsen-bihada-swan-stay" />

@@ -195,9 +195,7 @@ export default function Page() {
         {/* 宿一覧 */}
         <section className="space-y-8">
           <div className="border-b-2 border-emerald-900/10 pb-3 flex items-center justify-between">
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-              <span>🏆</span> 厳選おすすめ宿ランキング
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>🏆</span> 厳選おすすめ宿ランキング｜笹の葉のざわめきとライトアップ</h2>
             <span className="text-xs text-stone-500">楽天トラベル最新データ更新</span>
           </div>
 
@@ -277,23 +275,17 @@ export default function Page() {
 
         {/* 旅のQ&A */}
         <section className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-4">
-          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>❓</span> よくある質問・失敗しない宿選び
-          </h2>
+          <h2 className="text-lg md:text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>❓</span> よくある質問・失敗しない宿選び｜笹の葉のざわめきとライトアップ</h2>
           <div className="space-y-4 text-sm">
             <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5">
-                <span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？
-              </h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">
+              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> おすすめの予約時期やタイミングは？（笹の葉のざわめきとライトアップ）</h3>
+              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">【笹の葉のざわめきとライトアップ】 
                 人気の日程（連休や週末）は1〜2ヶ月前には満室になることが多いため、早期予約（早割プラン）の利用がおすすめです。また楽天トラベルの「5と0のつく日」キャンペーンを活用すると最大20%オフのクーポンが併用でき、最もお得に予約できます。
               </p>
             </div>
             <div className="border border-stone-100 rounded-xl p-4 bg-stone-50/50 space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5">
-                <span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？
-              </h3>
-              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">
+              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span className="text-emerald-700 font-black">Q.</span> 宿選びで失敗しないためのポイントは？（笹の葉のざわめきとライトアップ）</h3>
+              <p className="text-stone-700 text-xs md:text-sm leading-relaxed">【笹の葉のざわめきとライトアップ】 
                 宿泊者レビューのお風呂・お食事・接客評価が4.3以上の宿を選ぶと満足度が非常に高くなります。またアクセス手段（送迎バスの有無など）やプランに含まれる特典を事前に確認しておくと安心です。
               </p>
             </div>
@@ -310,7 +302,7 @@ export default function Page() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（笹の葉のざわめきとライトアップ）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> ＪＲ中央線・石和温泉駅→タクシーにて５分（徒歩１０分）／中央自動車道・一宮御坂ＩＣ→Ｒ２０経由で５分で現地へ到着。</li>
@@ -322,7 +314,7 @@ export default function Page() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（笹の葉のざわめきとライトアップ）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「竹林庭瑞穂 旅籠きこり」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -376,9 +368,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜笹の葉のざわめきとライトアップ</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/niigata-echigo-yuzawa-snow-sake-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -399,7 +389,7 @@ export default function Page() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（笹の葉のざわめきとライトアップ）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/okayama/"
@@ -525,7 +515,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「笹の葉のざわめきとライトアップ（竹林の小径に佇む静寂の隠れ家温泉旅館5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ中央線・石和温泉駅→タクシーにて５分（徒歩１０分）／中央自動車道・一宮御坂ＩＣ→Ｒ２０経由で５分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【笹の葉のざわめきとライトアップ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「タイムスリップしたような空間と乳児への配慮昔ながらの旅館という感じでタイムスリップしたような時間を過ごせました。広間での食事の時に乳児用の簡易ベッドも準備してくださりありがたかったです。クチコ…　2026-09-15 15:18:35投稿」
@@ -547,7 +537,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「笹の葉のざわめきとライトアップ（竹林の小径に佇む静寂の隠れ家温泉旅館5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：信越本線　田上駅から車で２～３分、徒歩で２０分（田上駅まで送迎も致します）</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【笹の葉のざわめきとライトアップ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「料理は絶品、格安で満足のいく内容料理がとても美味しくて、ランクアップして、料理をもっと楽しみたかったです。階段でトイレが階が違ったので、ちょっと気になりましたが、お値段が格安だったので満足でし…　2026-08-14 18:38:08投稿」
@@ -559,7 +549,7 @@ export default function Page() {
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>
                   <span className="text-[11px] font-bold text-amber-700 bg-amber-100 px-2.5 py-0.5 rounded-full mr-2">詳細データ #3</span>
-                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">修善寺温泉　国の登録文化財の宿　新井旅館</h3>
+                  <h3 className="text-base md:text-lg font-bold text-stone-900 inline">修善寺温泉　国の登録文化財の宿　新井旅館（笹の葉のざわめきとライトアップ）</h3>
                   <span className="text-xs text-stone-400 ml-2">（しゅぜんじおんせん　くにのとうろくぶんかざいのやど　あらいりょかん）</span>
                 </div>
                 <span className="text-xs font-bold text-rose-700 bg-rose-50 px-3 py-1 rounded-lg border border-rose-200">参考最安料金: ¥24,420〜</span>
@@ -633,32 +623,32 @@ export default function Page() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">清津峡渓谷トンネル（Tunnel of Light）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三大峡谷の一つ・清津峡の絶景を楽しめるアートトンネル。終点のパノラマステーションでは水鏡に渓谷のダイナミックな景観が映り込む映えスポットです。</p>
+                <h3 className="text-base font-bold text-stone-900">清津峡渓谷トンネル（Tunnel of Light）（笹の葉のざわめきとライトアップ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【笹の葉のざわめきとライトアップ】 日本三大峡谷の一つ・清津峡の絶景を楽しめるアートトンネル。終点のパノラマステーションでは水鏡に渓谷のダイナミックな景観が映り込む映えスポットです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">佐渡金山</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">江戸時代から平成まで400年にわたって採掘が続いた日本最大の金銀山。手掘りの坑道跡や巨大な金山遺構「北沢浮遊選鉱場」のノスタルジーが感動的です。</p>
+                <h3 className="text-base font-bold text-stone-900">佐渡金山（笹の葉のざわめきとライトアップ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【笹の葉のざわめきとライトアップ】 江戸時代から平成まで400年にわたって採掘が続いた日本最大の金銀山。手掘りの坑道跡や巨大な金山遺構「北沢浮遊選鉱場」のノスタルジーが感動的です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Entrance_to_Echigo-Yuzawa_Onsen.JPG/1280px-Entrance_to_Echigo-Yuzawa_Onsen.JPG?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="苗場山・越後湯沢温泉" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">苗場山・越後湯沢温泉</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">四季を通じてアウトドアやリゾートが楽しめる一大リゾート地。冬は上質なパウダースノーのスキー場、秋はドラゴンドラからの日本一長い紅葉空中散歩が自慢です。 越後湯沢温泉（えちごゆざわおんせん）は、新潟県南魚沼郡湯沢町（旧越後国）にある温泉。川端康成の小説『雪国』のモデルになった温泉地である。単に湯沢温泉と呼ばれることもある。 この項目で扱うように、同じ湯沢町にある他の温泉も含めた呼び名としても用いられる。…</p>
+                <h3 className="text-base font-bold text-stone-900">苗場山・越後湯沢温泉（笹の葉のざわめきとライトアップ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【笹の葉のざわめきとライトアップ】 四季を通じてアウトドアやリゾートが楽しめる一大リゾート地。冬は上質なパウダースノーのスキー場、秋はドラゴンドラからの日本一長い紅葉空中散歩が自慢です。 越後湯沢温泉（えちごゆざわおんせん）は、新潟県南魚沼郡湯沢町（旧越後国）にある温泉。川端康成の小説『雪国』のモデルになった温泉地である。単に湯沢温泉と呼ばれることもある。 この項目で扱うように、同じ湯沢町にある他の温泉も含めた呼び名としても用いられる。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">萬代橋（ばんだいばし）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">信濃川にかかる6連アーチが美しい新潟市のシンボルであり国指定重要文化財。重厚な石造りの橋脚と美しい川辺の遊歩道が市民や観光客に親しまれています。</p>
+                <h3 className="text-base font-bold text-stone-900">萬代橋（ばんだいばし）（笹の葉のざわめきとライトアップ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【笹の葉のざわめきとライトアップ】 信濃川にかかる6連アーチが美しい新潟市のシンボルであり国指定重要文化財。重厚な石造りの橋脚と美しい川辺の遊歩道が市民や観光客に親しまれています。</p>
               </div>
             </div>
             </div>

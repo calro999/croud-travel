@@ -141,10 +141,8 @@ export default function Page() {
 
         {/* 厳選ホテル・宿ランキング比較一覧 */}
         <div className="space-y-8 pt-4">
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2 border-b border-emerald-950/10 pb-3">
-            <span>🏆</span>
-            <span>編集部が厳選したおすすめ宿泊施設 TOP3</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2 border-b border-emerald-950/10 pb-3"><span>🏆</span>
+            <span>編集部が厳選したおすすめ宿泊施設 TOP3</span>｜清冽な名水が生み出す極上の喉ごし</h2>
 
           <div className="space-y-8">
             {hotels.map((h, idx) => (
@@ -244,13 +242,13 @@ export default function Page() {
           <div className="space-y-3 text-xs">
             <div className="p-4 rounded-xl bg-teal-50/30 border border-teal-900/10 space-y-1.5">
               <h4 className="font-bold text-teal-950">Q. 名水グルメ・蕎麦と豆腐の旅の予約でお得な方法はありますか？</h4>
-              <p className="text-emerald-950/80 leading-relaxed">
+              <p className="text-emerald-950/80 leading-relaxed">【清冽な名水が生み出す極上の喉ごし】 
                 楽天トラベルの「5と0のつく日セール」による最大20%割引や、実質2,000円の自己負担で宿泊できる「楽天ふるさと納税宿泊クーポン」の併用が最もお得でおすすめです。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-teal-50/30 border border-teal-900/10 space-y-1.5">
               <h4 className="font-bold text-teal-950">Q. キャンセル料や予約変更はどうなっていますか？</h4>
-              <p className="text-emerald-950/80 leading-relaxed">
+              <p className="text-emerald-950/80 leading-relaxed">【清冽な名水が生み出す極上の喉ごし】 
                 各宿泊施設および予約プランによってキャンセル規定が異なります。ご予約完了前に楽天トラベルの詳細ページにてキャンセルポリシーを必ずご確認ください。
               </p>
             </div>
@@ -354,7 +352,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>萬鷹旅館名物！すっぽんコース★田舎会席・手打ちそばも楽しめる♪</p>
                   <p><strong>【所在地・アクセス】</strong>〒 岩手県和賀郡西和賀町湯川52-108-1 ／ 最寄り駅：ほっとゆだ ／ 交通案内：ＪＲ北上線　ほっとゆだ駅から車で５分又はゆけむりタクシー萬鷹前下車すぐ／秋田自動車道　湯田ＩＣから車で１０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
+                  <p>【清冽な名水が生み出す極上の喉ごし】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「何度も訪れたくなる、特別なお宿です!萬鷹旅館さんの大ファンです。毎回、訪れても変わることのない素晴らしいおもてなしに、今回も到着した瞬間から心が解きほぐされました。お目当ての名物スッポ…　2026-07-19 11:36:11投稿」
@@ -462,16 +460,16 @@ export default function Page() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">中尊寺金色堂（平泉）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">世界遺産・平泉の象徴であり、奥州藤原氏の栄華を今に伝える極楽浄土の建築。堂全体が金箔で覆われ、螺鈿細工や象牙の装飾が施された国宝の美しさは言葉を失うほどです。</p>
+                <h3 className="text-base font-bold text-stone-900">中尊寺金色堂（平泉）（清冽な名水が生み出す極上の喉ごし）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【清冽な名水が生み出す極上の喉ごし】 世界遺産・平泉の象徴であり、奥州藤原氏の栄華を今に伝える極楽浄土の建築。堂全体が金箔で覆われ、螺鈿細工や象牙の装飾が施された国宝の美しさは言葉を失うほどです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">浄土ヶ浜</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">三陸復興国立公園を代表する三陸海岸の景勝地。白い鋭利な岩肌と青松、穏やかで透明度の高いエメラルドグリーンの入江が「まるで極楽浄土のよう」と称えられています。</p>
+                <h3 className="text-base font-bold text-stone-900">浄土ヶ浜（清冽な名水が生み出す極上の喉ごし）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【清冽な名水が生み出す極上の喉ごし】 三陸復興国立公園を代表する三陸海岸の景勝地。白い鋭利な岩肌と青松、穏やかで透明度の高いエメラルドグリーンの入江が「まるで極楽浄土のよう」と称えられています。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -479,15 +477,15 @@ export default function Page() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
                 <h3 className="text-base font-bold text-stone-900">龍泉洞</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三大鍾乳洞の一つで、国の天然記念物。洞内に湧き出る地底湖は世界有数の透明度を誇り、「ドラゴンブルー」と呼ばれる神秘的な青い輝きに吸い込まれそうになります。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【清冽な名水が生み出す極上の喉ごし】 日本三大鍾乳洞の一つで、国の天然記念物。洞内に湧き出る地底湖は世界有数の透明度を誇り、「ドラゴンブルー」と呼ばれる神秘的な青い輝きに吸い込まれそうになります。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">小岩井農場</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">岩手山の雄大な山麓に広がる日本最大級の民間総合農場。美しい一本桜や歴史あるレンガサイロ、搾りたての牛乳を使った絶品アイスクリームなどが楽しめます。</p>
+                <h3 className="text-base font-bold text-stone-900">小岩井農場（清冽な名水が生み出す極上の喉ごし）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【清冽な名水が生み出す極上の喉ごし】 岩手山の雄大な山麓に広がる日本最大級の民間総合農場。美しい一本桜や歴史あるレンガサイロ、搾りたての牛乳を使った絶品アイスクリームなどが楽しめます。</p>
               </div>
             </div>
             </div>

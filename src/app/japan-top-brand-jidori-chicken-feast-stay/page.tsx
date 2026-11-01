@@ -374,7 +374,7 @@ export default function GourmetCuisineHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉かけ流し！当館自慢の「美肌の湯」と日本海の海幸を満喫。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 秋田県男鹿市北浦湯本草木原50-1 ／ 最寄り駅：羽立 ／ 交通案内：秋田自動車道秋田北IC下車６０ｋｍ７０分／JR羽立駅～路線バスで４５分／JR男鹿駅～無料送迎バスあり詳しくは公式HPへ</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
+                  <p>【日本三大地鶏＆銘柄鶏の宿：比内地鶏・名古屋コーチン・】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★3.93 ／ 部屋 ★4.01 ／ 設備 ★3.86 ／ 風呂 ★4.11 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「姉妹での古希祝い旅姉妹で古希祝いの旅行をしました。料理も美味しく思い出深いおもいでとなりました。お世話になりました。クチコミの詳細はこちらから　https://review.trave…　2026-10-10 14:04:36投稿」

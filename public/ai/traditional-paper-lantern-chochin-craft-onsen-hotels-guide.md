@@ -1,5 +1,5 @@
 ---
-title: "提灯絵付け体験ができる宿おすすめ10選"
+title: "【2026最新】伝統手漉き和紙提灯・岐阜提灯・八女提灯絵付け手作り体験ができる名門温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/traditional-paper-lantern-chochin-craft-onsen-hotels-guide/"
 hotel_name: "伝統手漉き和紙提灯・岐阜提灯・八女提灯絵付け手作り体験ができる名門温泉宿おすすめ10選"
 prefecture: "全国"
@@ -10,7 +10,7 @@ review_count: 492
 last_modified: "2026-10-13"
 ---
 
-# 提灯絵付け体験ができる宿おすすめ10選
+# 【2026最新】伝統手漉き和紙提灯・岐阜提灯・八女提灯絵付け手作り体験ができる名門温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/traditional-paper-lantern-chochin-craft-onsen-hotels-guide/
 - **宿泊施設・特集名**: 伝統手漉き和紙提灯・岐阜提灯・八女提灯絵付け手作り体験ができる名門温泉宿おすすめ10選

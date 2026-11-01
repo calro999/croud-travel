@@ -374,7 +374,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>豊かな自然に抱かれ、赤谷川の渓谷に建つ、ぬる湯が特徴の古くからの湯治の宿。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 群馬県利根郡みなかみ町相俣2577-1 ／ 最寄り駅：主要駅 ／ 交通案内：猿ケ京行きバス乗車にて終点下車より車で１５分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
+                  <p>【自家源泉かけ流し100%の宿：加水なし・加温なし・循】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「秘境のぬる湯と美味しい食事でゆったり満喫とても素敵な秘境宿です。温泉は混浴露天と混浴内湯、男女別内湯、女性専用露天と満載ぬる湯ですので1時間位は楽しめます。混浴も湯あみ着が300円でレ…　2026-08-04 00:40:33投稿」
@@ -396,7 +396,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「婦人風呂」JCDデザインアワード2016金賞受賞！「一浴玉の肌」といわれる美肌の湯</p>
                   <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡中之条町上沢渡甲2301 ／ 最寄り駅：中之条 ／ 交通案内：ＪＲ　中之条駅よりバスで２５分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
+                  <p>【自家源泉かけ流し100%の宿：加水なし・加温なし・循】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「満足なソロ温泉旅夕食・朝食共に丁度良くおいしかった。お風呂は最高でした。前から入ってみたかったお風呂だったので満足です!クチコミの詳細はこちらから　https://review.tra…　2026-08-18 19:20:58投稿」
@@ -418,7 +418,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>＜体の芯まで温まる秘湯＞5つの源泉を持つ100％掛け流し♪一押し「自噴巌風呂」は無料貸切</p>
                   <p><strong>【所在地・アクセス】</strong>〒 福島県岩瀬郡天栄村湯本下二俣22-6 ／ 最寄り駅：新白河 ／ 交通案内：※新白河駅より車で約５０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
+                  <p>【自家源泉かけ流し100%の宿：加水なし・加温なし・循】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂は熱めで食事の飲み物は限定的お風呂は全体的にやや熱めです昔は川を渡ると露天風呂があったのか、今はシールで隠されていました食事の際の飲み物がほうじ茶と冷水のみでした至極一般的な宿と…　2026-08-14 23:09:46投稿」
@@ -461,31 +461,31 @@ export default function HeritageOnsenHubPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
                 <h3 className="text-base font-bold text-stone-900">大内宿</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">江戸時代の宿場町の面影をそのまま残す国の重要伝統的建造物群保存地区。茅葺き屋根の民家が街道沿いに並び、名物の「高遠そば（一本ねぎそば）」を味わえます。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【自家源泉かけ流し100%の宿：加水なし・加温なし・循】 江戸時代の宿場町の面影をそのまま残す国の重要伝統的建造物群保存地区。茅葺き屋根の民家が街道沿いに並び、名物の「高遠そば（一本ねぎそば）」を味わえます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">鶴ヶ城（会津若松城）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">戊辰戦争の激戦に耐え抜いた難攻不落の名城。赤瓦を纏った天守閣は日本唯一であり、内部の歴史資料館や最上階からの城下町一望が見どころです。</p>
+                <h3 className="text-base font-bold text-stone-900">鶴ヶ城（会津若松城）（自家源泉かけ流し100%の宿：加水なし・加温なし・循）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【自家源泉かけ流し100%の宿：加水なし・加温なし・循】 戊辰戦争の激戦に耐え抜いた難攻不落の名城。赤瓦を纏った天守閣は日本唯一であり、内部の歴史資料館や最上階からの城下町一望が見どころです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">五色沼湖沼群（裏磐梯）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">磐梯山の噴火によって形成された無数の神秘的な沼群。水に含まれる鉱物や気象条件により、エメラルドグリーンやコバルトブルーに色彩が変わるハイキングコースです。</p>
+                <h3 className="text-base font-bold text-stone-900">五色沼湖沼群（裏磐梯）（自家源泉かけ流し100%の宿：加水なし・加温なし・循）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【自家源泉かけ流し100%の宿：加水なし・加温なし・循】 磐梯山の噴火によって形成された無数の神秘的な沼群。水に含まれる鉱物や気象条件により、エメラルドグリーンやコバルトブルーに色彩が変わるハイキングコースです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">猪苗代湖</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「天鏡湖」とも称される日本第4位の面積を誇る美しい湖。雄大な磐梯山を水面に映し出し、冬には飛来するハクチョウやしぶき氷の絶景が見られます。</p>
+                <h3 className="text-base font-bold text-stone-900">猪苗代湖（自家源泉かけ流し100%の宿：加水なし・加温なし・循）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【自家源泉かけ流し100%の宿：加水なし・加温なし・循】 「天鏡湖」とも称される日本第4位の面積を誇る美しい湖。雄大な磐梯山を水面に映し出し、冬には飛来するハクチョウやしぶき氷の絶景が見られます。</p>
               </div>
             </div>
             </div>

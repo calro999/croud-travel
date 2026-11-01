@@ -352,7 +352,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>船折瀬戸に面する唯一の旅館。どの部屋からも潮流や瀬戸を行き交う船が見られ、料理が自慢の宿です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 愛媛県今治市伯方町有津甲1853 ／ 最寄り駅：今治 ／ 交通案内：今治駅よりお車にて約３５分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
+                  <p>【愛媛・しまなみ海道＆今治：来島海峡大橋・多島美サイク】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>料理旅館せとの滞在ポイント：</strong>「愛媛・しまなみ海道＆今治エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」

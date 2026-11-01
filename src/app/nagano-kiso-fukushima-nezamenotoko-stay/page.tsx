@@ -396,7 +396,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「長野・木曽福島＆寝覚の床・御嶽山（中山道関所宿場町・木曽そば＆五平餅宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR木曽福島駅～徒歩約10分【15：30分16：40分送迎有要予約】伊那IC約40分塩尻IC約60分中津川I約70分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場の案内が不親切で非常に危険だった駐車場について、隣の奥を案内されたが、バックで進入しなければならず非常に狭く危うく壁にぶつかりそうになった。後からチェックインした人が宿の前のスペースに駐車さ…　2026-09-13 19:14:31投稿」
@@ -418,7 +418,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>２０１５年６月、リニューアルしたねざめホテルと、木曽の山々の雄大な眺めをお楽しみください。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 長野県木曽郡上松町上松1888 ／ 最寄り駅：上松 ／ 交通案内：ＪＲ中央線・上松駅／中央道・塩尻ＩＣ又は中津川ＩＣ～５０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
+                  <p>【長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「木曽路旅行の拠点に便利寝覚めの床のすぐそばの高台にあり、車なら奈良井、赤沢休養林、御嶽山、妻籠宿など、木曽の名所を観光できる好立地でした。スタッフの方々は皆さん親切で、お部屋も広く清潔でゆったりと…　2026-08-05 22:16:57投稿」
@@ -440,7 +440,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>木曽駒ヶ岳を望む高原の中で夏は避暑地、冬はスキーリゾート！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 長野県木曽郡木曽町日義4898-553 ／ 最寄り駅：木曽福島 ／ 交通案内：JR木曽福島駅から車で約10分。塩尻IC・中津川ICから車で60分。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
+                  <p>【長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「当日の22時までであればいつでもチェックイン可能の制度に助けられました、夜遅くのチェックインだったのにも関わらず丁寧に対応していただきありがとうございました、朝食のお肉がとても美味しかったですクチ…　2026-08-29 23:02:16投稿」
@@ -461,31 +461,31 @@ export default function MicroTouristHubPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
                 <h3 className="text-base font-bold text-stone-900">大内宿</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">江戸時代の宿場町の面影をそのまま残す国の重要伝統的建造物群保存地区。茅葺き屋根の民家が街道沿いに並び、名物の「高遠そば（一本ねぎそば）」を味わえます。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・】 江戸時代の宿場町の面影をそのまま残す国の重要伝統的建造物群保存地区。茅葺き屋根の民家が街道沿いに並び、名物の「高遠そば（一本ねぎそば）」を味わえます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">鶴ヶ城（会津若松城）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">戊辰戦争の激戦に耐え抜いた難攻不落の名城。赤瓦を纏った天守閣は日本唯一であり、内部の歴史資料館や最上階からの城下町一望が見どころです。</p>
+                <h3 className="text-base font-bold text-stone-900">鶴ヶ城（会津若松城）（長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・】 戊辰戦争の激戦に耐え抜いた難攻不落の名城。赤瓦を纏った天守閣は日本唯一であり、内部の歴史資料館や最上階からの城下町一望が見どころです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">五色沼湖沼群（裏磐梯）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">磐梯山の噴火によって形成された無数の神秘的な沼群。水に含まれる鉱物や気象条件により、エメラルドグリーンやコバルトブルーに色彩が変わるハイキングコースです。</p>
+                <h3 className="text-base font-bold text-stone-900">五色沼湖沼群（裏磐梯）（長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・】 磐梯山の噴火によって形成された無数の神秘的な沼群。水に含まれる鉱物や気象条件により、エメラルドグリーンやコバルトブルーに色彩が変わるハイキングコースです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">猪苗代湖</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「天鏡湖」とも称される日本第4位の面積を誇る美しい湖。雄大な磐梯山を水面に映し出し、冬には飛来するハクチョウやしぶき氷の絶景が見られます。</p>
+                <h3 className="text-base font-bold text-stone-900">猪苗代湖（長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・】 「天鏡湖」とも称される日本第4位の面積を誇る美しい湖。雄大な磐梯山を水面に映し出し、冬には飛来するハクチョウやしぶき氷の絶景が見られます。</p>
               </div>
             </div>
             </div>

@@ -90,37 +90,33 @@ export default function FurusatoIndoorPoolKidsFamilyStayPage() {
           せっかくの家族旅行、当日あいにくの雨や寒さでお出かけプランが台無しになってしまった……という経験はありませんか？天候や季節に左右されず、子どもたちが思いきり体を動かして遊べる「全天候型・室内温水プール完備の大型温泉リゾート」なら、年中いつでも安心・快適な休日が約束されます。浅瀬の幼児用プールや浮き輪の持ち込みOKな温水プール、屋内の巨大キッズパーク、ゲームコーナー、ボウリング場、そしてパパ・ママを癒やす本格的な天然温泉大浴場や露天風呂、シェフが目の前で焼き上げるキッズフレンドリーな豪華ディナーバイキングまで、一カ所で全てが完結する圧倒的な充実度が魅力です。本特集では、25m室内温水プールや託児所、託児ルーム、ウェルカムベビー認定客室でファミリー人気No.1を誇る「那須温泉 ホテルエピナール那須」、敷地内に温水プール「テルメテルメ」やフォレストステージ、ボウリング場を備えた大自然アクティビティ宿「草津温泉 ホテルヴィレッジ」、そして屋内波の出るプール「アクアビート」や大展望露天風呂「棚湯」、全天候型噴水ショーを誇る九州屈指のエンタメ巨大リゾート「別府温泉 杉乃井ホテル」の3大名宿を厳選。楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円でお得に家族の思い出旅行を叶えましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
-          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">
-            <span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？
-          </h3>
+          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？（雨の日も冬も年中泳げる）</h3>
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
               <span><strong>寄付額の最大30％が宿泊クーポンとして即時付与</strong>され、楽天ポイントも二重に貯まる</span>
-            </li>
+            （雨の日も冬も年中泳げる）</li>
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
               <span><strong>有効期限はたっぷり3年間！</strong>寄付後に旅行時期や部屋タイプをじっくり選べる安心設計</span>
-            </li>
+            （雨の日も冬も年中泳げる）</li>
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
               <span>予約済み日程への<strong>「あとからクーポン適用」</strong>にも対応（※条件あり）で直前でも安心</span>
-            </li>
+            （雨の日も冬も年中泳げる）</li>
           </ul>
         </div>
       </section>
 
       {/* 目次 */}
       <section className="bg-gray-50 rounded-xl p-5 mb-12 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">
-          <span>📑</span> 目次
-        </h2>
+        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次｜雨の日も冬も年中泳げる</h2>
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">室内温水プール＆ファミリーリゾート特集が選ばれる3つの理由</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】那須温泉　ホテルエピナール那須</a></li>
           <li><a href="#hotel-2" className="text-amber-800 hover:underline font-medium">【第2選】草津温泉　ホテルヴィレッジ</a></li>
           <li><a href="#hotel-3" className="text-amber-800 hover:underline font-medium">【第3選】別府温泉　杉乃井ホテル（オリックスホテルズ＆リゾーツ）</a></li>
-          <li><a href="#furusato-step" className="text-amber-800 hover:underline font-medium">実質自己負担2,000円で予約する簡単4ステップ手順</a></li>
+          <li><a href="#furusato-step" className="text-amber-800 hover:underline font-medium">実質自己負担2,000円で予約する簡単4ステップ手順</a>（雨の日も冬も年中泳げる）</li>
           <li><a href="#faq" className="text-amber-800 hover:underline font-medium">よくある質問（Q&A）</a></li>
         </ol>
       </section>
@@ -262,35 +258,33 @@ export default function FurusatoIndoorPoolKidsFamilyStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2">
-          <span>💡</span> 楽天ふるさと納税トラベルクーポンで実質2,000円予約する4ステップ
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで実質2,000円予約する4ステップ｜雨の日も冬も年中泳げる</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-1">控除限度額をチェック</h3>
-              <p className="text-xs md:text-sm text-gray-600">年収や家族構成によって自己負担2,000円で利用できる上限額が決まります。まずは楽天ふるさと納税のシミュレーターで上限を確認しましょう。</p>
+              <h3 className="font-bold text-gray-900 mb-1">控除限度額をチェック（雨の日も冬も年中泳げる）</h3>
+              <p className="text-xs md:text-sm text-gray-600">【雨の日も冬も年中泳げる】 年収や家族構成によって自己負担2,000円で利用できる上限額が決まります。まずは楽天ふるさと納税のシミュレーターで上限を確認しましょう。</p>
             </div>
           </div>
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">2</div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-1">自治体を選んでトラベルクーポンを寄付</h3>
-              <p className="text-xs md:text-sm text-gray-600">訪れたいホテルのある自治体へ寄付。寄付額の最大30％相当の楽天トラベルクーポンが数日以内にマイクーポンへ自動付与されます。</p>
+              <h3 className="font-bold text-gray-900 mb-1">自治体を選んでトラベルクーポンを寄付（雨の日も冬も年中泳げる）</h3>
+              <p className="text-xs md:text-sm text-gray-600">【雨の日も冬も年中泳げる】 訪れたいホテルのある自治体へ寄付。寄付額の最大30％相当の楽天トラベルクーポンが数日以内にマイクーポンへ自動付与されます。</p>
             </div>
           </div>
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">3</div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-1">楽天トラベルで宿泊予約＆クーポン適用</h3>
-              <p className="text-xs md:text-sm text-gray-600">有効期限は3年間。宿泊日や部屋タイプを決め、予約画面で取得したトラベルクーポンを選択すると宿泊代金から即時値引きされます。</p>
+              <h3 className="font-bold text-gray-900 mb-1">楽天トラベルで宿泊予約＆クーポン適用（雨の日も冬も年中泳げる）</h3>
+              <p className="text-xs md:text-sm text-gray-600">【雨の日も冬も年中泳げる】 有効期限は3年間。宿泊日や部屋タイプを決め、予約画面で取得したトラベルクーポンを選択すると宿泊代金から即時値引きされます。</p>
             </div>
           </div>
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">4</div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-1">ワンストップ特例または確定申告で完了</h3>
+              <h3 className="font-bold text-gray-900 mb-1">ワンストップ特例または確定申告で完了（雨の日も冬も年中泳げる）</h3>
               <p className="text-xs md:text-sm text-gray-600">翌年の住民税・所得税から控除され、実質負担は年間2,000円のみ！浮いた予算でお土産やテーマパークグッズを満喫できます。</p>
             </div>
           </div>
@@ -299,16 +293,14 @@ export default function FurusatoIndoorPoolKidsFamilyStayPage() {
 
       {/* FAQ */}
       <section id="faq" className="mb-16">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">
-          <span>❓</span> よくある質問（Q&A）
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）｜雨の日も冬も年中泳げる</h2>
         <div className="space-y-4">
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
             <summary className="font-bold text-gray-900 text-sm md:text-base flex justify-between items-center">
               <span>すでに予約している宿泊プランにもふるさと納税クーポンは使えますか？</span>
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
-            <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
+            <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">【雨の日も冬も年中泳げる】 
               はい！楽天トラベルの「あとからクーポン適用」機能に対応している施設であれば、予約後でもマイページから自治体クーポンを適用して割引を受けられます。
             </p>
           </details>
@@ -317,7 +309,7 @@ export default function FurusatoIndoorPoolKidsFamilyStayPage() {
               <span>トラベルクーポンの有効期限はどれくらいですか？</span>
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
-            <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">
+            <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">【雨の日も冬も年中泳げる】 
               楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
@@ -335,9 +327,7 @@ export default function FurusatoIndoorPoolKidsFamilyStayPage() {
 
       {/* 関連記事リンク */}
       <section className="bg-gray-50 p-6 md:p-8 rounded-2xl border border-gray-200">
-        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
-          <span>🔗</span> あわせて読みたい注目のふるさと納税特集
-        </h2>
+        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2"><span>🔗</span> あわせて読みたい注目のふるさと納税特集｜雨の日も冬も年中泳げる</h2>
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link

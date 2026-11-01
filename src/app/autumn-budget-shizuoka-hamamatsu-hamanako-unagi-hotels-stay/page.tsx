@@ -526,32 +526,32 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">三島スカイウォーク</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本一長い歩行者専用吊り橋（全長400m）。富士山と駿河湾のパノラマ絶景を空中散歩感覚で楽しめ、ジップラインなどのアクティビティも充実しています。</p>
+                <h3 className="text-base font-bold text-stone-900">三島スカイウォーク（浜松・浜名湖：秋の旬うなぎと湖畔の絶景夕陽）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【浜松・浜名湖：秋の旬うなぎと湖畔の絶景夕陽】 日本一長い歩行者専用吊り橋（全長400m）。富士山と駿河湾のパノラマ絶景を空中散歩感覚で楽しめ、ジップラインなどのアクティビティも充実しています。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">熱海温泉・サンビーチ</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">都心からのアクセスが抜群な海辺の温泉リゾート。地中海リゾートを彷彿とさせるサンビーチや年間を通して開催される熱海海上花火大会が人気です。</p>
+                <h3 className="text-base font-bold text-stone-900">熱海温泉・サンビーチ（浜松・浜名湖：秋の旬うなぎと湖畔の絶景夕陽）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【浜松・浜名湖：秋の旬うなぎと湖畔の絶景夕陽】 都心からのアクセスが抜群な海辺の温泉リゾート。地中海リゾートを彷彿とさせるサンビーチや年間を通して開催される熱海海上花火大会が人気です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">伊豆シャボテン動物公園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">1,500種類のサボテンと世界中の動物たちが暮らすテーマパーク。冬限定の「元祖カピバラの露天風呂」の癒やされる姿は全国的に有名です。</p>
+                <h3 className="text-base font-bold text-stone-900">伊豆シャボテン動物公園（浜松・浜名湖：秋の旬うなぎと湖畔の絶景夕陽）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【浜松・浜名湖：秋の旬うなぎと湖畔の絶景夕陽】 1,500種類のサボテンと世界中の動物たちが暮らすテーマパーク。冬限定の「元祖カピバラの露天風呂」の癒やされる姿は全国的に有名です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">白糸の滝</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">富士山の湧水が幅150mの湾曲した絶壁から千本の絹糸のように流れ落ちる国指定の名勝・天然記念物。清涼なマイナスイオンと富士の恵みを体感できます。</p>
+                <h3 className="text-base font-bold text-stone-900">白糸の滝（浜松・浜名湖：秋の旬うなぎと湖畔の絶景夕陽）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【浜松・浜名湖：秋の旬うなぎと湖畔の絶景夕陽】 富士山の湧水が幅150mの湾曲した絶壁から千本の絹糸のように流れ落ちる国指定の名勝・天然記念物。清涼なマイナスイオンと富士の恵みを体感できます。</p>
               </div>
             </div>
             </div>

@@ -140,10 +140,8 @@ export default function FeatureArticlePage() {
         <div className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-amber-800 text-xs md:text-sm font-bold tracking-wider uppercase">Recommended Ryokan & Hotels</span>
-            <h2 className="text-2xl md:text-3xl font-extrabold font-serif text-stone-900">
-              ふるさと納税トラベルクーポンで泊まりたい厳選宿3選
-            </h2>
-            <p className="text-stone-500 text-xs md:text-sm max-w-2xl mx-auto">
+            <h2 className="text-2xl md:text-3xl font-extrabold font-serif text-stone-900">ふるさと納税トラベルクーポンで泊まりたい厳選宿3選｜15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯130</h2>
+            <p className="text-stone-500 text-xs md:text-sm max-w-2xl mx-auto">【15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯130】 
               楽天トラベルで高評価を獲得し、ふるさと納税クーポンが使える注目の名宿を徹底紹介。
             </p>
           </div>
@@ -365,32 +363,30 @@ export default function FeatureArticlePage() {
         <div className="bg-gradient-to-br from-amber-50 to-stone-50 rounded-3xl p-6 md:p-10 border border-amber-200/70 shadow-sm space-y-6">
           <div className="text-center space-y-2">
             <span className="text-amber-800 text-xs font-bold tracking-wider uppercase">How to use</span>
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              楽天ふるさと納税トラベルクーポンの簡単3ステップ
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">楽天ふるさと納税トラベルクーポンの簡単3ステップ｜15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯130</h2>
           </div>
 
           <div className="grid sm:grid-cols-3 gap-6 pt-4">
             <div className="bg-white rounded-2xl p-6 border border-stone-200/80 shadow-sm text-center space-y-3">
               <div className="w-10 h-10 mx-auto rounded-full bg-amber-600 text-white font-bold text-lg flex items-center justify-center shadow">1</div>
-              <h3 className="font-bold text-stone-900 text-base">寄付してクーポン獲得</h3>
-              <p className="text-stone-600 text-xs leading-relaxed">
+              <h3 className="font-bold text-stone-900 text-base">寄付してクーポン獲得（15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯130）</h3>
+              <p className="text-stone-600 text-xs leading-relaxed">【15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯130】 
                 対象自治体へ寄付を申し込むと、寄付額の最大30%相当の楽天トラベルクーポンが即時または数日でマイクーポンに付与されます。
               </p>
             </div>
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200/80 shadow-sm text-center space-y-3">
               <div className="w-10 h-10 mx-auto rounded-full bg-amber-600 text-white font-bold text-lg flex items-center justify-center shadow">2</div>
-              <h3 className="font-bold text-stone-900 text-base">対象宿を予約</h3>
-              <p className="text-stone-600 text-xs leading-relaxed">
+              <h3 className="font-bold text-stone-900 text-base">対象宿を予約（15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯130）</h3>
+              <p className="text-stone-600 text-xs leading-relaxed">【15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯130】 
                 楽天トラベルで希望の宿・宿泊プランを選択。予約画面で取得したふるさと納税クーポンを適用して割引を受けます。
               </p>
             </div>
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200/80 shadow-sm text-center space-y-3">
               <div className="w-10 h-10 mx-auto rounded-full bg-amber-600 text-white font-bold text-lg flex items-center justify-center shadow">3</div>
-              <h3 className="font-bold text-stone-900 text-base">実質2,000円で贅沢旅行</h3>
-              <p className="text-stone-600 text-xs leading-relaxed">
+              <h3 className="font-bold text-stone-900 text-base">実質2,000円で贅沢旅行（15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯130）</h3>
+              <p className="text-stone-600 text-xs leading-relaxed">【15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯130】 
                 自己負担額は年間2,000円のみ（上限額内）。翌年の住民税控除や所得税還付を受けながら、最高の秋旅をお楽しみいただけます。
               </p>
             </div>
@@ -418,7 +414,7 @@ export default function FeatureArticlePage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯130）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 武雄温泉駅よりアクセス。JR佐世保線「武雄温泉駅」より車で５分 / 長崎自動車道 武雄・北方ICより嬉野方面へ約５km。</li>
@@ -430,7 +426,7 @@ export default function FeatureArticlePage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯130）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「武雄温泉 御船山楽園ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -484,9 +480,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯130</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/iwate-hiraizumi-ichinoseki-geibikei-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -507,7 +501,7 @@ export default function FeatureArticlePage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（15万坪が錦に染まる御船山楽園の紅葉狩り＆開湯130）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/kyoto/"

@@ -1,5 +1,5 @@
 ---
-title: "漆器蒔絵体験ができる宿おすすめ10選！比較"
+title: "【2026最新】輪島塗・山中塗・会津塗・沈金蒔絵体験！日本の伝統漆芸に触れる名門温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/lacquerware-urushi-chinkin-makie-artisan-onsen-hotels-guide/"
 hotel_name: "輪島塗・山中塗・会津塗・沈金蒔絵体験！日本の伝統漆芸に触れる名門温泉宿おすすめ10選"
 prefecture: "全国"
@@ -10,7 +10,7 @@ review_count: 492
 last_modified: "2026-10-13"
 ---
 
-# 漆器蒔絵体験ができる宿おすすめ10選！比較
+# 【2026最新】輪島塗・山中塗・会津塗・沈金蒔絵体験！日本の伝統漆芸に触れる名門温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/lacquerware-urushi-chinkin-makie-artisan-onsen-hotels-guide/
 - **宿泊施設・特集名**: 輪島塗・山中塗・会津塗・沈金蒔絵体験！日本の伝統漆芸に触れる名門温泉宿おすすめ10選

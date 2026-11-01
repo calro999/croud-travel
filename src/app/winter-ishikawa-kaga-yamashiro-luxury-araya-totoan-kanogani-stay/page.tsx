@@ -123,10 +123,8 @@ export default function UltraLuxuryWinterFeaturePage() {
         
         {/* 導入解説 */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
-          <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-amber-600 shrink-0" />
-            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600 shrink-0" />
+            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>｜2026-2027年11-12月初冬の石川・加賀温泉</h2>
           <p className="text-xs md:text-sm text-slate-700 leading-relaxed whitespace-pre-line">
             北陸新幹線の延伸通結により東京からのアクセスが飛躍的に向上した石川県・加賀温泉郷。その中心に位置する『山代温泉（やましろおんせん）』と『山中温泉（やまなかおんせん）』は、開湯1300年の歴史を誇り、加賀百万石の前田侯をはじめ多くの文人墨客が逗留した北陸屈指の温泉地です。特に大正期、稀代の美食家・芸術家として名高い北大路魯山人が逗留し、初代須田菁華から九谷焼の作陶を学び、美意識を覚醒させた地として知られます。11月から12月にかけての加賀温泉郷は、11月6日の『日本海ズワイガニ漁解禁』とともに一年で最も熱気に包まれる最高のハイシーズン。石川県で水揚げされる最高級ブランド『加能ガニ（かのうがに）』は、青いタグが目印の一番蟹。荒海で身が引き締まり、甲羅いっぱいに詰まった甘いカニ味噌、透き通るようなカニ刺し、香ばしい炭火焼きガニ、そして極上のカニすき鍋と、本場でしか味わえない至極のカニ尽くし会席が旅人を迎えます。宿泊には、魯山人ゆかりの老舗料亭旅館の最高峰『あらや滔々庵』をはじめ、鶴仙渓の絶景を望む全室露天付きの隠れ宿『山中温泉 花紫』、自然と調和するモダン建築が美しい名宿など、格式高い名門を厳選。客室露天風呂に掛け流される名湯に浸かり、九谷焼や山中塗の器に盛られた加能ガニととろける能登牛を味わう時間は、日本の冬の美食旅の頂点を極める贅沢な体験となります。
           </p>
@@ -562,10 +560,8 @@ export default function UltraLuxuryWinterFeaturePage() {
 
         {/* アクセス＆見頃情報 */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300">
-            <Train className="w-5 h-5 shrink-0" />
-            <span>アクセスガイド・気候と服装のポイント</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300"><Train className="w-5 h-5 shrink-0" />
+            <span>アクセスガイド・気候と服装のポイント</span>｜2026-2027年11-12月初冬の石川・加賀温泉</h2>
           <div className="text-xs md:text-sm text-slate-300 leading-relaxed whitespace-pre-line">
             【エリアへのアクセス】
 ・新幹線：北陸新幹線「加賀温泉駅」下車。東京駅より「かがやき」で直通約2時間45分。金沢駅からは新幹線で約15分、福井駅からは約12分。加賀温泉駅からは各宿の専用無料送迎車で約10〜15分。
@@ -582,10 +578,8 @@ export default function UltraLuxuryWinterFeaturePage() {
 
         {/* よくある質問 (FAQ) */}
         <section className="bg-slate-100 rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2">
-            <ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
-            <span>よくある質問（FAQ）</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
+            <span>よくある質問（FAQ）</span>｜2026-2027年11-12月初冬の石川・加賀温泉</h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
             <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
@@ -619,9 +613,7 @@ export default function UltraLuxuryWinterFeaturePage() {
 
         {/* ふるさと納税・関連リンク */}
         <section className="bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 rounded-2xl p-6 md:p-8 space-y-3 text-center">
-          <h2 className="text-xl md:text-2xl font-black">
-            楽天トラベル ふるさと納税で最大30%お得に予約！
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！｜2026-2027年11-12月初冬の石川・加賀温泉</h2>
           <p className="text-xs md:text-sm max-w-xl mx-auto font-medium">
             高価格帯の高級宿だからこそ、楽天トラベルふるさと納税クーポンの割引効果は絶大。実質2,000円の自己負担で憧れのスイートルームに宿泊できます。
           </p>

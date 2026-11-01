@@ -123,10 +123,8 @@ export default function LuxuryWinterFeaturePage() {
         
         {/* 導入解説 */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
-          <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-amber-600 shrink-0" />
-            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600 shrink-0" />
+            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>｜2026-2027年11-12月初冬の兵庫・有馬温泉</h2>
           <p className="text-xs md:text-sm text-slate-700 leading-relaxed whitespace-pre-line">
             六甲山の北麓、大都市・神戸や大阪から車や高速バスでわずか30〜50分という好立地にありながら、千数百年の歴史の重みと幽玄な温泉情緒を色濃く残す『有馬温泉』。『日本書紀』や『古事記』にもその名を刻み、舒明天皇や孝徳天皇が逗留した古代から、戦国時代の天下人・豊臣秀吉が傷を癒やすために幾度も湯治に訪れた『日本三古湯・日本三名泉』の最高峰です。有馬温泉が世界的に類を見ない奇跡の温泉地と呼ばれる最大の理由は、プレート境界の地下深くからマグマの熱とミネラルを蓄えて直接湧き出す大地の恵み『金泉（きんせん）』と『銀泉（ぎんせん）』の存在にあります。鉄分と塩分が海水以上に濃厚に含まれ、空気に触れると酸化して鮮やかな赤褐色へと変色する金泉は、入浴後も肌に塩のベールを作って抜群の保温・保湿効果を発揮する『熱の湯』。一方、無色透明で炭酸ガスや微量のラドンを含む銀泉は、肌の毛細血管を広げて新陳代謝を高める『美肌の湯』。この全く異なるふたつの奇跡の名湯を一度に味わえることこそ、有馬温泉の唯一無二の贅沢です。そして初冬の11月から12月、紅葉がフィナーレを迎え静寂を取り戻した有馬の夜を彩るのが、世界最高峰の肉牛ブランド『神戸牛（神戸ビーフ）』。厳しい基準をクリアした但馬牛の処女牛のみに許される神戸牛は、人肌の温度でサッと溶ける融点の低い上質な霜降りと芳醇な香りを誇り、炭火焼きステーキや伝統のすき焼きで味わえば至福のため息がこぼれます。宿泊には、ミシュランガイドにも掲載された本格料亭旅館『欽山』や、大人のための上質な静けさを追求する名宿『中の坊 瑞苑』、文豪たちに愛された最古の歴史宿『陶泉 御所坊』など、格式と洗練を極めた名旅館を厳選。客室露天風呂に金泉を引いた極上スイートで過ごす初冬の夜は、日本の最高峰の文化と贅沢に心奪われる時間となります。
           </p>
@@ -560,10 +558,8 @@ export default function LuxuryWinterFeaturePage() {
 
         {/* アクセス＆見頃情報 */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300">
-            <Train className="w-5 h-5 shrink-0" />
-            <span>アクセスガイド・気候と服装のポイント</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300"><Train className="w-5 h-5 shrink-0" />
+            <span>アクセスガイド・気候と服装のポイント</span>｜2026-2027年11-12月初冬の兵庫・有馬温泉</h2>
           <div className="text-xs md:text-sm text-slate-300 leading-relaxed whitespace-pre-line">
             【エリアへのアクセス】
 ・電車：神戸電鉄有馬線「有馬温泉駅」下車。JR新神戸駅から北神急行・神戸電鉄経由で約30分、JR三ノ宮駅から約35分。大阪駅からはJR宝塚線・三田駅経由で約1時間。駅からは各宿の送迎車が随時運行。
@@ -580,10 +576,8 @@ export default function LuxuryWinterFeaturePage() {
 
         {/* よくある質問 (FAQ) */}
         <section className="bg-slate-100 rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2">
-            <ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
-            <span>よくある質問（FAQ）</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
+            <span>よくある質問（FAQ）</span>｜2026-2027年11-12月初冬の兵庫・有馬温泉</h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
             <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
@@ -617,9 +611,7 @@ export default function LuxuryWinterFeaturePage() {
 
         {/* ふるさと納税・関連リンク */}
         <section className="bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 rounded-2xl p-6 md:p-8 space-y-3 text-center">
-          <h2 className="text-xl md:text-2xl font-black">
-            楽天トラベル ふるさと納税で最大30%お得に予約！
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！｜2026-2027年11-12月初冬の兵庫・有馬温泉</h2>
           <p className="text-xs md:text-sm max-w-xl mx-auto font-medium">
             高価格帯の高級宿だからこそ、楽天トラベルふるさと納税クーポンの割引効果は絶大。実質2,000円の自己負担で憧れのスイートルームに宿泊できます。
           </p>

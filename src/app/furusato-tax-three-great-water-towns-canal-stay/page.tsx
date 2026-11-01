@@ -115,10 +115,8 @@ export default function FurusatoUpgradedPage() {
 
           {/* 公式キャンペーンCTA */}
           <div className="p-6 rounded-3xl bg-gradient-to-br from-amber-500/20 via-amber-600/10 to-transparent border border-amber-500/30 backdrop-blur max-w-2xl mx-auto shadow-2xl">
-            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">
-              楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！
-            </h2>
-            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">
+            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！｜日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふる</h2>
+            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">【日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふる】 
               寄附翌日には楽天トラベルで使えるクーポンが付与。有効期限はたっぷり3年間あるため、次の大型連休や記念日旅行にも安心してご活用いただけます。
             </p>
             <a
@@ -136,9 +134,7 @@ export default function FurusatoUpgradedPage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          この特集で出会える極上の滞在体験と3つの魅力
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">この特集で出会える極上の滞在体験と3つの魅力｜日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふる</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="01" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
@@ -262,31 +258,29 @@ export default function FurusatoUpgradedPage() {
       {/* 利用ステップ */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-t border-stone-800">
         <div className="rounded-3xl bg-gradient-to-br from-amber-500/10 via-stone-900 to-stone-950 border border-amber-500/20 p-8 sm:p-12 text-center">
-          <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-4">
-            ふるさと納税トラベルクーポンの簡単3ステップ
-          </h2>
-          <p className="text-stone-300 text-sm sm:text-base max-w-2xl mx-auto mb-10 leading-relaxed">
+          <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-4">ふるさと納税トラベルクーポンの簡単3ステップ｜日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふる</h2>
+          <p className="text-stone-300 text-sm sm:text-base max-w-2xl mx-auto mb-10 leading-relaxed">【日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふる】 
             寄附から割引適用まで全てオンラインで完結。実質2,000円の負担で憧れの名旅館や絶景リゾートをお得に楽しめます。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-left mb-10">
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
               <div className="text-2xl font-black text-amber-400 mb-2">STEP 01</div>
-              <h3 className="font-bold text-white mb-2">自治体に寄附する</h3>
-              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
+              <h3 className="font-bold text-white mb-2">自治体に寄附する（日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふる）</h3>
+              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">【日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふる】 
                 宿泊したい施設がある自治体を選び、楽天ふるさと納税で寄附を申し込みます。楽天ポイントも通常通り進呈されます。
               </p>
             </div>
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
               <div className="text-2xl font-black text-amber-400 mb-2">STEP 02</div>
-              <h3 className="font-bold text-white mb-2">クーポンが自動付与</h3>
-              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
+              <h3 className="font-bold text-white mb-2">クーポンが自動付与（日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふる）</h3>
+              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">【日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふる】 
                 寄附完了の翌日、楽天アカウントの「マイクーポン」に寄附額に応じた宿泊割引クーポンが自動的に追加されます。
               </p>
             </div>
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
               <div className="text-2xl font-black text-amber-400 mb-2">STEP 03</div>
-              <h3 className="font-bold text-white mb-2">楽天トラベルで予約</h3>
-              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
+              <h3 className="font-bold text-white mb-2">楽天トラベルで予約（日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふる）</h3>
+              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">【日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふる】 
                 対象のホテル・旅館を予約する際、決済画面でクーポンを選択するだけで宿泊代金から最大30%が即座に割引されます。
               </p>
             </div>
@@ -305,7 +299,7 @@ export default function FurusatoUpgradedPage() {
 
       {/* 相互リンク */}
       <section className="py-12 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto">
-        <h2 className="text-xl font-black text-amber-200 mb-6">あわせて読みたい極上ふるさと納税旅特集</h2>
+        <h2 className="text-xl font-black text-amber-200 mb-6">あわせて読みたい極上ふるさと納税旅特集｜日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふる</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <Link
             href="/furusato-tax-three-great-scenic-coasts-stay/"
@@ -480,24 +474,24 @@ export default function FurusatoUpgradedPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">国営ひたち海浜公園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">春のネモフィラ、秋のコキアをはじめ、四季折々の広大な花畑が美しい国営公園。みはらしの丘一面が青や赤に染まる光景は世界中から絶賛される絶景です。</p>
+                <h3 className="text-base font-bold text-stone-900">国営ひたち海浜公園（日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふる）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふる】 春のネモフィラ、秋のコキアをはじめ、四季折々の広大な花畑が美しい国営公園。みはらしの丘一面が青や赤に染まる光景は世界中から絶賛される絶景です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">水戸偕楽園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">金沢兼六園・岡山後楽園と並ぶ日本三名園の一つ。徳川斉昭公によって造園され、春には約100品種3,000本の梅が咲き誇る歴史ある回遊式庭園です。</p>
+                <h3 className="text-base font-bold text-stone-900">水戸偕楽園（日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふる）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふる】 金沢兼六園・岡山後楽園と並ぶ日本三名園の一つ。徳川斉昭公によって造園され、春には約100品種3,000本の梅が咲き誇る歴史ある回遊式庭園です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">袋田の滝</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三名瀑に数えられる高さ120m・幅73mのダイナミックな4段の滝。四季ごとに全く異なる表情を見せ、冬には滝全体が凍結する「氷瀑」が見事です。</p>
+                <h3 className="text-base font-bold text-stone-900">袋田の滝（日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふる）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふる】 日本三名瀑に数えられる高さ120m・幅73mのダイナミックな4段の滝。四季ごとに全く異なる表情を見せ、冬には滝全体が凍結する「氷瀑」が見事です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -505,7 +499,7 @@ export default function FurusatoUpgradedPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
                 <h3 className="text-base font-bold text-stone-900">筑波山</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「西の富士、東の筑波」と称される紫峰。男体山と女体山の2峰からなり、ケーブルカーやロープウェイで気軽に山頂へ登れ、関東平野の一望を楽しめます。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大水郷の情緒あふれる川下りと水辺の名旅館×ふる】 「西の富士、東の筑波」と称される紫峰。男体山と女体山の2峰からなり、ケーブルカーやロープウェイで気軽に山頂へ登れ、関東平野の一望を楽しめます。</p>
               </div>
             </div>
             </div>

@@ -93,10 +93,8 @@ export default function Page() {
         {/* 3 Key Merits */}
         <section className="space-y-6">
           <div className="text-center">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">
-              ふるさと納税トラベルで巡る3つの至高メリット
-            </h2>
-            <p className="text-sm sm:text-base text-slate-400 mt-2">実質自己負担2,000円で憧れの名旅館＆特産グルメをアップグレード</p>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">ふるさと納税トラベルで巡る3つの至高メリット｜日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド</h2>
+            <p className="text-sm sm:text-base text-slate-400 mt-2">【日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド】 実質自己負担2,000円で憧れの名旅館＆特産グルメをアップグレード</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
@@ -127,10 +125,8 @@ export default function Page() {
         {/* Featured Hotels & Regions */}
         <section className="space-y-12">
           <div className="border-b border-slate-800 pb-4">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">
-              厳選名所＆楽天トラベル提携おすすめ名宿
-            </h2>
-            <p className="text-slate-400 text-sm sm:text-base mt-1">楽天ふるさと納税宿泊クーポンが利用可能な極上宿</p>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">厳選名所＆楽天トラベル提携おすすめ名宿｜日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド</h2>
+            <p className="text-slate-400 text-sm sm:text-base mt-1">【日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド】 楽天ふるさと納税宿泊クーポンが利用可能な極上宿</p>
           </div>
 
           <div className="space-y-12">
@@ -353,10 +349,8 @@ export default function Page() {
 
         {/* Official Banner CTA */}
         <section className="bg-gradient-to-r from-rose-950/60 via-red-900/40 to-amber-950/60 border border-rose-500/30 rounded-3xl p-8 text-center relative overflow-hidden shadow-2xl">
-          <h2 className="text-2xl sm:text-3xl font-black text-white mb-4">
-            楽天ふるさと納税トラベルで、今すぐ賢く旅に出よう
-          </h2>
-          <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base mb-8 leading-relaxed">
+          <h2 className="text-2xl sm:text-3xl font-black text-white mb-4">楽天ふるさと納税トラベルで、今すぐ賢く旅に出よう｜日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド</h2>
+          <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base mb-8 leading-relaxed">【日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド】 
             寄付翌日から最大3年間使える宿泊クーポンで、行きたかった憧れの名宿を今すぐお得にリザーブ。実質2,000円負担で極上の日本再発見の旅へ。
           </p>
           <a
@@ -371,9 +365,7 @@ export default function Page() {
 
         {/* Cross Link Section */}
         <section className="border-t border-slate-800/80 pt-12 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            あわせて読みたい関連特集ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい関連特集ガイド｜日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
             <Link
@@ -443,7 +435,7 @@ export default function Page() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 下北駅よりアクセス。JR大湊線下北駅から車で８分。</li>
@@ -455,7 +447,7 @@ export default function Page() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「むつグランドホテル 斗南温泉」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -509,9 +501,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-art-museum-architecture-luxury-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -532,7 +522,7 @@ export default function Page() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/kanagawa/"
@@ -684,7 +674,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR木曽福島駅～徒歩約10分【15：30分16：40分送迎有要予約】伊那IC約40分塩尻IC約60分中津川I約70分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場の案内が不親切で非常に危険だった駐車場について、隣の奥を案内されたが、バックで進入しなければならず非常に狭く危うく壁にぶつかりそうになった。後からチェックインした人が宿の前のスペースに駐車さ…　2026-09-13 19:14:31投稿」
@@ -704,32 +694,32 @@ export default function Page() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">弘前公園（弘前城）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本屈指の桜の名所として知られる城郭公園。春には約2,600本の桜が咲き誇り、お堀を埋め尽くす「花いかだ」の幻想的な景色は世界中から絶賛されています。</p>
+                <h3 className="text-base font-bold text-stone-900">弘前公園（弘前城）（日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド】 日本屈指の桜の名所として知られる城郭公園。春には約2,600本の桜が咲き誇り、お堀を埋め尽くす「花いかだ」の幻想的な景色は世界中から絶賛されています。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Oirase-keiryu.jpg/1280px-Oirase-keiryu.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="奥入瀬渓流" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">奥入瀬渓流</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">十和田湖から流れる約14kmの美しい清流。豊かな樹木と苔むした岩々、無数の滝が織りなすせせらぎに沿って遊歩道が整備されており、極上のネイチャーウォークを楽しめます。 奥入瀬渓流（おいらせけいりゅう）は、青森県十和田市の十和田湖東岸の子ノ口（ねのくち）から北東に、焼山（十和田市法量（大字）焼山（字））までの約14 kmにわたる奥入瀬川の渓流。十和田八幡平国立公園に属する。国指定の特別名勝及び天然記念物（天然保護区域）。…</p>
+                <h3 className="text-base font-bold text-stone-900">奥入瀬渓流（日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド】 十和田湖から流れる約14kmの美しい清流。豊かな樹木と苔むした岩々、無数の滝が織りなすせせらぎに沿って遊歩道が整備されており、極上のネイチャーウォークを楽しめます。 奥入瀬渓流（おいらせけいりゅう）は、青森県十和田市の十和田湖東岸の子ノ口（ねのくち）から北東に、焼山（十和田市法量（大字）焼山（字））までの約14 kmにわたる奥入瀬川の渓流。十和田八幡平国立公園に属する。国指定の特別名勝及び天然記念物（天然保護区域）。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">ねぶたの家 ワ・ラッセ</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">青森夏の風物詩「青森ねぶた祭」の歴史と魅力を一年中体感できる大型展示施設。実際に祭りで運行された大型ねぶたの迫力を間近で鑑賞できます。</p>
+                <h3 className="text-base font-bold text-stone-900">ねぶたの家 ワ・ラッセ（日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド】 青森夏の風物詩「青森ねぶた祭」の歴史と魅力を一年中体感できる大型展示施設。実際に祭りで運行された大型ねぶたの迫力を間近で鑑賞できます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">仏ヶ浦（ほとけがうら）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">下北半島にある、白緑色の奇岩群が約2kmにわたって続く国の名勝。巨大な如来や観音に見立てられた壮大な自然の彫刻と、澄み渡る陸奥湾の青さが圧巻です。</p>
+                <h3 className="text-base font-bold text-stone-900">仏ヶ浦（ほとけがうら）（日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド】 下北半島にある、白緑色の奇岩群が約2kmにわたって続く国の名勝。巨大な如来や観音に見立てられた壮大な自然の彫刻と、澄み渡る陸奥湾の青さが圧巻です。</p>
               </div>
             </div>
             </div>

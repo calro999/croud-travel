@@ -97,10 +97,8 @@ export default function ArticlePage() {
         {/* 厳選ホテルリスト */}
         <div className="space-y-10">
           <div className="border-l-4 border-amber-800 pl-4 py-1">
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900">
-              編集部が厳選！おすすめの極上宿・ホテル詳細
-            </h2>
-            <p className="text-xs sm:text-sm text-stone-500 mt-1">
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900">編集部が厳選！おすすめの極上宿・ホテル詳細｜宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直</h2>
+            <p className="text-xs sm:text-sm text-stone-500 mt-1">【宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直】 
               楽天トラベルの最新APIデータを反映。口コミ高評価＆こだわり設備を徹底チェック
             </p>
           </div>
@@ -378,9 +376,7 @@ export default function ArticlePage() {
 
         {/* よくある質問 FAQ */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-stone-900 border-b border-stone-200 pb-3">
-            よくある質問（FAQ）
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-stone-900 border-b border-stone-200 pb-3">よくある質問（FAQ）｜宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直</h2>
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
@@ -441,7 +437,7 @@ export default function ArticlePage() {
                 <span>Q. 事前準備や持ち物で注意すべきポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
-              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
+              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">【宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直】 
                 A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
@@ -590,32 +586,32 @@ export default function ArticlePage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">日光東照宮</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">徳川家康公を祀る世界遺産「日光の社寺」の代表格。陽明門の豪華絢爛な彫刻や「三猿」「眠り猫」など、日本の伝統美と歴史の深さを実感できます。</p>
+                <h3 className="text-base font-bold text-stone-900">日光東照宮（宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直】 徳川家康公を祀る世界遺産「日光の社寺」の代表格。陽明門の豪華絢爛な彫刻や「三猿」「眠り猫」など、日本の伝統美と歴史の深さを実感できます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">華厳の滝</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">中禅寺湖の水が高さ97mの断崖を一気に落下する日本三大名瀑の一つ。観瀑エレベーターで滝つぼ近くまで下りると、水煙と爆音の圧倒的なスケールに圧倒されます。</p>
+                <h3 className="text-base font-bold text-stone-900">華厳の滝（宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直】 中禅寺湖の水が高さ97mの断崖を一気に落下する日本三大名瀑の一つ。観瀑エレベーターで滝つぼ近くまで下りると、水煙と爆音の圧倒的なスケールに圧倒されます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">あしかがフラワーパーク</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">樹齢150年を超える大藤棚や長さ80mの白藤のトンネルが有名な花のテーマパーク。CNN「世界のアメイジングな旅行先10選」にも選ばれた幻想的な美しさです。</p>
+                <h3 className="text-base font-bold text-stone-900">あしかがフラワーパーク（宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直】 樹齢150年を超える大藤棚や長さ80mの白藤のトンネルが有名な花のテーマパーク。CNN「世界のアメイジングな旅行先10選」にも選ばれた幻想的な美しさです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/20090321%E9%82%A3%E9%A0%88%E5%B2%B3.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" alt="那須高原" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">那須高原</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">那須岳の裾野に広がる日本有数のロイヤルリゾート。おしゃれなカフェや美術館、温泉、アミューズメント施設が点在し、爽やかな高原ドライブに最適です。 那須高原（なすこうげん）とは、栃木県北部の那須岳の南側山麓地域を言い、那須岳の標高千数百メートルの地域より東北本線、国道4号が通る標高300m辺りまで、緩やかな斜面が広がる。また、那珂川を挟んで那須野が原、那須高原の北西側は福島県の甲子高原に連なる。…</p>
+                <h3 className="text-base font-bold text-stone-900">那須高原（宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直】 那須岳の裾野に広がる日本有数のロイヤルリゾート。おしゃれなカフェや美術館、温泉、アミューズメント施設が点在し、爽やかな高原ドライブに最適です。 那須高原（なすこうげん）とは、栃木県北部の那須岳の南側山麓地域を言い、那須岳の標高千数百メートルの地域より東北本線、国道4号が通る標高300m辺りまで、緩やかな斜面が広がる。また、那珂川を挟んで那須野が原、那須高原の北西側は福島県の甲子高原に連なる。…</p>
               </div>
             </div>
             </div>

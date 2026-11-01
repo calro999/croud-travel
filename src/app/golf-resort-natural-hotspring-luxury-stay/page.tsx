@@ -191,10 +191,8 @@ export default function Page() {
 
         {/* 厳選ホテル・宿ランキング比較一覧 */}
         <div className="space-y-8 pt-4">
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2 border-b border-emerald-950/10 pb-3">
-            <span>🏆</span>
-            <span>編集部が厳選したおすすめ宿泊施設 TOP3</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2 border-b border-emerald-950/10 pb-3"><span>🏆</span>
+            <span>編集部が厳選したおすすめ宿泊施設 TOP3</span>｜ラウンド後は名湯で極上リフレッシュ</h2>
 
           <div className="space-y-8">
             {hotels.map((h, idx) => (
@@ -294,13 +292,13 @@ export default function Page() {
           <div className="space-y-3 text-xs">
             <div className="p-4 rounded-xl bg-teal-50/30 border border-teal-900/10 space-y-1.5">
               <h4 className="font-bold text-teal-950">Q. ゴルフ＆温泉ステイの予約でお得な方法はありますか？</h4>
-              <p className="text-emerald-950/80 leading-relaxed">
+              <p className="text-emerald-950/80 leading-relaxed">【ラウンド後は名湯で極上リフレッシュ】 
                 楽天トラベルの「5と0のつく日セール」による最大20%割引や、実質2,000円の自己負担で宿泊できる「楽天ふるさと納税宿泊クーポン」の併用が最もお得でおすすめです。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-teal-50/30 border border-teal-900/10 space-y-1.5">
               <h4 className="font-bold text-teal-950">Q. キャンセル料や予約変更はどうなっていますか？</h4>
-              <p className="text-emerald-950/80 leading-relaxed">
+              <p className="text-emerald-950/80 leading-relaxed">【ラウンド後は名湯で極上リフレッシュ】 
                 各宿泊施設および予約プランによってキャンセル規定が異なります。ご予約完了前に楽天トラベルの詳細ページにてキャンセルポリシーを必ずご確認ください。
               </p>
             </div>
@@ -450,32 +448,32 @@ export default function Page() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">清津峡渓谷トンネル（Tunnel of Light）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三大峡谷の一つ・清津峡の絶景を楽しめるアートトンネル。終点のパノラマステーションでは水鏡に渓谷のダイナミックな景観が映り込む映えスポットです。</p>
+                <h3 className="text-base font-bold text-stone-900">清津峡渓谷トンネル（Tunnel of Light）（ラウンド後は名湯で極上リフレッシュ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【ラウンド後は名湯で極上リフレッシュ】 日本三大峡谷の一つ・清津峡の絶景を楽しめるアートトンネル。終点のパノラマステーションでは水鏡に渓谷のダイナミックな景観が映り込む映えスポットです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">佐渡金山</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">江戸時代から平成まで400年にわたって採掘が続いた日本最大の金銀山。手掘りの坑道跡や巨大な金山遺構「北沢浮遊選鉱場」のノスタルジーが感動的です。</p>
+                <h3 className="text-base font-bold text-stone-900">佐渡金山（ラウンド後は名湯で極上リフレッシュ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【ラウンド後は名湯で極上リフレッシュ】 江戸時代から平成まで400年にわたって採掘が続いた日本最大の金銀山。手掘りの坑道跡や巨大な金山遺構「北沢浮遊選鉱場」のノスタルジーが感動的です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Entrance_to_Echigo-Yuzawa_Onsen.JPG/1280px-Entrance_to_Echigo-Yuzawa_Onsen.JPG?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="苗場山・越後湯沢温泉" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">苗場山・越後湯沢温泉</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">四季を通じてアウトドアやリゾートが楽しめる一大リゾート地。冬は上質なパウダースノーのスキー場、秋はドラゴンドラからの日本一長い紅葉空中散歩が自慢です。 越後湯沢温泉（えちごゆざわおんせん）は、新潟県南魚沼郡湯沢町（旧越後国）にある温泉。川端康成の小説『雪国』のモデルになった温泉地である。単に湯沢温泉と呼ばれることもある。 この項目で扱うように、同じ湯沢町にある他の温泉も含めた呼び名としても用いられる。…</p>
+                <h3 className="text-base font-bold text-stone-900">苗場山・越後湯沢温泉（ラウンド後は名湯で極上リフレッシュ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【ラウンド後は名湯で極上リフレッシュ】 四季を通じてアウトドアやリゾートが楽しめる一大リゾート地。冬は上質なパウダースノーのスキー場、秋はドラゴンドラからの日本一長い紅葉空中散歩が自慢です。 越後湯沢温泉（えちごゆざわおんせん）は、新潟県南魚沼郡湯沢町（旧越後国）にある温泉。川端康成の小説『雪国』のモデルになった温泉地である。単に湯沢温泉と呼ばれることもある。 この項目で扱うように、同じ湯沢町にある他の温泉も含めた呼び名としても用いられる。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">萬代橋（ばんだいばし）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">信濃川にかかる6連アーチが美しい新潟市のシンボルであり国指定重要文化財。重厚な石造りの橋脚と美しい川辺の遊歩道が市民や観光客に親しまれています。</p>
+                <h3 className="text-base font-bold text-stone-900">萬代橋（ばんだいばし）（ラウンド後は名湯で極上リフレッシュ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【ラウンド後は名湯で極上リフレッシュ】 信濃川にかかる6連アーチが美しい新潟市のシンボルであり国指定重要文化財。重厚な石造りの橋脚と美しい川辺の遊歩道が市民や観光客に親しまれています。</p>
               </div>
             </div>
             </div>

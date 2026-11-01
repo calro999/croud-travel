@@ -506,7 +506,7 @@ export default function AutumnBudgetKumamotoHotelsPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>黒川温泉中心部に位置し、清流田ノ原川のほとりに面した情緒溢れるお料理自慢の純和風旅館。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 熊本県阿蘇郡南小国町満願寺6430-1 ／ 最寄り駅：阿蘇 ／ 交通案内：大分道日田ＩＣより車で６０分、黒川温泉バス停より徒歩1分。送迎あり(条件あり)事前予約要。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
+                  <p>【熊本：銀杏城の黄金イチョウと阿蘇あか牛】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「庭園の風情と美味しい食事に癒やされる再訪以前泊まってとても良かったのでリピートしました!お部屋は1階でしたが目の前に庭園がありとても風情があります。建物は古いですが、露天風呂は広くスタッフ…　2026-08-21 20:12:13投稿」

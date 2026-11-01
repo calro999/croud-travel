@@ -1,5 +1,5 @@
 ---
-title: "人力車の宿おすすめ10選！人気ホテル比較"
+title: "【2026最新】人力車の宿・大正ロマン着物街歩き温泉旅館おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/rickshaw-taisho-roman-kimono-onsen-hotels-guide/"
 hotel_name: "人力車の宿・大正ロマン着物街歩き温泉旅館おすすめ10選"
 prefecture: "全国"
@@ -10,7 +10,7 @@ review_count: 492
 last_modified: "2026-10-13"
 ---
 
-# 人力車の宿おすすめ10選！人気ホテル比較
+# 【2026最新】人力車の宿・大正ロマン着物街歩き温泉旅館おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/rickshaw-taisho-roman-kimono-onsen-hotels-guide/
 - **宿泊施設・特集名**: 人力車の宿・大正ロマン着物街歩き温泉旅館おすすめ10選

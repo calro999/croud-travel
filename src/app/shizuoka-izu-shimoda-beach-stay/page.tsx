@@ -378,7 +378,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>伊豆七島を一望する波打際のホテル。新鮮な魚介を使った海鮮料理を満喫頂けます。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 静岡県賀茂郡東伊豆町稲取1599-1 ／ 最寄り駅：伊豆稲取 ／ 交通案内：伊豆急線伊豆稲取駅下車。徒歩約１５分。無料送迎バスあり　※要事前予約（13：30～18：00）　明朝は定期便あります。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
+                  <p>【静岡・伊豆下田＆白浜海岸：エメラルドの海・白浜大浜＆】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「間近で見る花火と美味しい食事に大満足部屋から海と花火が見たくて花火が近くて上がる日で予約しました。半露天の角部屋にグレードアップしていただき、間近で花火が見れて嬉しかったです。建物は年季が入ってい…　2026-08-29 17:15:06投稿」
@@ -398,32 +398,32 @@ export default function MicroTouristHubPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">三島スカイウォーク</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本一長い歩行者専用吊り橋（全長400m）。富士山と駿河湾のパノラマ絶景を空中散歩感覚で楽しめ、ジップラインなどのアクティビティも充実しています。</p>
+                <h3 className="text-base font-bold text-stone-900">三島スカイウォーク（静岡・伊豆下田＆白浜海岸：エメラルドの海・白浜大浜＆）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【静岡・伊豆下田＆白浜海岸：エメラルドの海・白浜大浜＆】 日本一長い歩行者専用吊り橋（全長400m）。富士山と駿河湾のパノラマ絶景を空中散歩感覚で楽しめ、ジップラインなどのアクティビティも充実しています。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">熱海温泉・サンビーチ</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">都心からのアクセスが抜群な海辺の温泉リゾート。地中海リゾートを彷彿とさせるサンビーチや年間を通して開催される熱海海上花火大会が人気です。</p>
+                <h3 className="text-base font-bold text-stone-900">熱海温泉・サンビーチ（静岡・伊豆下田＆白浜海岸：エメラルドの海・白浜大浜＆）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【静岡・伊豆下田＆白浜海岸：エメラルドの海・白浜大浜＆】 都心からのアクセスが抜群な海辺の温泉リゾート。地中海リゾートを彷彿とさせるサンビーチや年間を通して開催される熱海海上花火大会が人気です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">伊豆シャボテン動物公園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">1,500種類のサボテンと世界中の動物たちが暮らすテーマパーク。冬限定の「元祖カピバラの露天風呂」の癒やされる姿は全国的に有名です。</p>
+                <h3 className="text-base font-bold text-stone-900">伊豆シャボテン動物公園（静岡・伊豆下田＆白浜海岸：エメラルドの海・白浜大浜＆）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【静岡・伊豆下田＆白浜海岸：エメラルドの海・白浜大浜＆】 1,500種類のサボテンと世界中の動物たちが暮らすテーマパーク。冬限定の「元祖カピバラの露天風呂」の癒やされる姿は全国的に有名です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">白糸の滝</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">富士山の湧水が幅150mの湾曲した絶壁から千本の絹糸のように流れ落ちる国指定の名勝・天然記念物。清涼なマイナスイオンと富士の恵みを体感できます。</p>
+                <h3 className="text-base font-bold text-stone-900">白糸の滝（静岡・伊豆下田＆白浜海岸：エメラルドの海・白浜大浜＆）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【静岡・伊豆下田＆白浜海岸：エメラルドの海・白浜大浜＆】 富士山の湧水が幅150mの湾曲した絶壁から千本の絹糸のように流れ落ちる国指定の名勝・天然記念物。清涼なマイナスイオンと富士の恵みを体感できます。</p>
               </div>
             </div>
             </div>

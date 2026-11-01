@@ -1,5 +1,5 @@
 ---
-title: "ろくろ陶芸体験ができる宿おすすめ10選"
+title: "【2026最新】日本六古窯・ろくろ陶芸体験！備前・信楽・益子・丹波・常滑の土と炎に触れる温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/pottery-making-rokuro-six-ancient-kilns-onsen-hotels-guide/"
 hotel_name: "日本六古窯・ろくろ陶芸体験！備前・信楽・益子・丹波・常滑の土と炎に触れる温泉宿おすすめ10選"
 prefecture: "全国"
@@ -10,7 +10,7 @@ review_count: 492
 last_modified: "2026-10-13"
 ---
 
-# ろくろ陶芸体験ができる宿おすすめ10選
+# 【2026最新】日本六古窯・ろくろ陶芸体験！備前・信楽・益子・丹波・常滑の土と炎に触れる温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/pottery-making-rokuro-six-ancient-kilns-onsen-hotels-guide/
 - **宿泊施設・特集名**: 日本六古窯・ろくろ陶芸体験！備前・信楽・益子・丹波・常滑の土と炎に触れる温泉宿おすすめ10選

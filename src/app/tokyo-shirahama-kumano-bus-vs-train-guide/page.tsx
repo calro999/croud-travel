@@ -172,10 +172,8 @@ export default function HighwayBusArticlePage() {
           <div className="flex items-center gap-2 text-cyan-700 font-extrabold text-xs uppercase tracking-wider mb-1">
             <span>⚡ COST & TIME COMPARISON</span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">
-            交通手段の徹底比較（料金・所要時間・特徴）
-          </h2>
-          <p className="text-xs md:text-sm text-slate-600 mt-1">
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">交通手段の徹底比較（料金・所要時間・特徴）｜東京・大阪</h2>
+          <p className="text-xs md:text-sm text-slate-600 mt-1">【東京・大阪】 
             それぞれの交通機関のメリット・デメリットを整理しました。旅の目的や予算に合わせて最適な移動手段を選びましょう。
           </p>
         </div>
@@ -222,9 +220,7 @@ export default function HighwayBusArticlePage() {
         <div className="bg-gradient-to-br from-amber-50 via-orange-50 to-amber-100/60 border border-amber-200 rounded-2xl p-6 space-y-4">
           <div className="flex items-center gap-2">
             <span className="text-xl">🚌</span>
-            <h3 className="text-base font-black text-amber-950 font-journal-serif">
-              高速バスを選ぶ3つの大きなメリット
-            </h3>
+            <h3 className="text-base font-black text-amber-950 font-journal-serif">高速バスを選ぶ3つの大きなメリット（東京・大阪）</h3>
           </div>
           <ul className="space-y-2 text-xs md:text-sm text-amber-950/90 font-medium list-disc list-inside">
             {busDetails.points.map((pt: string, idx: number) => (
@@ -251,10 +247,8 @@ export default function HighwayBusArticlePage() {
           <div className="flex items-center gap-2 text-indigo-700 font-extrabold text-xs uppercase tracking-wider mb-1">
             <span>🗺️ RECOMMENDED ITINERARY</span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">
-            交通費を浮かせて贅沢に楽しむ！1泊2日おすすめモデルコース
-          </h2>
-          <p className="text-xs md:text-sm text-slate-600 mt-1">
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">交通費を浮かせて贅沢に楽しむ！1泊2日おすすめモデルコース｜東京・大阪</h2>
+          <p className="text-xs md:text-sm text-slate-600 mt-1">【東京・大阪】 
             移動スケジュールと見どころ、グルメスポットをスムーズに巡る時間配分プランです。
           </p>
         </div>
@@ -297,7 +291,7 @@ export default function HighwayBusArticlePage() {
           <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">
             白良浜一望＆海と一体化するインフィニティ露天風呂！白浜人気リゾート宿
           </h2>
-          <p className="text-xs md:text-sm text-slate-600 mt-1">
+          <p className="text-xs md:text-sm text-slate-600 mt-1">【東京・大阪】 
             バス停や駅からのアクセスが抜群で、浮いた交通費でワンランク上の滞在が叶う人気宿泊施設です。
           </p>
         </div>
@@ -378,10 +372,8 @@ export default function HighwayBusArticlePage() {
               手ぶらで名所めぐり＆絶景旅
             </span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white">
-            楽天トラベル 日帰りバスツアー＆観光特集でさらに旅を満喫！
-          </h2>
-          <p className="text-xs md:text-sm text-amber-100/80 leading-relaxed font-medium">
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white">楽天トラベル 日帰りバスツアー＆観光特集でさらに旅を満喫！｜東京・大阪</h2>
+          <p className="text-xs md:text-sm text-amber-100/80 leading-relaxed font-medium">【東京・大阪】 
             個人手配が難しい季節のフルーツ狩り・絶景ライトアップ・ご当地名物食べ放題など、添乗員付きで安心して楽しめる人気バスツアーやテーマ別特集も要チェック。
           </p>
         </div>
@@ -394,10 +386,8 @@ export default function HighwayBusArticlePage() {
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🍓</div>
-            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-300 transition">
-              季節の味覚＆日帰りバスツアー
-            </h3>
-            <p className="text-[11px] text-stone-300 leading-relaxed">
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-300 transition">季節の味覚＆日帰りバスツアー（東京・大阪）</h3>
+            <p className="text-[11px] text-stone-300 leading-relaxed">【東京・大阪】 
               いちご・ぶどう・松茸など旬の味覚狩りや名所巡りがセットでお得。
             </p>
             <div className="text-[11px] font-bold text-amber-400 pt-1 flex items-center gap-1">
@@ -413,10 +403,8 @@ export default function HighwayBusArticlePage() {
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🎫</div>
-            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-300 transition">
-              高速バス タイムセール＆クーポン
-            </h3>
-            <p className="text-[11px] text-stone-300 leading-relaxed">
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-300 transition">高速バス タイムセール＆クーポン（東京・大阪）</h3>
+            <p className="text-[11px] text-stone-300 leading-relaxed">【東京・大阪】 
               楽天トラベル限定の高速バス割引クーポン＆お得な夜行便セール。
             </p>
             <div className="text-[11px] font-bold text-amber-400 pt-1 flex items-center gap-1">
@@ -430,10 +418,8 @@ export default function HighwayBusArticlePage() {
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🚅</div>
-            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-300 transition">
-              人気観光列車＆極上名旅館
-            </h3>
-            <p className="text-[11px] text-stone-300 leading-relaxed">
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-300 transition">人気観光列車＆極上名旅館（東京・大阪）</h3>
+            <p className="text-[11px] text-stone-300 leading-relaxed">【東京・大阪】 
               サフィール踊り子・しまかぜ・ゆふいんの森で行く贅沢列車ステイ。
             </p>
             <div className="text-[11px] font-bold text-amber-400 pt-1 flex items-center gap-1">

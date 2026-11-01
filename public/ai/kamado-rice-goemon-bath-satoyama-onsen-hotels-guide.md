@@ -1,5 +1,5 @@
 ---
-title: "かまどご飯が旨い宿おすすめ10選！比較"
+title: "【2026最新】かまどご飯が旨い宿・羽釜炊き新米＆五右衛門風呂の里山温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/kamado-rice-goemon-bath-satoyama-onsen-hotels-guide/"
 hotel_name: "かまどご飯が旨い宿・羽釜炊き新米＆五右衛門風呂の里山温泉宿おすすめ10選"
 prefecture: "全国"
@@ -10,7 +10,7 @@ review_count: 492
 last_modified: "2026-10-13"
 ---
 
-# かまどご飯が旨い宿おすすめ10選！比較
+# 【2026最新】かまどご飯が旨い宿・羽釜炊き新米＆五右衛門風呂の里山温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/kamado-rice-goemon-bath-satoyama-onsen-hotels-guide/
 - **宿泊施設・特集名**: かまどご飯が旨い宿・羽釜炊き新米＆五右衛門風呂の里山温泉宿おすすめ10選

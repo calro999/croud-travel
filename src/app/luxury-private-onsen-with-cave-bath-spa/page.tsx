@@ -212,21 +212,21 @@ export default function FeatureDetailPage() {
             <Award className="w-6 h-6 text-amber-600" />
             天然洞窟風呂＆神秘の地底秘湯宿の楽しみ方＆おすすめの選び方
           </h2>
-          <p className="text-slate-600 leading-relaxed text-sm sm:text-base">
+          <p className="text-slate-600 leading-relaxed text-sm sm:text-base">【神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ】 
             楽天トラベルに寄せられたリアルな宿泊者口コミの中から、特に評価の高いハイクラス宿・隠れ家宿を厳選。テーマに特化した最高峰の体験とおもてなしをお約束します。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-4">
             <div className="bg-amber-50/60 p-4 rounded-xl border border-amber-100">
-              <h3 className="font-bold text-amber-900 text-sm mb-1">① 圧倒的な世界観と体験</h3>
-              <p className="text-xs text-amber-800">ここでしか味わえない非日常の空間と贅沢なひとときを追求。</p>
+              <h3 className="font-bold text-amber-900 text-sm mb-1">① 圧倒的な世界観と体験（神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ）</h3>
+              <p className="text-xs text-amber-800">【神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ】 ここでしか味わえない非日常の空間と贅沢なひとときを追求。</p>
             </div>
             <div className="bg-slate-50 p-4 rounded-xl border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm mb-1">② 口コミ高評価の宿を厳選</h3>
-              <p className="text-xs text-slate-600">総合評価★4.2以上を中心に満足度の高い宿のみをセレクト。</p>
+              <h3 className="font-bold text-slate-900 text-sm mb-1">② 口コミ高評価の宿を厳選（神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ）</h3>
+              <p className="text-xs text-slate-600">【神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ】 総合評価★4.2以上を中心に満足度の高い宿のみをセレクト。</p>
             </div>
             <div className="bg-emerald-50/60 p-4 rounded-xl border border-emerald-100">
-              <h3 className="font-bold text-emerald-900 text-sm mb-1">③ 楽天トラベル直結予約</h3>
-              <p className="text-xs text-emerald-800">リアルタイムの空室・プラン・限定クーポンを今すぐチェック可能。</p>
+              <h3 className="font-bold text-emerald-900 text-sm mb-1">③ 楽天トラベル直結予約（神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ）</h3>
+              <p className="text-xs text-emerald-800">【神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ】 リアルタイムの空室・プラン・限定クーポンを今すぐチェック可能。</p>
             </div>
           </div>
         </section>
@@ -237,7 +237,7 @@ export default function FeatureDetailPage() {
             <h2 className="text-2xl font-bold text-slate-900">
               編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）
             </h2>
-            <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
+            <p className="text-sm text-slate-500 mt-1">【神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ】 楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
           </div>
 
           <div className="space-y-6">
@@ -541,7 +541,7 @@ export default function FeatureDetailPage() {
 
         {/* 関連タグ */}
         <section className="bg-white rounded-2xl p-6 border border-slate-200">
-          <h3 className="text-sm font-bold text-slate-700 mb-3">関連キーワード・タグ</h3>
+          <h3 className="text-sm font-bold text-slate-700 mb-3">関連キーワード・タグ（神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ）</h3>
           <div className="flex flex-wrap gap-2">
             <span className="text-xs bg-slate-100 text-slate-600 px-3 py-1.5 rounded-lg">#洞窟風呂</span>
             <span className="text-xs bg-slate-100 text-slate-600 px-3 py-1.5 rounded-lg">#秘湯名宿</span>
@@ -574,7 +574,7 @@ export default function FeatureDetailPage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 九十九湾小木駅よりアクセス。金沢駅から車で2時間半 金沢駅バスで3時間半 能登空港からタクシーで30分／バス停「九十九湾」送迎有り（要予約）。</li>
@@ -586,7 +586,7 @@ export default function FeatureDetailPage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「洞窟風呂の宿 百楽荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -640,9 +640,7 @@ export default function FeatureDetailPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-three-great-beautiful-forests-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -663,7 +661,7 @@ export default function FeatureDetailPage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/akita/"
@@ -772,9 +770,7 @@ export default function FeatureDetailPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 2026年エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">🏨 2026年エリアの宿泊施設別スペック＆滞在チェックポイント（神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ）</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>
@@ -811,7 +807,7 @@ export default function FeatureDetailPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>～至福のときを求めるあなたへ～　7つの湯めぐりで癒される原鶴の隠れ宿。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 福岡県朝倉市杷木久喜宮1343-1 ／ 最寄り駅：筑後吉井 ／ 交通案内：ＪＲ　筑後吉井駅より車で１０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
+                  <p>【神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質は最高、食事も満足。皆さんのクチコミ通り、温泉の泉質が良いのが最大のメリットです。貸切風呂も全般的に良いですが、温泉成分のせいか洞窟風呂だけは底がヌルヌルで大変滑りますので注意が必要…　2026-06-14 17:53:39投稿」
@@ -833,7 +829,7 @@ export default function FeatureDetailPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>3つの秘湯の湯 美しい山間に佇む老舗旅館「福元屋」名物の壁湯は一見の価値あり！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 大分県玖珠郡九重町町田62-1 ／ 最寄り駅：主要駅 ／ 交通案内：JR久大本線　豊後森駅より車で１５分／大分自動車道　九重ＩＣより車で１５分、玖珠ICより車で１５分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
+                  <p>【神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は最高、脱衣所の清潔感だけが残念食事が最高に美味しかった!家族風呂で、ゆっくりできますが脱衣所があまり清潔感のない感じでそこだけが残念な印象。温泉自体は雰囲気最高!スタッフの方も温かい雰…　2026-09-07 23:07:05投稿」
@@ -897,16 +893,16 @@ export default function FeatureDetailPage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Pathway_to_the_Qkamura_Nyuto_Onsenkyo.jpg/1280px-Pathway_to_the_Qkamura_Nyuto_Onsenkyo.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="乳頭温泉郷" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">乳頭温泉郷</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">十和田八幡平国立公園のブナ原生林に点在する7つの秘湯温泉郷。独自のお湯と茅葺き屋根の木造旅籠が醸し出すノスタルジーは、全国の温泉ファン憧れの聖地です。 乳頭温泉郷（にゅうとうおんせんきょう）は、秋田県仙北市、十和田八幡平国立公園内乳頭山の山麓に点在する温泉の総称、温泉郷である。 標高600 - 800メートル付近に温泉郷が広がっている。…</p>
+                <h3 className="text-base font-bold text-stone-900">乳頭温泉郷（神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ】 十和田八幡平国立公園のブナ原生林に点在する7つの秘湯温泉郷。独自のお湯と茅葺き屋根の木造旅籠が醸し出すノスタルジーは、全国の温泉ファン憧れの聖地です。 乳頭温泉郷（にゅうとうおんせんきょう）は、秋田県仙北市、十和田八幡平国立公園内乳頭山の山麓に点在する温泉の総称、温泉郷である。 標高600 - 800メートル付近に温泉郷が広がっている。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">角館の武家屋敷通り</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「みちのくの小京都」と称される歴史情緒あふれる城下町。黒板塀が続く静かな通りと、春には塀越しに垂れ下がる垂れ桜、秋には紅葉のコントラストが実に映えます。</p>
+                <h3 className="text-base font-bold text-stone-900">角館の武家屋敷通り（神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ】 「みちのくの小京都」と称される歴史情緒あふれる城下町。黒板塀が続く静かな通りと、春には塀越しに垂れ下がる垂れ桜、秋には紅葉のコントラストが実に映えます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -914,15 +910,15 @@ export default function FeatureDetailPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
                 <h3 className="text-base font-bold text-stone-900">田沢湖</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本一の水深（423.4m）を誇る円形の淡水湖。水深ゆえの深い瑠璃色の水面と、金色の辰子姫像が神秘的な美しさを漂わせています。 田沢湖（たざわこ）は、秋田県仙北市にある淡水湖。一級河川雄物川水系に属する。日本で最も深い湖であり、日本で19番目に広い湖沼でもある。その全域が田沢湖抱返り県立自然公園に指定されており、日本百景にも選ばれている景勝地である。1956年（昭和31年）から2005年（平成17年）まで存在した自治体である田沢湖町の名の由来であり、現在も旧田沢湖町の区域の地名冠称と…</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ】 日本一の水深（423.4m）を誇る円形の淡水湖。水深ゆえの深い瑠璃色の水面と、金色の辰子姫像が神秘的な美しさを漂わせています。 田沢湖（たざわこ）は、秋田県仙北市にある淡水湖。一級河川雄物川水系に属する。日本で最も深い湖であり、日本で19番目に広い湖沼でもある。その全域が田沢湖抱返り県立自然公園に指定されており、日本百景にも選ばれている景勝地である。1956年（昭和31年）から2005年（平成17年）まで存在した自治体である田沢湖町の名の由来であり、現在も旧田沢湖町の区域の地名冠称と…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">男鹿半島・入道崎</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本海の絶壁と緑の芝生がコントラストを成す男鹿半島の最北端。北緯40度線上に位置し、白黒ラインの入道崎灯台から眺める夕日は日本の灯台50選に選ばれています。</p>
+                <h3 className="text-base font-bold text-stone-900">男鹿半島・入道崎（神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ】 日本海の絶壁と緑の芝生がコントラストを成す男鹿半島の最北端。北緯40度線上に位置し、白黒ラインの入道崎灯台から眺める夕日は日本の灯台50選に選ばれています。</p>
               </div>
             </div>
             </div>

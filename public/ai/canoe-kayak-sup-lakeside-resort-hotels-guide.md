@@ -1,5 +1,5 @@
 ---
-title: "カヌー＆SUP体験湖畔ホテルおすすめ10選！比較"
+title: "【2026最新】湖畔・清流カヌー＆SUPクルーズ体験！リバーサイド・レイクサイドリゾートホテルおすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/canoe-kayak-sup-lakeside-resort-hotels-guide/"
 hotel_name: "湖畔・清流カヌー＆SUPクルーズ体験！リバーサイド・レイクサイドリゾートホテルおすすめ10選"
 prefecture: "全国"
@@ -9,7 +9,7 @@ rating: 4.98
 last_modified: "2026-10-13"
 ---
 
-# カヌー＆SUP体験湖畔ホテルおすすめ10選！比較
+# 【2026最新】湖畔・清流カヌー＆SUPクルーズ体験！リバーサイド・レイクサイドリゾートホテルおすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/canoe-kayak-sup-lakeside-resort-hotels-guide/
 - **宿泊施設・特集名**: 湖畔・清流カヌー＆SUPクルーズ体験！リバーサイド・レイクサイドリゾートホテルおすすめ10選

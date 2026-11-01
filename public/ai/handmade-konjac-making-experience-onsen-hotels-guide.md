@@ -1,5 +1,5 @@
 ---
-title: "こんにゃく作り体験ができる宿おすすめ10選"
+title: "【2026最新】手作り生こんにゃく作り体験＆下仁田蒟蒻・もぎたてぷるぷる刺身こんにゃくが味わえる名門温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/handmade-konjac-making-experience-onsen-hotels-guide/"
 hotel_name: "手作り生こんにゃく作り体験＆下仁田蒟蒻・もぎたてぷるぷる刺身こんにゃくが味わえる名門温泉宿おすすめ10選"
 prefecture: "全国"
@@ -10,7 +10,7 @@ review_count: 492
 last_modified: "2026-10-13"
 ---
 
-# こんにゃく作り体験ができる宿おすすめ10選
+# 【2026最新】手作り生こんにゃく作り体験＆下仁田蒟蒻・もぎたてぷるぷる刺身こんにゃくが味わえる名門温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/handmade-konjac-making-experience-onsen-hotels-guide/
 - **宿泊施設・特集名**: 手作り生こんにゃく作り体験＆下仁田蒟蒻・もぎたてぷるぷる刺身こんにゃくが味わえる名門温泉宿おすすめ10選

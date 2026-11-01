@@ -90,37 +90,33 @@ export default function FurusatoCaveBathNaturalGrottoStayPage() {
           数千年から数十万年もの歳月をかけて波や地殻変動が創り出した「天然洞窟風呂」。ごつごつとした岩肌に覆われた空間に身を浸すと、日常の喧騒から完全に切り離され、まるで母なる地球の胎内に抱かれているかのような深い安らぎと神秘的な高揚感に包まれます。洞窟の開口部から見上げる青空や夕暮れの海、洞内に反響する波や湧き水のせせらぎ、ほのかに立ちこめる湯気と硫黄の香りは、人工の温泉では決して味わえない唯一無二の魅力です。本特集では、太平洋の荒波が間近に迫る巨大な海食洞窟の中に乳白色の源泉が湧き出す日本屈指の名湯「南紀勝浦温泉 ホテル浦島」、開湯1800年・世界遺産「つぼ湯」のすぐそばに佇み、江戸時代からの風情を残す槇風呂や天然蒸し風呂で知られる「湯の峰温泉 旅館あづまや」、そして諏訪湖の神秘的な情景と美肌の自家源泉を畳敷きの大浴場や癒しの空間で味わう名宿「上諏訪温泉 しんゆ」の3宿を厳選。楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で一生記憶に残る洞窟名湯の旅へ出かけましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
-          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">
-            <span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？
-          </h3>
+          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？（荒波迫る海食洞窟と神秘の巨岩風呂）</h3>
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
               <span><strong>寄付額の最大30％が宿泊クーポンとして即時付与</strong>され、楽天ポイントも二重に貯まる</span>
-            </li>
+            （荒波迫る海食洞窟と神秘の巨岩風呂）</li>
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
               <span><strong>有効期限はたっぷり3年間！</strong>寄付後に旅行時期や部屋タイプをじっくり選べる安心設計</span>
-            </li>
+            （荒波迫る海食洞窟と神秘の巨岩風呂）</li>
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
               <span>予約済み日程への<strong>「あとからクーポン適用」</strong>にも対応（※条件あり）で直前でも安心</span>
-            </li>
+            （荒波迫る海食洞窟と神秘の巨岩風呂）</li>
           </ul>
         </div>
       </section>
 
       {/* 目次 */}
       <section className="bg-gray-50 rounded-xl p-5 mb-12 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">
-          <span>📑</span> 目次
-        </h2>
+        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次｜荒波迫る海食洞窟と神秘の巨岩風呂</h2>
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">天然洞窟温泉＆名湯旅館特集が旅人を惹きつけてやまない3つの魅力</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】南紀勝浦温泉　ホテル浦島</a></li>
           <li><a href="#hotel-2" className="text-amber-800 hover:underline font-medium">【第2選】旅館あづまや　＜和歌山県＞</a></li>
           <li><a href="#hotel-3" className="text-amber-800 hover:underline font-medium">【第3選】上諏訪温泉　しんゆ（親湯）</a></li>
-          <li><a href="#furusato-step" className="text-amber-800 hover:underline font-medium">実質自己負担2,000円で予約する簡単4ステップ手順</a></li>
+          <li><a href="#furusato-step" className="text-amber-800 hover:underline font-medium">実質自己負担2,000円で予約する簡単4ステップ手順</a>（荒波迫る海食洞窟と神秘の巨岩風呂）</li>
           <li><a href="#faq" className="text-amber-800 hover:underline font-medium">よくある質問（Q&A）</a></li>
         </ol>
       </section>
@@ -262,35 +258,33 @@ export default function FurusatoCaveBathNaturalGrottoStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2">
-          <span>💡</span> 楽天ふるさと納税トラベルクーポンで実質2,000円予約する4ステップ
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで実質2,000円予約する4ステップ｜荒波迫る海食洞窟と神秘の巨岩風呂</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-1">控除限度額をチェック</h3>
-              <p className="text-xs md:text-sm text-gray-600">年収や家族構成によって自己負担2,000円で利用できる上限額が決まります。まずは楽天ふるさと納税のシミュレーターで上限を確認しましょう。</p>
+              <h3 className="font-bold text-gray-900 mb-1">控除限度額をチェック（荒波迫る海食洞窟と神秘の巨岩風呂）</h3>
+              <p className="text-xs md:text-sm text-gray-600">【荒波迫る海食洞窟と神秘の巨岩風呂】 年収や家族構成によって自己負担2,000円で利用できる上限額が決まります。まずは楽天ふるさと納税のシミュレーターで上限を確認しましょう。</p>
             </div>
           </div>
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">2</div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-1">自治体を選んでトラベルクーポンを寄付</h3>
+              <h3 className="font-bold text-gray-900 mb-1">自治体を選んでトラベルクーポンを寄付（荒波迫る海食洞窟と神秘の巨岩風呂）</h3>
               <p className="text-xs md:text-sm text-gray-600">訪れたい温泉宿のある自治体（市町村）へ寄付。寄付額の最大30％相当の楽天トラベルクーポンが数日以内にマイクーポンへ自動付与されます。</p>
             </div>
           </div>
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">3</div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-1">楽天トラベルで宿泊予約＆クーポン適用</h3>
-              <p className="text-xs md:text-sm text-gray-600">有効期限は3年間。宿泊日や部屋タイプを決め、予約画面で取得したトラベルクーポンを選択すると宿泊代金から即時値引きされます。</p>
+              <h3 className="font-bold text-gray-900 mb-1">楽天トラベルで宿泊予約＆クーポン適用（荒波迫る海食洞窟と神秘の巨岩風呂）</h3>
+              <p className="text-xs md:text-sm text-gray-600">【荒波迫る海食洞窟と神秘の巨岩風呂】 有効期限は3年間。宿泊日や部屋タイプを決め、予約画面で取得したトラベルクーポンを選択すると宿泊代金から即時値引きされます。</p>
             </div>
           </div>
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">4</div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-1">ワンストップ特例または確定申告で完了</h3>
+              <h3 className="font-bold text-gray-900 mb-1">ワンストップ特例または確定申告で完了（荒波迫る海食洞窟と神秘の巨岩風呂）</h3>
               <p className="text-xs md:text-sm text-gray-600">翌年の住民税・所得税から控除され、実質負担は年間2,000円のみ！浮いた予算で客室のアップグレードや別注料理を満喫できます。</p>
             </div>
           </div>
@@ -299,9 +293,7 @@ export default function FurusatoCaveBathNaturalGrottoStayPage() {
 
       {/* FAQ */}
       <section id="faq" className="mb-16">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">
-          <span>❓</span> よくある質問（Q&A）
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）｜荒波迫る海食洞窟と神秘の巨岩風呂</h2>
         <div className="space-y-4">
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
             <summary className="font-bold text-gray-900 text-sm md:text-base flex justify-between items-center">

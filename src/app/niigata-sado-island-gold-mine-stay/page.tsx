@@ -418,7 +418,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>黒い温泉と新鮮な海の幸を御堪能下さい。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 新潟県佐渡市窪田782 ／ 最寄り駅：佐渡空港 ／ 交通案内：入海は佐渡両津港より車で３０分。海岸まで３０ｍの海辺の黒い温泉。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
+                  <p>【新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も美味しく部屋も清潔、接客も親切ご飯も美味しく部屋の掃除も行き届いていたので快適に過ごせました。フロントの方もとても親切でした。クチコミの詳細はこちらから　https://review…　2026-08-28 00:53:55投稿」
@@ -440,7 +440,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>両津港から車で5分！天然温泉と、佐渡の旬の味覚を堪能できる宿。目の前は海です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 新潟県佐渡市住吉215-1 ／ 最寄り駅：主要駅 ／ 交通案内：両津港より、お車で５分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
+                  <p>【新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「新鮮な魚介と花火、温泉で癒やされる旅夕食も朝食も魚介がたくさんで美味しかったです。ちょうど両津港の花火も宿の前の浜からみることができよかったです。温泉も泉質がよく日焼けした肌が癒されました。ク…　2026-08-12 19:15:27投稿」
@@ -460,32 +460,32 @@ export default function MicroTouristHubPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">清津峡渓谷トンネル（Tunnel of Light）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三大峡谷の一つ・清津峡の絶景を楽しめるアートトンネル。終点のパノラマステーションでは水鏡に渓谷のダイナミックな景観が映り込む映えスポットです。</p>
+                <h3 className="text-base font-bold text-stone-900">清津峡渓谷トンネル（Tunnel of Light）（新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆】 日本三大峡谷の一つ・清津峡の絶景を楽しめるアートトンネル。終点のパノラマステーションでは水鏡に渓谷のダイナミックな景観が映り込む映えスポットです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">佐渡金山</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">江戸時代から平成まで400年にわたって採掘が続いた日本最大の金銀山。手掘りの坑道跡や巨大な金山遺構「北沢浮遊選鉱場」のノスタルジーが感動的です。</p>
+                <h3 className="text-base font-bold text-stone-900">佐渡金山（新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆】 江戸時代から平成まで400年にわたって採掘が続いた日本最大の金銀山。手掘りの坑道跡や巨大な金山遺構「北沢浮遊選鉱場」のノスタルジーが感動的です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Entrance_to_Echigo-Yuzawa_Onsen.JPG/1280px-Entrance_to_Echigo-Yuzawa_Onsen.JPG?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="苗場山・越後湯沢温泉" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">苗場山・越後湯沢温泉</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">四季を通じてアウトドアやリゾートが楽しめる一大リゾート地。冬は上質なパウダースノーのスキー場、秋はドラゴンドラからの日本一長い紅葉空中散歩が自慢です。 越後湯沢温泉（えちごゆざわおんせん）は、新潟県南魚沼郡湯沢町（旧越後国）にある温泉。川端康成の小説『雪国』のモデルになった温泉地である。単に湯沢温泉と呼ばれることもある。 この項目で扱うように、同じ湯沢町にある他の温泉も含めた呼び名としても用いられる。…</p>
+                <h3 className="text-base font-bold text-stone-900">苗場山・越後湯沢温泉（新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆】 四季を通じてアウトドアやリゾートが楽しめる一大リゾート地。冬は上質なパウダースノーのスキー場、秋はドラゴンドラからの日本一長い紅葉空中散歩が自慢です。 越後湯沢温泉（えちごゆざわおんせん）は、新潟県南魚沼郡湯沢町（旧越後国）にある温泉。川端康成の小説『雪国』のモデルになった温泉地である。単に湯沢温泉と呼ばれることもある。 この項目で扱うように、同じ湯沢町にある他の温泉も含めた呼び名としても用いられる。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">萬代橋（ばんだいばし）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">信濃川にかかる6連アーチが美しい新潟市のシンボルであり国指定重要文化財。重厚な石造りの橋脚と美しい川辺の遊歩道が市民や観光客に親しまれています。</p>
+                <h3 className="text-base font-bold text-stone-900">萬代橋（ばんだいばし）（新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆】 信濃川にかかる6連アーチが美しい新潟市のシンボルであり国指定重要文化財。重厚な石造りの橋脚と美しい川辺の遊歩道が市民や観光客に親しまれています。</p>
               </div>
             </div>
             </div>

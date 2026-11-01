@@ -330,7 +330,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>新しくレストラン棟が完成、ロビーもリニューアルして温泉露天風呂＆大浴場とともに更に快適に！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 長野県北安曇郡白馬村北城5470-1 ／ 最寄り駅：白馬 ／ 交通案内：ＪＲ白馬駅より徒歩１０分川沿い／長野自動車道安曇野ＩＣより５０分／上信越自動車道長野ＩＣより５０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
+                  <p>【長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプ】 <strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.47 ／ 部屋 ★4.3 ／ 設備 ★4.24 ／ 風呂 ★4.28 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「施設も料理も大満足、送迎の対応も親切ホテルはとても綺麗、スタッフ全員がとても親切、料理もおいしい、2泊させて頂きましたが大満足でした。又八方尾根登山時には送迎バス対応をして頂きとても助かりまし…　2026-10-09 10:32:57投稿」
@@ -418,7 +418,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>信濃路の旅情漂う山岳ホテル　温泉露天風呂が好評です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 長野県北安曇郡白馬村八方5706 ／ 最寄り駅：白馬 ／ 交通案内：長野自動車道安曇野ＩＣより車で６０分、ＪＲ白馬駅よりバス</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
+                  <p>【長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプ】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>白馬アルパインホテルの滞在ポイント：</strong>「長野・白馬八方尾根エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
@@ -460,16 +460,16 @@ export default function MicroTouristHubPage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/%E7%A7%8B%E3%81%AE%E4%B8%8A%E9%AB%98%E5%9C%B0_%28Kamikochi_in_autumn%29_24_Oct%2C_2011_-_panoramio.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" alt="上高地（河童橋）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">上高地（河童橋）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">北アルプスの雄大な自然に抱かれた日本を代表する山岳景勝地。梓川に架かる木造の河童橋と、穂高連峰・焼岳の雄姿が織りなす清涼な風景は格別です。 上高地（かみこうち）は、長野県松本市の西部、清流梓川（あずさがわ）上流に所在する県を代表する山岳景勝地。飛騨山脈（北アルプス）南部の長野県側（全域が松本市）に属する。中部山岳国立公園の一部ともなっており、国の文化財（特別名勝・特別天然記念物/天然保護区域）に指定されている。河童橋や大正池など上高地自体が国内外から観光客が訪れる一大観光地であるだけでなく、上高…</p>
+                <h3 className="text-base font-bold text-stone-900">上高地（河童橋）（長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプ】 北アルプスの雄大な自然に抱かれた日本を代表する山岳景勝地。梓川に架かる木造の河童橋と、穂高連峰・焼岳の雄姿が織りなす清涼な風景は格別です。 上高地（かみこうち）は、長野県松本市の西部、清流梓川（あずさがわ）上流に所在する県を代表する山岳景勝地。飛騨山脈（北アルプス）南部の長野県側（全域が松本市）に属する。中部山岳国立公園の一部ともなっており、国の文化財（特別名勝・特別天然記念物/天然保護区域）に指定されている。河童橋や大正池など上高地自体が国内外から観光客が訪れる一大観光地であるだけでなく、上高…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">国宝 松本城</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">現存する五重六階の天守の中で最古の歴史を誇る国宝名城。漆黒の壁と北アルプスの雪山を背にした佇まいから「烏城（からすじょう）」と親しまれています。</p>
+                <h3 className="text-base font-bold text-stone-900">国宝 松本城（長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプ】 現存する五重六階の天守の中で最古の歴史を誇る国宝名城。漆黒の壁と北アルプスの雪山を背にした佇まいから「烏城（からすじょう）」と親しまれています。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -477,15 +477,15 @@ export default function MicroTouristHubPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
                 <h3 className="text-base font-bold text-stone-900">善光寺</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「一生に一度は善光寺参り」と称される無宗派の古刹。国宝の本堂や床下の暗闇を進む「お戒壇めぐり」、長層の仲見世通りの門前街散策が見どころです。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプ】 「一生に一度は善光寺参り」と称される無宗派の古刹。国宝の本堂や床下の暗闇を進む「お戒壇めぐり」、長層の仲見世通りの門前街散策が見どころです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Mikasa-Dori%2C_Karuizawa.jpg/1280px-Mikasa-Dori%2C_Karuizawa.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="軽井沢プリンスショッピングプラザ" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">軽井沢プリンスショッピングプラザ</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">浅間山を望む爽やかな高原リゾート地・軽井沢駅前に広がる日本最大級のアウトレットモール。豊かな自然景観の中で贅沢な買い物を楽しめます。 軽井沢（かるいざわ）は、長野県東信地方の佐久地域を中心に見られる地名である。避暑地・別荘地としてブランド化された地名であり、狭義には長野県北佐久郡軽井沢町の旧軽井沢地区（ウィキ座標、旧軽井沢メインストリートも参照）あるいは軽井沢町全体を指し、広義には隣接する御代田町（西軽井沢）、群馬県吾妻郡長野原町大字北軽井沢・吾妻郡嬬恋村（奥軽井沢）・安中市（東軽井沢）と…</p>
+                <h3 className="text-base font-bold text-stone-900">軽井沢プリンスショッピングプラザ（長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプ】 浅間山を望む爽やかな高原リゾート地・軽井沢駅前に広がる日本最大級のアウトレットモール。豊かな自然景観の中で贅沢な買い物を楽しめます。 軽井沢（かるいざわ）は、長野県東信地方の佐久地域を中心に見られる地名である。避暑地・別荘地としてブランド化された地名であり、狭義には長野県北佐久郡軽井沢町の旧軽井沢地区（ウィキ座標、旧軽井沢メインストリートも参照）あるいは軽井沢町全体を指し、広義には隣接する御代田町（西軽井沢）、群馬県吾妻郡長野原町大字北軽井沢・吾妻郡嬬恋村（奥軽井沢）・安中市（東軽井沢）と…</p>
               </div>
             </div>
             </div>

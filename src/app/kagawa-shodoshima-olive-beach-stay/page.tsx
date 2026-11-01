@@ -365,7 +365,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【ソフトドリンク・コーヒー無料サービス】【持ち込みOK】船の往来が見えるリゾートホテル</p>
                   <p><strong>【所在地・アクセス】</strong>〒 香川県小豆郡土庄町伊喜末2464 ／ 最寄り駅：高松（香川） ／ 交通案内：小豆島　土庄港より車で7分、池田港より車で11分、福田港より車で38分　土庄港へは無料送迎もございます　※要予約</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
+                  <p>【香川・小豆島：エンジェルロード・寒霞渓＆オリーブ牛・】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「景色が最高、無料のパンやアイスも充実部屋からの景色がよく、またいつでも無料のパンとドリンクやアイスキャンデーがロビー横にあり、とてもよかった。クチコミの詳細はこちらから　https://rev…　2026-08-22 21:36:26投稿」

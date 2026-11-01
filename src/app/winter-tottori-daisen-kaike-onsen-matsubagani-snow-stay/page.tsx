@@ -641,7 +641,7 @@ export default function TottoriDaisenKaikeWinterPage() {
 
       {/* Footer Navigation */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 py-12 border-t border-slate-200 mt-16 text-center text-xs text-slate-500">
-        <p>© 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
+        <p>【11・12・1月鳥取：冬旬の松葉ガニ】 © 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
       </footer>
     
       <HubRelatedPosts currentSlug="winter-tottori-daisen-kaike-onsen-matsubagani-snow-stay" />

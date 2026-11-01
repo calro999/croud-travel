@@ -1,5 +1,5 @@
 ---
-title: "路面電車の宿おすすめ10選！人気ホテル比較"
+title: "【2026最新】路面電車の宿・レトロ市電＆トラムビュー温泉ホテルおすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/tram-streetcar-nostalgic-city-onsen-hotels-guide/"
 hotel_name: "路面電車の宿・レトロ市電＆トラムビュー温泉ホテルおすすめ10選"
 prefecture: "全国"
@@ -10,7 +10,7 @@ review_count: 492
 last_modified: "2026-10-13"
 ---
 
-# 路面電車の宿おすすめ10選！人気ホテル比較
+# 【2026最新】路面電車の宿・レトロ市電＆トラムビュー温泉ホテルおすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/tram-streetcar-nostalgic-city-onsen-hotels-guide/
 - **宿泊施設・特集名**: 路面電車の宿・レトロ市電＆トラムビュー温泉ホテルおすすめ10選

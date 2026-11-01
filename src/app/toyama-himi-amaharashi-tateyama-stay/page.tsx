@@ -418,7 +418,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>魚処・氷見の山里に佇む、癒しの宿。露天風呂が自慢です☆【全室Wi-Fi完備！ 】</p>
                   <p><strong>【所在地・アクセス】</strong>〒 富山県氷見市指崎1632 ／ 最寄り駅：氷見 ／ 交通案内：氷見駅よりお車にて約２０分（６.０ｋｍ）/【車】北陸（東海北陸）自動車道⇒能越自動車道　氷見北ＩＣより５分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
+                  <p>【富山・氷見＆雨晴海岸・立山連峰：海越しに望む3000】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「レビューが入力されていません。内容を教えていただければタイトルを作成します。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-08-11 20:12:06投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=141093&quot; class=&quot;3click&quot;」

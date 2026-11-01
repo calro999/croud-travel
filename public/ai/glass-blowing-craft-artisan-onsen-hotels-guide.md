@@ -1,5 +1,5 @@
 ---
-title: "ガラス工芸体験ができる宿おすすめ10選"
+title: "【2026最新】吹きガラス・切子・ステンドグラス！ガラス工芸体験ができる温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/glass-blowing-craft-artisan-onsen-hotels-guide/"
 hotel_name: "吹きガラス・切子・ステンドグラス！ガラス工芸体験ができる温泉宿おすすめ10選"
 prefecture: "全国"
@@ -9,7 +9,7 @@ rating: 4.98
 last_modified: "2026-10-13"
 ---
 
-# ガラス工芸体験ができる宿おすすめ10選
+# 【2026最新】吹きガラス・切子・ステンドグラス！ガラス工芸体験ができる温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/glass-blowing-craft-artisan-onsen-hotels-guide/
 - **宿泊施設・特集名**: 吹きガラス・切子・ステンドグラス！ガラス工芸体験ができる温泉宿おすすめ10選

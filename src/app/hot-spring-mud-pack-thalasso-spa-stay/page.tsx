@@ -440,7 +440,7 @@ export default function WellnessRetreatHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「温泉泥パック＆タラソテラピー宿（天然クレイ泥湯・海洋深層水スパ 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR豊肥本線・豊後竹田駅よりお車にて25分。（駅から路線バスもあります。長湯行き約40分、長湯下車。）</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【温泉泥パック＆タラソテラピー宿：天然クレイ泥湯・海洋】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「何十年ぶりかに訪れましたが、相変わらず温泉は最高です。今回の旅館は、初めてでしたが長い歴史を感じさせる雰囲気のある旅館でした。テレビの調子が悪くてほとんど見れませんでしたが、それがまた良かった…　2026-09-14 18:41:51投稿」

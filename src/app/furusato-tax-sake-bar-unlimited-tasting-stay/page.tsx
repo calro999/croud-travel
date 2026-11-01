@@ -61,10 +61,8 @@ export default function FurusatoFeaturePage() {
 
           {/* 公式キャンペーンCTA */}
           <div className="p-6 rounded-3xl bg-gradient-to-br from-amber-500/20 via-amber-600/10 to-transparent border border-amber-500/30 backdrop-blur max-w-2xl mx-auto">
-            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">
-              楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！
-            </h2>
-            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">
+            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！｜地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税</h2>
+            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">【地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税】 
               寄附翌日には楽天トラベルで使えるクーポンが付与。有効期限はたっぷり3年間あるため、次の大型連休や記念日旅行にも安心して活用いただけます。
             </p>
             <a
@@ -366,10 +364,8 @@ export default function FurusatoFeaturePage() {
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto">
         <div className="p-8 sm:p-10 rounded-3xl bg-gradient-to-r from-amber-600/30 via-orange-600/20 to-stone-900 border border-amber-500/40 text-center relative overflow-hidden">
           <div className="relative z-10">
-            <h2 className="text-2xl sm:text-3xl font-black text-amber-100 mb-4">
-              ふるさと納税の宿泊クーポンでお得に極上の旅へ
-            </h2>
-            <p className="text-sm sm:text-base text-stone-300 max-w-2xl mx-auto mb-6 leading-relaxed">
+            <h2 className="text-2xl sm:text-3xl font-black text-amber-100 mb-4">ふるさと納税の宿泊クーポンでお得に極上の旅へ｜地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税</h2>
+            <p className="text-sm sm:text-base text-stone-300 max-w-2xl mx-auto mb-6 leading-relaxed">【地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税】 
               寄附上限額の範囲内なら、実質自己負担2,000円で憧れの特等席宿やリゾートに宿泊可能。楽天ポイント還元も併用して、賢く贅沢なひとときをお過ごしください。
             </p>
             <a
@@ -387,9 +383,7 @@ export default function FurusatoFeaturePage() {
 
       {/* 関連記事 内部リンク */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-t border-stone-800">
-        <h2 className="text-xl sm:text-2xl font-bold text-amber-200 mb-6">
-          あわせて読みたい！テーマ別ふるさと納税トラベルガイド
-        </h2>
+        <h2 className="text-xl sm:text-2xl font-bold text-amber-200 mb-6">あわせて読みたい！テーマ別ふるさと納税トラベルガイド｜地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <Link
@@ -552,7 +546,7 @@ export default function FurusatoFeaturePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉掛け流しの天然温泉と米沢牛の美味しさに舌鼓！木造3階建ての風情ある老舗旅館をお楽しみ下さい。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山形県南陽市赤湯1014 ／ 最寄り駅：赤湯 ／ 交通案内：JR東北新幹線「赤湯駅」より車で５分 / 東北道 福島飯坂ICより１３号線経由５５㎞</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
+                  <p>【地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「大正ロマンを感じる風情ある空間でゆっくり電車が運休になって急遽一泊することになりました。丁寧な案内があって二階の昔は蔵だったところのベッドのお部屋でした。食堂の上だったり少し音はしますが私は気にな…　2026-09-08 11:00:00投稿」
@@ -616,32 +610,32 @@ export default function FurusatoFeaturePage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">宝珠山 立石寺（山寺）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">松尾芭蕉が「閑さや岩にしみ入る蝉の声」と詠んだことで名高い名刹。1015段の石段を登りきった五大堂からは、山形の大自然と里山を一望する壮大な絶景が広がります。</p>
+                <h3 className="text-base font-bold text-stone-900">宝珠山 立石寺（山寺）（地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税】 松尾芭蕉が「閑さや岩にしみ入る蝉の声」と詠んだことで名高い名刹。1015段の石段を登りきった五大堂からは、山形の大自然と里山を一望する壮大な絶景が広がります。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Evening_twilight_in_Ginzan_Onsen_town_January_2022_A.jpg/1280px-Evening_twilight_in_Ginzan_Onsen_town_January_2022_A.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="銀山温泉" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">銀山温泉</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">銀山川の両岸に木造多層の温泉旅館が立ち並ぶ、大正ロマンあふれる温泉街。夕暮れ時にガス灯の温かな光が雪景色や大正建築を照らし出す風景は感動的です。 銀山温泉（ぎんざんおんせん）は、山形県尾花沢市（旧国出羽国、明治以降は羽前国）にある温泉である。 NHK連続テレビ小説『おしん』の舞台となったことで一躍脚光を浴び、全国的にその名を知られることになった。…</p>
+                <h3 className="text-base font-bold text-stone-900">銀山温泉（地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税】 銀山川の両岸に木造多層の温泉旅館が立ち並ぶ、大正ロマンあふれる温泉街。夕暮れ時にガス灯の温かな光が雪景色や大正建築を照らし出す風景は感動的です。 銀山温泉（ぎんざんおんせん）は、山形県尾花沢市（旧国出羽国、明治以降は羽前国）にある温泉である。 NHK連続テレビ小説『おしん』の舞台となったことで一躍脚光を浴び、全国的にその名を知られることになった。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Zaou_Gongen_Circumstancial_appearance_of_Mount_Yoshino.jpg/1280px-Zaou_Gongen_Circumstancial_appearance_of_Mount_Yoshino.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="蔵王の樹氷" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">蔵王の樹氷</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">冬の蔵王連峰で見られる自然の芸術「アイスモンスター」。アオモリトドマツに雪と氷が吹き付けられて巨大化した樹氷群を、ロープウェイやナイターライトアップで楽しめます。 蔵王、藏王（ざ-おう） 読みとしては、「蔵王」の本来の読み、旧仮名づかい「ざう-わう(ぞう-おう)」（音読み）が連声化したもの。 修験道の神である蔵王権現のこと。日本各地にみられる「蔵王」という名称は、後述の地名を含め、その大半が蔵王権現（奈良県吉野の発祥）に由来している（蔵王権現を参照）。 上述の蔵王権現を祭っている神社（蔵王権現社、御嶽神社（御岳神社）、…</p>
+                <h3 className="text-base font-bold text-stone-900">蔵王の樹氷（地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税】 冬の蔵王連峰で見られる自然の芸術「アイスモンスター」。アオモリトドマツに雪と氷が吹き付けられて巨大化した樹氷群を、ロープウェイやナイターライトアップで楽しめます。 蔵王、藏王（ざ-おう） 読みとしては、「蔵王」の本来の読み、旧仮名づかい「ざう-わう(ぞう-おう)」（音読み）が連声化したもの。 修験道の神である蔵王権現のこと。日本各地にみられる「蔵王」という名称は、後述の地名を含め、その大半が蔵王権現（奈良県吉野の発祥）に由来している（蔵王権現を参照）。 上述の蔵王権現を祭っている神社（蔵王権現社、御嶽神社（御岳神社）、…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">羽黒山 三重塔</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">出羽三山神社への参道杉木立の中に佇む、東北最古の国宝木造塔。樹齢数百年の巨大な老杉に囲まれた静寂な空間は、強いパワースポットとして知られています。</p>
+                <h3 className="text-base font-bold text-stone-900">羽黒山 三重塔（地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税】 出羽三山神社への参道杉木立の中に佇む、東北最古の国宝木造塔。樹齢数百年の巨大な老杉に囲まれた静寂な空間は、強いパワースポットとして知られています。</p>
               </div>
             </div>
             </div>

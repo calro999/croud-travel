@@ -166,10 +166,8 @@ export default function Page() {
 
         {/* 厳選ホテル・宿ランキング比較一覧 */}
         <div className="space-y-8 pt-4">
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2 border-b border-emerald-950/10 pb-3">
-            <span>🏆</span>
-            <span>編集部が厳選したおすすめ宿泊施設 TOP3</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2 border-b border-emerald-950/10 pb-3"><span>🏆</span>
+            <span>編集部が厳選したおすすめ宿泊施設 TOP3</span>｜黄金色に輝く日本の原風景</h2>
 
           <div className="space-y-8">
             {hotels.map((h, idx) => (
@@ -269,13 +267,13 @@ export default function Page() {
           <div className="space-y-3 text-xs">
             <div className="p-4 rounded-xl bg-teal-50/30 border border-teal-900/10 space-y-1.5">
               <h4 className="font-bold text-teal-950">Q. 棚田絶景・里山リトリートの予約でお得な方法はありますか？</h4>
-              <p className="text-emerald-950/80 leading-relaxed">
+              <p className="text-emerald-950/80 leading-relaxed">【黄金色に輝く日本の原風景】 
                 楽天トラベルの「5と0のつく日セール」による最大20%割引や、実質2,000円の自己負担で宿泊できる「楽天ふるさと納税宿泊クーポン」の併用が最もお得でおすすめです。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-teal-50/30 border border-teal-900/10 space-y-1.5">
               <h4 className="font-bold text-teal-950">Q. キャンセル料や予約変更はどうなっていますか？</h4>
-              <p className="text-emerald-950/80 leading-relaxed">
+              <p className="text-emerald-950/80 leading-relaxed">【黄金色に輝く日本の原風景】 
                 各宿泊施設および予約プランによってキャンセル規定が異なります。ご予約完了前に楽天トラベルの詳細ページにてキャンセルポリシーを必ずご確認ください。
               </p>
             </div>
@@ -401,7 +399,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「黄金色に輝く日本の原風景（絶景棚田と里山の恵みを味わうヒーリング温泉宿）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ飯田線　天竜峡駅／中央自動車道飯田ＩＣ・Ｒ１５１経由県道２３７号</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【黄金色に輝く日本の原風景】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋からの景色と洞窟風呂が面白い部屋もきれいで景色もよかったです。また、洞窟風呂は、なかなか面白かったです。クチコミの詳細はこちらから　https://review.travel.rakute…　2026-09-17 19:48:53投稿」

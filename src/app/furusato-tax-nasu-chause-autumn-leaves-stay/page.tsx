@@ -127,21 +127,17 @@ export default function FeatureArticlePage() {
         <article className="lg:col-span-2 space-y-10">
           {/* エリア概要セクション */}
           <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-stone-200/80">
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 pb-3 border-b border-stone-200 flex items-center gap-3">
-              <span className="text-2xl">🍂</span>
-              秋の風情と旬の味覚を堪能する特別な旅
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 pb-3 border-b border-stone-200 flex items-center gap-3"><span className="text-2xl">🍂</span>
+              秋の風情と旬の味覚を堪能する特別な旅｜那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石</h2>
             <p className="text-stone-700 leading-relaxed text-sm md:text-base mb-6">
               栃木県北部にそびえる那須連山の主峰・茶臼岳（標高1,915m）は、本州屈指の早さで紅葉がスタートする山岳名所。那須ロープウェイに乗れば、赤や黄色の絨毯が眼下に広がる壮大な大パノラマを体感できます。散策の後は、傷ついた鹿が癒したと伝わる開湯1300年の名湯「那須湯本温泉・鹿の湯」や奥那須の大丸温泉へ。濃厚な白濁湯とブランド和牛・那須牛の贅を味わえます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2">
-                <span>💡</span> 10月〜11月の旅を満喫する3大ポイント
-              </h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2"><span>💡</span> 10月〜11月の旅を満喫する3大ポイント（那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石）</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
-                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞</li>
-                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢</li>
-                <li><strong>実質2,000円ステイ：</strong>楽天ふるさと納税トラベルクーポンで賢く予約</li>
+                <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石）</li>
+                <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石）</li>
+                <li><strong>実質2,000円ステイ：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石）</li>
               </ul>
             </div>
           </section>
@@ -331,11 +327,9 @@ export default function FeatureArticlePage() {
 
           {/* ふるさと納税活用法 */}
           <section className="bg-gradient-to-r from-amber-500 to-orange-600 text-white rounded-2xl p-6 md:p-8 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2">
-              <span>🎁</span> 楽天ふるさと納税で実質2,000円宿泊する方法
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で実質2,000円宿泊する方法｜那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石</h2>
             <div className="space-y-4 text-xs md:text-sm text-amber-50 leading-relaxed">
-              <p>
+              <p>【那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石】 
                 楽天ふるさと納税の「トラベルクーポン（宿泊補助券）」を利用すると、寄付金額に応じた割引クーポンが即時または後日発行され、楽天トラベルでの宿泊予約時に直接利用できます。
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-3 pt-2 text-stone-900">
@@ -362,9 +356,7 @@ export default function FeatureArticlePage() {
         {/* サイドバー */}
         <aside className="space-y-6">
           <div className="bg-white rounded-2xl p-6 shadow-sm border border-stone-200/80 sticky top-6">
-            <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2">
-              <span>📌</span> この特集で紹介した宿
-            </h3>
+            <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2"><span>📌</span> この特集で紹介した宿（那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石）</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.nasu_sansuikaku.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">
@@ -430,7 +422,7 @@ export default function FeatureArticlePage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 那須塩原駅よりアクセス。那須塩原駅・黒磯駅より、路線バス有料送迎サービス有約70分(2日前迄に要予約）／東北自動車道《那須IC》より車で約30分。</li>
@@ -442,7 +434,7 @@ export default function FeatureArticlePage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「那須温泉 大丸温泉旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -496,9 +488,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-tochigi-yunishigawa-onsen-heike-irori-snow-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -519,7 +509,7 @@ export default function FeatureArticlePage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（那須高原・茶臼岳の山岳紅葉ロープウェイ＆殺生石）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/nagasaki/"

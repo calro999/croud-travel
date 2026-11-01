@@ -418,7 +418,7 @@ export default function KyushuTravelNightsPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>由布岳の麓通りにある小さな湯宿 -盆地の傍 静かな暮らしを‐ 古道具屋、古着屋、図書室、茶室を備える</p>
                   <p><strong>【所在地・アクセス】</strong>〒 大分県由布市湯布院町川上2490 ／ 最寄り駅：由布院 ／ 交通案内：由布院駅より車で５分／湯布院ＩＣから１０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
+                  <p>【九州旅行 何泊必要？：2泊3日・3泊4日の費用＆福岡】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>由布院温泉　旅館光の家の滞在ポイント：</strong>「九州旅行 何泊必要？エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」

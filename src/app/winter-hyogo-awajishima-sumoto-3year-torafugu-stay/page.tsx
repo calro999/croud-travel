@@ -359,10 +359,8 @@ export default function AwajishimaWinterPage() {
 
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
-          <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-sky-800" />
-            目次・インデックス
-          </h2>
+          <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-sky-800" />
+            目次・インデックス｜淡路島洲本温泉で過ごす冬の旅（11・12月）</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#fugu-legend" className="hover:text-sky-800 hover:underline flex items-center gap-1.5">
               <span>1. なぜ「3年」なのか？鳴門海峡の激流と淡路島3年とらふぐの秘密</span>
@@ -649,9 +647,7 @@ export default function AwajishimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜淡路島洲本温泉で過ごす冬の旅（11・12月）</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -723,7 +719,7 @@ export default function AwajishimaWinterPage() {
               className="bg-sky-900/80 hover:bg-sky-900 p-4 rounded-2xl transition border border-sky-800/50 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-sky-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
+              <h3 className="text-sm font-bold group-hover:text-sky-200 transition">全国の厳選温泉・宿特集まとめを見る（淡路島洲本温泉で過ごす冬の旅（11・12月））</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-hyogo-awajishima-sumoto-3year-torafugu-stay" />

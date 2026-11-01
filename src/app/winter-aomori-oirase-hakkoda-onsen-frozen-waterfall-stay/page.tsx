@@ -581,7 +581,7 @@ export default function OiraseOnsenWinterPage() {
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
+              <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・宿特集まとめを見る（奥入瀬渓流温泉と八甲田山樹氷で過ごす冬の旅（11・1）</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay" />

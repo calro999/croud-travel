@@ -142,7 +142,7 @@ export default function Page() {
               山形県を代表する景勝地・温泉地である鶴岡・羽黒山・湯野浜温泉は、秋の訪れとともに最も華やかで風情あふれる季節を迎えます。
               澄み渡る秋空の下、木々が鮮やかなグラデーションに包まれ、雄大な自然美と歴史情緒が旅人の心を深く魅了します。
             </p>
-            <p>
+            <p>【羽黒山杉並木紅葉と湯野浜温泉の夕日】 
               この時期は気候も穏やかで、散策やアクティビティ、そして冷え込む朝夕の温泉浴にまさに最高のコンディション。
               さらに秋は収穫の季節であり、地元の旬の恵みをふんだんに使った会席料理や名物グルメが食卓を彩ります。
             </p>
@@ -150,8 +150,8 @@ export default function Page() {
               <div className="font-bold text-amber-900">✨ 秋旅行のハイライトポイント</div>
               <ul className="list-disc list-inside text-stone-700 text-xs sm:text-sm space-y-1">
                 <li><strong>紅葉の見頃ピーク：</strong> 10月中旬〜11月下旬（羽黒山の石段杉並木紅葉と日本海の秋夕日、新米・秋の日本海海鮮）</li>
-                <li><strong>秋の味覚：</strong> 新米、旬の海鮮・ブランド牛、秋野菜や地酒の贅沢なマリアージュ</li>
-                <li><strong>温泉の贅沢：</strong> 澄んだ空気と秋風を感じる露天風呂で心身を解きほぐす至福のひととき</li>
+                <li><strong>秋の味覚：</strong> 新米、旬の海鮮・ブランド牛、秋野菜や地酒の贅沢なマリアージュ（羽黒山杉並木紅葉と湯野浜温泉の夕日）</li>
+                <li><strong>温泉の贅沢：</strong> 澄んだ空気と秋風を感じる露天風呂で心身を解きほぐす至福のひととき（羽黒山杉並木紅葉と湯野浜温泉の夕日）</li>
               </ul>
             </div>
           </div>
@@ -167,15 +167,15 @@ export default function Page() {
             <div className="border-l-2 border-amber-400 pl-4 sm:pl-6 space-y-6">
               <div>
                 <span className="bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-1 rounded">1日目：絶景散策と夕暮れの湯浴み</span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mt-2">紅葉名所巡りと名湯チェックイン</h3>
-                <p className="text-stone-600 text-xs sm:text-sm mt-1 leading-relaxed">
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mt-2">紅葉名所巡りと名湯チェックイン（羽黒山杉並木紅葉と湯野浜温泉の夕日）</h3>
+                <p className="text-stone-600 text-xs sm:text-sm mt-1 leading-relaxed">【羽黒山杉並木紅葉と湯野浜温泉の夕日】 
                   午前中に現地へ到着。秋色に染まる代表的な絶景スポットを散策し、ランチには地元名物グルメを堪能。午後は温泉街の散策やお土産選びを楽しみ、早めにお宿へチェックイン。夕暮れに染まる景色を眺めながら露天風呂で旅の疲れを癒やします。
                 </p>
               </div>
               <div>
                 <span className="bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-1 rounded">2日目：清々しい朝風呂と旬の味覚探訪</span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mt-2">朝の澄んだ空気と産直ショッピング</h3>
-                <p className="text-stone-600 text-xs sm:text-sm mt-1 leading-relaxed">
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mt-2">朝の澄んだ空気と産直ショッピング（羽黒山杉並木紅葉と湯野浜温泉の夕日）</h3>
+                <p className="text-stone-600 text-xs sm:text-sm mt-1 leading-relaxed">【羽黒山杉並木紅葉と湯野浜温泉の夕日】 
                   小鳥のさえずりと澄んだ空気の中で目覚めの朝風呂。地元食材をたっぷり使った朝食を味わった後は、近隣の景勝地や産直市場に立ち寄り、採れたての秋の味覚や伝統工芸品をお買い物。思い出いっぱいの帰路へ。
                 </p>
               </div>
@@ -187,10 +187,8 @@ export default function Page() {
         <section className="space-y-10">
           <div className="border-b border-stone-300 pb-4">
             <span className="text-xs font-bold uppercase tracking-wider text-amber-600">Rakuten Travel &amp; Furusato Tax</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">
-              楽天トラベル＆ふるさと納税で泊まる！厳選おすすめ宿3選
-            </h2>
-            <p className="text-stone-600 text-sm mt-2">
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">楽天トラベル＆ふるさと納税で泊まる！厳選おすすめ宿3選｜羽黒山杉並木紅葉と湯野浜温泉の夕日</h2>
+            <p className="text-stone-600 text-sm mt-2">【羽黒山杉並木紅葉と湯野浜温泉の夕日】 
               高評価の口コミを獲得し、ふるさと納税トラベルクーポンの対象となっている名宿を厳選紹介。
             </p>
           </div>
@@ -361,12 +359,10 @@ export default function Page() {
 
         {/* Furusato Guide */}
         <section className="bg-gradient-to-br from-amber-500/10 via-orange-500/5 to-amber-500/10 rounded-2xl p-6 sm:p-10 border border-amber-200/60 shadow-sm">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-3 border-b border-amber-200/80 pb-4">
-            <span className="text-2xl">💡</span>
-            楽天ふるさと納税トラベルクーポンの賢い使い方
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-3 border-b border-amber-200/80 pb-4"><span className="text-2xl">💡</span>
+            楽天ふるさと納税トラベルクーポンの賢い使い方｜羽黒山杉並木紅葉と湯野浜温泉の夕日</h2>
           <div className="space-y-6 text-stone-700 text-sm sm:text-base leading-relaxed">
-            <p>
+            <p>【羽黒山杉並木紅葉と湯野浜温泉の夕日】 
               ふるさと納税の返礼品として提供されている「楽天トラベルクーポン」を利用すれば、実質自己負担2,000円で寄附額の最大30%相当が宿泊料金から直接割引されます。
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 my-6">
@@ -386,7 +382,7 @@ export default function Page() {
                 <div className="text-stone-500 text-xs">楽天トラベルで対象宿の予約時にクーポンを適用して割引完了</div>
               </div>
             </div>
-            <p className="text-xs sm:text-sm text-stone-600">
+            <p className="text-xs sm:text-sm text-stone-600">【羽黒山杉並木紅葉と湯野浜温泉の夕日】 
               ※楽天スーパーSALEやお買い物マラソン等の買いまわりイベント期間中に寄附を行うと、楽天ポイント還元率が大幅にアップしてさらにお得です。
             </p>
           </div>
@@ -394,26 +390,24 @@ export default function Page() {
 
         {/* FAQ */}
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-stone-200/80">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-3 border-b border-stone-200 pb-4">
-            <span className="text-2xl">❓</span>
-            よくある質問（FAQ）
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-3 border-b border-stone-200 pb-4"><span className="text-2xl">❓</span>
+            よくある質問（FAQ）｜羽黒山杉並木紅葉と湯野浜温泉の夕日</h2>
           <div className="space-y-6 text-stone-700 text-sm sm:text-base">
             <div className="border-b border-stone-100 pb-4">
-              <h3 className="font-bold text-stone-900 mb-2">Q. 10月〜11月の紅葉や混雑の状況は？</h3>
+              <h3 className="font-bold text-stone-900 mb-2">Q. 10月〜11月の紅葉や混雑の状況は？（羽黒山杉並木紅葉と湯野浜温泉の夕日）</h3>
               <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">
                 紅葉の見頃ピーク（10月中旬〜11月下旬（羽黒山の石段杉並木紅葉と日本海の秋夕日、新米・秋の日本海海鮮））は週末を中心に観光客で賑わいます。ゆっくり散策や温泉を楽しみたい方は平日の宿泊や、早朝の観光スポット訪問がおすすめです。
               </p>
             </div>
             <div className="border-b border-stone-100 pb-4">
-              <h3 className="font-bold text-stone-900 mb-2">Q. クーポンを利用した予約のキャンセル規定はどうなっていますか？</h3>
-              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">
+              <h3 className="font-bold text-stone-900 mb-2">Q. クーポンを利用した予約のキャンセル規定はどうなっていますか？（羽黒山杉並木紅葉と湯野浜温泉の夕日）</h3>
+              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">【羽黒山杉並木紅葉と湯野浜温泉の夕日】 
                 通常の楽天トラベルのキャンセル規定に準じます。期限内であればキャンセル時にクーポンは返還され、有効期限内であれば別の予約で再利用可能です。
               </p>
             </div>
             <div>
-              <h3 className="font-bold text-stone-900 mb-2">Q. ふるさと納税クーポンとポイントは併用できますか？</h3>
-              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">
+              <h3 className="font-bold text-stone-900 mb-2">Q. ふるさと納税クーポンとポイントは併用できますか？（羽黒山杉並木紅葉と湯野浜温泉の夕日）</h3>
+              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">【羽黒山杉並木紅葉と湯野浜温泉の夕日】 
                 はい、楽天ふるさと納税トラベルクーポンと通常の楽天ポイントは同時に併用して利用いただけます。
               </p>
             </div>
@@ -529,7 +523,7 @@ export default function Page() {
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>客室露天付き絶景スイートルーム♪ 『食の都・庄内』で旬の美味と絶景の夕日に心癒される宿</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山形県鶴岡市湯野浜1-8-7 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【羽黒山杉並木紅葉と湯野浜温泉の夕日】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>湯野浜温泉　游水亭　いさごやの滞在ポイント：</strong>「羽黒山杉並木紅葉と湯野浜温泉の夕日！秋の庄内味覚（新米つや姫・寒鱈・庄内豚）と開運温泉旅エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
@@ -573,7 +567,7 @@ export default function Page() {
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>〈空室ございます〉湯野浜海水浴場まで徒歩1分！リーズナブルで海の幸と温泉を満喫♪</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山形県鶴岡市湯野浜1-12-31 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【羽黒山杉並木紅葉と湯野浜温泉の夕日】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>湯野浜温泉　源泉付客室　浜泉荘の滞在ポイント：</strong>「羽黒山杉並木紅葉と湯野浜温泉の夕日！秋の庄内味覚（新米つや姫・寒鱈・庄内豚）と開運温泉旅エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
@@ -593,32 +587,32 @@ export default function Page() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">宝珠山 立石寺（山寺）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">松尾芭蕉が「閑さや岩にしみ入る蝉の声」と詠んだことで名高い名刹。1015段の石段を登りきった五大堂からは、山形の大自然と里山を一望する壮大な絶景が広がります。</p>
+                <h3 className="text-base font-bold text-stone-900">宝珠山 立石寺（山寺）（羽黒山杉並木紅葉と湯野浜温泉の夕日）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【羽黒山杉並木紅葉と湯野浜温泉の夕日】 松尾芭蕉が「閑さや岩にしみ入る蝉の声」と詠んだことで名高い名刹。1015段の石段を登りきった五大堂からは、山形の大自然と里山を一望する壮大な絶景が広がります。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Evening_twilight_in_Ginzan_Onsen_town_January_2022_A.jpg/1280px-Evening_twilight_in_Ginzan_Onsen_town_January_2022_A.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="銀山温泉" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">銀山温泉</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">銀山川の両岸に木造多層の温泉旅館が立ち並ぶ、大正ロマンあふれる温泉街。夕暮れ時にガス灯の温かな光が雪景色や大正建築を照らし出す風景は感動的です。 銀山温泉（ぎんざんおんせん）は、山形県尾花沢市（旧国出羽国、明治以降は羽前国）にある温泉である。 NHK連続テレビ小説『おしん』の舞台となったことで一躍脚光を浴び、全国的にその名を知られることになった。…</p>
+                <h3 className="text-base font-bold text-stone-900">銀山温泉（羽黒山杉並木紅葉と湯野浜温泉の夕日）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【羽黒山杉並木紅葉と湯野浜温泉の夕日】 銀山川の両岸に木造多層の温泉旅館が立ち並ぶ、大正ロマンあふれる温泉街。夕暮れ時にガス灯の温かな光が雪景色や大正建築を照らし出す風景は感動的です。 銀山温泉（ぎんざんおんせん）は、山形県尾花沢市（旧国出羽国、明治以降は羽前国）にある温泉である。 NHK連続テレビ小説『おしん』の舞台となったことで一躍脚光を浴び、全国的にその名を知られることになった。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Zaou_Gongen_Circumstancial_appearance_of_Mount_Yoshino.jpg/1280px-Zaou_Gongen_Circumstancial_appearance_of_Mount_Yoshino.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="蔵王の樹氷" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">蔵王の樹氷</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">冬の蔵王連峰で見られる自然の芸術「アイスモンスター」。アオモリトドマツに雪と氷が吹き付けられて巨大化した樹氷群を、ロープウェイやナイターライトアップで楽しめます。 蔵王、藏王（ざ-おう） 読みとしては、「蔵王」の本来の読み、旧仮名づかい「ざう-わう(ぞう-おう)」（音読み）が連声化したもの。 修験道の神である蔵王権現のこと。日本各地にみられる「蔵王」という名称は、後述の地名を含め、その大半が蔵王権現（奈良県吉野の発祥）に由来している（蔵王権現を参照）。 上述の蔵王権現を祭っている神社（蔵王権現社、御嶽神社（御岳神社）、…</p>
+                <h3 className="text-base font-bold text-stone-900">蔵王の樹氷（羽黒山杉並木紅葉と湯野浜温泉の夕日）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【羽黒山杉並木紅葉と湯野浜温泉の夕日】 冬の蔵王連峰で見られる自然の芸術「アイスモンスター」。アオモリトドマツに雪と氷が吹き付けられて巨大化した樹氷群を、ロープウェイやナイターライトアップで楽しめます。 蔵王、藏王（ざ-おう） 読みとしては、「蔵王」の本来の読み、旧仮名づかい「ざう-わう(ぞう-おう)」（音読み）が連声化したもの。 修験道の神である蔵王権現のこと。日本各地にみられる「蔵王」という名称は、後述の地名を含め、その大半が蔵王権現（奈良県吉野の発祥）に由来している（蔵王権現を参照）。 上述の蔵王権現を祭っている神社（蔵王権現社、御嶽神社（御岳神社）、…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">羽黒山 三重塔</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">出羽三山神社への参道杉木立の中に佇む、東北最古の国宝木造塔。樹齢数百年の巨大な老杉に囲まれた静寂な空間は、強いパワースポットとして知られています。</p>
+                <h3 className="text-base font-bold text-stone-900">羽黒山 三重塔（羽黒山杉並木紅葉と湯野浜温泉の夕日）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【羽黒山杉並木紅葉と湯野浜温泉の夕日】 出羽三山神社への参道杉木立の中に佇む、東北最古の国宝木造塔。樹齢数百年の巨大な老杉に囲まれた静寂な空間は、強いパワースポットとして知られています。</p>
               </div>
             </div>
             </div>
@@ -645,7 +639,7 @@ export default function Page() {
             <Link href="/features/" className="hover:text-white">特集一覧</Link>
             <Link href="/privacy/" className="hover:text-white">プライバシーポリシー</Link>
           </div>
-          <p>© 2026 クラウドトラベル (croud-travel.pages.dev) All Rights Reserved.</p>
+          <p>【羽黒山杉並木紅葉と湯野浜温泉の夕日】 © 2026 クラウドトラベル (croud-travel.pages.dev) All Rights Reserved.</p>
         </div>
       </footer>
     

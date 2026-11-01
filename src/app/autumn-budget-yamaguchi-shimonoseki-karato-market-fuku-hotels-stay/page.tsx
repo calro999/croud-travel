@@ -534,7 +534,7 @@ export default function AutumnBudgetFeaturePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>目の前は関門海峡☆徒歩圏内に唐戸市場、海響館と便利です♪</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山口県下関市南部町31-2 ／ 最寄り駅：下関 ／ 交通案内：ＪＲ下関から車で５分、ＪＲ門司港駅横から船で５分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
+                  <p>【下関：唐戸市場の秋ふく・海鮮握り＆関門海峡絶景】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「唐戸市場に近く、豪華で綺麗な空間綺麗で豪華なホテルでした。唐戸市場にも近くて満足です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hot…　2026-09-05 18:36:56投稿」

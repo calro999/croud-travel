@@ -506,7 +506,7 @@ export default function AutumnBudgetSagaHotelsPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>佐賀県唯一のシティホテル。歴史とモダンが調和する上質なひとときを。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 佐賀県佐賀市与賀町1-2 ／ 最寄り駅：佐賀 ／ 交通案内：JR佐賀駅より車にて8分、空港バス利用～県庁前バス停下車～徒歩にて約10分、佐賀空港より車にて20分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
+                  <p>【佐賀：アジア最大級バルーンフェスタと呼子イカ・佐賀牛】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.26 ／ 部屋 ★4.11 ／ 設備 ★4.08 ／ 風呂 ★3.99 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「広くて清潔な部屋と丁寧な接客に大満足素泊まりで利用させていただきました。お部屋は広くて清潔感があり、とても快適に過ごすことができました。また、フロントのスタッフの方々も非常に丁寧で親切にご対応…　2026-10-10 10:13:34投稿」

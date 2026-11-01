@@ -359,10 +359,8 @@ export default function AwaraWinterPage() {
 
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
-          <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-amber-800" />
-            目次・インデックス
-          </h2>
+          <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-800" />
+            目次・インデックス｜あわら温泉で過ごす冬の旅（11・12月）</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#spring-feature" className="hover:text-amber-800 hover:underline flex items-center gap-1.5">
               <span>1. あわら温泉の魅力：74本の独自源泉と「関西の奥座敷」の風情</span>
@@ -655,9 +653,7 @@ export default function AwaraWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜あわら温泉で過ごす冬の旅（11・12月）</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -729,7 +725,7 @@ export default function AwaraWinterPage() {
               className="bg-amber-900/80 hover:bg-amber-900 p-4 rounded-2xl transition border border-amber-800/50 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-amber-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
+              <h3 className="text-sm font-bold group-hover:text-amber-200 transition">全国の厳選温泉・宿特集まとめを見る（あわら温泉で過ごす冬の旅（11・12月））</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-fukui-awara-onsen-echizen-crab-stay" />

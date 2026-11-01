@@ -1,5 +1,5 @@
 ---
-title: "発酵食腸活ができる温泉宿おすすめ10選"
+title: "【2026最新】自家製味噌・麹・ぬか床！発酵食＆美腸腸活ホテルおすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/fermentation-gut-health-cuisine-onsen-hotels-guide/"
 hotel_name: "自家製味噌・麹・ぬか床！発酵食＆美腸腸活ホテルおすすめ10選"
 prefecture: "全国"
@@ -9,7 +9,7 @@ rating: 4.98
 last_modified: "2026-10-13"
 ---
 
-# 発酵食腸活ができる温泉宿おすすめ10選
+# 【2026最新】自家製味噌・麹・ぬか床！発酵食＆美腸腸活ホテルおすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/fermentation-gut-health-cuisine-onsen-hotels-guide/
 - **宿泊施設・特集名**: 自家製味噌・麹・ぬか床！発酵食＆美腸腸活ホテルおすすめ10選

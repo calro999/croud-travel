@@ -1,5 +1,5 @@
 ---
-title: "川サウナの宿人気おすすめ10選！名湯比較"
+title: "【2026最新】川サウナの宿・清流天然水風呂ダイブ大自然温泉リゾートおすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/river-sauna-stream-dive-nature-onsen-hotels-guide/"
 hotel_name: "川サウナの宿・清流天然水風呂ダイブ大自然温泉リゾートおすすめ10選"
 prefecture: "全国"
@@ -10,7 +10,7 @@ review_count: 492
 last_modified: "2026-10-13"
 ---
 
-# 川サウナの宿人気おすすめ10選！名湯比較
+# 【2026最新】川サウナの宿・清流天然水風呂ダイブ大自然温泉リゾートおすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/river-sauna-stream-dive-nature-onsen-hotels-guide/
 - **宿泊施設・特集名**: 川サウナの宿・清流天然水風呂ダイブ大自然温泉リゾートおすすめ10選

@@ -453,7 +453,7 @@ export default function ToyamaBudgetAutumnPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「秋の富山×格安（立山連峰の三段紅葉と富山湾の白えび・紅ズワイガニ）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：市内路面電車「南富山駅前」行で約5分、桜橋電停下車すぐ（ＪＲ富山駅より徒歩１０分）／富山ＩＣより車で１５分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【秋の富山×格安：立山連峰の三段紅葉と富山湾の白えび・】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から徒歩圏内、朝食と大浴場に満足駅から少し歩くが徒歩圏内。朝食が美味しく、生卵がまだおいてるよいホテル。大浴場もよい。フロントの方々も、他の全国チェーンホテルより質が高い。富山の定宿クチコミ…　2026-09-19 15:48:46投稿」
@@ -475,7 +475,7 @@ export default function ToyamaBudgetAutumnPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「秋の富山×格安（立山連峰の三段紅葉と富山湾の白えび・紅ズワイガニ）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR富山駅より環状線セントラムで国際会議場前電停下車徒歩2分／富山空港から路線バスで「総曲輪」バス停下車すぐ</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【秋の富山×格安：立山連峰の三段紅葉と富山湾の白えび・】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「5/11(月)に宿泊しました。ビジネスで利用し、私含めて3名3室利用の滞在でした。部屋は清掃が行き届いていて少し狭いながらも快適でした。夜鳴きそば/ラーメン や、大浴室前のアイス食べ放題は温泉上がりに…　2026-09-05 16:28:07投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=39202&quot; class=&quot;3click」

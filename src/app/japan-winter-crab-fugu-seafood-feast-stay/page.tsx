@@ -330,7 +330,7 @@ export default function GourmetCuisineHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【美肌効果】で湯上がり時には肌もしっとり。心ゆくまでゆっくりとお寛ぎ下さいませ。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 富山県中新川郡上市町湯上野1 ／ 最寄り駅：上市 ／ 交通案内：立山ICより10分。上市駅より車にて7分。アルペンルート立山駅、宇奈月トロッコまで各50分。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
+                  <p>【冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★3.99 ／ 部屋 ★4.05 ／ 設備 ★3.88 ／ 風呂 ★4.11 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と日本のおもてなしに大満足広くて静かで、落ち着いた宿泊ができました。線状降水帯のためずっと雨で立山連峰は望めませんでしたが、晴れていれば綺麗に眺められたことでしょう。スタ…　2026-10-10 15:08:36投稿」
@@ -374,7 +374,7 @@ export default function GourmetCuisineHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「冬の四大味覚極上宿（松葉ガニ・越前ガニ・下関とらふぐ・寒ブリ 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ　下関駅より徒歩にて3分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「ふく料理と骨酒が最高、お風呂も充実朝夕共にお食事がふく料理でとっても美味しかったです。お酒の種類も色々あり選ぶ楽しみもあります。ふくの骨酒最高でした!貸切風呂や食事で宿を決めたい方に是非泊まってほ…　2026-09-18 22:59:10投稿」
@@ -440,7 +440,7 @@ export default function GourmetCuisineHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>黒部峡谷や立山黒部アルペンルートの観光の拠点にぴったり！黒部川の眺望抜群♪貸切露天風呂の宿</p>
                   <p><strong>【所在地・アクセス】</strong>〒 富山県黒部市宇奈月温泉22-1 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：富山地方鉄道「宇奈月温泉駅」より徒歩５分。北陸HW黒部ＩＣより２０分。立山・黒部アルペンルート立山駅まで約８０分。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
+                  <p>【冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.47 ／ 部屋 ★4.34 ／ 設備 ★4.27 ／ 風呂 ★4.37 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満腹、24時間入れる熱めのお風呂お料理に重点を置いたホテル 夕朝食共にお腹いっぱいになりましたお風呂は24時間入れるところが良かった(男女入れ替え清掃時間有り)温度は熱めクチコミ…　2026-09-24 11:46:32投稿」
@@ -460,8 +460,8 @@ export default function GourmetCuisineHubPage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Japan_Tojinbo02n4592.jpg/1280px-Japan_Tojinbo02n4592.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="福井県立恐竜博物館" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">福井県立恐竜博物館</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">世界三大恐竜博物館の一つに数えられる世界最大級の恐竜専門博物館。44体もの恐竜全身骨格や迫力満点の動く実物大恐竜ロボットが展示されています。 福井県（ふくいけん）は、日本の中部地方（北陸地方）に位置する県。行政管轄区分において近畿地方に包括される場合もある。令制国の越前国と若狭国に相当する。県庁所在地は福井市。 北陸地方の最西端に位置しており、同地方で最も人口が少ない県である。…</p>
+                <h3 className="text-base font-bold text-stone-900">福井県立恐竜博物館（冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ】 世界三大恐竜博物館の一つに数えられる世界最大級の恐竜専門博物館。44体もの恐竜全身骨格や迫力満点の動く実物大恐竜ロボットが展示されています。 福井県（ふくいけん）は、日本の中部地方（北陸地方）に位置する県。行政管轄区分において近畿地方に包括される場合もある。令制国の越前国と若狭国に相当する。県庁所在地は福井市。 北陸地方の最西端に位置しており、同地方で最も人口が少ない県である。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -469,23 +469,23 @@ export default function GourmetCuisineHubPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
                 <h3 className="text-base font-bold text-stone-900">東尋坊</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本海の荒波によって削られた断崖絶壁が約1km続く国の天然記念物。柱状節理という世界的に珍しい奇岩の崖の上から見下ろす波はスリル満点です。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ】 日本海の荒波によって削られた断崖絶壁が約1km続く国の天然記念物。柱状節理という世界的に珍しい奇岩の崖の上から見下ろす波はスリル満点です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">大本山 永平寺</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">道元禅師によって開かれた曹洞宗の大本山。樹齢数百年の老杉に囲まれた静寂な境内に大小70余りの堂宇が廊下で結ばれ、厳かな修行の息吹が漂います。</p>
+                <h3 className="text-base font-bold text-stone-900">大本山 永平寺（冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ】 道元禅師によって開かれた曹洞宗の大本山。樹齢数百年の老杉に囲まれた静寂な境内に大小70余りの堂宇が廊下で結ばれ、厳かな修行の息吹が漂います。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">三方五湖（レインボーライン）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">淡水・半塩水・海水と水質や水深が異なる5つの湖。山頂公園へ向かうレインボーライン山頂公園からは「五色の湖」と日本海の360度パノラマを楽しめます。</p>
+                <h3 className="text-base font-bold text-stone-900">三方五湖（レインボーライン）（冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ】 淡水・半塩水・海水と水質や水深が異なる5つの湖。山頂公園へ向かうレインボーライン山頂公園からは「五色の湖」と日本海の360度パノラマを楽しめます。</p>
               </div>
             </div>
             </div>

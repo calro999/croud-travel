@@ -409,7 +409,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>1つ1つ、独立した客室はまるで「家」！広々70平米以上の客室は大人数利用にもおすすめ♪</p>
                   <p><strong>【所在地・アクセス】</strong>〒 静岡県伊東市吉田839-91 ／ 最寄り駅：伊東 ／ 交通案内：東京方面：小田原厚木道小田原東ICより約90分／名古屋方面：東名沼津ICより約90分／伊豆急川奈駅より送迎有り（要予約）</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
+                  <p>【客室プライベートプール付きオールスイートヴィラ：沖縄】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「写真と異なり設備が古く虫も多い19人と犬2匹なので犬オッケーの部屋2部屋と普通の部屋1部屋借りました。写真はキレイな部屋だったので、ここにしましたが、到着してみると外観は昭和のボロアパートで中…　2026-08-26 13:14:53投稿」

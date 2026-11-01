@@ -396,7 +396,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>黒部峡谷や立山黒部アルペンルートの観光の拠点にぴったり！黒部川の眺望抜群♪貸切露天風呂の宿</p>
                   <p><strong>【所在地・アクセス】</strong>〒 富山県黒部市宇奈月温泉22-1 ／ 最寄り駅：宇奈月温泉 ／ 交通案内：富山地方鉄道「宇奈月温泉駅」より徒歩５分。北陸HW黒部ＩＣより２０分。立山・黒部アルペンルート立山駅まで約８０分。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
+                  <p>【富山・黒部宇奈月温泉：トロッコ電車・黒部峡谷断崖美＆】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.47 ／ 部屋 ★4.34 ／ 設備 ★4.27 ／ 風呂 ★4.37 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満腹、24時間入れる熱めのお風呂お料理に重点を置いたホテル 夕朝食共にお腹いっぱいになりましたお風呂は24時間入れるところが良かった(男女入れ替え清掃時間有り)温度は熱めクチコミ…　2026-09-24 11:46:32投稿」
@@ -418,7 +418,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>温泉街でも最も眺望の良い場所に立地し、源泉１００％の加温・加水無しの湯がお楽しみいただけます。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 富山県黒部市宇奈月温泉53 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【富山・黒部宇奈月温泉：トロッコ電車・黒部峡谷断崖美＆】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>宇奈月温泉の老舗旅館　延対寺荘の滞在ポイント：</strong>「富山・黒部宇奈月温泉エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
@@ -440,7 +440,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業115年。時代と逆行するおもてなしで、「いのちの洗濯」ができる宿。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 富山県黒部市生地吉田新230 ／ 最寄り駅：生地 ／ 交通案内：北陸自動車道「黒部インター」より車で20分／北陸新幹線「黒部宇奈月駅」・あいの風とやま鉄道「生地駅」から無料送迎あり／</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
+                  <p>【富山・黒部宇奈月温泉：トロッコ電車・黒部峡谷断崖美＆】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しく接客も良いが設備に難あり夕食は、とても美味しかったですお風呂のシャワーが、とても古い感じで、温度調整が、出来ません部屋の洗面所の排水が、悪くなかなか流れなかったです庭…　2026-08-11 19:27:18投稿」

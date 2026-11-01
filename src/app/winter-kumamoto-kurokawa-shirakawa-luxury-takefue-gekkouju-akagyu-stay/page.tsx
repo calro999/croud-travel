@@ -123,10 +123,8 @@ export default function LuxuryWinterFeaturePage() {
         
         {/* 導入解説 */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
-          <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-amber-600 shrink-0" />
-            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600 shrink-0" />
+            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>｜2026-2027年11-12月初冬の熊本・黒川温…</h2>
           <p className="text-xs md:text-sm text-slate-700 leading-relaxed whitespace-pre-line">
             阿蘇くじゅう国立公園の南麓、鬱蒼とした杉や雑木林の深い渓谷沿いに木造の湯宿が寄り添うように立ち並ぶ熊本県・南小国町。『黒川温泉郷』は、『街全体が一つの宿（宿は離れ、道は廊下、植木は庭）』という景観哲学のもと、日本で最も統一された風情ある景観を誇る全国屈指の温泉地です。この黒川温泉からさらに山奥へと分け入った白川温泉や小田温泉の一帯は、喧騒から完全に隔離された『全国の温泉愛好家が一生に一度は泊まりたいと切望する超高級離れ宿』が点在する聖地。その頂点に君臨するのが、数千坪の広大な竹林にわずか数室の離れのみを贅沢に配した『竹ふえ』や、阿蘇の峰々を望む全室露天付きヴィラ『月洸樹 黒川』など、1泊1名10万〜25万円を超える日本最高峰のプレミアム宿です。客室の扉を開けると、そこには優に十数人が入れるほどの巨大な専用露天風呂や内湯、足湯が備えられ、自家源泉の滑らかな美肌湯が24時間掛け流されています。初冬の11月から12月にかけては、温泉街で冬の風物詩である竹灯籠のライトアップ『湯あかり』が始まり、静まり返った渓流沿いに柔らかな竹の灯火が揺らめく光景は息を呑むほど幻想的。食事には、広大な阿蘇の大草原で放牧されヘルシーな赤身の旨味と濃厚なアミノ酸を蓄えた幻のブランド和牛『あか牛（褐毛和種）』の極上フィレ肉炭火焼き。人目を一切気にすることのない完全プライベート空間で、雪をまとった阿蘇外輪山と静寂の竹林を眺めながら過ごす夜は、これまでの旅行体験のすべてを塗り替える究極のラグジュアリー体験となります。
           </p>
@@ -560,10 +558,8 @@ export default function LuxuryWinterFeaturePage() {
 
         {/* アクセス＆見頃情報 */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300">
-            <Train className="w-5 h-5 shrink-0" />
-            <span>アクセスガイド・気候と服装のポイント</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300"><Train className="w-5 h-5 shrink-0" />
+            <span>アクセスガイド・気候と服装のポイント</span>｜2026-2027年11-12月初冬の熊本・黒川温…</h2>
           <div className="text-xs md:text-sm text-slate-300 leading-relaxed whitespace-pre-line">
             【エリアへのアクセス】
 ・飛行機・熊本空港から：阿蘇くじゅう観光バスまたは九州産交バス「やまびこ号」「九州横断バス」で黒川温泉まで直通約2時間。空港からレンタカー利用ならミルクロード経由で約1時間20分。
@@ -580,10 +576,8 @@ export default function LuxuryWinterFeaturePage() {
 
         {/* よくある質問 (FAQ) */}
         <section className="bg-slate-100 rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2">
-            <ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
-            <span>よくある質問（FAQ）</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
+            <span>よくある質問（FAQ）</span>｜2026-2027年11-12月初冬の熊本・黒川温…</h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
             <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
@@ -617,9 +611,7 @@ export default function LuxuryWinterFeaturePage() {
 
         {/* ふるさと納税・関連リンク */}
         <section className="bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 rounded-2xl p-6 md:p-8 space-y-3 text-center">
-          <h2 className="text-xl md:text-2xl font-black">
-            楽天トラベル ふるさと納税で最大30%お得に予約！
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！｜2026-2027年11-12月初冬の熊本・黒川温…</h2>
           <p className="text-xs md:text-sm max-w-xl mx-auto font-medium">
             高価格帯の高級宿だからこそ、楽天トラベルふるさと納税クーポンの割引効果は絶大。実質2,000円の自己負担で憧れのスイートルームに宿泊できます。
           </p>

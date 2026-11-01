@@ -409,7 +409,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>四国最南端、あしずり温泉郷にあって果てしなく広がる真っ青な大空と紺碧の太平洋がお出迎え致します。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 高知県土佐清水市足摺岬662 ／ 最寄り駅：主要駅 ／ 交通案内：高知自動車道四万十町中央ICより国道56号線経由で140分／土佐くろしお鉄道中村駅よりバス100分、タクシー60分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【高知・四万十川＆沈下橋・足摺岬：日本最後の清流カヌー】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と眺望は最高、お風呂は熱すぎて...海の見えるベッドのお部屋が満室、高齢者を連れて和室は少々不安もありながらの予約。しかしエレベーター降りてすぐの部屋で助かったのと、畳も綺麗で清潔感があり、掃…　2026-09-01 23:42:41投稿」

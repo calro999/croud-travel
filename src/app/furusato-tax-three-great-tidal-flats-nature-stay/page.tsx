@@ -232,10 +232,8 @@ export default function Page() {
         {/* 厳選ホテルリスト */}
         <section className="space-y-10">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">
-              楽天ふるさと納税で泊まる名宿＆厳選ホテル
-            </h2>
-            <p className="text-xs md:text-sm text-slate-500">
+            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル｜日本三大干潟＆野鳥と海の満ち引きパノラマ・絶景海鮮シ</h2>
+            <p className="text-xs md:text-sm text-slate-500">【日本三大干潟＆野鳥と海の満ち引きパノラマ・絶景海鮮シ】 
               楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
             </p>
           </div>
@@ -331,10 +329,8 @@ export default function Page() {
         {/* 楽天ふるさと納税トラベル利用ステップ */}
         <section className="bg-gradient-to-br from-slate-900 to-emerald-950 text-white rounded-2xl p-6 md:p-8 space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-xl md:text-2xl font-bold">
-              楽天ふるさと納税×楽天トラベル 簡単3ステップ
-            </h2>
-            <p className="text-xs md:text-sm text-slate-300">
+            <h2 className="text-xl md:text-2xl font-bold">楽天ふるさと納税×楽天トラベル 簡単3ステップ｜日本三大干潟＆野鳥と海の満ち引きパノラマ・絶景海鮮シ</h2>
+            <p className="text-xs md:text-sm text-slate-300">【日本三大干潟＆野鳥と海の満ち引きパノラマ・絶景海鮮シ】 
               実質2,000円の自己負担で憧れの高級宿・温泉旅館をお得に予約できます
             </p>
           </div>
@@ -344,8 +340,8 @@ export default function Page() {
               <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
                 1
               </div>
-              <h3 className="font-bold text-sm text-white">自治体に寄付</h3>
-              <p className="text-xs leading-relaxed text-slate-300">
+              <h3 className="font-bold text-sm text-white">自治体に寄付（日本三大干潟＆野鳥と海の満ち引きパノラマ・絶景海鮮シ）</h3>
+              <p className="text-xs leading-relaxed text-slate-300">【日本三大干潟＆野鳥と海の満ち引きパノラマ・絶景海鮮シ】 
                 希望の自治体と寄付金額を選び、楽天ふるさと納税で寄付を行います。寄付額に応じたトラベルクーポンが即時付与されます。
               </p>
             </div>
@@ -354,8 +350,8 @@ export default function Page() {
               <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
                 2
               </div>
-              <h3 className="font-bold text-sm text-white">対象宿・プランを予約</h3>
-              <p className="text-xs leading-relaxed text-slate-300">
+              <h3 className="font-bold text-sm text-white">対象宿・プランを予約（日本三大干潟＆野鳥と海の満ち引きパノラマ・絶景海鮮シ）</h3>
+              <p className="text-xs leading-relaxed text-slate-300">【日本三大干潟＆野鳥と海の満ち引きパノラマ・絶景海鮮シ】 
                 楽天トラベルで対象地域の宿泊施設を検索。獲得したふるさと納税クーポンを予約ステップで適用します。
               </p>
             </div>
@@ -364,8 +360,8 @@ export default function Page() {
               <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
                 3
               </div>
-              <h3 className="font-bold text-sm text-white">現地で贅沢ステイ</h3>
-              <p className="text-xs leading-relaxed text-slate-300">
+              <h3 className="font-bold text-sm text-white">現地で贅沢ステイ（日本三大干潟＆野鳥と海の満ち引きパノラマ・絶景海鮮シ）</h3>
+              <p className="text-xs leading-relaxed text-slate-300">【日本三大干潟＆野鳥と海の満ち引きパノラマ・絶景海鮮シ】 
                 宿泊当日は通常通りチェックイン。割引されたお得な価格で、名湯や美食、絶景体験を満喫できます。
               </p>
             </div>
@@ -433,7 +429,7 @@ export default function Page() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（日本三大干潟＆野鳥と海の満ち引きパノラマ・絶景海鮮シ）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 肥前大浦駅よりアクセス。武雄北方ＩＣ車で６０分（４９８号線を鹿島方面に２０７号線を諫早方面に）・長崎本線肥前大浦駅より無料送迎有 要予約。</li>
@@ -445,7 +441,7 @@ export default function Page() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（日本三大干潟＆野鳥と海の満ち引きパノラマ・絶景海鮮シ）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「太良嶽温泉ホテル 蟹御殿」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -499,9 +495,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜日本三大干潟＆野鳥と海の満ち引きパノラマ・絶景海鮮シ</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-chichibu-nagatoro-line-kudari-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -522,7 +516,7 @@ export default function Page() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（日本三大干潟＆野鳥と海の満ち引きパノラマ・絶景海鮮シ）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/saitama/"
@@ -556,7 +550,7 @@ export default function Page() {
 
       {/* フッター */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
-        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
+        <p>【日本三大干潟＆野鳥と海の満ち引きパノラマ・絶景海鮮シ】 © 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
     
       <HubRelatedPosts currentSlug="furusato-tax-three-great-tidal-flats-nature-stay" />

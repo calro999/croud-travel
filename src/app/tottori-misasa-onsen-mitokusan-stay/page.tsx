@@ -396,7 +396,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「鳥取・三朝温泉＆三徳山三仏寺（世界屈指のラジウム温泉・国宝投入堂宿 厳選ガイド）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR山陰本線-倉吉駅下車～バス20分／中国道-院庄ICよりＲ１７９号を倉吉方面に約50分/ANA羽田～鳥取～バス～倉吉</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【鳥取・三朝温泉＆三徳山三仏寺：世界屈指のラジウム温泉】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「重要文化財の佇まいと最高の泉質に感動重要文化財の宿の廊下を歩いてると、外を歩いてる人々がカメラにおさめてました。正面玄関カッちょいーです。なんといってもお風呂!洞窟みたいなお風呂もさること…　2026-09-05 22:04:24投稿」
@@ -440,7 +440,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉掛け流し天然温泉を大浴場や露天風呂で、冬の旬　松葉蟹など四季の食材による美食もご堪能ください。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 鳥取県東伯郡三朝町三朝886 ／ 最寄り駅：倉吉 ／ 交通案内：ＪＲ　倉吉駅より日ノ丸バス乗車後三朝温泉にて下車徒歩３分(倉吉駅への送迎は行っておりません）</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
+                  <p>【鳥取・三朝温泉＆三徳山三仏寺：世界屈指のラジウム温泉】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「個室での食事と貸切露天風呂に大満足今回で2回目の利用です。前回宿泊時には無かった食事会場は個室で周りを気にする事なく食事が出来てよかったです。もちろん食事も最高でした貸し切り露天風呂も雰囲気が…　2026-08-29 09:26:38投稿」

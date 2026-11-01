@@ -1,5 +1,5 @@
 ---
-title: "バーホテルおすすめ10選！ウイスキー宿比較"
+title: "【2026最新】バーホテル＆ウイスキー・クラフトカクテルが主役の大人の隠れ家宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/bar-hotel-whisky-cocktail-retreat-hotels-guide/"
 hotel_name: "バーホテル＆ウイスキー・クラフトカクテルが主役の大人の隠れ家宿おすすめ10選"
 prefecture: "全国"
@@ -9,7 +9,7 @@ rating: 4.98
 last_modified: "2026-10-13"
 ---
 
-# バーホテルおすすめ10選！ウイスキー宿比較
+# 【2026最新】バーホテル＆ウイスキー・クラフトカクテルが主役の大人の隠れ家宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/bar-hotel-whisky-cocktail-retreat-hotels-guide/
 - **宿泊施設・特集名**: バーホテル＆ウイスキー・クラフトカクテルが主役の大人の隠れ家宿おすすめ10選

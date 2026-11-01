@@ -142,7 +142,7 @@ export default function Page() {
               北海道を代表する景勝地・温泉地である弟子屈・川湯温泉・阿寒摩周国立公園は、秋の訪れとともに最も華やかで風情あふれる季節を迎えます。
               澄み渡る秋空の下、木々が鮮やかなグラデーションに包まれ、雄大な自然美と歴史情緒が旅人の心を深く魅了します。
             </p>
-            <p>
+            <p>【阿寒摩周の秋霧と屈斜路湖の紅葉】 
               この時期は気候も穏やかで、散策やアクティビティ、そして冷え込む朝夕の温泉浴にまさに最高のコンディション。
               さらに秋は収穫の季節であり、地元の旬の恵みをふんだんに使った会席料理や名物グルメが食卓を彩ります。
             </p>
@@ -150,8 +150,8 @@ export default function Page() {
               <div className="font-bold text-amber-900">✨ 秋旅行のハイライトポイント</div>
               <ul className="list-disc list-inside text-stone-700 text-xs sm:text-sm space-y-1">
                 <li><strong>紅葉の見頃ピーク：</strong> 10月上旬〜11月上旬（摩周湖・屈斜路湖の紅葉・硫黄山秋景色・秋サケ・新いくら・道東新米）</li>
-                <li><strong>秋の味覚：</strong> 新米、旬の海鮮・ブランド牛、秋野菜や地酒の贅沢なマリアージュ</li>
-                <li><strong>温泉の贅沢：</strong> 澄んだ空気と秋風を感じる露天風呂で心身を解きほぐす至福のひととき</li>
+                <li><strong>秋の味覚：</strong> 新米、旬の海鮮・ブランド牛、秋野菜や地酒の贅沢なマリアージュ（阿寒摩周の秋霧と屈斜路湖の紅葉）</li>
+                <li><strong>温泉の贅沢：</strong> 澄んだ空気と秋風を感じる露天風呂で心身を解きほぐす至福のひととき（阿寒摩周の秋霧と屈斜路湖の紅葉）</li>
               </ul>
             </div>
           </div>
@@ -167,15 +167,15 @@ export default function Page() {
             <div className="border-l-2 border-amber-400 pl-4 sm:pl-6 space-y-6">
               <div>
                 <span className="bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-1 rounded">1日目：絶景散策と夕暮れの湯浴み</span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mt-2">紅葉名所巡りと名湯チェックイン</h3>
-                <p className="text-stone-600 text-xs sm:text-sm mt-1 leading-relaxed">
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mt-2">紅葉名所巡りと名湯チェックイン（阿寒摩周の秋霧と屈斜路湖の紅葉）</h3>
+                <p className="text-stone-600 text-xs sm:text-sm mt-1 leading-relaxed">【阿寒摩周の秋霧と屈斜路湖の紅葉】 
                   午前中に現地へ到着。秋色に染まる代表的な絶景スポットを散策し、ランチには地元名物グルメを堪能。午後は温泉街の散策やお土産選びを楽しみ、早めにお宿へチェックイン。夕暮れに染まる景色を眺めながら露天風呂で旅の疲れを癒やします。
                 </p>
               </div>
               <div>
                 <span className="bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-1 rounded">2日目：清々しい朝風呂と旬の味覚探訪</span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mt-2">朝の澄んだ空気と産直ショッピング</h3>
-                <p className="text-stone-600 text-xs sm:text-sm mt-1 leading-relaxed">
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mt-2">朝の澄んだ空気と産直ショッピング（阿寒摩周の秋霧と屈斜路湖の紅葉）</h3>
+                <p className="text-stone-600 text-xs sm:text-sm mt-1 leading-relaxed">【阿寒摩周の秋霧と屈斜路湖の紅葉】 
                   小鳥のさえずりと澄んだ空気の中で目覚めの朝風呂。地元食材をたっぷり使った朝食を味わった後は、近隣の景勝地や産直市場に立ち寄り、採れたての秋の味覚や伝統工芸品をお買い物。思い出いっぱいの帰路へ。
                 </p>
               </div>
@@ -187,10 +187,8 @@ export default function Page() {
         <section className="space-y-10">
           <div className="border-b border-stone-300 pb-4">
             <span className="text-xs font-bold uppercase tracking-wider text-amber-600">Rakuten Travel &amp; Furusato Tax</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">
-              楽天トラベル＆ふるさと納税で泊まる！厳選おすすめ宿3選
-            </h2>
-            <p className="text-stone-600 text-sm mt-2">
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">楽天トラベル＆ふるさと納税で泊まる！厳選おすすめ宿3選｜阿寒摩周の秋霧と屈斜路湖の紅葉</h2>
+            <p className="text-stone-600 text-sm mt-2">【阿寒摩周の秋霧と屈斜路湖の紅葉】 
               高評価の口コミを獲得し、ふるさと納税トラベルクーポンの対象となっている名宿を厳選紹介。
             </p>
           </div>
@@ -361,12 +359,10 @@ export default function Page() {
 
         {/* Furusato Guide */}
         <section className="bg-gradient-to-br from-amber-500/10 via-orange-500/5 to-amber-500/10 rounded-2xl p-6 sm:p-10 border border-amber-200/60 shadow-sm">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-3 border-b border-amber-200/80 pb-4">
-            <span className="text-2xl">💡</span>
-            楽天ふるさと納税トラベルクーポンの賢い使い方
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-3 border-b border-amber-200/80 pb-4"><span className="text-2xl">💡</span>
+            楽天ふるさと納税トラベルクーポンの賢い使い方｜阿寒摩周の秋霧と屈斜路湖の紅葉</h2>
           <div className="space-y-6 text-stone-700 text-sm sm:text-base leading-relaxed">
-            <p>
+            <p>【阿寒摩周の秋霧と屈斜路湖の紅葉】 
               ふるさと納税の返礼品として提供されている「楽天トラベルクーポン」を利用すれば、実質自己負担2,000円で寄附額の最大30%相当が宿泊料金から直接割引されます。
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 my-6">
@@ -386,7 +382,7 @@ export default function Page() {
                 <div className="text-stone-500 text-xs">楽天トラベルで対象宿の予約時にクーポンを適用して割引完了</div>
               </div>
             </div>
-            <p className="text-xs sm:text-sm text-stone-600">
+            <p className="text-xs sm:text-sm text-stone-600">【阿寒摩周の秋霧と屈斜路湖の紅葉】 
               ※楽天スーパーSALEやお買い物マラソン等の買いまわりイベント期間中に寄附を行うと、楽天ポイント還元率が大幅にアップしてさらにお得です。
             </p>
           </div>
@@ -394,26 +390,24 @@ export default function Page() {
 
         {/* FAQ */}
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-stone-200/80">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-3 border-b border-stone-200 pb-4">
-            <span className="text-2xl">❓</span>
-            よくある質問（FAQ）
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-3 border-b border-stone-200 pb-4"><span className="text-2xl">❓</span>
+            よくある質問（FAQ）｜阿寒摩周の秋霧と屈斜路湖の紅葉</h2>
           <div className="space-y-6 text-stone-700 text-sm sm:text-base">
             <div className="border-b border-stone-100 pb-4">
-              <h3 className="font-bold text-stone-900 mb-2">Q. 10月〜11月の紅葉や混雑の状況は？</h3>
+              <h3 className="font-bold text-stone-900 mb-2">Q. 10月〜11月の紅葉や混雑の状況は？（阿寒摩周の秋霧と屈斜路湖の紅葉）</h3>
               <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">
                 紅葉の見頃ピーク（10月上旬〜11月上旬（摩周湖・屈斜路湖の紅葉・硫黄山秋景色・秋サケ・新いくら・道東新米））は週末を中心に観光客で賑わいます。ゆっくり散策や温泉を楽しみたい方は平日の宿泊や、早朝の観光スポット訪問がおすすめです。
               </p>
             </div>
             <div className="border-b border-stone-100 pb-4">
-              <h3 className="font-bold text-stone-900 mb-2">Q. クーポンを利用した予約のキャンセル規定はどうなっていますか？</h3>
-              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">
+              <h3 className="font-bold text-stone-900 mb-2">Q. クーポンを利用した予約のキャンセル規定はどうなっていますか？（阿寒摩周の秋霧と屈斜路湖の紅葉）</h3>
+              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">【阿寒摩周の秋霧と屈斜路湖の紅葉】 
                 通常の楽天トラベルのキャンセル規定に準じます。期限内であればキャンセル時にクーポンは返還され、有効期限内であれば別の予約で再利用可能です。
               </p>
             </div>
             <div>
-              <h3 className="font-bold text-stone-900 mb-2">Q. ふるさと納税クーポンとポイントは併用できますか？</h3>
-              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">
+              <h3 className="font-bold text-stone-900 mb-2">Q. ふるさと納税クーポンとポイントは併用できますか？（阿寒摩周の秋霧と屈斜路湖の紅葉）</h3>
+              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">【阿寒摩周の秋霧と屈斜路湖の紅葉】 
                 はい、楽天ふるさと納税トラベルクーポンと通常の楽天ポイントは同時に併用して利用いただけます。
               </p>
             </div>
@@ -529,7 +523,7 @@ export default function Page() {
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>H20年露天風呂をリニューアル！川湯の温泉が3種類の温度で楽しめます。強酸性のお湯でお肌すべすべに！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 北海道川上郡弟子屈町川湯温泉1-2-30 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【阿寒摩周の秋霧と屈斜路湖の紅葉】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>川湯温泉　川湯観光ホテルの滞在ポイント：</strong>「阿寒摩周の秋霧と屈斜路湖の紅葉！川湯温泉の強酸性硫黄泉・秋サケ・イクラ＆北海道和牛を味わう道東旅エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
@@ -551,7 +545,7 @@ export default function Page() {
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>源泉100％かけ流し天然温泉の静かな宿○全室Wifi完備○無料駐車場</p>
                   <p><strong>【所在地・アクセス】</strong>〒 北海道川上郡弟子屈町川湯温泉1-2-15 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【阿寒摩周の秋霧と屈斜路湖の紅葉】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>川湯温泉　ＫＫＲかわゆ（国家公務員共済組合連合会川湯保養所）の滞在ポイント：</strong>「阿寒摩周の秋霧と屈斜路湖の紅葉！川湯温泉の強酸性硫黄泉・秋サケ・イクラ＆北海道和牛を味わう道東旅エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
@@ -573,7 +567,7 @@ export default function Page() {
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ひがし北海道の真ん中。弟子屈町・川湯温泉にあるゲストハウスです。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 北海道川上郡弟子屈町川湯温泉1-5-48 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【阿寒摩周の秋霧と屈斜路湖の紅葉】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>ＹＵＮＯＭＹ（旧：川湯温泉ゲストハウスＮＯＭＹ）の滞在ポイント：</strong>「阿寒摩周の秋霧と屈斜路湖の紅葉！川湯温泉の強酸性硫黄泉・秋サケ・イクラ＆北海道和牛を味わう道東旅エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
@@ -593,7 +587,7 @@ export default function Page() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Wide_view_of_Mount_Hakodate_from_Mashu-Maru.jpg/1280px-Wide_view_of_Mount_Hakodate_from_Mashu-Maru.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="函館山（夜景）" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">函館山（夜景）</h3>
+                <h3 className="text-base font-bold text-stone-900">函館山（夜景）（阿寒摩周の秋霧と屈斜路湖の紅葉）</h3>
                 <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。 函館山（はこだてやま）は、北海道函館市の市街地西端にある火山であり陸繋島でもある。…（「阿寒摩周の秋霧と屈斜路湖の紅葉（川湯温泉の強酸性硫黄泉・秋サケ・イクラ＆北海道和牛を味わう道東旅）」の周遊ルートとしても人気の立ち寄り先です）</p>
               </div>
             </div>
@@ -601,7 +595,7 @@ export default function Page() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">富良野 ファーム富田</h3>
+                <h3 className="text-base font-bold text-stone-900">富良野 ファーム富田（阿寒摩周の秋霧と屈斜路湖の紅葉）</h3>
                 <p className="text-xs text-stone-600 leading-relaxed">一面に広がる鮮やかな紫色のラベンダー畑と、虹色に彩られた花畑が織りなすパノラマロード。富良野の雄大な自然と爽やかな香りに包まれる絶好の観光名所です。（「阿寒摩周の秋霧と屈斜路湖の紅葉（川湯温泉の強酸性硫黄泉・秋サケ・イクラ＆北海道和牛を味わう道東旅）」の周遊ルートとしても人気の立ち寄り先です）</p>
               </div>
             </div>
@@ -609,16 +603,16 @@ export default function Page() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Otaru_Hokkaido_Japan.jpg/1280px-Otaru_Hokkaido_Japan.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="小樽運河" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">小樽運河</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">大正時代に造られたノスタルジックな石造り倉庫群が立ち並ぶ小樽のシンボル。夕暮れ時にはガス灯が灯り、幻想的な雰囲気の中で散策やナイトクルーズを楽しめます。 小樽運河（おたるうんが）は、北海道小樽市にある運河。現在は物流機能としての使命を終えており、文化庁選定日本遺産「北海道の『心臓』と呼ばれたまち・小樽」を構成する遺産のひとつ。 1923年（大正12年）完成。日本国内唯一となる海岸の沖合い埋立て方式で造られており、緩やかに湾曲しているのが特徴になっている。全長1,140 mあり、幅は臨港線沿いは20 m、北部（…</p>
+                <h3 className="text-base font-bold text-stone-900">小樽運河（阿寒摩周の秋霧と屈斜路湖の紅葉）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【阿寒摩周の秋霧と屈斜路湖の紅葉】 大正時代に造られたノスタルジックな石造り倉庫群が立ち並ぶ小樽のシンボル。夕暮れ時にはガス灯が灯り、幻想的な雰囲気の中で散策やナイトクルーズを楽しめます。 小樽運河（おたるうんが）は、北海道小樽市にある運河。現在は物流機能としての使命を終えており、文化庁選定日本遺産「北海道の『心臓』と呼ばれたまち・小樽」を構成する遺産のひとつ。 1923年（大正12年）完成。日本国内唯一となる海岸の沖合い埋立て方式で造られており、緩やかに湾曲しているのが特徴になっている。全長1,140 mあり、幅は臨港線沿いは20 m、北部（…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Asahikawa_Montage.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" alt="旭川市旭山動物園" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">旭川市旭山動物園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">行動展示で全国的に有名な日本最北の動物園。水中でダイナミックに泳ぐホッキョクグマや、円柱水槽を行き来するアザラシなど、生き生きとした動物たちの姿を間近で観察できます。 旭川市（あさひかわし）は、北海道のほぼ中央に位置し、上川総合振興局に属する市。振興局所在地であり、札幌市に次ぐ北海道第2位の人口（約31万人）を有する中核市である。 北海道中央部に位置し、上川盆地に広がっている。道北の経済・産業・文化の中心都市。ユネスコの「デザイン都市」、そして「国際会議観光都市」に認定されている。交通面では国道や鉄道路線の終起点となり高速…</p>
+                <h3 className="text-base font-bold text-stone-900">旭川市旭山動物園（阿寒摩周の秋霧と屈斜路湖の紅葉）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【阿寒摩周の秋霧と屈斜路湖の紅葉】 行動展示で全国的に有名な日本最北の動物園。水中でダイナミックに泳ぐホッキョクグマや、円柱水槽を行き来するアザラシなど、生き生きとした動物たちの姿を間近で観察できます。 旭川市（あさひかわし）は、北海道のほぼ中央に位置し、上川総合振興局に属する市。振興局所在地であり、札幌市に次ぐ北海道第2位の人口（約31万人）を有する中核市である。 北海道中央部に位置し、上川盆地に広がっている。道北の経済・産業・文化の中心都市。ユネスコの「デザイン都市」、そして「国際会議観光都市」に認定されている。交通面では国道や鉄道路線の終起点となり高速…</p>
               </div>
             </div>
             </div>
@@ -645,7 +639,7 @@ export default function Page() {
             <Link href="/features/" className="hover:text-white">特集一覧</Link>
             <Link href="/privacy/" className="hover:text-white">プライバシーポリシー</Link>
           </div>
-          <p>© 2026 クラウドトラベル (croud-travel.pages.dev) All Rights Reserved.</p>
+          <p>【阿寒摩周の秋霧と屈斜路湖の紅葉】 © 2026 クラウドトラベル (croud-travel.pages.dev) All Rights Reserved.</p>
         </div>
       </footer>
     

@@ -115,10 +115,8 @@ export default function FurusatoUpgradedPage() {
 
           {/* 公式キャンペーンCTA */}
           <div className="p-6 rounded-3xl bg-gradient-to-br from-amber-500/20 via-amber-600/10 to-transparent border border-amber-500/30 backdrop-blur max-w-2xl mx-auto shadow-2xl">
-            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">
-              楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！
-            </h2>
-            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">
+            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！｜日本三大カルストの白銀石灰岩パノラマと高原リゾート宿</h2>
+            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">【日本三大カルストの白銀石灰岩パノラマと高原リゾート宿】 
               寄附翌日には楽天トラベルで使えるクーポンが付与。有効期限はたっぷり3年間あるため、次の大型連休や記念日旅行にも安心してご活用いただけます。
             </p>
             <a
@@ -136,9 +134,7 @@ export default function FurusatoUpgradedPage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          この特集で出会える極上の滞在体験と3つの魅力
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">この特集で出会える極上の滞在体験と3つの魅力｜日本三大カルストの白銀石灰岩パノラマと高原リゾート宿</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="01" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
@@ -262,31 +258,29 @@ export default function FurusatoUpgradedPage() {
       {/* 利用ステップ */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-t border-stone-800">
         <div className="rounded-3xl bg-gradient-to-br from-amber-500/10 via-stone-900 to-stone-950 border border-amber-500/20 p-8 sm:p-12 text-center">
-          <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-4">
-            ふるさと納税トラベルクーポンの簡単3ステップ
-          </h2>
-          <p className="text-stone-300 text-sm sm:text-base max-w-2xl mx-auto mb-10 leading-relaxed">
+          <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-4">ふるさと納税トラベルクーポンの簡単3ステップ｜日本三大カルストの白銀石灰岩パノラマと高原リゾート宿</h2>
+          <p className="text-stone-300 text-sm sm:text-base max-w-2xl mx-auto mb-10 leading-relaxed">【日本三大カルストの白銀石灰岩パノラマと高原リゾート宿】 
             寄附から割引適用まで全てオンラインで完結。実質2,000円の負担で憧れの名旅館や絶景リゾートをお得に楽しめます。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-left mb-10">
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
               <div className="text-2xl font-black text-amber-400 mb-2">STEP 01</div>
-              <h3 className="font-bold text-white mb-2">自治体に寄附する</h3>
-              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
+              <h3 className="font-bold text-white mb-2">自治体に寄附する（日本三大カルストの白銀石灰岩パノラマと高原リゾート宿）</h3>
+              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">【日本三大カルストの白銀石灰岩パノラマと高原リゾート宿】 
                 宿泊したい施設がある自治体を選び、楽天ふるさと納税で寄附を申し込みます。楽天ポイントも通常通り進呈されます。
               </p>
             </div>
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
               <div className="text-2xl font-black text-amber-400 mb-2">STEP 02</div>
-              <h3 className="font-bold text-white mb-2">クーポンが自動付与</h3>
-              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
+              <h3 className="font-bold text-white mb-2">クーポンが自動付与（日本三大カルストの白銀石灰岩パノラマと高原リゾート宿）</h3>
+              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">【日本三大カルストの白銀石灰岩パノラマと高原リゾート宿】 
                 寄附完了の翌日、楽天アカウントの「マイクーポン」に寄附額に応じた宿泊割引クーポンが自動的に追加されます。
               </p>
             </div>
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
               <div className="text-2xl font-black text-amber-400 mb-2">STEP 03</div>
-              <h3 className="font-bold text-white mb-2">楽天トラベルで予約</h3>
-              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
+              <h3 className="font-bold text-white mb-2">楽天トラベルで予約（日本三大カルストの白銀石灰岩パノラマと高原リゾート宿）</h3>
+              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">【日本三大カルストの白銀石灰岩パノラマと高原リゾート宿】 
                 対象のホテル・旅館を予約する際、決済画面でクーポンを選択するだけで宿泊代金から最大30%が即座に割引されます。
               </p>
             </div>
@@ -305,7 +299,7 @@ export default function FurusatoUpgradedPage() {
 
       {/* 相互リンク */}
       <section className="py-12 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto">
-        <h2 className="text-xl font-black text-amber-200 mb-6">あわせて読みたい極上ふるさと納税旅特集</h2>
+        <h2 className="text-xl font-black text-amber-200 mb-6">あわせて読みたい極上ふるさと納税旅特集｜日本三大カルストの白銀石灰岩パノラマと高原リゾート宿</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <Link
             href="/furusato-tax-three-great-scenic-coasts-stay/"
@@ -416,7 +410,7 @@ export default function FurusatoUpgradedPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>名湯の露天風呂の硫黄の香りと四季折々の日本庭園に心癒される。旬の味覚と共に至福の時間を独り占め。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山口県周南市湯野4255-1 ／ 最寄り駅：戸田（山口） ／ 交通案内：新幹線徳山駅→ＪＲ山陽本線 戸田駅より車で7分／山陽自動車道徳山西ＩＣ下車６分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
+                  <p>【日本三大カルストの白銀石灰岩パノラマと高原リゾート宿】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋や露天風呂は良いがサービスに不満あり良い箇所は部屋の作り、特に柱、梁は素晴らしく、日本間も15畳の落ち着いた快適な部屋、露天風呂も良い!改良して欲しい箇所、特別室の(幸)に宿泊、歯ブラシ等…　2026-08-17 15:47:24投稿」

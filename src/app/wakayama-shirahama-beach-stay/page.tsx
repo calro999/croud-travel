@@ -312,7 +312,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>得旅ポイント最大15倍■全室オーシャンビュー&amp;amp;白良浜徒歩1分■露天風呂付き客室はすべて源泉掛け流し</p>
                   <p><strong>【所在地・アクセス】</strong>〒 和歌山県西牟婁郡白浜町3078 ／ 最寄り駅：白浜 ／ 交通案内：車：紀勢自動車道南紀白浜ICより県道34号線を白浜温泉方面へ約20分 電車：JR白浜駅よりバスで15分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
+                  <p>【和歌山・南紀白浜：白良浜・アドベンチャーワールド＆崎】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「海が見える絶景とアドベンチャーワールドへの近さ部屋の窓から海が見えるので夕陽がみえてよかった。海にすぐ行けるのもいい。ご飯は普通でした。特別感がなかったし、種類も少なかった。アドベンチャーワールド…　2026-08-22 10:16:45投稿」

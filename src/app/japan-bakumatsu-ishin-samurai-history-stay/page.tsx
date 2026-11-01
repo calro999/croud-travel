@@ -352,7 +352,7 @@ export default function HistoryHeritageHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>美しき隠れ家「今昔亭」へようこそ。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 福島県会津若松市東山町湯本247 ／ 最寄り駅：会津若松 ／ 交通案内：ＪＲ磐越西線　会津若松駅からタクシーで１５分／磐越自動車道　会津若松ＩＣから２０分☆送迎は要連絡☆</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
+                  <p>【幕末維新の歴史浪漫宿：萩・会津若松・高知・薩摩・龍馬】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.52 ／ 立地 ★4.12 ／ 部屋 ★4.13 ／ 設備 ★4.06 ／ 風呂 ★4.34 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と美味しい食事、清潔感のある空間接客は丁寧で食事も美味しかったです。設備は多少古いですが、清潔さは感じました。クチコミの詳細はこちらから　https://review.travel.…　2026-10-07 23:57:31投稿」
@@ -440,7 +440,7 @@ export default function HistoryHeritageHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>高知県土佐市初　天然温泉。お四国参り、マリンレジャーと幅広くご利用いただけます。３６番札所青龍寺入口</p>
                   <p><strong>【所在地・アクセス】</strong>〒 高知県土佐市宇佐町竜504-1 ／ 最寄り駅：朝倉（高知） ／ 交通案内：自家用車の方は、高知自動車道「土佐IC」より約20分。公共交通の方は、事前予約で最寄りバス停まで送迎あり。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
+                  <p>【幕末維新の歴史浪漫宿：萩・会津若松・高知・薩摩・龍馬】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「藁焼きカツオの演出と夕食に大満足夕食がとても素晴らしかった。カツオを藁で炙る様子も間近で見せてもらって面白かったです。クチコミの詳細はこちらから　https://review.travel…　2026-08-29 23:36:23投稿」

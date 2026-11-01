@@ -374,7 +374,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>１３部屋の離れには露天風呂。自家栽培で山の惠みを丸ごと味わう。古き良き、日本の情緒をご堪能下さい。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 長崎県東彼杵郡東彼杵町一ッ石郷981 ／ 最寄り駅：長崎空港 ／ 交通案内：長崎空港よりお車にて約２０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
+                  <p>【長崎・平戸＆佐世保・九十九島：世界遺産キリシタン史跡】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「自然と温泉、料理に癒やされすぐにでも再訪したい自然に囲まれて、ゆっくりと過ごすことができる素敵なお宿でした。山の中にあるのでとても静かで、日常を忘れてのんびりと過ごすことができました。…　2026-08-09 18:41:02投稿」

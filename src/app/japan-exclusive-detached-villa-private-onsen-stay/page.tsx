@@ -330,7 +330,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>目の前には久住高原の美しい景色が広がり、天気によって満点の星空を楽しめることもできます！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 大分県竹田市久住町久住4026-1 ／ 最寄り駅：豊後竹田 ／ 交通案内：豊後竹田駅からバスで２０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
+                  <p>【全室離れ・源泉かけ流し露天風呂付き隠れ家宿：大人の静】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>赤川温泉スパージュの滞在ポイント：</strong>「全室離れ・源泉かけ流し露天風呂付き隠れ家宿エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
@@ -418,7 +418,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>箱根湯本のリゾートホテルを感じさせる源泉の宿。露天風呂付き客室が24室。屋上に開放感あるスカイテラス</p>
                   <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町湯本574 ／ 最寄り駅：箱根湯本 ／ 交通案内：小田急線「箱根湯本駅」より徒歩１５分 / 小田原厚木道路 箱根ICより国道1号線→県道732号線経由</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
+                  <p>【全室離れ・源泉かけ流し露天風呂付き隠れ家宿：大人の静】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.36 ／ 部屋 ★4.33 ／ 設備 ★4.17 ／ 風呂 ★4.49 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「トラブルへの迅速な対応とスタッフの心遣い2泊3日お世話になりました。初日お部屋内のトラブルがありましたが、臨機応変に対応してくださいました。おかげさまで有意義な時間を過ごすことができました…　2026-09-23 12:55:25投稿」
@@ -440,7 +440,7 @@ export default function LuxuryPremiumHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ロビーや浴場等随所より壮大な景色がご覧頂ける有馬随一の立地条件。有馬の元湯をお楽しみくださいませ。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 兵庫県神戸市北区有馬町318 ／ 最寄り駅：有馬温泉 ／ 交通案内：中国自動車道 西宮北ＩＣより有馬温泉方面約１０分／神戸電鉄「有馬温泉」駅下車 徒歩１０分（※毎日８時～１９時は無料送迎可</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
+                  <p>【全室離れ・源泉かけ流し露天風呂付き隠れ家宿：大人の静】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.53 ／ 部屋 ★4.52 ／ 設備 ★4.36 ／ 風呂 ★4.62 ／ 食事 ★4.68</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「伊勢海老のお刺身が絶品、金泉の温泉も最高夕食のお刺身(伊勢海老のお刺身)は、とても美味しかった!金泉の温泉は、良かった。クチコミの詳細はこちらから　https://review.trave…　2026-10-03 21:29:14投稿」

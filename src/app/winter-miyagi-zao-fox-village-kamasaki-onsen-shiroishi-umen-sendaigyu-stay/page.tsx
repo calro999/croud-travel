@@ -123,10 +123,8 @@ export default function WinterFeaturePage() {
         
         {/* 導入解説 */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
-          <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-amber-600 shrink-0" />
-            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600 shrink-0" />
+            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>｜2026-2027年11-12月初冬の宮城・白石</h2>
           <p className="text-xs md:text-sm text-slate-700 leading-relaxed whitespace-pre-line">
             南蔵王の雄大な山裾に抱かれた宮城県白石市。東北の厳しい冬の訪れとともに、世界中から熱い視線を集める唯一無二の動物の楽園が『宮城蔵王キツネ村』です。自然に近い広大な森の中にキタキツネ、銀ギツネ、青ギツネ、プラチナギツネ、ホッキョクギツネなど100頭を超えるキツネたちが自由に暮らしており、専用の散策路を歩けば、足元をすり抜けるキツネたちの愛らしい仕草を間近に観察できます。キツネの最大の魅力が花開くのが、まさに11月から12月にかけての初冬。寒冷地で冬を越すために毛が生え変わり、夏場のスリムな姿から一変して、全身がふんわりと丸みを帯びた極上の『冬毛（モフモフ毛）』へと仕上がります。雪が舞い始める静かな森の中で、丸くなって眠るキツネたちの姿や、冬毛を揺らしながらじゃれ合う姿は息を呑むほど愛らしく、写真愛好家や海外旅行者からも絶賛されています。キツネたちとの心温まる出会いを満喫した後は、白石の奥座敷として開湯600年の歴史を誇る『鎌先温泉（かまさきおんせん）』へ。戦国時代の武将が傷を癒やしたと伝わることから『奥羽の薬湯』『傷の鎌先』と称されるこの温泉街は、山あいの小川沿いに白壁や木造数寄屋造りの老舗旅館が寄り添うように立ち並び、まるで昔の湯治場に迷い込んだかのような風情が息づいています。塩化物泉と硫酸塩泉が混ざり合う茶褐色のにごり湯や清らかな源泉は、湯上がり後も芯からポカポカと温かさが持続。食事には、油を一切使わずに白石の清らかな水と小麦だけで製麺される伝統名物『白石温麺（うーめん）』の優しい喉越しと、全国肉用牛枝肉共励会で名誉賞を受賞する最高峰ブランド『仙台牛』の霜降りすき焼きを堪能。愛らしい動物たちと本格的な湯治文化が融合した、心洗われる初冬の白石・蔵王旅がここにあります。
           </p>
@@ -560,10 +558,8 @@ export default function WinterFeaturePage() {
 
         {/* アクセス＆見頃情報 */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300">
-            <Train className="w-5 h-5 shrink-0" />
-            <span>アクセスガイド・気候と服装のポイント</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300"><Train className="w-5 h-5 shrink-0" />
+            <span>アクセスガイド・気候と服装のポイント</span>｜2026-2027年11-12月初冬の宮城・白石</h2>
           <div className="text-xs md:text-sm text-slate-300 leading-relaxed whitespace-pre-line">
             【エリアへのアクセス】
 ・電車：東北新幹線「JR白石蔵王駅」またはJR東北本線「白石駅」下車。蔵王キツネ村へは白石駅・白石蔵王駅からタクシーで約20〜25分、または火曜・金曜運行の市民バス「きゃするくん」や観光路線バスを利用。鎌先温泉へは白石蔵王駅から車・タクシーで約15分（各旅館の送迎あり）。
@@ -579,10 +575,8 @@ export default function WinterFeaturePage() {
 
         {/* よくある質問 (FAQ) */}
         <section className="bg-slate-100 rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2">
-            <ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
-            <span>よくある質問（FAQ）</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
+            <span>よくある質問（FAQ）</span>｜2026-2027年11-12月初冬の宮城・白石</h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
             <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
@@ -616,9 +610,7 @@ export default function WinterFeaturePage() {
 
         {/* ふるさと納税・関連リンク */}
         <section className="bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 rounded-2xl p-6 md:p-8 space-y-3 text-center">
-          <h2 className="text-xl md:text-2xl font-black">
-            楽天トラベル ふるさと納税で最大30%お得に予約！
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！｜2026-2027年11-12月初冬の宮城・白石</h2>
           <p className="text-xs md:text-sm max-w-xl mx-auto font-medium">
             寄附翌日から使える楽天トラベルクーポンで、今回の宿泊予約が実質2,000円の自己負担で楽しめます。年末の控除枠活用にも最適です。
           </p>

@@ -352,7 +352,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>囲炉裏があり、、昔懐かしい雰囲気の静かな温泉宿です。離れはペットも一緒に泊まれます。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 鹿児島県伊佐市菱刈川北2280-14 ／ 最寄り駅：栗野 ／ 交通案内：肥薩線　栗野駅より南国交通バスで１２～１３分／鹿児島本線　水俣駅より南国交通バスで１時間</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
+                  <p>【古民家一棟貸し・蔵サウナの宿：築100年再生邸宅・プ】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と一緒に離れに泊まりました。直前に人数変更があったり、当日、到着予定時刻がズレて夕食開始時間も変更していただきましたが、笑顔で対応してくださいました。ありがとうございました。ご飯は、量もあ…　2026-07-30 10:45:44投稿」
@@ -418,7 +418,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>緑ふかい山々に抱かれた、奥多摩檜原村。南北朝時代の落人伝説を秘めた数馬の里に当兜家旅館はあります。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 東京都西多摩郡檜原村数馬2612 ／ 最寄り駅：武蔵五日市 ／ 交通案内：武蔵五日市駅より西東京バス「数馬行き」乗車１時間。終点下車徒歩１０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
+                  <p>【古民家一棟貸し・蔵サウナの宿：築100年再生邸宅・プ】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「滝の見える景色と丁寧な料理に大満足滝の見えるお部屋の景色がとてもよく、静かに快適に過ごせました。ご飯も丁寧に作られており、宿のサービスもとても良かったです。クチコミの詳細はこちらから　http…　2026-09-07 11:33:04投稿」
@@ -461,7 +461,7 @@ export default function HeritageOnsenHubPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
                 <h3 className="text-base font-bold text-stone-900">国宝 姫路城（白鷺城）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【古民家一棟貸し・蔵サウナの宿：築100年再生邸宅・プ】 鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">

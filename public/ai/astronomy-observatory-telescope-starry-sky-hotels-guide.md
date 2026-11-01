@@ -1,5 +1,5 @@
 ---
-title: "天文台・天体望遠鏡完備ホテルおすすめ10選！比較"
+title: "【2026最新】本格大型天体望遠鏡・天文台完備！星空観測体験リゾートホテルおすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/astronomy-observatory-telescope-starry-sky-hotels-guide/"
 hotel_name: "本格大型天体望遠鏡・天文台完備！星空観測体験リゾートホテルおすすめ10選"
 prefecture: "全国"
@@ -9,7 +9,7 @@ rating: 4.98
 last_modified: "2026-10-13"
 ---
 
-# 天文台・天体望遠鏡完備ホテルおすすめ10選！比較
+# 【2026最新】本格大型天体望遠鏡・天文台完備！星空観測体験リゾートホテルおすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/astronomy-observatory-telescope-starry-sky-hotels-guide/
 - **宿泊施設・特集名**: 本格大型天体望遠鏡・天文台完備！星空観測体験リゾートホテルおすすめ10選

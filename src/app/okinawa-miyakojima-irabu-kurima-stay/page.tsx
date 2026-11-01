@@ -440,7 +440,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【特別な島体験】プライベートハイダウェイの贅沢、時間を五感で感じるザ・リスケープ</p>
                   <p><strong>【所在地・アクセス】</strong>〒 沖縄県宮古島市城辺長間1901-1 ／ 最寄り駅：宮古空港 ／ 交通案内：宮古空港よりお車にて約１５分｜下地島空港から車で45分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
+                  <p>【沖縄・宮古島＆伊良部島・来間島：宮古ブルー・与那覇前】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「朝ヨガと健康朝食、プールを満喫した4日間静かな場所で朝ヨガに健康朝食、最高な4日間でした。プールも部屋のと大きなプールとたくさん入って楽しかったです。クチコミの詳細はこちらから　https:/…　2026-08-21 17:18:24投稿」

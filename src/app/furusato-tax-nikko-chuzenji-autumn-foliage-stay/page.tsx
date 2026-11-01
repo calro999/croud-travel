@@ -99,9 +99,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
 
         {/* 3つの魅力ポイント */}
         <section className="space-y-6">
-          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-900 text-center">
-            この特集で厳選した宿をおすすめする3つの理由
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-900 text-center">この特集で厳選した宿をおすすめする3つの理由｜湖面に映える錦秋の男体山</h2>
           <div className="grid md:grid-cols-3 gap-6">
 
             <div className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200/80 shadow-xs">
@@ -154,10 +152,8 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
         {/* ホテル一覧 */}
         <section className="space-y-8">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-900">
-              【2026年最新】ふるさと納税で行く極上おすすめ宿3選
-            </h2>
-            <p className="text-stone-600 text-sm">
+            <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-900">【2026年最新】ふるさと納税で行く極上おすすめ宿3選｜湖面に映える錦秋の男体山</h2>
+            <p className="text-stone-600 text-sm">【湖面に映える錦秋の男体山】 
               宿泊予約時にトラベルクーポンを適用することで、最大30％割引＆実質2,000円で泊まれます。
             </p>
           </div>
@@ -377,9 +373,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
 
         {/* 関連特集クロスリンク */}
         <section className="bg-stone-50 rounded-3xl p-8 border border-stone-200/80 mb-16">
-          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">
-            あわせて読みたい関連特集
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">あわせて読みたい関連特集｜湖面に映える錦秋の男体山</h2>
           <ul className="grid sm:grid-cols-2 gap-2">
 
             <li key="furusato-tax-autumn-foliage-gorge-onsen-stay">
@@ -430,10 +424,8 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
 
         {/* ハブページへの誘導フッター */}
         <div className="bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 text-white rounded-3xl p-8 md:p-10 shadow-xl border border-amber-900/40 text-center mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">
-            もっとお得に旅を楽しむためのハブページへ
-          </h2>
-          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">
+          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">もっとお得に旅を楽しむためのハブページへ｜湖面に映える錦秋の男体山</h2>
+          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">【湖面に映える錦秋の男体山】 
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
@@ -463,7 +455,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（湖面に映える錦秋の男体山）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 日光駅よりアクセス。ＪＲ日光駅又は東武日光駅より中禅寺温泉方面行きバス「中禅寺温泉バス停」下車。</li>
@@ -475,7 +467,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（湖面に映える錦秋の男体山）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「日光中禅寺湖温泉 ホテル花庵」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -529,9 +521,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜湖面に映える錦秋の男体山</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -552,7 +542,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（湖面に映える錦秋の男体山）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/hokkaido/"

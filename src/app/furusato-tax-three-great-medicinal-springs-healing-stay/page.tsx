@@ -93,10 +93,8 @@ export default function Page() {
         {/* 3 Key Merits */}
         <section className="space-y-6">
           <div className="text-center">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">
-              ふるさと納税トラベルで巡る3つの至高メリット
-            </h2>
-            <p className="text-sm sm:text-base text-slate-400 mt-2">実質自己負担2,000円で憧れの名旅館＆特産グルメをアップグレード</p>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">ふるさと納税トラベルで巡る3つの至高メリット｜日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド</h2>
+            <p className="text-sm sm:text-base text-slate-400 mt-2">【日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド】 実質自己負担2,000円で憧れの名旅館＆特産グルメをアップグレード</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
@@ -127,10 +125,8 @@ export default function Page() {
         {/* Featured Hotels & Regions */}
         <section className="space-y-12">
           <div className="border-b border-slate-800 pb-4">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">
-              厳選名所＆楽天トラベル提携おすすめ名宿
-            </h2>
-            <p className="text-slate-400 text-sm sm:text-base mt-1">楽天ふるさと納税宿泊クーポンが利用可能な極上宿</p>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">厳選名所＆楽天トラベル提携おすすめ名宿｜日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド</h2>
+            <p className="text-slate-400 text-sm sm:text-base mt-1">【日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド】 楽天ふるさと納税宿泊クーポンが利用可能な極上宿</p>
           </div>
 
           <div className="space-y-12">
@@ -353,10 +349,8 @@ export default function Page() {
 
         {/* Official Banner CTA */}
         <section className="bg-gradient-to-r from-rose-950/60 via-red-900/40 to-amber-950/60 border border-rose-500/30 rounded-3xl p-8 text-center relative overflow-hidden shadow-2xl">
-          <h2 className="text-2xl sm:text-3xl font-black text-white mb-4">
-            楽天ふるさと納税トラベルで、今すぐ賢く旅に出よう
-          </h2>
-          <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base mb-8 leading-relaxed">
+          <h2 className="text-2xl sm:text-3xl font-black text-white mb-4">楽天ふるさと納税トラベルで、今すぐ賢く旅に出よう｜日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド</h2>
+          <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base mb-8 leading-relaxed">【日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド】 
             寄付翌日から最大3年間使える宿泊クーポンで、行きたかった憧れの名宿を今すぐお得にリザーブ。実質2,000円負担で極上の日本再発見の旅へ。
           </p>
           <a
@@ -371,9 +365,7 @@ export default function Page() {
 
         {/* Cross Link Section */}
         <section className="border-t border-slate-800/80 pt-12 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            あわせて読みたい関連特集ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい関連特集ガイド｜日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
             <Link
@@ -443,7 +435,7 @@ export default function Page() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> まつだい駅よりアクセス。ほくほく線まつだい駅より定時送迎あり（要予約）/ 関越道・塩沢石打ICより353号約50分/無料屋内駐車場（最大17台）。</li>
@@ -455,7 +447,7 @@ export default function Page() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「松之山温泉 ひなの宿 ちとせ」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -509,9 +501,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-rare-wagyu-tankaku-akagyu-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -532,7 +522,7 @@ export default function Page() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/iwate/"
@@ -662,7 +652,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>創業慶長4年。６つのお風呂と2つの源泉が楽しめる、数々の文人に愛された、落ち着いた佇まいの旅館。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 群馬県吾妻郡草津町433-1 ／ 最寄り駅：長野原草津口 ／ 交通案内：ＪＲ吾妻線長野原草津口駅から車で２０分。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
+                  <p>【日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と立地は最高、隣室の音が少し気になる8/27～28に滞在しました。安心感がありました。食事のすばらしさ、ロケーション(湯畑にも西の河原公園にも近い)は当然のこと、ほぼ満足でした。伝統とはこうい…　2026-08-28 13:27:52投稿」
@@ -704,16 +694,16 @@ export default function Page() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">中尊寺金色堂（平泉）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">世界遺産・平泉の象徴であり、奥州藤原氏の栄華を今に伝える極楽浄土の建築。堂全体が金箔で覆われ、螺鈿細工や象牙の装飾が施された国宝の美しさは言葉を失うほどです。</p>
+                <h3 className="text-base font-bold text-stone-900">中尊寺金色堂（平泉）（日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド】 世界遺産・平泉の象徴であり、奥州藤原氏の栄華を今に伝える極楽浄土の建築。堂全体が金箔で覆われ、螺鈿細工や象牙の装飾が施された国宝の美しさは言葉を失うほどです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">浄土ヶ浜</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">三陸復興国立公園を代表する三陸海岸の景勝地。白い鋭利な岩肌と青松、穏やかで透明度の高いエメラルドグリーンの入江が「まるで極楽浄土のよう」と称えられています。</p>
+                <h3 className="text-base font-bold text-stone-900">浄土ヶ浜（日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド】 三陸復興国立公園を代表する三陸海岸の景勝地。白い鋭利な岩肌と青松、穏やかで透明度の高いエメラルドグリーンの入江が「まるで極楽浄土のよう」と称えられています。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -721,15 +711,15 @@ export default function Page() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
                 <h3 className="text-base font-bold text-stone-900">龍泉洞</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三大鍾乳洞の一つで、国の天然記念物。洞内に湧き出る地底湖は世界有数の透明度を誇り、「ドラゴンブルー」と呼ばれる神秘的な青い輝きに吸い込まれそうになります。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド】 日本三大鍾乳洞の一つで、国の天然記念物。洞内に湧き出る地底湖は世界有数の透明度を誇り、「ドラゴンブルー」と呼ばれる神秘的な青い輝きに吸い込まれそうになります。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">小岩井農場</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">岩手山の雄大な山麓に広がる日本最大級の民間総合農場。美しい一本桜や歴史あるレンガサイロ、搾りたての牛乳を使った絶品アイスクリームなどが楽しめます。</p>
+                <h3 className="text-base font-bold text-stone-900">小岩井農場（日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド】 岩手山の雄大な山麓に広がる日本最大級の民間総合農場。美しい一本桜や歴史あるレンガサイロ、搾りたての牛乳を使った絶品アイスクリームなどが楽しめます。</p>
               </div>
             </div>
             </div>

@@ -123,10 +123,8 @@ export default function LuxuryWinterFeaturePage() {
         
         {/* 導入解説 */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
-          <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-amber-600 shrink-0" />
-            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600 shrink-0" />
+            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>｜2026-2027年11-12月初冬の静岡・伊豆高原</h2>
           <p className="text-xs md:text-sm text-slate-700 leading-relaxed whitespace-pre-line">
             相模湾を見下ろす緑豊かな台地に広がり、大室山の麓から城ヶ崎海岸へと美しい自然が続く静岡県・伊豆高原。東京から特急踊り子号や新幹線を利用して2時間足らずというアクセスの良さにありながら、温暖な気候と豊かな海山の幸に恵まれたこの地は、日本でも有数の『全室離れ・客室露天風呂付き高級旅館』が集結する屈指のハイエンド激戦区です。初冬の11月から12月にかけての伊豆高原は、夏や紅葉の混雑が落ち着き、太平洋の水平線が最も青く澄み渡る絶好の旅行シーズン。日中は冬とは思えないほど柔らかな日差しが降り注ぎ、夜には冷えた大気の中に満天の星が瞬きます。伊豆の冬の食の主役といえば、この時期に最も脂の乗りが良くなる『地金目鯛（じきんめだい）』。稲取港や下田港に水揚げされる日帰り一本釣りの地金目鯛は、鮮やかな紅色と純白の身に上質な脂を蓄え、伝統の甘辛い秘伝タレでふっくらと煮付けた姿煮は言葉を失うほどの美味です。さらに冬に甘みを増す伊勢海老のお造りや鬼殻焼き、きめ細やかなサシが入った『しずおか和牛』の炭火焼きなど、美食の贅を極めた料理の数々が特別な夜を華やかに彩ります。宿泊には、日本の伝統美と現代の快適性が融合した『ABBA RESORTS IZU 坐漁荘』をはじめ、大室山を望む高台に佇みクチコミ★4.98を誇る全室メゾネット離れ『お宿 うち山』、地中海リゾートの趣漂う『コルテラルゴ伊豆高原』など、プライベートを極めた名宿を厳選。全室に備えられた客室専用の露天風呂に浸かりながら、遠く相模湾を行き交う船の灯りを眺める時間は、日常のストレスを完全に洗い流し、二人の絆を深める極上のひとときとなります。
           </p>
@@ -560,10 +558,8 @@ export default function LuxuryWinterFeaturePage() {
 
         {/* アクセス＆見頃情報 */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300">
-            <Train className="w-5 h-5 shrink-0" />
-            <span>アクセスガイド・気候と服装のポイント</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300"><Train className="w-5 h-5 shrink-0" />
+            <span>アクセスガイド・気候と服装のポイント</span>｜2026-2027年11-12月初冬の静岡・伊豆高原</h2>
           <div className="text-xs md:text-sm text-slate-300 leading-relaxed whitespace-pre-line">
             【エリアへのアクセス】
 ・電車：JR東海道新幹線「熱海駅」にてJR伊東線・伊豆急行線に乗り換え、「伊豆高原駅」まで約45分。東京駅からは特急「踊り子号」または「サフィール踊り子号」で伊豆高原駅まで直通約2時間。伊豆高原駅からは各宿の無料送迎車で約5〜10分。
@@ -579,10 +575,8 @@ export default function LuxuryWinterFeaturePage() {
 
         {/* よくある質問 (FAQ) */}
         <section className="bg-slate-100 rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2">
-            <ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
-            <span>よくある質問（FAQ）</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
+            <span>よくある質問（FAQ）</span>｜2026-2027年11-12月初冬の静岡・伊豆高原</h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
             <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
@@ -616,9 +610,7 @@ export default function LuxuryWinterFeaturePage() {
 
         {/* ふるさと納税・関連リンク */}
         <section className="bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 rounded-2xl p-6 md:p-8 space-y-3 text-center">
-          <h2 className="text-xl md:text-2xl font-black">
-            楽天トラベル ふるさと納税で最大30%お得に予約！
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！｜2026-2027年11-12月初冬の静岡・伊豆高原</h2>
           <p className="text-xs md:text-sm max-w-xl mx-auto font-medium">
             高価格帯の高級宿だからこそ、楽天トラベルふるさと納税クーポンの割引効果は絶大。実質2,000円の自己負担で憧れのスイートルームに宿泊できます。
           </p>

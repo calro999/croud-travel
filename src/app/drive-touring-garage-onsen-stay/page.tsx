@@ -374,7 +374,7 @@ export default function TransitStyleHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>目の前に広がる白樺湖を眺めながらリーズナブルに宿泊！白樺湖エリアの観光や冬はスキースノボの拠点に！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 長野県茅野市白樺湖3418 ／ 最寄り駅：茅野 ／ 交通案内：中央線茅野駅よりバス西白樺湖下車１分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
+                  <p>【愛車・ドライブ旅の温泉宿：絶景ワインディング・屋内ガ】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>白樺湖レイクサイドホテル山幸閣の滞在ポイント：</strong>「愛車・ドライブ旅の温泉宿エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
@@ -418,7 +418,7 @@ export default function TransitStyleHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>西暦718年から溢れ出る歴史ある温泉は源泉100％</p>
                   <p><strong>【所在地・アクセス】</strong>〒 新潟県魚沼市大湯温泉298 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ小出駅よりバス３０分。関越道魚沼Ｉ．Ｃより２０分。交通規制等、ご来館前に最新の道路情報をご確認ください。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
+                  <p>【愛車・ドライブ旅の温泉宿：絶景ワインディング・屋内ガ】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「残念すぎる、もう行かない2名で28600円で予約。道が細くてわかりづらいから中々辿り着けなかった。画像の全てが綺麗すぎて良く見せすぎだと思う。昭和レトロと言えば聞こえが良いが、玄関前や…　2026-08-20 00:59:19投稿」

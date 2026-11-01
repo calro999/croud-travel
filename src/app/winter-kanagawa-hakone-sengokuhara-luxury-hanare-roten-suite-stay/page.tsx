@@ -123,10 +123,8 @@ export default function LuxuryWinterFeaturePage() {
         
         {/* 導入解説 */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
-          <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-amber-600 shrink-0" />
-            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600 shrink-0" />
+            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>｜2026-2027年11-12月初冬の箱根・仙石原</h2>
           <p className="text-xs md:text-sm text-slate-700 leading-relaxed whitespace-pre-line">
             都心からロマンスカーと箱根登山バスでわずか2時間あまり。箱根火山のカルデラ北部に広がる『仙石原（せんごくはら）』は、広大な自然の静寂と洗練されたアート、そして濃厚な温泉が共存する日本有数のプレミアムリゾートです。11月から12月にかけての仙石原は、秋の観光ピークの喧騒が嘘のように引き、凛とした冬の澄んだ大気が高原を包み込む『大人のための最も贅沢な滞在期』を迎えます。台ヶ岳の裾野を覆い尽くす有名なすすき草原は、柔らかな冬の斜光を浴びて黄金色から銀白色へと輝きを深め、散策路を歩けば風の渡る音だけが耳に届きます。この仙石原を象徴するのが、大涌谷の噴煙地から直接引湯される濃厚な乳白色の硫黄泉（酸性-カルシウム-硫酸塩・塩化物温泉）。ph2前後の強い酸性と豊富なメタケイ酸を含むこの白濁湯は、湯船に身を沈めた瞬間に硫黄の芳香が心地よく鼻腔をくすぐり、古い角質を洗い流して肌をつるつるに整える類稀な美肌効果を誇ります。今回厳選したのは、その名湯を客室専用の露天風呂や広々としたテラススイートで24時間いつでも好きな時に独り占めできる最高峰のラグジュアリー隠れ宿。竹取物語の世界観を現代建築で昇華させた『金乃竹 仙石原』や、北海道の美食と箱根の湯が融合した『きたの風茶寮』、三井財閥の旧別荘地に佇む全室スイート『箱根・翠松園』など、いずれも1泊1室10万〜20万円を超える憧れの名宿ばかりです。夕食には幻のブランド牛と呼ばれる『相州牛』のフィレ炭火焼きや、相模湾・駿河湾の冬の味覚を彩った極上の月替わり日本懐石。他人の視線を一切遮断された完全プライベート空間で、雪を冠した箱根外輪山を眺めながら過ごす初冬の仙石原は、大切な人との記念日や自分への最高のご褒美にふさわしい至高のひとときを約束します。
           </p>
@@ -560,10 +558,8 @@ export default function LuxuryWinterFeaturePage() {
 
         {/* アクセス＆見頃情報 */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300">
-            <Train className="w-5 h-5 shrink-0" />
-            <span>アクセスガイド・気候と服装のポイント</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300"><Train className="w-5 h-5 shrink-0" />
+            <span>アクセスガイド・気候と服装のポイント</span>｜2026-2027年11-12月初冬の箱根・仙石原</h2>
           <div className="text-xs md:text-sm text-slate-300 leading-relaxed whitespace-pre-line">
             【エリアへのアクセス】
 ・電車・バス：小田急ロマンスカーで「箱根湯本駅」下車。箱根登山バス（桃源台行き）に乗り換え、「仙石案内所」または各宿最寄りのバス停まで約30分。新宿駅から直通の小田急箱根高速バスを利用すれば約2時間で仙石原へダイレクトにアクセス可能。
@@ -579,10 +575,8 @@ export default function LuxuryWinterFeaturePage() {
 
         {/* よくある質問 (FAQ) */}
         <section className="bg-slate-100 rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2">
-            <ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
-            <span>よくある質問（FAQ）</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
+            <span>よくある質問（FAQ）</span>｜2026-2027年11-12月初冬の箱根・仙石原</h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
             <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
@@ -616,9 +610,7 @@ export default function LuxuryWinterFeaturePage() {
 
         {/* ふるさと納税・関連リンク */}
         <section className="bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 rounded-2xl p-6 md:p-8 space-y-3 text-center">
-          <h2 className="text-xl md:text-2xl font-black">
-            楽天トラベル ふるさと納税で最大30%お得に予約！
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！｜2026-2027年11-12月初冬の箱根・仙石原</h2>
           <p className="text-xs md:text-sm max-w-xl mx-auto font-medium">
             高価格帯の高級宿だからこそ、楽天トラベルふるさと納税クーポンの割引効果は絶大。実質2,000円の自己負担で憧れのスイートルームに宿泊できます。
           </p>

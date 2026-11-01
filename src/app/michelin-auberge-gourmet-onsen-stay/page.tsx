@@ -330,7 +330,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のホテル</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山梨県北杜市高根町清里３５４５－９４３　コートドゥヴェール内 ／ 最寄り駅：清里 ／ 交通案内：JR小海線・清里駅から車で5分／中央道・長坂ICから25分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
+                  <p>【極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里の滞在ポイント：</strong>「極上美食オーベルジュ温泉宿エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
@@ -418,7 +418,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>自然の息づかいに耳を傾ける―ここは極上のヒーリングリゾート。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 岩手県和賀郡西和賀町52-71-10 ／ 最寄り駅：ほっとゆだ ／ 交通案内：ＪＲ北上線「ほっとゆだ駅」から車で約7分／秋田自動車道「湯田ＩＣ」からお車で約13分／湯けむりタクシー毎日4便乗り合い制</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
+                  <p>【極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「夏の山人も最高、料理とスタッフに感動!3回目の山人春に予約しこの日のために色んな事を乗り越えてようやく辿り着いた山人お出迎えからチェックイン、お部屋、かけ流しのお風呂、そして夕食.....…　2026-08-08 21:55:04投稿」
@@ -440,7 +440,7 @@ export default function HeritageOnsenHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>◆GoToトラベル実施中◆朝ごはんフェスティバル全国ベスト４★受賞の宿／全室天然温泉の内風呂付</p>
                   <p><strong>【所在地・アクセス】</strong>〒 福島県郡山市熱海町熱海5-38 ／ 最寄り駅：磐梯熱海 ／ 交通案内：車：磐越道磐梯熱海IC（県道24号磐梯熱海方面：約5分）電車：郡山駅（磐越西線：約15分）→鈴鐘(車約5分)</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
+                  <p>【極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>磐梯熱海温泉　離れの隠れ宿　オーベルジュ鈴鐘の滞在ポイント：</strong>「極上美食オーベルジュ温泉宿エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
@@ -460,32 +460,32 @@ export default function HeritageOnsenHubPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">富士山（吉田ルート/五合目）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本の最高峰であり世界文化遺産の象徴。富士スバルラインで行く五合目は観光施設が充実し、眼下に雲海を望む圧巻のスタート地点です。</p>
+                <h3 className="text-base font-bold text-stone-900">富士山（吉田ルート/五合目）（極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監】 日本の最高峰であり世界文化遺産の象徴。富士スバルラインで行く五合目は観光施設が充実し、眼下に雲海を望む圧巻のスタート地点です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">新倉山浅間公園（忠霊塔）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">五重塔（忠霊塔）越しに雄大な富士山と満開の桜を一望できる、世界中の観光客が熱望する「これぞ日本」という究極のアジアンビジュアルスポット。</p>
+                <h3 className="text-base font-bold text-stone-900">新倉山浅間公園（忠霊塔）（極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監】 五重塔（忠霊塔）越しに雄大な富士山と満開の桜を一望できる、世界中の観光客が熱望する「これぞ日本」という究極のアジアンビジュアルスポット。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">富士五湖（河口湖）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">富士山の北麓に位置する静かな湖畔リゾート。四季折々の富士山が水面に映る「逆さ富士」や、大石公園のコキア・ラベンダー越しのアングルが人気です。</p>
+                <h3 className="text-base font-bold text-stone-900">富士五湖（河口湖）（極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監】 富士山の北麓に位置する静かな湖畔リゾート。四季折々の富士山が水面に映る「逆さ富士」や、大石公園のコキア・ラベンダー越しのアングルが人気です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">勝沼ぶどうの丘</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本有数のワイン産地・勝沼の高台に立つ総合ワインリゾート。タパスとともに100種類以上の甲州ワインを試飲できる地下ワインカーヴが魅力です。</p>
+                <h3 className="text-base font-bold text-stone-900">勝沼ぶどうの丘（極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監】 日本有数のワイン産地・勝沼の高台に立つ総合ワインリゾート。タパスとともに100種類以上の甲州ワインを試飲できる地下ワインカーヴが魅力です。</p>
               </div>
             </div>
             </div>

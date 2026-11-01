@@ -352,7 +352,7 @@ export default function RailwayActivityHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>蔵王の森に囲まれた　愛らしさあふれる宿／大自然の恵み＜湯量豊富な白濁の温泉＞に身をゆだねる至福の時間</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山形県山形市蔵王温泉清水坂889-1 ／ 最寄り駅：山形 ／ 交通案内：山形駅よりバスで蔵王温泉行終点まで約40分。下車徒歩15分／バスターミナル送迎有り（要予約）</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
+                  <p>【絶景ロープウェイ＆山頂テラス宿：びわ湖バレイ・蔵王・】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「リピートしているが今回は少し残念な内容蔵王ではお気に入りのホテルで何度かリピートしております。今回は野天風呂が利用出来ず残念でした。料理もいつもに比べるとお米の味が落ちたように感じました。…　2026-08-15 21:48:01投稿」

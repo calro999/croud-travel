@@ -768,7 +768,7 @@ export default function Page() {
 
           {/* 内部リンク */}
           <section className="bg-stone-100/70 rounded-2xl p-6 border border-stone-200 space-y-3 text-xs sm:text-sm">
-            <h3 className="font-bold text-stone-800">あわせて読みたい関連特集</h3>
+            <h3 className="font-bold text-stone-800">あわせて読みたい関連特集（藍商人の白壁美・うだつの町並みと四国霊場切幡寺初詣：）</h3>
             <ul className="space-y-1.5 text-cyan-800">
               <li>
                 <Link href="/prefectures/tokushima/" className="hover:underline flex items-center gap-1">

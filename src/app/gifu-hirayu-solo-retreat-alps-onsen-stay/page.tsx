@@ -76,7 +76,7 @@ export default function ArticlePage() {
             岐阜・平湯温泉ひとり旅＆奥飛騨北アルプスおこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「奥飛騨・平湯温泉ひとり旅・北アルプス秘湯おこもり」毎分1万リットル湧出・飛騨牛炭火焼き・新穂高ロープウェイ！乗鞍・上高地玄関口の厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">【奥飛騨・平湯温泉ひとり旅・北アルプス秘湯おこもり：毎】 
             更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
           </p>
           
@@ -95,10 +95,8 @@ export default function ArticlePage() {
 
         {/* 目次 */}
         <section className="bg-white p-5 rounded-2xl border border-stone-200 shadow-sm mb-10">
-          <h2 className="text-sm font-bold text-stone-900 mb-3 flex items-center gap-2">
-            <span>📑</span>
-            <span>この記事で紹介する厳選ホテル（楽天トラベル最新評価順）</span>
-          </h2>
+          <h2 className="text-sm font-bold text-stone-900 mb-3 flex items-center gap-2"><span>📑</span>
+            <span>この記事で紹介する厳選ホテル（楽天トラベル最新評価順）</span>｜奥飛騨・平湯温泉ひとり旅・北アルプス秘湯おこもり：毎</h2>
           <ul className="text-xs sm:text-sm space-y-2">
             <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 無料露天付貸切風呂と岐阜料理師範の宿　お宿　栄太郎（★4.77 / 最低目安：14,850円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. 奥飛騨　平湯温泉　湯の平館（★4.49 / 最低目安：14,000円〜）</a></li>
@@ -142,7 +140,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（奥飛騨・平湯温泉ひとり旅・北アルプス秘湯おこもり：毎）</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>天然温泉１００％かけ流し</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>料理でお客様を笑顔にできるよう</span></li>
@@ -199,7 +197,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（奥飛騨・平湯温泉ひとり旅・北アルプス秘湯おこもり：毎）</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>珍しい２種の自家源泉</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>３つの貸切露天風呂は空いていれば自由に利用可能</span></li>
@@ -256,7 +254,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（奥飛騨・平湯温泉ひとり旅・北アルプス秘湯おこもり：毎）</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>【新平湯温泉】総檜造りの飛騨古民家宿</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>自慢の露天風呂と郷土料理</span></li>
@@ -304,10 +302,8 @@ export default function ArticlePage() {
 
         {/* よくある質問 FAQ */}
         <section className="bg-amber-50/40 rounded-2xl border border-amber-200/60 p-6 sm:p-8 mb-10">
-          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span>❓</span>
-            <span>よくある質問（FAQ）</span>
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span>❓</span>
+            <span>よくある質問（FAQ）</span>｜奥飛騨・平湯温泉ひとり旅・北アルプス秘湯おこもり：毎</h2>
           <div className="space-y-4">
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
               <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
@@ -332,7 +328,7 @@ export default function ArticlePage() {
 
         {/* 記事末尾CTA */}
         <div className="text-center bg-stone-900 text-white p-8 rounded-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold mb-3">気になる宿は見つかりましたか？</h2>
+          <h2 className="text-xl sm:text-2xl font-bold mb-3">気になる宿は見つかりましたか？｜奥飛騨・平湯温泉ひとり旅・北アルプス秘湯おこもり：毎</h2>
           <p className="text-stone-300 text-xs sm:text-sm max-w-lg mx-auto mb-6">
             「奥飛騨・平湯温泉ひとり旅・北アルプス秘湯おこもり（毎分1万リットル湧出・飛騨牛炭火焼き・新穂高ロープウェイ）」で人気の「無料露天付貸切風呂と岐阜料理師範の宿　お宿　栄太郎」をはじめ、週末や連休は条件の良い客室から埋まりやすいため、楽天トラベルの空室カレンダーから早めの日程確認をおすすめします。
           </p>
@@ -370,7 +366,7 @@ export default function ArticlePage() {
                 <span>Q. 事前準備や持ち物で注意すべきポイントは？</span>
                 <span className="text-amber-500 font-bold group-open:rotate-180 transition-transform">▼</span>
               </summary>
-              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">
+              <p className="mt-3 text-xs md:text-sm text-stone-600 leading-relaxed">【奥飛騨・平湯温泉ひとり旅・北アルプス秘湯おこもり：毎】 
                 A. 楽天トラベルで予約する際は、無料駐車場の台数・予約要否、露天風呂付き客室や部屋食プランの有無、そして5と0のつく日クーポンや早期割引プランの対象期間を事前に比較確認しておくと安心です。
               </p>
             </details>
@@ -499,7 +495,7 @@ export default function ArticlePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【新平湯温泉】総檜造りの飛騨古民家宿。自慢の露天風呂と郷土料理。Wi-Fi利用可能</p>
                   <p><strong>【所在地・アクセス】</strong>〒 岐阜県高山市奥飛騨温泉郷一重ケ根1112 ／ 最寄り駅：高山 ／ 交通案内：JR高山駅―新穂高温泉行バス「禅通寺前」下車―徒歩2分。高山ICより車で60分。松本ＩＣより70分。</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
+                  <p>【奥飛騨・平湯温泉ひとり旅・北アルプス秘湯おこもり：毎】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.36 ／ 部屋 ★4.18 ／ 設備 ★4.23 ／ 風呂 ★4.74 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切温泉でゆったり、山の幸の食事も最高温泉がとても良かったです。貸切なのでゆったりできました。食事も山の温泉宿らしく、とても素晴らしかった。クチコミの詳細はこちらから　https://re…　2026-10-10 21:29:48投稿」

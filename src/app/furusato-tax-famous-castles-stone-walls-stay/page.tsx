@@ -115,10 +115,8 @@ export default function FurusatoUpgradedPage() {
 
           {/* 公式キャンペーンCTA */}
           <div className="p-6 rounded-3xl bg-gradient-to-br from-amber-500/20 via-amber-600/10 to-transparent border border-amber-500/30 backdrop-blur max-w-2xl mx-auto shadow-2xl">
-            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">
-              楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！
-            </h2>
-            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">
+            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！｜日本百名城の石垣美と天守を望む城下町名門ホテル×ふる</h2>
+            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">【日本百名城の石垣美と天守を望む城下町名門ホテル×ふる】 
               寄附翌日には楽天トラベルで使えるクーポンが付与。有効期限はたっぷり3年間あるため、次の大型連休や記念日旅行にも安心してご活用いただけます。
             </p>
             <a
@@ -136,9 +134,7 @@ export default function FurusatoUpgradedPage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          この特集で出会える極上の滞在体験と3つの魅力
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">この特集で出会える極上の滞在体験と3つの魅力｜日本百名城の石垣美と天守を望む城下町名門ホテル×ふる</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="01" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
@@ -262,31 +258,29 @@ export default function FurusatoUpgradedPage() {
       {/* 利用ステップ */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-t border-stone-800">
         <div className="rounded-3xl bg-gradient-to-br from-amber-500/10 via-stone-900 to-stone-950 border border-amber-500/20 p-8 sm:p-12 text-center">
-          <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-4">
-            ふるさと納税トラベルクーポンの簡単3ステップ
-          </h2>
-          <p className="text-stone-300 text-sm sm:text-base max-w-2xl mx-auto mb-10 leading-relaxed">
+          <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-4">ふるさと納税トラベルクーポンの簡単3ステップ｜日本百名城の石垣美と天守を望む城下町名門ホテル×ふる</h2>
+          <p className="text-stone-300 text-sm sm:text-base max-w-2xl mx-auto mb-10 leading-relaxed">【日本百名城の石垣美と天守を望む城下町名門ホテル×ふる】 
             寄附から割引適用まで全てオンラインで完結。実質2,000円の負担で憧れの名旅館や絶景リゾートをお得に楽しめます。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-left mb-10">
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
               <div className="text-2xl font-black text-amber-400 mb-2">STEP 01</div>
-              <h3 className="font-bold text-white mb-2">自治体に寄附する</h3>
-              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
+              <h3 className="font-bold text-white mb-2">自治体に寄附する（日本百名城の石垣美と天守を望む城下町名門ホテル×ふる）</h3>
+              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">【日本百名城の石垣美と天守を望む城下町名門ホテル×ふる】 
                 宿泊したい施設がある自治体を選び、楽天ふるさと納税で寄附を申し込みます。楽天ポイントも通常通り進呈されます。
               </p>
             </div>
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
               <div className="text-2xl font-black text-amber-400 mb-2">STEP 02</div>
-              <h3 className="font-bold text-white mb-2">クーポンが自動付与</h3>
-              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
+              <h3 className="font-bold text-white mb-2">クーポンが自動付与（日本百名城の石垣美と天守を望む城下町名門ホテル×ふる）</h3>
+              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">【日本百名城の石垣美と天守を望む城下町名門ホテル×ふる】 
                 寄附完了の翌日、楽天アカウントの「マイクーポン」に寄附額に応じた宿泊割引クーポンが自動的に追加されます。
               </p>
             </div>
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
               <div className="text-2xl font-black text-amber-400 mb-2">STEP 03</div>
-              <h3 className="font-bold text-white mb-2">楽天トラベルで予約</h3>
-              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
+              <h3 className="font-bold text-white mb-2">楽天トラベルで予約（日本百名城の石垣美と天守を望む城下町名門ホテル×ふる）</h3>
+              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">【日本百名城の石垣美と天守を望む城下町名門ホテル×ふる】 
                 対象のホテル・旅館を予約する際、決済画面でクーポンを選択するだけで宿泊代金から最大30%が即座に割引されます。
               </p>
             </div>
@@ -305,7 +299,7 @@ export default function FurusatoUpgradedPage() {
 
       {/* 相互リンク */}
       <section className="py-12 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto">
-        <h2 className="text-xl font-black text-amber-200 mb-6">あわせて読みたい極上ふるさと納税旅特集</h2>
+        <h2 className="text-xl font-black text-amber-200 mb-6">あわせて読みたい極上ふるさと納税旅特集｜日本百名城の石垣美と天守を望む城下町名門ホテル×ふる</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <Link
             href="/furusato-tax-three-great-scenic-coasts-stay/"
@@ -460,7 +454,7 @@ export default function FurusatoUpgradedPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「日本百名城の石垣美と天守を望む城下町名門ホテル×ふるさと納税厳選ガイド松本城・姫路城・熊本城」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR鹿児島本線『熊本駅』から車で約10分／市電『通町筋』下車徒歩約3分／九州自動車道『熊本IC』より車で約40分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【日本百名城の石垣美と天守を望む城下町名門ホテル×ふる】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から熊本城のライトアップと朝日を堪能部屋から熊本城が眺められ、夜はライトアップ、朝は朝日に照らされ、雄大なお城を間近で見ることができました。」
@@ -480,16 +474,16 @@ export default function FurusatoUpgradedPage() {
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/%E7%A7%8B%E3%81%AE%E4%B8%8A%E9%AB%98%E5%9C%B0_%28Kamikochi_in_autumn%29_24_Oct%2C_2011_-_panoramio.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" alt="上高地（河童橋）" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">上高地（河童橋）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">北アルプスの雄大な自然に抱かれた日本を代表する山岳景勝地。梓川に架かる木造の河童橋と、穂高連峰・焼岳の雄姿が織りなす清涼な風景は格別です。 上高地（かみこうち）は、長野県松本市の西部、清流梓川（あずさがわ）上流に所在する県を代表する山岳景勝地。飛騨山脈（北アルプス）南部の長野県側（全域が松本市）に属する。中部山岳国立公園の一部ともなっており、国の文化財（特別名勝・特別天然記念物/天然保護区域）に指定されている。河童橋や大正池など上高地自体が国内外から観光客が訪れる一大観光地であるだけでなく、上高…</p>
+                <h3 className="text-base font-bold text-stone-900">上高地（河童橋）（日本百名城の石垣美と天守を望む城下町名門ホテル×ふる）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本百名城の石垣美と天守を望む城下町名門ホテル×ふる】 北アルプスの雄大な自然に抱かれた日本を代表する山岳景勝地。梓川に架かる木造の河童橋と、穂高連峰・焼岳の雄姿が織りなす清涼な風景は格別です。 上高地（かみこうち）は、長野県松本市の西部、清流梓川（あずさがわ）上流に所在する県を代表する山岳景勝地。飛騨山脈（北アルプス）南部の長野県側（全域が松本市）に属する。中部山岳国立公園の一部ともなっており、国の文化財（特別名勝・特別天然記念物/天然保護区域）に指定されている。河童橋や大正池など上高地自体が国内外から観光客が訪れる一大観光地であるだけでなく、上高…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">国宝 松本城</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">現存する五重六階の天守の中で最古の歴史を誇る国宝名城。漆黒の壁と北アルプスの雪山を背にした佇まいから「烏城（からすじょう）」と親しまれています。</p>
+                <h3 className="text-base font-bold text-stone-900">国宝 松本城（日本百名城の石垣美と天守を望む城下町名門ホテル×ふる）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本百名城の石垣美と天守を望む城下町名門ホテル×ふる】 現存する五重六階の天守の中で最古の歴史を誇る国宝名城。漆黒の壁と北アルプスの雪山を背にした佇まいから「烏城（からすじょう）」と親しまれています。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -497,15 +491,15 @@ export default function FurusatoUpgradedPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
                 <h3 className="text-base font-bold text-stone-900">善光寺</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「一生に一度は善光寺参り」と称される無宗派の古刹。国宝の本堂や床下の暗闇を進む「お戒壇めぐり」、長層の仲見世通りの門前街散策が見どころです。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本百名城の石垣美と天守を望む城下町名門ホテル×ふる】 「一生に一度は善光寺参り」と称される無宗派の古刹。国宝の本堂や床下の暗闇を進む「お戒壇めぐり」、長層の仲見世通りの門前街散策が見どころです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Mikasa-Dori%2C_Karuizawa.jpg/1280px-Mikasa-Dori%2C_Karuizawa.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="軽井沢プリンスショッピングプラザ" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">軽井沢プリンスショッピングプラザ</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">浅間山を望む爽やかな高原リゾート地・軽井沢駅前に広がる日本最大級のアウトレットモール。豊かな自然景観の中で贅沢な買い物を楽しめます。 軽井沢（かるいざわ）は、長野県東信地方の佐久地域を中心に見られる地名である。避暑地・別荘地としてブランド化された地名であり、狭義には長野県北佐久郡軽井沢町の旧軽井沢地区（ウィキ座標、旧軽井沢メインストリートも参照）あるいは軽井沢町全体を指し、広義には隣接する御代田町（西軽井沢）、群馬県吾妻郡長野原町大字北軽井沢・吾妻郡嬬恋村（奥軽井沢）・安中市（東軽井沢）と…</p>
+                <h3 className="text-base font-bold text-stone-900">軽井沢プリンスショッピングプラザ（日本百名城の石垣美と天守を望む城下町名門ホテル×ふる）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本百名城の石垣美と天守を望む城下町名門ホテル×ふる】 浅間山を望む爽やかな高原リゾート地・軽井沢駅前に広がる日本最大級のアウトレットモール。豊かな自然景観の中で贅沢な買い物を楽しめます。 軽井沢（かるいざわ）は、長野県東信地方の佐久地域を中心に見られる地名である。避暑地・別荘地としてブランド化された地名であり、狭義には長野県北佐久郡軽井沢町の旧軽井沢地区（ウィキ座標、旧軽井沢メインストリートも参照）あるいは軽井沢町全体を指し、広義には隣接する御代田町（西軽井沢）、群馬県吾妻郡長野原町大字北軽井沢・吾妻郡嬬恋村（奥軽井沢）・安中市（東軽井沢）と…</p>
               </div>
             </div>
             </div>

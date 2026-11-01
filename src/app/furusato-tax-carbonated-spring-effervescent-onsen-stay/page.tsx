@@ -61,10 +61,8 @@ export default function FurusatoFeaturePage() {
 
           {/* 公式キャンペーンCTA */}
           <div className="p-6 rounded-3xl bg-gradient-to-br from-amber-500/20 via-amber-600/10 to-transparent border border-amber-500/30 backdrop-blur max-w-2xl mx-auto">
-            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">
-              楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！
-            </h2>
-            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">
+            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！｜天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選</h2>
+            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">【天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選】 
               寄附翌日には楽天トラベルで使えるクーポンが付与。有効期限はたっぷり3年間あるため、次の大型連休や記念日旅行にも安心して活用いただけます。
             </p>
             <a
@@ -596,10 +594,8 @@ export default function FurusatoFeaturePage() {
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto">
         <div className="p-8 sm:p-10 rounded-3xl bg-gradient-to-r from-amber-600/30 via-orange-600/20 to-stone-900 border border-amber-500/40 text-center relative overflow-hidden">
           <div className="relative z-10">
-            <h2 className="text-2xl sm:text-3xl font-black text-amber-100 mb-4">
-              ふるさと納税の宿泊クーポンでお得に極上の旅へ
-            </h2>
-            <p className="text-sm sm:text-base text-stone-300 max-w-2xl mx-auto mb-6 leading-relaxed">
+            <h2 className="text-2xl sm:text-3xl font-black text-amber-100 mb-4">ふるさと納税の宿泊クーポンでお得に極上の旅へ｜天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選</h2>
+            <p className="text-sm sm:text-base text-stone-300 max-w-2xl mx-auto mb-6 leading-relaxed">【天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選】 
               寄附上限額の範囲内なら、実質自己負担2,000円で憧れの特等席宿やリゾートに宿泊可能。楽天ポイント還元も併用して、賢く贅沢なひとときをお過ごしください。
             </p>
             <a
@@ -617,9 +613,7 @@ export default function FurusatoFeaturePage() {
 
       {/* 関連記事 内部リンク */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-t border-stone-800">
-        <h2 className="text-xl sm:text-2xl font-bold text-amber-200 mb-6">
-          あわせて読みたい！テーマ別ふるさと納税トラベルガイド
-        </h2>
+        <h2 className="text-xl sm:text-2xl font-bold text-amber-200 mb-6">あわせて読みたい！テーマ別ふるさと納税トラベルガイド｜天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <Link
@@ -778,7 +772,7 @@ export default function FurusatoFeaturePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選ガイド長湯・下呂・有馬の極上泡風呂」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ豊肥本線　豊後竹田駅より車で２０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔だがカビ臭く、風呂の設備も不満新館に泊まりましたが、確かにトイレはウォッシュレットで綺麗でした。部屋も清潔でしたが、カビ臭くてエアコンを見ると見たく無いくらいにホコリだらけ...カビ臭くて当た…　2026-09-19 18:22:38投稿」
@@ -800,7 +794,7 @@ export default function FurusatoFeaturePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選ガイド長湯・下呂・有馬の極上泡風呂」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR豊肥本線・豊後竹田駅よりお車にて25分。（駅から路線バスもあります。長湯行き約40分、長湯下車。）</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「何十年ぶりかに訪れましたが、相変わらず温泉は最高です。今回の旅館は、初めてでしたが長い歴史を感じさせる雰囲気のある旅館でした。テレビの調子が悪くてほとんど見れませんでしたが、それがまた良かった…　2026-09-14 18:41:51投稿」
@@ -822,7 +816,7 @@ export default function FurusatoFeaturePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>炭酸泉の100％源泉掛け流し天然温泉宿☆野菜やお米は自家栽培♪</p>
                   <p><strong>【所在地・アクセス】</strong>〒 大分県竹田市久住町仏原1066-2 ／ 最寄り駅：豊後竹田 ／ 交通案内：豊後竹田駅からバスで４５分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
+                  <p>【天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「高級宿に負けないおもてなしと美味しい料理安価でしたので期待はしていませんでしたが高級宿に負けないおもてなしをして頂きました。お料理も少ないとの情報でしたがとても美味しく満腹になりました。登山が趣味…　2026-08-02 13:19:17投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=137839&quot; class=&quot;3click&quot;」
@@ -866,7 +860,7 @@ export default function FurusatoFeaturePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>御嶽山から流れる清流秋神川　広がる大自然を眺めながら、くつろぎのひとときをご堪能ください。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 岐阜県高山市朝日町胡桃島8 ／ 最寄り駅：高山 ／ 交通案内：ＪＲ　高山駅からお車で４０分、バスで５０分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
+                  <p>【天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>くるみ温泉＆キャンプの滞在ポイント：</strong>「天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選ガイド長湯・下呂・有馬の極上泡風呂エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」

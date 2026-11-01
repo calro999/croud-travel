@@ -123,10 +123,8 @@ export default function LuxuryWinterFeaturePage() {
         
         {/* 導入解説 */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
-          <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-amber-600 shrink-0" />
-            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600 shrink-0" />
+            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>｜2026-2027年11-12月初冬の長野・松本奥座</h2>
           <p className="text-xs md:text-sm text-slate-700 leading-relaxed whitespace-pre-line">
             国宝松本城が鎮座する城下町・松本市街地から、車で薄川（すすきがわ）の渓谷沿いを遡ること約30分。八ヶ岳中信高原国定公園の原生林が迫る山峡の最奥部、手つかずの大自然に抱かれてひっそりと湯煙を立ち上らせる秘湯が『扉温泉（とびらおんせん）』です。その昔、天手力雄命（あめのたぢからおのみこと）が天の岩戸を開いた際、その岩の扉を運ぶ途中にこの地に落としたという神話から名付けられた神聖な地。この山峡に凛として佇むのが、世界の一流ホテルや名門レストランのみが加盟を許される世界的権威『ルレ・エ・シャトー』に日本国内でいち早く加盟した最高峰の名宿『扉温泉 明神館（みょうじんかん）』です。明神館の代名詞とも言えるのが、渓流のせせらぎを眼下に望む名物露天風呂『雪見立ち湯・雪月花』。深さ約120cmの湯船に立ったまま肩まで浸かると、手すりの向こうに広がる原生林と清流、そして初冬の白雪が視界いっぱいに広がり、まるで自然のキャンバスの中に溶け込んだかのような神秘的な感覚を味わえます。無色透明で胃腸病や疲労回復に効能豊かな弱アルカリ性単純温泉は、入るたびに心身の凝りを解きほぐしてくれます。そして明神館が世界中の美食家を惹きつけてやまないもうひとつの理由が、自社農園で無農薬栽培された朝採れ野菜と信州の恵みを主役にした至高のディナー。現代フランス料理の技法で仕立てるオーガニックフレンチ『ナチュレフレンチ』または伝統の『信州創作和食会席』を選べ、信州プレミアム牛のローストや清らかな湧水で育った信州サーモンが芸術的な一皿となって供されます。携帯電話の電波が届きにくいほどの静寂の中、渓流の音と暖炉の薪がはぜる音だけを聞きながら過ごす初冬の扉温泉は、五感を完全にリセットする本物のウェルネスリトリート体験となります。
           </p>
@@ -560,10 +558,8 @@ export default function LuxuryWinterFeaturePage() {
 
         {/* アクセス＆見頃情報 */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300">
-            <Train className="w-5 h-5 shrink-0" />
-            <span>アクセスガイド・気候と服装のポイント</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300"><Train className="w-5 h-5 shrink-0" />
+            <span>アクセスガイド・気候と服装のポイント</span>｜2026-2027年11-12月初冬の長野・松本奥座</h2>
           <div className="text-xs md:text-sm text-slate-300 leading-relaxed whitespace-pre-line">
             【エリアへのアクセス】
 ・電車：JR篠ノ井線・中央本線「松本駅」下車。JR新宿駅より特急「あずさ」で約2時間30分、名古屋駅より特急「しなの」で約2時間。松本駅アルプス口（西口）より明神館の無料送迎シャトルバス（予約制）で約35分。
@@ -579,10 +575,8 @@ export default function LuxuryWinterFeaturePage() {
 
         {/* よくある質問 (FAQ) */}
         <section className="bg-slate-100 rounded-2xl p-6 md:p-8 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2">
-            <ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
-            <span>よくある質問（FAQ）</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
+            <span>よくある質問（FAQ）</span>｜2026-2027年11-12月初冬の長野・松本奥座</h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
             <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
@@ -616,9 +610,7 @@ export default function LuxuryWinterFeaturePage() {
 
         {/* ふるさと納税・関連リンク */}
         <section className="bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 rounded-2xl p-6 md:p-8 space-y-3 text-center">
-          <h2 className="text-xl md:text-2xl font-black">
-            楽天トラベル ふるさと納税で最大30%お得に予約！
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！｜2026-2027年11-12月初冬の長野・松本奥座</h2>
           <p className="text-xs md:text-sm max-w-xl mx-auto font-medium">
             高価格帯の高級宿だからこそ、楽天トラベルふるさと納税クーポンの割引効果は絶大。実質2,000円の自己負担で憧れのスイートルームに宿泊できます。
           </p>

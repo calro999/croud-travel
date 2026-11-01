@@ -99,10 +99,8 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
 
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
-          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-6 flex items-center gap-3">
-            <span className="text-amber-600 text-xl md:text-2xl">◆</span>
-            この旅で体感したい3つの醍醐味
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-6 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
+            この旅で体感したい3つの醍醐味｜お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館</h2>
           <div className="grid gap-6">
 
             <div className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200/80 shadow-xs">
@@ -155,11 +153,9 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
         {/* 厳選名宿セクション */}
         <section className="mb-16">
           <div className="mb-8">
-            <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-3 flex items-center gap-3">
-              <span className="text-amber-600 text-xl md:text-2xl">◆</span>
-              ふるさと納税で泊まる厳選名宿
-            </h2>
-            <p className="text-stone-600 text-sm leading-relaxed">
+            <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-3 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
+              ふるさと納税で泊まる厳選名宿｜お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館</h2>
+            <p className="text-stone-600 text-sm leading-relaxed">【お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館】 
               楽天トラベルAPIから最新の実在宿データを取得。対象自治体のふるさと納税クーポンを利用して実質2,000円で泊まれる名宿です。
             </p>
           </div>
@@ -194,7 +190,7 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     城崎温泉のシンボルとして百六十余年の歴史を誇り、国の登録有形文化財にも選ばれる日本屈指の名門旅館。丹精込めて手入れされた広大な日本庭園を取り囲むように配された数寄屋造りの客室で、伝統の部屋食会席を堪能できます。冬は幻の松葉蟹、四季を通じて神戸ビーフの素牛である但馬牛や日本海の鮮魚をふんだんに使用し、専任の仲居さんが一品ずつ心を込めて配膳。歴史の重みを感じる美しい和の空間で名湯・城崎の湯に浸かり、日本旅館のおもてなしの神髄を体感できます。
                   </p>
-                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">
+                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">【お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館】 
                     訪れるすべてのお客様に心安らぐ贅沢な寛ぎの時間を提供し、高い評価を獲得している極上宿です。
                   </p>
                   
@@ -355,9 +351,7 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
 
         {/* 関連特集クロスリンク */}
         <section className="bg-stone-50 rounded-3xl p-8 border border-stone-200/80 mb-16">
-          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">
-            あわせて読みたい関連特集
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">あわせて読みたい関連特集｜お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館</h2>
           <ul className="grid sm:grid-cols-2 gap-2">
 
               <li key="furusato-tax-luxury-hotspring-ryokan-stay">
@@ -396,10 +390,8 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
 
         {/* ハブページへの誘導フッター */}
         <div className="bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 text-white rounded-3xl p-8 md:p-10 shadow-xl border border-amber-900/40 text-center mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">
-            もっとお得に旅を楽しむためのハブページへ
-          </h2>
-          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">
+          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">もっとお得に旅を楽しむためのハブページへ｜お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館</h2>
+          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">【お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館】 
             全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
@@ -429,7 +421,7 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 車 北近畿豊岡自動車道 豊岡出石ICより約18分 電車 城崎温泉駅より徒歩15分（旅館組合無料バス有）で現地へ到着。</li>
@@ -441,7 +433,7 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「城崎温泉 西村屋本館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -495,9 +487,7 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-hokkaido-akanko-onsen-lakeview-frost-flower-hokkaido-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -518,7 +508,7 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（お部屋食でゆったり寛ぐ極上会席料理＆老舗名門温泉旅館）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/saitama/"

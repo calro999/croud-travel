@@ -235,10 +235,8 @@ export default function Page() {
         {/* 厳選ホテルリスト */}
         <section className="space-y-10">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">
-              楽天ふるさと納税で泊まる名宿＆厳選ホテル
-            </h2>
-            <p className="text-xs md:text-sm text-slate-500">
+            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル｜日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ</h2>
+            <p className="text-xs md:text-sm text-slate-500">【日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ】 
               楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
             </p>
           </div>
@@ -334,10 +332,8 @@ export default function Page() {
         {/* 楽天ふるさと納税トラベル利用ステップ */}
         <section className="bg-gradient-to-br from-slate-900 to-emerald-950 text-white rounded-2xl p-6 md:p-8 space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-xl md:text-2xl font-bold">
-              楽天ふるさと納税×楽天トラベル 簡単3ステップ
-            </h2>
-            <p className="text-xs md:text-sm text-slate-300">
+            <h2 className="text-xl md:text-2xl font-bold">楽天ふるさと納税×楽天トラベル 簡単3ステップ｜日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ</h2>
+            <p className="text-xs md:text-sm text-slate-300">【日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ】 
               実質2,000円の自己負担で憧れの高級宿・温泉旅館をお得に予約できます
             </p>
           </div>
@@ -347,8 +343,8 @@ export default function Page() {
               <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
                 1
               </div>
-              <h3 className="font-bold text-sm text-white">自治体に寄付</h3>
-              <p className="text-xs leading-relaxed text-slate-300">
+              <h3 className="font-bold text-sm text-white">自治体に寄付（日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ）</h3>
+              <p className="text-xs leading-relaxed text-slate-300">【日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ】 
                 希望の自治体と寄付金額を選び、楽天ふるさと納税で寄付を行います。寄付額に応じたトラベルクーポンが即時付与されます。
               </p>
             </div>
@@ -357,8 +353,8 @@ export default function Page() {
               <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
                 2
               </div>
-              <h3 className="font-bold text-sm text-white">対象宿・プランを予約</h3>
-              <p className="text-xs leading-relaxed text-slate-300">
+              <h3 className="font-bold text-sm text-white">対象宿・プランを予約（日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ）</h3>
+              <p className="text-xs leading-relaxed text-slate-300">【日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ】 
                 楽天トラベルで対象地域の宿泊施設を検索。獲得したふるさと納税クーポンを予約ステップで適用します。
               </p>
             </div>
@@ -367,8 +363,8 @@ export default function Page() {
               <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
                 3
               </div>
-              <h3 className="font-bold text-sm text-white">現地で贅沢ステイ</h3>
-              <p className="text-xs leading-relaxed text-slate-300">
+              <h3 className="font-bold text-sm text-white">現地で贅沢ステイ（日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ）</h3>
+              <p className="text-xs leading-relaxed text-slate-300">【日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ】 
                 宿泊当日は通常通りチェックイン。割引されたお得な価格で、名湯や美食、絶景体験を満喫できます。
               </p>
             </div>
@@ -436,7 +432,7 @@ export default function Page() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 大野浦駅よりアクセス。ＪＲ大野浦駅より送迎有り／山陽自動車道大野ＩＣより約７～８分。</li>
@@ -448,7 +444,7 @@ export default function Page() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ）</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「宮浜温泉 湯の宿 宮浜グランドホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -502,9 +498,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              あわせて読みたい人気特集＆全国エリアガイド
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-tochigi-okunikko-kegon-falls-ice-yumoto-snow-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -525,7 +519,7 @@ export default function Page() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ）</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/saga/"
@@ -697,32 +691,32 @@ export default function Page() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">日光東照宮</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">徳川家康公を祀る世界遺産「日光の社寺」の代表格。陽明門の豪華絢爛な彫刻や「三猿」「眠り猫」など、日本の伝統美と歴史の深さを実感できます。</p>
+                <h3 className="text-base font-bold text-stone-900">日光東照宮（日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ】 徳川家康公を祀る世界遺産「日光の社寺」の代表格。陽明門の豪華絢爛な彫刻や「三猿」「眠り猫」など、日本の伝統美と歴史の深さを実感できます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">華厳の滝</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">中禅寺湖の水が高さ97mの断崖を一気に落下する日本三大名瀑の一つ。観瀑エレベーターで滝つぼ近くまで下りると、水煙と爆音の圧倒的なスケールに圧倒されます。</p>
+                <h3 className="text-base font-bold text-stone-900">華厳の滝（日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ】 中禅寺湖の水が高さ97mの断崖を一気に落下する日本三大名瀑の一つ。観瀑エレベーターで滝つぼ近くまで下りると、水煙と爆音の圧倒的なスケールに圧倒されます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">あしかがフラワーパーク</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">樹齢150年を超える大藤棚や長さ80mの白藤のトンネルが有名な花のテーマパーク。CNN「世界のアメイジングな旅行先10選」にも選ばれた幻想的な美しさです。</p>
+                <h3 className="text-base font-bold text-stone-900">あしかがフラワーパーク（日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ】 樹齢150年を超える大藤棚や長さ80mの白藤のトンネルが有名な花のテーマパーク。CNN「世界のアメイジングな旅行先10選」にも選ばれた幻想的な美しさです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/20090321%E9%82%A3%E9%A0%88%E5%B2%B3.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" alt="那須高原" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">那須高原</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">那須岳の裾野に広がる日本有数のロイヤルリゾート。おしゃれなカフェや美術館、温泉、アミューズメント施設が点在し、爽やかな高原ドライブに最適です。 那須高原（なすこうげん）とは、栃木県北部の那須岳の南側山麓地域を言い、那須岳の標高千数百メートルの地域より東北本線、国道4号が通る標高300m辺りまで、緩やかな斜面が広がる。また、那珂川を挟んで那須野が原、那須高原の北西側は福島県の甲子高原に連なる。…</p>
+                <h3 className="text-base font-bold text-stone-900">那須高原（日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ】 那須岳の裾野に広がる日本有数のロイヤルリゾート。おしゃれなカフェや美術館、温泉、アミューズメント施設が点在し、爽やかな高原ドライブに最適です。 那須高原（なすこうげん）とは、栃木県北部の那須岳の南側山麓地域を言い、那須岳の標高千数百メートルの地域より東北本線、国道4号が通る標高300m辺りまで、緩やかな斜面が広がる。また、那珂川を挟んで那須野が原、那須高原の北西側は福島県の甲子高原に連なる。…</p>
               </div>
             </div>
             </div>
@@ -743,7 +737,7 @@ export default function Page() {
 
       {/* フッター */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs border-t border-slate-800">
-        <p>© 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
+        <p>【日本三大奇橋＆木造アーチ・断崖渓谷の刎橋と名湯宿×ふ】 © 2026 トラベルポータル All Rights Reserved. 掲載情報は最新の楽天トラベル公式APIに基づきます。</p>
       </footer>
     
       <HubRelatedPosts currentSlug="furusato-tax-three-great-unusual-bridges-stay" />

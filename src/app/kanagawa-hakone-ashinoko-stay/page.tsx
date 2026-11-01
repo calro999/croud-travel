@@ -330,7 +330,7 @@ export default function MicroTouristHubPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>SNSで話題の水盤テラス＆足湯♪ 色浴衣を身にまとい、五感が喜ぶ温泉リゾートでフォトジェニックな旅を</p>
                   <p><strong>【所在地・アクセス】</strong>〒 神奈川県足柄下郡箱根町元箱根桃源台160 ／ 最寄り駅：主要駅 ／ 交通案内：桃源台駅より徒歩にて約2分</p>
-                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【箱根・芦ノ湖＆元箱根：湖畔鳥居・海賊船＆富士ビュー極】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「芦ノ湖の絶景と充実のビュッフェに大満足部屋からの芦ノ湖の景色が良く、ビュッフェも充実していて美味しかったです。従業員の方の対応も良く、機会があればまた訪れたいです。クチコミの詳細はこちらから　…　2026-08-30 20:38:00投稿」
@@ -460,24 +460,24 @@ export default function MicroTouristHubPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">横浜みなとみらい21</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
+                <h3 className="text-base font-bold text-stone-900">横浜みなとみらい21（箱根・芦ノ湖＆元箱根：湖畔鳥居・海賊船＆富士ビュー極）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【箱根・芦ノ湖＆元箱根：湖畔鳥居・海賊船＆富士ビュー極】 ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">鎌倉大仏（高徳院）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">高さ約11.3mを誇る鎌倉のシンボル的な国宝銅造阿弥陀如来坐像。四季折々の花々や歴史ある古刹巡り、小町通りの食べ歩きとともに鎌倉散策の定番です。</p>
+                <h3 className="text-base font-bold text-stone-900">鎌倉大仏（高徳院）（箱根・芦ノ湖＆元箱根：湖畔鳥居・海賊船＆富士ビュー極）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【箱根・芦ノ湖＆元箱根：湖畔鳥居・海賊船＆富士ビュー極】 高さ約11.3mを誇る鎌倉のシンボル的な国宝銅造阿弥陀如来坐像。四季折々の花々や歴史ある古刹巡り、小町通りの食べ歩きとともに鎌倉散策の定番です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Lake_Ashi_from_Mt.Komagatake_03-2.jpg/1280px-Lake_Ashi_from_Mt.Komagatake_03-2.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="箱根 芦ノ湖・大涌谷" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">箱根 芦ノ湖・大涌谷</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">富士山を望む箱根海賊船クルーズが人気の芦ノ湖と、現在も硫黄煙が噴き出す火山地帯・大涌谷。名物の「黒たまご」を食べると寿命が延びると伝えられます。 箱根（はこね、古くは「函根」、「函嶺」とも呼ばれた）は、静岡県に近い神奈川県南西部の一角、箱根カルデラ近辺の一帯を指す地名。…</p>
+                <h3 className="text-base font-bold text-stone-900">箱根 芦ノ湖・大涌谷（箱根・芦ノ湖＆元箱根：湖畔鳥居・海賊船＆富士ビュー極）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">【箱根・芦ノ湖＆元箱根：湖畔鳥居・海賊船＆富士ビュー極】 富士山を望む箱根海賊船クルーズが人気の芦ノ湖と、現在も硫黄煙が噴き出す火山地帯・大涌谷。名物の「黒たまご」を食べると寿命が延びると伝えられます。 箱根（はこね、古くは「函根」、「函嶺」とも呼ばれた）は、静岡県に近い神奈川県南西部の一角、箱根カルデラ近辺の一帯を指す地名。…</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -485,7 +485,7 @@ export default function MicroTouristHubPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
                 <h3 className="text-base font-bold text-stone-900">江の島</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">湘南海岸に浮かぶ美しい島。江島神社への参道散策やシーキャンドル（展望灯台）からの太平洋の絶景、新鮮な生しらす丼など魅力が詰まっています。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">【箱根・芦ノ湖＆元箱根：湖畔鳥居・海賊船＆富士ビュー極】 湘南海岸に浮かぶ美しい島。江島神社への参道散策やシーキャンドル（展望灯台）からの太平洋の絶景、新鮮な生しらす丼など魅力が詰まっています。</p>
               </div>
             </div>
             </div>

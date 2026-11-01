@@ -1,5 +1,5 @@
 ---
-title: "日本刀体験ができる宿おすすめ10選！比較"
+title: "【2026最新】日本刀鍛錬見学＆ペーパーナイフ・小刀古式鍛造体験ができる名門温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較"
 url: "https://croud-travel.pages.dev/posts/katana-sword-smithing-forge-craft-onsen-hotels-guide/"
 hotel_name: "日本刀鍛錬見学＆ペーパーナイフ・小刀古式鍛造体験ができる名門温泉宿おすすめ10選"
 prefecture: "全国"
@@ -10,7 +10,7 @@ review_count: 492
 last_modified: "2026-10-13"
 ---
 
-# 日本刀体験ができる宿おすすめ10選！比較
+# 【2026最新】日本刀鍛錬見学＆ペーパーナイフ・小刀古式鍛造体験ができる名門温泉宿おすすめ10選｜楽天トラベル高評価の人気宿・温泉・体験プラン徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/katana-sword-smithing-forge-craft-onsen-hotels-guide/
 - **宿泊施設・特集名**: 日本刀鍛錬見学＆ペーパーナイフ・小刀古式鍛造体験ができる名門温泉宿おすすめ10選
