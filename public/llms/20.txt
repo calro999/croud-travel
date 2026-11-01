@@ -1,4 +1,14 @@
-# 長野県の宿泊・観光記事（99件）
+# 長野県の宿泊・観光記事（100件）
+
+## 【長野・軽井沢】雲場池の紅葉水鏡＆軽井沢高原教会クリスマスイルミネーション2026完全攻略！白糸の滝ライトアップと星野温泉・信州フレンチを味わう極上リゾート宿5選
+- 記事: https://croud-travel.pages.dev/posts/autumn-winter-karuizawa-kumobaike-illumination-resort-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/autumn-winter-karuizawa-kumobaike-illumination-resort-hotels-guide.md
+- 宿泊施設名: ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）・軽井沢マリオットホテル ほか
+- エリア: 軽井沢・佐久・小諸
+- 参考価格: ¥¥13,396〜〜
+- 評価: 4.74
+
+11月上旬の「スワンレイク」雲場池の水鏡紅葉から、11月中旬〜12月下旬にかけて森を無数のランタンキャンドルが照らす「軽井沢高原教会 星降る森のクリスマス」へ。秋の深まりとともにロマンチックな光の季節へと移ろう日本屈指の高原リゾート・軽井沢。旧軽銀座の秋散策、澄んだ星空を望む露天風呂、薪火料理や伝統の信州フレンチ、歴史を誇る名門ホテルから温泉リゾートまで厳選5宿を徹底解説。
 
 ## 【長野・松本】国宝松本城 天守ナイトイルミネーション＆晩秋の信州アルプス完全攻略！漆黒の名城を彩る光のレーザーと浅間温泉・美ヶ原温泉の名湯巡る厳選宿5選
 - 記事: https://croud-travel.pages.dev/posts/autumn-winter-matsumoto-castle-night-illumination-onsen-hotels-guide/

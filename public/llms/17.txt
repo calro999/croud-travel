@@ -1,4 +1,23 @@
-# 石川県の宿泊・観光記事（66件）
+# 石川県の宿泊・観光記事（68件）
+
+## 【石川・金沢/加賀】兼六園の雪吊り＆秋の段ライトアップ2026完全攻略！11月解禁の加能ガニ・香箱ガニと名湯・山中温泉・辰口温泉を巡る厳選極上宿5選
+- 記事: https://croud-travel.pages.dev/posts/autumn-winter-kanazawa-kenrokuen-yukitsuri-crab-kaiseki-onsen-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/autumn-winter-kanazawa-kenrokuen-yukitsuri-crab-kaiseki-onsen-hotels-guide.md
+- 宿泊施設名: 金沢辰口温泉　まつさき・山中温泉　花紫 ほか
+- エリア: 金沢・加賀温泉郷・白山
+- 参考価格: ¥¥10,000〜〜
+- 評価: 5
+
+11月1日に始まる兼六園の冬支度「雪吊り」と、モミジが黄金色の縄に映える夜間ライトアップ「四季物語 秋の段」。そして11月6日には日本海の冬の味覚の王様「加能ガニ（ズワイガニ）」と内子・外子が詰まった「香箱ガニ」の漁がいよいよ解禁！近江町市場の熱気、金沢城と兼六園の無料開園スケジュール、極上の茹でガニ・焼きガニ会席と加賀の名湯に癒やされる厳選名宿5選を徹底解説。
+
+## 【石川県観光】温泉街の湯めぐりと風情を満喫する旅！おすすめモデルコースと厳選宿
+- 記事: https://croud-travel.pages.dev/posts/38879/
+- 全文Markdown: https://croud-travel.pages.dev/ai/38879.md
+- 宿泊施設名: 山代温泉　雄山閣（ＢＢＨホテルグループ）
+- エリア: 北陸
+- 評価: 3.74
+
+石川県の絶景・グルメ・温泉を楽しむ旅行特集。厳選したおすすめ宿を拠点に、温泉街の湯めぐりと風情の魅力を余すことなく体験できるモデルコースを旅のエキスパートが徹底解説します。
 
 ## 【2026年11月の金沢】兼六園雪吊り開幕＆金沢城ライトアップ・11月6日解禁「香箱ガニ」美食特選宿5選
 - 記事: https://croud-travel.pages.dev/posts/autumn-november-kanazawa-yukitsuri-kobako-guide/
