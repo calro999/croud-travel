@@ -412,7 +412,7 @@ export default function FurusatoSeasonalFruitPickingStayPage() {
 
         {/* フッター */}
         <footer className="text-center text-xs text-stone-400 pt-6 border-t border-stone-200">
-          <p>※表示内容は2026年9月時点の情報です。最新の宿泊プラン・クーポン対象施設は楽天トラベルにてご確認ください。</p>
+          <p>※「果樹園の旬フルーツ狩り＆名門ワイナリー・美肌温泉宿×ふるさと納税厳選ガイド石和・伊豆長岡・飯坂」の掲載情報は最新データに基づいています。日程別の空室状況や配布中クーポンは楽天トラベル各宿ページにてご確認ください。</p>
           <p className="mt-2">
             <Link href="/" className="text-stone-500 hover:text-stone-800 underline transition">旅宿クラウド トップページへ</Link>
           </p>

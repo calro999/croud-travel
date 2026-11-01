@@ -1,4 +1,4 @@
-# 石川県の宿泊・観光記事（69件）
+# 石川県の宿泊・観光記事（72件）
 
 ## 【2026年11月】唐津くんち＆呼子イカ・金沢兼六園の雪吊り・小豆島寒霞渓・島原温泉！楽天★4.4〜4.7の名宿4選
 - 記事: https://croud-travel.pages.dev/posts/autumn-november-karatsu-kunchi-kenrokuen-shodoshima-kankakei-shimabara-guide/
@@ -639,6 +639,16 @@ L'Arc〜en〜Cielの名曲『Link』のミュージックビデオ撮影ロケ�
 
 石川県加賀市山代温泉19-49-1の「山代温泉 ゆのくに天祥」（楽天トラベル評価★4.5（3744件）／1泊目安¥9,900〜）を徹底解説！プロが選ぶホテル・旅館100選(全国総合4位) 楽天・日本の宿アワード2025 W受賞！風呂自慢の宿。部屋タイプ選びのポイントや入浴・食事情報、交通アクセス・駐車場データ、楽天トラベルでの賢い予約方法を紹介します。
 
+## 【洞窟温泉・洞窟風呂おすすめ宿ランキング】南紀勝浦・忘帰洞など日本全国の神秘的な洞窟露天風呂＆名湯旅館（2026最新）
+- 記事: https://croud-travel.pages.dev/posts/cave-bath-geothermal-secret-onsen-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/cave-bath-geothermal-secret-onsen-hotels-guide.md
+- 宿泊施設名: 岩肌から湧き出る本物の名湯！洞窟に響く湯音と幻想的な灯りに包まれて味わう究極の非日常バスタイム
+- エリア: 北陸
+- 参考価格: ¥22066〜
+- 評価: 4.73
+
+日本全国の神秘的な洞窟温泉・洞窟風呂が自慢のおすすめ名湯宿ランキング！南紀勝浦温泉「ホテル浦島（大洞窟風呂 忘帰洞）」や「熊野別邸 中の島」をはじめ、大自然の岩肌と波音に包まれる秘湯・絶景露天風呂を徹底特集。
+
 ## 能登空港：と里山空港の足湯＆ポケモン（ポケふた）極上旅ガイド！珠洲・輪島復興応援旅
 - 記事: https://croud-travel.pages.dev/posts/noto-airport-pokemon-footbath-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/noto-airport-pokemon-footbath-guide.md
@@ -668,6 +678,26 @@ L'Arc〜en〜Cielの名曲『Link』のミュージックビデオ撮影ロケ�
 - 評価: 4.48
 
 能登の豊かな自然と温かいおもてなし。能登牛や日本海の鮮魚、潮風香る温泉で地域の魅力に触れる旅。日本海に突き出た美しい半島・能登。世界農業遺産に認定された「能登の里山里海」が育む豊かな食材と、潮風香る名湯が訪れる人々を温かく迎えてくれます。能登各地に設置された「ポケふた（ポケ...楽天トラベル公式データ連携の最新おすすめ宿泊・観光ガイド。
+
+## 2026年お盆休み今からでも間に合う！夏休みの家族旅行・カップルにおすすめの温泉宿：「お盆・夏休み直前」今から間に合うを満喫する旅ガイド
+- 記事: https://croud-travel.pages.dev/posts/obon-travel-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/obon-travel-guide.md
+- 宿泊施設名: 【2026年お盆休み】今からでも間に合う！夏休みの家族旅行・カップルにおすすめの温泉宿
+- エリア: 北陸
+- 参考価格: ¥22700〜
+- 評価: 4.15
+
+「2026年お盆休み今からでも間に合う！夏休みの家族旅行・カップルにおすすめの温泉宿」の魅力を徹底取材。「お盆・夏休み直前」今から間に合うの見どころ、温泉や食事のこだわり、宿泊者の口コミ評価をご紹介。
+
+## 三世代・敬老の日旅行：シニアも子どもも大満足！バリアフリー＆個室食・貸切風呂が充実した名宿｜失敗しないおすすめ宿ガイド
+- 記事: https://croud-travel.pages.dev/posts/silverweek-3generations-senior-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/silverweek-3generations-senior-guide.md
+- 宿泊施設名: 移動の負担が少なく段差の少ない客室、家族水入らずで楽しめるお部屋食や広々貸切風呂を備えた安心の宿
+- エリア: 北陸
+- 参考価格: ¥9900〜
+- 評価: 4.52
+
+移動の負担が少なく段差の少ない客室、家族水入らずで楽しめるお部屋食や広々貸切風呂を備えた安心の宿。おじいちゃん・おばあちゃんから小さなお子様まで、家族みんなで出かける三世代旅行。快適に過ごすためには、エレベーターや段差配慮のあるバリアフリー対応、気兼ねなく食事ができるお部屋食・...楽天トラベル公式データ連携の最新おすすめ宿泊・観光ガイド。
 
 ## 金箔貼り体験ができる宿おすすめ10選！比較
 - 記事: https://croud-travel.pages.dev/posts/gold-leaf-craft-artisan-experience-onsen-hotels-guide/

@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '2026年：プライベートクルーズ＆ヨットハーバー！海から絶景を望む極上マリーナリゾート5選',
+  title: 'プライベートクルーズ＆ヨットハーバー！海から絶景を望む極上マリーナリゾート5選',
   description: '2026年最新！専用クルーザーでのサンセットクルージングやマリーナ直結のオーシャンビュー客室と天然温泉を楽しめるラグジュアリーホテル5選。',
   keywords: ["2026年", "プライベートクルーズ", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/luxury-chartered-yacht-cruising-resort-stay/",
   },
   openGraph: {
-    title: '2026年：プライベートクルーズ＆ヨットハーバー！海から絶景を望む極上マリーナリゾート5選',
+    title: 'プライベートクルーズ＆ヨットハーバー！海から絶景を望む極上マリーナリゾート5選',
     description: '2026年最新！専用クルーザーでのサンセットクルージングやマリーナ直結のオーシャンビュー客室と天然温泉を楽しめるラグジュアリーホテル5選。',
     url: 'https://croud-travel.pages.dev/luxury-chartered-yacht-cruising-resort-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -172,7 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>プライベートクルーズ×マリーナリゾート</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」プライベートクルーズ＆ヨットハーバー！海から絶景を望む極上マリーナリゾート5選</h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「プライベートクルーズ＆ヨットハーバー（海から絶景を望む極上マリーナリゾート5選）」プライベートクルーズ＆ヨットハーバー！海から絶景を望む極上マリーナリゾート5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             青く輝く海をプライベートクルーザーで巡る爽快なサンセットクルーズ。マリーナに面した開放的なテラス、波音を聞きながら浸かる天然温泉露天風呂、そして新鮮な海の幸を味わう極上ディナー。海を愛する大人のための贅沢なマリンリゾートをご案内します。
           </p>
@@ -509,7 +509,7 @@ export default function Page() {
 
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「2026年」掲載宿の所在地・アクセス・特徴データ一覧
+              🏨 「プライベートクルーズ＆ヨットハーバー（海から絶景を望む極上マリーナリゾート5選）」掲載宿の所在地・アクセス・特徴データ一覧
             </h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
@@ -545,7 +545,7 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/183875/183875.jpg" alt="朝里川温泉ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>四季折々の味覚と温泉・快適な客室が魅力の人気宿。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「プライベートクルーズ＆ヨットハーバー（海から絶景を望む極上マリーナリゾート5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：小樽築港駅より路線バスで20分。お車にて約15分。</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
@@ -567,7 +567,7 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/54978/54978.jpg" alt="日光中禅寺湖温泉　ホテル花庵 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>四季折々の味覚と温泉・快適な客室が魅力の人気宿。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「プライベートクルーズ＆ヨットハーバー（海から絶景を望む極上マリーナリゾート5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ日光駅又は東武日光駅より中禅寺温泉方面行きバス「中禅寺温泉バス停」下車。バス停より徒歩5分。日光東照宮より車で25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
@@ -611,7 +611,7 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/187181/187181.jpg" alt="庄川温泉郷　美肌の湯　となみ野庄川荘一萬亭（ＢＢＨホテルグループ） 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>四季折々の味覚と温泉・快適な客室が魅力の人気宿。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「プライベートクルーズ＆ヨットハーバー（海から絶景を望む極上マリーナリゾート5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR城端線砺波駅南口より車で15分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
@@ -625,7 +625,7 @@ export default function Page() {
 
           <div className="space-y-4 pt-6 border-t border-stone-200">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ あわせて巡りたい！北海道の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+              🗺️ 「プライベートクルーズ＆ヨットハーバー（海から絶景を望む極上マリーナリゾート5選）」とあわせて巡りたい北海道の代表観光スポット案内
             </h3>
             <p className="text-xs text-stone-600 leading-relaxed">「2026年：プライベートクルーズ＆ヨットハーバー！海から絶景を望む極上マリーナリゾート5選」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -634,7 +634,7 @@ export default function Page() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
                 <h3 className="text-base font-bold text-stone-900">函館山（夜景）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。 函館山（はこだてやま）は、北海道函館市の市街地西端にある火山であり陸繋島でもある。…</p>
+                <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。 函館山（はこだてやま）は、北海道函館市の市街地西端にある火山であり陸繋島でもある。…（「プライベートクルーズ＆ヨットハーバー（海から絶景を望む極上マリーナリゾート5選）」の周遊ルートとしても人気の立ち寄り先です）</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -642,7 +642,7 @@ export default function Page() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
                 <h3 className="text-base font-bold text-stone-900">富良野 ファーム富田</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">一面に広がる鮮やかな紫色のラベンダー畑と、虹色に彩られた花畑が織りなすパノラマロード。富良野の雄大な自然と爽やかな香りに包まれる絶好の観光名所です。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">一面に広がる鮮やかな紫色のラベンダー畑と、虹色に彩られた花畑が織りなすパノラマロード。富良野の雄大な自然と爽やかな香りに包まれる絶好の観光名所です。（「プライベートクルーズ＆ヨットハーバー（海から絶景を望む極上マリーナリゾート5選）」の周遊ルートとしても人気の立ち寄り先です）</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -666,14 +666,12 @@ export default function Page() {
 
           <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-2.5 text-xs text-stone-700 leading-relaxed">
             <h3 className="text-sm md:text-base font-bold text-amber-950">
-              💡 「2026年」で納得の宿選びをするための予約チェックポイント
+              💡 「プライベートクルーズ＆ヨットハーバー（海から絶景を望む極上マリーナリゾート5選）」で納得の宿選びをするための予約チェックポイント
             </h3>
             <p>
               <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「2026年：プライベートクルーズ＆ヨットハーバー！海から絶景を望む極上マリーナリゾート5選」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
             </p>
-            <p>
-              <strong>2. 交通動線とクーポンの事前確認：</strong> マイカー利用時は駐車場の台数・料金・先着順か予約制かを、電車・バス利用時は最寄り駅からの送迎条件を事前に把握しておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用すると、同グレードでも費用を抑えて予約できます。
-            </p>
+            <p><strong>2. 「プライベートクルーズ＆ヨットハーバー（海から絶景を望む極上マリーナリゾート5選）」でのアクセス確認とクーポン活用：</strong> 「洲本温泉　海のホテル　島花　＜淡路島＞」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
 

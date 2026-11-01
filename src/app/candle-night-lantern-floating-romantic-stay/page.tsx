@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '2026年：無数のキャンドルとランタンの揺らめき！幻想的な夜を彩るロマンティック温泉宿5選',
+  title: '無数のキャンドルとランタンの揺らめき！幻想的な夜を彩るロマンティック温泉宿5選',
   description: '2026年最新！竹灯籠やスカイランタン、無数のキャンドルが灯る温泉街と宿の庭園。記念日やカップル旅行にぴったりの幻想的な灯りイベントと名湯宿5選。',
   keywords: ["2026年", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/candle-night-lantern-floating-romantic-stay/",
   },
   openGraph: {
-    title: '2026年：無数のキャンドルとランタンの揺らめき！幻想的な夜を彩るロマンティック温泉宿5選',
+    title: '無数のキャンドルとランタンの揺らめき！幻想的な夜を彩るロマンティック温泉宿5選',
     description: '2026年最新！竹灯籠やスカイランタン、無数のキャンドルが灯る温泉街と宿の庭園。記念日やカップル旅行にぴったりの幻想的な灯りイベントと名湯宿5選。',
     url: 'https://croud-travel.pages.dev/candle-night-lantern-floating-romantic-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -172,7 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>キャンドルナイト×幻想ランタン温泉</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」無数のキャンドルとランタンの揺らめき！幻想的な夜を彩るロマンティック温泉宿5選</h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「無数のキャンドルとランタンの揺らめき（幻想的な夜を彩るロマンティック温泉宿5選）」無数のキャンドルとランタンの揺らめき！幻想的な夜を彩るロマンティック温泉宿5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             夕闇が訪れると、回廊や日本庭園に無数の竹灯籠やキャンドルの灯りが灯る幻想的な夜。柔らかなオレンジ色の光に包まれて歩く夜の散策、ライトアップされた露天風呂に浮かぶ灯篭。非日常のロマンティックな美しさに心が満たされる特別な滞在へ。
           </p>
@@ -523,7 +523,7 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29110/29110.jpg" alt="鹿教湯温泉　旅館　斉北荘 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>四季折々の味覚と温泉・快適な客室が魅力の人気宿。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「無数のキャンドルとランタンの揺らめき（幻想的な夜を彩るロマンティック温泉宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：北陸新幹線上田駅、中央線松本駅よりバスで50分/中央自動車道松本IC、上信越自動車道東部湯の丸ICよりお車で40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
@@ -545,7 +545,7 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/31249/31249.jpg" alt="蒲郡温泉　銀河伝説煌めく天空の宿　天の丸 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>四季折々の味覚と温泉・快適な客室が魅力の人気宿。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「無数のキャンドルとランタンの揺らめき（幻想的な夜を彩るロマンティック温泉宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ東海道本線　蒲郡駅／東名岡崎ＩＣより県道２６号、国道２４８号経由三河湾スカイラインへ ※送迎バス送り10時発</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
@@ -589,7 +589,7 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2628/2628.jpg" alt="四万温泉　源泉掛け流しの貸切風呂と囲炉裏料理宿　湯の宿　山ばと 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>四季折々の味覚と温泉・快適な客室が魅力の人気宿。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「無数のキャンドルとランタンの揺らめき（幻想的な夜を彩るロマンティック温泉宿5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：関越自動車道・渋川伊香保Ｉ.Ｃから国道353経由60分JR中之条駅からバスで30分　終点から徒歩20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
@@ -625,7 +625,7 @@ export default function Page() {
 
           <div className="space-y-4 pt-6 border-t border-stone-200">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ あわせて巡りたい！福島県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+              🗺️ 「無数のキャンドルとランタンの揺らめき（幻想的な夜を彩るロマンティック温泉宿5選）」とあわせて巡りたい福島県の代表観光スポット案内
             </h3>
             <p className="text-xs text-stone-600 leading-relaxed">「2026年：無数のキャンドルとランタンの揺らめき！幻想的な夜を彩るロマンティック温泉宿5選」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -666,14 +666,12 @@ export default function Page() {
 
           <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-2.5 text-xs text-stone-700 leading-relaxed">
             <h3 className="text-sm md:text-base font-bold text-amber-950">
-              💡 「2026年」で納得の宿選びをするための予約チェックポイント
+              💡 「無数のキャンドルとランタンの揺らめき（幻想的な夜を彩るロマンティック温泉宿5選）」で納得の宿選びをするための予約チェックポイント
             </h3>
             <p>
               <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「2026年：無数のキャンドルとランタンの揺らめき！幻想的な夜を彩るロマンティック温泉宿5選」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
             </p>
-            <p>
-              <strong>2. 交通動線とクーポンの事前確認：</strong> マイカー利用時は駐車場の台数・料金・先着順か予約制かを、電車・バス利用時は最寄り駅からの送迎条件を事前に把握しておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用すると、同グレードでも費用を抑えて予約できます。
-            </p>
+            <p><strong>2. 「無数のキャンドルとランタンの揺らめき（幻想的な夜を彩るロマンティック温泉宿5選）」でのアクセス確認とクーポン活用：</strong> 「鹿教湯温泉　旅館　斉北荘」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
 

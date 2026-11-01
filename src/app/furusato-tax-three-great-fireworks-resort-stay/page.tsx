@@ -414,7 +414,7 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70699/70699_tt.jpg" alt="ホテルルートイン　大曲駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>四季折々の味覚と温泉・快適な客室が魅力の人気宿。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「日本三大花火大会の特等席と快適眺望ホテル×ふるさと納税厳選ガイド大曲・長岡・土浦」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 秋田県大仙市大曲通町3-14 ／ 最寄り駅：大曲（秋田） ／ 交通案内：ＪＲ秋田新幹線大曲駅より徒歩３分/大曲I.Cより車で約10分/秋田市より秋田自動車道利用で約40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要 先着順  ※満車の際は近隣駐車場をご案内致します。</p>
                   
@@ -436,7 +436,7 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/2104/2104_room.jpg" alt="ホテルニューオータニ長岡 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>四季折々の味覚と温泉・快適な客室が魅力の人気宿。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「日本三大花火大会の特等席と快適眺望ホテル×ふるさと納税厳選ガイド大曲・長岡・土浦」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 新潟県長岡市台町2丁目8番35号 ／ 最寄り駅：長岡 ／ 交通案内：上越新幹線・信越本線の長岡駅東口より徒歩２分／長岡ICから車で長岡駅方面約２０分／１泊１台１，０００円の駐車場あり</p>
                   <p><strong>【駐車場・マイカー利用】</strong>普通車　1泊1台：1,000円／予約不要／満車時は提携駐車場をご案内</p>
                   
@@ -458,7 +458,7 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/1812/1812_twn.jpg" alt="ホテルマロウド筑波 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>四季折々の味覚と温泉・快適な客室が魅力の人気宿。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「日本三大花火大会の特等席と快適眺望ホテル×ふるさと納税厳選ガイド大曲・長岡・土浦」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 茨城県土浦市城北町2-24 ／ 最寄り駅：土浦 ／ 交通案内：JR常磐線 土浦駅西口から徒歩１2分 お車でＴＸつくば駅から２５分 常磐道桜土浦ＩＣから１５分 土浦北ＩＣから１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>300台有　無料(普通乗用車)　それ以外(中型車以上)の車は有料￥2200（電話にて要予約）</p>
                   
@@ -472,7 +472,7 @@ export default function FurusatoUpgradedPage() {
 
           <div className="space-y-4 pt-6 border-t border-stone-200">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ あわせて巡りたい！秋田県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+              🗺️ 「日本三大花火大会の特等席と快適眺望ホテル×ふるさと納税厳選ガイド大曲・長岡・土浦」とあわせて巡りたい秋田県の代表観光スポット案内
             </h3>
             <p className="text-xs text-stone-600 leading-relaxed">「日本三大花火大会の特等席と快適眺望ホテル×ふるさと納税厳選ガイド大曲・長岡・土浦」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -518,9 +518,7 @@ export default function FurusatoUpgradedPage() {
             <p>
               <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「日本三大花火大会の特等席と快適眺望ホテル×ふるさと納税厳選ガイド大曲・長岡・土浦」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
             </p>
-            <p>
-              <strong>2. 交通動線とクーポンの事前確認：</strong> マイカー利用時は駐車場の台数・料金・先着順か予約制かを、電車・バス利用時は最寄り駅からの送迎条件を事前に把握しておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用すると、同グレードでも費用を抑えて予約できます。
-            </p>
+            <p><strong>2. 「日本三大花火大会の特等席と快適眺望ホテル×ふるさと納税厳選ガイド大曲・長岡・土浦」でのアクセス確認とクーポン活用：</strong> 「ホテルルートイン　大曲駅前」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
 

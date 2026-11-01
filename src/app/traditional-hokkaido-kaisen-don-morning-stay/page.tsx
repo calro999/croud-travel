@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '2026年：朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選',
+  title: '朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選',
   description: '2026年最新！朝食の美味しさ日本一を競う函館・札幌・小樽の海鮮バイキング！いくら盛り放題の絶品勝手丼と天然温泉展望風呂が自慢の宿5選。',
   keywords: ["2026年", "朝からいくら", "ウニ", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '2026年：朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選',
+    title: '朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選',
     description: '2026年最新！朝食の美味しさ日本一を競う函館・札幌・小樽の海鮮バイキング！いくら盛り放題の絶品勝手丼と天然温泉展望風呂が自慢の宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/traditional-hokkaido-kaisen-don-morning-stay/',
@@ -193,7 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> いくら盛り放題海鮮朝食×北海道名湯
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選</h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「朝からいくら・ウニ・ホタテかけ放題（北海道の海鮮勝手丼朝食が凄すぎるホテル5選）」朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             朝からキラキラ輝くいくらや甘いホタテ、新鮮なマグロやサーモンを好きなだけご飯にのせて作る自分だけの贅沢「勝手丼」。全国の旅行者を虜にする北海道の豪華海鮮朝食と、夜景を見渡す天然温泉で満たされる最高の朝。
           </p>
@@ -773,7 +773,7 @@ export default function FeatureDetailPage() {
 
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「2026年」掲載宿の所在地・アクセス・特徴データ一覧
+              🏨 「朝からいくら・ウニ・ホタテかけ放題（北海道の海鮮勝手丼朝食が凄すぎるホテル5選）」掲載宿の所在地・アクセス・特徴データ一覧
             </h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
@@ -889,7 +889,7 @@ export default function FeatureDetailPage() {
 
           <div className="space-y-4 pt-6 border-t border-stone-200">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ あわせて巡りたい！北海道の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+              🗺️ 「朝からいくら・ウニ・ホタテかけ放題（北海道の海鮮勝手丼朝食が凄すぎるホテル5選）」とあわせて巡りたい北海道の代表観光スポット案内
             </h3>
             <p className="text-xs text-stone-600 leading-relaxed">「2026年：朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -898,7 +898,7 @@ export default function FeatureDetailPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
                 <h3 className="text-base font-bold text-stone-900">函館山（夜景）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。 函館山（はこだてやま）は、北海道函館市の市街地西端にある火山であり陸繋島でもある。…</p>
+                <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。 函館山（はこだてやま）は、北海道函館市の市街地西端にある火山であり陸繋島でもある。…（「朝からいくら・ウニ・ホタテかけ放題（北海道の海鮮勝手丼朝食が凄すぎるホテル5選）」の周遊ルートとしても人気の立ち寄り先です）</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -906,7 +906,7 @@ export default function FeatureDetailPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
                 <h3 className="text-base font-bold text-stone-900">富良野 ファーム富田</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">一面に広がる鮮やかな紫色のラベンダー畑と、虹色に彩られた花畑が織りなすパノラマロード。富良野の雄大な自然と爽やかな香りに包まれる絶好の観光名所です。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">一面に広がる鮮やかな紫色のラベンダー畑と、虹色に彩られた花畑が織りなすパノラマロード。富良野の雄大な自然と爽やかな香りに包まれる絶好の観光名所です。（「朝からいくら・ウニ・ホタテかけ放題（北海道の海鮮勝手丼朝食が凄すぎるホテル5選）」の周遊ルートとしても人気の立ち寄り先です）</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -930,14 +930,12 @@ export default function FeatureDetailPage() {
 
           <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-2.5 text-xs text-stone-700 leading-relaxed">
             <h3 className="text-sm md:text-base font-bold text-amber-950">
-              💡 「2026年」で納得の宿選びをするための予約チェックポイント
+              💡 「朝からいくら・ウニ・ホタテかけ放題（北海道の海鮮勝手丼朝食が凄すぎるホテル5選）」で納得の宿選びをするための予約チェックポイント
             </h3>
             <p>
               <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「2026年：朝からいくら・ウニ・ホタテかけ放題！北海道の海鮮勝手丼朝食が凄すぎるホテル5選」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
             </p>
-            <p>
-              <strong>2. 交通動線とクーポンの事前確認：</strong> マイカー利用時は駐車場の台数・料金・先着順か予約制かを、電車・バス利用時は最寄り駅からの送迎条件を事前に把握しておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用すると、同グレードでも費用を抑えて予約できます。
-            </p>
+            <p><strong>2. 「朝からいくら・ウニ・ホタテかけ放題（北海道の海鮮勝手丼朝食が凄すぎるホテル5選）」でのアクセス確認とクーポン活用：</strong> 「イマジンホテル＆リゾート函館」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
 

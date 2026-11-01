@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 import { Star, MapPin, Sparkles, CheckCircle2, ChevronRight, Award, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '2026年：日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選',
+  title: '日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選',
   description: '2026年最新！瀬戸内海の青とオリーブ畑の絶景！小豆島産エキストラバージンオリーブオイルの創作イタリアン・和会席と美肌オリーブスパの温泉宿5選。',
   keywords: ["2026年", "日本の地中海", "極上オリーブスパの海宿5選", "日本全国", "旅宿クラウド", "温泉宿", "宿泊予約"],
   openGraph: {
-    title: '2026年：日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選',
+    title: '日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選',
     description: '2026年最新！瀬戸内海の青とオリーブ畑の絶景！小豆島産エキストラバージンオリーブオイルの創作イタリアン・和会席と美肌オリーブスパの温泉宿5選。',
     type: 'article',
     url: 'https://croud-travel.pages.dev/organic-olive-farm-mediterranean-spa-stay/',
@@ -193,7 +193,7 @@ export default function FeatureDetailPage() {
           <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 px-4 py-1.5 rounded-full text-sm font-semibold backdrop-blur-sm border border-amber-400/30">
             <Sparkles className="w-4 h-4" /> 小豆島オリーブ美食×瀬戸内オーシャンスパ
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「2026年」日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight leading-tight">「日本の地中海・小豆島（搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選）」日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選</h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed pt-2">
             青く輝く瀬戸内海と風に揺れるオリーブの樹々。まるでエーゲ海を思わせる小豆島で、名産オリーブオイルを惜しみなく使った美食と、ポリフェノール豊富な天然オリーブオイルトリートメント、多島美に沈む夕日を望む温泉露天に酔いしれる休日。
           </p>
@@ -773,7 +773,7 @@ export default function FeatureDetailPage() {
 
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「2026年」掲載宿の所在地・アクセス・特徴データ一覧
+              🏨 「日本の地中海・小豆島（搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選）」掲載宿の所在地・アクセス・特徴データ一覧
             </h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
@@ -889,7 +889,7 @@ export default function FeatureDetailPage() {
 
           <div className="space-y-4 pt-6 border-t border-stone-200">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ あわせて巡りたい！秋田県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+              🗺️ 「日本の地中海・小豆島（搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選）」とあわせて巡りたい秋田県の代表観光スポット案内
             </h3>
             <p className="text-xs text-stone-600 leading-relaxed">「2026年：日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -930,14 +930,12 @@ export default function FeatureDetailPage() {
 
           <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-2.5 text-xs text-stone-700 leading-relaxed">
             <h3 className="text-sm md:text-base font-bold text-amber-950">
-              💡 「2026年」で納得の宿選びをするための予約チェックポイント
+              💡 「日本の地中海・小豆島（搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選）」で納得の宿選びをするための予約チェックポイント
             </h3>
             <p>
               <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「2026年：日本の地中海・小豆島！搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
             </p>
-            <p>
-              <strong>2. 交通動線とクーポンの事前確認：</strong> マイカー利用時は駐車場の台数・料金・先着順か予約制かを、電車・バス利用時は最寄り駅からの送迎条件を事前に把握しておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用すると、同グレードでも費用を抑えて予約できます。
-            </p>
+            <p><strong>2. 「日本の地中海・小豆島（搾りたてオリーブオイル会席＆極上オリーブスパの海宿5選）」でのアクセス確認とクーポン活用：</strong> 「小豆島温泉　オリビアン小豆島　夕陽ヶ丘ホテル　＜小豆島＞」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
 

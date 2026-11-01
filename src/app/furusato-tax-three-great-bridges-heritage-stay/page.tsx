@@ -414,7 +414,7 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/184009/184009.jpg" alt="マンダリン　オリエンタル　東京 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>四季折々の味覚と温泉・快適な客室が魅力の人気宿。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「日本三大名橋の歴史美と城下町名門宿×ふるさと納税厳選ガイド日本橋・錦帯橋・長崎眼鏡橋」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 東京都中央区日本橋室町2-1-1 ／ 最寄り駅：三越前 ／ 交通案内：東京メトロ　銀座線・半蔵門線「三越前」駅地下通路直結 / JR　総武本線　「新日本橋」駅地下通路直結　徒歩3分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>バレーパーキング　6,500円（税込み／泊／24時間）　予約不要</p>
                   
@@ -436,7 +436,7 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/11295/11295_war.jpg" alt="錦帯橋温泉　岩国国際観光ホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>四季折々の味覚と温泉・快適な客室が魅力の人気宿。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「日本三大名橋の歴史美と城下町名門宿×ふるさと納税厳選ガイド日本橋・錦帯橋・長崎眼鏡橋」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山口県岩国市岩国1-1-7 ／ 最寄り駅：新岩国 ／ 交通案内：JR山陽新幹線新岩国駅より車で10分 山陽自動車道岩国ICより車で8分 岩国錦帯橋空港より車で15分、宮島より車で40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　先着順　★ただし万一満車の場合、駐車の事は必ず責任持って対応いたします★</p>
                   
@@ -458,7 +458,7 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/15449/15449_room.jpg" alt="にっしょうかん別邸紅葉亭 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>四季折々の味覚と温泉・快適な客室が魅力の人気宿。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「日本三大名橋の歴史美と城下町名門宿×ふるさと納税厳選ガイド日本橋・錦帯橋・長崎眼鏡橋」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 長崎県長崎市立山5-13-65 ／ 最寄り駅：長崎（長崎） ／ 交通案内：ＪＲ長崎本線長崎駅から車で15分　＜ＪＲ長崎駅西口より定時無料送迎バスあり＞　長崎自動車道『多良見IC』より約20分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>20台/無料　先着順　（長崎駅より、無料送迎バスあり）</p>
                   
@@ -472,7 +472,7 @@ export default function FurusatoUpgradedPage() {
 
           <div className="space-y-4 pt-6 border-t border-stone-200">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ あわせて巡りたい！東京都の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+              🗺️ 「日本三大名橋の歴史美と城下町名門宿×ふるさと納税厳選ガイド日本橋・錦帯橋・長崎眼鏡橋」とあわせて巡りたい東京都の代表観光スポット案内
             </h3>
             <p className="text-xs text-stone-600 leading-relaxed">「日本三大名橋の歴史美と城下町名門宿×ふるさと納税厳選ガイド日本橋・錦帯橋・長崎眼鏡橋」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -518,9 +518,7 @@ export default function FurusatoUpgradedPage() {
             <p>
               <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「日本三大名橋の歴史美と城下町名門宿×ふるさと納税厳選ガイド日本橋・錦帯橋・長崎眼鏡橋」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
             </p>
-            <p>
-              <strong>2. 交通動線とクーポンの事前確認：</strong> マイカー利用時は駐車場の台数・料金・先着順か予約制かを、電車・バス利用時は最寄り駅からの送迎条件を事前に把握しておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用すると、同グレードでも費用を抑えて予約できます。
-            </p>
+            <p><strong>2. 「日本三大名橋の歴史美と城下町名門宿×ふるさと納税厳選ガイド日本橋・錦帯橋・長崎眼鏡橋」でのアクセス確認とクーポン活用：</strong> 「マンダリン　オリエンタル　東京」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
 

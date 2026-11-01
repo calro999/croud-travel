@@ -412,7 +412,7 @@ export default function FurusatoStrawberryBuffetSweetsStayPage() {
 
         {/* フッター */}
         <footer className="text-center text-xs text-stone-400 pt-6 border-t border-stone-200">
-          <p>※表示内容は2026年9月時点の情報です。最新の宿泊プラン・クーポン対象施設は楽天トラベルにてご確認ください。</p>
+          <p>※「甘酸っぱい贅沢（いちごスイーツビュッフェ＆高級リゾートホテルステイ×ふるさと納税厳選ガイド那須・神戸・幕張）」の掲載情報は最新データに基づいています。日程別の空室状況や配布中クーポンは楽天トラベル各宿ページにてご確認ください。</p>
           <p className="mt-2">
             <Link href="/" className="text-stone-500 hover:text-stone-800 underline transition">旅宿クラウド トップページへ</Link>
           </p>

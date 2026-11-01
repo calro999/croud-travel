@@ -436,7 +436,7 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/28353/28353_pat.jpg" alt="萩温泉郷　萩城三の丸　北門屋敷 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>四季折々の味覚と温泉・快適な客室が魅力の人気宿。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふるさと納税厳選ガイド倉敷・萩・橿原今井町」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山口県萩市堀内210-12 ／ 最寄り駅：東萩 ／ 交通案内：JR東萩駅から車で約8分／世界遺産「萩城下町」の立地。城下町、萩城跡までも徒歩圏内／小郡萩道路絵堂ICから車で約25分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>30台（無料）／予約不要</p>
                   
@@ -458,7 +458,7 @@ export default function FurusatoUpgradedPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/5407/5407_twn.jpg" alt="大和橿原シティホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>四季折々の味覚と温泉・快適な客室が魅力の人気宿。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふるさと納税厳選ガイド倉敷・萩・橿原今井町」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 奈良県橿原市八木町1-8-16 ／ 最寄り駅：大和八木 ／ 交通案内：★大和八木駅より徒歩４分★八木西口駅より徒歩３分★ＪＲ畝傍駅より徒歩４分★南阪奈道路葛城ICより約１５分★</p>
                   <p><strong>【駐車場・マイカー利用】</strong>１６台　無料　先着順　R２４『南八木』交差点東側　当館より徒歩２～３分　詳細はフロントにてご案内。</p>
                   
@@ -472,7 +472,7 @@ export default function FurusatoUpgradedPage() {
 
           <div className="space-y-4 pt-6 border-t border-stone-200">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ あわせて巡りたい！奈良県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+              🗺️ 「重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふるさと納税厳選ガイド倉敷・萩・橿原今井町」とあわせて巡りたい奈良県の代表観光スポット案内
             </h3>
             <p className="text-xs text-stone-600 leading-relaxed">「重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふるさと納税厳選ガイド倉敷・萩・橿原今井町」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -518,9 +518,7 @@ export default function FurusatoUpgradedPage() {
             <p>
               <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふるさと納税厳選ガイド倉敷・萩・橿原今井町」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
             </p>
-            <p>
-              <strong>2. 交通動線とクーポンの事前確認：</strong> マイカー利用時は駐車場の台数・料金・先着順か予約制かを、電車・バス利用時は最寄り駅からの送迎条件を事前に把握しておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用すると、同グレードでも費用を抑えて予約できます。
-            </p>
+            <p><strong>2. 「重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふるさと納税厳選ガイド倉敷・萩・橿原今井町」でのアクセス確認とクーポン活用：</strong> 「料理旅館　鶴形」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
 

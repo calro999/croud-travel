@@ -1,4 +1,4 @@
-# 兵庫県の宿泊・観光記事（69件）
+# 兵庫県の宿泊・観光記事（72件）
 
 ## 【2026年11月】長瀞紅葉ライトアップ・修善寺もみじ林・香住の松葉ガニ解禁・宮島！楽天★4.5〜4.8超の名宿4選
 - 記事: https://croud-travel.pages.dev/posts/autumn-november-nagatoro-shuzenji-kasumi-crab-miyajima-onsen-guide/
@@ -389,6 +389,16 @@ Googleサチコで「ラドン温泉 旅館」「鍛造温泉」「シルク温�
 
 兵庫県・城崎温泉エリアで本当に泊まるべきおすすめ温泉旅館・ホテル10選！楽天トラベルで高評価を誇る「城崎温泉　西村屋本館」「城崎温泉　旅館　お宿　白山」など全10施設の客室・露天風呂・旬の料理・宿泊料金目安を徹底比較。12月・冬絶景＆年末年始ステイの予約に最適です。
 
+## 【全国・豊岡市】城崎温泉　登録有形文化財の宿　三木屋の温泉・露天風呂＆泉質ガイド｜温泉・客室・食事＆アクセス徹底ガイド
+- 記事: https://croud-travel.pages.dev/posts/historic-mikiya-hyakuhachiji-ryokan-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/historic-mikiya-hyakuhachiji-ryokan-guide.md
+- 宿泊施設名: 城崎温泉　登録有形文化財の宿　三木屋
+- エリア: 近畿
+- 参考価格: ¥10000〜
+- 評価: 4.46
+
+全国豊岡市城崎町湯島487の「城崎温泉　登録有形文化財の宿　三木屋」（楽天トラベル評価★4.76（244件）／1泊目安¥28,600〜）を徹底解説！小説「城の崎にて」の舞台になった創業300年の老舗宿。歴史情緒と四季を楽しむレトロな日本旅館です。。客室タイプや大浴場・温泉、朝食・夕食の魅力、アクセス・駐車場情報からお得なクーポン予約術まで網羅しています。
+
 ## 【兵庫・神戸市】兵庫県 おすすめ名門ホテル・温泉旅館セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
 - 記事: https://croud-travel.pages.dev/posts/hyogo-famous-kobe-beef-nada-sake-hotels-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/hyogo-famous-kobe-beef-nada-sake-hotels-guide.md
@@ -519,6 +529,16 @@ Googleサチコで「ラドン温泉 旅館」「鍛造温泉」「シルク温�
 
 兵庫県（兵庫県）で急な旅行や連休・週末、年末年始の直前予約に対応している高評価ホテル＆温泉旅館を厳選！直前割プランや素泊まり・朝食付き、空室状況の確認ポイントを徹底解説。
 
+## お盆の一人旅 喧騒を離れて静かに過ごす・温泉宿の宿泊記＆口コミ評判レビュー
+- 記事: https://croud-travel.pages.dev/posts/obon-solo-travel-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/obon-solo-travel-guide.md
+- 宿泊施設名: 【お盆の一人旅】喧騒を離れて静かに過ごす！穴場温泉宿・リフレッシュホテル特集
+- エリア: 近畿
+- 参考価格: ¥12300〜
+- 評価: 4.15
+
+全国の「【お盆の一人旅】喧騒を離れて静かに過ごす！穴場温泉宿・リフレッシュホテル特集」（楽天トラベル評価★4.15／1泊目安¥12,300〜）を徹底解説！旬の会席料理や快適な客室が好評の人気宿。部屋タイプ選びのポイントや入浴・食事情報、交通アクセス・駐車場データ、楽天トラベルでの賢い予約方法を紹介します。
+
 ## 【有馬温泉・六甲山（兵庫県）の子連れ旅行＆家族向けホテル厳選】有馬温泉　天地の宿　奥の細道・有馬温泉　有馬グランドホテルなど赤ちゃん・小学生歓迎宿と2026秋冬モデルコース
 - 記事: https://croud-travel.pages.dev/posts/october-travel-city-arima-rokkosan-kids-family-guide/
 - 全文Markdown: https://croud-travel.pages.dev/ai/october-travel-city-arima-rokkosan-kids-family-guide.md
@@ -578,6 +598,16 @@ Googleサチコで「ラドン温泉 旅館」「鍛造温泉」「シルク温�
 - 評価: 4.71
 
 兵庫県へ子連れ・家族旅行に行くならここ！「城崎温泉　西村屋ホテル招月庭」をはじめ、和洋室や貸切風呂・キッズ対応が充実した人気ファミリーホテル、10月〜1月（紅葉・味覚狩り・冬休み）の子供の服装対策、世界に誇る神戸ビーフ鉄板焼も楽しめる1泊2日モデルコースを徹底解説。
+
+## 【全国・神戸市】お部屋食・個室食事処 極上プライベート温泉旅館セレクションの宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
+- 記事: https://croud-travel.pages.dev/posts/ryokan-room-dining-private-meal-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/ryokan-room-dining-private-meal-guide.md
+- 宿泊施設名: お部屋食・個室食事処 極上プライベート温泉旅館セレクション
+- エリア: 近畿
+- 参考価格: ¥21500〜
+- 評価: 4.9
+
+全国神戸市北区有馬町1904の「お部屋食・個室食事処 極上プライベート温泉旅館セレクション」（楽天トラベル評価★4.56（2607件）／1泊目安¥15,950〜）を徹底解説！創業700年の老舗旅館。有馬温泉の高台に位置し、有馬最大級の悠々とした三大浴場でお寛ぎいただけます。。実際の口コミ評価や施設スペック、周辺観光スポット、1泊2日の滞在モデルコースまで分かりやすく案内します。
 
 ## 【兵庫・洲本市】洲本温泉 淡路インターナショナルホテル ザ・サンプラザ ＜淡路島＞の温泉・露天風呂＆泉質ガイド｜海を一望するオーシャンビューに包まれ・四季の移ろいを五感で味
 - 記事: https://croud-travel.pages.dev/posts/sumoto-onsen-awaji-luxury-ocean-view-guide/

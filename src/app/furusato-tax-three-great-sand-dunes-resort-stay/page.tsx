@@ -659,7 +659,7 @@ export default function FurusatoFeaturePage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/10636/10636.jpg" alt="山陰湯村温泉　湧泉の宿　ゆあむ 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>四季折々の味覚と温泉・快適な客室が魅力の人気宿。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税厳選ガイド鳥取砂丘・中田島砂丘・吹上浜の海宿」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：近畿豊岡道日高神鍋高原ICより約35分/大阪梅田より阪急特急バス「湯村温泉行」1日1～2便</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
@@ -761,7 +761,7 @@ export default function FurusatoFeaturePage() {
 
           <div className="space-y-4 pt-6 border-t border-stone-200">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ あわせて巡りたい！静岡県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+              🗺️ 「日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税厳選ガイド鳥取砂丘・中田島砂丘・吹上浜の海宿」とあわせて巡りたい静岡県の代表観光スポット案内
             </h3>
             <p className="text-xs text-stone-600 leading-relaxed">「日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税厳選ガイド鳥取砂丘・中田島砂丘・吹上浜の海宿」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -807,9 +807,7 @@ export default function FurusatoFeaturePage() {
             <p>
               <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税厳選ガイド鳥取砂丘・中田島砂丘・吹上浜の海宿」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
             </p>
-            <p>
-              <strong>2. 交通動線とクーポンの事前確認：</strong> マイカー利用時は駐車場の台数・料金・先着順か予約制かを、電車・バス利用時は最寄り駅からの送迎条件を事前に把握しておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用すると、同グレードでも費用を抑えて予約できます。
-            </p>
+            <p><strong>2. 「日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税厳選ガイド鳥取砂丘・中田島砂丘・吹上浜の海宿」でのアクセス確認とクーポン活用：</strong> 「皆生温泉　皆生シーサイドホテル　海の四季」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
 

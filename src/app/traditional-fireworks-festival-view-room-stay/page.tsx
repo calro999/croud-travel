@@ -6,14 +6,14 @@ import SpecialCouponBanner from '@/app/components/SpecialCouponBanner';
 import ShareButtons from '@/app/components/ShareButtons';
 
 export const metadata: Metadata = {
-  title: '2026年：客室から大迫力の花火を特等席で観賞！花火大会一望＆夜景露天風呂の温泉ホテル5選',
+  title: '客室から大迫力の花火を特等席で観賞！花火大会一望＆夜景露天風呂の温泉ホテル5選',
   description: '2026年最新！熱海海上花火大会や洞爺湖ロングラン花火など、人混みを避けて部屋のテラスや露天風呂から大迫力の花火を満喫できるプレミアム宿5選。',
   keywords: ["2026年", "夜景露天風呂の温泉ホテル5選", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/traditional-fireworks-festival-view-room-stay/",
   },
   openGraph: {
-    title: '2026年：客室から大迫力の花火を特等席で観賞！花火大会一望＆夜景露天風呂の温泉ホテル5選',
+    title: '客室から大迫力の花火を特等席で観賞！花火大会一望＆夜景露天風呂の温泉ホテル5選',
     description: '2026年最新！熱海海上花火大会や洞爺湖ロングラン花火など、人混みを避けて部屋のテラスや露天風呂から大迫力の花火を満喫できるプレミアム宿5選。',
     url: 'https://croud-travel.pages.dev/traditional-fireworks-festival-view-room-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -172,7 +172,7 @@ export default function Page() {
             <span>•</span>
             <span>客室から花火観賞×特等席ステイ</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「2026年」客室から大迫力の花火を特等席で観賞！花火大会一望＆夜景露天風呂の温泉ホテル5選</h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight font-journal-serif leading-tight">「客室から大迫力の花火を特等席で観賞（花火大会一望＆夜景露天風呂の温泉ホテル5選）」客室から大迫力の花火を特等席で観賞！花火大会一望＆夜景露天風呂の温泉ホテル5選</h1>
           <p className="text-stone-300 text-sm md:text-base leading-relaxed">
             夜空いっぱいに広がる大輪の花火と、体に響く轟音。人混みの混雑を気にすることなく、客室のテラスや専用露天風呂からグラス片手に眺める特等席の花火観賞。大切な人との記念日や家族旅行に忘れられない感動を届けるラグジュアリーステイ。
           </p>
@@ -509,7 +509,7 @@ export default function Page() {
 
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「2026年」掲載宿の所在地・アクセス・特徴データ一覧
+              🏨 「客室から大迫力の花火を特等席で観賞（花火大会一望＆夜景露天風呂の温泉ホテル5選）」掲載宿の所在地・アクセス・特徴データ一覧
             </h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
@@ -545,7 +545,7 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6116/6116.jpg" alt="露天風呂の宿　開運の湯　ロイヤルホテル河口湖 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>四季折々の味覚と温泉・快適な客室が魅力の人気宿。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「客室から大迫力の花火を特等席で観賞（花火大会一望＆夜景露天風呂の温泉ホテル5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：中央道河口湖ＩＣ－Ｒ１３９を河口湖方面へ約１０分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
@@ -567,7 +567,7 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/11167/11167.jpg" alt="熱川温泉　絶景と露天風呂の宿　たかみホテル 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>四季折々の味覚と温泉・快適な客室が魅力の人気宿。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「客室から大迫力の花火を特等席で観賞（花火大会一望＆夜景露天風呂の温泉ホテル5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：電車：伊豆急線・伊豆熱川駅から徒歩10分（送迎あり）／お車：東名高速・厚木IC→熱海（R135）→熱川温泉</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
@@ -589,7 +589,7 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/18768/18768.jpg" alt="わたらせ温泉　ホテルささゆり 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>四季折々の味覚と温泉・快適な客室が魅力の人気宿。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「客室から大迫力の花火を特等席で観賞（花火大会一望＆夜景露天風呂の温泉ホテル5選）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：無料送迎バス有【JR白浜駅】お迎え 13：00／お送り 10：30　※前日までの要予約</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
@@ -625,7 +625,7 @@ export default function Page() {
 
           <div className="space-y-4 pt-6 border-t border-stone-200">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ あわせて巡りたい！秋田県の代表的な観光名所・歴史自然ガイド（Wikipedia公認画像・解説）
+              🗺️ 「客室から大迫力の花火を特等席で観賞（花火大会一望＆夜景露天風呂の温泉ホテル5選）」とあわせて巡りたい秋田県の代表観光スポット案内
             </h3>
             <p className="text-xs text-stone-600 leading-relaxed">「2026年：客室から大迫力の花火を特等席で観賞！花火大会一望＆夜景露天風呂の温泉ホテル5選」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -666,14 +666,12 @@ export default function Page() {
 
           <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-2.5 text-xs text-stone-700 leading-relaxed">
             <h3 className="text-sm md:text-base font-bold text-amber-950">
-              💡 「2026年」で納得の宿選びをするための予約チェックポイント
+              💡 「客室から大迫力の花火を特等席で観賞（花火大会一望＆夜景露天風呂の温泉ホテル5選）」で納得の宿選びをするための予約チェックポイント
             </h3>
             <p>
               <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「2026年：客室から大迫力の花火を特等席で観賞！花火大会一望＆夜景露天風呂の温泉ホテル5選」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
             </p>
-            <p>
-              <strong>2. 交通動線とクーポンの事前確認：</strong> マイカー利用時は駐車場の台数・料金・先着順か予約制かを、電車・バス利用時は最寄り駅からの送迎条件を事前に把握しておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用すると、同グレードでも費用を抑えて予約できます。
-            </p>
+            <p><strong>2. 「客室から大迫力の花火を特等席で観賞（花火大会一望＆夜景露天風呂の温泉ホテル5選）」でのアクセス確認とクーポン活用：</strong> 「１１種類の貸切露天風呂　水上高原／奥利根温泉　ホテルサンバード」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
 
