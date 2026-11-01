@@ -1,4 +1,13 @@
-# 徳島県の宿泊・観光記事（36件）
+# 徳島県の宿泊・観光記事（37件）
+
+## 徳島・美波町「えびす洞温泉 ホテル白い燈台」断崖の絶景宿と保護猫の癒やし旅ガイド
+- 記事: https://croud-travel.pages.dev/posts/4799/
+- 全文Markdown: https://croud-travel.pages.dev/ai/4799.md
+- 宿泊施設名: えびす洞温泉　ホテル　白い燈台
+- エリア: 四国
+- 評価: 4.17
+
+徳島県美波町の断崖に立つ「えびす洞温泉 ホテル 白い燈台」の滞在記。全室オーシャンビューの部屋選びから、太平洋を一望する露天風呂、館内の保護猫との接し方、ペット同伴の注意点、薬王寺や大浜海岸を巡る1泊2日の旅程まで、現地視点で詳しく解説します。
 
 ## 【2026年11月】出雲・玉造温泉 白石家・新祖谷温泉 ホテルかずら橋 ほか｜楽天トラベル高評価の名宿・温泉・口コミ徹底比較
 - 記事: https://croud-travel.pages.dev/posts/autumn-november-izumo-tamatsukuri-iya-kazurabashi-ohara-sanzenin-chichibu-guide/
