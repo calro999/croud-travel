@@ -552,14 +552,31 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
   fs.writeFileSync(path.join(PUBLIC_DIR, 'llms.txt'), llmsTxt, 'utf8');
   console.log(`Generated physical llms.txt at ${path.join(PUBLIC_DIR, 'llms.txt')}`);
 
-  // --- 3.5 SEO判定: 薄い記事(noindex)と同一宿・同一タイトルの重複(canonical)を判定して出力 ---
+  // --- 3.5 SEO判定: 薄い記事(noindex)と同一宿の単体記事重複(canonical)を判定して出力 ---
   {
     const textLen = (p) => (p.review || p.content || '').replace(/<[^>]*>/g, '').replace(/\s/g, '').length;
+    const isMultiHotelFeature = (p) => {
+      const id = String(p.id || '');
+      const title = String(p.title || '');
+      if (p.is_special_feature) return true;
+      if (Array.isArray(p.featured_hotels) && p.featured_hotels.length >= 2) return true;
+      if (/(?:10選|5選|7選|8選|比較|ランキング|モデルコース|完全攻略|特集)/.test(title) && !/^\d+$/.test(id)) return true;
+      if (/^(?:autumn|winter|spring|summer|october|november|december|january|february|march)-/.test(id) && !id.endsWith('-hotel-guide')) return true;
+      return false;
+    };
+    const normHotelName = (name) => String(name || '')
+      .replace(/[Ａ-Ｚａ-ｚ０-９]/g, s => String.fromCharCode(s.charCodeAt(0) - 0xFEE0))
+      .replace(/[\s　・\-−―_]+/g, '')
+      .toLowerCase();
+
     const thin = [];
     const groups = {};
     posts.forEach(p => {
-      if (p.hotel_name && !p.is_special_feature && !String(p.id || '').startsWith('note-')) {
-        (groups[`${p.hotel_name}__${p.title}`] = groups[`${p.hotel_name}__${p.title}`] || []).push(p);
+      if (p.hotel_name && !isMultiHotelFeature(p) && !String(p.id || '').startsWith('note-')) {
+        const key = normHotelName(p.hotel_name);
+        if (key.length >= 3 && key !== '厳選おすすめ宿泊施設') {
+          (groups[key] = groups[key] || []).push(p);
+        }
       }
     });
     const canonical = {};

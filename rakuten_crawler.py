@@ -184,6 +184,18 @@ def fetch_rakuten_items(target_count=1):
 
     return selected_items
 
+def clean_short_phrase(text, max_len=22):
+    """キャッチコピー等を途中でぶつ切りにせず、句読点や記号の区切りで自然に抽出する"""
+    if not text:
+        return ""
+    s = re.sub(r"【[^】]*】", "", str(text)).strip()
+    parts = [p.strip() for p in re.split(r"[！!。．♪☆◆◇｜|／/\n]+", s) if len(p.strip()) >= 4]
+    for p in parts:
+        if len(p) <= max_len:
+            return p
+    return ""
+
+
 def build_hotel_prompt(item):
     """ホテル単体記事用のプロンプトを生成する"""
     hotel_name = item.get("hotelName", "")
@@ -191,58 +203,60 @@ def build_hotel_prompt(item):
     min_price = item.get("hotelMinPrice", "")
     pref = item.get("_prefecture", "")
     area = item.get("_area", "")
-    price_text = f"{min_price}円〜" if min_price else "要確認"
+    address = f"{ item.get('address1', '') }{ item.get('address2', '') }"
+    price_text = f"{min_price:,}円〜" if isinstance(min_price, int) else (f"{min_price}円〜" if min_price else "プランにより変動")
     access = item.get("access", "")
     parking = item.get("parkingInformation", "")
     nearest = item.get("nearestStation", "")
     rating = item.get("reviewAverage", "")
     rating_text = f"★{rating}" if rating else "高評価"
     review_count = item.get("reviewCount", "")
+    user_review = re.sub(r"<[^>]*>", "", str(item.get("userReview", "")))[:250]
+
+    angle_choices = [
+        "現地の空気感・時間帯ごとの過ごし方（チェックインから翌朝まで）を軸にした滞在ルポ構成",
+        "客室の居心地・湯処（またはバスルーム）・朝食や周辺グルメの実用性を深掘りする徹底ガイド構成",
+        "アクセス動線・周辺観光スポットとの組み合わせ・旅の予算対効果を重視した実践プラン構成",
+        "カップル・家族・一人旅など同行者別の部屋選びと、現地で失敗しないための予約・滞在ノウハウ構成"
+    ]
+    chosen_angle = random.choice(angle_choices)
 
     system_message = (
-        "あなたは全国各地の宿を取材し尽くしたプロの旅行ライター・観光ジャーナリストです。"
-        "読者がその宿に今すぐ泊まりたくなるような、具体的で臨場感あふれる日本語の記事を書き上げてください。"
-        "使い回しの定型文や「〜はいかがでしょうか」「魅力をご紹介します」といったAI臭いテンプレート表現は一切使用禁止です。"
-        f"「{hotel_name}」ならではの固有の設備、立地、温泉、食事、周辺スポットの魅力を生き生きとした言葉で描写してください。"
+        "あなたは全国各地の宿泊施設と観光地を実際に歩き、読者目線で実用的な旅ガイドを執筆するベテラン旅行ジャーナリストです。"
+        "AI特有の紋切り型表現（「いかがでしたでしょうか」「本記事では〜徹底解説します」「至福のひととき」「日常の喧騒を忘れ」「心ゆくまで堪能」など）や、"
+        "他記事と共通する固定見出し（「〜をおすすめする3つの理由」「心に残る滞在を叶えるまとめ」など）は一切使用禁止です。"
+        f"今回は「{chosen_angle}」で、「{hotel_name}」固有の立地・設備・強みを掘り下げた2,500文字以上の独立記事を作成してください。\n"
         "出力はプレーンテキストで、必ず以下の3部構成で出力してください：\n"
-        "1行目: 読者のクリックを促す魅力的なSEO記事タイトル（32〜40文字程度。例：【福岡】ホテルニューオータニ博多宿泊ルポ！渡辺通駅徒歩1分の快適ステイと美食体験）\n"
-        "2行目: 検索意図を満たすSEOメタディスクリプション（100〜130文字程度。ラベル不要）\n"
+        "1行目: 宿の固有の魅力と地名が入った自然なSEO記事タイトル（32〜45文字程度。途中で文が切れない完結したタイトル）\n"
+        "2行目: 検索意図を満たすSEOメタディスクリプション（100〜135文字程度。ラベル不要）\n"
         "3行目以降: HTML本文のみ（使用可能タグ: <h2> <h3> <p> <ul> <li> <strong>）\n"
-        "思考過程やラベル（「タイトル:」「ディスクリプション:」など）やMarkdownコードブロックは一切含めないでください。"
+        "思考過程やラベル（「タイトル:」など）、Markdownコードブロックは一切含めないでください。"
     )
 
-    prompt = f"""次の宿を紹介するオリジナルの旅行ブログ記事を作成してください。
+    prompt = f"""次の宿泊施設について、現地情報と公式スペックを踏まえた完全オリジナルの旅行ガイド記事を執筆してください。
 
-【施設名】{hotel_name}（{pref}・{area}エリア）
+【施設名】{hotel_name}
+【所在地】{pref} {address}（{area}エリア）
 【宿のキャッチコピー・特徴】{special}
-【アクセス情報】{access}
-【最寄り駅】{nearest}
-【駐車場】{parking}
-【料金目安】{price_text}
+【アクセス情報】{access}（最寄り駅：{nearest}）
+【駐車場条件】{parking}
+【参考最安料金】{price_text}
 【クチコミ評価】{rating_text}（{review_count}件）
+【宿泊者の声（抜粋）】{user_review}
 
 ━━━━━━━━━━━━━━━━━━━━
-【構成と出力ルール】
+【執筆・構成ルール】
 ━━━━━━━━━━━━━━━━━━━━
-1行目: 固有の強みを含めたSEOタイトル（32〜40文字程度。ラベル不要）
-2行目: SEOメタディスクリプション（100〜130文字程度。ラベル不要）
-3行目以降: HTML本文（使用可能タグ: <h2> <h3> <p> <ul> <li> <strong>）
+1行目: 宿固有の特徴が伝わる完結したSEOタイトル（ラベル不要）
+2行目: 100〜135文字のSEOメタディスクリプション（ラベル不要）
+3行目以降: HTML本文（使用可能タグ: <h2> <h3> <p> <ul> <li> <strong>、合計2,500文字以上）
 
-■ 本文構成（各見出しで宿固有のリアルな情景を描写し、文字数は1,200文字以上）:
-  <h2> {hotel_name}をおすすめする3つの理由
-    <ul><li> 宿の強み・こだわり・他にはない価値を具体的に3点
-  <h2> 交通アクセスと周辺ロケーションの魅力
-    <p> 最寄り駅や車でのアクセス、周辺の街並みや自然環境
-  <h3> くつろぎの客室と充実の館内設備
-    <p> 客室の居心地、ベッド・寝具、Wi-Fiやデスク環境、アメニティ
-  <h3> 旅の疲れを癒やすお風呂（温泉・大浴場・バスルーム）
-    <p> 湯の心地よさ、お風呂の雰囲気やリフレッシュ設備
-  <h2> 宿の周辺で味わうご当地グルメ＆おすすめ観光名所
-    <ul><li> {pref}ならではの名物料理や、立ち寄るべき周辺スポットを具体的に紹介
-  <h2> こんな旅のスタイルにおすすめ（一人旅・カップル・家族旅行・ワーケーション）
-    <p> それぞれの滞在シーンに合わせた過ごし方の提案
-  <h2> 心に残る滞在を叶えるまとめ
-    <p> 読者の旅情を誘う温かく魅力的な結びの言葉
+■ 内容の必須要件（見出し文言は毎回この宿に合わせて独自に考案すること）:
+- 宿のロケーション（{address}・{nearest}駅からの動線・駐車場条件）と到着時の印象
+- 客室の特徴・寝具や設備の使い勝手・どんな滞在スタイルに向いているか
+- お風呂（温泉・大浴場・客室バスルーム）や食事プラン・朝食の魅力
+- {hotel_name}を拠点に巡りたい{pref}の実在する周辺観光名所・ご当地グルメと1泊2日の時間配分アイデア
+- 宿泊前に知っておきたい実用Q&A（3問程度・他の記事と被らないこの宿固有の疑問と回答）
 """
     return system_message, prompt
 
@@ -252,47 +266,50 @@ def build_prefecture_prompt(items, pref_name, theme):
     hotels_info = ""
     for i, item in enumerate(items, 1):
         name = item.get("hotelName", "")
+        address = f"{ item.get('address1', '') }{ item.get('address2', '') }"
         special = item.get("hotelSpecial", "")
         price = item.get("hotelMinPrice", "")
-        price_text = f"{price}円〜" if price else "要確認"
+        price_text = f"{price:,}円〜" if isinstance(price, int) else (f"{price}円〜" if price else "プランにより変動")
         access = item.get("access", "")
+        parking = item.get("parkingInformation", "")
         rating = item.get("reviewAverage", "")
         rating_text = f"★{rating}" if rating else "高評価"
-        hotels_info += f"宿{i}: 【{name}】\n  特徴: {special}\n  アクセス: {access}\n  評価: {rating_text}\n  料金目安: {price_text}\n\n"
+        hotels_info += (
+            f"宿{i}: 【{name}】（所在地: {pref_name}{address}）\n"
+            f"  特徴: {special}\n"
+            f"  アクセス: {access} / 駐車場: {parking}\n"
+            f"  評価: {rating_text} / 参考料金: {price_text}\n\n"
+        )
 
     system_message = (
-        "あなたは日本全国の魅力を知り尽くした旅のエキスパート・観光ジャーナリストです。"
-        f"{pref_name}の「{theme}」をテーマに、読者の知的好奇心と旅情を刺激する完全オリジナルの観光特集記事を執筆してください。"
-        "テンプレート的な定型文や抽象的な表現は使わず、具体的な地名、名物、四季の表情、宿の個性を生きた言葉で綴ってください。"
+        "あなたは日本全国の地域観光と宿選びに精通した旅行ジャーナリストです。"
+        f"{pref_name}の「{theme}」をテーマに、読者が実際に旅程を組める具体性と臨場感を備えた2,500文字以上のオリジナル特集記事を執筆してください。"
+        "AI特有の紋切り型表現（「いかがでしたでしょうか」「本記事では〜徹底解説します」「至福のひととき」「心ゆくまで堪能」など）や固定見出しの使い回しは厳禁です。\n"
         "出力はプレーンテキストで、必ず以下の3部構成で出力してください：\n"
-        f"1行目: 読者の旅情をくすぐるSEO記事タイトル（32〜40文字程度。例：【{pref_name}】{theme}を満喫する旅！おすすめモデルコースと厳選宿3選）\n"
-        "2行目: SEOメタディスクリプション（100〜130文字程度。ラベル不要）\n"
+        f"1行目: 読者の目を引く完結したSEO記事タイトル（32〜45文字程度。ラベル不要）\n"
+        "2行目: SEOメタディスクリプション（100〜135文字程度。ラベル不要）\n"
         "3行目以降: HTML本文のみ（使用可能タグ: <h2> <h3> <p> <ul> <li> <strong>）\n"
         "思考過程やラベル、Markdownコードブロックは一切含めないでください。"
     )
 
-    prompt = f"""次のテーマと厳選宿をもとに、{pref_name}の魅力的な旅行特集記事を作成してください。
+    prompt = f"""次のテーマと厳選宿データをもとに、{pref_name}の旅行特集記事を作成してください。
 
 【テーマ】{pref_name}で楽しむ「{theme}」の旅
-【厳選宿泊施設】
+【厳選宿泊施設データ】
 {hotels_info}
 
 ━━━━━━━━━━━━━━━━━━━━
-【構成と出力ルール】
+【執筆・構成ルール】
 ━━━━━━━━━━━━━━━━━━━━
-1行目: テーマとエリアが明確なSEOタイトル（32〜40文字程度。ラベル不要）
-2行目: SEOメタディスクリプション（100〜130文字程度。ラベル不要）
-3行目以降: HTML本文（使用可能タグ: <h2> <h3> <p> <ul> <li> <strong>）
+1行目: エリアとテーマの魅力が伝わるSEOタイトル（ラベル不要）
+2行目: 100〜135文字のSEOメタディスクリプション（ラベル不要）
+3行目以降: HTML本文（使用可能タグ: <h2> <h3> <p> <ul> <li> <strong>、合計2,500文字以上）
 
-■ 本文構成（充実した1,200文字以上の本文）:
-  <h2> {pref_name}で出会う「{theme}」の旅の魅力
-    <p> エリアの風土や四季の美しさ、旅のハイライト
-  <h2> 120%楽しむおすすめ観光モデルコース＆旅のポイント
-    <ul><li> 旅の巡り方、ベストシーズン、必食のご当地名物などのポイント
-  <h2> 「{theme}」を満喫できる厳選宿ガイド
-    （各宿について <h3>宿名</h3> とその個性・特徴 <p> を具体的に記述）
-  <h2> 旅のまとめ
-    <p> 心に残る旅を締めくくる温かいメッセージ
+■ 内容の必須要件（見出しはテーマに合わせて独自に作成すること）:
+- {pref_name}でこのテーマの旅がおすすめな理由と季節ごとの見どころ・実在の名所や名物グルメ
+- 移動手段（電車・レンタカー）や混雑回避のコツを含めた1泊2日モデルコース
+- 各宿泊施設（{len(items)}軒すべて）の具体的な強み・立地・どんな人に向いているかの比較解説
+- 宿選びや予約タイミングで失敗しないための実用アドバイス
 """
     return system_message, prompt
 
@@ -412,8 +429,8 @@ def call_gemini_api(prompt, system_content=""):
                 }
             ],
             "generationConfig": {
-                "temperature": 0.7,
-                "maxOutputTokens": 2500
+                "temperature": 0.75,
+                "maxOutputTokens": 8192
             }
         }
         try:
@@ -601,35 +618,36 @@ def fallback_generation(items, mode):
         access = item.get("access", "")
         parking = item.get("parkingInformation", "")
         nearest = item.get("nearestStation", "")
+        address = f"{ item.get('address1', '') }{ item.get('address2', '') }"
         min_price = item.get("hotelMinPrice")
         price_text = f"¥{min_price:,}〜" if min_price else "宿泊プランにより変動"
         rating = item.get("reviewAverage")
         rating_text = f"総合評価 ★{rating}" if rating else "高評価"
+        short_phrase = clean_short_phrase(special, 20)
+        if short_phrase:
+            title = f"【{pref}】{hotel_name}の宿泊ガイド｜{short_phrase}・アクセス＆滞在情報"
+        else:
+            title = f"【{pref}】{hotel_name}の宿泊ガイド｜客室・設備・アクセス＆予約のポイント"
+        description = f"{pref}{address}の「{hotel_name}」（{rating_text}／参考料金{price_text}）。{clean_short_phrase(special, 60) or '立地と設備のバランスに優れた人気宿'}。交通アクセス・駐車場条件から客室・滞在のポイントまで詳しく紹介します。"
         
-        title = f"【{pref}】{hotel_name}宿泊ガイド！{special[:18]}・アクセス＆魅力ルポ"
-        description = f"{pref}（{area}エリア）の人気宿「{hotel_name}」。{special[:70]}。アクセス情報や周辺観光・最新宿泊プランの魅力を旅ライターが詳しくガイドします。"
-        
-        review_html = f"""<h2>{hotel_name}をおすすめする3つの理由</h2>
+        review_html = f"""<h2>{hotel_name}の特徴とロケーション・滞在ポイント</h2>
 <ul>
-<li><strong>宿の魅力とこだわり：</strong> {special or f'{pref}の豊かな風土を満喫できる上質なステイ環境が整っています。'}</li>
-<li><strong>交通アクセスと立地：</strong> {access or f'最寄り駅「{nearest}」からのアクセスが良好で観光拠点に最適です。'}</li>
-<li><strong>安心の設備とサービス：</strong> {parking or '充実した館内設備とホスピタリティで快適にお過ごしいただけます。'}（{rating_text}）</li>
+<li><strong>宿のアピールポイント：</strong> {special or f'{pref}エリアでの観光・ビジネスに便利な宿泊環境が整っています。'}</li>
+<li><strong>所在地・交通アクセス：</strong> {pref}{address} ／ {access or f'最寄り駅「{nearest}」からのアクセスが良好です。'}</li>
+<li><strong>駐車場・評価データ：</strong> 駐車場：{parking or '詳細は公式プラン画面にてご確認ください'}（{rating_text} ／ 参考料金：{price_text}）</li>
 </ul>
 
-<h2>交通アクセスと周辺ロケーションの魅力</h2>
-<p>{hotel_name}は、{pref}の{area}エリアを巡る旅の拠点として抜群のロケーションに位置しています。{access}。周辺にはご当地の自然や風情ある街並みが広がり、観光やビジネスの合間にも心地よい散策が楽しめます。</p>
+<h2>{pref}{address}周辺のアクセス動線とチェックイン前の確認事項</h2>
+<p>{hotel_name}は、{pref}（{area}エリア）での観光や出張の拠点として利用しやすいロケーションにあります。{access}。マイカーやレンタカーで向かう場合は駐車場条件（{parking or '要確認'}）を事前に把握しておくと、当日の到着がスムーズです。</p>
 
-<h3>くつろぎの客室と充実の館内設備</h3>
-<p>客室は細部まで清掃が行き届いた快適なプライベート空間。旅の疲れを優しく包み込む寝具や、機能的なアメニティが揃っています。ビジネスやワーケーションに嬉しいWi-Fi環境も整い、思い思いのリラックスタイムを過ごせます。</p>
+<h3>客室の居心地と館内設備・お風呂の使い勝手</h3>
+<p>客室は落ち着いた内装で整えられており、移動や観光の後にしっかり体を休められる空間です。Wi-Fi環境や基本アメニティも揃っているため、1泊2日の週末旅行から連泊・ワーケーションまで幅広い用途に対応します。入浴設備でも一日の疲れをさっぱりと洗い流せます。</p>
 
-<h3>旅の疲れを癒やすお風呂とリフレッシュ空間</h3>
-<p>一日の終わりにゆったりと体を温めるバスタイムは旅の醍醐味。清潔で開放的な浴場で手足を伸ばせば、日々の喧騒を忘れて心身ともにリフレッシュできます。</p>
+<h2>{hotel_name}を拠点に巡る{pref}の周辺観光＆ご当地グルメ</h2>
+<p>チェックイン前後の時間帯を活用して、{nearest or pref}周辺の観光名所や商店街・道の駅へ足を延ばすのがおすすめです。{pref}ならではの旬の食材を使ったランチや銘菓・地酒のお土産選びを組み合わせることで、移動の無駄がない充実した旅程が組めます。</p>
 
-<h2>宿の周辺で楽しむおすすめ観光＆ご当地グルメ</h2>
-<p>{pref}ならではの旬の味覚を堪能できる名店や、歴史ある名所が点在しています。チェックイン前や出発後の時間を使って、土地の文化と味覚を五感で楽しむのがおすすめです。</p>
-
-<h2>まとめ</h2>
-<p>旅の満足度を高めてくれる「{hotel_name}」。参考価格は{price_text}から。楽天トラベル公式ページで最新の空室状況や季節限定プランをぜひチェックしてみてください。</p>"""
+<h2>予約前に押さえておきたい料金目安とプラン選びのコツ</h2>
+<p>「{hotel_name}」の参考最安料金は<strong>{price_text}</strong>からとなっています。週末や連休は人気の部屋タイプから埋まりやすいため、早割プランや楽天トラベルの「5と0のつく日」クーポンを活用して早めに空室状況を確認してみてください。</p>"""
         return title, description, review_html
     else:
         pref = items[0].get("_prefecture", "")
@@ -729,9 +747,10 @@ def main():
         gen_title, description, review_html = generate_article_with_llm(items, mode)
 
         # 都道府県モード（3件の宿）の場合、アフィリエイトリンクをHTML末尾に注入
+        pref_name = main_item.get('_prefecture', '')
         if mode == "prefecture" and len(items) > 1:
             review_html += "\n<hr style='margin: 40px 0; border-top: 2px dashed #134e4a; opacity: 0.2;' />\n"
-            review_html += "<h3 style='color: #134e4a; font-weight: bold;'>🌟 ご紹介したおすすめ厳選宿の空室・詳細はこちら</h3>\n"
+            review_html += f"<h3 style='color: #134e4a; font-weight: bold;'>🏨 今回ピックアップした{pref_name}の宿泊施設の空室・プラン確認</h3>\n"
             review_html += "<ul style='list-style-type: none; padding: 0;'>\n"
             for item in items:
                 h_name = item.get("hotelName", "")
@@ -739,28 +758,27 @@ def main():
                 if h_url:
                     review_html += (
                         f"<li style='margin-bottom: 15px;'>"
-                        f"<a href='{h_url}' target='_blank' style='display: inline-block; padding: 12px 20px; "
+                        f"<a href='{h_url}' target='_blank' rel='sponsored noopener noreferrer' style='display: inline-block; padding: 12px 20px; "
                         f"background: linear-gradient(to right, #d97706, #b45309); color: white; "
                         f"text-decoration: none; font-weight: bold; border-radius: 12px; "
                         f"box-shadow: 0 4px 6px rgba(0,0,0,0.1); width: 100%; text-align: center;'>"
-                        f"✈️ {h_name} の詳細プランを見る</a></li>\n"
+                        f"✈️ {h_name} の最新プラン・空室状況を見る</a></li>\n"
                     )
             review_html += "</ul>\n"
 
         categories = decide_category(main_item)
         
         # タイトル決定: LLMが生成した魅力的な固有タイトルがあれば最優先、なければ動的組み立て
-        pref_name = main_item.get('_prefecture')
         if gen_title and len(gen_title) >= 10:
             title = gen_title
         elif mode == "hotel":
-            special_snippet = (main_item.get("hotelSpecial") or "")[:20]
+            special_snippet = clean_short_phrase(main_item.get("hotelSpecial") or "", 20)
             if special_snippet:
-                title = f"【{pref_name}】{hotel_name}宿泊ガイド！{special_snippet}・見どころ解説"
+                title = f"【{pref_name}】{hotel_name}の宿泊ガイド｜{special_snippet}・見どころ紹介"
             else:
-                title = f"【{pref_name}】{hotel_name}の魅力と見どころ・宿泊ルポガイド"
+                title = f"【{pref_name}】{hotel_name}の魅力と見どころ・宿泊ガイド"
         else:
-            title = f"【{pref_name}観光】絶景と美食を満喫するおすすめ周遊モデルコース＆厳選宿"
+            title = f"【{pref_name}観光】名所めぐりと美食を楽しむ周遊モデルコース＆厳選宿"
 
         # 観光地・名所の実写画像を取得して記事＆ギャラリーに統合
         pref_name = main_item.get('_prefecture', '')
