@@ -211,3 +211,4 @@ showcase_nagano
 october-travel-city-uji-fushimi-kids-family-guide
 showcase_kanagawa
 nagoya-station-sakae-hotels-guide
+showcase_ishikawa
