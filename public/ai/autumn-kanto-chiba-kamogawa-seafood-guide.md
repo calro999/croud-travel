@@ -1,5 +1,5 @@
 ---
-title: "【千葉・鴨川市】鴨川館の宿泊記＆口コミ評判｜客室・バスルーム・朝食・アクセスガイド"
+title: "【千葉・鴨川市】鴨川館｜楽天トラベル高評価宿の温泉・客室・料金比較"
 url: "https://croud-travel.pages.dev/posts/autumn-kanto-chiba-kamogawa-seafood-guide/"
 hotel_name: "鴨川館"
 prefecture: "千葉県"
@@ -10,7 +10,7 @@ review_count: 1492
 last_modified: "2026-10-18"
 ---
 
-# 【千葉・鴨川市】鴨川館の宿泊記＆口コミ評判｜客室・バスルーム・朝食・アクセスガイド
+# 【千葉・鴨川市】鴨川館｜楽天トラベル高評価宿の温泉・客室・料金比較
 
 - **URL**: https://croud-travel.pages.dev/posts/autumn-kanto-chiba-kamogawa-seafood-guide/
 - **宿泊施設・特集名**: 鴨川館

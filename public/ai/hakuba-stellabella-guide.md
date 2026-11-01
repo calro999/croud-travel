@@ -1,5 +1,5 @@
 ---
-title: "【長野・白馬・小谷】白馬五竜 ホテル ステラベラの宿泊記＆口コミ評判｜白馬・小谷の好立地・客室・温泉・朝食徹底ガイド"
+title: "【長野・白馬・小谷】白馬五竜 ホテル ステラベラ｜楽天トラベル高評価宿の温泉・客室・料金比較"
 url: "https://croud-travel.pages.dev/posts/hakuba-stellabella-guide/"
 hotel_name: "白馬五竜 ホテル ステラベラ"
 prefecture: "長野県"
@@ -10,7 +10,7 @@ review_count: 48
 last_modified: "2026-10-18"
 ---
 
-# 【長野・白馬・小谷】白馬五竜 ホテル ステラベラの宿泊記＆口コミ評判｜白馬・小谷の好立地・客室・温泉・朝食徹底ガイド
+# 【長野・白馬・小谷】白馬五竜 ホテル ステラベラ｜楽天トラベル高評価宿の温泉・客室・料金比較
 
 - **URL**: https://croud-travel.pages.dev/posts/hakuba-stellabella-guide/
 - **宿泊施設・特集名**: 白馬五竜 ホテル ステラベラ

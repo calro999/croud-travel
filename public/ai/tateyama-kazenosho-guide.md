@@ -1,5 +1,5 @@
 ---
-title: "【千葉・館山・南房総】ホテル洲の崎 風の抄の宿泊記＆口コミ評判｜館山・南房総の好立地・客室・温泉・朝食徹底ガイド"
+title: "【千葉・館山・南房総】ホテル洲の崎 風の抄｜楽天トラベル高評価宿の温泉・客室・料金比較"
 url: "https://croud-travel.pages.dev/posts/tateyama-kazenosho-guide/"
 hotel_name: "ホテル洲の崎 風の抄"
 prefecture: "千葉県"
@@ -10,7 +10,7 @@ review_count: 193
 last_modified: "2026-10-18"
 ---
 
-# 【千葉・館山・南房総】ホテル洲の崎 風の抄の宿泊記＆口コミ評判｜館山・南房総の好立地・客室・温泉・朝食徹底ガイド
+# 【千葉・館山・南房総】ホテル洲の崎 風の抄｜楽天トラベル高評価宿の温泉・客室・料金比較
 
 - **URL**: https://croud-travel.pages.dev/posts/tateyama-kazenosho-guide/
 - **宿泊施設・特集名**: ホテル洲の崎 風の抄

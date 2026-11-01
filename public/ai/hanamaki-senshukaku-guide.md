@@ -1,5 +1,5 @@
 ---
-title: "【岩手・花巻市】花巻温泉 ホテル千秋閣の宿泊記＆口コミ評判｜牛ステーキと揚げたて天ぷら・客室・温泉・朝食徹底ガイド"
+title: "【岩手・花巻市】花巻温泉 ホテル千秋閣｜楽天トラベル高評価宿の温泉・客室・料金比較"
 url: "https://croud-travel.pages.dev/posts/hanamaki-senshukaku-guide/"
 hotel_name: "花巻温泉 ホテル千秋閣"
 prefecture: "岩手県"
@@ -10,7 +10,7 @@ review_count: 2201
 last_modified: "2026-10-18"
 ---
 
-# 【岩手・花巻市】花巻温泉 ホテル千秋閣の宿泊記＆口コミ評判｜牛ステーキと揚げたて天ぷら・客室・温泉・朝食徹底ガイド
+# 【岩手・花巻市】花巻温泉 ホテル千秋閣｜楽天トラベル高評価宿の温泉・客室・料金比較
 
 - **URL**: https://croud-travel.pages.dev/posts/hanamaki-senshukaku-guide/
 - **宿泊施設・特集名**: 花巻温泉 ホテル千秋閣

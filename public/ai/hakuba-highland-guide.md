@@ -1,5 +1,5 @@
 ---
-title: "【長野・北安曇】白馬姫川温泉 白馬ハイランドホテルの宿泊記＆口コミ評判｜こだわり料理・客室・温泉・朝食徹底ガイド"
+title: "【長野・北安曇】白馬姫川温泉 白馬ハイランドホテル｜楽天トラベル高評価宿の温泉・客室・料金比較"
 url: "https://croud-travel.pages.dev/posts/hakuba-highland-guide/"
 hotel_name: "白馬姫川温泉 白馬ハイランドホテル"
 prefecture: "長野県"
@@ -10,7 +10,7 @@ review_count: 1382
 last_modified: "2026-10-18"
 ---
 
-# 【長野・北安曇】白馬姫川温泉 白馬ハイランドホテルの宿泊記＆口コミ評判｜こだわり料理・客室・温泉・朝食徹底ガイド
+# 【長野・北安曇】白馬姫川温泉 白馬ハイランドホテル｜楽天トラベル高評価宿の温泉・客室・料金比較
 
 - **URL**: https://croud-travel.pages.dev/posts/hakuba-highland-guide/
 - **宿泊施設・特集名**: 白馬姫川温泉 白馬ハイランドホテル

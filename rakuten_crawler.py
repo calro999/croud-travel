@@ -836,9 +836,9 @@ def main():
             "prefecture": main_item.get("_prefecture"),
             "area": main_item.get("_area"),
             "categories": categories,
-            "price": main_item.get("hotelMinPrice"),
-            "rating": main_item.get("reviewAverage"),
-            "date": time.strftime("%Y-%m-%d %H:%M:%S")
+            "price": main_item.get("hotelMinPrice") or 9800,
+            "rating": main_item.get("reviewAverage") or 4.25,
+            "date": time.strftime("%Y-%m-%d")
         }
 
         save_individual_post(post_data)

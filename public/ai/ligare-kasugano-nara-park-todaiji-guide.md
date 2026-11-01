@@ -1,5 +1,5 @@
 ---
-title: "【ホテル リガーレ春日野】の宿泊記＆口コミ評判｜朝食バイキング・客室・温泉・朝食徹底ガイド"
+title: "【ホテル リガーレ春日野】｜楽天トラベル高評価宿の温泉・客室・料金比較"
 url: "https://croud-travel.pages.dev/posts/ligare-kasugano-nara-park-todaiji-guide/"
 hotel_name: "ホテル　リガーレ春日野"
 prefecture: "奈良県"
@@ -10,7 +10,7 @@ review_count: 240
 last_modified: "2026-10-18"
 ---
 
-# 【ホテル リガーレ春日野】の宿泊記＆口コミ評判｜朝食バイキング・客室・温泉・朝食徹底ガイド
+# 【ホテル リガーレ春日野】｜楽天トラベル高評価宿の温泉・客室・料金比較
 
 - **URL**: https://croud-travel.pages.dev/posts/ligare-kasugano-nara-park-todaiji-guide/
 - **宿泊施設・特集名**: ホテル　リガーレ春日野

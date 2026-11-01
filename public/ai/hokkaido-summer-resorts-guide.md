@@ -1,5 +1,5 @@
 ---
-title: "避暑地 夏の北海道・大自然を満喫できる絶景リゾートホテル大特集の宿泊記＆口コミ評判レビュー"
+title: "避暑地 夏の北海道・大自然を満喫できる絶景リゾートホテル大特集｜人気宿の客室・温泉・料金徹底比較"
 url: "https://croud-travel.pages.dev/posts/hokkaido-summer-resorts-guide/"
 hotel_name: "【避暑地】夏の北海道・大自然を満喫できる絶景リゾートホテル大特集"
 prefecture: "北海道"
@@ -10,7 +10,7 @@ review_count: 1500
 last_modified: "2026-10-18"
 ---
 
-# 避暑地 夏の北海道・大自然を満喫できる絶景リゾートホテル大特集の宿泊記＆口コミ評判レビュー
+# 避暑地 夏の北海道・大自然を満喫できる絶景リゾートホテル大特集｜人気宿の客室・温泉・料金徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/hokkaido-summer-resorts-guide/
 - **宿泊施設・特集名**: 【避暑地】夏の北海道・大自然を満喫できる絶景リゾートホテル大特集

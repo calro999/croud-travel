@@ -1,5 +1,5 @@
 ---
-title: "【沖縄・国頭】ハレクラニ沖縄の宿泊記＆口コミ評判｜客室・バスルーム・朝食・アクセスガイド"
+title: "【沖縄・国頭】ハレクラニ沖縄｜楽天トラベル高評価宿の温泉・客室・料金比較"
 url: "https://croud-travel.pages.dev/posts/hotel-okinawa-1/"
 hotel_name: "ハレクラニ沖縄"
 prefecture: "沖縄県"
@@ -10,7 +10,7 @@ review_count: 754
 last_modified: "2026-10-18"
 ---
 
-# 【沖縄・国頭】ハレクラニ沖縄の宿泊記＆口コミ評判｜客室・バスルーム・朝食・アクセスガイド
+# 【沖縄・国頭】ハレクラニ沖縄｜楽天トラベル高評価宿の温泉・客室・料金比較
 
 - **URL**: https://croud-travel.pages.dev/posts/hotel-okinawa-1/
 - **宿泊施設・特集名**: ハレクラニ沖縄
