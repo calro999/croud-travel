@@ -556,12 +556,13 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
   {
     const textLen = (p) => (p.review || p.content || '').replace(/<[^>]*>/g, '').replace(/\s/g, '').length;
     const isMultiHotelFeature = (p) => {
-      const id = String(p.id || '');
-      const title = String(p.title || '');
       if (p.is_special_feature) return true;
       if (Array.isArray(p.featured_hotels) && p.featured_hotels.length >= 2) return true;
-      if (/(?:10選|5選|7選|8選|比較|ランキング|モデルコース|完全攻略|特集)/.test(title) && !/^\d+$/.test(id)) return true;
-      if (/^(?:autumn|winter|spring|summer|october|november|december|january|february|march)-/.test(id) && !id.endsWith('-hotel-guide')) return true;
+      const r = String(p.review || p.content || '');
+      if (r.includes('第1選') && r.includes('第2選')) return true;
+      // 単体宿テンプレート（施設スペック＆リアルタイム評価 等）でない、かつ10選/5選などの特集タイトル
+      const isSingleTemplate = r.includes('📡 楽天トラベル公式API 連携施設データ');
+      if (!isSingleTemplate && /(?:10選|5選|7選|8選|3選|徹底比較|ランキング|完全攻略)/.test(String(p.title || ''))) return true;
       return false;
     };
     const normHotelName = (name) => String(name || '')

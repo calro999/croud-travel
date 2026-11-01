@@ -282,7 +282,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/38553/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://croud-travel.pages.dev/posts/28775/</loc>
     <lastmod>2026-10-27</lastmod>
@@ -2295,7 +2300,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/11332/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://croud-travel.pages.dev/posts/11355/</loc>
     <lastmod>2026-10-18</lastmod>
@@ -5765,7 +5775,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/56137/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://croud-travel.pages.dev/posts/56159/</loc>
     <lastmod>2026-10-18</lastmod>
@@ -9100,12 +9115,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://croud-travel.pages.dev/posts/dogo-funaya-guide/</loc>
-    <lastmod>2026-10-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://croud-travel.pages.dev/posts/dogo-onsen-honkan-botchan-ehime-guide/</loc>
     <lastmod>2026-10-18</lastmod>
@@ -11352,12 +11362,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://croud-travel.pages.dev/posts/kusatsu-sakurai-guide/</loc>
-    <lastmod>2026-10-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://croud-travel.pages.dev/posts/kusatsu-tokinoniwa-guide/</loc>
     <lastmod>2026-10-18</lastmod>
