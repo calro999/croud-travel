@@ -112,4 +112,4 @@
 
 ## 📖 詳しい現地取材・タイムスケジュール・宿の詳細比較はこちら
 本記事の完全版（1泊2日モデルコース・詳細マップ・予約Tips・宿の詳細スペック比較）は、Webサイト本編にて公開しています：
-👉 [【公式】Webサイト完全版記事を読む（https://croud-travel.pages.dev/note-237）](https://croud-travel.pages.dev/note-237)
+👉 [【公式】Webサイト完全版記事を読む（https://croud-travel.pages.dev/posts/autumn-november-akizuki-castle-tsukioka-kaminoyama-yufuin-onsen-guide/）](https://croud-travel.pages.dev/posts/autumn-november-akizuki-castle-tsukioka-kaminoyama-yufuin-onsen-guide/)

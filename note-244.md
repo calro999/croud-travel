@@ -116,4 +116,4 @@
 ---
 
 より詳しい周辺モデルコースや詳細な比較一覧表は、Webサイト本編にて公開中です：  
-👉 [河口湖・雲仙・奥飛騨・道後の晩秋攻略ガイド（完全版）](https://croud-travel.pages.dev/note-244)
+👉 [河口湖・雲仙・奥飛騨・道後の晩秋攻略ガイド（完全版）](https://croud-travel.pages.dev/posts/autumn-fuji-kawaguchiko-momiji-festival-lake-view-onsen-hotels-guide/)

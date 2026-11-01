@@ -116,4 +116,4 @@
 ---
 
 より詳しい周辺モデルコースや詳細な比較一覧表は、Webサイト本編にて公開中です：  
-👉 [軽井沢・山中温泉・唐津・松島の晩秋攻略ガイド（完全版）](https://croud-travel.pages.dev/note-243)
+👉 [軽井沢・山中温泉・唐津・松島の晩秋攻略ガイド（完全版）](https://croud-travel.pages.dev/posts/autumn-winter-karuizawa-kumobaike-illumination-resort-hotels-guide/)

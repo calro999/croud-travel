@@ -116,4 +116,4 @@
 ---
 
 より詳しい周辺モデルコースや詳細な比較一覧表は、Webサイト本編にて公開中です：  
-👉 [那須・黒部峡谷・三朝温泉・黒川温泉の晩秋攻略ガイド（完全版）](https://croud-travel.pages.dev/note-245)
+👉 [那須・黒部峡谷・三朝温泉・黒川温泉の晩秋攻略ガイド（完全版）](https://croud-travel.pages.dev/posts/autumn-november-nagano-ebisukou-fireworks-ikaho-kajikabashi-misasa-crab-guide/)

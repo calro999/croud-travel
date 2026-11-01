@@ -116,4 +116,4 @@
 ---
 
 より詳しい周辺モデルコースや詳細な比較一覧表は、Webサイト本編にて公開中です：  
-👉 [修善寺・天橋立・花巻温泉・由布院の晩秋攻略ガイド（完全版）](https://croud-travel.pages.dev/note-247)
+👉 [修善寺・天橋立・花巻温泉・由布院の晩秋攻略ガイド（完全版）](https://croud-travel.pages.dev/posts/autumn-november-akizuki-castle-tsukioka-kaminoyama-yufuin-onsen-guide/)

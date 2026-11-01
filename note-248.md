@@ -116,4 +116,4 @@
 ---
 
 より詳しい周辺モデルコースや詳細な比較一覧表は、Webサイト本編にて公開中です：  
-👉 [袋田の滝・あわら温泉・吉野山・霧島の晩秋攻略ガイド（完全版）](https://croud-travel.pages.dev/note-248)
+👉 [袋田の滝・あわら温泉・吉野山・霧島の晩秋攻略ガイド（完全版）](https://croud-travel.pages.dev/posts/winter-crab-season-matsuba-echizen-onsen-hotels-guide/)

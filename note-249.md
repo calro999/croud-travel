@@ -116,4 +116,4 @@
 ---
 
 より詳しい周辺モデルコースや詳細な比較一覧表は、Webサイト本編にて公開中です：  
-👉 [伊香保・宮島・月岡温泉・高千穂峡の晩秋攻略ガイド（完全版）](https://croud-travel.pages.dev/note-249)
+👉 [伊香保・宮島・月岡温泉・高千穂峡の晩秋攻略ガイド（完全版）](https://croud-travel.pages.dev/posts/autumn-november-kawaguchiko-momiji-nikko-arashiyama-takachiho-kagura-guide/)

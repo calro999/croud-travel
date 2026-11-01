@@ -116,4 +116,4 @@
 ---
 
 より詳しい周辺モデルコースや詳細な比較一覧表は、Webサイト本編にて公開中です：  
-👉 [湖東三山・戸隠・長門湯本・会津東山温泉の晩秋攻略ガイド（完全版）](https://croud-travel.pages.dev/note-246)
+👉 [湖東三山・戸隠・長門湯本・会津東山温泉の晩秋攻略ガイド（完全版）](https://croud-travel.pages.dev/posts/autumn-koto-sanzan-eigenji-momiji-ogoto-onsen-hotels-guide/)
