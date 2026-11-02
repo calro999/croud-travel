@@ -9577,13 +9577,13 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  
   <url>
-    <loc>https://croud-travel.pages.dev/posts/gora-merveil-guide/</loc>
+    <loc>https://croud-travel.pages.dev/posts/gora-merveilles-guide/</loc>
     <lastmod>2026-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>https://croud-travel.pages.dev/posts/gora-setsugetsuka-guide/</loc>
     <lastmod>2026-10-18</lastmod>
@@ -9818,13 +9818,13 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  
   <url>
-    <loc>https://croud-travel.pages.dev/posts/hakuba-sierra-resort-guide/</loc>
+    <loc>https://croud-travel.pages.dev/posts/hakuba-sierra-resort-part30-guide/</loc>
     <lastmod>2026-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>https://croud-travel.pages.dev/posts/hakuba-stellabella-alps-resort-guide/</loc>
     <lastmod>2026-10-18</lastmod>
@@ -11356,7 +11356,12 @@
     <priority>0.8</priority>
   </url>
   
-  
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/kusatsu-kanamidori-review-guide/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://croud-travel.pages.dev/posts/kusatsu-kanoya-guide/</loc>
     <lastmod>2026-10-18</lastmod>
@@ -11425,12 +11430,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://croud-travel.pages.dev/posts/kusatsu-yubata-yado-guide/</loc>
-    <lastmod>2026-10-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   
   <url>
     <loc>https://croud-travel.pages.dev/posts/kusatsu-yubatasouan-guide/</loc>
@@ -14412,14 +14412,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  
-  
   <url>
-    <loc>https://croud-travel.pages.dev/posts/oga-onsen-yado-guide/</loc>
+    <loc>https://croud-travel.pages.dev/posts/oga-onsen-hotspring-guide/</loc>
     <lastmod>2026-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  
+  
   
   <url>
     <loc>https://croud-travel.pages.dev/posts/oga-peninsula-namahage-onsen-hotels-guide/</loc>
@@ -15863,7 +15863,12 @@
     <priority>0.8</priority>
   </url>
   
-  
+  <url>
+    <loc>https://croud-travel.pages.dev/posts/tendo-onsen-yado-guide/</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://croud-travel.pages.dev/posts/tendo-sakeya-hotel-guide/</loc>
     <lastmod>2026-10-18</lastmod>
@@ -15871,12 +15876,7 @@
     <priority>0.8</priority>
   </url>
   
-  <url>
-    <loc>https://croud-travel.pages.dev/posts/tendo-takinoyu-guide/</loc>
-    <lastmod>2026-10-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://croud-travel.pages.dev/posts/tennoji-abenoharukas-shin-osaka-hotels-guide/</loc>
     <lastmod>2026-10-18</lastmod>
