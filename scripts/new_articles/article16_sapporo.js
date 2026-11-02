@@ -1,0 +1,519 @@
+// scripts/new_articles/article16_sapporo.js
+module.exports = function buildArticle16(themeData) {
+  const hotels = themeData.hotels;
+  const wiki = themeData.wiki;
+
+  const slug = "autumn-winter-sapporo-white-illumination-odori-park-hotels-guide";
+  const title = "【北海道・札幌/定山渓】さっぽろホワイトイルミネーション2026＆ミュンヘン・クリスマス市完全攻略！大通公園の光の芸術と定山渓雪見露天・極上三大カニを堪能する名宿5選";
+  const description = "1981年に始まった日本屈指の光の祭典「さっぽろホワイトイルミネーション」と、姉妹都市ドイツ・ミュンヘンの風情を再現する「ミュンヘン・クリスマス市 in Sapporo」。初雪が舞い散る11月下旬から12月・1月にかけて、大通公園からすすきのまで札幌の街全体が白銀と光のファンタジーに包まれます。地下歩行空間チ・カ・ホを活用した防寒ルート、本場ドイツ仕込みのグリューワインや焼きソーセージ、三大カニや極上味噌ラーメンの名店、そして湯けむり立ち込める定山渓温泉の雪見露天を満喫できる厳選5宿を徹底解説。";
+  const date = "2026-11-02";
+  const prefecture = "北海道";
+  const area = "札幌・定山渓";
+
+  const hSuizantei = hotels.find(h => h.hotelNo === 875) || hotels[0];
+  const hFurukawa = hotels.find(h => h.hotelNo === 1037) || hotels[1];
+  const hGrand = hotels.find(h => h.hotelNo === 762) || hotels[2];
+  const hKeio = hotels.find(h => h.hotelNo === 724) || hotels[3];
+  const hNikko = hotels.find(h => h.hotelNo === 76941) || hotels[4];
+
+  const wIllumi = wiki["さっぽろホワイトイルミネーション"] || {};
+  const wOdori = wiki["大通公園"] || {};
+  const wJozankei = wiki["定山渓温泉"] || {};
+  const wTokeidai = wiki["札幌市時計台"] || {};
+
+  const reviewHtml = `
+<div class="my-6 p-4 rounded-2xl bg-gradient-to-r from-sky-950 via-blue-900 to-indigo-950 text-white shadow-md flex flex-col sm:flex-row items-center justify-between gap-3">
+  <div class="space-y-0.5 text-center sm:text-left">
+    <div class="flex items-center justify-center sm:justify-start gap-1.5 text-sky-300 font-extrabold text-xs">
+      <span>❄️</span><span>2026年冬 さっぽろホワイトイルミネーション速報</span>
+    </div>
+    <p class="text-xs text-sky-100">
+      大通公園1丁目〜6丁目会場を彩る約73万球のLEDオブジェと2丁目ミュンヘン・クリスマス市！夜は氷点下に達するため、チ・カ・ホ直結の都市型ホテルや札幌の奥座敷・定山渓温泉の雪見風呂と組み合わせるのが冬の北海道旅行の王道です。
+    </p>
+  </div>
+  <a href="${hNikko.affiliateUrl}" target="_blank" rel="sponsored noopener noreferrer" class="shrink-0 px-4 py-2 bg-sky-400 hover:bg-sky-300 text-slate-950 font-black text-xs rounded-xl shadow transition transform hover:scale-105">
+    ❄️ JRタワーホテル日航札幌の空室を見る →
+  </a>
+</div>
+
+<h2 id="intro" class="text-xl md:text-2xl font-bold text-stone-900 border-b-2 border-sky-700 pb-2 mb-4">
+  白銀の北都に灯る光のシンフォニー！日本三大イルミネーションと本場ドイツ市
+</h2>
+<p class="text-sm md:text-base text-stone-700 leading-relaxed mb-4">
+  日本におけるイルミネーション発祥の地とされる北海道札幌市。昭和56年（1981年）にわずか1,048個の電球から始まった「さっぽろホワイトイルミネーション」は、現在では大通公園を中心に駅前通やすすきの会場まで広がり、約73万個もの電球が光の芸術を描き出す日本三大イルミネーションの一つへと成長しました。
+</p>
+<p class="text-sm md:text-base text-stone-700 leading-relaxed mb-4">
+  11月下旬の札幌は、初雪が街並みを覆い始め、冷たく澄み切った空気が光の輝きを一層際立たせます。大通公園2丁目に開設される「ミュンヘン・クリスマス市 in Sapporo」では、木造ヒュッテが軒を連ね、スパイスが香る温かいグリューワインやドイツ直輸入の焼きソーセージ、職人が丹精込めて手作りした木製くるみ割り人形やガラス工芸品が並びます。降りしきるパウダースノーがイルミネーションの光を乱反射させ、まるで映画のワンシーンのようなロマンチックな世界が広がります。
+</p>
+<p class="text-sm md:text-base text-stone-700 leading-relaxed mb-6">
+  観光を楽しんだ後は、札幌駅直結や大通公園徒歩圏のラグジュアリーホテルで夜景を見渡すか、車で約50分の「札幌の奥座敷」定山渓温泉へ足を伸ばして、雪見露天風呂と北海道冬の味覚・タラバガニや毛ガニ、濃厚な味噌ラーメンを堪能するのが最高の滞在スタイル。本稿では、混雑回避法や防寒ノウハウを含めた完全ガイドをお届けします。
+</p>
+
+<h2 id="event-guide" class="text-xl md:text-2xl font-bold text-stone-900 border-b-2 border-sky-700 pb-2 my-6">
+  🎪 さっぽろホワイトイルミネーション見どころ＆チ・カ・ホ完全活用術
+</h2>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6 my-6">
+  <div class="p-6 rounded-3xl bg-white border border-stone-200 shadow-sm space-y-3">
+    <div class="flex items-center gap-2 border-b border-stone-100 pb-3">
+      <span class="px-2.5 py-1 bg-sky-100 text-sky-800 font-extrabold text-xs rounded-lg">会場ハイライト</span>
+      <h3 class="text-base font-bold text-stone-900">大通公園・駅前通・すすきの各会場の特長</h3>
+    </div>
+    <div class="text-xs text-stone-700 space-y-2 leading-relaxed">
+      <p>① <strong>大通1丁目「羽ばたきの『約束のシンフォニー』」:</strong> さっぽろテレビ塔を背景に、赤く輝くハートや羽ばたく鳥を模した巨大シンボルオブジェ。テレビ塔展望台から見下ろす大通公園の光の直線美は圧巻の眺望です。</p>
+      <p>② <strong>大通2丁目「ミュンヘン・クリスマス市 in Sapporo」:</strong> ドイツ直伝のスパイスホットワイン「グリューワイン」や焼きアーモンドの香ばしい匂いが漂う賑やかなマーケット。オリジナルマグカップの限定販売も大人気です。</p>
+      <p>③ <strong>大通3〜5丁目のテーマオブジェ:</strong> ライラックの花をイメージしたライティングや、雪の結晶を散りばめた光のトンネル「ブルーミング・ファウンテン」など、歩行者が中に入って撮影できる体験型フォトスポットが充実。</p>
+      <p>④ <strong>駅前通会場＆南1条通:</strong> JR札幌駅からすすきの交差点へと続く中央分離帯の街路樹が一斉にLEDで装飾され、冬の夜空に光の並木道がどこまでも続きます。</p>
+    </div>
+  </div>
+
+  <div class="p-6 rounded-3xl bg-white border border-stone-200 shadow-sm space-y-3">
+    <div class="flex items-center gap-2 border-b border-stone-100 pb-3">
+      <span class="px-2.5 py-1 bg-blue-100 text-blue-800 font-extrabold text-xs rounded-lg">寒さ＆アクセス対策</span>
+      <h3 class="text-base font-bold text-stone-900">氷点下を快適に乗り切る防寒と地下道ルート</h3>
+    </div>
+    <div class="text-xs text-stone-700 space-y-2 leading-relaxed">
+      <p><strong>【地下歩行空間「チ・カ・ホ」の賢い活用法】</strong> 札幌駅から大通、すすきのまでは日本最大級の地下歩行空間が直結しています。屋外を歩くのはイルミネーション鑑賞時のみに留め、移動は暖房の効いた地下街（チ・カ・ホ、ポールタウン、オーロラタウン）を利用することで体力の消耗と転倒リスクを大幅に軽減できます。</p>
+      <p><strong>【足元の滑り止め対策】</strong> 11月下旬以降は路面が凍結し「ツルツル路面」になる日が増えます。靴底に滑り止めパターンの入ったスノーブーツを着用するか、札幌駅や地下街のコンビニ・キヨスクで売られている「着脱式靴用スパイク（約1,000円〜1,500円）」を装着してください。</p>
+      <p><strong>【服装のレイヤリング】</strong> 屋外はマイナス気温ですが、地下街や飲食店、ホテル内は暖房が効いて20℃前後に保たれています。脱ぎ着しやすい前開きのダウンコートやファスナー式フリースを着用し、インナーでの過度な着込みすぎに注意しましょう。</p>
+    </div>
+  </div>
+</div>
+
+<h2 id="hotel-selection" class="text-xl md:text-2xl font-bold text-stone-900 border-b-2 border-sky-700 pb-2 my-8">
+  🏨 イルミネーション鑑賞に最高！札幌都心＆定山渓温泉の厳選宿5選
+</h2>
+
+<!-- 宿1: 定山渓第一寶亭留 翠山亭 -->
+<div class="my-8 p-6 md:p-8 rounded-3xl bg-white border border-stone-200 shadow-md space-y-5">
+  <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between border-b border-stone-100 pb-4 gap-2">
+    <div>
+      <span class="px-3 py-1 bg-sky-100 text-sky-900 font-black text-xs rounded-full">札幌の奥座敷・雪見露天風呂と極上会席の贅沢空間</span>
+      <h3 class="text-lg md:text-xl font-extrabold text-stone-900 mt-1">1. 定山渓温泉 定山渓第一寶亭留 翠山亭（北海道札幌市南区定山渓温泉西）</h3>
+    </div>
+    <span class="px-3 py-1.5 bg-sky-50 border border-sky-300 text-sky-900 font-black text-xs rounded-xl">⭐ 楽天トラベル評価 ${hSuizantei.reviewAverage}（${hSuizantei.reviewCount}件）</span>
+  </div>
+  <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-start">
+    <div class="md:col-span-5 space-y-3">
+      <img src="${hSuizantei.hotelImageUrl}" alt="${hSuizantei.hotelName} 外観" class="w-full h-52 object-cover rounded-2xl border border-stone-200 shadow-xs" loading="lazy" />
+      <img src="${hSuizantei.roomImageUrl || hSuizantei.hotelImageUrl}" alt="${hSuizantei.hotelName} 客室" class="w-full h-40 object-cover rounded-2xl border border-stone-200 shadow-xs" loading="lazy" />
+    </div>
+    <div class="md:col-span-7 space-y-3 text-xs text-stone-700 leading-relaxed">
+      <p class="text-sm font-semibold text-stone-800">濃密な自家源泉を3本の井戸から引く贅沢。森の静寂に包まれる上質な大人の湯宿</p>
+      <p>「定山渓第一寶亭留 翠山亭」は、札幌中心部から無料送迎バスまたは車で約50分、支笏洞爺国立公園の大自然に抱かれた名門宿です。3本の源泉をブレンドした濃厚なナトリウム-塩化物泉は、身体の芯から温まり湯冷めしにくい極上の泉質。雪が降り積もる日本庭園を眺める大浴場「飛泉の湯」「森の湯」や、風情あふれる檜の離れ貸切湯屋など、多彩な湯舟で雪見風呂を満喫できます。夕食は北海道各地から集まる旬の美味、蝦夷アワビや白老牛、オホーツクの海鮮を職人が仕立てる繊細な炭火懐石。昼は大通公園のイルミネーションを楽しみ、夜は深閑とした名湯で心身を解きほぐす、北海道の冬ならではの贅沢を叶えてくれます。</p>
+      <div class="pt-2 flex flex-wrap gap-2 text-stone-600 font-medium">
+        <span class="bg-stone-100 px-2.5 py-1 rounded-md">住所: ${hSuizantei.address1}${hSuizantei.address2}</span>
+        <span class="bg-stone-100 px-2.5 py-1 rounded-md">アクセス: 地下鉄真駒内駅・大通駅より無料送迎バス運行（要予約）</span>
+        <span class="bg-stone-100 px-2.5 py-1 rounded-md">宿泊料金: 1名あたり ¥${(hSuizantei.hotelMinCharge || 16000).toLocaleString()}〜</span>
+      </div>
+      <div class="pt-3">
+        <a href="${hSuizantei.affiliateUrl}" target="_blank" rel="sponsored noopener noreferrer" class="inline-flex items-center gap-2 px-5 py-2.5 bg-sky-700 hover:bg-sky-800 text-white font-bold text-xs rounded-xl shadow transition">
+          <span>定山渓第一寶亭留 翠山亭の宿泊プラン・空室を見る</span>
+          <span>→</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 宿2: ぬくもりの宿 ふる川 -->
+<div class="my-8 p-6 md:p-8 rounded-3xl bg-white border border-stone-200 shadow-md space-y-5">
+  <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between border-b border-stone-100 pb-4 gap-2">
+    <div>
+      <span class="px-3 py-1 bg-amber-100 text-amber-900 font-black text-xs rounded-full">囲炉裏の炭火と民芸の温もりに包まれる人気旅館</span>
+      <h3 class="text-lg md:text-xl font-extrabold text-stone-900 mt-1">2. 定山渓温泉 ぬくもりの宿 ふる川（北海道札幌市南区定山渓温泉西）</h3>
+    </div>
+    <span class="px-3 py-1.5 bg-amber-50 border border-amber-300 text-amber-900 font-black text-xs rounded-xl">⭐ 楽天トラベル評価 ${hFurukawa.reviewAverage}（${hFurukawa.reviewCount}件）</span>
+  </div>
+  <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-start">
+    <div class="md:col-span-5 space-y-3">
+      <img src="${hFurukawa.hotelImageUrl}" alt="${hFurukawa.hotelName} 外観" class="w-full h-52 object-cover rounded-2xl border border-stone-200 shadow-xs" loading="lazy" />
+      <img src="${hFurukawa.roomImageUrl || hFurukawa.hotelImageUrl}" alt="${hFurukawa.hotelName} 客室" class="w-full h-40 object-cover rounded-2xl border border-stone-200 shadow-xs" loading="lazy" />
+    </div>
+    <div class="md:col-span-7 space-y-3 text-xs text-stone-700 leading-relaxed">
+      <p class="text-sm font-semibold text-stone-800">ふるさとの懐かしさと高温泉の恵み。看板犬「ぬくちゃん」が出迎える癒やしの空間</p>
+      <p>「ぬくもりの宿 ふる川」は、田舎の旧家に帰ってきたかのような木と漆喰の温もりに満ちた宿。館内のラウンジでは囲炉裏に炭火が熾され、甘酒や焼き芋、手作りの燻製が振る舞われます。大浴場は1階から3階まで吹き抜けの開放感あふれる空間で、石造りの露天風呂からは降り積もる雪景色を間近に眺めることができます。さらに宿泊者限定の別棟ラウンジや足湯、蒸気サウナなど館内の寛ぎ処が極めて豊富。食事は北海道の山海の幸をふんだんに取り入れた郷土会席で、道産豚のしゃぶしゃぶや旬魚のお造りが絶品。スタッフの心のこもったあたたかな接客も評判で、リピーターの絶えない名宿です。</p>
+      <div class="pt-2 flex flex-wrap gap-2 text-stone-600 font-medium">
+        <span class="bg-stone-100 px-2.5 py-1 rounded-md">住所: ${hFurukawa.address1}${hFurukawa.address2}</span>
+        <span class="bg-stone-100 px-2.5 py-1 rounded-md">アクセス: JR札幌駅よりじょうてつバス「定山渓湯の町」下車徒歩1分</span>
+        <span class="bg-stone-100 px-2.5 py-1 rounded-md">宿泊料金: 1名あたり ¥${(hFurukawa.hotelMinCharge || 16800).toLocaleString()}〜</span>
+      </div>
+      <div class="pt-3">
+        <a href="${hFurukawa.affiliateUrl}" target="_blank" rel="sponsored noopener noreferrer" class="inline-flex items-center gap-2 px-5 py-2.5 bg-amber-700 hover:bg-amber-800 text-white font-bold text-xs rounded-xl shadow transition">
+          <span>ぬくもりの宿 ふる川の宿泊プラン・空室を見る</span>
+          <span>→</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 宿3: JRタワーホテル日航札幌 -->
+<div class="my-8 p-6 md:p-8 rounded-3xl bg-white border border-stone-200 shadow-md space-y-5">
+  <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between border-b border-stone-100 pb-4 gap-2">
+    <div>
+      <span class="px-3 py-1 bg-indigo-100 text-indigo-900 font-black text-xs rounded-full">JR札幌駅直結・地上100mの天然温泉スカイリゾートスパ</span>
+      <h3 class="text-lg md:text-xl font-extrabold text-stone-900 mt-1">3. ＪＲタワーホテル日航札幌（北海道札幌市中央区北5条西2丁目）</h3>
+    </div>
+    <span class="px-3 py-1.5 bg-indigo-50 border border-indigo-300 text-indigo-900 font-black text-xs rounded-xl">⭐ 楽天トラベル評価 ${hNikko.reviewAverage}（${hNikko.reviewCount}件）</span>
+  </div>
+  <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-start">
+    <div class="md:col-span-5 space-y-3">
+      <img src="${hNikko.hotelImageUrl}" alt="${hNikko.hotelName} 外観" class="w-full h-52 object-cover rounded-2xl border border-stone-200 shadow-xs" loading="lazy" />
+      <img src="${hNikko.roomImageUrl || hNikko.hotelImageUrl}" alt="${hNikko.hotelName} 客室" class="w-full h-40 object-cover rounded-2xl border border-stone-200 shadow-xs" loading="lazy" />
+    </div>
+    <div class="md:col-span-7 space-y-3 text-xs text-stone-700 leading-relaxed">
+      <p class="text-sm font-semibold text-stone-800">雪の日でも傘いらず。高層階から見下ろす札幌の夜景と地下1,000m湧出の本格温泉</p>
+      <p>「ＪＲタワーホテル日航札幌」は、JR札幌駅改札から直結という究極の利便性を誇るランドマークホテル。天候が崩れやすい冬の北海道でも、雪に濡れることなくチェックインできます。最大の自慢は22階にあるスカイリゾートスパ「プラウブラン」。地下1,000mから湧き出る天然温泉大浴場からは、碁盤の目状に広がる札幌の街並みと、大通方面に広がるイルミネーションの光の海を一望できます。客室はすべて23階以上の高層階に位置し、遮るもののない大パノラマを満喫。大通公園までは地下歩行空間チ・カ・ホを通って徒歩約10分。イルミネーションを鑑賞して冷えた身体を、天空の天然温泉でじんわりと温める極上の都市型ステイが叶います。</p>
+      <div class="pt-2 flex flex-wrap gap-2 text-stone-600 font-medium">
+        <span class="bg-stone-100 px-2.5 py-1 rounded-md">住所: ${hNikko.address1}${hNikko.address2}</span>
+        <span class="bg-stone-100 px-2.5 py-1 rounded-md">アクセス: JR札幌駅東改札・南口より直結</span>
+        <span class="bg-stone-100 px-2.5 py-1 rounded-md">宿泊料金: 1名あたり ¥${(hNikko.hotelMinCharge || 14720).toLocaleString()}〜</span>
+      </div>
+      <div class="pt-3">
+        <a href="${hNikko.affiliateUrl}" target="_blank" rel="sponsored noopener noreferrer" class="inline-flex items-center gap-2 px-5 py-2.5 bg-indigo-700 hover:bg-indigo-800 text-white font-bold text-xs rounded-xl shadow transition">
+          <span>ＪＲタワーホテル日航札幌の宿泊プラン・空室を見る</span>
+          <span>→</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 宿4: 札幌グランドホテル -->
+<div class="my-8 p-6 md:p-8 rounded-3xl bg-white border border-stone-200 shadow-md space-y-5">
+  <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between border-b border-stone-100 pb-4 gap-2">
+    <div>
+      <span class="px-3 py-1 bg-emerald-100 text-emerald-900 font-black text-xs rounded-full">1934年開業・チ・カ・ホ直結の老舗グランドホテル</span>
+      <h3 class="text-lg md:text-xl font-extrabold text-stone-900 mt-1">4. 札幌グランドホテル（北海道札幌市中央区北1条西4丁目）</h3>
+    </div>
+    <span class="px-3 py-1.5 bg-emerald-50 border border-emerald-300 text-emerald-900 font-black text-xs rounded-xl">⭐ 楽天トラベル評価 ${hGrand.reviewAverage}（${hGrand.reviewCount}件）</span>
+  </div>
+  <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-start">
+    <div class="md:col-span-5 space-y-3">
+      <img src="${hGrand.hotelImageUrl}" alt="${hGrand.hotelName} 外観" class="w-full h-52 object-cover rounded-2xl border border-stone-200 shadow-xs" loading="lazy" />
+      <img src="${hGrand.roomImageUrl || hGrand.hotelImageUrl}" alt="${hGrand.hotelName} 客室" class="w-full h-40 object-cover rounded-2xl border border-stone-200 shadow-xs" loading="lazy" />
+    </div>
+    <div class="md:col-span-7 space-y-3 text-xs text-stone-700 leading-relaxed">
+      <p class="text-sm font-semibold text-stone-800">大通公園まで徒歩2分！地下歩行空間専用口直結で冬のアクセス抜群の迎賓館</p>
+      <p>「札幌グランドホテル」は、北海道初の本格的洋式ホテルとして昭和9年に誕生した名門。札幌駅と大通公園のほぼ中間、札幌駅前通地下歩行空間（チ・カ・ホ）に専用口で直結しており、大通公園のイルミネーション会場やクリスマス市まで真冬でも寒さを感じることなく往来できます。館内には伝統のフレンチ、中国料理、日本料理の名店が揃い、朝食ビュッフェのクオリティは全国トップクラス。北海道産いくらのかけ放題や、名物のコーンスープ、焼きたてのアップルパイなど、北海道の朝の贅沢を思う存分堪能できます。クラシックな気品と細やかなホスピタリティで、安心感に満ちた札幌滞在を約束します。</p>
+      <div class="pt-2 flex flex-wrap gap-2 text-stone-600 font-medium">
+        <span class="bg-stone-100 px-2.5 py-1 rounded-md">住所: ${hGrand.address1}${hGrand.address2}</span>
+        <span class="bg-stone-100 px-2.5 py-1 rounded-md">アクセス: チ・カ・ホ（札幌駅前通地下歩行空間）8番出口直結</span>
+        <span class="bg-stone-100 px-2.5 py-1 rounded-md">宿泊料金: 1名あたり ¥${(hGrand.hotelMinCharge || 4640).toLocaleString()}〜</span>
+      </div>
+      <div class="pt-3">
+        <a href="${hGrand.affiliateUrl}" target="_blank" rel="sponsored noopener noreferrer" class="inline-flex items-center gap-2 px-5 py-2.5 bg-emerald-700 hover:bg-emerald-800 text-white font-bold text-xs rounded-xl shadow transition">
+          <span>札幌グランドホテルの宿泊プラン・空室を見る</span>
+          <span>→</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 宿5: 京王プラザホテル札幌 -->
+<div class="my-8 p-6 md:p-8 rounded-3xl bg-white border border-stone-200 shadow-md space-y-5">
+  <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between border-b border-stone-100 pb-4 gap-2">
+    <div>
+      <span class="px-3 py-1 bg-rose-100 text-rose-900 font-black text-xs rounded-full">JR札幌駅西口徒歩5分・広々客室とシマエナガルームが人気</span>
+      <h3 class="text-lg md:text-xl font-extrabold text-stone-900 mt-1">5. 京王プラザホテル札幌（北海道札幌市中央区北5条西7丁目）</h3>
+    </div>
+    <span class="px-3 py-1.5 bg-rose-50 border border-rose-300 text-rose-900 font-black text-xs rounded-xl">⭐ 楽天トラベル評価 ${hKeio.reviewAverage}（${hKeio.reviewCount}件）</span>
+  </div>
+  <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-start">
+    <div class="md:col-span-5 space-y-3">
+      <img src="${hKeio.hotelImageUrl}" alt="${hKeio.hotelName} 外観" class="w-full h-52 object-cover rounded-2xl border border-stone-200 shadow-xs" loading="lazy" />
+      <img src="${hKeio.roomImageUrl || hKeio.hotelImageUrl}" alt="${hKeio.hotelName} 客室" class="w-full h-40 object-cover rounded-2xl border border-stone-200 shadow-xs" loading="lazy" />
+    </div>
+    <div class="md:col-span-7 space-y-3 text-xs text-stone-700 leading-relaxed">
+      <p class="text-sm font-semibold text-stone-800">北海道大学植物園に隣接する閑静な立地。上質な寛ぎと多彩な美食空間</p>
+      <p>「京王プラザホテル札幌」は、JR札幌駅西口から徒歩約5分、北海道大学植物園の緑豊かな環境に隣接するハイクラスシティホテルです。ゆったりとした広さを誇る客室は機能性と上質なインテリアが調和し、カップルからファミリーまで幅広い支持を集めています。北海道の雪の妖精と呼ばれる野鳥「シマエナガ」をモチーフにしたコンセプトルームやスイーツも話題。館内には鉄板焼、寿司、中国料理など本格レストランが充実し、北海道産食材をふんだんに使った朝食ブッフェでは、注文ごとに焼き上げるオムレツや海鮮丼が絶大な人気を誇ります。札幌駅やすすきのへのアクセスも軽快で、冬の札幌観光の拠点に最適です。</p>
+      <div class="pt-2 flex flex-wrap gap-2 text-stone-600 font-medium">
+        <span class="bg-stone-100 px-2.5 py-1 rounded-md">住所: ${hKeio.address1}${hKeio.address2}</span>
+        <span class="bg-stone-100 px-2.5 py-1 rounded-md">アクセス: JR札幌駅西口より徒歩5分</span>
+        <span class="bg-stone-100 px-2.5 py-1 rounded-md">宿泊料金: 1名あたり ¥${(hKeio.hotelMinCharge || 4870).toLocaleString()}〜</span>
+      </div>
+      <div class="pt-3">
+        <a href="${hKeio.affiliateUrl}" target="_blank" rel="sponsored noopener noreferrer" class="inline-flex items-center gap-2 px-5 py-2.5 bg-rose-700 hover:bg-rose-800 text-white font-bold text-xs rounded-xl shadow transition">
+          <span>京王プラザホテル札幌の宿泊プラン・空室を見る</span>
+          <span>→</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<h2 id="nearby-spots" class="text-xl md:text-2xl font-bold text-stone-900 border-b-2 border-sky-700 pb-2 my-8">
+  📸 宿の近隣観光地ガイド（Wikipedia公式データ連携）
+</h2>
+<p class="text-xs md:text-sm text-stone-600 mb-6">
+  冬の札幌・定山渓エリアの代表的観光スポットの公式情報と、各宿からのアクセスおよび散策のポイントをまとめました。
+</p>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6 my-6">
+  <!-- スポット1: さっぽろホワイトイルミネーション -->
+  <div class="p-6 rounded-3xl bg-white border border-stone-200 shadow-sm space-y-4">
+    <div class="flex items-center justify-between border-b border-stone-100 pb-3">
+      <h3 class="text-base font-bold text-stone-900">さっぽろホワイトイルミネーション</h3>
+      <span class="text-xs bg-sky-100 text-sky-800 px-2 py-0.5 rounded-full font-bold">公式連携</span>
+    </div>
+    ${wIllumi.thumbnail ? `<img src="${wIllumi.thumbnail}" alt="さっぽろホワイトイルミネーション" class="w-full h-48 object-cover rounded-xl border border-stone-100" loading="lazy" />` : ''}
+    <p class="text-xs text-stone-700 leading-relaxed">
+      ${wIllumi.extract || 'さっぽろホワイトイルミネーションは、北海道札幌市の大通公園、駅前通、南1条通にて1981年より11月下旬から開催される日本三大イルミネーションの一つ。'}
+    </p>
+    <div class="text-xs bg-stone-50 p-3 rounded-xl border border-stone-100 text-stone-600">
+      📍 <strong>アクセス・鑑賞のコツ:</strong> 大通公園1丁目〜6丁目会場。点灯時間は16:30〜22:00（12月中旬以降は24:00まで延長点灯）。札幌駅直結の日航札幌やグランドホテルからはチ・カ・ホ経由で防寒しながら快適にアクセス可能。
+    </div>
+  </div>
+
+  <!-- スポット2: 大通公園 -->
+  <div class="p-6 rounded-3xl bg-white border border-stone-200 shadow-sm space-y-4">
+    <div class="flex items-center justify-between border-b border-stone-100 pb-3">
+      <h3 class="text-base font-bold text-stone-900">大通公園（おおどおりこうえん）</h3>
+      <span class="text-xs bg-sky-100 text-sky-800 px-2 py-0.5 rounded-full font-bold">公式連携</span>
+    </div>
+    ${wOdori.thumbnail ? `<img src="${wOdori.thumbnail}" alt="大通公園" class="w-full h-48 object-cover rounded-xl border border-stone-100" loading="lazy" />` : ''}
+    <p class="text-xs text-stone-700 leading-relaxed">
+      ${wOdori.extract || '札幌市中心部を東西に貫く長さ約1.5kmの特殊公園。さっぽろ雪まつりやホワイトイルミネーションなど季節を代表する大イベントのメイン会場。'}
+    </p>
+    <div class="text-xs bg-stone-50 p-3 rounded-xl border border-stone-100 text-stone-600">
+      📍 <strong>アクセス・鑑賞のコツ:</strong> 地下鉄大通駅直結。西1丁目には「さっぽろテレビ塔」があり、展望台からのホワイトイルミネーション全景は冬の札幌随一の撮影絶景スポットです。
+    </div>
+  </div>
+
+  <!-- スポット3: 定山渓温泉 -->
+  <div class="p-6 rounded-3xl bg-white border border-stone-200 shadow-sm space-y-4">
+    <div class="flex items-center justify-between border-b border-stone-100 pb-3">
+      <h3 class="text-base font-bold text-stone-900">定山渓温泉（じょうざんけいおんせん）</h3>
+      <span class="text-xs bg-sky-100 text-sky-800 px-2 py-0.5 rounded-full font-bold">公式連携</span>
+    </div>
+    ${wJozankei.thumbnail ? `<img src="${wJozankei.thumbnail}" alt="定山渓温泉" class="w-full h-48 object-cover rounded-xl border border-stone-100" loading="lazy" />` : ''}
+    <p class="text-xs text-stone-700 leading-relaxed">
+      ${wJozankei.extract || '札幌市南区にある温泉郷。支笏洞爺国立公園内に位置し、豊平川の渓谷美と豊富な湯量を誇る「札幌の奥座敷」として親しまれる歴史ある温泉地。'}
+    </p>
+    <div class="text-xs bg-stone-50 p-3 rounded-xl border border-stone-100 text-stone-600">
+      📍 <strong>アクセス・鑑賞のコツ:</strong> 札幌駅バスターミナルから定山渓行きバス「かっぱライナー号」で約60分。「翠山亭」「ふる川」などの老舗旅館があり、冬の「雪灯路（ゆきとうろ）」ライトアップも必見。
+    </div>
+  </div>
+
+  <!-- スポット4: 札幌市時計台 -->
+  <div class="p-6 rounded-3xl bg-white border border-stone-200 shadow-sm space-y-4">
+    <div class="flex items-center justify-between border-b border-stone-100 pb-3">
+      <h3 class="text-base font-bold text-stone-900">札幌市時計台（旧札幌農学校演武場）</h3>
+      <span class="text-xs bg-sky-100 text-sky-800 px-2 py-0.5 rounded-full font-bold">公式連携</span>
+    </div>
+    ${wTokeidai.thumbnail ? `<img src="${wTokeidai.thumbnail}" alt="札幌市時計台" class="w-full h-48 object-cover rounded-xl border border-stone-100" loading="lazy" />` : ''}
+    <p class="text-xs text-stone-700 leading-relaxed">
+      ${wTokeidai.extract || '国指定の重要文化財。明治11年に札幌農学校の演武場として建設された木造建築で、現役で鐘の音を響かせる日本最古の時計塔。'}
+    </p>
+    <div class="text-xs bg-stone-50 p-3 rounded-xl border border-stone-100 text-stone-600">
+      📍 <strong>アクセス・鑑賞のコツ:</strong> 札幌グランドホテルから東へ徒歩2分。冬の夜はライトアップされ、雪が積もる白い外壁と三角屋根の赤が美しく浮かび上がります。
+    </div>
+  </div>
+</div>
+
+<h2 id="winter-itinerary" class="text-xl md:text-2xl font-bold text-stone-900 border-b-2 border-sky-700 pb-2 my-8">
+  🗺️ 2泊3日 札幌ホワイトイルミネーション＆定山渓雪見露天 満喫モデルコース
+</h2>
+
+<div class="p-6 md:p-8 rounded-3xl bg-white border border-stone-200 shadow-sm space-y-4 text-xs text-stone-700 leading-relaxed">
+  <div class="border-l-4 border-sky-600 pl-4 py-1 space-y-1">
+    <h3 class="text-sm font-bold text-stone-900">【1日目】新千歳空港から札幌都心へ・大通公園の光の海と本場ドイツ市を堪能</h3>
+    <p>・<strong>14:00</strong> 新千歳空港着。JR快速エアポートで札幌駅へ（約37分）。駅直結の「ＪＲタワーホテル日航札幌」またはチ・カ・ホ経由で「札幌グランドホテル」にチェックイン。</p>
+    <p>・<strong>16:30</strong> チ・カ・ホを通って大通公園へ。日没とともに一斉に点灯する「さっぽろホワイトイルミネーション」を鑑賞。さっぽろテレビ塔展望台から大通公園全景を一望。</p>
+    <p>・<strong>18:00</strong> 大通2丁目「ミュンヘン・クリスマス市」でスパイス香るホットグリューワインと焼きソーセージで乾杯。限定マグカップや木工オーナメントを購入。</p>
+    <p>・<strong>19:30</strong> すすきのへ移動し、活カニ専門店または老舗炉端焼きでタラバガニ・毛ガニの茹で上げとサッポロクラシック生ビールに舌鼓。</p>
+  </div>
+
+  <div class="border-l-4 border-indigo-600 pl-4 py-1 space-y-1">
+    <h3 class="text-sm font-bold text-stone-900">【2日目】冬の札幌市内散策から定山渓温泉へ・静寂の雪見露天と極上会席</h3>
+    <p>・<strong>08:30</strong> ホテルで北海道産いくらや海鮮丼の贅沢朝食ビュッフェ。雪景色の札幌市時計台や北海道庁旧本庁舎（赤れんが庁舎）を散策。</p>
+    <p>・<strong>11:30</strong> 札幌駅前の名店で濃厚味噌ラーメンまたは熱々のスープカレーで身体を芯から温める。</p>
+    <p>・<strong>13:30</strong> 札幌駅前より定山渓温泉行きの無料送迎バスまたは「かっぱライナー号」に乗車（約50分）。「定山渓第一寶亭留 翠山亭」または「ぬくもりの宿 ふる川」にチェックイン。</p>
+    <p>・<strong>15:30</strong> 渓谷を染める雪景色を眺めながら、源泉かけ流しの雪見大露天風呂を堪能。湯上がりに囲炉裏ラウンジで手作りスイーツや甘酒で寛ぎのひととき。</p>
+    <p>・<strong>18:30</strong> 道産牛やオホーツク海鮮を贅沢に使った炭火会席を地酒とともに味わう。</p>
+  </div>
+
+  <div class="border-l-4 border-teal-600 pl-4 py-1 space-y-1">
+    <h3 class="text-sm font-bold text-stone-900">【3日目】雪景色の定山渓散策とお土産選び・新千歳空港へ</h3>
+    <p>・<strong>09:00</strong> 定山渓源泉公園で足湯や「温泉たまご作り」を体験。二見吊橋からの渓谷雪景色を鑑賞。</p>
+    <p>・<strong>11:00</strong> チェックアウト後、直行バスで新千歳空港へ。空港内の「北海道ラーメン道場」や銘菓ショップでお土産を購入し帰路へ。</p>
+  </div>
+</div>
+
+<h2 id="faq" class="text-xl md:text-2xl font-bold text-stone-900 border-b-2 border-sky-700 pb-2 my-8">
+  ❓ さっぽろホワイトイルミネーション＆冬の札幌旅行 よくある質問（FAQ）
+</h2>
+
+<div class="space-y-4">
+  <div class="p-5 rounded-2xl bg-white border border-stone-200 shadow-xs">
+    <h3 class="text-sm font-bold text-stone-900">Q1. さっぽろホワイトイルミネーションとミュンヘン・クリスマス市の開催期間・点灯時間は？</h3>
+    <p class="text-xs text-stone-700 mt-2 leading-relaxed">
+      A. 2026年の開催日程は、大通会場およびミュンヘン・クリスマス市が11月下旬（例年11月20日〜22日頃開幕）から12月25日まで。駅前通会場やすすきの会場、北3条広場（アカプラ）会場は翌年2月中旬〜3月中旬までロングラン点灯します。点灯時間は原則16:30〜22:00（12月23日〜25日は24:00まで延長）です。
+    </p>
+  </div>
+
+  <div class="p-5 rounded-2xl bg-white border border-stone-200 shadow-xs">
+    <h3 class="text-sm font-bold text-stone-900">Q2. 11月下旬〜12月の札幌の気温と必要な服装・持ち物は？</h3>
+    <p class="text-xs text-stone-700 mt-2 leading-relaxed">
+      A. 平均気温は11月下旬で約2℃〜5℃、12月に入ると最高気温でも0℃前後、夜間はマイナス5℃以下まで冷え込みます。風を通さないロング丈のダウンコート、防風手袋、耳当て付きニット帽、マフラーが必須です。また靴は底の溝が深い滑り止め加工のスノーブーツを推奨します。地下街や飲食店は暖房が強いため、インナーは脱ぎ着しやすいカーディガンやフリースが快適です。
+    </p>
+  </div>
+
+  <div class="p-5 rounded-2xl bg-white border border-stone-200 shadow-xs">
+    <h3 class="text-sm font-bold text-stone-900">Q3. 定山渓温泉への冬の移動手段は？レンタカーは危険ですか？</h3>
+    <p class="text-xs text-stone-700 mt-2 leading-relaxed">
+      A. 冬の北海道の峠道や日陰はブラックアイスバーン（黒い凍結路面）になりやすく、雪道運転に慣れていない方のレンタカー利用は極めて危険です。札幌駅や地下鉄真駒内駅から各温泉宿の無料送迎バス（完全予約制）か、定山渓温泉直行バス「かっぱライナー号（予約制）」または一般路線バス（じょうてつバス）の利用を強く推奨します。
+    </p>
+  </div>
+
+  <div class="p-5 rounded-2xl bg-white border border-stone-200 shadow-xs">
+    <h3 class="text-sm font-bold text-stone-900">Q4. ミュンヘン・クリスマス市の限定マグカップはどうすれば手に入りますか？</h3>
+    <p class="text-xs text-stone-700 mt-2 leading-relaxed">
+      A. 毎年デザインが変わる公式記念マグカップは、大通2丁目会場の公式インフォメーションブースおよびグリューワイン販売テントで購入可能です。ホットワインやココアなどのホットドリンクとセットで購入することもできます。毎年人気が高く12月中旬には完売する年もあるため、11月下旬から12月上旬の来場時に早めに確保するのが確実です。
+    </p>
+  </div>
+</div>
+
+<div class="my-10 p-6 rounded-3xl bg-stone-100 border border-stone-200 text-center space-y-3">
+  <h3 class="text-base font-bold text-stone-900">北海道の冬旅・関連記事もチェック！</h3>
+  <ul class="text-xs text-stone-600 space-y-1.5 inline-block text-left">
+    <li>👉 <a href="/autumn-hokkaido-jozankei-10selection/" class="text-sky-800 hover:text-sky-600 underline">定山渓温泉のおすすめ厳選宿10選！渓谷の美肌湯と贅沢会席ガイド</a></li>
+    <li>👉 <a href="/autumn-hokkaido-crab-gourmet-guide/" class="text-sky-800 hover:text-sky-600 underline">北海道の冬カニ完全攻略！タラバ・毛ガニ・ズワイを味わう名宿特集</a></li>
+    <li>👉 <a href="/autumn-hokkaido-kiroro-otaru-canal-seafood-guide/" class="text-sky-800 hover:text-sky-600 underline">小樽運河の夜景とキロロ極上スノーリゾート満喫ステイ</a></li>
+  </ul>
+</div>
+`;
+
+  const postData = {
+    id: slug,
+    slug: slug,
+    title: title,
+    description: description,
+    prefecture: prefecture,
+    area: area,
+    image: hNikko.hotelImageUrl,
+    other_images: [
+      hSuizantei.hotelImageUrl,
+      hFurukawa.hotelImageUrl,
+      hGrand.hotelImageUrl,
+      hKeio.hotelImageUrl
+    ],
+    hotel_name: `${hNikko.hotelName}・${hSuizantei.hotelName} ほか`,
+    affiliate_url: hNikko.affiliateUrl,
+    categories: ["冬のイベント特集", "イルミネーション", "雪見露天風呂", "北海道旅行", "カニ料理"],
+    price: `¥${(hGrand.hotelMinCharge || 4640).toLocaleString()}〜`,
+    rating: hNikko.reviewAverage || 4.71,
+    review_count: hNikko.reviewCount || 3000,
+    date: date,
+    is_special_feature: true,
+    keywords: [
+      "さっぽろホワイトイルミネーション 2026",
+      "ミュンヘン クリスマス市 札幌",
+      "大通公園 イルミネーション 見頃",
+      "定山渓温泉 雪見露天風呂 おすすめ",
+      "JRタワーホテル日航札幌 宿泊記",
+      "札幌 冬旅行 防寒 チカホ"
+    ],
+    review: reviewHtml
+  };
+
+  const noteMarkdown = `---
+title: "${title}"
+slug: "${slug}"
+date: "${date}"
+prefecture: "${prefecture}"
+area: "${area}"
+tags: ["さっぽろホワイトイルミネーション", "大通公園", "ミュンヘンクリスマス市", "定山渓温泉", "雪見露天風呂", "冬の北海道旅行"]
+---
+
+# ${title}
+
+1981年に始まった日本屈指の光の祭典「さっぽろホワイトイルミネーション」と、姉妹都市ドイツ・ミュンヘンの風情を再現する「ミュンヘン・クリスマス市 in Sapporo」。初雪が舞い散る11月下旬から12月・1月にかけて、大通公園からすすきのまで札幌の街全体が白銀と光のファンタジーに包まれます。
+
+地下歩行空間チ・カ・ホを活用した防寒ルート、本場ドイツ仕込みのグリューワインや焼きソーセージ、三大カニや極上味噌ラーメンの名店、そして湯けむり立ち込める定山渓温泉の雪見露天を満喫できる厳選5宿を徹底解説します。
+
+---
+
+## 🎪 さっぽろホワイトイルミネーション見どころ＆チ・カ・ホ完全活用術
+
+白銀の札幌を寒さに震えることなく満喫するための見どころと防寒ノウハウをまとめました。
+
+- **大通公園1丁目〜6丁目の光のオブジェ:** さっぽろテレビ塔を借景にしたシンボルモニュメントや、青く輝く光のトンネルなど歩いて楽しめる参加型演出が満載。
+- **大通2丁目「ミュンヘン・クリスマス市」:** 11月下旬から12月25日まで開催。本場仕込みのスパイスホットワイン「グリューワイン」と名物の限定記念マグカップは大人気。
+- **地下歩行空間「チ・カ・ホ」のフル活用:** 札幌駅から大通、すすきのまで地下道で完全直結。地上を歩く時間を最小限に抑え、転倒事故と体温低下を防止。
+- **防寒と足元の備え:** 12月の札幌は夜間マイナス気温が日常。滑り止め底のスノーブーツ、風を通さないロングダウンコート、手袋、マフラーが必須です。
+
+---
+
+## 🏨 イルミネーション鑑賞に最高！札幌都心＆定山渓温泉の厳選宿5選
+
+### 1. 定山渓温泉 定山渓第一寶亭留 翠山亭（北海道札幌市南区）
+- **特徴:** 3本の自家源泉をブレンドした濃厚なナトリウム-塩化物泉。雪が降り積もる日本庭園露天風呂と、蝦夷アワビや白老牛を盛り込んだ炭火懐石が絶品。
+- **宿泊目安:** 1名 ¥${(hSuizantei.hotelMinCharge || 16000).toLocaleString()}〜
+- **楽天トラベル評価:** ⭐ ${hSuizantei.reviewAverage}（${hSuizantei.reviewCount}件）
+- 👉 [定山渓第一寶亭留 翠山亭の空室・宿泊プランを見る](${hSuizantei.affiliateUrl})
+
+### 2. 定山渓温泉 ぬくもりの宿 ふる川（北海道札幌市南区）
+- **特徴:** 民芸調の温もりと囲炉裏炭火のあたたかさ。3階吹き抜けの広々大浴場と雪見露天風呂、無料の囲炉裏ラウンジサービスが好評。
+- **宿泊目安:** 1名 ¥${(hFurukawa.hotelMinCharge || 16800).toLocaleString()}〜
+- **楽天トラベル評価:** ⭐ ${hFurukawa.reviewAverage}（${hFurukawa.reviewCount}件）
+- 👉 [ぬくもりの宿 ふる川の空室・宿泊プランを見る](${hFurukawa.affiliateUrl})
+
+### 3. ＪＲタワーホテル日航札幌（北海道札幌市中央区）
+- **特徴:** JR札幌駅直結。地上100mの22階スカイリゾートスパ「プラウブラン」から札幌の夜景と天然温泉を満喫できる最高峰ホテル。
+- **宿泊目安:** 1名 ¥${(hNikko.hotelMinCharge || 14720).toLocaleString()}〜
+- **楽天トラベル評価:** ⭐ ${hNikko.reviewAverage}（${hNikko.reviewCount}件）
+- 👉 [ＪＲタワーホテル日航札幌の空室・宿泊プランを見る](${hNikko.affiliateUrl})
+
+### 4. 札幌グランドホテル（北海道札幌市中央区）
+- **特徴:** 昭和9年開業の老舗迎賓館。地下歩行空間チ・カ・ホ直結で大通公園イルミネーション会場まで徒歩2分。いくらかけ放題の朝食ビュッフェが圧巻。
+- **宿泊目安:** 1名 ¥${(hGrand.hotelMinCharge || 4640).toLocaleString()}〜
+- **楽天トラベル評価:** ⭐ ${hGrand.reviewAverage}（${hGrand.reviewCount}件）
+- 👉 [札幌グランドホテルの空室・宿泊プランを見る](${hGrand.affiliateUrl})
+
+### 5. 京王プラザホテル札幌（北海道札幌市中央区）
+- **特徴:** JR札幌駅西口徒歩5分。北海道大学植物園に隣接する閑静な立地。広々とした上質客室と多彩なレストラン、北海道産食材の極上ブッフェ。
+- **宿泊目安:** 1名 ¥${(hKeio.hotelMinCharge || 4870).toLocaleString()}〜
+- **楽天トラベル評価:** ⭐ ${hKeio.reviewAverage}（${hKeio.reviewCount}件）
+- 👉 [京王プラザホテル札幌の空室・宿泊プランを見る](${hKeio.affiliateUrl})
+
+---
+
+## 📸 宿の近隣観光地ガイド（Wikipedia公式データ連携）
+
+- **さっぽろホワイトイルミネーション:** ${wIllumi.extract}（大通公園各会場にて16:30〜点灯）
+- **大通公園:** ${wOdori.extract}（地下鉄大通駅直結、さっぽろテレビ塔展望台が特等席）
+- **定山渓温泉:** ${wJozankei.extract}（札幌市街からバスで約50分、雪見露天の名所）
+- **札幌市時計台:** ${wTokeidai.extract}（重要文化財、冬の雪景色と夜間ライトアップが美しい）
+
+---
+
+## 🗺️ 2泊3日満喫モデルコース
+
+- **1日目:** 新千歳空港 ➔ 快速エアポートで札幌駅 ➔ ホテルチェックイン ➔ チ・カ・ホ経由で大通公園イルミネーション鑑賞 ➔ ミュンヘン・クリスマス市でホットワイン ➔ すすきので三大カニとクラシックビール
+- **2日目:** 朝食ビュッフェ ➔ 時計台散策 ➔ 味噌ラーメン ➔ 直行バスで定山渓温泉へ移動 ➔ 宿チェックイン ➔ 雪見露天風呂 ➔ 炭火懐石と地酒
+- **3日目:** 定山渓源泉公園足湯 ➔ 二見吊橋雪景色 ➔ 直行バスで新千歳空港へ ➔ 空港グルメ・お土産購入 ➔ 帰路へ
+
+---
+
+## ❓ よくある質問（FAQ）
+
+**Q1. イルミネーションの点灯時間は何時までですか？**  
+A. 16:30〜22:00（12月23日〜25日は24:00まで点灯）。
+
+**Q2. 冬の防寒具は何が必要ですか？**  
+A. 風を通さないロングダウンコート、防風手袋、耳当て、マフラー、滑り止め付きスノーブーツが必須です。
+
+**Q3. 定山渓温泉へレンタカーで行くのは安全ですか？**  
+A. 冬道運転に不慣れな方の運転は凍結スリップ事故の危険があるため、各宿の無料送迎バスや路線バスの利用を強く推奨します。
+
+---
+
+🔗 **本編の詳細な解説・料金比較・アクセス情報は公式サイトで公開中！**  
+👉 [【北海道・札幌/定山渓】さっぽろホワイトイルミネーション2026＆ミュンヘン・クリスマス市完全攻略ガイド本編はこちら](https://croud-travel.pages.dev/${slug}/)
+`;
+
+  return { postData, noteMarkdown };
+};

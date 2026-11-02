@@ -1,4 +1,14 @@
-# 静岡県の宿泊・観光記事（119件）
+# 静岡県の宿泊・観光記事（120件）
+
+## 【静岡・熱海】熱海海上花火大会（冬）＆熱海梅園「日本一遅い紅葉と日本一早い梅」完全攻略！澄んだ冬空を焦がす大空中ナイアガラと相模湾金目鯛・伊勢海老を愉しむ熱海温泉の名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-shizuoka-atami-winter-fireworks-baien-momiji-ume-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-shizuoka-atami-winter-fireworks-baien-momiji-ume-hotels-guide.md
+- 宿泊施設名: ホテルニューアカオ・熱海温泉　熱海後楽園ホテル ほか
+- エリア: 熱海・伊豆山・網代
+- 参考価格: ¥¥8,000〜〜
+- 評価: 4.85
+
+11月中旬〜12月上旬の「日本一遅い紅葉」から、12月中旬の澄み切った冬空に轟く「熱海海上花火大会」、そして1月上旬からの「日本一早い梅まつり」へと季節が美しくリレーする冬の熱海温泉。すり鉢状の熱海湾が創り出す天然の音響スタジアム効果と、夜空と海面を銀色に染め上げる大空中ナイアガラは圧巻の迫力。客室や露天風呂から花火を真正面に望む特等席ホテルや、徳川家康ゆかりの源泉を満喫できる老舗宿、相模湾の脂の乗った地金目鯛姿煮付けや伊勢海老を堪能できる厳選5宿を徹底解説。
 
 ## 【静岡・伊豆修善寺】修善寺もみじまつり2026＆竹林の小径・虹の郷ライトアップ完全攻略！伊豆最古の湯の街と桂川の錦秋、伊豆の極上会席を愉しむ厳選温泉宿5選
 - 記事: https://croud-travel.pages.dev/posts/autumn-shuzenji-momiji-festival-bamboo-lightup-izu-onsen-hotels-guide/
