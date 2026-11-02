@@ -26,7 +26,7 @@
 - [岐阜県（68件）](https://croud-travel.pages.dev/llms/21.txt)
 - [静岡県（120件）](https://croud-travel.pages.dev/llms/22.txt)
 - [愛知県（44件）](https://croud-travel.pages.dev/llms/23.txt)
-- [三重県（78件）](https://croud-travel.pages.dev/llms/24.txt)
+- [三重県（79件）](https://croud-travel.pages.dev/llms/24.txt)
 - [滋賀県（38件）](https://croud-travel.pages.dev/llms/25.txt)
 - [京都府（73件）](https://croud-travel.pages.dev/llms/26.txt)
 - [大阪府（56件）](https://croud-travel.pages.dev/llms/27.txt)

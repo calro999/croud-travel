@@ -319,6 +319,7 @@
 - [OKINAWA 観光名所・名物グルメ・人気温泉ホテル完全ガイド](https://croud-travel.pages.dev/prefectures/okinawa/)
 
 ## 最新厳選宿・観光ルポ記事
+- [鳥羽・石鏡の断崖に佇むいじか荘へ！絶景の源泉温泉と伊勢志摩の海鮮を味わう旅](https://croud-travel.pages.dev/posts/27854/): 石鏡温泉源泉の宿　ホテルいじか荘（三重県）
 - [熊本の知る人ぞ知る秘境と穴場を巡る旅！阿蘇と人吉の名宿で味わう極上温泉紀行](https://croud-travel.pages.dev/posts/31405/): 南阿蘇俵山温泉　旅館　竹楽亭（熊本県）
 - [【北海道・札幌/定山渓】さっぽろホワイトイルミネーション2026＆ミュンヘン・クリスマス市完全攻略！大通公園の光の芸術と定山渓雪見露天・極上三大カニを堪能する名宿5選](https://croud-travel.pages.dev/posts/autumn-winter-sapporo-white-illumination-odori-park-hotels-guide/): ＪＲタワーホテル日航札幌・定山渓温泉　定山渓第一寶亭留　翠山亭 ほか（北海道）
 - [【長野・渋温泉/地獄谷】世界が息を呑む「スノーモンキー」地獄谷野猿公苑＆渋温泉「厄除九湯めぐり」完全攻略！木造文化財の老舗湯宿と信州牛・地酒を愉しむ極上温泉宿5選](https://croud-travel.pages.dev/posts/winter-nagano-shibu-onsen-jigokudani-snow-monkey-hotels-guide/): 渋温泉　歴史の宿　金具屋・渋温泉　春蘭の宿　さかえや ほか（長野県）
@@ -378,4 +379,3 @@
 - [【埼玉】キングアンバサダーホテル熊谷宿泊ルポ！駅徒歩5分で叶える極上の快適ステイ](https://croud-travel.pages.dev/posts/72808/): キングアンバサダーホテル熊谷（埼玉県）
 - [【愛知】三谷温泉平野屋で過ごす休日。いくら食べ放題と絶景温泉で整う贅沢](https://croud-travel.pages.dev/posts/28775/): 三谷温泉　平野屋（愛知県）
 - [【千葉】カップルで過ごすロマンチックな週末旅｜「ラ　ピスタ　ホテル＆リゾート」ほか厳選宿とモデルコース](https://croud-travel.pages.dev/posts/4793/): ラ　ピスタ　ホテル＆リゾート（旧：鴨川ヒルズリゾートホテル）（千葉県）
-- [【東京駅直結】ホテルメトロポリタン丸の内の宿泊記＆客室夜景ルポ｜上空120mトレインビューと朝食「TENQOO」徹底解説](https://croud-travel.pages.dev/posts/56634/): ホテルメトロポリタン丸の内（東京都）
