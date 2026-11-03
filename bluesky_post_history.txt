@@ -225,3 +225,4 @@ showcase_nara
 kirishima-onsen-doroyu-sulfur-springs-guide
 showcase_kagoshima
 hirosaki-tsugaru-apple-bath-retro-hotels-guide
+showcase_kyoto
