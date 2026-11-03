@@ -321,6 +321,7 @@
 ## 最新厳選宿・観光ルポ記事
 - [修験道の聖地に佇む奈良天川村・洞川温泉「旅館 久保治」滞在記！名水と木の温もりに包まれる旅](https://croud-travel.pages.dev/posts/14114/): 洞川温泉　旅館　久保治（奈良県）
 - [大阪の喧騒を忘れ、大人が浸る非日常の隠れ家ステイ](https://croud-travel.pages.dev/posts/19529/): 姫路ゆめさき川温泉　里湯ひととき　夢乃井（大阪府）
+- [神奈川県の美味を飲み歩く！地酒と名物グルメを巡る大人の休日旅](https://croud-travel.pages.dev/posts/51195/): ３Ｓ　ＨＯＴＥＬ　ＡＴＳＵＧＩ（神奈川県）
 - [【北海道・十勝/然別湖】極寒が生む奇跡「しかりべつ湖コタン2027」幻の氷上露天風呂＆十勝川モール温泉完全攻略！完全結氷の湖上アイスバーと世界屈指の植物性美肌湯、十勝牛グリルを愉しむ極上宿5選](https://croud-travel.pages.dev/posts/winter-hokkaido-shikaribetsuko-kotan-ice-bath-tokachigawa-moor-hotels-guide/): 然別湖畔温泉　然別湖畔温泉ホテル風水・十勝川温泉　第一ホテル ほか（北海道）
 - [【兵庫・神戸/有馬温泉】「神戸ルミナリエ2027」先行対策＆冬の有馬温泉「金泉・銀泉」完全攻略！鎮魂と希望の光の彫刻と日本最古泉の濃厚赤湯、最高峰神戸牛を堪能する名門宿5選](https://croud-travel.pages.dev/posts/winter-hyogo-kobe-luminarie-arima-onsen-kinsen-hotels-guide/): 有馬温泉　兵衛向陽閣・有馬温泉　欽山 ほか（兵庫県）
 - [【岩手・雫石/盛岡】小岩井農場「銀河農場の夜2026」＆鶯宿温泉・繋温泉の雪見露天完全攻略！東北最大級100万球の光の回廊と岩手山白銀絶景、前沢牛・雫石牛ステーキを堪能する名宿5選](https://croud-travel.pages.dev/posts/winter-iwate-koiwai-farm-milky-way-illumination-oujuku-shizukuishi-hotels-guide/): 雫石プリンスホテル・フラワー＆ガーデン　ホテル森の風鶯宿 ほか（岩手県）
@@ -378,4 +379,3 @@
 - [【北海道観光】女子旅に人気のパワースポットと写真映えを満喫する旅｜「網走湖温泉　温泉旅館もとよし」ほか厳選宿とモデルコース](https://croud-travel.pages.dev/posts/28261/): 網走湖温泉　温泉旅館もとよし（北海道）
 - [【京都・東山】永観堂・清水寺・東福寺の紅葉ライトアップ夜間特別拝観！秋の古都を雅に歩く大人の特選名宿5選](https://croud-travel.pages.dev/posts/autumn-kyoto-momiji-lightup-eikando-kiyomizu-hotels-guide/): 京都紅葉ライトアップ周辺 厳選名宿5選（京都府）
 - [【佐賀・唐津】2026佐賀インターナショナルバルーンフェスタ＆唐津くんち完全攻略！秋空の熱気球と伝統曳山絵巻を特等席で楽しむ厳選名宿5選](https://croud-travel.pages.dev/posts/autumn-saga-balloon-karatsukunchi-hotels-guide/): 佐賀バルーンフェスタ＆唐津くんち周辺 厳選宿5選（佐賀県）
-- [【埼玉・秩父】秩父夜祭2026完全ガイド！豪華絢爛な屋台・笠鉾曳行と冬花火を特等席で体感する秩父温泉・長瀞の絶景美肌名宿5選](https://croud-travel.pages.dev/posts/autumn-winter-chichibu-yomatsuri-nagatoro-hotels-guide/): 秩父夜祭＆長瀞紅葉周辺 厳選名宿5選（埼玉県）
