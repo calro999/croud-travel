@@ -223,3 +223,4 @@ showcase_oita
 autumn-shimane-tamatsukuri-shinji-izumo-guide
 showcase_nara
 kirishima-onsen-doroyu-sulfur-springs-guide
+showcase_kagoshima
