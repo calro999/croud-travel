@@ -1,4 +1,14 @@
-# 静岡県の宿泊・観光記事（120件）
+# 静岡県の宿泊・観光記事（121件）
+
+## 【静岡・伊豆高原/伊東】伊豆高原グランイルミ2026-2027＆城ヶ崎海岸冬絶景完全攻略！体験型イルミ日本一の立体光世界と相模湾金目鯛・伊勢海老を味わう絶景温泉ホテル5選
+- 記事: https://croud-travel.pages.dev/posts/winter-shizuoka-izukogen-granillumi-omuro-ito-onsen-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-shizuoka-izukogen-granillumi-omuro-ito-onsen-hotels-guide.md
+- 宿泊施設名: 杜の湯　きらの里（共立リゾート）・伊東温泉　淘心庵　米屋（共立リゾート） ほか
+- エリア: 伊東・伊豆高原
+- 参考価格: ¥¥5,000〜〜
+- 評価: 4.74
+
+全国イルミネーションアワード第1位を誇る体験型イルミ「伊豆高原グランイルミ」。東京ドーム約2個分の広大な斜面に広がる立体的な音と光のスペクタクル、大迫力のロングジップラインやメリーゴーラウンドなどナイトアトラクションを徹底解説。冬の城ヶ崎海岸の門脇吊橋や大室山の雪化粧、伊東温泉の名湯と相模湾が誇る極上金目鯛の煮付け・伊勢海老を愉しむ厳選温泉宿5選を完全網羅。
 
 ## 【静岡・熱海】熱海海上花火大会（冬）＆熱海梅園「日本一遅い紅葉と日本一早い梅」完全攻略！澄んだ冬空を焦がす大空中ナイアガラと相模湾金目鯛・伊勢海老を愉しむ熱海温泉の名宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-shizuoka-atami-winter-fireworks-baien-momiji-ume-hotels-guide/

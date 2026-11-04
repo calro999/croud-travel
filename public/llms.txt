@@ -319,10 +319,13 @@
 - [OKINAWA 観光名所・名物グルメ・人気温泉ホテル完全ガイド](https://croud-travel.pages.dev/prefectures/okinawa/)
 
 ## 最新厳選宿・観光ルポ記事
-- [富士山の麓でレトロな寛ぎとオールインクルーシブを満喫する河口湖温泉ホテル湖龍滞在ガイド](https://croud-travel.pages.dev/posts/10731/): 河口湖温泉　ホテル湖龍（山梨県）
+- [【秋田・横手/湯沢】横手の雪まつり「かまくら2027」＆泥湯・秋ノ宮温泉郷完全攻略！450年の水神様雪夜景と元祖横手やきそば・比内地鶏きりたんぽ鍋を愉しむ雪国名宿5選](https://croud-travel.pages.dev/posts/winter-akita-yokote-kamakura-snow-festival-yuzawa-onsen-hotels-guide/): 秋の宮温泉郷　湯けむりの宿　稲住温泉（共立リゾート）・ホテルプラザアネックス横手 ほか（秋田県）
+- [【長野・諏訪湖/上諏訪】諏訪大社四社めぐり新春初詣＆御神渡り祈願完全攻略！日本最古の聖地と諏訪湖畔の自家源泉かけ流し露天・諏訪五蔵地酒を味わう名門宿5選](https://croud-travel.pages.dev/posts/winter-nagano-suwa-taisha-hatsumode-omiwatari-kamisuwa-onsen-hotels-guide/): 上諏訪温泉　しんゆ（親湯）・上諏訪温泉　浜の湯 ほか（長野県）
+- [【埼玉・奥秩父】三十槌の氷柱＆あしがくぼの氷柱2027完全攻略！荒川源流の巨大天然氷瀑ライトアップと秩父七湯・名物豚みそ丼を堪能する極上温泉宿5選](https://croud-travel.pages.dev/posts/winter-saitama-chichibu-misotsuchi-tsurara-ashigakubo-onsen-hotels-guide/): 秩父七湯『御代の湯』　新木鉱泉旅館・ちちぶ温泉　はなのや ほか（埼玉県）
+- [【滋賀・長浜/湖北】冬の琵琶湖・湖北雪景色と伝統「天然真鴨鍋」完全攻略！渡り鳥舞う水鳥公園と長浜太閤温泉・黒壁スクエアを巡る近江牛＆美肌湯宿5選](https://croud-travel.pages.dev/posts/winter-shiga-nagahama-kohoku-wild-duck-nabe-taiko-onsen-hotels-guide/): びわ湖畔　おいしい湯の宿　長浜太閤温泉　浜湖月・北ビワコホテル　グラツィエ ほか（滋賀県）
+- [【静岡・伊豆高原/伊東】伊豆高原グランイルミ2026-2027＆城ヶ崎海岸冬絶景完全攻略！体験型イルミ日本一の立体光世界と相模湾金目鯛・伊勢海老を味わう絶景温泉ホテル5選](https://croud-travel.pages.dev/posts/winter-shizuoka-izukogen-granillumi-omuro-ito-onsen-hotels-guide/): 杜の湯　きらの里（共立リゾート）・伊東温泉　淘心庵　米屋（共立リゾート） ほか（静岡県）
 - [修験道の聖地に佇む奈良天川村・洞川温泉「旅館 久保治」滞在記！名水と木の温もりに包まれる旅](https://croud-travel.pages.dev/posts/14114/): 洞川温泉　旅館　久保治（奈良県）
 - [大阪の喧騒を忘れ、大人が浸る非日常の隠れ家ステイ](https://croud-travel.pages.dev/posts/19529/): 姫路ゆめさき川温泉　里湯ひととき　夢乃井（大阪府）
-- [神奈川県の美味を飲み歩く！地酒と名物グルメを巡る大人の休日旅](https://croud-travel.pages.dev/posts/51195/): ３Ｓ　ＨＯＴＥＬ　ＡＴＳＵＧＩ（神奈川県）
 - [【北海道・十勝/然別湖】極寒が生む奇跡「しかりべつ湖コタン2027」幻の氷上露天風呂＆十勝川モール温泉完全攻略！完全結氷の湖上アイスバーと世界屈指の植物性美肌湯、十勝牛グリルを愉しむ極上宿5選](https://croud-travel.pages.dev/posts/winter-hokkaido-shikaribetsuko-kotan-ice-bath-tokachigawa-moor-hotels-guide/): 然別湖畔温泉　然別湖畔温泉ホテル風水・十勝川温泉　第一ホテル ほか（北海道）
 - [【兵庫・神戸/有馬温泉】「神戸ルミナリエ2027」先行対策＆冬の有馬温泉「金泉・銀泉」完全攻略！鎮魂と希望の光の彫刻と日本最古泉の濃厚赤湯、最高峰神戸牛を堪能する名門宿5選](https://croud-travel.pages.dev/posts/winter-hyogo-kobe-luminarie-arima-onsen-kinsen-hotels-guide/): 有馬温泉　兵衛向陽閣・有馬温泉　欽山 ほか（兵庫県）
 - [【岩手・雫石/盛岡】小岩井農場「銀河農場の夜2026」＆鶯宿温泉・繋温泉の雪見露天完全攻略！東北最大級100万球の光の回廊と岩手山白銀絶景、前沢牛・雫石牛ステーキを堪能する名宿5選](https://croud-travel.pages.dev/posts/winter-iwate-koiwai-farm-milky-way-illumination-oujuku-shizukuishi-hotels-guide/): 雫石プリンスホテル・フラワー＆ガーデン　ホテル森の風鶯宿 ほか（岩手県）
@@ -376,6 +379,3 @@
 - [【三重・なばなの里】2026なばなの里イルミネーション完全攻略！国内最大級の光の祭典と紅葉水鏡＆伊勢湾の味覚を堪能する厳選名宿5選](https://croud-travel.pages.dev/posts/winter-mie-nabana-no-sato-illumination-nagashima-hotels-guide/): なばなの里イルミネーション周辺 厳選宿5選（三重県）
 - [【盛岡】ホテルグローバルビュー盛岡宿泊ルポ！駅近快適ステイと絶品手作り朝食の魅力](https://croud-travel.pages.dev/posts/153340/): ホテルグローバルビュー盛岡（旧：ＨＯＴＥＬ　ＪＩＮ盛岡駅前）（岩手県）
 - [【東京都】歴史とレトロな街並み散策を満喫する旅｜「アパホテル〈銀座　新富町駅前北〉」ほか厳選宿とモデルコース](https://croud-travel.pages.dev/posts/158365/): アパホテル〈銀座　新富町駅前北〉（東京都）
-- [【富山】庄川温泉郷一萬亭宿泊記！とろり美肌湯と地酒に浸る贅沢な休日](https://croud-travel.pages.dev/posts/187181/): 庄川温泉郷　美肌の湯　となみ野庄川荘一萬亭（ＢＢＨホテルグループ）（富山県）
-- [【北海道観光】女子旅に人気のパワースポットと写真映えを満喫する旅｜「網走湖温泉　温泉旅館もとよし」ほか厳選宿とモデルコース](https://croud-travel.pages.dev/posts/28261/): 網走湖温泉　温泉旅館もとよし（北海道）
-- [【京都・東山】永観堂・清水寺・東福寺の紅葉ライトアップ夜間特別拝観！秋の古都を雅に歩く大人の特選名宿5選](https://croud-travel.pages.dev/posts/autumn-kyoto-momiji-lightup-eikando-kiyomizu-hotels-guide/): 京都紅葉ライトアップ周辺 厳選名宿5選（京都府）

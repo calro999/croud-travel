@@ -226,7 +226,3 @@ kirishima-onsen-doroyu-sulfur-springs-guide
 showcase_kagoshima
 hirosaki-tsugaru-apple-bath-retro-hotels-guide
 showcase_kyoto
-autumn-nikko-momiji-lightup-toshogu-onsen-hotels-guide
-showcase_nagano
-miyagi-hotels-selection-guide
-showcase_kagoshima

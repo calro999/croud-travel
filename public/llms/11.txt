@@ -1,4 +1,14 @@
-# 埼玉県の宿泊・観光記事（44件）
+# 埼玉県の宿泊・観光記事（45件）
+
+## 【埼玉・奥秩父】三十槌の氷柱＆あしがくぼの氷柱2027完全攻略！荒川源流の巨大天然氷瀑ライトアップと秩父七湯・名物豚みそ丼を堪能する極上温泉宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-saitama-chichibu-misotsuchi-tsurara-ashigakubo-onsen-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-saitama-chichibu-misotsuchi-tsurara-ashigakubo-onsen-hotels-guide.md
+- 宿泊施設名: 秩父七湯『御代の湯』　新木鉱泉旅館・ちちぶ温泉　はなのや ほか
+- エリア: 秩父・長瀞
+- 参考価格: ¥¥5,808〜〜
+- 評価: 4.57
+
+厳冬の奥秩父に現れる自然の彫刻「三十槌の氷柱」と道の駅直結の壮大な「あしがくぼの氷柱」。大滝・荒川源流の断崖絶壁に凍りつく幅30m超の天然氷瀑、七色に揺らめく夜間ライトアップの鑑賞ポイント、マイカー凍結道路の走行注意点を現地目線で徹底解説。開湯200年を誇る秩父七湯・新木鉱泉の卵水美肌温泉や、伝統の豚みそ丼・名水手打ちそばを堪能できる厳選名宿5選を完全網羅。
 
 ## 【埼玉・秩父】秩父夜祭2026完全ガイド！豪華絢爛な屋台・笠鉾曳行と冬花火を特等席で体感する秩父温泉・長瀞の絶景美肌名宿5選
 - 記事: https://croud-travel.pages.dev/posts/autumn-winter-chichibu-yomatsuri-nagatoro-hotels-guide/

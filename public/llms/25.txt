@@ -1,4 +1,14 @@
-# 滋賀県の宿泊・観光記事（38件）
+# 滋賀県の宿泊・観光記事（39件）
+
+## 【滋賀・長浜/湖北】冬の琵琶湖・湖北雪景色と伝統「天然真鴨鍋」完全攻略！渡り鳥舞う水鳥公園と長浜太閤温泉・黒壁スクエアを巡る近江牛＆美肌湯宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-shiga-nagahama-kohoku-wild-duck-nabe-taiko-onsen-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-shiga-nagahama-kohoku-wild-duck-nabe-taiko-onsen-hotels-guide.md
+- 宿泊施設名: びわ湖畔　おいしい湯の宿　長浜太閤温泉　浜湖月・北ビワコホテル　グラツィエ ほか
+- エリア: 長浜・湖北
+- 参考価格: ¥¥5,670〜〜
+- 評価: 4.68
+
+11月中旬の狩猟解禁とともに最盛期を迎える湖北の冬の至高「天然真鴨鍋（かも鍋）」。オオヒシクイやコハクチョウが飛来する琵琶湖水鳥湿地センターの静寂な白銀絶景、羽柴秀吉ゆかりの長浜城と黒壁スクエアのガラスアート散策を徹底解説。豊臣秀吉の長男誕生に湧いた含鉄炭酸泉・長浜太閤温泉の赤茶色の名湯や、日本三大和牛・近江牛のすき焼きを堪能できる特等席旅館5選を完全網羅。
 
 ## 【滋賀・湖東】湖東三山＆永源寺「錦秋の紅葉曼荼羅」完全攻略！日本紅葉名所100選と近江牛懐石、名湯・おごと温泉の絶景露天風呂を巡る厳選宿5選
 - 記事: https://croud-travel.pages.dev/posts/autumn-koto-sanzan-eigenji-momiji-ogoto-onsen-hotels-guide/
