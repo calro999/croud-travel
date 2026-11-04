@@ -1,5 +1,5 @@
 ---
-title: "【山形・最上】あつみ温泉 万国屋の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説"
+title: "【山形・最上】あつみ温泉 万国屋の口コミ評判と施設案内｜宿泊ポイント・アクセス・設備まとめ"
 url: "https://croud-travel.pages.dev/posts/atsumi-bankokuya-guide/"
 hotel_name: "あつみ温泉 万国屋"
 prefecture: "山形県"
@@ -10,7 +10,7 @@ review_count: 165
 last_modified: "2026-10-18"
 ---
 
-# 【山形・最上】あつみ温泉 万国屋の宿泊記＆口コミ評判｜客室・温泉露天風呂・朝食・アクセス徹底解説
+# 【山形・最上】あつみ温泉 万国屋の口コミ評判と施設案内｜宿泊ポイント・アクセス・設備まとめ
 
 - **URL**: https://croud-travel.pages.dev/posts/atsumi-bankokuya-guide/
 - **宿泊施設・特集名**: あつみ温泉 万国屋

@@ -1,5 +1,5 @@
 ---
-title: "【スーパーホテル鹿嶋】天然温泉「千両の湯」宿泊記＆無料健康朝食バイキング・夕食周辺グルメ・鹿島神宮アクセス完全ガイド"
+title: "【スーパーホテル鹿嶋】天然温泉「千両の湯」無料健康朝食バイキング・夕食周辺グルメ・鹿島神宮アクセス完全ガイド"
 url: "https://croud-travel.pages.dev/posts/super-hotel-kashima-ibaraki-guide/"
 hotel_name: "天然温泉「千両の湯」スーパーホテル鹿嶋"
 prefecture: "茨城県"
@@ -10,7 +10,7 @@ review_count: 1848
 last_modified: "2026-10-18"
 ---
 
-# 【スーパーホテル鹿嶋】天然温泉「千両の湯」宿泊記＆無料健康朝食バイキング・夕食周辺グルメ・鹿島神宮アクセス完全ガイド
+# 【スーパーホテル鹿嶋】天然温泉「千両の湯」無料健康朝食バイキング・夕食周辺グルメ・鹿島神宮アクセス完全ガイド
 
 - **URL**: https://croud-travel.pages.dev/posts/super-hotel-kashima-ibaraki-guide/
 - **宿泊施設・特集名**: 天然温泉「千両の湯」スーパーホテル鹿嶋

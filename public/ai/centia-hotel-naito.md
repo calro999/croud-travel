@@ -1,5 +1,5 @@
 ---
-title: "【センティアホテル内藤（centia hotel naito）】の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ"
+title: "【センティアホテル内藤（centia hotel naito）】の口コミ評判と施設案内｜宿泊ポイント・アクセス・設備まとめ"
 url: "https://croud-travel.pages.dev/posts/centia-hotel-naito/"
 hotel_name: "センティアホテル内藤（centia hotel naito）"
 prefecture: "山梨県"
@@ -10,7 +10,7 @@ review_count: 1958
 last_modified: "2026-10-18"
 ---
 
-# 【センティアホテル内藤（centia hotel naito）】の宿泊記＆口コミ評判｜温泉・客室・朝食ルポ
+# 【センティアホテル内藤（centia hotel naito）】の口コミ評判と施設案内｜宿泊ポイント・アクセス・設備まとめ
 
 - **URL**: https://croud-travel.pages.dev/posts/centia-hotel-naito/
 - **宿泊施設・特集名**: センティアホテル内藤（centia hotel naito）

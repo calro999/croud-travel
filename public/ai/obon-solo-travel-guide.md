@@ -1,5 +1,5 @@
 ---
-title: "お盆の一人旅 喧騒を離れて静かに過ごす・温泉宿の宿泊記＆口コミ評判レビュー"
+title: "お盆の一人旅 喧騒を離れて静かに過ごす・温泉宿の口コミ評判レビュー"
 url: "https://croud-travel.pages.dev/posts/obon-solo-travel-guide/"
 hotel_name: "【お盆の一人旅】喧騒を離れて静かに過ごす！穴場温泉宿・リフレッシュホテル特集"
 prefecture: "兵庫県"
@@ -10,7 +10,7 @@ review_count: 6
 last_modified: "2026-10-18"
 ---
 
-# お盆の一人旅 喧騒を離れて静かに過ごす・温泉宿の宿泊記＆口コミ評判レビュー
+# お盆の一人旅 喧騒を離れて静かに過ごす・温泉宿の口コミ評判レビュー
 
 - **URL**: https://croud-travel.pages.dev/posts/obon-solo-travel-guide/
 - **宿泊施設・特集名**: 【お盆の一人旅】喧騒を離れて静かに過ごす！穴場温泉宿・リフレッシュホテル特集
