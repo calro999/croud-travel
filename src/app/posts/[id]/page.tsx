@@ -793,14 +793,13 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
 
       </div>
 
-      {/* モバイル固定CTAバー */}
-      {!post.is_special_feature && (
-        <FloatingMobileCTA
-          affiliateUrl={post.affiliate_url}
-          hotelName={post.hotel_name}
-          price={post.price}
-        />
-      )}
+      {/* モバイル固定CTAバー（全記事で表示し予約コンバージョンを最大化） */}
+      <FloatingMobileCTA
+        affiliateUrl={post.affiliate_url}
+        hotelName={post.hotel_name}
+        price={post.price}
+        isSpecialFeature={Boolean(post.is_special_feature)}
+      />
     </div>
   );
 }
