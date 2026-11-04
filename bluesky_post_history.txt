@@ -233,3 +233,4 @@ showcase_nara
 iwaki-hawaiians-onahama-hotels-guide
 showcase_miyagi
 bonfire-wood-chopping-nature-resort-hotels-guide
+showcase_nara
