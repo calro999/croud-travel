@@ -227,3 +227,4 @@ showcase_kagoshima
 hirosaki-tsugaru-apple-bath-retro-hotels-guide
 showcase_kyoto
 hiroshima-hotels-selection-guide
+showcase_nara
