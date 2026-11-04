@@ -8,7 +8,7 @@
 - [岩手県（60件）](https://croud-travel.pages.dev/llms/03.txt)
 - [宮城県（54件）](https://croud-travel.pages.dev/llms/04.txt)
 - [秋田県（49件）](https://croud-travel.pages.dev/llms/05.txt)
-- [山形県（72件）](https://croud-travel.pages.dev/llms/06.txt)
+- [山形県（73件）](https://croud-travel.pages.dev/llms/06.txt)
 - [福島県（62件）](https://croud-travel.pages.dev/llms/07.txt)
 - [茨城県（34件）](https://croud-travel.pages.dev/llms/08.txt)
 - [栃木県（70件）](https://croud-travel.pages.dev/llms/09.txt)
