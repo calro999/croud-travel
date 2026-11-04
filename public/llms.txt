@@ -319,6 +319,7 @@
 - [OKINAWA 観光名所・名物グルメ・人気温泉ホテル完全ガイド](https://croud-travel.pages.dev/prefectures/okinawa/)
 
 ## 最新厳選宿・観光ルポ記事
+- [兵庫の絶景と大自然に包まれる旅！港町から六甲山系まで巡る厳選宿とモデルコース](https://croud-travel.pages.dev/posts/5506/): 神戸北野ホテル（兵庫県）
 - [【秋田・横手/湯沢】横手の雪まつり「かまくら2027」＆泥湯・秋ノ宮温泉郷完全攻略！450年の水神様雪夜景と元祖横手やきそば・比内地鶏きりたんぽ鍋を愉しむ雪国名宿5選](https://croud-travel.pages.dev/posts/winter-akita-yokote-kamakura-snow-festival-yuzawa-onsen-hotels-guide/): 秋の宮温泉郷　湯けむりの宿　稲住温泉（共立リゾート）・ホテルプラザアネックス横手 ほか（秋田県）
 - [【長野・諏訪湖/上諏訪】諏訪大社四社めぐり新春初詣＆御神渡り祈願完全攻略！日本最古の聖地と諏訪湖畔の自家源泉かけ流し露天・諏訪五蔵地酒を味わう名門宿5選](https://croud-travel.pages.dev/posts/winter-nagano-suwa-taisha-hatsumode-omiwatari-kamisuwa-onsen-hotels-guide/): 上諏訪温泉　しんゆ（親湯）・上諏訪温泉　浜の湯 ほか（長野県）
 - [【埼玉・奥秩父】三十槌の氷柱＆あしがくぼの氷柱2027完全攻略！荒川源流の巨大天然氷瀑ライトアップと秩父七湯・名物豚みそ丼を堪能する極上温泉宿5選](https://croud-travel.pages.dev/posts/winter-saitama-chichibu-misotsuchi-tsurara-ashigakubo-onsen-hotels-guide/): 秩父七湯『御代の湯』　新木鉱泉旅館・ちちぶ温泉　はなのや ほか（埼玉県）
@@ -378,4 +379,3 @@
 - [【長野・松本】国宝松本城 天守ナイトイルミネーション＆晩秋の信州アルプス完全攻略！漆黒の名城を彩る光のレーザーと浅間温泉・美ヶ原温泉の名湯巡る厳選宿5選](https://croud-travel.pages.dev/posts/autumn-winter-matsumoto-castle-night-illumination-onsen-hotels-guide/): 国宝松本城ナイトイルミネーション周辺 厳選宿5選（長野県）
 - [【三重・なばなの里】2026なばなの里イルミネーション完全攻略！国内最大級の光の祭典と紅葉水鏡＆伊勢湾の味覚を堪能する厳選名宿5選](https://croud-travel.pages.dev/posts/winter-mie-nabana-no-sato-illumination-nagashima-hotels-guide/): なばなの里イルミネーション周辺 厳選宿5選（三重県）
 - [【盛岡】ホテルグローバルビュー盛岡宿泊ルポ！駅近快適ステイと絶品手作り朝食の魅力](https://croud-travel.pages.dev/posts/153340/): ホテルグローバルビュー盛岡（旧：ＨＯＴＥＬ　ＪＩＮ盛岡駅前）（岩手県）
-- [【東京都】歴史とレトロな街並み散策を満喫する旅｜「アパホテル〈銀座　新富町駅前北〉」ほか厳選宿とモデルコース](https://croud-travel.pages.dev/posts/158365/): アパホテル〈銀座　新富町駅前北〉（東京都）
