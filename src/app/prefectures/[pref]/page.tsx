@@ -9,6 +9,8 @@ import { SPOTS_DATA } from "@/data/spotsData";
 import NextSearchQuestions, { NextQuestionItem } from "@/app/components/NextSearchQuestions";
 import { getRecommendedFeatureHubs } from "@/data/featureHubsData";
 import { getTransitGuidesForPrefecture } from "@/data/transitGuidesData";
+import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
+import FloatingMobileCTA from "@/app/components/FloatingMobileCTA";
 
 interface Post {
   id: string;
@@ -344,6 +346,9 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
           </div>
         </div>
       </section>
+
+      {/* 🎁 楽天トラベル公式 5と0のつく日＆ふるさと納税限定クーポン特大バナー */}
+      <SpecialCouponBanner />
 
       {/* 🏆 ファーストビュー直下：楽天トラベル公式データによる都道府県トップ3名宿＆3大特集ピラー導線 */}
       {prefInfo.subAreas && prefInfo.subAreas.length > 0 && (() => {
@@ -1241,6 +1246,12 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
           </Link>
         </div>
       </section>
+      {/* モバイル追従CTA（47都道府県ページでもスマホ予約導線を完全固定） */}
+      <FloatingMobileCTA
+        affiliateUrl={top3Hotels[0]?.affiliate_url || "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"}
+        hotelName={`${prefInfo.name}の人気名宿・宿泊プラン`}
+        isSpecialFeature={true}
+      />
     </div>
   );
 }
