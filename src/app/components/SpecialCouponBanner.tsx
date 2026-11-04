@@ -20,7 +20,7 @@ export default function SpecialCouponBanner({ variant = "prominent", className =
       <a
         href={RAKUTEN_50_AFFILIATE_URL}
         target="_blank"
-        rel="noopener noreferrer"
+        rel="sponsored noopener noreferrer"
         className={`block group cursor-pointer w-[270px] rounded-2xl overflow-hidden border-2 border-amber-500 shadow-md hover:shadow-xl transition-all duration-300 transform hover:-translate-y-0.5 bg-gradient-to-b from-amber-500 to-amber-600 ${className}`}
       >
         <div className="bg-amber-600 text-white text-[10px] font-black text-center py-1 tracking-wider uppercase flex items-center justify-center gap-1">
@@ -68,7 +68,7 @@ export default function SpecialCouponBanner({ variant = "prominent", className =
       <a
         href={RAKUTEN_50_AFFILIATE_URL}
         target="_blank"
-        rel="noopener noreferrer"
+        rel="sponsored noopener noreferrer"
         className="group block relative rounded-2xl overflow-hidden border border-amber-300/80 shadow-md hover:shadow-xl transition-all duration-300 bg-white"
       >
         <div className="aspect-[16/9] sm:aspect-[21/9] w-full overflow-hidden relative">
@@ -98,7 +98,7 @@ export default function SpecialCouponBanner({ variant = "prominent", className =
           <a
             href={RAKUTEN_FURUSATO_AFFILIATE_URL}
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="w-full sm:w-auto shrink-0 px-4 py-3 bg-white border border-amber-400 hover:bg-amber-50 text-amber-900 font-black text-xs md:text-sm rounded-xl shadow-sm transition-all text-center"
           >
             実質2,000円！ふるさと納税
@@ -106,7 +106,7 @@ export default function SpecialCouponBanner({ variant = "prominent", className =
           <a
             href={RAKUTEN_50_AFFILIATE_URL}
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener noreferrer"
             className="w-full sm:w-auto shrink-0 px-6 py-3 bg-gradient-to-r from-amber-500 via-rose-500 to-amber-600 hover:from-amber-600 hover:to-rose-600 text-white font-black text-xs md:text-sm rounded-xl shadow-md hover:shadow-lg transition-all duration-200 text-center flex items-center justify-center gap-2 group cursor-pointer"
           >
             <span>5と0のつく日クーポンを獲得</span>

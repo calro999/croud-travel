@@ -659,30 +659,27 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
           />
         </div>
 
-        {/* 楽天トラベル公式予約ボタンは通常記事のみ表示 */}
-        {!post.is_special_feature && (
-          <>
-            {/* 予約前の割引クーポン獲得プッシュ（読了後の一番ホットなタイミング） */}
-            <div className="pt-6 border-t border-emerald-950/5">
-              <SpecialCouponBanner />
-            </div>
+        {/* 予約前の割引クーポン獲得プッシュ（全記事共通・読了後の一番ホットなタイミング） */}
+        <div className="pt-6 border-t border-emerald-950/5">
+          <SpecialCouponBanner />
+        </div>
 
-            {/* 楽天トラベル公式プラン予約 CTAボタン */}
-            <div id="section-booking" className="scroll-mt-24 pt-6 text-center space-y-4">
-              <a
-                href={post.affiliate_url}
-                target="_blank"
-                rel="sponsored noopener noreferrer"
-                className="inline-block px-10 py-5 text-sm md:text-base font-black text-white bg-gradient-to-r from-amber-600 via-amber-700 to-amber-800 hover:from-amber-500 hover:to-amber-700 rounded-2xl shadow-md transition duration-200 cursor-pointer"
-              >
-                ✈️ {post.hotel_name} の詳細プラン・空室状況を楽天トラベルで見る
-              </a>
-              <p className="text-[10px] text-emerald-950/40 font-bold">
-                ※クリックすると楽天トラベルの宿泊予約詳細ページへ遷移します
-              </p>
-            </div>
-          </>
-        )}
+        {/* 楽天トラベル公式プラン予約 CTAボタン（通常記事・特集記事ともに最適化表示） */}
+        <div id="section-booking" className="scroll-mt-24 pt-6 text-center space-y-4">
+          <a
+            href={post.affiliate_url}
+            target="_blank"
+            rel="sponsored noopener noreferrer"
+            className="inline-block w-full sm:w-auto px-10 py-5 text-sm md:text-base font-black text-white bg-gradient-to-r from-red-600 via-rose-600 to-amber-600 hover:from-red-500 hover:to-amber-500 rounded-2xl shadow-lg hover:shadow-xl active:scale-98 transition duration-200 cursor-pointer border border-white/20"
+          >
+            {post.is_special_feature
+              ? `✈️ 楽天トラベルで【${post.prefecture || "全国"}】の空室・宿泊プラン一覧を見る ≫`
+              : `✈️ 【公式楽天トラベル】${post.hotel_name} の宿泊プラン・空室状況をチェック ≫`}
+          </a>
+          <p className="text-[11px] text-emerald-950/60 font-bold">
+            ※楽天トラベル公式ページへ遷移します。日程・人数別の最安値や限定割引クーポンを確認できます。
+          </p>
+        </div>
 
         {/* AI-SEO (GEO) ＆ ユーザー満足度向上の FAQ (よくある質問) - 全記事表示で構造化データと完全一致 */}
         <div id="section-faq" className="scroll-mt-24 pt-10 border-t border-emerald-950/10 space-y-6">
