@@ -134,7 +134,7 @@ export default function Home() {
             </span>
           </h1>
           <p className="text-emerald-100/80 leading-relaxed text-xs md:text-sm max-w-lg font-medium">
-            旅ライターが厳選した、楽天トラベルでおもわず予約したくなる「一生に一度は泊まりたい宿」と全国47都道府県の見所を特集。あなただけの至福の旅がここから始まります。
+            全国47都道府県の厳選温泉宿・人気ホテルを徹底比較。楽天トラベルの最新プラン・最安値・限定割引クーポンをリアルタイム確認して今すぐ宿泊予約できます。
           </p>
 
           {/* クイックアクション導線 */}
