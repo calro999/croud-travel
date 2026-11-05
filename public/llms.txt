@@ -322,6 +322,7 @@
 - [有明海の干満に抱かれる宿、太良観光ホテルで味わう竹崎カニと絶景温泉の旅](https://croud-travel.pages.dev/posts/108700/): たら竹崎温泉　太良観光ホテル（佐賀県）
 - [那須湯本温泉の清水屋で鹿の湯源泉を堪能する滞在ルポ](https://croud-travel.pages.dev/posts/109132/): 那須湯本温泉　鹿の湯源泉かけ流しの宿　旅館　清水屋＜栃木県・那須郡＞（栃木県）
 - [岡山グルメと銘酒を味わう旅！鰆・黄ニラ・雄町の地酒を巡るおすすめモデルコースと厳選宿](https://croud-travel.pages.dev/posts/183037/): ホテルマイステイズ岡山（岡山県）
+- [ダイワロイネットホテル宮崎の滞在ガイド｜2027年新築の機能美と繁華街の利便性を徹底調査](https://croud-travel.pages.dev/posts/202569/): ダイワロイネットホテル宮崎（２０２７年３月８日新規開業）（宮崎県）
 - [【愛知・豊田/足助】香嵐渓もみじまつり2026＆巴川ライトアップ完全攻略！4000本のもみじが織りなす錦秋絶景と足助の重伝建町並み・医者がすすめる天然ラドン猿投温泉を堪能する名宿5選](https://croud-travel.pages.dev/posts/autumn-winter-aichi-korankei-momiji-lightup-asuke-sanage-onsen-hotels-guide/): しあわせ隠れ里　猿投温泉　癒しの宿　金泉閣・ホテルトヨタキャッスル ほか（愛知県）
 - [【岐阜・奥飛騨温泉郷】新穂高ロープウェイ白銀の北アルプス絶景＆雪見露天風呂完全攻略！日本唯一の2階建てゴンドラと標高2156m雲上の大雪原・最高峰飛騨牛を炭火で味わう厳選名宿5選](https://croud-travel.pages.dev/posts/winter-gifu-shinhotaka-ropeway-snow-alps-okuhida-onsen-hotels-guide/): 隠庵ひだ路・匠の宿　深山桜庵（共立リゾート） ほか（岐阜県）
 - [【北海道・阿寒/摩周】奇跡の絶景「フロストフラワー＆摩周湖霧氷」完全攻略！マイナス15度の氷上アートと阿寒湖温泉アイヌコタン・冬の道東厳選グルメを堪能する湖畔の温泉宿5選](https://croud-travel.pages.dev/posts/winter-hokkaido-akan-mashu-frost-flower-ice-lake-onsen-hotels-guide/): あかん遊久の里鶴雅・ニュー阿寒ホテル（グランベルホテルズ&amp;リゾーツ） ほか（北海道）
@@ -378,4 +379,3 @@
 - [【広島・宮島】世界遺産・嚴島神社＆紅葉谷公園もみじ狩り完全攻略！大鳥居の潮汐と紅葉ライトアップ、旬の広島牡蠣・穴子を堪能する厳選温泉宿5選](https://croud-travel.pages.dev/posts/autumn-hiroshima-miyajima-momijidani-itsukushima-onsen-hotels-guide/): 宮島嚴島神社＆紅葉谷公園周辺 厳選名宿5選（広島県）
 - [【香川・高松/琴平】国の特別名勝・栗林公園「秋の紅葉ライトアップ」＆金刀比羅宮もみじ祭完全攻略！大名庭園の錦秋水鏡と讃岐うどん・こんぴら温泉郷を巡る厳選名宿5選](https://croud-travel.pages.dev/posts/autumn-kagawa-ritsurin-garden-lightup-kotohira-onsen-hotels-guide/): 栗林公園＆金刀比羅宮周辺 厳選名宿5選（香川県）
 - [【青森・奥入瀬/八甲田】奥入瀬渓流 氷瀑ライトアップ＆十和田湖の絶景完全攻略！晩秋の錦秋から白銀の秘湯・酸ヶ湯温泉と青森の郷土味覚を愉しむ厳選名宿5選](https://croud-travel.pages.dev/posts/autumn-winter-aomori-oirase-hyobaku-towada-hakkoda-onsen-hotels-guide/): 奥入瀬渓流 氷瀑ライトアップ周辺 厳選名宿5選（青森県）
-- [【宮城・仙台】2026SENDAI光のページェント＆名湯秋保・作並温泉完全攻略！杜の都を黄金色に染めるケヤキ並木と仙台牛・セリ鍋を堪能する厳選名宿5選](https://croud-travel.pages.dev/posts/winter-sendai-hikari-no-pageant-akiu-onsen-hotels-guide/): SENDAI光のページェント周辺 厳選名宿5選（宮城県）
