@@ -241,3 +241,4 @@ showcase_miyagi
 winter-chiba-katori-shrine-hatsumode-sawara-inubosaki-kinmedai-stay
 showcase_hyogo
 autumn-koshinetsu-grape-gourmet-guide
+showcase_okinawa
