@@ -1,4 +1,14 @@
-# 岐阜県の宿泊・観光記事（68件）
+# 岐阜県の宿泊・観光記事（69件）
+
+## 【岐阜・奥飛騨温泉郷】新穂高ロープウェイ白銀の北アルプス絶景＆雪見露天風呂完全攻略！日本唯一の2階建てゴンドラと標高2156m雲上の大雪原・最高峰飛騨牛を炭火で味わう厳選名宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-gifu-shinhotaka-ropeway-snow-alps-okuhida-onsen-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-gifu-shinhotaka-ropeway-snow-alps-okuhida-onsen-hotels-guide.md
+- 宿泊施設名: 隠庵ひだ路・匠の宿　深山桜庵（共立リゾート） ほか
+- エリア: 奥飛騨・高山
+- 参考価格: ¥¥13,200〜〜
+- 評価: 4.71
+
+標高2,156mの雲上に広がる360度の大雪山パノラマ！日本唯一の2階建てゴンドラ「新穂高ロープウェイ」で登る冬の北アルプス絶景を徹底ガイド。11月の初冠雪から12〜1月の樹氷回廊、日本屈指の露天風呂数を誇る「奥飛騨温泉郷（平湯・福地・新穂高）」の雪見露天風呂巡り、極上A5等級飛騨牛の炭火囲炉裏焼きや朴葉味噌会席を心ゆくまで堪能する名旅館5選を完全網羅。
 
 ## 【岐阜・奥飛騨温泉郷/新穂高】新穂高ロープウェイ白銀パノラマ＆雪見露天風呂完全攻略！北アルプス槍ヶ岳の冬絶景と極上A5飛騨牛を味わい尽くす名門温泉宿5選
 - 記事: https://croud-travel.pages.dev/posts/winter-okuhida-shin-hotaka-ropeway-snow-onsen-hotels-guide/
