@@ -235,3 +235,4 @@ showcase_miyagi
 bonfire-wood-chopping-nature-resort-hotels-guide
 showcase_nara
 beach-yoga-sup-meditation-wellness-retreat-hotels-guide
+showcase_miyagi

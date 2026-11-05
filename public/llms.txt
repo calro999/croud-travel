@@ -319,6 +319,7 @@
 - [OKINAWA 観光名所・名物グルメ・人気温泉ホテル完全ガイド](https://croud-travel.pages.dev/prefectures/okinawa/)
 
 ## 最新厳選宿・観光ルポ記事
+- [那須湯本温泉の清水屋で鹿の湯源泉を堪能する滞在ルポ](https://croud-travel.pages.dev/posts/109132/): 那須湯本温泉　鹿の湯源泉かけ流しの宿　旅館　清水屋＜栃木県・那須郡＞（栃木県）
 - [山形レトロ旅の真髄：歴史薫る街並みと名湯をめぐる1泊2日](https://croud-travel.pages.dev/posts/27910/): 美湯美食の離れ宿　小野川温泉　河鹿荘（山形県）
 - [兵庫の絶景と大自然に包まれる旅！港町から六甲山系まで巡る厳選宿とモデルコース](https://croud-travel.pages.dev/posts/5506/): 神戸北野ホテル（兵庫県）
 - [郡山で車旅ならスマイルホテル郡山へ！無料平面駐車場100台と好立地で巡る福島拠点ガイド](https://croud-travel.pages.dev/posts/73863/): スマイルホテル郡山（福島県）
@@ -378,4 +379,3 @@
 - [【滋賀・湖東】湖東三山＆永源寺「錦秋の紅葉曼荼羅」完全攻略！日本紅葉名所100選と近江牛懐石、名湯・おごと温泉の絶景露天風呂を巡る厳選宿5選](https://croud-travel.pages.dev/posts/autumn-koto-sanzan-eigenji-momiji-ogoto-onsen-hotels-guide/): 湖東三山＆永源寺錦秋紅葉周辺 厳選宿5選（滋賀県）
 - [【栃木・足利】あしかがフラワーパーク「光の花の庭」＆日本遺産・史跡足利学校ライトアップ完全攻略！日本三大イルミネーションと名湯・ご当地グルメを満喫する厳選宿5選](https://croud-travel.pages.dev/posts/autumn-winter-ashikaga-flower-park-illumination-hotels-guide/): あしかがフラワーパーク＆足利学校周辺 厳選宿5選（栃木県）
 - [【静岡・熱海】秋・冬の熱海海上花火大会＆熱海梅園もみじまつり完全ガイド！澄んだ夜空を彩る大空中ナイアガラと日本一遅い紅葉を特等席で望む厳選温泉宿5選](https://croud-travel.pages.dev/posts/autumn-winter-atami-kaijo-hanabi-momiji-onsen-hotels-guide/): 熱海海上花火大会＆熱海梅園もみじまつり周辺 厳選宿5選（静岡県）
-- [【長野・松本】国宝松本城 天守ナイトイルミネーション＆晩秋の信州アルプス完全攻略！漆黒の名城を彩る光のレーザーと浅間温泉・美ヶ原温泉の名湯巡る厳選宿5選](https://croud-travel.pages.dev/posts/autumn-winter-matsumoto-castle-night-illumination-onsen-hotels-guide/): 国宝松本城ナイトイルミネーション周辺 厳選宿5選（長野県）
