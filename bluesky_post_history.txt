@@ -243,3 +243,4 @@ showcase_hyogo
 autumn-koshinetsu-grape-gourmet-guide
 showcase_okinawa
 ito-izukogen-higashiizu-hotels-guide
+showcase_fukuoka
