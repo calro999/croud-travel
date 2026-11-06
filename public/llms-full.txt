@@ -16,7 +16,7 @@
 - [埼玉県（45件）](https://croud-travel.pages.dev/llms/11.txt)
 - [千葉県（60件）](https://croud-travel.pages.dev/llms/12.txt)
 - [東京都（48件）](https://croud-travel.pages.dev/llms/13.txt)
-- [神奈川県（80件）](https://croud-travel.pages.dev/llms/14.txt)
+- [神奈川県（81件）](https://croud-travel.pages.dev/llms/14.txt)
 - [新潟県（67件）](https://croud-travel.pages.dev/llms/15.txt)
 - [富山県（44件）](https://croud-travel.pages.dev/llms/16.txt)
 - [石川県（73件）](https://croud-travel.pages.dev/llms/17.txt)
