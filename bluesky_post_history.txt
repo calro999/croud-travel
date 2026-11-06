@@ -249,3 +249,4 @@ showcase_hiroshima
 kochi-sansuien-onsen-castle-guide
 showcase_fukuoka
 october-travel-city-hirado-matsuura-kids-family-guide
+showcase_kanagawa
