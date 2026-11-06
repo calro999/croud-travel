@@ -245,3 +245,4 @@ showcase_okinawa
 ito-izukogen-higashiizu-hotels-guide
 showcase_fukuoka
 awajishima-sumoto-naruto-hotels-guide
+showcase_hiroshima
