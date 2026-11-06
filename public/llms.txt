@@ -322,6 +322,7 @@
 - [香川の温泉巡り旅！こんぴら風情と瀬戸内絶景の湯をめぐるおすすめ宿とモデルコース](https://croud-travel.pages.dev/posts/140768/): 瀬戸内リゾート　ベッセルおおち（香川県）
 - [能登半島の自然に抱かれた志賀の郷温泉へ。リニューアルした味覚と湯浴みを巡る旅](https://croud-travel.pages.dev/posts/14471/): 志賀の郷温泉　いこいの村　能登半島（石川県）
 - [神奈川の海と山に癒やされる絶景旅！鎌倉・厚木・相模原を満喫するおすすめモデルコースと宿ガイド](https://croud-travel.pages.dev/posts/161178/): 古都鎌倉のリゾートホテル　ＷｅＢａｓｅ鎌倉（神奈川県）
+- [鳥取の隠れた絶景と秘境を巡る大人旅！穴場名所とおすすめ宿3選＆モデルコース](https://croud-travel.pages.dev/posts/196404/): ＨＯＴＥＬ星取テラスせきがね（鳥取県）
 - [【石川・金沢】兼六園「雪吊り」ライトアップ2026-2027＆冬の味覚の頂点「加能ガニ・香箱ガニ」完全攻略！12月末まで限定の贅沢カニ会席と金沢城・ひがし茶屋街散策、名湯を愉しむ名門宿5選](https://croud-travel.pages.dev/posts/winter-ishikawa-kanazawa-kenrokuen-yukitsuri-kanogani-hotels-guide/): 金沢白鳥路　ホテル山楽・天然温泉　加賀の宝泉　御宿　野乃金沢 ほか（石川県）
 - [【長崎・ハウステンボス】光の街のクリスマス＆白銀の世界2026-2027完全攻略！世界最大1300万球イルミネーション・運河アイススケートと直営クラシックホテル＆長崎和牛・地魚会席を満喫する厳選宿5選](https://croud-travel.pages.dev/posts/winter-nagasaki-huistenbosch-christmas-illumination-hotels-guide/): ホテルヨーロッパ　ハウステンボス・ホテルアムステルダム ほか（長崎県）
 - [【栃木・足利/佐野】あしかがフラワーパーク「光の花の庭2026-2027」＆佐野厄除け大師初詣完全攻略！日本三大イルミ500万球の奇跡の大藤と青竹手打ち佐野ラーメン・スカイスパ露天を堪能する厳選ホテル5選](https://croud-travel.pages.dev/posts/winter-tochigi-ashikaga-flowerpark-illumination-sano-hotels-guide/): カンデオホテルズ佐野・ホテルルートイン足利駅前 ほか（栃木県）
@@ -378,4 +379,3 @@
 - [【長野・軽井沢】雲場池の紅葉水鏡＆軽井沢高原教会クリスマスイルミネーション2026完全攻略！白糸の滝ライトアップと星野温泉・信州フレンチを味わう極上リゾート宿5選](https://croud-travel.pages.dev/posts/autumn-winter-karuizawa-kumobaike-illumination-resort-hotels-guide/): ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）・軽井沢マリオットホテル ほか（長野県）
 - [【新潟県】カップルで過ごすロマンチックな週末を満喫する大人の旅｜「蓬平温泉　蓬莱館　福引屋」ほか厳選宿とモデルコース](https://croud-travel.pages.dev/posts/109523/): 蓬平温泉　蓬莱館　福引屋（新潟県）
 - [小豆島・エンジェルロード目の前の絶景宿！海辺の宿入舟で過ごす島時間](https://croud-travel.pages.dev/posts/20489/): 海辺の宿　入舟　＜香川県・小豆島＞（香川県）
-- [【岐阜県】歴史とレトロな街並み散策を満喫する旅｜「郡上ヴァカンス村ホテル」ほか厳選宿とモデルコース](https://croud-travel.pages.dev/posts/25143/): 郡上ヴァカンス村ホテル（岐阜県）
