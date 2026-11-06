@@ -247,3 +247,4 @@ showcase_fukuoka
 awajishima-sumoto-naruto-hotels-guide
 showcase_hiroshima
 kochi-sansuien-onsen-castle-guide
+showcase_fukuoka
