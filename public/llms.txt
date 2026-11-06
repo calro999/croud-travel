@@ -319,6 +319,9 @@
 - [OKINAWA 観光名所・名物グルメ・人気温泉ホテル完全ガイド](https://croud-travel.pages.dev/prefectures/okinawa/)
 
 ## 最新厳選宿・観光ルポ記事
+- [【石川・金沢】兼六園「雪吊り」ライトアップ2026-2027＆冬の味覚の頂点「加能ガニ・香箱ガニ」完全攻略！12月末まで限定の贅沢カニ会席と金沢城・ひがし茶屋街散策、名湯を愉しむ名門宿5選](https://croud-travel.pages.dev/posts/winter-ishikawa-kanazawa-kenrokuen-yukitsuri-kanogani-hotels-guide/): 金沢白鳥路　ホテル山楽・天然温泉　加賀の宝泉　御宿　野乃金沢 ほか（石川県）
+- [【長崎・ハウステンボス】光の街のクリスマス＆白銀の世界2026-2027完全攻略！世界最大1300万球イルミネーション・運河アイススケートと直営クラシックホテル＆長崎和牛・地魚会席を満喫する厳選宿5選](https://croud-travel.pages.dev/posts/winter-nagasaki-huistenbosch-christmas-illumination-hotels-guide/): ホテルヨーロッパ　ハウステンボス・ホテルアムステルダム ほか（長崎県）
+- [【栃木・足利/佐野】あしかがフラワーパーク「光の花の庭2026-2027」＆佐野厄除け大師初詣完全攻略！日本三大イルミ500万球の奇跡の大藤と青竹手打ち佐野ラーメン・スカイスパ露天を堪能する厳選ホテル5選](https://croud-travel.pages.dev/posts/winter-tochigi-ashikaga-flowerpark-illumination-sano-hotels-guide/): カンデオホテルズ佐野・ホテルルートイン足利駅前 ほか（栃木県）
 - [有明海の干満に抱かれる宿、太良観光ホテルで味わう竹崎カニと絶景温泉の旅](https://croud-travel.pages.dev/posts/108700/): たら竹崎温泉　太良観光ホテル（佐賀県）
 - [那須湯本温泉の清水屋で鹿の湯源泉を堪能する滞在ルポ](https://croud-travel.pages.dev/posts/109132/): 那須湯本温泉　鹿の湯源泉かけ流しの宿　旅館　清水屋＜栃木県・那須郡＞（栃木県）
 - [岡山グルメと銘酒を味わう旅！鰆・黄ニラ・雄町の地酒を巡るおすすめモデルコースと厳選宿](https://croud-travel.pages.dev/posts/183037/): ホテルマイステイズ岡山（岡山県）
@@ -376,6 +379,3 @@
 - [【石川県観光】温泉街の湯めぐりと風情を満喫する旅｜「山代温泉　雄山閣」ほか厳選宿とモデルコース](https://croud-travel.pages.dev/posts/38879/): 山代温泉　雄山閣（ＢＢＨホテルグループ）（石川県）
 - [【福島・郡山駅徒歩5分】郡山ワシントンホテル宿泊ガイド｜コンビニ隣接の好立地・和洋バイキング朝食とアクセス解説](https://croud-travel.pages.dev/posts/650/): 郡山ワシントンホテル（福島県）
 - [【山梨・河口湖】富士河口湖紅葉まつり2026＆もみじ回廊ライトアップ完全攻略！紅葉と富士山の絶景パノラマ露天風呂を愉しむ厳選温泉宿5選](https://croud-travel.pages.dev/posts/autumn-fuji-kawaguchiko-momiji-festival-lake-view-onsen-hotels-guide/): 富士河口湖紅葉まつり周辺 厳選温泉宿5選（山梨県）
-- [【広島・宮島】世界遺産・嚴島神社＆紅葉谷公園もみじ狩り完全攻略！大鳥居の潮汐と紅葉ライトアップ、旬の広島牡蠣・穴子を堪能する厳選温泉宿5選](https://croud-travel.pages.dev/posts/autumn-hiroshima-miyajima-momijidani-itsukushima-onsen-hotels-guide/): 宮島嚴島神社＆紅葉谷公園周辺 厳選名宿5選（広島県）
-- [【香川・高松/琴平】国の特別名勝・栗林公園「秋の紅葉ライトアップ」＆金刀比羅宮もみじ祭完全攻略！大名庭園の錦秋水鏡と讃岐うどん・こんぴら温泉郷を巡る厳選名宿5選](https://croud-travel.pages.dev/posts/autumn-kagawa-ritsurin-garden-lightup-kotohira-onsen-hotels-guide/): 栗林公園＆金刀比羅宮周辺 厳選名宿5選（香川県）
-- [【青森・奥入瀬/八甲田】奥入瀬渓流 氷瀑ライトアップ＆十和田湖の絶景完全攻略！晩秋の錦秋から白銀の秘湯・酸ヶ湯温泉と青森の郷土味覚を愉しむ厳選名宿5選](https://croud-travel.pages.dev/posts/autumn-winter-aomori-oirase-hyobaku-towada-hakkoda-onsen-hotels-guide/): 奥入瀬渓流 氷瀑ライトアップ周辺 厳選名宿5選（青森県）
