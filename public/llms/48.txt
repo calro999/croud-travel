@@ -1,4 +1,34 @@
-# 全国・複数県の宿泊・観光記事（361件）
+# 全国・複数県の宿泊・観光記事（364件）
+
+## 【函館】はこだてクリスマスファンタジー2026＆五稜星の夢完全攻略！海上に浮かぶ巨大ツリー・点灯花火と函館山冬夜景、湯の川温泉海見え露天＆極上活イカ・津軽海峡マグロを満喫する厳選宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-hokkaido-hakodate-christmas-fantasy-goryokaku-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-hokkaido-hakodate-christmas-fantasy-goryokaku-hotels-guide.md
+- 宿泊施設名: センチュリーマリーナ函館・ラビスタ函館ベイANNEX・望楼NOGUCHI函館 ほか
+- エリア: 
+- 参考価格: ¥¥13,500〜〜
+- 評価: 4.65
+
+2026年12月開催の「はこだてクリスマスファンタジー」と特別史跡五稜郭跡が星形に浮かび上がる「五稜星の夢イルミネーション」を徹底解説。赤レンガ倉庫群前の海上に浮かぶ高さ約20mの巨大モミの木ツリー、毎夜18時の点灯花火、スープバー巡りや函館山の澄み渡る極上冬夜景の鑑賞術を網羅。朝食バイキングで全国屈指の人気を誇るベイエリアホテルや、津軽海峡を望む湯の川温泉の名門旅館など厳選5宿をご紹介。
+
+## 【軽井沢】軽井沢高原教会「星降る森のクリスマス2026」＆ハルニレテラス完全攻略！無数のランタンキャンドルと白糸の滝ライトアップ、星野温泉トンボの湯＆信州牛・極上フレンチを堪能するクラシックリゾート宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-nagano-karuizawa-plateau-church-christmas-candle-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-nagano-karuizawa-plateau-church-christmas-candle-hotels-guide.md
+- 宿泊施設名: 万平ホテル・旧軽井沢KIKYO・ルグラン軽井沢ホテル＆リゾート ほか
+- エリア: 
+- 参考価格: ¥¥13,396〜〜
+- 評価: 4.73
+
+2026年12月開催の軽井沢高原教会「星降る森のクリスマス」とハルニレテラスのもみの木イルミネーションを徹底解説。大正時代から続く森に灯る無数のランタンキャンドル、完全事前予約制の攻略法、白糸の滝の真冬ライトアップ、星野温泉トンボの湯の雪見露天を網羅。創業130年の歴史を誇る万平ホテルや旧軽井沢の上質隠れ家リゾートなど厳選5宿をご紹介。
+
+## 【山梨・河口湖】「河口湖 冬花火2027」＆冬の富士山絶景完全攻略！澄み渡る夜空を彩る湖上花火と大池公園特等席、客室露天から眺める紅富士・名湯河口湖温泉＆甲州牛・名物ほうとうを味わう厳選宿5選
+- 記事: https://croud-travel.pages.dev/posts/winter-yamanashi-kawaguchiko-winter-fireworks-fuji-view-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-yamanashi-kawaguchiko-winter-fireworks-fuji-view-hotels-guide.md
+- 宿泊施設名: 富士河口湖温泉 湖南荘・秀峰閣 湖月・THE KUKUNA ほか
+- エリア: 
+- 参考価格: ¥¥25,300〜〜
+- 評価: 4.71
+
+2027年1月中旬から2月下旬にかけて開催される「河口湖 冬花火」と、澄み渡る大気の中に雪化粧の富士山が輝く冬の富士五湖完全攻略ガイド。大池公園・畳岩・八木崎公園の打ち上げポイント、湖面に映る逆さ富士花火、朝焼けに染まる「紅富士」の鑑賞術を網羅。客室や露天風呂から真正面に富士山と花火を望む河口湖温泉の極上宿など厳選5選をご紹介。
 
 ## 【すっぽん料理が美味しい温泉宿10選】嬉野温泉 大正屋・南紀白浜温泉 ホテル川久など楽天トラベル高評価の名宿を徹底比較
 - 記事: https://croud-travel.pages.dev/posts/suppon-turtle-cuisine-hot-spring-hotels-guide/

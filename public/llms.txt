@@ -319,6 +319,9 @@
 - [OKINAWA 観光名所・名物グルメ・人気温泉ホテル完全ガイド](https://croud-travel.pages.dev/prefectures/okinawa/)
 
 ## 最新厳選宿・観光ルポ記事
+- [【函館】はこだてクリスマスファンタジー2026＆五稜星の夢完全攻略！海上に浮かぶ巨大ツリー・点灯花火と函館山冬夜景、湯の川温泉海見え露天＆極上活イカ・津軽海峡マグロを満喫する厳選宿5選](https://croud-travel.pages.dev/posts/winter-hokkaido-hakodate-christmas-fantasy-goryokaku-hotels-guide/): センチュリーマリーナ函館・ラビスタ函館ベイANNEX・望楼NOGUCHI函館 ほか（undefined）
+- [【軽井沢】軽井沢高原教会「星降る森のクリスマス2026」＆ハルニレテラス完全攻略！無数のランタンキャンドルと白糸の滝ライトアップ、星野温泉トンボの湯＆信州牛・極上フレンチを堪能するクラシックリゾート宿5選](https://croud-travel.pages.dev/posts/winter-nagano-karuizawa-plateau-church-christmas-candle-hotels-guide/): 万平ホテル・旧軽井沢KIKYO・ルグラン軽井沢ホテル＆リゾート ほか（undefined）
+- [【山梨・河口湖】「河口湖 冬花火2027」＆冬の富士山絶景完全攻略！澄み渡る夜空を彩る湖上花火と大池公園特等席、客室露天から眺める紅富士・名湯河口湖温泉＆甲州牛・名物ほうとうを味わう厳選宿5選](https://croud-travel.pages.dev/posts/winter-yamanashi-kawaguchiko-winter-fireworks-fuji-view-hotels-guide/): 富士河口湖温泉 湖南荘・秀峰閣 湖月・THE KUKUNA ほか（undefined）
 - [香川の温泉巡り旅！こんぴら風情と瀬戸内絶景の湯をめぐるおすすめ宿とモデルコース](https://croud-travel.pages.dev/posts/140768/): 瀬戸内リゾート　ベッセルおおち（香川県）
 - [能登半島の自然に抱かれた志賀の郷温泉へ。リニューアルした味覚と湯浴みを巡る旅](https://croud-travel.pages.dev/posts/14471/): 志賀の郷温泉　いこいの村　能登半島（石川県）
 - [神奈川の海と山に癒やされる絶景旅！鎌倉・厚木・相模原を満喫するおすすめモデルコースと宿ガイド](https://croud-travel.pages.dev/posts/161178/): 古都鎌倉のリゾートホテル　ＷｅＢａｓｅ鎌倉（神奈川県）
@@ -376,6 +379,3 @@
 - [【佐賀・武雄/有田/嬉野】秋の有田陶磁器まつり2026＆御船山楽園「紅葉まつり」夜間ライトアップ完全攻略！日本三大美肌の湯と佐賀牛・温泉湯豆腐を堪能する厳選名宿5選](https://croud-travel.pages.dev/posts/autumn-saga-arita-touki-mifuneyama-lightup-ureshino-takeo-onsen-hotels-guide/): 武雄温泉　御船山楽園ホテル・嬉野温泉　和多屋別荘 ほか（佐賀県）
 - [【静岡・伊豆修善寺】修善寺もみじまつり2026＆竹林の小径・虹の郷ライトアップ完全攻略！伊豆最古の湯の街と桂川の錦秋、伊豆の極上会席を愉しむ厳選温泉宿5選](https://croud-travel.pages.dev/posts/autumn-shuzenji-momiji-festival-bamboo-lightup-izu-onsen-hotels-guide/): 修善寺温泉　宙ＳＯＲＡ　渡月荘金龍・湯回廊　菊屋（共立リゾート） ほか（静岡県）
 - [【石川・金沢/加賀】兼六園の雪吊り＆秋の段ライトアップ2026完全攻略！11月解禁の加能ガニ・香箱ガニと名湯・山中温泉・辰口温泉を巡る厳選極上宿5選](https://croud-travel.pages.dev/posts/autumn-winter-kanazawa-kenrokuen-yukitsuri-crab-kaiseki-onsen-hotels-guide/): 金沢辰口温泉　まつさき・山中温泉　花紫 ほか（石川県）
-- [【長野・軽井沢】雲場池の紅葉水鏡＆軽井沢高原教会クリスマスイルミネーション2026完全攻略！白糸の滝ライトアップと星野温泉・信州フレンチを味わう極上リゾート宿5選](https://croud-travel.pages.dev/posts/autumn-winter-karuizawa-kumobaike-illumination-resort-hotels-guide/): ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）・軽井沢マリオットホテル ほか（長野県）
-- [【新潟県】カップルで過ごすロマンチックな週末を満喫する大人の旅｜「蓬平温泉　蓬莱館　福引屋」ほか厳選宿とモデルコース](https://croud-travel.pages.dev/posts/109523/): 蓬平温泉　蓬莱館　福引屋（新潟県）
-- [小豆島・エンジェルロード目の前の絶景宿！海辺の宿入舟で過ごす島時間](https://croud-travel.pages.dev/posts/20489/): 海辺の宿　入舟　＜香川県・小豆島＞（香川県）
