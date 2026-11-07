@@ -139,6 +139,10 @@ export default function RootLayout({
                 <span>🎁 ふるさと納税</span>
               </Link>
               <span className="text-emerald-950/20">/</span>
+              <Link href="/ranking/" className="text-amber-700 hover:text-amber-600 transition flex items-center gap-1 font-black">
+                <span>🏆 総合ランキング</span>
+              </Link>
+              <span className="text-emerald-950/20">/</span>
               <Link href="/features/" className="text-teal-800 hover:text-teal-600 transition flex items-center gap-1 font-black">
                 <span>✨ 特集・まとめ</span>
               </Link>

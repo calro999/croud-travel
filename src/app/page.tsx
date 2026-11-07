@@ -146,6 +146,12 @@ export default function Home() {
               <span>🎁 ふるさと納税でお得に泊まる</span>
               <span>→</span>
             </Link>
+            <Link
+              href="/ranking/"
+              className="inline-flex items-center gap-1.5 px-4 py-2.5 text-xs md:text-sm font-bold text-white bg-white/10 hover:bg-white/15 border border-white/20 rounded-2xl transition"
+            >
+              <span>🏆 総合ランキングTOP50</span>
+            </Link>
             <a
               href="#posts-section"
               className="inline-flex items-center gap-1.5 px-4 py-2.5 text-xs md:text-sm font-bold text-white bg-white/10 hover:bg-white/15 border border-white/20 rounded-2xl transition"

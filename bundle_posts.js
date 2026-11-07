@@ -136,6 +136,7 @@ function main() {
     { url: `${BASE_URL}/prefectures/`, priority: '0.9', changefreq: 'daily' },
     { url: `${BASE_URL}/campaigns/`, priority: '0.9', changefreq: 'daily' },
     { url: `${BASE_URL}/furusato/`, priority: '0.95', changefreq: 'daily' },
+    { url: `${BASE_URL}/ranking/`, priority: '0.95', changefreq: 'daily' },
     { url: `${BASE_URL}/campaigns/autumn-gourmet-travel/`, priority: '0.85', changefreq: 'weekly' },
     { url: `${BASE_URL}/kanazawa/`, priority: '0.85', changefreq: 'weekly' },
     { url: `${BASE_URL}/noto/`, priority: '0.85', changefreq: 'weekly' },
