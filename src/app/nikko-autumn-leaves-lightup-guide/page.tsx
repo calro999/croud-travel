@@ -478,9 +478,7 @@ export default function NikkoAutumnLeavesGuidePage() {
               </p>
             </div>
             <a
-              href="https://travel.rakuten.co.jp/bus/"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="https://travel.rakuten.co.jp/bus/" target="_blank" rel="sponsored noopener noreferrer" rel="sponsored noopener noreferrer"
               className="shrink-0 bg-stone-900 hover:bg-stone-800 text-amber-300 font-bold px-5 py-3 rounded-xl text-xs sm:text-sm shadow transition"
             >
               秋のバスツアーを検索 🚌
