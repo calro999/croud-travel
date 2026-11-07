@@ -357,7 +357,7 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
               <li key="furusato-tax-luxury-hotspring-ryokan-stay">
                 <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                   <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
-                  <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【実質2,000円で泊まる名湯】高級温泉旅館＆憧れの老舗宿完全ガイド</span>
+                  <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【最大30%還元・実質2,000円負担で泊まる名湯】高級温泉旅館＆憧れの老舗宿完全ガイド</span>
                 </Link>
               </li>
   

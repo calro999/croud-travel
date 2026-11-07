@@ -118,7 +118,7 @@ export default function Page() {
               <span>ポイント①：高額になりがちな「ゴルフ旅行総額」をふるさと納税で一発圧縮</span>
             </h3>
             <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-11">
-              年収1,500万円で約40万円、年収2,000万円なら約50万円以上になるふるさと納税の控除上限額。宿泊とゴルフプレーがセットになったリゾートホテルプランにクーポンを適用すれば、実質自己負担2,000円で憧れの名門コース合宿が実現します。
+              年収1,500万円で約40万円、年収2,000万円なら約50万円以上になるふるさと納税の控除上限額。宿泊とゴルフプレーがセットになったリゾートホテルプランにクーポンを適用すれば、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの名門コース合宿が実現します。
             </p>
           </div>
   
@@ -511,7 +511,7 @@ export default function Page() {
                 <span className="text-xs text-stone-400 group-hover:text-amber-700 transition">記事を読む →</span>
               </div>
               <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">
-                【実質2,000円で泊まる名湯】高級温泉旅館＆憧れの老舗宿完全ガイド
+                【最大30%還元・実質2,000円負担で泊まる名湯】高級温泉旅館＆憧れの老舗宿完全ガイド
               </h4>
               <p className="text-stone-600 text-xs md:text-sm leading-relaxed">
                 ラウンド後の身体を極上の湯で癒やす。草津・有馬・伊豆の老舗名湯宿をふるさと納税で予約。

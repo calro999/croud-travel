@@ -29,7 +29,7 @@ export default function TravelSavingsGuide() {
         name: 'ふるさと納税で旅行が安くなるって本当？',
         acceptedAnswer: {
           '@type': 'Answer',
-          text: 'はい。楽天ふるさと納税の「トラベルクーポン」を利用すれば、寄付額の最大30%相当が宿泊クーポンとして還元されます。自己負担は実質2,000円のみで、高級旅館やリゾートホテルの宿泊費を大幅に節約できます。有効期限は3年間と長く、予約済みの宿泊にもあとから適用できます。',
+          text: 'はい。楽天ふるさと納税の「トラベルクーポン」を利用すれば、寄付額の最大30%相当が宿泊クーポンとして還元されます。控除上限額内なら自己負担実質2,000円のみで（寄付額の最大30%クーポン還元）、高級旅館やリゾートホテルの宿泊費を大幅に節約できます。有効期限は3年間と長く、予約済みの宿泊にもあとから適用できます。',
         },
       },
       {
@@ -99,7 +99,7 @@ export default function TravelSavingsGuide() {
             「もう少し安く泊まれたらなぁ」。旅行の計画中、誰もが一度は感じるこの気持ち。実は、ちょっとした工夫と知識だけで宿泊費は劇的に変わります。年間の旅行費を数万円単位で圧縮できる7つの方法を、旅行ライターが本音で解説します。
           </p>
           <p className="text-stone-400 text-sm leading-relaxed max-w-3xl">
-            特に「知っている人だけが得をしている」のが、このページで一番伝えたい方法——ふるさと納税を旅行に使うテクニック。自己負担たった2,000円で、寄付額の最大30%がそのまま宿泊クーポンに変わるこの仕組み、まだ使っていないなら確実に損をしています。
+            特に「知っている人だけが得をしている」のが、このページで一番伝えたい方法——ふるさと納税を旅行に使うテクニック。年間の控除上限額内であれば自己負担2,000円で、寄付額の最大30%がそのまま宿泊クーポンに変わるこの仕組み、まだ使っていないなら確実に損をしています。
           </p>
         </header>
 
@@ -1660,7 +1660,7 @@ export default function TravelSavingsGuide() {
                 <li key="furusato-tax-luxury-hotspring-ryokan-stay">
                   <Link href="/furusato-tax-luxury-hotspring-ryokan-stay/" className="group flex items-start gap-2 py-2 px-3 rounded-xl hover:bg-amber-50 transition">
                     <span className="text-amber-600 mt-0.5 text-sm shrink-0">▸</span>
-                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【実質2,000円で泊まる名湯】高級温泉旅館＆憧れの老舗宿をふるさと納税で予約する完全ガイド</span>
+                    <span className="text-stone-700 group-hover:text-amber-800 transition text-sm leading-relaxed">【最大30%還元・実質2,000円負担で泊まる名湯】高級温泉旅館＆憧れの老舗宿をふるさと納税で予約する完全ガイド</span>
                   </Link>
                 </li>
                 <li key="furusato-tax-oceanfront-wave-sound-healing-stay">

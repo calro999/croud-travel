@@ -117,7 +117,7 @@ export default function FeatureArticlePage() {
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">神話の里・高千穂峡の真名井の滝紅葉ボート＆高千穂神社夜神楽！極上高千穂牛宿×ふるさと納税厳選ガイド宮崎</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
-            柱状節理の断崖に降り注ぐ真名井の滝の紅葉と、神話の里で味わう日本一の高千穂牛。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
+            柱状節理の断崖に降り注ぐ真名井の滝の紅葉と、神話の里で味わう日本一の高千穂牛。ふるさと納税の宿泊クーポンを活用すれば控除上限内なら実質自己負担2,000円（最大30%クーポン還元）で憧れの上質宿へ滞在できます。
           </p>
         </div>
       </header>

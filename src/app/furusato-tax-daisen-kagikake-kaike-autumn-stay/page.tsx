@@ -117,7 +117,7 @@ export default function FeatureArticlePage() {
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">霊峰大山・鍵掛峠の錦秋大パノラマ＆皆生温泉オーシャンビュー露天！松葉ガニ・境港宿×ふるさと納税厳選ガイド鳥取</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
-            荒々しい南壁と黄金のブナ林が織りなす大山鍵掛峠の紅葉、皆生温泉の海露天と初物松葉ガニ。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
+            荒々しい南壁と黄金のブナ林が織りなす大山鍵掛峠の紅葉、皆生温泉の海露天と初物松葉ガニ。ふるさと納税の宿泊クーポンを活用すれば控除上限内なら実質自己負担2,000円（最大30%クーポン還元）で憧れの上質宿へ滞在できます。
           </p>
         </div>
       </header>

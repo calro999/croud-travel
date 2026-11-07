@@ -117,7 +117,7 @@ export default function FeatureArticlePage() {
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">鬼怒川温泉の龍王峡紅葉ハイキング＆ライン下り！鬼怒川渓谷露天風呂宿×ふるさと納税厳選ガイド栃木</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
-            火山岩が織りなす龍王峡の大渓谷紅葉と、鬼怒川沿いに建ち並ぶ上質な温泉旅館ステイ。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
+            火山岩が織りなす龍王峡の大渓谷紅葉と、鬼怒川沿いに建ち並ぶ上質な温泉旅館ステイ。ふるさと納税の宿泊クーポンを活用すれば控除上限内なら実質自己負担2,000円（最大30%クーポン還元）で憧れの上質宿へ滞在できます。
           </p>
         </div>
       </header>

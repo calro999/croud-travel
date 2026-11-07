@@ -117,7 +117,7 @@ export default function FeatureArticlePage() {
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">宮島・紅葉谷公園の深紅のモミジ＆嚴島神社大鳥居！宮島温泉名旅館×ふるさと納税厳選ガイド広島</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
-            世界遺産・嚴島神社の秋景色と紅葉谷公園の深紅絵巻、焼き牡蠣と名物穴子飯ステイ。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
+            世界遺産・嚴島神社の秋景色と紅葉谷公園の深紅絵巻、焼き牡蠣と名物穴子飯ステイ。ふるさと納税の宿泊クーポンを活用すれば控除上限内なら実質自己負担2,000円（最大30%クーポン還元）で憧れの上質宿へ滞在できます。
           </p>
         </div>
       </header>

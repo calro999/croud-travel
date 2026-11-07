@@ -117,7 +117,7 @@ export default function FeatureArticlePage() {
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">定山渓温泉の豊平峡ダム紅葉＆渓谷ネイチャールミナリエ！札幌奥座敷露天風呂宿×ふるさと納税厳選ガイド北海道</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
-            豊平峡ダムの切り立つ岩壁を彩る錦秋パノラマと、定山渓渓谷美に浸る上質な札幌奥座敷ステイ。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
+            豊平峡ダムの切り立つ岩壁を彩る錦秋パノラマと、定山渓渓谷美に浸る上質な札幌奥座敷ステイ。ふるさと納税の宿泊クーポンを活用すれば控除上限内なら実質自己負担2,000円（最大30%クーポン還元）で憧れの上質宿へ滞在できます。
           </p>
         </div>
       </header>

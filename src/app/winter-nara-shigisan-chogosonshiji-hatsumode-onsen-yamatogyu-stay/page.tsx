@@ -679,7 +679,7 @@ export default function FeaturePage() {
                 Furusato Tax
               </span>
               <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                楽天ふるさと納税で実質2,000円！お得に泊まる賢い旅行術
+                楽天ふるさと納税（控除上限内で実質2,000円自己負担・最大30%クーポン還元）でお得に泊まる賢い旅行術
               </h3>
               <p className="text-xs sm:text-sm text-stone-600 max-w-xl leading-relaxed">
                 旅行先の自治体へ寄付することで、最大30%相当の楽天トラベル宿泊クーポンが返礼品として付与されます。予約済みの日程にも「あとから割引」で適用可能！

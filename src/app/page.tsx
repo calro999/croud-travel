@@ -280,7 +280,7 @@ export default function Home() {
             <span>🧭</span> <span>公式旅行ガイド＆お得な予約TIPS</span>
           </h2>
           <p className="text-xs text-slate-300 leading-relaxed font-medium">
-            ふるさと納税を活用した実質2,000円宿泊術や予約後クーポンのあとから適用方法など、旅の計画をサポートする実用ガイドをご案内。
+            ふるさと納税を活用した控除上限内で実質2,000円負担となる最大30%宿泊クーポンの活用術や予約後クーポンのあとから適用方法など、旅の計画をサポートする実用ガイドをご案内。
           </p>
         </div>
 

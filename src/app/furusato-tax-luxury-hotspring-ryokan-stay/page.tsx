@@ -36,7 +36,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "【実質2,000円で泊まる名湯】高級温泉旅館＆憧れの老舗宿をふるさと納税で予約する完全ガイド | クラウドトラベル",
+    "headline": "【最大30%還元・実質2,000円負担で泊まる名湯】高級温泉旅館＆憧れの老舗宿をふるさと納税で予約する完全ガイド | クラウドトラベル",
     "description": "年末の控除枠やご褒美旅行に最適！草津・伊豆・有馬の名旅館に楽天ふるさと納税トラベルクーポンで泊まる方法を徹底解説。有効期限3年の安心設計と実質2,000円負担の上手な活用術。",
     "url": "https://croud-travel.pages.dev/furusato-tax-luxury-hotspring-ryokan-stay/",
     "publisher": {
@@ -50,7 +50,7 @@ export default function Page() {
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": "https://croud-travel.pages.dev" },
-      { "@type": "ListItem", "position": 2, "name": "【実質2,000円で泊まる名湯】高級温泉旅館＆憧れの老舗宿をふるさと納税で予約する完全ガイド | クラウドトラベル", "item": "https://croud-travel.pages.dev/furusato-tax-luxury-hotspring-ryokan-stay/" }
+      { "@type": "ListItem", "position": 2, "name": "【最大30%還元・実質2,000円負担で泊まる名湯】高級温泉旅館＆憧れの老舗宿をふるさと納税で予約する完全ガイド | クラウドトラベル", "item": "https://croud-travel.pages.dev/furusato-tax-luxury-hotspring-ryokan-stay/" }
     ]
   };
 
@@ -456,7 +456,7 @@ export default function Page() {
               RELATED GUIDES
             </span>
             <h3 className="text-2xl font-bold text-stone-900 mt-2 mb-3 font-serif">ふるさと納税トラベルをもっと使いこなす（実質2,000円で泊まる名湯：高級温泉旅館＆憧れの老）</h3>
-            <p className="text-stone-600 text-sm">【実質2,000円で泊まる名湯：高級温泉旅館＆憧れの老】 
+            <p className="text-stone-600 text-sm">【最大30%還元・実質2,000円負担で泊まる名湯：高級温泉旅館＆憧れの老】 
               お得な「あとから割引」の裏ワザから、ご当地グルメ特化宿、愛犬同伴・個室サウナ宿まで、旅のスタイルに合わせた完全ガイドをチェック！
             </p>
           </div>
@@ -525,7 +525,7 @@ export default function Page() {
         <section className="bg-gradient-to-br from-amber-500/20 via-stone-900 to-stone-900 border border-amber-500/30 rounded-3xl p-8 text-center space-y-6 shadow-2xl text-white">
           <span className="text-3xl block">🎫</span>
           <h2 className="text-xl md:text-3xl font-black text-white font-serif">楽天トラベルふるさと納税クーポンで、一生の思い出に残るプレミアムステイへ｜実質2,000円で泊まる名湯：高級温泉旅館＆憧れの老</h2>
-          <p className="text-stone-300 text-xs md:text-base max-w-2xl mx-auto leading-relaxed">【実質2,000円で泊まる名湯：高級温泉旅館＆憧れの老】 
+          <p className="text-stone-300 text-xs md:text-base max-w-2xl mx-auto leading-relaxed">【最大30%還元・実質2,000円負担で泊まる名湯：高級温泉旅館＆憧れの老】 
             返礼品クーポンは寄付手続き完了後、数分で楽天トラベルのアカウントに即時付与されます。今年の寄付上限枠を賢く使って、贅沢な露天風呂付き客室や老舗宿の美食を実質2,000円で手に入れましょう。
           </p>
           <div>

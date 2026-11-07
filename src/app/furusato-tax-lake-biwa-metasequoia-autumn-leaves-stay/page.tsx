@@ -415,7 +415,7 @@ export default function FurusatoLakeBiwaMetasequoiaAutumnLeavesStayPage() {
                 className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-400 hover:shadow-sm transition text-stone-800 text-sm font-bold group"
               >
                 <span className="text-amber-700 group-hover:text-amber-900 mr-1.5">👉</span>
-                【実質2,000円で泊まる名湯】高級温泉旅館＆憧れの老舗宿完全ガイド
+                【最大30%還元・実質2,000円負担で泊まる名湯】高級温泉旅館＆憧れの老舗宿完全ガイド
               </Link>
             （黄金に輝く2.4kmの並木道）</li>
   

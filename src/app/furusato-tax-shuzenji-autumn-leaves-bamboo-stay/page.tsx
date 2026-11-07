@@ -117,7 +117,7 @@ export default function FeatureArticlePage() {
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">伊豆修善寺温泉の竹林の小径紅葉＆桂川の朱塗りの橋！文化財名旅館×ふるさと納税厳選ガイド静岡</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
-            静寂の竹林の小径と桂川の朱塗りの橋を彩る紅葉絵巻、文豪が愛した伊豆最古の湯宿。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
+            静寂の竹林の小径と桂川の朱塗りの橋を彩る紅葉絵巻、文豪が愛した伊豆最古の湯宿。ふるさと納税の宿泊クーポンを活用すれば控除上限内なら実質自己負担2,000円（最大30%クーポン還元）で憧れの上質宿へ滞在できます。
           </p>
         </div>
       </header>

@@ -117,7 +117,7 @@ export default function FeatureArticlePage() {
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">世界遺産・高野山の壇上伽藍紅葉ライトアップ＆奥之院参拝！宿坊精進料理×ふるさと納税厳選ガイド和歌山</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
-            聖地・高野山の蛇腹路を彩る深紅の紅葉トンネルと、宿坊で味わう至高の精進料理体験。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
+            聖地・高野山の蛇腹路を彩る深紅の紅葉トンネルと、宿坊で味わう至高の精進料理体験。ふるさと納税の宿泊クーポンを活用すれば控除上限内なら実質自己負担2,000円（最大30%クーポン還元）で憧れの上質宿へ滞在できます。
           </p>
         </div>
       </header>

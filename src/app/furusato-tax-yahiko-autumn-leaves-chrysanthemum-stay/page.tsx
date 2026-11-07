@@ -117,7 +117,7 @@ export default function FeatureArticlePage() {
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">弥彦公園もみじ谷の朱塗りの橋紅葉＆越後一宮・弥彦温泉！菊まつり散策宿×ふるさと納税厳選ガイド新潟</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
-            朱塗りの観月橋を彩るもみじ谷ライトアップと、越後一宮の門前に湧く美肌の湯。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
+            朱塗りの観月橋を彩るもみじ谷ライトアップと、越後一宮の門前に湧く美肌の湯。ふるさと納税の宿泊クーポンを活用すれば控除上限内なら実質自己負担2,000円（最大30%クーポン還元）で憧れの上質宿へ滞在できます。
           </p>
         </div>
       </header>

@@ -140,7 +140,7 @@ export default function FurusatoAllInclusiveFreeDrinksStayPage() {
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">03</span>
             <h3 className="font-bold text-gray-900 text-lg mb-3 leading-snug">楽天ふるさと納税で最大30％OFF！3年間有効クーポンで記念日や週末旅に賢く活用</h3>
-            <p className="text-sm text-gray-600 leading-relaxed">オールインクルーシブの上質な宿泊プランもふるさと納税なら自己負担実質2,000円。寄付額の最大30％相当が割引となり、夫婦の記念日や大人の女子旅に最適です。</p>
+            <p className="text-sm text-gray-600 leading-relaxed">オールインクルーシブの上質な宿泊プランもふるさと納税なら控除上限内なら自己負担実質2,000円（寄付額の最大30％相当が割引となり、夫婦の記念日や大人の女子旅に最適です。</p>
           </div>
         </div>
       </section>

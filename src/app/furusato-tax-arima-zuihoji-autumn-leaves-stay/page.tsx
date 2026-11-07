@@ -117,7 +117,7 @@ export default function FeatureArticlePage() {
           </div>
           <h1 className="text-2xl md:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight mb-6">有馬温泉・瑞宝寺公園の錦秋もみじ狩り＆太閤の金泉銀泉！極上神戸牛会席宿×ふるさと納税厳選ガイド兵庫</h1>
           <p className="text-sm md:text-lg text-stone-200 max-w-3xl mx-auto leading-relaxed">
-            太閤秀吉が愛した瑞宝寺公園の紅葉絵巻と、大地の恵み濃厚な金泉・極上神戸牛ステイ。ふるさと納税の宿泊クーポンを活用すれば実質2,000円で憧れの上質宿へ滞在できます。
+            太閤秀吉が愛した瑞宝寺公園の紅葉絵巻と、大地の恵み濃厚な金泉・極上神戸牛ステイ。ふるさと納税の宿泊クーポンを活用すれば控除上限内なら実質自己負担2,000円（最大30%クーポン還元）で憧れの上質宿へ滞在できます。
           </p>
         </div>
       </header>

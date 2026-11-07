@@ -140,7 +140,7 @@ export default function FurusatoChichibuNagatoroStayPage() {
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">03</span>
             <h3 className="font-bold text-gray-900 text-lg mb-3 leading-snug">秩父市・長瀞町ふるさと納税で最大30％OFF！3年間有効クーポンで週末や紅葉シーズンに予約</h3>
-            <p className="text-sm text-gray-600 leading-relaxed">週末の気軽なリフレッシュ旅もふるさと納税なら実質負担2,000円。寄付から3年間有効なので、春の芝桜や秋の長瀞紅葉に最適です。</p>
+            <p className="text-sm text-gray-600 leading-relaxed">週末の気軽なリフレッシュ旅もふるさと納税なら控除上限の範囲内で実質自己負担2,000円（最大30%クーポン進呈）。寄付から3年間有効なので、春の芝桜や秋の長瀞紅葉に最適です。</p>
           </div>
         </div>
       </section>

@@ -115,7 +115,7 @@ export default function Page() {
               <span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
                 1
               </span>
-              <span>ポイント①：1泊10万円超のプレミアム宿を「実質2,000円負担」でアップグレード</span>
+              <span>ポイント①：1泊10万円超のプレミアム宿を「控除上限内・実質2,000円自己負担（最大30%クーポン還元）」でアップグレード</span>
             </h3>
             <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-11">
               年収に応じた控除上限額の範囲内であれば、寄付総額から2,000円を除いた全額が税金控除されます。普段はなかなか踏み出せない最高グレードのスイートルームや一棟貸しヴィラが、現実的な選択肢として手の届く距離になります。
@@ -473,7 +473,7 @@ export default function Page() {
                 <span className="text-xs text-stone-400 group-hover:text-amber-700 transition">記事を読む →</span>
               </div>
               <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">
-                【実質2,000円で泊まる名湯】高級温泉旅館＆憧れの老舗宿完全ガイド
+                【最大30%還元・実質2,000円負担で泊まる名湯】高級温泉旅館＆憧れの老舗宿完全ガイド
               </h4>
               <p className="text-stone-600 text-xs md:text-sm leading-relaxed">
                 草津・有馬・伊豆の老舗名湯宿。歴史と格式あるおもてなしで過ごす大人のご褒美旅行特集。

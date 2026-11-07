@@ -140,7 +140,7 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">03</span>
             <h3 className="font-bold text-gray-900 text-lg mb-3 leading-snug">ふるさと納税で宿泊費を最大30％OFF！3年間有効クーポンで記念日や還暦祝に最適</h3>
-            <p className="text-sm text-gray-600 leading-relaxed">「人生で一度は泊まりたい富士山ビュー宿」もふるさと納税なら実質負担2,000円。有効期限3年間で、両親への親孝行や還暦祝い、結婚記念日の旅行に大活躍します。</p>
+            <p className="text-sm text-gray-600 leading-relaxed">「人生で一度は泊まりたい富士山ビュー宿」もふるさと納税なら控除上限の範囲内で実質自己負担2,000円（最大30%クーポン進呈）。有効期限3年間で、両親への親孝行や還暦祝い、結婚記念日の旅行に大活躍します。</p>
           </div>
         </div>
       </section>

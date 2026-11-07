@@ -473,7 +473,7 @@ export default function Page() {
                 <span className="text-xs text-stone-400 group-hover:text-amber-700 transition">記事を読む →</span>
               </div>
               <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">
-                【実質2,000円で泊まる名湯】高級温泉旅館＆憧れの老舗宿完全ガイド
+                【最大30%還元・実質2,000円負担で泊まる名湯】高級温泉旅館＆憧れの老舗宿完全ガイド
               </h4>
               <p className="text-stone-600 text-xs md:text-sm leading-relaxed">
                 草津や有馬など日本を代表する名湯の高級旅館を、ふるさと納税クーポンで実質2,000円で泊まる方法を詳しく解説。

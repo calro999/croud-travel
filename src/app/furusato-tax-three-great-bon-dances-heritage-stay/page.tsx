@@ -94,7 +94,7 @@ export default function Page() {
         <section className="space-y-6">
           <div className="text-center">
             <h2 className="text-2xl sm:text-3xl font-extrabold text-white">ふるさと納税トラベルで巡る3つの至高メリット｜日本三大盆踊り＆伝統文化・城下町宿×ふるさと納税ガイ</h2>
-            <p className="text-sm sm:text-base text-slate-400 mt-2">【日本三大盆踊り＆伝統文化・城下町宿×ふるさと納税ガイ】 実質自己負担2,000円で憧れの名旅館＆特産グルメをアップグレード</p>
+            <p className="text-sm sm:text-base text-slate-400 mt-2">【日本三大盆踊り＆伝統文化・城下町宿×ふるさと納税ガイ】 控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの名旅館＆特産グルメをアップグレード</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
