@@ -101,9 +101,42 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
     const fileContent = fs.readFileSync(postPath, "utf-8");
     const post: Post = JSON.parse(fileContent);
     const bodyText = post.review || post.content || "";
-    const descriptionText = post.description || (bodyText
-      ? bodyText.replace(/<[^>]*>/g, "").slice(0, 120) + "..."
-      : `${post.prefecture}の観光魅力と厳選宿「${post.hotel_name}」を紹介する旅行マガジンルポ記事です。`);
+    const rawTitle = (post.title || "").replace(/\s*[｜|]\s*日本全国・旅宿クラウド.*$/, "").trim();
+    const hotel = (post.hotel_name || "").replace(/＜.*?＞/g, "").replace(/（.*?）/g, "").trim();
+    const pref = (post.prefecture || "").trim();
+    const isSpecial = Boolean(
+      post.is_special_feature ||
+      hotel.includes("ほか") ||
+      hotel.includes("厳選") ||
+      hotel.includes("選") ||
+      rawTitle.includes("選】") ||
+      rawTitle.includes("おすすめ宿") ||
+      rawTitle.includes("ランキング") ||
+      rawTitle.includes("まとめ")
+    );
+
+    // 検索クエリ（指名検索・比較検索・口コミ・宿泊記・アクセス・最安値）に寄り添ったタイトル最適化
+    let pageTitle = rawTitle;
+    if (!isSpecial && hotel) {
+      pageTitle = `【宿泊記・口コミ】${hotel}（${pref}）宿泊予約＆温泉・食事・アクセス徹底ガイド`;
+    } else if (!pageTitle.startsWith("【") && pref) {
+      pageTitle = `【${pref}】${pageTitle}`;
+    }
+
+    // 検索結果スニペットで競合に勝ち、クリック率（CTR）を最大化するリッチディスクリプション
+    let descriptionText = "";
+    if (!isSpecial && hotel) {
+      const priceText = Number(post.price) > 0 ? `参考最安料金¥${Number(post.price).toLocaleString()}〜。` : "";
+      const ratingText = post.rating ? `楽天トラベル総合評価★${post.rating}。` : "";
+      descriptionText = `${hotel}（${pref}）のリアル宿泊記＆口コミ評判を旅ライターが徹底取材！客室設備、温泉・露天風呂、夕朝食プラン、駐車場・駅からのアクセスまで網羅解説。${ratingText}${priceText}楽天トラベル限定の最安値プランやお得な割引クーポン情報も掲載中。`;
+    } else {
+      descriptionText = post.description || (bodyText
+        ? bodyText.replace(/<[^>]*>/g, "").slice(0, 130) + "..."
+        : `${pref}の観光魅力と厳選宿「${hotel || rawTitle}」を紹介する旅行マガジンルポ記事です。`);
+      if (!descriptionText.includes("楽天トラベル")) {
+        descriptionText += " 楽天トラベル公式プラン比較・最新空室確認・限定割引クーポン情報もリアルタイム掲載。";
+      }
+    }
 
     const keywordExtras = [
       ...(post.nearby_tourist_spots || []),
@@ -111,12 +144,6 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
       post.hot_spring_info ? "温泉" : "",
       post.family_friendly ? "子連れ" : "",
     ].filter(Boolean);
-
-    // タイトル決定: layout.tsx の template (%s | 日本全国・旅宿クラウド...) と二重にならないよう純粋な記事タイトルを返す
-    let pageTitle = (post.title || "").replace(/\s*[｜|]\s*日本全国・旅宿クラウド.*$/, "").trim();
-    if (!pageTitle || pageTitle.length < 5) {
-      pageTitle = `${post.hotel_name}（${post.prefecture}）おすすめ観光＆宿泊ガイド`;
-    }
 
     const ogImageUrl = post.image
       ? (post.image.startsWith("http") ? post.image : `${baseUrl}${post.image.startsWith("/") ? "" : "/"}${post.image}`)
@@ -127,8 +154,9 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
       description: descriptionText,
       keywords: [
         post.hotel_name, post.prefecture, post.area,
-        "観光名所", "ご当地グルメ", "楽天トラベル", "宿泊予約",
-        "温泉", "徒歩", "駐車場", "子連れ", "周辺ホテル",
+        "口コミ", "宿泊記", "評判", "おすすめホテル", "宿泊予約",
+        "観光名所", "ご当地グルメ", "楽天トラベル", "割引クーポン",
+        "温泉", "露天風呂", "徒歩", "駐車場", "子連れ", "最安値",
         ...keywordExtras,
         ...(post.categories || [])
       ].filter(Boolean).join(","),
