@@ -3,6 +3,8 @@ import fs from "fs";
 import path from "path";
 import { Metadata } from "next";
 import Link from "next/link";
+import SpecialCouponBanner from "@/app/components/SpecialCouponBanner";
+import FloatingMobileCTA from "@/app/components/FloatingMobileCTA";
 import FeaturesGrid, { FeaturePost } from "./FeaturesGrid";
 
 export const metadata: Metadata = {
@@ -73,6 +75,9 @@ export default async function FeaturesPage() {
         </p>
       </section>
 
+      {/* 🎁 楽天トラベル公式 お得キャンペーンバナー */}
+      <SpecialCouponBanner />
+
       {/* 🍁 秋の行楽・美食温泉宿35選 特設まとめバナー */}
       <section className="bg-gradient-to-r from-amber-600 via-orange-600 to-amber-700 rounded-3xl p-6 md:p-8 text-white shadow-lg flex flex-col items-center justify-between gap-6">
         <div className="space-y-2">
@@ -119,6 +124,12 @@ export default async function FeaturesPage() {
 
       {/* 特集記事グリッド（クライアントコンポーネント） */}
       <FeaturesGrid initialPosts={posts} />
+      {/* 特集ハブ用モバイル追従CTAバー */}
+      <FloatingMobileCTA
+        affiliateUrl="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcamp%2F50luxday%2Ftop%2F"
+        hotelName="全国の厳選宿・お得プラン一覧"
+        isSpecialFeature={true}
+      />
     </div>
   );
 }

@@ -1,5 +1,6 @@
 import { Metadata } from "next";
 import Link from "next/link";
+import FloatingMobileCTA from "@/app/components/FloatingMobileCTA";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/campaigns/" },
@@ -205,7 +206,7 @@ export default function CampaignsPage() {
                 <a
                   href={campaign.affiliateUrl}
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="sponsored noopener noreferrer"
                   className="w-full sm:w-auto px-8 py-3.5 text-xs md:text-sm font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow-md text-center transition"
                 >
                   公式エントリー＆クーポン獲得へ ✈️
@@ -280,6 +281,12 @@ export default function CampaignsPage() {
           <span>→</span>
         </Link>
       </div>
+      {/* キャンペーンページ用モバイル固定CTAバー */}
+      <FloatingMobileCTA
+        affiliateUrl="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fcamp%2F50luxday%2Ftop%2F"
+        hotelName="楽天トラベル 毎月5と0のつく日セール"
+        isSpecialFeature={true}
+      />
     </div>
   );
 }
