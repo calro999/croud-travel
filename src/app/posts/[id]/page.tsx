@@ -115,27 +115,24 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
       rawTitle.includes("まとめ")
     );
 
-    // 検索クエリ（指名検索・比較検索・口コミ・宿泊記・アクセス・最安値）に寄り添ったタイトル最適化
+    // 記事本来の個性的で上質なタイトルを100%活かし、機械的な一括テンプレート化を完全排除
     let pageTitle = rawTitle;
-    if (!isSpecial && hotel) {
-      pageTitle = `【宿泊記・口コミ】${hotel}（${pref}）宿泊予約＆温泉・食事・アクセス徹底ガイド`;
-    } else if (!pageTitle.startsWith("【") && pref) {
-      pageTitle = `【${pref}】${pageTitle}`;
+    if (!pageTitle.startsWith("【")) {
+      pageTitle = `【宿泊記】${rawTitle}`;
     }
 
-    // 検索結果スニペットで競合に勝ち、クリック率（CTR）を最大化するリッチディスクリプション
-    let descriptionText = "";
-    if (!isSpecial && hotel) {
-      const priceText = Number(post.price) > 0 ? `参考最安料金¥${Number(post.price).toLocaleString()}〜。` : "";
-      const ratingText = post.rating ? `楽天トラベル総合評価★${post.rating}。` : "";
-      descriptionText = `${hotel}（${pref}）のリアル宿泊記＆口コミ評判を旅ライターが徹底取材！客室設備、温泉・露天風呂、夕朝食プラン、駐車場・駅からのアクセスまで網羅解説。${ratingText}${priceText}楽天トラベル限定の最安値プランやお得な割引クーポン情報も掲載中。`;
-    } else {
-      descriptionText = post.description || (bodyText
-        ? bodyText.replace(/<[^>]*>/g, "").slice(0, 130) + "..."
-        : `${pref}の観光魅力と厳選宿「${hotel || rawTitle}」を紹介する旅行マガジンルポ記事です。`);
-      if (!descriptionText.includes("楽天トラベル")) {
-        descriptionText += " 楽天トラベル公式プラン比較・最新空室確認・限定割引クーポン情報もリアルタイム掲載。";
+    // 記事ごとに完全に独立・オリジナルなディスクリプション（機械的テンプレートの使い回しを完全排除）
+    let descriptionText = post.description || "";
+    if (!descriptionText) {
+      if (bodyText) {
+        descriptionText = bodyText.replace(/<[^>]*>/g, "").replace(/\s+/g, " ").slice(0, 130) + "...";
+      } else {
+        descriptionText = `${pref}の名宿「${hotel || rawTitle}」の客室・温泉・食事・アクセスを徹底解説した宿泊ガイド。`;
       }
+    }
+    // 読者が知りたいお得情報（楽天トラベル連携）を自然な1文のみ末尾に添える
+    if (!descriptionText.includes("楽天トラベル") && descriptionText.length < 130) {
+      descriptionText += " 楽天トラベルの最新プラン・最安値もご確認いただけます。";
     }
 
     const keywordExtras = [
