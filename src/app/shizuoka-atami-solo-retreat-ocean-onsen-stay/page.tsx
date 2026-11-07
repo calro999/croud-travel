@@ -385,7 +385,7 @@ export default function ArticlePage() {
             </a>
             <a href="/winter-chiba-minamiboso-kyonan-suisen-road-awa-shrine-hatsumode-iseebi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月南房総・鋸南：水仙ロード＆安房神社初詣と伊勢海老を堪能する名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月千葉】常春の南房総「江月水仙ロード」1000万本の水仙の香りと房総フラワーライン！日本三大金運神社「安房神社」新春初詣・野島埼灯台の初日の出＆房総伊勢海老・金目鯛厳選名宿5選</span>
             </a>
             <a href="/chiba-kamogawa-katsuura-boso-seafood-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
@@ -393,7 +393,7 @@ export default function ArticlePage() {
             </a>
             <a href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月千葉：本州一早い初日の出「犬吠埼」！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月千葉】本州一早い初日の出「犬吠埼」と冬の極上「銚子つりきんめ」・九十九里焼きはまぐり鍋＆太平洋パノラマ犬吠埼温泉宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

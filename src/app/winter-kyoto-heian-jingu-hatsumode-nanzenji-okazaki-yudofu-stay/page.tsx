@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月京都：初詣と神苑雪景色！名宿5選',
+  title: '【11・12・1月京都】平安神宮＆南禅寺・岡崎！初詣と神苑雪景色・水路閣の冬情趣と名物湯豆腐・京懐石の名宿5選',
   description: '11月中旬から1月にかけて、京都・岡崎から南禅寺・蹴上にかけての東山山麓は、観光客で賑わう秋の紅葉から一転。',
   keywords: '平安神宮 初詣, 南禅寺 水路閣 雪景色, 南禅寺 湯豆腐, ウェスティン都ホテル京都 温泉, ふふ 京都, 京都トラベラーズイン, 岡崎 宿泊, 11月 12月 1月 京都 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-heian-jingu-hatsumode-nanzenji-okazaki-yudofu-stay/"
   },
   openGraph: {
-    title: '11・12・1月京都：初詣と神苑雪景色！名宿5選',
+    title: '【11・12・1月京都】平安神宮＆南禅寺・岡崎！初詣と神苑雪景色・水路閣の冬情趣と名物湯豆腐・京懐石の名宿5選',
     description: '11月中旬から1月にかけて、京都・岡崎から南禅寺・蹴上にかけての東山山麓は、観光客で賑わう秋の紅葉から一転。',
     url: 'https://croud-travel.pages.dev/winter-kyoto-heian-jingu-hatsumode-nanzenji-okazaki-yudofu-stay/',
     siteName: '地域の宿探訪',

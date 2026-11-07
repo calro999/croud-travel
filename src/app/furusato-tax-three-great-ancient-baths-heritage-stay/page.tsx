@@ -478,7 +478,7 @@ export default function FurusatoRound66ArticlePage() {
             </a>
             <a href="/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月福岡：万葉の古湯二日市温泉と博多和牛の！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月福岡】学問の神様・太宰府天満宮の合格祈願＆新春200万人初詣と名物「梅ヶ枝餅」・万葉の古湯二日市温泉と博多和牛の名宿5選</span>
             </a>
             <a href="/autumn-budget-hokkaido-hakodate-station-goryokaku-asaichi-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
@@ -486,7 +486,7 @@ export default function FurusatoRound66ArticlePage() {
             </a>
             <a href="/winter-aichi-atsumi-irako-nanohana-torafugu-asari-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月愛知：冬旬の天然とらふぐ！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月愛知】渥美半島＆伊良湖岬！1月満開の菜の花まつりと伊良湖岬初日の出・冬旬の天然とらふぐ＆焼き大アサリ・伊良湖温泉名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

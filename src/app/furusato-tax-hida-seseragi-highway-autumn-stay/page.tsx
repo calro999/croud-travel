@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '飛騨せせらぎ街道の絶景紅葉ドライブ＆奥飛騨新平湯温泉・極上飛騨牛の炭火焼き会席',
+  title: '飛騨せせらぎ街道の絶景紅葉ドライブ＆奥飛騨新平湯温泉・極上飛騨牛の炭火焼き会席｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月中旬〜11月上旬に約64kmにわたり紅葉のトンネルが続く飛騨せせらぎ街道。北アルプス山麓の奥飛騨温泉郷・新平湯温泉の隠れ宿で、源泉かけ流し露天風呂とA5等級飛騨牛をふるさと納税でお得に満喫。',
   keywords: ["奥飛騨新平湯温泉", "極上飛騨牛の炭火焼き会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-hida-seseragi-highway-autumn-stay/",
   },
   openGraph: {
-    title: '飛騨せせらぎ街道の絶景紅葉ドライブ＆奥飛騨新平湯温泉・極上飛騨牛の炭火焼き会席',
+    title: '飛騨せせらぎ街道の絶景紅葉ドライブ＆奥飛騨新平湯温泉・極上飛騨牛の炭火焼き会席｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月中旬〜11月上旬に約64kmにわたり紅葉のトンネルが続く飛騨せせらぎ街道。北アルプス山麓の奥飛騨温泉郷・新平湯温泉の隠れ宿で、源泉かけ流し露天風呂とA5等級飛騨牛をふるさと納税でお得に満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-hida-seseragi-highway-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "飛騨せせらぎ街道の絶景紅葉ドライブ＆奥飛騨新平湯温泉・極上飛騨牛の炭火焼き会席",
+    "headline": "飛騨せせらぎ街道の絶景紅葉ドライブ＆奥飛騨新平湯温泉・極上飛騨牛の炭火焼き会席｜ふるさと納税で泊まれる名宿ガイド",
     "description": "10月中旬〜11月上旬に約64kmにわたり紅葉のトンネルが続く飛騨せせらぎ街道。北アルプス山麓の奥飛騨温泉郷・新平湯温泉の隠れ宿で、源泉かけ流し露天風呂とA5等級飛騨牛をふるさと納税でお得に満喫。",
     "author": {
       "@type": "Organization",
@@ -101,7 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">飛騨せせらぎ街道の絶景紅葉ドライブ＆奥飛騨新平湯温泉・極上飛騨牛の炭火焼き会席</h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">飛騨せせらぎ街道の絶景紅葉ドライブ＆奥飛騨新平湯温泉・極上飛騨牛の炭火焼き会席｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             標高差が織りなす約64kmの錦秋ドライブルート。奥飛騨の雄大な山並みと極上飛騨牛に癒やされる秋。
           </p>
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"飛騨せせらぎ街道の絶景紅葉ドライブ＆奥飛騨新平湯温泉・極上飛騨牛の炭火焼き会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-hida-seseragi-highway-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"飛騨せせらぎ街道の絶景紅葉ドライブ＆奥飛騨新平湯温泉・極上飛騨牛の炭火焼き会席｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-hida-seseragi-highway-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
@@ -489,7 +489,7 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-budget-aomori-hirosaki-castle-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋の弘前×格安：弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">秋の弘前×格安：弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」</span>
             </a>
             <a href="/furusato-tax-oirase-towada-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>

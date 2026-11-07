@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月香川：屋島寺新春初詣！名宿5選',
+  title: '【11・12・1月香川】特別名勝「栗林公園」の冬景色＆屋島寺新春初詣！冬限定の奇跡魚「オリーブハマチ」と讃岐うどん・オリーブ牛の名宿5選',
   description: '冬の香川・高松は、一歩一景の美を誇る国の特別名勝「栗林公園」が静寂と凛とした風情に包まれる特別な季節。',
   keywords: '高松 ホテル, 栗林公園 冬, オリーブハマチ, オリーブ牛 すき焼き, 屋島寺 初詣, JRホテルクレメント高松, HOTEL花樹海, しっぽくうどん, 11月 12月 1月 香川 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kagawa-takamatsu-ritsurin-yashima-olive-hamachi-udon-stay/"
   },
   openGraph: {
-    title: '11・12・1月香川：屋島寺新春初詣！名宿5選',
+    title: '【11・12・1月香川】特別名勝「栗林公園」の冬景色＆屋島寺新春初詣！冬限定の奇跡魚「オリーブハマチ」と讃岐うどん・オリーブ牛の名宿5選',
     description: '冬の香川・高松は、一歩一景の美を誇る国の特別名勝「栗林公園」が静寂と凛とした風情に包まれる特別な季節。',
     url: 'https://croud-travel.pages.dev/winter-kagawa-takamatsu-ritsurin-yashima-olive-hamachi-udon-stay/',
     type: 'article',

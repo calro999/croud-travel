@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月大阪：住吉大社新春初詣！名宿5選',
+  title: '【11・12・1月大阪】冬の大阪・住吉大社新春初詣＆御堂筋イルミネーション！本場てっちりと煌めく夜景・天然温泉に寛ぐ名宿5選',
   description: '冬の大阪は、全長4kmに及ぶ世界最大級の御堂筋イルミネーションや中之島「OSAKA光のルネサンス」が街を眩く彩り。',
   keywords: '大阪 ホテル, 御堂筋 イルミネーション, 住吉大社 初詣, スイスホテル南海大阪, コンラッド大阪, 御宿野乃 大阪淀屋橋, 大阪 てっちり, 11月 12月 1月 大阪 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay/"
   },
   openGraph: {
-    title: '11・12・1月大阪：住吉大社新春初詣！名宿5選',
+    title: '【11・12・1月大阪】冬の大阪・住吉大社新春初詣＆御堂筋イルミネーション！本場てっちりと煌めく夜景・天然温泉に寛ぐ名宿5選',
     description: '冬の大阪は、全長4kmに及ぶ世界最大級の御堂筋イルミネーションや中之島「OSAKA光のルネサンス」が街を眩く彩り。',
     url: 'https://croud-travel.pages.dev/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay/',
     type: 'article'

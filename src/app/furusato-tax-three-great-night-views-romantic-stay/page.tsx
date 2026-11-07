@@ -527,7 +527,7 @@ export default function Page() {
             </a>
             <a href="/winter-hokkaido-asahikawa-asahiyama-zoo-penguin-walk-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">旭川＆旭山動物園：冬のペンギンの散歩と美瑛青い池ライトアップ！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【旭川＆旭山動物園】冬のペンギンの散歩と美瑛青い池ライトアップ！旭川ラーメン＆天然温泉サウナを満喫する名宿5選</span>
             </a>
             <a href="/winter-hokkaido-niseko-luxury-resort-parkhyatt-setsuniseko-yotei-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
@@ -535,7 +535,7 @@ export default function Page() {
             </a>
             <a href="/winter-hokkaido-shikotsuko-hyoto-blue-onsen-himemasu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月北海道：千歳支笏湖ブルーの冬絶景！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月北海道】千歳支笏湖ブルーの冬絶景・支笏湖氷濤まつりと美肌の湯・冬の名物ヒメマス（チップ）料理＆白老牛を味わうレイクサイド名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席',
+  title: '京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席｜ふるさと納税で泊まれる名宿ガイド',
   description: '11月上旬〜11月中旬に京都で最も早く鮮やかに色づく高雄・三尾エリア。清滝川のせせらぎを望む隠れ宿で、赤く染まるもみじのライトアップと極上京会席・丹波牛をふるさと納税でお得に堪能。',
   keywords: ["京都", "高雄の三尾紅葉（神護寺", "高山寺）", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kyoto-takao-autumn-leaves-stay/",
   },
   openGraph: {
-    title: '京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席',
+    title: '京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席｜ふるさと納税で泊まれる名宿ガイド',
     description: '11月上旬〜11月中旬に京都で最も早く鮮やかに色づく高雄・三尾エリア。清滝川のせせらぎを望む隠れ宿で、赤く染まるもみじのライトアップと極上京会席・丹波牛をふるさと納税でお得に堪能。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kyoto-takao-autumn-leaves-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席",
+    "headline": "京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席｜ふるさと納税で泊まれる名宿ガイド",
     "description": "11月上旬〜11月中旬に京都で最も早く鮮やかに色づく高雄・三尾エリア。清滝川のせせらぎを望む隠れ宿で、赤く染まるもみじのライトアップと極上京会席・丹波牛をふるさと納税でお得に堪能。",
     "author": {
       "@type": "Organization",
@@ -101,7 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席</h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             京都一早い紅葉が魅せる神護寺の深紅の石段。清滝川のほとりに佇む隠れ宿で、秋の京料理と静寂に浸る贅沢。
           </p>
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-kyoto-takao-autumn-leaves-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠れ家宿で味わう秋の川床名残会席｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-kyoto-takao-autumn-leaves-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

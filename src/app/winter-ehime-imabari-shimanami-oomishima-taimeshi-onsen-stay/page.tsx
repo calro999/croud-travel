@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月今治：大山祇神社新春初詣！名宿5選',
+  title: '【11・12・1月今治】冬の来島海峡絶景＆日本総鎮守・大山祇神社新春初詣！来島天然真鯛と名湯に寛ぐ厳選宿5選',
   description: '冬の瀬戸内海は澄み渡る青空と多島美が最も美しく輝く季節。世界初の三連吊橋「来島海峡大橋」が架かる愛媛県今治市と、日本総鎮守・大山祇神社が鎮座する大三島。',
   keywords: '今治 ホテル, しまなみ海道 ホテル, 大山祇神社 初詣, 来島海峡大橋 絶景, 鈍川温泉, 今治国際ホテル, GLAMPROOK しまなみ, 来島天然真鯛, 11月 12月 1月 愛媛 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oomishima-taimeshi-onsen-stay/"
   },
   openGraph: {
-    title: '11・12・1月今治：大山祇神社新春初詣！名宿5選',
+    title: '【11・12・1月今治】冬の来島海峡絶景＆日本総鎮守・大山祇神社新春初詣！来島天然真鯛と名湯に寛ぐ厳選宿5選',
     description: '冬の瀬戸内海は澄み渡る青空と多島美が最も美しく輝く季節。世界初の三連吊橋「来島海峡大橋」が架かる愛媛県今治市と、日本総鎮守・大山祇神社が鎮座する大三島。',
     url: 'https://croud-travel.pages.dev/winter-ehime-imabari-shimanami-oomishima-taimeshi-onsen-stay/',
     type: 'article'

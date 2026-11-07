@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月長野：雪見露天！名宿5選',
+  title: '【11・12・1月長野】安曇野＆大町温泉郷！白銀の北アルプス後立山連峰と穂高神社初詣・光のイルミネーション＆雪見露天名宿5選',
   description: '冠雪した北アルプス後立山連峰（爺ヶ岳・鹿島槍ヶ岳・常念岳）が紺碧の冬空に映える11〜1月の安曇野・大町エリア。',
   keywords: '安曇野 イルミネーション, 大町温泉郷 宿, 穂高神社 初詣, アルプスあづみの公園, 信州サーモン, 信州プレミアム牛, 大町温泉郷 露天風呂, 白馬 パウダースノー, 11月 12月 1月 長野 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay/"
   },
   openGraph: {
-    title: '11・12・1月長野：雪見露天！名宿5選',
+    title: '【11・12・1月長野】安曇野＆大町温泉郷！白銀の北アルプス後立山連峰と穂高神社初詣・光のイルミネーション＆雪見露天名宿5選',
     description: '冠雪した北アルプス後立山連峰（爺ヶ岳・鹿島槍ヶ岳・常念岳）が紺碧の冬空に映える11〜1月の安曇野・大町エリア。',
     url: 'https://croud-travel.pages.dev/winter-nagano-azumino-omachi-hotaka-snow-shinshugyu-stay/',
     siteName: '地域の宿探訪',

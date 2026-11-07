@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月北海道：網走の冬絶景とオホーツク海鮮！名宿5選',
+  title: '【11・12・1月北海道】知床ウトロ＆網走の冬絶景とオホーツク海鮮・極上知床牛＆冬タラバ・毛ガニ・高級魚めんめ湯煮を堪能する名宿5選',
   description: '11月から1月、世界自然遺産・知床ウトロとオホーツクの要衝・網走は、白銀に染まる知床連峰と凛と澄み渡るオホーツクブルーの海原が織りなす荘厳な。',
   keywords: '知床ウトロ 温泉宿, 網走 温泉 ホテル, 北こぶし知床, KIKI知床, 知床第一ホテル, 北天の丘あばしり湖鶴雅リゾート, ホテル網走湖荘, 11月 12月 1月 北海道旅行, めんめ 湯煮 知床牛 タラバガニ',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay/"
   },
   openGraph: {
-    title: '11・12・1月北海道：網走の冬絶景とオホーツク海鮮！名宿5選',
+    title: '【11・12・1月北海道】知床ウトロ＆網走の冬絶景とオホーツク海鮮・極上知床牛＆冬タラバ・毛ガニ・高級魚めんめ湯煮を堪能する名宿5選',
     description: '11月から1月、世界自然遺産・知床ウトロとオホーツクの要衝・網走は、白銀に染まる知床連峰と凛と澄み渡るオホーツクブルーの海原が織りなす荘厳な。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-shiretoko-abashiri-onsen-crab-kinki-stay/',
     siteName: 'クラドトラベル',

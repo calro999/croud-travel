@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月大分：宇佐神宮新春開運初詣！名宿5選',
+  title: '【11・12・1月大分】全国八幡宮総本宮・宇佐神宮新春開運初詣＆国東六郷満山！豊前海天然車海老と極上豊後牛を味わう名宿5選',
   description: '冬の大分・宇佐＆国東半島は、全国4万社を超える八幡宮の総本宮「宇佐神宮」での新春初詣と。',
   keywords: '宇佐神宮 初詣, 国東半島 ホテル, 富貴寺 旅庵蕗薹, 豊後牛 すき焼き, 豊前海 車海老, 宇佐からあげ, 昭和の町, 11月 12月 1月 大分 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay/"
   },
   openGraph: {
-    title: '11・12・1月大分：宇佐神宮新春開運初詣！名宿5選',
+    title: '【11・12・1月大分】全国八幡宮総本宮・宇佐神宮新春開運初詣＆国東六郷満山！豊前海天然車海老と極上豊後牛を味わう名宿5選',
     description: '冬の大分・宇佐＆国東半島は、全国4万社を超える八幡宮の総本宮「宇佐神宮」での新春初詣と。',
     url: 'https://croud-travel.pages.dev/winter-oita-usa-jingu-kunisaki-hatsumode-bungogyu-seafood-stay/',
     type: 'article',

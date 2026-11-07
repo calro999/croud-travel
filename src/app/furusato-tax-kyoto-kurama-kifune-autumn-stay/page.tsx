@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席',
+  title: '京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月・11月の京都・洛北（貴船・鞍馬）特集！叡山電車「もみじのトンネル」ライトアップ、貴船神社の朱塗り灯籠が並ぶ石段紅葉、鞍馬寺の霊気漂う山岳参道、名物ぼたん鍋（猪鍋）や秋の京会席をふるさと納税トラベルクーポンでお得に堪能する奥京都の贅沢秋旅。',
   keywords: ["京都", "洛北", "貴船神社", "ぼたん鍋会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kyoto-kurama-kifune-autumn-stay/",
   },
   openGraph: {
-    title: '京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席',
+    title: '京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月・11月の京都・洛北（貴船・鞍馬）特集！叡山電車「もみじのトンネル」ライトアップ、貴船神社の朱塗り灯籠が並ぶ石段紅葉、鞍馬寺の霊気漂う山岳参道、名物ぼたん鍋（猪鍋）や秋の京会席をふるさと納税トラベルクーポンでお得に堪能する奥京都の贅沢秋旅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kyoto-kurama-kifune-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席",
+    "headline": "京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席｜ふるさと納税で泊まれる名宿ガイド",
     "description": "10月・11月の京都・洛北（貴船・鞍馬）特集！叡山電車「もみじのトンネル」ライトアップ、貴船神社の朱塗り灯籠が並ぶ石段紅葉、鞍馬寺の霊気漂う山岳参道、名物ぼたん鍋（猪鍋）や秋の京会席をふるさと納税トラベルクーポンでお得に堪能する奥京都の贅沢秋旅。",
     "author": {
       "@type": "Organization",
@@ -110,7 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席</h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の京都・洛北（貴船・鞍馬）特集！叡山電車「もみじのトンネル」ライトアップ、貴船神社の朱塗り灯籠が並ぶ石段紅葉、鞍馬寺の霊気漂う山岳参道、名物ぼたん鍋（猪鍋）や秋の京会席をふるさと納税トラベルクーポンでお得に堪能する奥京都の贅沢秋旅。
           </p>
@@ -126,7 +126,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-12 space-y-12 leading-relaxed">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-kyoto-kurama-kifune-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-kyoto-kurama-kifune-autumn-stay/"}]}) }}
       />
         {/* イントロダクション */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-4">
@@ -465,7 +465,7 @@ export default function Page() {
             </a>
             <a href="/winter-kanagawa-kamakura-tsurugaoka-hachimangu-hatsumode-enoshima-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">鎌倉・鶴岡八幡宮初詣：冬牡丹咲く古都の祈りと江の島！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【鎌倉・鶴岡八幡宮初詣＆湘南の宝石】冬牡丹咲く古都の祈りと江の島イルミネーション！小町通り冬グルメ＆相模湾絶景宿5選</span>
             </a>
             <a href="/furusato-tax-firefly-viewing-hotaru-night-stream-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
@@ -511,10 +511,10 @@ export default function Page() {
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+              📊 京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
             </h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              楽天トラベル公式APIより取得した「京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -565,7 +565,7 @@ export default function Page() {
 
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席」各宿の強みと基本情報
+              🏨 旅の目的に合わせて選ぶ「京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席｜ふるさと納税で泊まれる名宿ガイド」各宿の強みと基本情報
             </h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要  ※急傾斜がございます。極度に車高の低いお車はご遠慮ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💡 <strong>料理旅館　ひろ文の滞在ポイント：</strong>「京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
+                    💡 <strong>料理旅館　ひろ文の滞在ポイント：</strong>「京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席｜ふるさと納税で泊まれる名宿ガイドエリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し。提携駐車場をご紹介しますので、正面玄関に停車いただきフロントにお声がけください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💡 <strong>加茂川館の滞在ポイント：</strong>「京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
+                    💡 <strong>加茂川館の滞在ポイント：</strong>「京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席｜ふるさと納税で泊まれる名宿ガイドエリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
                   </blockquote>
                 </div>
               </div>
@@ -639,7 +639,7 @@ export default function Page() {
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
               🗺️ 「京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル（叡山電車もみじ狩りと名物川床・ぼたん鍋会席）」とあわせて巡りたい神奈川県の代表観光スポット案内
             </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
+            <p className="text-xs text-stone-600 leading-relaxed">「京都・洛北 貴船神社＆鞍馬寺の紅葉トンネル！叡山電車もみじ狩りと名物川床・ぼたん鍋会席｜ふるさと納税で泊まれる名宿ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               

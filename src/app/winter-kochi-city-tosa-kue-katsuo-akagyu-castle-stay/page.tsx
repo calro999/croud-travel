@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月高知：冬の幻の高級魚「天然クエ鍋」！名宿5選',
+  title: '【11・12・1月高知】冬の幻の高級魚「天然クエ鍋」と脂の乗る戻り鰹・土佐あかうし＆高知城冬ライトアップ・桂浜初日の出・天然温泉宿5選',
   description: '11月から1月、南国土佐・高知は、荒波の太平洋が育む幻の高級魚「天然クエ（九絵）」の濃厚な旨みと、脂の乗り切った戻り鰹の藁焼き塩タタキ。',
   keywords: '高知 クエ鍋, 高知 鰹タタキ, 高知城 冬 ライトアップ, 城西館, 高知 三翠園, 土佐御苑, ドーミーイン高知, 土佐あかうし, 11月 12月 1月 高知旅行, 桂浜 初日の出',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay/"
   },
   openGraph: {
-    title: '11・12・1月高知：冬の幻の高級魚「天然クエ鍋」！名宿5選',
+    title: '【11・12・1月高知】冬の幻の高級魚「天然クエ鍋」と脂の乗る戻り鰹・土佐あかうし＆高知城冬ライトアップ・桂浜初日の出・天然温泉宿5選',
     description: '11月から1月、南国土佐・高知は、荒波の太平洋が育む幻の高級魚「天然クエ（九絵）」の濃厚な旨みと、脂の乗り切った戻り鰹の藁焼き塩タタキ。',
     url: 'https://croud-travel.pages.dev/winter-kochi-city-tosa-kue-katsuo-akagyu-castle-stay/',
     siteName: 'クラドトラベル',

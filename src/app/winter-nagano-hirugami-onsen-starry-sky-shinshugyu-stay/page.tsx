@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月長野：日本一の星空ナイトツアーとp！名宿5選',
+  title: '【11・12・1月長野】日本一の星空ナイトツアーとpH9.7強アルカリ美肌の湯・極上南信州牛＆信州サーモンを味わう昼神温泉名宿5選',
   description: '11月から1月、南信州の澄んだ大気と日本アルプスの山々に抱かれた長野県阿智村「昼神温泉」は、一年で最も夜空の輝きが増す奇跡の天体観測シーズンを迎えます。',
   keywords: '昼神温泉 宿泊, 阿智村 星空 ホテル, 昼神温泉 美肌の湯, 南信州牛 宿, 天空の楽園 ナイトツアー, 桂月 昼神, 石苔亭いしだ, 11月 12月 1月 長野旅行, 信州サーモン',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay/"
   },
   openGraph: {
-    title: '11・12・1月長野：日本一の星空ナイトツアーとp！名宿5選',
+    title: '【11・12・1月長野】日本一の星空ナイトツアーとpH9.7強アルカリ美肌の湯・極上南信州牛＆信州サーモンを味わう昼神温泉名宿5選',
     description: '11月から1月、南信州の澄んだ大気と日本アルプスの山々に抱かれた長野県阿智村「昼神温泉」は、一年で最も夜空の輝きが増す奇跡の天体観測シーズンを迎えます。',
     url: 'https://croud-travel.pages.dev/winter-nagano-hirugami-onsen-starry-sky-shinshugyu-stay/',
     siteName: 'クラドトラベル',

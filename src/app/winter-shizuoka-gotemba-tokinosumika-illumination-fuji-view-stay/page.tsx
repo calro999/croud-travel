@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月静岡：時之栖イルミ！名宿5選',
+  title: '【11・12・1月静岡】御殿場＆裾野！時之栖イルミ＆アウトレットと冬の富士山展望露天風呂名宿5選',
   description: '11月から1月にかけて、富士山麓の御殿場・裾野エリアは日本屈指の光と冬富士の絶景リゾートへと輝きを増します。',
   keywords: '御殿場 ホテル, 時之栖 イルミネーション, 御殿場プレミアムアウトレット, HOTEL CLAD, レンブラントプレミアム 富士御殿場, ドーミーイン 富士山御殿場, 富士山 温泉 露天風呂, 11月 12月 1月 静岡 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-view-stay/"
   },
   openGraph: {
-    title: '11・12・1月静岡：時之栖イルミ！名宿5選',
+    title: '【11・12・1月静岡】御殿場＆裾野！時之栖イルミ＆アウトレットと冬の富士山展望露天風呂名宿5選',
     description: '11月から1月にかけて、富士山麓の御殿場・裾野エリアは日本屈指の光と冬富士の絶景リゾートへと輝きを増します。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-gotemba-tokinosumika-illumination-fuji-view-stay/',
     siteName: '地域の宿探訪',

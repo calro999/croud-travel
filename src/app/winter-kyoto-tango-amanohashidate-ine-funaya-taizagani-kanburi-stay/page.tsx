@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月京都：伊根寒ブリ！名宿5選',
+  title: '【11・12・1月京都】「天橋立」幻雪の飛龍観と伊根の舟屋雪景色！元伊勢籠神社初詣＆幻の「間人ガニ」・伊根寒ブリ名宿5選',
   description: '「海の京都」丹後地方が幻想的な雪化粧に包まれる11〜1月の冬紀行。日本三景・天橋立が白銀をまとう奇跡の絶景「幻雪の飛龍観」。',
   keywords: '天橋立 雪景色, 飛龍観 冬, 伊根の舟屋 冬, 間人ガニ 丹後, 伊根 寒ブリしゃぶ, 元伊勢籠神社 初詣, 天橋立ホテル, 文珠荘, 玄妙庵',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay/"
   },
   openGraph: {
-    title: '11・12・1月京都：伊根寒ブリ！名宿5選',
+    title: '【11・12・1月京都】「天橋立」幻雪の飛龍観と伊根の舟屋雪景色！元伊勢籠神社初詣＆幻の「間人ガニ」・伊根寒ブリ名宿5選',
     description: '「海の京都」丹後地方が幻想的な雪化粧に包まれる11〜1月の冬紀行。日本三景・天橋立が白銀をまとう奇跡の絶景「幻雪の飛龍観」。',
     url: 'https://croud-travel.pages.dev/winter-kyoto-tango-amanohashidate-ine-funaya-taizagani-kanburi-stay/',
     type: 'article',

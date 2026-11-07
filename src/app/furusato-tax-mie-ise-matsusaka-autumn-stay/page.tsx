@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き',
+  title: '三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月・11月の三重・松阪＆伊勢特集！蒲生氏郷公が築いた松阪城跡の壮大な石垣を彩る秋の紅葉、御城番屋敷の歴史ロマン、世界最高峰の肉の芸術「松阪牛」の本場老舗すき焼き・ステーキ会席、伊勢神宮秋季参拝と松阪温泉をふるさと納税トラベルクーポンでお得に楽しむ美食旅。',
   keywords: ["三重", "老舗すき焼き", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-mie-ise-matsusaka-autumn-stay/",
   },
   openGraph: {
-    title: '三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き',
+    title: '三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月・11月の三重・松阪＆伊勢特集！蒲生氏郷公が築いた松阪城跡の壮大な石垣を彩る秋の紅葉、御城番屋敷の歴史ロマン、世界最高峰の肉の芸術「松阪牛」の本場老舗すき焼き・ステーキ会席、伊勢神宮秋季参拝と松阪温泉をふるさと納税トラベルクーポンでお得に楽しむ美食旅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-mie-ise-matsusaka-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き",
+    "headline": "三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き｜ふるさと納税で泊まれる名宿ガイド",
     "description": "10月・11月の三重・松阪＆伊勢特集！蒲生氏郷公が築いた松阪城跡の壮大な石垣を彩る秋の紅葉、御城番屋敷の歴史ロマン、世界最高峰の肉の芸術「松阪牛」の本場老舗すき焼き・ステーキ会席、伊勢神宮秋季参拝と松阪温泉をふるさと納税トラベルクーポンでお得に楽しむ美食旅。",
     "author": {
       "@type": "Organization",
@@ -110,7 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き</h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の三重・松阪＆伊勢特集！蒲生氏郷公が築いた松阪城跡の壮大な石垣を彩る秋の紅葉、御城番屋敷の歴史ロマン、世界最高峰の肉の芸術「松阪牛」の本場老舗すき焼き・ステーキ会席、伊勢神宮秋季参拝と松阪温泉をふるさと納税トラベルクーポンでお得に楽しむ美食旅。
           </p>
@@ -126,7 +126,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-12 space-y-12 leading-relaxed">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-mie-ise-matsusaka-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-mie-ise-matsusaka-autumn-stay/"}]}) }}
       />
         {/* イントロダクション */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-4">
@@ -511,10 +511,10 @@ export default function Page() {
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+              📊 三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
             </h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              楽天トラベル公式APIより取得した「三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -565,7 +565,7 @@ export default function Page() {
 
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き」掲載宿の所在地・アクセス・特徴データ一覧
+              🏨 「三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・アクセス・特徴データ一覧
             </h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
@@ -639,7 +639,7 @@ export default function Page() {
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
               🗺️ 「三重・松阪城跡の紅葉と本場松阪牛（伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き）」とあわせて巡りたい秋田県の代表観光スポット案内
             </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
+            <p className="text-xs text-stone-600 leading-relaxed">「三重・松阪城跡の紅葉と本場松阪牛！伊勢神宮参拝の宿場町と松阪温泉・老舗すき焼き｜ふるさと納税で泊まれる名宿ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Pathway_to_the_Qkamura_Nyuto_Onsenkyo.jpg/1280px-Pathway_to_the_Qkamura_Nyuto_Onsenkyo.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="乳頭温泉郷" className="w-full h-full object-cover" loading="lazy" /></div>

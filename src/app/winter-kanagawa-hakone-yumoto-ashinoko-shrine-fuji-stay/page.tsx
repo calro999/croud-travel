@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月箱根：箱根神社新春初詣！名宿5選',
+  title: '【11・12・1月箱根】冬の箱根湯本＆芦ノ湖・箱根神社新春初詣！澄み渡る白雪富士の絶景と名湯に寛ぐ厳選宿5選',
   description: '冬の箱根・芦ノ湖は空気が澄み渡り、純白の冠雪を抱く富士山と紺碧の湖水が奇跡的な美しさを織りなす極上の季節。',
   keywords: '箱根 ホテル, 箱根湯本 温泉 旅館, 芦ノ湖 ホテル, 箱根神社 初詣, 富士山 絶景 箱根, 湯本富士屋ホテル, 山のホテル, 天成園, 11月 12月 1月 箱根 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay/"
   },
   openGraph: {
-    title: '11・12・1月箱根：箱根神社新春初詣！名宿5選',
+    title: '【11・12・1月箱根】冬の箱根湯本＆芦ノ湖・箱根神社新春初詣！澄み渡る白雪富士の絶景と名湯に寛ぐ厳選宿5選',
     description: '冬の箱根・芦ノ湖は空気が澄み渡り、純白の冠雪を抱く富士山と紺碧の湖水が奇跡的な美しさを織りなす極上の季節。',
     url: 'https://croud-travel.pages.dev/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay/',
     type: 'article'

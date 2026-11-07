@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月栃木：湯西川温泉の雪見露天風呂と名！名宿5選',
+  title: '【11・12・1月栃木】平家落人の隠れ里・湯西川温泉の雪見露天風呂と名物平家囲炉裏会席＆日本夜景遺産かまくら祭を巡る名宿5選',
   description: '11月から1月、日光国立公園の最深部・平家落人伝説が息づく秘境「湯西川（ゆにしがわ）温泉」は、深山幽谷の静寂と白銀の雪景色に包まれます。',
   keywords: '湯西川温泉 宿泊, 湯西川 かまくら祭, 湯西川 囲炉裏料理, 平家落人の里 宿, 花と華 湯西川, 平の高房 湯西川, 揚羽 湯西川, 11月 12月 1月 栃木旅行, 日光 秘湯',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay/"
   },
   openGraph: {
-    title: '11・12・1月栃木：湯西川温泉の雪見露天風呂と名！名宿5選',
+    title: '【11・12・1月栃木】平家落人の隠れ里・湯西川温泉の雪見露天風呂と名物平家囲炉裏会席＆日本夜景遺産かまくら祭を巡る名宿5選',
     description: '11月から1月、日光国立公園の最深部・平家落人伝説が息づく秘境「湯西川（ゆにしがわ）温泉」は、深山幽谷の静寂と白銀の雪景色に包まれます。',
     url: 'https://croud-travel.pages.dev/winter-tochigi-yunishigawa-onsen-kamakura-irori-stay/',
     siteName: 'クラドトラベル',

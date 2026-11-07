@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月広島：海上自衛隊艦船ライトアップ冬イルミ！名宿5選',
+  title: '【11・12・1月広島】呉＆江田島・音戸！最旬の広島かき小屋グルメと大和ミュージアム・海上自衛隊艦船ライトアップ冬イルミ・瀬戸内海一望名宿5選',
   description: '冬の瀬戸内海は空気が澄み渡り、歴史ある港町・呉と多島美あふれる江田島が最も旅情を誘う季節です。11月から1月にかけて最盛期を迎える「広島かき。',
   keywords: '呉 ホテル, 江田島 ホテル, 広島 牡蠣小屋, 大和ミュージアム, てつのくじら館, アレイからすこじま 艦船ライトアップ, 呉阪急ホテル, クレイトンベイホテル, 江田島荘, 11月 12月 1月 広島 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hiroshima-kure-edajima-oyster-yamato-port-stay/"
   },
   openGraph: {
-    title: '11・12・1月広島：海上自衛隊艦船ライトアップ冬イルミ！名宿5選',
+    title: '【11・12・1月広島】呉＆江田島・音戸！最旬の広島かき小屋グルメと大和ミュージアム・海上自衛隊艦船ライトアップ冬イルミ・瀬戸内海一望名宿5選',
     description: '冬の瀬戸内海は空気が澄み渡り、歴史ある港町・呉と多島美あふれる江田島が最も旅情を誘う季節です。11月から1月にかけて最盛期を迎える「広島かき。',
     url: 'https://croud-travel.pages.dev/winter-hiroshima-kure-edajima-oyster-yamato-port-stay/',
     siteName: '地域の宿探訪',

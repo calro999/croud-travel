@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '名勝「天竜峡」ライン下り渓谷紅葉＆美肌の湯「昼神温泉」・阿智村日本一の星空ナイトツアー',
+  title: '名勝「天竜峡」ライン下り渓谷紅葉＆美肌の湯「昼神温泉」・阿智村日本一の星空ナイトツアー｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月下旬〜11月中旬に天竜川の奇岩を紅葉が染める天竜峡。pH9.7を誇る日本屈指のとろとろ美肌泉「昼神温泉」と阿智村の満天の星空、信州アルプス牛会席をふるさと納税で堪能する秋の南信州旅。',
   keywords: ["美肌の湯「昼神温泉」", "阿智村日本一の星空ナイトツアー", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-tenryukyo-hirugami-autumn-stay/",
   },
   openGraph: {
-    title: '名勝「天竜峡」ライン下り渓谷紅葉＆美肌の湯「昼神温泉」・阿智村日本一の星空ナイトツアー',
+    title: '名勝「天竜峡」ライン下り渓谷紅葉＆美肌の湯「昼神温泉」・阿智村日本一の星空ナイトツアー｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月下旬〜11月中旬に天竜川の奇岩を紅葉が染める天竜峡。pH9.7を誇る日本屈指のとろとろ美肌泉「昼神温泉」と阿智村の満天の星空、信州アルプス牛会席をふるさと納税で堪能する秋の南信州旅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-tenryukyo-hirugami-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "名勝「天竜峡」ライン下り渓谷紅葉＆美肌の湯「昼神温泉」・阿智村日本一の星空ナイトツアー",
+    "headline": "名勝「天竜峡」ライン下り渓谷紅葉＆美肌の湯「昼神温泉」・阿智村日本一の星空ナイトツアー｜ふるさと納税で泊まれる名宿ガイド",
     "description": "10月下旬〜11月中旬に天竜川の奇岩を紅葉が染める天竜峡。pH9.7を誇る日本屈指のとろとろ美肌泉「昼神温泉」と阿智村の満天の星空、信州アルプス牛会席をふるさと納税で堪能する秋の南信州旅。",
     "author": {
       "@type": "Organization",
@@ -101,7 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">名勝「天竜峡」ライン下り渓谷紅葉＆美肌の湯「昼神温泉」・阿智村日本一の星空ナイトツアー</h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">名勝「天竜峡」ライン下り渓谷紅葉＆美肌の湯「昼神温泉」・阿智村日本一の星空ナイトツアー｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             天竜川の渓谷美を愛でる舟下りと阿智村の奇跡の星空。昼神温泉の極上美肌湯と信州秋の味覚に癒やされる贅沢。
           </p>
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"名勝「天竜峡」ライン下り渓谷紅葉＆美肌の湯「昼神温泉」・阿智村日本一の星空ナイトツアー | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-tenryukyo-hirugami-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"名勝「天竜峡」ライン下り渓谷紅葉＆美肌の湯「昼神温泉」・阿智村日本一の星空ナイトツアー｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-tenryukyo-hirugami-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
@@ -489,7 +489,7 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-iwate-sanriku-kotatsu-train-kaisen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月岩手：三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月岩手】三陸鉄道こたつ列車の冬絶景と浄土ヶ浜雪景色・名物瓶ドン＆極上三陸あわび・毛ガニを味わう海沿いの名宿5選</span>
             </a>
             <a href="/furusato-tax-hiraizumi-chusonji-genbikei-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>

@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '雲仙普賢岳の紅葉パノラマ（国天然記念物）＆雲仙地獄の湯けむり白濁硫黄泉・長崎和牛ステーキ',
+  title: '雲仙普賢岳の紅葉パノラマ（国天然記念物）＆雲仙地獄の湯けむり白濁硫黄泉・長崎和牛ステーキ｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月下旬〜11月中旬に山肌一面が赤や黄に染まる雲仙普賢岳と仁田峠ロープウェイ紅葉。湯けむり立ち込める雲仙地獄の白濁硫黄泉と、日本一に輝いた長崎和牛・秋獲れ伊勢海老をふるさと納税で味わう秋の九州旅。',
   keywords: ["雲仙地獄の湯けむり白濁硫黄泉", "長崎和牛ステーキ", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-unzen-jigoku-autumn-leaves-stay/",
   },
   openGraph: {
-    title: '雲仙普賢岳の紅葉パノラマ（国天然記念物）＆雲仙地獄の湯けむり白濁硫黄泉・長崎和牛ステーキ',
+    title: '雲仙普賢岳の紅葉パノラマ（国天然記念物）＆雲仙地獄の湯けむり白濁硫黄泉・長崎和牛ステーキ｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月下旬〜11月中旬に山肌一面が赤や黄に染まる雲仙普賢岳と仁田峠ロープウェイ紅葉。湯けむり立ち込める雲仙地獄の白濁硫黄泉と、日本一に輝いた長崎和牛・秋獲れ伊勢海老をふるさと納税で味わう秋の九州旅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-unzen-jigoku-autumn-leaves-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "雲仙普賢岳の紅葉パノラマ（国天然記念物）＆雲仙地獄の湯けむり白濁硫黄泉・長崎和牛ステーキ",
+    "headline": "雲仙普賢岳の紅葉パノラマ（国天然記念物）＆雲仙地獄の湯けむり白濁硫黄泉・長崎和牛ステーキ｜ふるさと納税で泊まれる名宿ガイド",
     "description": "10月下旬〜11月中旬に山肌一面が赤や黄に染まる雲仙普賢岳と仁田峠ロープウェイ紅葉。湯けむり立ち込める雲仙地獄の白濁硫黄泉と、日本一に輝いた長崎和牛・秋獲れ伊勢海老をふるさと納税で味わう秋の九州旅。",
     "author": {
       "@type": "Organization",
@@ -101,7 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">雲仙普賢岳の紅葉パノラマ（国天然記念物）＆雲仙地獄の湯けむり白濁硫黄泉・長崎和牛ステーキ</h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">雲仙普賢岳の紅葉パノラマ（国天然記念物）＆雲仙地獄の湯けむり白濁硫黄泉・長崎和牛ステーキ｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             仁田峠ロープウェイから望む普賢岳の圧巻紅葉。雲仙地獄の白濁硫黄泉と極上長崎和牛を堪能する秋の長崎路。
           </p>
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"雲仙普賢岳の紅葉パノラマ（国天然記念物）＆雲仙地獄の湯けむり白濁硫黄泉・長崎和牛ステーキ | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-unzen-jigoku-autumn-leaves-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"雲仙普賢岳の紅葉パノラマ（国天然記念物）＆雲仙地獄の湯けむり白濁硫黄泉・長崎和牛ステーキ｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-unzen-jigoku-autumn-leaves-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
@@ -493,7 +493,7 @@ export default function Page() {
             </a>
             <a href="/winter-hokkaido-wakkanai-soya-cape-sunrise-tako-shabu-soya-beef-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月北海道：日本最北端「宗谷岬」冬の初日！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月北海道】日本最北端「宗谷岬」冬の初日の出と氷門の詩情！極上「宗谷黒牛」＆名物タコしゃぶ・稚内天然温泉名宿5選</span>
             </a>
             <a href="/autumn-budget-hokkaido-hakodate-station-goryokaku-asaichi-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>

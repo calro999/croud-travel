@@ -489,7 +489,7 @@ export default function FeatureArticlePage() {
             </a>
             <a href="/winter-wakayama-kushimoto-shionomisaki-sunrise-hashiguiiwa-kindai-maguro-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月和歌山：本州最南端「潮岬」冬の太平洋！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月和歌山】本州最南端「潮岬」冬の太平洋初日の出と朝焼け「橋杭岩」絶景！発祥の地「近大マグロ」会席＆串本温泉リゾート名宿5選</span>
             </a>
             <a href="/furusato-tax-three-great-citrus-kingdoms-resort-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>

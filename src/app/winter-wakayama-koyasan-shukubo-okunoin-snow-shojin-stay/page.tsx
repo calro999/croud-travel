@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月和歌山：新春初詣！名宿5選',
+  title: '【11・12・1月和歌山】世界遺産・高野山の白銀「壇上伽藍＆奥之院」雪景色と宿坊阿字観体験＆冬の滋味精進料理・新春初詣名宿5選',
   description: '11月から1月、標高約800mの山上盆地に位置する真言密教の聖地・世界遺産「高野山」は、厳かな白銀の雪化粧に包まれる静謐な季節を迎えます。',
   keywords: '高野山 冬 宿坊, 奥之院 雪景色, 壇上伽藍 根本大塔, 高野山 精進料理 冬, 宿坊 不動院, 一乗院 高野山, 恵光院 阿字観, 高野山 初詣, 11月 12月 1月 和歌山旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay/"
   },
   openGraph: {
-    title: '11・12・1月和歌山：新春初詣！名宿5選',
+    title: '【11・12・1月和歌山】世界遺産・高野山の白銀「壇上伽藍＆奥之院」雪景色と宿坊阿字観体験＆冬の滋味精進料理・新春初詣名宿5選',
     description: '11月から1月、標高約800mの山上盆地に位置する真言密教の聖地・世界遺産「高野山」は、厳かな白銀の雪化粧に包まれる静謐な季節を迎えます。',
     url: 'https://croud-travel.pages.dev/winter-wakayama-koyasan-shukubo-okunoin-snow-shojin-stay/',
     siteName: 'クラドトラベル',

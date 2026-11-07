@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月沖縄：恩納村絶景スパリゾート5選！名宿5選',
+  title: '【11・12・1月沖縄】冬の楽園リゾート！12月下旬開幕「ホエールウォッチング」と美ら海水族館・冬のアグー豚しゃぶしゃぶ＆もとぶ牛・恩納村絶景スパリゾート5選',
   description: '11月から1月、沖縄本島（恩納村・本部・名護）は、平均気温20℃前後の快適な気候に恵まれ、喧騒を離れて大人の贅沢な時間を過ごせる冬の楽園となります。',
   keywords: '沖縄 ホエールウォッチング, ハレクラニ沖縄, ハイアットリージェンシー瀬良垣, ルネッサンスリゾートオキナワ, ホテルモントレ沖縄, 美ら海水族館 冬, アグー豚 しゃぶしゃぶ, もとぶ牛 ステーキ, 11月 12月 1月 沖縄旅行, 恩納村 リゾートホテル',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay/"
   },
   openGraph: {
-    title: '11・12・1月沖縄：恩納村絶景スパリゾート5選！名宿5選',
+    title: '【11・12・1月沖縄】冬の楽園リゾート！12月下旬開幕「ホエールウォッチング」と美ら海水族館・冬のアグー豚しゃぶしゃぶ＆もとぶ牛・恩納村絶景スパリゾート5選',
     description: '11月から1月、沖縄本島（恩納村・本部・名護）は、平均気温20℃前後の快適な気候に恵まれ、喧騒を離れて大人の贅沢な時間を過ごせる冬の楽園となります。',
     url: 'https://croud-travel.pages.dev/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay/',
     siteName: 'クラドトラベル',

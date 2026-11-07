@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月富山：国宝「高岡瑞龍寺」初詣と雨晴海岸の気嵐絶景！名宿5選',
+  title: '【11・12・1月富山】国宝「高岡瑞龍寺」初詣と雨晴海岸の気嵐絶景！新湊紅ズワイガニ＆高岡名宿5選',
   description: '北陸富山の歴史遺産と冬の富山湾の味覚に酔いしれる11〜1月の冬旅ガイド。加賀前田家ゆかりの国宝「高岡瑞龍寺」の新春初詣や日本三大仏「高岡大仏」。',
   keywords: '国宝 瑞龍寺 初詣, 雨晴海岸 気嵐 立山連峰, 新湊 紅ズワイガニ 昼セリ, 富山湾 寒ブリ, 雨晴温泉 磯はなび, 高岡マンテンホテル, ホテルニューオータニ高岡, 第一イン新湊, 富山 冬 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-toyama-takaoka-imizu-zuiryuji-hatsumode-shinminato-crab-stay/"
   },
   openGraph: {
-    title: '11・12・1月富山：国宝「高岡瑞龍寺」初詣と雨晴海岸の気嵐絶景！名宿5選',
+    title: '【11・12・1月富山】国宝「高岡瑞龍寺」初詣と雨晴海岸の気嵐絶景！新湊紅ズワイガニ＆高岡名宿5選',
     description: '北陸富山の歴史遺産と冬の富山湾の味覚に酔いしれる11〜1月の冬旅ガイド。加賀前田家ゆかりの国宝「高岡瑞龍寺」の新春初詣や日本三大仏「高岡大仏」。',
     url: 'https://croud-travel.pages.dev/winter-toyama-takaoka-imizu-zuiryuji-hatsumode-shinminato-crab-stay/',
     type: 'article',

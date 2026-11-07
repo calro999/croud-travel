@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月北海道：極上富良野和牛！名宿5選',
+  title: '【11・12・1月北海道】氷の街トマム「アイスヴィレッジ」と白銀の富良野・極上富良野和牛＆濃厚ふらのチーズフォンデュを堪能する冬リゾート名宿5選',
   description: '11月下旬から1月、北海道の中央に位置するトマムと富良野は、氷点下20度〜30度にも達する極寒が生み出す世界屈指のパウダースノーと。',
   keywords: 'トマム アイスヴィレッジ 冬, 霧氷テラス 星野リゾート, 富良野和牛 ステーキ, 富良野 チーズフォンデュ, リゾナーレトマム, トマムザタワー, 新富良野プリンスホテル, ラビスタ富良野ヒルズ, 11月 12月 1月 北海道旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay/"
   },
   openGraph: {
-    title: '11・12・1月北海道：極上富良野和牛！名宿5選',
+    title: '【11・12・1月北海道】氷の街トマム「アイスヴィレッジ」と白銀の富良野・極上富良野和牛＆濃厚ふらのチーズフォンデュを堪能する冬リゾート名宿5選',
     description: '11月下旬から1月、北海道の中央に位置するトマムと富良野は、氷点下20度〜30度にも達する極寒が生み出す世界屈指のパウダースノーと。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay/',
     siteName: 'クラドトラベル',

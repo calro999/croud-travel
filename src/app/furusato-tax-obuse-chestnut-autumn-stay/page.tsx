@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '栗の郷「信州小布施」秋の栗スイーツ食べ歩き＆北信濃の名湯・信州プレミアム牛会席',
+  title: '栗の郷「信州小布施」秋の栗スイーツ食べ歩き＆北信濃の名湯・信州プレミアム牛会席｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月〜11月に旬を迎える名物「小布施栗」（栗おこわ・朱雀モンブラン・栗かの子）。葛飾北斎ゆかりの歴史ある栗の小径散策と、北信濃の天然温泉・信州プレミアム牛会席をふるさと納税で堪能する秋の信濃路。',
   keywords: ["北信濃の名湯", "信州プレミアム牛会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-obuse-chestnut-autumn-stay/",
   },
   openGraph: {
-    title: '栗の郷「信州小布施」秋の栗スイーツ食べ歩き＆北信濃の名湯・信州プレミアム牛会席',
+    title: '栗の郷「信州小布施」秋の栗スイーツ食べ歩き＆北信濃の名湯・信州プレミアム牛会席｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月〜11月に旬を迎える名物「小布施栗」（栗おこわ・朱雀モンブラン・栗かの子）。葛飾北斎ゆかりの歴史ある栗の小径散策と、北信濃の天然温泉・信州プレミアム牛会席をふるさと納税で堪能する秋の信濃路。',
     url: 'https://croud-travel.pages.dev/furusato-tax-obuse-chestnut-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "栗の郷「信州小布施」秋の栗スイーツ食べ歩き＆北信濃の名湯・信州プレミアム牛会席",
+    "headline": "栗の郷「信州小布施」秋の栗スイーツ食べ歩き＆北信濃の名湯・信州プレミアム牛会席｜ふるさと納税で泊まれる名宿ガイド",
     "description": "10月〜11月に旬を迎える名物「小布施栗」（栗おこわ・朱雀モンブラン・栗かの子）。葛飾北斎ゆかりの歴史ある栗の小径散策と、北信濃の天然温泉・信州プレミアム牛会席をふるさと納税で堪能する秋の信濃路。",
     "author": {
       "@type": "Organization",
@@ -101,7 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">栗の郷「信州小布施」秋の栗スイーツ食べ歩き＆北信濃の名湯・信州プレミアム牛会席</h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">栗の郷「信州小布施」秋の栗スイーツ食べ歩き＆北信濃の名湯・信州プレミアム牛会席｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             秋の味覚の最高峰「小布施栗」を味わい尽くす。北斎ゆかりの町並み散策と北信濃の名湯に心癒やされる旅。
           </p>
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"栗の郷「信州小布施」秋の栗スイーツ食べ歩き＆北信濃の名湯・信州プレミアム牛会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-obuse-chestnut-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"栗の郷「信州小布施」秋の栗スイーツ食べ歩き＆北信濃の名湯・信州プレミアム牛会席｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-obuse-chestnut-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
@@ -501,7 +501,7 @@ export default function Page() {
             </a>
             <a href="/winter-saitama-omiya-hikawa-shrine-hatsumode-keyaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月埼玉：武州和牛と天然温泉に寛ぐ！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月埼玉】武蔵一宮氷川神社新春初詣＆けやきひろばイルミネーション！武州和牛と天然温泉に寛ぐ名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

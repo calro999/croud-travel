@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '東海随一の紅葉名所「香嵐渓」4,000本のもみじライトアップ＆医者がすすめる天然ラドン猿投温泉の旅',
+  title: '東海随一の紅葉名所「香嵐渓」4,000本のもみじライトアップ＆医者がすすめる天然ラドン猿投温泉の旅｜ふるさと納税で泊まれる名宿ガイド',
   description: '11月上旬〜11月下旬に見頃を迎える香嵐渓巴川沿いの圧巻もみじまつり。古い町並み足助散策と「奇跡の湯」猿投温泉の飲泉・ラドン療養泉でととのう秋の愛知・三河ふるさと納税宿泊特集。',
   keywords: ["クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-korankei-autumn-leaves-stay/",
   },
   openGraph: {
-    title: '東海随一の紅葉名所「香嵐渓」4,000本のもみじライトアップ＆医者がすすめる天然ラドン猿投温泉の旅',
+    title: '東海随一の紅葉名所「香嵐渓」4,000本のもみじライトアップ＆医者がすすめる天然ラドン猿投温泉の旅｜ふるさと納税で泊まれる名宿ガイド',
     description: '11月上旬〜11月下旬に見頃を迎える香嵐渓巴川沿いの圧巻もみじまつり。古い町並み足助散策と「奇跡の湯」猿投温泉の飲泉・ラドン療養泉でととのう秋の愛知・三河ふるさと納税宿泊特集。',
     url: 'https://croud-travel.pages.dev/furusato-tax-korankei-autumn-leaves-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "東海随一の紅葉名所「香嵐渓」4,000本のもみじライトアップ＆医者がすすめる天然ラドン猿投温泉の旅",
+    "headline": "東海随一の紅葉名所「香嵐渓」4,000本のもみじライトアップ＆医者がすすめる天然ラドン猿投温泉の旅｜ふるさと納税で泊まれる名宿ガイド",
     "description": "11月上旬〜11月下旬に見頃を迎える香嵐渓巴川沿いの圧巻もみじまつり。古い町並み足助散策と「奇跡の湯」猿投温泉の飲泉・ラドン療養泉でととのう秋の愛知・三河ふるさと納税宿泊特集。",
     "author": {
       "@type": "Organization",
@@ -101,7 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">東海随一の紅葉名所「香嵐渓」4,000本のもみじライトアップ＆医者がすすめる天然ラドン猿投温泉の旅</h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">東海随一の紅葉名所「香嵐渓」4,000本のもみじライトアップ＆医者がすすめる天然ラドン猿投温泉の旅｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             巴川を紅く染める4,000本のもみじ絵巻。足助のレトロ散歩と奇跡のラドン名湯で心身を解き放つ秋旅。
           </p>
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"東海随一の紅葉名所「香嵐渓」4,000本のもみじライトアップ＆医者がすすめる天然ラドン猿投温泉の旅 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-korankei-autumn-leaves-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"東海随一の紅葉名所「香嵐渓」4,000本のもみじライトアップ＆医者がすすめる天然ラドン猿投温泉の旅｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-korankei-autumn-leaves-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
@@ -489,11 +489,11 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-chiba-choshi-inubosaki-sunrise-kinmedai-hamaguri-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月千葉：本州一早い初日の出「犬吠埼」！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月千葉】本州一早い初日の出「犬吠埼」と冬の極上「銚子つりきんめ」・九十九里焼きはまぐり鍋＆太平洋パノラマ犬吠埼温泉宿5選</span>
             </a>
             <a href="/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月舞浜：東京ディズニーリゾート冬のクリスマス！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月舞浜】東京ディズニーリゾート冬のクリスマス＆年末年始！直営・オフィシャルホテルで叶える夢の冬旅名宿5選</span>
             </a>
             <a href="/furusato-tax-chiba-boso-kamogawa-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>

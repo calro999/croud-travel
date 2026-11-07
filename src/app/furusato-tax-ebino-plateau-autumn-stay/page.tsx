@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'えびの高原白紫池の黄金ススキ＆霧島連山の紅葉・京町温泉の源泉宿と極上宮崎牛',
+  title: 'えびの高原白紫池の黄金ススキ＆霧島連山の紅葉・京町温泉の源泉宿と極上宮崎牛｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月下旬〜11月中旬に見頃を迎えるえびの高原の黄金色に輝くススキ野原と火口湖の紅葉。川内川沿いに湧く名湯「京町温泉」の隠れ宿で、源泉かけ流しと日本一の宮崎牛炭火焼きをふるさと納税で堪能する秋旅。',
   keywords: ["えびの高原白紫池の黄金ススキ", "霧島連山の紅葉", "京町温泉の源泉宿と極上宮崎牛", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-ebino-plateau-autumn-stay/",
   },
   openGraph: {
-    title: 'えびの高原白紫池の黄金ススキ＆霧島連山の紅葉・京町温泉の源泉宿と極上宮崎牛',
+    title: 'えびの高原白紫池の黄金ススキ＆霧島連山の紅葉・京町温泉の源泉宿と極上宮崎牛｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月下旬〜11月中旬に見頃を迎えるえびの高原の黄金色に輝くススキ野原と火口湖の紅葉。川内川沿いに湧く名湯「京町温泉」の隠れ宿で、源泉かけ流しと日本一の宮崎牛炭火焼きをふるさと納税で堪能する秋旅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-ebino-plateau-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "えびの高原白紫池の黄金ススキ＆霧島連山の紅葉・京町温泉の源泉宿と極上宮崎牛",
+    "headline": "えびの高原白紫池の黄金ススキ＆霧島連山の紅葉・京町温泉の源泉宿と極上宮崎牛｜ふるさと納税で泊まれる名宿ガイド",
     "description": "10月下旬〜11月中旬に見頃を迎えるえびの高原の黄金色に輝くススキ野原と火口湖の紅葉。川内川沿いに湧く名湯「京町温泉」の隠れ宿で、源泉かけ流しと日本一の宮崎牛炭火焼きをふるさと納税で堪能する秋旅。",
     "author": {
       "@type": "Organization",
@@ -101,7 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">えびの高原白紫池の黄金ススキ＆霧島連山の紅葉・京町温泉の源泉宿と極上宮崎牛</h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">えびの高原白紫池の黄金ススキ＆霧島連山の紅葉・京町温泉の源泉宿と極上宮崎牛｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             霧島連山に広がる黄金のススキの海。南九州屈指の良泉・京町温泉でとろける宮崎牛を味わう至高の秋旅。
           </p>
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"えびの高原白紫池の黄金ススキ＆霧島連山の紅葉・京町温泉の源泉宿と極上宮崎牛 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-ebino-plateau-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"えびの高原白紫池の黄金ススキ＆霧島連山の紅葉・京町温泉の源泉宿と極上宮崎牛｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-ebino-plateau-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
@@ -489,7 +489,7 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/niigata-echigo-yuzawa-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">越後湯沢温泉ひとり旅・雪国名湯おこもり：上越新幹線70分・谷川連峰パノラマ・魚沼産コシヒカリ！川端康成『雪国』の舞台で癒やされる厳選3宿</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">越後湯沢温泉ひとり旅・雪国名湯おこもり：上越新幹線70分・谷川連峰パノラマ・魚沼産コシヒカリ！川端康成『雪国』の舞台！越後湯沢温泉の展望絶景露天風呂＆本場魚沼産コシヒカリ・越後地酒名門宿×ふるさと納税完全攻略ガイド【2026年最新】双葉・NASPAニューオータニ・いなもとで癒やされる厳選3宿</span>
             </a>
             <a href="/winter-niigata-echigo-yuzawa-snow-sake-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>

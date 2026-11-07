@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月舞浜：東京ディズニーリゾート冬のクリスマス！名宿5選',
+  title: '【11・12・1月舞浜】東京ディズニーリゾート冬のクリスマス＆年末年始！直営・オフィシャルホテルで叶える夢の冬旅名宿5選',
   description: '冬の東京ディズニーリゾート（舞浜）は、シンデレラ城やアメリカンウォーターフロントに巨大クリスマスツリーが輝く「ディズニー・クリスマス」。',
   keywords: '舞浜 ホテル, ディズニー オフィシャルホテル, ディズニークリスマス, シェラトン グランデ トーキョーベイ, ヒルトン東京ベイ, グランドニッコー東京ベイ舞浜, ホテルオークラ東京ベイ, 東京ベイ舞浜ホテル ファーストリゾート, 11月 12月 1月 ディズニー 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay/"
   },
   openGraph: {
-    title: '11・12・1月舞浜：東京ディズニーリゾート冬のクリスマス！名宿5選',
+    title: '【11・12・1月舞浜】東京ディズニーリゾート冬のクリスマス＆年末年始！直営・オフィシャルホテルで叶える夢の冬旅名宿5選',
     description: '冬の東京ディズニーリゾート（舞浜）は、シンデレラ城やアメリカンウォーターフロントに巨大クリスマスツリーが輝く「ディズニー・クリスマス」。',
     url: 'https://croud-travel.pages.dev/winter-chiba-tokyo-disney-resort-maihama-christmas-hotel-stay/',
     siteName: '地域の宿探訪',

@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-snow-onsen/" },
-  title: '冬の秘湯：白銀の雪見露天風呂＆絶景名湯旅館 厳選ガイド',
+  title: '【冬の秘湯】白銀の雪見露天風呂＆絶景名湯旅館 完全ガイド ｜ 日本全国・旅宿クラウド',
   description: '静寂の雪景色と温かい名湯。山形・銀山温泉、群馬・草津温泉、北海道・登別定山渓、宮城山形・蔵王温泉など。',
   keywords: ["冬の秘湯", "白銀の雪見露天風呂", "絶景名湯旅館", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   openGraph: {
-    title: "冬の秘湯：白銀の雪見露天風呂＆絶景名湯旅館 厳選ガイド",
+    title: "【冬の秘湯】白銀の雪見露天風呂＆絶景名湯旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
     description: "静寂の雪景色と温かい名湯。山形・銀山温泉、群馬・草津温泉、北海道・登別定山渓、宮城山形・蔵王温泉など。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "冬の秘湯：白銀の雪見露天風呂＆絶景名湯旅館 厳選ガイド",
+    title: "【冬の秘湯】白銀の雪見露天風呂＆絶景名湯旅館 完全ガイド ｜ 日本全国・旅宿クラウド",
     description: "静寂の雪景色と温かい名湯。山形・銀山温泉、群馬・草津温泉、北海道・登別定山渓、宮城山形・蔵王温泉など。",
   }
 };

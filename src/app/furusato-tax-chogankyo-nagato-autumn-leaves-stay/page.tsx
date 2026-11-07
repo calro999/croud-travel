@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '名勝「長門峡」阿武川渓谷美とそぞろ歩きが楽しい長門湯本温泉・山口秋の味覚「とらふぐ」尽くし',
+  title: '名勝「長門峡」阿武川渓谷美とそぞろ歩きが楽しい長門湯本温泉・山口秋の味覚「とらふぐ」尽くし｜ふるさと納税で泊まれる名宿ガイド',
   description: '11月上旬〜11月下旬に見頃を迎える名勝・長門峡の巨岩と深紅のコントラスト。音信川沿いの温泉街リノベーションで話題の長門湯本温泉で、名湯「恩湯」と秋の旬を迎えるとらふぐ会席を堪能。',
   keywords: ["山口秋の味覚「とらふぐ」尽くし", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-chogankyo-nagato-autumn-leaves-stay/",
   },
   openGraph: {
-    title: '名勝「長門峡」阿武川渓谷美とそぞろ歩きが楽しい長門湯本温泉・山口秋の味覚「とらふぐ」尽くし',
+    title: '名勝「長門峡」阿武川渓谷美とそぞろ歩きが楽しい長門湯本温泉・山口秋の味覚「とらふぐ」尽くし｜ふるさと納税で泊まれる名宿ガイド',
     description: '11月上旬〜11月下旬に見頃を迎える名勝・長門峡の巨岩と深紅のコントラスト。音信川沿いの温泉街リノベーションで話題の長門湯本温泉で、名湯「恩湯」と秋の旬を迎えるとらふぐ会席を堪能。',
     url: 'https://croud-travel.pages.dev/furusato-tax-chogankyo-nagato-autumn-leaves-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "名勝「長門峡」阿武川渓谷美とそぞろ歩きが楽しい長門湯本温泉・山口秋の味覚「とらふぐ」尽くし",
+    "headline": "名勝「長門峡」阿武川渓谷美とそぞろ歩きが楽しい長門湯本温泉・山口秋の味覚「とらふぐ」尽くし｜ふるさと納税で泊まれる名宿ガイド",
     "description": "11月上旬〜11月下旬に見頃を迎える名勝・長門峡の巨岩と深紅のコントラスト。音信川沿いの温泉街リノベーションで話題の長門湯本温泉で、名湯「恩湯」と秋の旬を迎えるとらふぐ会席を堪能。",
     "author": {
       "@type": "Organization",
@@ -101,7 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">名勝「長門峡」阿武川渓谷美とそぞろ歩きが楽しい長門湯本温泉・山口秋の味覚「とらふぐ」尽くし</h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">名勝「長門峡」阿武川渓谷美とそぞろ歩きが楽しい長門湯本温泉・山口秋の味覚「とらふぐ」尽くし｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             阿武川の清流と紅葉が織りなす水墨画の世界。川床テラス揺れる長門湯本温泉で極上とらふぐに舌鼓。
           </p>
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"名勝「長門峡」阿武川渓谷美とそぞろ歩きが楽しい長門湯本温泉・山口秋の味覚「とらふぐ」尽くし | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-chogankyo-nagato-autumn-leaves-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"名勝「長門峡」阿武川渓谷美とそぞろ歩きが楽しい長門湯本温泉・山口秋の味覚「とらふぐ」尽くし｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-chogankyo-nagato-autumn-leaves-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
@@ -497,7 +497,7 @@ export default function Page() {
             </a>
             <a href="/winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月茨城：笠間稲荷神社新春開運初詣！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月茨城】笠間稲荷神社新春開運初詣＆水戸偕楽園冬梅！本場濃厚あんこう鍋と極上常陸牛を味わう名宿5選</span>
             </a>
             <a href="/furusato-tax-daigo-fukuroda-falls-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>

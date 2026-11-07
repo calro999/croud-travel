@@ -8,13 +8,13 @@ import Image from 'next/image';
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
 
 export const metadata: Metadata = {
-  title: "日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド",
+  title: "日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
   description: "日本離れした雄大な砂の世界！鳥取「鳥取砂丘」ラクダ遊歩と日本海パノラマ・鳥取温泉ホテルモナーク鳥取、鹿児島「吹上浜」47km続く白砂青松の砂丘美と吹上砂丘荘、静岡「中田島砂丘」遠州灘の潮風と美しい風紋アート・ホテルルートイン浜名湖。日本三大砂丘の非日常リゾートステイを楽天ふるさと納税宿泊クーポンでお...",
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-coastal-stay/",
   },
   openGraph: {
-    title: "日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド",
+    title: "日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
     description: "日本離れした雄大な砂の世界！鳥取「鳥取砂丘」ラクダ遊歩と日本海パノラマ・鳥取温泉ホテルモナーク鳥取、鹿児島「吹上浜」47km続く白砂青松の砂丘美と吹上砂丘荘、静岡「中田島砂丘」遠州灘の潮風と美しい風紋アート・ホテルルートイン浜名湖。日本三大砂丘の非日常リゾートステイを楽天ふるさと納税宿泊クーポンでお...",
     url: "https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-coastal-stay/",
   },
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "headline": "日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
     "description": "日本離れした雄大な砂の世界！鳥取「鳥取砂丘」ラクダ遊歩と日本海パノラマ・鳥取温泉ホテルモナーク鳥取、鹿児島「吹上浜」47km続く白砂青松の砂丘美と吹上砂丘荘、静岡「中田島砂丘」遠州灘の潮風と美しい風紋アート・ホテルルートイン浜名湖。日本三大砂丘の非日常リゾートステイを楽天ふるさと納税宿泊クーポンでお...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-sand-dunes-coastal-stay/",
     "publisher": {
@@ -56,7 +56,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大砂丘・砂漠パノラマ特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド</h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             日本離れした雄大な砂の世界！鳥取「鳥取砂丘」ラクダ遊歩と日本海パノラマ・鳥取温泉ホテルモナーク鳥取、鹿児島「吹上浜」47km続く白砂青松の砂丘美と吹上砂丘荘、静岡「中田島砂丘」遠州灘の潮風と美しい風紋アート・ホテルルートイン浜名湖。日本三大砂丘の非日常リゾートステイを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>
@@ -93,8 +93,8 @@ export default function Page() {
         {/* 3 Key Merits */}
         <section className="space-y-6">
           <div className="text-center">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">ふるさと納税トラベルで巡る3つの至高メリット｜日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド</h2>
-            <p className="text-sm sm:text-base text-slate-400 mt-2">【日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド】 控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの名旅館＆特産グルメをアップグレード</p>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">ふるさと納税トラベルで巡る3つの至高メリット｜日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h2>
+            <p className="text-sm sm:text-base text-slate-400 mt-2">【日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド】 控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの名旅館＆特産グルメをアップグレード</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
@@ -125,8 +125,8 @@ export default function Page() {
         {/* Featured Hotels & Regions */}
         <section className="space-y-12">
           <div className="border-b border-slate-800 pb-4">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">厳選名所＆楽天トラベル提携おすすめ名宿｜日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド</h2>
-            <p className="text-slate-400 text-sm sm:text-base mt-1">【日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド】 楽天ふるさと納税宿泊クーポンが利用可能な極上宿</p>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">厳選名所＆楽天トラベル提携おすすめ名宿｜日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h2>
+            <p className="text-slate-400 text-sm sm:text-base mt-1">【日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド】 楽天ふるさと納税宿泊クーポンが利用可能な極上宿</p>
           </div>
 
           <div className="space-y-12">
@@ -349,8 +349,8 @@ export default function Page() {
 
         {/* Official Banner CTA */}
         <section className="bg-gradient-to-r from-rose-950/60 via-red-900/40 to-amber-950/60 border border-rose-500/30 rounded-3xl p-8 text-center relative overflow-hidden shadow-2xl">
-          <h2 className="text-2xl sm:text-3xl font-black text-white mb-4">楽天ふるさと納税トラベルで、今すぐ賢く旅に出よう｜日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド</h2>
-          <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base mb-8 leading-relaxed">【日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド】 
+          <h2 className="text-2xl sm:text-3xl font-black text-white mb-4">楽天ふるさと納税トラベルで、今すぐ賢く旅に出よう｜日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h2>
+          <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base mb-8 leading-relaxed">【日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド】 
             寄付翌日から最大3年間使える宿泊クーポンで、行きたかった憧れの名宿を今すぐお得にリザーブ。実質2,000円負担で極上の日本再発見の旅へ。
           </p>
           <a
@@ -365,7 +365,7 @@ export default function Page() {
 
         {/* Cross Link Section */}
         <section className="border-t border-slate-800/80 pt-12 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい関連特集ガイド｜日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい関連特集ガイド｜日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
             <Link
@@ -560,10 +560,10 @@ export default function Page() {
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+              📊 日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
             </h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              楽天トラベル公式APIより取得した「日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -614,7 +614,7 @@ export default function Page() {
 
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド」掲載宿の所在地・アクセス・特徴データ一覧
+              🏨 「日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・アクセス・特徴データ一覧
             </h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
@@ -686,9 +686,9 @@ export default function Page() {
 
           <div className="space-y-4 pt-6 border-t border-stone-200">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド」とあわせて巡りたい福島県の代表観光スポット案内
+              🗺️ 「日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」とあわせて巡りたい福島県の代表観光スポット案内
             </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
+            <p className="text-xs text-stone-600 leading-relaxed">「日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               

@@ -8,13 +8,13 @@ import Image from 'next/image';
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
 
 export const metadata: Metadata = {
-  title: "日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド",
+  title: "日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
   description: "神域と現世を結ぶ壮大な朱塗りの門！広島「厳島神社大鳥居」海に浮かぶ世界遺産と宮島グランドホテル有もと、奈良「大神神社大鳥居」三輪山を仰ぐ日本最古の神社とホテル奈良さくらいの郷、京都「平安神宮大鳥居」岡崎の文化ゾーンとホテルオークラ京都岡崎別邸。日本三大鳥居（大鳥居）の神聖なエネルギーを楽天ふるさと納...",
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-torii-gates-sacred-stay/",
   },
   openGraph: {
-    title: "日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド",
+    title: "日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
     description: "神域と現世を結ぶ壮大な朱塗りの門！広島「厳島神社大鳥居」海に浮かぶ世界遺産と宮島グランドホテル有もと、奈良「大神神社大鳥居」三輪山を仰ぐ日本最古の神社とホテル奈良さくらいの郷、京都「平安神宮大鳥居」岡崎の文化ゾーンとホテルオークラ京都岡崎別邸。日本三大鳥居（大鳥居）の神聖なエネルギーを楽天ふるさと納...",
     url: "https://croud-travel.pages.dev/furusato-tax-three-great-torii-gates-sacred-stay/",
   },
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "headline": "日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
     "description": "神域と現世を結ぶ壮大な朱塗りの門！広島「厳島神社大鳥居」海に浮かぶ世界遺産と宮島グランドホテル有もと、奈良「大神神社大鳥居」三輪山を仰ぐ日本最古の神社とホテル奈良さくらいの郷、京都「平安神宮大鳥居」岡崎の文化ゾーンとホテルオークラ京都岡崎別邸。日本三大鳥居（大鳥居）の神聖なエネルギーを楽天ふるさと納...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-torii-gates-sacred-stay/",
     "publisher": {
@@ -56,7 +56,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大鳥居・神域パワースポット特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド</h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             神域と現世を結ぶ壮大な朱塗りの門！広島「厳島神社大鳥居」海に浮かぶ世界遺産と宮島グランドホテル有もと、奈良「大神神社大鳥居」三輪山を仰ぐ日本最古の神社とホテル奈良さくらいの郷、京都「平安神宮大鳥居」岡崎の文化ゾーンとホテルオークラ京都岡崎別邸。日本三大鳥居（大鳥居）の神聖なエネルギーを楽天ふるさと納税宿泊クーポンでお得に授かる完全ガイド。
           </p>
@@ -514,7 +514,7 @@ export default function Page() {
             </a>
             <a href="/winter-miyagi-kesennuma-minamisanriku-mekajiki-ikuradon-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月宮城：南三陸キラキラいくら丼と気仙！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月宮城】冬の三陸の至宝・極上戻りメカジキ「冬木廻」＆南三陸キラキラいくら丼と気仙沼深層天然温泉を満喫する絶景名宿5選</span>
             </a>
             <a href="/winter-miyagi-togatta-onsen-zao-snow-sendaigyu-kamonabe-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
@@ -560,10 +560,10 @@ export default function Page() {
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+              📊 日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
             </h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              楽天トラベル公式APIより取得した「日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -614,7 +614,7 @@ export default function Page() {
 
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイドで比較したい各宿のロケーション・駐車場・料金詳細
+              🏨 日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細
             </h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
@@ -686,9 +686,9 @@ export default function Page() {
 
           <div className="space-y-4 pt-6 border-t border-stone-200">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド」とあわせて巡りたい宮城県の代表観光スポット案内
+              🗺️ 「日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」とあわせて巡りたい宮城県の代表観光スポット案内
             </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
+            <p className="text-xs text-stone-600 leading-relaxed">「日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Matsushima_miyagi_z.JPG/1280px-Matsushima_miyagi_z.JPG?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="松島（日本三景）" className="w-full h-full object-cover" loading="lazy" /></div>

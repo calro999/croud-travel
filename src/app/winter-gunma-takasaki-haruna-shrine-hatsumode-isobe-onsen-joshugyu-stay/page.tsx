@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月群馬：奇岩の霊場「榛名神社」新春初！名宿5選',
+  title: '【11・12・1月群馬】奇岩の霊場「榛名神社」新春初詣と温泉記号発祥「磯部温泉」！下仁田ネギ・上州牛すき焼き名宿5選',
   description: '上州の山岳信仰と文豪が愛した名湯に温まる11〜1月の冬旅ガイド。奇岩と巨木がそびえ立つ関東屈指のパワースポット「榛名神社」の新春初詣や。',
   keywords: '榛名神社 初詣, 磯部温泉 旅館, ホテル磯部ガーデン, ホテルココグラン高崎, メトロポリタン高崎, 高崎だるま 少林山達磨寺, 下仁田ネギ すき焼き, 上州牛, 群馬 冬 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay/"
   },
   openGraph: {
-    title: '11・12・1月群馬：奇岩の霊場「榛名神社」新春初！名宿5選',
+    title: '【11・12・1月群馬】奇岩の霊場「榛名神社」新春初詣と温泉記号発祥「磯部温泉」！下仁田ネギ・上州牛すき焼き名宿5選',
     description: '上州の山岳信仰と文豪が愛した名湯に温まる11〜1月の冬旅ガイド。奇岩と巨木がそびえ立つ関東屈指のパワースポット「榛名神社」の新春初詣や。',
     url: 'https://croud-travel.pages.dev/winter-gunma-takasaki-haruna-shrine-hatsumode-isobe-onsen-joshugyu-stay/',
     type: 'article',

@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月広島：宮島厳島神社の初詣！名宿5選',
+  title: '【11・12・1月広島】冬の瀬戸内「広島牡蠣」焼き牡蠣・土手鍋＆世界遺産・宮島厳島神社の初詣・江田島温泉を巡る厳選名宿5選',
   description: '11月から1月、瀬戸内海・広島湾（廿日市宮島・江田島・広島市街）は、全国屈指のブランドを誇る「広島牡蠣」が最もふっくらと大粒に育ち。',
   keywords: '広島牡蠣 温泉宿, 宮島 厳島神社 初詣 宿, 有もと, 岩惣, 江田島荘, 安芸グランドホテル, ホテル宮島別荘, 11月 12月 1月 広島旅行, 焼き牡蠣 土手鍋 穴子めし',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hiroshima-miyajima-etajima-oyster-onsen-stay/"
   },
   openGraph: {
-    title: '11・12・1月広島：宮島厳島神社の初詣！名宿5選',
+    title: '【11・12・1月広島】冬の瀬戸内「広島牡蠣」焼き牡蠣・土手鍋＆世界遺産・宮島厳島神社の初詣・江田島温泉を巡る厳選名宿5選',
     description: '11月から1月、瀬戸内海・広島湾（廿日市宮島・江田島・広島市街）は、全国屈指のブランドを誇る「広島牡蠣」が最もふっくらと大粒に育ち。',
     url: 'https://croud-travel.pages.dev/winter-hiroshima-miyajima-etajima-oyster-onsen-stay/',
     siteName: 'クラドトラベル',

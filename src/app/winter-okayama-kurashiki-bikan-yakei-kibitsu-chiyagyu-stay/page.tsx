@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月岡山：国宝吉備津神社新春初詣！名宿5選',
+  title: '【11・12・1月岡山】冬の倉敷美観地区・白壁土蔵の夜間景観照明＆国宝吉備津神社新春初詣・名物下津井真蛸と幻の千屋牛を堪能する名宿5選',
   description: '11月から1月、岡山県倉敷市の「倉敷美観地区」は、観光客で賑わう日中とは打って変わり。',
   keywords: '倉敷美観地区 冬, 倉敷 夜間景観照明, 吉備津神社 初詣, 大回廊, 下津井真蛸, 千屋牛 ステーキ, 倉敷アイビースクエア, ロイヤルパークホテル倉敷, 倉敷国際ホテル, ドーミーイン倉敷, 大原美術館, 11月 12月 1月 岡山旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay/"
   },
   openGraph: {
-    title: '11・12・1月岡山：国宝吉備津神社新春初詣！名宿5選',
+    title: '【11・12・1月岡山】冬の倉敷美観地区・白壁土蔵の夜間景観照明＆国宝吉備津神社新春初詣・名物下津井真蛸と幻の千屋牛を堪能する名宿5選',
     description: '11月から1月、岡山県倉敷市の「倉敷美観地区」は、観光客で賑わう日中とは打って変わり。',
     url: 'https://croud-travel.pages.dev/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay/',
     siteName: 'クラドトラベル',

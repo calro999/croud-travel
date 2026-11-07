@@ -7,18 +7,18 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月東京：お台場レインボー花火！名宿5選',
+  title: '【11・12・1月東京】お台場レインボー花火＆豊洲千客万来！冬の東京ベイ夜景と江戸前海鮮・天然温泉に寛ぐ名宿5選',
   description: '冬の東京ベイエリアは、澄み切った澄明な冬空にレインボーブリッジと東京タワーが重なり合う年間最美の夜景シーズン。',
   keywords: 'お台場 ホテル, 豊洲千客万来 ホテル, お台場レインボー花火, レインボーブリッジ 夜景, ラビスタ東京ベイ, ヒルトン東京お台場, グランドニッコー東京台場, 11月 12月 1月 東京 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay/"
   },
   openGraph: {
-    title: '11・12・1月東京：お台場レインボー花火！名宿5選',
+    title: '【11・12・1月東京】お台場レインボー花火＆豊洲千客万来！冬の東京ベイ夜景と江戸前海鮮・天然温泉に寛ぐ名宿5選',
     description: '冬の東京ベイエリアは、澄み切った澄明な冬空にレインボーブリッジと東京タワーが重なり合う年間最美の夜景シーズン。',
     url: 'https://croud-travel.pages.dev/winter-tokyo-odaiba-toyosu-senkyakubanrai-yakei-stay/',
     type: 'article',
-    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/1917/1917.jpg' , alt: "11・12・1月東京：お台場レインボー花火！名宿5選"}]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/1917/1917.jpg' , alt: "【11・12・1月東京】お台場レインボー花火＆豊洲千客万来！冬の東京ベイ夜景と江戸前海鮮・天然温泉に寛ぐ名宿5選"}]
   }
 };
 

@@ -5,7 +5,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '岩手・花巻温泉郷＆盛岡つなぎ温泉！奥羽山脈の紅葉渓谷と前沢牛・いわて牛',
+  title: '岩手・花巻温泉郷＆盛岡つなぎ温泉！奥羽山脈の紅葉渓谷と前沢牛・いわて牛｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月・11月の岩手・花巻温泉郷＆盛岡つなぎ温泉を特集。宮沢賢治ゆかりのイーハトーブの山々が黄金色に染まる紅葉絶景、12の個性豊かな名湯、前沢牛や白金豚を堪能できる厳選3宿と楽天ふるさと納税の活用術をご紹介。',
   keywords: ["岩手", "花巻温泉郷", "いわて牛", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
@@ -126,7 +126,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-12 space-y-12 leading-relaxed">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"岩手・花巻温泉郷＆盛岡つなぎ温泉！奥羽山脈の紅葉渓谷と前沢牛・いわて牛 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-iwate-hanamaki-tsunagi-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"岩手・花巻温泉郷＆盛岡つなぎ温泉！奥羽山脈の紅葉渓谷と前沢牛・いわて牛｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-iwate-hanamaki-tsunagi-autumn-stay/"}]}) }}
       />
         {/* イントロダクション */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-4">
@@ -468,7 +468,7 @@ export default function Page() {
             </a>
             <a href="/winter-iwate-morioka-tsunagi-onsen-hatsumode-wagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月盛岡：冬の盛岡八幡宮新春開運初詣！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月盛岡】冬の盛岡八幡宮新春開運初詣＆岩手山白銀パノラマ！繋温泉の美肌いで湯と盛岡三大麺・雫石牛に寛ぐ名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
@@ -510,10 +510,10 @@ export default function Page() {
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 岩手・花巻温泉郷＆盛岡つなぎ温泉！奥羽山脈の紅葉渓谷と前沢牛・いわて牛：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+              📊 岩手・花巻温泉郷＆盛岡つなぎ温泉！奥羽山脈の紅葉渓谷と前沢牛・いわて牛｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
             </h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「岩手・花巻温泉郷＆盛岡つなぎ温泉！奥羽山脈の紅葉渓谷と前沢牛・いわて牛」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              楽天トラベル公式APIより取得した「岩手・花巻温泉郷＆盛岡つなぎ温泉！奥羽山脈の紅葉渓谷と前沢牛・いわて牛｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -564,7 +564,7 @@ export default function Page() {
 
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 岩手・花巻温泉郷＆盛岡つなぎ温泉！奥羽山脈の紅葉渓谷と前沢牛・いわて牛で比較したい各宿のロケーション・駐車場・料金詳細
+              🏨 岩手・花巻温泉郷＆盛岡つなぎ温泉！奥羽山脈の紅葉渓谷と前沢牛・いわて牛｜ふるさと納税で泊まれる名宿ガイドで比較したい各宿のロケーション・駐車場・料金詳細
             </h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
@@ -638,7 +638,7 @@ export default function Page() {
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
               🗺️ 「岩手・花巻温泉郷＆盛岡つなぎ温泉（奥羽山脈の紅葉渓谷と前沢牛・いわて牛）」とあわせて巡りたい岩手県の代表観光スポット案内
             </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「岩手・花巻温泉郷＆盛岡つなぎ温泉！奥羽山脈の紅葉渓谷と前沢牛・いわて牛」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
+            <p className="text-xs text-stone-600 leading-relaxed">「岩手・花巻温泉郷＆盛岡つなぎ温泉！奥羽山脈の紅葉渓谷と前沢牛・いわて牛｜ふるさと納税で泊まれる名宿ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               

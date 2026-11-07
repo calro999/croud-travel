@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '兵庫・淡路島サンセット温泉＆秋の鳴門海峡！絶品淡路島3年とらふぐ＆淡路牛会席',
+  title: '兵庫・淡路島サンセット温泉＆秋の鳴門海峡！絶品淡路島3年とらふぐ＆淡路牛会席｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月・11月の兵庫・淡路島特集！瀬戸内海・播磨灘に沈む茜色の絶景サンセットと湯ざわり滑らかなうずしお温泉＆洲本温泉、秋解禁の極上「淡路島3年とらふぐ」や最高級淡路牛、鳴門海峡の秋の大潮うずしおをふるさと納税トラベルクーポンで満喫する大人の島旅。',
   keywords: ["兵庫", "淡路島サンセット温泉", "淡路牛会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-awaji-sunset-onsen-autumn-stay/",
   },
   openGraph: {
-    title: '兵庫・淡路島サンセット温泉＆秋の鳴門海峡！絶品淡路島3年とらふぐ＆淡路牛会席',
+    title: '兵庫・淡路島サンセット温泉＆秋の鳴門海峡！絶品淡路島3年とらふぐ＆淡路牛会席｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月・11月の兵庫・淡路島特集！瀬戸内海・播磨灘に沈む茜色の絶景サンセットと湯ざわり滑らかなうずしお温泉＆洲本温泉、秋解禁の極上「淡路島3年とらふぐ」や最高級淡路牛、鳴門海峡の秋の大潮うずしおをふるさと納税トラベルクーポンで満喫する大人の島旅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-awaji-sunset-onsen-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "兵庫・淡路島サンセット温泉＆秋の鳴門海峡！絶品淡路島3年とらふぐ＆淡路牛会席",
+    "headline": "兵庫・淡路島サンセット温泉＆秋の鳴門海峡！絶品淡路島3年とらふぐ＆淡路牛会席｜ふるさと納税で泊まれる名宿ガイド",
     "description": "10月・11月の兵庫・淡路島特集！瀬戸内海・播磨灘に沈む茜色の絶景サンセットと湯ざわり滑らかなうずしお温泉＆洲本温泉、秋解禁の極上「淡路島3年とらふぐ」や最高級淡路牛、鳴門海峡の秋の大潮うずしおをふるさと納税トラベルクーポンで満喫する大人の島旅。",
     "author": {
       "@type": "Organization",
@@ -110,7 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">兵庫・淡路島サンセット温泉＆秋の鳴門海峡！絶品淡路島3年とらふぐ＆淡路牛会席</h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">兵庫・淡路島サンセット温泉＆秋の鳴門海峡！絶品淡路島3年とらふぐ＆淡路牛会席｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の兵庫・淡路島特集！瀬戸内海・播磨灘に沈む茜色の絶景サンセットと湯ざわり滑らかなうずしお温泉＆洲本温泉、秋解禁の極上「淡路島3年とらふぐ」や最高級淡路牛、鳴門海峡の秋の大潮うずしおをふるさと納税トラベルクーポンで満喫する大人の島旅。
           </p>
@@ -126,7 +126,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-12 space-y-12 leading-relaxed">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"兵庫・淡路島サンセット温泉＆秋の鳴門海峡！絶品淡路島3年とらふぐ＆淡路牛会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-awaji-sunset-onsen-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"兵庫・淡路島サンセット温泉＆秋の鳴門海峡！絶品淡路島3年とらふぐ＆淡路牛会席｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-awaji-sunset-onsen-autumn-stay/"}]}) }}
       />
         {/* イントロダクション */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-4">
@@ -457,7 +457,7 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-yamagata-shonai-hagurosan-sakata-kandarajiru-yunohama-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月山形：羽黒山「国宝五重塔」雪景色と酒田山居倉庫！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月山形】羽黒山「国宝五重塔」雪景色と酒田山居倉庫！冬名物「寒鱈どんがら汁」・日本海寒魚＆湯野浜・あつみ温泉名宿5選</span>
             </a>
             <a href="/yamagata-kaminoyama-solo-retreat-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>

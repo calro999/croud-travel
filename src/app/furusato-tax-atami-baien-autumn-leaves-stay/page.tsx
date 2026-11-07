@@ -505,7 +505,7 @@ export default function FeatureArticlePage() {
             </a>
             <a href="/winter-hokkaido-monbetsu-drift-ice-garinko-driftice-gourmet-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">紋別流氷観光＆ガリンコ号：巨大ドリルで氷を砕く圧巻の航海！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【紋別流氷観光＆ガリンコ号】巨大ドリルで氷を砕く圧巻の航海！氷海オホーツクタワー・極上毛ガニ＆ホタテを満喫する冬の厳選宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月福岡：鐘崎天然とらふぐと極上宗像牛！名宿5選',
+  title: '【11・12・1月福岡】世界遺産・宗像大社新春開運初詣＆玄界灘冬絶景！鐘崎天然とらふぐと極上宗像牛を堪能する名宿5選',
   description: '冬の福岡・宗像と岡垣は、世界文化遺産「神宿る島」宗像・沖ノ島と関連遺産群の中枢「宗像大社辺津宮」が新春開運祈願で賑わい。',
   keywords: '宗像 ホテル, 宗像大社 初詣, 鐘崎 とらふぐ, 宗像牛, メルキュール福岡宗像, ぶどうの樹 杜の七種, 宮地嶽神社, 11月 12月 1月 福岡 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay/"
   },
   openGraph: {
-    title: '11・12・1月福岡：鐘崎天然とらふぐと極上宗像牛！名宿5選',
+    title: '【11・12・1月福岡】世界遺産・宗像大社新春開運初詣＆玄界灘冬絶景！鐘崎天然とらふぐと極上宗像牛を堪能する名宿5選',
     description: '冬の福岡・宗像と岡垣は、世界文化遺産「神宿る島」宗像・沖ノ島と関連遺産群の中枢「宗像大社辺津宮」が新春開運祈願で賑わい。',
     url: 'https://croud-travel.pages.dev/winter-fukuoka-munakata-taisha-hatsumode-torafugu-munakatagyu-stay/',
     type: 'article',

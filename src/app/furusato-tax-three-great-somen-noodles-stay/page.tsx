@@ -508,7 +508,7 @@ export default function Page() {
             </a>
             <a href="/winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月埼玉：奥武蔵の薪火サウナと武州和牛！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月埼玉】ムーミンバレーパーク冬イルミ＆名栗温泉の秘湯！奥武蔵の薪火サウナと武州和牛名宿5選</span>
             </a>
             <a href="/furusato-tax-nagatoro-iwadatami-autumn-leaves-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>

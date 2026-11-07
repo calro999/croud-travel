@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月京都：八坂神社新春初詣！名宿5選',
+  title: '【11・12・1月京都】八坂神社新春初詣＆雪の清水寺！冬の祇園白川の風情と老舗湯豆腐・京懐石の雅宿5選',
   description: '冬の京都・東山は、観光の喧騒が落ち着き古都本来の静寂と雅な旅情が広がる特別な季節。大晦日の「をけら詣り」から新春の活気に包まれる八坂神社。',
   keywords: '京都 祇園 ホテル, 清水寺 ホテル, 八坂神社 初詣, 東山 旅館, ウェスティン都ホテル京都, セレスティン京都祇園, ハイアットリージェンシー京都, 京都グランベルホテル, ノーガホテル清水京都, 11月 12月 1月 京都 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay/"
   },
   openGraph: {
-    title: '11・12・1月京都：八坂神社新春初詣！名宿5選',
+    title: '【11・12・1月京都】八坂神社新春初詣＆雪の清水寺！冬の祇園白川の風情と老舗湯豆腐・京懐石の雅宿5選',
     description: '冬の京都・東山は、観光の喧騒が落ち着き古都本来の静寂と雅な旅情が広がる特別な季節。大晦日の「をけら詣り」から新春の活気に包まれる八坂神社。',
     url: 'https://croud-travel.pages.dev/winter-kyoto-gion-higashiyama-yasaka-shrine-hatsumode-kiyomizu-stay/',
     siteName: '地域の宿探訪',

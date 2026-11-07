@@ -8,13 +8,13 @@ import Image from 'next/image';
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
 
 export const metadata: Metadata = {
-  title: "日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド",
+  title: "日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
   description: "先人たちの驚異的な木造建築美！山口「錦帯橋」五連の木造アーチ橋とアパホテル山口岩国駅前西、山梨「甲斐の猿橋」橋脚を使わない刎橋構造と石和温泉ホテル平安、徳島「祖谷のかずら橋」足元が透けるスリルと秘境の新祖谷温泉ホテルかずら橋。日本三奇橋の絶景と渓谷美を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガ...",
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-curious-bridges-canyon-stay/",
   },
   openGraph: {
-    title: "日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド",
+    title: "日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
     description: "先人たちの驚異的な木造建築美！山口「錦帯橋」五連の木造アーチ橋とアパホテル山口岩国駅前西、山梨「甲斐の猿橋」橋脚を使わない刎橋構造と石和温泉ホテル平安、徳島「祖谷のかずら橋」足元が透けるスリルと秘境の新祖谷温泉ホテルかずら橋。日本三奇橋の絶景と渓谷美を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガ...",
     url: "https://croud-travel.pages.dev/furusato-tax-three-great-curious-bridges-canyon-stay/",
   },
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "headline": "日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
     "description": "先人たちの驚異的な木造建築美！山口「錦帯橋」五連の木造アーチ橋とアパホテル山口岩国駅前西、山梨「甲斐の猿橋」橋脚を使わない刎橋構造と石和温泉ホテル平安、徳島「祖谷のかずら橋」足元が透けるスリルと秘境の新祖谷温泉ホテルかずら橋。日本三奇橋の絶景と渓谷美を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガ...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-curious-bridges-canyon-stay/",
     "publisher": {
@@ -56,7 +56,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三奇橋・建築と渓谷美特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド</h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             先人たちの驚異的な木造建築美！山口「錦帯橋」五連の木造アーチ橋とアパホテル山口岩国駅前西、山梨「甲斐の猿橋」橋脚を使わない刎橋構造と石和温泉ホテル平安、徳島「祖谷のかずら橋」足元が透けるスリルと秘境の新祖谷温泉ホテルかずら橋。日本三奇橋の絶景と渓谷美を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>
@@ -560,10 +560,10 @@ export default function Page() {
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+              📊 日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
             </h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              楽天トラベル公式APIより取得した「日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -614,7 +614,7 @@ export default function Page() {
 
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイドエリアの宿泊施設別スペック＆滞在チェックポイント
+              🏨 日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウドエリアの宿泊施設別スペック＆滞在チェックポイント
             </h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
@@ -686,9 +686,9 @@ export default function Page() {
 
           <div className="space-y-4 pt-6 border-t border-stone-200">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド」とあわせて巡りたい北海道の代表観光スポット案内
+              🗺️ 「日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」とあわせて巡りたい北海道の代表観光スポット案内
             </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
+            <p className="text-xs text-stone-600 leading-relaxed">「日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Wide_view_of_Mount_Hakodate_from_Mashu-Maru.jpg/1280px-Wide_view_of_Mount_Hakodate_from_Mashu-Maru.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="函館山（夜景）" className="w-full h-full object-cover" loading="lazy" /></div>

@@ -649,7 +649,7 @@ export default function FeatureDetailPage() {
             </a>
             <a href="/winter-yamanashi-kofu-takeda-shrine-yumura-onsen-koshugyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月山梨：武田神社新春初詣！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月山梨】武田神社新春初詣＆富士山・南アルプス雪景色！開湯1200年信玄の隠し湯「湯村温泉」と熱々ほうとう・極上甲州牛の名宿5選</span>
             </a>
             <a href="/yamanashi-grape-bus-tour-daytrip-guide/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>

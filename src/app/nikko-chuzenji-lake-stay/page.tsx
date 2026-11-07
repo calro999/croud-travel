@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/nikko-chuzenji-lake-stay/" },
-  title: "奥日光・中禅寺湖：華厳の滝＆湖畔リゾート極上宿 厳選ガイド",
+  title: "【奥日光・中禅寺湖】華厳の滝＆湖畔リゾート極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
   description: "奥日光・中禅寺湖畔エリア完全特化！日本三名瀑・華厳の滝、中禅寺湖遊覧船、男体山、日光湯元温泉周辺の絶景観光ルートと人気レイクサイドホテルを徹底解説。",
   keywords: ["奥日光", "中禅寺湖", "華厳の滝", "湖畔リゾート極上宿", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "奥日光・中禅寺湖：華厳の滝＆湖畔リゾート極上宿 厳選ガイド",
+    title: "【奥日光・中禅寺湖】華厳の滝＆湖畔リゾート極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
     description: "奥日光・中禅寺湖畔エリア完全特化！日本三名瀑・華厳の滝、中禅寺湖遊覧船、男体山、日光湯元温泉周辺の絶景観光ルートと人気レイクサイドホテルを徹底解説。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "奥日光・中禅寺湖：華厳の滝＆湖畔リゾート極上宿 厳選ガイド",
+    title: "【奥日光・中禅寺湖】華厳の滝＆湖畔リゾート極上宿 完全ガイド ｜ 日本全国・旅宿クラウド",
     description: "奥日光・中禅寺湖畔エリア完全特化！日本三名瀑・華厳の滝、中禅寺湖遊覧船、男体山、日光湯元温泉周辺の絶景観光ルートと人気レイクサイドホテルを徹底解説。",
   }
 };
@@ -233,10 +233,10 @@ export default function MicroTouristHubPage() {
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 奥日光・中禅寺湖：華厳の滝＆湖畔リゾート極上宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+              📊 【奥日光・中禅寺湖】華厳の滝＆湖畔リゾート極上宿 完全ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
             </h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「奥日光・中禅寺湖：華厳の滝＆湖畔リゾート極上宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              楽天トラベル公式APIより取得した「【奥日光・中禅寺湖】華厳の滝＆湖畔リゾート極上宿 完全ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -454,7 +454,7 @@ export default function MicroTouristHubPage() {
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
               🗺️ 「奥日光・中禅寺湖（華厳の滝＆湖畔リゾート極上宿 厳選ガイド）」とあわせて巡りたい栃木県の代表観光スポット案内
             </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「奥日光・中禅寺湖：華厳の滝＆湖畔リゾート極上宿 厳選ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
+            <p className="text-xs text-stone-600 leading-relaxed">「【奥日光・中禅寺湖】華厳の滝＆湖畔リゾート極上宿 完全ガイド ｜ 日本全国・旅宿クラウド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               

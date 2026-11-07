@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '唐津くんち（11月国重要無形民俗文化財）の熱気と呼子イカ・唐津湾オーシャンビュー温泉',
+  title: '唐津くんち（11月国重要無形民俗文化財）の熱気と呼子イカ・唐津湾オーシャンビュー温泉｜ふるさと納税で泊まれる名宿ガイド',
   description: '11月2日〜4日に豪華絢爛な曳山が巡行する「唐津くんち」。呼子名物の透明な活きイカ姿造りと最高峰の佐賀牛・伊万里牛、唐津湾を一望する天然温泉をふるさと納税で堪能する秋の佐賀・北松浦旅。',
   keywords: ["唐津湾オーシャンビュー温泉", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-karatsu-kunchi-yobuko-autumn-stay/",
   },
   openGraph: {
-    title: '唐津くんち（11月国重要無形民俗文化財）の熱気と呼子イカ・唐津湾オーシャンビュー温泉',
+    title: '唐津くんち（11月国重要無形民俗文化財）の熱気と呼子イカ・唐津湾オーシャンビュー温泉｜ふるさと納税で泊まれる名宿ガイド',
     description: '11月2日〜4日に豪華絢爛な曳山が巡行する「唐津くんち」。呼子名物の透明な活きイカ姿造りと最高峰の佐賀牛・伊万里牛、唐津湾を一望する天然温泉をふるさと納税で堪能する秋の佐賀・北松浦旅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-karatsu-kunchi-yobuko-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "唐津くんち（11月国重要無形民俗文化財）の熱気と呼子イカ・唐津湾オーシャンビュー温泉",
+    "headline": "唐津くんち（11月国重要無形民俗文化財）の熱気と呼子イカ・唐津湾オーシャンビュー温泉｜ふるさと納税で泊まれる名宿ガイド",
     "description": "11月2日〜4日に豪華絢爛な曳山が巡行する「唐津くんち」。呼子名物の透明な活きイカ姿造りと最高峰の佐賀牛・伊万里牛、唐津湾を一望する天然温泉をふるさと納税で堪能する秋の佐賀・北松浦旅。",
     "author": {
       "@type": "Organization",
@@ -101,7 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">唐津くんち（11月国重要無形民俗文化財）の熱気と呼子イカ・唐津湾オーシャンビュー温泉</h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">唐津くんち（11月国重要無形民俗文化財）の熱気と呼子イカ・唐津湾オーシャンビュー温泉｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             秋の唐津を彩る絢爛豪華な曳山まつり。玄界灘の絶景露天風呂と呼子の透き通る活イカに感動する秋の佐賀路。
           </p>
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"唐津くんち（11月国重要無形民俗文化財）の熱気と呼子イカ・唐津湾オーシャンビュー温泉 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-karatsu-kunchi-yobuko-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"唐津くんち（11月国重要無形民俗文化財）の熱気と呼子イカ・唐津湾オーシャンビュー温泉｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-karatsu-kunchi-yobuko-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
@@ -489,7 +489,7 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-hokkaido-tomamu-furano-ice-village-wagyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月北海道：極上富良野和牛！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月北海道】氷の街トマム「アイスヴィレッジ」と白銀の富良野・極上富良野和牛＆濃厚ふらのチーズフォンデュを堪能する冬リゾート名宿5選</span>
             </a>
             <a href="/autumn-budget-hokkaido-hakodate-goryokaku-momiji-squid-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>

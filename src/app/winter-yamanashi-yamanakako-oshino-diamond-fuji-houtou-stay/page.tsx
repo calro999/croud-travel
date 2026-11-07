@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月山梨：富士山を望む絶景温泉！名宿5選',
+  title: '【11・12・1月山梨】冬の澄天に輝く「ダイヤモンド富士」と雪化粧の忍野八海・熱々「甲州ほうとう鍋」＆富士山を望む絶景温泉宿5選',
   description: '11月から1月、山梨県山中湖・忍野村は、夕陽が富士山頂に重なり黄金色に輝く奇跡の天体ショー「ダイヤモンド富士」と。',
   keywords: '山中湖 ダイヤモンド富士, 忍野八海 冬, 紅富士, 甲州ほうとう鍋, 富士マリオットホテル山中湖, ホテルマウント富士, 富士クラシックホテル, 山中湖秀山荘, ラコストリ山中湖, 山中湖温泉, 11月 12月 1月 山梨旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay/"
   },
   openGraph: {
-    title: '11・12・1月山梨：富士山を望む絶景温泉！名宿5選',
+    title: '【11・12・1月山梨】冬の澄天に輝く「ダイヤモンド富士」と雪化粧の忍野八海・熱々「甲州ほうとう鍋」＆富士山を望む絶景温泉宿5選',
     description: '11月から1月、山梨県山中湖・忍野村は、夕陽が富士山頂に重なり黄金色に輝く奇跡の天体ショー「ダイヤモンド富士」と。',
     url: 'https://croud-travel.pages.dev/winter-yamanashi-yamanakako-oshino-diamond-fuji-houtou-stay/',
     siteName: 'クラドトラベル',

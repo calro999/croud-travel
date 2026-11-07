@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '中山道・木曽路（妻籠宿・馬籠宿）秋の街道歩き紅葉＆木曽駒高原の美肌温泉・信州木曽牛',
+  title: '中山道・木曽路（妻籠宿・馬籠宿）秋の街道歩き紅葉＆木曽駒高原の美肌温泉・信州木曽牛｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月中旬〜11月中旬に中山道の歴史ある宿場町を秋風と紅葉が包む木曽路。妻籠宿・馬籠宿・奈良井宿のノスタルジーと、木曽御嶽山を望む天然温泉・信州木曽牛会席をふるさと納税で楽しむ大人の秋旅。',
   keywords: ["中山道", "木曽路（妻籠宿", "馬籠宿）秋の街道歩き紅葉", "木曽駒高原の美肌温泉", "信州木曽牛", "クラウドトラベルふるさと納税", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kisoji-tsumago-magome-autumn-stay/",
   },
   openGraph: {
-    title: '中山道・木曽路（妻籠宿・馬籠宿）秋の街道歩き紅葉＆木曽駒高原の美肌温泉・信州木曽牛',
+    title: '中山道・木曽路（妻籠宿・馬籠宿）秋の街道歩き紅葉＆木曽駒高原の美肌温泉・信州木曽牛｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月中旬〜11月中旬に中山道の歴史ある宿場町を秋風と紅葉が包む木曽路。妻籠宿・馬籠宿・奈良井宿のノスタルジーと、木曽御嶽山を望む天然温泉・信州木曽牛会席をふるさと納税で楽しむ大人の秋旅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kisoji-tsumago-magome-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "中山道・木曽路（妻籠宿・馬籠宿）秋の街道歩き紅葉＆木曽駒高原の美肌温泉・信州木曽牛",
+    "headline": "中山道・木曽路（妻籠宿・馬籠宿）秋の街道歩き紅葉＆木曽駒高原の美肌温泉・信州木曽牛｜ふるさと納税で泊まれる名宿ガイド",
     "description": "10月中旬〜11月中旬に中山道の歴史ある宿場町を秋風と紅葉が包む木曽路。妻籠宿・馬籠宿・奈良井宿のノスタルジーと、木曽御嶽山を望む天然温泉・信州木曽牛会席をふるさと納税で楽しむ大人の秋旅。",
     "author": {
       "@type": "Organization",
@@ -101,7 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">中山道・木曽路（妻籠宿・馬籠宿）秋の街道歩き紅葉＆木曽駒高原の美肌温泉・信州木曽牛</h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">中山道・木曽路（妻籠宿・馬籠宿）秋の街道歩き紅葉＆木曽駒高原の美肌温泉・信州木曽牛｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             江戸の面影残す妻籠・馬籠の石畳を彩る秋の木々。木曽ヒノキ香る名湯と信州木曽牛の滋味に満たされる旅。
           </p>
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"中山道・木曽路（妻籠宿・馬籠宿）秋の街道歩き紅葉＆木曽駒高原の美肌温泉・信州木曽牛 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-kisoji-tsumago-magome-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"中山道・木曽路（妻籠宿・馬籠宿）秋の街道歩き紅葉＆木曽駒高原の美肌温泉・信州木曽牛｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-kisoji-tsumago-magome-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

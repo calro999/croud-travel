@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '志賀高原横手山のパノラマ紅葉＆石畳の風情漂う湯田中渋温泉郷・信州りんご＆信州牛ステイ',
+  title: '志賀高原横手山のパノラマ紅葉＆石畳の風情漂う湯田中渋温泉郷・信州りんご＆信州牛ステイ｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月上旬〜10月下旬に白樺とダケカンバが黄金に輝く志賀高原・横手山。レトロな石畳が続く湯田中渋温泉郷の老舗宿で、外湯めぐりと旬の信州りんご・信州プレミアム牛をふるさと納税で楽しむ秋の信濃路。',
   keywords: ["志賀高原横手山のパノラマ紅葉", "石畳の風情漂う湯田中渋温泉郷", "信州りんご", "信州牛ステイ", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-shigakogen-yudanaka-autumn-stay/",
   },
   openGraph: {
-    title: '志賀高原横手山のパノラマ紅葉＆石畳の風情漂う湯田中渋温泉郷・信州りんご＆信州牛ステイ',
+    title: '志賀高原横手山のパノラマ紅葉＆石畳の風情漂う湯田中渋温泉郷・信州りんご＆信州牛ステイ｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月上旬〜10月下旬に白樺とダケカンバが黄金に輝く志賀高原・横手山。レトロな石畳が続く湯田中渋温泉郷の老舗宿で、外湯めぐりと旬の信州りんご・信州プレミアム牛をふるさと納税で楽しむ秋の信濃路。',
     url: 'https://croud-travel.pages.dev/furusato-tax-shigakogen-yudanaka-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "志賀高原横手山のパノラマ紅葉＆石畳の風情漂う湯田中渋温泉郷・信州りんご＆信州牛ステイ",
+    "headline": "志賀高原横手山のパノラマ紅葉＆石畳の風情漂う湯田中渋温泉郷・信州りんご＆信州牛ステイ｜ふるさと納税で泊まれる名宿ガイド",
     "description": "10月上旬〜10月下旬に白樺とダケカンバが黄金に輝く志賀高原・横手山。レトロな石畳が続く湯田中渋温泉郷の老舗宿で、外湯めぐりと旬の信州りんご・信州プレミアム牛をふるさと納税で楽しむ秋の信濃路。",
     "author": {
       "@type": "Organization",
@@ -101,7 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">志賀高原横手山のパノラマ紅葉＆石畳の風情漂う湯田中渋温泉郷・信州りんご＆信州牛ステイ</h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">志賀高原横手山のパノラマ紅葉＆石畳の風情漂う湯田中渋温泉郷・信州りんご＆信州牛ステイ｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             標高2,000mから見渡す黄金の志賀高原。レトロな湯煙の街・湯田中渋温泉郷で信州の秋の味覚に浸る贅沢ステイ。
           </p>
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"志賀高原横手山のパノラマ紅葉＆石畳の風情漂う湯田中渋温泉郷・信州りんご＆信州牛ステイ | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-shigakogen-yudanaka-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"志賀高原横手山のパノラマ紅葉＆石畳の風情漂う湯田中渋温泉郷・信州りんご＆信州牛ステイ｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-shigakogen-yudanaka-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
@@ -489,7 +489,7 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-tokyo-shinjuku-nishishinjuku-illumination-hatsumode-luxury-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月東京：花園神社初詣を味わう！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月東京】新宿＆西新宿・新宿御苑！新宿ミナミルミ＆サザンテラス冬イルミと都庁展望室夜景・花園神社初詣を味わう名宿5選</span>
             </a>
             <a href="/furusato-tax-three-great-ancient-glass-craft-towns-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>

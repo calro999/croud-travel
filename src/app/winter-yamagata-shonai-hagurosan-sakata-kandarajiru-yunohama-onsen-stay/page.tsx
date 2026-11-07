@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月山形：羽黒山「国宝五重塔」雪景色と酒田山居倉庫！名宿5選',
+  title: '【11・12・1月山形】羽黒山「国宝五重塔」雪景色と酒田山居倉庫！冬名物「寒鱈どんがら汁」・日本海寒魚＆湯野浜・あつみ温泉名宿5選',
   description: '霊峰月山・鳥海山を仰ぐ山形県庄内地方の11〜1月冬紀行。白銀の老杉回廊に佇む羽黒山「国宝五重塔」と出羽三山神社新春初詣。',
   keywords: '羽黒山 五重塔 雪景色, 酒田 山居倉庫 冬, 寒鱈どんがら汁 庄内, 湯野浜温泉 冬, あつみ温泉 たちばなや, 萬国屋, 鶴岡 冬観光, 出羽三山 初詣',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-shonai-hagurosan-sakata-kandarajiru-yunohama-onsen-stay/"
   },
   openGraph: {
-    title: '11・12・1月山形：羽黒山「国宝五重塔」雪景色と酒田山居倉庫！名宿5選',
+    title: '【11・12・1月山形】羽黒山「国宝五重塔」雪景色と酒田山居倉庫！冬名物「寒鱈どんがら汁」・日本海寒魚＆湯野浜・あつみ温泉名宿5選',
     description: '霊峰月山・鳥海山を仰ぐ山形県庄内地方の11〜1月冬紀行。白銀の老杉回廊に佇む羽黒山「国宝五重塔」と出羽三山神社新春初詣。',
     url: 'https://croud-travel.pages.dev/winter-yamagata-shonai-hagurosan-sakata-kandarajiru-yunohama-onsen-stay/',
     type: 'article',

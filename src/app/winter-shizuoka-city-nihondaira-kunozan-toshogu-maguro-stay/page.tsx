@@ -7,18 +7,18 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月静岡清水：冬の久能山東照宮新春初詣！名宿5選',
+  title: '【11・12・1月静岡清水】冬の久能山東照宮新春初詣＆日本平富士山パノラマ絶景！清水港冬マグロ・由比桜えびと名宿5選',
   description: '冬の静岡・清水エリアは、大気澄み渡る冬晴れの空に純白の雪を抱いた富士山が駿河湾の青に映える絶景ロケーションとともに楽しむ宿泊ガイドです。',
   keywords: '静岡 ホテル, 清水 ホテル, 久能山東照宮 初詣, 日本平ホテル, 日本平夢テラス 富士山, 清水港 マグロ, 由比 桜えび, ホテルオーレイン静岡, 11月 12月 1月 静岡 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-city-nihondaira-kunozan-toshogu-maguro-stay/"
   },
   openGraph: {
-    title: '11・12・1月静岡清水：冬の久能山東照宮新春初詣！名宿5選',
+    title: '【11・12・1月静岡清水】冬の久能山東照宮新春初詣＆日本平富士山パノラマ絶景！清水港冬マグロ・由比桜えびと名宿5選',
     description: '冬の静岡・清水エリアは、大気澄み渡る冬晴れの空に純白の雪を抱いた富士山が駿河湾の青に映える絶景ロケーションとともに楽しむ宿泊ガイドです。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-city-nihondaira-kunozan-toshogu-maguro-stay/',
     type: 'article',
-    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/13913/13913.jpg' , alt: "11・12・1月静岡清水：冬の久能山東照宮新春初詣！名宿5選"}]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/13913/13913.jpg' , alt: "【11・12・1月静岡清水】冬の久能山東照宮新春初詣＆日本平富士山パノラマ絶景！清水港冬マグロ・由比桜えびと名宿5選"}]
   }
 };
 

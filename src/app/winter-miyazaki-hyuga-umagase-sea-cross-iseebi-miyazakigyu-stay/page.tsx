@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月宮崎：冬旬「日向灘伊勢海老」！名宿5選',
+  title: '【11・12・1月宮崎】日向岬「馬ヶ背」断崖絶壁と「クルスの海」新春祈願！冬旬「日向灘伊勢海老」＆宮崎牛・延岡名宿5選',
   description: '冬でも温暖な南国・宮崎の日豊海岸。11〜1月の冬シーズンは湿度が低く大気が澄み渡り。',
   keywords: '馬ヶ背 絶景, クルスの海 初日の出, 大御神社 初詣, 日向灘 伊勢海老, 宮崎牛, ホテルベルフォート日向, エンシティホテル延岡, チキン南蛮 直ちゃん, 延岡 ホテル, 宮崎 冬旅行',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay/'
   },
   openGraph: {
-    title: '11・12・1月宮崎：冬旬「日向灘伊勢海老」！名宿5選',
+    title: '【11・12・1月宮崎】日向岬「馬ヶ背」断崖絶壁と「クルスの海」新春祈願！冬旬「日向灘伊勢海老」＆宮崎牛・延岡名宿5選',
     description: '冬でも温暖な南国・宮崎の日豊海岸。11〜1月の冬シーズンは湿度が低く大気が澄み渡り。',
     url: 'https://croud-travel.pages.dev/winter-miyazaki-hyuga-umagase-sea-cross-iseebi-miyazakigyu-stay/',
     type: 'article',

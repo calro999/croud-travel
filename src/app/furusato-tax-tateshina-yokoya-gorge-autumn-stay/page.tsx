@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '蓼科高原・横谷渓谷の黄金カラマツ紅葉と巨岩の滝巡り＆信州蓼科温泉郷・信州プレミアム牛',
+  title: '蓼科高原・横谷渓谷の黄金カラマツ紅葉と巨岩の滝巡り＆信州蓼科温泉郷・信州プレミアム牛｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月中旬〜11月上旬に黄金色に輝く蓼科高原のカラマツ林と横谷渓谷おしどり隠しの滝。蓼科温泉郷の隠れ宿で、弱酸性・含鉄泉の温まり名湯と信州プレミアム牛・信州サーモンをふるさと納税で楽しむ贅沢ステイ。',
   keywords: ["蓼科高原", "信州蓼科温泉郷", "信州プレミアム牛", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-tateshina-yokoya-gorge-autumn-stay/",
   },
   openGraph: {
-    title: '蓼科高原・横谷渓谷の黄金カラマツ紅葉と巨岩の滝巡り＆信州蓼科温泉郷・信州プレミアム牛',
+    title: '蓼科高原・横谷渓谷の黄金カラマツ紅葉と巨岩の滝巡り＆信州蓼科温泉郷・信州プレミアム牛｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月中旬〜11月上旬に黄金色に輝く蓼科高原のカラマツ林と横谷渓谷おしどり隠しの滝。蓼科温泉郷の隠れ宿で、弱酸性・含鉄泉の温まり名湯と信州プレミアム牛・信州サーモンをふるさと納税で楽しむ贅沢ステイ。',
     url: 'https://croud-travel.pages.dev/furusato-tax-tateshina-yokoya-gorge-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "蓼科高原・横谷渓谷の黄金カラマツ紅葉と巨岩の滝巡り＆信州蓼科温泉郷・信州プレミアム牛",
+    "headline": "蓼科高原・横谷渓谷の黄金カラマツ紅葉と巨岩の滝巡り＆信州蓼科温泉郷・信州プレミアム牛｜ふるさと納税で泊まれる名宿ガイド",
     "description": "10月中旬〜11月上旬に黄金色に輝く蓼科高原のカラマツ林と横谷渓谷おしどり隠しの滝。蓼科温泉郷の隠れ宿で、弱酸性・含鉄泉の温まり名湯と信州プレミアム牛・信州サーモンをふるさと納税で楽しむ贅沢ステイ。",
     "author": {
       "@type": "Organization",
@@ -101,7 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">蓼科高原・横谷渓谷の黄金カラマツ紅葉と巨岩の滝巡り＆信州蓼科温泉郷・信州プレミアム牛</h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">蓼科高原・横谷渓谷の黄金カラマツ紅葉と巨岩の滝巡り＆信州蓼科温泉郷・信州プレミアム牛｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             横谷渓谷の清流を包み込む黄金のカラマツ絵巻。蓼科の澄んだ空気と名湯、信州の秋の味覚に心ほどける休日。
           </p>
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"蓼科高原・横谷渓谷の黄金カラマツ紅葉と巨岩の滝巡り＆信州蓼科温泉郷・信州プレミアム牛 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-tateshina-yokoya-gorge-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"蓼科高原・横谷渓谷の黄金カラマツ紅葉と巨岩の滝巡り＆信州蓼科温泉郷・信州プレミアム牛｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-tateshina-yokoya-gorge-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
@@ -489,7 +489,7 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-kanagawa-isehara-oyama-afuri-shrine-hatsumode-tofu-tsurumaki-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月神奈川：「大山阿夫利神社」新春初詣と！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月神奈川】「大山阿夫利神社」新春初詣と相模湾冬パノラマ！名水大山豆腐料理＆名湯「鶴巻・七沢温泉」厳選名宿5選</span>
             </a>
             <a href="/autumn-kanagawa-hakone-sengokuhara-susuki-onsen-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>

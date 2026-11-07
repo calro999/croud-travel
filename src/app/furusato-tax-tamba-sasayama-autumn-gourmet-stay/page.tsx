@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '丹波篠山の秋の味覚狩り（丹波黒枝豆・丹波栗）＆丹波篠山城下町の古民家宿・名物ぼたん鍋',
+  title: '丹波篠山の秋の味覚狩り（丹波黒枝豆・丹波栗）＆丹波篠山城下町の古民家宿・名物ぼたん鍋｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月中旬〜11月下旬に旬のピークを迎える丹波黒枝豆・丹波栗・松茸・本場ぼたん鍋（猪肉）。重要伝統的建造物群保存地区の篠山城下町で、風情ある宿と丹波篠山温泉をふるさと納税でお得に満喫。',
   keywords: ["丹波栗）", "丹波篠山城下町の古民家宿", "名物ぼたん鍋", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-tamba-sasayama-autumn-gourmet-stay/",
   },
   openGraph: {
-    title: '丹波篠山の秋の味覚狩り（丹波黒枝豆・丹波栗）＆丹波篠山城下町の古民家宿・名物ぼたん鍋',
+    title: '丹波篠山の秋の味覚狩り（丹波黒枝豆・丹波栗）＆丹波篠山城下町の古民家宿・名物ぼたん鍋｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月中旬〜11月下旬に旬のピークを迎える丹波黒枝豆・丹波栗・松茸・本場ぼたん鍋（猪肉）。重要伝統的建造物群保存地区の篠山城下町で、風情ある宿と丹波篠山温泉をふるさと納税でお得に満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-tamba-sasayama-autumn-gourmet-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "丹波篠山の秋の味覚狩り（丹波黒枝豆・丹波栗）＆丹波篠山城下町の古民家宿・名物ぼたん鍋",
+    "headline": "丹波篠山の秋の味覚狩り（丹波黒枝豆・丹波栗）＆丹波篠山城下町の古民家宿・名物ぼたん鍋｜ふるさと納税で泊まれる名宿ガイド",
     "description": "10月中旬〜11月下旬に旬のピークを迎える丹波黒枝豆・丹波栗・松茸・本場ぼたん鍋（猪肉）。重要伝統的建造物群保存地区の篠山城下町で、風情ある宿と丹波篠山温泉をふるさと納税でお得に満喫。",
     "author": {
       "@type": "Organization",
@@ -101,7 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">丹波篠山の秋の味覚狩り（丹波黒枝豆・丹波栗）＆丹波篠山城下町の古民家宿・名物ぼたん鍋</h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">丹波篠山の秋の味覚狩り（丹波黒枝豆・丹波栗）＆丹波篠山城下町の古民家宿・名物ぼたん鍋｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             秋の味覚の王者「丹波黒枝豆」「丹波栗」「ぼたん鍋」が集結。歴史息づく城下町の隠れ宿で過ごす極上の美食旅。
           </p>
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"丹波篠山の秋の味覚狩り（丹波黒枝豆・丹波栗）＆丹波篠山城下町の古民家宿・名物ぼたん鍋 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-tamba-sasayama-autumn-gourmet-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"丹波篠山の秋の味覚狩り（丹波黒枝豆・丹波栗）＆丹波篠山城下町の古民家宿・名物ぼたん鍋｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-tamba-sasayama-autumn-gourmet-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

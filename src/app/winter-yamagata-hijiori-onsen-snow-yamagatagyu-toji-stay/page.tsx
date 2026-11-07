@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月山形：極上山形牛！名宿5選',
+  title: '【11・12・1月山形】豪雪の奇跡・開湯1200年肘折温泉の黄金湯治と名物納豆汁＆極上山形牛・肘折幻想雪回廊を巡る名宿5選',
   description: '11月から1月、出羽三山の主峰・月山の麓に位置する山形県大蔵村「肘折温泉」は、静謐な雪景色と開湯1200年の重厚な湯治文化が旅人を迎えます。',
   keywords: '肘折温泉 宿泊, 肘折温泉 湯治, 山形牛 宿, 肘折温泉 納豆汁, 肘折幻想雪回廊, 丸屋旅館 肘折, 元河原湯 肘折, 11月 12月 1月 山形旅行, 豪雪温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay/"
   },
   openGraph: {
-    title: '11・12・1月山形：極上山形牛！名宿5選',
+    title: '【11・12・1月山形】豪雪の奇跡・開湯1200年肘折温泉の黄金湯治と名物納豆汁＆極上山形牛・肘折幻想雪回廊を巡る名宿5選',
     description: '11月から1月、出羽三山の主峰・月山の麓に位置する山形県大蔵村「肘折温泉」は、静謐な雪景色と開湯1200年の重厚な湯治文化が旅人を迎えます。',
     url: 'https://croud-travel.pages.dev/winter-yamagata-hijiori-onsen-snow-yamagatagyu-toji-stay/',
     siteName: 'クラドトラベル',

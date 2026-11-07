@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月岡山：瀬戸内冬の味覚「日生牡蠣（ひ！名宿5選',
+  title: '【11・12・1月岡山】瀬戸内冬の味覚「日生牡蠣（ひなせかき）」と名物カキオコ・殻付き焼き牡蠣＆牛窓オリーブ園夕陽・日本のエーゲ海リゾート温泉宿5選',
   description: '11月から1月、岡山県南東部の備前・日生（ひなせ）と瀬戸内市牛窓は、冬の海の恵み「日生牡蠣」の水揚げ最盛期と日本のエーゲ海と称される穏やかな。',
   keywords: '日生 牡蠣, カキオコ, 日生 カキオコ おすすめ, 牛窓 ホテルリマーニ, 料理旅館 備前屋, 五味の市 焼き牡蠣, 牛窓オリーブ園, 11月 12月 1月 岡山旅行, 瀬戸内海 冬 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-okayama-hinase-ushimado-oyster-kakioko-stay/"
   },
   openGraph: {
-    title: '11・12・1月岡山：瀬戸内冬の味覚「日生牡蠣（ひ！名宿5選',
+    title: '【11・12・1月岡山】瀬戸内冬の味覚「日生牡蠣（ひなせかき）」と名物カキオコ・殻付き焼き牡蠣＆牛窓オリーブ園夕陽・日本のエーゲ海リゾート温泉宿5選',
     description: '11月から1月、岡山県南東部の備前・日生（ひなせ）と瀬戸内市牛窓は、冬の海の恵み「日生牡蠣」の水揚げ最盛期と日本のエーゲ海と称される穏やかな。',
     url: 'https://croud-travel.pages.dev/winter-okayama-hinase-ushimado-oyster-kakioko-stay/',
     siteName: 'クラドトラベル',

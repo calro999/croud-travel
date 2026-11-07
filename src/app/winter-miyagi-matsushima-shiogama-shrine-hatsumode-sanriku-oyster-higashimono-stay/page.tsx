@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月宮城：陸奥総鎮守「鹽竈神社」新春初！名宿5選',
+  title: '【11・12・1月宮城】陸奥総鎮守「鹽竈神社」新春初詣と日本三景「松島」雪景色！冬旬「三陸松島かき」・極上ひがしもの鮪＆松島温泉名宿5選',
   description: '芭蕉も心奪われた日本三景・松島と、千二百年の歴史を刻む陸奥国一ノ宮・塩竈を巡る11〜1月の冬紀行。伊達政宗ゆかりの国宝「瑞巌寺」や五大堂が白。',
   keywords: '鹽竈神社 初詣, 松島 雪景色, 松島かき 冬, 塩竈ひがしもの 鮪, 瑞巌寺 雪, 松島一の坊, 松島大観荘, 松島温泉 絶景宿, 宮城 冬旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay/"
   },
   openGraph: {
-    title: '11・12・1月宮城：陸奥総鎮守「鹽竈神社」新春初！名宿5選',
+    title: '【11・12・1月宮城】陸奥総鎮守「鹽竈神社」新春初詣と日本三景「松島」雪景色！冬旬「三陸松島かき」・極上ひがしもの鮪＆松島温泉名宿5選',
     description: '芭蕉も心奪われた日本三景・松島と、千二百年の歴史を刻む陸奥国一ノ宮・塩竈を巡る11〜1月の冬紀行。伊達政宗ゆかりの国宝「瑞巌寺」や五大堂が白。',
     url: 'https://croud-travel.pages.dev/winter-miyagi-matsushima-shiogama-shrine-hatsumode-sanriku-oyster-higashimono-stay/',
     type: 'article',

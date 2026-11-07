@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月高知：知恵の文殊「五台山 竹林寺」新春初詣！名宿5選',
+  title: '【11・12・1月高知】太平洋望む名勝「桂浜」初日の出と坂本龍馬像！知恵の文殊「五台山 竹林寺」新春初詣・極上戻り鰹藁焼き塩タタキ＆土佐あかうし厳選名宿5選',
   description: '黒潮洗う南国土佐の冬景色！11〜1月は澄み渡る青空と群青の太平洋が広がり。',
   keywords: '桂浜 初日の出, 坂本龍馬像 桂浜, 竹林寺 初詣, 高知 鰹のタタキ, 戻り鰹 藁焼き, 土佐あかうし, 城西館, 三翠園, ひろめ市場, 高知 冬 旅行',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-kochi-katsurahama-ryoma-sunrise-chikurinji-hatsumode-tataki-stay/'
   },
   openGraph: {
-    title: '11・12・1月高知：知恵の文殊「五台山 竹林寺」新春初詣！名宿5選',
+    title: '【11・12・1月高知】太平洋望む名勝「桂浜」初日の出と坂本龍馬像！知恵の文殊「五台山 竹林寺」新春初詣・極上戻り鰹藁焼き塩タタキ＆土佐あかうし厳選名宿5選',
     description: '黒潮洗う南国土佐の冬景色！11〜1月は澄み渡る青空と群青の太平洋が広がり。',
     url: 'https://croud-travel.pages.dev/winter-kochi-katsurahama-ryoma-sunrise-chikurinji-hatsumode-tataki-stay/',
     siteName: 'クラドトラベル',

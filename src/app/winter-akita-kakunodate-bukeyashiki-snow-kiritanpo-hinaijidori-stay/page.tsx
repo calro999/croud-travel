@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月秋田：陸奥の小京都！名宿5選',
+  title: '【11・12・1月秋田】陸奥の小京都・角館武家屋敷の雪景色＆冬の田沢湖！本場比内地鶏きりたんぽ鍋と名湯に寛ぐ名宿5選',
   description: '冬の秋田・角館と田沢湖は、黒板塀が続く武家屋敷通りに純白の粉雪が降り積もり、日本一の深さを誇る田沢湖が神秘的な瑠璃色を湛える極上の雪国世界。',
   keywords: '角館 ホテル, 田沢湖 温泉, 角館武家屋敷 雪景色, 比内地鶏 きりたんぽ鍋, 和のゐ角館, 田沢湖レイクリゾート, 稲庭うどん, 11月 12月 1月 秋田 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-akita-kakunodate-bukeyashiki-snow-kiritanpo-hinaijidori-stay/"
   },
   openGraph: {
-    title: '11・12・1月秋田：陸奥の小京都！名宿5選',
+    title: '【11・12・1月秋田】陸奥の小京都・角館武家屋敷の雪景色＆冬の田沢湖！本場比内地鶏きりたんぽ鍋と名湯に寛ぐ名宿5選',
     description: '冬の秋田・角館と田沢湖は、黒板塀が続く武家屋敷通りに純白の粉雪が降り積もり、日本一の深さを誇る田沢湖が神秘的な瑠璃色を湛える極上の雪国世界。',
     url: 'https://croud-travel.pages.dev/winter-akita-kakunodate-bukeyashiki-snow-kiritanpo-hinaijidori-stay/',
     type: 'article',

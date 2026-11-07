@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月奈良：大和牛！名宿5選',
+  title: '【11・12・1月奈良】日本建国の聖地「橿原神宮」新春初詣と畝傍山の冬朝霧！飛鳥路の静寂と名物「飛鳥鍋」・大和牛名宿5選',
   description: '初代神武天皇が即位した日本建国の聖地「橿原神宮（かしはらじんぐう）」が約100万人の新春参拝客を迎える11〜1月の冬旅特集。',
   keywords: '橿原神宮 初詣, 橿原神宮 冬, 飛鳥鍋 奈良, 明日香村 冬, 大和牛 すき焼き, グランドメルキュール奈良橿原, カンデオホテルズ奈良橿原, 畝傍山, 奈良 初詣',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay/"
   },
   openGraph: {
-    title: '11・12・1月奈良：大和牛！名宿5選',
+    title: '【11・12・1月奈良】日本建国の聖地「橿原神宮」新春初詣と畝傍山の冬朝霧！飛鳥路の静寂と名物「飛鳥鍋」・大和牛名宿5選',
     description: '初代神武天皇が即位した日本建国の聖地「橿原神宮（かしはらじんぐう）」が約100万人の新春参拝客を迎える11〜1月の冬旅特集。',
     url: 'https://croud-travel.pages.dev/winter-nara-kashihara-jingu-hatsumode-asuka-asukunabe-yamatogyu-stay/',
     type: 'article',

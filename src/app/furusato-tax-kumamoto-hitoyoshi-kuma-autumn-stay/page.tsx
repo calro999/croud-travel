@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席',
+  title: '熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月・11月の熊本・人吉＆球磨特集！日本三大急流・球磨川を包む幻想的な秋の「人吉霧」、国宝・青井阿蘇神社の秋風情、開湯700年の歴史を誇る美肌名湯「人吉温泉」、球磨川の落ち鮎や黒毛和牛・500年の歴史を持つ本場球磨焼酎をふるさと納税トラベルで味わう南九州の歴史旅。',
   keywords: ["熊本", "球磨焼酎", "鮎の塩焼き会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kumamoto-hitoyoshi-kuma-autumn-stay/",
   },
   openGraph: {
-    title: '熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席',
+    title: '熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月・11月の熊本・人吉＆球磨特集！日本三大急流・球磨川を包む幻想的な秋の「人吉霧」、国宝・青井阿蘇神社の秋風情、開湯700年の歴史を誇る美肌名湯「人吉温泉」、球磨川の落ち鮎や黒毛和牛・500年の歴史を持つ本場球磨焼酎をふるさと納税トラベルで味わう南九州の歴史旅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kumamoto-hitoyoshi-kuma-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席",
+    "headline": "熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席｜ふるさと納税で泊まれる名宿ガイド",
     "description": "10月・11月の熊本・人吉＆球磨特集！日本三大急流・球磨川を包む幻想的な秋の「人吉霧」、国宝・青井阿蘇神社の秋風情、開湯700年の歴史を誇る美肌名湯「人吉温泉」、球磨川の落ち鮎や黒毛和牛・500年の歴史を持つ本場球磨焼酎をふるさと納税トラベルで味わう南九州の歴史旅。",
     "author": {
       "@type": "Organization",
@@ -110,7 +110,7 @@ export default function Page() {
           <div className="inline-block bg-amber-500 text-stone-950 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             10月・11月秋季限定 絶景＆味覚特集
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席</h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold leading-tight text-white">熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-sm md:text-base text-stone-300 max-w-2xl mx-auto leading-relaxed">
             10月・11月の熊本・人吉＆球磨特集！日本三大急流・球磨川を包む幻想的な秋の「人吉霧」、国宝・青井阿蘇神社の秋風情、開湯700年の歴史を誇る美肌名湯「人吉温泉」、球磨川の落ち鮎や黒毛和牛・500年の歴史を持つ本場球磨焼酎をふるさと納税トラベルで味わう南九州の歴史旅。
           </p>
@@ -126,7 +126,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-12 space-y-12 leading-relaxed">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-kumamoto-hitoyoshi-kuma-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-kumamoto-hitoyoshi-kuma-autumn-stay/"}]}) }}
       />
         {/* イントロダクション */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-4">
@@ -469,7 +469,7 @@ export default function Page() {
             </a>
             <a href="/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月千葉：成田山新勝寺の新春初詣！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月千葉】成田山新勝寺の新春初詣＆表参道名物うなぎと北総小江戸・佐原の重伝建風情を巡る名宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
@@ -511,10 +511,10 @@ export default function Page() {
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+              📊 熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
             </h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              楽天トラベル公式APIより取得した「熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -565,7 +565,7 @@ export default function Page() {
 
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席」各宿の強みと基本情報
+              🏨 旅の目的に合わせて選ぶ「熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席｜ふるさと納税で泊まれる名宿ガイド」各宿の強みと基本情報
             </h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
@@ -584,7 +584,7 @@ export default function Page() {
                   <p>【熊本・人吉温泉と球磨川の秋霧】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💡 <strong>薬師の湯宿　龍乃榊の滞在ポイント：</strong>「熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
+                    💡 <strong>薬師の湯宿　龍乃榊の滞在ポイント：</strong>「熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席｜ふるさと納税で泊まれる名宿ガイドエリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
                   </blockquote>
                 </div>
               </div>
@@ -639,7 +639,7 @@ export default function Page() {
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
               🗺️ 「熊本・人吉温泉と球磨川の秋霧（国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席）」とあわせて巡りたい千葉県の代表観光スポット案内
             </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
+            <p className="text-xs text-stone-600 leading-relaxed">「熊本・人吉温泉と球磨川の秋霧！国宝青井阿蘇神社紅葉＆球磨焼酎・鮎の塩焼き会席｜ふるさと納税で泊まれる名宿ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Menton-C%C3%B4te_d%27Azur.jpg/1280px-Menton-C%C3%B4te_d%27Azur.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="東京ディズニーリゾート" className="w-full h-full object-cover" loading="lazy" /></div>

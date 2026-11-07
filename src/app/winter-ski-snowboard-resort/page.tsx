@@ -6,17 +6,17 @@ import path from "path";
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/winter-ski-snowboard-resort/" },
-  title: '冬のスキー・スノボ：ゲレンデ直結！名宿5選',
+  title: '【冬のスキー・スノボ】ゲレンデ直結＆極上温泉リゾート 完全ガイド ｜ 日本全国・旅宿クラウド',
   description: 'パウダースノーと極上温泉！北海道ニセコ、長野白馬八方尾根、新潟越後湯沢、山形蔵王温泉など。',
   keywords: ["冬のスキー", "スノボ", "ゲレンデ直結", "極上温泉リゾート", "温泉宿", "宿泊予約", "楽天トラベル"],
   openGraph: {
-    title: "冬のスキー・スノボ：ゲレンデ直結！名宿5選",
+    title: "【冬のスキー・スノボ】ゲレンデ直結＆極上温泉リゾート 完全ガイド ｜ 日本全国・旅宿クラウド",
     description: "パウダースノーと極上温泉！北海道ニセコ、長野白馬八方尾根、新潟越後湯沢、山形蔵王温泉など。",
     type: "article",
   },
   twitter: {
     card: "summary_large_image",
-    title: "冬のスキー・スノボ：ゲレンデ直結！名宿5選",
+    title: "【冬のスキー・スノボ】ゲレンデ直結＆極上温泉リゾート 完全ガイド ｜ 日本全国・旅宿クラウド",
     description: "パウダースノーと極上温泉！北海道ニセコ、長野白馬八方尾根、新潟越後湯沢、山形蔵王温泉など。",
   }
 };

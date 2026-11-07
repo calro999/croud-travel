@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月熊本：極上あか牛！名宿5選',
+  title: '【11・12・1月熊本】白銀の阿蘇五岳パノラマと冬の伝統「高森田楽」！美肌の南阿蘇温泉郷＆極上あか牛名宿5選',
   description: '世界最大級の阿蘇カルデラが白銀に染まる11〜1月の冬旅完全ガイド。澄み渡る冬空にそびえる阿蘇五岳（根子岳・高岳）の雄大な雪景色パノラマと。',
   keywords: '南阿蘇 温泉 旅館, 高森田楽 囲炉裏, 阿蘇あか牛 ステーキ, 南阿蘇ルナ天文台, 竹楽亭 露天風呂, 休暇村南阿蘇, 亀の井ホテル阿蘇, 阿蘇五岳 雪景色, 熊本 冬 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay/"
   },
   openGraph: {
-    title: '11・12・1月熊本：極上あか牛！名宿5選',
+    title: '【11・12・1月熊本】白銀の阿蘇五岳パノラマと冬の伝統「高森田楽」！美肌の南阿蘇温泉郷＆極上あか牛名宿5選',
     description: '世界最大級の阿蘇カルデラが白銀に染まる11〜1月の冬旅完全ガイド。澄み渡る冬空にそびえる阿蘇五岳（根子岳・高岳）の雄大な雪景色パノラマと。',
     url: 'https://croud-travel.pages.dev/winter-kumamoto-minamiaso-takamori-snow-dengaku-akagyu-onsen-stay/',
     type: 'article',

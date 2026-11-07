@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月山形：寒ブリ！名宿5選',
+  title: '【11・12・1月山形】庄内名物「寒鱈汁（どんがら汁）」と極上白子・寒ブリ・出羽三山雪景色＆名湯あつみ・湯野浜温泉を巡る厳選宿5選',
   description: '11月から1月、山形県庄内地方（鶴岡・酒田・温海・湯野浜）は、荒波の日本海が育む冬の風物詩「寒鱈（かんだら）汁」の熱気と。',
   keywords: '庄内 寒鱈汁, 鶴岡 寒鱈まつり, 湯野浜温泉 ホテル, あつみ温泉 たちばなや, あつみ温泉 萬国屋, HOTEL KAMEYA, 游水亭 いさごや, ホテルリッチ＆ガーデン酒田, 11月 12月 1月 山形旅行, 出羽三山 冬',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-shonai-kandara-atsumi-yunohama-stay/"
   },
   openGraph: {
-    title: '11・12・1月山形：寒ブリ！名宿5選',
+    title: '【11・12・1月山形】庄内名物「寒鱈汁（どんがら汁）」と極上白子・寒ブリ・出羽三山雪景色＆名湯あつみ・湯野浜温泉を巡る厳選宿5選',
     description: '11月から1月、山形県庄内地方（鶴岡・酒田・温海・湯野浜）は、荒波の日本海が育む冬の風物詩「寒鱈（かんだら）汁」の熱気と。',
     url: 'https://croud-travel.pages.dev/winter-yamagata-shonai-kandara-atsumi-yunohama-stay/',
     siteName: 'クラドトラベル',

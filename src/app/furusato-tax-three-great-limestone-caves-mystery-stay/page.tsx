@@ -8,13 +8,13 @@ import Image from 'next/image';
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
 
 export const metadata: Metadata = {
-  title: "日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド",
+  title: "日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
   description: "悠久の時が創り出した地底の神秘！岩手「龍泉洞」世界有数の透明度を誇るドラゴンブルーの地底湖と三陸浄土ヶ浜パークホテル、高知「龍河洞」弥生土器と鍾乳石が一体化した神の壺とオーベルジュ土佐山、山口「秋芳洞」百枚皿・黄金柱の大パノラマと音信川の湯宿大谷山荘。日本三大鍾乳洞の冒険と名湯宿を楽天ふるさと納税宿...",
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-limestone-caves-mystery-stay/",
   },
   openGraph: {
-    title: "日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド",
+    title: "日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
     description: "悠久の時が創り出した地底の神秘！岩手「龍泉洞」世界有数の透明度を誇るドラゴンブルーの地底湖と三陸浄土ヶ浜パークホテル、高知「龍河洞」弥生土器と鍾乳石が一体化した神の壺とオーベルジュ土佐山、山口「秋芳洞」百枚皿・黄金柱の大パノラマと音信川の湯宿大谷山荘。日本三大鍾乳洞の冒険と名湯宿を楽天ふるさと納税宿...",
     url: "https://croud-travel.pages.dev/furusato-tax-three-great-limestone-caves-mystery-stay/",
   },
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "headline": "日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
     "description": "悠久の時が創り出した地底の神秘！岩手「龍泉洞」世界有数の透明度を誇るドラゴンブルーの地底湖と三陸浄土ヶ浜パークホテル、高知「龍河洞」弥生土器と鍾乳石が一体化した神の壺とオーベルジュ土佐山、山口「秋芳洞」百枚皿・黄金柱の大パノラマと音信川の湯宿大谷山荘。日本三大鍾乳洞の冒険と名湯宿を楽天ふるさと納税宿...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-limestone-caves-mystery-stay/",
     "publisher": {
@@ -56,7 +56,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大鍾乳洞・地底ジオパーク特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド</h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             悠久の時が創り出した地底の神秘！岩手「龍泉洞」世界有数の透明度を誇るドラゴンブルーの地底湖と三陸浄土ヶ浜パークホテル、高知「龍河洞」弥生土器と鍾乳石が一体化した神の壺とオーベルジュ土佐山、山口「秋芳洞」百枚皿・黄金柱の大パノラマと音信川の湯宿大谷山荘。日本三大鍾乳洞の冒険と名湯宿を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>
@@ -93,8 +93,8 @@ export default function Page() {
         {/* 3 Key Merits */}
         <section className="space-y-6">
           <div className="text-center">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">ふるさと納税トラベルで巡る3つの至高メリット｜日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド</h2>
-            <p className="text-sm sm:text-base text-slate-400 mt-2">【日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド】 控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの名旅館＆特産グルメをアップグレード</p>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">ふるさと納税トラベルで巡る3つの至高メリット｜日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h2>
+            <p className="text-sm sm:text-base text-slate-400 mt-2">【日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド】 控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの名旅館＆特産グルメをアップグレード</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
@@ -125,8 +125,8 @@ export default function Page() {
         {/* Featured Hotels & Regions */}
         <section className="space-y-12">
           <div className="border-b border-slate-800 pb-4">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">厳選名所＆楽天トラベル提携おすすめ名宿｜日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド</h2>
-            <p className="text-slate-400 text-sm sm:text-base mt-1">【日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド】 楽天ふるさと納税宿泊クーポンが利用可能な極上宿</p>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">厳選名所＆楽天トラベル提携おすすめ名宿｜日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h2>
+            <p className="text-slate-400 text-sm sm:text-base mt-1">【日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド】 楽天ふるさと納税宿泊クーポンが利用可能な極上宿</p>
           </div>
 
           <div className="space-y-12">
@@ -349,8 +349,8 @@ export default function Page() {
 
         {/* Official Banner CTA */}
         <section className="bg-gradient-to-r from-rose-950/60 via-red-900/40 to-amber-950/60 border border-rose-500/30 rounded-3xl p-8 text-center relative overflow-hidden shadow-2xl">
-          <h2 className="text-2xl sm:text-3xl font-black text-white mb-4">楽天ふるさと納税トラベルで、今すぐ賢く旅に出よう｜日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド</h2>
-          <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base mb-8 leading-relaxed">【日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド】 
+          <h2 className="text-2xl sm:text-3xl font-black text-white mb-4">楽天ふるさと納税トラベルで、今すぐ賢く旅に出よう｜日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h2>
+          <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base mb-8 leading-relaxed">【日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド】 
             寄付翌日から最大3年間使える宿泊クーポンで、行きたかった憧れの名宿を今すぐお得にリザーブ。実質2,000円負担で極上の日本再発見の旅へ。
           </p>
           <a
@@ -365,7 +365,7 @@ export default function Page() {
 
         {/* Cross Link Section */}
         <section className="border-t border-slate-800/80 pt-12 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい関連特集ガイド｜日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい関連特集ガイド｜日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
             <Link
@@ -510,7 +510,7 @@ export default function Page() {
             </a>
             <a href="/winter-iwate-sanriku-miyako-jodogahama-kegani-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月岩手：名物瓶ドン」と太平洋絶景オーシャンビュー！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月岩手】白銀の浄土ヶ浜と冬の三陸海鮮紀行！旬を迎える「三陸毛ガニ・寒アワビ・名物瓶ドン」と太平洋絶景オーシャンビュー名宿5選</span>
             </a>
             <a href="/furusato-tax-hiraizumi-chusonji-hanamaki-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
@@ -560,10 +560,10 @@ export default function Page() {
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+              📊 日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
             </h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              楽天トラベル公式APIより取得した「日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -614,7 +614,7 @@ export default function Page() {
 
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイドで比較したい各宿のロケーション・駐車場・料金詳細
+              🏨 日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細
             </h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
@@ -630,7 +630,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>浄土ヶ浜の高台に建つ和の景観と四季の恵みあふれるホテル。三陸の海の幸をご用意してお待ちしております</p>
                   <p><strong>【所在地・アクセス】</strong>〒 岩手県宮古市日立浜町32-4 ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲ山田線　宮古駅から奥浄土ヶ浜行きバスにて１５分、浄土ヶ浜ビジターセンター下車後、徒歩５分。【ペットと宿泊可※小型犬】</p>
-                  <p>【日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p>【日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「眺めと朝日が最高、食事は少し残念部屋からの眺めが素晴らしく、とても贅沢な時間を過ごすことが出来ました。朝日も美しく良い思い出になりました。お食事は期待したほどではなく少し残念でしたが、朝の…」
@@ -686,9 +686,9 @@ export default function Page() {
 
           <div className="space-y-4 pt-6 border-t border-stone-200">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド」とあわせて巡りたい岩手県の代表観光スポット案内
+              🗺️ 「日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」とあわせて巡りたい岩手県の代表観光スポット案内
             </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
+            <p className="text-xs text-stone-600 leading-relaxed">「日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               

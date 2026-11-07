@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば',
+  title: '日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月下旬〜11月中旬に奇岩巨峰と紅葉が織りなす耶馬渓・一目八景。湯けむり立ち上る別府鉄輪温泉の老舗宿で、源泉かけ流し露天風呂と豊後水道の極上ブランド魚「関あじ・関さば」「おおいた和牛」をふるさと納税で堪能。',
   keywords: ["日本新三景「耶馬渓", "名湯別府鉄輪温泉", "極上関あじ関さば", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-yabakei-hitomehakkei-autumn-stay/",
   },
   openGraph: {
-    title: '日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば',
+    title: '日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月下旬〜11月中旬に奇岩巨峰と紅葉が織りなす耶馬渓・一目八景。湯けむり立ち上る別府鉄輪温泉の老舗宿で、源泉かけ流し露天風呂と豊後水道の極上ブランド魚「関あじ・関さば」「おおいた和牛」をふるさと納税で堪能。',
     url: 'https://croud-travel.pages.dev/furusato-tax-yabakei-hitomehakkei-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば",
+    "headline": "日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば｜ふるさと納税で泊まれる名宿ガイド",
     "description": "10月下旬〜11月中旬に奇岩巨峰と紅葉が織りなす耶馬渓・一目八景。湯けむり立ち上る別府鉄輪温泉の老舗宿で、源泉かけ流し露天風呂と豊後水道の極上ブランド魚「関あじ・関さば」「おおいた和牛」をふるさと納税で堪能。",
     "author": {
       "@type": "Organization",
@@ -101,7 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば</h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             奇岩と深紅のコントラストが魅せる耶馬渓の圧倒的景観。別府の湯けむりと豊後水道の極上魚に酔いしれる秋の大分路。
           </p>
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-yabakei-hitomehakkei-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"日本新三景「耶馬渓・一目八景」奇岩と紅葉のパノラマ絶景＆名湯別府鉄輪温泉・極上関あじ関さば｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-yabakei-hitomehakkei-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

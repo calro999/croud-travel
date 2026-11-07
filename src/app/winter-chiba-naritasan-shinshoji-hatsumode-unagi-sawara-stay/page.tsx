@@ -5,14 +5,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, Sparkles, Calendar, Utensils, Compass, ExternalLink, Snowflake, Flame, Building, ShoppingBag, ThermometerSun } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月千葉：成田山新勝寺の新春初詣！名宿5選',
+  title: '【11・12・1月千葉】成田山新勝寺の新春初詣＆表参道名物うなぎと北総小江戸・佐原の重伝建風情を巡る名宿5選',
   description: '11月から1月、成田山新勝寺は12月の納め不動から正月三が日・新春初詣にかけて全国から300万人以上の参拝客が集う日本屈指の祈りの季節を迎えます。',
   keywords: '成田山新勝寺 初詣 混雑, 成田山 表参道 うなぎ 宿, 佐原 小江戸 商家町 ホテル, 和空 成田山門前, 成田山門前 旅館 若松本店, アートホテル成田 温泉, 佐原商家町ホテル NIPPONIA, ヒルトン成田, 11月 12月 1月 千葉旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay/"
   },
   openGraph: {
-    title: '11・12・1月千葉：成田山新勝寺の新春初詣！名宿5選',
+    title: '【11・12・1月千葉】成田山新勝寺の新春初詣＆表参道名物うなぎと北総小江戸・佐原の重伝建風情を巡る名宿5選',
     description: '11月から1月、成田山新勝寺は12月の納め不動から正月三が日・新春初詣にかけて全国から300万人以上の参拝客が集う日本屈指の祈りの季節を迎えます。',
     url: 'https://croud-travel.pages.dev/winter-chiba-naritasan-shinshoji-hatsumode-unagi-sawara-stay/',
     type: 'article',

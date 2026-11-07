@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月福井：冬の若狭湾「若狭ふぐ」てっさ！名宿5選',
+  title: '【11・12・1月福井】冬の若狭湾「若狭ふぐ」てっさ・てっちり＆敦賀港越前がに・三方五湖寒うなぎ・海絶景温泉を満喫する名宿5選',
   description: '11月から1月、北陸新幹線延伸でアクセスが格段に向上した福井県・若狭湾（敦賀・美浜・若狭三方五湖・小浜）の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '若狭ふぐ 温泉宿, 三方五湖 宿泊, 敦賀 越前がに 宿, 水月花, 波華楼, ホテル湾彩, 四季彩の宿花椿, 敦賀マンテンホテル駅前, 11月 12月 1月 福井旅行, 若狭湾 てっさ てっちり',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay/"
   },
   openGraph: {
-    title: '11・12・1月福井：冬の若狭湾「若狭ふぐ」てっさ！名宿5選',
+    title: '【11・12・1月福井】冬の若狭湾「若狭ふぐ」てっさ・てっちり＆敦賀港越前がに・三方五湖寒うなぎ・海絶景温泉を満喫する名宿5選',
     description: '11月から1月、北陸新幹線延伸でアクセスが格段に向上した福井県・若狭湾（敦賀・美浜・若狭三方五湖・小浜）の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-fukui-wakasa-fugu-tsuruga-echizen-crab-stay/',
     siteName: 'クラドトラベル',

@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月東京：霊峰「高尾山薬王院」新春初詣！名宿5選',
+  title: '【11・12・1月東京】霊峰「高尾山薬王院」新春初詣と冬晴れのダイヤモンド富士！名物自然薯とろろそば＆極楽湯・八王子厳選名宿5選',
   description: '都心から電車でわずか約50分の霊峰・高尾山。11〜1月の冬シーズンは澄み切った大気の中。',
   keywords: '高尾山 初詣, 高尾山薬王院, ダイヤモンド富士 高尾山, とろろそば 高尾山, 京王高尾山温泉 極楽湯, 京王プラザホテル八王子, タカオネ, 八王子 ホテル, 冬 高尾山 登山, 天狗焼',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay/'
   },
   openGraph: {
-    title: '11・12・1月東京：霊峰「高尾山薬王院」新春初詣！名宿5選',
+    title: '【11・12・1月東京】霊峰「高尾山薬王院」新春初詣と冬晴れのダイヤモンド富士！名物自然薯とろろそば＆極楽湯・八王子厳選名宿5選',
     description: '都心から電車でわずか約50分の霊峰・高尾山。11〜1月の冬シーズンは澄み切った大気の中。',
     url: 'https://croud-travel.pages.dev/winter-tokyo-takao-yakuoin-shrine-hatsumode-fuji-tororo-soba-stay/',
     type: 'article',

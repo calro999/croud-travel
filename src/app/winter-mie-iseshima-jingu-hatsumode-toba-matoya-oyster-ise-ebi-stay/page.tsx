@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月三重：伊勢海老！名宿5選',
+  title: '【11・12・1月三重】「伊勢神宮」新春初詣と宇治橋の冬日の出！冬旬「的矢かき」・伊勢海老・松阪牛会席＆鳥羽・賢島名宿5選',
   description: '二千年の歴史を誇る日本の心のふるさと・伊勢志摩を巡る11〜1月の冬紀行。冬至前後に宇治橋大鳥居の中央から昇る奇跡の朝光と「伊勢神宮（内宮・外。',
   keywords: '伊勢神宮 初詣, 宇治橋 日の出 冬, 的矢かき 伊勢志摩, 伊勢海老 鳥羽, 鳥羽国際ホテル, 志摩観光ホテル, いにしえの宿 伊久, 三重 冬旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay/"
   },
   openGraph: {
-    title: '11・12・1月三重：伊勢海老！名宿5選',
+    title: '【11・12・1月三重】「伊勢神宮」新春初詣と宇治橋の冬日の出！冬旬「的矢かき」・伊勢海老・松阪牛会席＆鳥羽・賢島名宿5選',
     description: '二千年の歴史を誇る日本の心のふるさと・伊勢志摩を巡る11〜1月の冬紀行。冬至前後に宇治橋大鳥居の中央から昇る奇跡の朝光と「伊勢神宮（内宮・外。',
     url: 'https://croud-travel.pages.dev/winter-mie-iseshima-jingu-hatsumode-toba-matoya-oyster-ise-ebi-stay/',
     type: 'article',

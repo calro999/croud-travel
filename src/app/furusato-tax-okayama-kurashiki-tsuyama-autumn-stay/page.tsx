@@ -5,7 +5,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '岡山・倉敷美観地区＆津山城！白壁の秋情景と美作三湯・千屋牛＆瀬戸内鰆',
+  title: '岡山・倉敷美観地区＆津山城！白壁の秋情景と美作三湯・千屋牛＆瀬戸内鰆｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月・11月の岡山・倉敷美観地区＆津山城跡を特集。柳並木と白壁屋敷が紅葉に映える美観地区、日本三名城の石垣紅葉、日本最古の蔓牛「千屋牛」や瀬戸内の戻り鰆を堪能する厳選ホテルとふるさと納税宿泊クーポン情報。',
   keywords: ["岡山", "倉敷美観地区", "津山城！白壁の秋情景と美作三湯", "千屋牛", "瀬戸内鰆", "クラウドトラベルふるさと納税", "温泉宿"],
   alternates: {
@@ -126,7 +126,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-12 space-y-12 leading-relaxed">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"岡山・倉敷美観地区＆津山城！白壁の秋情景と美作三湯・千屋牛＆瀬戸内鰆 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-okayama-kurashiki-tsuyama-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"岡山・倉敷美観地区＆津山城！白壁の秋情景と美作三湯・千屋牛＆瀬戸内鰆｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-okayama-kurashiki-tsuyama-autumn-stay/"}]}) }}
       />
         {/* イントロダクション */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-4">
@@ -456,7 +456,7 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/aomori-hirosaki-castle-cherry-apple-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">青森・弘前：弘前城桜・津軽りんご＆三味線宿 厳選ガイド</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【青森・弘前】弘前城桜・津軽りんご＆三味線宿 完全ガイド ｜ 日本全国・旅宿クラウド</span>
             </a>
             <a href="/autumn-budget-aomori-hachinohe-tanesashi-senbeijiru-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
@@ -510,10 +510,10 @@ export default function Page() {
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 岡山・倉敷美観地区＆津山城！白壁の秋情景と美作三湯・千屋牛＆瀬戸内鰆：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+              📊 岡山・倉敷美観地区＆津山城！白壁の秋情景と美作三湯・千屋牛＆瀬戸内鰆｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
             </h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「岡山・倉敷美観地区＆津山城！白壁の秋情景と美作三湯・千屋牛＆瀬戸内鰆」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              楽天トラベル公式APIより取得した「岡山・倉敷美観地区＆津山城！白壁の秋情景と美作三湯・千屋牛＆瀬戸内鰆｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -564,7 +564,7 @@ export default function Page() {
 
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「岡山・倉敷美観地区＆津山城！白壁の秋情景と美作三湯・千屋牛＆瀬戸内鰆」掲載宿の所在地・アクセス・特徴データ一覧
+              🏨 「岡山・倉敷美観地区＆津山城！白壁の秋情景と美作三湯・千屋牛＆瀬戸内鰆｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・アクセス・特徴データ一覧
             </h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
@@ -638,7 +638,7 @@ export default function Page() {
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
               🗺️ 「岡山・倉敷美観地区＆津山城（白壁の秋情景と美作三湯・千屋牛＆瀬戸内鰆）」とあわせて巡りたい青森県の代表観光スポット案内
             </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「岡山・倉敷美観地区＆津山城！白壁の秋情景と美作三湯・千屋牛＆瀬戸内鰆」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
+            <p className="text-xs text-stone-600 leading-relaxed">「岡山・倉敷美観地区＆津山城！白壁の秋情景と美作三湯・千屋牛＆瀬戸内鰆｜ふるさと納税で泊まれる名宿ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               

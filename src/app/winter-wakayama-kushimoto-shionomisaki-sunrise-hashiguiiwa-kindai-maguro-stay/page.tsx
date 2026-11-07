@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月和歌山：本州最南端「潮岬」冬の太平洋！名宿5選',
+  title: '【11・12・1月和歌山】本州最南端「潮岬」冬の太平洋初日の出と朝焼け「橋杭岩」絶景！発祥の地「近大マグロ」会席＆串本温泉リゾート名宿5選',
   description: '黒潮が洗う本州最南端の温暖な楽園・和歌山県串本の11〜1月冬紀行。紺碧の太平洋が弧を描く「潮岬」から望む元旦初日の出。',
   keywords: '潮岬 初日の出, 橋杭岩 朝焼け, 近大マグロ 串本, 串本温泉 名宿, メルキュール和歌山串本, 大江戸温泉物語 南紀串本, フェアフィールド串本, 和歌山 冬旅行, 本州最南端 温泉',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-wakayama-kushimoto-shionomisaki-sunrise-hashiguiiwa-kindai-maguro-stay/'
   },
   openGraph: {
-    title: '11・12・1月和歌山：本州最南端「潮岬」冬の太平洋！名宿5選',
+    title: '【11・12・1月和歌山】本州最南端「潮岬」冬の太平洋初日の出と朝焼け「橋杭岩」絶景！発祥の地「近大マグロ」会席＆串本温泉リゾート名宿5選',
     description: '黒潮が洗う本州最南端の温暖な楽園・和歌山県串本の11〜1月冬紀行。紺碧の太平洋が弧を描く「潮岬」から望む元旦初日の出。',
     url: 'https://croud-travel.pages.dev/winter-wakayama-kushimoto-shionomisaki-sunrise-hashiguiiwa-kindai-maguro-stay/',
     type: 'article',

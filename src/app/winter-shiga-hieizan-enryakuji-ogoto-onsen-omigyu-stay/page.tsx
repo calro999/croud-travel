@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月滋賀：極上近江牛！名宿5選',
+  title: '【11・12・1月滋賀】世界遺産・比叡山延暦寺の静謐な冬参拝＆根本中堂「不滅の法灯」と琵琶湖一望おごと温泉・極上近江牛名宿5選',
   description: '11月下旬から1月、日本仏教の母山と仰がれる世界遺産「比叡山延暦寺」は、厳かな白銀の雪化粧に包まれます。',
   keywords: '比叡山延暦寺 冬 参拝, 根本中堂 不滅の法灯, おごと温泉 近江牛 宿, 琵琶湖 雪景色 温泉, びわこ緑水亭, 湯の宿木もれび, 暖灯館きくのや, 雄山荘, 琵琶湖グランドホテル, 11月 12月 1月 滋賀 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay/"
   },
   openGraph: {
-    title: '11・12・1月滋賀：極上近江牛！名宿5選',
+    title: '【11・12・1月滋賀】世界遺産・比叡山延暦寺の静謐な冬参拝＆根本中堂「不滅の法灯」と琵琶湖一望おごと温泉・極上近江牛名宿5選',
     description: '11月下旬から1月、日本仏教の母山と仰がれる世界遺産「比叡山延暦寺」は、厳かな白銀の雪化粧に包まれます。',
     url: 'https://croud-travel.pages.dev/winter-shiga-hieizan-enryakuji-ogoto-onsen-omigyu-stay/',
     type: 'article',

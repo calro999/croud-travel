@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月埼玉：奥武蔵の薪火サウナと武州和牛！名宿5選',
+  title: '【11・12・1月埼玉】ムーミンバレーパーク冬イルミ＆名栗温泉の秘湯！奥武蔵の薪火サウナと武州和牛名宿5選',
   description: '都心から特急でわずか40分、北欧の冬情趣と豊かな山林が広がる埼玉・飯能＆奥武蔵の11〜1月冬旅特集。宮沢湖畔を光と音で包むムーミンバレーパー。',
   keywords: 'ムーミンバレーパーク イルミネーション 冬, 名栗温泉 大松閣, 休暇村 奥武蔵, 武州和牛 埼玉, 飯能 ホテル, 北欧サウナ 埼玉, 奥武蔵 温泉, 冬 旅行 埼玉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay/"
   },
   openGraph: {
-    title: '11・12・1月埼玉：奥武蔵の薪火サウナと武州和牛！名宿5選',
+    title: '【11・12・1月埼玉】ムーミンバレーパーク冬イルミ＆名栗温泉の秘湯！奥武蔵の薪火サウナと武州和牛名宿5選',
     description: '都心から特急でわずか40分、北欧の冬情趣と豊かな山林が広がる埼玉・飯能＆奥武蔵の11〜1月冬旅特集。宮沢湖畔を光と音で包むムーミンバレーパー。',
     url: 'https://croud-travel.pages.dev/winter-saitama-hanno-naguri-onsen-moomin-illumination-bushugyu-stay/',
     type: 'article',

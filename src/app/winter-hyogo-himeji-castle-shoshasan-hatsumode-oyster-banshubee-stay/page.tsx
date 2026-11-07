@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月兵庫：書写山圓教寺新春初詣！名宿5選',
+  title: '【11・12・1月兵庫】世界遺産・白鷺城の冬絶景＆書写山圓教寺新春初詣！播磨灘の旬牡蠣と極上播州牛を味わう名宿5選',
   description: '冬の兵庫・姫路は、白漆喰総塗籠造りの大天守「国宝・世界文化遺産 姫路城（白鷺城）」が澄み渡る冬空に白く眩しく輝き。',
   keywords: '姫路 ホテル, 姫路城 冬景色, 書写山圓教寺 初詣, 播磨灘 牡蠣, 播州牛, ホテル日航姫路, ドーミーイン姫路, 11月 12月 1月 兵庫 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hyogo-himeji-castle-shoshasan-hatsumode-oyster-banshubee-stay/"
   },
   openGraph: {
-    title: '11・12・1月兵庫：書写山圓教寺新春初詣！名宿5選',
+    title: '【11・12・1月兵庫】世界遺産・白鷺城の冬絶景＆書写山圓教寺新春初詣！播磨灘の旬牡蠣と極上播州牛を味わう名宿5選',
     description: '冬の兵庫・姫路は、白漆喰総塗籠造りの大天守「国宝・世界文化遺産 姫路城（白鷺城）」が澄み渡る冬空に白く眩しく輝き。',
     url: 'https://croud-travel.pages.dev/winter-hyogo-himeji-castle-shoshasan-hatsumode-oyster-banshubee-stay/',
     type: 'article',

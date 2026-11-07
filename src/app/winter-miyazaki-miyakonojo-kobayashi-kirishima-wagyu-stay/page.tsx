@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月宮崎：霧島東神社」初詣！名宿5選',
+  title: '【11・12・1月宮崎】都城＆小林・えびの！白銀の霧島連山ジオパークと神話の「狭野神社・霧島東神社」初詣・日本一の肉のまち「都城産宮崎牛」＆美肌温泉宿5選',
   description: '冬の澄み渡る大空に白銀の冠雪をいただく霧島連山の大パノラマと、天孫降臨神話が息づく11〜1月の宮崎・都城＆高原・小林エリア特集。',
   keywords: '都城 宮崎牛 宿, 狭野神社 初詣, 霧島東神社 パワースポット, 極楽温泉 匠の宿, 都城市 温泉 ホテル, えびの高原 冬, 霧島連山 雪景色, 11月 12月 1月 宮崎 旅行, 黒霧島 蔵元',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay/"
   },
   openGraph: {
-    title: '11・12・1月宮崎：霧島東神社」初詣！名宿5選',
+    title: '【11・12・1月宮崎】都城＆小林・えびの！白銀の霧島連山ジオパークと神話の「狭野神社・霧島東神社」初詣・日本一の肉のまち「都城産宮崎牛」＆美肌温泉宿5選',
     description: '冬の澄み渡る大空に白銀の冠雪をいただく霧島連山の大パノラマと、天孫降臨神話が息づく11〜1月の宮崎・都城＆高原・小林エリア特集。',
     url: 'https://croud-travel.pages.dev/winter-miyazaki-miyakonojo-kobayashi-kirishima-wagyu-stay/',
     type: 'article',

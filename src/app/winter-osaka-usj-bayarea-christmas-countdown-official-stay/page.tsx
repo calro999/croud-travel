@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月大阪：天然温泉スパと絶景オフィシャルホテル！名宿5選',
+  title: '【11・12・1月大阪】USJ冬のクリスマス＆ベイエリア夜景！天然温泉スパと絶景オフィシャルホテル名宿5選',
   description: '冬の大阪は「ユニバーサル・スタジオ・ジャパン（USJ）」の圧倒的なスケールを誇る「NO LIMIT! クリスマス」、ホグワーツ城の雪景色。',
   keywords: 'USJ ホテル, ユニバーサルスタジオジャパン クリスマス, USJ オフィシャルホテル, ザ パーク フロント ホテル, ホテル ユニバーサル ポート, リーベルホテル 大阪, 大阪 ベイエリア 夜景, 11月 12月 1月 大阪 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-osaka-usj-bayarea-christmas-countdown-official-stay/"
   },
   openGraph: {
-    title: '11・12・1月大阪：天然温泉スパと絶景オフィシャルホテル！名宿5選',
+    title: '【11・12・1月大阪】USJ冬のクリスマス＆ベイエリア夜景！天然温泉スパと絶景オフィシャルホテル名宿5選',
     description: '冬の大阪は「ユニバーサル・スタジオ・ジャパン（USJ）」の圧倒的なスケールを誇る「NO LIMIT! クリスマス」、ホグワーツ城の雪景色。',
     url: 'https://croud-travel.pages.dev/winter-osaka-usj-bayarea-christmas-countdown-official-stay/',
     siteName: '地域の宿探訪',

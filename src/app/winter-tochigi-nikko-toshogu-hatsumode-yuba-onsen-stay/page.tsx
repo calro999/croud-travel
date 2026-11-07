@@ -5,14 +5,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, Sparkles, Calendar, Utensils, Compass, ExternalLink, Snowflake, Flame, Building, ThermometerSun } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月日光：とちぎ和牛！名宿5選',
+  title: '【11・12・1月日光】世界遺産・日光東照宮の静謐な冬参拝＆新春初詣と名物「日光湯波会席」・とちぎ和牛を堪能する名宿5選',
   description: '11月から1月、木々の葉が落ち清澄な大気に包まれる日光山内は、世界遺産・日光東照宮が最も神聖な静寂を纏う季節です。',
   keywords: '日光東照宮 冬 参拝, 日光東照宮 初詣 混雑, 日光湯波 会席 宿, とちぎ和牛 日光 温泉, 日光千姫物語, 日光金谷ホテル, 日光 星の宿, 小槌の宿 鶴亀大吉, 日光西町倶楽部あらとうと, 11月 12月 1月 日光旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay/"
   },
   openGraph: {
-    title: '11・12・1月日光：とちぎ和牛！名宿5選',
+    title: '【11・12・1月日光】世界遺産・日光東照宮の静謐な冬参拝＆新春初詣と名物「日光湯波会席」・とちぎ和牛を堪能する名宿5選',
     description: '11月から1月、木々の葉が落ち清澄な大気に包まれる日光山内は、世界遺産・日光東照宮が最も神聖な静寂を纏う季節です。',
     url: 'https://croud-travel.pages.dev/winter-tochigi-nikko-toshogu-hatsumode-yuba-onsen-stay/',
     type: 'article',

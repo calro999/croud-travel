@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月神奈川：鶴岡八幡宮新春初詣！名宿5選',
+  title: '【11・12・1月神奈川】冬の湘南・江の島シーキャンドル「湘南の宝石」イルミネーション＆鶴岡八幡宮新春初詣・富士山夕景と相模湾冬の地魚を味わう名宿5選',
   description: '11月から1月、湘南・鎌倉・江の島は澄み切った冬空が広がり、相模湾の向こうに純白の冠雪を抱いた富士山が最もくっきりと美しく浮かび上がります。',
   keywords: '鎌倉 江の島 冬 旅行, 湘南の宝石, 江の島シーキャンドル イルミネーション, 鶴岡八幡宮 初詣, 富士山 夕景 湘南, 鎌倉プリンスホテル, ホテルメトロポリタン鎌倉, 江の島ホテル, ブレスホテル, かいひん荘鎌倉, 寒平目 カワハギ 肝和え, 葉山牛, 11月 12月 1月 神奈川旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/"
   },
   openGraph: {
-    title: '11・12・1月神奈川：鶴岡八幡宮新春初詣！名宿5選',
+    title: '【11・12・1月神奈川】冬の湘南・江の島シーキャンドル「湘南の宝石」イルミネーション＆鶴岡八幡宮新春初詣・富士山夕景と相模湾冬の地魚を味わう名宿5選',
     description: '11月から1月、湘南・鎌倉・江の島は澄み切った冬空が広がり、相模湾の向こうに純白の冠雪を抱いた富士山が最もくっきりと美しく浮かび上がります。',
     url: 'https://croud-travel.pages.dev/winter-kanagawa-kamakura-enoshima-jewel-shrine-fuji-stay/',
     siteName: 'クラドトラベル',

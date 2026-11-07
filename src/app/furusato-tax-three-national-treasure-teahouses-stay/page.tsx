@@ -8,13 +8,13 @@ import Image from 'next/image';
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
 
 export const metadata: Metadata = {
-  title: "国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド",
+  title: "国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
   description: "侘び寂びの精神が極まる日本建築の最高峰！京都「妙喜庵・待庵」千利休唯一現存の国宝茶室とホテル京都エミナース、愛知「有楽苑・如庵」織田有楽斎の美学とホテルインディゴ犬山有楽苑、京都「嵐山・数寄屋名宿」小堀遠州の美意識と割烹旅館城山。国宝三大茶室の静謐な世界を楽天ふるさと納税宿泊クーポンでお得に楽しむ完...",
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-national-treasure-teahouses-stay/",
   },
   openGraph: {
-    title: "国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド",
+    title: "国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
     description: "侘び寂びの精神が極まる日本建築の最高峰！京都「妙喜庵・待庵」千利休唯一現存の国宝茶室とホテル京都エミナース、愛知「有楽苑・如庵」織田有楽斎の美学とホテルインディゴ犬山有楽苑、京都「嵐山・数寄屋名宿」小堀遠州の美意識と割烹旅館城山。国宝三大茶室の静謐な世界を楽天ふるさと納税宿泊クーポンでお得に楽しむ完...",
     url: "https://croud-travel.pages.dev/furusato-tax-three-national-treasure-teahouses-stay/",
   },
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
+    "headline": "国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
     "description": "侘び寂びの精神が極まる日本建築の最高峰！京都「妙喜庵・待庵」千利休唯一現存の国宝茶室とホテル京都エミナース、愛知「有楽苑・如庵」織田有楽斎の美学とホテルインディゴ犬山有楽苑、京都「嵐山・数寄屋名宿」小堀遠州の美意識と割烹旅館城山。国宝三大茶室の静謐な世界を楽天ふるさと納税宿泊クーポンでお得に楽しむ完...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-national-treasure-teahouses-stay/",
     "publisher": {
@@ -56,7 +56,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             国宝三大茶室・数寄屋侘び寂び特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド</h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             侘び寂びの精神が極まる日本建築の最高峰！京都「妙喜庵・待庵」千利休唯一現存の国宝茶室とホテル京都エミナース、愛知「有楽苑・如庵」織田有楽斎の美学とホテルインディゴ犬山有楽苑、京都「嵐山・数寄屋名宿」小堀遠州の美意識と割烹旅館城山。国宝三大茶室の静謐な世界を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>
@@ -506,7 +506,7 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-ibaraki-mito-kasama-inari-hatsumode-ankou-hitachigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月茨城：笠間稲荷神社新春開運初詣！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月茨城】笠間稲荷神社新春開運初詣＆水戸偕楽園冬梅！本場濃厚あんこう鍋と極上常陸牛を味わう名宿5選</span>
             </a>
             <a href="/furusato-tax-daigo-fukuroda-falls-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
@@ -514,7 +514,7 @@ export default function Page() {
             </a>
             <a href="/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月茨城：大洗磯前神社「神磯の鳥居」初！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月茨城】大洗磯前神社「神磯の鳥居」初日の出と冬の極上「大洗あんこう鍋（どぶ汁）」・那珂湊おさかな市場買い出し＆太平洋一望の大洗温泉宿5選</span>
             </a>
             <a href="/ibaraki-oarai-solo-retreat-ocean-seafood-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
@@ -560,10 +560,10 @@ export default function Page() {
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+              📊 国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
             </h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              楽天トラベル公式APIより取得した「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -614,7 +614,7 @@ export default function Page() {
 
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド」掲載宿の所在地・アクセス・特徴データ一覧
+              🏨 「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・アクセス・特徴データ一覧
             </h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
@@ -672,7 +672,7 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29364/29364.jpg" alt="割烹旅館　城山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR水戸線笠間駅より約1.5km　タクシーで約3分／北関東自動車道友部ICよりR３５５にて１０分</p>
                   <p>【国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
@@ -686,9 +686,9 @@ export default function Page() {
 
           <div className="space-y-4 pt-6 border-t border-stone-200">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド」とあわせて巡りたい茨城県の代表観光スポット案内
+              🗺️ 「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」とあわせて巡りたい茨城県の代表観光スポット案内
             </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
+            <p className="text-xs text-stone-600 leading-relaxed">「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               

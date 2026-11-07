@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月茨城：大洗磯前神社「神磯の鳥居」初！名宿5選',
+  title: '【11・12・1月茨城】大洗磯前神社「神磯の鳥居」初日の出と冬の極上「大洗あんこう鍋（どぶ汁）」・那珂湊おさかな市場買い出し＆太平洋一望の大洗温泉宿5選',
   description: '11月から1月、茨城県大洗・那珂湊は、太平洋の荒波打つ岩礁に立つ大洗磯前神社「神磯の鳥居」の初日の出と。',
   keywords: '大洗 あんこう鍋, 神磯の鳥居 初日の出, 大洗磯前神社, 那珂湊おさかな市場, 大洗ホテル, 大洗パークホテル, 里海邸, 亀の井ホテル大洗, 大洗シーサイドホテル, 大洗温泉, どぶ汁, 11月 12月 1月 茨城旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay/"
   },
   openGraph: {
-    title: '11・12・1月茨城：大洗磯前神社「神磯の鳥居」初！名宿5選',
+    title: '【11・12・1月茨城】大洗磯前神社「神磯の鳥居」初日の出と冬の極上「大洗あんこう鍋（どぶ汁）」・那珂湊おさかな市場買い出し＆太平洋一望の大洗温泉宿5選',
     description: '11月から1月、茨城県大洗・那珂湊は、太平洋の荒波打つ岩礁に立つ大洗磯前神社「神磯の鳥居」の初日の出と。',
     url: 'https://croud-travel.pages.dev/winter-ibaraki-oarai-nakaminato-ankou-sunrise-stay/',
     siteName: 'クラドトラベル',

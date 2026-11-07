@@ -7,18 +7,18 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月大阪：大阪天満宮新春初詣！名宿5選',
+  title: '【11・12・1月大阪】冬の大阪城イルミナージュ＆大阪天満宮新春初詣！水都中之島イルミネーションとなにわ冬グルメ名宿5選',
   description: '冬の水都・大阪は、大阪城西の丸庭園を光の歴史絵巻に変える「大阪城イルミナージュ」や堂島川・中之島を彩る「大阪・光の饗宴」の幻想美に包まれる季節。',
   keywords: '大阪城 ホテル, 大阪天満宮 初詣 ホテル, 大阪城イルミナージュ, 中之島 イルミネーション, ホテルニューオータニ大阪, 帝国ホテル大阪, リーガロイヤルホテル大阪, 11月 12月 1月 大阪 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay/"
   },
   openGraph: {
-    title: '11・12・1月大阪：大阪天満宮新春初詣！名宿5選',
+    title: '【11・12・1月大阪】冬の大阪城イルミナージュ＆大阪天満宮新春初詣！水都中之島イルミネーションとなにわ冬グルメ名宿5選',
     description: '冬の水都・大阪は、大阪城西の丸庭園を光の歴史絵巻に変える「大阪城イルミナージュ」や堂島川・中之島を彩る「大阪・光の饗宴」の幻想美に包まれる季節。',
     url: 'https://croud-travel.pages.dev/winter-osaka-castle-nakanoshima-illumination-tenmangu-stay/',
     type: 'article',
-    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/91/91.jpg' , alt: "11・12・1月大阪：大阪天満宮新春初詣！名宿5選"}]
+    images: [{ url: 'https://img.travel.rakuten.co.jp/share/HOTEL/91/91.jpg' , alt: "【11・12・1月大阪】冬の大阪城イルミナージュ＆大阪天満宮新春初詣！水都中之島イルミネーションとなにわ冬グルメ名宿5選"}]
   }
 };
 

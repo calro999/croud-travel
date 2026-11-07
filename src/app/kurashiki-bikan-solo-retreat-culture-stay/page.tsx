@@ -448,7 +448,7 @@ export default function ArticlePage() {
             </a>
             <a href="/winter-ibaraki-tsukubasan-shrine-hatsumode-yakei-onsen-hitachigyu-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">11・12・1月筑波山：冬の筑波山神社新春初詣！名宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【11・12・1月筑波山】冬の筑波山神社新春初詣＆スターダスト夜景！名湯筑波山温泉と極上常陸牛に寛ぐ厳選宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">

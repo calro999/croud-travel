@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月福島：阿賀川渓谷雪見露天風呂！名宿5選',
+  title: '【11・12・1月福島】白銀の茅葺き宿場町・大内宿の雪景色と名物「一本ねぎそば」＆阿賀川渓谷雪見露天風呂・会津馬刺し名宿5選',
   description: '11月下旬から1月、会津盆地に雪が降り積もると、江戸時代の面影を今に留める国の重要伝統的建造物群保存地区「大内宿（おおうちじゅく）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '大内宿 冬 雪景色, 大内宿 一本ねぎそば, 湯野上温泉 茅葺き駅舎, 芦ノ牧温泉 雪見露天, 大川荘 芦ノ牧, 丸峰観光ホテル, 藤龍館 湯野上温泉, 会津馬刺し, 会津牛, 11月 12月 1月 福島旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay/"
   },
   openGraph: {
-    title: '11・12・1月福島：阿賀川渓谷雪見露天風呂！名宿5選',
+    title: '【11・12・1月福島】白銀の茅葺き宿場町・大内宿の雪景色と名物「一本ねぎそば」＆阿賀川渓谷雪見露天風呂・会津馬刺し名宿5選',
     description: '11月下旬から1月、会津盆地に雪が降り積もると、江戸時代の面影を今に留める国の重要伝統的建造物群保存地区「大内宿（おおうちじゅく）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-fukushima-aizu-ouchijuku-yunokami-ashinomaki-stay/',
     siteName: 'クラドトラベル',

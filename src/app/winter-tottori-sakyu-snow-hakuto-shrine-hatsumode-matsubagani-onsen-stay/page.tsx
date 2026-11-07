@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月鳥取：白銀に染まる「鳥取砂丘」雪景！名宿5選',
+  title: '【11・12・1月鳥取】白銀に染まる「鳥取砂丘」雪景色と因幡の白兎「白兎神社」新春縁結び初詣！冬旬「鳥取松葉がに」＆鳥取温泉名宿5選',
   description: '山陰の冬が魅せる奇跡の絶景・鳥取砂丘と神話の里の11〜1月冬紀行。冬の寒波がもたらす白銀の雪砂丘と風が描く風紋のアート。',
   keywords: '鳥取砂丘 雪景色, 白兎神社 初詣, 鳥取松葉がに, モサエビ, 鳥取温泉 宿泊, 観水庭こぜにや, ホテルモナーク鳥取, 白兎会館, 鳥取和牛, 山陰 冬旅行',
   alternates: {
     canonical: 'https://croud-travel.pages.dev/winter-tottori-sakyu-snow-hakuto-shrine-hatsumode-matsubagani-onsen-stay/'
   },
   openGraph: {
-    title: '11・12・1月鳥取：白銀に染まる「鳥取砂丘」雪景！名宿5選',
+    title: '【11・12・1月鳥取】白銀に染まる「鳥取砂丘」雪景色と因幡の白兎「白兎神社」新春縁結び初詣！冬旬「鳥取松葉がに」＆鳥取温泉名宿5選',
     description: '山陰の冬が魅せる奇跡の絶景・鳥取砂丘と神話の里の11〜1月冬紀行。冬の寒波がもたらす白銀の雪砂丘と風が描く風紋のアート。',
     url: 'https://croud-travel.pages.dev/winter-tottori-sakyu-snow-hakuto-shrine-hatsumode-matsubagani-onsen-stay/',
     type: 'article',

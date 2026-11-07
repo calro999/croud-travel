@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '世界遺産「高野山」壇上伽藍の紅葉ライトアップ＆日本三美人の湯「龍神温泉」・極上熊野牛会席',
+  title: '世界遺産「高野山」壇上伽藍の紅葉ライトアップ＆日本三美人の湯「龍神温泉」・極上熊野牛会席｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月下旬〜11月中旬に山全体が深紅と黄金に染まる聖地・高野山。高野龍神スカイラインをドライブし、弘法大師ゆかりの日本三美人の湯「龍神温泉」で極上美肌湯とブランド肉「熊野牛」をふるさと納税で楽しむ秋旅。',
   keywords: ["日本三美人の湯「龍神温泉」", "極上熊野牛会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-koyasan-ryujin-onsen-autumn-stay/",
   },
   openGraph: {
-    title: '世界遺産「高野山」壇上伽藍の紅葉ライトアップ＆日本三美人の湯「龍神温泉」・極上熊野牛会席',
+    title: '世界遺産「高野山」壇上伽藍の紅葉ライトアップ＆日本三美人の湯「龍神温泉」・極上熊野牛会席｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月下旬〜11月中旬に山全体が深紅と黄金に染まる聖地・高野山。高野龍神スカイラインをドライブし、弘法大師ゆかりの日本三美人の湯「龍神温泉」で極上美肌湯とブランド肉「熊野牛」をふるさと納税で楽しむ秋旅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-koyasan-ryujin-onsen-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "世界遺産「高野山」壇上伽藍の紅葉ライトアップ＆日本三美人の湯「龍神温泉」・極上熊野牛会席",
+    "headline": "世界遺産「高野山」壇上伽藍の紅葉ライトアップ＆日本三美人の湯「龍神温泉」・極上熊野牛会席｜ふるさと納税で泊まれる名宿ガイド",
     "description": "10月下旬〜11月中旬に山全体が深紅と黄金に染まる聖地・高野山。高野龍神スカイラインをドライブし、弘法大師ゆかりの日本三美人の湯「龍神温泉」で極上美肌湯とブランド肉「熊野牛」をふるさと納税で楽しむ秋旅。",
     "author": {
       "@type": "Organization",
@@ -101,7 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">世界遺産「高野山」壇上伽藍の紅葉ライトアップ＆日本三美人の湯「龍神温泉」・極上熊野牛会席</h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">世界遺産「高野山」壇上伽藍の紅葉ライトアップ＆日本三美人の湯「龍神温泉」・極上熊野牛会席｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             千二百年の祈りが息づく高野山の錦秋絵巻。日本三美人の湯・龍神温泉のトロトロ名湯と極上熊野牛でととのう。
           </p>
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"世界遺産「高野山」壇上伽藍の紅葉ライトアップ＆日本三美人の湯「龍神温泉」・極上熊野牛会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-koyasan-ryujin-onsen-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"世界遺産「高野山」壇上伽藍の紅葉ライトアップ＆日本三美人の湯「龍神温泉」・極上熊野牛会席｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-koyasan-ryujin-onsen-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

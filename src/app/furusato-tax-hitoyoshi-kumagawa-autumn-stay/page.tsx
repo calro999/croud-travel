@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '日本三大急流「球磨川」秋霧と紅葉の渓谷美＆美肌の湯「人吉温泉」・球磨焼酎と極上あか牛',
+  title: '日本三大急流「球磨川」秋霧と紅葉の渓谷美＆美肌の湯「人吉温泉」・球磨焼酎と極上あか牛｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月下旬〜11月下旬に幻想的な朝霧（人吉霧）と清流紅葉が広がる熊本・人吉球磨。弱アルカリ性の柔らかい人吉温泉と、500年の歴史を持つ球磨焼酎・球磨川天然鮎・熊本あか牛会席をふるさと納税で楽しむ秋の南九州旅。',
   keywords: ["美肌の湯「人吉温泉」", "球磨焼酎と極上あか牛", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-hitoyoshi-kumagawa-autumn-stay/",
   },
   openGraph: {
-    title: '日本三大急流「球磨川」秋霧と紅葉の渓谷美＆美肌の湯「人吉温泉」・球磨焼酎と極上あか牛',
+    title: '日本三大急流「球磨川」秋霧と紅葉の渓谷美＆美肌の湯「人吉温泉」・球磨焼酎と極上あか牛｜ふるさと納税で泊まれる名宿ガイド',
     description: '10月下旬〜11月下旬に幻想的な朝霧（人吉霧）と清流紅葉が広がる熊本・人吉球磨。弱アルカリ性の柔らかい人吉温泉と、500年の歴史を持つ球磨焼酎・球磨川天然鮎・熊本あか牛会席をふるさと納税で楽しむ秋の南九州旅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-hitoyoshi-kumagawa-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "日本三大急流「球磨川」秋霧と紅葉の渓谷美＆美肌の湯「人吉温泉」・球磨焼酎と極上あか牛",
+    "headline": "日本三大急流「球磨川」秋霧と紅葉の渓谷美＆美肌の湯「人吉温泉」・球磨焼酎と極上あか牛｜ふるさと納税で泊まれる名宿ガイド",
     "description": "10月下旬〜11月下旬に幻想的な朝霧（人吉霧）と清流紅葉が広がる熊本・人吉球磨。弱アルカリ性の柔らかい人吉温泉と、500年の歴史を持つ球磨焼酎・球磨川天然鮎・熊本あか牛会席をふるさと納税で楽しむ秋の南九州旅。",
     "author": {
       "@type": "Organization",
@@ -101,7 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">日本三大急流「球磨川」秋霧と紅葉の渓谷美＆美肌の湯「人吉温泉」・球磨焼酎と極上あか牛</h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">日本三大急流「球磨川」秋霧と紅葉の渓谷美＆美肌の湯「人吉温泉」・球磨焼酎と極上あか牛｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             球磨川を包む朝霧と山肌を彩る秋の色。城下町の趣残る名湯・人吉温泉で500年の伝統・球磨焼酎とあか牛に酔いしれる。
           </p>
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"日本三大急流「球磨川」秋霧と紅葉の渓谷美＆美肌の湯「人吉温泉」・球磨焼酎と極上あか牛 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-hitoyoshi-kumagawa-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"日本三大急流「球磨川」秋霧と紅葉の渓谷美＆美肌の湯「人吉温泉」・球磨焼酎と極上あか牛｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-hitoyoshi-kumagawa-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

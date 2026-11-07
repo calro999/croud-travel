@@ -5,7 +5,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '長野・諏訪湖＆霧ヶ峰高原！上諏訪温泉の琥珀美肌湯と信州サーモン・信州牛',
+  title: '長野・諏訪湖＆霧ヶ峰高原！上諏訪温泉の琥珀美肌湯と信州サーモン・信州牛｜ふるさと納税で泊まれる名宿ガイド',
   description: '10月・11月の長野・諏訪湖畔＆霧ヶ峰高原を特集。八ヶ岳やアルプスを背景にした諏訪湖の夕景紅葉、毎分豊富な湯量を誇る上諏訪温泉の美肌湯、信州サーモンや信州牛会席を味わう厳選3宿とふるさと納税の活用ガイド。',
   keywords: ["長野", "諏訪湖", "信州牛", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
@@ -126,7 +126,7 @@ export default function Page() {
       <main className="max-w-4xl mx-auto px-4 py-12 space-y-12 leading-relaxed">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"長野・諏訪湖＆霧ヶ峰高原！上諏訪温泉の琥珀美肌湯と信州サーモン・信州牛 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-nagano-suwa-lake-kirigamine-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"長野・諏訪湖＆霧ヶ峰高原！上諏訪温泉の琥珀美肌湯と信州サーモン・信州牛｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-nagano-suwa-lake-kirigamine-autumn-stay/"}]}) }}
       />
         {/* イントロダクション */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-4">
@@ -510,10 +510,10 @@ export default function Page() {
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 長野・諏訪湖＆霧ヶ峰高原！上諏訪温泉の琥珀美肌湯と信州サーモン・信州牛：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+              📊 長野・諏訪湖＆霧ヶ峰高原！上諏訪温泉の琥珀美肌湯と信州サーモン・信州牛｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
             </h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「長野・諏訪湖＆霧ヶ峰高原！上諏訪温泉の琥珀美肌湯と信州サーモン・信州牛」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              楽天トラベル公式APIより取得した「長野・諏訪湖＆霧ヶ峰高原！上諏訪温泉の琥珀美肌湯と信州サーモン・信州牛｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -564,7 +564,7 @@ export default function Page() {
 
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「長野・諏訪湖＆霧ヶ峰高原！上諏訪温泉の琥珀美肌湯と信州サーモン・信州牛」掲載宿の所在地・アクセス・特徴データ一覧
+              🏨 「長野・諏訪湖＆霧ヶ峰高原！上諏訪温泉の琥珀美肌湯と信州サーモン・信州牛｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・アクセス・特徴データ一覧
             </h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
@@ -638,7 +638,7 @@ export default function Page() {
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
               🗺️ 「長野・諏訪湖＆霧ヶ峰高原（上諏訪温泉の琥珀美肌湯と信州サーモン・信州牛）」とあわせて巡りたい青森県の代表観光スポット案内
             </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「長野・諏訪湖＆霧ヶ峰高原！上諏訪温泉の琥珀美肌湯と信州サーモン・信州牛」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
+            <p className="text-xs text-stone-600 leading-relaxed">「長野・諏訪湖＆霧ヶ峰高原！上諏訪温泉の琥珀美肌湯と信州サーモン・信州牛｜ふるさと納税で泊まれる名宿ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               

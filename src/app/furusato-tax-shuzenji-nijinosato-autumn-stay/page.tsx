@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '伊豆の小京都・修善寺温泉の竹林もみじライトアップ＆虹の郷紅葉まつり・伊豆天城軍鶏会席',
+  title: '伊豆の小京都・修善寺温泉の竹林もみじライトアップ＆虹の郷紅葉まつり・伊豆天城軍鶏会席｜ふるさと納税で泊まれる名宿ガイド',
   description: '11月中旬〜12月上旬に伊豆随一の紅葉を迎える修善寺温泉街と虹の郷もみじライトアップ。桂川沿いの老舗温泉旅館で、名湯「独鈷の湯」ゆかりの美肌湯と伊豆天城軍鶏・伊豆牛をふるさと納税で堪能。',
   keywords: ["伊豆の小京都", "虹の郷紅葉まつり", "伊豆天城軍鶏会席", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-shuzenji-nijinosato-autumn-stay/",
   },
   openGraph: {
-    title: '伊豆の小京都・修善寺温泉の竹林もみじライトアップ＆虹の郷紅葉まつり・伊豆天城軍鶏会席',
+    title: '伊豆の小京都・修善寺温泉の竹林もみじライトアップ＆虹の郷紅葉まつり・伊豆天城軍鶏会席｜ふるさと納税で泊まれる名宿ガイド',
     description: '11月中旬〜12月上旬に伊豆随一の紅葉を迎える修善寺温泉街と虹の郷もみじライトアップ。桂川沿いの老舗温泉旅館で、名湯「独鈷の湯」ゆかりの美肌湯と伊豆天城軍鶏・伊豆牛をふるさと納税で堪能。',
     url: 'https://croud-travel.pages.dev/furusato-tax-shuzenji-nijinosato-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "伊豆の小京都・修善寺温泉の竹林もみじライトアップ＆虹の郷紅葉まつり・伊豆天城軍鶏会席",
+    "headline": "伊豆の小京都・修善寺温泉の竹林もみじライトアップ＆虹の郷紅葉まつり・伊豆天城軍鶏会席｜ふるさと納税で泊まれる名宿ガイド",
     "description": "11月中旬〜12月上旬に伊豆随一の紅葉を迎える修善寺温泉街と虹の郷もみじライトアップ。桂川沿いの老舗温泉旅館で、名湯「独鈷の湯」ゆかりの美肌湯と伊豆天城軍鶏・伊豆牛をふるさと納税で堪能。",
     "author": {
       "@type": "Organization",
@@ -101,7 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">伊豆の小京都・修善寺温泉の竹林もみじライトアップ＆虹の郷紅葉まつり・伊豆天城軍鶏会席</h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">伊豆の小京都・修善寺温泉の竹林もみじライトアップ＆虹の郷紅葉まつり・伊豆天城軍鶏会席｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             朱塗りの橋と竹林を彩る紅葉のグラデーション。桂川のせせらぎ響く温泉街で伊豆の旬味に舌鼓。
           </p>
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"伊豆の小京都・修善寺温泉の竹林もみじライトアップ＆虹の郷紅葉まつり・伊豆天城軍鶏会席 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-shuzenji-nijinosato-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"伊豆の小京都・修善寺温泉の竹林もみじライトアップ＆虹の郷紅葉まつり・伊豆天城軍鶏会席｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-shuzenji-nijinosato-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

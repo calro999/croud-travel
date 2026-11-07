@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月岐阜：名物鶏ちゃんと極上飛騨牛すき焼きを味わう！名宿5選',
+  title: '【11・12・1月岐阜】奥美濃の小京都・郡上八幡城雪景色＆宗祇水！名物鶏ちゃんと極上飛騨牛すき焼きを味わう名宿5選',
   description: '冬の岐阜・奥美濃は、日本最古の木造再建城「郡上八幡城」が純白の雪をまとい、城下町の水路に清流がせせらぐ静謐な小京都の季節。',
   keywords: '郡上八幡 ホテル, 郡上八幡城 雪景色, 宗祇水, 奥美濃 鶏ちゃん, 飛騨牛 すき焼き, うだつの上がる町並み 美濃, 郡上八幡積翠園, 11月 12月 1月 岐阜 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gifu-gujo-hachiman-snow-castle-hidagyu-keichan-stay/"
   },
   openGraph: {
-    title: '11・12・1月岐阜：名物鶏ちゃんと極上飛騨牛すき焼きを味わう！名宿5選',
+    title: '【11・12・1月岐阜】奥美濃の小京都・郡上八幡城雪景色＆宗祇水！名物鶏ちゃんと極上飛騨牛すき焼きを味わう名宿5選',
     description: '冬の岐阜・奥美濃は、日本最古の木造再建城「郡上八幡城」が純白の雪をまとい、城下町の水路に清流がせせらぐ静謐な小京都の季節。',
     url: 'https://croud-travel.pages.dev/winter-gifu-gujo-hachiman-snow-castle-hidagyu-keichan-stay/',
     type: 'article',

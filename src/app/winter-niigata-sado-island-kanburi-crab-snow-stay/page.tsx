@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月佐渡：冬の王者「佐渡寒ブリ」と活本ズワイガニ！名宿5選',
+  title: '【11・12・1月佐渡】冬の王者「佐渡寒ブリ」と活本ズワイガニ・雪化粧の佐渡金山＆日本海絶景の佐渡温泉を堪能する名宿5選',
   description: '11月から1月、日本海に浮かぶ新潟県・佐渡島は、冬の味覚の王者が勢揃いする一年で最も贅沢なグルメシーズンを迎えます。',
   keywords: '佐渡寒ブリ 宿泊, 佐渡島 冬旅行, 佐渡金山 世界遺産 冬, 八幡館 佐渡, 吉田家 加茂湖, 佐渡温泉 かけ流し, 本ズワイガニ 佐渡, 11月 12月 1月 新潟旅行, 波の花 佐渡',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-niigata-sado-island-kanburi-crab-snow-stay/"
   },
   openGraph: {
-    title: '11・12・1月佐渡：冬の王者「佐渡寒ブリ」と活本ズワイガニ！名宿5選',
+    title: '【11・12・1月佐渡】冬の王者「佐渡寒ブリ」と活本ズワイガニ・雪化粧の佐渡金山＆日本海絶景の佐渡温泉を堪能する名宿5選',
     description: '11月から1月、日本海に浮かぶ新潟県・佐渡島は、冬の味覚の王者が勢揃いする一年で最も贅沢なグルメシーズンを迎えます。',
     url: 'https://croud-travel.pages.dev/winter-niigata-sado-island-kanburi-crab-snow-stay/',
     siteName: 'クラドトラベル',

@@ -5,14 +5,14 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: '関西の耶馬渓「香落渓」柱状節理の紅葉ドライブ＆赤目渓谷美・本場伊賀牛と名張の隠れ名湯',
+  title: '関西の耶馬渓「香落渓」柱状節理の紅葉ドライブ＆赤目渓谷美・本場伊賀牛と名張の隠れ名湯｜ふるさと納税で泊まれる名宿ガイド',
   description: '11月上旬〜11月下旬に青蓮寺川沿いの巨岩を真っ赤に染める名勝・香落渓。赤目四十八滝ハイキングと名張の天然温泉、最高峰の肉質を誇る「伊賀牛」すき焼きをふるさと納税で堪能する秋の三重・名張旅。',
   keywords: ["赤目渓谷美", "本場伊賀牛と名張の隠れ名湯", "クラウドトラベルふるさと納税", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-nabari-kaochidani-autumn-stay/",
   },
   openGraph: {
-    title: '関西の耶馬渓「香落渓」柱状節理の紅葉ドライブ＆赤目渓谷美・本場伊賀牛と名張の隠れ名湯',
+    title: '関西の耶馬渓「香落渓」柱状節理の紅葉ドライブ＆赤目渓谷美・本場伊賀牛と名張の隠れ名湯｜ふるさと納税で泊まれる名宿ガイド',
     description: '11月上旬〜11月下旬に青蓮寺川沿いの巨岩を真っ赤に染める名勝・香落渓。赤目四十八滝ハイキングと名張の天然温泉、最高峰の肉質を誇る「伊賀牛」すき焼きをふるさと納税で堪能する秋の三重・名張旅。',
     url: 'https://croud-travel.pages.dev/furusato-tax-nabari-kaochidani-autumn-stay/',
     siteName: 'クラウドトラベル (croud-travel.pages.dev)',
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "関西の耶馬渓「香落渓」柱状節理の紅葉ドライブ＆赤目渓谷美・本場伊賀牛と名張の隠れ名湯",
+    "headline": "関西の耶馬渓「香落渓」柱状節理の紅葉ドライブ＆赤目渓谷美・本場伊賀牛と名張の隠れ名湯｜ふるさと納税で泊まれる名宿ガイド",
     "description": "11月上旬〜11月下旬に青蓮寺川沿いの巨岩を真っ赤に染める名勝・香落渓。赤目四十八滝ハイキングと名張の天然温泉、最高峰の肉質を誇る「伊賀牛」すき焼きをふるさと納税で堪能する秋の三重・名張旅。",
     "author": {
       "@type": "Organization",
@@ -101,7 +101,7 @@ export default function Page() {
               ふるさと納税 宿泊クーポン対象
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">関西の耶馬渓「香落渓」柱状節理の紅葉ドライブ＆赤目渓谷美・本場伊賀牛と名張の隠れ名湯</h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight mb-6">関西の耶馬渓「香落渓」柱状節理の紅葉ドライブ＆赤目渓谷美・本場伊賀牛と名張の隠れ名湯｜ふるさと納税で泊まれる名宿ガイド</h1>
           <p className="text-base sm:text-lg text-amber-100 max-w-3xl leading-relaxed">
             切り立つ奇岩を包み込む燃えるような錦秋絵巻。名張の隠れ名湯と口の中でとろける幻の伊賀牛を味わい尽くす。
           </p>
@@ -117,7 +117,7 @@ export default function Page() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"関西の耶馬渓「香落渓」柱状節理の紅葉ドライブ＆赤目渓谷美・本場伊賀牛と名張の隠れ名湯 | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-nabari-kaochidani-autumn-stay/"}]}) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://croud-travel.pages.dev/"},{"@type":"ListItem","position":2,"name":"特集一覧","item":"https://croud-travel.pages.dev/features/"},{"@type":"ListItem","position":3,"name":"関西の耶馬渓「香落渓」柱状節理の紅葉ドライブ＆赤目渓谷美・本場伊賀牛と名張の隠れ名湯｜ふるさと納税で泊まれる名宿ガイド | クラウドトラベルふるさと納税","item":"https://croud-travel.pages.dev/furusato-tax-nabari-kaochidani-autumn-stay/"}]}) }}
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">

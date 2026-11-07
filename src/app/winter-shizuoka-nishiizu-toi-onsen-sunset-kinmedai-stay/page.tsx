@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月静岡：伊勢海老！名宿5選',
+  title: '【11・12・1月静岡】西伊豆・土肥温泉の黄金夕日富士と極上寒金目鯛姿煮＆伊勢海老・日本一早咲きの土肥桜露天を巡る名宿5選',
   description: '11月から1月、温暖な黒潮が洗う西伊豆最古の名湯「土肥（とい）温泉」は、駿河湾の彼方に雪化粧した富士山を望む絶景と。',
   keywords: '土肥温泉 宿泊, 土肥桜 宿, 西伊豆 夕日 富士山 ホテル, 寒金目鯛 姿煮 宿, 湯の花亭 土肥, 富岳群青, 粋松亭, 11月 12月 1月 静岡旅行, 西伊豆 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay/"
   },
   openGraph: {
-    title: '11・12・1月静岡：伊勢海老！名宿5選',
+    title: '【11・12・1月静岡】西伊豆・土肥温泉の黄金夕日富士と極上寒金目鯛姿煮＆伊勢海老・日本一早咲きの土肥桜露天を巡る名宿5選',
     description: '11月から1月、温暖な黒潮が洗う西伊豆最古の名湯「土肥（とい）温泉」は、駿河湾の彼方に雪化粧した富士山を望む絶景と。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-nishiizu-toi-onsen-sunset-kinmedai-stay/',
     siteName: 'クラドトラベル',

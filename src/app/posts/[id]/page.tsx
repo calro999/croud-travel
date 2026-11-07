@@ -117,7 +117,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
 
     // 記事本来の個性的で上質なタイトルを100%活かし、機械的な一括テンプレート化を完全排除
     let pageTitle = rawTitle;
-    if (!pageTitle.startsWith("【")) {
+    if (!pageTitle.startsWith("【") && !isSpecial) {
       pageTitle = `【宿泊記】${rawTitle}`;
     }
 
@@ -159,9 +159,9 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
       ].filter(Boolean).join(","),
       alternates: {
         canonical: `${baseUrl}/posts/${seo.canonical[id] || id}/`,
-        types: { "text/markdown": `${baseUrl}/ai/${id}.md` },
+        types: { "text/markdown": `${baseUrl}/ai/${seo.canonical[id] || id}.md` },
       },
-      ...(seo.noindex.includes(id) || seo.canonical[id]
+      ...(seo.noindex.includes(id) && !seo.canonical[id]
         ? { robots: { index: false, follow: true } }
         : {}),
       openGraph: {

@@ -8,14 +8,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月高知：太平洋の奇跡「だるま朝日！名宿5選',
+  title: '【11・12・1月高知】太平洋の奇跡「だるま朝日・だるま夕日」と冬の極上「室戸キンメダイ」・御厨人窟初日の出＆海洋深層水リゾート宿5選',
   description: '11月中旬から1月中旬、高知県室戸岬は、冷気と黒潮の海水温差が生む冬の光学現象「だるま朝日・だるま夕日」のベストシーズン。',
   keywords: 'だるま朝日, だるま夕日, 室戸岬, 室戸キンメダイ, 室戸キンメ丼, 御厨人窟 初日の出, 空海, ホテルなはり, 岬観光ホテル, リゾートホテル海辺の果樹園, 11月 12月 1月 高知旅行, 室戸海洋深層水',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay/"
   },
   openGraph: {
-    title: '11・12・1月高知：太平洋の奇跡「だるま朝日！名宿5選',
+    title: '【11・12・1月高知】太平洋の奇跡「だるま朝日・だるま夕日」と冬の極上「室戸キンメダイ」・御厨人窟初日の出＆海洋深層水リゾート宿5選',
     description: '11月中旬から1月中旬、高知県室戸岬は、冷気と黒潮の海水温差が生む冬の光学現象「だるま朝日・だるま夕日」のベストシーズン。',
     url: 'https://croud-travel.pages.dev/winter-kochi-muroto-daruma-sunrise-kinmedai-deepsea-stay/',
     siteName: 'クラドトラベル',

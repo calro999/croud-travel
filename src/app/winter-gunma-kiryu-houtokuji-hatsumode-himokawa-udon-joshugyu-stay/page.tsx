@@ -6,14 +6,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '11・12・1月群馬：桐生新町と床もみじの名刹「宝徳寺」新春初詣！名宿5選',
+  title: '【11・12・1月群馬】織物の都・桐生新町と床もみじの名刹「宝徳寺」新春初詣！冬の熱々「幅広ひもかわうどん」＆上州牛・両毛名宿5選',
   description: '「西の西陣、東の桐生」と称された織物の都・桐生が最も静謐で趣深い表情を見せる11〜1月の冬旅特集。ピカピカに磨かれた本堂の漆床に雪景色や新春。',
   keywords: '宝徳寺 床もみじ, 宝徳寺 初詣, ひもかわうどん 桐生, 桐生新町 重伝建, 上州牛 すき焼き, パークイン桐生, 梨木館, 桐生 グルメ 冬, 群馬 初詣 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay/"
   },
   openGraph: {
-    title: '11・12・1月群馬：桐生新町と床もみじの名刹「宝徳寺」新春初詣！名宿5選',
+    title: '【11・12・1月群馬】織物の都・桐生新町と床もみじの名刹「宝徳寺」新春初詣！冬の熱々「幅広ひもかわうどん」＆上州牛・両毛名宿5選',
     description: '「西の西陣、東の桐生」と称された織物の都・桐生が最も静謐で趣深い表情を見せる11〜1月の冬旅特集。ピカピカに磨かれた本堂の漆床に雪景色や新春。',
     url: 'https://croud-travel.pages.dev/winter-gunma-kiryu-houtokuji-hatsumode-himokawa-udon-joshugyu-stay/',
     type: 'article',
