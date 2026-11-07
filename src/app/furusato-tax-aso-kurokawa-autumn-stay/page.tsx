@@ -604,7 +604,7 @@ export default function Page() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
                 <h3 className="text-base font-bold text-stone-900">黒川温泉</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">筑後川の源流・田の原川沿いの閑静な山あいに佇む名湯。「入湯手形」を利用して露天風呂めぐりを楽しみ、杉木立と茅葺き屋根の情緒を満喫できます。 黒川温泉（くろかわおんせん）は、熊本県阿蘇郡南小国町にある温泉である。 阿蘇山の北に位置し、南小国温泉郷の一つを構成する。広義の阿蘇温泉郷に含む場合もある。 全国屈指の人気温泉地として知られ、2009年版ミシュラン・グリーンガイド・ジャポンで、温泉地としては異例の二つ星で掲載された。なお「黒川温泉」の名称は2006年に地域団体商標として商標登録（地域ブランド…</p>
+                <p className="text-xs text-stone-600 leading-relaxed">筑後川の源流・田の原川沿いの閑静な山あいに佇む名湯。「入湯手形」を利用して露天風呂めぐりを楽しみ、杉木立と茅葺き屋根の情緒を満喫できます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -616,16 +616,6 @@ export default function Page() {
               </div>
             </div>
             </div>
-          </div>
-
-          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-2.5 text-xs text-stone-700 leading-relaxed">
-            <h3 className="text-sm md:text-base font-bold text-amber-950">
-              💡 「阿蘇外輪山と大観峰の黄金ススキ！黒川温泉入湯手形露天めぐり・熊本あか牛＆馬刺しを味わう秋の九州旅」で納得の宿選びをするための予約チェックポイント
-            </h3>
-            <p>
-              <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「阿蘇外輪山と大観峰の黄金ススキ！黒川温泉入湯手形露天めぐり・熊本あか牛＆馬刺しを味わう秋の九州旅」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
-            </p>
-            <p><strong>2. 「阿蘇外輪山と大観峰の黄金ススキ（黒川温泉入湯手形露天めぐり・熊本あか牛＆馬刺しを味わう秋の九州旅）」でのアクセス確認とクーポン活用：</strong> 「黒川温泉　湯峡の響き　優彩」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
 

@@ -460,45 +460,35 @@ export default function MicroTouristHubPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">清津峡渓谷トンネル（Tunnel of Light）（新潟・越後湯沢＆魚沼：川端康成雪国・ぽんしゅ館利き酒）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">【新潟・越後湯沢＆魚沼：川端康成雪国・ぽんしゅ館利き酒】 日本三大峡谷の一つ・清津峡の絶景を楽しめるアートトンネル。終点のパノラマステーションでは水鏡に渓谷のダイナミックな景観が映り込む映えスポットです。</p>
+                <h3 className="text-base font-bold text-stone-900">清津峡渓谷トンネル（Tunnel of Light）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">日本三大峡谷の一つ・清津峡の絶景を楽しめるアートトンネル。終点のパノラマステーションでは水鏡に渓谷のダイナミックな景観が映り込む映えスポットです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">佐渡金山（新潟・越後湯沢＆魚沼：川端康成雪国・ぽんしゅ館利き酒）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">【新潟・越後湯沢＆魚沼：川端康成雪国・ぽんしゅ館利き酒】 江戸時代から平成まで400年にわたって採掘が続いた日本最大の金銀山。手掘りの坑道跡や巨大な金山遺構「北沢浮遊選鉱場」のノスタルジーが感動的です。</p>
+                <h3 className="text-base font-bold text-stone-900">佐渡金山</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">江戸時代から平成まで400年にわたって採掘が続いた日本最大の金銀山。手掘りの坑道跡や巨大な金山遺構「北沢浮遊選鉱場」のノスタルジーが感動的です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Entrance_to_Echigo-Yuzawa_Onsen.JPG/1280px-Entrance_to_Echigo-Yuzawa_Onsen.JPG?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="苗場山・越後湯沢温泉" className="w-full h-full object-cover" loading="lazy" /></div>
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">苗場山・越後湯沢温泉（新潟・越後湯沢＆魚沼：川端康成雪国・ぽんしゅ館利き酒）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">【新潟・越後湯沢＆魚沼：川端康成雪国・ぽんしゅ館利き酒】 四季を通じてアウトドアやリゾートが楽しめる一大リゾート地。冬は上質なパウダースノーのスキー場、秋はドラゴンドラからの日本一長い紅葉空中散歩が自慢です。 越後湯沢温泉（えちごゆざわおんせん）は、新潟県南魚沼郡湯沢町（旧越後国）にある温泉。川端康成の小説『雪国』のモデルになった温泉地である。単に湯沢温泉と呼ばれることもある。 この項目で扱うように、同じ湯沢町にある他の温泉も含めた呼び名としても用いられる。…</p>
+                <h3 className="text-base font-bold text-stone-900">苗場山・越後湯沢温泉</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">四季を通じてアウトドアやリゾートが楽しめる一大リゾート地。冬は上質なパウダースノーのスキー場、秋はドラゴンドラからの日本一長い紅葉空中散歩が自慢です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">萬代橋（ばんだいばし）（新潟・越後湯沢＆魚沼：川端康成雪国・ぽんしゅ館利き酒）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">【新潟・越後湯沢＆魚沼：川端康成雪国・ぽんしゅ館利き酒】 信濃川にかかる6連アーチが美しい新潟市のシンボルであり国指定重要文化財。重厚な石造りの橋脚と美しい川辺の遊歩道が市民や観光客に親しまれています。</p>
+                <h3 className="text-base font-bold text-stone-900">萬代橋（ばんだいばし）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">信濃川にかかる6連アーチが美しい新潟市のシンボルであり国指定重要文化財。重厚な石造りの橋脚と美しい川辺の遊歩道が市民や観光客に親しまれています。</p>
               </div>
             </div>
             </div>
-          </div>
-
-          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-2.5 text-xs text-stone-700 leading-relaxed">
-            <h3 className="text-sm md:text-base font-bold text-amber-950">
-              💡 「新潟・越後湯沢＆魚沼」で納得の宿選びをするための予約チェックポイント
-            </h3>
-            <p>
-              <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「新潟・越後湯沢＆魚沼：川端康成雪国・ぽんしゅ館利き酒＆魚沼産コシヒカリ極上宿 厳選ガイド」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
-            </p>
-            <p><strong>2. 「新潟・越後湯沢＆魚沼（川端康成雪国・ぽんしゅ館利き酒＆魚沼産コシヒカリ極上宿 厳選ガイド）」でのアクセス確認とクーポン活用：</strong> 「越後湯沢温泉　湯沢東映ホテル」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
 

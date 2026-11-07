@@ -460,16 +460,16 @@ export default function MicroTouristHubPage() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">中尊寺金色堂（平泉）（岩手・三陸宮古＆浄土ヶ浜：極楽浄土の白い奇岩・青の洞）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">【岩手・三陸宮古＆浄土ヶ浜：極楽浄土の白い奇岩・青の洞】 世界遺産・平泉の象徴であり、奥州藤原氏の栄華を今に伝える極楽浄土の建築。堂全体が金箔で覆われ、螺鈿細工や象牙の装飾が施された国宝の美しさは言葉を失うほどです。</p>
+                <h3 className="text-base font-bold text-stone-900">中尊寺金色堂（平泉）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">世界遺産・平泉の象徴であり、奥州藤原氏の栄華を今に伝える極楽浄土の建築。堂全体が金箔で覆われ、螺鈿細工や象牙の装飾が施された国宝の美しさは言葉を失うほどです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">浄土ヶ浜（岩手・三陸宮古＆浄土ヶ浜：極楽浄土の白い奇岩・青の洞）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">【岩手・三陸宮古＆浄土ヶ浜：極楽浄土の白い奇岩・青の洞】 三陸復興国立公園を代表する三陸海岸の景勝地。白い鋭利な岩肌と青松、穏やかで透明度の高いエメラルドグリーンの入江が「まるで極楽浄土のよう」と称えられています。</p>
+                <h3 className="text-base font-bold text-stone-900">浄土ヶ浜</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">三陸復興国立公園を代表する三陸海岸の景勝地。白い鋭利な岩肌と青松、穏やかで透明度の高いエメラルドグリーンの入江が「まるで極楽浄土のよう」と称えられています。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -477,28 +477,18 @@ export default function MicroTouristHubPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
                 <h3 className="text-base font-bold text-stone-900">龍泉洞</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">【岩手・三陸宮古＆浄土ヶ浜：極楽浄土の白い奇岩・青の洞】 日本三大鍾乳洞の一つで、国の天然記念物。洞内に湧き出る地底湖は世界有数の透明度を誇り、「ドラゴンブルー」と呼ばれる神秘的な青い輝きに吸い込まれそうになります。</p>
+                <p className="text-xs text-stone-600 leading-relaxed">日本三大鍾乳洞の一つで、国の天然記念物。洞内に湧き出る地底湖は世界有数の透明度を誇り、「ドラゴンブルー」と呼ばれる神秘的な青い輝きに吸い込まれそうになります。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">小岩井農場（岩手・三陸宮古＆浄土ヶ浜：極楽浄土の白い奇岩・青の洞）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">【岩手・三陸宮古＆浄土ヶ浜：極楽浄土の白い奇岩・青の洞】 岩手山の雄大な山麓に広がる日本最大級の民間総合農場。美しい一本桜や歴史あるレンガサイロ、搾りたての牛乳を使った絶品アイスクリームなどが楽しめます。</p>
+                <h3 className="text-base font-bold text-stone-900">小岩井農場</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">岩手山の雄大な山麓に広がる日本最大級の民間総合農場。美しい一本桜や歴史あるレンガサイロ、搾りたての牛乳を使った絶品アイスクリームなどが楽しめます。</p>
               </div>
             </div>
             </div>
-          </div>
-
-          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-2.5 text-xs text-stone-700 leading-relaxed">
-            <h3 className="text-sm md:text-base font-bold text-amber-950">
-              💡 「岩手・三陸宮古＆浄土ヶ浜」で納得の宿選びをするための予約チェックポイント
-            </h3>
-            <p>
-              <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「岩手・三陸宮古＆浄土ヶ浜：極楽浄土の白い奇岩・青の洞窟＆名物「瓶ドン」宿 厳選ガイド」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
-            </p>
-            <p><strong>2. 「岩手・三陸宮古＆浄土ヶ浜（極楽浄土の白い奇岩・青の洞窟＆名物「瓶ドン」宿 厳選ガイド）」でのアクセス確認とクーポン活用：</strong> 「浄土ヶ浜パークホテル」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
 

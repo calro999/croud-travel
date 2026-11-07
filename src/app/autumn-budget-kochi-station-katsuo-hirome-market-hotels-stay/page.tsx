@@ -620,7 +620,7 @@ export default function AutumnBudgetHotelsPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
                 <h3 className="text-base font-bold text-stone-900">桂浜（坂本龍馬像）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">土佐民謡『よさこい節』にも詠まれた月の名所。太平洋を望む高台に立つ全高13.5mの幕末の志士・坂本龍馬の銅像と青い海、弓状の砂浜が美しい景勝地です。 桂浜（かつらはま）は、高知県高知市浦戸に位置し太平洋に臨む海岸。土佐民謡「よさこい節」にも詠われ、そして太平洋を望んで立つ坂本龍馬の銅像がある浜辺は、高知を代表する名所の一つとして知られる。日本の渚百選。四国八十八景26番。四国のみずべ八十八カ所。…</p>
+                <p className="text-xs text-stone-600 leading-relaxed">土佐民謡『よさこい節』にも詠まれた月の名所。太平洋を望む高台に立つ全高13.5mの幕末の志士・坂本龍馬の銅像と青い海、弓状の砂浜が美しい景勝地です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -648,16 +648,6 @@ export default function AutumnBudgetHotelsPage() {
               </div>
             </div>
             </div>
-          </div>
-
-          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-2.5 text-xs text-stone-700 leading-relaxed">
-            <h3 className="text-sm md:text-base font-bold text-amber-950">
-              💡 「高知駅前」で納得の宿選びをするための予約チェックポイント
-            </h3>
-            <p>
-              <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「高知駅前：秋の戻り鰹塩たたき＆ひろめ市場！3,000円台〜泊まれる格安ホテル5選」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
-            </p>
-            <p><strong>2. 「高知駅前（秋の戻り鰹塩たたき＆ひろめ市場）」でのアクセス確認とクーポン活用：</strong> 「ホテル　港屋＜高知県＞」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">

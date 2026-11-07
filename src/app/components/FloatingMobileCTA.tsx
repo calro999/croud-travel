@@ -74,7 +74,6 @@ export default function FloatingMobileCTA({
             <span className="text-[8px] text-amber-950 font-bold leading-none">ふるさと納税</span>
             <span className="leading-none mt-0.5 font-black">最大30%引</span>
           </a>
-          </a>
 
           <a
             href={buttonUrl}

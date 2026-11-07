@@ -223,6 +223,40 @@ export default function Home() {
             <p className="text-xs text-emerald-950/70 line-clamp-2">越前がに・松葉ガニ解禁、雪見露天風呂、イルミネーション＆年末年始おすすめ宿。</p>
           </Link>
         </div>
+
+        {/* 11月〜2月 冬旅・年末年始 旬の検索テーマ直行リンク */}
+        <div className="pt-2 border-t border-amber-500/15">
+          <p className="text-[11px] font-extrabold text-emerald-950/80 mb-2.5 flex items-center gap-1.5">
+            <span>❄️</span>
+            <span>いま予約が集中している秋冬〜年末年始の人気テーマ：</span>
+          </p>
+          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2.5 text-xs">
+            <Link href="/winter-crab-gourmet/" className="bg-white hover:bg-rose-50 border border-rose-200/80 rounded-xl px-3 py-2.5 font-bold text-rose-950 flex items-center gap-1.5 shadow-sm transition">
+              <span>🦀</span>
+              <span className="truncate">松葉ガニ・越前ガニ解禁</span>
+            </Link>
+            <Link href="/furusato-tax-winter-crab-gourmet-luxury-stay/" className="bg-white hover:bg-amber-50 border border-amber-200/80 rounded-xl px-3 py-2.5 font-bold text-amber-950 flex items-center gap-1.5 shadow-sm transition">
+              <span>🏷️</span>
+              <span className="truncate">ふるさと納税×活蟹宿</span>
+            </Link>
+            <Link href="/snow-viewing-open-air-bath-secret-hotsprings/" className="bg-white hover:bg-sky-50 border border-sky-200/80 rounded-xl px-3 py-2.5 font-bold text-sky-950 flex items-center gap-1.5 shadow-sm transition">
+              <span>♨️</span>
+              <span className="truncate">絶景の雪見露天風呂</span>
+            </Link>
+            <Link href="/furusato-tax-three-great-illuminations-resort-stay/" className="bg-white hover:bg-indigo-50 border border-indigo-200/80 rounded-xl px-3 py-2.5 font-bold text-indigo-950 flex items-center gap-1.5 shadow-sm transition">
+              <span>✨</span>
+              <span className="truncate">冬イルミネーション宿</span>
+            </Link>
+            <Link href="/new-year-hatsumode-onsen/" className="bg-white hover:bg-emerald-50 border border-emerald-200/80 rounded-xl px-3 py-2.5 font-bold text-emerald-950 flex items-center gap-1.5 shadow-sm transition">
+              <span>🎍</span>
+              <span className="truncate">年末年始・初詣の名宿</span>
+            </Link>
+            <Link href="/furusato-tax-kue-gourmet-luxury-fish-stay/" className="bg-white hover:bg-teal-50 border border-teal-200/80 rounded-xl px-3 py-2.5 font-bold text-teal-950 flex items-center gap-1.5 shadow-sm transition">
+              <span>🍲</span>
+              <span className="truncate">本クエ鍋・冬の高級魚</span>
+            </Link>
+          </div>
+        </div>
       </section>
 
       {/* 47都道府県の見所から探すエリアナビセクション */}

@@ -451,45 +451,35 @@ export default function Page() {
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">富士山（吉田ルート/五合目）（澄んだ冬空の下で極上の外気浴）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">【澄んだ冬空の下で極上の外気浴】 日本の最高峰であり世界文化遺産の象徴。富士スバルラインで行く五合目は観光施設が充実し、眼下に雲海を望む圧巻のスタート地点です。</p>
+                <h3 className="text-base font-bold text-stone-900">富士山（吉田ルート/五合目）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">日本の最高峰であり世界文化遺産の象徴。富士スバルラインで行く五合目は観光施設が充実し、眼下に雲海を望む圧巻のスタート地点です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">新倉山浅間公園（忠霊塔）（澄んだ冬空の下で極上の外気浴）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">【澄んだ冬空の下で極上の外気浴】 五重塔（忠霊塔）越しに雄大な富士山と満開の桜を一望できる、世界中の観光客が熱望する「これぞ日本」という究極のアジアンビジュアルスポット。</p>
+                <h3 className="text-base font-bold text-stone-900">新倉山浅間公園（忠霊塔）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">五重塔（忠霊塔）越しに雄大な富士山と満開の桜を一望できる、世界中の観光客が熱望する「これぞ日本」という究極のアジアンビジュアルスポット。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">富士五湖（河口湖）（澄んだ冬空の下で極上の外気浴）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">【澄んだ冬空の下で極上の外気浴】 富士山の北麓に位置する静かな湖畔リゾート。四季折々の富士山が水面に映る「逆さ富士」や、大石公園のコキア・ラベンダー越しのアングルが人気です。</p>
+                <h3 className="text-base font-bold text-stone-900">富士五湖（河口湖）</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">富士山の北麓に位置する静かな湖畔リゾート。四季折々の富士山が水面に映る「逆さ富士」や、大石公園のコキア・ラベンダー越しのアングルが人気です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">勝沼ぶどうの丘（澄んだ冬空の下で極上の外気浴）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">【澄んだ冬空の下で極上の外気浴】 日本有数のワイン産地・勝沼の高台に立つ総合ワインリゾート。タパスとともに100種類以上の甲州ワインを試飲できる地下ワインカーヴが魅力です。</p>
+                <h3 className="text-base font-bold text-stone-900">勝沼ぶどうの丘</h3>
+                <p className="text-xs text-stone-600 leading-relaxed">日本有数のワイン産地・勝沼の高台に立つ総合ワインリゾート。タパスとともに100種類以上の甲州ワインを試飲できる地下ワインカーヴが魅力です。</p>
               </div>
             </div>
             </div>
-          </div>
-
-          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-2.5 text-xs text-stone-700 leading-relaxed">
-            <h3 className="text-sm md:text-base font-bold text-amber-950">
-              💡 「澄んだ冬空の下で極上の外気浴！完全貸切プライベートサウナ＆天然水風呂完備ホテル」で納得の宿選びをするための予約チェックポイント
-            </h3>
-            <p>
-              <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「澄んだ冬空の下で極上の外気浴！完全貸切プライベートサウナ＆天然水風呂完備ホテル」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
-            </p>
-            <p><strong>2. 「澄んだ冬空の下で極上の外気浴（完全貸切プライベートサウナ＆天然水風呂完備ホテル）」でのアクセス確認とクーポン活用：</strong> 「ＭＯＳＳ十里木キャンプリゾート」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
 

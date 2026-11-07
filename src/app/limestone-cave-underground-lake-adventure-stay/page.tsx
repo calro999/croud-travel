@@ -457,7 +457,7 @@ export default function Page() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
                 <h3 className="text-base font-bold text-stone-900">奈良公園（鹿）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">東大寺・興福寺・春日大社を包み込む広大な風致公園。国の天然記念物である約1,300頭の野生の鹿たちが人間と共生しており「鹿せんべい」をあげられます。 奈良公園（ならこうえん）は、奈良県奈良市にある都市公園である。国の名勝にして名所でもある。…</p>
+                <p className="text-xs text-stone-600 leading-relaxed">東大寺・興福寺・春日大社を包み込む広大な風致公園。国の天然記念物である約1,300頭の野生の鹿たちが人間と共生しており「鹿せんべい」をあげられます。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -477,16 +477,6 @@ export default function Page() {
               </div>
             </div>
             </div>
-          </div>
-
-          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-2.5 text-xs text-stone-700 leading-relaxed">
-            <h3 className="text-sm md:text-base font-bold text-amber-950">
-              💡 「エメラルドに輝く神秘の地底湖！日本屈指の鍾乳洞探検と周辺名湯旅館」で納得の宿選びをするための予約チェックポイント
-            </h3>
-            <p>
-              <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「エメラルドに輝く神秘の地底湖！日本屈指の鍾乳洞探検と周辺名湯旅館」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
-            </p>
-            <p><strong>2. 「エメラルドに輝く神秘の地底湖（日本屈指の鍾乳洞探検と周辺名湯旅館）」でのアクセス確認とクーポン活用：</strong> 「洞川温泉　桝源旅館」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
 

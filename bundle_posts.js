@@ -29,6 +29,8 @@ function main() {
   fs.mkdirSync(PUBLIC_DATA_DIR, { recursive: true });
 
   let posts = [];
+  const thin = [];
+  const canonical = {};
   
   if (fs.existsSync(POSTS_DIR)) {
     const files = fs.readdirSync(POSTS_DIR).filter(file => file.endsWith('.json') && !file.startsWith('note-'));
@@ -50,7 +52,50 @@ function main() {
       return dateB.getTime() - dateA.getTime();
     });
 
-    const postSummaries = posts.map(p => ({
+    // --- SEO判定（先行計算）: 薄い記事(noindex)と同一宿の単体記事重複(canonical)を判定 ---
+    const textLen = (p) => (p.review || p.content || '').replace(/<[^>]*>/g, '').replace(/\s/g, '').length;
+    const isMultiHotelFeature = (p) => {
+      const r = String(p.review || p.content || '');
+      const hName = String(p.hotel_name || '');
+      // 1. 「📡 ... 楽天トラベル公式」を含み、かつhotel_nameが具体的な単一宿名である場合は単体宿記事
+      const isSingleTemplate = r.includes('📡') && r.includes('楽天トラベル公式');
+      const isGenericCollectionName = /(?:セレクション|おすすめ|厳選|ランキング|比較|特集|10選|8選|7選|6選|5選|4選|3選)/.test(hName);
+      if (isSingleTemplate && !isGenericCollectionName && !/(?:10選|8選|7選|6選|5選|4選|3選)/.test(String(p.title || ''))) return false;
+      // 2. それ以外で複数宿特集の条件を満たす場合は特集記事
+      if (isGenericCollectionName) return true;
+      if (Array.isArray(p.featured_hotels) && p.featured_hotels.length >= 2) return true;
+      if (r.includes('第1選') && r.includes('第2選')) return true;
+      if (p.is_special_feature || /(?:10選|8選|7選|6選|5選|3選|徹底比較|ランキング|完全攻略)/.test(String(p.title || ''))) return true;
+      return false;
+    };
+    const normHotelName = (name) => String(name || '')
+      .replace(/[Ａ-Ｚａ-ｚ０-９]/g, s => String.fromCharCode(s.charCodeAt(0) - 0xFEE0))
+      .replace(/[\s　・\-−―_]+/g, '')
+      .toLowerCase();
+
+    const groups = {};
+    posts.forEach(p => {
+      if (p.hotel_name && !isMultiHotelFeature(p) && !String(p.id || '').startsWith('note-')) {
+        const key = normHotelName(p.hotel_name);
+        if (key.length >= 3 && key !== '厳選おすすめ宿泊施設') {
+          (groups[key] = groups[key] || []).push(p);
+        }
+      }
+    });
+    Object.values(groups).filter(g => g.length > 1).forEach(g => {
+      g.sort((a, b) => textLen(b) - textLen(a) || Number(b.rating || 0) - Number(a.rating || 0) || String(a.id).localeCompare(String(b.id)));
+      g.slice(1).forEach(p => { if (p.id) canonical[p.id] = g[0].id; });
+    });
+    posts.forEach(p => { 
+      if (!p.id) return;
+      if (isMultiHotelFeature(p) || String(p.id).startsWith('note-')) return;
+      if (textLen(p) < 600 && !canonical[p.id]) thin.push(p.id); 
+    });
+
+    // 一覧表示には canonical 統合された重複サブ記事を出さず、正規記事のみを表示してカニバリゼーションを防ぐ
+    const canonicalPosts = posts.filter(p => !canonical[p.id]);
+
+    const postSummaries = canonicalPosts.map(p => ({
       id: p.id,
       title: p.title,
       hotel_name: p.hotel_name,
@@ -155,7 +200,16 @@ function main() {
   // B. sitemap-features.xml (目的別・季節別・テーマ別特化特集ハブ)
   let xmlFeatures = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
   featurePageSlugs.forEach(slug => {
-    xmlFeatures += `  <url>\n    <loc>${BASE_URL}/${slug}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.85</priority>\n  </url>\n`;
+    let prio = '0.85';
+    let freq = 'weekly';
+    if (/^(winter-|furusato-|november-|december-|christmas-|newyear-|crab-)/.test(slug)) {
+      prio = '0.9';
+      freq = 'daily';
+    } else if (/^silver-?week/.test(slug)) {
+      prio = '0.5';
+      freq = 'monthly';
+    }
+    xmlFeatures += `  <url>\n    <loc>${BASE_URL}/${slug}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>${freq}</changefreq>\n    <priority>${prio}</priority>\n  </url>\n`;
   });
   xmlFeatures += `</urlset>\n`;
   fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap-features.xml'), xmlFeatures, 'utf8');
@@ -186,7 +240,14 @@ function main() {
   let xmlPosts = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
   posts.forEach(post => {
     const postDate = post.date ? new Date(post.date).toISOString().split('T')[0] : todayStr;
-    xmlPosts += `  <url>\n    <loc>${BASE_URL}/posts/${post.id}/</loc>\n    <lastmod>${postDate}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
+    const idAndTitle = `${post.id || ''} ${post.title || ''}`;
+    let prio = '0.8';
+    if (/silver-?week|シルバーウィーク/.test(idAndTitle)) {
+      prio = '0.5';
+    } else if (/winter-|november-|december-|カニ|蟹|雪見|イルミネーション|クリスマス|年末年始|初詣|初日の出|ふるさと納税/.test(idAndTitle)) {
+      prio = '0.9';
+    }
+    xmlPosts += `  <url>\n    <loc>${BASE_URL}/posts/${post.id}/</loc>\n    <lastmod>${postDate}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>${prio}</priority>\n  </url>\n`;
   });
   xmlPosts += `</urlset>\n`;
   fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap-posts.xml'), xmlPosts, 'utf8');
@@ -555,44 +616,8 @@ Sitemap: ${BASE_URL}/sitemap-posts.xml
   fs.writeFileSync(path.join(PUBLIC_DIR, 'llms.txt'), llmsTxt, 'utf8');
   console.log(`Generated physical llms.txt at ${path.join(PUBLIC_DIR, 'llms.txt')}`);
 
-  // --- 3.5 SEO判定: 薄い記事(noindex)と同一宿の単体記事重複(canonical)を判定して出力 ---
+  // --- 3.5 SEO判定出力 & サイトマップからの重複除外 ---
   {
-    const textLen = (p) => (p.review || p.content || '').replace(/<[^>]*>/g, '').replace(/\s/g, '').length;
-    const isMultiHotelFeature = (p) => {
-      if (p.is_special_feature) return true;
-      if (Array.isArray(p.featured_hotels) && p.featured_hotels.length >= 2) return true;
-      const r = String(p.review || p.content || '');
-      if (r.includes('第1選') && r.includes('第2選')) return true;
-      // 単体宿テンプレート（施設スペック＆リアルタイム評価 等）でない、かつ10選/5選などの特集タイトル
-      const isSingleTemplate = r.includes('📡 楽天トラベル公式API 連携施設データ');
-      if (!isSingleTemplate && /(?:10選|5選|7選|8選|3選|徹底比較|ランキング|完全攻略)/.test(String(p.title || ''))) return true;
-      return false;
-    };
-    const normHotelName = (name) => String(name || '')
-      .replace(/[Ａ-Ｚａ-ｚ０-９]/g, s => String.fromCharCode(s.charCodeAt(0) - 0xFEE0))
-      .replace(/[\s　・\-−―_]+/g, '')
-      .toLowerCase();
-
-    const thin = [];
-    const groups = {};
-    posts.forEach(p => {
-      if (p.hotel_name && !isMultiHotelFeature(p) && !String(p.id || '').startsWith('note-')) {
-        const key = normHotelName(p.hotel_name);
-        if (key.length >= 3 && key !== '厳選おすすめ宿泊施設') {
-          (groups[key] = groups[key] || []).push(p);
-        }
-      }
-    });
-    const canonical = {};
-    Object.values(groups).filter(g => g.length > 1).forEach(g => {
-      g.sort((a, b) => textLen(b) - textLen(a) || Number(b.rating || 0) - Number(a.rating || 0) || String(a.id).localeCompare(String(b.id)));
-      g.slice(1).forEach(p => { if (p.id) canonical[p.id] = g[0].id; });
-    });
-    posts.forEach(p => { 
-      if (!p.id) return;
-      if (p.is_special_feature || String(p.id).startsWith('note-')) return;
-      if (textLen(p) < 600 && !canonical[p.id]) thin.push(p.id); 
-    });
     const seoDir = path.join(__dirname, 'src', 'data');
     fs.writeFileSync(path.join(seoDir, 'post-seo.json'), JSON.stringify({ noindex: thin, canonical }), 'utf8');
     console.log(`SEO: noindex ${thin.length}, canonical-merged ${Object.keys(canonical).length}`);

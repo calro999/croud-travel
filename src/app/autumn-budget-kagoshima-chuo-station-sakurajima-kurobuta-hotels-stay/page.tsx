@@ -628,7 +628,7 @@ export default function AutumnBudgetHotelsPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
                 <h3 className="text-base font-bold text-stone-900">指宿温泉（砂むし温泉）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">世界でも大変珍しい天然の海岸砂むし風呂。温かい温泉熱を含んだ砂の中に埋まり、海鳴りを聞きながら汗を流すデトックス体験は至福のひとときです。 指宿温泉（いぶすきおんせん）は、鹿児島県指宿市東部（旧国薩摩国）にある摺ヶ浜温泉（砂蒸しで有名）、弥次ヶ湯温泉、二月田温泉などの温泉群の総称。鹿児島県内有数の観光地であり、2003年（平成15年）において年間285万人の観光客が訪れ、91万人の宿泊客を集めている。農業や養殖などへの温泉利用も盛んであり、温泉の9割が産業利用されていた時期もあった。また、196…</p>
+                <p className="text-xs text-stone-600 leading-relaxed">世界でも大変珍しい天然の海岸砂むし風呂。温かい温泉熱を含んだ砂の中に埋まり、海鳴りを聞きながら汗を流すデトックス体験は至福のひとときです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -648,16 +648,6 @@ export default function AutumnBudgetHotelsPage() {
               </div>
             </div>
             </div>
-          </div>
-
-          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-2.5 text-xs text-stone-700 leading-relaxed">
-            <h3 className="text-sm md:text-base font-bold text-amber-950">
-              💡 「鹿児島中央駅前」で納得の宿選びをするための予約チェックポイント
-            </h3>
-            <p>
-              <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「鹿児島中央駅前：桜島絶景庭園・仙巌園＆名物黒豚しゃぶしゃぶ！2,000円台〜泊まれる格安ホテル5選」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
-            </p>
-            <p><strong>2. 「鹿児島中央駅前（桜島絶景庭園・仙巌園＆名物黒豚しゃぶしゃぶ）」でのアクセス確認とクーポン活用：</strong> 「ＨＯＴＥＬ　ＮＯＩＲ（ホテルノイル）鹿児島中央駅」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">

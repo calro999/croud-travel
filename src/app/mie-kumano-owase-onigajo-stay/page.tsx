@@ -368,7 +368,7 @@ export default function MicroTouristHubPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
                 <h3 className="text-base font-bold text-stone-900">伊勢神宮（内宮・外宮）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「お伊勢さん」と親しまれる日本人の心のふるさと。五十鈴川の清流を渡り、樹齢数百年の杉木立に囲まれた内宮・正宮でお参りする体験は特別です。 伊勢神宮（いせじんぐう）は、日本の三重県伊勢市にある神社。正式名称は「神宮」（じんぐう）である。他の神宮と区別するために、「伊勢」の地名を冠し伊勢神宮と通称される。出雲国は天照大神であるが、持統天皇から天照大御神を祀り天皇は祭祀とされるようになる。 「伊勢の神宮」、または親しみを込めて「お伊勢さん」「大神宮さん」とも称される。古来、最高の特別格の宮とされ、現…</p>
+                <p className="text-xs text-stone-600 leading-relaxed">「お伊勢さん」と親しまれる日本人の心のふるさと。五十鈴川の清流を渡り、樹齢数百年の杉木立に囲まれた内宮・正宮でお参りする体験は特別です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -396,16 +396,6 @@ export default function MicroTouristHubPage() {
               </div>
             </div>
             </div>
-          </div>
-
-          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-2.5 text-xs text-stone-700 leading-relaxed">
-            <h3 className="text-sm md:text-base font-bold text-amber-950">
-              💡 「三重・熊野＆尾鷲・鬼ヶ城」で納得の宿選びをするための予約チェックポイント
-            </h3>
-            <p>
-              <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「三重・熊野＆尾鷲・鬼ヶ城：世界遺産鬼ヶ城・獅子岩＆熊野古道伊勢路・尾鷲ガスエビ宿 厳選ガイド」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
-            </p>
-            <p><strong>2. 「三重・熊野＆尾鷲・鬼ヶ城（世界遺産鬼ヶ城・獅子岩＆熊野古道伊勢路・尾鷲ガスエビ宿 厳選ガイド）」でのアクセス確認とクーポン活用：</strong> 「ビジネスホテル　河上」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
 

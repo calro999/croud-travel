@@ -461,7 +461,7 @@ export default function HistoryHeritageHubPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
                 <h3 className="text-base font-bold text-stone-900">角島大橋（つのしまおおはし）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">コバルトブルーの澄み切った海を跨ぐ全長1,780mの離島架橋。まるで海の上を飛んでいるかのような爽快なドライブが楽しめるSNS大人気の絶景スポットです。 角島（つのしま）は、山口県下関市豊北町大字角島の日本海（響灘）上にある島。山口県の北西端。北長門海岸国定公園に含まれる。人口726人（平成27年国勢調査）。…</p>
+                <p className="text-xs text-stone-600 leading-relaxed">コバルトブルーの澄み切った海を跨ぐ全長1,780mの離島架橋。まるで海の上を飛んでいるかのような爽快なドライブが楽しめるSNS大人気の絶景スポットです。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -489,16 +489,6 @@ export default function HistoryHeritageHubPage() {
               </div>
             </div>
             </div>
-          </div>
-
-          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-2.5 text-xs text-stone-700 leading-relaxed">
-            <h3 className="text-sm md:text-base font-bold text-amber-950">
-              💡 「幕末維新の歴史浪漫宿」で納得の宿選びをするための予約チェックポイント
-            </h3>
-            <p>
-              <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「幕末維新の歴史浪漫宿：萩・会津若松・高知・薩摩・龍馬ゆかりの宿 厳選ガイド」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
-            </p>
-            <p><strong>2. 「幕末維新の歴史浪漫宿（萩・会津若松・高知・薩摩・龍馬ゆかりの宿 厳選ガイド）」でのアクセス確認とクーポン活用：</strong> 「萩温泉郷　夕景の宿　海のゆりかご　萩小町」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
 

@@ -636,7 +636,7 @@ export default function ArticlePage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
                 <h3 className="text-base font-bold text-stone-900">川越 小江戸（時の鐘）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">蔵造りの商家が並ぶ江戸の情緒を色濃く残す街並み。町のシンボル「時の鐘」や駄菓子屋横丁、縁結びで有名な川越氷川神社など見どころが満載です。 川越（かわごえ）は、武蔵国入間郡の地名。中世には河越とも表記されたが、現在は埼玉県川越で統一されている。 城下町として栄え、古くから小江戸と称された。古くからの「川越」は現在の川越市の中心部にあたり、旧町字名では「大字川越」とも呼ばれた。その地域には次々と町名が設定され、現在の川越市東部に大字川越が残っている。…</p>
+                <p className="text-xs text-stone-600 leading-relaxed">蔵造りの商家が並ぶ江戸の情緒を色濃く残す街並み。町のシンボル「時の鐘」や駄菓子屋横丁、縁結びで有名な川越氷川神社など見どころが満載です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -664,16 +664,6 @@ export default function ArticlePage() {
               </div>
             </div>
             </div>
-          </div>
-
-          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-2.5 text-xs text-stone-700 leading-relaxed">
-            <h3 className="text-sm md:text-base font-bold text-amber-950">
-              💡 「甲府・湯村温泉ひとり旅・信玄隠し湯おこもり」で納得の宿選びをするための予約チェックポイント
-            </h3>
-            <p>
-              <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「甲府・湯村温泉ひとり旅・信玄隠し湯おこもり：自家源泉かけ流し・太宰治ゆかりの文学宿・甲州ワイン＆ほうとう」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
-            </p>
-            <p><strong>2. 「甲府・湯村温泉ひとり旅・信玄隠し湯おこもり（自家源泉かけ流し・太宰治ゆかりの文学宿・甲州ワイン＆ほうとう）」でのアクセス確認とクーポン活用：</strong> 「湯村温泉　湯志摩の郷　楽水園」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
 

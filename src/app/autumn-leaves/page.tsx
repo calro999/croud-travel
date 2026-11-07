@@ -389,7 +389,7 @@ export default function AutumnLeavesOnsenPage() {
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
               <h4 className="text-sm font-bold text-stone-900">📍 函館山（夜景）</h4>
-              <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。（「全国（紅葉露天風呂＆絶景温泉旅館ガイド）」の周遊ルートとしても人気の立ち寄り先です）</p>
+              <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
               <h4 className="text-sm font-bold text-stone-900">📍 横浜みなとみらい21</h4>

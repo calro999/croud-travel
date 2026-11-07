@@ -927,20 +927,10 @@ export default function FurusatoFeaturePage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
                 <h3 className="text-base font-bold text-stone-900">下呂温泉</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">草津・有馬と並ぶ日本三名泉の一つ。滑らかな肌触りの「美人の湯」で知られ、飛騨川のせせらぎを聞きながら足湯巡りや温泉街のグルメを堪能できます。 下呂温泉（げろおんせん）は、岐阜県下呂市（旧飛騨国、岐阜県益田郡下呂町）にある温泉。室町時代には万里集九が有馬温泉や草津温泉とともに「三名泉」とし、江戸時代には林羅山もこれらの三温泉を「天下の三名泉」と記した（日本三名泉）（ただし、当時は下呂ではなく湯島と表記）。…</p>
+                <p className="text-xs text-stone-600 leading-relaxed">草津・有馬と並ぶ日本三名泉の一つ。滑らかな肌触りの「美人の湯」で知られ、飛騨川のせせらぎを聞きながら足湯巡りや温泉街のグルメを堪能できます。</p>
               </div>
             </div>
             </div>
-          </div>
-
-          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-2.5 text-xs text-stone-700 leading-relaxed">
-            <h3 className="text-sm md:text-base font-bold text-amber-950">
-              💡 「天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選ガイド長湯・下呂・有馬の極上泡風呂」で納得の宿選びをするための予約チェックポイント
-            </h3>
-            <p>
-              <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選ガイド長湯・下呂・有馬の極上泡風呂」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
-            </p>
-            <p><strong>2. 「天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選ガイド長湯・下呂・有馬の極上泡風呂」でのアクセス確認とクーポン活用：</strong> 「長湯温泉　紅葉館＜大分県＞」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
 

@@ -475,7 +475,7 @@ export default function FurusatoUpgradedPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
                 <h3 className="text-base font-bold text-stone-900">琵琶湖（白髭神社・竹生島）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本最大の面積と貯水量を誇る湖。湖中に朱色の鳥居が立つ「近江の厳島」白髭神社や、神の宿るパワースポット竹生島へのクルージングが人気です。 琵琶湖（びわこ）は、滋賀県にある日本最大の面積と貯水量を持つ湖。一級水系「淀川水系」に属する一級河川である。国土交通大臣から委託を受けて滋賀県知事が管理を担う。湖沼水質保全特別措置法指定湖沼で、ラムサール条約登録湿地でもある。 古くは淡海（おうみ）・淡海の海（おうみのうみ）・水海・近江の海（おうみのうみ、おうみのみ）・細波（さざなみ）・鳰（にお）の海などとも…</p>
+                <p className="text-xs text-stone-600 leading-relaxed">日本最大の面積と貯水量を誇る湖。湖中に朱色の鳥居が立つ「近江の厳島」白髭神社や、神の宿るパワースポット竹生島へのクルージングが人気です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -503,16 +503,6 @@ export default function FurusatoUpgradedPage() {
               </div>
             </div>
             </div>
-          </div>
-
-          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-2.5 text-xs text-stone-700 leading-relaxed">
-            <h3 className="text-sm md:text-base font-bold text-amber-950">
-              💡 「日本六古窯の里を巡る陶芸美と作家の器で味わう名旅館×ふるさと納税厳選ガイド備前・信楽・丹波立杭」で納得の宿選びをするための予約チェックポイント
-            </h3>
-            <p>
-              <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「日本六古窯の里を巡る陶芸美と作家の器で味わう名旅館×ふるさと納税厳選ガイド備前・信楽・丹波立杭」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
-            </p>
-            <p><strong>2. 「日本六古窯の里を巡る陶芸美と作家の器で味わう名旅館×ふるさと納税厳選ガイド備前・信楽・丹波立杭」でのアクセス確認とクーポン活用：</strong> 「備前ホテル陶」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
 

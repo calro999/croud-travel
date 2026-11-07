@@ -620,7 +620,7 @@ export default function AutumnBudgetHotelsPage() {
               <div className="p-5 space-y-2 flex-1">
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
                 <h3 className="text-base font-bold text-stone-900">鳥取砂丘</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本最大級の海岸砂丘。風が織りなす美風紋や馬の背からの壮大な日本海の眺望が素晴らしく、ラクダ乗り体験やパラグライダーが人気です。 鳥取砂丘（とっとりさきゅう）は、鳥取県鳥取市の日本海海岸に広がる日本の代表的な海岸砂丘。広義には鳥取平野の海岸沿いに位置する東西16km、南北2.4kmの砂丘のことで、末恒砂丘、湖山砂丘、浜坂砂丘、福部砂丘の総称である。狭義にはこのうち千代川東岸の浜坂砂丘のことをいい、その一部は観光砂丘となっている。 砂丘の一部は山陰海岸国立公園の特別保護地区に指定されてい…</p>
+                <p className="text-xs text-stone-600 leading-relaxed">日本最大級の海岸砂丘。風が織りなす美風紋や馬の背からの壮大な日本海の眺望が素晴らしく、ラクダ乗り体験やパラグライダーが人気です。</p>
               </div>
             </div>
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
@@ -648,16 +648,6 @@ export default function AutumnBudgetHotelsPage() {
               </div>
             </div>
             </div>
-          </div>
-
-          <div className="bg-amber-50/70 rounded-2xl p-5 md:p-6 border border-amber-200 space-y-2.5 text-xs text-stone-700 leading-relaxed">
-            <h3 className="text-sm md:text-base font-bold text-amber-950">
-              💡 「米子駅前」で納得の宿選びをするための予約チェックポイント
-            </h3>
-            <p>
-              <strong>1. 部屋タイプと食事条件の選び分け：</strong> 「米子駅前：名峰大山の紅葉＆境港紅ズワイガニ！2,000円台〜泊まれる格安ホテル5選」で宿を比較する際は、同行人数や滞在目的に合わせて客室の広さ・眺望・寝具タイプを確認しましょう。館内でゆっくり過ごすなら夕朝食付き、周辺の観光地や名物店で食事を楽しむなら朝食付き・素泊まりプランが柔軟で便利です。
-            </p>
-            <p><strong>2. 「米子駅前（名峰大山の紅葉＆境港紅ズワイガニ）」でのアクセス確認とクーポン活用：</strong> 「グリーンリッチホテル米子駅前　人工温泉・二股湯の華」をはじめとする各宿へマイカーで向かう場合は駐車場条件（無料・有料や先着順）を、公共交通機関の場合は最寄り駅からの送迎・バス動線を事前にチェックしておくと安心です。楽天トラベルの「5と0のつく日」や早割プランを併用して賢く予約しましょう。</p>
           </div>
         </section>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
