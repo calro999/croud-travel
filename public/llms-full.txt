@@ -52,7 +52,7 @@
 - [沖縄県（65件）](https://croud-travel.pages.dev/llms/47.txt)
 - [全国・複数県（364件）](https://croud-travel.pages.dev/llms/48.txt)
 
-## 特集記事（2254件）
+## 特集記事（2255件）
 - https://croud-travel.pages.dev/about/
 - https://croud-travel.pages.dev/aichi-chita-minamichita-himakajima-stay/
 - https://croud-travel.pages.dev/airport-access-direct-resort-stay/
@@ -340,6 +340,7 @@
 - https://croud-travel.pages.dev/fukushima-iwaki-yumoto-solo-retreat-onsen-stay/
 - https://croud-travel.pages.dev/fukushima-urabandai-goshikinuma-lake-stay/
 - https://croud-travel.pages.dev/furano-biei-solo-retreat-nature-onsen-stay/
+- https://croud-travel.pages.dev/furusato/
 - https://croud-travel.pages.dev/furusato-tax-aizu-urabandai-goshikinuma-autumn-stay/
 - https://croud-travel.pages.dev/furusato-tax-akame-48waterfalls-autumn-leaves-stay/
 - https://croud-travel.pages.dev/furusato-tax-akame48-waterfalls-autumn-leaves-stay/

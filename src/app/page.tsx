@@ -139,24 +139,31 @@ export default function Home() {
 
           {/* クイックアクション導線 */}
           <div className="pt-2 flex flex-wrap items-center gap-3">
+            <Link
+              href="/furusato/"
+              className="inline-flex items-center gap-2 px-5 py-2.5 text-xs md:text-sm font-black text-teal-950 bg-gradient-to-r from-amber-300 via-amber-200 to-yellow-300 hover:from-amber-200 hover:to-yellow-200 rounded-2xl shadow-lg transition transform hover:-translate-y-0.5 border border-amber-400"
+            >
+              <span>🎁 ふるさと納税でお得に泊まる</span>
+              <span>→</span>
+            </Link>
             <a
               href="#posts-section"
-              className="inline-flex items-center gap-2 px-5 py-2.5 text-xs md:text-sm font-black text-teal-950 bg-gradient-to-r from-amber-300 via-amber-200 to-yellow-300 hover:from-amber-200 hover:to-yellow-200 rounded-2xl shadow-lg transition transform hover:-translate-y-0.5"
+              className="inline-flex items-center gap-1.5 px-4 py-2.5 text-xs md:text-sm font-bold text-white bg-white/10 hover:bg-white/15 border border-white/20 rounded-2xl transition"
             >
-              <span>🏨 全国の厳選宿一覧へジャンプ</span>
+              <span>🏨 厳選宿一覧</span>
               <span>↓</span>
             </a>
             <Link
               href="/features/"
               className="inline-flex items-center gap-1.5 px-4 py-2.5 text-xs md:text-sm font-bold text-white bg-white/10 hover:bg-white/15 border border-white/20 rounded-2xl transition"
             >
-              <span>📚 特集・まとめ記事一覧</span>
+              <span>📚 特集・まとめ</span>
             </Link>
             <Link
               href="/prefectures/"
               className="inline-flex items-center gap-1.5 px-4 py-2.5 text-xs md:text-sm font-bold text-white bg-white/10 hover:bg-white/15 border border-white/20 rounded-2xl transition"
             >
-              <span>🗾 47都道府県から探す</span>
+              <span>🗾 47都道府県</span>
             </Link>
           </div>
         </div>
@@ -198,10 +205,10 @@ export default function Home() {
             <p className="text-xs text-emerald-950/70 line-clamp-2">最大20%OFFクーポン＋ポイント還元！高級温泉旅館や憧れホテルが最安値級。</p>
           </Link>
 
-          <Link href="/campaigns/" className="group bg-white p-5 rounded-2xl border border-amber-500/20 shadow-sm hover:shadow-md transition space-y-2">
+          <Link href="/furusato/" className="group bg-white p-5 rounded-2xl border-2 border-teal-500/30 hover:border-teal-500 shadow-sm hover:shadow-md transition space-y-2">
             <span className="text-[9px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full inline-block">実質2,000円で憧れ宿泊</span>
-            <h3 className="text-sm font-bold text-emerald-950 group-hover:text-teal-800 transition">楽天トラベル ふるさと納税クーポン</h3>
-            <p className="text-xs text-emerald-950/70 line-clamp-2">寄付額の最大30%クーポン進呈。あとから予約への適用も可能な大人気制度。</p>
+            <h3 className="text-sm font-bold text-emerald-950 group-hover:text-teal-800 transition">楽天トラベル ふるさと納税クーポン 完全攻略</h3>
+            <p className="text-xs text-emerald-950/70 line-clamp-2">寄付額の最大30%還元！月別・季節別・目的別のおすすめ宿や利用手順を網羅解説。</p>
           </Link>
 
           <Link href="/winter-travel-special/" className="group bg-white p-5 rounded-2xl border border-sky-500/20 shadow-sm hover:shadow-md transition space-y-2">
