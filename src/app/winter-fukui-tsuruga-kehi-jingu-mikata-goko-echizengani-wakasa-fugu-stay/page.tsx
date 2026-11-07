@@ -43,8 +43,8 @@ export default function FukuiTsurugaWinterPage() {
     "headline": "【11・12・1月福井】北陸道総鎮守「氣比神宮」新春初詣と三方五湖の冬静寂！黄色タグ「越前がに」・「若狭ふぐ」極上会席＆敦賀名宿5選",
     "description": "北陸新幹線敦賀開業で首都圏・関西からのアクセスが飛躍的に進化した福井・若狭路の11〜1月冬紀行。北陸道総鎮守「氣比神宮」で迎える厳粛な新春初詣、日本三大松原・気比の松原の冬景色、神秘の五色湖「三方五湖」の静寂。11月6日解禁の黄色タグ「越前がに」や極上セイコガニ、若狭湾の寒波が身を極限まで引き締める「若狭ふぐ（とらふぐ）」のてっさ・てっちり。冬の味覚の二大巨頭を味わい尽くす厳選名宿5選と旅の極意を徹底紹介。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/128494/128494.jpg",
-    "datePublished": "T15:00:00+09:00",
-    "dateModified": "T15:00:00+09:00",
+    "datePublished": "2026-10-25T15:00:00+09:00",
+    "dateModified": "2026-10-25T15:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
@@ -706,7 +706,7 @@ export default function FukuiTsurugaWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>【11・12・1月福井：「若狭ふぐ」極上会席】 © 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-2 text-slate-500">【11・12・1月福井：「若狭ふぐ」極上会席】 掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>

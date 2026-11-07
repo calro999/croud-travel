@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '加賀山中温泉で過ごす冬の旅（11・12月）！芭蕉ゆかりの美肌湯と青タグ加能蟹！名宿5選',
+  title: '【11・12月加賀山中温泉の冬名湯と加能ガニ】鶴仙渓雪景色・芭蕉ゆかりの美肌湯と青タグ加能蟹＆能登牛会席の宿5選',
   description: '松尾芭蕉が「有馬・草津と並ぶ扶桑三名湯」と称賛した石川・加賀の名湯「山中温泉」。11月6日のズワイガニ漁解禁で歓喜に沸く北陸の冬。',
   keywords: '山中温泉 宿泊, 加賀山中温泉 11月 12月, 吉祥やまなか, かがり吉祥亭, 花紫, 厨八十八, こおろぎ楼, 加能ガニ 青タグ, 香箱ガニ 山中温泉, 能登牛, 鶴仙渓 雪景色',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay/",
   },
   openGraph: {
-    title: '加賀山中温泉で過ごす冬の旅（11・12月）！芭蕉ゆかりの美肌湯と青タグ加能蟹！名宿5選',
+    title: '【11・12月加賀山中温泉の冬名湯と加能ガニ】鶴仙渓雪景色・芭蕉ゆかりの美肌湯と青タグ加能蟹＆能登牛会席の宿5選',
     description: '松尾芭蕉が「有馬・草津と並ぶ扶桑三名湯」と称賛した石川・加賀の名湯「山中温泉」。11月6日のズワイガニ漁解禁で歓喜に沸く北陸の冬。',
     url: 'https://croud-travel.pages.dev/winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "加賀山中温泉の冬名湯と加能ガニで過ごす冬の旅（11・12月）！鶴仙渓雪景色・芭蕉ゆかりの美肌湯と青タグ加能蟹＆能登牛会席の宿5選",
+    title: "加賀山中温泉の冬名湯と加能ガニの冬旅・名湯美食ガイド！鶴仙渓雪景色・芭蕉ゆかりの美肌湯と青タグ加能蟹＆能登牛会席の宿5選",
     description: "松尾芭蕉が「有馬・草津と並ぶ扶桑三名湯」と称賛した石川・加賀の名湯「山中温泉」。11月6日のズワイガニ漁解禁で歓喜に沸く北陸の冬。石川県産水揚げの証である「青いタグ」付き極上加能ガニや、内子外子をたっぷり抱えた香箱ガニ（セイコガニ）、極上能登牛を山中漆器の器で堪能。名勝・鶴仙渓の初冬雪景色と露天風呂を満喫する厳選名宿5選を徹底解説。",
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/67124/67124.jpg'],
   }
@@ -298,7 +298,10 @@ export default function YamanakaWinterPage() {
             <Sparkles className="w-4 h-4 text-rose-300" />
             <span>11月・12月限定 芭蕉称賛の名湯鶴仙渓と青タグ加能ガニ＆香箱ガニ甲羅盛り</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">加賀山中温泉の冬名湯と加能ガニで過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 鶴仙渓雪景色・芭蕉ゆかりの美肌湯と青タグ加能蟹＆能登牛会席の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
+            【11・12月加賀山中温泉の冬名湯と加能ガニ】<br className="hidden sm:inline" />
+            鶴仙渓雪景色・芭蕉ゆかりの美肌湯と青タグ加能蟹＆能登牛会席の宿5選
+          </h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             11月6日のズワイガニ漁解禁で活気に沸く加賀の奥座敷「山中温泉」。松尾芭蕉が称えた渓流露天風呂で温まり、水色の青タグが誇らしい加能ガニと12月までの限定香箱ガニ、極上能登牛を山中漆器で味わう冬の極上旅。
           </p>
@@ -361,7 +364,7 @@ export default function YamanakaWinterPage() {
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-rose-800" />
-            目次・インデックス｜加賀山中温泉で過ごす冬の旅（11・12月）</h2>
+            目次・インデックス｜加賀山中温泉の冬旅・名湯美食ガイド！</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#spring-feature" className="hover:text-rose-800 hover:underline flex items-center gap-1.5">
               <span>1. 山中温泉の魅力：松尾芭蕉が称えた名湯と鶴仙渓の初冬渓谷美</span>
@@ -644,7 +647,7 @@ export default function YamanakaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜加賀山中温泉で過ごす冬の旅（11・12月）</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜加賀山中温泉の冬旅・名湯美食ガイド！</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -716,7 +719,7 @@ export default function YamanakaWinterPage() {
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-rose-200 transition">全国の厳選温泉・宿特集まとめを見る（加賀山中温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-rose-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-ishikawa-yamanaka-onsen-kakusenkei-kano-crab-stay" />

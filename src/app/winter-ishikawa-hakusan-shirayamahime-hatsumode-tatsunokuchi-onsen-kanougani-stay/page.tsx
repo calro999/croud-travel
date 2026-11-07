@@ -43,8 +43,8 @@ export default function IshikawaHakusanWinterPage() {
     "headline": "【11・12・1月石川】加賀一ノ宮「白山比咩神社」新春初詣と手取川雪景色！開湯1400年「辰口温泉」美肌名湯＆加賀丸いも・加能ガニ名宿5選",
     "description": "全国3,000余社の白山神社総本宮「白山比咩神社（しらやまひめじんじゃ）」が最も神聖な空気に包まれる11〜1月の冬旅特集。加賀一ノ宮の荘厳な新春初詣、霊峰白山を源流とする手取川の雪景色、1400年の歴史を刻む辰口温泉の柔らかな湯、冬の日本海がもたらす極上の「加能ガニ」や香箱ガニ、粘りとコクが際立つ伝統野菜「加賀丸いも」のとろろ汁。白山麓と能美・加賀エリアを満喫する厳選名宿5選を徹底解説します。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/38847/38847.jpg",
-    "datePublished": "T12:00:00+09:00",
-    "dateModified": "T12:00:00+09:00",
+    "datePublished": "2026-10-25T12:00:00+09:00",
+    "dateModified": "2026-10-25T12:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
@@ -686,7 +686,7 @@ export default function IshikawaHakusanWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>【11・12・1月石川：加賀一ノ宮「白山比咩神社」新】 © 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-2 text-slate-500">【11・12・1月石川：加賀一ノ宮「白山比咩神社」新】 掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>

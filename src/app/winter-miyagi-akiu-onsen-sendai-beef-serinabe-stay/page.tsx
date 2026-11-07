@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '秋保温泉で過ごす冬の旅（11・12月）！伊達政宗公ゆかりの奥座敷！名宿5選',
+  title: '【11・12月秋保温泉の初冬渓谷美と名湯】伊達政宗公ゆかりの奥座敷・最高峰A5仙台牛＆名物せり鍋の宿5選',
   description: '杜の都・仙台の奥座敷として開湯1500年の歴史を誇り、日本三御湯の一つに数えられる秋保温泉。11月中旬の磊々峡の晩秋から12月の初雪へと移ろう初冬、名取川渓谷を望む露天風呂と、宮城の冬の風物詩「仙台せり鍋」、霜降り極上のA5仙台牛ステーキを心ゆくまで堪能する名宿ガイド。',
   keywords: '秋保温泉 宿泊 11月 12月, 秋保温泉 せり鍋 仙台牛, 伝承千年の宿 佐勘, ホテル瑞鳳 秋保, 茶寮宗園, 秋保温泉 篝火の湯 緑水亭, 磊々峡 冬 雪景色, 日本三御湯 仙台',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay/",
   },
   openGraph: {
-    title: '秋保温泉で過ごす冬の旅（11・12月）！伊達政宗公ゆかりの奥座敷！名宿5選',
+    title: '【11・12月秋保温泉の初冬渓谷美と名湯】伊達政宗公ゆかりの奥座敷・最高峰A5仙台牛＆名物せり鍋の宿5選',
     description: '杜の都・仙台の奥座敷として開湯1500年の歴史を誇り、日本三御湯の一つに数えられる秋保温泉。11月中旬の磊々峡の晩秋から12月の初雪へと移ろう初冬、名取川渓谷を望む露天風呂と、宮城の冬の風物詩「仙台せり鍋」、霜降り極上のA5仙台牛ステーキを心ゆくまで堪能する名宿ガイド。',
     url: 'https://croud-travel.pages.dev/winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "秋保温泉の初冬渓谷美と名湯で過ごす冬の旅（11・12月）！伊達政宗公ゆかりの奥座敷・最高峰A5仙台牛＆名物せり鍋の宿5選",
+    title: "秋保温泉の初冬渓谷美と名湯の冬旅・名湯美食ガイド！伊達政宗公ゆかりの奥座敷・最高峰A5仙台牛＆名物せり鍋の宿5選",
     description: "杜の都・仙台の奥座敷として開湯1500年の歴史を誇り、日本三御湯の一つに数えられる秋保温泉。11月中旬の磊々峡の晩秋から12月の初雪へと移ろう初冬、名取川渓谷を望む露天風呂と、宮城の冬の風物詩「仙台せり鍋」、霜降り極上のA5仙台牛ステーキを心ゆくまで堪能する名宿ガイド。",
   }
 };
@@ -259,7 +259,10 @@ export default function AkiuWinterPage() {
             <Eye className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 日本三御湯の奥座敷＆A5仙台牛・名物仙台せり鍋特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">秋保温泉の初冬渓谷美と名湯で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 伊達政宗公ゆかりの奥座敷・最高峰A5仙台牛＆名物せり鍋の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
+            【11・12月秋保温泉の初冬渓谷美と名湯】<br className="hidden sm:inline" />
+            伊達政宗公ゆかりの奥座敷・最高峰A5仙台牛＆名物せり鍋の宿5選
+          </h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             皇室に愛された「日本三御湯」にして仙台藩祖・伊達政宗公の湯守の歴史を今に伝える秋保温泉。名取川渓谷「磊々峡」を望む名湯露天風呂。宮城の初冬の味覚の頂点「仙台せり鍋」と霜降り極上のA5仙台牛に酔いしれる贅沢な冬旅。
           </p>
@@ -322,7 +325,7 @@ export default function AkiuWinterPage() {
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-emerald-700" />
-            目次・インデックス｜秋保温泉で過ごす冬の旅（11・12月）</h2>
+            目次・インデックス｜秋保温泉の冬旅・名湯美食ガイド！</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#rairaikyo" className="hover:text-emerald-700 hover:underline flex items-center gap-1.5">
               <span>1. 磊々峡の初冬景観：名取川の浸食が生んだ奇岩とハートの岩</span>
@@ -635,7 +638,7 @@ export default function AkiuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜秋保温泉で過ごす冬の旅（11・12月）</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜秋保温泉の冬旅・名湯美食ガイド！</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -707,7 +710,7 @@ export default function AkiuWinterPage() {
               className="bg-emerald-900/80 hover:bg-emerald-900 p-4 rounded-2xl transition border border-emerald-800/50 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">全国の厳選温泉・宿特集まとめを見る（秋保温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-miyagi-akiu-onsen-sendai-beef-serinabe-stay" />

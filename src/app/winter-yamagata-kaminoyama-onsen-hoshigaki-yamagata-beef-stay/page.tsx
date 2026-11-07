@@ -9,15 +9,15 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'かみで過ごす冬の旅（11・12月）！特選山形牛すき焼き！名宿5選',
-  description: '11月から12月にかけて山形県上山市の奥座敷「かみのやま温泉」は、初冠雪を戴く蔵王連峰の雄大な稜線を背景に位置する注目の宿と観光モデルコースをご案内します。',
+  title: '【11・12月山形・かみのやま温泉の初冬風情と開湯五百六十年美肌泉】干し柿暖簾・特選山形牛すき焼き＆蔵王雪見露天の宿5選',
+  description: '11月から12月にかけて山形県上山市の奥座敷「かみのやま温泉」は、初冠雪を戴く蔵王連峰の雄大な稜線を背景に、古い武家屋敷や民家の軒先に鮮やかなオレンジ色の干し柿（つるし柿・紅柿）の暖簾が幾重にも吊るされる日本の原風景に包まれます。室町時代長禄2年（1558年）に月秀上人が傷を癒やす鶴を見つけて開湯したと伝わる「鶴の湯」は、ナトリウム・カルシウム-塩化物・硫酸塩泉で日本三大美肌の湯として名高い名泉。プロが選ぶ名旅館「日本の宿 古窯」や隠れ家旅館「名月荘」をはじめ、とろける脂が絶品の山形牛や米沢牛のすき焼き・ステーキ、山形名物芋煮を堪能する極上宿5選を徹底解説。',
   keywords: 'かみのやま温泉 宿泊, かみのやま温泉 11月 12月, 名月荘 かみのやま, 日本の宿 古窯, 葉山舘, 月岡ホテル, 月の池, 山形牛 すき焼き 宿, 紅柿 干し柿 山形, 蔵王 雪見露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-kaminoyama-onsen-hoshigaki-yamagata-beef-stay/"
   },
   openGraph: {
-    title: 'かみで過ごす冬の旅（11・12月）！特選山形牛すき焼き！名宿5選',
-    description: '11月から12月にかけて山形県上山市の奥座敷「かみのやま温泉」は、初冠雪を戴く蔵王連峰の雄大な稜線を背景に位置する注目の宿と観光モデルコースをご案内します。',
+    title: '【11・12月山形・かみのやま温泉の初冬風情と開湯五百六十年美肌泉】干し柿暖簾・特選山形牛すき焼き＆蔵王雪見露天の宿5選',
+    description: '11月から12月にかけて山形県上山市の奥座敷「かみのやま温泉」は、初冠雪を戴く蔵王連峰の雄大な稜線を背景に、古い武家屋敷や民家の軒先に鮮やかなオレンジ色の干し柿（つるし柿・紅柿）の暖簾が幾重にも吊るされる日本の原風景に包まれます。室町時代長禄2年（1558年）に月秀上人が傷を癒やす鶴を見つけて開湯したと伝わる「鶴の湯」は、ナトリウム・カルシウム-塩化物・硫酸塩泉で日本三大美肌の湯として名高い名泉。プロが選ぶ名旅館「日本の宿 古窯」や隠れ家旅館「名月荘」をはじめ、とろける脂が絶品の山形牛や米沢牛のすき焼き・ステーキ、山形名物芋煮を堪能する極上宿5選を徹底解説。',
     url: 'https://croud-travel.pages.dev/winter-yamagata-kaminoyama-onsen-hoshigaki-yamagata-beef-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
     locale: 'ja_JP',
@@ -70,8 +70,8 @@ export default function KaminoyamaOnsenWinterFeature() {
         "headline": "【11・12月山形・かみのやま温泉の初冬風情と開湯五百六十年美肌泉】干し柿暖簾・特選山形牛すき焼き＆蔵王雪見露天の宿5選",
         "description": "11月から12月にかけて山形県上山市の奥座敷「かみのやま温泉」は、初冠雪を戴く蔵王連峰の雄大な稜線を背景に、古い武家屋敷や民家の軒先に鮮やかなオレンジ色の干し柿（つるし柿・紅柿）の暖簾が幾重にも吊るされる日本の原風景に包まれます。室町時代長禄2年（1558年）に月秀上人が傷を癒やす鶴を見つけて開湯したと伝わる「鶴の湯」は、ナトリウム・カルシウム-塩化物・硫酸塩泉で日本三大美肌の湯として名高い名泉。プロが選ぶ名旅館「日本の宿 古窯」や隠れ家旅館「名月荘」をはじめ、とろける脂が絶品の山形牛や米沢牛のすき焼き・ステーキ、山形名物芋煮を堪能する極上宿5選を徹底解説。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/67228/67228.jpg",
-        "datePublished": "T07:00:00+09:00",
-        "dateModified": "T07:00:00+09:00",
+        "datePublished": "2026-10-25T07:00:00+09:00",
+        "dateModified": "2026-10-25T07:00:00+09:00",
         "publisher": {
           "@type": "Organization",
           "name": "Croud Travel",
@@ -280,7 +280,10 @@ export default function KaminoyamaOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上名湯特集｜山形・かみのやま温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">山形・かみのやま温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 初冬の干し柿暖簾と開湯五百六十年美肌泉・山形牛すき焼きの宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
+            【11・12月山形・かみのやま温泉】<br className="hidden sm:inline" />
+            初冬の干し柿暖簾と開湯五百六十年美肌泉・山形牛すき焼きの宿5選
+          </h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             蔵王連峰の初雪冠雪を望み、軒先をオレンジ色に染める伝統の紅柿すだれ。鶴が傷を癒やした室町開湯の美肌名湯と、とろける極上山形牛を味わう大人の初冬湯治。
           </p>

@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '那須温泉郷で過ごす冬の旅（11・12月）！茶臼岳雪化粧と開湯千三百年鹿の湯！名宿5選',
+  title: '【11・12月那須温泉郷の初冬高原美と名湯】茶臼岳雪化粧と開湯千三百年鹿の湯・最高峰那須与一牛＆高原温泉会席の宿5選',
   description: '舒明天皇の御代、白鹿の傷を癒やした伝説から千三百年。那須連山茶臼岳の山懐に湧く栃木県最古の名湯「那須温泉郷」。11月中旬の冠雪から12月の白銀パノラマへと移ろう初冬のロイヤルリゾート。名湯「鹿の湯」源泉を引く白濁露天と、最高峰ブランド「那須与一牛」を味わう名宿ガイド。',
   keywords: '那須温泉 宿泊 11月 12月, 那須温泉 鹿の湯 露天風呂, 那須与一牛 とちぎ和牛, 那須温泉 山楽, ホテルエピナール那須, 星野リゾート リゾナーレ那須, 休暇村 那須, 栃木 冬 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tochigi-nasu-onsen-shikanoyu-snow-stay/",
   },
   openGraph: {
-    title: '那須温泉郷で過ごす冬の旅（11・12月）！茶臼岳雪化粧と開湯千三百年鹿の湯！名宿5選',
+    title: '【11・12月那須温泉郷の初冬高原美と名湯】茶臼岳雪化粧と開湯千三百年鹿の湯・最高峰那須与一牛＆高原温泉会席の宿5選',
     description: '舒明天皇の御代、白鹿の傷を癒やした伝説から千三百年。那須連山茶臼岳の山懐に湧く栃木県最古の名湯「那須温泉郷」。11月中旬の冠雪から12月の白銀パノラマへと移ろう初冬のロイヤルリゾート。名湯「鹿の湯」源泉を引く白濁露天と、最高峰ブランド「那須与一牛」を味わう名宿ガイド。',
     url: 'https://croud-travel.pages.dev/winter-tochigi-nasu-onsen-shikanoyu-snow-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "那須温泉郷の初冬高原美と名湯で過ごす冬の旅（11・12月）！茶臼岳雪化粧と開湯千三百年鹿の湯・最高峰那須与一牛＆高原温泉会席の宿5選",
+    title: "那須温泉郷の初冬高原美と名湯の冬旅・名湯美食ガイド！茶臼岳雪化粧と開湯千三百年鹿の湯・最高峰那須与一牛＆高原温泉会席の宿5選",
     description: "舒明天皇の御代、白鹿の傷を癒やした伝説から千三百年。那須連山茶臼岳の山懐に湧く栃木県最古の名湯「那須温泉郷」。11月中旬の冠雪から12月の白銀パノラマへと移ろう初冬のロイヤルリゾート。名湯「鹿の湯」源泉を引く白濁露天と、最高峰ブランド「那須与一牛」を味わう名宿ガイド。",
   }
 };
@@ -285,7 +285,10 @@ export default function NasuWinterPage() {
             <Eye className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 開湯1380年鹿の湯の歴史＆那須与一牛・ロイヤルリゾート特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">那須温泉郷の初冬高原美と名湯で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 茶臼岳雪化粧と開湯千三百年鹿の湯・最高峰那須与一牛＆高原温泉会席の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
+            【11・12月那須温泉郷の初冬高原美と名湯】<br className="hidden sm:inline" />
+            茶臼岳雪化粧と開湯千三百年鹿の湯・最高峰那須与一牛＆高原温泉会席の宿5選
+          </h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             白鹿が傷を癒やした伝説から千三百年余。皇室の那須御用邸が置かれ、茶臼岳の壮大なパノラマを望む「那須温泉郷」。初冬の澄んだ空気の中に立ち上る硫黄の湯煙。名湯「鹿の湯」の乳白色露天風呂と、最高峰黒毛和牛「那須与一牛」＆高原会席に心満たされる極上の休日。
           </p>
@@ -348,7 +351,7 @@ export default function NasuWinterPage() {
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-800" />
-            目次・インデックス｜那須温泉郷で過ごす冬の旅（11・12月）</h2>
+            目次・インデックス｜那須温泉郷の冬旅・名湯美食ガイド！</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#chause-winter" className="hover:text-amber-800 hover:underline flex items-center gap-1.5">
               <span>1. 茶臼岳の初冬冠雪パノラマと殺生石の荒涼美</span>
@@ -662,7 +665,7 @@ export default function NasuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜那須温泉郷で過ごす冬の旅（11・12月）</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜那須温泉郷の冬旅・名湯美食ガイド！</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -734,7 +737,7 @@ export default function NasuWinterPage() {
               className="bg-amber-900/80 hover:bg-amber-900 p-4 rounded-2xl transition border border-amber-800/50 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-amber-200 transition">全国の厳選温泉・宿特集まとめを見る（那須温泉郷で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-amber-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-tochigi-nasu-onsen-shikanoyu-snow-stay" />

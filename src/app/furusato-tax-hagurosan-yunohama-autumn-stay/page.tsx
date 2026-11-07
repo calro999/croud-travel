@@ -629,7 +629,7 @@ export default function Page() {
             <Link href="/features/" className="hover:text-white">特集一覧</Link>
             <Link href="/privacy/" className="hover:text-white">プライバシーポリシー</Link>
           </div>
-          <p>【羽黒山杉並木紅葉と湯野浜温泉の夕日】 © 2026 クラウドトラベル (croud-travel.pages.dev) All Rights Reserved.</p>
+          <p>© 2026 クラウドトラベル (croud-travel.pages.dev) All Rights Reserved.</p>
         </div>
       </footer>
     

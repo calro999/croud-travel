@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '月岡温泉で過ごす冬の旅（11・12月）！初冬寒ブリ！名宿5選',
+  title: '【11・12月月岡温泉のエメラルド美肌名湯と初冬味覚】国内屈指の硫黄泉雪見露天と村上牛・初冬寒ブリ＆新潟地酒の宿5選',
   description: '国内第2位の硫黄含有量を誇り、神秘のエメラルドグリーンに輝く越後の名湯「月岡温泉」。「もっと美人になれる温泉」と謳われる美肌の湯に浸かり、11月下旬の初雪から12月の白銀雪景色を望む雪見露天風呂、A5ランク村上牛と日本海の寒ブリ、新潟新酒地酒を味わう名宿5選。',
   keywords: '月岡温泉 宿泊 11月 12月, 月岡温泉 エメラルドグリーン 硫黄泉, 白玉の湯 華鳳, 白玉の湯 泉慶, 摩周 月岡, ホテル清風苑, 村上牛 新潟 冬 温泉, 雪見露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-niigata-tsukioka-onsen-emerald-bihada-stay/",
   },
   openGraph: {
-    title: '月岡温泉で過ごす冬の旅（11・12月）！初冬寒ブリ！名宿5選',
+    title: '【11・12月月岡温泉のエメラルド美肌名湯と初冬味覚】国内屈指の硫黄泉雪見露天と村上牛・初冬寒ブリ＆新潟地酒の宿5選',
     description: '国内第2位の硫黄含有量を誇り、神秘のエメラルドグリーンに輝く越後の名湯「月岡温泉」。「もっと美人になれる温泉」と謳われる美肌の湯に浸かり、11月下旬の初雪から12月の白銀雪景色を望む雪見露天風呂、A5ランク村上牛と日本海の寒ブリ、新潟新酒地酒を味わう名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-niigata-tsukioka-onsen-emerald-bihada-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "月岡温泉のエメラルド美肌名湯と初冬味覚で過ごす冬の旅（11・12月）！国内屈指の硫黄泉雪見露天と村上牛・初冬寒ブリ＆新潟地酒の宿5選",
+    title: "月岡温泉のエメラルド美肌名湯と初冬味覚の冬旅・名湯美食ガイド！国内屈指の硫黄泉雪見露天と村上牛・初冬寒ブリ＆新潟地酒の宿5選",
     description: "国内第2位の硫黄含有量を誇り、神秘のエメラルドグリーンに輝く越後の名湯「月岡温泉」。「もっと美人になれる温泉」と謳われる美肌の湯に浸かり、11月下旬の初雪から12月の白銀雪景色を望む雪見露天風呂、A5ランク村上牛と日本海の寒ブリ、新潟新酒地酒を味わう名宿5選。",
   }
 };
@@ -297,7 +297,10 @@ export default function TsukiokaWinterPage() {
             <Eye className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 エメラルドグリーン美肌硫黄泉＆村上牛・新潟新酒地酒特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">月岡温泉のエメラルド美肌名湯と初冬味覚で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 国内屈指の硫黄泉雪見露天と村上牛・初冬寒ブリ＆新潟地酒の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
+            【11・12月月岡温泉のエメラルド美肌名湯と初冬味覚】<br className="hidden sm:inline" />
+            国内屈指の硫黄泉雪見露天と村上牛・初冬寒ブリ＆新潟地酒の宿5選
+          </h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             国内第2位の硫黄含有量を誇り、神秘のエメラルドグリーンに輝く「白玉の湯」。11月下旬の初雪から12月の白銀雪化粧へと移ろう越後の原風景。とろける極上肉「村上牛」と日本海の寒ブリ、新米コシヒカリと搾りたて地酒に心酔する初冬の名宿ガイド。
           </p>
@@ -360,7 +363,7 @@ export default function TsukiokaWinterPage() {
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-emerald-800" />
-            目次・インデックス｜月岡温泉で過ごす冬の旅（11・12月）</h2>
+            目次・インデックス｜月岡温泉の冬旅・名湯美食ガイド！</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#emerald-spring" className="hover:text-emerald-800 hover:underline flex items-center gap-1.5">
               <span>1. 神秘のエメラルドグリーン：国内第2位の硫黄泉と美肌メカニズム</span>
@@ -653,7 +656,7 @@ export default function TsukiokaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜月岡温泉で過ごす冬の旅（11・12月）</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜月岡温泉の冬旅・名湯美食ガイド！</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -725,7 +728,7 @@ export default function TsukiokaWinterPage() {
               className="bg-emerald-900/80 hover:bg-emerald-900 p-4 rounded-2xl transition border border-emerald-800/50 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">全国の厳選温泉・宿特集まとめを見る（月岡温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-niigata-tsukioka-onsen-emerald-bihada-stay" />

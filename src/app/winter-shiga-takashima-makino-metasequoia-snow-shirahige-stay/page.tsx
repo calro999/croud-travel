@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '滋賀で過ごす冬の旅（12・1月）！近江牛！名宿5選',
+  title: '【12・1月滋賀】高島＆マキノ・白鬚神社！白銀のマキノ高原メタセコイア並木雪景色と湖中大鳥居初詣・天然鴨鍋＆近江牛名宿5選',
   description: '冬の奥琵琶湖・高島市は、まるで北欧の童話世界のように静謐で美しい白銀の絶景に包まれます。マキノ高原へと真っ直ぐ続く全長2.4km・約500本。',
   keywords: 'マキノ ホテル, 高島市 旅館, メタセコイア並木 雪景色, 白鬚神社 初日の出, 天然鴨鍋 滋賀, 近江牛 すき焼き, 奥琵琶湖マキノグランドパークホテル, おごと温泉 びわこ緑水亭, 12月 1月 滋賀 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shiga-takashima-makino-metasequoia-snow-shirahige-stay/"
   },
   openGraph: {
-    title: '滋賀で過ごす冬の旅（12・1月）！近江牛！名宿5選',
+    title: '【12・1月滋賀】高島＆マキノ・白鬚神社！白銀のマキノ高原メタセコイア並木雪景色と湖中大鳥居初詣・天然鴨鍋＆近江牛名宿5選',
     description: '冬の奥琵琶湖・高島市は、まるで北欧の童話世界のように静謐で美しい白銀の絶景に包まれます。マキノ高原へと真っ直ぐ続く全長2.4km・約500本。',
     url: 'https://croud-travel.pages.dev/winter-shiga-takashima-makino-metasequoia-snow-shirahige-stay/',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "滋賀で過ごす冬の旅（12・1月）！高島＆マキノ・白鬚神社！白銀のマキノ高原メタセコイア並木雪景色と湖中大鳥居初詣・天然鴨鍋＆近江牛名宿5選",
+    title: "滋賀の冬旅・年末年始温泉ガイド！高島＆マキノ・白鬚神社！白銀のマキノ高原メタセコイア並木雪景色と湖中大鳥居初詣・天然鴨鍋＆近江牛名宿5選",
     description: "冬の奥琵琶湖・高島市は、まるで北欧の童話世界のように静謐で美しい白銀の絶景に包まれます。マキノ高原へと真っ直ぐ続く全長2.4km・約500本の「メタセコイア並木」は、枝に純白の雪の花を咲かせた息を呑むスノーロードへと変貌。「近江の厳島」と称される白鬚神社の湖中大鳥居から昇る新春の初日の出と厳かな初詣、冬の滋賀が誇る究極の郷土鍋「天然鴨鍋」と日本三大和牛「近江牛すき焼き」。奥琵琶湖畔の美景リゾートとおごと温泉の名湯を味わう厳選名宿5選を徹底解説します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/9254/9254.jpg"]
   }
@@ -649,7 +649,7 @@ export default function ShigaTakashimaMakinoWinterPage() {
 
       {/* Footer Navigation */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 py-12 border-t border-slate-200 mt-16 text-center text-xs text-slate-500">
-        <p>【滋賀で過ごす冬の旅（12・1月）】 © 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
+        <p>© 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
       </footer>
     
       <HubRelatedPosts currentSlug="winter-shiga-takashima-makino-metasequoia-snow-shirahige-stay" />

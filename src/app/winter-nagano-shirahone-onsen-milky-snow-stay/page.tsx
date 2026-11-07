@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '白骨温泉で過ごす冬の旅（11・12月）！3日入れば3年風邪ひかぬ霊泉！名宿5選',
+  title: '【11・12月白骨温泉の北アルプス初冬雪景色と乳白色秘湯】3日入れば3年風邪ひかぬ霊泉・信州プレミアム牛＆投汁そばの宿5選',
   description: '北アルプス乗鞍岳の山懐、標高1,400メートルの深い原生林に抱かれた日本屈指の秘湯「白骨温泉」。「3日入れば3年風邪をひかない」と謳われる乳。',
   keywords: '白骨温泉 宿泊 11月 12月, 白骨温泉 乳白色 露天風呂, 泡の湯 白骨, 湯元齋藤旅館, 白船荘 新宅旅館, 信州プレミアム牛 投汁そば, 北アルプス 雪見温泉, 長野 秘湯',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-shirahone-onsen-milky-snow-stay/",
   },
   openGraph: {
-    title: '白骨温泉で過ごす冬の旅（11・12月）！3日入れば3年風邪ひかぬ霊泉！名宿5選',
+    title: '【11・12月白骨温泉の北アルプス初冬雪景色と乳白色秘湯】3日入れば3年風邪ひかぬ霊泉・信州プレミアム牛＆投汁そばの宿5選',
     description: '北アルプス乗鞍岳の山懐、標高1,400メートルの深い原生林に抱かれた日本屈指の秘湯「白骨温泉」。「3日入れば3年風邪をひかない」と謳われる乳。',
     url: 'https://croud-travel.pages.dev/winter-nagano-shirahone-onsen-milky-snow-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "白骨温泉の北アルプス初冬雪景色と乳白色秘湯で過ごす冬の旅（11・12月）！3日入れば3年風邪ひかぬ霊泉・信州プレミアム牛＆投汁そばの宿5選",
+    title: "白骨温泉の北アルプス初冬雪景色と乳白色秘湯の冬旅・名湯美食ガイド！3日入れば3年風邪ひかぬ霊泉・信州プレミアム牛＆投汁そばの宿5選",
     description: "北アルプス乗鞍岳の山懐、標高1,400メートルの深い原生林に抱かれた日本屈指の秘湯「白骨温泉」。「3日入れば3年風邪をひかない」と謳われる乳白色の炭酸水素塩泉。11月中旬の初雪から12月の白銀静寂世界に浸る雪見露天風呂と、信州プレミアム牛＆名物投汁そばに心温まる名宿ガイド。",
   }
 };
@@ -285,7 +285,10 @@ export default function ShirahoneWinterPage() {
             <Eye className="w-4 h-4 text-teal-300" />
             <span>11月・12月限定 北アルプス標高1400m秘湯＆信州牛・投汁そば特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">白骨温泉の北アルプス初冬雪景色と乳白色秘湯で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 3日入れば3年風邪ひかぬ霊泉・信州プレミアム牛＆投汁そばの宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
+            【11・12月白骨温泉の北アルプス初冬雪景色と乳白色秘湯】<br className="hidden sm:inline" />
+            3日入れば3年風邪ひかぬ霊泉・信州プレミアム牛＆投汁そばの宿5選
+          </h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             北アルプス乗鞍岳の東山麓、標高1,400メートルの深い渓谷に抱かれた奇跡の霊泉「白骨温泉」。炭酸カルシウムが結晶化してミルクブルーに輝く神秘の湯船。11月中旬の初雪から12月の白銀静寂世界に浸り、霜降り信州プレミアム牛と郷土伝統の投汁そばに舌鼓を打つ極上の秘湯ステイ。
           </p>
@@ -348,7 +351,7 @@ export default function ShirahoneWinterPage() {
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-teal-800" />
-            目次・インデックス｜白骨温泉で過ごす冬の旅（11・12月）</h2>
+            目次・インデックス｜白骨温泉の冬旅・名湯美食ガイド！</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#alps-solitude" className="hover:text-teal-800 hover:underline flex items-center gap-1.5">
               <span>1. 乗鞍岳山麓の初冬静寂：白樺林の雪景色と湯川渓谷</span>
@@ -662,7 +665,7 @@ export default function ShirahoneWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜白骨温泉で過ごす冬の旅（11・12月）</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜白骨温泉の冬旅・名湯美食ガイド！</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -734,7 +737,7 @@ export default function ShirahoneWinterPage() {
               className="bg-teal-900/80 hover:bg-teal-900 p-4 rounded-2xl transition border border-teal-800/50 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・宿特集まとめを見る（白骨温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-nagano-shirahone-onsen-milky-snow-stay" />

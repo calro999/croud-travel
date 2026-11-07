@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '函館湯で過ごす冬の旅（11・12月）！毛蟹会席！名宿5選',
+  title: '【11・12月函館湯の川温泉の冬名湯と漁火海鮮】津軽海峡インフィニティ露天と函館クリスマスファンタジー・冬イカ＆毛蟹会席の宿5選',
   description: '11月から12月にかけて津軽海峡にイカ釣り漁船の幻想的な漁火（いさりび）が瞬く北海道三大温泉郷「湯の川温泉」。',
   keywords: '函館 湯の川温泉 宿泊, 湯の川温泉 11月 12月, 湯の川プリンスホテル渚亭, 望楼NOGUCHI函館, 割烹旅館 若松, 函館クリスマスファンタジー, 津軽海峡 漁火 露天風呂, 冬イカ 毛蟹 函館朝市',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay/",
   },
   openGraph: {
-    title: '函館湯で過ごす冬の旅（11・12月）！毛蟹会席！名宿5選',
+    title: '【11・12月函館湯の川温泉の冬名湯と漁火海鮮】津軽海峡インフィニティ露天と函館クリスマスファンタジー・冬イカ＆毛蟹会席の宿5選',
     description: '11月から12月にかけて津軽海峡にイカ釣り漁船の幻想的な漁火（いさりび）が瞬く北海道三大温泉郷「湯の川温泉」。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "函館湯の川温泉の冬名湯と漁火海鮮で過ごす冬の旅（11・12月）！津軽海峡インフィニティ露天と函館クリスマスファンタジー・冬イカ＆毛蟹会席の宿5選",
+    title: "函館湯の川温泉の冬名湯と漁火海鮮の冬旅・名湯美食ガイド！津軽海峡インフィニティ露天と函館クリスマスファンタジー・冬イカ＆毛蟹会席の宿5選",
     description: "11月から12月にかけて津軽海峡にイカ釣り漁船の幻想的な漁火（いさりび）が瞬く北海道三大温泉郷「湯の川温泉」。海と一体化するインフィニティ露天風呂、赤レンガ倉庫を彩る巨大ツリー「函館クリスマスファンタジー」、函館朝市直送の透き通る冬イカ刺しや濃厚な毛蟹、大沼牛を堪能。初冬の函館を満喫する極上名宿5選を徹底解説。",
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/5842/5842.jpg'],
   }
@@ -298,7 +298,10 @@ export default function HakodateYunokawaWinterPage() {
             <Ship className="w-4 h-4 text-cyan-300" />
             <span>11月・12月限定 津軽海峡の初冬漁火と北海道三大名湯・函館冬旅</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">函館湯の川温泉の冬名湯と漁火海鮮で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 津軽海峡インフィニティ露天と函館クリスマスファンタジー・冬イカ＆毛蟹会席の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
+            【11・12月函館湯の川温泉の冬名湯と漁火海鮮】<br className="hidden sm:inline" />
+            津軽海峡インフィニティ露天と函館クリスマスファンタジー・冬イカ＆毛蟹会席の宿5選
+          </h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             初冬の澄み渡る夜空の下、津軽海峡に無数に瞬くイカ釣り漁船の漁火。北海道屈指の歴史を誇る湯の川温泉の海景露天風呂に浸かり、12月の赤レンガ倉庫巨大クリスマスツリーと函館朝市直送の海の幸を堪能する大人の贅沢旅。
           </p>
@@ -361,7 +364,7 @@ export default function HakodateYunokawaWinterPage() {
         {/* Table of Contents */}
         <section className="bg-slate-100/80 rounded-2xl p-6 border border-slate-200">
           <h2 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-cyan-800" />
-            目次・インデックス｜函館湯で過ごす冬の旅（11・12月）</h2>
+            目次・インデックス｜函館湯の冬旅・名湯美食ガイド！</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-slate-700">
             <a href="#spring-feature" className="hover:text-cyan-800 hover:underline flex items-center gap-1.5">
               <span>1. 湯の川温泉の魅力：360年の名湯と津軽海峡の絶景インフィニティ</span>
@@ -644,7 +647,7 @@ export default function HakodateYunokawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜函館湯で過ごす冬の旅（11・12月）</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜函館湯の冬旅・名湯美食ガイド！</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -716,7 +719,7 @@ export default function HakodateYunokawaWinterPage() {
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">全国の厳選温泉・宿特集まとめを見る（函館湯で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-hokkaido-hakodate-yunokawa-onsen-isaribi-seafood-stay" />

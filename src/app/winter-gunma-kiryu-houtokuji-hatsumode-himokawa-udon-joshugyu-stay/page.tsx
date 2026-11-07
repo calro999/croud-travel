@@ -43,8 +43,8 @@ export default function GunmaKiryuWinterPage() {
     "headline": "【11・12・1月群馬】織物の都・桐生新町と床もみじの名刹「宝徳寺」新春初詣！冬の熱々「幅広ひもかわうどん」＆上州牛・両毛名宿5選",
     "description": "「西の西陣、東の桐生」と称された織物の都・桐生が最も静謐で趣深い表情を見せる11〜1月の冬旅特集。ピカピカに磨かれた本堂の漆床に雪景色や新春の光が映り込む名刹「宝徳寺」の新春特別祈祷、重要伝統的建造物群保存地区「桐生新町」ののこぎり屋根工場と白壁土蔵、幅十センチ以上にも及ぶ桐生名物「ひもかわうどん」の熱々肉汁仕立て、豊かな赤身と上質なサシを誇る「上州牛」すき焼き。桐生・みどり市エリアの滞在拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/8983/8983.jpg",
-    "datePublished": "T12:00:00+09:00",
-    "dateModified": "T12:00:00+09:00",
+    "datePublished": "2026-10-25T12:00:00+09:00",
+    "dateModified": "2026-10-25T12:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
@@ -686,7 +686,7 @@ export default function GunmaKiryuWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>【11・12・1月群馬：桐生新町と床もみじの名刹「宝徳】 © 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-2 text-slate-500">【11・12・1月群馬：桐生新町と床もみじの名刹「宝徳】 掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>

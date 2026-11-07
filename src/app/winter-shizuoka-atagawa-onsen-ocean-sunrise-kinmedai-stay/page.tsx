@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '熱川温泉で過ごす冬の旅（11・12月）！名物地金目鯛姿煮！名宿5選',
+  title: '【11・12月静岡・熱川温泉＆東伊豆の湯けむりと水平線日の出露天】名物地金目鯛姿煮＆伊豆牛石焼きステーキを満喫するオーシャンビュー名宿5選',
   description: '11月から12月にかけて、伊豆半島東海岸の熱川温泉（あたがわおんせん）の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '熱川温泉 宿泊, 熱川プリンスホテル, 熱川館, ホテルカターラ, 熱川ハイツ, 吉祥CAREN, 地金目鯛姿煮, 水平線日の出 11月 12月, 伊豆牛, 東伊豆',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay/"
   },
   openGraph: {
-    title: '熱川温泉で過ごす冬の旅（11・12月）！名物地金目鯛姿煮！名宿5選',
+    title: '【11・12月静岡・熱川温泉＆東伊豆の湯けむりと水平線日の出露天】名物地金目鯛姿煮＆伊豆牛石焼きステーキを満喫するオーシャンビュー名宿5選',
     description: '11月から12月にかけて、伊豆半島東海岸の熱川温泉（あたがわおんせん）の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -171,8 +171,8 @@ export default function WinterShizuokaAtagawaPage() {
         'description': "11月から12月にかけて、伊豆半島東海岸の熱川温泉（あたがわおんせん）は、約100度の高温泉が吹き出す温泉櫓（やぐら）から白い湯けむりが温泉街一面に立ち上り、初冬の温泉情緒が最高潮を迎えます。相模灘と正面に浮かぶ伊豆大島の水平線から昇る劇的な日の出を望む絶景露天風呂、南国情緒と温もりあふれる熱川バナナワニ園や温泉玉子作り体験。そして冬に向けて最も脂が乗り旨味が凝縮する名物「地金目鯛」のこってり甘辛姿煮やしゃぶしゃぶ、ジューシーな伊豆牛ステーキ、伊勢海老を味わう厳選オーシャンビュー名宿5選を徹底解説します。",
         'inLanguage': 'ja',
         'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-shizuoka-atagawa-onsen-ocean-sunrise-kinmedai-stay/',
-        'datePublished': 'T00:00:00+09:00',
-        'dateModified': 'T00:00:00+09:00',
+        'datePublished': '2026-10-25T00:00:00+09:00',
+        'dateModified': '2026-10-25T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
@@ -220,7 +220,12 @@ export default function WinterShizuokaAtagawaPage() {
             11月・12月 湯けむり＆日の出オーシャンビュー特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">静岡・熱川温泉で過ごす冬の旅（11・12月）！湯けむりと水平線日の出露天 <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal"> 名物地金目鯛姿煮＆伊豆牛石焼きステーキを満喫するオーシャンビュー名宿5選 </span></h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
+            【11・12月静岡・熱川温泉】湯けむりと水平線日の出露天
+            <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal">
+              名物地金目鯛姿煮＆伊豆牛石焼きステーキを満喫するオーシャンビュー名宿5選
+            </span>
+          </h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、東伊豆の熱川温泉は約100度の高温泉が噴き出す温泉櫓から白い湯けむりが街一面に立ち込める初冬の温泉情緒に包まれます。相模灘と伊豆大島の水平線から昇る神々しい日の出を望む絶景露天風呂、温泉玉子作りや足湯散策。そして脂が乗り切った東伊豆名物「地金目鯛」のこってり姿煮やしゃぶしゃぶ、伊豆牛ステーキを心ゆくまで堪能する厳選オーシャンビュー名宿5選を徹底解説します。

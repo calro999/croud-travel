@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '箱根仙石原温泉で過ごす冬の旅（11・12月）！富士山望む露天風呂！名宿5選',
+  title: '【11・12月箱根仙石原温泉の初冬ススキ絶景と白濁にごり湯】富士山望む露天風呂・足柄牛ステーキ＆美術館巡りの宿5選',
   description: '11月下旬から12月にかけて箱根・仙石原高原は、黄金色に波打つ一面のススキ草原が冬の銀白色へと移ろい、凛とした初冬の静寂に包まれます。',
   keywords: '箱根仙石原 温泉 宿泊, 仙石原 11月 12月, 箱根 ススキ草原 冬, 箱根 にごり湯 宿, ホテルグリーンプラザ箱根 富士山, きたの風茶寮, 箱根仙石原プリンスホテル, リカーヴ箱根, 箱根リトリート, 足柄牛 ステーキ, 箱根 美術館 旅',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kanagawa-hakone-sengokuhara-onsen-susuki-nigori-stay/",
   },
   openGraph: {
-    title: '箱根仙石原温泉で過ごす冬の旅（11・12月）！富士山望む露天風呂！名宿5選',
+    title: '【11・12月箱根仙石原温泉の初冬ススキ絶景と白濁にごり湯】富士山望む露天風呂・足柄牛ステーキ＆美術館巡りの宿5選',
     description: '11月下旬から12月にかけて箱根・仙石原高原は、黄金色に波打つ一面のススキ草原が冬の銀白色へと移ろい、凛とした初冬の静寂に包まれます。',
     url: 'https://croud-travel.pages.dev/winter-kanagawa-hakone-sengokuhara-onsen-susuki-nigori-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "箱根仙石原温泉の初冬ススキ絶景と白濁にごり湯で過ごす冬の旅（11・12月）！富士山望む露天風呂・足柄牛ステーキ＆美術館巡りの宿5選",
+    title: "箱根仙石原温泉の初冬ススキ絶景と白濁にごり湯の冬旅・名湯美食ガイド！富士山望む露天風呂・足柄牛ステーキ＆美術館巡りの宿5選",
     description: "11月下旬から12月にかけて箱根・仙石原高原は、黄金色に波打つ一面のススキ草原が冬の銀白色へと移ろい、凛とした初冬の静寂に包まれます。大涌谷の噴煙から引湯される濃厚な乳白色の酸性硫酸塩泉（美肌のにごり湯）、客室露天や展望大浴場から望む富士山の雪化粧、近隣のポーラ美術館や箱根ラリック美術館を巡るアートな休日、地元神奈川が誇る極上ブランド牛「相州牛・足柄牛」の鉄板焼きステーキや旬の箱根山麓野菜を味わう至高の仙石原名宿5選を徹底解説。",
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/11011/11011.jpg'],
   }
@@ -222,7 +222,9 @@ export default function HakoneSengokuharaWinterPage() {
             <span>11月・12月 冬の箱根・仙石原特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">箱根仙石原温泉の初冬ススキ絶景と白濁にごり湯で過ごす冬の旅（11・12月）！富士山望む露天風呂・足柄牛ステーキ＆美術館巡りの宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
+            【11・12月箱根仙石原温泉の初冬ススキ絶景と白濁にごり湯】富士山望む露天風呂・足柄牛ステーキ＆美術館巡りの宿5選
+          </h1>
 
           <p className="text-sm sm:text-base lg:text-lg text-slate-300 leading-relaxed max-w-4xl">
             11月下旬から12月にかけて、箱根火山のカルデラ北部に広がる仙石原高原は、一面の台ヶ岳山麓ススキ草原が黄金色から銀白色へと移ろい、静謐な初冬の空気に包まれます。大涌谷の活火山エネルギーが育む乳白色のにごり湯（硫酸塩温泉）、澄んだ冬晴れの空に映える富士山の雪景色、ポーラ美術館やラリック美術館が点在する高原のアート散策、そして地元神奈川が誇るブランド牛「足柄牛」や旬の箱根山麓グルメを堪能する、大人の至高の冬名宿を厳選してご紹介します。
@@ -606,7 +608,7 @@ export default function HakoneSengokuharaWinterPage() {
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-amber-200 transition">全国の厳選温泉・旬旅特集まとめを見る（箱根仙石原温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-amber-200 transition">全国の厳選温泉・旬旅特集まとめを見る（箱根仙石原温泉の冬旅・名湯美食ガイド！）</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-kanagawa-hakone-sengokuhara-onsen-susuki-nigori-stay" />

@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '淡路島洲本温泉で過ごす冬の旅（11・12月）！紀淡海峡パノラマ露天と冬の絶！名宿5選',
+  title: '【11・12月淡路島洲本温泉の初冬海景と淡路島3年とらふぐ】紀淡海峡パノラマ露天と冬の絶品3年とらふぐ＆淡路牛会席の宿5選',
   description: '鳴門海峡の激流が育む冬の最高峰ブランド「淡路島3年とらふぐ」。通常2年のところ3年もの歳月をかけてじっくり育て上げた極上の身の締まりと濃厚白子。紀淡海峡の水平線から昇る朝日を望む洲本温泉のインフィニティ露天風呂と、淡路牛・とらふぐフルコースを堪能する名宿5選。',
   keywords: '洲本温泉 宿泊 11月 12月, 淡路島3年とらふぐ 宿, ホテルニューアワジ, 淡路夢泉景, 夢海游 淡路島, 海月館 洲本, 淡路牛 冬 温泉, 紀淡海峡 露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hyogo-awajishima-sumoto-3year-torafugu-stay/",
   },
   openGraph: {
-    title: '淡路島洲本温泉で過ごす冬の旅（11・12月）！紀淡海峡パノラマ露天と冬の絶！名宿5選',
+    title: '【11・12月淡路島洲本温泉の初冬海景と淡路島3年とらふぐ】紀淡海峡パノラマ露天と冬の絶品3年とらふぐ＆淡路牛会席の宿5選',
     description: '鳴門海峡の激流が育む冬の最高峰ブランド「淡路島3年とらふぐ」。通常2年のところ3年もの歳月をかけてじっくり育て上げた極上の身の締まりと濃厚白子。紀淡海峡の水平線から昇る朝日を望む洲本温泉のインフィニティ露天風呂と、淡路牛・とらふぐフルコースを堪能する名宿5選。',
     url: 'https://croud-travel.pages.dev/winter-hyogo-awajishima-sumoto-3year-torafugu-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "淡路島洲本温泉の初冬海景と淡路島3年とらふぐで過ごす冬の旅（11・12月）！紀淡海峡パノラマ露天と冬の絶品3年とらふぐ＆淡路牛会席の宿5選",
+    title: "淡路島洲本温泉の初冬海景と淡路島3年とらふぐの冬旅・名湯美食ガイド！紀淡海峡パノラマ露天と冬の絶品3年とらふぐ＆淡路牛会席の宿5選",
     description: "鳴門海峡の激流が育む冬の最高峰ブランド「淡路島3年とらふぐ」。通常2年のところ3年もの歳月をかけてじっくり育て上げた極上の身の締まりと濃厚白子。紀淡海峡の水平線から昇る朝日を望む洲本温泉のインフィニティ露天風呂と、淡路牛・とらふぐフルコースを堪能する名宿5選。",
   }
 };
@@ -297,7 +297,10 @@ export default function AwajishimaWinterPage() {
             <Eye className="w-4 h-4 text-sky-300" />
             <span>11月・12月限定 鳴門海峡の激流育ち「淡路島3年とらふぐ」＆紀淡海峡絶景温泉特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">淡路島洲本温泉の初冬海景と淡路島3年とらふぐで過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 紀淡海峡パノラマ露天と冬の絶品3年とらふぐ＆淡路牛会席の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
+            【11・12月淡路島洲本温泉の初冬海景と淡路島3年とらふぐ】<br className="hidden sm:inline" />
+            紀淡海峡パノラマ露天と冬の絶品3年とらふぐ＆淡路牛会席の宿5選
+          </h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             鳴門海峡の荒波に鍛え抜かれた冬の最高峰ブランド「淡路島3年とらふぐ」。通常2年のところ3年かけて育てられた極上の身の締まりと濃厚白子。水平線と一体になる洲本温泉の絶景インフィニティ露天風呂と、淡路牛ステーキに酔いしれる初冬の極上リゾート。
           </p>
@@ -360,7 +363,7 @@ export default function AwajishimaWinterPage() {
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-sky-800" />
-            目次・インデックス｜淡路島洲本温泉で過ごす冬の旅（11・12月）</h2>
+            目次・インデックス｜淡路島洲本温泉の冬旅・名湯美食ガイド！</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#fugu-legend" className="hover:text-sky-800 hover:underline flex items-center gap-1.5">
               <span>1. なぜ「3年」なのか？鳴門海峡の激流と淡路島3年とらふぐの秘密</span>
@@ -647,7 +650,7 @@ export default function AwajishimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜淡路島洲本温泉で過ごす冬の旅（11・12月）</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜淡路島洲本温泉の冬旅・名湯美食ガイド！</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -719,7 +722,7 @@ export default function AwajishimaWinterPage() {
               className="bg-sky-900/80 hover:bg-sky-900 p-4 rounded-2xl transition border border-sky-800/50 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-sky-200 transition">全国の厳選温泉・宿特集まとめを見る（淡路島洲本温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-sky-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-hyogo-awajishima-sumoto-3year-torafugu-stay" />

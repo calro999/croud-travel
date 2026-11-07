@@ -48,8 +48,8 @@ export default function Page() {
       "headline": "【日州の小京都・飫肥城下町重伝建と鵜戸神宮新春初詣】2026-2027年冬の宮崎・日南！名物一本釣りカツオと宮崎牛会席名宿5選",
       "description": "飫肥杉薫る九州の小京都「飫肥城下町」の武家屋敷冬情緒と、日南海岸の断崖洞窟「鵜戸神宮」新春開運運玉初詣！冬でも温暖な南国宮崎で味わう脂の乗った日南一本釣りカツオ・最高峰宮崎牛・近海伊勢海老。日南海岸を望む絶景天然温泉と上質なおもてなしを誇る厳選名宿5選。",
       "image": "https://img.travel.rakuten.co.jp/share/HOTEL/187408/187408.jpg",
-      "datePublished": "T08:00:00+09:00",
-      "dateModified": "T08:00:00+09:00",
+      "datePublished": "2026-10-25T08:00:00+09:00",
+      "dateModified": "2026-10-25T08:00:00+09:00",
       "author": {
         "@type": "Organization",
         "name": "旅宿クラウド 冬の日本厳選旅取材班",

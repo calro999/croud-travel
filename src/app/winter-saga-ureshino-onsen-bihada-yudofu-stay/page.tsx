@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '嬉野温泉で過ごす冬の旅（11・12月）！嬉野茶の香りと名物とろける温泉湯豆腐！名宿5選',
+  title: '【11・12月嬉野温泉の日本三大美肌湯と冬情緒】嬉野茶の香りと名物とろける温泉湯豆腐＆極上佐賀牛の宿5選',
   description: '斐乃上温泉、喜連川温泉と並び「日本三大美肌の湯」として名高い佐賀県・嬉野温泉。11月から12月にかけて恋しくなる冬の名物「とろける温泉湯豆腐」。',
   keywords: '嬉野温泉 宿泊 11月 12月, 嬉野温泉湯豆腐 旅館, 和多屋別荘 嬉野, 大正屋 嬉野温泉, 茶心の宿 和楽園, 椎葉山荘 嬉野, 日本三大美肌の湯 佐賀, 佐賀牛 嬉野温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-saga-ureshino-onsen-bihada-yudofu-stay/",
   },
   openGraph: {
-    title: '嬉野温泉で過ごす冬の旅（11・12月）！嬉野茶の香りと名物とろける温泉湯豆腐！名宿5選',
+    title: '【11・12月嬉野温泉の日本三大美肌湯と冬情緒】嬉野茶の香りと名物とろける温泉湯豆腐＆極上佐賀牛の宿5選',
     description: '斐乃上温泉、喜連川温泉と並び「日本三大美肌の湯」として名高い佐賀県・嬉野温泉。11月から12月にかけて恋しくなる冬の名物「とろける温泉湯豆腐」。',
     url: 'https://croud-travel.pages.dev/winter-saga-ureshino-onsen-bihada-yudofu-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "嬉野温泉の日本三大美肌湯と冬情緒で過ごす冬の旅（11・12月）！嬉野茶の香りと名物とろける温泉湯豆腐＆極上佐賀牛の宿5選",
+    title: "嬉野温泉の日本三大美肌湯と冬情緒の冬旅・名湯美食ガイド！嬉野茶の香りと名物とろける温泉湯豆腐＆極上佐賀牛の宿5選",
     description: "斐乃上温泉、喜連川温泉と並び「日本三大美肌の湯」として名高い佐賀県・嬉野温泉。11月から12月にかけて恋しくなる冬の名物「とろける温泉湯豆腐」、嬉野茶の茶香炉が漂う風情豊かな温泉街、とろみのある重曹泉の露天風呂、そして最高峰A5ランク佐賀牛を心ゆくまで堪能する名宿ガイド。",
   }
 };
@@ -259,7 +259,10 @@ export default function UreshinoWinterPage() {
             <Eye className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 日本三大美肌の湯＆名物とろける温泉湯豆腐・極上佐賀牛特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">嬉野温泉の日本三大美肌湯と冬情緒で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 嬉野茶の香りと名物とろける温泉湯豆腐＆極上佐賀牛の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
+            【11・12月嬉野温泉の日本三大美肌湯と冬情緒】<br className="hidden sm:inline" />
+            嬉野茶の香りと名物とろける温泉湯豆腐＆極上佐賀牛の宿5選
+          </h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             神功皇后の伝説が息づく「日本三大美肌の湯」嬉野温泉。冬の寒さを優しく包むぬめりのある重曹泉。淡雪のようにとろける名物「嬉野温泉湯豆腐」と、香ばしい嬉野茶の茶香炉、そして最高峰A5ランク佐賀牛を味わう大人の九州冬旅。
           </p>
@@ -322,7 +325,7 @@ export default function UreshinoWinterPage() {
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-emerald-700" />
-            目次・インデックス｜嬉野温泉で過ごす冬の旅（11・12月）</h2>
+            目次・インデックス｜嬉野温泉の冬旅・名湯美食ガイド！</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#bihada-spring" className="hover:text-emerald-700 hover:underline flex items-center gap-1.5">
               <span>1. 日本三大美肌の湯の真髄：とろとろ重曹泉のスキンケア効果</span>
@@ -629,7 +632,7 @@ export default function UreshinoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜嬉野温泉で過ごす冬の旅（11・12月）</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜嬉野温泉の冬旅・名湯美食ガイド！</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -701,7 +704,7 @@ export default function UreshinoWinterPage() {
               className="bg-emerald-900/80 hover:bg-emerald-900 p-4 rounded-2xl transition border border-emerald-800/50 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">全国の厳選温泉・宿特集まとめを見る（嬉野温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-saga-ureshino-onsen-bihada-yudofu-stay" />

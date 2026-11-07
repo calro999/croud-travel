@@ -172,8 +172,8 @@ export default function KagawaZentsujiMarugamePage() {
         "headline": "【11・12・1月香川】善通寺＆丸亀！弘法大師生誕地・総本山善通寺の雪の初詣と丸亀城石垣ライトアップ・冬の讃岐しっぽくうどん＆骨付鳥名宿5選",
         "description": "真言宗開祖・弘法大師空海の御生誕の地であり四国霊場第75番札所の総本山善通寺での荘厳な初詣。日本一の石垣美を誇る現存十二天守・丸亀城の冬のライトアップや、冬期限定の具だくさん郷土麺「讃岐しっぽくうどん」、丸亀発祥のスパイシーな「骨付鳥」。瀬戸内海を望む展望風呂や名湯こんぴら温泉に癒やされる厳選名宿5選を徹底特集します。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/675/675.jpg",
-        "datePublished": "T21:00:00+09:00",
-        "dateModified": "T21:00:00+09:00",
+        "datePublished": "2026-10-25T21:00:00+09:00",
+        "dateModified": "2026-10-25T21:00:00+09:00",
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",

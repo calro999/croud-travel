@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '宇奈月温泉で過ごす冬の旅（11・12月）！富山湾寒ブリ！名宿5選',
+  title: '【11・12月宇奈月温泉の初冬黒部峡谷美と名湯】雪化粧の峡谷露天と日本一の透明度・富山湾寒ブリ＆紅ズワイガニの宿5選',
   description: '北アルプス最深部を穿つ黒部川の清流と断崖絶壁に抱かれた名湯・宇奈月温泉。11月中旬の晩秋から12月の初雪へと移ろう初冬、日本一の透明度を誇る弱アルカリ性美肌泉と、富山湾の冬の王者「寒ブリ」＆獲れたて紅ズワイガニ会席を堪能する名宿ガイド。',
   keywords: '宇奈月温泉 宿泊 11月 12月, 宇奈月温泉 寒ブリ 紅ズワイガニ, 黒部峡谷 雪景色 露天風呂, 黒部 宇奈月温泉 やまのは, 宇奈月温泉 延楽, 延対寺荘, サン柳亭, 富山 冬 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-toyama-unazuki-onsen-kurobe-snow-stay/",
   },
   openGraph: {
-    title: '宇奈月温泉で過ごす冬の旅（11・12月）！富山湾寒ブリ！名宿5選',
+    title: '【11・12月宇奈月温泉の初冬黒部峡谷美と名湯】雪化粧の峡谷露天と日本一の透明度・富山湾寒ブリ＆紅ズワイガニの宿5選',
     description: '北アルプス最深部を穿つ黒部川の清流と断崖絶壁に抱かれた名湯・宇奈月温泉。11月中旬の晩秋から12月の初雪へと移ろう初冬、日本一の透明度を誇る弱アルカリ性美肌泉と、富山湾の冬の王者「寒ブリ」＆獲れたて紅ズワイガニ会席を堪能する名宿ガイド。',
     url: 'https://croud-travel.pages.dev/winter-toyama-unazuki-onsen-kurobe-snow-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "宇奈月温泉の初冬黒部峡谷美と名湯で過ごす冬の旅（11・12月）！雪化粧の峡谷露天と日本一の透明度・富山湾寒ブリ＆紅ズワイガニの宿5選",
+    title: "宇奈月温泉の初冬黒部峡谷美と名湯の冬旅・名湯美食ガイド！雪化粧の峡谷露天と日本一の透明度・富山湾寒ブリ＆紅ズワイガニの宿5選",
     description: "北アルプス最深部を穿つ黒部川の清流と断崖絶壁に抱かれた名湯・宇奈月温泉。11月中旬の晩秋から12月の初雪へと移ろう初冬、日本一の透明度を誇る弱アルカリ性美肌泉と、富山湾の冬の王者「寒ブリ」＆獲れたて紅ズワイガニ会席を堪能する名宿ガイド。",
   }
 };
@@ -285,7 +285,10 @@ export default function UnazukiWinterPage() {
             <Eye className="w-4 h-4 text-cyan-300" />
             <span>11月・12月限定 黒部峡谷初冬の絶景＆富山湾寒ブリ・紅ズワイガニ特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">宇奈月温泉の初冬黒部峡谷美と名湯で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 雪化粧の峡谷露天と日本一の透明度・富山湾寒ブリ＆紅ズワイガニの宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
+            【11・12月宇奈月温泉の初冬黒部峡谷美と名湯】<br className="hidden sm:inline" />
+            雪化粧の峡谷露天と日本一の透明度・富山湾寒ブリ＆紅ズワイガニの宿5選
+          </h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             北アルプス黒部川の清流が削り出した日本屈指の深山幽谷。日本一の透明度を誇る名湯・宇奈月温泉。11月中旬の晩秋から12月の白銀雪化粧へと移ろう峡谷美を望む露天風呂と、富山湾が誇る冬の二大王者「寒ブリ」＆「紅ズワイガニ」に心奪われる至福の湯旅。
           </p>
@@ -348,7 +351,7 @@ export default function UnazukiWinterPage() {
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-cyan-800" />
-            目次・インデックス｜宇奈月温泉で過ごす冬の旅（11・12月）</h2>
+            目次・インデックス｜宇奈月温泉の冬旅・名湯美食ガイド！</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#scenic-gorge" className="hover:text-cyan-800 hover:underline flex items-center gap-1.5">
               <span>1. 黒部峡谷の初冬絶景：新山彦橋・やまびこ遊歩道と初雪</span>
@@ -662,7 +665,7 @@ export default function UnazukiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜宇奈月温泉で過ごす冬の旅（11・12月）</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜宇奈月温泉の冬旅・名湯美食ガイド！</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -734,7 +737,7 @@ export default function UnazukiWinterPage() {
               className="bg-cyan-900/80 hover:bg-cyan-900 p-4 rounded-2xl transition border border-cyan-800/50 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">全国の厳選温泉・宿特集まとめを見る（宇奈月温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-toyama-unazuki-onsen-kurobe-snow-stay" />

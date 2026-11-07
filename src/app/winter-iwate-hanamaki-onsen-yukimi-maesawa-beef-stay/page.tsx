@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '花巻温泉郷で過ごす冬の旅（11・12月）！極上前沢牛！名宿5選',
+  title: '【11・12月花巻温泉郷の白銀雪見露天と宮沢賢治の世界】奥羽山脈の名湯巡り・極上前沢牛＆白金豚しゃぶしゃぶの宿5選',
   description: '童話作家・宮沢賢治が愛した理想郷「イーハトーブ」の地・岩手県花巻温泉郷。11月下旬の初雪から12月の白銀世界へと移ろう初冬。',
   keywords: '花巻温泉郷 宿泊 11月 12月, 花巻温泉 佳松園 予約, 鉛温泉 藤三旅館 白猿の湯, 前沢牛 白金豚 旅館, 花巻温泉 雪見露天風呂, 宮沢賢治 イーハトーブ 花巻, 花巻温泉郷 冬 モデルコース',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/",
   },
   openGraph: {
-    title: '花巻温泉郷で過ごす冬の旅（11・12月）！極上前沢牛！名宿5選',
+    title: '【11・12月花巻温泉郷の白銀雪見露天と宮沢賢治の世界】奥羽山脈の名湯巡り・極上前沢牛＆白金豚しゃぶしゃぶの宿5選',
     description: '童話作家・宮沢賢治が愛した理想郷「イーハトーブ」の地・岩手県花巻温泉郷。11月下旬の初雪から12月の白銀世界へと移ろう初冬。',
     url: 'https://croud-travel.pages.dev/winter-iwate-hanamaki-onsen-yukimi-maesawa-beef-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "花巻温泉郷の白銀雪見露天と宮沢賢治の世界で過ごす冬の旅（11・12月）！奥羽山脈の名湯巡り・極上前沢牛＆白金豚しゃぶしゃぶの宿5選",
+    title: "花巻温泉郷の白銀雪見露天と宮沢賢治の世界の冬旅・名湯美食ガイド！奥羽山脈の名湯巡り・極上前沢牛＆白金豚しゃぶしゃぶの宿5選",
     description: "童話作家・宮沢賢治が愛した理想郷「イーハトーブ」の地・岩手県花巻温泉郷。11月下旬の初雪から12月の白銀世界へと移ろう初冬、赤松林に囲まれた美肌の湯や日本一深い自噴立ち湯で愉しむ雪見露天風呂。霜降り極上の前沢牛すき焼きとブランド豚「白金豚」のしゃぶしゃぶ、南部杜氏が醸す寒造り地酒を堪能する名宿ガイド。",
   }
 };
@@ -285,7 +285,10 @@ export default function HanamakiWinterPage() {
             <Feather className="w-4 h-4 text-indigo-300" />
             <span>11月・12月限定 イーハトーブの白銀世界と前沢牛・白金豚会席特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">花巻温泉郷の白銀雪見露天と宮沢賢治の世界で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 奥羽山脈の名湯巡り・極上前沢牛＆白金豚しゃぶしゃぶの宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
+            【11・12月花巻温泉郷の白銀雪見露天と宮沢賢治の世界】<br className="hidden sm:inline" />
+            奥羽山脈の名湯巡り・極上前沢牛＆白金豚しゃぶしゃぶの宿5選
+          </h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             宮沢賢治が愛したイーハトーブの森と奥羽山脈の名湯。11月下旬の初雪から12月の白銀世界へ。とろみある美肌源泉や日本一深い自噴立ち湯で愉しむ雪見露天。最高峰前沢牛と白金豚、南部杜氏の地酒に心温まる北東北の贅沢旅。
           </p>
@@ -348,7 +351,7 @@ export default function HanamakiWinterPage() {
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-indigo-700" />
-            目次・インデックス｜花巻温泉郷で過ごす冬の旅（11・12月）</h2>
+            目次・インデックス｜花巻温泉郷の冬旅・名湯美食ガイド！</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#springs-variety" className="hover:text-indigo-700 hover:underline flex items-center gap-1.5">
               <span>1. 多彩な花巻温泉郷：赤松の美肌泉から自噴立ち湯まで</span>
@@ -659,7 +662,7 @@ export default function HanamakiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜花巻温泉郷で過ごす冬の旅（11・12月）</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜花巻温泉郷の冬旅・名湯美食ガイド！</h2>
             </div>
           </div>
           <div className="space-y-4">

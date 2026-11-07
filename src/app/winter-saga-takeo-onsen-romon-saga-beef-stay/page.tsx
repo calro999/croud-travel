@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '武雄温泉で過ごす冬の旅（11・12月）！国重文！名宿5選',
+  title: '【11・12月武雄温泉の冬名湯と最高峰佐賀牛】国重文・朱塗り楼門と1300年美肌古湯・御船山初冬風情＆極上佐賀牛会席の宿5選',
   description: '1300年の歴史を誇り、東京駅を設計した辰野金吾が手がけた国重要文化財「朱塗りの楼門」がシンボルの名湯「武雄温泉」。',
   keywords: '武雄温泉 宿泊, 武雄温泉 11月 12月, 御船山楽園ホテル, 懐石宿 扇屋, ホテル春慶屋, 京都屋 武雄, 風の森 奥武雄, 辰野金吾 朱塗り楼門, 佐賀牛 ステーキ, 御船山楽園 紅葉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-saga-takeo-onsen-romon-saga-beef-stay/",
   },
   openGraph: {
-    title: '武雄温泉で過ごす冬の旅（11・12月）！国重文！名宿5選',
+    title: '【11・12月武雄温泉の冬名湯と最高峰佐賀牛】国重文・朱塗り楼門と1300年美肌古湯・御船山初冬風情＆極上佐賀牛会席の宿5選',
     description: '1300年の歴史を誇り、東京駅を設計した辰野金吾が手がけた国重要文化財「朱塗りの楼門」がシンボルの名湯「武雄温泉」。',
     url: 'https://croud-travel.pages.dev/winter-saga-takeo-onsen-romon-saga-beef-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "武雄温泉の冬名湯と最高峰佐賀牛で過ごす冬の旅（11・12月）！国重文・朱塗り楼門と1300年美肌古湯・御船山初冬風情＆極上佐賀牛会席の宿5選",
+    title: "武雄温泉の冬名湯と最高峰佐賀牛の冬旅・名湯美食ガイド！国重文・朱塗り楼門と1300年美肌古湯・御船山初冬風情＆極上佐賀牛会席の宿5選",
     description: "1300年の歴史を誇り、東京駅を設計した辰野金吾が手がけた国重要文化財「朱塗りの楼門」がシンボルの名湯「武雄温泉」。宮本武蔵やシーボルトも浸かった弱アルカリ性単純温泉のトロリとした美肌湯で癒やされ、11月の御船山楽園紅葉ライトアップから初冬の静寂、最高峰の肉質等級を誇る「佐賀牛」の鉄板焼き・すき焼き、とろける温泉湯豆腐を堪能。西九州新幹線でアクセスも快適な厳選名宿5選を徹底解説。",
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/13417/13417.jpg'],
   }
@@ -298,7 +298,10 @@ export default function TakeoWinterPage() {
             <Crown className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 国重文朱塗り楼門と1300年美肌古湯＆最高峰A5佐賀牛会席</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">武雄温泉の冬名湯と最高峰佐賀牛で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 国重文・朱塗り楼門と1300年美肌古湯・御船山初冬風情＆極上佐賀牛会席の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
+            【11・12月武雄温泉の冬名湯と最高峰佐賀牛】<br className="hidden sm:inline" />
+            国重文・朱塗り楼門と1300年美肌古湯・御船山初冬風情＆極上佐賀牛会席の宿5選
+          </h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             東京駅の辰野金吾が遺した朱塗りの楼門が迎える1300年の名湯「武雄温泉」。宮本武蔵も癒やされたトロリとした弱アルカリ性美肌泉、御船山の初冬の庭園美、全国最高峰の肉質等級を誇るA5佐賀牛と温泉湯豆腐を堪能する極上の冬旅。
           </p>
@@ -361,7 +364,7 @@ export default function TakeoWinterPage() {
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-800" />
-            目次・インデックス｜武雄温泉で過ごす冬の旅（11・12月）</h2>
+            目次・インデックス｜武雄温泉の冬旅・名湯美食ガイド！</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#spring-feature" className="hover:text-amber-800 hover:underline flex items-center gap-1.5">
               <span>1. 武雄温泉の魅力：1300年の歴史とトロリと肌を包む弱アルカリ性美肌泉</span>
@@ -644,7 +647,7 @@ export default function TakeoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜武雄温泉で過ごす冬の旅（11・12月）</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜武雄温泉の冬旅・名湯美食ガイド！</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -716,7 +719,7 @@ export default function TakeoWinterPage() {
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-amber-200 transition">全国の厳選温泉・宿特集まとめを見る（武雄温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-amber-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-saga-takeo-onsen-romon-saga-beef-stay" />

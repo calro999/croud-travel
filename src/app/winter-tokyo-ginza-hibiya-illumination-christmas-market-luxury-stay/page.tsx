@@ -613,7 +613,7 @@ export default function TokyoGinzaHibiyaWinterPage() {
 
       {/* Footer Navigation */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 py-12 border-t border-slate-200 mt-16 text-center text-xs text-slate-500">
-        <p>【11・12・1月東京：HIBIYA Magic Ti】 © 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
+        <p>© 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
       </footer>
     
       <HubRelatedPosts currentSlug="winter-tokyo-ginza-hibiya-illumination-christmas-market-luxury-stay" />

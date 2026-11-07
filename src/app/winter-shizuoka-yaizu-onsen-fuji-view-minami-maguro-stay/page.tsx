@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '焼津温泉で過ごす冬の旅（11・12月）！深層水高張性美肌温まりの湯！名宿5選',
+  title: '【11・12月静岡・焼津温泉の初冬駿河湾越し富士山絶景と天然南マグロ】深層水高張性美肌温まりの湯＆極上鮪尽くしの宿5選',
   description: '11月から12月にかけて駿河湾に面した水産都市・静岡県焼津市は、一年の中で最も大気が澄み渡り。',
   keywords: '焼津温泉 宿泊, 焼津温泉 11月 12月, 焼津グランドホテル, ホテルアンビア松風閣, 月と鮪石上, 亀の井ホテル焼津, 焼津温泉やいづマリンパレス, 天然南マグロ 宿, 富士山 露天風呂 駿河湾, 焼津 避寒旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay/"
   },
   openGraph: {
-    title: '焼津温泉で過ごす冬の旅（11・12月）！深層水高張性美肌温まりの湯！名宿5選',
+    title: '【11・12月静岡・焼津温泉の初冬駿河湾越し富士山絶景と天然南マグロ】深層水高張性美肌温まりの湯＆極上鮪尽くしの宿5選',
     description: '11月から12月にかけて駿河湾に面した水産都市・静岡県焼津市は、一年の中で最も大気が澄み渡り。',
     url: 'https://croud-travel.pages.dev/winter-shizuoka-yaizu-onsen-fuji-view-minami-maguro-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -70,8 +70,8 @@ export default function ShizuokaYaizuWinterFeature() {
         "headline": "【11・12月静岡・焼津温泉の初冬駿河湾越し富士山絶景と天然南マグロ】深層水高張性美肌温まりの湯＆極上鮪尽くしの宿5選",
         "description": "11月から12月にかけて駿河湾に面した水産都市・静岡県焼津市は、一年の中で最も大気が澄み渡り、紺碧の駿河湾越しに純白の雪を戴く雄大な富士山がくっきりと浮かび上がる絶景のピークを迎えます。日本屈指の遠洋漁業基地である焼津港には、南氷洋の荒波で育ち濃厚な甘みと上品な脂の乗りを誇る「天然南マグロ（ミナミマグロ・インドマグロ）」が極上の鮮度で水揚げされます。地下1500メートルの太古の地層から湧出する「焼津温泉」は、海水の約半分の高濃度塩分を含む弱アルカリ性カルシウム・ナトリウム-塩化物泉で、芯まで温まり湯冷めしない奇跡の美肌泉。駿河湾富士見露天と極上南マグロ会席を堪能する厳選宿5選を徹底解説。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/9036/9036.jpg",
-        "datePublished": "T08:00:00+09:00",
-        "dateModified": "T08:00:00+09:00",
+        "datePublished": "2026-10-25T08:00:00+09:00",
+        "dateModified": "2026-10-25T08:00:00+09:00",
         "publisher": {
           "@type": "Organization",
           "name": "Croud Travel",
@@ -280,7 +280,10 @@ export default function ShizuokaYaizuWinterFeature() {
             <Mountain className="w-4 h-4" />
             11月・12月 駿河湾富士絶景＆天然南マグロ特集｜静岡・焼津温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">静岡・焼津温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 初冬駿河湾越し富士山絶景と天然南マグロ・深層水高張性美肌泉の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
+            【11・12月静岡・焼津温泉】<br className="hidden sm:inline" />
+            初冬駿河湾越し富士山絶景と天然南マグロ・深層水高張性美肌泉の宿5選
+          </h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             一年で最も澄み渡る初冬の青空。紺碧の駿河湾越しに純白の富士山を仰ぐ奇跡の湯浴み。焼津港直送の極上天然南マグロと、太古の地層から湧出する高濃度温まり温泉の極上ステイ。
           </p>

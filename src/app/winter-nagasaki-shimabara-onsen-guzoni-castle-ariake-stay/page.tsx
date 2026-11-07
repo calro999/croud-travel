@@ -640,7 +640,7 @@ export default function NagasakiShimabaraAriakeWinterPage() {
 
       {/* Footer Navigation */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 py-12 border-t border-slate-200 mt-16 text-center text-xs text-slate-500">
-        <p>【11・12・1月長崎：冬の島原城初詣と名物「具雑煮」】 © 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
+        <p>© 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
       </footer>
     
       <HubRelatedPosts currentSlug="winter-nagasaki-shimabara-onsen-guzoni-castle-ariake-stay" />

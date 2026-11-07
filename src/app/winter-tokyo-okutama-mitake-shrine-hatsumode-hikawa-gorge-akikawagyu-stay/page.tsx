@@ -43,8 +43,8 @@ export default function TokyoOkutamaWinterPage() {
     "headline": "【11・12・1月東京】天空の古社「武蔵御嶽神社」新春初詣と氷川渓谷の冬静寂！奥多摩わさび＆幻の極上「秋川牛」会席と清流名湯宿5選",
     "description": "都心から電車でわずか約90〜120分、東京都とは思えない大自然と霊峰が広がる奥多摩・青梅の11〜1月冬紀行。標高929mの御岳山山頂に鎮座し「おいぬ様（狼）」を祀る天空の古社「武蔵御嶽神社」で迎える厳粛な新春初詣、エメラルドグリーンの多摩川と奇岩が雪化粧をまとう氷川渓谷・鳩ノ巣渓谷の冬静寂。清流仕込みの「奥多摩生わさび」や名酒「澤乃井」の新酒、都内唯一の幻のブランド黒毛和牛「秋川牛」の極上会席。冷えた身体を芯から解きほぐす清流の美肌温泉と隠れ家宿5選を徹底解説。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/148933/148933.jpg",
-    "datePublished": "T18:00:00+09:00",
-    "dateModified": "T18:00:00+09:00",
+    "datePublished": "2026-10-25T18:00:00+09:00",
+    "dateModified": "2026-10-25T18:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
@@ -657,7 +657,7 @@ export default function TokyoOkutamaWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>【11・12・1月東京：天空の古社「武蔵御嶽神社」新】 © 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-2 text-slate-500">【11・12・1月東京：天空の古社「武蔵御嶽神社」新】 掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>

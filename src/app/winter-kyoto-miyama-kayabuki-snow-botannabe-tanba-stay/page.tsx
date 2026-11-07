@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '京都で過ごす冬の旅（12・1月）！美山かやぶきの里！名宿5選',
+  title: '【12・1月京都】美山かやぶきの里＆丹波！白銀の茅葺き集落雪景色と雪灯廊・冬の最高峰「天然ぼたん鍋」＆里山雪見温泉名宿5選',
   description: '日本の原風景が色濃く残る京都府南丹市「美山かやぶきの里」。12〜1月は茅葺き屋根の上に純白の雪が降り積もり、昔話の世界のような静寂と温もりに包まれます。',
   keywords: '美山かやぶきの里 冬, 美山雪灯廊, ぼたん鍋 美山, 湯の花温泉 旅館, 渓山閣, すみや亀峰菴, 翠泉, 丹波牛, 河鹿荘, 12月 1月 京都 旅行',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay/"
   },
   openGraph: {
-    title: '京都で過ごす冬の旅（12・1月）！美山かやぶきの里！名宿5選',
+    title: '【12・1月京都】美山かやぶきの里＆丹波！白銀の茅葺き集落雪景色と雪灯廊・冬の最高峰「天然ぼたん鍋」＆里山雪見温泉名宿5選',
     description: '日本の原風景が色濃く残る京都府南丹市「美山かやぶきの里」。12〜1月は茅葺き屋根の上に純白の雪が降り積もり、昔話の世界のような静寂と温もりに包まれます。',
     url: 'https://croud-travel.pages.dev/winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay/',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "京都で過ごす冬の旅（12・1月）！美山かやぶきの里＆丹波！白銀の茅葺き集落雪景色と雪灯廊・冬の最高峰「天然ぼたん鍋」＆里山雪見温泉名宿5選",
+    title: "京都の冬旅・年末年始温泉ガイド！美山かやぶきの里＆丹波！白銀の茅葺き集落雪景色と雪灯廊・冬の最高峰「天然ぼたん鍋」＆里山雪見温泉名宿5選",
     description: "日本の原風景が色濃く残る京都府南丹市「美山かやぶきの里」。12〜1月は茅葺き屋根の上に純白の雪が降り積もり、昔話の世界のような静寂と温もりに包まれます。1月下旬には集落全体が雪灯籠の柔らかな光に照らされる「美山雪灯廊」が開幕。丹波地方の冬の王様・天然猪肉の熱々「ぼたん鍋」や丹波牛、湯の花温泉の美肌露天風呂を満喫できる厳選名宿5選を徹底解説します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/108931/108931.jpg"]
   }
@@ -662,7 +662,7 @@ export default function KyotoMiyamaTanbaWinterPage() {
 
       {/* Footer Navigation */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 py-12 border-t border-slate-200 mt-16 text-center text-xs text-slate-500">
-        <p>【京都で過ごす冬の旅（12・1月）】 © 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
+        <p>© 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
       </footer>
     
       <HubRelatedPosts currentSlug="winter-kyoto-miyama-kayabuki-snow-botannabe-tanba-stay" />

@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/kumamoto-kurokawa-autumn-solo-retreat-onsen-hopping-stay/" },
-  title: "・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもりで過ごす冬の旅（10月）",
+  title: "【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿",
   description: '10月下旬〜11月中旬は阿蘇山麓が秋色に染まるベストシーズン！「街全体が一つの宿」として風情を守り続ける熊本・黒川温泉。原生林に佇み三千坪の敷地に薬師の湯を湛える最高峰の隠れ家「旅館 山河」、温泉街の中心で立ち寄り湯も人気の「旅館 美里」、あたたかな木造の温もりと絶品料理の「旅館 壱の井」を楽天API最新データに基づき徹底比較。',
   keywords: '黒川温泉 一人旅 宿,黒川温泉 10月 11月 紅葉 温泉,旅館 山河 一人旅,旅館 美里,旅館 壱の井,黒川温泉 入湯手形 一人旅 おこもり',
   openGraph: {
-    title: "・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもりで過ごす冬の旅（10月）",
+    title: "【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿",
     description: '10月下旬〜11月中旬は阿蘇山麓が秋色に染まるベストシーズン！「街全体が一つの宿」として風情を守り続ける熊本・黒川温泉。原生林に佇み三千坪の敷地に薬師の湯を湛える最高峰の隠れ家「旅館 山河」、温泉街の中心で立ち寄り湯も人気の「旅館 美里」、あたたかな木造の温もりと絶品料理の「旅館 壱の井」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/kumamoto-kurokawa-autumn-solo-retreat-onsen-hopping-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもりで過ごす冬の旅（10月）！雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿',
+    headline: '【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿！雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿',
     description: '10月下旬〜11月中旬は阿蘇山麓が秋色に染まるベストシーズン！「街全体が一つの宿」として風情を守り続ける熊本・黒川温泉。原生林に佇み三千坪の敷地に薬師の湯を湛える最高峰の隠れ家「旅館 山河」、温泉街の中心で立ち寄り湯も人気の「旅館 美里」、あたたかな木造の温もりと絶品料理の「旅館 壱の井」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,7 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             熊本黒川温泉・10-11月秋の阿蘇紅葉＆入湯手形ひとり旅おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもりで過ごす冬の旅（10月）！雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿</h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿！雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">【・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入】 
             更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
           </p>
@@ -351,7 +351,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入）</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 阿蘇駅よりアクセス。阿蘇駅から車で約４０分／九州横断バスにて約１時間。</li>
@@ -363,7 +363,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入）</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「黒川温泉 旅館 美里」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -381,7 +381,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入</h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/furusato-tax-shima-onsen-shimablue-autumn-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -398,11 +398,11 @@ export default function ArticlePage() {
             </a>
             <a href="/winter-gunma-kusatsu-yukimi-onsen-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">初雪の湯畑ライトアップで過ごす冬の旅（12月）！名湯草津の雪見露天風呂と湯もみ体験！源泉かけ流し宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【12月初雪の湯畑ライトアップ】名湯草津の雪見露天風呂と湯もみ体験！源泉かけ流し宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入）</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/chiba/"
@@ -440,10 +440,10 @@ export default function ArticlePage() {
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 ・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもりで過ごす冬の旅（10月）！雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+              📊 【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿！雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
             </h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもりで過ごす冬の旅（10月）！雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              楽天トラベル公式APIより取得した「【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿！雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -494,7 +494,7 @@ export default function ArticlePage() {
 
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 ・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもりで過ごす冬の旅（10月）で比較したい各宿のロケーション・駐車場・料金詳細
+              🏨 【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿で比較したい各宿のロケーション・駐車場・料金詳細
             </h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
@@ -513,7 +513,7 @@ export default function ArticlePage() {
                   <p>【・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💡 <strong>黒川温泉　旅館　美里の滞在ポイント：</strong>「・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもりで過ごす冬の旅（10月）エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
+                    💡 <strong>黒川温泉　旅館　美里の滞在ポイント：</strong>「【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
                   </blockquote>
                 </div>
               </div>
@@ -566,9 +566,9 @@ export default function ArticlePage() {
 
           <div className="space-y-4 pt-6 border-t border-stone-200">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもりで過ごす冬の旅（10月）」とあわせて巡りたい群馬県の代表観光スポット案内
+              🗺️ 「【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿」とあわせて巡りたい群馬県の代表観光スポット案内
             </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもりで過ごす冬の旅（10月）」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
+            <p className="text-xs text-stone-600 leading-relaxed">「【10月・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入湯手形めぐりおこもり】雑木林の秘湯露天・囲炉裏会席・肥後牛炭火焼き！阿蘇山麓リトリート厳選3宿」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Yubatake_%28Kusatsu_Onsen%29.jpg/1280px-Yubatake_%28Kusatsu_Onsen%29.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="草津温泉（湯畑）" className="w-full h-full object-cover" loading="lazy" /></div>

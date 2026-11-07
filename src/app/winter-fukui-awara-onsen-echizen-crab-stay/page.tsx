@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'あわら温泉で過ごす冬の旅（11・12月）！庭園露天風呂と黄色いタグ付き越前蟹！名宿5選',
+  title: '【11・12月あわら温泉の冬名湯と越前がに】関西の奥座敷・庭園露天風呂と黄色いタグ付き越前蟹＆若狭牛会席の宿5選',
   description: '11月6日の越前がに解禁で歓喜に沸く福井の名湯「あわら温泉」。明治の開湯以来、各宿が独自源泉を所有する贅沢な湯巡りと、三國港直送の黄色タグ付き越前がにフルコース、極上若狭牛を堪能。庭園露天風呂が彩る初冬の極上温泉宿5選を徹底解説。',
   keywords: 'あわら温泉 越前がに 宿泊, あわら温泉 11月 12月, 越前蟹 黄色タグ まつや千千, グランディア芳泉, つるや あわら, 清風荘, 若狭牛 芦原温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukui-awara-onsen-echizen-crab-stay/",
   },
   openGraph: {
-    title: 'あわら温泉で過ごす冬の旅（11・12月）！庭園露天風呂と黄色いタグ付き越前蟹！名宿5選',
+    title: '【11・12月あわら温泉の冬名湯と越前がに】関西の奥座敷・庭園露天風呂と黄色いタグ付き越前蟹＆若狭牛会席の宿5選',
     description: '11月6日の越前がに解禁で歓喜に沸く福井の名湯「あわら温泉」。明治の開湯以来、各宿が独自源泉を所有する贅沢な湯巡りと、三國港直送の黄色タグ付き越前がにフルコース、極上若狭牛を堪能。庭園露天風呂が彩る初冬の極上温泉宿5選を徹底解説。',
     url: 'https://croud-travel.pages.dev/winter-fukui-awara-onsen-echizen-crab-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "あわら温泉の冬名湯と越前がにで過ごす冬の旅（11・12月）！関西の奥座敷・庭園露天風呂と黄色いタグ付き越前蟹＆若狭牛会席の宿5選",
+    title: "あわら温泉の冬名湯と越前がにの冬旅・名湯美食ガイド！関西の奥座敷・庭園露天風呂と黄色いタグ付き越前蟹＆若狭牛会席の宿5選",
     description: "11月6日の越前がに解禁で歓喜に沸く福井の名湯「あわら温泉」。明治の開湯以来、各宿が独自源泉を所有する贅沢な湯巡りと、三國港直送の黄色タグ付き越前がにフルコース、極上若狭牛を堪能。庭園露天風呂が彩る初冬の極上温泉宿5選を徹底解説。",
   }
 };
@@ -297,7 +297,10 @@ export default function AwaraWinterPage() {
             <Eye className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 越前がに解禁と関西の奥座敷あわら温泉特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">あわら温泉の冬名湯と越前がにで過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 関西の奥座敷・庭園露天風呂と黄色いタグ付き越前蟹＆若狭牛会席の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
+            【11・12月あわら温泉の冬名湯と越前がに】<br className="hidden sm:inline" />
+            関西の奥座敷・庭園露天風呂と黄色いタグ付き越前蟹＆若狭牛会席の宿5選
+          </h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             11月6日の越前がに漁解禁とともに冬の黄金期を迎える福井の奥座敷「あわら温泉」。74本もの独自源泉が注ぐ庭園露天風呂で温まり、三國港直送の黄色いタグ付き極上越前がにと若狭牛を味わい尽くす至福の冬旅。
           </p>
@@ -360,7 +363,7 @@ export default function AwaraWinterPage() {
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-800" />
-            目次・インデックス｜あわら温泉で過ごす冬の旅（11・12月）</h2>
+            目次・インデックス｜あわら温泉の冬旅・名湯美食ガイド！</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#spring-feature" className="hover:text-amber-800 hover:underline flex items-center gap-1.5">
               <span>1. あわら温泉の魅力：74本の独自源泉と「関西の奥座敷」の風情</span>
@@ -653,7 +656,7 @@ export default function AwaraWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜あわら温泉で過ごす冬の旅（11・12月）</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜あわら温泉の冬旅・名湯美食ガイド！</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -725,7 +728,7 @@ export default function AwaraWinterPage() {
               className="bg-amber-900/80 hover:bg-amber-900 p-4 rounded-2xl transition border border-amber-800/50 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-amber-200 transition">全国の厳選温泉・宿特集まとめを見る（あわら温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-amber-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-fukui-awara-onsen-echizen-crab-stay" />

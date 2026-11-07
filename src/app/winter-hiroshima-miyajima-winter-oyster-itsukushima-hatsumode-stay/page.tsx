@@ -39,8 +39,8 @@ export default function WinterFeaturePage() {
         'url': 'https://croud-travel.pages.dev/ogp-image.jpg'
       }
     },
-    'datePublished': 'T00:00:00+09:00',
-    'dateModified': 'T00:00:00+09:00'
+    'datePublished': '2026-10-25T00:00:00+09:00',
+    'dateModified': '2026-10-25T00:00:00+09:00'
   };
 
   const faqJsonLd = {

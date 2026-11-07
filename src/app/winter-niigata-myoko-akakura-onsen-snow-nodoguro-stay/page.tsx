@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '妙高赤倉温泉で過ごす冬の旅（11・12月）！新潟和牛会席！名宿5選',
+  title: '【11・12月新潟・妙高赤倉温泉の初雪妙高山と開湯200年名湯】硫酸塩・炭酸水素塩のダブル美肌露天・冬のどぐろ塩焼き＆新潟和牛会席の宿5選',
   description: '11月から12月にかけて新潟県・妙高山麓は、標高2,454mの日本百名山・妙高山が初雪の白銀に輝き、豪雪地帯ならではの純白の冬景色が広がります。',
   keywords: '赤倉温泉 宿泊, 妙高高原 11月 12月, 赤倉観光ホテル, ホテル太閤, 赤倉ホテル, お宿ふるや, 香風館, 妙高山 雪景色, 赤倉温泉 美肌の湯, 新潟 のどぐろ 宿, にいがた和牛 赤倉温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay/"
   },
   openGraph: {
-    title: '妙高赤倉温泉で過ごす冬の旅（11・12月）！新潟和牛会席！名宿5選',
+    title: '【11・12月新潟・妙高赤倉温泉の初雪妙高山と開湯200年名湯】硫酸塩・炭酸水素塩のダブル美肌露天・冬のどぐろ塩焼き＆新潟和牛会席の宿5選',
     description: '11月から12月にかけて新潟県・妙高山麓は、標高2,454mの日本百名山・妙高山が初雪の白銀に輝き、豪雪地帯ならではの純白の冬景色が広がります。',
     url: 'https://croud-travel.pages.dev/winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -70,8 +70,8 @@ export default function AkakuraOnsenWinterFeature() {
         "headline": "【11・12月新潟・妙高赤倉温泉の初雪妙高山と開湯200年名湯】硫酸塩・炭酸水素塩のダブル美肌露天・冬のどぐろ塩焼き＆新潟和牛会席の宿5選",
         "description": "11月から12月にかけて新潟県・妙高山麓は、標高2,454mの日本百名山・妙高山が初雪の白銀に輝き、豪雪地帯ならではの純白の冬景色が広がります。文化13年（1816年）開湯、妙高山北地獄谷から湧き出る源泉は、「肌を滑らかにする炭酸水素塩泉」と「肌を保湿しコーティングする硫酸塩泉」を併せ持つ日本有数のダブル美肌温泉。創業1937年のクラシックリゾートからの雪海パノラマ、日本海・直江津港や能生漁港から直送される高級魚「冬のどぐろ」の塩焼きや刺身、とろける霜降りの「にいがた和牛」、妙高・魚沼産コシヒカリの新米と地酒を味わう至高の妙高名宿5選を徹底解説。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/32250/32250.jpg",
-        "datePublished": "T04:00:00+09:00",
-        "dateModified": "T04:00:00+09:00",
+        "datePublished": "2026-10-25T04:00:00+09:00",
+        "dateModified": "2026-10-25T04:00:00+09:00",
         "publisher": {
           "@type": "Organization",
           "name": "Croud Travel",
@@ -280,7 +280,10 @@ export default function AkakuraOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上温泉特集｜新潟・妙高高原
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">新潟・妙高赤倉温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 初雪の妙高山とダブル美肌露天・冬のどぐろ＆新潟和牛会席の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
+            【11・12月新潟・妙高赤倉温泉】<br className="hidden sm:inline" />
+            初雪の妙高山とダブル美肌露天・冬のどぐろ＆新潟和牛会席の宿5選
+          </h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             開湯200余年、炭酸水素塩泉と硫酸塩泉が織りなす極上の美肌名湯。初雪に染まる霊峰・妙高山の雄姿を仰ぎ、冬の日本海から届く極上のどぐろとにいがた和牛を味わう至高の雪国リゾート。
           </p>
@@ -637,7 +640,7 @@ export default function AkakuraOnsenWinterFeature() {
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・旬旅特集まとめを見る（妙高赤倉温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・旬旅特集まとめを見る（妙高赤倉温泉の冬旅・名湯美食ガイド！）</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-niigata-myoko-akakura-onsen-snow-nodoguro-stay" />

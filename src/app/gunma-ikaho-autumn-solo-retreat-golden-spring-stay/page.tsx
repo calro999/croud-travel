@@ -5,11 +5,11 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   alternates: { canonical: "https://croud-travel.pages.dev/gunma-ikaho-autumn-solo-retreat-golden-spring-stay/" },
-  title: "・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもりで過ごす冬の旅（10月）",
+  title: "【10月・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもり】365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿",
   description: '10月下旬〜11月中旬は河鹿橋の紅葉が真っ赤に燃え上がる群馬・伊香保温泉！フレンチ仕込みの料理とモダンな洋風旅館で一人旅の満足度抜群の「洋風旅館ぴのん」、伊香保のシンボル石段街に近く創業四百余年の歴史を誇る「森秋旅館」、家庭的なもてなしと源泉かけ流しの「石坂旅館」を楽天API最新データに基づき徹底比較。',
   keywords: '伊香保温泉 一人旅 宿,伊香保 10月 11月 紅葉 温泉,洋風旅館ぴのん 一人旅,森秋旅館,石坂旅館,伊香保 河鹿橋 一人旅 おこもり',
   openGraph: {
-    title: "・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもりで過ごす冬の旅（10月）",
+    title: "【10月・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもり】365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿",
     description: '10月下旬〜11月中旬は河鹿橋の紅葉が真っ赤に燃え上がる群馬・伊香保温泉！フレンチ仕込みの料理とモダンな洋風旅館で一人旅の満足度抜群の「洋風旅館ぴのん」、伊香保のシンボル石段街に近く創業四百余年の歴史を誇る「森秋旅館」、家庭的なもてなしと源泉かけ流しの「石坂旅館」を楽天API最新データに基づき徹底比較。',
     url: 'https://croud-travel.pages.dev/gunma-ikaho-autumn-solo-retreat-golden-spring-stay/',
     siteName: 'トラベルガイド - クラウドトラベル',
@@ -22,7 +22,7 @@ export default function ArticlePage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: '・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもりで過ごす冬の旅（10月）！365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿',
+    headline: '【10月・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもり】365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿！365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿',
     description: '10月下旬〜11月中旬は河鹿橋の紅葉が真っ赤に燃え上がる群馬・伊香保温泉！フレンチ仕込みの料理とモダンな洋風旅館で一人旅の満足度抜群の「洋風旅館ぴのん」、伊香保のシンボル石段街に近く創業四百余年の歴史を誇る「森秋旅館」、家庭的なもてなしと源泉かけ流しの「石坂旅館」を楽天API最新データに基づき徹底比較。',
     author: {
       '@type': 'Organization',
@@ -75,7 +75,7 @@ export default function ArticlePage() {
           <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-3 py-1 rounded-full mb-3">
             群馬・伊香保温泉10-11月秋の河鹿橋紅葉＆黄金の湯ひとり旅おこもり特集
           </div>
-          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもりで過ごす冬の旅（10月）！365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿</h1>
+          <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">【10月・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもり】365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿！365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿</h1>
           <p className="text-xs sm:text-sm text-stone-500 mb-6">【・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライ】 
             更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
           </p>
@@ -349,7 +349,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライ）</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 渋川駅よりアクセス。ＪＲ渋川駅下車バスで25分！新宿から高速バスで2時間半！伊香保の名物石段街から徒歩３分と好立地♪散策に抜群の好立地。</li>
@@ -361,7 +361,7 @@ export default function ArticlePage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライ）</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「伊香保温泉 森秋旅館」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -379,7 +379,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライ</h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/winter-aomori-hachinohe-kabushima-ginsaba-senbeijiru-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -400,7 +400,7 @@ export default function ArticlePage() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライ）</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/okinawa/"
@@ -438,10 +438,10 @@ export default function ArticlePage() {
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 ・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもりで過ごす冬の旅（10月）！365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+              📊 【10月・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもり】365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿！365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
             </h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもりで過ごす冬の旅（10月）！365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              楽天トラベル公式APIより取得した「【10月・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもり】365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿！365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -492,7 +492,7 @@ export default function ArticlePage() {
 
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 ・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもりで過ごす冬の旅（10月）で比較したい各宿のロケーション・駐車場・料金詳細
+              🏨 【10月・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもり】365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿で比較したい各宿のロケーション・駐車場・料金詳細
             </h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
@@ -564,9 +564,9 @@ export default function ArticlePage() {
 
           <div className="space-y-4 pt-6 border-t border-stone-200">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもりで過ごす冬の旅（10月）」とあわせて巡りたい青森県の代表観光スポット案内
+              🗺️ 「【10月・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもり】365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿」とあわせて巡りたい青森県の代表観光スポット案内
             </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもりで過ごす冬の旅（10月）」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
+            <p className="text-xs text-stone-600 leading-relaxed">「【10月・11月秋の伊香保温泉ひとり旅・湯元河鹿橋の紅葉ライトアップと黄金の湯おこもり】365段石段街・茶褐色の名湯・上州牛会席！大正ロマン厳選3宿」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
               

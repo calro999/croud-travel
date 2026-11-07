@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '奥入瀬渓流温泉と八甲田山樹氷で過ごす冬の旅（11・12月）！幻想的な氷瀑ライトアップ！名宿5選',
+  title: '【11・12月奥入瀬渓流温泉と八甲田山樹氷の初冬秘湯】幻想的な氷瀑ライトアップ・白濁名湯露天風呂と青森倉石牛＆陸奥湾ホタテ会席の宿5選',
   description: '11月から12月にかけて青森県・十和田八甲田エリアは、奥入瀬渓流の滝が凍り始める神秘的な「氷瀑（ひょうばく）」や。',
   keywords: '奥入瀬渓流 温泉 宿泊, 八甲田 温泉 11月 12月, 奥入瀬 氷瀑, 酸ヶ湯温泉, 八甲田ホテル, 蔦温泉旅館, ホテル城ヶ倉, 青森 倉石牛, 陸奥湾 ホタテ, 青森 雪見露天',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay/",
   },
   openGraph: {
-    title: '奥入瀬渓流温泉と八甲田山樹氷で過ごす冬の旅（11・12月）！幻想的な氷瀑ライトアップ！名宿5選',
+    title: '【11・12月奥入瀬渓流温泉と八甲田山樹氷の初冬秘湯】幻想的な氷瀑ライトアップ・白濁名湯露天風呂と青森倉石牛＆陸奥湾ホタテ会席の宿5選',
     description: '11月から12月にかけて青森県・十和田八甲田エリアは、奥入瀬渓流の滝が凍り始める神秘的な「氷瀑（ひょうばく）」や。',
     url: 'https://croud-travel.pages.dev/winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "奥入瀬渓流温泉と八甲田山樹氷の初冬秘湯で過ごす冬の旅（11・12月）！幻想的な氷瀑ライトアップ・白濁名湯露天風呂と青森倉石牛＆陸奥湾ホタテ会席の宿5選",
+    title: "奥入瀬渓流温泉と八甲田山樹氷の初冬秘湯の冬旅・名湯美食ガイド！幻想的な氷瀑ライトアップ・白濁名湯露天風呂と青森倉石牛＆陸奥湾ホタテ会席の宿5選",
     description: "11月から12月にかけて青森県・十和田八甲田エリアは、奥入瀬渓流の滝が凍り始める神秘的な「氷瀑（ひょうばく）」や、八甲田山のブナ林やアオモリトドマツが純白の雪と氷を纏う「初期樹氷（スノーモンスター）」の季節を迎えます。千人風呂で知られる酸ヶ湯や足元湧出の蔦温泉、白銀のブナ原生林を望む八甲田リゾートの白濁硫黄泉、雪見露天風呂に浸かり、青森が誇る極上銘柄牛「倉石牛」や陸奥湾直送の甘みたっぷりの肉厚ホタテ、地酒を味わう至極の秘湯宿5選を徹底解説。",
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/40434/40434.jpg'],
   }
@@ -222,7 +222,9 @@ export default function OiraseOnsenWinterPage() {
             <span>11月・12月 冬の青森・奥入瀬＆八甲田特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">奥入瀬渓流温泉と八甲田山樹氷の初冬秘湯で過ごす冬の旅（11・12月）！幻想的な氷瀑ライトアップ・白濁名湯露天風呂と青森倉石牛＆陸奥湾ホタテ会席の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
+            【11・12月奥入瀬渓流温泉と八甲田山樹氷の初冬秘湯】幻想的な氷瀑ライトアップ・白濁名湯露天風呂と青森倉石牛＆陸奥湾ホタテ会席の宿5選
+          </h1>
 
           <p className="text-sm sm:text-base lg:text-lg text-slate-300 leading-relaxed max-w-4xl">
             11月から12月にかけて、青森県・奥入瀬渓流と八甲田連峰は、厳しい寒さと日本海の雪雲が織りなす息をのむような白銀の芸術世界へと変貌します。渓流の激流が凍てついて青く輝く「氷瀑（ひょうばく）」、八甲田のブナ原生林やアオモリトドマツに純白の雪と氷が張り付く「初期樹氷（スノーモンスター）」、そして300年の歴史を誇る総ヒバ造り千人風呂や足元湧出の奇跡の秘湯。雪見露天風呂で温まり、青森最高峰のブランド黒毛和牛「倉石牛」や陸奥湾直送の甘みたっぷりのホタテを地酒とともに味わう、至福の冬旅をお届けします。
@@ -581,7 +583,7 @@ export default function OiraseOnsenWinterPage() {
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・宿特集まとめを見る（奥入瀬渓流温泉と八甲田山樹氷で過ごす冬の旅（11・1）</h3>
+              <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-aomori-oirase-hakkoda-onsen-frozen-waterfall-stay" />

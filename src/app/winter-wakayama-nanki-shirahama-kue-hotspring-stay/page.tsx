@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '南紀白浜温泉で過ごす冬の旅（11・12月）！白良浜夕陽と日本三古湯！名宿5選',
+  title: '【11・12月南紀白浜温泉の太平洋絶景と名湯】白良浜夕陽と日本三古湯・幻の天然本クエ鍋＆熊野牛の宿5選',
   description: '万葉集や日本書紀にも記された日本三古湯の一つ、和歌山県・南紀白浜温泉。11月から12月にかけて脂が乗り切る幻の超高級魚「紀州本クエ鍋」、太平洋を茜色に染める雄大な冬の夕陽、波打ち際の絶景露天風呂、そして特選熊野牛を味わい尽くす冬の名宿ガイド。',
   keywords: '南紀白浜温泉 宿泊 11月 12月, クエ鍋 白浜 旅館, 本クエ 白浜 温泉, ホテル川久 白浜, 浜千鳥の湯 海舟, 白良荘グランドホテル, 白良浜 イルミネーション 冬, 熊野牛 白浜',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-wakayama-nanki-shirahama-kue-hotspring-stay/",
   },
   openGraph: {
-    title: '南紀白浜温泉で過ごす冬の旅（11・12月）！白良浜夕陽と日本三古湯！名宿5選',
+    title: '【11・12月南紀白浜温泉の太平洋絶景と名湯】白良浜夕陽と日本三古湯・幻の天然本クエ鍋＆熊野牛の宿5選',
     description: '万葉集や日本書紀にも記された日本三古湯の一つ、和歌山県・南紀白浜温泉。11月から12月にかけて脂が乗り切る幻の超高級魚「紀州本クエ鍋」、太平洋を茜色に染める雄大な冬の夕陽、波打ち際の絶景露天風呂、そして特選熊野牛を味わい尽くす冬の名宿ガイド。',
     url: 'https://croud-travel.pages.dev/winter-wakayama-nanki-shirahama-kue-hotspring-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "南紀白浜温泉の太平洋絶景と名湯で過ごす冬の旅（11・12月）！白良浜夕陽と日本三古湯・幻の天然本クエ鍋＆熊野牛の宿5選",
+    title: "南紀白浜温泉の太平洋絶景と名湯の冬旅・名湯美食ガイド！白良浜夕陽と日本三古湯・幻の天然本クエ鍋＆熊野牛の宿5選",
     description: "万葉集や日本書紀にも記された日本三古湯の一つ、和歌山県・南紀白浜温泉。11月から12月にかけて脂が乗り切る幻の超高級魚「紀州本クエ鍋」、太平洋を茜色に染める雄大な冬の夕陽、波打ち際の絶景露天風呂、そして特選熊野牛を味わい尽くす冬の名宿ガイド。",
   }
 };
@@ -259,7 +259,10 @@ export default function ShirahamaWinterPage() {
             <Eye className="w-4 h-4 text-cyan-300" />
             <span>11月・12月限定 日本三古湯の絶景オーシャンビュー＆幻の紀州本クエ鍋特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">南紀白浜温泉の太平洋絶景と名湯で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 白良浜夕陽と日本三古湯・幻の天然本クエ鍋＆熊野牛の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
+            【11・12月南紀白浜温泉の太平洋絶景と名湯】<br className="hidden sm:inline" />
+            白良浜夕陽と日本三古湯・幻の天然本クエ鍋＆熊野牛の宿5選
+          </h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             万葉の昔から歴代天皇が湯治に訪れた日本三古湯・南紀白浜温泉。11月から旬を迎える「幻の高級魚・紀州本クエ」の濃厚な旨味。水平線に沈む黄金の夕陽を眺める海辺のインフィニティ露天風呂と、白良浜の冬のイルミネーションを愉しむ至福旅。
           </p>
@@ -322,7 +325,7 @@ export default function ShirahamaWinterPage() {
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-cyan-700" />
-            目次・インデックス｜南紀白浜温泉で過ごす冬の旅（11・12月）</h2>
+            目次・インデックス｜南紀白浜温泉の冬旅・名湯美食ガイド！</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#kue-season" className="hover:text-cyan-700 hover:underline flex items-center gap-1.5">
               <span>1. 幻の高級魚「本クエ」の真髄：旬の脂とコラーゲン鍋</span>
@@ -632,7 +635,7 @@ export default function ShirahamaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜南紀白浜温泉で過ごす冬の旅（11・12月）</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜南紀白浜温泉の冬旅・名湯美食ガイド！</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -704,7 +707,7 @@ export default function ShirahamaWinterPage() {
               className="bg-cyan-900/80 hover:bg-cyan-900 p-4 rounded-2xl transition border border-cyan-800/50 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">全国の厳選温泉・宿特集まとめを見る（南紀白浜温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-wakayama-nanki-shirahama-kue-hotspring-stay" />

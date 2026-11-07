@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '北海道で過ごす冬の旅（12・1月）！然別湖！名宿5選',
+  title: '【12・1月北海道】然別湖＆ぬかびら源泉郷！氷結した湖上の幻の村「しかりべつ湖コタン」氷上露天風呂＆タウシュベツ川橋梁・十勝ハーブ牛名宿5選',
   description: '大雪山国立公園の南端、北海道で最も標高の高い自然湖・然別湖が厚い氷に閉ざされる12〜1月。完全結氷した湖上にわずか60日間だけ現れる幻の村「。',
   keywords: '然別湖コタン ホテル, 然別湖畔温泉ホテル風水, 氷上露天風呂 然別湖, ぬかびら源泉郷 旅館, タウシュベツ川橋梁 冬, 十勝ハーブ牛, サホロリゾート, 十勝川温泉 観月苑, モール温泉, 12月 1月 北海道 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay/"
   },
   openGraph: {
-    title: '北海道で過ごす冬の旅（12・1月）！然別湖！名宿5選',
+    title: '【12・1月北海道】然別湖＆ぬかびら源泉郷！氷結した湖上の幻の村「しかりべつ湖コタン」氷上露天風呂＆タウシュベツ川橋梁・十勝ハーブ牛名宿5選',
     description: '大雪山国立公園の南端、北海道で最も標高の高い自然湖・然別湖が厚い氷に閉ざされる12〜1月。完全結氷した湖上にわずか60日間だけ現れる幻の村「。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay/',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "北海道で過ごす冬の旅（12・1月）！然別湖＆ぬかびら源泉郷！氷結した湖上の幻の村「しかりべつ湖コタン」氷上露天風呂＆タウシュベツ川橋梁・十勝ハーブ牛名宿5選",
+    title: "北海道の冬旅・年末年始温泉ガイド！然別湖＆ぬかびら源泉郷！氷結した湖上の幻の村「しかりべつ湖コタン」氷上露天風呂＆タウシュベツ川橋梁・十勝ハーブ牛名宿5選",
     description: "大雪山国立公園の南端、北海道で最も標高の高い自然湖・然別湖が厚い氷に閉ざされる12〜1月。完全結氷した湖上にわずか60日間だけ現れる幻の村「しかりべつ湖コタン」では、世界唯一の氷上露天風呂やアイスバーが旅人を魅了します。近隣のぬかびら源泉郷では古代ローマ遺跡のようなタウシュベツ川橋梁の白銀絶景と源泉掛け流しの秘湯、十勝ハーブ牛や新得そばなど北の大地の極上美食を堪能できる厳選名宿5選を徹底解説します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/135963/135963.jpg"]
   }
@@ -645,7 +645,7 @@ export default function HokkaidoShikaribetsuNukabiraWinterPage() {
 
       {/* Footer Navigation */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 py-12 border-t border-slate-200 mt-16 text-center text-xs text-slate-500">
-        <p>【北海道で過ごす冬の旅（12・1月）】 © 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
+        <p>© 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
       </footer>
     
       <HubRelatedPosts currentSlug="winter-hokkaido-shikaribetsu-kotan-nukabira-onsen-ice-stay" />

@@ -201,9 +201,9 @@ export default function FeaturePage() {
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-3 border-b border-stone-200 pb-4">
             <div>
               <span className="text-amber-600 font-bold tracking-wider text-xs md:text-sm uppercase">Recommended Accommodations</span>
-              <h2 className="text-2xl md:text-3xl font-extrabold text-stone-900 mt-1">厳選おすすめ宿 5選｜最高峰神戸牛＆香住紅ズワイガニ：有馬・城崎で味わう兵</h2>
+              <h2 className="text-2xl md:text-3xl font-extrabold text-stone-900 mt-1">厳選おすすめ宿 5選</h2>
             </div>
-            <p className="text-xs md:text-sm text-stone-500">【最高峰神戸牛＆香住紅ズワイガニ：有馬・城崎で味わう兵】 ※宿泊料金・空室情報は季節により変動します</p>
+            <p className="text-xs md:text-sm text-stone-500">※宿泊料金・空室情報は季節により変動します</p>
           </div>
 
           <div className="grid grid-cols-1 gap-8">
@@ -301,8 +301,8 @@ export default function FeaturePage() {
 
         {/* Related Callout */}
         <section className="text-center py-8 border-t border-stone-200">
-          <h3 className="text-lg font-bold text-stone-800 mb-3">他の特集記事もチェック（最高峰神戸牛＆香住紅ズワイガニ：有馬・城崎で味わう兵）</h3>
-          <p className="text-sm text-stone-500 mb-6">【最高峰神戸牛＆香住紅ズワイガニ：有馬・城崎で味わう兵】 全国各地の魅力あふれるテーマ別おすすめ宿泊施設をご紹介しています</p>
+          <h3 className="text-lg font-bold text-stone-800 mb-3">他の特集記事もチェック</h3>
+          <p className="text-sm text-stone-500 mb-6">全国各地の魅力あふれるテーマ別おすすめ宿泊施設をご紹介しています</p>
           <Link
             href="/features/"
             className="inline-flex items-center gap-2 px-8 py-3.5 rounded-xl bg-stone-800 hover:bg-stone-900 text-white font-bold text-sm shadow-sm transition-colors"
@@ -322,7 +322,7 @@ export default function FeaturePage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（最高峰神戸牛＆香住紅ズワイガニ：有馬・城崎で味わう兵）</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 有馬温泉駅よりアクセス。神戸電鉄線有馬温泉駅から徒歩２分、阪急バス有馬停より徒歩２分、阪神高速有馬口ＩＣより車３分、中国道西宮北ＩＣより車１０分。</li>
@@ -334,7 +334,7 @@ export default function FeaturePage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（最高峰神戸牛＆香住紅ズワイガニ：有馬・城崎で味わう兵）</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「神戸牛と有馬温泉 天然金泉・銀泉の宿 有馬御苑」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -388,7 +388,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜最高峰神戸牛＆香住紅ズワイガニ：有馬・城崎で味わう兵</h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <a href="/autumn-budget-aomori-hirosaki-castle-momiji-hotels-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
@@ -405,11 +405,11 @@ export default function FeaturePage() {
             </a>
             <a href="/winter-aomori-sukayu-hakkoda-yukimi-stay/" className="block p-4 rounded-xl bg-stone-50 hover:bg-amber-50 border border-stone-200 transition group">
               <span className="text-[10px] font-bold text-amber-700 block mb-1">関連特集ガイド</span>
-              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">豪雪の秘湯！八甲田酸ヶ湯温泉＆奥入瀬で過ごす冬の旅（12月）！千人風呂と幻想的な氷瀑・雪見露天宿5選</span>
+              <span className="text-xs font-bold text-stone-800 group-hover:text-amber-800 line-clamp-2 leading-relaxed">【12月豪雪の秘湯！八甲田酸ヶ湯温泉＆奥入瀬】千人風呂と幻想的な氷瀑・雪見露天宿5選</span>
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（最高峰神戸牛＆香住紅ズワイガニ：有馬・城崎で味わう兵）</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/aomori/"

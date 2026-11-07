@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '長崎で過ごす冬の旅（12・1月）！名物ちゃんぽんと長崎和牛を味わう！名宿5選',
+  title: '【12・1月長崎】長崎市＆稲佐山・南山手！1万5千個の長崎ランタンフェスと稲佐山世界新三大夜景・名物ちゃんぽんと長崎和牛を味わう名宿5選',
   description: '冬の長崎は、1万5000個もの極彩色中国提灯が街路を埋め尽くす「長崎ランタンフェスティバル」や世界新三大夜景・稲佐山から見下ろす1000万ド。',
   keywords: '長崎 ホテル, 稲佐山 夜景 ホテル, 長崎ランタンフェスティバル, ガーデンテラス長崎, ルークプラザホテル, ホテルニュー長崎, グラバー園 イルミネーション, 長崎ちゃんぽん, 12月 1月 長崎 観光',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagasaki-city-lantern-festival-inasayama-nightview-champon-stay/"
   },
   openGraph: {
-    title: '長崎で過ごす冬の旅（12・1月）！名物ちゃんぽんと長崎和牛を味わう！名宿5選',
+    title: '【12・1月長崎】長崎市＆稲佐山・南山手！1万5千個の長崎ランタンフェスと稲佐山世界新三大夜景・名物ちゃんぽんと長崎和牛を味わう名宿5選',
     description: '冬の長崎は、1万5000個もの極彩色中国提灯が街路を埋め尽くす「長崎ランタンフェスティバル」や世界新三大夜景・稲佐山から見下ろす1000万ド。',
     url: 'https://croud-travel.pages.dev/winter-nagasaki-city-lantern-festival-inasayama-nightview-champon-stay/',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "長崎で過ごす冬の旅（12・1月）！長崎市＆稲佐山・南山手！1万5千個の長崎ランタンフェスと稲佐山世界新三大夜景・名物ちゃんぽんと長崎和牛を味わう名宿5選",
+    title: "長崎の冬旅・年末年始温泉ガイド！長崎市＆稲佐山・南山手！1万5千個の長崎ランタンフェスと稲佐山世界新三大夜景・名物ちゃんぽんと長崎和牛を味わう名宿5選",
     description: "冬の長崎は、1万5000個もの極彩色中国提灯が街路を埋め尽くす「長崎ランタンフェスティバル」や世界新三大夜景・稲佐山から見下ろす1000万ドルの冬夜景、南山手グラバー園のロマンチックなイルミネーションに包まれる特別な季節です。総鎮守・諏訪神社での厳かな初詣、白濁鶏白湯と海鮮の旨味が凝縮された熱々の本場長崎ちゃんぽん、出島伝来の伝統卓袱料理、そしてとろける長崎和牛。長崎港を見下ろす丘の上や異国情緒あふれる南山手の厳選名宿5選を徹底解説します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/74749/74749.jpg"]
   }
@@ -637,7 +637,7 @@ export default function NagasakiCityWinterPage() {
 
       {/* Footer Navigation */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 py-12 border-t border-slate-200 mt-16 text-center text-xs text-slate-500">
-        <p>【長崎で過ごす冬の旅（12・1月）】 © 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
+        <p>© 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
       </footer>
     
       <HubRelatedPosts currentSlug="winter-nagasaki-city-lantern-festival-inasayama-nightview-champon-stay" />

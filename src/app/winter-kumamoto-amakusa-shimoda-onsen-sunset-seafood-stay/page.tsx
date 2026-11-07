@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '天草・下田温泉で過ごす冬の旅（11・12月）！冬の伊勢海老！名宿5選',
+  title: '【11・12月天草・下田温泉の冬名湯と夕陽海鮮】東シナ海サンセット露天と白鷺古湯・冬の伊勢海老＆天然車海老会席の宿5選',
   description: '11月から12月にかけて東シナ海に沈む茜色の夕陽が最も美しく輝く熊本「天草」と開湯700年の名湯「下田温泉」。',
   keywords: '天草 下田温泉 宿泊, 下田温泉 11月 12月, 天草下田温泉 望洋閣, 天空の船, 五足のくつ, ホテル竜宮, アレグリアガーデンズ天草, 天草伊勢海老, 天草車海老, 東シナ海 夕陽 露天風呂, 﨑津集落 世界遺産',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay/",
   },
   openGraph: {
-    title: '天草・下田温泉で過ごす冬の旅（11・12月）！冬の伊勢海老！名宿5選',
+    title: '【11・12月天草・下田温泉の冬名湯と夕陽海鮮】東シナ海サンセット露天と白鷺古湯・冬の伊勢海老＆天然車海老会席の宿5選',
     description: '11月から12月にかけて東シナ海に沈む茜色の夕陽が最も美しく輝く熊本「天草」と開湯700年の名湯「下田温泉」。',
     url: 'https://croud-travel.pages.dev/winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "天草・下田温泉の冬名湯と夕陽海鮮で過ごす冬の旅（11・12月）！東シナ海サンセット露天と白鷺古湯・冬の伊勢海老＆天然車海老会席の宿5選",
+    title: "天草・下田温泉の冬名湯と夕陽海鮮の冬旅・名湯美食ガイド！東シナ海サンセット露天と白鷺古湯・冬の伊勢海老＆天然車海老会席の宿5選",
     description: "11月から12月にかけて東シナ海に沈む茜色の夕陽が最も美しく輝く熊本「天草」と開湯700年の名湯「下田温泉」。日本の夕陽百選に選ばれる海岸沿いの絶景露天風呂や100%源泉掛け流しの白鷺古湯、旬の極上「天草伊勢海老」「天然車海老」「天草とらふぐ」の豪快海鮮会席、世界遺産・﨑津集落の初冬風情を満喫する厳選名宿5選を徹底解説。",
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/13996/13996.jpg'],
   }
@@ -298,7 +298,10 @@ export default function AmakusaOnsenWinterPage() {
             <Sunset className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 東シナ海の初冬サンセットと天草伊勢海老・車海老海鮮旅</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">天草・下田温泉の冬名湯と夕陽海鮮で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 東シナ海サンセット露天と白鷺古湯・冬の伊勢海老＆天然車海老会席の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
+            【11・12月天草・下田温泉の冬名湯と夕陽海鮮】<br className="hidden sm:inline" />
+            東シナ海サンセット露天と白鷺古湯・冬の伊勢海老＆天然車海老会席の宿5選
+          </h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             初冬の澄んだ水平線に沈みゆく日本の夕陽百選の落日。開湯700年を誇る天草下田温泉の100%源泉掛け流し露天風呂に浸かり、冬に最も甘みと身の締まりを極める天草伊勢海老・活車海老・とらふぐを堪能する至福の島旅。
           </p>
@@ -738,7 +741,7 @@ export default function AmakusaOnsenWinterPage() {
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-amber-200 transition">全国の厳選温泉・宿特集まとめを見る（天草・下田温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-amber-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-kumamoto-amakusa-shimoda-onsen-sunset-seafood-stay" />

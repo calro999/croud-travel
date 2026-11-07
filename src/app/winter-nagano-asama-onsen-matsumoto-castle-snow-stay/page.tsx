@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '信州松本浅間温泉で過ごす冬の旅（11・12月）！開湯1300年アルカリ単純泉！名宿5選',
+  title: '【11・12月信州松本浅間温泉の国宝松本城初雪と城下町名湯】開湯1300年アルカリ単純泉・挽きたて信州新そば＆信州プレミアム牛すき焼きの宿5選',
   description: '11月から12月にかけて長野県・松本平は、雪化粧した北アルプスの山並みが澄み渡る初冬の青空にそびえ立ち。',
   keywords: '浅間温泉 宿泊, 松本 温泉 11月 12月, 国宝松本城 雪景色, 菊之湯 浅間温泉, ホテル玉之湯, 別亭一花, 梅の湯, 帰郷亭ゆもとや, 信州新そば 宿, 信州プレミアム牛 すき焼き, 松本城 イルミネーション',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-asama-onsen-matsumoto-castle-snow-stay/"
   },
   openGraph: {
-    title: '信州松本浅間温泉で過ごす冬の旅（11・12月）！開湯1300年アルカリ単純泉！名宿5選',
+    title: '【11・12月信州松本浅間温泉の国宝松本城初雪と城下町名湯】開湯1300年アルカリ単純泉・挽きたて信州新そば＆信州プレミアム牛すき焼きの宿5選',
     description: '11月から12月にかけて長野県・松本平は、雪化粧した北アルプスの山並みが澄み渡る初冬の青空にそびえ立ち。',
     url: 'https://croud-travel.pages.dev/winter-nagano-asama-onsen-matsumoto-castle-snow-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -70,8 +70,8 @@ export default function AsamaOnsenWinterFeature() {
         "headline": "【11・12月信州松本浅間温泉の国宝松本城初雪と城下町名湯】開湯1300年アルカリ単純泉・挽きたて信州新そば＆信州プレミアム牛すき焼きの宿5選",
         "description": "11月から12月にかけて長野県・松本平は、雪化粧した北アルプスの山並みが澄み渡る初冬の青空にそびえ立ち、黒漆と白漆喰の国宝松本城が幻想的な冬景色を見せます。飛鳥時代（天武天皇の時代）開湯と伝わり、江戸時代には松本藩主の御殿湯として愛された浅間温泉は、湯量豊富な無色透明の弱アルカリ性単純温泉。11月に旬を迎える香り高い「信州新そば」、長野県が誇る最高峰ブランド「信州プレミアム牛肉」のとろけるすき焼きや陶板焼き、信州サーモン、安曇野わさび、城下町の地酒を堪能する大人の湯宿5選を徹底解説。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/50116/50116.jpg",
-        "datePublished": "T04:00:00+09:00",
-        "dateModified": "T04:00:00+09:00",
+        "datePublished": "2026-10-25T04:00:00+09:00",
+        "dateModified": "2026-10-25T04:00:00+09:00",
         "publisher": {
           "@type": "Organization",
           "name": "Croud Travel",
@@ -280,7 +280,10 @@ export default function AsamaOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上温泉特集｜長野・信州松本
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">信州松本浅間温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 国宝松本城の初雪と開湯1300年名湯・新そば＆信州牛すき焼きの宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
+            【11・12月信州松本浅間温泉】<br className="hidden sm:inline" />
+            国宝松本城の初雪と開湯1300年名湯・新そば＆信州牛すき焼きの宿5選
+          </h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             雪冠の北アルプスを仰ぐ城下町の奥座敷。松本藩主が愛した弱アルカリ性単純温泉に浸かり、11月解禁の香り高い信州新そばと最高峰ブランド信州プレミアム牛を堪能する大人の贅沢旅。
           </p>
@@ -637,7 +640,7 @@ export default function AsamaOnsenWinterFeature() {
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・旬旅特集まとめを見る（信州松本浅間温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・旬旅特集まとめを見る（信州松本浅間温泉の冬旅・名湯美食ガイド！）</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-nagano-asama-onsen-matsumoto-castle-snow-stay" />

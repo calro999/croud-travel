@@ -43,8 +43,8 @@ export default function WakayamaKushimotoWinterPage() {
     "headline": "【11・12・1月和歌山】本州最南端「潮岬」冬の太平洋初日の出と朝焼け「橋杭岩」絶景！発祥の地「近大マグロ」会席＆串本温泉リゾート名宿5選",
     "description": "黒潮が洗う本州最南端の温暖な楽園・和歌山県串本の11〜1月冬紀行。紺碧の太平洋が弧を描く「潮岬」から望む元旦初日の出、国の天然記念物「橋杭岩」が朝焼けの茜色に染まる荘厳な奇岩パノラマ。世界初の完全養殖を成し遂げた発祥の地で味わう極上「近大マグロ（クロマグロ）」のトロと赤身、冬の伊勢海老やケンケン鰹。太平洋を見下ろすインフィニティ露天風呂や本州最南端リゾートで冬の寒さを忘れる贅沢な厳選名宿5選と旅の極意を徹底紹介。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/1537/1537.jpg",
-    "datePublished": "T18:00:00+09:00",
-    "dateModified": "T18:00:00+09:00",
+    "datePublished": "2026-10-25T18:00:00+09:00",
+    "dateModified": "2026-10-25T18:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
@@ -657,7 +657,7 @@ export default function WakayamaKushimotoWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>【11・12・1月和歌山：本州最南端「潮岬」冬の太平洋】 © 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-2 text-slate-500">【11・12・1月和歌山：本州最南端「潮岬」冬の太平洋】 掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>

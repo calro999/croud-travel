@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '皆生温泉で過ごす冬の旅（11・12月）！11月解禁境港活松葉ガニ！名宿5選',
+  title: '【11・12月皆生温泉の大山雪景色とカニ漁解禁】日本海の美肌塩湯・11月解禁境港活松葉ガニ＆鳥取和牛の宿5選',
   description: '日本海美保湾と秀峰・大山の白銀雪景色を望む「海の温泉」鳥取県・皆生温泉。11月6日のズワイガニ漁解禁とともに、隣接する境港から直送される一級品のタグ付き活松葉ガニ会席が開幕。ミネラル豊富な塩化物泉の美肌湯と、鳥取和牛オレイン55を堪能する冬の山陰美食宿ガイド。',
   keywords: '皆生温泉 宿泊 11月 12月, 皆生温泉 カニ 解禁, 境港 松葉ガニ 旅館 皆生, 皆生游月, 華水亭 皆生温泉, 大山 雪景色 皆生温泉, 鳥取和牛 オレイン55, 海の温泉 塩化物泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tottori-kaike-onsen-matsuba-crab-stay/",
   },
   openGraph: {
-    title: '皆生温泉で過ごす冬の旅（11・12月）！11月解禁境港活松葉ガニ！名宿5選',
+    title: '【11・12月皆生温泉の大山雪景色とカニ漁解禁】日本海の美肌塩湯・11月解禁境港活松葉ガニ＆鳥取和牛の宿5選',
     description: '日本海美保湾と秀峰・大山の白銀雪景色を望む「海の温泉」鳥取県・皆生温泉。11月6日のズワイガニ漁解禁とともに、隣接する境港から直送される一級品のタグ付き活松葉ガニ会席が開幕。ミネラル豊富な塩化物泉の美肌湯と、鳥取和牛オレイン55を堪能する冬の山陰美食宿ガイド。',
     url: 'https://croud-travel.pages.dev/winter-tottori-kaike-onsen-matsuba-crab-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "皆生温泉の大山雪景色とカニ漁解禁で過ごす冬の旅（11・12月）！日本海の美肌塩湯・11月解禁境港活松葉ガニ＆鳥取和牛の宿5選",
+    title: "皆生温泉の大山雪景色とカニ漁解禁の冬旅・名湯美食ガイド！日本海の美肌塩湯・11月解禁境港活松葉ガニ＆鳥取和牛の宿5選",
     description: "日本海美保湾と秀峰・大山の白銀雪景色を望む「海の温泉」鳥取県・皆生温泉。11月6日のズワイガニ漁解禁とともに、隣接する境港から直送される一級品のタグ付き活松葉ガニ会席が開幕。ミネラル豊富な塩化物泉の美肌湯と、鳥取和牛オレイン55を堪能する冬の山陰美食宿ガイド。",
   }
 };
@@ -259,7 +259,10 @@ export default function KaikeWinterPage() {
             <Eye className="w-4 h-4 text-blue-300" />
             <span>11月・12月限定 山陰松葉ガニ解禁＆大山雪景色・美肌塩湯特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">皆生温泉の大山雪景色とカニ漁解禁で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 日本海の美肌塩湯・11月解禁境港活松葉ガニ＆鳥取和牛の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
+            【11・12月皆生温泉の大山雪景色とカニ漁解禁】<br className="hidden sm:inline" />
+            日本海の美肌塩湯・11月解禁境港活松葉ガニ＆鳥取和牛の宿5選
+          </h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             11月6日、日本海屈指のカニ水揚げを誇る境港で冬の松葉ガニ漁が一斉解禁。弓ヶ浜の波打ち際から湧く美肌の塩化物泉。白銀に輝く秀峰・大山の冠雪パノラマを望み、青タグ付き極上活松葉ガニと鳥取和牛オレイン55に酔いしれる冬の山陰旅。
           </p>
@@ -322,7 +325,7 @@ export default function KaikeWinterPage() {
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-blue-700" />
-            目次・インデックス｜皆生温泉で過ごす冬の旅（11・12月）</h2>
+            目次・インデックス｜皆生温泉の冬旅・名湯美食ガイド！</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#crab-feast" className="hover:text-blue-700 hover:underline flex items-center gap-1.5">
               <span>1. 11月6日境港松葉ガニ漁解禁：青タグ活ガニの極上フルコース</span>
@@ -632,7 +635,7 @@ export default function KaikeWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜皆生温泉で過ごす冬の旅（11・12月）</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜皆生温泉の冬旅・名湯美食ガイド！</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -704,7 +707,7 @@ export default function KaikeWinterPage() {
               className="bg-blue-900/80 hover:bg-blue-900 p-4 rounded-2xl transition border border-blue-800/50 block group"
             >
               <span className="text-xs text-blue-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-blue-200 transition">全国の厳選温泉・宿特集まとめを見る（皆生温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-blue-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-tottori-kaike-onsen-matsuba-crab-stay" />

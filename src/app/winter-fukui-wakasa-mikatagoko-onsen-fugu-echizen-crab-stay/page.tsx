@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '福井・若狭三方五湖で過ごす冬の旅（11・12月）！越前蟹！名宿5選',
+  title: '【11・12月福井・若狭三方五湖＆敦賀温泉郷の初冬レイクビューと若狭ふぐ】越前蟹・名物焼き鯖＆敦賀港冬海鮮会席を愉しむ湖畔・海辺名宿5選',
   description: '11月から12月にかけて、国の名勝・三方五湖（みかたごこ）と敦賀湾を擁する福井県若狭エリアの魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '三方五湖 宿泊, 水月花, 虹岳島荘, 波華楼, ホテル湾彩, 敦賀マンテンホテル駅前, 若狭ふぐ 11月 12月, 越前蟹, 焼き鯖, 北陸新幹線敦賀',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay/"
   },
   openGraph: {
-    title: '福井・若狭三方五湖で過ごす冬の旅（11・12月）！越前蟹！名宿5選',
+    title: '【11・12月福井・若狭三方五湖＆敦賀温泉郷の初冬レイクビューと若狭ふぐ】越前蟹・名物焼き鯖＆敦賀港冬海鮮会席を愉しむ湖畔・海辺名宿5選',
     description: '11月から12月にかけて、国の名勝・三方五湖（みかたごこ）と敦賀湾を擁する福井県若狭エリアの魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -171,8 +171,8 @@ export default function WinterFukuiWakasaPage() {
         'description': "11月から12月にかけて、国の名勝・三方五湖（みかたごこ）と敦賀湾を擁する福井県若狭エリアは、日本最北限の冷たい荒波で鍛え抜かれた冬の美食の最高峰「若狭ふぐ」が本格解禁を迎え、11月6日の越前蟹解禁とともに美食家を唸らせる黄金の季節に突入します。水質や水深が異なる五つの湖が初冬の澄んだ光に染まる神秘的な湖畔風景、レインボーライン山頂公園からの360度パノラマ絶景、そして北陸新幹線敦賀開業でぐっと身近になった名湯露天風呂。本場の若狭ふぐフルコース（てっさ・てっちり・唐揚げ・ひれ酒）や敦賀港直送の越前蟹、若狭名物の焼き鯖を堪能する厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
         'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-fukui-wakasa-mikatagoko-onsen-fugu-echizen-crab-stay/',
-        'datePublished': 'T00:00:00+09:00',
-        'dateModified': 'T00:00:00+09:00',
+        'datePublished': '2026-10-25T00:00:00+09:00',
+        'dateModified': '2026-10-25T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
@@ -220,7 +220,12 @@ export default function WinterFukuiWakasaPage() {
             11月・12月 冬の味覚解禁特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">福井・若狭三方五湖で過ごす冬の旅（11・12月）！初冬レイクビューと若狭ふぐ <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal"> 越前蟹・名物焼き鯖＆敦賀港冬海鮮会席を愉しむ湖畔・海辺名宿5選 </span></h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
+            【11・12月福井・若狭三方五湖】初冬レイクビューと若狭ふぐ
+            <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal">
+              越前蟹・名物焼き鯖＆敦賀港冬海鮮会席を愉しむ湖畔・海辺名宿5選
+            </span>
+          </h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、五色の湖・三方五湖と敦賀湾が広がる福井県若狭地方は、日本海の冷水で引き締まった最高峰の「若狭ふぐ」が本格シーズンを迎え、11月6日の「越前蟹」解禁とともに美食の黄金期を迎えます。朝霧に包まれる神秘的な水月湖や波静かな若狭湾の絶景、北陸新幹線敦賀開業でぐっと快適になったアクセス。本場の若狭ふぐフルコース（てっさ・てっちり・唐揚げ・ひれ酒）や焼き鯖、名湯温泉を心ゆくまで堪能する厳選名宿5選を徹底解説します。

@@ -172,8 +172,8 @@ export default function KagoshimaIzumiAkunePage() {
         "headline": "【11・12・1月鹿児島】出水＆阿久根・さつま！世界屈指のツル渡来地「一万羽のツル」と出水麓武家屋敷初詣・阿久根の華アジ＆さつま黒豚名宿5選",
         "description": "シベリアから1万羽を超えるツルが越冬飛来する世界屈指の冬の奇跡「出水のツル渡来地」。薩摩武士の気風を今に伝える重要伝統的建造物群「出水麓武家屋敷群」での雪の初詣。東シナ海・阿久根港が誇る冬のブランド魚「華アジ」や天然ウニ、かごしま黒豚と出水赤鶏。紫尾神社の拝殿下から湧く名湯「神の湯」や宮之城温泉の極上美肌露天に癒やされる厳選宿5選を徹底特集します。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/196041/196041.jpg",
-        "datePublished": "T21:00:00+09:00",
-        "dateModified": "T21:00:00+09:00",
+        "datePublished": "2026-10-25T21:00:00+09:00",
+        "dateModified": "2026-10-25T21:00:00+09:00",
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",

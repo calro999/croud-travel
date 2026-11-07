@@ -43,8 +43,8 @@ export default function HokkaidoKushiroWinterPage() {
     "headline": "【11・12・1月北海道】雪原に舞う特別天然記念物「丹頂鶴」と世界三大夕日「幣舞橋」！炭火炉端焼き・冬の真だち＆釧路天然温泉名宿5選",
     "description": "道東の冬が織りなす白銀の詩情・釧路の11〜1月冬紀行。純白の雪原に優美な翼を広げる特別天然記念物「タンチョウ（丹頂鶴）」の求愛ダンス、世界三大夕日と称賛される幣舞橋のドラマチックな真紅の黄昏。氷点下の静寂に包まれる釧路湿原の霧氷パノラマ。北の海が育む冬の至宝「真だち（タラの白子）」や脂ののったメンメ（キンキ）、炭火の煙が立ち上る元祖「釧路炉端焼き」、和商市場の名物勝手丼。冷えた身体を包み込む展望天然温泉と極上名宿5選を徹底紹介。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/56846/56846.jpg",
-    "datePublished": "T18:00:00+09:00",
-    "dateModified": "T18:00:00+09:00",
+    "datePublished": "2026-10-25T18:00:00+09:00",
+    "dateModified": "2026-10-25T18:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
@@ -657,7 +657,7 @@ export default function HokkaidoKushiroWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>【11・12・1月北海道：雪原に舞う特別天然記念物「丹】 © 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-2 text-slate-500">【11・12・1月北海道：雪原に舞う特別天然記念物「丹】 掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>

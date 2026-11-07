@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '石川・加賀片山津温泉で過ごす冬の旅（11・12月）！11月解禁加能ガニ！名宿5選',
+  title: '【11・12月石川・加賀片山津温泉の柴山潟と霊峰白山初冠雪】11月解禁加能ガニ・香箱ガニ＆塩化物強塩泉ポカポカ温まりの宿5選',
   description: '11月から12月にかけて石川県加賀市の片山津温泉は、柴山潟の穏やかな水面に初冠雪で純白に輝く霊峰白山連峰が鏡のように映り込む。',
   keywords: '片山津温泉 宿泊, 柴山潟 白山 絶景 11月 12月, 佳水郷, 季がさね, かのや光楽苑, 矢田屋松濤園, 湖畔の宿森本, 加能ガニ 石川, 香箱ガニ 宿, 片山津温泉 塩化物泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay/"
   },
   openGraph: {
-    title: '石川・加賀片山津温泉で過ごす冬の旅（11・12月）！11月解禁加能ガニ！名宿5選',
+    title: '【11・12月石川・加賀片山津温泉の柴山潟と霊峰白山初冠雪】11月解禁加能ガニ・香箱ガニ＆塩化物強塩泉ポカポカ温まりの宿5選',
     description: '11月から12月にかけて石川県加賀市の片山津温泉は、柴山潟の穏やかな水面に初冠雪で純白に輝く霊峰白山連峰が鏡のように映り込む。',
     url: 'https://croud-travel.pages.dev/winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -70,8 +70,8 @@ export default function KatayamazuOnsenWinterFeature() {
         "headline": "【11・12月石川・加賀片山津温泉の柴山潟と霊峰白山初冠雪】11月解禁加能ガニ・香箱ガニ＆塩化物強塩泉ポカポカ温まりの宿5選",
         "description": "11月から12月にかけて石川県加賀市の片山津温泉は、柴山潟の穏やかな水面に初冠雪で純白に輝く霊峰白山連峰が鏡のように映り込む、北陸屈指の絶景パノラマが広がります。承応2年（1653年）発見、湖底から湧き出る塩化物強塩泉は「熱の湯」とも呼ばれ、湯冷めしにくく冬の身体を芯まで温める名湯。11月上旬に解禁される石川県の誇る青タグ付きブランドズワイガニ「加能ガニ」、内子と外子がぎっしり詰まった冬の至宝「香箱ガニ（こうばこがに）」、脂の乗った寒ブリや能登牛を堪能する湖畔の厳選宿5選を徹底解説。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/28355/28355.jpg",
-        "datePublished": "T05:00:00+09:00",
-        "dateModified": "T05:00:00+09:00",
+        "datePublished": "2026-10-25T05:00:00+09:00",
+        "dateModified": "2026-10-25T05:00:00+09:00",
         "publisher": {
           "@type": "Organization",
           "name": "Croud Travel",
@@ -280,7 +280,10 @@ export default function KatayamazuOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上絶景特集｜石川・加賀片山津
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">石川・加賀片山津温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 柴山潟と白山初冠雪パノラマ・11月解禁加能ガニ＆香箱ガニの宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
+            【11・12月石川・加賀片山津温泉】<br className="hidden sm:inline" />
+            柴山潟と白山初冠雪パノラマ・11月解禁加能ガニ＆香箱ガニの宿5選
+          </h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             日に七度色を変える柴山潟の水鏡に映る霊峰白山の初雪。湖底から自噴する高濃度塩化物泉のポカポカ温まり湯に浸かり、青タグ加能ガニと冬限定香箱ガニを堪能する北陸の贅沢旅。
           </p>
@@ -619,7 +622,7 @@ export default function KatayamazuOnsenWinterFeature() {
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">全国の厳選温泉・旬旅特集まとめを見る（石川・加賀片山津温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">全国の厳選温泉・旬旅特集まとめを見る（石川・加賀片山津温泉の冬旅・名湯美食ガイド！）</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-ishikawa-katayamazu-onsen-hakusan-kano-crab-stay" />

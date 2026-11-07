@@ -43,8 +43,8 @@ export default function KagawaTakamatsuWinterPage() {
     "headline": "【11・12・1月香川】讃岐一ノ宮「田村神社」新春初詣と栗林公園の冬雪吊り！奥座敷「塩江温泉郷」＆熱々しっぽくうどん・オリーブ牛名宿5選",
     "description": "龍神信仰息づく讃岐国一ノ宮「田村神社（たむらじんじゃ）」が約20万人の新春参拝客を迎える11〜1月の冬旅特集。国の特別名勝「栗林公園」で見事な枝ぶりを誇る冬の雪吊りと名松美、屋島から見晴らす冬の瀬戸内海の夕景、行基開湯・奈良時代から続く高松の奥座敷「塩江温泉郷」の湯浴み、冬野菜をたっぷり煮込んだ讃岐の冬名物「しっぽくうどん」と極上の「讃岐オリーブ牛」。高松市街＆塩江温泉の滞在拠点に最適な厳選ホテル・名宿5選を徹底解説します。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/14862/14862.jpg",
-    "datePublished": "T12:00:00+09:00",
-    "dateModified": "T12:00:00+09:00",
+    "datePublished": "2026-10-25T12:00:00+09:00",
+    "dateModified": "2026-10-25T12:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
@@ -686,7 +686,7 @@ export default function KagawaTakamatsuWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>【11・12・1月香川：讃岐一ノ宮「田村神社」新春初】 © 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-2 text-slate-500">【11・12・1月香川：讃岐一ノ宮「田村神社」新春初】 掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>

@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '京都丹後・夕日ヶ浦温泉で過ごす冬の旅（11・12月）！本場間人ガニ！名宿5選',
+  title: '【11・12月京都丹後・夕日ヶ浦温泉の日本海夕景と11月解禁松葉ガニ】本場間人ガニ・美人の湯＆海辺展望露天の宿5選',
   description: '11月6日のカニ漁解禁を迎えると、京都府北部・丹後半島の西端に位置する夕日ヶ浦温泉（浜詰温泉）の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '夕日ヶ浦温泉 宿泊, 夕日ヶ浦温泉 カニ 11月 12月, 佳松苑 夕日ヶ浦, 海花亭 花御前, 旅亭 櫂, 静花扇, 海舟 夕日ヶ浦, 松葉ガニ 間人ガニ 宿, 丹後 温泉 露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-tango-yuhigaura-matsuba-crab-stay/"
   },
   openGraph: {
-    title: '京都丹後・夕日ヶ浦温泉で過ごす冬の旅（11・12月）！本場間人ガニ！名宿5選',
+    title: '【11・12月京都丹後・夕日ヶ浦温泉の日本海夕景と11月解禁松葉ガニ】本場間人ガニ・美人の湯＆海辺展望露天の宿5選',
     description: '11月6日のカニ漁解禁を迎えると、京都府北部・丹後半島の西端に位置する夕日ヶ浦温泉（浜詰温泉）の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-kyoto-tango-yuhigaura-matsuba-crab-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -70,8 +70,8 @@ export default function YuhigauraOnsenWinterFeature() {
         "headline": "【11・12月京都丹後・夕日ヶ浦温泉の日本海夕景と11月解禁松葉ガニ】本場間人ガニ・美人の湯＆海辺展望露天の宿5選",
         "description": "11月6日のカニ漁解禁を迎えると、京都府北部・丹後半島の西端に位置する夕日ヶ浦温泉（浜詰温泉）は、一年で最も活気と美食の熱気に包まれる松葉ガニの最盛期を迎えます。「日本の夕陽百選」に選定された白砂青松の浜詰海岸に沈む黄金の夕日と荒波打ち寄せる日本海の絶景を眺めながら、緑のタグで知られる幻の最高峰「間人ガニ（たいざがに）」や本場丹後松葉ガニの刺し・焼き・茹で・鍋のフルコースを堪能。「美人の湯」と称されるトロリとした弱アルカリ性単純温泉で冷えた身体を芯から温める、初冬の厳選海辺旅館5選を徹底解説。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/29771/29771.jpg",
-        "datePublished": "T06:00:00+09:00",
-        "dateModified": "T06:00:00+09:00",
+        "datePublished": "2026-10-25T06:00:00+09:00",
+        "dateModified": "2026-10-25T06:00:00+09:00",
         "publisher": {
           "@type": "Organization",
           "name": "Croud Travel",
@@ -280,7 +280,10 @@ export default function YuhigauraOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上名湯特集｜京都・丹後夕日ヶ浦温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">京都丹後・夕日ヶ浦温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 日本海夕景と11月解禁松葉ガニ・幻の間人ガニ＆美人の湯の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
+            【11・12月京都丹後・夕日ヶ浦温泉】<br className="hidden sm:inline" />
+            日本海夕景と11月解禁松葉ガニ・幻の間人ガニ＆美人の湯の宿5選
+          </h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             11月6日のカニ漁解禁で活気づく冬の丹後海岸。日本の夕陽百選に輝く雄大な水平線を望み、極上タグ付き松葉ガニととろり肌を潤す美肌湯に酔いしれる至高の冬旅。
           </p>
@@ -634,7 +637,7 @@ export default function YuhigauraOnsenWinterFeature() {
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-orange-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-orange-200 transition">全国の厳選温泉・旬旅特集まとめを見る（京都丹後・夕日ヶ浦温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-orange-200 transition">全国の厳選温泉・旬旅特集まとめを見る（京都丹後・夕日ヶ浦温泉の冬旅・名湯美食ガイド！）</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-kyoto-tango-yuhigaura-matsuba-crab-stay" />

@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '埼玉で過ごす冬の旅（12・1月）！武州和牛」！名宿5選',
+  title: '【12・1月埼玉】長瀞＆秩父・宝登山！冬の風物詩「長瀞こたつ舟下り」と早咲き満開「宝登山ロウバイ園」・宝登山神社初詣＆名物「秩父豚みそ丼・武州和牛」名宿5選',
   description: '冬の凛とした空気の中に甘い香りを放つ関東屈指の早咲き美「宝登山ロウバイ園」と。',
   keywords: '宝登山ロウバイ園, 長瀞 こたつ舟, 宝登山神社 初詣, 長瀞 温泉 宿, 秩父 温泉 旅館, 武州和牛 宿, 秩父豚みそ丼, 12月 1月 埼玉 旅行, 花湯別邸 長瀞',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay/"
   },
   openGraph: {
-    title: '埼玉で過ごす冬の旅（12・1月）！武州和牛」！名宿5選',
+    title: '【12・1月埼玉】長瀞＆秩父・宝登山！冬の風物詩「長瀞こたつ舟下り」と早咲き満開「宝登山ロウバイ園」・宝登山神社初詣＆名物「秩父豚みそ丼・武州和牛」名宿5選',
     description: '冬の凛とした空気の中に甘い香りを放つ関東屈指の早咲き美「宝登山ロウバイ園」と。',
     url: 'https://croud-travel.pages.dev/winter-saitama-nagatoro-hodosan-roubai-kotatsubune-stay/',
     type: 'article',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "埼玉で過ごす冬の旅（12・1月）！長瀞＆秩父・宝登山！冬の風物詩「長瀞こたつ舟下り」と早咲き満開「宝登山ロウバイ園」・宝登山神社初詣＆名物「秩父豚みそ丼・武州和牛」名宿5選",
+    title: "埼玉の冬旅・年末年始温泉ガイド！長瀞＆秩父・宝登山！冬の風物詩「長瀞こたつ舟下り」と早咲き満開「宝登山ロウバイ園」・宝登山神社初詣＆名物「秩父豚みそ丼・武州和牛」名宿5選",
     description: "冬の凛とした空気の中に甘い香りを放つ関東屈指の早咲き美「宝登山ロウバイ園」と、秩父三社の一角「宝登山神社」での新春初詣を巡る12〜1月の埼玉・長瀞＆秩父特集。荒川の特別天然記念物・岩畳を巡る熱々ぽかぽかの「長瀞こたつ舟下り」や、名物「秩父豚みそ漬け丼」「武州和牛」「天然氷かき氷」。そして長瀞温泉・秩父七湯の良質な天然温泉と心温まるおもてなしに癒やされる厳選名宿5選を徹底特集します。",
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/9485/9485.jpg']
   }

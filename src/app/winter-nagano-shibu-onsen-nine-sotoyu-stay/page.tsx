@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '渋温泉で過ごす冬の旅（11・12月）！木造建築が彩る冬のノスタルジー！名宿5選',
+  title: '【11・12月渋温泉の厄除巡浴九湯めぐりと石畳情緒】木造建築が彩る冬のノスタルジー・信州プレミアム牛と地酒の宿5選',
   description: '開湯1300年、下駄の音がカランコロンと響く長野県・信州渋温泉。11月の晩秋の冷気から12月の雪舞う石畳の温泉街へ。',
   keywords: '渋温泉 宿泊 11月 12月, 渋温泉 九湯めぐり, 歴史の宿 金具屋 予約, 渋温泉 外湯めぐり 鍵, 信州プレミアム牛 旅館, 地獄谷野猿公苑 スノーモンキー 渋温泉, 渋温泉 冬 雪景色',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-nagano-shibu-onsen-nine-sotoyu-stay/",
   },
   openGraph: {
-    title: '渋温泉で過ごす冬の旅（11・12月）！木造建築が彩る冬のノスタルジー！名宿5選',
+    title: '【11・12月渋温泉の厄除巡浴九湯めぐりと石畳情緒】木造建築が彩る冬のノスタルジー・信州プレミアム牛と地酒の宿5選',
     description: '開湯1300年、下駄の音がカランコロンと響く長野県・信州渋温泉。11月の晩秋の冷気から12月の雪舞う石畳の温泉街へ。',
     url: 'https://croud-travel.pages.dev/winter-nagano-shibu-onsen-nine-sotoyu-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "渋温泉の厄除巡浴九湯めぐりと石畳情緒で過ごす冬の旅（11・12月）！木造建築が彩る冬のノスタルジー・信州プレミアム牛と地酒の宿5選",
+    title: "渋温泉の厄除巡浴九湯めぐりと石畳情緒の冬旅・名湯美食ガイド！木造建築が彩る冬のノスタルジー・信州プレミアム牛と地酒の宿5選",
     description: "開湯1300年、下駄の音がカランコロンと響く長野県・信州渋温泉。11月の晩秋の冷気から12月の雪舞う石畳の温泉街へ。宿泊者限定のマスターキーで巡る名物「厄除巡浴九湯めぐり」、登録有形文化財の木造建築・歴史の宿金具屋を照らす灯り、そして極上の信州プレミアム牛肉と地酒を味わう冬の風情あふれる名宿ガイド。",
   }
 };
@@ -285,7 +285,10 @@ export default function ShibuWinterPage() {
             <Footprints className="w-4 h-4 text-red-300" />
             <span>11月・12月限定 開湯1300年の石畳と外湯巡り・信州牛会席特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">渋温泉の厄除巡浴九湯めぐりと石畳情緒で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 木造建築が彩る冬のノスタルジー・信州プレミアム牛と地酒の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
+            【11・12月渋温泉の厄除巡浴九湯めぐりと石畳情緒】<br className="hidden sm:inline" />
+            木造建築が彩る冬のノスタルジー・信州プレミアム牛と地酒の宿5選
+          </h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             下駄の音が心地よく響く石畳の小路。宿泊者だけに許された外湯の鍵を手に巡る「九湯めぐり」で厄を祓い、湯上がりに灯る金具屋の木造楼閣に見惚れる。極上信州牛と手打ち蕎麦、地酒に酔いしれる心温まる冬の温泉旅。
           </p>
@@ -348,7 +351,7 @@ export default function ShibuWinterPage() {
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-red-700" />
-            目次・インデックス｜渋温泉で過ごす冬の旅（11・12月）</h2>
+            目次・インデックス｜渋温泉の冬旅・名湯美食ガイド！</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#nine-baths" className="hover:text-red-700 hover:underline flex items-center gap-1.5">
               <span>1. 厄除巡浴九湯めぐりの全貌と正しい巡り方・作法</span>
@@ -672,7 +675,7 @@ export default function ShibuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜渋温泉で過ごす冬の旅（11・12月）</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜渋温泉の冬旅・名湯美食ガイド！</h2>
             </div>
           </div>
           <div className="space-y-4">

@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '長門湯本温泉で過ごす冬の旅（11・12月）！山口県産和牛！名宿5選',
+  title: '【11・12月長門湯本温泉の冬情緒と名湯】音信川の冬灯りと開湯600年美肌泉・本場下関直送本とらふぐ＆山口県産和牛の宿5選',
   description: '室町時代に住吉大明神の神託によって開かれた山口県最古の名湯「長門湯本温泉」。音信川のせせらぎと竹林の小径が冬の灯りに照らされる幻想的な温泉街。',
   keywords: '長門湯本温泉 宿泊 11月 12月, 長門湯本温泉 ふぐ 下関とらふぐ, 音信川 川床 冬灯り, 大谷山荘 長門湯本, 別邸 音信, 恩湯 美肌の湯, 山口 冬 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay/",
   },
   openGraph: {
-    title: '長門湯本温泉で過ごす冬の旅（11・12月）！山口県産和牛！名宿5選',
+    title: '【11・12月長門湯本温泉の冬情緒と名湯】音信川の冬灯りと開湯600年美肌泉・本場下関直送本とらふぐ＆山口県産和牛の宿5選',
     description: '室町時代に住吉大明神の神託によって開かれた山口県最古の名湯「長門湯本温泉」。音信川のせせらぎと竹林の小径が冬の灯りに照らされる幻想的な温泉街。',
     url: 'https://croud-travel.pages.dev/winter-yamaguchi-nagato-yumoto-onsen-fugu-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "長門湯本温泉の冬情緒と名湯で過ごす冬の旅（11・12月）！音信川の冬灯りと開湯600年美肌泉・本場下関直送本とらふぐ＆山口県産和牛の宿5選",
+    title: "長門湯本温泉の冬情緒と名湯の冬旅・名湯美食ガイド！音信川の冬灯りと開湯600年美肌泉・本場下関直送本とらふぐ＆山口県産和牛の宿5選",
     description: "室町時代に住吉大明神の神託によって開かれた山口県最古の名湯「長門湯本温泉」。音信川のせせらぎと竹林の小径が冬の灯りに照らされる幻想的な温泉街。pH9.6を誇る化粧水のような美肌泉と、11月〜12月に最盛期を迎える本場下関直送の「活本とらふぐ」フルコースを堪能する名宿ガイド。",
   }
 };
@@ -285,7 +285,10 @@ export default function NagatoWinterPage() {
             <Eye className="w-4 h-4 text-indigo-300" />
             <span>11月・12月限定 山口最古名湯の冬情緒＆下関直送本とらふぐ特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">長門湯本温泉の冬情緒と名湯で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 音信川の冬灯りと開湯600年美肌泉・本場下関直送本とらふぐ＆山口県産和牛の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
+            【11・12月長門湯本温泉の冬情緒と名湯】<br className="hidden sm:inline" />
+            音信川の冬灯りと開湯600年美肌泉・本場下関直送本とらふぐ＆山口県産和牛の宿5選
+          </h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             室町時代に応永の神託により拓かれた山口県最古の名湯「長門湯本温泉」。清流・音信川の川床と竹林が揺らめく灯りに包まれる初冬。pH9.6を誇る化粧水のような美肌泉と、11月〜12月に最盛期を迎える下関直送の極上「活本とらふぐ」フルコースに酔いしれる優雅な冬旅。
           </p>
@@ -348,7 +351,7 @@ export default function NagatoWinterPage() {
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-indigo-800" />
-            目次・インデックス｜長門湯本温泉で過ごす冬の旅（11・12月）</h2>
+            目次・インデックス｜長門湯本温泉の冬旅・名湯美食ガイド！</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#otozure-winter" className="hover:text-indigo-800 hover:underline flex items-center gap-1.5">
               <span>1. 音信川の冬情緒：川床テラス・飛び石と竹あかりライトアップ</span>
@@ -662,7 +665,7 @@ export default function NagatoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜長門湯本温泉で過ごす冬の旅（11・12月）</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜長門湯本温泉の冬旅・名湯美食ガイド！</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -734,7 +737,7 @@ export default function NagatoWinterPage() {
               className="bg-indigo-900/80 hover:bg-indigo-900 p-4 rounded-2xl transition border border-indigo-800/50 block group"
             >
               <span className="text-xs text-indigo-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">全国の厳選温泉・宿特集まとめを見る（長門湯本温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-indigo-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-yamaguchi-nagato-yumoto-onsen-fugu-stay" />

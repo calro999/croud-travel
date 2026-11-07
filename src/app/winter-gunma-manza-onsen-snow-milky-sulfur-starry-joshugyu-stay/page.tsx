@@ -7,14 +7,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '群馬で過ごす冬の旅（12・1月）！標高1800m極上白濁にごり！名宿5選',
+  title: '【12・1月群馬】万座温泉＆嬬恋！標高1800m極上白濁にごり湯雪見露天と満天の星空・上州牛すき焼きを堪能する名宿5選',
   description: '標高1,800mの上信越高原国立公園に位置する「星に一番近い温泉郷」万座温泉。日本一を誇る超高濃度硫黄泉の乳白色にごり湯の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '万座温泉 ホテル, 万座温泉 露天風呂, 万座プリンスホテル, 万座高原ホテル, 万座ホテルジュラク, 日進舘, 万座亭, 雪見温泉 にごり湯, 12月 1月 群馬 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gunma-manza-onsen-snow-milky-sulfur-starry-joshugyu-stay/"
   },
   openGraph: {
-    title: '群馬で過ごす冬の旅（12・1月）！標高1800m極上白濁にごり！名宿5選',
+    title: '【12・1月群馬】万座温泉＆嬬恋！標高1800m極上白濁にごり湯雪見露天と満天の星空・上州牛すき焼きを堪能する名宿5選',
     description: '標高1,800mの上信越高原国立公園に位置する「星に一番近い温泉郷」万座温泉。日本一を誇る超高濃度硫黄泉の乳白色にごり湯の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-gunma-manza-onsen-snow-milky-sulfur-starry-joshugyu-stay/',
     siteName: '地域の宿探訪',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "群馬で過ごす冬の旅（12・1月）！万座温泉＆嬬恋！標高1800m極上白濁にごり湯雪見露天と満天の星空・上州牛すき焼きを堪能する名宿5選",
+    title: "群馬の冬旅・年末年始温泉ガイド！万座温泉＆嬬恋！標高1800m極上白濁にごり湯雪見露天と満天の星空・上州牛すき焼きを堪能する名宿5選",
     description: "標高1,800mの上信越高原国立公園に位置する「星に一番近い温泉郷」万座温泉。日本一を誇る超高濃度硫黄泉の乳白色にごり湯は、氷点下10度を下回る厳冬の雪景色の中で体の芯から温まる至福の雪見露天風呂へと旅人を誘います。頭上には光害のない満天の冬の銀河、目の前には万座温泉スキー場の極上パウダースノー。冷えた体に染み渡る上州牛すき焼きや嬬恋名物料理。楽天APIから最新取得した万座温泉屈指の温泉名宿5選を徹底解説します。",
     images: ["https://img.travel.rakuten.co.jp/share/HOTEL/30739/30739.jpg"]
   }
@@ -640,7 +640,7 @@ export default function GunmaManzaWinterPage() {
 
       {/* Footer Navigation */}
       <footer className="max-w-5xl mx-auto px-4 sm:px-6 py-12 border-t border-slate-200 mt-16 text-center text-xs text-slate-500">
-        <p>【群馬で過ごす冬の旅（12・1月）】 © 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
+        <p>© 2026 地域の宿探訪 - 日本の四季と極上ホテル・旅館を巡る旅</p>
       </footer>
     
       <HubRelatedPosts currentSlug="winter-gunma-manza-onsen-snow-milky-sulfur-starry-joshugyu-stay" />

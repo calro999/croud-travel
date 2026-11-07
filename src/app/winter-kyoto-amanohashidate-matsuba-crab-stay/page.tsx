@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '天橋立で過ごす冬の旅（11・12月）！寒ブリしゃぶしゃぶ！名宿5選',
+  title: '【11・12月天橋立の白砂青松雪景色とカニ漁解禁】日本三景を望む冬の美肌湯・幻の間人ガニ＆寒ブリしゃぶしゃぶの宿5選',
   description: '日本三景の筆頭・京都府丹後天橋立。11月6日の冬のズワイガニ漁解禁とともに美食の最高峰シーズンが開幕に合わせて訪れたい周辺の厳選宿をまとめました。',
   keywords: '天橋立 宿泊 11月 12月, 天橋立 カニ 解禁, 間人ガニ 旅館 天橋立, 松葉ガニ カニ刺し 天橋立, 天橋立温泉 文珠荘 北野屋, 天橋立 冬 雪景色 飛龍観, 寒ブリしゃぶしゃぶ 丹後',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kyoto-amanohashidate-matsuba-crab-stay/",
   },
   openGraph: {
-    title: '天橋立で過ごす冬の旅（11・12月）！寒ブリしゃぶしゃぶ！名宿5選',
+    title: '【11・12月天橋立の白砂青松雪景色とカニ漁解禁】日本三景を望む冬の美肌湯・幻の間人ガニ＆寒ブリしゃぶしゃぶの宿5選',
     description: '日本三景の筆頭・京都府丹後天橋立。11月6日の冬のズワイガニ漁解禁とともに美食の最高峰シーズンが開幕に合わせて訪れたい周辺の厳選宿をまとめました。',
     url: 'https://croud-travel.pages.dev/winter-kyoto-amanohashidate-matsuba-crab-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "天橋立の白砂青松雪景色とカニ漁解禁で過ごす冬の旅（11・12月）！日本三景を望む冬の美肌湯・幻の間人ガニ＆寒ブリしゃぶしゃぶの宿5選",
+    title: "天橋立の白砂青松雪景色とカニ漁解禁の冬旅・名湯美食ガイド！日本三景を望む冬の美肌湯・幻の間人ガニ＆寒ブリしゃぶしゃぶの宿5選",
     description: "日本三景の筆頭・京都府丹後天橋立。11月6日の冬のズワイガニ漁解禁とともに美食の最高峰シーズンが開幕。松並木にうっすらと初雪が降り積もる「白砂青松の幻雪景」、地下1,500mから湧き出る茶褐色の美肌湯「天橋立温泉」、そして幻の極上「間人ガニ（たいざがに）」や丹後若狭湾の寒ブリしゃぶしゃぶを味わう至高の冬名宿ガイド。",
   }
 };
@@ -285,7 +285,10 @@ export default function AmanohashidateWinterPage() {
             <Eye className="w-4 h-4 text-teal-300" />
             <span>11月・12月限定 日本三景白砂青松と丹後松葉ガニ解禁・寒ブリ会席特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">天橋立の白砂青松雪景色とカニ漁解禁で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 日本三景を望む冬の美肌湯・幻の間人ガニ＆寒ブリしゃぶしゃぶの宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
+            【11・12月天橋立の白砂青松雪景色とカニ漁解禁】<br className="hidden sm:inline" />
+            日本三景を望む冬の美肌湯・幻の間人ガニ＆寒ブリしゃぶしゃぶの宿5選
+          </h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             11月6日、日本海のズワイガニ漁解禁で美食の最盛期を迎える「海の京都・丹後天橋立」。雪化粧した約5,000本の松並木が海を渡る奇跡の絶景。茶褐色のとろみある天橋立温泉に癒やされ、幻の間人ガニと極上寒ブリに酔いしれる冬の至高旅。
           </p>
@@ -348,7 +351,7 @@ export default function AmanohashidateWinterPage() {
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-teal-700" />
-            目次・インデックス｜天橋立で過ごす冬の旅（11・12月）</h2>
+            目次・インデックス｜天橋立の冬旅・名湯美食ガイド！</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#crab-season" className="hover:text-teal-700 hover:underline flex items-center gap-1.5">
               <span>1. 11月6日カニ解禁！幻の間人ガニと丹後松葉ガニの真髄</span>
@@ -650,7 +653,7 @@ export default function AmanohashidateWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜天橋立で過ごす冬の旅（11・12月）</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜天橋立の冬旅・名湯美食ガイド！</h2>
             </div>
           </div>
           <div className="space-y-4">

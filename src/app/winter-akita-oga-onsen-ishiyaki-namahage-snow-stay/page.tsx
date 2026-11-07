@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '男鹿温泉郷で過ごす冬の旅（11・12月）！日本海荒波雪見露天！名宿5選',
+  title: '【11・12月秋田・男鹿温泉郷の初冬名物ハタハタと豪快石焼き鍋】なまはげ伝承の里・日本海荒波雪見露天＆海水の温まり湯の宿5選',
   description: '11月から12月にかけて日本海に突き出た秋田県・男鹿半島は、初冬の雷鳴とともに大群で沿岸に押し寄せる秋田の県魚「ハタハタ（雷魚）」の漁獲シー。',
   keywords: '男鹿温泉 宿泊, 男鹿温泉郷 11月 12月, 別邸つばき 男鹿, 元湯雄山閣, セイコーグランドホテル 男鹿, 男鹿観光ホテル, 男鹿ホテル, ハタハタ 温泉 宿, 石焼き鍋 男鹿, なまはげ 宿泊',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay/"
   },
   openGraph: {
-    title: '男鹿温泉郷で過ごす冬の旅（11・12月）！日本海荒波雪見露天！名宿5選',
+    title: '【11・12月秋田・男鹿温泉郷の初冬名物ハタハタと豪快石焼き鍋】なまはげ伝承の里・日本海荒波雪見露天＆海水の温まり湯の宿5選',
     description: '11月から12月にかけて日本海に突き出た秋田県・男鹿半島は、初冬の雷鳴とともに大群で沿岸に押し寄せる秋田の県魚「ハタハタ（雷魚）」の漁獲シー。',
     url: 'https://croud-travel.pages.dev/winter-akita-oga-onsen-ishiyaki-namahage-snow-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -70,8 +70,8 @@ export default function OgaOnsenWinterFeature() {
         "headline": "【11・12月秋田・男鹿温泉郷の初冬名物ハタハタと豪快石焼き鍋】なまはげ伝承の里・日本海荒波雪見露天＆海水の温まり湯の宿5選",
         "description": "11月から12月にかけて日本海に突き出た秋田県・男鹿半島は、初冬の雷鳴とともに大群で沿岸に押し寄せる秋田の県魚「ハタハタ（雷魚）」の漁獲シーズンを迎え、半島全体が冬の到来の歓喜に包まれます。千度近くまで真っ赤に熱した地元の溶岩石（男鹿石）を木樽の出汁に一気に投入して瞬間沸騰させる男鹿の伝統漁師料理「名物・石焼き鍋」は、魚の旨味を閉じ込めた大迫力の郷土グルメ。さらに大晦日の伝統行事「なまはげ」の神秘的な文化に触れ、海水に近い高濃度の塩分を含み湯冷め知らずの「男鹿温泉（塩化物泉）」の雪見露天風呂に浸かる、初冬の男鹿半島厳選宿5選を徹底解説。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/20504/20504.jpg",
-        "datePublished": "T07:00:00+09:00",
-        "dateModified": "T07:00:00+09:00",
+        "datePublished": "2026-10-25T07:00:00+09:00",
+        "dateModified": "2026-10-25T07:00:00+09:00",
         "publisher": {
           "@type": "Organization",
           "name": "Croud Travel",
@@ -280,7 +280,10 @@ export default function OgaOnsenWinterFeature() {
             <Zap className="w-4 h-4" />
             11月・12月 冬の荒波海鮮＆伝統文化特集｜秋田・男鹿温泉郷
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">秋田・男鹿温泉郷で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 初冬名物ハタハタと豪快石焼き鍋・なまはげ伝承＆雪見露天の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
+            【11・12月秋田・男鹿温泉郷】<br className="hidden sm:inline" />
+            初冬名物ハタハタと豪快石焼き鍋・なまはげ伝承＆雪見露天の宿5選
+          </h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             初冬の雷鳴とともに押し寄せる秋田の県魚「ハタハタ」と、千度の溶岩石で瞬間沸騰させる豪快「石焼き鍋」。なまはげの魂が息づく半島で、海水の温まり湯と荒波雪見露天を満喫する男鹿旅。
           </p>

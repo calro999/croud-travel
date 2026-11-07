@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '天童温泉で過ごす冬の旅（11・12月）！A5山形牛すき焼き！名宿5選',
+  title: '【11・12月天童温泉の冬名湯と山形美食】将棋の里・雪見露天風呂と11月旬ラ・フランス＆A5山形牛すき焼きの宿5選',
   description: '将棋駒の生産量日本一を誇る山形の名湯「天童温泉」。11月から12月にかけて最盛期を迎える果物の女王「ラ・フランス」の芳醇な甘みと。',
   keywords: '天童温泉 宿泊, 天童温泉 11月 12月, ほほえみの宿 滝の湯, 天童荘, 天童ホテル, ラフランス 山形, 山形牛 すき焼き 天童, 将棋の里, 山寺 立石寺 雪景色',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay/",
   },
   openGraph: {
-    title: '天童温泉で過ごす冬の旅（11・12月）！A5山形牛すき焼き！名宿5選',
+    title: '【11・12月天童温泉の冬名湯と山形美食】将棋の里・雪見露天風呂と11月旬ラ・フランス＆A5山形牛すき焼きの宿5選',
     description: '将棋駒の生産量日本一を誇る山形の名湯「天童温泉」。11月から12月にかけて最盛期を迎える果物の女王「ラ・フランス」の芳醇な甘みと。',
     url: 'https://croud-travel.pages.dev/winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "天童温泉の冬名湯と山形美食で過ごす冬の旅（11・12月）！将棋の里・雪見露天風呂と11月旬ラ・フランス＆A5山形牛すき焼きの宿5選",
+    title: "天童温泉の冬名湯と山形美食の冬旅・名湯美食ガイド！将棋の里・雪見露天風呂と11月旬ラ・フランス＆A5山形牛すき焼きの宿5選",
     description: "将棋駒の生産量日本一を誇る山形の名湯「天童温泉」。11月から12月にかけて最盛期を迎える果物の女王「ラ・フランス」の芳醇な甘みと、極上の霜降りを誇るブランド黒毛和牛「山形牛」のすき焼き・ステーキ会席。初冬の奥羽山脈の雪見露天風呂、山寺（立石寺）の初冬散策を満喫する厳選名宿5選を徹底解説。",
     images: ['https://img.travel.rakuten.co.jp/share/HOTEL/53746/53746.jpg'],
   }
@@ -298,7 +298,10 @@ export default function TendoWinterPage() {
             <Award className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 将棋の里の初冬雪見名湯と果物の女王ラ・フランス＆山形牛会席</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">天童温泉の冬名湯と山形美食で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 将棋の里・雪見露天風呂と11月旬ラ・フランス＆A5山形牛すき焼きの宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
+            【11・12月天童温泉の冬名湯と山形美食】<br className="hidden sm:inline" />
+            将棋の里・雪見露天風呂と11月旬ラ・フランス＆A5山形牛すき焼きの宿5選
+          </h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             奥羽山脈の初冬の山並みを望む将棋駒のふるさと「天童温泉」。11月から12月に最も甘く芳醇に香り立つラ・フランスと、極上の霜降りを誇るA5山形牛すき焼きに舌鼓を打ち、柔らかな美肌露天風呂で温まる贅沢な休日。
           </p>
@@ -361,7 +364,7 @@ export default function TendoWinterPage() {
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-emerald-800" />
-            目次・インデックス｜天童温泉で過ごす冬の旅（11・12月）</h2>
+            目次・インデックス｜天童温泉の冬旅・名湯美食ガイド！</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#spring-feature" className="hover:text-emerald-800 hover:underline flex items-center gap-1.5">
               <span>1. 天童温泉の魅力：弱アルカリ性美肌湯と奥羽山脈の雪見露天</span>
@@ -638,7 +641,7 @@ export default function TendoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜天童温泉で過ごす冬の旅（11・12月）</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜天童温泉の冬旅・名湯美食ガイド！</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -710,7 +713,7 @@ export default function TendoWinterPage() {
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-emerald-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">全国の厳選温泉・宿特集まとめを見る（天童温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-emerald-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-yamagata-tendo-onsen-lafrance-yamagata-beef-stay" />

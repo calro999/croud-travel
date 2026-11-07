@@ -647,7 +647,7 @@ export default function MiyazakiHyugaWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-950 text-slate-400 py-8 px-4 text-center text-xs">
-        <p>【11・12・1月宮崎：冬旬「日向灘伊勢海老」】 © 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-1 text-slate-500">
           ※本記事に掲載している宿泊施設情報、価格、評価、イベント情報等は、楽天トラベルAPIおよび公式サイトの最新データに基づいています。冬期の初詣参拝時間や伊勢海老まつりの実施期間は変更となる場合がありますので、お出かけ前にご確認ください。
         </p>

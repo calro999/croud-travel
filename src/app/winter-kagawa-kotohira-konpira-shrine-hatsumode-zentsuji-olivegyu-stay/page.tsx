@@ -43,8 +43,8 @@ export default function KagawaKotohiraWinterPage() {
     "headline": "【11・12・1月香川】四国随一の初詣「金刀比羅宮」785段石段と弘法大師誕生の地「善通寺」新春祈願！讃岐オリーブ牛＆こんぴら温泉郷名宿5選",
     "description": "四国屈指のパワースポット「こんぴらさん」で迎える11〜1月の冬紀行。古くから「一生に一度はこんぴら参り」と親しまれる金刀比羅宮御本宮785段・奥社1368段の石段参拝と新春初詣、弘法大師空海御誕生の地・総本山善通寺の厳かな祈願。冬の讃岐平野に映える讃岐富士（飯野山）の絶景。冷えた身体を芯から解きほぐす「こんぴら温泉郷」の名湯露天風呂と、冬に脂の甘みが極まる讃岐オリーブ牛、本場の熱々讃岐うどん、骨付鳥を味わい尽くす厳選名宿5選を徹底解説。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/5901/5901.jpg",
-    "datePublished": "T18:00:00+09:00",
-    "dateModified": "T18:00:00+09:00",
+    "datePublished": "2026-10-25T18:00:00+09:00",
+    "dateModified": "2026-10-25T18:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
@@ -657,7 +657,7 @@ export default function KagawaKotohiraWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>【11・12・1月香川：四国随一の初詣「金刀比羅宮」】 © 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-2 text-slate-500">【11・12・1月香川：四国随一の初詣「金刀比羅宮」】 掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>

@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '徳島・祖谷温泉で過ごす冬の旅（11・12月）！特選阿波牛！名宿5選',
+  title: '【11・12月徳島・祖谷温泉の日本三大秘境初雪渓谷美と谷底露天風呂】特選阿波牛・名物祖谷そば＆ケーブルカーで行く秘湯の宿5選',
   description: '11月から12月にかけて四国の霊峰・剣山山系の深山幽谷に抱かれた「徳島・祖谷渓（いやけい）＆大歩危峡（おおぼけきょう）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '祖谷温泉 宿泊, 大歩危 温泉 11月 12月, ホテル祖谷温泉, 祖谷美人, 大歩危峡まんなか, ホテルかずら橋, ホテル秘境の湯, 祖谷そば, 阿波牛 すき焼き 宿, 日本三大秘境 露天風呂',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay/"
   },
   openGraph: {
-    title: '徳島・祖谷温泉で過ごす冬の旅（11・12月）！特選阿波牛！名宿5選',
+    title: '【11・12月徳島・祖谷温泉の日本三大秘境初雪渓谷美と谷底露天風呂】特選阿波牛・名物祖谷そば＆ケーブルカーで行く秘湯の宿5選',
     description: '11月から12月にかけて四国の霊峰・剣山山系の深山幽谷に抱かれた「徳島・祖谷渓（いやけい）＆大歩危峡（おおぼけきょう）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -70,8 +70,8 @@ export default function IyaOnsenWinterFeature() {
         "headline": "【11・12月徳島・祖谷温泉の日本三大秘境初雪渓谷美と谷底露天風呂】特選阿波牛・名物祖谷そば＆ケーブルカーで行く秘湯の宿5選",
         "description": "11月から12月にかけて四国の霊峰・剣山山系の深山幽谷に抱かれた「徳島・祖谷渓（いやけい）＆大歩危峡（おおぼけきょう）」は、日本三大秘境にふさわしい静寂と、初冠雪の白銀に化粧されたV字渓谷の圧倒的な自然美に包まれます。断崖絶壁から専用ケーブルカーで高低差170mの谷底へ下り、エメラルドグリーンの祖谷川の清流すれすれで浸かる自噴掛け流しの単純硫黄泉。スロープカーで登る天空露天風呂、とろける旨味の極上黒毛和牛「阿波牛」の陶板焼き、香り高い名物「祖谷そば」、囲炉裏の炭火で香ばしく焼き上げる郷土の伝統料理「でこまわし」を満喫する至高の秘湯宿5選を徹底解説。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/13663/13663.jpg",
-        "datePublished": "T06:00:00+09:00",
-        "dateModified": "T06:00:00+09:00",
+        "datePublished": "2026-10-25T06:00:00+09:00",
+        "dateModified": "2026-10-25T06:00:00+09:00",
         "publisher": {
           "@type": "Organization",
           "name": "Croud Travel",
@@ -280,7 +280,10 @@ export default function IyaOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上名湯特集｜徳島・祖谷温泉＆大歩危峡
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">徳島・祖谷温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 日本三大秘境初雪渓谷と谷底露天風呂・特選阿波牛＆名物祖谷そばの宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
+            【11・12月徳島・祖谷温泉】<br className="hidden sm:inline" />
+            日本三大秘境初雪渓谷と谷底露天風呂・特選阿波牛＆名物祖谷そばの宿5選
+          </h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             四国山岳の奥深き日本三大秘境。専用ケーブルカーで高低差170mの谷底へ降りる自噴ぬる湯露天に抱かれ、囲炉裏で香るでこまわしと特選阿波牛に酔いしれる幽玄の冬旅。
           </p>
@@ -634,7 +637,7 @@ export default function IyaOnsenWinterFeature() {
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-teal-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・旬旅特集まとめを見る（徳島・祖谷温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-teal-200 transition">全国の厳選温泉・旬旅特集まとめを見る（徳島・祖谷温泉の冬旅・名湯美食ガイド！）</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-tokushima-iya-valley-onsen-hikyo-awa-beef-stay" />

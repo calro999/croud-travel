@@ -172,8 +172,8 @@ export default function YamagataSakataTsuruokaPage() {
         "headline": "【11・12・1月山形】酒田＆鶴岡・羽黒山！出羽三山神社の雪の初詣と山居倉庫雪景色・冬の日本海名物「寒鱈どんがら汁」＆名湯5選",
         "description": "白銀の静寂に包まれる国宝羽黒山五重塔と出羽三山神社三神合祭殿での厳かな雪の初詣。酒田の象徴・山居倉庫の雪化粧ケヤキ並木や、荒海日本海が育む冬の至宝「寒鱈どんがら汁」の濃厚な旨味。ユネスコ食文化創造都市・鶴岡の伝統郷土料理と庄内牛、日本海を望む湯野浜温泉や名湯湯田川・温海温泉の雪見露天に癒やされる厳選宿5選を徹底特集します。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/56286/56286.jpg",
-        "datePublished": "T21:00:00+09:00",
-        "dateModified": "T21:00:00+09:00",
+        "datePublished": "2026-10-25T21:00:00+09:00",
+        "dateModified": "2026-10-25T21:00:00+09:00",
         "publisher": {
           "@type": "Organization",
           "name": "地域の宿探訪",

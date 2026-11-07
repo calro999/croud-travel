@@ -43,8 +43,8 @@ export default function TottoriSakyuWinterPage() {
     "headline": "【11・12・1月鳥取】白銀に染まる「鳥取砂丘」雪景色と因幡の白兎「白兎神社」新春縁結び初詣！冬旬「鳥取松葉がに」＆鳥取温泉名宿5選",
     "description": "山陰の冬が魅せる奇跡の絶景・鳥取砂丘と神話の里の11〜1月冬紀行。冬の寒波がもたらす白銀の雪砂丘と風が描く風紋のアート、日本最古のラブストーリー「因幡の白兎」伝説が息づく白兎神社で迎える新春縁結び初詣。11月解禁の冬の味覚の絶対王者「鳥取松葉がに」の茹で蟹・焼き蟹・蟹刺し、地元でしか出回らない幻の「モサエビ」、肉質日本一に輝いた「鳥取和牛」。県庁所在地に湧き出る全国屈指の天然名湯「鳥取温泉」と厳選名宿5選を徹底紹介。",
     "image": "https://img.travel.rakuten.co.jp/share/HOTEL/14072/14072.jpg",
-    "datePublished": "T18:00:00+09:00",
-    "dateModified": "T18:00:00+09:00",
+    "datePublished": "2026-10-25T18:00:00+09:00",
+    "dateModified": "2026-10-25T18:00:00+09:00",
     "author": {
       "@type": "Organization",
       "name": "旅宿クラウド 編集部",
@@ -657,7 +657,7 @@ export default function TottoriSakyuWinterPage() {
 
       {/* Footer */}
       <footer className="bg-slate-900 text-slate-400 py-10 px-4 text-center text-xs border-t border-slate-800 mt-16">
-        <p>【11・12・1月鳥取：白銀に染まる「鳥取砂丘」雪景】 © 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
+        <p>© 2026 旅宿クラウド (croud-travel.pages.dev). All rights reserved.</p>
         <p className="mt-2 text-slate-500">【11・12・1月鳥取：白銀に染まる「鳥取砂丘」雪景】 掲載の宿泊料金や施設情報は楽天トラベルAPIより取得した参考データです。最新のプラン内容は各宿泊施設ページをご確認ください。</p>
       </footer>
     </article>

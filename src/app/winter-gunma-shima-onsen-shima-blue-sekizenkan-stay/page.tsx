@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '四万温泉で過ごす冬の旅（11・12月）！清流雪見露天！名宿5選',
+  title: '【11・12月群馬・四万温泉の神秘の四万ブルーと千二百年霊泉】積善館の歴史情緒・上州牛会席＆清流雪見露天の宿5選',
   description: '11月から12月にかけて上州・群馬の奥座敷「四万温泉」は、四万川や奥四万湖が年間で最も澄み渡る奇跡のコバルトブルー「四万ブルー」を湛え。',
   keywords: '四万温泉 宿泊, 四万温泉 11月 12月, 積善館 四万温泉, 四万やまぐち館, 四万たむら, 柏屋旅館 四万, 豊島屋 四万温泉, 四万ブルー, 上州牛 すき焼き 宿, 群馬 温泉 冬旅',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay/"
   },
   openGraph: {
-    title: '四万温泉で過ごす冬の旅（11・12月）！清流雪見露天！名宿5選',
+    title: '【11・12月群馬・四万温泉の神秘の四万ブルーと千二百年霊泉】積善館の歴史情緒・上州牛会席＆清流雪見露天の宿5選',
     description: '11月から12月にかけて上州・群馬の奥座敷「四万温泉」は、四万川や奥四万湖が年間で最も澄み渡る奇跡のコバルトブルー「四万ブルー」を湛え。',
     url: 'https://croud-travel.pages.dev/winter-gunma-shima-onsen-shima-blue-sekizenkan-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -70,8 +70,8 @@ export default function ShimaOnsenWinterFeature() {
         "headline": "【11・12月群馬・四万温泉の神秘の四万ブルーと千二百年霊泉】積善館の歴史情緒・上州牛会席＆清流雪見露天の宿5選",
         "description": "11月から12月にかけて上州・群馬の奥座敷「四万温泉」は、四万川や奥四万湖が年間で最も澄み渡る奇跡のコバルトブルー「四万ブルー」を湛え、渓谷の木々が晩秋の落葉から初雪の白銀へと移ろう幽玄の季節を迎えます。「四万の病を癒やす霊泉」として開湯1200年の歴史を誇る名湯は、胃腸病や美肌に効能高い弱食塩・硫酸塩泉。日本最古の木造湯宿建築として名高い積善館をはじめ、四万川の渓流沿いに佇む自家源泉掛け流しの名旅館、甘みあふれる群馬の特選上州牛や冬の旬菜会席を堪能する極上宿5選を徹底解説。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/76361/76361.jpg",
-        "datePublished": "T06:00:00+09:00",
-        "dateModified": "T06:00:00+09:00",
+        "datePublished": "2026-10-25T06:00:00+09:00",
+        "dateModified": "2026-10-25T06:00:00+09:00",
         "publisher": {
           "@type": "Organization",
           "name": "Croud Travel",
@@ -280,7 +280,10 @@ export default function ShimaOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上名湯特集｜群馬・上州四万温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">群馬・四万温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 神秘の四万ブルーと千二百年霊泉・積善館の歴史美＆上州牛の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
+            【11・12月群馬・四万温泉】<br className="hidden sm:inline" />
+            神秘の四万ブルーと千二百年霊泉・積善館の歴史美＆上州牛の宿5選
+          </h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             四万の病を癒やすと伝わる千二百年の霊泉郷。四万川が澄み切る初冬の奇跡のコバルトブルーを仰ぎ、重要文化財積善館のノスタルジーと特選上州牛の会席料理に心奪われる大人の冬湯治。
           </p>
@@ -631,7 +634,7 @@ export default function ShimaOnsenWinterFeature() {
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-cyan-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">全国の厳選温泉・旬旅特集まとめを見る（四万温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-cyan-200 transition">全国の厳選温泉・旬旅特集まとめを見る（四万温泉の冬旅・名湯美食ガイド！）</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-gunma-shima-onsen-shima-blue-sekizenkan-stay" />

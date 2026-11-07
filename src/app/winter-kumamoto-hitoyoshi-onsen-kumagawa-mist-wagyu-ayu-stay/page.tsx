@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '熊本・人吉温泉郷で過ごす冬の旅（11・12月）！極上球磨黒毛和牛！名宿5選',
+  title: '【11・12月熊本・人吉温泉郷の球磨川初冬朝霧絶景と美肌名湯】名物子持ち落ち鮎塩焼き＆極上球磨黒毛和牛・球磨焼酎会席を味わう老舗宿5選',
   description: '11月から12月にかけて、相良（さがら）700年の城下町の歴史が息づく熊本県南部の人吉盆地の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '人吉温泉 宿泊, あゆの里, 翠嵐楼, 芳野旅館, 鍋屋, ホテルサン人吉, 球磨川 朝霧 11月 12月, 子持ち鮎, 球磨黒毛和牛, 球磨焼酎',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay/"
   },
   openGraph: {
-    title: '熊本・人吉温泉郷で過ごす冬の旅（11・12月）！極上球磨黒毛和牛！名宿5選',
+    title: '【11・12月熊本・人吉温泉郷の球磨川初冬朝霧絶景と美肌名湯】名物子持ち落ち鮎塩焼き＆極上球磨黒毛和牛・球磨焼酎会席を味わう老舗宿5選',
     description: '11月から12月にかけて、相良（さがら）700年の城下町の歴史が息づく熊本県南部の人吉盆地の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -171,8 +171,8 @@ export default function WinterKumamotoHitoyoshiPage() {
         'description': "11月から12月にかけて、相良（さがら）700年の城下町の歴史が息づく熊本県南部の人吉盆地は、盆地特有の冷え込みによって街全体と日本三急流・球磨川が深い霧に包まれる「朝霧の都」の幻想的なベストシーズンを迎えます。朝日に照らされて霧が晴れゆく幽玄な球磨川の情景、国宝・青井阿蘇神社の厳かな歴史散策、そして化粧水のように肌を包み込む弱アルカリ性炭酸水素塩泉の名湯。夕食には晩秋から初冬に旨味が凝縮する名物「子持ち落ち鮎の塩焼き」やうるか、とろける霜降りの極上球磨黒毛和牛、500年の伝統を誇る米焼酎「球磨焼酎」のぬる燗を味わう厳選名宿5選を徹底解説します。",
         'inLanguage': 'ja',
         'mainEntityOfPage': 'https://croud-travel.pages.dev/winter-kumamoto-hitoyoshi-onsen-kumagawa-mist-wagyu-ayu-stay/',
-        'datePublished': 'T00:00:00+09:00',
-        'dateModified': 'T00:00:00+09:00',
+        'datePublished': '2026-10-25T00:00:00+09:00',
+        'dateModified': '2026-10-25T00:00:00+09:00',
         'publisher': {
           '@type': 'Organization',
           'name': 'クラドトラベル編集部',
@@ -220,7 +220,12 @@ export default function WinterKumamotoHitoyoshiPage() {
             11月・12月 朝霧絶景＆城下町名湯特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">熊本・人吉温泉郷で過ごす冬の旅（11・12月）！球磨川初冬朝霧絶景と美肌名湯 <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal"> 名物子持ち落ち鮎塩焼き＆極上球磨黒毛和牛・球磨焼酎会席を味わう老舗宿5選 </span></h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
+            【11・12月熊本・人吉温泉郷】球磨川初冬朝霧絶景と美肌名湯
+            <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal">
+              名物子持ち落ち鮎塩焼き＆極上球磨黒毛和牛・球磨焼酎会席を味わう老舗宿5選
+            </span>
+          </h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、相良700年の城下町の歴史が息づく人吉盆地は、冷え込みとともに日本三急流・球磨川から立ち上る深い朝霧が街を包み込む「朝霧の都」の幻想的なベストシーズンを迎えます。朝日に輝き晴れゆく幽玄な川霧、国宝・青井阿蘇神社の厳かな佇まい、肌をしっとり潤す弱アルカリ炭酸水素塩泉。香ばしい子持ち落ち鮎の塩焼き、とろける極上球磨黒毛和牛、伝統の米焼酎「球磨焼酎」を味わう厳選老舗名宿5選を徹底解説します。

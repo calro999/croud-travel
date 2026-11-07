@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '兵庫・香住温泉で過ごす冬の旅（11・12月）！香住松葉ガニ！名宿5選',
+  title: '【11・12月兵庫・香住温泉の初冬日本海と最高峰ブランド蟹】本場柴山ガニ＆香住松葉ガニ・但馬牛ステーキ＆海辺露天の宿5選',
   description: '11月6日のカニ漁解禁を迎えると、兵庫県但馬地方の日本海に面した香住海岸（香住港・柴山港）は、一年で最も活気あふれる松葉ガニの最高峰シーズンを迎えます。',
   keywords: '香住温泉 宿泊, 柴山温泉 カニ, 柴山がに 宿, 香住 松葉ガニ 11月 12月, さだ助, さどや, やまや 香住, 癒しの宿こえもん, 翠湖, 但馬牛 香住, 余部橋梁 冬',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay/"
   },
   openGraph: {
-    title: '兵庫・香住温泉で過ごす冬の旅（11・12月）！香住松葉ガニ！名宿5選',
+    title: '【11・12月兵庫・香住温泉の初冬日本海と最高峰ブランド蟹】本場柴山ガニ＆香住松葉ガニ・但馬牛ステーキ＆海辺露天の宿5選',
     description: '11月6日のカニ漁解禁を迎えると、兵庫県但馬地方の日本海に面した香住海岸（香住港・柴山港）は、一年で最も活気あふれる松葉ガニの最高峰シーズンを迎えます。',
     url: 'https://croud-travel.pages.dev/winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -70,8 +70,8 @@ export default function KasumiOnsenWinterFeature() {
         "headline": "【11・12月兵庫・香住温泉の初冬日本海と最高峰ブランド蟹】本場柴山ガニ＆香住松葉ガニ・但馬牛ステーキ＆海辺露天の宿5選",
         "description": "11月6日のカニ漁解禁を迎えると、兵庫県但馬地方の日本海に面した香住海岸（香住港・柴山港）は、一年で最も活気あふれる松葉ガニの最高峰シーズンを迎えます。厳しい選別基準で「ピンクタグ」が付けられるブランド蟹の頂点「柴山がに」、香住港に水揚げされる新鮮な「香住松葉がに」、濃厚な内子と外子を味わう親ガニ「セコガニ」、そして最高峰黒毛和牛「但馬牛」の贅沢な饗宴。海辺に湧く塩化物温泉で潮風を感じながら身体の芯まで温まり、荒波打ち寄せる山陰海岸ジオパークの雄大な冬景色と極上のカニフルコースを満喫する至高の宿5選を徹底解説。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/67455/67455.jpg",
-        "datePublished": "T05:00:00+09:00",
-        "dateModified": "T05:00:00+09:00",
+        "datePublished": "2026-10-25T05:00:00+09:00",
+        "dateModified": "2026-10-25T05:00:00+09:00",
         "publisher": {
           "@type": "Organization",
           "name": "Croud Travel",
@@ -280,7 +280,10 @@ export default function KasumiOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上美食特集｜兵庫・但馬香住
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">兵庫・香住温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 最高峰ブランド柴山ガニ＆香住松葉ガニ・但馬牛と海辺露天の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
+            【11・12月兵庫・香住温泉】<br className="hidden sm:inline" />
+            最高峰ブランド柴山ガニ＆香住松葉ガニ・但馬牛と海辺露天の宿5選
+          </h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             11月6日の解禁とともに湧き立つ山陰の蟹王国。ピンクタグの頂点「柴山がに」と獲れたて活松葉ガニ、但馬牛の極上饗宴に酔いしれ、海辺の天然温泉で身体の芯から温まる冬の至福旅。
           </p>
@@ -619,7 +622,7 @@ export default function KasumiOnsenWinterFeature() {
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-amber-200 transition">全国の厳選温泉・旬旅特集まとめを見る（兵庫・香住温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-amber-200 transition">全国の厳選温泉・旬旅特集まとめを見る（兵庫・香住温泉の冬旅・名湯美食ガイド！）</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-hyogo-kasumi-onsen-shibayama-crab-matsuba-stay" />

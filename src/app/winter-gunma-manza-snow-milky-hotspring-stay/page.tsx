@@ -6,14 +6,14 @@ import { Metadata } from 'next';
 import { Star, MapPin, CheckCircle2, ChevronRight, Sparkles, Coffee, ShieldCheck, Award } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: "標高1800mの白銀世界！万座温泉にごり湯で過ごす冬の旅（12月）！日本一の濃厚硫黄泉と雪見絶景宿5選",
+  title: "【12月標高1800mの白銀世界！万座温泉にごり湯】日本一の濃厚硫黄泉と雪見絶景宿5選",
   description: "標高1800mの雲上に位置する「星に一番近い温泉・万座温泉」！日本一の硫黄含有量を誇る乳白色のにごり湯露天風呂から、一面の白銀世界と満天の星空を眺める、これぞ本物の冬の雪見温泉体験。",
   keywords: "万座温泉 ホテル, 11月旅行, 12月旅行, 冬休み, 温泉宿, 宿泊予約, 国内旅行, おすすめ旅館",
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-gunma-manza-snow-milky-hotspring-stay/",
   },
   openGraph: {
-    title: "標高1800mの白銀世界！万座温泉にごり湯で過ごす冬の旅（12月）！日本一の濃厚硫黄泉と雪見絶景宿5選",
+    title: "【12月標高1800mの白銀世界！万座温泉にごり湯】日本一の濃厚硫黄泉と雪見絶景宿5選",
     description: "標高1800mの雲上に位置する「星に一番近い温泉・万座温泉」！日本一の硫黄含有量を誇る乳白色のにごり湯露天風呂から、一面の白銀世界と満天の星空を眺める、これぞ本物の冬の雪見温泉体験。",
     url: 'https://croud-travel.pages.dev/winter-gunma-manza-snow-milky-hotspring-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "標高1800mの白銀世界！万座温泉にごり湯で過ごす冬の旅（12月）！日本一の濃厚硫黄泉と雪見絶景宿5選",
+    title: "【12月標高1800mの白銀世界！万座温泉にごり湯】日本一の濃厚硫黄泉と雪見絶景宿5選",
     description: "標高1800mの雲上に位置する「星に一番近い温泉・万座温泉」！日本一の硫黄含有量を誇る乳白色のにごり湯露天風呂から、一面の白銀世界と満天の星空を眺める、これぞ本物の冬の雪見温泉体験。",
   }
 };
@@ -132,7 +132,7 @@ export default function FeaturePage() {
             <Sparkles className="w-4 h-4" />
             <span>万座温泉にごり湯＆雪見満天星空</span>
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">標高1800mの白銀世界！万座温泉にごり湯で過ごす冬の旅（12月）！日本一の濃厚硫黄泉と雪見絶景宿5選</h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight mb-6 leading-tight drop-shadow-md">【12月標高1800mの白銀世界！万座温泉にごり湯】日本一の濃厚硫黄泉と雪見絶景宿5選</h1>
           <p className="text-base md:text-xl text-stone-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow">
             標高1800mの雲上に位置する「星に一番近い温泉・万座温泉」！日本一の硫黄含有量を誇る乳白色のにごり湯露天風呂から、一面の白銀世界と満天の星空を眺める、これぞ本物の冬の雪見温泉体験。
           </p>
@@ -201,9 +201,9 @@ export default function FeaturePage() {
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-3 border-b border-stone-200 pb-4">
             <div>
               <span className="text-amber-600 font-bold tracking-wider text-xs md:text-sm uppercase">11・12月おすすめ宿泊施設</span>
-              <h2 className="text-2xl md:text-3xl font-extrabold text-stone-900 mt-1">厳選おすすめ宿 5選｜標高1800mの白銀世界</h2>
+              <h2 className="text-2xl md:text-3xl font-extrabold text-stone-900 mt-1">厳選おすすめ宿 5選</h2>
             </div>
-            <p className="text-xs md:text-sm text-stone-500">【標高1800mの白銀世界】 ※宿泊料金・空室情報は季節により変動します</p>
+            <p className="text-xs md:text-sm text-stone-500">※宿泊料金・空室情報は季節により変動します</p>
           </div>
 
           <div className="grid grid-cols-1 gap-8">
@@ -285,7 +285,7 @@ export default function FeaturePage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（標高1800mの白銀世界）</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 万座・鹿沢口駅よりアクセス。ＪＲ吾妻線万座鹿沢口駅からバスで４０分、タクシーで３５分。</li>
@@ -297,7 +297,7 @@ export default function FeaturePage() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（標高1800mの白銀世界）</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「万座温泉 万座高原ホテル」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -385,8 +385,8 @@ export default function FeaturePage() {
 
         {/* Related Callout */}
         <section className="text-center py-8 border-t border-stone-200">
-          <h3 className="text-lg font-bold text-stone-800 mb-3">他の特集記事もチェック（標高1800mの白銀世界）</h3>
-          <p className="text-sm text-stone-500 mb-6">【標高1800mの白銀世界】 全国各地の魅力あふれるテーマ別おすすめ宿泊施設をご紹介しています</p>
+          <h3 className="text-lg font-bold text-stone-800 mb-3">他の特集記事もチェック</h3>
+          <p className="text-sm text-stone-500 mb-6">全国各地の魅力あふれるテーマ別おすすめ宿泊施設をご紹介しています</p>
           <Link
             href="/features/"
             className="inline-flex items-center gap-2 px-8 py-3.5 rounded-xl bg-stone-800 hover:bg-stone-900 text-white font-bold text-sm shadow-sm transition-colors"
@@ -409,25 +409,25 @@ export default function FeaturePage() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（標高1800mの白銀世界）</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 万座・鹿沢口駅へ到着。ＪＲ吾妻線万座鹿沢口駅からバスで４０分、タクシーで３５分でスムーズに移動。</li>
                 <li>・<strong className="text-stone-800">15:30〜</strong> 「万座温泉 万座高原ホテル」にチェックイン。4種の源泉、8つの浴槽からなる露天風呂をお楽しみください。を満喫。</li>
-                <li>・<strong className="text-stone-800">17:00〜</strong> 本格サウナと天然温泉のととのい体験で夕暮れの贅沢な湯浴み時間をゆったり過ごす。（標高1800mの白銀世界）</li>
-                <li>・<strong className="text-stone-800">19:00〜</strong> 特選ブランド牛と地場産品を味わう夕食。地元の恵みを五感で味わう至福のディナー。（標高1800mの白銀世界）</li>
+                <li>・<strong className="text-stone-800">17:00〜</strong> 本格サウナと天然温泉のととのい体験で夕暮れの贅沢な湯浴み時間をゆったり過ごす。</li>
+                <li>・<strong className="text-stone-800">19:00〜</strong> 特選ブランド牛と地場産品を味わう夕食。地元の恵みを五感で味わう至福のディナー。</li>
               </ul>
             </div>
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（標高1800mの白銀世界）</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
-                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の澄み渡る空気のなか目覚めの朝風呂。清々しい風を感じる至福のひととき。（標高1800mの白銀世界）</li>
-                <li>・<strong className="text-stone-800">08:00〜</strong> 宿自慢の朝食でエネルギーチャージ。地元食材の優しい味わいを堪能。（標高1800mの白銀世界）</li>
+                <li>・<strong className="text-stone-800">07:00〜</strong> 朝の澄み渡る空気のなか目覚めの朝風呂。清々しい風を感じる至福のひととき。</li>
+                <li>・<strong className="text-stone-800">08:00〜</strong> 宿自慢の朝食でエネルギーチャージ。地元食材の優しい味わいを堪能。</li>
                 <li>・<strong className="text-stone-800">10:00〜</strong> チェックアウト後、近隣の名所や「万座温泉 万座プリンスホテル」周辺の景勝地へ立ち寄り。</li>
-                <li>・<strong className="text-stone-800">12:30〜</strong> ご当地グルメのランチとお土産選びを楽しみ、大満足で家路へ。（標高1800mの白銀世界）</li>
+                <li>・<strong className="text-stone-800">12:30〜</strong> ご当地グルメのランチとお土産選びを楽しみ、大満足で家路へ。</li>
               </ul>
             </div>
           </div>
@@ -440,7 +440,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド｜標高1800mの白銀世界</h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">あわせて読みたい人気特集＆全国エリアガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <Link
@@ -509,7 +509,7 @@ export default function FeaturePage() {
             </Link>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（標高1800mの白銀世界）</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/gifu/"

@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '定山渓温泉で過ごす冬の旅（11・12月）！北海道冬の三大蟹会席！名宿5選',
+  title: '【11・12月定山渓温泉の雪渓谷美と名湯】札幌の奥座敷・ナトリウム塩化物泉と道産和牛＆北海道冬の三大蟹会席の宿5選',
   description: '修験僧・美泉定山がアイヌの人々に導かれ拓いた札幌の奥座敷「定山渓温泉」。11月下旬の初雪から12月の白銀雪景色へと移ろう豊平川渓谷。冷え切った身体の芯から温もる純生の塩化物泉と、道産和牛＆北海道冬の三大蟹（毛ガニ・ズワイ・タラバ）を堪能する名宿ガイド。',
   keywords: '定山渓温泉 宿泊 11月 12月, 定山渓温泉 三大蟹 道産和牛, 札幌 奥座敷 雪見露天風呂, 定山渓第一寶亭留 翠山亭, ぬくもりの宿 ふる川, 定山渓万世閣ホテルミリオーネ, 厨翠山, 北海道 冬 温泉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hokkaido-jozankei-onsen-snow-keikoku-stay/",
   },
   openGraph: {
-    title: '定山渓温泉で過ごす冬の旅（11・12月）！北海道冬の三大蟹会席！名宿5選',
+    title: '【11・12月定山渓温泉の雪渓谷美と名湯】札幌の奥座敷・ナトリウム塩化物泉と道産和牛＆北海道冬の三大蟹会席の宿5選',
     description: '修験僧・美泉定山がアイヌの人々に導かれ拓いた札幌の奥座敷「定山渓温泉」。11月下旬の初雪から12月の白銀雪景色へと移ろう豊平川渓谷。冷え切った身体の芯から温もる純生の塩化物泉と、道産和牛＆北海道冬の三大蟹（毛ガニ・ズワイ・タラバ）を堪能する名宿ガイド。',
     url: 'https://croud-travel.pages.dev/winter-hokkaido-jozankei-onsen-snow-keikoku-stay/',
     siteName: '日本全国・旅宿クラウド',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "定山渓温泉の雪渓谷美と名湯で過ごす冬の旅（11・12月）！札幌の奥座敷・ナトリウム塩化物泉と道産和牛＆北海道冬の三大蟹会席の宿5選",
+    title: "定山渓温泉の雪渓谷美と名湯の冬旅・名湯美食ガイド！札幌の奥座敷・ナトリウム塩化物泉と道産和牛＆北海道冬の三大蟹会席の宿5選",
     description: "修験僧・美泉定山がアイヌの人々に導かれ拓いた札幌の奥座敷「定山渓温泉」。11月下旬の初雪から12月の白銀雪景色へと移ろう豊平川渓谷。冷え切った身体の芯から温もる純生の塩化物泉と、道産和牛＆北海道冬の三大蟹（毛ガニ・ズワイ・タラバ）を堪能する名宿ガイド。",
   }
 };
@@ -285,7 +285,10 @@ export default function JozankeiWinterPage() {
             <Eye className="w-4 h-4 text-sky-300" />
             <span>11月・12月限定 札幌奥座敷の雪渓谷＆北海道三大蟹・道産和牛特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">定山渓温泉の雪渓谷美と名湯で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 札幌の奥座敷・ナトリウム塩化物泉と道産和牛＆北海道冬の三大蟹会席の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
+            【11・12月定山渓温泉の雪渓谷美と名湯】<br className="hidden sm:inline" />
+            札幌の奥座敷・ナトリウム塩化物泉と道産和牛＆北海道冬の三大蟹会席の宿5選
+          </h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             札幌駅からバスでわずか60分。支笏洞爺国立公園の白銀の原生林と豊平川の深い渓谷に佇む「定山渓温泉」。芯から温まるナトリウム塩化物泉の雪見露天風呂と、冬に旬を迎える極上毛ガニ・ズワイ・タラバの三大蟹、そしてとろける道産和牛を味わい尽くす至福の北国ステイ。
           </p>
@@ -348,7 +351,7 @@ export default function JozankeiWinterPage() {
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-sky-800" />
-            目次・インデックス｜定山渓温泉で過ごす冬の旅（11・12月）</h2>
+            目次・インデックス｜定山渓温泉の冬旅・名湯美食ガイド！</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#futami-bridge" className="hover:text-sky-800 hover:underline flex items-center gap-1.5">
               <span>1. 二見吊橋と豊平川の初冬雪景色：エゾ松と奇岩の白銀美</span>
@@ -662,7 +665,7 @@ export default function JozankeiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜定山渓温泉で過ごす冬の旅（11・12月）</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜定山渓温泉の冬旅・名湯美食ガイド！</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -734,7 +737,7 @@ export default function JozankeiWinterPage() {
               className="bg-sky-900/80 hover:bg-sky-900 p-4 rounded-2xl transition border border-sky-800/50 block group"
             >
               <span className="text-xs text-sky-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-sky-200 transition">全国の厳選温泉・宿特集まとめを見る（定山渓温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-sky-200 transition">全国の厳選温泉・宿特集まとめを見る</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-hokkaido-jozankei-onsen-snow-keikoku-stay" />

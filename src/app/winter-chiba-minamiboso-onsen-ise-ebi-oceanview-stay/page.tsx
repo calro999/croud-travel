@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '千葉・南房総温泉郷で過ごす冬の旅（11・12月）！太平洋パノラマ絶景露天！名宿5選',
+  title: '【11・12月千葉・南房総温泉郷の温暖避寒旅と旬の伊勢海老・房州地魚】太平洋パノラマ絶景露天＆貸切風呂の宿5選',
   description: '11月から12月にかけて、東京湾アクアラインで都心からわずか90分で訪れることができる房総半島南部「南房総温泉郷（鴨川・小湊・千倉・館山・白浜）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
   keywords: '南房総 温泉 宿泊, 千葉 温泉 11月 12月, 鴨川館, 満ちてくる心の宿 吉夢, 網元の宿 ろくや, 休暇村館山, 白浜オーシャンリゾート, 房州伊勢海老 宿, 房総 避寒旅行, 太平洋 絶景露天風呂 千葉',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay/"
   },
   openGraph: {
-    title: '千葉・南房総温泉郷で過ごす冬の旅（11・12月）！太平洋パノラマ絶景露天！名宿5選',
+    title: '【11・12月千葉・南房総温泉郷の温暖避寒旅と旬の伊勢海老・房州地魚】太平洋パノラマ絶景露天＆貸切風呂の宿5選',
     description: '11月から12月にかけて、東京湾アクアラインで都心からわずか90分で訪れることができる房総半島南部「南房総温泉郷（鴨川・小湊・千倉・館山・白浜）」の魅力とおすすめ宿泊施設を詳しくご紹介します。',
     url: 'https://croud-travel.pages.dev/winter-chiba-minamiboso-onsen-ise-ebi-oceanview-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -70,8 +70,8 @@ export default function ChibaMinamibosoWinterFeature() {
         "headline": "【11・12月千葉・南房総温泉郷の温暖避寒旅と旬の伊勢海老・房州地魚】太平洋パノラマ絶景露天＆貸切風呂の宿5選",
         "description": "11月から12月にかけて、東京湾アクアラインで都心からわずか90分で訪れることができる房総半島南部「南房総温泉郷（鴨川・小湊・千倉・館山・白浜）」は、黒潮がもたらす温暖な海洋性気候に包まれ、冬の厳しい寒さを逃れて穏やかな海風を感じられる関東屈指の避寒リゾートです。11・12月は秋に解禁された名物「房州伊勢海老」が最も甘みと身の締まりを極める最盛期を迎え、金目鯛の姿煮や房州アワビ、朝獲れ地魚姿造りが食卓を彩ります。太平洋の水平線から昇る神々しい朝焼けを露天風呂から独占する、初冬の南房総おすすめ名旅館・絶景リゾート5選を徹底解説。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/51733/51733.jpg",
-        "datePublished": "T08:00:00+09:00",
-        "dateModified": "T08:00:00+09:00",
+        "datePublished": "2026-10-25T08:00:00+09:00",
+        "dateModified": "2026-10-25T08:00:00+09:00",
         "publisher": {
           "@type": "Organization",
           "name": "Croud Travel",
@@ -280,7 +280,10 @@ export default function ChibaMinamibosoWinterFeature() {
             <Anchor className="w-4 h-4" />
             11月・12月 冬の温暖避寒＆海鮮美食特集｜千葉・南房総温泉郷
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">千葉・南房総温泉郷で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 温暖避寒旅と旬の伊勢海老・房州地魚＆太平洋絶景露天の宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
+            【11・12月千葉・南房総温泉郷】<br className="hidden sm:inline" />
+            温暖避寒旅と旬の伊勢海老・房州地魚＆太平洋絶景露天の宿5選
+          </h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             都心からアクアラインでわずか90分。黒潮がもたらす冬の暖かな海風と、11・12月に最も甘みを増す房州伊勢海老・金目鯛。太平洋の水平線から昇る朝日に包まれる極上リトリート。
           </p>

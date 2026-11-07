@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '兵庫・湯村温泉で過ごす冬の旅（11・12月）！本場但馬牛すき焼き！名宿5選',
+  title: '【11・12月兵庫・湯村温泉の荒湯源泉情緒と解禁松葉ガニ】本場但馬牛すき焼き＆美肌高温泉の隠れ家宿5選',
   description: '11月から12月にかけて、兵庫県北部の山懐に抱かれた山陰の名湯「湯村温泉（ゆむらおんせん）」は、日本海の冬の王様「松葉ガニ（ズワイガニ）」の漁解禁と。',
   keywords: '湯村温泉 宿泊, 但馬 温泉 11月 12月, 佳泉郷 井づつや, 朝野家, 湯村温泉 とみや, 湧泉の宿 ゆあむ, 大江戸温泉物語 三好屋, 松葉ガニ 宿, 但馬牛 すき焼き, 荒湯 温泉卵',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay/"
   },
   openGraph: {
-    title: '兵庫・湯村温泉で過ごす冬の旅（11・12月）！本場但馬牛すき焼き！名宿5選',
+    title: '【11・12月兵庫・湯村温泉の荒湯源泉情緒と解禁松葉ガニ】本場但馬牛すき焼き＆美肌高温泉の隠れ家宿5選',
     description: '11月から12月にかけて、兵庫県北部の山懐に抱かれた山陰の名湯「湯村温泉（ゆむらおんせん）」は、日本海の冬の王様「松葉ガニ（ズワイガニ）」の漁解禁と。',
     url: 'https://croud-travel.pages.dev/winter-hyogo-yumura-onsen-tajima-beef-matsuba-crab-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -70,8 +70,8 @@ export default function HyogoYumuraWinterFeature() {
         "headline": "【11・12月兵庫・湯村温泉の荒湯源泉情緒と解禁松葉ガニ】本場但馬牛すき焼き＆美肌高温泉の隠れ家宿5選",
         "description": "11月から12月にかけて、兵庫県北部の山懐に抱かれた山陰の名湯「湯村温泉（ゆむらおんせん）」は、日本海の冬の王様「松葉ガニ（ズワイガニ）」の漁解禁と、もうもうと立ち上る荒湯の湯けむりが旅情をかきたてる至高の冬シーズンを迎えます。中心を流れる春来川沿いには、日本屈指の高温98度を誇る元湯「荒湯」が湧き、名物の温泉卵や練り菓子づくりを体験。全国の黒毛和牛の頂点に君臨する本場「但馬牛」のとろけるステーキやすき焼き、近隣の浜坂港から直送される獲れたての松葉ガニフルコース、そして肌をしっとり潤す弱アルカリ性の美肌高温泉を満喫できる、厳選の名旅館・温泉ホテル5選を徹底解説します。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/19964/19964.jpg",
-        "datePublished": "T10:00:00+09:00",
-        "dateModified": "T10:00:00+09:00",
+        "datePublished": "2026-10-25T10:00:00+09:00",
+        "dateModified": "2026-10-25T10:00:00+09:00",
         "publisher": {
           "@type": "Organization",
           "name": "Croud Travel",

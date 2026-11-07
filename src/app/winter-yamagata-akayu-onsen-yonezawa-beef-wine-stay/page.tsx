@@ -9,14 +9,14 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: '赤湯温泉で過ごす冬の旅（11・12月）！特選米沢牛すき焼き！名宿5選',
+  title: '【11・12月山形・赤湯温泉の置賜盆地雲海と開湯920年名湯】特選米沢牛すき焼き・日本最古級赤湯ワイン＆自家源泉掛け流しの宿5選',
   description: '11月から12月にかけて山形県置賜地方の赤湯温泉は、晩秋の澄み切った冷気の中で置賜盆地全体を真っ白な霧が覆う幻想的な「白竜湖の雲海」が発生し。',
   keywords: '赤湯温泉 宿泊, 山形 赤湯 温泉 11月 12月, 御殿守, 瀧波 赤湯, 森の湯 赤湯, 丹泉ホテル, 大文字屋, 米沢牛 すき焼き 宿, 赤湯ワイン, 置賜盆地 雲海',
   alternates: {
     canonical: "https://croud-travel.pages.dev/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay/"
   },
   openGraph: {
-    title: '赤湯温泉で過ごす冬の旅（11・12月）！特選米沢牛すき焼き！名宿5選',
+    title: '【11・12月山形・赤湯温泉の置賜盆地雲海と開湯920年名湯】特選米沢牛すき焼き・日本最古級赤湯ワイン＆自家源泉掛け流しの宿5選',
     description: '11月から12月にかけて山形県置賜地方の赤湯温泉は、晩秋の澄み切った冷気の中で置賜盆地全体を真っ白な霧が覆う幻想的な「白竜湖の雲海」が発生し。',
     url: 'https://croud-travel.pages.dev/winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay/',
     siteName: 'クラドトラベル (Croud Travel)',
@@ -70,8 +70,8 @@ export default function AkayuOnsenWinterFeature() {
         "headline": "【11・12月山形・赤湯温泉の置賜盆地雲海と開湯920年名湯】特選米沢牛すき焼き・日本最古級赤湯ワイン＆自家源泉掛け流しの宿5選",
         "description": "11月から12月にかけて山形県置賜地方の赤湯温泉は、晩秋の澄み切った冷気の中で置賜盆地全体を真っ白な霧が覆う幻想的な「白竜湖の雲海」が発生し、奥羽山脈の山々が初冠雪で輝く美しい季節を迎えます。寛治7年（1093年）開湯、源義家の弟・義綱が発見したと伝わる名湯は、湯上がりに肌がしっとりと潤う弱アルカリ性硫黄・塩化物泉。日本三大和牛と称される最高峰「米沢牛」のとろける霜降りすき焼きやステーキ、明治時代から続く酒井ワイナリーなど日本屈指の老舗ワイナリーが醸す赤湯ワイン、山形新幹線赤湯駅からの抜群のアクセスを誇る名宿5選を徹底解説。",
         "image": "https://img.travel.rakuten.co.jp/share/HOTEL/18448/18448.jpg",
-        "datePublished": "T05:00:00+09:00",
-        "dateModified": "T05:00:00+09:00",
+        "datePublished": "2026-10-25T05:00:00+09:00",
+        "dateModified": "2026-10-25T05:00:00+09:00",
         "publisher": {
           "@type": "Organization",
           "name": "Croud Travel",
@@ -280,7 +280,10 @@ export default function AkayuOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上名湯特集｜山形・南陽赤湯
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">山形・赤湯温泉で過ごす冬の旅（11・12月）！<br className="hidden sm:inline" /> 置賜盆地雲海と開湯920年名湯・特選米沢牛＆老舗ワイナリーの宿5選</h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
+            【11・12月山形・赤湯温泉】<br className="hidden sm:inline" />
+            置賜盆地雲海と開湯920年名湯・特選米沢牛＆老舗ワイナリーの宿5選
+          </h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             平安開湯の古湯にして上杉鷹山公も愛した名湯郷。晩秋から初冬の置賜盆地を包む幻想の白竜湖雲海を仰ぎ、霜降り極まる米沢牛と日本最古級の赤湯ワインに酔いしれる贅沢な冬の隠れ宿。
           </p>
@@ -619,7 +622,7 @@ export default function AkayuOnsenWinterFeature() {
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-rose-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-rose-200 transition">全国の厳選温泉・旬旅特集まとめを見る（赤湯温泉で過ごす冬の旅（11・12月））</h3>
+              <h3 className="text-sm font-bold group-hover:text-rose-200 transition">全国の厳選温泉・旬旅特集まとめを見る（赤湯温泉の冬旅・名湯美食ガイド！）</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-yamagata-akayu-onsen-yonezawa-beef-wine-stay" />
