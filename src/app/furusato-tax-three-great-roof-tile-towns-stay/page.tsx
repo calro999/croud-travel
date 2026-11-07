@@ -235,9 +235,8 @@ export default function Page() {
         {/* 厳選ホテルリスト */}
         <section className="space-y-10">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル｜日本三大瓦の町＆美しいいぶし銀の街並み・赤瓦景観と名</h2>
-            <p className="text-xs md:text-sm text-slate-500">【日本三大瓦の町＆美しいいぶし銀の街並み・赤瓦景観と名】 
-              楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
+            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル</h2>
+            <p className="text-xs md:text-sm text-slate-500">楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
             </p>
           </div>
 
@@ -332,9 +331,8 @@ export default function Page() {
         {/* 楽天ふるさと納税トラベル利用ステップ */}
         <section className="bg-gradient-to-br from-slate-900 to-emerald-950 text-white rounded-2xl p-6 md:p-8 space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-xl md:text-2xl font-bold">楽天ふるさと納税×楽天トラベル 簡単3ステップ｜日本三大瓦の町＆美しいいぶし銀の街並み・赤瓦景観と名</h2>
-            <p className="text-xs md:text-sm text-slate-300">【日本三大瓦の町＆美しいいぶし銀の街並み・赤瓦景観と名】 
-              控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）憧れの高級宿・温泉旅館をお得に予約できます
+            <h2 className="text-xl md:text-2xl font-bold">楽天ふるさと納税×楽天トラベル 簡単3ステップ</h2>
+            <p className="text-xs md:text-sm text-slate-300">控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）憧れの高級宿・温泉旅館をお得に予約できます
             </p>
           </div>
 
@@ -343,9 +341,8 @@ export default function Page() {
               <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
                 1
               </div>
-              <h3 className="font-bold text-sm text-white">自治体に寄付（日本三大瓦の町＆美しいいぶし銀の街並み・赤瓦景観と名）</h3>
-              <p className="text-xs leading-relaxed text-slate-300">【日本三大瓦の町＆美しいいぶし銀の街並み・赤瓦景観と名】 
-                希望の自治体と寄付金額を選び、楽天ふるさと納税で寄付を行います。寄付額に応じたトラベルクーポンが即時付与されます。
+              <h3 className="font-bold text-sm text-white">自治体に寄付</h3>
+              <p className="text-xs leading-relaxed text-slate-300">希望の自治体と寄付金額を選び、楽天ふるさと納税で寄付を行います。寄付額に応じたトラベルクーポンが即時付与されます。
               </p>
             </div>
 
@@ -353,9 +350,8 @@ export default function Page() {
               <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
                 2
               </div>
-              <h3 className="font-bold text-sm text-white">対象宿・プランを予約（日本三大瓦の町＆美しいいぶし銀の街並み・赤瓦景観と名）</h3>
-              <p className="text-xs leading-relaxed text-slate-300">【日本三大瓦の町＆美しいいぶし銀の街並み・赤瓦景観と名】 
-                楽天トラベルで対象地域の宿泊施設を検索。獲得したふるさと納税クーポンを予約ステップで適用します。
+              <h3 className="font-bold text-sm text-white">対象宿・プランを予約</h3>
+              <p className="text-xs leading-relaxed text-slate-300">楽天トラベルで対象地域の宿泊施設を検索。獲得したふるさと納税クーポンを予約ステップで適用します。
               </p>
             </div>
 
@@ -363,9 +359,8 @@ export default function Page() {
               <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
                 3
               </div>
-              <h3 className="font-bold text-sm text-white">現地で贅沢ステイ（日本三大瓦の町＆美しいいぶし銀の街並み・赤瓦景観と名）</h3>
-              <p className="text-xs leading-relaxed text-slate-300">【日本三大瓦の町＆美しいいぶし銀の街並み・赤瓦景観と名】 
-                宿泊当日は通常通りチェックイン。割引されたお得な価格で、名湯や美食、絶景体験を満喫できます。
+              <h3 className="font-bold text-sm text-white">現地で贅沢ステイ</h3>
+              <p className="text-xs leading-relaxed text-slate-300">宿泊当日は通常通りチェックイン。割引されたお得な価格で、名湯や美食、絶景体験を満喫できます。
               </p>
             </div>
           </div>

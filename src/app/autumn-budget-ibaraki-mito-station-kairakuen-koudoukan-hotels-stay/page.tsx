@@ -68,42 +68,9 @@ export default function AutumnBudgetHotelsPage() {
         </div>
       </section>
 
-      {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
+      
       <div className="max-w-4xl mx-auto px-4">
-        <section className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm mb-10">
-          <div className="bg-gradient-to-r from-stone-900 to-stone-800 text-white px-6 py-4 flex items-center justify-between">
-            <div className="flex items-center gap-2">
-              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
-              <h2 className="text-base md:text-lg font-bold tracking-wide">水戸徳川家の精神を宿す：旧弘道館（日本遺産・国指定特別史跡）</h2>
-            </div>
-            <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">水戸藩特別史跡ガイド</span>
-          </div>
-          <div className="flex flex-col gap-6 p-6">
-            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
-              <Image
-                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Kodokan%2C_Mito%2C_2020.jpg/1280px-Kodokan%2C_Mito%2C_2020.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                alt="水戸徳川家の精神を宿す：旧弘道館（日本遺産・国指定特別史跡）"
-                fill
-                className="object-cover hover:scale-105 transition duration-500"
-                sizes="(max-width: 768px) 100vw, 400px"
-              />
-              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/70 to-transparent p-2 text-right">
-                <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
-              </div>
-            </div>
-            <div className="w-full space-y-3">
-              <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">徳川斉昭公が創設した日本最大の藩校・歴史薫る正庁と秋の庭園</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-                弘道館（こうどうかん）は、江戸時代後期に水戸藩第9代藩主・徳川斉昭によって開設された藩校。文武両道の修練場として敷地内に正庁や至善堂、武術場などが整備され、最後の将軍・徳川慶喜公が大政奉還後に恭順謹慎した場所としても知られます。秋には重厚な茅葺き屋根の正門や庭園が落ち着いた秋色に染まり、水戸駅北口から徒歩約8分で歴史探訪が楽しめます。
-              </p>
-              <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                <span className="text-amber-700 font-semibold">JR水戸駅北口より徒歩約8分</span>
-              </div>
-            </div>
-          </div>
-        </section>
-      </div>
+        </div>
 
       {/* 宿一覧 */}
       <section className="max-w-4xl mx-auto px-4 space-y-8">
@@ -392,31 +359,28 @@ export default function AutumnBudgetHotelsPage() {
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-br from-amber-50 to-orange-50 border border-amber-200/80 rounded-2xl p-6 md:p-8 space-y-4">
           <h2 className="text-lg font-bold text-amber-950 flex items-center gap-2"><CheckCircle2 className="w-5 h-5 text-amber-600" />
-            秋の格安旅行をお得に満喫するためのポイント｜水戸駅前：国指定特別史跡弘道館＆名物あんこう鍋</h2>
+            秋の格安旅行をお得に満喫するためのポイント</h2>
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             <div className="bg-white/80 rounded-xl p-4 border border-amber-100">
-              <h3 className="font-bold text-sm text-slate-900 mb-1">平日泊で更なる割引（水戸駅前：国指定特別史跡弘道館＆名物あんこう鍋）</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">【水戸駅前：国指定特別史跡弘道館＆名物あんこう鍋】 
-                紅葉シーズンは金曜・土曜の宿泊料金が高騰しがちですが、日〜木曜の平日泊なら最安プランが狙い目。人混みも少なく快適に名所を楽しめます。
+              <h3 className="font-bold text-sm text-slate-900 mb-1">平日泊で更なる割引</h3>
+              <p className="text-xs text-slate-600 leading-relaxed">紅葉シーズンは金曜・土曜の宿泊料金が高騰しがちですが、日〜木曜の平日泊なら最安プランが狙い目。人混みも少なく快適に名所を楽しめます。
               </p>
             </div>
             <div className="bg-white/80 rounded-xl p-4 border border-amber-100">
-              <h3 className="font-bold text-sm text-slate-900 mb-1">直前割＆早割を活用（水戸駅前：国指定特別史跡弘道館＆名物あんこう鍋）</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">【水戸駅前：国指定特別史跡弘道館＆名物あんこう鍋】 
-                14日前〜28日前までの早期予約や、空室が出た直前のタイムセールを狙うことで、通常価格より1,000円〜2,000円以上安く泊まれるチャンスがあります。
+              <h3 className="font-bold text-sm text-slate-900 mb-1">直前割＆早割を活用</h3>
+              <p className="text-xs text-slate-600 leading-relaxed">14日前〜28日前までの早期予約や、空室が出た直前のタイムセールを狙うことで、通常価格より1,000円〜2,000円以上安く泊まれるチャンスがあります。
               </p>
             </div>
             <div className="bg-white/80 rounded-xl p-4 border border-amber-100">
-              <h3 className="font-bold text-sm text-slate-900 mb-1">浮いた予算で旬の味覚（水戸駅前：国指定特別史跡弘道館＆名物あんこう鍋）</h3>
-              <p className="text-xs text-slate-600 leading-relaxed">【水戸駅前：国指定特別史跡弘道館＆名物あんこう鍋】 
-                宿泊を賢く格安ホテルに抑えることで、浮いた数千円の予算をご当地の豪華な旬の味覚や地酒ディナー、日帰り温泉の入浴料に贅沢に使えます。
+              <h3 className="font-bold text-sm text-slate-900 mb-1">浮いた予算で旬の味覚</h3>
+              <p className="text-xs text-slate-600 leading-relaxed">宿泊を賢く格安ホテルに抑えることで、浮いた数千円の予算をご当地の豪華な旬の味覚や地酒ディナー、日帰り温泉の入浴料に贅沢に使えます。
               </p>
             </div>
           </div>
         </div>
       </section>
     
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -607,49 +571,7 @@ export default function AutumnBudgetHotelsPage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「水戸駅前（国指定特別史跡弘道館＆名物あんこう鍋）」とあわせて巡りたい茨城県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「水戸駅前：国指定特別史跡弘道館＆名物あんこう鍋！2,000円台〜泊まれる格安ホテル5選」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">国営ひたち海浜公園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">春のネモフィラ、秋のコキアをはじめ、四季折々の広大な花畑が美しい国営公園。みはらしの丘一面が青や赤に染まる光景は世界中から絶賛される絶景です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">水戸偕楽園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">金沢兼六園・岡山後楽園と並ぶ日本三名園の一つ。徳川斉昭公によって造園され、春には約100品種3,000本の梅が咲き誇る歴史ある回遊式庭園です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">袋田の滝</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三名瀑に数えられる高さ120m・幅73mのダイナミックな4段の滝。四季ごとに全く異なる表情を見せ、冬には滝全体が凍結する「氷瀑」が見事です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">筑波山</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「西の富士、東の筑波」と称される紫峰。男体山と女体山の2峰からなり、ケーブルカーやロープウェイで気軽に山頂へ登れ、関東平野の一望を楽しめます。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-budget-ibaraki-mito-station-kairakuen-koudoukan-hotels-stay" />
         </div>

@@ -279,19 +279,19 @@ export default function FeaturePage() {
         <section className="bg-stone-900 text-stone-100 rounded-2xl p-8 md:p-10 shadow-lg">
           <div className="flex items-center gap-3 mb-6">
             <Award className="w-7 h-7 text-amber-400" />
-            <h2 className="text-xl md:text-2xl font-bold text-white">旅をより最高にするためのワンポイントアドバイス｜初夏の幻想蛍夜：客室露天・専用テラスから舞う蛍を鑑賞</h2>
+            <h2 className="text-xl md:text-2xl font-bold text-white">旅をより最高にするためのワンポイントアドバイス</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-stone-300">
             <div className="space-y-2">
               <h3 className="font-bold text-amber-400 flex items-center gap-2"><ShieldCheck className="w-4 h-4" />
-                ベストシーズンの早期予約が鍵（初夏の幻想蛍夜：客室露天・専用テラスから舞う蛍を鑑賞）</h3>
+                ベストシーズンの早期予約が鍵</h3>
               <p className="leading-relaxed text-xs md:text-sm">
                 「初夏の幻想蛍夜（客室露天・専用テラスから舞う蛍を鑑賞）」エリアの週末や連休枠は早期に埋まりやすいため、予定が決まり次第「客室専用テラス・露天風呂から望む蛍」等の空室を早めに確保しておくのが安心です。
               </p>
             </div>
             <div className="space-y-2">
               <h3 className="font-bold text-amber-400 flex items-center gap-2"><Coffee className="w-4 h-4" />
-                こだわりの食事プランを選択（初夏の幻想蛍夜：客室露天・専用テラスから舞う蛍を鑑賞）</h3>
+                こだわりの食事プランを選択</h3>
               <p className="leading-relaxed text-xs md:text-sm">
                 「初夏の幻想蛍夜（客室露天・専用テラスから舞う蛍を鑑賞）」では、地元食材を活かした夕食コースや特典付きプランを事前に選んでおくことで、より満足度の高い滞在が叶います。
               </p>

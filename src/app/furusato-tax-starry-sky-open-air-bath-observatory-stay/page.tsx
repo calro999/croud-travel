@@ -76,7 +76,7 @@ export default function Page() {
       />
         {/* Intro Card */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">はじめに｜満天の星空露天風呂＆天体ドーム天文台リゾート×ふるさ</h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">はじめに</h2>
           <p className="text-slate-700 leading-relaxed text-base sm:text-lg">
             人工の街明かりから離れ、澄んだ空気と高い標高、あるいは街ぐるみで光害防止に取り組む地域にだけ広がる奇跡の夜空。長野県阿智村の「日本一の星空ナイトツアー」、日本初の光害防止条例を制定した岡山県美星町、そしてアジアでも屈指の美しさを誇り国際ダークスカイ協会に「星空保護区」として認定された沖縄県八重山・石垣島。天体望遠鏡を備えた専用ドームや、湯船に浸かりながら星の瞬きを眺める星空露天風呂、星空ガイドによる星空観賞会など、夜を楽しむコンテンツが満載の厳選ホテルを楽天ふるさと納税でお得に予約し、神秘的な星空の旅へ出かけましょう。
           </p>
@@ -85,9 +85,8 @@ export default function Page() {
             <div className="flex items-start gap-4">
               <span className="text-3xl">💡</span>
               <div>
-                <h3 className="text-base sm:text-lg font-bold text-amber-900 mb-1">楽天ふるさと納税「トラベルクーポン」賢い活用法（満天の星空露天風呂＆天体ドーム天文台リゾート×ふるさ）</h3>
-                <p className="text-sm sm:text-base text-amber-800 leading-relaxed">【満天の星空露天風呂＆天体ドーム天文台リゾート×ふるさ】 
-                  寄付額の最大30%分の宿泊クーポンが付与され、寄付当日から予約に即時利用可能。通常の楽天ポイント還元やお買い物マラソンとも併用できるため、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級リゾートや名湯旅館に泊まれる最強の制度です。
+                <h3 className="text-base sm:text-lg font-bold text-amber-900 mb-1">楽天ふるさと納税「トラベルクーポン」賢い活用法</h3>
+                <p className="text-sm sm:text-base text-amber-800 leading-relaxed">寄付額の最大30%分の宿泊クーポンが付与され、寄付当日から予約に即時利用可能。通常の楽天ポイント還元やお買い物マラソンとも併用できるため、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級リゾートや名湯旅館に泊まれる最強の制度です。
                 </p>
               </div>
             </div>
@@ -96,7 +95,7 @@ export default function Page() {
 
         {/* 3 Merits */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 border-l-4 border-indigo-600 pl-4">この特集ならではの3大魅力｜満天の星空露天風呂＆天体ドーム天文台リゾート×ふるさ</h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 border-l-4 border-indigo-600 pl-4">この特集ならではの3大魅力</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
             <div key="0" className="bg-slate-50 rounded-xl p-5 border border-slate-200 hover:border-indigo-300 transition-colors">
@@ -679,9 +678,8 @@ export default function Page() {
             <span>🎟️</span>
             <span>楽天ふるさと納税×楽天トラベル 公式連携</span>
           </div>
-          <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold mb-4 leading-tight">ふるさと納税で賢くお得に、憧れの極上宿へ｜満天の星空露天風呂＆天体ドーム天文台リゾート×ふるさ</h2>
-          <p className="text-slate-300 text-sm sm:text-base max-w-2xl mx-auto mb-8 leading-relaxed">【満天の星空露天風呂＆天体ドーム天文台リゾート×ふるさ】 
-            返礼品の宿泊クーポンは翌年以降の旅行にも活用でき、ポイント還元もフル適用。控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）ワンランク上の滞在をお楽しみください。
+          <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold mb-4 leading-tight">ふるさと納税で賢くお得に、憧れの極上宿へ</h2>
+          <p className="text-slate-300 text-sm sm:text-base max-w-2xl mx-auto mb-8 leading-relaxed">返礼品の宿泊クーポンは翌年以降の旅行にも活用でき、ポイント還元もフル適用。控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）ワンランク上の滞在をお楽しみください。
           </p>
           <div className="flex flex-col sm:flex-row justify-center items-center gap-4 max-w-md mx-auto">
             <a
@@ -697,7 +695,7 @@ export default function Page() {
 
         {/* Cross Links Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
-          <h2 className="text-lg sm:text-xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">あわせて読みたい関連特集ガイド｜満天の星空露天風呂＆天体ドーム天文台リゾート×ふるさ</h2>
+          <h2 className="text-lg sm:text-xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">あわせて読みたい関連特集ガイド</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             
             <Link

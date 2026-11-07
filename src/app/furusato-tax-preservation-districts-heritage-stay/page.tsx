@@ -115,9 +115,8 @@ export default function FurusatoUpgradedPage() {
 
           {/* 公式キャンペーンCTA */}
           <div className="p-6 rounded-3xl bg-gradient-to-br from-amber-500/20 via-amber-600/10 to-transparent border border-amber-500/30 backdrop-blur max-w-2xl mx-auto shadow-2xl">
-            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！｜重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふ</h2>
-            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">【重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふ】 
-              寄附翌日には楽天トラベルで使えるクーポンが付与。有効期限はたっぷり3年間あるため、次の大型連休や記念日旅行にも安心してご活用いただけます。
+            <h2 className="text-lg sm:text-xl font-bold text-amber-200 mb-2">楽天ふるさと納税なら寄附額の最大30%が宿泊クーポンに！</h2>
+            <p className="text-xs sm:text-sm text-stone-300 mb-4 leading-relaxed">寄附翌日には楽天トラベルで使えるクーポンが付与。有効期限はたっぷり3年間あるため、次の大型連休や記念日旅行にも安心してご活用いただけます。
             </p>
             <a
               href={officialFurusatoAffUrl}
@@ -134,7 +133,7 @@ export default function FurusatoUpgradedPage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">この特集で出会える極上の滞在体験と3つの魅力｜重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふ</h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">この特集で出会える極上の滞在体験と3つの魅力</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="01" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
@@ -258,30 +257,26 @@ export default function FurusatoUpgradedPage() {
       {/* 利用ステップ */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-t border-stone-800">
         <div className="rounded-3xl bg-gradient-to-br from-amber-500/10 via-stone-900 to-stone-950 border border-amber-500/20 p-8 sm:p-12 text-center">
-          <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-4">ふるさと納税トラベルクーポンの簡単3ステップ｜重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふ</h2>
-          <p className="text-stone-300 text-sm sm:text-base max-w-2xl mx-auto mb-10 leading-relaxed">【重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふ】 
-            寄附から割引適用まで全てオンラインで完結。実質2,000円の負担で憧れの名旅館や絶景リゾートをお得に楽しめます。
+          <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-4">ふるさと納税トラベルクーポンの簡単3ステップ</h2>
+          <p className="text-stone-300 text-sm sm:text-base max-w-2xl mx-auto mb-10 leading-relaxed">寄附から割引適用まで全てオンラインで完結。実質2,000円の負担で憧れの名旅館や絶景リゾートをお得に楽しめます。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-left mb-10">
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
               <div className="text-2xl font-black text-amber-400 mb-2">STEP 01</div>
-              <h3 className="font-bold text-white mb-2">自治体に寄附する（重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふ）</h3>
-              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">【重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふ】 
-                宿泊したい施設がある自治体を選び、楽天ふるさと納税で寄附を申し込みます。楽天ポイントも通常通り進呈されます。
+              <h3 className="font-bold text-white mb-2">自治体に寄附する</h3>
+              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">宿泊したい施設がある自治体を選び、楽天ふるさと納税で寄附を申し込みます。楽天ポイントも通常通り進呈されます。
               </p>
             </div>
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
               <div className="text-2xl font-black text-amber-400 mb-2">STEP 02</div>
-              <h3 className="font-bold text-white mb-2">クーポンが自動付与（重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふ）</h3>
-              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">【重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふ】 
-                寄附完了の翌日、楽天アカウントの「マイクーポン」に寄附額に応じた宿泊割引クーポンが自動的に追加されます。
+              <h3 className="font-bold text-white mb-2">クーポンが自動付与</h3>
+              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">寄附完了の翌日、楽天アカウントの「マイクーポン」に寄附額に応じた宿泊割引クーポンが自動的に追加されます。
               </p>
             </div>
             <div className="p-6 rounded-2xl bg-stone-950/80 border border-stone-800">
               <div className="text-2xl font-black text-amber-400 mb-2">STEP 03</div>
-              <h3 className="font-bold text-white mb-2">楽天トラベルで予約（重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふ）</h3>
-              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">【重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふ】 
-                対象のホテル・旅館を予約する際、決済画面でクーポンを選択するだけで宿泊代金から最大30%が即座に割引されます。
+              <h3 className="font-bold text-white mb-2">楽天トラベルで予約</h3>
+              <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">対象のホテル・旅館を予約する際、決済画面でクーポンを選択するだけで宿泊代金から最大30%が即座に割引されます。
               </p>
             </div>
           </div>
@@ -299,7 +294,7 @@ export default function FurusatoUpgradedPage() {
 
       {/* 相互リンク */}
       <section className="py-12 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto">
-        <h2 className="text-xl font-black text-amber-200 mb-6">あわせて読みたい極上ふるさと納税旅特集｜重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふ</h2>
+        <h2 className="text-xl font-black text-amber-200 mb-6">あわせて読みたい極上ふるさと納税旅特集</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <Link
             href="/furusato-tax-three-great-scenic-coasts-stay/"
@@ -333,7 +328,7 @@ export default function FurusatoUpgradedPage() {
       </section>
     
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -462,49 +457,7 @@ export default function FurusatoUpgradedPage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふるさと納税厳選ガイド倉敷・萩・橿原今井町」とあわせて巡りたい奈良県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「重要伝統的建造物群保存地区（重伝建）の歴史町家宿×ふるさと納税厳選ガイド倉敷・萩・橿原今井町」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">東大寺（大仏殿）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">聖武天皇の発願によって建てられた大和の象徴。世界最大級の木造建築である大仏殿の中に「奈良の大仏様（盧舎那仏）」が鎮座する圧巻のスケールです。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Five-storied_Pagoda%2C_Kofuku-ji_-_Nara%2C_Japan_-_DSC07497.jpg/1280px-Five-storied_Pagoda%2C_Kofuku-ji_-_Nara%2C_Japan_-_DSC07497.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="奈良公園（鹿）" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">奈良公園（鹿）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">東大寺・興福寺・春日大社を包み込む広大な風致公園。国の天然記念物である約1,300頭の野生の鹿たちが人間と共生しており「鹿せんべい」をあげられます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">法隆寺</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">推古天皇と聖徳太子によって建てられた世界最古の木造建築群であり日本初の世界遺産。五重塔や金堂、玉虫厨子など古代の歴史と文化財が凝縮されています。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">吉野山（千本桜）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">山全体が桜で覆われる日本一の桜の名所。下千本から奥千本へと標高差に従って順に咲き昇り、「一目に千本見える」と言われる圧巻の花絵巻が広がります。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       <HubRelatedPosts currentSlug="furusato-tax-preservation-districts-heritage-stay" />
 </div>

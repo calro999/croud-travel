@@ -226,7 +226,7 @@ export default function WellnessRetreatHubPage() {
       </div>
 
                     
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -448,49 +448,7 @@ export default function WellnessRetreatHubPage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「温泉泥パック＆タラソテラピー宿（天然クレイ泥湯・海洋深層水スパ 厳選ガイド）」とあわせて巡りたい鹿児島県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「温泉泥パック＆タラソテラピー宿：天然クレイ泥湯・海洋深層水スパ 厳選ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">桜島（有村溶岩展望所）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">錦江湾に浮かぶ鹿児島県のシンボルであり現在も活発な活動を続ける活火山。有村溶岩展望所からは溶岩原と噴煙を上げる大迫力の姿を間近で観察できます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Ibusuki.jpg/1280px-Ibusuki.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="指宿温泉（砂むし温泉）" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">指宿温泉（砂むし温泉）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">世界でも大変珍しい天然の海岸砂むし風呂。温かい温泉熱を含んだ砂の中に埋まり、海鳴りを聞きながら汗を流すデトックス体験は至福のひとときです。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">屋久島（縄文杉）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">樹齢7,000年とも言われる世界自然遺産・屋久島の象徴「縄文杉」。白谷雲水峡の美しい苔むす森や数千年の時を生き抜いた巨大な屋久杉群が感動を呼びます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">仙厳園（磯庭園）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">島津家第19代当主・光久によって造営された大名庭園。桜島を築山に、錦江湾を池に見立てた雄大な借景庭園で、隣接する世界遺産「尚古集成館」も見どころです。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
 
 

@@ -127,8 +127,7 @@ export default function Page() {
           <p className="text-slate-700 leading-relaxed mb-4">
             10月から11月にかけての京都府・京都・高雄・三尾（神護寺・西明寺・高山寺）は、豊かな自然美と歴史情緒が鮮やかに交差する特別なシーズンを迎えます。澄んだ秋空の下、山肌や渓谷が織りなす錦秋のパノラマは息をのむ美しさで、訪れる人々を魅了してやみません。
           </p>
-          <p className="text-slate-700 leading-relaxed mb-4">【京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠】 
-            心地よい秋風を感じながら名所を巡ったあとは、名湯に身を浸して日々の喧騒を忘れ、夜には秋の実りを凝縮した贅沢な郷土会席に舌鼓を打つ――これこそが大人の旅にふさわしい至高の贅沢です。
+          <p className="text-slate-700 leading-relaxed mb-4">心地よい秋風を感じながら名所を巡ったあとは、名湯に身を浸して日々の喧騒を忘れ、夜には秋の実りを凝縮した贅沢な郷土会席に舌鼓を打つ――これこそが大人の旅にふさわしい至高の贅沢です。
           </p>
           <p className="text-slate-700 leading-relaxed">
             本記事では、京都・高雄・三尾（神護寺・西明寺・高山寺）エリアで高い評価を誇るおすすめの名宿3選を徹底解説します。楽天ふるさと納税の宿泊クーポンを活用すれば、控除上限内であれば実質自己負担わずか2,000円（寄付額の最大30%クーポン還元）で憧れの高級旅館や温泉宿にお得に宿泊可能です。秋の特別な旅行プランをぜひご検討ください。
@@ -149,8 +148,7 @@ export default function Page() {
             </div>
             <div className="bg-white p-5 rounded-xl border border-amber-100 shadow-sm">
               <div className="text-amber-700 font-bold text-base mb-2">② 歴史と効能を誇る名湯</div>
-              <p className="text-xs sm:text-sm text-slate-600">【京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠】 
-                湯量豊富な天然温泉や情緒ある露天風呂。秋の爽やかな外気を感じながら心身を優しく解きほぐせます。
+              <p className="text-xs sm:text-sm text-slate-600">湯量豊富な天然温泉や情緒ある露天風呂。秋の爽やかな外気を感じながら心身を優しく解きほぐせます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-xl border border-amber-100 shadow-sm">
@@ -371,27 +369,24 @@ export default function Page() {
 
         {/* Furusato Tax Guide Section */}
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-2xl p-6 sm:p-8 shadow-lg mb-12">
-          <h3 className="text-xl sm:text-2xl font-bold mb-4 text-amber-200">💡 楽天ふるさと納税で「宿泊クーポン」を賢く手に入れる3ステップ（京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠）</h3>
+          <h3 className="text-xl sm:text-2xl font-bold mb-4 text-amber-200">💡 楽天ふるさと納税で「宿泊クーポン」を賢く手に入れる3ステップ</h3>
           <p className="text-stone-200 text-sm sm:text-base leading-relaxed mb-6">
             楽天ふるさと納税を利用すれば、京都府内の対象宿泊施設で使える楽天トラベルクーポンが寄付額に応じて返礼品として付与されます。控除上限内なら自己負担実質2,000円（寄付額の最大30%クーポン進呈）で高級宿にお得に泊まれるお得な活用法をチェックしましょう。
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
             <div className="bg-stone-800/80 p-4 rounded-xl border border-stone-700">
               <div className="text-amber-400 font-bold text-sm mb-1">STEP 1. 控除上限額を確認</div>
-              <p className="text-xs text-stone-300">【京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠】 
-                ご自身の年収や家族構成から、自己負担2,000円で寄付できる年間控除上限額をシミュレーションします。
+              <p className="text-xs text-stone-300">ご自身の年収や家族構成から、自己負担2,000円で寄付できる年間控除上限額をシミュレーションします。
               </p>
             </div>
             <div className="bg-stone-800/80 p-4 rounded-xl border border-stone-700">
               <div className="text-amber-400 font-bold text-sm mb-1">STEP 2. 自治体へ寄付</div>
-              <p className="text-xs text-stone-300">【京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠】 
-                楽天ふるさと納税から対象自治体の「楽天トラベルクーポン返礼品」を選んで寄付を申し込みます。
+              <p className="text-xs text-stone-300">楽天ふるさと納税から対象自治体の「楽天トラベルクーポン返礼品」を選んで寄付を申し込みます。
               </p>
             </div>
             <div className="bg-stone-800/80 p-4 rounded-xl border border-stone-700">
               <div className="text-amber-400 font-bold text-sm mb-1">STEP 3. 予約時にクーポン適用</div>
-              <p className="text-xs text-stone-300">【京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠】 
-                付与されたクーポンを楽天トラベルの予約画面で選択するだけで、即座に宿泊代金が割引されます。
+              <p className="text-xs text-stone-300">付与されたクーポンを楽天トラベルの予約画面で選択するだけで、即座に宿泊代金が割引されます。
               </p>
             </div>
           </div>
@@ -405,7 +400,7 @@ export default function Page() {
 
         {/* FAQ Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
-          <h3 className="text-xl sm:text-2xl font-bold text-slate-900 border-b border-slate-200 pb-3 mb-6">よくある質問（FAQ）（京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠）</h3>
+          <h3 className="text-xl sm:text-2xl font-bold text-slate-900 border-b border-slate-200 pb-3 mb-6">よくある質問（FAQ）</h3>
           <div className="space-y-6">
             <div className="border-b border-slate-100 pb-4">
               <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2">
@@ -419,8 +414,7 @@ export default function Page() {
               <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2">
                 <span className="text-amber-600 font-bold">Q.</span> ふるさと納税クーポンと楽天トラベルの他セールクーポンは併用できますか？
               </h4>
-              <p className="text-sm text-slate-600 leading-relaxed pl-6">【京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠】 
-                楽天トラベルでは、原則として自治体発行のふるさと納税クーポンと一部の宿クーポン等を組み合わせて利用可能です。予約ステップで適用可能なクーポンが自動表示されます。
+              <p className="text-sm text-slate-600 leading-relaxed pl-6">楽天トラベルでは、原則として自治体発行のふるさと納税クーポンと一部の宿クーポン等を組み合わせて利用可能です。予約ステップで適用可能なクーポンが自動表示されます。
               </p>
             </div>
             <div>
@@ -454,7 +448,7 @@ export default function Page() {
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded">1日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り（京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠）</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">到着〜チェックインと名湯巡り</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">14:00〜</strong> 花園（京都）駅よりアクセス。ＪＲ花園駅からタクシーで約１５分。</li>
@@ -466,7 +460,7 @@ export default function Page() {
             <div className="border-l-2 border-teal-500 pl-4 md:pl-6 space-y-4">
               <div className="flex items-center gap-2">
                 <span className="bg-teal-600 text-white text-xs font-bold px-2.5 py-1 rounded">2日目</span>
-                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ（京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠）</h3>
+                <h3 className="font-bold text-stone-900 text-base md:text-lg">爽快な朝湯〜周辺散策と帰路へ</h3>
               </div>
               <ul className="text-xs md:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li>・<strong className="text-stone-800">07:00〜</strong> 朝の光が差し込む「もみぢ家本館 高雄山荘」の湯船へ。清々しい空気の中で手足を伸ばし、心地よい目覚めを迎える。</li>
@@ -505,7 +499,7 @@ export default function Page() {
             </a>
           </div>
           <div className="pt-6 border-t border-stone-100">
-            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す（京都・高雄の三尾紅葉（神護寺・高山寺）＆清滝川沿い隠）</h3>
+            <h3 className="text-xs font-bold text-stone-400 uppercase tracking-wider mb-3">人気の都道府県から宿を探す</h3>
             <div className="flex flex-wrap gap-2">
               <Link
                 href="/prefectures/chiba/"

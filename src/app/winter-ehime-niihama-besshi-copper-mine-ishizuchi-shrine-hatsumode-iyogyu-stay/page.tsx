@@ -294,47 +294,7 @@ export default function Page() {
             </div>
           </section>
 
-          {/* Wikipedia 近隣観光名所セクション */}
-          <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
-            <div className="border-b border-stone-100 pb-4">
-              <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Wikipedia Spot Archive</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2 mt-1">
-                <Heart className="w-6 h-6 text-rose-500" />
-                <span>近隣名所アーカイブ：東洋のマチュピチュ・別子銅山東平遺構（標高750mの産業遺産と霊峰石鎚山新春初詣）</span>
-              </h2>
-            </div>
-
-            <div className="flex flex-col gap-6">
-              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
-                <img
-                  src="https://upload.wikimedia.org/wikipedia/commons/3/37/Besshi_copper_mine.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-                  alt="東洋のマチュピチュ・別子銅山東平遺構（標高750mの産業遺産と霊峰石鎚山新春初詣）"
-                  className="w-full h-full object-cover"
-                  loading="lazy"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-base">
-                  【東洋のマチュピチュ・別子銅山東平遺構（標高750mの産業遺産と霊峰石鎚山新春初詣）の見どころと歴史】
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  別子銅山（べっしどうざん）は、愛媛県新居浜市にあった銅山。総産銅量は日本第2位の約65万トン。日本三大銅山の一つ。 元禄4年（1691年）の開坑から1973年（昭和48年）の閉山まで283年間、一貫して住友家が経営し（閉山時は住友金属鉱山）、関連事業を興すことで発展を続け、住友が日本を代表する巨大財閥となる礎となった。
-                </p>
-                <div className="pt-2 text-xs text-stone-700">
-                  <a
-                    href="https://ja.wikipedia.org/wiki/%E5%88%A5%E5%AD%90%E9%8A%85%E5%B1%B1"
-                    target="_blank"
-                    rel="noopener noreferrer nofollow"
-                    className="inline-flex items-center gap-1 text-cyan-700 hover:text-cyan-900 underline"
-                  >
-                    <span>出典：Wikipedia公式『別子銅山』詳細情報を見る</span>
-                    <ExternalLink className="w-3 h-3" />
-                  </a>
-                </div>
-              </div>
-            </div>
-          </section>
-
+          
           {/* 厳選名宿5選 */}
           <section className="space-y-8">
             <div className="border-b border-stone-200 pb-4">

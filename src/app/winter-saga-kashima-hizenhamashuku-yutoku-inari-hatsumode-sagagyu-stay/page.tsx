@@ -261,45 +261,7 @@ export default function FeaturePage() {
             </div>
           </section>
 
-          {/* Wikipedia 近隣観光名所紹介 */}
-          <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
-            <div className="flex items-center gap-2 border-b border-stone-100 pb-4">
-              <Info className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                近隣の必見名所：肥前浜宿酒蔵通り（重要伝統的建造物群保存地区・白壁土蔵の冬新酒情緒と祐徳稲荷新春初詣）
-              </h2>
-            </div>
-            <div className="flex flex-col gap-6">
-              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
-                <img
-                  src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Hamasyuku_kashima_saga_japan.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-                  alt="鹿島市浜庄津町浜金屋町"
-                  className="w-full h-full object-cover"
-                  loading="eager" fetchPriority="high"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-lg">
-                  鹿島市浜庄津町浜金屋町
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  鹿島市浜庄津町浜金屋町（かしましはましょうづまちはまかなやまち）は、佐賀県鹿島市にある重要伝統的建造物群保存地区。鹿島市浜町の一部、約2.0haの範囲である。
-                </p>
-                <div className="pt-2 text-xs">
-                  <a
-                    href="https://ja.wikipedia.org/wiki/%E9%B9%BF%E5%B3%B6%E5%B8%82%E6%B5%9C%E5%BA%84%E6%B4%A5%E7%94%BA%E6%B5%9C%E9%87%91%E5%B1%8B%E7%94%BA"
-                    target="_blank"
-                    rel="noopener noreferrer nofollow"
-                    className="inline-flex items-center gap-1 text-cyan-700 hover:text-cyan-900 underline"
-                  >
-                    <span>出典：Wikipedia公式『鹿島市浜庄津町浜金屋町』詳細情報を見る</span>
-                    <ExternalLink className="w-3 h-3" />
-                  </a>
-                </div>
-              </div>
-            </div>
-          </section>
-
+          
           {/* 厳選名宿5選 */}
           <section className="space-y-8">
             <div className="border-b border-stone-200 pb-4">

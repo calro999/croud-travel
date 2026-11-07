@@ -90,7 +90,7 @@ export default function FurusatoTraditionalHearthIroriStayPage() {
           現代の慌ただしい日常から離れ、どこか懐かしく温かい日本の原風景へと誘ってくれる「囲炉裏（いろり）のある温泉旅館」。自在鉤から吊るされた鉄瓶、赤々と燃える炭火の柔らかな遠赤外線、香ばしい煙の匂い、そしてパチッと小さくはぜる炭の音——。囲炉裏を囲んで過ごす時間は、人と人との距離を自然と縮め、忘れかけていた心のゆとりを取り戻させてくれます。炭火でじっくりと時間をかけて焼き上げる川魚の塩焼きは外はパリッと中は驚くほどふっくら。郷土のブランド牛や地野菜、焼きたての五平餅や朴葉味噌の香ばしさは、ガスや電気の調理では絶対に再現できない極上のごちそうです。本特集では、世界遺産・白川郷の合掌造り文化をモダンに昇華し、囲炉裏ラウンジと飛騨牛炭火焼き会席が絶賛される「御宿 結の庄」、明治8年築の国登録有形文化財の木造建築と囲炉裏のある本館、そして足元から自噴する奇跡の「法師乃湯」を誇る「法師温泉 長寿館」、そして日本三大秘境・祖谷渓の断崖に佇み、専用ケーブルカーで降りる谷底露天風呂と囲炉裏鮎塩焼き・祖谷そばを味わう「和の宿 ホテル祖谷温泉」の3宿を厳選。楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で心に灯がともる囲炉裏温泉旅に出かけましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
-          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？（赤々と燃える炭火と香ばしい煙）</h3>
+          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -110,7 +110,7 @@ export default function FurusatoTraditionalHearthIroriStayPage() {
 
       {/* 目次 */}
       <section className="bg-gray-50 rounded-xl p-5 mb-12 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次｜赤々と燃える炭火と香ばしい煙</h2>
+        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次</h2>
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">囲炉裏料理＆古民家名湯宿特集が旅人を惹きつけてやまない3つの魅力</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】御宿　結の庄（共立リゾート）</a></li>
@@ -258,33 +258,33 @@ export default function FurusatoTraditionalHearthIroriStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ｜赤々と燃える炭火と香ばしい煙</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-1">控除限度額をチェック（赤々と燃える炭火と香ばしい煙）</h3>
-              <p className="text-xs md:text-sm text-gray-600">【赤々と燃える炭火と香ばしい煙】 年収や家族構成によって自己負担2,000円で利用できる上限額が決まります。まずは楽天ふるさと納税のシミュレーターで上限を確認しましょう。</p>
+              <h3 className="font-bold text-gray-900 mb-1">控除限度額をチェック</h3>
+              <p className="text-xs md:text-sm text-gray-600">年収や家族構成によって自己負担2,000円で利用できる上限額が決まります。まずは楽天ふるさと納税のシミュレーターで上限を確認しましょう。</p>
             </div>
           </div>
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">2</div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-1">自治体を選んでトラベルクーポンを寄付（赤々と燃える炭火と香ばしい煙）</h3>
+              <h3 className="font-bold text-gray-900 mb-1">自治体を選んでトラベルクーポンを寄付</h3>
               <p className="text-xs md:text-sm text-gray-600">訪れたい温泉宿のある自治体（市町村）へ寄付。寄付額の最大30％相当の楽天トラベルクーポンが数日以内にマイクーポンへ自動付与されます。</p>
             </div>
           </div>
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">3</div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-1">楽天トラベルで宿泊予約＆クーポン適用（赤々と燃える炭火と香ばしい煙）</h3>
-              <p className="text-xs md:text-sm text-gray-600">【赤々と燃える炭火と香ばしい煙】 有効期限は3年間。宿泊日や部屋タイプを決め、予約画面で取得したトラベルクーポンを選択すると宿泊代金から即時値引きされます。</p>
+              <h3 className="font-bold text-gray-900 mb-1">楽天トラベルで宿泊予約＆クーポン適用</h3>
+              <p className="text-xs md:text-sm text-gray-600">有効期限は3年間。宿泊日や部屋タイプを決め、予約画面で取得したトラベルクーポンを選択すると宿泊代金から即時値引きされます。</p>
             </div>
           </div>
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">4</div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-1">ワンストップ特例または確定申告で完了（赤々と燃える炭火と香ばしい煙）</h3>
+              <h3 className="font-bold text-gray-900 mb-1">ワンストップ特例または確定申告で完了</h3>
               <p className="text-xs md:text-sm text-gray-600">翌年の住民税・所得税から控除され、実質負担は年間2,000円のみ！浮いた予算で客室のアップグレードや別注料理を満喫できます。</p>
             </div>
           </div>
@@ -293,7 +293,7 @@ export default function FurusatoTraditionalHearthIroriStayPage() {
 
       {/* FAQ */}
       <section id="faq" className="mb-16">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）｜赤々と燃える炭火と香ばしい煙</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）</h2>
         <div className="space-y-4">
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
             <summary className="font-bold text-gray-900 text-sm md:text-base flex justify-between items-center">

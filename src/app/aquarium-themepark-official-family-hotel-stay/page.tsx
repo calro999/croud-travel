@@ -192,7 +192,7 @@ export default function Page() {
         {/* 厳選ホテル・宿ランキング比較一覧 */}
         <div className="space-y-8 pt-4">
           <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2 border-b border-emerald-950/10 pb-3"><span>🏆</span>
-            <span>編集部が厳選したおすすめ宿泊施設 TOP3</span>｜開園直前から閉園後まで遊び尽くす</h2>
+            <span>編集部が厳選したおすすめ宿泊施設 TOP3</span></h2>
 
           <div className="space-y-8">
             {hotels.map((h, idx) => (
@@ -292,14 +292,12 @@ export default function Page() {
           <div className="space-y-3 text-xs">
             <div className="p-4 rounded-xl bg-teal-50/30 border border-teal-900/10 space-y-1.5">
               <h4 className="font-bold text-teal-950">Q. 水族館・テーマパーク旅の予約でお得な方法はありますか？</h4>
-              <p className="text-emerald-950/80 leading-relaxed">【開園直前から閉園後まで遊び尽くす】 
-                楽天トラベルの「5と0のつく日セール」による最大20%割引や、控除上限内であれば自己負担実質2,000円で宿泊できる（寄付額の最大30%クーポン還元）「楽天ふるさと納税宿泊クーポン」の併用が最もお得でおすすめです。
+              <p className="text-emerald-950/80 leading-relaxed">楽天トラベルの「5と0のつく日セール」による最大20%割引や、控除上限内であれば自己負担実質2,000円で宿泊できる（寄付額の最大30%クーポン還元）「楽天ふるさと納税宿泊クーポン」の併用が最もお得でおすすめです。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-teal-50/30 border border-teal-900/10 space-y-1.5">
               <h4 className="font-bold text-teal-950">Q. キャンセル料や予約変更はどうなっていますか？</h4>
-              <p className="text-emerald-950/80 leading-relaxed">【開園直前から閉園後まで遊び尽くす】 
-                各宿泊施設および予約プランによってキャンセル規定が異なります。ご予約完了前に楽天トラベルの詳細ページにてキャンセルポリシーを必ずご確認ください。
+              <p className="text-emerald-950/80 leading-relaxed">各宿泊施設および予約プランによってキャンセル規定が異なります。ご予約完了前に楽天トラベルの詳細ページにてキャンセルポリシーを必ずご確認ください。
               </p>
             </div>
           </div>
@@ -307,7 +305,7 @@ export default function Page() {
       </div>
     
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -436,49 +434,7 @@ export default function Page() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「開園直前から閉園後まで遊び尽くす（全国の水族館・テーマパーク直結＆オフィシャルホテル）」とあわせて巡りたい大阪府の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「開園直前から閉園後まで遊び尽くす！全国の水族館・テーマパーク直結＆オフィシャルホテル」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">大阪城公園（大阪城天守閣）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">豊臣秀吉公が築城した天下の名城。黄金の飾りが映える重厚な天守閣と、壮大な石垣・巨石、春には桜が咲き誇る広大な都会のオアシスです。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">道頓堀・グリコサイン</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">食い倒れの街・大阪を象徴するネオン街。グリコの巨大看板前での記念撮影や、道頓堀川沿いでのたこ焼き・串カツ食べ歩きで活気にあふれています。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">ユニバーサル・スタジオ・ジャパン（USJ）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「ウィザーディング・ワールド・オブ・ハリー・ポッター」や「スーパー・ニンテンドー・ワールド」など世界最高峰のエンターテインメントが体験できる世界級テーマパーク。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">通天閣・新世界</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">なにわのシンボルタワー「通天閣」と、昭和レトロな雰囲気が色濃く残る新世界。幸運の神様「ビリケンさん」の足の裏を撫でて幸運を祈願できます。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       <HubRelatedPosts currentSlug="aquarium-themepark-official-family-hotel-stay" />
 </div>

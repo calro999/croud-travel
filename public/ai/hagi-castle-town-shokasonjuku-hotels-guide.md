@@ -1,5 +1,5 @@
 ---
-title: "【萩おすすめ高級旅館10選】萩温泉郷 萩の宿・常茂恵・萩温泉郷 宵待ちの宿 萩一輪一輪など楽天トラベル高評価の名宿を徹底比較"
+title: "【萩おすすめ高級旅館10選】萩温泉郷 萩の宿・常茂恵・萩温泉郷 宵待ちの宿 萩一輪など楽天トラベル高評価の名宿を徹底比較"
 url: "https://croud-travel.pages.dev/posts/hagi-castle-town-shokasonjuku-hotels-guide/"
 hotel_name: "萩・城下町おすすめ宿10選"
 prefecture: "山口県"
@@ -9,7 +9,7 @@ rating: 4.88
 last_modified: "2026-10-06"
 ---
 
-# 【萩おすすめ高級旅館10選】萩温泉郷 萩の宿・常茂恵・萩温泉郷 宵待ちの宿 萩一輪一輪など楽天トラベル高評価の名宿を徹底比較
+# 【萩おすすめ高級旅館10選】萩温泉郷 萩の宿・常茂恵・萩温泉郷 宵待ちの宿 萩一輪など楽天トラベル高評価の名宿を徹底比較
 
 - **URL**: https://croud-travel.pages.dev/posts/hagi-castle-town-shokasonjuku-hotels-guide/
 - **宿泊施設・特集名**: 萩・城下町おすすめ宿10選

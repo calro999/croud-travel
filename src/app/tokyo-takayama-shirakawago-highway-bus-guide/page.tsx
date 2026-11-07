@@ -167,9 +167,8 @@ export default function HighwayBusArticlePage() {
           <div className="flex items-center gap-2 text-cyan-700 font-extrabold text-xs uppercase tracking-wider mb-1">
             <span>⚡ COST & TIME COMPARISON</span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">交通手段の徹底比較（料金・所要時間・特徴）｜東京・新宿</h2>
-          <p className="text-xs md:text-sm text-slate-600 mt-1">【東京・新宿】 
-            それぞれの交通機関のメリット・デメリットを整理しました。旅の目的や予算に合わせて最適な移動手段を選びましょう。
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">交通手段の徹底比較（料金・所要時間・特徴）</h2>
+          <p className="text-xs md:text-sm text-slate-600 mt-1">それぞれの交通機関のメリット・デメリットを整理しました。旅の目的や予算に合わせて最適な移動手段を選びましょう。
           </p>
         </div>
 
@@ -215,7 +214,7 @@ export default function HighwayBusArticlePage() {
         <div className="bg-gradient-to-br from-amber-50 via-orange-50 to-amber-100/60 border border-amber-200 rounded-2xl p-6 space-y-4">
           <div className="flex items-center gap-2">
             <span className="text-xl">🚌</span>
-            <h3 className="text-base font-black text-amber-950 font-journal-serif">高速バスを選ぶ3つの大きなメリット（東京・新宿）</h3>
+            <h3 className="text-base font-black text-amber-950 font-journal-serif">高速バスを選ぶ3つの大きなメリット</h3>
           </div>
           <ul className="space-y-2 text-xs md:text-sm text-amber-950/90 font-medium list-disc list-inside">
             {busDetails.points.map((pt: string, idx: number) => (
@@ -242,9 +241,8 @@ export default function HighwayBusArticlePage() {
           <div className="flex items-center gap-2 text-indigo-700 font-extrabold text-xs uppercase tracking-wider mb-1">
             <span>🗺️ RECOMMENDED ITINERARY</span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">交通費を浮かせて贅沢に楽しむ！1泊2日おすすめモデルコース｜東京・新宿</h2>
-          <p className="text-xs md:text-sm text-slate-600 mt-1">【東京・新宿】 
-            移動スケジュールと見どころ、グルメスポットをスムーズに巡る時間配分プランです。
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">交通費を浮かせて贅沢に楽しむ！1泊2日おすすめモデルコース</h2>
+          <p className="text-xs md:text-sm text-slate-600 mt-1">移動スケジュールと見どころ、グルメスポットをスムーズに巡る時間配分プランです。
           </p>
         </div>
 
@@ -286,8 +284,7 @@ export default function HighwayBusArticlePage() {
           <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">
             高山駅・古い町並み徒歩圏内！飛騨牛料理と天然温泉の名旅館
           </h2>
-          <p className="text-xs md:text-sm text-slate-600 mt-1">【東京・新宿】 
-            バス停や駅からのアクセスが抜群で、浮いた交通費でワンランク上の滞在が叶う人気宿泊施設です。
+          <p className="text-xs md:text-sm text-slate-600 mt-1">バス停や駅からのアクセスが抜群で、浮いた交通費でワンランク上の滞在が叶う人気宿泊施設です。
           </p>
         </div>
 
@@ -347,7 +344,7 @@ export default function HighwayBusArticlePage() {
                   </a>
                 </div>
               
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -508,7 +505,7 @@ export default function HighwayBusArticlePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「東京・新宿〜飛騨高山・白川郷（直行高速バスが最強）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：平湯温泉方面行きバス乗車、「平湯温泉駅」下車／松本ＩＣより６０分／富山ＩＣより９０分／清見ＩＣより８０分</p>
-                  <p>【東京・新宿】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は満足食事に関しては味も良く、囲炉裏の雰囲気もあり、食事対応の方の接客も好感が持ててよかった。温泉に関しては、浴槽の変色やヌメヌメ感、硫黄の匂いも強く、温泉らしい温泉に思えた。客…」
@@ -538,49 +535,7 @@ export default function HighwayBusArticlePage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「東京・新宿〜飛騨高山・白川郷（直行高速バスが最強）」とあわせて巡りたい東京都の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「東京・新宿〜飛騨高山・白川郷：直行高速バスが最強！電車との料金・時間比較＆飛騨牛1泊2日モデルコース」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">浅草寺・雷門</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">都内最古の寺院であり、巨大な大提灯が吊り下げられた「雷門」が東京観光の顔。仲見世通りには名物の人形焼きや煎餅店が立ち並び江戸風情を色濃く残します。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">東京タワー</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">昭和33年に開業した高さ333mの赤と白の総合電波塔。メインデッキやトップデッキからの都心のナイトビューと季節ごとのライトアップが人気です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">東京スカイツリー</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">高さ634mを誇る世界一高い自立式電波塔。地上350m・450mの展望台からは関東一円を見渡せる超パノラマ絶景が広がり、商業施設ソラマチも隣接しています。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">明治神宮</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">明治天皇と昭憲皇太后をお祀りする神社。都会の真ん中にありながら約70ヘクタールの豊かな人工林に囲まれた清らかな癒やしとパワーのスポットです。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       </article>
             ))}
@@ -603,9 +558,8 @@ export default function HighwayBusArticlePage() {
               手ぶらで名所めぐり＆絶景旅
             </span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white">楽天トラベル 日帰りバスツアー＆観光特集でさらに旅を満喫！｜東京・新宿</h2>
-          <p className="text-xs md:text-sm text-amber-100/80 leading-relaxed font-medium">【東京・新宿】 
-            個人手配が難しい季節のフルーツ狩り・絶景ライトアップ・ご当地名物食べ放題など、添乗員付きで安心して楽しめる人気バスツアーやテーマ別特集も要チェック。
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white">楽天トラベル 日帰りバスツアー＆観光特集でさらに旅を満喫！</h2>
+          <p className="text-xs md:text-sm text-amber-100/80 leading-relaxed font-medium">個人手配が難しい季節のフルーツ狩り・絶景ライトアップ・ご当地名物食べ放題など、添乗員付きで安心して楽しめる人気バスツアーやテーマ別特集も要チェック。
           </p>
         </div>
 
@@ -617,9 +571,8 @@ export default function HighwayBusArticlePage() {
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🍓</div>
-            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-300 transition">季節の味覚＆日帰りバスツアー（東京・新宿）</h3>
-            <p className="text-[11px] text-stone-300 leading-relaxed">【東京・新宿】 
-              いちご・ぶどう・松茸など旬の味覚狩りや名所巡りがセットでお得。
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-300 transition">季節の味覚＆日帰りバスツアー</h3>
+            <p className="text-[11px] text-stone-300 leading-relaxed">いちご・ぶどう・松茸など旬の味覚狩りや名所巡りがセットでお得。
             </p>
             <div className="text-[11px] font-bold text-amber-400 pt-1 flex items-center gap-1">
               <span>バスツアーを見る</span>
@@ -634,9 +587,8 @@ export default function HighwayBusArticlePage() {
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🎫</div>
-            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-300 transition">高速バス タイムセール＆クーポン（東京・新宿）</h3>
-            <p className="text-[11px] text-stone-300 leading-relaxed">【東京・新宿】 
-              楽天トラベル限定の高速バス割引クーポン＆お得な夜行便セール。
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-300 transition">高速バス タイムセール＆クーポン</h3>
+            <p className="text-[11px] text-stone-300 leading-relaxed">楽天トラベル限定の高速バス割引クーポン＆お得な夜行便セール。
             </p>
             <div className="text-[11px] font-bold text-amber-400 pt-1 flex items-center gap-1">
               <span>クーポンを見る</span>
@@ -649,9 +601,8 @@ export default function HighwayBusArticlePage() {
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/15 border border-white/10 hover:border-amber-400 transition space-y-2 group"
           >
             <div className="text-2xl">🚅</div>
-            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-300 transition">人気観光列車＆極上名旅館（東京・新宿）</h3>
-            <p className="text-[11px] text-stone-300 leading-relaxed">【東京・新宿】 
-              サフィール踊り子・しまかぜ・ゆふいんの森で行く贅沢列車ステイ。
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-300 transition">人気観光列車＆極上名旅館</h3>
+            <p className="text-[11px] text-stone-300 leading-relaxed">サフィール踊り子・しまかぜ・ゆふいんの森で行く贅沢列車ステイ。
             </p>
             <div className="text-[11px] font-bold text-amber-400 pt-1 flex items-center gap-1">
               <span>観光列車ガイドを見る</span>

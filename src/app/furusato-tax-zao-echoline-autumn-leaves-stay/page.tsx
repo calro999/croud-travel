@@ -371,27 +371,24 @@ export default function Page() {
 
         {/* Furusato Tax Guide Section */}
         <section className="bg-gradient-to-br from-amber-950 to-stone-900 text-white rounded-2xl p-6 sm:p-8 shadow-lg mb-12">
-          <h3 className="text-xl sm:text-2xl font-bold mb-4 text-amber-200">💡 楽天ふるさと納税で「宿泊クーポン」を賢く手に入れる3ステップ（蔵王エコーラインの絶景ドライブ紅葉＆強酸性白濁名湯・）</h3>
+          <h3 className="text-xl sm:text-2xl font-bold mb-4 text-amber-200">💡 楽天ふるさと納税で「宿泊クーポン」を賢く手に入れる3ステップ</h3>
           <p className="text-stone-200 text-sm sm:text-base leading-relaxed mb-6">
             楽天ふるさと納税を利用すれば、山形県内の対象宿泊施設で使える楽天トラベルクーポンが寄付額に応じて返礼品として付与されます。控除上限内なら自己負担実質2,000円（寄付額の最大30%クーポン進呈）で高級宿にお得に泊まれるお得な活用法をチェックしましょう。
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
             <div className="bg-stone-800/80 p-4 rounded-xl border border-stone-700">
               <div className="text-amber-400 font-bold text-sm mb-1">STEP 1. 控除上限額を確認</div>
-              <p className="text-xs text-stone-300">【蔵王エコーラインの絶景ドライブ紅葉＆強酸性白濁名湯・】 
-                ご自身の年収や家族構成から、自己負担2,000円で寄付できる年間控除上限額をシミュレーションします。
+              <p className="text-xs text-stone-300">ご自身の年収や家族構成から、自己負担2,000円で寄付できる年間控除上限額をシミュレーションします。
               </p>
             </div>
             <div className="bg-stone-800/80 p-4 rounded-xl border border-stone-700">
               <div className="text-amber-400 font-bold text-sm mb-1">STEP 2. 自治体へ寄付</div>
-              <p className="text-xs text-stone-300">【蔵王エコーラインの絶景ドライブ紅葉＆強酸性白濁名湯・】 
-                楽天ふるさと納税から対象自治体の「楽天トラベルクーポン返礼品」を選んで寄付を申し込みます。
+              <p className="text-xs text-stone-300">楽天ふるさと納税から対象自治体の「楽天トラベルクーポン返礼品」を選んで寄付を申し込みます。
               </p>
             </div>
             <div className="bg-stone-800/80 p-4 rounded-xl border border-stone-700">
               <div className="text-amber-400 font-bold text-sm mb-1">STEP 3. 予約時にクーポン適用</div>
-              <p className="text-xs text-stone-300">【蔵王エコーラインの絶景ドライブ紅葉＆強酸性白濁名湯・】 
-                付与されたクーポンを楽天トラベルの予約画面で選択するだけで、即座に宿泊代金が割引されます。
+              <p className="text-xs text-stone-300">付与されたクーポンを楽天トラベルの予約画面で選択するだけで、即座に宿泊代金が割引されます。
               </p>
             </div>
           </div>
@@ -405,7 +402,7 @@ export default function Page() {
 
         {/* FAQ Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
-          <h3 className="text-xl sm:text-2xl font-bold text-slate-900 border-b border-slate-200 pb-3 mb-6">よくある質問（FAQ）（蔵王エコーラインの絶景ドライブ紅葉＆強酸性白濁名湯・）</h3>
+          <h3 className="text-xl sm:text-2xl font-bold text-slate-900 border-b border-slate-200 pb-3 mb-6">よくある質問（FAQ）</h3>
           <div className="space-y-6">
             <div className="border-b border-slate-100 pb-4">
               <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2">
@@ -419,8 +416,7 @@ export default function Page() {
               <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2">
                 <span className="text-amber-600 font-bold">Q.</span> ふるさと納税クーポンと楽天トラベルの他セールクーポンは併用できますか？
               </h4>
-              <p className="text-sm text-slate-600 leading-relaxed pl-6">【蔵王エコーラインの絶景ドライブ紅葉＆強酸性白濁名湯・】 
-                楽天トラベルでは、原則として自治体発行のふるさと納税クーポンと一部の宿クーポン等を組み合わせて利用可能です。予約ステップで適用可能なクーポンが自動表示されます。
+              <p className="text-sm text-slate-600 leading-relaxed pl-6">楽天トラベルでは、原則として自治体発行のふるさと納税クーポンと一部の宿クーポン等を組み合わせて利用可能です。予約ステップで適用可能なクーポンが自動表示されます。
               </p>
             </div>
             <div>

@@ -106,14 +106,6 @@ export default function FeaturePage() {
     }
   ]
 };
-  const touristAttractionSchema = {
-  "@context": "https://schema.org",
-  "@type": "TouristAttraction",
-  "name": "霊場・福満虚空藏菩薩圓蔵寺（赤べこ発祥と冬の只見川絶景）",
-  "description": "柳津町（やないづまち）は、福島県会津地方（奥会津）に位置し、河沼郡に属する町。 奥会津の入り口に位置し、圓蔵寺の門前町として発展してきた。赤べこ伝説発祥の地である。",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/%E5%9C%93%E8%94%B5%E5%AF%BA_-_panoramio_%282%29.jpg/1280px-%E5%9C%93%E8%94%B5%E5%AF%BA_-_panoramio_%282%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-};
-
   return (
     <>
       <script
@@ -123,10 +115,6 @@ export default function FeaturePage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(touristAttractionSchema) }}
       />
 
       <main className="min-h-screen bg-stone-50 pb-20">
@@ -213,102 +201,13 @@ export default function FeaturePage() {
         </section>
 
         {/* 現地アクセス・服装ガイド */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <div className="flex items-center justify-between border-b border-stone-100 pb-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <Calendar className="w-4 h-4 text-cyan-700" />
-                アクセス・気候・おすすめの服装
-              </h3>
-            </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
-              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
-                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                  <span>エリアへのアクセス</span>
-                </h4>
-                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">電車：</strong>JR磐越西線「会津若松駅」よりJR只見線に乗り換え「会津柳津駅」まで約1時間、「会津宮下駅」まで約1時間20分。東京方面からは東北新幹線「郡山駅」経由で会津若松駅へアクセス。</span>
-                  </li>
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">車：</strong>磐越自動車道「会津坂下IC」より国道252号線を経由して柳津町市街地まで約10〜15分、三島町まで約25分。東京方面から約3時間30分、仙台方面から約2時間。</span>
-                  </li>
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">第一只見川橋梁ビューポイント：</strong>道の駅みしま宿（三島町）から遊歩道を登り徒歩約5〜10分。</span>
-                  </li>
-                </ul>
-              </div>
-              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
-                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                  <span>見頃・気候・おすすめの服装</span>
-                </h4>
-                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">ベストシーズン：</strong>11月下旬〜1月下旬（只見線の雪景色、圓蔵寺新春初詣・七日堂裸まいり、雪見温泉の最盛期）。</span>
-                  </li>
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">気温の目安：</strong>奥会津は全国屈指の特別豪雪地帯であり、12月〜1月の真冬は日中でも氷点下になる日が多く、朝晩は氷点下5℃〜10℃近くまで冷え込みます。</span>
-                  </li>
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">服装のポイント：</strong>本格的な防寒対策が必須です。極厚手のダウンコート、フリース、保温吸湿インナー、防寒手袋、厚手の靴下、耳あて付きニット帽を着用してください。足元は深い雪や凍結に対応できる防水・防滑仕様のスノーブーツ（長靴等）が絶対に必要です。マイカーの場合は4WD車＋高性能スタッドレスタイヤが必須です。</span>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* Wikipedia公式連携スポットセクション */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <div className="flex items-center justify-between">
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                近隣名所アーカイブ：霊場・福満虚空藏菩薩圓蔵寺（赤べこ発祥と冬の只見川絶景）
-              </h2>
-              <span className="text-[11px] text-stone-400">Wikipedia公式情報連携</span>
-            </div>
-
-            <div className="flex flex-col gap-5">
-              <div className="w-full overflow-hidden rounded-xl border border-stone-200 bg-stone-100 aspect-[16/9] sm:aspect-[21/9]">
-                <img
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/%E5%9C%93%E8%94%B5%E5%AF%BA_-_panoramio_%282%29.jpg/1280px-%E5%9C%93%E8%94%B5%E5%AF%BA_-_panoramio_%282%29.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="霊場・福満虚空藏菩薩圓蔵寺（赤べこ発祥と冬の只見川絶景）"
-                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="eager" fetchPriority="high"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                  霊場・福満虚空藏菩薩圓蔵寺（赤べこ発祥と冬の只見川絶景） の見どころと歴史
-                </h3>
-                <p className="text-sm sm:text-base text-stone-600 leading-relaxed">
-                  柳津町（やないづまち）は、福島県会津地方（奥会津）に位置し、河沼郡に属する町。 奥会津の入り口に位置し、圓蔵寺の門前町として発展してきた。赤べこ伝説発祥の地である。
-                </p>
-                <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                  <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                  <span className="text-cyan-700 font-semibold">冬の探訪推奨スポット</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
             <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
               奥会津・只見・会津柳津 厳選の温泉＆名宿5選
             </h2>
-            <p className="text-xs sm:text-sm text-stone-500">【白銀のJR只見線と赤べこ発祥圓蔵寺：2026-202】 
-              楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
+            <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
 
@@ -630,8 +529,7 @@ export default function FeaturePage() {
                 <h3 className="text-xl sm:text-2xl font-bold">
                   福島県の宿に実質2,000円で泊まる賢い方法
                 </h3>
-                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">【白銀のJR只見線と赤べこ発祥圓蔵寺：2026-202】 
-                  楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
+                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
               <a

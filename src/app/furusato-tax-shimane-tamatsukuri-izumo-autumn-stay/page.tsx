@@ -136,11 +136,10 @@ export default function Page() {
           <p className="text-stone-700 leading-relaxed">
             秋風が心地よく吹き抜け、木々が鮮やかに色づく10月・11月。日本各地がもっとも美しく、実り豊かな季節を迎えます。なかでも「島根・玉造温泉＆出雲」は、出雲大社神在祭（神在月）・玉作湯神社の秋ライトアップ・宍道湖の夕日など、この時期にしか出逢えない息を呑む絶景と旬の味覚が凝縮された屈指の名所です。
           </p>
-          <p className="text-stone-700 leading-relaxed">【島根・玉造温泉と出雲大社「神在月」】 
-            さらに賢く贅沢に旅を楽しむ方法として今もっとも注目されているのが「楽天ふるさと納税トラベルクーポン」の活用です。地域の自治体に寄付を行うことで返礼品として宿泊割引クーポンを獲得でき、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級旅館やリゾートホテルへの宿泊が実現します。
+          <p className="text-stone-700 leading-relaxed">さらに賢く贅沢に旅を楽しむ方法として今もっとも注目されているのが「楽天ふるさと納税トラベルクーポン」の活用です。地域の自治体に寄付を行うことで返礼品として宿泊割引クーポンを獲得でき、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級旅館やリゾートホテルへの宿泊が実現します。
           </p>
           <div className="bg-amber-50 border border-amber-200 p-4 rounded-lg mt-4">
-            <h3 className="font-bold text-amber-900 text-sm mb-1">【秋旅のポイント】ふるさと納税トラベルクーポンの特徴（島根・玉造温泉と出雲大社「神在月」）</h3>
+            <h3 className="font-bold text-amber-900 text-sm mb-1">【秋旅のポイント】ふるさと納税トラベルクーポンの特徴</h3>
             <ul className="list-disc list-inside text-xs md:text-sm text-amber-800 space-y-1">
               <li>寄付金額に応じた宿泊補助（最大30%相当のクーポン付与）（島根・玉造温泉と出雲大社「神在月」）</li>
               <li>楽天ポイントも通常通り付与（お買い物マラソンやSPUでさらにお得）（島根・玉造温泉と出雲大社「神在月」）</li>
@@ -151,10 +150,10 @@ export default function Page() {
 
         {/* 季節の見どころと味覚 */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-6">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">10月・11月に訪れたい絶景スポットと秋の味覚｜島根・玉造温泉と出雲大社「神在月」</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">10月・11月に訪れたい絶景スポットと秋の味覚</h2>
           <div className="grid md:grid-cols-2 gap-6">
             <div className="bg-stone-50 p-5 rounded-lg border border-stone-200">
-              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 周辺の見どころ・名所（島根・玉造温泉と出雲大社「神在月」）</h3>
+              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 周辺の見どころ・名所</h3>
               <ul className="text-sm text-stone-600 space-y-2">
                 <li className="flex items-start"><span className="text-amber-500 mr-2">•</span>出雲大社（神楽殿・本殿）</li>
                 <li className="flex items-start"><span className="text-amber-500 mr-2">•</span>玉作湯神社（願い石・叶い石）</li>
@@ -164,11 +163,11 @@ export default function Page() {
               </ul>
             </div>
             <div className="bg-stone-50 p-5 rounded-lg border border-stone-200">
-              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 旬の味覚・ご当地グルメ（島根・玉造温泉と出雲大社「神在月」）</h3>
+              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 旬の味覚・ご当地グルメ</h3>
               <p className="text-sm text-stone-700 leading-relaxed mb-3">
                 島根和牛フィレ会席・宍道湖産天然すずきとシジミ鍋・出雲割子そば・日本海旬魚・仁多米コシヒカリ
               </p>
-              <h3 className="text-base font-bold text-stone-900 mb-1 flex items-center"><span className="text-amber-600 mr-2">◆</span> 温泉の特徴（島根・玉造温泉と出雲大社「神在月」）</h3>
+              <h3 className="text-base font-bold text-stone-900 mb-1 flex items-center"><span className="text-amber-600 mr-2">◆</span> 温泉の特徴</h3>
               <p className="text-sm text-stone-700 leading-relaxed">
                 玉造温泉（ナトリウム・カルシウム-硫酸塩・塩化物泉、美肌・保湿効果抜群）と日本庭園露天風呂
               </p>
@@ -333,7 +332,7 @@ export default function Page() {
           </h2>
           <div className="space-y-6">
             <div className="border-l-2 border-amber-500 pl-4 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base">【1日目】錦秋の絶景巡りと極上温泉チェックイン（島根・玉造温泉と出雲大社「神在月」）</h3>
+              <h3 className="font-bold text-stone-900 text-base">【1日目】錦秋の絶景巡りと極上温泉チェックイン</h3>
               <ul className="text-sm text-stone-700 space-y-2">
                 <li><span className="font-semibold text-amber-700">10:00</span> - 現地到着後、出雲大社（神楽殿・本殿）を散策。澄んだ秋空と鮮やかな景観を堪能</li>
                 <li><span className="font-semibold text-amber-700">12:30</span> - ご当地名店にて旬の味覚（島根和牛フィレ会席など）の贅沢ランチ</li>
@@ -343,7 +342,7 @@ export default function Page() {
               </ul>
             </div>
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base">【2日目】朝の清涼な空気と名所・お土産巡り（島根・玉造温泉と出雲大社「神在月」）</h3>
+              <h3 className="font-bold text-stone-900 text-base">【2日目】朝の清涼な空気と名所・お土産巡り</h3>
               <ul className="text-sm text-stone-700 space-y-2">
                 <li><span className="font-semibold text-emerald-700">07:30</span> - 朝風呂で爽やかな目覚め＆地場産食材が並ぶ和朝食（島根・玉造温泉と出雲大社「神在月」）</li>
                 <li><span className="font-semibold text-emerald-700">09:30</span> - チェックアウト後、足立美術館（日本一の庭園と秋の紅葉）を訪問</li>
@@ -359,7 +358,7 @@ export default function Page() {
 
         {/* 関連特集リンク */}
         <section className="bg-amber-50/50 p-6 rounded-xl border border-amber-200 space-y-4">
-          <h2 className="text-lg font-bold text-stone-900">こちらもチェック！秋のふるさと納税特集｜島根・玉造温泉と出雲大社「神在月」</h2>
+          <h2 className="text-lg font-bold text-stone-900">こちらもチェック！秋のふるさと納税特集</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs md:text-sm">
             <Link href="/furusato-tax-toba-ise-shima-iseebi-autumn-stay/" className="text-emerald-800 hover:underline">
               → 三重・鳥羽＆伊勢志摩（伊勢海老解禁＆オーシャンビュー温泉）特集
@@ -504,7 +503,7 @@ export default function Page() {
         </section>
 
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -625,7 +624,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>★完成150年超★長楽園にしかない「混浴大露天風呂」は家族みんなで、恋人同士で、仲間同士で楽しもう♪</p>
                   <p><strong>【所在地・アクセス】</strong>〒 島根県松江市玉湯町玉造323 ／ 最寄り駅：玉造温泉 ／ 交通案内：JR「玉造温泉駅」下車 ・タクシーで約10分/ 米子自動車道→山陰自動車道→松江・玉造ICより国道９号線経由</p>
-                  <p>【島根・玉造温泉と出雲大社「神在月」】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.43 ／ 部屋 ★4.34 ／ 設備 ★4.21 ／ 風呂 ★4.49 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉、温かいおもてなしに大満足静かで落ち着いた雰囲気の中、日常を忘れてゆっくり過ごすことができました。お料理は一品一品がとても美味しく、旅の楽しみがさらに増すような素敵な内容でした。…」
@@ -633,56 +632,14 @@ export default function Page() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「島根・玉造温泉と出雲大社「神在月」（日本最古の美肌温泉＆宍道湖七道・島根和牛）」とあわせて巡りたい北海道の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「島根・玉造温泉と出雲大社「神在月」！日本最古の美肌温泉＆宍道湖七道・島根和牛｜ふるさと納税で泊まれる名宿ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Wide_view_of_Mount_Hakodate_from_Mashu-Maru.jpg/1280px-Wide_view_of_Mount_Hakodate_from_Mashu-Maru.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="函館山（夜景）" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">函館山（夜景）（島根・玉造温泉と出雲大社「神在月」）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">富良野 ファーム富田（島根・玉造温泉と出雲大社「神在月」）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">一面に広がる鮮やかな紫色のラベンダー畑と、虹色に彩られた花畑が織りなすパノラマロード。富良野の雄大な自然と爽やかな香りに包まれる絶好の観光名所です。（「島根・玉造温泉と出雲大社「神在月」（日本最古の美肌温泉＆宍道湖七道・島根和牛）」の周遊ルートとしても人気の立ち寄り先です）</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Otaru_Hokkaido_Japan.jpg/1280px-Otaru_Hokkaido_Japan.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="小樽運河" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">小樽運河</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">大正時代に造られたノスタルジックな石造り倉庫群が立ち並ぶ小樽のシンボル。夕暮れ時にはガス灯が灯り、幻想的な雰囲気の中で散策やナイトクルーズを楽しめます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Asahikawa_Montage.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" alt="旭川市旭山動物園" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">旭川市旭山動物園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">行動展示で全国的に有名な日本最北の動物園。水中でダイナミックに泳ぐホッキョクグマや、円柱水槽を行き来するアザラシなど、生き生きとした動物たちの姿を間近で観察できます。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       </main>
 
       {/* フッター */}
       <footer className="bg-stone-900 text-stone-400 py-8 px-4 text-center text-xs space-y-2 border-t border-stone-800">
         <p>© 2026 クラウドトラベル All Rights Reserved.</p>
-        <p>【島根・玉造温泉と出雲大社「神在月」】 ※掲載のホテル情報・料金・評価は楽天トラベルAPIより取得した最新データに基づきます。最新の空室状況はリンク先の各プラン詳細をご確認ください。</p>
+        <p>※掲載のホテル情報・料金・評価は楽天トラベルAPIより取得した最新データに基づきます。最新の空室状況はリンク先の各プラン詳細をご確認ください。</p>
       </footer>
     
       <HubRelatedPosts currentSlug="furusato-tax-shimane-tamatsukuri-izumo-autumn-stay" />

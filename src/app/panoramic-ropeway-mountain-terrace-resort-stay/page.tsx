@@ -226,7 +226,7 @@ export default function RailwayActivityHubPage() {
       </div>
 
                     
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -448,49 +448,7 @@ export default function RailwayActivityHubPage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「絶景ロープウェイ＆山頂テラス宿（びわ湖バレイ・蔵王・富士山パノラマ 厳選ガイド）」とあわせて巡りたい滋賀県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「絶景ロープウェイ＆山頂テラス宿：びわ湖バレイ・蔵王・富士山パノラマ 厳選ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Lake_biwa.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" alt="琵琶湖（白髭神社・竹生島）" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">琵琶湖（白髭神社・竹生島）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本最大の面積と貯水量を誇る湖。湖中に朱色の鳥居が立つ「近江の厳島」白髭神社や、神の宿るパワースポット竹生島へのクルージングが人気です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">国宝 彦根城</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">琵琶湖を見下ろす高台に佇む国宝天守。当時の姿を留める堀や石垣、城下町の風情と人気キャラクター「ひこにゃん」の登場が訪れる人を笑顔にします。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">比叡山 延暦寺</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">最澄によって開かれた日本仏教の母山であり世界文化遺産。比叡山の山頂に広がる東塔・西塔・横川の各エリアに千二百年の不滅の法灯が灯り続けます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">近江八幡の水郷めぐり</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">豊臣秀次が築いた城下町の堀割を手漕ぎ和舟でゆったり巡る風情ある体験。四季折々のヨシ原や白壁の土蔵が並ぶ町並みがノスタルジックです。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
 
 

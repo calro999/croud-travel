@@ -69,40 +69,8 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
       </section>
 
       
-        {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
-        <section className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm mb-10">
-          <div className="bg-gradient-to-r from-stone-900 to-stone-800 text-white px-6 py-4 flex items-center justify-between">
-            <div className="flex items-center gap-2">
-              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
-              <h2 className="text-base md:text-lg font-bold tracking-wide">奥日向・神話峡谷ガイド：国の名勝天然記念物・神話息づく高千穂峡と真名井の滝</h2>
-            </div>
-            <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
-          </div>
-          <div className="flex flex-col gap-6 p-6">
-            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
-              <Image
-                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Takachiho-kyo%28Gorge%29_-_River_-_%E5%B7%9D.jpg/1280px-Takachiho-kyo%28Gorge%29_-_River_-_%E5%B7%9D.jpg"
-                alt="国の名勝天然記念物・神話息づく高千穂峡と真名井の滝"
-                fill
-                className="object-cover hover:scale-105 transition duration-500"
-                sizes="(max-width: 768px) 100vw, 400px"
-              />
-              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/70 to-transparent p-2 text-right">
-                <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
-              </div>
-            </div>
-            <div className="w-full space-y-3">
-              <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">国の名勝天然記念物・神話息づく高千穂峡と真名井の滝の歴史と見どころ</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">高千穂峡（たかちほきょう）は、宮崎県西臼杵郡高千穂町三田井にある五ヶ瀬川にかかる峡谷。阿蘇山の南東25kmに位置する柱状節理が発達した深い谷で、断崖の高さは平均80m、高いところで100mにも達しており、これが東西7kmにわたり続いている。 阿蘇山の噴火活動（火砕流）による堆積溶岩が急激に冷却され、それが五ヶ瀬川による浸食作用を受けて形成されたV字峡谷である。秩父帯のスレート・砂岩層を基盤とし、阿蘇山の約12万年前の噴出による火砕流堆積物が河谷下部を構成する。さらに高千穂峡遊歩道の上部には阿蘇山の約9万年前の噴出による火砕流堆積物がみられ、両者は溶結している。 1934年（昭和9年）に「五箇瀬川峡谷（高千穂峡谷）」として国の名勝、天然記念物に指定され、昭和40年（1965年）3月25日には祖母傾国定公園の一部に指定された。真名井の滝、玉垂の滝、あららぎの滝などが有名である。</p>
-              <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                <span className="text-teal-700 font-semibold">現地観光・散策推奨スポット</span>
-              </div>
-            </div>
-          </div>
-        </section>
-
-      {/* 宿一覧 */}
+        
+        {/* 宿一覧 */}
       <section className="max-w-4xl mx-auto px-4 space-y-8">
         {/* 宿1 */}
         <div className="bg-white rounded-2xl border border-slate-200 overflow-hidden shadow-sm hover:shadow-md transition">
@@ -323,7 +291,7 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
         </div>
       </section>
     
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -514,49 +482,7 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「宮崎（高千穂峡紅葉ドライブ拠点＆本場チキン南蛮）」とあわせて巡りたい宮崎県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「宮崎：高千穂峡紅葉ドライブ拠点＆本場チキン南蛮！2,000円台〜格安ホテル5選」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">高千穂峡（真名井の滝）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">阿蘇山の火砕流が侵食されてできた高さ80m〜100mの断崖が続く渓谷。日本の滝百選「真名井の滝」のすぐ脇を貸しボートで進む神秘的な体験が魅力です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">サンメッセ日南（モアイ像）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">太平洋の青い海を見下ろす丘に世界で唯一イースター島の許可を得て完全復元された7体のモアイ像。南国情緒溢れる映えスポットとして人気を博しています。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">青島神社・鬼の洗濯板</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">波状の岩肌が島を囲む奇観「鬼の洗濯板」の中心に鎮座する亜熱帯植物に囲まれた神社。縁結びのご利益で知られ、真っ赤な社殿と南国樹木の対比が見事です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">鵜戸神宮（うどじんぐう）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日向灘の断崖絶壁にある天然の洞窟の中に朱塗りの本殿が鎮座する異色の神社。崖下の亀岩の穴に「運玉」を投げ入れる願掛けが名物です。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-budget-miyazaki-takachiho-gourmet-hotels-stay" />
         </div>

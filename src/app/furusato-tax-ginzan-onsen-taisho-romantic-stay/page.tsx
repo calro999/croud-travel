@@ -90,7 +90,7 @@ export default function FurusatoGinzanOnsenRomanticStayPage() {
           山形県尾花沢市の山峡に位置し、かつて延沢銀山の鉱山として栄えた歴史を持つ「銀山温泉（ぎんざんおんせん）」。川を挟んで立ち並ぶ三層・四層の木造多層建築群、壁を彩る鮮やかな鏝絵（こてえ）、夕暮れとともに灯るガス灯の柔らかな光、そして石畳の歩道に舞い落ちる雪景色——。その圧倒的なノスタルジーと幻想的な景観は、国内外の旅行者を魅了してやみません。銀山温泉の湯は、古くから湯治場として親しまれてきた無色透明で硫黄の香りがほんのり漂うナトリウム-塩化物・硫酸塩温泉。体の芯からぽかぽかと温まり、湯冷めしにくい極上の泉質です。宿の客室から川面を眺めれば、まるで大正時代にタイムスリップしたかのような錯覚を覚えます。さらにグルメの魅力も見逃せません。山形が全国に誇る極上の黒毛和牛「尾花沢牛（おばなざわぎゅう）」の霜降りステーキやしゃぶしゃぶ、山形のブランド米「つや姫」、清らかな伏流水で打たれた名物尾花沢蕎麦など、地元の山海の恵みが食卓を華やかに彩ります。本特集では、国の登録有形文化財に指定され銀山温泉のシンボルとして圧倒的人気を誇る「能登屋旅館」、銀山川の絶景を望む広大な露天寝湯と開放的な大浴場が魅力の「仙峡の宿 銀山荘」、そして大正ロマン薫る木造四層構造の川側客室で街並みを一望できる「古勢起屋別館」の3宿を厳選。山形県尾花沢市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で一生に一度は泊まりたい銀山温泉の憧れ旅を予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
-          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？（ガス灯揺らめく大正ロマンの木造楼閣）</h3>
+          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -110,7 +110,7 @@ export default function FurusatoGinzanOnsenRomanticStayPage() {
 
       {/* 目次 */}
       <section className="bg-gray-50 rounded-xl p-5 mb-12 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次｜ガス灯揺らめく大正ロマンの木造楼閣</h2>
+        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次</h2>
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">銀山温泉 大正ロマン宿特集が選ばれる3つの理由</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】銀山温泉　能登屋旅館</a></li>
@@ -258,34 +258,34 @@ export default function FurusatoGinzanOnsenRomanticStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ｜ガス灯揺らめく大正ロマンの木造楼閣</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-1">控除限度額をチェック（ガス灯揺らめく大正ロマンの木造楼閣）</h3>
-              <p className="text-xs md:text-sm text-gray-600">【ガス灯揺らめく大正ロマンの木造楼閣】 年収や家族構成によって自己負担2,000円で利用できる上限額が決まります。まずは楽天ふるさと納税のシミュレーターで上限を確認しましょう。</p>
+              <h3 className="font-bold text-gray-900 mb-1">控除限度額をチェック</h3>
+              <p className="text-xs md:text-sm text-gray-600">年収や家族構成によって自己負担2,000円で利用できる上限額が決まります。まずは楽天ふるさと納税のシミュレーターで上限を確認しましょう。</p>
             </div>
           </div>
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">2</div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-1">自治体を選んでトラベルクーポンを寄付（ガス灯揺らめく大正ロマンの木造楼閣）</h3>
-              <p className="text-xs md:text-sm text-gray-600">【ガス灯揺らめく大正ロマンの木造楼閣】 訪れたい温泉宿のある自治体へ寄付。寄付額の最大30％相当の楽天トラベルクーポンが数日以内にマイクーポンへ自動付与されます。</p>
+              <h3 className="font-bold text-gray-900 mb-1">自治体を選んでトラベルクーポンを寄付</h3>
+              <p className="text-xs md:text-sm text-gray-600">訪れたい温泉宿のある自治体へ寄付。寄付額の最大30％相当の楽天トラベルクーポンが数日以内にマイクーポンへ自動付与されます。</p>
             </div>
           </div>
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">3</div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-1">楽天トラベルで宿泊予約＆クーポン適用（ガス灯揺らめく大正ロマンの木造楼閣）</h3>
-              <p className="text-xs md:text-sm text-gray-600">【ガス灯揺らめく大正ロマンの木造楼閣】 有効期限は3年間。宿泊日や部屋タイプを決め、予約画面で取得したトラベルクーポンを選択すると宿泊代金から即時値引きされます。</p>
+              <h3 className="font-bold text-gray-900 mb-1">楽天トラベルで宿泊予約＆クーポン適用</h3>
+              <p className="text-xs md:text-sm text-gray-600">有効期限は3年間。宿泊日や部屋タイプを決め、予約画面で取得したトラベルクーポンを選択すると宿泊代金から即時値引きされます。</p>
             </div>
           </div>
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">4</div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-1">ワンストップ特例または確定申告で完了（ガス灯揺らめく大正ロマンの木造楼閣）</h3>
-              <p className="text-xs md:text-sm text-gray-600">【ガス灯揺らめく大正ロマンの木造楼閣】 翌年の住民税・所得税から控除され、実質負担は年間2,000円のみ！浮いた予算で旅行をさらにアップグレードできます。</p>
+              <h3 className="font-bold text-gray-900 mb-1">ワンストップ特例または確定申告で完了</h3>
+              <p className="text-xs md:text-sm text-gray-600">翌年の住民税・所得税から控除され、実質負担は年間2,000円のみ！浮いた予算で旅行をさらにアップグレードできます。</p>
             </div>
           </div>
         </div>
@@ -293,15 +293,14 @@ export default function FurusatoGinzanOnsenRomanticStayPage() {
 
       {/* FAQ */}
       <section id="faq" className="mb-16">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）｜ガス灯揺らめく大正ロマンの木造楼閣</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）</h2>
         <div className="space-y-4">
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
             <summary className="font-bold text-gray-900 text-sm md:text-base flex justify-between items-center">
               <span>すでに予約している宿泊プランにもふるさと納税クーポンは使えますか？</span>
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
-            <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">【ガス灯揺らめく大正ロマンの木造楼閣】 
-              はい！楽天トラベルの「あとからクーポン適用」機能に対応している施設であれば、予約後でもマイページから自治体クーポンを適用して割引を受けられます。
+            <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">はい！楽天トラベルの「あとからクーポン適用」機能に対応している施設であれば、予約後でもマイページから自治体クーポンを適用して割引を受けられます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
@@ -309,8 +308,7 @@ export default function FurusatoGinzanOnsenRomanticStayPage() {
               <span>トラベルクーポンの有効期限はどれくらいですか？</span>
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
-            <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">【ガス灯揺らめく大正ロマンの木造楼閣】 
-              楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
+            <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">楽天ふるさと納税トラベルクーポンの有効期限は「寄付完了日の翌々年同月末まで（実質約3年間）」となっています。旅行予定に合わせてじっくり使えます。
             </p>
           </details>
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
@@ -318,8 +316,7 @@ export default function FurusatoGinzanOnsenRomanticStayPage() {
               <span>ハイシーズンや週末でも利用できますか？</span>
               <span className="text-amber-600 group-open:rotate-180 transition-transform">▼</span>
             </summary>
-            <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">【ガス灯揺らめく大正ロマンの木造楼閣】 
-              はい、対象ホテルの空室があれば、年末年始やゴールデンウィーク、お盆や紅葉・雪見シーズンのハイシーズンでも除外日なくクーポンをご利用いただけます。
+            <p className="mt-3 text-xs md:text-sm text-gray-600 leading-relaxed border-t border-gray-100 pt-3">はい、対象ホテルの空室があれば、年末年始やゴールデンウィーク、お盆や紅葉・雪見シーズンのハイシーズンでも除外日なくクーポンをご利用いただけます。
             </p>
           </details>
         </div>
@@ -327,7 +324,7 @@ export default function FurusatoGinzanOnsenRomanticStayPage() {
 
       {/* 関連記事リンク */}
       <section className="bg-gray-50 p-6 md:p-8 rounded-2xl border border-gray-200">
-        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2"><span>🔗</span> あわせて読みたい注目のふるさと納税特集｜ガス灯揺らめく大正ロマンの木造楼閣</h2>
+        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2"><span>🔗</span> あわせて読みたい注目のふるさと納税特集</h2>
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link

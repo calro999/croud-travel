@@ -68,42 +68,9 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
         </div>
       </section>
 
-      {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
+      
       <div className="max-w-4xl mx-auto px-4">
-        <section className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm mb-10">
-          <div className="bg-gradient-to-r from-stone-900 to-stone-800 text-white px-6 py-4 flex items-center justify-between">
-            <div className="flex items-center gap-2">
-              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
-              <h2 className="text-base md:text-lg font-bold tracking-wide">信濃川名勝ガイド：萬代橋（国指定重要文化財・六連アーチ橋）</h2>
-            </div>
-            <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
-          </div>
-          <div className="flex flex-col gap-6 p-6">
-            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
-              <Image
-                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Bandaibashi-Bridge.JPG/1280px-Bandaibashi-Bridge.JPG"
-                alt="萬代橋の美しい石造り六連アーチ"
-                fill
-                className="object-cover hover:scale-105 transition duration-500"
-                sizes="(max-width: 768px) 100vw, 400px"
-              />
-              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/70 to-transparent p-2 text-right">
-                <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
-              </div>
-            </div>
-            <div className="w-full space-y-3">
-              <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">大河・信濃川を渡る六連アーチの優美な石造橋</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-                萬代橋（ばんだいばし）は、新潟市中央区の信濃川に架かる道路橋梁で、国の重要文化財に指定されています。1929年（昭和4年）に完成した現在の3代目橋は、御影石で化粧された美しい六連アーチが特徴。夕暮れどきに信濃川の水面が黄金色に染まる情景や、夜のライトアップ散策は新潟観光の象徴です。
-              </p>
-              <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                <span className="text-sky-700 font-semibold">新潟駅万代口より徒歩約15分</span>
-              </div>
-            </div>
-          </div>
-        </section>
-      </div>
+        </div>
 
       {/* 宿一覧 */}
       <section className="max-w-4xl mx-auto px-4 space-y-8">
@@ -398,7 +365,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
         </div>
       </section>
     
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -589,49 +556,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「新潟駅前（新米コシヒカリ・南蛮エビ＆日本酒角打ち）」とあわせて巡りたい新潟県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「新潟駅前：新米コシヒカリ・南蛮エビ＆日本酒角打ち！2,000円台〜泊まれる格安ホテル5選」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">清津峡渓谷トンネル（Tunnel of Light）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三大峡谷の一つ・清津峡の絶景を楽しめるアートトンネル。終点のパノラマステーションでは水鏡に渓谷のダイナミックな景観が映り込む映えスポットです。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">佐渡金山</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">江戸時代から平成まで400年にわたって採掘が続いた日本最大の金銀山。手掘りの坑道跡や巨大な金山遺構「北沢浮遊選鉱場」のノスタルジーが感動的です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Entrance_to_Echigo-Yuzawa_Onsen.JPG/1280px-Entrance_to_Echigo-Yuzawa_Onsen.JPG?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="苗場山・越後湯沢温泉" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">苗場山・越後湯沢温泉</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">四季を通じてアウトドアやリゾートが楽しめる一大リゾート地。冬は上質なパウダースノーのスキー場、秋はドラゴンドラからの日本一長い紅葉空中散歩が自慢です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">萬代橋（ばんだいばし）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">信濃川にかかる6連アーチが美しい新潟市のシンボルであり国指定重要文化財。重厚な石造りの橋脚と美しい川辺の遊歩道が市民や観光客に親しまれています。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-budget-niigata-station-shinmai-sake-hotels-stay" />
         </div>

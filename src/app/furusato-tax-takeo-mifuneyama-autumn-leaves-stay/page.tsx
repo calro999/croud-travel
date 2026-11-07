@@ -128,12 +128,12 @@ export default function FeatureArticlePage() {
           {/* エリア概要セクション */}
           <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-stone-200/80">
             <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 pb-3 border-b border-stone-200 flex items-center gap-3"><span className="text-2xl">🍂</span>
-              秋の風情と旬の味覚を堪能する特別な旅｜御船山楽園の日本最大級紅葉ライトアップ＆武雄温泉楼門</h2>
+              秋の風情と旬の味覚を堪能する特別な旅</h2>
             <p className="text-stone-700 leading-relaxed text-sm md:text-base mb-6">
               佐賀県西部に位置する武雄温泉・嬉野温泉は、1300年以上の歴史を誇る九州屈指の美肌名湯地。秋のハイライトは、鍋島藩ゆかりの15万坪の名園「御船山楽園」で開催される日本最大級の紅葉まつりライトアップ。御船山の雄大な岩肌を借景に、御池の水面に映り込む紅葉は息をのむ美しさ。辰野金吾設計の武雄温泉楼門を訪れ、極上佐賀牛や名物「温泉湯どうふ」を堪能できます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2"><span>💡</span> 10月〜11月の旅を満喫する3大ポイント（御船山楽園の日本最大級紅葉ライトアップ＆武雄温泉楼門）</h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2"><span>💡</span> 10月〜11月の旅を満喫する3大ポイント</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
                 <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（御船山楽園の日本最大級紅葉ライトアップ＆武雄温泉楼門）</li>
                 <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（御船山楽園の日本最大級紅葉ライトアップ＆武雄温泉楼門）</li>
@@ -327,10 +327,9 @@ export default function FeatureArticlePage() {
 
           {/* ふるさと納税活用法 */}
           <section className="bg-gradient-to-r from-amber-500 to-orange-600 text-white rounded-2xl p-6 md:p-8 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で控除上限内で実質2,000円自己負担・ふるさと納税クーポンで宿泊する方法｜御船山楽園の日本最大級紅葉ライトアップ＆武雄温泉楼門</h2>
+            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で控除上限内で実質2,000円自己負担・ふるさと納税クーポンで宿泊する方法</h2>
             <div className="space-y-4 text-xs md:text-sm text-amber-50 leading-relaxed">
-              <p>【御船山楽園の日本最大級紅葉ライトアップ＆武雄温泉楼門】 
-                楽天ふるさと納税の「トラベルクーポン（宿泊補助券）」を利用すると、寄付金額に応じた割引クーポンが即時または後日発行され、楽天トラベルでの宿泊予約時に直接利用できます。
+              <p>楽天ふるさと納税の「トラベルクーポン（宿泊補助券）」を利用すると、寄付金額に応じた割引クーポンが即時または後日発行され、楽天トラベルでの宿泊予約時に直接利用できます。
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-3 pt-2 text-stone-900">
                 <div className="bg-white rounded-xl p-3.5 text-center shadow-sm">
@@ -356,7 +355,7 @@ export default function FeatureArticlePage() {
         {/* サイドバー */}
         <aside className="space-y-6">
           <div className="bg-white rounded-2xl p-6 shadow-sm border border-stone-200/80 sticky top-6">
-            <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2"><span>📌</span> この特集で紹介した宿（御船山楽園の日本最大級紅葉ライトアップ＆武雄温泉楼門）</h3>
+            <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2"><span>📌</span> この特集で紹介した宿</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.takeo_nakamasu.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">

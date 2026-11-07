@@ -144,49 +144,14 @@ export default function WinterFeaturePage() {
           </div>
         </section>
 
-        {/* 公式Wikipedia解説＆実写写真セクション */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <div className="flex items-center justify-between">
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                近隣名所アーカイブ：白谷雲水峡（苔むす神秘の森と太鼓岩）
-              </h2>
-              <span className="text-[11px] text-stone-400">Wikipedia公式情報連携</span>
-            </div>
-
-            <div className="flex flex-col gap-5">
-              <div className="w-full overflow-hidden rounded-xl border border-stone-200 bg-stone-100 aspect-[16/9] sm:aspect-[21/9]">
-                <img
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Shiratani_Unsui_Gorge_11.jpg/1280px-Shiratani_Unsui_Gorge_11.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="白谷雲水峡（苔むす神秘の森と太鼓岩）"
-                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="eager" fetchPriority="high"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                  白谷雲水峡（苔むす神秘の森と太鼓岩） の見どころと歴史
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  白谷雲水峡（しらたにうんすいきょう）は屋久島北部を流れる宮之浦川支流白谷川の渓谷。行政上は鹿児島県屋久島町に属する。一帯には豊富な雨量による花崗岩の浸食によって形成された太鼓岩などの巨岩が広がり、原生林に蔽われる。この原生林は一般に知られる屋久杉の密集地帯に移行する段階で、照葉樹林の仲間であるウラジロガシ、イスノキ、タブノキなどと共にツガ、モミなどの常緑樹林が混生する。弥生杉は樹齢3000年の杉の巨木で、同渓谷のシンボル。 屋久島自然休養林に含まれ、屋久島国立公園の特別地域に…
-                </p>
-                <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                  <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                  <span className="text-cyan-700 font-semibold">冬の探訪推奨スポット</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
+        
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
             <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
               屋久島・宮之浦・安房 厳選の温泉＆リゾート宿5選
             </h2>
-            <p className="text-xs sm:text-sm text-stone-500">【静寂の原生林と白谷雲水峡・極上温泉：2026-202】 
-              楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
+            <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
 
@@ -528,8 +493,7 @@ export default function WinterFeaturePage() {
                 <h3 className="text-xl sm:text-2xl font-bold">
                   鹿児島県の宿に実質2,000円で泊まる賢い方法
                 </h3>
-                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">【静寂の原生林と白谷雲水峡・極上温泉：2026-202】 
-                  楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
+                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
               <a

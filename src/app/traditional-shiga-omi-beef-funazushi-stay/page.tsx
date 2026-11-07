@@ -252,19 +252,19 @@ export default function FeaturePage() {
         <section className="bg-stone-900 text-stone-100 rounded-2xl p-8 md:p-10 shadow-lg">
           <div className="flex items-center gap-3 mb-6">
             <Award className="w-7 h-7 text-amber-400" />
-            <h2 className="text-xl md:text-2xl font-bold text-white">旅をより最高にするためのワンポイントアドバイス｜極上近江牛ステーキ＆伝統鮒ずし：琵琶湖の恵みと名湯</h2>
+            <h2 className="text-xl md:text-2xl font-bold text-white">旅をより最高にするためのワンポイントアドバイス</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-stone-300">
             <div className="space-y-2">
               <h3 className="font-bold text-amber-400 flex items-center gap-2"><ShieldCheck className="w-4 h-4" />
-                ベストシーズンの早期予約が鍵（極上近江牛ステーキ＆伝統鮒ずし：琵琶湖の恵みと名湯）</h3>
+                ベストシーズンの早期予約が鍵</h3>
               <p className="leading-relaxed text-xs md:text-sm">
                 「極上近江牛ステーキ＆伝統鮒ずし（琵琶湖の恵みと名湯）」エリアの週末や連休枠は早期に埋まりやすいため、予定が決まり次第「おごと温泉　びわこ緑水亭」等の空室を早めに確保しておくのが安心です。
               </p>
             </div>
             <div className="space-y-2">
               <h3 className="font-bold text-amber-400 flex items-center gap-2"><Coffee className="w-4 h-4" />
-                こだわりの食事プランを選択（極上近江牛ステーキ＆伝統鮒ずし：琵琶湖の恵みと名湯）</h3>
+                こだわりの食事プランを選択</h3>
               <p className="leading-relaxed text-xs md:text-sm">
                 「極上近江牛ステーキ＆伝統鮒ずし（琵琶湖の恵みと名湯）」では、地元食材を活かした夕食コースや特典付きプランを事前に選んでおくことで、より満足度の高い滞在が叶います。
               </p>
@@ -415,7 +415,7 @@ export default function FeaturePage() {
         </section>
 
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -510,7 +510,7 @@ export default function FeaturePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>滋賀県おごと温泉、琵琶湖畔の旅館、露天風呂付客室や近江牛のプラン、家族・カップルに人気の旅館。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 滋賀県大津市雄琴6-1-6 ／ 最寄り駅：雄琴 ／ 交通案内：名神京都東Ｉ．Ｃから湖西道路経由で20分。ＪＲおごと温泉駅から送迎あり（要電話）</p>
-                  <p>【極上近江牛ステーキ＆伝統鮒ずし：琵琶湖の恵みと名湯】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.59 ／ 部屋 ★4.62 ／ 設備 ★4.62 ／ 風呂 ★4.63 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「1歳・3歳連れでも安心。子どもへの配慮と食事が良かったです1歳と3歳の子どもを連れて家族で宿泊しました。小さな子どもが2人いると、部屋での過ごし方や食事、お風呂など何かと気を遣いますが、こちらでは…」
@@ -606,49 +606,7 @@ export default function FeaturePage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「極上近江牛ステーキ＆伝統鮒ずし（琵琶湖の恵みと名湯）」とあわせて巡りたい愛知県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「極上近江牛ステーキ＆伝統鮒ずし：琵琶湖の恵みと名湯！おごと温泉の絶景美食宿5選」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Atsuta_Shrine.jpg/1280px-Atsuta_Shrine.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="名古屋城" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">名古屋城</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">徳川家康公が築城した城塞。天守閣に輝く「金のしゃちほこ」と、本瓦葺きや漆塗りの極美を現代に復元した絢欄豪華な「本丸御殿」が見どころです。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">国宝 犬山城</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">木曽川沿いの小高い山の上に建つ、現存する日本最古の木造天守（国宝）。最上階の廻縁からの木曽川と城下町の絶景パノラマは一見の価値があります。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">熱田神宮</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">三種の神器の一つ「草薙神剣」をお祀りする伊勢神宮に次ぐ尊貴な大社。都会の喧騒を忘れさせる樹齢千年の大楠と静寂な森に強いパワーが満ちています。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">オアシス21・中日ビル</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">栄の中心に佇む立体型公園「水の宇宙船」。ガラスの大屋根の上を水が流れる未来的なデザインで、夜間には栄の夜景と名古屋テレビタワーが幻想的に映えます。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       </main>
     </article>

@@ -197,8 +197,7 @@ export default function Page() {
             <h2 className="text-2xl md:text-3xl font-bold text-slate-900">
               ふるさと納税×日本三大古社神話と聖地 3つのメリット
             </h2>
-            <p className="text-xs md:text-sm text-slate-500">【日本三大古社＆神話と悠久の祈り・神域に寄り添う聖地宿】 
-              控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）全国の名所・名宿をお得に楽しむポイント
+            <p className="text-xs md:text-sm text-slate-500">控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）全国の名所・名宿をお得に楽しむポイント
             </p>
           </div>
 
@@ -249,9 +248,8 @@ export default function Page() {
         {/* 厳選ホテルリスト */}
         <section className="space-y-10">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル｜日本三大古社＆神話と悠久の祈り・神域に寄り添う聖地宿</h2>
-            <p className="text-xs md:text-sm text-slate-500">【日本三大古社＆神話と悠久の祈り・神域に寄り添う聖地宿】 
-              楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
+            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル</h2>
+            <p className="text-xs md:text-sm text-slate-500">楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
             </p>
           </div>
 
@@ -355,9 +353,8 @@ export default function Page() {
         {/* 楽天ふるさと納税トラベル利用ステップ */}
         <section className="bg-gradient-to-br from-slate-900 to-emerald-950 text-white rounded-2xl p-6 md:p-8 space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-xl md:text-2xl font-bold">楽天ふるさと納税×楽天トラベル 簡単3ステップ｜日本三大古社＆神話と悠久の祈り・神域に寄り添う聖地宿</h2>
-            <p className="text-xs md:text-sm text-slate-300">【日本三大古社＆神話と悠久の祈り・神域に寄り添う聖地宿】 
-              控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）憧れの高級宿・温泉旅館をお得に予約できます
+            <h2 className="text-xl md:text-2xl font-bold">楽天ふるさと納税×楽天トラベル 簡単3ステップ</h2>
+            <p className="text-xs md:text-sm text-slate-300">控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）憧れの高級宿・温泉旅館をお得に予約できます
             </p>
           </div>
 
@@ -366,9 +363,8 @@ export default function Page() {
               <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
                 1
               </div>
-              <h3 className="font-bold text-sm text-white">自治体に寄付（日本三大古社＆神話と悠久の祈り・神域に寄り添う聖地宿）</h3>
-              <p className="text-xs leading-relaxed text-slate-300">【日本三大古社＆神話と悠久の祈り・神域に寄り添う聖地宿】 
-                希望の自治体と寄付金額を選び、楽天ふるさと納税で寄付を行います。寄付額に応じたトラベルクーポンが即時付与されます。
+              <h3 className="font-bold text-sm text-white">自治体に寄付</h3>
+              <p className="text-xs leading-relaxed text-slate-300">希望の自治体と寄付金額を選び、楽天ふるさと納税で寄付を行います。寄付額に応じたトラベルクーポンが即時付与されます。
               </p>
             </div>
 
@@ -376,9 +372,8 @@ export default function Page() {
               <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
                 2
               </div>
-              <h3 className="font-bold text-sm text-white">対象宿・プランを予約（日本三大古社＆神話と悠久の祈り・神域に寄り添う聖地宿）</h3>
-              <p className="text-xs leading-relaxed text-slate-300">【日本三大古社＆神話と悠久の祈り・神域に寄り添う聖地宿】 
-                楽天トラベルで対象地域の宿泊施設を検索。獲得したふるさと納税クーポンを予約ステップで適用します。
+              <h3 className="font-bold text-sm text-white">対象宿・プランを予約</h3>
+              <p className="text-xs leading-relaxed text-slate-300">楽天トラベルで対象地域の宿泊施設を検索。獲得したふるさと納税クーポンを予約ステップで適用します。
               </p>
             </div>
 
@@ -386,9 +381,8 @@ export default function Page() {
               <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
                 3
               </div>
-              <h3 className="font-bold text-sm text-white">現地で贅沢ステイ（日本三大古社＆神話と悠久の祈り・神域に寄り添う聖地宿）</h3>
-              <p className="text-xs leading-relaxed text-slate-300">【日本三大古社＆神話と悠久の祈り・神域に寄り添う聖地宿】 
-                宿泊当日は通常通りチェックイン。割引されたお得な価格で、名湯や美食、絶景体験を満喫できます。
+              <h3 className="font-bold text-sm text-white">現地で贅沢ステイ</h3>
+              <p className="text-xs leading-relaxed text-slate-300">宿泊当日は通常通りチェックイン。割引されたお得な価格で、名湯や美食、絶景体験を満喫できます。
               </p>
             </div>
           </div>
@@ -575,7 +569,7 @@ export default function Page() {
       <footer className="bg-slate-900 text-slate-400 py-8 px-4 text-xs text-center border-t border-slate-800 mt-16">
         <div className="max-w-5xl mx-auto space-y-3">
           <p>© 2026 トラベルポータル All Rights Reserved. 掲載の宿情報・画像は楽天トラベルAPIより取得しています。</p>
-          <p>【日本三大古社＆神話と悠久の祈り・神域に寄り添う聖地宿】 ふるさと納税クーポンの利用条件や最新の空室状況は楽天トラベル公式サイトをご確認ください。</p>
+          <p>ふるさと納税クーポンの利用条件や最新の空室状況は楽天トラベル公式サイトをご確認ください。</p>
         </div>
       </footer>
     

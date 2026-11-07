@@ -69,40 +69,8 @@ export default function AutumnBudgetFeaturePage() {
       </section>
 
       
-        {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
-        <section className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm mb-10">
-          <div className="bg-gradient-to-r from-stone-900 to-stone-800 text-white px-6 py-4 flex items-center justify-between">
-            <div className="flex items-center gap-2">
-              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
-              <h2 className="text-base md:text-lg font-bold tracking-wide">阿波・徳島街並みガイド：徳島市のシンボル・眉山ロープウェイと阿波パノラマ</h2>
-            </div>
-            <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
-          </div>
-          <div className="flex flex-col gap-6 p-6">
-            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
-              <Image
-                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Mount_Bizan_from_Shimmachi_River_20200607.jpg/1280px-Mount_Bizan_from_Shimmachi_River_20200607.jpg"
-                alt="徳島市のシンボル・眉山ロープウェイと阿波パノラマ"
-                fill
-                className="object-cover hover:scale-105 transition duration-500"
-                sizes="(max-width: 768px) 100vw, 400px"
-              />
-              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/70 to-transparent p-2 text-right">
-                <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
-              </div>
-            </div>
-            <div className="w-full space-y-3">
-              <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">徳島市のシンボル・眉山ロープウェイと阿波パノラマの歴史と見どころ</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">眉山（びざん）は、徳島県徳島市にある山。徳島市のシンボル的存在として親しまれている。 どの方向から眺めても眉の姿に見えることからその名がついたといわれる。徳島県立城南高等学校や徳島市立高等学校をはじめ徳島市内にある多くの学校では校歌の歌詞に「眉山」が登場する。2007年にはここを舞台にした映画『眉山-びざん-』が公開された。とくしま88景に選定。</p>
-              <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                <span className="text-teal-700 font-semibold">現地観光・散策推奨スポット</span>
-              </div>
-            </div>
-          </div>
-        </section>
-
-      {/* 宿一覧 */}
+        
+        {/* 宿一覧 */}
       <section className="max-w-4xl mx-auto px-4 space-y-8">
 
         {/* 宿1 */}
@@ -417,7 +385,7 @@ export default function AutumnBudgetFeaturePage() {
         </div>
       </section>
     
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -577,49 +545,7 @@ export default function AutumnBudgetFeaturePage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「徳島市街（眉山秋パノラマ＆甘辛豚バラ徳島ラーメン）」とあわせて巡りたい徳島県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「徳島市街：眉山秋パノラマ＆甘辛豚バラ徳島ラーメン！4,000円台〜泊まれる格安ホテル5選」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">鳴門の渦潮（大鳴門橋）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">播磨灘と紀伊水道の干満差によって発生する世界最大級の渦潮。「渦の道」の海上遊歩道ガラス床から見下ろす激しい潮流と渦巻きは大迫力です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">祖谷のかずら橋（秘境・祖谷）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三大秘境・祖谷渓谷に架かるシラクチカズラで作られたスリル満点の吊り橋。一歩踏みだすたびにギシギシと揺れ、足下の隙間から見える吉野川が爽快です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">大塚国際美術館</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">世界初の陶板名画美術館。レオナルド・ダ・ヴィンチの『最後の晩餐』やフェルメールの『真珠の耳飾りの少女』など1,000点以上の西洋名画が原寸大で完全再現されています。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">眉山（びざん）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">徳島市街の中心に位置し「眉の如く雲居に見ゆる」と万葉集にも詠まれた徳島のシンボル。ロープウェイで登る山頂からは吉野川と徳島平野を一望できます。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-budget-tokushima-city-bizan-tokushima-ramen-hotels-stay" />
         </div>

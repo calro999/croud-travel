@@ -294,47 +294,7 @@ export default function Page() {
             </div>
           </section>
 
-          {/* Wikipedia 近隣観光名所セクション */}
-          <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
-            <div className="border-b border-stone-100 pb-4">
-              <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Wikipedia Spot Archive</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2 mt-1">
-                <Heart className="w-6 h-6 text-rose-500" />
-                <span>近隣名所アーカイブ：日州の小京都・飫肥城下町（重要伝統的建造物群保存地区・飫肥杉と武家屋敷）</span>
-              </h2>
-            </div>
-
-            <div className="flex flex-col gap-6">
-              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
-                <img
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Obi%2C_Nichinan%2C_%C5%8Ctemon_Street_01.jpg/1280px-Obi%2C_Nichinan%2C_%C5%8Ctemon_Street_01.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="日州の小京都・飫肥城下町（重要伝統的建造物群保存地区・飫肥杉と武家屋敷）"
-                  className="w-full h-full object-cover"
-                  loading="lazy"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-base">
-                  【日州の小京都・飫肥城下町（重要伝統的建造物群保存地区・飫肥杉と武家屋敷）の見どころと歴史】
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  飫肥（おび）は、宮崎県の南部、日南市中央部にある地区。もと那珂郡飫肥村で、飫肥城を中心とした伊東氏・飫肥藩の旧城下町である。「九州の小京都」とも称され、多くの観光客が訪れている。江戸時代初期からの地割や歴史的風致のある町並みが多く残され重要伝統的建造物群保存地区に選定されている。そのため日南飫肥伝統的建造物群保存地区についても、ここで記述する。
-                </p>
-                <div className="pt-2 text-xs text-stone-700">
-                  <a
-                    href="https://ja.wikipedia.org/wiki/%E9%A3%AB%E8%82%A5"
-                    target="_blank"
-                    rel="noopener noreferrer nofollow"
-                    className="inline-flex items-center gap-1 text-cyan-700 hover:text-cyan-900 underline"
-                  >
-                    <span>出典：Wikipedia公式『飫肥』詳細情報を見る</span>
-                    <ExternalLink className="w-3 h-3" />
-                  </a>
-                </div>
-              </div>
-            </div>
-          </section>
-
+          
           {/* 厳選名宿5選 */}
           <section className="space-y-8">
             <div className="border-b border-stone-200 pb-4">

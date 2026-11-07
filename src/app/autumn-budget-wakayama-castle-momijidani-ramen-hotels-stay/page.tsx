@@ -69,40 +69,8 @@ export default function AutumnBudgetWakayamaHotelsPage() {
       </section>
 
       
-        {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
-        <section className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm mb-10">
-          <div className="bg-gradient-to-r from-stone-900 to-stone-800 text-white px-6 py-4 flex items-center justify-between">
-            <div className="flex items-center gap-2">
-              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
-              <h2 className="text-base md:text-lg font-bold tracking-wide">紀州・名城庭園ガイド：名勝西之丸庭園（紅葉渓庭園）と徳川御三家・和歌山城</h2>
-            </div>
-            <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
-          </div>
-          <div className="flex flex-col gap-6 p-6">
-            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
-              <Image
-                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%9F%8E_%E5%A4%A9%E5%AE%88%E9%96%A3%EF%BC%882024%E5%B9%B4%EF%BC%89.jpg/1280px-%E5%92%8C%E6%AD%8C%E5%B1%B1%E5%9F%8E_%E5%A4%A9%E5%AE%88%E9%96%A3%EF%BC%882024%E5%B9%B4%EF%BC%89.jpg"
-                alt="名勝西之丸庭園（紅葉渓庭園）と徳川御三家・和歌山城"
-                fill
-                className="object-cover hover:scale-105 transition duration-500"
-                sizes="(max-width: 768px) 100vw, 400px"
-              />
-              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/70 to-transparent p-2 text-right">
-                <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
-              </div>
-            </div>
-            <div className="w-full space-y-3">
-              <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">名勝西之丸庭園（紅葉渓庭園）と徳川御三家・和歌山城の歴史と見どころ</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">和歌山城（わかやまじょう）は、和歌山県和歌山市一番丁にある日本の城（平山城）。徳川御三家の一つ紀州藩紀州徳川家の居城である。城跡は国の史跡に指定されている。</p>
-              <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                <span className="text-teal-700 font-semibold">現地観光・散策推奨スポット</span>
-              </div>
-            </div>
-          </div>
-        </section>
-
-      {/* 宿一覧 */}
+        
+        {/* 宿一覧 */}
       <section className="max-w-4xl mx-auto px-4 space-y-8">
         {/* 宿1 */}
         <div className="bg-white rounded-2xl border border-slate-200 overflow-hidden shadow-sm hover:shadow-md transition">
@@ -323,7 +291,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
         </div>
       </section>
     
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -514,49 +482,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「和歌山（和歌山城紅葉渓庭園と中華そば）」とあわせて巡りたい和歌山県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「和歌山：和歌山城紅葉渓庭園と中華そば！2,000円台〜泊まれる格安ホテル5選」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">高野山（奥の院・壇上伽藍）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">弘法大師空海がひらいた真言密教の聖地であり世界遺産。樹齢数百年の杉木立の中に弘法大師の御廟が佇む「奥の院」は神聖な気が満ちています。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">熊野那智大社・那智の滝</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">熊野三山の一つであり、日本一の落差（133m）を誇る神体「那智の滝」。朱塗りの三重塔越しに直下する滝の景観は熊野古道を象徴する一枚です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">南紀白浜・千畳敷・三段壁</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">真っ白なサラサラの砂が広がる白良浜リゾートと、太平洋の荒波が削り出した巨大な岩盤「千畳敷」「三段壁」。温泉と海の絶景を満喫できます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">和歌山城</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">紀州徳川家55万石の居城。緑豊かな虎伏山に建ち、白亜の天守閣からは和歌山市街と紀の川のゆったりとした流れを一望できます。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-budget-wakayama-castle-momijidani-ramen-hotels-stay" />
         </div>

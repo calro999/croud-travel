@@ -8,13 +8,13 @@ import Image from 'next/image';
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
 
 export const metadata: Metadata = {
-  title: "国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
+  title: "国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
   description: "侘び寂びの精神が極まる日本建築の最高峰！京都「妙喜庵・待庵」千利休唯一現存の国宝茶室とホテル京都エミナース、愛知「有楽苑・如庵」織田有楽斎の美学とホテルインディゴ犬山有楽苑、京都「嵐山・数寄屋名宿」小堀遠州の美意識と割烹旅館城山。国宝三大茶室の静謐な世界を楽天ふるさと納税宿泊クーポンでお得に楽しむ完...",
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-national-treasure-teahouses-stay/",
   },
   openGraph: {
-    title: "国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
+    title: "国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
     description: "侘び寂びの精神が極まる日本建築の最高峰！京都「妙喜庵・待庵」千利休唯一現存の国宝茶室とホテル京都エミナース、愛知「有楽苑・如庵」織田有楽斎の美学とホテルインディゴ犬山有楽苑、京都「嵐山・数寄屋名宿」小堀遠州の美意識と割烹旅館城山。国宝三大茶室の静謐な世界を楽天ふるさと納税宿泊クーポンでお得に楽しむ完...",
     url: "https://croud-travel.pages.dev/furusato-tax-three-national-treasure-teahouses-stay/",
   },
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
+    "headline": "国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
     "description": "侘び寂びの精神が極まる日本建築の最高峰！京都「妙喜庵・待庵」千利休唯一現存の国宝茶室とホテル京都エミナース、愛知「有楽苑・如庵」織田有楽斎の美学とホテルインディゴ犬山有楽苑、京都「嵐山・数寄屋名宿」小堀遠州の美意識と割烹旅館城山。国宝三大茶室の静謐な世界を楽天ふるさと納税宿泊クーポンでお得に楽しむ完...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-national-treasure-teahouses-stay/",
     "publisher": {
@@ -56,7 +56,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             国宝三大茶室・数寄屋侘び寂び特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             侘び寂びの精神が極まる日本建築の最高峰！京都「妙喜庵・待庵」千利休唯一現存の国宝茶室とホテル京都エミナース、愛知「有楽苑・如庵」織田有楽斎の美学とホテルインディゴ犬山有楽苑、京都「嵐山・数寄屋名宿」小堀遠州の美意識と割烹旅館城山。国宝三大茶室の静謐な世界を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>
@@ -93,8 +93,8 @@ export default function Page() {
         {/* 3 Key Merits */}
         <section className="space-y-6">
           <div className="text-center">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">ふるさと納税トラベルで巡る3つの至高メリット｜国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイ</h2>
-            <p className="text-sm sm:text-base text-slate-400 mt-2">【国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイ】 控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの名旅館＆特産グルメをアップグレード</p>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">ふるさと納税トラベルで巡る3つの至高メリット</h2>
+            <p className="text-sm sm:text-base text-slate-400 mt-2">控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの名旅館＆特産グルメをアップグレード</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
@@ -125,8 +125,8 @@ export default function Page() {
         {/* Featured Hotels & Regions */}
         <section className="space-y-12">
           <div className="border-b border-slate-800 pb-4">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">厳選名所＆楽天トラベル提携おすすめ名宿｜国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイ</h2>
-            <p className="text-slate-400 text-sm sm:text-base mt-1">【国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイ】 楽天ふるさと納税宿泊クーポンが利用可能な極上宿</p>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">厳選名所＆楽天トラベル提携おすすめ名宿</h2>
+            <p className="text-slate-400 text-sm sm:text-base mt-1">楽天ふるさと納税宿泊クーポンが利用可能な極上宿</p>
           </div>
 
           <div className="space-y-12">
@@ -349,9 +349,8 @@ export default function Page() {
 
         {/* Official Banner CTA */}
         <section className="bg-gradient-to-r from-rose-950/60 via-red-900/40 to-amber-950/60 border border-rose-500/30 rounded-3xl p-8 text-center relative overflow-hidden shadow-2xl">
-          <h2 className="text-2xl sm:text-3xl font-black text-white mb-4">楽天ふるさと納税トラベルで、今すぐ賢く旅に出よう｜国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイ</h2>
-          <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base mb-8 leading-relaxed">【国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイ】 
-            寄付翌日から最大3年間使える宿泊クーポンで、行きたかった憧れの名宿を今すぐお得にリザーブ。実質2,000円負担で極上の日本再発見の旅へ。
+          <h2 className="text-2xl sm:text-3xl font-black text-white mb-4">楽天ふるさと納税トラベルで、今すぐ賢く旅に出よう</h2>
+          <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base mb-8 leading-relaxed">寄付翌日から最大3年間使える宿泊クーポンで、行きたかった憧れの名宿を今すぐお得にリザーブ。実質2,000円負担で極上の日本再発見の旅へ。
           </p>
           <a
             href={officialFurusatoAffUrl}
@@ -365,7 +364,7 @@ export default function Page() {
 
         {/* Cross Link Section */}
         <section className="border-t border-slate-800/80 pt-12 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい関連特集ガイド｜国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイ</h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい関連特集ガイド</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
             <Link
@@ -553,17 +552,17 @@ export default function Page() {
         </section>
 
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+              📊 国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
             </h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              楽天トラベル公式APIより取得した「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -614,7 +613,7 @@ export default function Page() {
 
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・アクセス・特徴データ一覧
+              🏨 「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・アクセス・特徴データ一覧
             </h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
@@ -672,9 +671,9 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/29364/29364.jpg" alt="割烹旅館　城山 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：JR水戸線笠間駅より約1.5km　タクシーで約3分／北関東自動車道友部ICよりR３５５にて１０分</p>
-                  <p>【国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が老朽化し清潔感に欠ける残念な環境部屋のトイレ便座はガタつき 風呂場の扉は壊れて閉まらない 洗面台の下に風呂のフタが敷かれていたあちこちにゴキリキャップが設置されて 冷蔵庫下の床は捲れ上が…」
@@ -682,49 +681,7 @@ export default function Page() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」とあわせて巡りたい茨城県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">国営ひたち海浜公園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">春のネモフィラ、秋のコキアをはじめ、四季折々の広大な花畑が美しい国営公園。みはらしの丘一面が青や赤に染まる光景は世界中から絶賛される絶景です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">水戸偕楽園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">金沢兼六園・岡山後楽園と並ぶ日本三名園の一つ。徳川斉昭公によって造園され、春には約100品種3,000本の梅が咲き誇る歴史ある回遊式庭園です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">袋田の滝</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三名瀑に数えられる高さ120m・幅73mのダイナミックな4段の滝。四季ごとに全く異なる表情を見せ、冬には滝全体が凍結する「氷瀑」が見事です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">筑波山</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「西の富士、東の筑波」と称される紫峰。男体山と女体山の2峰からなり、ケーブルカーやロープウェイで気軽に山頂へ登れ、関東平野の一望を楽しめます。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       </main>
     

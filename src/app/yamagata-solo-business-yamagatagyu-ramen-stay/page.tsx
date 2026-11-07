@@ -97,9 +97,8 @@ export default function ArticlePage() {
         {/* 厳選ホテルリスト */}
         <div className="space-y-10">
           <div className="border-l-4 border-amber-800 pl-4 py-1">
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900">編集部が厳選！おすすめの極上宿・ホテル詳細｜山形出張＆麺王国ひとり旅：山形駅直結・シモンズベッド</h2>
-            <p className="text-xs sm:text-sm text-stone-500 mt-1">【山形出張＆麺王国ひとり旅：山形駅直結・シモンズベッド】 
-              楽天トラベルの最新APIデータを反映。口コミ高評価＆こだわり設備を徹底チェック
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900">編集部が厳選！おすすめの極上宿・ホテル詳細</h2>
+            <p className="text-xs sm:text-sm text-stone-500 mt-1">楽天トラベルの最新APIデータを反映。口コミ高評価＆こだわり設備を徹底チェック
             </p>
           </div>
 
@@ -376,7 +375,7 @@ export default function ArticlePage() {
 
         {/* よくある質問 FAQ */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-stone-900 border-b border-stone-200 pb-3">よくある質問（FAQ）｜山形出張＆麺王国ひとり旅：山形駅直結・シモンズベッド</h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-stone-900 border-b border-stone-200 pb-3">よくある質問（FAQ）</h2>
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">

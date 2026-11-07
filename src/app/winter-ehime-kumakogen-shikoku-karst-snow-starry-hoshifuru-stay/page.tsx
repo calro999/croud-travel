@@ -31,17 +31,6 @@ export default function Page() {
     '@context': 'https://schema.org',
     '@graph': [
       {
-        '@type': 'TouristAttraction',
-        name: '標高1,400mの白銀パノラマ・四国カルスト天狗高原',
-        description: '四国カルスト（しこくかるすと）は、「四国山地」の南西部、愛媛県と高知県との県境部に位置し、標高；約1100～1400ｍの、石灰岩からなる高原状のカルスト台地である。  山口県の「秋吉台」、福岡県の「平尾台」と共に、しばしば「日本三大カルスト」の一つ、と呼ばれる。',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Shikokukarusuto01.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
-        address: {
-          '@type': 'PostalAddress',
-          addressRegion: '愛媛県',
-          addressCountry: 'JP'
-        }
-      },
-      {
         '@type': 'FAQPage',
         mainEntity: [
           {
@@ -137,116 +126,13 @@ export default function Page() {
         </header>
 
         {/* 導入解説セクション */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
-            <div className="space-y-3">
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                冬の久万高原・四国カルスト・面河渓探訪：静寂と温もりに包まれる旅の魅力
-              </h2>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                温暖な瀬戸内海のイメージが強い四国において、標高1,000m〜1,400mの天空に広がる別世界・愛媛県「久万高原（くまこうげん）」と「四国カルスト天狗高原」。11月から1月の冬、ここは四国随一のパウダースノーが降り積もる純白の白銀世界へと一変します。日本三大カルストの一つに数えられる雄大な石灰岩のカルスト台地は雪に覆われ、まるでアルプスを思わせる雄大な雪原パノラマが出現。大気が極限まで澄み渡る冬の夜には、標高1,400mの頭上に手が届きそうなほど無数の星々が瞬き、天の川がくっきりと肉眼で浮かび上がる奇跡の天体ショーが繰り広げられます。さらに久万高原の山懐には、四国霊場第44番札所・菅生山大寶寺（たいほうじ）が鎮座し、冬の杉木立の中で厳かな新春の初詣を迎えます。冷え切った身体を包み込むのは、古岩屋や高原に湧く名湯温泉と、滋味豊かな愛媛ブランド牛「伊予牛」や名物の温かいきじ鍋。南国四国の知られざる白銀の秘境リゾートへとご案内します。
-              </p>
-            </div>
-
-            <div className="space-y-3 pt-2">
-              <h3 className="text-sm sm:text-base font-bold text-stone-800">
-                この冬、久万高原・四国カルスト・面河渓を訪れるべき3つの理由
-              </h3>
-              <div className="grid grid-cols-1 gap-3">
-              <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  四国とは思えない標高1,400mの白銀雪原と「四国カルスト」の冬絶景
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  見渡す限りの白銀の丘陵に白い石灰岩が点在するカルストの冬景色。冬晴れの日には青空と雪原の圧倒的なコントラストが広がり、霧氷に輝くブナの原生林など四国最高峰の冬の自然美を体感できます。
-                </p>
-              </div>
-              <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  大気が極限まで澄み渡る冬の夜空！肉眼で天の川を望む満天の星空観測
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  人工の光が一切届かない四国カルスト天狗高原。冬は水蒸気が少なく大気透明度が年間で最も高まるため、プラネタリウムを遥かに超える圧巻の星空が広がります。星空観察に特化したリゾート施設での滞在は一生の思い出になります。
-                </p>
-              </div>
-              <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  弘法大師ゆかりの霊場「大寶寺」の新春初詣と名物きじ鍋・伊予牛の温もり
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  樹齢数百年の巨杉に囲まれた四国霊場・大寶寺での神聖な初詣。冷えた身体には、久万高原名物の低カロリー高タンパクな「きじ鍋」や、とろける甘みの「伊予牛」が染み渡ります。名勝・古岩屋温泉のぬくもりも格別です。
-                </p>
-              </div>
-              </div>
-            </div>
-
-            <div className="p-4 rounded-xl bg-cyan-50/60 border border-cyan-100 space-y-2 text-xs sm:text-sm text-stone-700 leading-relaxed">
-              <h3 className="font-bold text-cyan-950 flex items-center gap-1.5 text-sm">
-                <Calendar className="w-4 h-4 text-cyan-700" />
-                アクセス・気候・おすすめの服装
-              </h3>
-              <div className="whitespace-pre-line text-xs text-stone-600">
-                【エリアへのアクセス】
-・飛行機・空港から：松山空港より車・レンタカーで国道33号経由、久万高原町中心部まで約45分。四国カルスト天狗高原までは約1時間30分〜1時間45分。
-・JR・路線バス：JR予讃線「松山駅」よりJR四国バス「久万高原」行きで約1時間10分。久万高原町内からは町営バスが運行。
-・車（四国カルスト方面）：松山自動車道「松山IC」より国道33号・国道440号経由。
-
-【見頃・気候・おすすめの服装】
-・ベストシーズン：11月下旬〜1月（白銀の雪景色、星空観測の最高峰、新春初詣、鍋料理の旬）。
-・気温の目安：久万高原町中心部（標高500m前後）は松山市街より3〜5℃低く、真冬の朝晩は氷点下に達します。標高1,400mの四国カルスト天狗高原は真冬の最高気温でも氷点下となる「完全な真冬日」が多く、強風時は体感温度マイナス10℃以下になります。
-・服装・装備のポイント：スキー場と同等レベルの完全防寒装備（極暖インナー、フリース、厚手ダウンジャケット、防風パンツ、ニット帽、ネックウォーマー、厚手手袋、スノーブーツ等）が必須です。四国カルストへ向かう道路（県道383号・国道440号等）は積雪・凍結するため、スタッドレスタイヤ装着（＋金属チェーン携行）または4WD車でのアクセスが絶対条件となります。気象台の積雪情報や道路規制情報を必ず事前に確認してください。
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* Wikipedia公式連携スポットセクション */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <div className="flex items-center justify-between">
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                近隣名所アーカイブ：標高1,400mの白銀パノラマ・四国カルスト天狗高原
-              </h2>
-              <span className="text-[11px] text-stone-400">Wikipedia公式情報連携</span>
-            </div>
-
-            <div className="flex flex-col gap-5">
-              <div className="w-full overflow-hidden rounded-xl border border-stone-200 bg-stone-100 aspect-[16/9] sm:aspect-[21/9]">
-                <img
-                  src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Shikokukarusuto01.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-                  alt="標高1,400mの白銀パノラマ・四国カルスト天狗高原"
-                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="eager" fetchPriority="high"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                  標高1,400mの白銀パノラマ・四国カルスト天狗高原 の見どころと歴史
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  四国カルスト（しこくかるすと）は、「四国山地」の南西部、愛媛県と高知県との県境部に位置し、標高；約1100～1400ｍの、石灰岩からなる高原状のカルスト台地である。  山口県の「秋吉台」、福岡県の「平尾台」と共に、しばしば「日本三大カルスト」の一つ、と呼ばれる。
-                </p>
-                <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                  <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                  <span className="text-cyan-700 font-semibold">冬の探訪推奨スポット</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
             <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
               久万高原・四国カルスト・面河渓 厳選の温泉＆名宿5選
             </h2>
-            <p className="text-xs sm:text-sm text-stone-500">【標高1400mの白銀カルストと満天の星空：2026-】 
-              楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
+            <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
 
@@ -591,8 +477,7 @@ export default function Page() {
                 <h3 className="text-xl sm:text-2xl font-bold">
                   愛媛県の宿に実質2,000円で泊まる賢い方法
                 </h3>
-                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">【標高1400mの白銀カルストと満天の星空：2026-】 
-                  楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
+                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
               <a

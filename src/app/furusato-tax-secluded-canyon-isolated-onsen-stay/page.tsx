@@ -103,9 +103,8 @@ export default function FurusatoTaxPage() {
         {/* メリット3選 */}
         <section className="space-y-6">
           <div className="text-center">
-            <h2 className="text-xl md:text-3xl font-black text-white">楽天ふるさと納税トラベルクーポンが圧倒的にお得な3つの理由｜秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・</h2>
-            <p className="text-slate-400 text-xs md:text-sm mt-2">【秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・】 
-              予約前の獲得はもちろん、予約後の「あとから適用」も可能な最高峰の使い勝手
+            <h2 className="text-xl md:text-3xl font-black text-white">楽天ふるさと納税トラベルクーポンが圧倒的にお得な3つの理由</h2>
+            <p className="text-slate-400 text-xs md:text-sm mt-2">予約前の獲得はもちろん、予約後の「あとから適用」も可能な最高峰の使い勝手
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -158,9 +157,8 @@ export default function FurusatoTaxPage() {
         {/* 自治体＆厳選宿セクション */}
         <section className="space-y-12">
           <div className="border-l-4 border-amber-500 pl-4">
-            <h2 className="text-2xl md:text-3xl font-black text-white">ふるさと納税対象・厳選おすすめ宿泊施設｜秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・</h2>
-            <p className="text-slate-400 text-xs md:text-sm mt-1">【秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・】 
-              楽天トラベルAPIより最新の料金・宿泊プラン・空室情報をリアルタイム反映中
+            <h2 className="text-2xl md:text-3xl font-black text-white">ふるさと納税対象・厳選おすすめ宿泊施設</h2>
+            <p className="text-slate-400 text-xs md:text-sm mt-1">楽天トラベルAPIより最新の料金・宿泊プラン・空室情報をリアルタイム反映中
             </p>
           </div>
 
@@ -532,8 +530,8 @@ export default function FurusatoTaxPage() {
         {/* 関連・相互リンク集 */}
         <section className="bg-slate-900/60 border border-slate-800 rounded-3xl p-6 md:p-8 space-y-6">
           <div className="border-l-4 border-amber-500 pl-3">
-            <h3 className="text-lg md:text-xl font-black text-white">あわせて読みたいふるさと納税トラベル特集（秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・）</h3>
-            <p className="text-slate-400 text-xs mt-1">【秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・】 目的や同伴者に合わせて最適な宿泊クーポンを活用しよう</p>
+            <h3 className="text-lg md:text-xl font-black text-white">あわせて読みたいふるさと納税トラベル特集</h3>
+            <p className="text-slate-400 text-xs mt-1">目的や同伴者に合わせて最適な宿泊クーポンを活用しよう</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             
@@ -582,9 +580,8 @@ export default function FurusatoTaxPage() {
         {/* クーポン獲得CTA */}
         <section className="bg-gradient-to-br from-amber-500/20 via-slate-900 to-slate-900 border border-amber-500/30 rounded-3xl p-8 text-center space-y-6 shadow-2xl">
           <span className="text-3xl">🎫</span>
-          <h2 className="text-xl md:text-3xl font-black text-white">楽天トラベルふるさと納税クーポンで、一生の思い出に残るプレミアムステイへ｜秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・</h2>
-          <p className="text-slate-300 text-xs md:text-base max-w-2xl mx-auto leading-relaxed">【秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・】 
-            返礼品クーポンは寄付手続き完了後、数分で楽天トラベルのアカウントに即時付与されます。今年の寄付上限枠を賢く使って、家族みんなの最高の笑顔とくつろぎを手に入れましょう。
+          <h2 className="text-xl md:text-3xl font-black text-white">楽天トラベルふるさと納税クーポンで、一生の思い出に残るプレミアムステイへ</h2>
+          <p className="text-slate-300 text-xs md:text-base max-w-2xl mx-auto leading-relaxed">返礼品クーポンは寄付手続き完了後、数分で楽天トラベルのアカウントに即時付与されます。今年の寄付上限枠を賢く使って、家族みんなの最高の笑顔とくつろぎを手に入れましょう。
           </p>
           <div>
             <a
@@ -726,7 +723,7 @@ export default function FurusatoTaxPage() {
         </section>
 
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -896,7 +893,7 @@ export default function FurusatoTaxPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>ケーブルカーで登る天空露天風呂と囲炉裏の宿。渓谷の絶景と郷土料理、温かなおもてなしでお迎えいたします</p>
                   <p><strong>【所在地・アクセス】</strong>〒 徳島県三好市西祖谷山村善徳３３－１ ／ 最寄り駅：主要駅 ／ 交通案内：ＪＲのお客様 大歩危駅～路線バス20分（タクシー15分）・お車のお客様　徳島自動車道井川池田ＩＣより大歩危経由で５０分</p>
-                  <p>【秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「心配りが行き届き、かずら橋ツアーも最高スタッフの方、お料理、温泉等、みんな心配りが行き届いており、とても良かったです。両親もすごく満足してくれました。また、夜のかずら橋ツアーは、ホテルのボンネット…」
@@ -948,49 +945,7 @@ export default function FurusatoTaxPage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・祖谷・みちのく深山の完全遮断リトリート」とあわせて巡りたい岩手県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・祖谷・みちのく深山の完全遮断リトリート」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">中尊寺金色堂（平泉）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">世界遺産・平泉の象徴であり、奥州藤原氏の栄華を今に伝える極楽浄土の建築。堂全体が金箔で覆われ、螺鈿細工や象牙の装飾が施された国宝の美しさは言葉を失うほどです。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">浄土ヶ浜</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">三陸復興国立公園を代表する三陸海岸の景勝地。白い鋭利な岩肌と青松、穏やかで透明度の高いエメラルドグリーンの入江が「まるで極楽浄土のよう」と称えられています。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">龍泉洞</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三大鍾乳洞の一つで、国の天然記念物。洞内に湧き出る地底湖は世界有数の透明度を誇り、「ドラゴンブルー」と呼ばれる神秘的な青い輝きに吸い込まれそうになります。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">小岩井農場</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">岩手山の雄大な山麓に広がる日本最大級の民間総合農場。美しい一本桜や歴史あるレンガサイロ、搾りたての牛乳を使った絶品アイスクリームなどが楽しめます。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       </main>
     

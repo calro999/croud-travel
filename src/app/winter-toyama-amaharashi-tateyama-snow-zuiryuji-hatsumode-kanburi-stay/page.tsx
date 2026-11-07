@@ -252,91 +252,6 @@ export default function Page() {
           </section>
 
           {/* 訪れるべき3つの理由 */}
-          <section className="space-y-4">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2">
-              <ShieldCheck className="w-5 h-5 text-cyan-800" />
-              <span>この冬、雨晴・高岡・氷見を訪れるべき3つの理由</span>
-            </h2>
-            <div className="grid grid-cols-1 gap-4">
-          <div className="bg-white p-5 sm:p-6 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <div className="flex items-center gap-2">
-              <span className="w-6 h-6 rounded-full bg-cyan-100 text-cyan-800 text-xs font-bold flex items-center justify-center">
-                1
-              </span>
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                世界でも奇跡の絶景！「雨晴海岸」富山湾越しに望む純白の冠雪立山連峰
-              </h3>
-            </div>
-            <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
-              海の上に雪を冠した3,000m級の立山連峰が浮かび上がる世界的絶景。11月から1月の晴天日には雪をまとった剱岳や立山三山が青空に鮮明に映え、波打ち際の女岩との対比は息を呑む迫力です。早朝に海面を覆う幻想的な水煙「気あらし」も冬だけの特別な自然美です。
-            </p>
-          </div>
-
-          <div className="bg-white p-5 sm:p-6 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <div className="flex items-center gap-2">
-              <span className="w-6 h-6 rounded-full bg-cyan-100 text-cyan-800 text-xs font-bold flex items-center justify-center">
-                2
-              </span>
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                加賀前田家の美の極致！国宝「高岡瑞龍寺」新春開運初詣と荘厳な禅宗伽藍
-              </h3>
-            </div>
-            <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
-              前田利長公の菩提寺であり、富山県唯一の国宝建造物である瑞龍寺。左右対称に美しく配置された山門・仏殿・法堂の凛とした佇まいは圧巻で、冬の雪化粧をまとった庭園と回廊は静謐な祈りの空気に満たされます。新春の厄除けや心願成就の初詣に最適です。
-            </p>
-          </div>
-
-          <div className="bg-white p-5 sm:p-6 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <div className="flex items-center gap-2">
-              <span className="w-6 h-6 rounded-full bg-cyan-100 text-cyan-800 text-xs font-bold flex items-center justify-center">
-                3
-              </span>
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                冬の富山湾の絶対王者！本場「ひみ寒ぶり」の刺身・ブリしゃぶ・ブリ大根会席
-              </h3>
-            </div>
-            <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
-              11月下旬に発令される「ひみ寒ぶり宣言」とともに旬の頂点を迎える寒鰤。厳しい日本海の荒波で鍛えられ、脂の乗り切った寒ぶりは口の中でとろける甘みと旨味を放ちます。富山湾のきときと（新鮮）な魚介や氷見牛とともに、冬の味覚の真髄を味わい尽くせます。
-            </p>
-          </div>
-            </div>
-          </section>
-
-          {/* 近隣名所アーカイブ（Wikipedia公式連携） */}
-          <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-4">
-            <div className="flex items-center justify-between border-b border-stone-100 pb-3">
-              <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <MapPin className="w-5 h-5 text-cyan-800" />
-                <span>近隣名所アーカイブ：能登半島国定公園・雨晴海岸（富山湾越しに望む冠雪立山連峰・冬の世界的絶景）</span>
-              </h2>
-              <span className="text-[11px] bg-stone-100 text-stone-600 px-2 py-0.5 rounded">
-                Wikipedia公式連携
-              </span>
-            </div>
-
-            <div className="flex flex-col gap-5">
-              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
-                <img
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Himi-line-amaharashi.jpg/1280px-Himi-line-amaharashi.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="能登半島国定公園・雨晴海岸（富山湾越しに望む冠雪立山連峰・冬の世界的絶景）"
-                  className="w-full h-full object-cover"
-                  loading="lazy"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                  【能登半島国定公園・雨晴海岸（富山湾越しに望む冠雪立山連峰・冬の世界的絶景）の見どころと歴史】
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  雨晴海岸（あまはらしかいがん）は、富山県高岡市北部の海岸。付近は男岩や女岩をはじめとする小さな島や岩礁が多く、立山連峰を背景に望む景勝地である。能登半島国定公園に含まれ、日本の渚百選に選ばれている。富山県指定の「氷見海岸鳥獣保護区」の一部として鳥獣保護区にもなっている。 雨晴駅の近くには「雨を晴らした」という地名の由来となった義経伝説が残る義経岩がある。
-                </p>
-                <div className="text-[11px] text-stone-400">
-                  出典：フリー百科事典『ウィキペディア（Wikipedia）』より
-                </div>
-              </div>
-            </div>
-          </section>
-
           {/* 厳選名宿5選 */}
           <section className="space-y-6">
             <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-2">
@@ -771,7 +686,7 @@ export default function Page() {
 
           {/* 内部リンク */}
           <section className="bg-stone-100/70 rounded-2xl p-6 border border-stone-200 space-y-3 text-xs sm:text-sm">
-            <h3 className="font-bold text-stone-800">あわせて読みたい関連特集（富山湾越しの冠雪立山連峰・雨晴海岸と国宝瑞龍寺初詣：）</h3>
+            <h3 className="font-bold text-stone-800">あわせて読みたい関連特集</h3>
             <ul className="space-y-1.5 text-cyan-800">
               <li>
                 <Link href="/prefectures/toyama/" className="hover:underline flex items-center gap-1">

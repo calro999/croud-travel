@@ -124,7 +124,7 @@ export default function UltraLuxuryWinterFeaturePage() {
         {/* 導入解説 */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600 shrink-0" />
-            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>｜2026-2027年11-12月初冬の栃木・日光中禅</h2>
+            <span>初冬にこの地を訪れるべき理由と風土の魅力</span></h2>
           <p className="text-xs md:text-sm text-slate-700 leading-relaxed whitespace-pre-line">
             世界遺産・日光東照宮が鎮座する日光山内から、九十九折のいろは坂を登りきった標高1269mの別天地『中禅寺湖（ちゅうぜんじこ）』。霊峰・男体山の噴火によって生まれたこの天空の湖は、明治期よりイギリスやイタリアなど各国の外交官が避暑に訪れ、湖畔に大使館別荘を構えた日本屈指の由緒ある国際的リゾート地です。11月から12月にかけての初冬、奥日光は紅葉の喧騒が完全に去り、山頂を白く雪化粧した男体山が深い藍色の中禅寺湖畔に映り込む『最も凛とした美しさに満ちた静寂の季節』を迎えます。この地に誕生した世界最高峰のデスティネーションホテルが『ザ・リッツ・カールトン日光』。全室が湖または男体山を望むバルコニー付きスイートで、木造建築の美学とリッツ・カールトンの一流のサービスが融合。さらに、リッツ・カールトンブランドとして世界で初めて導入された天然温泉大浴場には、日光湯元から引湯される濃厚な乳白色の硫黄泉が注がれ、雪見露天風呂から冬の満天の星空を眺める体験は息を呑むほど贅沢です。そして湖畔に佇むもうひとつの名門が、日本最古のリゾートホテルの伝統を受け継ぐ『中禅寺金谷ホテル』。ログハウス風の重厚な暖炉が灯るラウンジと、名物『金谷ホテル伝統の虹鱒のソテー』やとちぎ和牛のフィレステーキを味わう本格ディナー。静まり返る奥日光の大自然に抱かれ、名湯と最高峰の美食に浸る時間は、大人の特別な記念日旅行に最高の輝きを与えてくれます。
           </p>
@@ -171,44 +171,7 @@ export default function UltraLuxuryWinterFeaturePage() {
           </div>
         </section>
 
-        {/* Wikipedia連携 観光地紹介 */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
-          <div className="flex items-center justify-between border-b border-slate-100 pb-3">
-            <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2">
-              <MapPin className="w-5 h-5 text-rose-600 shrink-0" />
-              <span>近隣の必見名所：中禅寺湖</span>
-            </h2>
-            <span className="text-[11px] text-slate-400">Wikipedia・公式解説連携</span>
-          </div>
-
-          <div className="grid md:grid-cols-12 gap-6 items-center">
-            <div className="md:col-span-5 relative h-52 md:h-60 rounded-xl overflow-hidden bg-slate-100 border border-slate-200">
-              <Image
-                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Mount_nantai_and_lake_chuzenji.jpg/1280px-Mount_nantai_and_lake_chuzenji.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                alt="標高1269mの天空の湖・中禅寺湖（日光国立公園のシンボル・男体山の初雪と湖畔の静寂）"
-                fill
-                className="object-cover"
-                sizes="(max-width: 768px) 100vw, 360px"
-              />
-            </div>
-            <div className="md:col-span-7 space-y-2.5">
-              <h3 className="text-base font-bold text-slate-900 leading-snug">
-                標高1269mの天空の湖・中禅寺湖（日光国立公園のシンボル・男体山の初雪と湖畔の静寂）
-              </h3>
-              <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
-                中禅寺湖（ちゅうぜんじこ）は、栃木県日光市の日光国立公園内にある湖。約2万年前に男体山の噴火でできた堰止湖で、人造湖を除けば日本一標高の高い場所にある湖である。また、栃木県最大の湖で、日本の湖沼では25番目の面積規模を有する。平均水深は約94.6mで最大水深は163mあり日本で7番目の深さとなっている。
-
-1周は約25kmであり、歩くと9時間ほどかかる距離である。湖のすぐ北には男体山がそびえ、北西には戦場ヶ原が広がる。湖の南側には八丁出島と呼ばれる細長く突き出した半島があり、紅葉の名所として知られるほか、薬師如来を祀っていたとされる薬師堂跡がある。日本百景に選定されている。
-現代では観光地として知られるが、奈良時代に湖岸に勝道上人が開いた中禅寺による名称であり、かつては神仏への信仰にもとづく修行の場として知られていた。湖岸から約100m離れた場所にある上野島には、勝道上人の遺骨の一部が納められている。...
-              </p>
-              <div className="bg-amber-50 rounded-lg p-3 border border-amber-200/60 text-[11px] md:text-xs text-amber-900 leading-relaxed">
-                <span className="font-bold block mb-0.5">💡 周辺観光のポイント</span>
-                各高級旅館からスムーズにアクセス可能。初冬の澄んだ大気のもとで、静寂と壮大な自然美を心ゆくまで堪能できます。
-              </div>
-            </div>
-          </div>
-        </section>
-
+        
         {/* 楽天API厳選宿 5選 */}
         <section className="space-y-6">
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
@@ -562,7 +525,7 @@ export default function UltraLuxuryWinterFeaturePage() {
         {/* アクセス＆見頃情報 */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 md:p-8 space-y-4">
           <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300"><Train className="w-5 h-5 shrink-0" />
-            <span>アクセスガイド・気候と服装のポイント</span>｜2026-2027年11-12月初冬の栃木・日光中禅</h2>
+            <span>アクセスガイド・気候と服装のポイント</span></h2>
           <div className="text-xs md:text-sm text-slate-300 leading-relaxed whitespace-pre-line">
             【エリアへのアクセス】
 ・電車・バス：東武日光線「東武日光駅」またはJR日光線「日光駅」下車。東武バス（中禅寺温泉・湯元温泉行き）に乗り換え「中禅寺温泉」バス停まで約45分。ザ・リッツ・カールトン日光へはバス停より徒歩約5分。各ホテルへの無料送迎バスも運行（要事前確認）。
@@ -579,7 +542,7 @@ export default function UltraLuxuryWinterFeaturePage() {
         {/* よくある質問 (FAQ) */}
         <section className="bg-slate-100 rounded-2xl p-6 md:p-8 space-y-4">
           <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
-            <span>よくある質問（FAQ）</span>｜2026-2027年11-12月初冬の栃木・日光中禅</h2>
+            <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
             <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
@@ -613,7 +576,7 @@ export default function UltraLuxuryWinterFeaturePage() {
 
         {/* ふるさと納税・関連リンク */}
         <section className="bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 rounded-2xl p-6 md:p-8 space-y-3 text-center">
-          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！｜2026-2027年11-12月初冬の栃木・日光中禅</h2>
+          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！</h2>
           <p className="text-xs md:text-sm max-w-xl mx-auto font-medium">
             高価格帯の高級宿だからこそ、楽天トラベルふるさと納税クーポンの割引効果は絶大。控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）憧れのスイートルームに宿泊できます。
           </p>

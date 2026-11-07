@@ -219,9 +219,8 @@ export default function Page() {
         {/* 厳選ホテルリスト */}
         <section className="space-y-10">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル｜日本三大竹林＆風にそよぐ緑の回廊・静寂の美林と風雅名</h2>
-            <p className="text-xs md:text-sm text-slate-500">【日本三大竹林＆風にそよぐ緑の回廊・静寂の美林と風雅名】 
-              楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
+            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">楽天ふるさと納税で泊まる名宿＆厳選ホテル</h2>
+            <p className="text-xs md:text-sm text-slate-500">楽天トラベル公式APIより最新の宿情報・写真・最低参考価格を取得しています
             </p>
           </div>
 
@@ -316,9 +315,8 @@ export default function Page() {
         {/* 楽天ふるさと納税トラベル利用ステップ */}
         <section className="bg-gradient-to-br from-slate-900 to-emerald-950 text-white rounded-2xl p-6 md:p-8 space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-xl md:text-2xl font-bold">楽天ふるさと納税×楽天トラベル 簡単3ステップ｜日本三大竹林＆風にそよぐ緑の回廊・静寂の美林と風雅名</h2>
-            <p className="text-xs md:text-sm text-slate-300">【日本三大竹林＆風にそよぐ緑の回廊・静寂の美林と風雅名】 
-              控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）憧れの高級宿・温泉旅館をお得に予約できます
+            <h2 className="text-xl md:text-2xl font-bold">楽天ふるさと納税×楽天トラベル 簡単3ステップ</h2>
+            <p className="text-xs md:text-sm text-slate-300">控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）憧れの高級宿・温泉旅館をお得に予約できます
             </p>
           </div>
 
@@ -327,9 +325,8 @@ export default function Page() {
               <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
                 1
               </div>
-              <h3 className="font-bold text-sm text-white">自治体に寄付（日本三大竹林＆風にそよぐ緑の回廊・静寂の美林と風雅名）</h3>
-              <p className="text-xs leading-relaxed text-slate-300">【日本三大竹林＆風にそよぐ緑の回廊・静寂の美林と風雅名】 
-                希望の自治体と寄付金額を選び、楽天ふるさと納税で寄付を行います。寄付額に応じたトラベルクーポンが即時付与されます。
+              <h3 className="font-bold text-sm text-white">自治体に寄付</h3>
+              <p className="text-xs leading-relaxed text-slate-300">希望の自治体と寄付金額を選び、楽天ふるさと納税で寄付を行います。寄付額に応じたトラベルクーポンが即時付与されます。
               </p>
             </div>
 
@@ -337,9 +334,8 @@ export default function Page() {
               <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
                 2
               </div>
-              <h3 className="font-bold text-sm text-white">対象宿・プランを予約（日本三大竹林＆風にそよぐ緑の回廊・静寂の美林と風雅名）</h3>
-              <p className="text-xs leading-relaxed text-slate-300">【日本三大竹林＆風にそよぐ緑の回廊・静寂の美林と風雅名】 
-                楽天トラベルで対象地域の宿泊施設を検索。獲得したふるさと納税クーポンを予約ステップで適用します。
+              <h3 className="font-bold text-sm text-white">対象宿・プランを予約</h3>
+              <p className="text-xs leading-relaxed text-slate-300">楽天トラベルで対象地域の宿泊施設を検索。獲得したふるさと納税クーポンを予約ステップで適用します。
               </p>
             </div>
 
@@ -347,9 +343,8 @@ export default function Page() {
               <div className="w-7 h-7 rounded-full bg-emerald-500 text-white font-bold flex items-center justify-center text-xs">
                 3
               </div>
-              <h3 className="font-bold text-sm text-white">現地で贅沢ステイ（日本三大竹林＆風にそよぐ緑の回廊・静寂の美林と風雅名）</h3>
-              <p className="text-xs leading-relaxed text-slate-300">【日本三大竹林＆風にそよぐ緑の回廊・静寂の美林と風雅名】 
-                宿泊当日は通常通りチェックイン。割引されたお得な価格で、名湯や美食、絶景体験を満喫できます。
+              <h3 className="font-bold text-sm text-white">現地で贅沢ステイ</h3>
+              <p className="text-xs leading-relaxed text-slate-300">宿泊当日は通常通りチェックイン。割引されたお得な価格で、名湯や美食、絶景体験を満喫できます。
               </p>
             </div>
           </div>
@@ -534,7 +529,7 @@ export default function Page() {
         </section>
 
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -663,49 +658,7 @@ export default function Page() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「日本三大竹林＆風にそよぐ緑の回廊・静寂の美林と風雅名宿×ふるさと納税厳選ガイド嵯峨野・報国寺・さつま町」とあわせて巡りたい埼玉県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「日本三大竹林＆風にそよぐ緑の回廊・静寂の美林と風雅名宿×ふるさと納税厳選ガイド嵯峨野・報国寺・さつま町」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Kawagoe_Ichibangai1.jpg/1280px-Kawagoe_Ichibangai1.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="川越 小江戸（時の鐘）" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">川越 小江戸（時の鐘）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">蔵造りの商家が並ぶ江戸の情緒を色濃く残す街並み。町のシンボル「時の鐘」や駄菓子屋横丁、縁結びで有名な川越氷川神社など見どころが満載です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">長瀞渓谷（ラインくだり）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">荒川の流れる美しい岩畳と新緑・紅葉の絶景が広がる国指定の名勝・天然記念物。木造の船で急流や静流を下る長瀞ラインくだりはスリルと爽快感にあふれています。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">鉄道博物館（てっぱく）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">JR東日本創立20周年事業として作られた実物車両30両以上を展示する巨大博物館。迫力のジオラマや運転シミュレータなど大人から子供まで楽しめます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">羊山公園（芝桜の丘）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">秩父市街を一望する高台に位置し、春にはピンクや白、紫など9種類40万株以上の芝桜がデザインされた一面のパッチワーク模様を描き出します。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       </main>
 

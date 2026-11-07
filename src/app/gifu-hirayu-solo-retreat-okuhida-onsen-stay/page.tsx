@@ -76,8 +76,7 @@ export default function ArticlePage() {
             奥飛騨・平湯温泉ひとり旅＆山岳秘湯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯おこもり」奥飛騨最古の源泉かけ流し・飛騨牛炭火焼き・大露天風呂！山岳リトリート厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">【奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯】 
-            更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -96,7 +95,7 @@ export default function ArticlePage() {
         {/* 目次 */}
         <section className="bg-white p-5 rounded-2xl border border-stone-200 shadow-sm mb-10">
           <h2 className="text-sm font-bold text-stone-900 mb-3 flex items-center gap-2"><span>📑</span>
-            <span>この記事で紹介する厳選ホテル（楽天トラベル最新評価順）</span>｜奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯</h2>
+            <span>この記事で紹介する厳選ホテル（楽天トラベル最新評価順）</span></h2>
           <ul className="text-xs sm:text-sm space-y-2">
             <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 平湯温泉　平田館（★4.29 / 最低目安：13,200円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. 奥飛騨温泉郷　花ごころ万喜（ばんき）（★4.42 / 最低目安：9,350円〜）</a></li>
@@ -140,7 +139,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯）</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>湯量豊富な総桧風呂の大浴場と露天風呂</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>平湯バスターミナルより徒歩1分</span></li>
@@ -196,7 +195,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯）</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>《日本の宿アワード ＆楽天シルバーアワード2020W受賞》板蔵の貸切露天</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>花をテーマにしたおもてなし</span></li>
@@ -252,7 +251,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯）</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>飛騨の温もりが感じられる安らぎの宿</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>四季によって表情を変える露天風呂が自慢です</span></li>
@@ -300,7 +299,7 @@ export default function ArticlePage() {
         {/* よくある質問 FAQ */}
         <section className="bg-amber-50/40 rounded-2xl border border-amber-200/60 p-6 sm:p-8 mb-10">
           <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span>❓</span>
-            <span>よくある質問（FAQ）</span>｜奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯</h2>
+            <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-4">
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
               <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
@@ -325,7 +324,7 @@ export default function ArticlePage() {
 
         {/* 記事末尾CTA */}
         <div className="text-center bg-stone-900 text-white p-8 rounded-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold mb-3">気になる宿は見つかりましたか？｜奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯</h2>
+          <h2 className="text-xl sm:text-2xl font-bold mb-3">気になる宿は見つかりましたか？</h2>
           <p className="text-stone-300 text-xs sm:text-sm max-w-lg mx-auto mb-6">
             「奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯おこもり（奥飛騨最古の源泉かけ流し・飛騨牛炭火焼き・大露天風呂）」で人気の「平湯温泉　平田館」をはじめ、週末や連休は条件の良い客室から埋まりやすいため、楽天トラベルの空室カレンダーから早めの日程確認をおすすめします。
           </p>
@@ -431,7 +430,7 @@ export default function ArticlePage() {
         </section>
 
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -530,7 +529,7 @@ export default function ArticlePage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>《日本の宿アワード ＆楽天シルバーアワード2020W受賞》板蔵の貸切露天、花をテーマにしたおもてなし</p>
                   <p><strong>【所在地・アクセス】</strong>〒 岐阜県高山市奥飛騨温泉郷一重ヶ根781 ／ 最寄り駅：高山 ／ 交通案内：長野道・松本IC→R158・安房トンネル・R471→新平湯温泉／中部縦貫道・高山IC→R158・R471→新平湯温泉</p>
-                  <p>【奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.23 ／ 部屋 ★4.35 ／ 設備 ★3.95 ／ 風呂 ★4.22 ／ 食事 ★4.53</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「囲炉裏料理と細やかな気遣いに癒やされる到着した際にたんぽぽコーヒーを出して頂いたのですが、甘さがあって飲みやすくてとても美味しかったです。お食事はまず夕食の際に囲炉裏で鮎の塩焼きと五平餅が焼か…」
@@ -560,49 +559,7 @@ export default function ArticlePage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯おこもり（奥飛騨最古の源泉かけ流し・飛騨牛炭火焼き・大露天風呂）」とあわせて巡りたい茨城県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯おこもり：奥飛騨最古の源泉かけ流し・飛騨牛炭火焼き・大露天風呂」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">国営ひたち海浜公園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">春のネモフィラ、秋のコキアをはじめ、四季折々の広大な花畑が美しい国営公園。みはらしの丘一面が青や赤に染まる光景は世界中から絶賛される絶景です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">水戸偕楽園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">金沢兼六園・岡山後楽園と並ぶ日本三名園の一つ。徳川斉昭公によって造園され、春には約100品種3,000本の梅が咲き誇る歴史ある回遊式庭園です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">袋田の滝</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三名瀑に数えられる高さ120m・幅73mのダイナミックな4段の滝。四季ごとに全く異なる表情を見せ、冬には滝全体が凍結する「氷瀑」が見事です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">筑波山</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「西の富士、東の筑波」と称される紫峰。男体山と女体山の2峰からなり、ケーブルカーやロープウェイで気軽に山頂へ登れ、関東平野の一望を楽しめます。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       </main>
     

@@ -261,45 +261,7 @@ export default function FeaturePage() {
             </div>
           </section>
 
-          {/* Wikipedia 近隣観光名所紹介 */}
-          <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
-            <div className="flex items-center gap-2 border-b border-stone-100 pb-4">
-              <Info className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                近隣の必見名所：薩摩の小京都・知覧武家屋敷庭園（国の名勝・生垣と枯山水美・開聞岳パノラマ）
-              </h2>
-            </div>
-            <div className="flex flex-col gap-6">
-              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
-                <img
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Chiran_Fumoto_01.JPG/1280px-Chiran_Fumoto_01.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="武家屋敷通り (南九州市)"
-                  className="w-full h-full object-cover"
-                  loading="eager" fetchPriority="high"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-lg">
-                  武家屋敷通り (南九州市)
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  武家屋敷通り（ぶけやしきどおり）は、鹿児島県南九州市知覧町郡にある道路。行政上の正式な路線名は、南九州市道城馬場線（しろばばせん）、通称・武家屋敷通り線という。重要伝統的建造物群保存地区の中を東西に通る延長約0.8kmの侍町の通りであり、薩摩藩による藩政時代は、鹿児島への往来に使われた街道でもある。
-                </p>
-                <div className="pt-2 text-xs">
-                  <a
-                    href="https://ja.wikipedia.org/wiki/%E6%AD%A6%E5%AE%B6%E5%B1%8B%E6%95%B7%E9%80%9A%E3%82%8A%20%28%E5%8D%97%E4%B9%9D%E5%B7%9E%E5%B8%82%29"
-                    target="_blank"
-                    rel="noopener noreferrer nofollow"
-                    className="inline-flex items-center gap-1 text-cyan-700 hover:text-cyan-900 underline"
-                  >
-                    <span>出典：Wikipedia公式『武家屋敷通り (南九州市)』詳細情報を見る</span>
-                    <ExternalLink className="w-3 h-3" />
-                  </a>
-                </div>
-              </div>
-            </div>
-          </section>
-
+          
           {/* 厳選名宿5選 */}
           <section className="space-y-8">
             <div className="border-b border-stone-200 pb-4">

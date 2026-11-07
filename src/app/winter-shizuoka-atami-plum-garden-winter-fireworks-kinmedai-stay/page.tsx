@@ -146,49 +146,14 @@ export default function WinterFeaturePage() {
           </div>
         </section>
 
-        {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm">
-            <div className="bg-gradient-to-r from-stone-900 to-slate-800 text-white px-6 py-4 flex items-center justify-between">
-              <div className="flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-cyan-400 animate-pulse" />
-                <h2 className="text-base md:text-lg font-bold tracking-wide">冬の観光名所ガイド：熱海梅園（日本一早咲きの梅の名所）</h2>
-              </div>
-              <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所解説</span>
-            </div>
-            <div className="flex flex-col gap-6 p-6">
-              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
-                <Image
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Atami_baien_-_March_7_2021_various_14_34_49_754000.jpeg/1280px-Atami_baien_-_March_7_2021_various_14_34_49_754000.jpeg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="熱海梅園（日本一早咲きの梅の名所）"
-                  fill
-                  className="object-cover hover:scale-105 transition duration-500"
-                  sizes="(max-width: 768px) 100vw, 400px"
-                />
-                <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/75 to-transparent p-2 text-right">
-                  <span className="text-[10px] text-white/90">写真出典: Wikimedia Commons</span>
-                </div>
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">熱海梅園（日本一早咲きの梅の名所）の歴史と見どころ</h3>
-                <p className="text-xs md:text-sm text-stone-600 leading-relaxed">熱海梅園（あたみばいえん）は、静岡県熱海市にある市営の庭園。日本で最も早咲きの梅、そして最も遅い紅葉と言われている。60品種・469本の梅をはじめとする各種植物が植えられており、熱海市の観光名所の1つとなっている。</p>
-                <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                  <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                  <span className="text-cyan-700 font-semibold">冬の探訪推奨スポット</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
+        
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
             <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
               熱海・伊豆 厳選の温泉＆リゾート宿5選
             </h2>
-            <p className="text-xs sm:text-sm text-stone-500">【日本一早咲きの熱海梅園と冬海上花火：2026-202】 
-              楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
+            <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
 
@@ -674,8 +639,7 @@ export default function WinterFeaturePage() {
                 <h3 className="text-xl sm:text-2xl font-bold">
                   静岡県の宿に実質2,000円で泊まる賢い方法
                 </h3>
-                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">【日本一早咲きの熱海梅園と冬海上花火：2026-202】 
-                  楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
+                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
               <a

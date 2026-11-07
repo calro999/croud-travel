@@ -252,91 +252,6 @@ export default function Page() {
           </section>
 
           {/* 訪れるべき3つの理由 */}
-          <section className="space-y-4">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2">
-              <ShieldCheck className="w-5 h-5 text-cyan-800" />
-              <span>この冬、津山・美作・湯原を訪れるべき3つの理由</span>
-            </h2>
-            <div className="grid grid-cols-1 gap-4">
-          <div className="bg-white p-5 sm:p-6 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <div className="flex items-center gap-2">
-              <span className="w-6 h-6 rounded-full bg-cyan-100 text-cyan-800 text-xs font-bold flex items-center justify-center">
-                1
-              </span>
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                日本三大平山城の偉容！「津山城（鶴山公園）」豪壮な石垣美と冬の雪化粧
-              </h3>
-            </div>
-            <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
-              姫路城・松山城と並び称される津山城。何段にもそびえ立つ壮大な石垣群は「石垣の博物館」とも称され、冬の静寂の中で白雪をまとった姿は圧巻です。復元された備中櫓の内部見学や、城下町の風情残る「作州城東屋敷」巡りなど、歴史好きの心を捉えて離さない見どころが満ちています。
-            </p>
-          </div>
-
-          <div className="bg-white p-5 sm:p-6 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <div className="flex items-center gap-2">
-              <span className="w-6 h-6 rounded-full bg-cyan-100 text-cyan-800 text-xs font-bold flex items-center justify-center">
-                2
-              </span>
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                名湯の宝庫！美作三湯「湯原・奥津・湯郷」の極上雪見露天風呂と足元湧出温泉
-              </h3>
-            </div>
-            <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
-              西日本を代表する名湯地帯・美作三湯。川底の砂を吹き上げて湧き出す湯原温泉「砂湯」の雪見露天、加水・加温一切なしで川底から直接自噴する奥津温泉の奇跡の「鍵湯」、美肌成分たっぷりの湯郷温泉。三者三様の異なる極上泉質を巡る贅沢な湯浴みが楽しめます。
-            </p>
-          </div>
-
-          <div className="bg-white p-5 sm:p-6 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <div className="flex items-center gap-2">
-              <span className="w-6 h-6 rounded-full bg-cyan-100 text-cyan-800 text-xs font-bold flex items-center justify-center">
-                3
-              </span>
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                肉好きを唸らせる冬の津山名物「そずり鍋」と幻の黒毛和牛「千屋牛」の極上会席
-              </h3>
-            </div>
-            <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
-              古くから牛馬の流通拠点として独自の牛肉食文化が根付く津山。骨の周りからそずり（削り）落とした濃厚な赤身肉を、冬の白菜や豆腐、ネギとともに醤油出汁でぐつぐつ煮込む「そずり鍋」は身体を芯から温める冬のソウルフード。さらに霜降りの甘みが際立つ幻の和牛「千屋牛」のステーキやすき焼きも絶品です。
-            </p>
-          </div>
-            </div>
-          </section>
-
-          {/* 近隣名所アーカイブ（Wikipedia公式連携） */}
-          <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-4">
-            <div className="flex items-center justify-between border-b border-stone-100 pb-3">
-              <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <MapPin className="w-5 h-5 text-cyan-800" />
-                <span>近隣名所アーカイブ：日本三大平山城・津山城（鶴山公園・豪壮な石垣群と冬の雪化粧の城下町）</span>
-              </h2>
-              <span className="text-[11px] bg-stone-100 text-stone-600 px-2 py-0.5 rounded">
-                Wikipedia公式連携
-              </span>
-            </div>
-
-            <div className="flex flex-col gap-5">
-              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
-                <img
-                  src="https://upload.wikimedia.org/wikipedia/commons/c/c1/%E6%B4%A5%E5%B1%B1%E5%9F%8E%E5%82%99%E4%B8%AD%E6%AB%93.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-                  alt="日本三大平山城・津山城（鶴山公園・豪壮な石垣群と冬の雪化粧の城下町）"
-                  className="w-full h-full object-cover"
-                  loading="lazy"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                  【日本三大平山城・津山城（鶴山公園・豪壮な石垣群と冬の雪化粧の城下町）の見どころと歴史】
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  津山城（つやまじょう）は、美作国 苫田郡（のち西北条郡）津山（現在の岡山県津山市山下）にあった日本の城。別名・鶴山城（かくざんじょう）。城跡は国の史跡に指定されている。津山市は建造物の木造復元など保存計画を行なっている。
-                </p>
-                <div className="text-[11px] text-stone-400">
-                  出典：フリー百科事典『ウィキペディア（Wikipedia）』より
-                </div>
-              </div>
-            </div>
-          </section>
-
           {/* 厳選名宿5選 */}
           <section className="space-y-6">
             <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-2">
@@ -768,7 +683,7 @@ export default function Page() {
 
           {/* 内部リンク */}
           <section className="bg-stone-100/70 rounded-2xl p-6 border border-stone-200 space-y-3 text-xs sm:text-sm">
-            <h3 className="font-bold text-stone-800">あわせて読みたい関連特集（雪見の名泉・美作三湯と津山城下町の冬叙情：2026-）</h3>
+            <h3 className="font-bold text-stone-800">あわせて読みたい関連特集</h3>
             <ul className="space-y-1.5 text-cyan-800">
               <li>
                 <Link href="/prefectures/okayama/" className="hover:underline flex items-center gap-1">

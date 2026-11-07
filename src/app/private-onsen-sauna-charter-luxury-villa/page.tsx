@@ -142,7 +142,7 @@ export default function Page() {
         {/* 厳選ホテル・宿ランキング比較一覧 */}
         <div className="space-y-8 pt-4">
           <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2 border-b border-emerald-950/10 pb-3"><span>🏆</span>
-            <span>編集部が厳選したおすすめ宿泊施設 TOP3</span>｜完全プライベートな一棟貸切</h2>
+            <span>編集部が厳選したおすすめ宿泊施設 TOP3</span></h2>
 
           <div className="space-y-8">
             {hotels.map((h, idx) => (
@@ -242,14 +242,12 @@ export default function Page() {
           <div className="space-y-3 text-xs">
             <div className="p-4 rounded-xl bg-teal-50/30 border border-teal-900/10 space-y-1.5">
               <h4 className="font-bold text-teal-950">Q. 一棟貸切・プライベートヴィラの予約でお得な方法はありますか？</h4>
-              <p className="text-emerald-950/80 leading-relaxed">【完全プライベートな一棟貸切】 
-                楽天トラベルの「5と0のつく日セール」による最大20%割引や、控除上限内であれば自己負担実質2,000円で宿泊できる（寄付額の最大30%クーポン還元）「楽天ふるさと納税宿泊クーポン」の併用が最もお得でおすすめです。
+              <p className="text-emerald-950/80 leading-relaxed">楽天トラベルの「5と0のつく日セール」による最大20%割引や、控除上限内であれば自己負担実質2,000円で宿泊できる（寄付額の最大30%クーポン還元）「楽天ふるさと納税宿泊クーポン」の併用が最もお得でおすすめです。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-teal-50/30 border border-teal-900/10 space-y-1.5">
               <h4 className="font-bold text-teal-950">Q. キャンセル料や予約変更はどうなっていますか？</h4>
-              <p className="text-emerald-950/80 leading-relaxed">【完全プライベートな一棟貸切】 
-                各宿泊施設および予約プランによってキャンセル規定が異なります。ご予約完了前に楽天トラベルの詳細ページにてキャンセルポリシーを必ずご確認ください。
+              <p className="text-emerald-950/80 leading-relaxed">各宿泊施設および予約プランによってキャンセル規定が異なります。ご予約完了前に楽天トラベルの詳細ページにてキャンセルポリシーを必ずご確認ください。
               </p>
             </div>
           </div>
@@ -257,7 +255,7 @@ export default function Page() {
       </div>
     
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -448,49 +446,7 @@ export default function Page() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「完全プライベートな一棟貸切（天然温泉掛け流し＆客室専用サウナ付き極上ヴィラ）」とあわせて巡りたい三重県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「完全プライベートな一棟貸切！天然温泉掛け流し＆客室専用サウナ付き極上ヴィラ」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Naiku_001.jpg/1280px-Naiku_001.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="伊勢神宮（内宮・外宮）" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">伊勢神宮（内宮・外宮）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「お伊勢さん」と親しまれる日本人の心のふるさと。五十鈴川の清流を渡り、樹齢数百年の杉木立に囲まれた内宮・正宮でお参りする体験は特別です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">ナガシマスパーランド</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">アジア最大級のアトラクション数を誇るハイブリッドテーマパーク。世界級ローラーコースター「スチールドラゴン2000」や夏の大海水プールが人気です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">おかげ横丁・おはらい町</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">伊勢神宮内宮の門前町。江戸から明治期の伊勢路の建造物を移築・再現した町並みで名物の赤福餅や伊勢うどん、松阪牛グルメの食べ歩きが楽しめます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">熊野古道（伊勢路）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">世界遺産に登録された聖地熊野への参詣道。苔むした石畳と静かな竹林・杉林が続く馬越峠やツヅラト峠など歴史と自然に浸るトレッキングルートです。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       <HubRelatedPosts currentSlug="private-onsen-sauna-charter-luxury-villa" />
 </div>

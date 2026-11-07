@@ -140,9 +140,8 @@ export default function FeatureArticlePage() {
         <div className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-amber-800 text-xs md:text-sm font-bold tracking-wider uppercase">Recommended Ryokan & Hotels</span>
-            <h2 className="text-2xl md:text-3xl font-extrabold font-serif text-stone-900">ふるさと納税トラベルクーポンで泊まりたい厳選宿3選｜伊豆の小京都・修善寺温泉の竹林の小径紅葉＆桂川もみじ</h2>
-            <p className="text-stone-500 text-xs md:text-sm max-w-2xl mx-auto">【伊豆の小京都・修善寺温泉の竹林の小径紅葉＆桂川もみじ】 
-              楽天トラベルで高評価を獲得し、ふるさと納税クーポンが使える注目の名宿を徹底紹介。
+            <h2 className="text-2xl md:text-3xl font-extrabold font-serif text-stone-900">ふるさと納税トラベルクーポンで泊まりたい厳選宿3選</h2>
+            <p className="text-stone-500 text-xs md:text-sm max-w-2xl mx-auto">楽天トラベルで高評価を獲得し、ふるさと納税クーポンが使える注目の名宿を徹底紹介。
             </p>
           </div>
 
@@ -163,7 +162,7 @@ export default function FeatureArticlePage() {
                       ★ 4.68 <span className="text-stone-400 text-xs">(266件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">修善寺温泉　国の登録文化財の宿　新井旅館（伊豆の小京都・修善寺温泉の竹林の小径紅葉＆桂川もみじ）</h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">修善寺温泉　国の登録文化財の宿　新井旅館</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 静岡県伊豆市修善寺970 ｜ 伊豆箱根鉄道線 修善寺駅よりバスまたはタクシーで10分／東名・新東名高速 沼津ICより伊豆縦貫道経由45分
                   </p>
@@ -361,31 +360,28 @@ export default function FeatureArticlePage() {
         <div className="bg-gradient-to-br from-amber-50 to-stone-50 rounded-3xl p-6 md:p-10 border border-amber-200/70 shadow-sm space-y-6">
           <div className="text-center space-y-2">
             <span className="text-amber-800 text-xs font-bold tracking-wider uppercase">How to use</span>
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">楽天ふるさと納税トラベルクーポンの簡単3ステップ｜伊豆の小京都・修善寺温泉の竹林の小径紅葉＆桂川もみじ</h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">楽天ふるさと納税トラベルクーポンの簡単3ステップ</h2>
           </div>
 
           <div className="grid sm:grid-cols-3 gap-6 pt-4">
             <div className="bg-white rounded-2xl p-6 border border-stone-200/80 shadow-sm text-center space-y-3">
               <div className="w-10 h-10 mx-auto rounded-full bg-amber-600 text-white font-bold text-lg flex items-center justify-center shadow">1</div>
-              <h3 className="font-bold text-stone-900 text-base">寄付してクーポン獲得（伊豆の小京都・修善寺温泉の竹林の小径紅葉＆桂川もみじ）</h3>
-              <p className="text-stone-600 text-xs leading-relaxed">【伊豆の小京都・修善寺温泉の竹林の小径紅葉＆桂川もみじ】 
-                対象自治体へ寄付を申し込むと、寄付額の最大30%相当の楽天トラベルクーポンが即時または数日でマイクーポンに付与されます。
+              <h3 className="font-bold text-stone-900 text-base">寄付してクーポン獲得</h3>
+              <p className="text-stone-600 text-xs leading-relaxed">対象自治体へ寄付を申し込むと、寄付額の最大30%相当の楽天トラベルクーポンが即時または数日でマイクーポンに付与されます。
               </p>
             </div>
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200/80 shadow-sm text-center space-y-3">
               <div className="w-10 h-10 mx-auto rounded-full bg-amber-600 text-white font-bold text-lg flex items-center justify-center shadow">2</div>
-              <h3 className="font-bold text-stone-900 text-base">対象宿を予約（伊豆の小京都・修善寺温泉の竹林の小径紅葉＆桂川もみじ）</h3>
-              <p className="text-stone-600 text-xs leading-relaxed">【伊豆の小京都・修善寺温泉の竹林の小径紅葉＆桂川もみじ】 
-                楽天トラベルで希望の宿・宿泊プランを選択。予約画面で取得したふるさと納税クーポンを適用して割引を受けます。
+              <h3 className="font-bold text-stone-900 text-base">対象宿を予約</h3>
+              <p className="text-stone-600 text-xs leading-relaxed">楽天トラベルで希望の宿・宿泊プランを選択。予約画面で取得したふるさと納税クーポンを適用して割引を受けます。
               </p>
             </div>
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200/80 shadow-sm text-center space-y-3">
               <div className="w-10 h-10 mx-auto rounded-full bg-amber-600 text-white font-bold text-lg flex items-center justify-center shadow">3</div>
-              <h3 className="font-bold text-stone-900 text-base">実質2,000円で贅沢旅行（伊豆の小京都・修善寺温泉の竹林の小径紅葉＆桂川もみじ）</h3>
-              <p className="text-stone-600 text-xs leading-relaxed">【伊豆の小京都・修善寺温泉の竹林の小径紅葉＆桂川もみじ】 
-                自己負担額は年間2,000円のみ（上限額内）。翌年の住民税控除や所得税還付を受けながら、最高の秋旅をお楽しみいただけます。
+              <h3 className="font-bold text-stone-900 text-base">実質2,000円で贅沢旅行</h3>
+              <p className="text-stone-600 text-xs leading-relaxed">自己負担額は年間2,000円のみ（上限額内）。翌年の住民税控除や所得税還付を受けながら、最高の秋旅をお楽しみいただけます。
               </p>
             </div>
           </div>

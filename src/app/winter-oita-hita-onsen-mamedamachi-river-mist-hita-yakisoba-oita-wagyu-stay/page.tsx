@@ -124,7 +124,7 @@ export default function WinterFeaturePage() {
         {/* 導入解説 */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600 shrink-0" />
-            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>｜2026-2027年11-12月初冬の大分・日田温泉</h2>
+            <span>初冬にこの地を訪れるべき理由と風土の魅力</span></h2>
           <p className="text-xs md:text-sm text-slate-700 leading-relaxed whitespace-pre-line">
             九州北部の山々に囲まれた盆地に位置し、阿蘇山系から湧き出る清らかな伏流水が町を潤す大分県日田市。古くから『水郷（すいきょう）』と称えられたこの地は、江戸時代には幕府の直轄地『天領』として九州を統括する西国筋郡代が置かれ、商人文化と学問が花開いた歴史を持ちます。日田の冬の訪れを告げる風物詩が、11月から12月にかけて三隈川（みくまがわ）一帯に発生する幻想的な『川霧（あさぎり）』です。盆地特有の夜間の冷え込みと温泉の温もり、そして豊かな水量が織りなすこの現象は、川面から立ち上る白い霧が町全体を包み込み、水墨画の世界のような幽玄な風景を描き出します。三隈川沿いに湧く『日田温泉』は弱アルカリ性の美肌温泉として知られ、川を望む宿の露天風呂に浸かりながら朝霧が晴れてゆく様子を眺める時間は格別の贅沢です。そして温泉街から北へ歩みを進めると広がるのが、国の重要伝統的建造物群保存地区に選定されている『豆田町（まめだまち）』。御幸通りと上町通りを中心に、江戸期から明治・大正期に建てられた白壁土蔵や町家が連なり、まるで江戸時代にタイムスリップしたかのような情緒が色濃く残ります。老舗の醤油蔵や造り酒屋からは芳醇な香りが漂い、日田杉を用いた伝統の下駄工房や杉桶の職人技に触れる散策は知的好奇心を刺激します。散策途中のランチには、日田が誇るソウルフード『日田焼きそば』を。鉄板で麺の一部をキツネ色に焦げるまでカリカリに焼き、シャキシャキの国産モヤシと豚肉、甘辛い特製ソースを絡めた独特の食感は、一度食べたら忘れられない中毒性があります。夕食には三隈川の川魚料理や、大分の誇る極上黒毛和牛『おおいた和牛』のステーキを味わい、夜には川面に提灯の灯りが揺れる風情ある屋形船を眺める。水と歴史の豊かさに抱かれる初冬の日田は、大人の知的好奇心と五感を満たす極上の隠れ里です。
           </p>
@@ -171,41 +171,7 @@ export default function WinterFeaturePage() {
           </div>
         </section>
 
-        {/* Wikipedia連携 観光地紹介 */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
-          <div className="flex items-center justify-between border-b border-slate-100 pb-3">
-            <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2">
-              <MapPin className="w-5 h-5 text-rose-600 shrink-0" />
-              <span>近隣の必見名所：豆田町</span>
-            </h2>
-            <span className="text-[11px] text-slate-400">Wikipedia・公式解説連携</span>
-          </div>
-
-          <div className="grid md:grid-cols-12 gap-6 items-center">
-            <div className="md:col-span-5 relative h-52 md:h-60 rounded-xl overflow-hidden bg-slate-100 border border-slate-200">
-              <Image
-                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Hita-city_Mameda01.jpg/1280px-Hita-city_Mameda01.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                alt="天領の栄華を今に伝える小京都・豆田町（国の重要伝統的建造物群保存地区・白壁土蔵と初冬の川霧）"
-                fill
-                className="object-cover"
-                sizes="(max-width: 768px) 100vw, 360px"
-              />
-            </div>
-            <div className="md:col-span-7 space-y-2.5">
-              <h3 className="text-base font-bold text-slate-900 leading-snug">
-                天領の栄華を今に伝える小京都・豆田町（国の重要伝統的建造物群保存地区・白壁土蔵と初冬の川霧）
-              </h3>
-              <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
-                豆田町（まめだまち）は、大分県日田市市街地北部の花月川沿いにある地区。江戸時代以降に建てられた建築群が現存し、国の重要伝統的建造物群保存地区（以下「重伝建地区」という）に、2015年4月24日には、「近世日本の教育遺産群－学ぶ心・礼節の本源－」の構成文化財として日本遺産に認定されている。本項ではかつて同地域に所在した同名の自治体についても述べる。...
-              </p>
-              <div className="bg-amber-50 rounded-lg p-3 border border-amber-200/60 text-[11px] md:text-xs text-amber-900 leading-relaxed">
-                <span className="font-bold block mb-0.5">💡 周辺観光のポイント</span>
-                各宿泊施設からアクセス良好。早朝や夕暮れ時は観光客が落ち着き、初冬ならではの静寂と美しい景色を心ゆくまで堪能できます。
-              </div>
-            </div>
-          </div>
-        </section>
-
+        
         {/* 楽天API厳選宿 5選 */}
         <section className="space-y-6">
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
@@ -559,7 +525,7 @@ export default function WinterFeaturePage() {
         {/* アクセス＆見頃情報 */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 md:p-8 space-y-4">
           <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300"><Train className="w-5 h-5 shrink-0" />
-            <span>アクセスガイド・気候と服装のポイント</span>｜2026-2027年11-12月初冬の大分・日田温泉</h2>
+            <span>アクセスガイド・気候と服装のポイント</span></h2>
           <div className="text-xs md:text-sm text-slate-300 leading-relaxed whitespace-pre-line">
             【エリアへのアクセス】
 ・電車：JR久大本線「日田駅」下車。博多駅より特急「ゆふいんの森」または特急「ゆふ」で約1時間15分。日田駅から豆田町へは徒歩約15分（レンタサイクルやタクシーで5分）、日田温泉へは徒歩約12分。
@@ -577,7 +543,7 @@ export default function WinterFeaturePage() {
         {/* よくある質問 (FAQ) */}
         <section className="bg-slate-100 rounded-2xl p-6 md:p-8 space-y-4">
           <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
-            <span>よくある質問（FAQ）</span>｜2026-2027年11-12月初冬の大分・日田温泉</h2>
+            <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
             <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
@@ -611,7 +577,7 @@ export default function WinterFeaturePage() {
 
         {/* ふるさと納税・関連リンク */}
         <section className="bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 rounded-2xl p-6 md:p-8 space-y-3 text-center">
-          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！｜2026-2027年11-12月初冬の大分・日田温泉</h2>
+          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！</h2>
           <p className="text-xs md:text-sm max-w-xl mx-auto font-medium">
             寄附翌日から使える楽天トラベルクーポンで、今回の宿泊予約が控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）楽しめます。年末の控除枠活用にも最適です。
           </p>

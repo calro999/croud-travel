@@ -100,7 +100,7 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
           <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-6 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
-            この旅で体感したい3つの醍醐味｜名水が育む挽きたて・打ちたて・茹でたて</h2>
+            この旅で体感したい3つの醍醐味</h2>
           <div className="grid gap-6">
 
             <div className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200/80 shadow-xs">
@@ -154,9 +154,8 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
         <section className="mb-16">
           <div className="mb-8">
             <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-3 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
-              ふるさと納税で泊まる厳選名宿｜名水が育む挽きたて・打ちたて・茹でたて</h2>
-            <p className="text-stone-600 text-sm leading-relaxed">【名水が育む挽きたて・打ちたて・茹でたて】 
-              楽天トラベルAPIから最新の実在宿データを取得。対象自治体のふるさと納税クーポンを利用して控除上限内で実質2,000円自己負担（最大30%クーポン還元）で泊まれる名宿です。
+              ふるさと納税で泊まる厳選名宿</h2>
+            <p className="text-stone-600 text-sm leading-relaxed">楽天トラベルAPIから最新の実在宿データを取得。対象自治体のふるさと納税クーポンを利用して控除上限内で実質2,000円自己負担（最大30%クーポン還元）で泊まれる名宿です。
             </p>
           </div>
 
@@ -251,8 +250,7 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     北アルプスの麓、安曇野・穂高温泉郷の豊かな赤松林の中に佇む、全室離れの静寂に包まれた大人の隠れ宿。築百五十年の古民家を移築した趣ある客室は、囲炉裏や太い梁が温かな風情を醸し出しています。夕食の主役は、毎朝館内の蕎麦打ち場で主人が手打ちする安曇野産十割蕎麦。名水百選に選ばれる澄んだ伏流水と安曇野特産のおろし立て生わさびでいただく蕎麦は、驚くほど澄んだ甘みと力強い風味が広がります。肌に優しい単純温泉の源泉かけ流し風呂とともに、田舎に帰ってきたかのような心安らぐ休日をお過ごしいただけます。
                   </p>
-                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">【名水が育む挽きたて・打ちたて・茹でたて】 
-                    訪れるすべてのお客様に心安らぐ贅沢な寛ぎの時間を提供し、高い評価を獲得している極上宿です。
+                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">訪れるすべてのお客様に心安らぐ贅沢な寛ぎの時間を提供し、高い評価を獲得している極上宿です。
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -351,7 +349,7 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
 
         {/* 関連特集クロスリンク */}
         <section className="bg-stone-50 rounded-3xl p-8 border border-stone-200/80 mb-16">
-          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">あわせて読みたい関連特集｜名水が育む挽きたて・打ちたて・茹でたて</h2>
+          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">あわせて読みたい関連特集</h2>
           <ul className="grid sm:grid-cols-2 gap-2">
 
               <li key="furusato-tax-spring-water-soba-tofu-onsen-stay">
@@ -390,9 +388,8 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
 
         {/* ハブページへの誘導フッター */}
         <div className="bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 text-white rounded-3xl p-8 md:p-10 shadow-xl border border-amber-900/40 text-center mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">もっとお得に旅を楽しむためのハブページへ｜名水が育む挽きたて・打ちたて・茹でたて</h2>
-          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">【名水が育む挽きたて・打ちたて・茹でたて】 
-            全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
+          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">もっとお得に旅を楽しむためのハブページへ</h2>
+          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
             href="/travel-savings-guide/"

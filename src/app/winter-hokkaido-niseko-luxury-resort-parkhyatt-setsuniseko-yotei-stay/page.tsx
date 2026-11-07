@@ -160,7 +160,7 @@ export default function Page() {
             </div>
           </section>
 
-          {/* 周辺観光スポット情報（Wikipedia連携実写） */}
+          
           <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-6">
             <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3">
               周辺観光スポット：冬の青空に聳え立つ白銀の蝦夷富士・羊蹄山（世界が羨望するJAPOWとニセコのパノラマ絶景）

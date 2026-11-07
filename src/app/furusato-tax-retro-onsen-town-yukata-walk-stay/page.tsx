@@ -100,7 +100,7 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
           <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-6 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
-            この旅で体感したい3つの醍醐味｜色浴衣と下駄で外湯めぐり＆レトロ温泉街歩き情緒の名宿</h2>
+            この旅で体感したい3つの醍醐味</h2>
           <div className="grid gap-6">
 
             <div className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200/80 shadow-xs">
@@ -154,9 +154,8 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
         <section className="mb-16">
           <div className="mb-8">
             <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-3 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
-              ふるさと納税で泊まる厳選名宿｜色浴衣と下駄で外湯めぐり＆レトロ温泉街歩き情緒の名宿</h2>
-            <p className="text-stone-600 text-sm leading-relaxed">【色浴衣と下駄で外湯めぐり＆レトロ温泉街歩き情緒の名宿】 
-              楽天トラベルAPIから最新の実在宿データを取得。対象自治体のふるさと納税クーポンを利用して控除上限内で実質2,000円自己負担（最大30%クーポン還元）で泊まれる名宿です。
+              ふるさと納税で泊まる厳選名宿</h2>
+            <p className="text-stone-600 text-sm leading-relaxed">楽天トラベルAPIから最新の実在宿データを取得。対象自治体のふるさと納税クーポンを利用して控除上限内で実質2,000円自己負担（最大30%クーポン還元）で泊まれる名宿です。
             </p>
           </div>
 
@@ -190,8 +189,7 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     城崎温泉のシンボルである大谿川の柳並木通りに近く、七つの外湯めぐりへ出かけるのに絶好のロケーションを誇る名門料理旅館。宿では色鮮やかな色浴衣の無料貸出を行っており、浴衣と下駄に着替えてすぐに風情ある湯の街へ繰り出せます。館内には24時間入浴可能な天然温泉大浴場も完備。夕食には世界最高峰の肉質を誇るブランド牛「但馬牛」のすき焼きやステーキ、冬には日本海名物の活松葉ガニ料理が贅沢に並び、至高の美食と湯めぐりの休日を堪能できます。
                   </p>
-                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">【色浴衣と下駄で外湯めぐり＆レトロ温泉街歩き情緒の名宿】 
-                    訪れるすべてのお客様に心安らぐ贅沢な寛ぎの時間を提供し、高い評価を獲得している極上宿です。
+                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">訪れるすべてのお客様に心安らぐ贅沢な寛ぎの時間を提供し、高い評価を獲得している極上宿です。
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -312,8 +310,7 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     大正浪漫の面影を今に伝える奇跡の温泉街・銀山温泉の川沿いに佇む木造建築の老舗別館。夕暮れ時になると銀山川の両岸に灯るガス灯と、川面に映るレトロな街並みは息を呑むほどの美しさ。宿のレトロな客室からはこの幻想的な温泉街を一望できます。源泉かけ流しの名湯で旅の疲れを癒やした後は、山形名物の尾花沢牛や山菜、鮎など地元の恵みを凝縮した手作り会席に舌鼓。まるで大正時代にタイムスリップしたかのような特別な宿泊体験をお楽しみください。
                   </p>
-                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">【色浴衣と下駄で外湯めぐり＆レトロ温泉街歩き情緒の名宿】 
-                    訪れるすべてのお客様に心安らぐ贅沢な寛ぎの時間を提供し、高い評価を獲得している極上宿です。
+                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">訪れるすべてのお客様に心安らぐ贅沢な寛ぎの時間を提供し、高い評価を獲得している極上宿です。
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -351,7 +348,7 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
 
         {/* 関連特集クロスリンク */}
         <section className="bg-stone-50 rounded-3xl p-8 border border-stone-200/80 mb-16">
-          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">あわせて読みたい関連特集｜色浴衣と下駄で外湯めぐり＆レトロ温泉街歩き情緒の名宿</h2>
+          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">あわせて読みたい関連特集</h2>
           <ul className="grid sm:grid-cols-2 gap-2">
 
               <li key="furusato-tax-japan-oldest-classic-hotel-heritage-stay">
@@ -390,9 +387,8 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
 
         {/* ハブページへの誘導フッター */}
         <div className="bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 text-white rounded-3xl p-8 md:p-10 shadow-xl border border-amber-900/40 text-center mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">もっとお得に旅を楽しむためのハブページへ｜色浴衣と下駄で外湯めぐり＆レトロ温泉街歩き情緒の名宿</h2>
-          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">【色浴衣と下駄で外湯めぐり＆レトロ温泉街歩き情緒の名宿】 
-            全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
+          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">もっとお得に旅を楽しむためのハブページへ</h2>
+          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
             href="/travel-savings-guide/"

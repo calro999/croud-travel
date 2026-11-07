@@ -414,7 +414,7 @@ export default function Page() {
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-3xl shadow-sm border border-stone-200/80 p-6 md:p-10">
           <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2.5 h-7 bg-amber-700 rounded-full inline-block"></span>
-            よくある質問・ふるさと納税トラベルクーポンの疑問を解消｜名門ゴルフをふるさと納税でお得に旅する</h2>
+            よくある質問・ふるさと納税トラベルクーポンの疑問を解消</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
@@ -455,9 +455,8 @@ export default function Page() {
             <span className="text-xs font-bold text-stone-600 bg-white/70 px-3 py-1 rounded-full uppercase tracking-wider">
               RELATED GUIDES
             </span>
-            <h3 className="text-2xl font-bold text-stone-900 mt-2 mb-3 font-serif">ふるさと納税トラベルをもっと使いこなす（名門ゴルフをふるさと納税でお得に旅する）</h3>
-            <p className="text-stone-600 text-sm">【名門ゴルフをふるさと納税でお得に旅する】 
-              お得な「あとから割引」の裏ワザから、ご当地グルメ特化宿、愛犬同伴・個室サウナ宿まで、旅のスタイルに合わせた完全ガイドをチェック！
+            <h3 className="text-2xl font-bold text-stone-900 mt-2 mb-3 font-serif">ふるさと納税トラベルをもっと使いこなす</h3>
+            <p className="text-stone-600 text-sm">お得な「あとから割引」の裏ワザから、ご当地グルメ特化宿、愛犬同伴・個室サウナ宿まで、旅のスタイルに合わせた完全ガイドをチェック！
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -524,9 +523,8 @@ export default function Page() {
         {/* クーポン獲得CTA */}
         <section className="bg-gradient-to-br from-amber-500/20 via-stone-900 to-stone-900 border border-amber-500/30 rounded-3xl p-8 text-center space-y-6 shadow-2xl text-white">
           <span className="text-3xl block">🎫</span>
-          <h2 className="text-xl md:text-3xl font-black text-white font-serif">楽天トラベルふるさと納税クーポンで、一生の思い出に残るプレミアムステイへ｜名門ゴルフをふるさと納税でお得に旅する</h2>
-          <p className="text-stone-300 text-xs md:text-base max-w-2xl mx-auto leading-relaxed">【名門ゴルフをふるさと納税でお得に旅する】 
-            返礼品クーポンは寄付手続き完了後、数分で楽天トラベルのアカウントに即時付与されます。今年の寄付上限枠を賢く使って、贅沢な露天風呂付き客室や老舗宿の美食を実質2,000円で手に入れましょう。
+          <h2 className="text-xl md:text-3xl font-black text-white font-serif">楽天トラベルふるさと納税クーポンで、一生の思い出に残るプレミアムステイへ</h2>
+          <p className="text-stone-300 text-xs md:text-base max-w-2xl mx-auto leading-relaxed">返礼品クーポンは寄付手続き完了後、数分で楽天トラベルのアカウントに即時付与されます。今年の寄付上限枠を賢く使って、贅沢な露天風呂付き客室や老舗宿の美食を実質2,000円で手に入れましょう。
           </p>
           <div>
             <a

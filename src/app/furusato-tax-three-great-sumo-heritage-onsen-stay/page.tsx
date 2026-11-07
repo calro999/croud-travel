@@ -100,7 +100,7 @@ export default function FurusatoRound65ArticlePage() {
         {/* 3つの魅力・深掘り解説 */}
         <section className="mb-16">
           <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-6 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
-            この旅で体感したい3つの醍醐味｜日本三大相撲辻＆国技の歴史とちゃんこ鍋美食・伝統名門</h2>
+            この旅で体感したい3つの醍醐味</h2>
           <div className="grid gap-6">
 
             <div className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200/80 shadow-xs">
@@ -154,9 +154,8 @@ export default function FurusatoRound65ArticlePage() {
         <section className="mb-16">
           <div className="mb-8">
             <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-3 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
-              ふるさと納税で泊まる厳選名宿｜日本三大相撲辻＆国技の歴史とちゃんこ鍋美食・伝統名門</h2>
-            <p className="text-stone-600 text-sm leading-relaxed">【日本三大相撲辻＆国技の歴史とちゃんこ鍋美食・伝統名門】 
-              楽天トラベルAPIから最新の実在宿データを取得。対象自治体のふるさと納税クーポンを利用して控除上限内で実質2,000円自己負担（最大30%クーポン還元）で泊まれる名宿です。
+              ふるさと納税で泊まる厳選名宿</h2>
+            <p className="text-stone-600 text-sm leading-relaxed">楽天トラベルAPIから最新の実在宿データを取得。対象自治体のふるさと納税クーポンを利用して控除上限内で実質2,000円自己負担（最大30%クーポン還元）で泊まれる名宿です。
             </p>
           </div>
 
@@ -333,7 +332,7 @@ export default function FurusatoRound65ArticlePage() {
 
         {/* 関連特集クロスリンク */}
         <section className="bg-stone-50 rounded-3xl p-8 border border-stone-200/80 mb-16">
-          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">あわせて読みたい関連特集｜日本三大相撲辻＆国技の歴史とちゃんこ鍋美食・伝統名門</h2>
+          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">あわせて読みたい関連特集</h2>
           <ul className="grid sm:grid-cols-2 gap-2">
 
               <li key="furusato-tax-samurai-katana-armor-buke-yashiki-heritage-stay">
@@ -372,9 +371,8 @@ export default function FurusatoRound65ArticlePage() {
 
         {/* ハブページへの誘導フッター */}
         <div className="bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 text-white rounded-3xl p-8 md:p-10 shadow-xl border border-amber-900/40 text-center mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">もっとお得に旅を楽しむためのハブページへ｜日本三大相撲辻＆国技の歴史とちゃんこ鍋美食・伝統名門</h2>
-          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">【日本三大相撲辻＆国技の歴史とちゃんこ鍋美食・伝統名門】 
-            全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
+          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">もっとお得に旅を楽しむためのハブページへ</h2>
+          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
             href="/travel-savings-guide/"

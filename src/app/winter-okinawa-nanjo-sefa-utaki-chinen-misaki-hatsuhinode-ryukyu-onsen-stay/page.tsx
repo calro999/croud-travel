@@ -294,47 +294,7 @@ export default function Page() {
             </div>
           </section>
 
-          {/* Wikipedia 近隣観光名所セクション */}
-          <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
-            <div className="border-b border-stone-100 pb-4">
-              <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Wikipedia Spot Archive</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2 mt-1">
-                <Heart className="w-6 h-6 text-rose-500" />
-                <span>近隣名所アーカイブ：世界遺産・斎場御嶽（琉球王国最高の聖地・新春開運祈願と知念岬初日の出）</span>
-              </h2>
-            </div>
-
-            <div className="flex flex-col gap-6">
-              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
-                <img
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Sangui_%28Triangle_Rock%29_of_Sefa-Utaki.jpg/1280px-Sangui_%28Triangle_Rock%29_of_Sefa-Utaki.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="世界遺産・斎場御嶽（琉球王国最高の聖地・新春開運祈願と知念岬初日の出）"
-                  className="w-full h-full object-cover"
-                  loading="lazy"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-base">
-                  【世界遺産・斎場御嶽（琉球王国最高の聖地・新春開運祈願と知念岬初日の出）の見どころと歴史】
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  斎場御嶽（せーふぁーうたき／サイハノうたき）は沖縄県南城市知念にある史跡。15世紀-16世紀の琉球王国・尚真王時代の御嶽であるとされる。「せーふぁ」は「最高位」を意味し、「斎場御嶽」は「最高の御嶽」ほどの意味となり、これは通称である。正式な神名は「君ガ嶽、主ガ嶽ノイビ」という。
-                </p>
-                <div className="pt-2 text-xs text-stone-700">
-                  <a
-                    href="https://ja.wikipedia.org/wiki/%E6%96%8E%E5%A0%B4%E5%BE%A1%E5%B6%BD"
-                    target="_blank"
-                    rel="noopener noreferrer nofollow"
-                    className="inline-flex items-center gap-1 text-cyan-700 hover:text-cyan-900 underline"
-                  >
-                    <span>出典：Wikipedia公式『斎場御嶽』詳細情報を見る</span>
-                    <ExternalLink className="w-3 h-3" />
-                  </a>
-                </div>
-              </div>
-            </div>
-          </section>
-
+          
           {/* 厳選名宿5選 */}
           <section className="space-y-8">
             <div className="border-b border-stone-200 pb-4">

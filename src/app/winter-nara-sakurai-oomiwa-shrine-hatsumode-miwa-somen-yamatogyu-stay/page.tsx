@@ -294,47 +294,7 @@ export default function Page() {
             </div>
           </section>
 
-          {/* Wikipedia 近隣観光名所セクション */}
-          <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
-            <div className="border-b border-stone-100 pb-4">
-              <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Wikipedia Spot Archive</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2 mt-1">
-                <Heart className="w-6 h-6 text-rose-500" />
-                <span>近隣名所アーカイブ：大和国一之宮・大神神社（日本最古の神社・三輪山信仰と新春開運初詣）</span>
-              </h2>
-            </div>
-
-            <div className="flex flex-col gap-6">
-              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
-                <img
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Omiwa-jinja_haiden.JPG/1280px-Omiwa-jinja_haiden.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="大和国一之宮・大神神社（日本最古の神社・三輪山信仰と新春開運初詣）"
-                  className="w-full h-full object-cover"
-                  loading="lazy"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-base">
-                  【大和国一之宮・大神神社（日本最古の神社・三輪山信仰と新春開運初詣）の見どころと歴史】
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  大神神社（おおみわじんじゃ）は、奈良県桜井市三輪にある神社。式内社（名神大社）、大和国一宮、二十二社（中七社）。旧社格は官幣大社で、現在は神社本庁の別表神社。 旧来は美和乃御諸宮、大神大物主神社と呼ばれた。中世以降は三輪明神と呼ばれ、両部神道の一つ三輪神道の本拠地であった。明治時代になり「大神神社」と改名された。 三輪山を神体山とする。
-                </p>
-                <div className="pt-2 text-xs text-stone-700">
-                  <a
-                    href="https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A5%9E%E7%A5%9E%E7%A4%BE"
-                    target="_blank"
-                    rel="noopener noreferrer nofollow"
-                    className="inline-flex items-center gap-1 text-cyan-700 hover:text-cyan-900 underline"
-                  >
-                    <span>出典：Wikipedia公式『大神神社』詳細情報を見る</span>
-                    <ExternalLink className="w-3 h-3" />
-                  </a>
-                </div>
-              </div>
-            </div>
-          </section>
-
+          
           {/* 厳選名宿5選 */}
           <section className="space-y-8">
             <div className="border-b border-stone-200 pb-4">

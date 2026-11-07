@@ -31,17 +31,6 @@ export default function Page() {
     '@context': 'https://schema.org',
     '@graph': [
       {
-        '@type': 'TouristAttraction',
-        name: '秘窯の里・大川内山（鍋島藩窯跡と冬の白磁散策）',
-        description: '鍋島焼（なべしまやき）は、17世紀から19世紀にかけて、佐賀藩（鍋島藩）において藩直営の窯で製造された高級磁器である。佐賀藩の支配下にあった肥前国有田・伊万里（佐賀県有田町、同県伊万里市）は日本における磁器の代表的な産地として知られるが、その中で大川内山（おおかわちやま、佐賀県伊万里市南部）にあった藩直営の窯では藩主の所用品や将軍家・諸大名への贈答品などの高級品をもっぱら焼造していた。これを近代以降「鍋島焼」または単に「鍋島」と呼んだ（伊万里焼の一様式と位置付け、「鍋島様式」…',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/3/31/Floral_Plate_Nabeshima.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
-        address: {
-          '@type': 'PostalAddress',
-          addressRegion: '佐賀県',
-          addressCountry: 'JP'
-        }
-      },
-      {
         '@type': 'FAQPage',
         mainEntity: [
           {
@@ -137,116 +126,13 @@ export default function Page() {
         </header>
 
         {/* 導入解説セクション */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
-            <div className="space-y-3">
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                冬の伊万里・有田・西松浦探訪：静寂と温もりに包まれる旅の魅力
-              </h2>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                肥前磁器400年の歴史が息づく佐賀県西松浦地方。世界的な名声を誇る有田焼と、江戸時代に鍋島藩が将軍家への献上品として門外不出の極秘技術を守り抜いた「秘窯の里・大川内山（おおかわちやま）」。11月から1月の冬、観光客で賑わう秋の陶器市が過ぎ去ったこの地は、本来の静謐で格調高い佇まいを取り戻します。奇岩が屏風のようにそびえ立つ大川内山の山懐には、レンガ造りの煙突から立ち上る白い煙と水車が回る陶山神社や歴史的窯元が点在し、凛と澄んだ空気の中で自分だけの逸品を探す大人の器散策が楽しめます。そして冬の伊万里のもう一つの主役が、全国屈指の肉質を誇るブランド牛「伊万里牛（いまりぎゅう）」。きめ細やかなサシと芳醇な赤身の旨味を、熱々のすき焼きや炭火ステーキで味わう贅沢はまさに冬の至福。有田・陶山神社への新春初詣と名湯に身を委ねる、知的好奇心と美食に満ちた冬の旅をご案内します。
-              </p>
-            </div>
-
-            <div className="space-y-3 pt-2">
-              <h3 className="text-sm sm:text-base font-bold text-stone-800">
-                この冬、伊万里・有田・西松浦を訪れるべき3つの理由
-              </h3>
-              <div className="grid grid-cols-1 gap-3">
-              <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  山懐の奇岩とレンガ煙突が織りなす「秘窯の里・大川内山」の冬の静寂散策
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  鍋島藩が技術流出を防ぐため関所を設け、最高の陶工を集めた大川内山。冬は凛とした静寂に包まれ、石畳の小径沿いに並ぶ名窯を落ち着いて巡ることができます。繊細な色鍋島や白磁の器に触れる時間は、冬ならではの贅沢です。
-                </p>
-              </div>
-              <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  極上のサシと濃厚な甘みがとろける「最高峰ブランド・伊万里牛」の美食
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  佐賀牛の中でも伊万里の豊かな自然と清流で育まれた「伊万里牛」は、全国の肉愛好家が絶賛する最高峰の黒毛和牛。冬の寒さの中で味わう特製割り下のすき焼きや、鉄板で焼き上げる極上サーロインは舌の上でとろけるような感動をもたらします。
-                </p>
-              </div>
-              <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  陶器の鳥居が迎える有田「陶山神社」の新春初詣と波佐見・武雄への軽快な周遊
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  焼き物の里を象徴する磁器製の鳥居や狛犬で名高い有田の「陶山神社（とうざんじんじゃ）」。新春の初詣スポットとして絶大な人気を誇り、隣接する長崎県波佐見町や名湯・武雄温泉への周遊もスムーズに楽しめます。
-                </p>
-              </div>
-              </div>
-            </div>
-
-            <div className="p-4 rounded-xl bg-cyan-50/60 border border-cyan-100 space-y-2 text-xs sm:text-sm text-stone-700 leading-relaxed">
-              <h3 className="font-bold text-cyan-950 flex items-center gap-1.5 text-sm">
-                <Calendar className="w-4 h-4 text-cyan-700" />
-                アクセス・気候・おすすめの服装
-              </h3>
-              <div className="whitespace-pre-line text-xs text-stone-600">
-                【エリアへのアクセス】
-・飛行機・空港から：九州佐賀国際空港より車・レンタカーで約50〜60分。福岡空港・長崎空港からもそれぞれ高速道路経由で約1時間15分〜1時間30分。
-・JR・鉄道：JR佐世保線「有田駅」より松浦鉄道西九州線に乗り換えて「伊万里駅」まで約25分。博多駅からは特急「リレーかもめ」や「みどり」を利用して武雄温泉駅・有田駅経由でアクセス可能。
-・大川内山へのアクセス：伊万里駅前より西肥バス「大川内山」行きで約15分。無料駐車場も完備されています。
-
-【見頃・気候・おすすめの服装】
-・ベストシーズン：11月下旬〜1月（秋の陶器まつり後の静かな窯元巡り、新春の初釜・初詣、伊万里牛グルメの好期）。
-・気温の目安：日中は10〜14℃前後ですが、四方を山に囲まれた大川内山や有田の山間部は朝晩に3〜5℃前後まで冷え込みます。
-・服装のポイント：石畳の坂道や階段を歩いて窯元を巡るため、歩きやすく疲れにくいスニーカーやフラットシューズが必須。風を通さないウールコートやダウンジャケット、手袋を準備してください。割れ物である陶磁器を扱う店舗が多いため、大きなリュックは前に抱えるか手提げバッグでの散策がマナーとして推奨されます。
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* Wikipedia公式連携スポットセクション */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <div className="flex items-center justify-between">
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                近隣名所アーカイブ：秘窯の里・大川内山（鍋島藩窯跡と冬の白磁散策）
-              </h2>
-              <span className="text-[11px] text-stone-400">Wikipedia公式情報連携</span>
-            </div>
-
-            <div className="flex flex-col gap-5">
-              <div className="w-full overflow-hidden rounded-xl border border-stone-200 bg-stone-100 aspect-[16/9] sm:aspect-[21/9]">
-                <img
-                  src="https://upload.wikimedia.org/wikipedia/commons/3/31/Floral_Plate_Nabeshima.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-                  alt="秘窯の里・大川内山（鍋島藩窯跡と冬の白磁散策）"
-                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="eager" fetchPriority="high"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                  秘窯の里・大川内山（鍋島藩窯跡と冬の白磁散策） の見どころと歴史
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  鍋島焼（なべしまやき）は、17世紀から19世紀にかけて、佐賀藩（鍋島藩）において藩直営の窯で製造された高級磁器である。佐賀藩の支配下にあった肥前国有田・伊万里（佐賀県有田町、同県伊万里市）は日本における磁器の代表的な産地として知られるが、その中で大川内山（おおかわちやま、佐賀県伊万里市南部）にあった藩直営の窯では藩主の所用品や将軍家・諸大名への贈答品などの高級品をもっぱら焼造していた。これを近代以降「鍋島焼」または単に「鍋島」と呼んだ（伊万里焼の一様式と位置付け、「鍋島様式」…
-                </p>
-                <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                  <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                  <span className="text-cyan-700 font-semibold">冬の探訪推奨スポット</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
             <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
               伊万里・有田・西松浦 厳選の温泉＆名宿5選
             </h2>
-            <p className="text-xs sm:text-sm text-stone-500">【秘窯の里大川内山と最高峰伊万里牛：2026-2027】 
-              楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
+            <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
 
@@ -591,8 +477,7 @@ export default function Page() {
                 <h3 className="text-xl sm:text-2xl font-bold">
                   佐賀県の宿に実質2,000円で泊まる賢い方法
                 </h3>
-                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">【秘窯の里大川内山と最高峰伊万里牛：2026-2027】 
-                  楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
+                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
               <a

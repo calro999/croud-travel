@@ -97,7 +97,7 @@ export default function FurusatoArticlePage() {
 
         {/* 比較サマリー表 */}
         <section className="bg-amber-50/50 rounded-3xl p-6 sm:p-8 border border-amber-100/80 space-y-4">
-          <h3 className="text-base sm:text-lg font-bold font-serif text-stone-900">今回ご紹介する厳選3名宿の比較サマリー（修善寺温泉をふるさと納税でお得に旅する）</h3>
+          <h3 className="text-base sm:text-lg font-bold font-serif text-stone-900">今回ご紹介する厳選3名宿の比較サマリー</h3>
           <div className="overflow-x-auto">
             <table className="w-full text-left text-xs sm:text-sm border-collapse bg-white rounded-xl shadow-xs">
               <thead>
@@ -135,7 +135,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド｜修善寺温泉をふるさと納税でお得に旅する</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -241,7 +241,7 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">静岡県伊豆市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">修善寺温泉　国の登録文化財の宿　新井旅館（修善寺温泉をふるさと納税でお得に旅する）</h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">修善寺温泉　国の登録文化財の宿　新井旅館</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   国の登録有形文化財十五棟を有する生きた建築博物館！横山大観が愛した名湯「天平大浴堂」
                 </p>
@@ -432,8 +432,7 @@ export default function FurusatoArticlePage() {
             <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
               静岡県伊豆市ふるさと納税×楽天トラベルクーポン活用手順
             </h2>
-            <p className="text-stone-300 text-xs sm:text-sm">【修善寺温泉をふるさと納税でお得に旅する】 
-              初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
+            <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
 
@@ -480,7 +479,7 @@ export default function FurusatoArticlePage() {
 
         {/* 内部リンク・ハブ導線 */}
         <section className="border-t border-stone-200 pt-8 space-y-4">
-          <h3 className="text-base sm:text-lg font-bold font-serif text-stone-900">関連するふるさと納税トラベル特集（修善寺温泉をふるさと納税でお得に旅する）</h3>
+          <h3 className="text-base sm:text-lg font-bold font-serif text-stone-900">関連するふるさと納税トラベル特集</h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
               <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">

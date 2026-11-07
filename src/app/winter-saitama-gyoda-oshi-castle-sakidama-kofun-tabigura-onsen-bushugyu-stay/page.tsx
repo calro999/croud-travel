@@ -261,45 +261,7 @@ export default function FeaturePage() {
             </div>
           </section>
 
-          {/* Wikipedia 近隣観光名所紹介 */}
-          <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
-            <div className="flex items-center gap-2 border-b border-stone-100 pb-4">
-              <Info className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                近隣の必見名所：武蔵国屈指の名城・忍城（のぼうの城の舞台・御三階櫓の雪景色と足袋蔵の街並み）
-              </h2>
-            </div>
-            <div className="flex flex-col gap-6">
-              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
-                <img
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Oshi-jo.JPG/1280px-Oshi-jo.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="忍城"
-                  className="w-full h-full object-cover"
-                  loading="eager" fetchPriority="high"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-lg">
-                  忍城
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  忍城（おしじょう）は、埼玉県行田市（武蔵国埼玉郡忍）にあった日本の城。埼玉県指定旧跡。 室町時代中期の文明年間に成田氏によって築城されたと伝えられており、北を利根川、南を荒川に挟まれた扇状地に点在する広大な沼地と自然堤防を生かした構造となっている。数度の城攻めを受けて、一度も落城しなかった要害堅固な城として知られる。戦国時代には関東七名城の一つとされ、1590年（天正18年）に豊臣秀吉の小田原征伐に伴い発生した攻城戦豊臣に際し、豊臣方の水攻めに耐え抜いた逸話から浮き城または亀城と称された。 江戸時代に入ると忍藩の藩庁あるいは徳川氏の譜…
-                </p>
-                <div className="pt-2 text-xs">
-                  <a
-                    href="https://ja.wikipedia.org/wiki/%E5%BF%8D%E5%9F%8E"
-                    target="_blank"
-                    rel="noopener noreferrer nofollow"
-                    className="inline-flex items-center gap-1 text-cyan-700 hover:text-cyan-900 underline"
-                  >
-                    <span>出典：Wikipedia公式『忍城』詳細情報を見る</span>
-                    <ExternalLink className="w-3 h-3" />
-                  </a>
-                </div>
-              </div>
-            </div>
-          </section>
-
+          
           {/* 厳選名宿5選 */}
           <section className="space-y-8">
             <div className="border-b border-stone-200 pb-4">

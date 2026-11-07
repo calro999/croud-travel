@@ -136,11 +136,10 @@ export default function Page() {
           <p className="text-stone-700 leading-relaxed">
             秋風が心地よく吹き抜け、木々が鮮やかに色づく10月・11月。日本各地がもっとも美しく、実り豊かな季節を迎えます。なかでも「青森・奥入瀬渓流＆十和田湖」は、奥入瀬渓流紅葉ウォーク・蔦沼の朝焼け水鏡紅葉・十和田湖遊覧船など、この時期にしか出逢えない息を呑む絶景と旬の味覚が凝縮された屈指の名所です。
           </p>
-          <p className="text-stone-700 leading-relaxed">【青森・奥入瀬渓流＆十和田湖の黄金紅葉】 
-            さらに賢く贅沢に旅を楽しむ方法として今もっとも注目されているのが「楽天ふるさと納税トラベルクーポン」の活用です。地域の自治体に寄付を行うことで返礼品として宿泊割引クーポンを獲得でき、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級旅館やリゾートホテルへの宿泊が実現します。
+          <p className="text-stone-700 leading-relaxed">さらに賢く贅沢に旅を楽しむ方法として今もっとも注目されているのが「楽天ふるさと納税トラベルクーポン」の活用です。地域の自治体に寄付を行うことで返礼品として宿泊割引クーポンを獲得でき、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級旅館やリゾートホテルへの宿泊が実現します。
           </p>
           <div className="bg-amber-50 border border-amber-200 p-4 rounded-lg mt-4">
-            <h3 className="font-bold text-amber-900 text-sm mb-1">【秋旅のポイント】ふるさと納税トラベルクーポンの特徴（青森・奥入瀬渓流＆十和田湖の黄金紅葉）</h3>
+            <h3 className="font-bold text-amber-900 text-sm mb-1">【秋旅のポイント】ふるさと納税トラベルクーポンの特徴</h3>
             <ul className="list-disc list-inside text-xs md:text-sm text-amber-800 space-y-1">
               <li>寄付金額に応じた宿泊補助（最大30%相当のクーポン付与）（青森・奥入瀬渓流＆十和田湖の黄金紅葉）</li>
               <li>楽天ポイントも通常通り付与（お買い物マラソンやSPUでさらにお得）（青森・奥入瀬渓流＆十和田湖の黄金紅葉）</li>
@@ -151,10 +150,10 @@ export default function Page() {
 
         {/* 季節の見どころと味覚 */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-6">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">10月・11月に訪れたい絶景スポットと秋の味覚｜青森・奥入瀬渓流＆十和田湖の黄金紅葉</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">10月・11月に訪れたい絶景スポットと秋の味覚</h2>
           <div className="grid md:grid-cols-2 gap-6">
             <div className="bg-stone-50 p-5 rounded-lg border border-stone-200">
-              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 周辺の見どころ・名所（青森・奥入瀬渓流＆十和田湖の黄金紅葉）</h3>
+              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 周辺の見どころ・名所</h3>
               <ul className="text-sm text-stone-600 space-y-2">
                 <li className="flex items-start"><span className="text-amber-500 mr-2">•</span>奥入瀬渓流（銚子大滝・阿修羅の流れ・雲井の滝）</li>
                 <li className="flex items-start"><span className="text-amber-500 mr-2">•</span>十和田湖（休屋・乙女の像・観光遊覧船）</li>
@@ -164,11 +163,11 @@ export default function Page() {
               </ul>
             </div>
             <div className="bg-stone-50 p-5 rounded-lg border border-stone-200">
-              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 旬の味覚・ご当地グルメ（青森・奥入瀬渓流＆十和田湖の黄金紅葉）</h3>
+              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 旬の味覚・ご当地グルメ</h3>
               <p className="text-sm text-stone-700 leading-relaxed mb-3">
                 青森倉石牛・あおもり十和田バラ焼き・十和田湖産ヒメマス塩焼き・せんべい汁・青森新米青天の霹靂
               </p>
-              <h3 className="text-base font-bold text-stone-900 mb-1 flex items-center"><span className="text-amber-600 mr-2">◆</span> 温泉の特徴（青森・奥入瀬渓流＆十和田湖の黄金紅葉）</h3>
+              <h3 className="text-base font-bold text-stone-900 mb-1 flex items-center"><span className="text-amber-600 mr-2">◆</span> 温泉の特徴</h3>
               <p className="text-sm text-stone-700 leading-relaxed">
                 奥入瀬渓流温泉・十和田湖畔温泉・蔦温泉（ナトリウム・カルシウム-硫酸塩・炭酸水素塩・塩化物泉、足元湧出自噴泉）と渓流露天風呂
               </p>
@@ -333,7 +332,7 @@ export default function Page() {
           </h2>
           <div className="space-y-6">
             <div className="border-l-2 border-amber-500 pl-4 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base">【1日目】錦秋の絶景巡りと極上温泉チェックイン（青森・奥入瀬渓流＆十和田湖の黄金紅葉）</h3>
+              <h3 className="font-bold text-stone-900 text-base">【1日目】錦秋の絶景巡りと極上温泉チェックイン</h3>
               <ul className="text-sm text-stone-700 space-y-2">
                 <li><span className="font-semibold text-amber-700">10:00</span> - 現地到着後、奥入瀬渓流（銚子大滝・阿修羅の流れ・雲井の滝）を散策。澄んだ秋空と鮮やかな景観を堪能</li>
                 <li><span className="font-semibold text-amber-700">12:30</span> - ご当地名店にて旬の味覚（青森倉石牛など）の贅沢ランチ</li>
@@ -343,7 +342,7 @@ export default function Page() {
               </ul>
             </div>
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base">【2日目】朝の清涼な空気と名所・お土産巡り（青森・奥入瀬渓流＆十和田湖の黄金紅葉）</h3>
+              <h3 className="font-bold text-stone-900 text-base">【2日目】朝の清涼な空気と名所・お土産巡り</h3>
               <ul className="text-sm text-stone-700 space-y-2">
                 <li><span className="font-semibold text-emerald-700">07:30</span> - 朝風呂で爽やかな目覚め＆地場産食材が並ぶ和朝食（青森・奥入瀬渓流＆十和田湖の黄金紅葉）</li>
                 <li><span className="font-semibold text-emerald-700">09:30</span> - チェックアウト後、蔦沼（早朝の燃えるような朝焼け水鏡紅葉）を訪問</li>
@@ -359,7 +358,7 @@ export default function Page() {
 
         {/* 関連特集リンク */}
         <section className="bg-amber-50/50 p-6 rounded-xl border border-amber-200 space-y-4">
-          <h2 className="text-lg font-bold text-stone-900">こちらもチェック！秋のふるさと納税特集｜青森・奥入瀬渓流＆十和田湖の黄金紅葉</h2>
+          <h2 className="text-lg font-bold text-stone-900">こちらもチェック！秋のふるさと納税特集</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs md:text-sm">
             <Link href="/furusato-tax-kyoto-kurama-kifune-autumn-stay/" className="text-emerald-800 hover:underline">
               → 京都・洛北 貴船＆鞍馬（もみじトンネル＆ぼたん鍋）特集
@@ -504,7 +503,7 @@ export default function Page() {
         </section>
 
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -633,56 +632,14 @@ export default function Page() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「青森・奥入瀬渓流＆十和田湖の黄金紅葉（十和田湖畔温泉と蔦温泉・青森倉石牛会席）」とあわせて巡りたい青森県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「青森・奥入瀬渓流＆十和田湖の黄金紅葉！十和田湖畔温泉と蔦温泉・青森倉石牛会席｜ふるさと納税で泊まれる名宿ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">弘前公園（弘前城）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本屈指の桜の名所として知られる城郭公園。春には約2,600本の桜が咲き誇り、お堀を埋め尽くす「花いかだ」の幻想的な景色は世界中から絶賛されています。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Oirase-keiryu.jpg/1280px-Oirase-keiryu.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="奥入瀬渓流" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">奥入瀬渓流</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">十和田湖から流れる約14kmの美しい清流。豊かな樹木と苔むした岩々、無数の滝が織りなすせせらぎに沿って遊歩道が整備されており、極上のネイチャーウォークを楽しめます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">ねぶたの家 ワ・ラッセ</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">青森夏の風物詩「青森ねぶた祭」の歴史と魅力を一年中体感できる大型展示施設。実際に祭りで運行された大型ねぶたの迫力を間近で鑑賞できます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">仏ヶ浦（ほとけがうら）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">下北半島にある、白緑色の奇岩群が約2kmにわたって続く国の名勝。巨大な如来や観音に見立てられた壮大な自然の彫刻と、澄み渡る陸奥湾の青さが圧巻です。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       </main>
 
       {/* フッター */}
       <footer className="bg-stone-900 text-stone-400 py-8 px-4 text-center text-xs space-y-2 border-t border-stone-800">
         <p>© 2026 クラウドトラベル All Rights Reserved.</p>
-        <p>【青森・奥入瀬渓流＆十和田湖の黄金紅葉】 ※掲載のホテル情報・料金・評価は楽天トラベルAPIより取得した最新データに基づきます。最新の空室状況はリンク先の各プラン詳細をご確認ください。</p>
+        <p>※掲載のホテル情報・料金・評価は楽天トラベルAPIより取得した最新データに基づきます。最新の空室状況はリンク先の各プラン詳細をご確認ください。</p>
       </footer>
     
       <HubRelatedPosts currentSlug="furusato-tax-aomori-towada-oirase-autumn-stay" />

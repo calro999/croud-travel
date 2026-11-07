@@ -31,17 +31,6 @@ export default function Page() {
     '@context': 'https://schema.org',
     '@graph': [
       {
-        '@type': 'TouristAttraction',
-        name: '犬鳴山修験道（七宝瀧寺と静寂の渓谷美）',
-        description: '犬鳴山（いぬなきさん）は、大阪府泉佐野市大木犬鳴の犬鳴川渓谷を中心として、そこへ流れ込む燈明ヶ岳（標高558m、西ノ燈明ヶ岳ともいう）等の山域全体の総称。「犬鳴山」という名称の山があるわけではない。',
-        image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/%E7%8A%AC%E9%B3%B4%E5%B1%B1%E6%B8%93%E8%B0%B7_2013.11.23_-_panoramio.jpg/1280px-%E7%8A%AC%E9%B3%B4%E5%B1%B1%E6%B8%93%E8%B0%B7_2013.11.23_-_panoramio.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
-        address: {
-          '@type': 'PostalAddress',
-          addressRegion: '大阪府',
-          addressCountry: 'JP'
-        }
-      },
-      {
         '@type': 'FAQPage',
         mainEntity: [
           {
@@ -137,116 +126,13 @@ export default function Page() {
         </header>
 
         {/* 導入解説セクション */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
-            <div className="space-y-3">
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                冬の犬鳴山温泉・泉佐野・南河内探訪：静寂と温もりに包まれる旅の魅力
-              </h2>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                大阪難波や関西国際空港から車や電車で約45〜50分という距離にありながら、大自然の深い静寂と修験道の神聖な空気に包まれる大阪府唯一の秘境温泉郷「犬鳴山（いぬなきさん）温泉」。役行者が開山したと伝わる名刹・七宝瀧寺へ続く渓谷沿いには、手つかずの照葉樹林と奇岩、清らかな犬鳴川のせせらぎが広がり、11月から1月の冬期は凛と張り詰めた冷気の中に白煙が立ち上る幻想的な情景を見せます。近隣の南河内にそびえる名峰・金剛山では冬限定の美しい樹氷や霧氷の世界が出現し、新春の初詣登山や雪ハイキングを楽しむ旅人を迎えます。冬の犬鳴山温泉の醍醐味は、冷え切った身体をじんわり解きほぐす天然の純重曹泉（弱アルカリ性単純温泉）のぬくもりと、地元泉州の大自然で育まれたブランド銘柄豚「犬鳴ポーク」の極上しゃぶしゃぶ、さらには冬の野趣あふれるぼたん鍋。喧騒を離れて静寂に浸る、大人の隠れ家冬ごもりへと誘います。
-              </p>
-            </div>
-
-            <div className="space-y-3 pt-2">
-              <h3 className="text-sm sm:text-base font-bold text-stone-800">
-                この冬、犬鳴山温泉・泉佐野・南河内を訪れるべき3つの理由
-              </h3>
-              <div className="grid grid-cols-1 gap-3">
-              <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  都心から1時間圏内で出逢う奥深い修験の渓谷美と七宝瀧寺の新春初詣
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  大阪市内からわずかな移動時間で別世界のような山深い渓谷へ。日本最古の修験根本道場である犬鳴山七宝瀧寺は、新春の厄除けや諸願成就の祈祷で名高く、冬の澄んだ大気の中で鳴り響く護摩の炎と読経の響きが心を清めてくれます。
-                </p>
-              </div>
-              <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  湯上がり肌がすべすべになる名湯「美肌の純重曹泉」と渓流露天風呂
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  犬鳴山の源泉は全国的にも珍しい純重曹泉系。とろみのあるやわらかな湯触りで、角質をやさしく落とし保温・保湿効果に優れるため「美人の湯」として親しまれています。冬の寒風を感じながら渓流のせせらぎを眼下に望む雪見露天風呂は至福のひとときです。
-                </p>
-              </div>
-              <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  極上ブランド豚「犬鳴ポーク」の旨味と冬限定ぼたん鍋の贅沢な味わい
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  大阪唯一の幻のブランド豚「犬鳴ポーク」。パンや牛乳を与えて手塩にかけて育てられた肉質は、脂身が驚くほど甘くあっさりとしています。特製出汁にくぐらせる豚しゃぶや、冬の猪肉を使った味噌仕立てのぼたん鍋、泉州玉ねぎとの相性は抜群です。
-                </p>
-              </div>
-              </div>
-            </div>
-
-            <div className="p-4 rounded-xl bg-cyan-50/60 border border-cyan-100 space-y-2 text-xs sm:text-sm text-stone-700 leading-relaxed">
-              <h3 className="font-bold text-cyan-950 flex items-center gap-1.5 text-sm">
-                <Calendar className="w-4 h-4 text-cyan-700" />
-                アクセス・気候・おすすめの服装
-              </h3>
-              <div className="whitespace-pre-line text-xs text-stone-600">
-                【エリアへのアクセス】
-・電車・バス：JR阪和線「日根野駅」または南海本線「泉佐野駅」より、南海ウイングバス「犬鳴山」行きに乗車し約25〜30分、終点「犬鳴山」バス停下車すぐ。各温泉宿への無料送迎バス（要予約）を運行している宿もあります。
-・車：阪和自動車道「上之郷IC」より府道62号線経由で約10〜15分。関西国際空港からも車で約25〜30分と抜群のアクセス。
-・金剛山方面へのアクセス：犬鳴山から車で国道170号（外環状線）・国道310号を経由して金剛山登山口まで約50〜60分。
-
-【見頃・気候・おすすめの服装】
-・ベストシーズン：11月中旬〜1月下旬（金剛山の樹氷・霧氷鑑賞、七宝瀧寺の新春初詣、温泉と鍋料理の最盛期）。
-・気温の目安：犬鳴山渓谷は大阪市街地よりも2〜4℃気温が低く、真冬の朝晩は0℃前後まで冷え込みます。金剛山山頂（標高1,125m）は氷点下となり、積雪や凍結が日常的に発生します。
-・服装のポイント：犬鳴山の散策には防風性の高いコートやダウンジャケット、マフラー、手袋が必須。渓谷沿いの遊歩道や七宝瀧寺参道は石段や濡れた岩場があるため、滑りにくいスニーカーやトレッキングシューズを着用してください。金剛山樹氷登山を予定される場合は、本格的な防寒着と軽アイゼン（6本爪以上推奨）の携行が必要です。
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* Wikipedia公式連携スポットセクション */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <div className="flex items-center justify-between">
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                近隣名所アーカイブ：犬鳴山修験道（七宝瀧寺と静寂の渓谷美）
-              </h2>
-              <span className="text-[11px] text-stone-400">Wikipedia公式情報連携</span>
-            </div>
-
-            <div className="flex flex-col gap-5">
-              <div className="w-full overflow-hidden rounded-xl border border-stone-200 bg-stone-100 aspect-[16/9] sm:aspect-[21/9]">
-                <img
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/%E7%8A%AC%E9%B3%B4%E5%B1%B1%E6%B8%93%E8%B0%B7_2013.11.23_-_panoramio.jpg/1280px-%E7%8A%AC%E9%B3%B4%E5%B1%B1%E6%B8%93%E8%B0%B7_2013.11.23_-_panoramio.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="犬鳴山修験道（七宝瀧寺と静寂の渓谷美）"
-                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="eager" fetchPriority="high"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                  犬鳴山修験道（七宝瀧寺と静寂の渓谷美） の見どころと歴史
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  犬鳴山（いぬなきさん）は、大阪府泉佐野市大木犬鳴の犬鳴川渓谷を中心として、そこへ流れ込む燈明ヶ岳（標高558m、西ノ燈明ヶ岳ともいう）等の山域全体の総称。「犬鳴山」という名称の山があるわけではない。
-                </p>
-                <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                  <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                  <span className="text-cyan-700 font-semibold">冬の探訪推奨スポット</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
             <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
               犬鳴山温泉・泉佐野・南河内 厳選の温泉＆名宿5選
             </h2>
-            <p className="text-xs sm:text-sm text-stone-500">【静寂の渓谷露天と金剛山樹氷：2026-2027年冬の】 
-              楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
+            <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
 
@@ -597,8 +483,7 @@ export default function Page() {
                 <h3 className="text-xl sm:text-2xl font-bold">
                   大阪府の宿に実質2,000円で泊まる賢い方法
                 </h3>
-                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">【静寂の渓谷露天と金剛山樹氷：2026-2027年冬の】 
-                  楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
+                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
               <a

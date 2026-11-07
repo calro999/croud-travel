@@ -608,7 +608,7 @@ export default function FukuiMikuniWinterPage() {
               className="bg-slate-900/90 hover:bg-slate-800 p-4 rounded-2xl transition border border-slate-800 block group"
             >
               <span className="text-xs text-orange-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-orange-200 transition">全国の厳選温泉・旬旅特集まとめを見る（越前三国温泉の冬旅・名湯美食ガイド！）</h3>
+              <h3 className="text-sm font-bold group-hover:text-orange-200 transition">全国の厳選温泉・旬旅特集まとめを見る</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay" />

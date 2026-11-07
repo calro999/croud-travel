@@ -325,7 +325,7 @@ export default function ShirahamaWinterPage() {
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-cyan-700" />
-            目次・インデックス｜南紀白浜温泉の冬旅・名湯美食ガイド！</h2>
+            目次・インデックス</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#kue-season" className="hover:text-cyan-700 hover:underline flex items-center gap-1.5">
               <span>1. 幻の高級魚「本クエ」の真髄：旬の脂とコラーゲン鍋</span>
@@ -635,7 +635,7 @@ export default function ShirahamaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜南紀白浜温泉の冬旅・名湯美食ガイド！</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">

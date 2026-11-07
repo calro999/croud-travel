@@ -108,7 +108,7 @@ export default function Page() {
 
           <div>
             <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span>（京都・天橋立＆伊根の舟屋：股のぞき・舟屋クルーズ＆冬）</h3>
+              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -337,7 +337,7 @@ export default function Page() {
 
           <div>
             <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span>（京都・天橋立＆伊根の舟屋：股のぞき・舟屋クルーズ＆冬）</h3>
+              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -566,7 +566,7 @@ export default function Page() {
 
           <div>
             <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span>（京都・天橋立＆伊根の舟屋：股のぞき・舟屋クルーズ＆冬）</h3>
+              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -762,7 +762,7 @@ export default function Page() {
 
         {/* まとめ・下部ナビ */}
         <section className="bg-stone-900/60 rounded-3xl p-8 border border-stone-800 text-center space-y-6 shadow-2xl">
-          <h3 className="text-xl sm:text-2xl font-black text-amber-200">四季の感動に出逢う、極上のステイへ出かけよう（京都・天橋立＆伊根の舟屋：股のぞき・舟屋クルーズ＆冬）</h3>
+          <h3 className="text-xl sm:text-2xl font-black text-amber-200">四季の感動に出逢う、極上のステイへ出かけよう</h3>
           <p className="text-stone-300 text-xs sm:text-sm max-w-2xl mx-auto leading-relaxed">
             日本各地の風土が育んだ奇跡の景観、受け継がれる伝統文化、そして心ほどける名湯。
             お気に入りの宿を見つけて、特別な旅の思い出を刻んでみませんか。

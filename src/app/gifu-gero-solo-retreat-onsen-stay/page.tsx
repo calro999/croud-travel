@@ -76,8 +76,7 @@ export default function ArticlePage() {
             岐阜・下呂温泉ひとり旅＆美肌名湯おこもり特集
           </div>
           <h1 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-stone-900 tracking-tight leading-tight mb-4">「下呂温泉ひとり旅・美肌名湯おこもり」日本三名泉つるつる美人の湯・飛騨川パノラマ・飛騨牛会席！飛騨路の山里でととのう厳選3宿</h1>
-          <p className="text-xs sm:text-sm text-stone-500 mb-6">【下呂温泉ひとり旅・美肌名湯おこもり：日本三名泉つるつ】 
-            更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
+          <p className="text-xs sm:text-sm text-stone-500 mb-6">更新日：2026年11月 ｜ 監修：旅宿クラウド編集部（楽天トラベル公式データ連携）
           </p>
           
           <div className="bg-amber-50/60 border border-amber-200/70 rounded-2xl p-5 sm:p-6 text-stone-700 text-sm sm:text-base leading-relaxed space-y-3">
@@ -96,7 +95,7 @@ export default function ArticlePage() {
         {/* 目次 */}
         <section className="bg-white p-5 rounded-2xl border border-stone-200 shadow-sm mb-10">
           <h2 className="text-sm font-bold text-stone-900 mb-3 flex items-center gap-2"><span>📑</span>
-            <span>この記事で紹介する厳選ホテル（楽天トラベル最新評価順）</span>｜下呂温泉ひとり旅・美肌名湯おこもり：日本三名泉つるつ</h2>
+            <span>この記事で紹介する厳選ホテル（楽天トラベル最新評価順）</span></h2>
           <ul className="text-xs sm:text-sm space-y-2">
             <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 下呂温泉　湯あそびの宿　下呂観光ホテル本館（★4.44 / 最低目安：2,750円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. 下呂温泉　紗々羅（★4.18 / 最低目安：10,120円〜）</a></li>
@@ -140,7 +139,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（下呂温泉ひとり旅・美肌名湯おこもり：日本三名泉つるつ）</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>絶景ランキング1位！インバウンド比率6.6％</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>団体客無しでゆっくりとくつろげる全室夜景自慢の宿</span></li>
@@ -196,7 +195,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（下呂温泉ひとり旅・美肌名湯おこもり：日本三名泉つるつ）</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>【受賞歴多数！温泉宿・ホテル総選挙女子旅部門1位】源泉かけ流しの美人の湯を堪能</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>大人の贅沢滞在</span></li>
@@ -252,7 +251,7 @@ export default function ArticlePage() {
             </p>
 
             <div className="bg-stone-50 p-4 rounded-xl mb-6">
-              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント（下呂温泉ひとり旅・美肌名湯おこもり：日本三名泉つるつ）</h3>
+              <h3 className="text-xs font-bold text-stone-700 mb-2">このホテルの注目ポイント</h3>
               <ul className="text-xs text-stone-600 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>下呂温泉の高台に位置し客室18室の隠れ家的宿、露天風呂付き客室や離れ、貸切露天風呂などが人気</span></li>
               </ul>
@@ -299,7 +298,7 @@ export default function ArticlePage() {
         {/* よくある質問 FAQ */}
         <section className="bg-amber-50/40 rounded-2xl border border-amber-200/60 p-6 sm:p-8 mb-10">
           <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span>❓</span>
-            <span>よくある質問（FAQ）</span>｜下呂温泉ひとり旅・美肌名湯おこもり：日本三名泉つるつ</h2>
+            <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-4">
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
               <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
@@ -324,7 +323,7 @@ export default function ArticlePage() {
 
         {/* 記事末尾CTA */}
         <div className="text-center bg-stone-900 text-white p-8 rounded-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold mb-3">気になる宿は見つかりましたか？｜下呂温泉ひとり旅・美肌名湯おこもり：日本三名泉つるつ</h2>
+          <h2 className="text-xl sm:text-2xl font-bold mb-3">気になる宿は見つかりましたか？</h2>
           <p className="text-stone-300 text-xs sm:text-sm max-w-lg mx-auto mb-6">
             「下呂温泉ひとり旅・美肌名湯おこもり（日本三名泉つるつる美人の湯・飛騨川パノラマ・飛騨牛会席）」で人気の「下呂温泉　湯あそびの宿　下呂観光ホテル本館」をはじめ、週末や連休は条件の良い客室から埋まりやすいため、楽天トラベルの空室カレンダーから早めの日程確認をおすすめします。
           </p>
@@ -430,7 +429,7 @@ export default function ArticlePage() {
         </section>
 
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -559,49 +558,7 @@ export default function ArticlePage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「下呂温泉ひとり旅・美肌名湯おこもり（日本三名泉つるつる美人の湯・飛騨川パノラマ・飛騨牛会席）」とあわせて巡りたい埼玉県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「下呂温泉ひとり旅・美肌名湯おこもり：日本三名泉つるつる美人の湯・飛騨川パノラマ・飛騨牛会席！飛騨路の山里でととのう厳選3宿」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Kawagoe_Ichibangai1.jpg/1280px-Kawagoe_Ichibangai1.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="川越 小江戸（時の鐘）" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">川越 小江戸（時の鐘）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">蔵造りの商家が並ぶ江戸の情緒を色濃く残す街並み。町のシンボル「時の鐘」や駄菓子屋横丁、縁結びで有名な川越氷川神社など見どころが満載です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">長瀞渓谷（ラインくだり）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">荒川の流れる美しい岩畳と新緑・紅葉の絶景が広がる国指定の名勝・天然記念物。木造の船で急流や静流を下る長瀞ラインくだりはスリルと爽快感にあふれています。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">鉄道博物館（てっぱく）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">JR東日本創立20周年事業として作られた実物車両30両以上を展示する巨大博物館。迫力のジオラマや運転シミュレータなど大人から子供まで楽しめます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">羊山公園（芝桜の丘）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">秩父市街を一望する高台に位置し、春にはピンクや白、紫など9種類40万株以上の芝桜がデザインされた一面のパッチワーク模様を描き出します。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       </main>
     

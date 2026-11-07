@@ -142,8 +142,7 @@ export default function Page() {
               富山県を代表する景勝地・温泉地である黒部・宇奈月温泉・黒部峡谷は、秋の訪れとともに最も華やかで風情あふれる季節を迎えます。
               澄み渡る秋空の下、木々が鮮やかなグラデーションに包まれ、雄大な自然美と歴史情緒が旅人の心を深く魅了します。
             </p>
-            <p>【黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉】 
-              この時期は気候も穏やかで、散策やアクティビティ、そして冷え込む朝夕の温泉浴にまさに最高のコンディション。
+            <p>この時期は気候も穏やかで、散策やアクティビティ、そして冷え込む朝夕の温泉浴にまさに最高のコンディション。
               さらに秋は収穫の季節であり、地元の旬の恵みをふんだんに使った会席料理や名物グルメが食卓を彩ります。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border-l-4 border-amber-500 mt-6 space-y-2">
@@ -167,16 +166,14 @@ export default function Page() {
             <div className="border-l-2 border-amber-400 pl-4 sm:pl-6 space-y-6">
               <div>
                 <span className="bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-1 rounded">1日目：絶景散策と夕暮れの湯浴み</span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mt-2">紅葉名所巡りと名湯チェックイン（黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉）</h3>
-                <p className="text-stone-600 text-xs sm:text-sm mt-1 leading-relaxed">【黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉】 
-                  午前中に現地へ到着。秋色に染まる代表的な絶景スポットを散策し、ランチには地元名物グルメを堪能。午後は温泉街の散策やお土産選びを楽しみ、早めにお宿へチェックイン。夕暮れに染まる景色を眺めながら露天風呂で旅の疲れを癒やします。
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mt-2">紅葉名所巡りと名湯チェックイン</h3>
+                <p className="text-stone-600 text-xs sm:text-sm mt-1 leading-relaxed">午前中に現地へ到着。秋色に染まる代表的な絶景スポットを散策し、ランチには地元名物グルメを堪能。午後は温泉街の散策やお土産選びを楽しみ、早めにお宿へチェックイン。夕暮れに染まる景色を眺めながら露天風呂で旅の疲れを癒やします。
                 </p>
               </div>
               <div>
                 <span className="bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-1 rounded">2日目：清々しい朝風呂と旬の味覚探訪</span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mt-2">朝の澄んだ空気と産直ショッピング（黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉）</h3>
-                <p className="text-stone-600 text-xs sm:text-sm mt-1 leading-relaxed">【黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉】 
-                  小鳥のさえずりと澄んだ空気の中で目覚めの朝風呂。地元食材をたっぷり使った朝食を味わった後は、近隣の景勝地や産直市場に立ち寄り、採れたての秋の味覚や伝統工芸品をお買い物。思い出いっぱいの帰路へ。
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mt-2">朝の澄んだ空気と産直ショッピング</h3>
+                <p className="text-stone-600 text-xs sm:text-sm mt-1 leading-relaxed">小鳥のさえずりと澄んだ空気の中で目覚めの朝風呂。地元食材をたっぷり使った朝食を味わった後は、近隣の景勝地や産直市場に立ち寄り、採れたての秋の味覚や伝統工芸品をお買い物。思い出いっぱいの帰路へ。
                 </p>
               </div>
             </div>
@@ -187,9 +184,8 @@ export default function Page() {
         <section className="space-y-10">
           <div className="border-b border-stone-300 pb-4">
             <span className="text-xs font-bold uppercase tracking-wider text-amber-600">Rakuten Travel &amp; Furusato Tax</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">楽天トラベル＆ふるさと納税で泊まる！厳選おすすめ宿3選｜黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉</h2>
-            <p className="text-stone-600 text-sm mt-2">【黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉】 
-              高評価の口コミを獲得し、ふるさと納税トラベルクーポンの対象となっている名宿を厳選紹介。
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">楽天トラベル＆ふるさと納税で泊まる！厳選おすすめ宿3選</h2>
+            <p className="text-stone-600 text-sm mt-2">高評価の口コミを獲得し、ふるさと納税トラベルクーポンの対象となっている名宿を厳選紹介。
             </p>
           </div>
 
@@ -360,10 +356,9 @@ export default function Page() {
         {/* Furusato Guide */}
         <section className="bg-gradient-to-br from-amber-500/10 via-orange-500/5 to-amber-500/10 rounded-2xl p-6 sm:p-10 border border-amber-200/60 shadow-sm">
           <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-3 border-b border-amber-200/80 pb-4"><span className="text-2xl">💡</span>
-            楽天ふるさと納税トラベルクーポンの賢い使い方｜黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉</h2>
+            楽天ふるさと納税トラベルクーポンの賢い使い方</h2>
           <div className="space-y-6 text-stone-700 text-sm sm:text-base leading-relaxed">
-            <p>【黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉】 
-              ふるさと納税の返礼品として提供されている「楽天トラベルクーポン」を利用すれば、実質自己負担2,000円で寄附額の最大30%相当が宿泊料金から直接割引されます。
+            <p>ふるさと納税の返礼品として提供されている「楽天トラベルクーポン」を利用すれば、実質自己負担2,000円で寄附額の最大30%相当が宿泊料金から直接割引されます。
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 my-6">
               <div className="bg-white p-5 rounded-xl border border-amber-100 shadow-xs text-center">
@@ -382,8 +377,7 @@ export default function Page() {
                 <div className="text-stone-500 text-xs">楽天トラベルで対象宿の予約時にクーポンを適用して割引完了</div>
               </div>
             </div>
-            <p className="text-xs sm:text-sm text-stone-600">【黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉】 
-              ※楽天スーパーSALEやお買い物マラソン等の買いまわりイベント期間中に寄附を行うと、楽天ポイント還元率が大幅にアップしてさらにお得です。
+            <p className="text-xs sm:text-sm text-stone-600">※楽天スーパーSALEやお買い物マラソン等の買いまわりイベント期間中に寄附を行うと、楽天ポイント還元率が大幅にアップしてさらにお得です。
             </p>
           </div>
         </section>
@@ -391,24 +385,22 @@ export default function Page() {
         {/* FAQ */}
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-stone-200/80">
           <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-3 border-b border-stone-200 pb-4"><span className="text-2xl">❓</span>
-            よくある質問（FAQ）｜黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉</h2>
+            よくある質問（FAQ）</h2>
           <div className="space-y-6 text-stone-700 text-sm sm:text-base">
             <div className="border-b border-stone-100 pb-4">
-              <h3 className="font-bold text-stone-900 mb-2">Q. 10月〜11月の紅葉や混雑の状況は？（黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉）</h3>
+              <h3 className="font-bold text-stone-900 mb-2">Q. 10月〜11月の紅葉や混雑の状況は？</h3>
               <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">
                 紅葉の見頃ピーク（10月中旬〜11月中旬（黒部峡谷トロッコ電車紅葉ピーク・やまびこ遊歩道・富山湾紅ズワイガニ解禁・寒ブリ））は週末を中心に観光客で賑わいます。ゆっくり散策や温泉を楽しみたい方は平日の宿泊や、早朝の観光スポット訪問がおすすめです。
               </p>
             </div>
             <div className="border-b border-stone-100 pb-4">
-              <h3 className="font-bold text-stone-900 mb-2">Q. クーポンを利用した予約のキャンセル規定はどうなっていますか？（黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉）</h3>
-              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">【黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉】 
-                通常の楽天トラベルのキャンセル規定に準じます。期限内であればキャンセル時にクーポンは返還され、有効期限内であれば別の予約で再利用可能です。
+              <h3 className="font-bold text-stone-900 mb-2">Q. クーポンを利用した予約のキャンセル規定はどうなっていますか？</h3>
+              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">通常の楽天トラベルのキャンセル規定に準じます。期限内であればキャンセル時にクーポンは返還され、有効期限内であれば別の予約で再利用可能です。
               </p>
             </div>
             <div>
-              <h3 className="font-bold text-stone-900 mb-2">Q. ふるさと納税クーポンとポイントは併用できますか？（黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉）</h3>
-              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">【黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉】 
-                はい、楽天ふるさと納税トラベルクーポンと通常の楽天ポイントは同時に併用して利用いただけます。
+              <h3 className="font-bold text-stone-900 mb-2">Q. ふるさと納税クーポンとポイントは併用できますか？</h3>
+              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">はい、楽天ふるさと納税トラベルクーポンと通常の楽天ポイントは同時に併用して利用いただけます。
               </p>
             </div>
           </div>
@@ -446,7 +438,7 @@ export default function Page() {
         </section>
 
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -545,7 +537,7 @@ export default function Page() {
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>令和5年3月オープン☆川側特別室　宇奈月の山々と眼下に清流黒部川　貸切岩盤浴や貸切露天風呂も好評！</p>
                   <p><strong>【所在地・アクセス】</strong>〒 富山県黒部市宇奈月温泉1397-2 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
-                  <p>【黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>人気の露天風呂客室と富山の旬菜美味　宇奈月温泉サン柳亭の滞在ポイント：</strong>「黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉！富山湾の紅ズワイガニ・白えびと日本屈指の透明美肌湯｜ふるさと納税で泊まれる名宿ガイドエリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
@@ -567,7 +559,7 @@ export default function Page() {
                 <div className="md:col-span-3 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>温泉街でも最も眺望の良い場所に立地し、源泉１００％の加温・加水無しの湯がお楽しみいただけます。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 富山県黒部市宇奈月温泉53 ／ 最寄り駅：主要駅 ／ 交通案内：</p>
-                  <p>【黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>宇奈月温泉の老舗旅館　延対寺荘の滞在ポイント：</strong>「黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉！富山湾の紅ズワイガニ・白えびと日本屈指の透明美肌湯｜ふるさと納税で泊まれる名宿ガイドエリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
@@ -575,49 +567,7 @@ export default function Page() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉（富山湾の紅ズワイガニ・白えびと日本屈指の透明美肌湯）」とあわせて巡りたい富山県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「黒部峡谷トロッコ電車の紅葉パノラマと宇奈月温泉！富山湾の紅ズワイガニ・白えびと日本屈指の透明美肌湯｜ふるさと納税で泊まれる名宿ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Mount_Tate_viewed_from_Midorigaike.jpg/1280px-Mount_Tate_viewed_from_Midorigaike.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="立山黒部アルペンルート（雪の大谷）" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">立山黒部アルペンルート（雪の大谷）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">標高3,000m級の立山連峰を貫く世界有数の山岳観光ルート。春には積雪を吹き破って開通する高さ20mに迫る巨大な「雪の大谷」の壁の中を歩けます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">黒部ダム</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">高さ186mを誇る日本一のアーチ式コンクリートダム。毎秒10トン以上の水が激しく吹き出す毎夏の観光放水は息をのむ大迫力です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">雨晴海岸（あまはらしかいがん）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">富山湾越しに標高3,000m級の立山連峰を望む奇跡の絶景スポット。女岩と冠雪した立山連峰のシルエットは世界でも類を見ない美しさです。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">五箇山 合掌造り集落</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">世界文化遺産に登録されている相倉・菅沼の合掌造り集落。急傾斜の茅葺き屋根と昔ながらの日本の原風景が山深い静寂の中にひっそりと息づいています。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       </main>
 

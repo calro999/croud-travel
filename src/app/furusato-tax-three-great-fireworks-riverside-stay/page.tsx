@@ -8,13 +8,13 @@ import Image from 'next/image';
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
 
 export const metadata: Metadata = {
-  title: "日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
+  title: "日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
   description: "日本中の花火師が命を懸ける最高峰の光の芸術！新潟「長岡まつり大花火大会」信濃川を埋め尽くす復興祈願フェニックスとホテルルートイン長岡駅前、秋田「全国花火競技大会・大曲の花火」内閣総理大臣賞を争う昼夜花火とホテルルートイン大曲駅前、茨城「土浦全国花火競技大会」秋の夜空を焦がす競技玉とホテルクラウンヒル...",
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-fireworks-riverside-stay/",
   },
   openGraph: {
-    title: "日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
+    title: "日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
     description: "日本中の花火師が命を懸ける最高峰の光の芸術！新潟「長岡まつり大花火大会」信濃川を埋め尽くす復興祈願フェニックスとホテルルートイン長岡駅前、秋田「全国花火競技大会・大曲の花火」内閣総理大臣賞を争う昼夜花火とホテルルートイン大曲駅前、茨城「土浦全国花火競技大会」秋の夜空を焦がす競技玉とホテルクラウンヒル...",
     url: "https://croud-travel.pages.dev/furusato-tax-three-great-fireworks-riverside-stay/",
   },
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
+    "headline": "日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
     "description": "日本中の花火師が命を懸ける最高峰の光の芸術！新潟「長岡まつり大花火大会」信濃川を埋め尽くす復興祈願フェニックスとホテルルートイン長岡駅前、秋田「全国花火競技大会・大曲の花火」内閣総理大臣賞を争う昼夜花火とホテルルートイン大曲駅前、茨城「土浦全国花火競技大会」秋の夜空を焦がす競技玉とホテルクラウンヒル...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-fireworks-riverside-stay/",
     "publisher": {
@@ -56,7 +56,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大花火・光の芸術特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             日本中の花火師が命を懸ける最高峰の光の芸術！新潟「長岡まつり大花火大会」信濃川を埋め尽くす復興祈願フェニックスとホテルルートイン長岡駅前、秋田「全国花火競技大会・大曲の花火」内閣総理大臣賞を争う昼夜花火とホテルルートイン大曲駅前、茨城「土浦全国花火競技大会」秋の夜空を焦がす競技玉とホテルクラウンヒルズ土浦駅東。日本三大花火の感動を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>
@@ -93,8 +93,8 @@ export default function Page() {
         {/* 3 Key Merits */}
         <section className="space-y-6">
           <div className="text-center">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">ふるさと納税トラベルで巡る3つの至高メリット｜日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガ</h2>
-            <p className="text-sm sm:text-base text-slate-400 mt-2">【日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガ】 控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの名旅館＆特産グルメをアップグレード</p>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">ふるさと納税トラベルで巡る3つの至高メリット</h2>
+            <p className="text-sm sm:text-base text-slate-400 mt-2">控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの名旅館＆特産グルメをアップグレード</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
@@ -125,8 +125,8 @@ export default function Page() {
         {/* Featured Hotels & Regions */}
         <section className="space-y-12">
           <div className="border-b border-slate-800 pb-4">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">厳選名所＆楽天トラベル提携おすすめ名宿｜日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガ</h2>
-            <p className="text-slate-400 text-sm sm:text-base mt-1">【日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガ】 楽天ふるさと納税宿泊クーポンが利用可能な極上宿</p>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">厳選名所＆楽天トラベル提携おすすめ名宿</h2>
+            <p className="text-slate-400 text-sm sm:text-base mt-1">楽天ふるさと納税宿泊クーポンが利用可能な極上宿</p>
           </div>
 
           <div className="space-y-12">
@@ -348,9 +348,8 @@ export default function Page() {
 
         {/* Official Banner CTA */}
         <section className="bg-gradient-to-r from-rose-950/60 via-red-900/40 to-amber-950/60 border border-rose-500/30 rounded-3xl p-8 text-center relative overflow-hidden shadow-2xl">
-          <h2 className="text-2xl sm:text-3xl font-black text-white mb-4">楽天ふるさと納税トラベルで、今すぐ賢く旅に出よう｜日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガ</h2>
-          <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base mb-8 leading-relaxed">【日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガ】 
-            寄付翌日から最大3年間使える宿泊クーポンで、行きたかった憧れの名宿を今すぐお得にリザーブ。実質2,000円負担で極上の日本再発見の旅へ。
+          <h2 className="text-2xl sm:text-3xl font-black text-white mb-4">楽天ふるさと納税トラベルで、今すぐ賢く旅に出よう</h2>
+          <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base mb-8 leading-relaxed">寄付翌日から最大3年間使える宿泊クーポンで、行きたかった憧れの名宿を今すぐお得にリザーブ。実質2,000円負担で極上の日本再発見の旅へ。
           </p>
           <a
             href={officialFurusatoAffUrl}
@@ -364,7 +363,7 @@ export default function Page() {
 
         {/* Cross Link Section */}
         <section className="border-t border-slate-800/80 pt-12 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい関連特集ガイド｜日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガ</h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい関連特集ガイド</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
             <Link
@@ -552,17 +551,17 @@ export default function Page() {
         </section>
 
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+              📊 日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
             </h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              楽天トラベル公式APIより取得した「日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -613,7 +612,7 @@ export default function Page() {
 
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・アクセス・特徴データ一覧
+              🏨 「日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・アクセス・特徴データ一覧
             </h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
@@ -649,7 +648,7 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/70699/70699_tt.jpg" alt="ホテルルートイン　大曲駅前 客室・施設イメージ" className="w-full h-full object-cover" loading="lazy" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 秋田県大仙市大曲通町3-14 ／ 最寄り駅：大曲（秋田） ／ 交通案内：ＪＲ秋田新幹線大曲駅より徒歩３分/大曲I.Cより車で約10分/秋田市より秋田自動車道利用で約40分</p>
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要 先着順  ※満車の際は近隣駐車場をご案内致します。</p>
                   
@@ -681,49 +680,7 @@ export default function Page() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」とあわせて巡りたい秋田県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Pathway_to_the_Qkamura_Nyuto_Onsenkyo.jpg/1280px-Pathway_to_the_Qkamura_Nyuto_Onsenkyo.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="乳頭温泉郷" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">乳頭温泉郷</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">十和田八幡平国立公園のブナ原生林に点在する7つの秘湯温泉郷。独自のお湯と茅葺き屋根の木造旅籠が醸し出すノスタルジーは、全国の温泉ファン憧れの聖地です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">角館の武家屋敷通り</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「みちのくの小京都」と称される歴史情緒あふれる城下町。黒板塀が続く静かな通りと、春には塀越しに垂れ下がる垂れ桜、秋には紅葉のコントラストが実に映えます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Lake_Tazawa_and_Kansa-g%C5%AB_20210213.jpg/1280px-Lake_Tazawa_and_Kansa-g%C5%AB_20210213.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="田沢湖" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">田沢湖</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本一の水深（423.4m）を誇る円形の淡水湖。水深ゆえの深い瑠璃色の水面と、金色の辰子姫像が神秘的な美しさを漂わせています。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">男鹿半島・入道崎</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本海の絶壁と緑の芝生がコントラストを成す男鹿半島の最北端。北緯40度線上に位置し、白黒ラインの入道崎灯台から眺める夕日は日本の灯台50選に選ばれています。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       </main>
     

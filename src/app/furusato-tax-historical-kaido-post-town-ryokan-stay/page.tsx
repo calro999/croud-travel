@@ -103,9 +103,8 @@ export default function FurusatoTaxPage() {
         {/* メリット3選 */}
         <section className="space-y-6">
           <div className="text-center">
-            <h2 className="text-xl md:text-3xl font-black text-white">楽天ふるさと納税トラベルクーポンが圧倒的にお得な3つの理由｜歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中</h2>
-            <p className="text-slate-400 text-xs md:text-sm mt-2">【歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中】 
-              予約前の獲得はもちろん、予約後の「あとから適用」も可能な最高峰の使い勝手
+            <h2 className="text-xl md:text-3xl font-black text-white">楽天ふるさと納税トラベルクーポンが圧倒的にお得な3つの理由</h2>
+            <p className="text-slate-400 text-xs md:text-sm mt-2">予約前の獲得はもちろん、予約後の「あとから適用」も可能な最高峰の使い勝手
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -158,9 +157,8 @@ export default function FurusatoTaxPage() {
         {/* 自治体＆厳選宿セクション */}
         <section className="space-y-12">
           <div className="border-l-4 border-amber-500 pl-4">
-            <h2 className="text-2xl md:text-3xl font-black text-white">ふるさと納税対象・厳選おすすめ宿泊施設｜歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中</h2>
-            <p className="text-slate-400 text-xs md:text-sm mt-1">【歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中】 
-              楽天トラベルAPIより最新の料金・宿泊プラン・空室情報をリアルタイム反映中
+            <h2 className="text-2xl md:text-3xl font-black text-white">ふるさと納税対象・厳選おすすめ宿泊施設</h2>
+            <p className="text-slate-400 text-xs md:text-sm mt-1">楽天トラベルAPIより最新の料金・宿泊プラン・空室情報をリアルタイム反映中
             </p>
           </div>
 
@@ -579,8 +577,8 @@ export default function FurusatoTaxPage() {
         {/* 関連・相互リンク集 */}
         <section className="bg-slate-900/60 border border-slate-800 rounded-3xl p-6 md:p-8 space-y-6">
           <div className="border-l-4 border-amber-500 pl-3">
-            <h3 className="text-lg md:text-xl font-black text-white">あわせて読みたいふるさと納税トラベル特集（歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中）</h3>
-            <p className="text-slate-400 text-xs mt-1">【歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中】 目的や同伴者に合わせて最適な宿泊クーポンを活用しよう</p>
+            <h3 className="text-lg md:text-xl font-black text-white">あわせて読みたいふるさと納税トラベル特集</h3>
+            <p className="text-slate-400 text-xs mt-1">目的や同伴者に合わせて最適な宿泊クーポンを活用しよう</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             
@@ -629,9 +627,8 @@ export default function FurusatoTaxPage() {
         {/* クーポン獲得CTA */}
         <section className="bg-gradient-to-br from-amber-500/20 via-slate-900 to-slate-900 border border-amber-500/30 rounded-3xl p-8 text-center space-y-6 shadow-2xl">
           <span className="text-3xl">🎫</span>
-          <h2 className="text-xl md:text-3xl font-black text-white">楽天トラベルふるさと納税クーポンで、一生の思い出に残るプレミアムステイへ｜歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中</h2>
-          <p className="text-slate-300 text-xs md:text-base max-w-2xl mx-auto leading-relaxed">【歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中】 
-            返礼品クーポンは寄付手続き完了後、数分で楽天トラベルのアカウントに即時付与されます。今年の寄付上限枠を賢く使って、家族みんなの最高の笑顔とくつろぎを手に入れましょう。
+          <h2 className="text-xl md:text-3xl font-black text-white">楽天トラベルふるさと納税クーポンで、一生の思い出に残るプレミアムステイへ</h2>
+          <p className="text-slate-300 text-xs md:text-base max-w-2xl mx-auto leading-relaxed">返礼品クーポンは寄付手続き完了後、数分で楽天トラベルのアカウントに即時付与されます。今年の寄付上限枠を賢く使って、家族みんなの最高の笑顔とくつろぎを手に入れましょう。
           </p>
           <div>
             <a
@@ -773,7 +770,7 @@ export default function FurusatoTaxPage() {
         </section>
 
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -921,7 +918,7 @@ export default function FurusatoTaxPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>築二百年の建物を利用した古民家風の旅宿。開田蕎麦と郷土料理・地元の材料でおもてなし</p>
                   <p><strong>【所在地・アクセス】</strong>〒 長野県木曽郡木曽町開田高原末川2819 ／ 最寄り駅：木曽福島 ／ 交通案内：ＪＲ　木曽福島駅より開田高原行きバスにて「末川」下車徒歩０分</p>
-                  <p>【歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>宿とそば処　ふもと屋の滞在ポイント：</strong>「歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅エリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
@@ -995,49 +992,7 @@ export default function FurusatoTaxPage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅」とあわせて巡りたい茨城県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">国営ひたち海浜公園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">春のネモフィラ、秋のコキアをはじめ、四季折々の広大な花畑が美しい国営公園。みはらしの丘一面が青や赤に染まる光景は世界中から絶賛される絶景です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">水戸偕楽園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">金沢兼六園・岡山後楽園と並ぶ日本三名園の一つ。徳川斉昭公によって造園され、春には約100品種3,000本の梅が咲き誇る歴史ある回遊式庭園です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">袋田の滝</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三名瀑に数えられる高さ120m・幅73mのダイナミックな4段の滝。四季ごとに全く異なる表情を見せ、冬には滝全体が凍結する「氷瀑」が見事です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">筑波山</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「西の富士、東の筑波」と称される紫峰。男体山と女体山の2峰からなり、ケーブルカーやロープウェイで気軽に山頂へ登れ、関東平野の一望を楽しめます。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       </main>
     

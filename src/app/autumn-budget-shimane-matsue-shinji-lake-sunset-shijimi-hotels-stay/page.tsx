@@ -69,40 +69,8 @@ export default function AutumnBudgetFeaturePage() {
       </section>
 
       
-        {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
-        <section className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm mb-10">
-          <div className="bg-gradient-to-r from-stone-900 to-stone-800 text-white px-6 py-4 flex items-center justify-between">
-            <div className="flex items-center gap-2">
-              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
-              <h2 className="text-base md:text-lg font-bold tracking-wide">出雲・水の都絶景ガイド：日本の夕陽百選・宍道湖の夕暮れと嫁ヶ島</h2>
-            </div>
-            <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
-          </div>
-          <div className="flex flex-col gap-6 p-6">
-            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
-              <Image
-                src="https://upload.wikimedia.org/wikipedia/commons/1/13/Lake_shinji_landsat.jpg"
-                alt="日本の夕陽百選・宍道湖の夕暮れと嫁ヶ島"
-                fill
-                className="object-cover hover:scale-105 transition duration-500"
-                sizes="(max-width: 768px) 100vw, 400px"
-              />
-              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/70 to-transparent p-2 text-right">
-                <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
-              </div>
-            </div>
-            <div className="w-full space-y-3">
-              <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">日本の夕陽百選・宍道湖の夕暮れと嫁ヶ島の歴史と見どころ</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">宍道湖（しんじこ）は、島根県松江市と出雲市にまたがる湖。一級水系の斐伊川(ひいかわ)の一部である。 湖沼水質保全特別措置法指定湖沼。日本百景。主に大橋川・中海・境水道を介して日本海と接続し、淡水湖ではなく汽水湖となっている（平均塩分濃度は海水の約1/10である）。河川整備計画等では宍道湖合流点より上流側の区間を斐伊川本川と称する。斐伊川本川下流部から境水道まではほぼ水位差がなく潮位も影響を受けている。ヤマトシジミの一大産地として知られる。</p>
-              <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                <span className="text-teal-700 font-semibold">現地観光・散策推奨スポット</span>
-              </div>
-            </div>
-          </div>
-        </section>
-
-      {/* 宿一覧 */}
+        
+        {/* 宿一覧 */}
       <section className="max-w-4xl mx-auto px-4 space-y-8">
 
         {/* 宿1 */}
@@ -417,7 +385,7 @@ export default function AutumnBudgetFeaturePage() {
         </div>
       </section>
     
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -608,49 +576,7 @@ export default function AutumnBudgetFeaturePage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「松江（宍道湖の夕日絶景＆旬の宍道湖七珍しじみ汁）」とあわせて巡りたい島根県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「松江：宍道湖の夕日絶景＆旬の宍道湖七珍しじみ汁！3,000円台〜泊まれる格安ホテル5選」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Haiden_of_Izumo-taisha-1.JPG/1280px-Haiden_of_Izumo-taisha-1.JPG?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="出雲大社（いづもたいしゃ）" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">出雲大社（いづもたいしゃ）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本最古の歴史を誇る「縁結びの神様」大国主大神をお祀りする大社。神楽殿の巨大な大注連縄（長さ13.6m、重さ5.2トン）は圧巻の一言です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">国宝 松江城</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">全国に現存する12天守の一つであり国宝。黒塗りの重厚な天守（千鳥城）と、堀を屋根付き小船で巡る「堀川めぐり」で水の都・松江の風情を満喫できます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">足立美術館</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">アメリカの日本庭園専門誌で20年以上連続「日本一の庭園」に選ばれている名園。横山大観らの日本画コレクションと生の額縁絵のような庭園美が極上です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">石見銀山遺跡（大森の町並み）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">かつて世界の銀の約3分の1を産出したとされる世界産業遺産。緑豊かな山々に残る坑道跡（間歩）や江戸時代の情緒が残る大森の町並みを自転車で散策できます。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-budget-shimane-matsue-shinji-lake-sunset-shijimi-hotels-stay" />
         </div>

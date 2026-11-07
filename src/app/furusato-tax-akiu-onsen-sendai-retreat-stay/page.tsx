@@ -83,7 +83,7 @@ export default function FurusatoTaxArticle() {
             秋保温泉の魅力は、名取川が削り出した奇岩怪石の「磊々峡（らいらいきょう）」や「秋保大滝」の豊かな大自然と、歴史ある名門旅館のおもてなし。夕食には日本最高ランクA5ランクのみに許されるブランド牛「仙台牛」のステーキやすき焼き、三陸沖で獲れた新鮮な魚介類が贅沢に並びます。宮城県仙台市へのふるさと納税を利用すれば、30%相当のトラベルクーポンにより名門旅館へお得に滞在でき、仙台観光や松島観光と組み合わせた最高の東北旅行が実現します。
           </p>
           <div className="bg-amber-50 rounded-2xl p-4 sm:p-5 border border-amber-200/80 text-amber-950 text-xs sm:text-sm space-y-2">
-            <h3 className="font-bold text-amber-900 flex items-center gap-2"><span>💡</span> この記事でわかること（秋保温泉をふるさと納税でお得に旅する）</h3>
+            <h3 className="font-bold text-amber-900 flex items-center gap-2"><span>💡</span> この記事でわかること</h3>
             <ul className="grid sm:grid-cols-2 gap-2 text-stone-800 list-disc list-inside">
               <li>ふるさと納税で泊まれる名門宿のリアルな魅力と特徴（秋保温泉をふるさと納税でお得に旅する）</li>
               <li>楽天トラベルクーポンを使った最大割引予約の手順（秋保温泉をふるさと納税でお得に旅する）</li>
@@ -96,9 +96,9 @@ export default function FurusatoTaxArticle() {
         {/* 楽天トラベル クーポン獲得バナー導線 */}
         <div className="bg-gradient-to-r from-red-600 via-rose-600 to-amber-600 text-white rounded-2xl p-6 shadow-xl flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="space-y-1 text-center sm:text-left">
-            <p className="text-xs uppercase tracking-widest font-bold text-amber-200">【秋保温泉をふるさと納税でお得に旅する】 Rakuten Travel Furusato Tax</p>
+            <p className="text-xs uppercase tracking-widest font-bold text-amber-200">Rakuten Travel Furusato Tax</p>
             <h3 className="text-lg sm:text-xl font-bold font-serif">宮城県仙台市のふるさと納税クーポンをチェック</h3>
-            <p className="text-xs text-rose-100">【秋保温泉をふるさと納税でお得に旅する】 寄付額の最大30%オフ！3年間有効・予約済み日程にも適用可能</p>
+            <p className="text-xs text-rose-100">寄付額の最大30%オフ！3年間有効・予約済み日程にも適用可能</p>
           </div>
           <a
             href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
@@ -114,9 +114,8 @@ export default function FurusatoTaxArticle() {
         {/* 厳選ホテル徹底解剖 */}
         <section className="space-y-10">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-bold font-serif text-stone-900">ふるさと納税で泊まる厳選名宿3選｜秋保温泉をふるさと納税でお得に旅する</h2>
-            <p className="text-stone-600 text-xs sm:text-sm">【秋保温泉をふるさと納税でお得に旅する】 
-              実際に楽天トラベルで圧倒的な高評価を獲得している名門ホテル・老舗旅館をピックアップ
+            <h2 className="text-2xl sm:text-3xl font-bold font-serif text-stone-900">ふるさと納税で泊まる厳選名宿3選</h2>
+            <p className="text-stone-600 text-xs sm:text-sm">実際に楽天トラベルで圧倒的な高評価を獲得している名門ホテル・老舗旅館をピックアップ
             </p>
           </div>
 
@@ -441,8 +440,7 @@ export default function FurusatoTaxArticle() {
             <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
               宮城県仙台市ふるさと納税×楽天トラベルクーポン活用手順
             </h2>
-            <p className="text-stone-300 text-xs sm:text-sm">【秋保温泉をふるさと納税でお得に旅する】 
-              初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
+            <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
 
@@ -479,7 +477,7 @@ export default function FurusatoTaxArticle() {
 
         {/* 内部リンク・ハブ導線 */}
         <section className="border-t border-stone-200 pt-8 space-y-4">
-          <h3 className="text-base sm:text-lg font-bold font-serif text-stone-900">関連するふるさと納税トラベル特集（秋保温泉をふるさと納税でお得に旅する）</h3>
+          <h3 className="text-base sm:text-lg font-bold font-serif text-stone-900">関連するふるさと納税トラベル特集</h3>
           <ul className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-600">
             <li>
               <Link href="/travel-savings-guide/" className="hover:text-amber-800 underline flex items-center gap-1.5 py-1">

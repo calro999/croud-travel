@@ -106,7 +106,7 @@ export default function KyushuTravelNightsPage() {
           </p>
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200">
-            <h3 className="font-bold text-stone-800 mb-3 border-b-2 border-stone-300 pb-2 inline-block">💰 2泊3日の予算内訳（1人あたり）</h3>
+            <h3 className="font-bold text-stone-800 mb-3 border-b-2 border-stone-300 pb-2 inline-block">💰 2泊3日の予算内訳</h3>
             <div className="grid md:grid-cols-2 gap-4 text-sm text-stone-600">
               <ul className="space-y-2">
                 <li className="flex justify-between"><span>🏨 宿泊（博多ビジネス）:</span> <span className="font-bold text-stone-800">5,500円</span></li>
@@ -147,7 +147,7 @@ export default function KyushuTravelNightsPage() {
           </p>
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200">
-            <h3 className="font-bold text-stone-800 mb-3 border-b-2 border-stone-300 pb-2 inline-block">💰 3泊4日の予算内訳（1人あたり）</h3>
+            <h3 className="font-bold text-stone-800 mb-3 border-b-2 border-stone-300 pb-2 inline-block">💰 3泊4日の予算内訳</h3>
             <div className="grid md:grid-cols-2 gap-4 text-sm text-stone-600">
               <ul className="space-y-2">
                 <li className="flex justify-between"><span>🏨 宿泊（博多ビジネス）:</span> <span className="font-bold text-stone-800">5,500円</span></li>
@@ -226,7 +226,7 @@ export default function KyushuTravelNightsPage() {
       )}
     
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -448,49 +448,7 @@ export default function KyushuTravelNightsPage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「九州旅行 何泊必要？（2泊3日・3泊4日の費用＆福岡→熊本→別府→鹿児島モデルルートの予算内訳）」とあわせて巡りたい大分県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「九州旅行 何泊必要？：2泊3日・3泊4日の費用＆福岡→熊本→別府→鹿児島モデルルートの予算内訳」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">別府地獄めぐり</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">源泉数・湧出量日本一を誇る別府温泉の代表的観光コース。コバルトブルーの「海地獄」や真っ赤な「血の池地獄」、噴気で蒸す地獄蒸し料理が楽しめます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Yufuin_Onsen_-Mus%C5%8Den_02.jpg/1280px-Yufuin_Onsen_-Mus%C5%8Den_02.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="由布院（金鱗湖・辻馬車）" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">由布院（金鱗湖・辻馬車）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">由布岳の麓に広がる全国屈指のおしゃれな温泉リゾート。清水と温泉が湧き出て朝霧が立ち込める「金鱗湖」や湯の坪街道のスイーツ巡りが女性に大人気です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">九重“夢”大吊橋</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">水面からの高さ173m、全長390mを誇る日本一高い歩行者専用吊り橋。橋の上からは「日本の滝百選」の震動の滝や九酔渓の壮大なパノラマを見渡せます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">宇佐神宮</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">全国に40,000社以上ある八幡社の総本宮。豊かな原生林に包まれた広大な敷地に朱塗りの本殿が建ち、伊勢神宮に並ぶ二拝四拍手一拝の参拝様式が特徴です。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       <HubRelatedPosts currentSlug="kyushu-travel-budget-how-many-nights" />
 </div>

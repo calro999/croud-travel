@@ -99,7 +99,7 @@ export default function FurusatoKoshuWineryHarvestStayPage() {
 
         {/* 3つの魅力ポイント */}
         <section className="space-y-6">
-          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-900 text-center">この特集で厳選した宿をおすすめする3つの理由｜11月3日解禁</h2>
+          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-900 text-center">この特集で厳選した宿をおすすめする3つの理由</h2>
           <div className="grid md:grid-cols-3 gap-6">
 
             <div className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200/80 shadow-xs">
@@ -152,9 +152,8 @@ export default function FurusatoKoshuWineryHarvestStayPage() {
         {/* ホテル一覧 */}
         <section className="space-y-8">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-900">【2026年最新】ふるさと納税で行く極上おすすめ宿3選｜11月3日解禁</h2>
-            <p className="text-stone-600 text-sm">【11月3日解禁】 
-              宿泊予約時にトラベルクーポンを適用することで、最大30％割引＆実質2,000円で泊まれます。
+            <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-900">【2026年最新】ふるさと納税で行く極上おすすめ宿3選</h2>
+            <p className="text-stone-600 text-sm">宿泊予約時にトラベルクーポンを適用することで、最大30％割引＆実質2,000円で泊まれます。
             </p>
           </div>
 
@@ -373,7 +372,7 @@ export default function FurusatoKoshuWineryHarvestStayPage() {
 
         {/* 関連特集クロスリンク */}
         <section className="bg-stone-50 rounded-3xl p-8 border border-stone-200/80 mb-16">
-          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">あわせて読みたい関連特集｜11月3日解禁</h2>
+          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">あわせて読みたい関連特集</h2>
           <ul className="grid sm:grid-cols-2 gap-2">
 
             <li key="furusato-tax-sake-brewery-pairing-onsen-stay">
@@ -424,9 +423,8 @@ export default function FurusatoKoshuWineryHarvestStayPage() {
 
         {/* ハブページへの誘導フッター */}
         <div className="bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 text-white rounded-3xl p-8 md:p-10 shadow-xl border border-amber-900/40 text-center mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">もっとお得に旅を楽しむためのハブページへ｜11月3日解禁</h2>
-          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">【11月3日解禁】 
-            全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
+          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">もっとお得に旅を楽しむためのハブページへ</h2>
+          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
             href="/travel-savings-guide/"

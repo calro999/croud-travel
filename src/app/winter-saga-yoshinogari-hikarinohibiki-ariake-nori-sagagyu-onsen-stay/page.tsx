@@ -319,49 +319,7 @@ export default function Page() {
           </div>
         </section>
 
-        {/* 近隣名所アーカイブ（Wikipedia連携） */}
-        <section className="max-w-4xl mx-auto px-4 mb-14">
-          <div className="bg-gradient-to-br from-stone-900 to-stone-800 rounded-2xl text-white p-6 sm:p-8 shadow-sm">
-            <div className="flex items-center gap-2 text-cyan-400 text-xs font-bold uppercase tracking-wider mb-2">
-              <MapPin className="w-4 h-4" />
-              <span>近隣名所アーカイブ＆公式百科事典連携</span>
-            </div>
-            <div className="flex flex-col gap-6">
-              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-800">
-                <img
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Yoshinogari-iseki_zenkei.JPG/1280px-Yoshinogari-iseki_zenkei.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="国指定特別史跡・吉野ヶ里歴史公園（弥生の大集落と冬の幻想祭典「光の響」）"
-                  className="w-full h-full object-cover"
-                  loading="eager" fetchPriority="high"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <div>
-                  <span className="text-[11px] text-cyan-300 font-mono">Spot Spotlight</span>
-                  <h3 className="text-lg sm:text-xl font-bold text-white">
-                    国指定特別史跡・吉野ヶ里歴史公園（弥生の大集落と冬の幻想祭典「光の響」）
-                  </h3>
-                  <p className="text-xs text-stone-300 leading-relaxed mt-2">
-                    吉野ヶ里遺跡（よしのがりいせき）は、佐賀県神埼郡吉野ヶ里町と神埼市にまたがる吉野ヶ里丘陵にある遺跡。国の特別史跡に指定されている。 およそ117ヘクタールにわたって残る弥生時代の大規模な環濠集落（環壕集落）跡で知られる。1986年（昭和61年）からの発掘調査によって発見された。現在は国営吉野ヶ里歴史公園として一部を国が管理する公園である。
-                  </p>
-                </div>
-                <div className="text-[11px] text-stone-400 pt-2 border-t border-stone-700 flex items-center justify-between">
-                  <span>出典：ウィキペディア（Wikipedia）公式情報</span>
-                  <a
-                    href="https://ja.wikipedia.org/wiki/吉野ヶ里遺跡"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-cyan-400 hover:underline flex items-center gap-1"
-                  >
-                    <span>詳細百科事典</span>
-                    <ExternalLink className="w-3 h-3" />
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
+        
         {/* 厳選名宿一覧 */}
         <section className="max-w-4xl mx-auto px-4 space-y-6 mb-14">
           <div className="border-l-4 border-cyan-800 pl-3">

@@ -226,7 +226,7 @@ export default function MicroTouristHubPage() {
       </div>
 
                     
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -417,49 +417,7 @@ export default function MicroTouristHubPage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「佐賀・唐津＆呼子（唐津城・虹の松原＆呼子活イカ姿造り・佐賀牛宿 厳選ガイド）」とあわせて巡りたい佐賀県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「佐賀・唐津＆呼子：唐津城・虹の松原＆呼子活イカ姿造り・佐賀牛宿 厳選ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">吉野ヶ里歴史公園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">弥生時代の日本最大の環濠集落遺跡。物見櫓や竪穴住居、巨大な墳丘墓が広大な敷地に復元され、縄文から弥生への古代のロマンを体感できます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">御船山楽園（武雄温泉）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">武雄領主・鍋島茂義公が造営した15万坪の庭園。切り立った御船山を背に、春のツツジや秋の紅葉ライトアップ、チームラボのアート展覧会が圧巻です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">呼子の朝市・七ツ釜</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本三大朝市の一つ「呼子の朝市」での活気溢れる鮮魚・干物買い出しと、玄界灘の荒波が造った玄武岩の奇岩洞窟「七ツ釜」の遊覧船クルーズが楽しめます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">有田ポーセリンパーク</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">有田焼の歴史と美を伝える磁器のテーマパーク。ツヴィンガー宮殿をリアルに再現した絢欄豪華な建築と有田焼の作品展示、作陶体験が体験できます。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
 
 

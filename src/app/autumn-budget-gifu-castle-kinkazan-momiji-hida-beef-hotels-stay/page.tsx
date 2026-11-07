@@ -69,40 +69,8 @@ export default function AutumnBudgetGifuHotelsPage() {
       </section>
 
       
-        {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
-        <section className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm mb-10">
-          <div className="bg-gradient-to-r from-stone-900 to-stone-800 text-white px-6 py-4 flex items-center justify-between">
-            <div className="flex items-center gap-2">
-              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
-              <h2 className="text-base md:text-lg font-bold tracking-wide">美濃・信長ゆかりの名城ガイド：金華山山頂にそびえる天下の要害・岐阜城</h2>
-            </div>
-            <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
-          </div>
-          <div className="flex flex-col gap-6 p-6">
-            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
-              <Image
-                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/%E5%B2%90%E9%98%9C%E5%9F%8E_%E5%A4%A9%E5%AE%88%E9%96%A3.jpg/1280px-%E5%B2%90%E9%98%9C%E5%9F%8E_%E5%A4%A9%E5%AE%88%E9%96%A3.jpg"
-                alt="金華山山頂にそびえる天下の要害・岐阜城"
-                fill
-                className="object-cover hover:scale-105 transition duration-500"
-                sizes="(max-width: 768px) 100vw, 400px"
-              />
-              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/70 to-transparent p-2 text-right">
-                <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
-              </div>
-            </div>
-            <div className="w-full space-y-3">
-              <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">金華山山頂にそびえる天下の要害・岐阜城の歴史と見どころ</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">岐阜城（ぎふじょう）は、美濃国井之口の稲葉山（岐阜県岐阜市の金華山）にあった日本の城（山城）。もとは稲葉山城といい、鎌倉時代以来の歴史があるが、本格的に整備されたのは戦国時代の斎藤道三の時期だと考えられている。織田信長が1567年の稲葉山城の戦いにより斎藤龍興から奪取し、本拠地を当城へと移し、その縄張りを破却して新たに造営したものが岐阜城である。『信長公記』に「尾張国小真木山より濃州稲葉山へ御越しなり。井口と申すを今度改めて、岐阜と名付けさせられ」と記載されており、ここから天下布武、天下統一をおこなうという意味をこめて、信長が山頂にある城や麓にある町などを「井口」から「岐阜」へと改名したことにより「岐阜城」と呼ばれることになった。    山上の城郭部分と山麓の居館部分を中心としつつも、それらの間を結ぶ登城路、さらに山中の要所に配された砦もあり、なにより山そのものが天然の要害として機能していた。麓に置かれた城主の館は、山の西麓にある槻谷（けやきだに）にあり、地形は斎藤氏 三代の頃に造られ、信長が大規模に改修し、大きな池の南北に建物が2つあり大きな庭園があったことが発掘調査で分かっている。ルイス・フロイスが訪れた記録もあり、関ヶ原の合戦の前哨戦のころまで使われていたという。 当城の城主は、信長の後は、織田信忠、（信長亡き後に）織田信孝、池田元助、池田輝政、豊臣秀勝、織田秀信らであるが、秀信は石田三成の挙兵に呼応し西軍につき、関ヶ原の戦いの前哨戦の岐阜城の戦い（1600年）で東軍側の池田輝政や福島正則らに攻められ落城、翌1601年（慶長6年）徳川家康によってに当城は廃城とされた。 近年の調査によりこの城の価値が見直されるようになり、2011年（平成23年）に岐阜城跡（ぎふじょうあと）つまり山頂の城の城跡および山麓の織田信長公居館跡を含めた金華山一帯の約209ヘクタール（2,091,602.74平方メートル）が国の史跡に指定された。その範囲は、現在の国有林の範囲に符合する。 現在山頂にある建造物は、1956年（昭和31年）に鉄筋コンクリートで建てた模擬天守である。山麓付近では1984年ころから発掘調査が行われるようになり、現在も発掘が進行中である。山麓の岐阜公園内にある信長公居館跡は、槻谷を流れる谷川の両側に段々地形が造られ、建物や庭園を配したものとなっている。また、岐阜市によれば山麓にあった庭園を復元する計画がある。</p>
-              <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                <span className="text-teal-700 font-semibold">現地観光・散策推奨スポット</span>
-              </div>
-            </div>
-          </div>
-        </section>
-
-      {/* 宿一覧 */}
+        
+        {/* 宿一覧 */}
       <section className="max-w-4xl mx-auto px-4 space-y-8">
         {/* 宿1 */}
         <div className="bg-white rounded-2xl border border-slate-200 overflow-hidden shadow-sm hover:shadow-md transition">
@@ -323,7 +291,7 @@ export default function AutumnBudgetGifuHotelsPage() {
         </div>
       </section>
     
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -514,49 +482,7 @@ export default function AutumnBudgetGifuHotelsPage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「岐阜（金華山・岐阜城のパノラマ紅葉と飛騨牛グルメ）」とあわせて巡りたい岐阜県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「岐阜：金華山・岐阜城のパノラマ紅葉と飛騨牛グルメ！2,000円台〜格安ホテル5選」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">白川郷 合掌造り集落</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">豪雪地帯ならではの急勾配の茅葺き屋根が立ち並ぶ世界文化遺産の村。春の新緑、秋の紅葉、冬の幻想的な雪景色ライトアップと日本の原風景が広がります。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">飛騨高山（古い町並み）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">江戸時代の出格子と用水路が流れる景観が保存された「飛騨の小京都」。名物の飛騨牛串焼きや地酒の酒蔵巡り、朝市散策が全国の旅人に大人気です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">岐阜城・長良川鵜飼</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">金華山頂に聳え立つ織田信長公ゆかりの岐阜城と、1300年以上の歴史を誇る長良川の伝統鵜飼。篝火の明かりが川面を照らす幽玄の世界は必見です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/260125_Gero_Onsen_Gero_Gifu_pref_Japan01s3.jpg/1280px-260125_Gero_Onsen_Gero_Gifu_pref_Japan01s3.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="下呂温泉" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">下呂温泉</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">草津・有馬と並ぶ日本三名泉の一つ。滑らかな肌触りの「美人の湯」で知られ、飛騨川のせせらぎを聞きながら足湯巡りや温泉街のグルメを堪能できます。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-budget-gifu-castle-kinkazan-momiji-hida-beef-hotels-stay" />
         </div>

@@ -160,7 +160,7 @@ export default function Page() {
             </div>
           </section>
 
-          {/* 周辺観光スポット情報（Wikipedia連携実写） */}
+          
           <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-6">
             <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3">
               周辺観光スポット：世界屈指の高濃度ラドンを含む奇跡の治癒泉・三朝温泉（三朝川沿いの湯治場と三徳山三仏寺）

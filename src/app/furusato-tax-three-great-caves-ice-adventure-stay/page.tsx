@@ -8,13 +8,13 @@ import Image from 'next/image';
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
 
 export const metadata: Metadata = {
-  title: "日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
+  title: "日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
   description: "真夏でも氷の世界と数億年の石灰岩アート！山梨「富岳風穴・鳴沢氷穴」青木ヶ原樹海の天然クーラーとロイヤルホテル河口湖、沖縄「玉泉洞」東洋一の美しさを誇る三十万本の鍾乳石とおきなわ天然温泉ユインチホテル南城、鹿児島「昇竜洞」沖永良部島ケイビングの聖地とおきえらぶフローラルホテル。日本三大洞窟探検の感動を...",
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-caves-ice-adventure-stay/",
   },
   openGraph: {
-    title: "日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
+    title: "日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
     description: "真夏でも氷の世界と数億年の石灰岩アート！山梨「富岳風穴・鳴沢氷穴」青木ヶ原樹海の天然クーラーとロイヤルホテル河口湖、沖縄「玉泉洞」東洋一の美しさを誇る三十万本の鍾乳石とおきなわ天然温泉ユインチホテル南城、鹿児島「昇竜洞」沖永良部島ケイビングの聖地とおきえらぶフローラルホテル。日本三大洞窟探検の感動を...",
     url: "https://croud-travel.pages.dev/furusato-tax-three-great-caves-ice-adventure-stay/",
   },
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
+    "headline": "日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
     "description": "真夏でも氷の世界と数億年の石灰岩アート！山梨「富岳風穴・鳴沢氷穴」青木ヶ原樹海の天然クーラーとロイヤルホテル河口湖、沖縄「玉泉洞」東洋一の美しさを誇る三十万本の鍾乳石とおきなわ天然温泉ユインチホテル南城、鹿児島「昇竜洞」沖永良部島ケイビングの聖地とおきえらぶフローラルホテル。日本三大洞窟探検の感動を...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-caves-ice-adventure-stay/",
     "publisher": {
@@ -56,7 +56,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大氷穴・洞窟アドベンチャー特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             真夏でも氷の世界と数億年の石灰岩アート！山梨「富岳風穴・鳴沢氷穴」青木ヶ原樹海の天然クーラーとロイヤルホテル河口湖、沖縄「玉泉洞」東洋一の美しさを誇る三十万本の鍾乳石とおきなわ天然温泉ユインチホテル南城、鹿児島「昇竜洞」沖永良部島ケイビングの聖地とおきえらぶフローラルホテル。日本三大洞窟探検の感動を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>
@@ -93,8 +93,8 @@ export default function Page() {
         {/* 3 Key Merits */}
         <section className="space-y-6">
           <div className="text-center">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">ふるさと納税トラベルで巡る3つの至高メリット｜日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h2>
-            <p className="text-sm sm:text-base text-slate-400 mt-2">【日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド】 控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの名旅館＆特産グルメをアップグレード</p>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">ふるさと納税トラベルで巡る3つの至高メリット</h2>
+            <p className="text-sm sm:text-base text-slate-400 mt-2">控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの名旅館＆特産グルメをアップグレード</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
@@ -125,8 +125,8 @@ export default function Page() {
         {/* Featured Hotels & Regions */}
         <section className="space-y-12">
           <div className="border-b border-slate-800 pb-4">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">厳選名所＆楽天トラベル提携おすすめ名宿｜日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h2>
-            <p className="text-slate-400 text-sm sm:text-base mt-1">【日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド】 楽天ふるさと納税宿泊クーポンが利用可能な極上宿</p>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">厳選名所＆楽天トラベル提携おすすめ名宿</h2>
+            <p className="text-slate-400 text-sm sm:text-base mt-1">楽天ふるさと納税宿泊クーポンが利用可能な極上宿</p>
           </div>
 
           <div className="space-y-12">
@@ -349,9 +349,8 @@ export default function Page() {
 
         {/* Official Banner CTA */}
         <section className="bg-gradient-to-r from-rose-950/60 via-red-900/40 to-amber-950/60 border border-rose-500/30 rounded-3xl p-8 text-center relative overflow-hidden shadow-2xl">
-          <h2 className="text-2xl sm:text-3xl font-black text-white mb-4">楽天ふるさと納税トラベルで、今すぐ賢く旅に出よう｜日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h2>
-          <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base mb-8 leading-relaxed">【日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド】 
-            寄付翌日から最大3年間使える宿泊クーポンで、行きたかった憧れの名宿を今すぐお得にリザーブ。実質2,000円負担で極上の日本再発見の旅へ。
+          <h2 className="text-2xl sm:text-3xl font-black text-white mb-4">楽天ふるさと納税トラベルで、今すぐ賢く旅に出よう</h2>
+          <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base mb-8 leading-relaxed">寄付翌日から最大3年間使える宿泊クーポンで、行きたかった憧れの名宿を今すぐお得にリザーブ。実質2,000円負担で極上の日本再発見の旅へ。
           </p>
           <a
             href={officialFurusatoAffUrl}
@@ -365,7 +364,7 @@ export default function Page() {
 
         {/* Cross Link Section */}
         <section className="border-t border-slate-800/80 pt-12 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい関連特集ガイド｜日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい関連特集ガイド</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
             <Link
@@ -553,17 +552,17 @@ export default function Page() {
         </section>
 
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+              📊 日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
             </h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              楽天トラベル公式APIより取得した「日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -614,7 +613,7 @@ export default function Page() {
 
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細
+              🏨 日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細
             </h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
@@ -628,9 +627,9 @@ export default function Page() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-start">
                 <div className="aspect-video rounded-xl overflow-hidden bg-stone-200 border border-stone-300"><img src="https://img.travel.rakuten.co.jp/share/HOTEL/6116/6116.jpg" alt="露天風呂の宿　開運の湯　ロイヤルホテル河口湖 客室・施設イメージ" className="w-full h-full object-cover" loading="eager" fetchPriority="high" /></div>
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
-                  <p><strong>【宿の特徴・魅力】</strong>「日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
+                  <p><strong>【宿の特徴・魅力】</strong>「日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：中央道河口湖ＩＣ－Ｒ１３９を河口湖方面へ約１０分</p>
-                  <p>【日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景のロケーションとおもてなしに心から癒やされました。」
@@ -682,49 +681,7 @@ export default function Page() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」とあわせて巡りたい青森県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">弘前公園（弘前城）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本屈指の桜の名所として知られる城郭公園。春には約2,600本の桜が咲き誇り、お堀を埋め尽くす「花いかだ」の幻想的な景色は世界中から絶賛されています。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Oirase-keiryu.jpg/1280px-Oirase-keiryu.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="奥入瀬渓流" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">奥入瀬渓流</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">十和田湖から流れる約14kmの美しい清流。豊かな樹木と苔むした岩々、無数の滝が織りなすせせらぎに沿って遊歩道が整備されており、極上のネイチャーウォークを楽しめます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">ねぶたの家 ワ・ラッセ</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">青森夏の風物詩「青森ねぶた祭」の歴史と魅力を一年中体感できる大型展示施設。実際に祭りで運行された大型ねぶたの迫力を間近で鑑賞できます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">仏ヶ浦（ほとけがうら）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">下北半島にある、白緑色の奇岩群が約2kmにわたって続く国の名勝。巨大な如来や観音に見立てられた壮大な自然の彫刻と、澄み渡る陸奥湾の青さが圧巻です。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       </main>
     

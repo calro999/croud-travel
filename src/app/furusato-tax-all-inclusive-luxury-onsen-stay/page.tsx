@@ -100,7 +100,7 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
           <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-6 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
-            この旅で体感したい3つの醍醐味｜オールインクルーシブで財布を気にせず寛ぐ極上温泉宿×</h2>
+            この旅で体感したい3つの醍醐味</h2>
           <div className="grid gap-6">
 
             <div className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200/80 shadow-xs">
@@ -154,9 +154,8 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
         <section className="mb-16">
           <div className="mb-8">
             <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-3 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
-              ふるさと納税で泊まる厳選名宿｜オールインクルーシブで財布を気にせず寛ぐ極上温泉宿×</h2>
-            <p className="text-stone-600 text-sm leading-relaxed">【オールインクルーシブで財布を気にせず寛ぐ極上温泉宿×】 
-              楽天トラベルAPIから最新の実在宿データを取得。対象自治体のふるさと納税クーポンを利用して控除上限内で実質2,000円自己負担（最大30%クーポン還元）で泊まれる名宿です。
+              ふるさと納税で泊まる厳選名宿</h2>
+            <p className="text-stone-600 text-sm leading-relaxed">楽天トラベルAPIから最新の実在宿データを取得。対象自治体のふるさと納税クーポンを利用して控除上限内で実質2,000円自己負担（最大30%クーポン還元）で泊まれる名宿です。
             </p>
           </div>
 
@@ -251,8 +250,7 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     箱根登山鉄道・宮ノ下駅から徒歩すぐの好立地に佇み、全室に自家源泉の客室露天風呂を備えた大人の隠れ宿。宿泊者専用ラウンジでは、厳選されたワインや日本酒、クラフトビール、こだわりのソフトドリンクとフィンガーフードが常時フリーフロー。お部屋の温泉露天風呂で宮ノ下の豊かな自然を眺めながらプライベートに癒やされた後は、ラウンジで静かにグラスを傾ける優雅な時間が流れます。細部までこだわり抜かれた上質なホスピタリティが記念日やご褒美旅行に最適です。
                   </p>
-                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">【オールインクルーシブで財布を気にせず寛ぐ極上温泉宿×】 
-                    訪れるすべてのお客様に心安らぐ贅沢な寛ぎの時間を提供し、高い評価を獲得している極上宿です。
+                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">訪れるすべてのお客様に心安らぐ贅沢な寛ぎの時間を提供し、高い評価を獲得している極上宿です。
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -351,7 +349,7 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
 
         {/* 関連特集クロスリンク */}
         <section className="bg-stone-50 rounded-3xl p-8 border border-stone-200/80 mb-16">
-          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">あわせて読みたい関連特集｜オールインクルーシブで財布を気にせず寛ぐ極上温泉宿×</h2>
+          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">あわせて読みたい関連特集</h2>
           <ul className="grid sm:grid-cols-2 gap-2">
 
               <li key="furusato-tax-luxury-hotspring-ryokan-stay">
@@ -390,9 +388,8 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
 
         {/* ハブページへの誘導フッター */}
         <div className="bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 text-white rounded-3xl p-8 md:p-10 shadow-xl border border-amber-900/40 text-center mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">もっとお得に旅を楽しむためのハブページへ｜オールインクルーシブで財布を気にせず寛ぐ極上温泉宿×</h2>
-          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">【オールインクルーシブで財布を気にせず寛ぐ極上温泉宿×】 
-            全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
+          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">もっとお得に旅を楽しむためのハブページへ</h2>
+          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
             href="/travel-savings-guide/"

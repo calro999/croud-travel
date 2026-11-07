@@ -8,13 +8,13 @@ import Image from 'next/image';
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
 
 export const metadata: Metadata = {
-  title: "日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
+  title: "日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
   description: "芳醇な香りと杜氏の魂に酔いしれる酒蔵の街！兵庫「灘五郷」宮水仕込みの男酒と神戸ヴィラフォンテーヌ三宮、京都「伏見」伏水が生むまろやかな女酒とアーバンホテル京都、広島「西条」赤瓦の酒蔵通りと吟醸酒ホテルルートイン東広島西条駅前。日本三大銘醸地（三大酒どころ）の利き酒体験と美酒美食ディナーを楽天ふるさと...",
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-sake-capitals-brewery-stay/",
   },
   openGraph: {
-    title: "日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
+    title: "日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
     description: "芳醇な香りと杜氏の魂に酔いしれる酒蔵の街！兵庫「灘五郷」宮水仕込みの男酒と神戸ヴィラフォンテーヌ三宮、京都「伏見」伏水が生むまろやかな女酒とアーバンホテル京都、広島「西条」赤瓦の酒蔵通りと吟醸酒ホテルルートイン東広島西条駅前。日本三大銘醸地（三大酒どころ）の利き酒体験と美酒美食ディナーを楽天ふるさと...",
     url: "https://croud-travel.pages.dev/furusato-tax-three-great-sake-capitals-brewery-stay/",
   },
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
+    "headline": "日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
     "description": "芳醇な香りと杜氏の魂に酔いしれる酒蔵の街！兵庫「灘五郷」宮水仕込みの男酒と神戸ヴィラフォンテーヌ三宮、京都「伏見」伏水が生むまろやかな女酒とアーバンホテル京都、広島「西条」赤瓦の酒蔵通りと吟醸酒ホテルルートイン東広島西条駅前。日本三大銘醸地（三大酒どころ）の利き酒体験と美酒美食ディナーを楽天ふるさと...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-sake-capitals-brewery-stay/",
     "publisher": {
@@ -56,7 +56,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大酒どころ・美酒美食特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             芳醇な香りと杜氏の魂に酔いしれる酒蔵の街！兵庫「灘五郷」宮水仕込みの男酒と神戸ヴィラフォンテーヌ三宮、京都「伏見」伏水が生むまろやかな女酒とアーバンホテル京都、広島「西条」赤瓦の酒蔵通りと吟醸酒ホテルルートイン東広島西条駅前。日本三大銘醸地（三大酒どころ）の利き酒体験と美酒美食ディナーを楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>
@@ -93,8 +93,8 @@ export default function Page() {
         {/* 3 Key Merits */}
         <section className="space-y-6">
           <div className="text-center">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">ふるさと納税トラベルで巡る3つの至高メリット｜日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイ</h2>
-            <p className="text-sm sm:text-base text-slate-400 mt-2">【日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイ】 控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの名旅館＆特産グルメをアップグレード</p>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">ふるさと納税トラベルで巡る3つの至高メリット</h2>
+            <p className="text-sm sm:text-base text-slate-400 mt-2">控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの名旅館＆特産グルメをアップグレード</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
@@ -125,8 +125,8 @@ export default function Page() {
         {/* Featured Hotels & Regions */}
         <section className="space-y-12">
           <div className="border-b border-slate-800 pb-4">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">厳選名所＆楽天トラベル提携おすすめ名宿｜日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイ</h2>
-            <p className="text-slate-400 text-sm sm:text-base mt-1">【日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイ】 楽天ふるさと納税宿泊クーポンが利用可能な極上宿</p>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">厳選名所＆楽天トラベル提携おすすめ名宿</h2>
+            <p className="text-slate-400 text-sm sm:text-base mt-1">楽天ふるさと納税宿泊クーポンが利用可能な極上宿</p>
           </div>
 
           <div className="space-y-12">
@@ -349,9 +349,8 @@ export default function Page() {
 
         {/* Official Banner CTA */}
         <section className="bg-gradient-to-r from-rose-950/60 via-red-900/40 to-amber-950/60 border border-rose-500/30 rounded-3xl p-8 text-center relative overflow-hidden shadow-2xl">
-          <h2 className="text-2xl sm:text-3xl font-black text-white mb-4">楽天ふるさと納税トラベルで、今すぐ賢く旅に出よう｜日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイ</h2>
-          <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base mb-8 leading-relaxed">【日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイ】 
-            寄付翌日から最大3年間使える宿泊クーポンで、行きたかった憧れの名宿を今すぐお得にリザーブ。実質2,000円負担で極上の日本再発見の旅へ。
+          <h2 className="text-2xl sm:text-3xl font-black text-white mb-4">楽天ふるさと納税トラベルで、今すぐ賢く旅に出よう</h2>
+          <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base mb-8 leading-relaxed">寄付翌日から最大3年間使える宿泊クーポンで、行きたかった憧れの名宿を今すぐお得にリザーブ。実質2,000円負担で極上の日本再発見の旅へ。
           </p>
           <a
             href={officialFurusatoAffUrl}
@@ -365,7 +364,7 @@ export default function Page() {
 
         {/* Cross Link Section */}
         <section className="border-t border-slate-800/80 pt-12 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい関連特集ガイド｜日本三大酒どころ＆酒蔵ツーリズム宿×ふるさと納税ガイ</h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい関連特集ガイド</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
             <Link

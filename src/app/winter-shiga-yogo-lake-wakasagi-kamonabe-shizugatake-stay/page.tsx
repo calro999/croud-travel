@@ -106,14 +106,6 @@ export default function FeaturePage() {
     }
   ]
 };
-  const touristAttractionSchema = {
-  "@context": "https://schema.org",
-  "@type": "TouristAttraction",
-  "name": "羽衣伝説の鏡湖・余呉湖（冬のワカサギ釣りと賤ヶ岳雪景色）",
-  "description": "余呉湖（よごこ、よごのうみ）は、滋賀県長浜市にある湖。「大江」（琵琶湖）に対して「伊香小江（いかごのおえ）」と称されたほか、湖面が穏やかなことから「鏡湖」とも呼ばれる。",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Lake_Yogo01s3200.jpg/1280px-Lake_Yogo01s3200.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-};
-
   return (
     <>
       <script
@@ -123,10 +115,6 @@ export default function FeaturePage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(touristAttractionSchema) }}
       />
 
       <main className="min-h-screen bg-stone-50 pb-20">
@@ -213,102 +201,13 @@ export default function FeaturePage() {
         </section>
 
         {/* 現地アクセス・服装ガイド */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <div className="flex items-center justify-between border-b border-stone-100 pb-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <Calendar className="w-4 h-4 text-cyan-700" />
-                アクセス・気候・おすすめの服装
-              </h3>
-            </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
-              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
-                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                  <span>エリアへのアクセス</span>
-                </h4>
-                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">電車：</strong>JR北陸本線「余呉駅」下車すぐ（JR京都駅から新快速で約1時間20分、JR名古屋駅から米原駅経由で約1時間15分）。須賀谷温泉へはJR北陸本線「河毛駅」より車・タクシーで約10分（宿の無料送迎バスあり）。</span>
-                  </li>
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">車：</strong>北陸自動車道「木之本IC」より余呉湖まで国道365号経由で約5〜10分。「小谷城スマートIC」より須賀谷温泉まで約5分。名神高速道路・米原JCT経由で京都・名古屋方面から約1時間15分〜1時間30分。</span>
-                  </li>
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">賤ヶ岳リフト：</strong>木之本ICから車で約8分（冬期は降雪状況により運行確認が必要、山麓から徒歩登山も可能）。</span>
-                  </li>
-                </ul>
-              </div>
-              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
-                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                  <span>見頃・気候・おすすめの服装</span>
-                </h4>
-                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">ベストシーズン：</strong>11月下旬〜1月下旬（ワカサギ釣りの解禁、天然真鴨鍋の旬、湖北の美しい雪景色の最盛期）。</span>
-                  </li>
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">気温の目安：</strong>日本海側気候の影響を受ける湖北地方は冬の冷え込みが厳しく、12月〜1月は最低気温が氷点下になる日が多く、積雪や地吹雪が発生します。</span>
-                  </li>
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">服装のポイント：</strong>防寒・防風性能の高いロングダウンコートやスノーウェア、耳あて、マフラー、手袋が必須。湖畔や雪道を歩くため、防水・防滑仕様のスノーブーツやトレッキングシューズを必ず準備してください。マイカーで訪れる際はスタッドレスタイヤの装着が絶対に不可欠です。</span>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* Wikipedia公式連携スポットセクション */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <div className="flex items-center justify-between">
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                近隣名所アーカイブ：羽衣伝説の鏡湖・余呉湖（冬のワカサギ釣りと賤ヶ岳雪景色）
-              </h2>
-              <span className="text-[11px] text-stone-400">Wikipedia公式情報連携</span>
-            </div>
-
-            <div className="flex flex-col gap-5">
-              <div className="w-full overflow-hidden rounded-xl border border-stone-200 bg-stone-100 aspect-[16/9] sm:aspect-[21/9]">
-                <img
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Lake_Yogo01s3200.jpg/1280px-Lake_Yogo01s3200.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="羽衣伝説の鏡湖・余呉湖（冬のワカサギ釣りと賤ヶ岳雪景色）"
-                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="eager" fetchPriority="high"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                  羽衣伝説の鏡湖・余呉湖（冬のワカサギ釣りと賤ヶ岳雪景色） の見どころと歴史
-                </h3>
-                <p className="text-sm sm:text-base text-stone-600 leading-relaxed">
-                  余呉湖（よごこ、よごのうみ）は、滋賀県長浜市にある湖。「大江」（琵琶湖）に対して「伊香小江（いかごのおえ）」と称されたほか、湖面が穏やかなことから「鏡湖」とも呼ばれる。
-                </p>
-                <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                  <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                  <span className="text-cyan-700 font-semibold">冬の探訪推奨スポット</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
             <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
               余呉湖・長浜湖北・賤ヶ岳 厳選の温泉＆名宿5選
             </h2>
-            <p className="text-xs sm:text-sm text-stone-500">【神秘の余呉湖ワカサギと本場天然真鴨鍋：2026-20】 
-              楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
+            <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
 
@@ -625,8 +524,7 @@ export default function FeaturePage() {
                 <h3 className="text-xl sm:text-2xl font-bold">
                   滋賀県の宿に実質2,000円で泊まる賢い方法
                 </h3>
-                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">【神秘の余呉湖ワカサギと本場天然真鴨鍋：2026-20】 
-                  楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
+                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
               <a

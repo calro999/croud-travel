@@ -124,7 +124,7 @@ export default function UltraLuxuryWinterFeaturePage() {
         {/* 導入解説 */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600 shrink-0" />
-            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>｜2026-2027年11-12月初冬の静岡・熱海伊豆</h2>
+            <span>初冬にこの地を訪れるべき理由と風土の魅力</span></h2>
           <p className="text-xs md:text-sm text-slate-700 leading-relaxed whitespace-pre-line">
             東京駅から東海道新幹線でわずか45分。相模湾を見下ろす断崖絶壁に豊かな源泉が湧き出す熱海の奥座敷『伊豆山（いずさん）』。古くは鎌倉幕府を開いた源頼朝が配流の身であった頃に身を寄せ、北条政子と劇的な愛を育んだ『伊豆山神社』が鎮座する由緒あるパワースポットです。熱海駅周辺の賑やかな温泉街から少し離れた伊豆山・南熱海エリアは、水平線まで見渡す相模湾のパノラマと、日本三大古泉『走り湯』に象徴される豊富な湯量を誇り、大人のためのハイエンド宿や全室オーシャンビューのプライベートヴィラが集中する熱海最高峰のエリア。11月から12月の初冬は、空気が澄み渡ることで海の青さが一段と深まり、夜には『熱海海上花火大会』が冬の夜空と波間を色鮮やかに染め上げます。客室のテラスや露天風呂から、誰にも邪魔されずに花火の轟音と火の粉を眺める時間はまさに特権的な贅沢。夕食には、冬に甘みと旨味が最高潮に達する相模湾・駿河湾の天然活伊勢海老やアワビ、そして柔らかなサシがとろける静岡県産銘柄牛『静岡そだち』の鉄板焼き。海と空の境界線が溶け合うインフィニティ露天風呂に浸かり、心地よい潮風を感じながら過ごす初冬の熱海は、記念日やエグゼクティブのリフレッシュに選ばれ続ける本物のラグジュアリーです。
           </p>
@@ -171,41 +171,7 @@ export default function UltraLuxuryWinterFeaturePage() {
           </div>
         </section>
 
-        {/* Wikipedia連携 観光地紹介 */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
-          <div className="flex items-center justify-between border-b border-slate-100 pb-3">
-            <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2">
-              <MapPin className="w-5 h-5 text-rose-600 shrink-0" />
-              <span>近隣の必見名所：伊豆山神社</span>
-            </h2>
-            <span className="text-[11px] text-slate-400">Wikipedia・公式解説連携</span>
-          </div>
-
-          <div className="grid md:grid-cols-12 gap-6 items-center">
-            <div className="md:col-span-5 relative h-52 md:h-60 rounded-xl overflow-hidden bg-slate-100 border border-slate-200">
-              <Image
-                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/231007_Izusan-jinja_Atami_Japan01s3.jpg/1280px-231007_Izusan-jinja_Atami_Japan01s3.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                alt="源頼朝と北条政子ゆかりの古社・伊豆山神社（相模湾を見下ろす高台のパワースポットと熱海絶景）"
-                fill
-                className="object-cover"
-                sizes="(max-width: 768px) 100vw, 360px"
-              />
-            </div>
-            <div className="md:col-span-7 space-y-2.5">
-              <h3 className="text-base font-bold text-slate-900 leading-snug">
-                源頼朝と北条政子ゆかりの古社・伊豆山神社（相模湾を見下ろす高台のパワースポットと熱海絶景）
-              </h3>
-              <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
-                伊豆山神社（いずさんじんじゃ又はいずやまじんじゃ）は、静岡県熱海市伊豆山にある神社。全国各地に点在する伊豆山神社や伊豆神社、走湯神社（そうとうじんじゃ、はしりゆじんじゃ）などの起源となった事実上の総本社格である。伊豆国に配流の身となっていた源頼朝が、源氏の再興を祈願したと伝わり、頼朝からの崇敬が厚く、また頼朝と妻・北条政子の逢瀬の場であったとも伝わる。...
-              </p>
-              <div className="bg-amber-50 rounded-lg p-3 border border-amber-200/60 text-[11px] md:text-xs text-amber-900 leading-relaxed">
-                <span className="font-bold block mb-0.5">💡 周辺観光のポイント</span>
-                各高級旅館からスムーズにアクセス可能。初冬の澄んだ大気のもとで、静寂と壮大な自然美を心ゆくまで堪能できます。
-              </div>
-            </div>
-          </div>
-        </section>
-
+        
         {/* 楽天API厳選宿 5選 */}
         <section className="space-y-6">
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
@@ -559,7 +525,7 @@ export default function UltraLuxuryWinterFeaturePage() {
         {/* アクセス＆見頃情報 */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 md:p-8 space-y-4">
           <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300"><Train className="w-5 h-5 shrink-0" />
-            <span>アクセスガイド・気候と服装のポイント</span>｜2026-2027年11-12月初冬の静岡・熱海伊豆</h2>
+            <span>アクセスガイド・気候と服装のポイント</span></h2>
           <div className="text-xs md:text-sm text-slate-300 leading-relaxed whitespace-pre-line">
             【エリアへのアクセス】
 ・新幹線・電車：東海道新幹線「熱海駅」下車。東京駅より「ひかり」で約35分、「こだま」で約45分。名古屋駅からは約1時間20分。熱海駅からは各ホテルの専用送迎車（要予約）またはタクシーで約5〜10分。
@@ -576,7 +542,7 @@ export default function UltraLuxuryWinterFeaturePage() {
         {/* よくある質問 (FAQ) */}
         <section className="bg-slate-100 rounded-2xl p-6 md:p-8 space-y-4">
           <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
-            <span>よくある質問（FAQ）</span>｜2026-2027年11-12月初冬の静岡・熱海伊豆</h2>
+            <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
             <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
@@ -610,7 +576,7 @@ export default function UltraLuxuryWinterFeaturePage() {
 
         {/* ふるさと納税・関連リンク */}
         <section className="bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 rounded-2xl p-6 md:p-8 space-y-3 text-center">
-          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！｜2026-2027年11-12月初冬の静岡・熱海伊豆</h2>
+          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！</h2>
           <p className="text-xs md:text-sm max-w-xl mx-auto font-medium">
             高価格帯の高級宿だからこそ、楽天トラベルふるさと納税クーポンの割引効果は絶大。控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）憧れのスイートルームに宿泊できます。
           </p>

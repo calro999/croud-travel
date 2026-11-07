@@ -69,40 +69,8 @@ export default function AutumnBudgetFeaturePage() {
       </section>
 
       
-        {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
-        <section className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm mb-10">
-          <div className="bg-gradient-to-r from-stone-900 to-stone-800 text-white px-6 py-4 flex items-center justify-between">
-            <div className="flex items-center gap-2">
-              <span className="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
-              <h2 className="text-base md:text-lg font-bold tracking-wide">沖縄・那覇街歩きガイド：那覇のメインストリート・国際通りと屋台村</h2>
-            </div>
-            <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所ガイド</span>
-          </div>
-          <div className="flex flex-col gap-6 p-6">
-            <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
-              <Image
-                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Kokusai-dori08s3s4440.jpg/1280px-Kokusai-dori08s3s4440.jpg"
-                alt="那覇のメインストリート・国際通りと屋台村"
-                fill
-                className="object-cover hover:scale-105 transition duration-500"
-                sizes="(max-width: 768px) 100vw, 400px"
-              />
-              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/70 to-transparent p-2 text-right">
-                <span className="text-[10px] text-white/90">写真：Wikimedia Commons</span>
-              </div>
-            </div>
-            <div className="w-full space-y-3">
-              <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">那覇のメインストリート・国際通りと屋台村の歴史と見どころ</h3>
-              <p className="text-xs md:text-sm text-stone-600 leading-relaxed">国際通り（こくさいどおり/こくさいとおり）は、沖縄県那覇市の県庁北口交差点（パレットくもじ前交差点）から安里三叉路までの約1.6 kmの通り。沖縄県で最も賑やかな通りであり那覇最大の繁華街である。 「国際通り」の読み方は、沖縄県内や国の機関を含め一般的には「こくさいどおり」と呼ばれているが、通りの入り口には「こくさいとおり」と彫られたシーサーの石碑がある。</p>
-              <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                <span className="text-teal-700 font-semibold">現地観光・散策推奨スポット</span>
-              </div>
-            </div>
-          </div>
-        </section>
-
-      {/* 宿一覧 */}
+        
+        {/* 宿一覧 */}
       <section className="max-w-4xl mx-auto px-4 space-y-8">
 
         {/* 宿1 */}
@@ -417,7 +385,7 @@ export default function AutumnBudgetFeaturePage() {
         </div>
       </section>
     
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -608,49 +576,7 @@ export default function AutumnBudgetFeaturePage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「那覇国際通り（秋の心地よい夜風＆屋台村オリオンビール）」とあわせて巡りたい沖縄県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「那覇国際通り：秋の心地よい夜風＆屋台村オリオンビール！2,000円台〜泊まれる格安ホテル5選」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">沖縄美ら海水族館</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">本部半島の国営沖縄記念公園内にある世界最大級の水族館。巨大アクリルパネル越しに大水槽「黒潮の海」を泳ぐジンベエザメやナンヨウマンタのダイナミックな姿は必見です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">首里城公園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">かつて琉球王国の政治・外交・文化の中心であった世界遺産。朱塗りの守礼門や守礼の邦の精神、琉球独自のアジアと日本の融合した建築美を感じられます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">古宇利島（古宇利大橋）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">エメラルドグリーンの透き通る海の上に架かる全長1,960mの直線の橋。「恋の島」とも呼ばれ、古宇利オーシャンタワーやハートロックが人気を呼んでいます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">万座毛（まんざも）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「万人が座するに足る毛（草原）」が由来の景勝地。隆起サンゴ礁が侵食された象の鼻のような形状の断崖絶壁と、そこに打ち寄せる東シナ海の青い波が壮観です。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <HubRelatedPosts currentSlug="autumn-budget-okinawa-naha-kokusaidori-yatai-orion-hotels-stay" />
         </div>

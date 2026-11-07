@@ -8,13 +8,13 @@ import Image from 'next/image';
 const officialFurusatoAffUrl = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
 
 export const metadata: Metadata = {
-  title: "日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
+  title: "日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
   description: "水しぶきを浴びて進む大迫力の舟旅！山形「最上川」芭蕉の舟唄と高見屋最上川別邸紅、山梨「富士川」武田信玄の隠し湯下部ホテル、熊本「球磨川」九州一の激流下りと人吉城下町の有形文化財芳野旅館。日本三大急流の豪快な舟下りと清流リバーサイド温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。...",
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-three-great-rapids-river-boat-stay/",
   },
   openGraph: {
-    title: "日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
+    title: "日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
     description: "水しぶきを浴びて進む大迫力の舟旅！山形「最上川」芭蕉の舟唄と高見屋最上川別邸紅、山梨「富士川」武田信玄の隠し湯下部ホテル、熊本「球磨川」九州一の激流下りと人吉城下町の有形文化財芳野旅館。日本三大急流の豪快な舟下りと清流リバーサイド温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。...",
     url: "https://croud-travel.pages.dev/furusato-tax-three-great-rapids-river-boat-stay/",
   },
@@ -25,7 +25,7 @@ export default function Page() {
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド",
+    "headline": "日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド",
     "description": "水しぶきを浴びて進む大迫力の舟旅！山形「最上川」芭蕉の舟唄と高見屋最上川別邸紅、山梨「富士川」武田信玄の隠し湯下部ホテル、熊本「球磨川」九州一の激流下りと人吉城下町の有形文化財芳野旅館。日本三大急流の豪快な舟下りと清流リバーサイド温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。...",
     "url": "https://croud-travel.pages.dev/furusato-tax-three-great-rapids-river-boat-stay/",
     "publisher": {
@@ -56,7 +56,7 @@ export default function Page() {
             <span className="inline-block w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             日本三大急流・大自然と舟旅特集
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド</h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-6 leading-tight">日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド</h1>
           <p className="text-base sm:text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed font-normal">
             水しぶきを浴びて進む大迫力の舟旅！山形「最上川」芭蕉の舟唄と高見屋最上川別邸紅、山梨「富士川」武田信玄の隠し湯下部ホテル、熊本「球磨川」九州一の激流下りと人吉城下町の有形文化財芳野旅館。日本三大急流の豪快な舟下りと清流リバーサイド温泉を楽天ふるさと納税宿泊クーポンでお得に楽しむ完全ガイド。
           </p>
@@ -93,8 +93,8 @@ export default function Page() {
         {/* 3 Key Merits */}
         <section className="space-y-6">
           <div className="text-center">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">ふるさと納税トラベルで巡る3つの至高メリット｜日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガ</h2>
-            <p className="text-sm sm:text-base text-slate-400 mt-2">【日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガ】 控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの名旅館＆特産グルメをアップグレード</p>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">ふるさと納税トラベルで巡る3つの至高メリット</h2>
+            <p className="text-sm sm:text-base text-slate-400 mt-2">控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの名旅館＆特産グルメをアップグレード</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
@@ -125,8 +125,8 @@ export default function Page() {
         {/* Featured Hotels & Regions */}
         <section className="space-y-12">
           <div className="border-b border-slate-800 pb-4">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">厳選名所＆楽天トラベル提携おすすめ名宿｜日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガ</h2>
-            <p className="text-slate-400 text-sm sm:text-base mt-1">【日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガ】 楽天ふるさと納税宿泊クーポンが利用可能な極上宿</p>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-white">厳選名所＆楽天トラベル提携おすすめ名宿</h2>
+            <p className="text-slate-400 text-sm sm:text-base mt-1">楽天ふるさと納税宿泊クーポンが利用可能な極上宿</p>
           </div>
 
           <div className="space-y-12">
@@ -349,9 +349,8 @@ export default function Page() {
 
         {/* Official Banner CTA */}
         <section className="bg-gradient-to-r from-rose-950/60 via-red-900/40 to-amber-950/60 border border-rose-500/30 rounded-3xl p-8 text-center relative overflow-hidden shadow-2xl">
-          <h2 className="text-2xl sm:text-3xl font-black text-white mb-4">楽天ふるさと納税トラベルで、今すぐ賢く旅に出よう｜日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガ</h2>
-          <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base mb-8 leading-relaxed">【日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガ】 
-            寄付翌日から最大3年間使える宿泊クーポンで、行きたかった憧れの名宿を今すぐお得にリザーブ。実質2,000円負担で極上の日本再発見の旅へ。
+          <h2 className="text-2xl sm:text-3xl font-black text-white mb-4">楽天ふるさと納税トラベルで、今すぐ賢く旅に出よう</h2>
+          <p className="text-slate-300 max-w-2xl mx-auto text-sm sm:text-base mb-8 leading-relaxed">寄付翌日から最大3年間使える宿泊クーポンで、行きたかった憧れの名宿を今すぐお得にリザーブ。実質2,000円負担で極上の日本再発見の旅へ。
           </p>
           <a
             href={officialFurusatoAffUrl}
@@ -365,7 +364,7 @@ export default function Page() {
 
         {/* Cross Link Section */}
         <section className="border-t border-slate-800/80 pt-12 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい関連特集ガイド｜日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガ</h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい関連特集ガイド</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
             <Link
@@ -553,17 +552,17 @@ export default function Page() {
         </section>
 
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
             <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
+              📊 日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
             </h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
-              楽天トラベル公式APIより取得した「日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
+              楽天トラベル公式APIより取得した「日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
           </div>
 
@@ -614,7 +613,7 @@ export default function Page() {
 
           <div className="space-y-4">
             <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細
+              🏨 日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細
             </h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
@@ -652,7 +651,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>泉質の異なる「三種類の源泉」を、七つの露天風呂を含む大浴場など「十二の湯舟」でご堪能いただけます</p>
                   <p><strong>【所在地・アクセス】</strong>〒 山梨県南巨摩郡身延町上之平1900 ／ 最寄り駅：下部温泉 ／ 交通案内：ＪＲ身延線下部温泉駅徒歩１分／車：中部横断道下部温泉早川ＩＣより５分</p>
-                  <p>【日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガ】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.31 ／ 部屋 ★4.27 ／ 設備 ★4.27 ／ 風呂 ★4.54 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフのイベントが魅力的で大満足!8月のお盆休みで、子供達、孫達と宿泊させて頂きました。スタッフのイベントの取り組みが、いっぱいでとても魅力的で。楽しませてもらいましたも足湯も、とて…」
@@ -674,7 +673,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>【国登録有形文化財の宿】歴史感じる純和風旅館　源泉掛け流し天然温泉と旬の会席料理で心和むひと時を</p>
                   <p><strong>【所在地・アクセス】</strong>〒 熊本県人吉市上青井町180 ／ 最寄り駅：人吉 ／ 交通案内：人吉ICより車で約8分</p>
-                  <p>【日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガ】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.29 ／ 部屋 ★4.54 ／ 設備 ★4.4 ／ 風呂 ★4.51 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「鮎の塩焼きが冷え冷えってあり得ない!」
@@ -682,49 +681,7 @@ export default function Page() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」とあわせて巡りたい北海道の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド ｜ 日本全国・旅宿クラウド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Wide_view_of_Mount_Hakodate_from_Mashu-Maru.jpg/1280px-Wide_view_of_Mount_Hakodate_from_Mashu-Maru.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="函館山（夜景）" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">函館山（夜景）（日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガ）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">富良野 ファーム富田（日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガ）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">一面に広がる鮮やかな紫色のラベンダー畑と、虹色に彩られた花畑が織りなすパノラマロード。富良野の雄大な自然と爽やかな香りに包まれる絶好の観光名所です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Otaru_Hokkaido_Japan.jpg/1280px-Otaru_Hokkaido_Japan.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="小樽運河" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">小樽運河</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">大正時代に造られたノスタルジックな石造り倉庫群が立ち並ぶ小樽のシンボル。夕暮れ時にはガス灯が灯り、幻想的な雰囲気の中で散策やナイトクルーズを楽しめます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Asahikawa_Montage.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" alt="旭川市旭山動物園" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">旭川市旭山動物園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">行動展示で全国的に有名な日本最北の動物園。水中でダイナミックに泳ぐホッキョクグマや、円柱水槽を行き来するアザラシなど、生き生きとした動物たちの姿を間近で観察できます。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       </main>
     

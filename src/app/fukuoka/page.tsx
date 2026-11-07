@@ -153,7 +153,7 @@ export default function FukuokaHubPage() {
                   </a>
                 </div>
               
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -375,49 +375,7 @@ export default function FukuokaHubPage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「福岡・博多旅行 完全計画ガイド 2026（1泊2日・2泊3日モデルコース＆博多駅・天神・中洲屋台・もつ鍋水炊きグルメ・温泉宿）」とあわせて巡りたい福岡県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「福岡・博多旅行 完全計画ガイド 2026：1泊2日・2泊3日モデルコース＆博多駅・天神・中洲屋台・もつ鍋水炊きグルメ・温泉宿」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">太宰府天満宮</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">学問の神様・菅原道真公をお祀りする全国天満宮の総本社。境内の「飛梅」や参道の「名物梅ヶ枝餅」、建築家・隈研吾氏デザインのスターバックスが見所です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Sakurai_Futamigaura.jpg/1280px-Sakurai_Futamigaura.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="糸島（桜井二見ヶ浦）" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">糸島（桜井二見ヶ浦）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">福岡市から車で約40分のおしゃれな海岸リゾート。海中に佇む白い鳥居と夫婦岩が並ぶ「桜井二見ヶ浦」の夕日や海沿いのカフェテラスが大人気です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">門司港レトロ</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">明治から大正にかけて国際貿易港として栄えたノスタルジックな港町。木造の旧門司三井倶楽部や門司港駅舎、焼きカレーの名店が立ち並びます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">中洲の屋台街</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">那珂川沿いに夕暮れとともに赤提灯が灯る博多名物の屋台街。とんこつラーメンや焼きラーメン、一口餃子を求めて夜な夜な観光客と地元客が集います。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       </article>
             ))}

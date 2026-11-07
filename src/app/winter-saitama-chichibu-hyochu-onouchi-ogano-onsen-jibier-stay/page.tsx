@@ -106,14 +106,6 @@ export default function FeaturePage() {
     }
   ]
 };
-  const touristAttractionSchema = {
-  "@context": "https://schema.org",
-  "@type": "TouristAttraction",
-  "name": "厳冬の造形美・三十槌の氷柱＆尾ノ内百景氷柱",
-  "description": "氷柱（ひょうちゅう、つらら）は氷の柱。特に「つらら」は岩場や建物の軒下などから水滴が垂れてできる棒状に伸びた氷を指す。 1983年（昭和58年）の対馬勝年らの提案では、水滴が凍結して下方に伸びたものを「つらら」、下から上方に伸びたものを「氷筍」、両者が接合したものを「氷柱」と呼ぶことを提案している。",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/%E5%8F%A4%E9%96%91%E3%81%AE%E6%BB%9D.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-};
-
   return (
     <>
       <script
@@ -123,10 +115,6 @@ export default function FeaturePage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(touristAttractionSchema) }}
       />
 
       <main className="min-h-screen bg-stone-50 pb-20">
@@ -213,102 +201,13 @@ export default function FeaturePage() {
         </section>
 
         {/* 現地アクセス・服装ガイド */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <div className="flex items-center justify-between border-b border-stone-100 pb-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <Calendar className="w-4 h-4 text-cyan-700" />
-                アクセス・気候・おすすめの服装
-              </h3>
-            </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
-              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
-                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                  <span>エリアへのアクセス</span>
-                </h4>
-                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">電車：</strong>西武池袋駅から特急ラビューで「西武秩父駅」まで最短77分。秩父鉄道「御花畑駅」から「三峰口駅」方面へ接続。</span>
-                  </li>
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">バス：</strong>西武秩父駅または秩父駅から西武観光バス「小鹿野車庫」行き・「栗尾」行きに乗車し約35〜45分。三十槌の氷柱へは西武秩父駅から「三峯神社」行きバスで約45分「三十槌」下車。</span>
-                  </li>
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">車：</strong>関越自動車道「花園IC」より皆野寄居有料道路・国道140号・国道299号を経由して小鹿野町まで約45分。池袋方面から車で約2時間。</span>
-                  </li>
-                </ul>
-              </div>
-              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
-                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                  <span>見頃・気候・おすすめの服装</span>
-                </h4>
-                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">ベストシーズン：</strong>12月下旬〜1月下旬（三十槌・尾ノ内氷柱の最盛期、秩父三社新春初詣、温泉とジビエ鍋の最盛期）。</span>
-                  </li>
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">気温の目安：</strong>盆地特有の内陸性気候のため、12月〜1月の夜間・早朝は氷点下3℃〜5℃以下まで下がります。日中も5〜9℃前後。</span>
-                  </li>
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">服装のポイント：</strong>氷柱見学エリアは足元が凍結している場合があるため、滑り止めのあるスニーカーやスノーブーツが必須。厚手のダウンコート、ニット帽、ネックウォーマー、手袋、カイロを必ず携行してください。車で訪れる場合はスタッドレスタイヤの装着が不可欠です。</span>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* Wikipedia公式連携スポットセクション */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <div className="flex items-center justify-between">
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                近隣名所アーカイブ：厳冬の造形美・三十槌の氷柱＆尾ノ内百景氷柱
-              </h2>
-              <span className="text-[11px] text-stone-400">Wikipedia公式情報連携</span>
-            </div>
-
-            <div className="flex flex-col gap-5">
-              <div className="w-full overflow-hidden rounded-xl border border-stone-200 bg-stone-100 aspect-[16/9] sm:aspect-[21/9]">
-                <img
-                  src="https://upload.wikimedia.org/wikipedia/commons/f/f9/%E5%8F%A4%E9%96%91%E3%81%AE%E6%BB%9D.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-                  alt="厳冬の造形美・三十槌の氷柱＆尾ノ内百景氷柱"
-                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="eager" fetchPriority="high"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                  厳冬の造形美・三十槌の氷柱＆尾ノ内百景氷柱 の見どころと歴史
-                </h3>
-                <p className="text-sm sm:text-base text-stone-600 leading-relaxed">
-                  氷柱（ひょうちゅう、つらら）は氷の柱。特に「つらら」は岩場や建物の軒下などから水滴が垂れてできる棒状に伸びた氷を指す。 1983年（昭和58年）の対馬勝年らの提案では、水滴が凍結して下方に伸びたものを「つらら」、下から上方に伸びたものを「氷筍」、両者が接合したものを「氷柱」と呼ぶことを提案している。
-                </p>
-                <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                  <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                  <span className="text-cyan-700 font-semibold">冬の探訪推奨スポット</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
             <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
               秩父・小鹿野・両神 厳選の温泉＆名宿5選
             </h2>
-            <p className="text-xs sm:text-sm text-stone-500">【尾ノ内百景氷柱と薬師の湯：2026-2027年冬の埼】 
-              楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
+            <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
 
@@ -630,8 +529,7 @@ export default function FeaturePage() {
                 <h3 className="text-xl sm:text-2xl font-bold">
                   埼玉県の宿に実質2,000円で泊まる賢い方法
                 </h3>
-                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">【尾ノ内百景氷柱と薬師の湯：2026-2027年冬の埼】 
-                  楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
+                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
               <a

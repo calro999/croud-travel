@@ -100,7 +100,7 @@ export default function FurusatoArtMuseumHotelStayPage() {
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
           <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-6 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
-            この旅で体感したい3つの醍醐味｜安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリ</h2>
+            この旅で体感したい3つの醍醐味</h2>
           <div className="grid gap-6">
 
             <div className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200/80 shadow-xs">
@@ -154,9 +154,8 @@ export default function FurusatoArtMuseumHotelStayPage() {
         <section className="mb-16">
           <div className="mb-8">
             <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-3 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
-              ふるさと納税で泊まる厳選名宿｜安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリ</h2>
-            <p className="text-stone-600 text-sm leading-relaxed">【安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリ】 
-              楽天トラベルAPIから最新の実在宿データを取得。対象自治体のふるさと納税クーポンを利用して控除上限内で実質2,000円自己負担（最大30%クーポン還元）で泊まれる名宿です。
+              ふるさと納税で泊まる厳選名宿</h2>
+            <p className="text-stone-600 text-sm leading-relaxed">楽天トラベルAPIから最新の実在宿データを取得。対象自治体のふるさと納税クーポンを利用して控除上限内で実質2,000円自己負担（最大30%クーポン還元）で泊まれる名宿です。
             </p>
           </div>
 
@@ -190,8 +189,7 @@ export default function FurusatoArtMuseumHotelStayPage() {
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     瀬戸内海に浮かぶアートの島・直島の南端に位置し、「自然・建築・アートの共生」をコンセプトに安藤忠雄氏の設計によって創られた世界的に名高いミュージアムホテル。美術館の内部に宿泊する「ミュージアム」棟をはじめ、海を間近に望む「パーク」「ビーチ」、丘の上に佇む「オーバル」など個性的な4つの棟で構成されています。宿泊客は夜間も美術館内を自由に散策でき、静寂の中で現代アートの傑作と向き合う贅沢な時間が叶います。瀬戸内海の豊かな魚介を活かしたフレンチや日本料理とともに、世界中の旅人が憧れる唯一無二のアートリトリートをご体験いただけます。
                   </p>
-                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">【安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリ】 
-                    訪れるすべてのお客様に心安らぐ贅沢な寛ぎの時間を提供し、高い評価を獲得している極上宿です。
+                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">訪れるすべてのお客様に心安らぐ贅沢な寛ぎの時間を提供し、高い評価を獲得している極上宿です。
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -251,8 +249,7 @@ export default function FurusatoArtMuseumHotelStayPage() {
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     箱根・強羅の豊かな自然に包まれ、箱根彫刻の森美術館やポーラ美術館、岡田美術館など国内有数のアートスポットへのアクセス拠点として誕生したハイエンド温泉旅館。館内には随所に洗練されたアート作品や現代工芸が配され、五感を優しく解き放つ美の空間が広がります。全客室のバルコニーに強羅温泉の自家源泉を引いた客室露天風呂を備え、山並みを見渡す展望露天風呂や多彩なラウンジも完備。厳選された旬の食材を独創的な美意識で仕立てるグリルや会席ディナーとともに、大人の贅沢なアート＆温泉ステイを堪能できます。
                   </p>
-                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">【安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリ】 
-                    訪れるすべてのお客様に心安らぐ贅沢な寛ぎの時間を提供し、高い評価を獲得している極上宿です。
+                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">訪れるすべてのお客様に心安らぐ贅沢な寛ぎの時間を提供し、高い評価を獲得している極上宿です。
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -351,7 +348,7 @@ export default function FurusatoArtMuseumHotelStayPage() {
 
         {/* 関連特集クロスリンク */}
         <section className="bg-stone-50 rounded-3xl p-8 border border-stone-200/80 mb-16">
-          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">あわせて読みたい関連特集｜安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリ</h2>
+          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">あわせて読みたい関連特集</h2>
           <ul className="grid sm:grid-cols-2 gap-2">
 
               <li key="furusato-tax-tangible-cultural-property-architectural-ryokan-stay">
@@ -390,9 +387,8 @@ export default function FurusatoArtMuseumHotelStayPage() {
 
         {/* ハブページへの誘導フッター */}
         <div className="bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 text-white rounded-3xl p-8 md:p-10 shadow-xl border border-amber-900/40 text-center mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">もっとお得に旅を楽しむためのハブページへ｜安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリ</h2>
-          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">【安藤忠雄建築や現代アートと眠る美術館ホテル＆アートリ】 
-            全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
+          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">もっとお得に旅を楽しむためのハブページへ</h2>
+          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
             href="/travel-savings-guide/"

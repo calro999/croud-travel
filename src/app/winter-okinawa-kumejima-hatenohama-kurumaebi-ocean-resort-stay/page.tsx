@@ -144,49 +144,14 @@ export default function WinterFeaturePage() {
           </div>
         </section>
 
-        {/* 公式Wikipedia解説＆実写写真セクション */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <div className="flex items-center justify-between">
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                近隣名所アーカイブ：久米島・はての浜（東洋一の美しさを誇る白砂の楽園）
-              </h2>
-              <span className="text-[11px] text-stone-400">Wikipedia公式情報連携</span>
-            </div>
-
-            <div className="flex flex-col gap-5">
-              <div className="w-full overflow-hidden rounded-xl border border-stone-200 bg-stone-100 aspect-[16/9] sm:aspect-[21/9]">
-                <img
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Kumejima.jpg/1280px-Kumejima.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="久米島・はての浜（東洋一の美しさを誇る白砂の楽園）"
-                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="eager" fetchPriority="high"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                  久米島・はての浜（東洋一の美しさを誇る白砂の楽園） の見どころと歴史
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  久米島（くめじま）は、沖縄本島から西に約100 km、沖縄諸島に属する島で、最も西に位置する島である。人口は7000人程度で、行政上は島全域が久米島町に含まれる。面積は59.53 km2で、沖縄県内では、沖縄本島、西表島、石垣島、宮古島に次いで5番目に大きな島である。スクーバダイビング地として有名で、3つのリゾートホテルが存在する。長く広がるイーフビーチ周辺には民宿なども多く点在する。また、東北楽天ゴールデンイーグルスが発足年度からこの地にキャンプを構えたことで、プロ野球ファ…
-                </p>
-                <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                  <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                  <span className="text-cyan-700 font-semibold">冬の探訪推奨スポット</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
+        
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
             <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
               久米島・はての浜 厳選の温泉＆リゾート宿5選
             </h2>
-            <p className="text-xs sm:text-sm text-stone-500">【冬の静寂はての浜と日本一の車海老三昧：2026-20】 
-              楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
+            <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
 
@@ -528,8 +493,7 @@ export default function WinterFeaturePage() {
                 <h3 className="text-xl sm:text-2xl font-bold">
                   沖縄県の宿に実質2,000円で泊まる賢い方法
                 </h3>
-                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">【冬の静寂はての浜と日本一の車海老三昧：2026-20】 
-                  楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
+                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
               <a

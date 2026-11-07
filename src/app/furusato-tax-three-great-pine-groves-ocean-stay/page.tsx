@@ -76,7 +76,7 @@ export default function Page() {
       />
         {/* Intro Card */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">はじめに｜日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納</h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">はじめに</h2>
           <p className="text-slate-700 leading-relaxed text-base sm:text-lg">
             古来より和歌や浮世絵に描かれ、日本人の美意識を象徴してきた「日本三大松原」――世界文化遺産・富士山の構成資産であり羽衣伝説で名高い静岡の「三保松原」、玄海国定公園に位置し約4.5kmにわたり100万本もの黒松が虹のように連なる佐賀の「虹の松原」、そして敦賀湾の穏やかな波打ち際に広がる福井の「気比の松原」。潮風に揺れる松の香り、波打ち際の白波、そして茜色に染まるマジックアワーの夕景は、まさに日本の海の原風景です。松原を望むオーシャンビューホテルや名門旅館に泊まり、駿河湾の桜えび、唐津の活イカ、日本海の越前ガニや敦賀真鯛など獲れたての海の幸を味わう極上の海旅を楽天ふるさと納税でお楽しみください。
           </p>
@@ -85,9 +85,8 @@ export default function Page() {
             <div className="flex items-start gap-4">
               <span className="text-3xl">💡</span>
               <div>
-                <h3 className="text-base sm:text-lg font-bold text-amber-900 mb-1">楽天ふるさと納税「トラベルクーポン」賢い活用法（日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納）</h3>
-                <p className="text-sm sm:text-base text-amber-800 leading-relaxed">【日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納】 
-                  寄付額の最大30%分の宿泊クーポンが付与され、寄付当日から予約に即時利用可能。通常の楽天ポイント還元やお買い物マラソンとも併用できるため、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級リゾートや名湯旅館に泊まれる最強の制度です。
+                <h3 className="text-base sm:text-lg font-bold text-amber-900 mb-1">楽天ふるさと納税「トラベルクーポン」賢い活用法</h3>
+                <p className="text-sm sm:text-base text-amber-800 leading-relaxed">寄付額の最大30%分の宿泊クーポンが付与され、寄付当日から予約に即時利用可能。通常の楽天ポイント還元やお買い物マラソンとも併用できるため、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級リゾートや名湯旅館に泊まれる最強の制度です。
                 </p>
               </div>
             </div>
@@ -96,7 +95,7 @@ export default function Page() {
 
         {/* 3 Merits */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 border-l-4 border-indigo-600 pl-4">この特集ならではの3大魅力｜日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納</h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 border-l-4 border-indigo-600 pl-4">この特集ならではの3大魅力</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
             <div key="0" className="bg-slate-50 rounded-xl p-5 border border-slate-200 hover:border-indigo-300 transition-colors">
@@ -675,9 +674,8 @@ export default function Page() {
             <span>🎟️</span>
             <span>楽天ふるさと納税×楽天トラベル 公式連携</span>
           </div>
-          <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold mb-4 leading-tight">ふるさと納税で賢くお得に、憧れの極上宿へ｜日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納</h2>
-          <p className="text-slate-300 text-sm sm:text-base max-w-2xl mx-auto mb-8 leading-relaxed">【日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納】 
-            返礼品の宿泊クーポンは翌年以降の旅行にも活用でき、ポイント還元もフル適用。控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）ワンランク上の滞在をお楽しみください。
+          <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold mb-4 leading-tight">ふるさと納税で賢くお得に、憧れの極上宿へ</h2>
+          <p className="text-slate-300 text-sm sm:text-base max-w-2xl mx-auto mb-8 leading-relaxed">返礼品の宿泊クーポンは翌年以降の旅行にも活用でき、ポイント還元もフル適用。控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）ワンランク上の滞在をお楽しみください。
           </p>
           <div className="flex flex-col sm:flex-row justify-center items-center gap-4 max-w-md mx-auto">
             <a
@@ -693,7 +691,7 @@ export default function Page() {
 
         {/* Cross Links Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
-          <h2 className="text-lg sm:text-xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">あわせて読みたい関連特集ガイド｜日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納</h2>
+          <h2 className="text-lg sm:text-xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">あわせて読みたい関連特集ガイド</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             
             <Link

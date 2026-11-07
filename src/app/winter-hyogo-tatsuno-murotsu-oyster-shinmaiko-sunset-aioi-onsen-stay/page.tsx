@@ -124,7 +124,7 @@ export default function WinterFeaturePage() {
         {/* 導入解説 */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600 shrink-0" />
-            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>｜2026-2027年11-12月の兵庫・西播磨</h2>
+            <span>初冬にこの地を訪れるべき理由と風土の魅力</span></h2>
           <p className="text-xs md:text-sm text-slate-700 leading-relaxed whitespace-pre-line">
             穏やかな光が降り注ぐ瀬戸内海・播磨灘（はりまなだ）。兵庫県南西部に位置する西播磨エリアは、豊かな歴史と海の幸が濃密に交差する隠れた大人の狙い目リゾートです。播磨の初冬を告げる最大の呼び物が、毎年11月中旬に解禁される極上の海のミルク『室津牡蠣（むろつがき）』です。揖保川（いぼがわ）と千種川（ちくさがわ）というふたつの清流から豊富な森の栄養分が注ぎ込む室津湾は、プランクトンが極めて豊富なため、通常2〜3年かかる牡蠣の育成がわずか1年（一年牡蠣）で大粒に仕上がります。その最大の特徴は、火を通しても『身が縮まない』こと。炭火で殻ごと焼けば、プリップリに膨らんだ乳白色の身からミルキーで濃厚な甘みと磯の香りが溢れ出し、一度味わうと他の牡蠣には戻れなくなると称されるほどです。牡蠣直売所や焼き牡蠣小屋が並ぶ室津港から少し北へ向かうと、そこは『播磨の小京都』と称えられる城下町『龍野（たつの）』。脇坂家五万三千石の歴史を今に伝える龍野城跡の白亜の城壁や本丸御殿、白壁の土蔵や武家屋敷が立ち並ぶ町並みは国の重要伝統的建造物群保存地区に選定されており、初冬の澄んだ大気のもとで凛とした歴史の香りを漂わせます。童謡『赤とんぼ』の作詞者・三木露風の生誕地としても知られ、江戸時代から続く淡口醤油発祥の地ならではの古い蔵巡りも旅情を深めます。さらに沿岸部へ戻れば、瀬戸内海国立公園に指定された『新舞子海岸（しんまいこかいがん）』。関西随一の遠浅海岸として知られ、初冬の夕暮れ時には干潟に現れる美しい潮紋（波の砂紋）が夕陽を浴びて黄金色に輝く奇跡の絶景が広がります。宿泊は播磨灘を一望するオーシャンビューの温泉ホテルへ。海と空が一体化するインフィニティ露天風呂に身を沈め、茜色に染まる瀬戸の島々を眺めながら極上の室津牡蠣フルコースを味わう時間は、心身を深い充足感で満たしてくれます。
           </p>
@@ -171,41 +171,7 @@ export default function WinterFeaturePage() {
           </div>
         </section>
 
-        {/* Wikipedia連携 観光地紹介 */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
-          <div className="flex items-center justify-between border-b border-slate-100 pb-3">
-            <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2">
-              <MapPin className="w-5 h-5 text-rose-600 shrink-0" />
-              <span>近隣の必見名所：龍野</span>
-            </h2>
-            <span className="text-[11px] text-slate-400">Wikipedia・公式解説連携</span>
-          </div>
-
-          <div className="grid md:grid-cols-12 gap-6 items-center">
-            <div className="md:col-span-5 relative h-52 md:h-60 rounded-xl overflow-hidden bg-slate-100 border border-slate-200">
-              <Image
-                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Tatsuno_castle01s2040.jpg/1280px-Tatsuno_castle01s2040.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                alt="播磨の小京都・龍野城下町（白壁土蔵と武家屋敷の町並み・室津港の極上牡蠣と新舞子海岸の夕日）"
-                fill
-                className="object-cover"
-                sizes="(max-width: 768px) 100vw, 360px"
-              />
-            </div>
-            <div className="md:col-span-7 space-y-2.5">
-              <h3 className="text-base font-bold text-slate-900 leading-snug">
-                播磨の小京都・龍野城下町（白壁土蔵と武家屋敷の町並み・室津港の極上牡蠣と新舞子海岸の夕日）
-              </h3>
-              <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
-                たつの市（たつのし）は、兵庫県の南西部（西播磨県民局）にある市。姫路市から西に約13kmの地点に位置する。...
-              </p>
-              <div className="bg-amber-50 rounded-lg p-3 border border-amber-200/60 text-[11px] md:text-xs text-amber-900 leading-relaxed">
-                <span className="font-bold block mb-0.5">💡 周辺観光のポイント</span>
-                各宿泊施設からアクセス良好。早朝や夕暮れ時は観光客が落ち着き、初冬ならではの静寂と美しい景色を心ゆくまで堪能できます。
-              </div>
-            </div>
-          </div>
-        </section>
-
+        
         {/* 楽天API厳選宿 5選 */}
         <section className="space-y-6">
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
@@ -559,7 +525,7 @@ export default function WinterFeaturePage() {
         {/* アクセス＆見頃情報 */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 md:p-8 space-y-4">
           <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300"><Train className="w-5 h-5 shrink-0" />
-            <span>アクセスガイド・気候と服装のポイント</span>｜2026-2027年11-12月の兵庫・西播磨</h2>
+            <span>アクセスガイド・気候と服装のポイント</span></h2>
           <div className="text-xs md:text-sm text-slate-300 leading-relaxed whitespace-pre-line">
             【エリアへのアクセス】
 ・電車：JR山陽本線または山陽新幹線「相生駅」または「播州赤穂駅」下車。JR姫新線「本竜野駅」からは龍野城下町へ徒歩約15分。新舞子海岸や室津港へは網干駅または相生駅より神姫バスまたはタクシーで約15〜20分（主要ホテルによる無料送迎あり）。
@@ -576,7 +542,7 @@ export default function WinterFeaturePage() {
         {/* よくある質問 (FAQ) */}
         <section className="bg-slate-100 rounded-2xl p-6 md:p-8 space-y-4">
           <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
-            <span>よくある質問（FAQ）</span>｜2026-2027年11-12月の兵庫・西播磨</h2>
+            <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
             <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
@@ -610,7 +576,7 @@ export default function WinterFeaturePage() {
 
         {/* ふるさと納税・関連リンク */}
         <section className="bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 rounded-2xl p-6 md:p-8 space-y-3 text-center">
-          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！｜2026-2027年11-12月の兵庫・西播磨</h2>
+          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！</h2>
           <p className="text-xs md:text-sm max-w-xl mx-auto font-medium">
             寄附翌日から使える楽天トラベルクーポンで、今回の宿泊予約が控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）楽しめます。年末の控除枠活用にも最適です。
           </p>

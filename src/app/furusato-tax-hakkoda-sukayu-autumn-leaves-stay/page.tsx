@@ -128,12 +128,12 @@ export default function FeatureArticlePage() {
           {/* エリア概要セクション */}
           <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-stone-200/80">
             <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 pb-3 border-b border-stone-200 flex items-center gap-3"><span className="text-2xl">🍂</span>
-              秋の風情と旬の味覚を堪能する特別な旅｜八甲田山ロープウェーの錦秋パノラマ＆酸ヶ湯温泉ヒバ千</h2>
+              秋の風情と旬の味覚を堪能する特別な旅</h2>
             <p className="text-stone-700 leading-relaxed text-sm md:text-base mb-6">
               青森県の中央に連なる八甲田連峰は、ブナやカエデ、ダケカンバが山頂から山麓へとグラデーションを描きながら色づく東北屈指の紅葉スポット。八甲田ロープウェーからは見渡す限りの錦秋の大パノラマが広がり、地獄沼や蔦沼など水面に映る紅葉も見事。約300年の歴史を持つ「酸ヶ湯温泉」の総ヒバ造り160畳の大浴場「ヒバ千人風呂」をはじめ、至高の秘湯宿で滋味あふれる山の幸を味わえます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2"><span>💡</span> 10月〜11月の旅を満喫する3大ポイント（八甲田山ロープウェーの錦秋パノラマ＆酸ヶ湯温泉ヒバ千）</h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2"><span>💡</span> 10月〜11月の旅を満喫する3大ポイント</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
                 <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（八甲田山ロープウェーの錦秋パノラマ＆酸ヶ湯温泉ヒバ千）</li>
                 <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（八甲田山ロープウェーの錦秋パノラマ＆酸ヶ湯温泉ヒバ千）</li>
@@ -327,10 +327,9 @@ export default function FeatureArticlePage() {
 
           {/* ふるさと納税活用法 */}
           <section className="bg-gradient-to-r from-amber-500 to-orange-600 text-white rounded-2xl p-6 md:p-8 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で控除上限内で実質2,000円自己負担・ふるさと納税クーポンで宿泊する方法｜八甲田山ロープウェーの錦秋パノラマ＆酸ヶ湯温泉ヒバ千</h2>
+            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で控除上限内で実質2,000円自己負担・ふるさと納税クーポンで宿泊する方法</h2>
             <div className="space-y-4 text-xs md:text-sm text-amber-50 leading-relaxed">
-              <p>【八甲田山ロープウェーの錦秋パノラマ＆酸ヶ湯温泉ヒバ千】 
-                楽天ふるさと納税の「トラベルクーポン（宿泊補助券）」を利用すると、寄付金額に応じた割引クーポンが即時または後日発行され、楽天トラベルでの宿泊予約時に直接利用できます。
+              <p>楽天ふるさと納税の「トラベルクーポン（宿泊補助券）」を利用すると、寄付金額に応じた割引クーポンが即時または後日発行され、楽天トラベルでの宿泊予約時に直接利用できます。
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-3 pt-2 text-stone-900">
                 <div className="bg-white rounded-xl p-3.5 text-center shadow-sm">
@@ -356,7 +355,7 @@ export default function FeatureArticlePage() {
         {/* サイドバー */}
         <aside className="space-y-6">
           <div className="bg-white rounded-2xl p-6 shadow-sm border border-stone-200/80 sticky top-6">
-            <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2"><span>📌</span> この特集で紹介した宿（八甲田山ロープウェーの錦秋パノラマ＆酸ヶ湯温泉ヒバ千）</h3>
+            <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2"><span>📌</span> この特集で紹介した宿</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.hakkoda_jogakura.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">

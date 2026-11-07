@@ -143,49 +143,14 @@ export default function WinterFeaturePage() {
           </div>
         </section>
 
-        {/* 公式Wikipedia解説＆実写写真セクション */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <div className="flex items-center justify-between">
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                近隣名所アーカイブ：世界遺産・金峯山寺蔵王堂（吉野山修験道の総本山）
-              </h2>
-              <span className="text-[11px] text-stone-400">Wikipedia公式情報連携</span>
-            </div>
-
-            <div className="flex flex-col gap-5">
-              <div className="w-full overflow-hidden rounded-xl border border-stone-200 bg-stone-100 aspect-[16/9] sm:aspect-[21/9]">
-                <img
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kinpusenji_Yoshino_Nara02n4272.jpg/1280px-Kinpusenji_Yoshino_Nara02n4272.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="世界遺産・金峯山寺蔵王堂（吉野山修験道の総本山）"
-                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="eager" fetchPriority="high"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                  世界遺産・金峯山寺蔵王堂（吉野山修験道の総本山） の見どころと歴史
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  金峯山寺（きんぷせんじ）は、奈良県吉野郡吉野町吉野山にある金峯山修験本宗（修験道）の総本山の寺院。山号は国軸山。開基（創立者）は役小角と伝える。かつては「山下（さんげ）の蔵王堂」と呼ばれていた。本尊は蔵王堂に安置される蔵王権現立像3躯。本尊は巨像として著名で中尊は約7mもあり、普段は非公開（秘仏）であることから「日本最大の秘仏」とも称される。現存の蔵王堂は、天正18年（1590年）に豊臣秀吉の寄進によって再建されたもので、蔵王権現立像3躯の造仏は、秀吉の発願した方広寺大仏（京…
-                </p>
-                <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                  <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                  <span className="text-cyan-700 font-semibold">冬の探訪推奨スポット</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
+        
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
             <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
               吉野山・金峯山寺・吉野温泉 厳選の温泉＆リゾート宿5選
             </h2>
-            <p className="text-xs sm:text-sm text-stone-500">【世界遺産金峯山寺蔵王堂の新春初詣と雪の吉野山：202】 
-              楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
+            <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
 
@@ -523,8 +488,7 @@ export default function WinterFeaturePage() {
                 <h3 className="text-xl sm:text-2xl font-bold">
                   奈良県の宿に実質2,000円で泊まる賢い方法
                 </h3>
-                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">【世界遺産金峯山寺蔵王堂の新春初詣と雪の吉野山：202】 
-                  楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
+                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
               <a

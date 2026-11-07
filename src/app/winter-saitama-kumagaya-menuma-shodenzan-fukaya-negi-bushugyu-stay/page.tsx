@@ -319,49 +319,7 @@ export default function Page() {
           </div>
         </section>
 
-        {/* 近隣名所アーカイブ（Wikipedia連携） */}
-        <section className="max-w-4xl mx-auto px-4 mb-14">
-          <div className="bg-gradient-to-br from-stone-900 to-stone-800 rounded-2xl text-white p-6 sm:p-8 shadow-sm">
-            <div className="flex items-center gap-2 text-cyan-400 text-xs font-bold uppercase tracking-wider mb-2">
-              <MapPin className="w-4 h-4" />
-              <span>近隣名所アーカイブ＆公式百科事典連携</span>
-            </div>
-            <div className="flex flex-col gap-6">
-              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-800">
-                <img
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Menuma_Shouden_Kangi-in_201810a.jpg/1280px-Menuma_Shouden_Kangi-in_201810a.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="国宝・妻沼聖天山歓喜院（埼玉の日光東照宮・精緻な彫刻美と新春縁結び開運）"
-                  className="w-full h-full object-cover"
-                  loading="eager" fetchPriority="high"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <div>
-                  <span className="text-[11px] text-cyan-300 font-mono">Spot Spotlight</span>
-                  <h3 className="text-lg sm:text-xl font-bold text-white">
-                    国宝・妻沼聖天山歓喜院（埼玉の日光東照宮・精緻な彫刻美と新春縁結び開運）
-                  </h3>
-                  <p className="text-xs text-stone-300 leading-relaxed mt-2">
-                    歓喜院（かんぎいん）は、埼玉県熊谷市妻沼（めぬま）にある高野山真言宗の仏教寺院である。日本三大聖天の一つとされる。一般的には山号に地名を冠した「妻沼聖天山（めぬましょうでんざん）」と呼称され、公式でも主にその名で案内される。 また、「埼玉日光」（国宝に指定される前は「埼玉の小日光」 ）とも称されている。参拝客や地元住民からは「（妻沼の）聖天様」などと呼ばれている。
-                  </p>
-                </div>
-                <div className="text-[11px] text-stone-400 pt-2 border-t border-stone-700 flex items-center justify-between">
-                  <span>出典：ウィキペディア（Wikipedia）公式情報</span>
-                  <a
-                    href="https://ja.wikipedia.org/wiki/歓喜院 (熊谷市)"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-cyan-400 hover:underline flex items-center gap-1"
-                  >
-                    <span>詳細百科事典</span>
-                    <ExternalLink className="w-3 h-3" />
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
+        
         {/* 厳選名宿一覧 */}
         <section className="max-w-4xl mx-auto px-4 space-y-6 mb-14">
           <div className="border-l-4 border-cyan-800 pl-3">

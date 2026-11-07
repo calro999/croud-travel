@@ -136,11 +136,10 @@ export default function Page() {
           <p className="text-stone-700 leading-relaxed">
             秋風が吹き抜け、木々が鮮やかに色づく10月・11月。日本各地がもっとも美しく、実り豊かな季節を迎えます。なかでも「滋賀・大津＆おごと温泉」は、比叡山延暦寺もみじ祭り・日吉大社ライトアップ・琵琶湖の朝霧と秋景色など、この時期にしか出逢えない息を呑む絶景と旬の味覚が凝縮された屈指の名所です。
           </p>
-          <p className="text-stone-700 leading-relaxed">【琵琶湖・おごと温泉と比叡山延暦寺の紅葉】 
-            さらに賢く贅沢に旅を楽しむ方法として今もっとも注目されているのが「楽天ふるさと納税トラベルクーポン」の活用です。地域の自治体に寄付を行うことで返礼品として宿泊割引クーポンを獲得でき、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級旅館やリゾートホテルへの宿泊が実現します。
+          <p className="text-stone-700 leading-relaxed">さらに賢く贅沢に旅を楽しむ方法として今もっとも注目されているのが「楽天ふるさと納税トラベルクーポン」の活用です。地域の自治体に寄付を行うことで返礼品として宿泊割引クーポンを獲得でき、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級旅館やリゾートホテルへの宿泊が実現します。
           </p>
           <div className="bg-amber-50 border border-amber-200 p-4 rounded-lg mt-4">
-            <h3 className="font-bold text-amber-900 text-sm mb-1">【秋旅のポイント】ふるさと納税トラベルクーポンの特徴（琵琶湖・おごと温泉と比叡山延暦寺の紅葉）</h3>
+            <h3 className="font-bold text-amber-900 text-sm mb-1">【秋旅のポイント】ふるさと納税トラベルクーポンの特徴</h3>
             <ul className="list-disc list-inside text-xs md:text-sm text-amber-800 space-y-1">
               <li>寄付金額に応じた宿泊補助（最大30%相当のクーポン付与）（琵琶湖・おごと温泉と比叡山延暦寺の紅葉）</li>
               <li>楽天ポイントも通常通り付与（お買い物マラソンやSPUでさらにお得）（琵琶湖・おごと温泉と比叡山延暦寺の紅葉）</li>
@@ -151,10 +150,10 @@ export default function Page() {
 
         {/* 季節の見どころと味覚 */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-6">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">10月・11月に訪れたい絶景スポットと秋の味覚｜琵琶湖・おごと温泉と比叡山延暦寺の紅葉</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">10月・11月に訪れたい絶景スポットと秋の味覚</h2>
           <div className="grid md:grid-cols-2 gap-6">
             <div className="bg-stone-50 p-5 rounded-lg border border-stone-200">
-              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 周辺の見どころ・名所（琵琶湖・おごと温泉と比叡山延暦寺の紅葉）</h3>
+              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 周辺の見どころ・名所</h3>
               <ul className="text-sm text-stone-600 space-y-2">
                 <li className="flex items-start"><span className="text-amber-500 mr-2">•</span>世界遺産 比叡山延暦寺（根本中堂）</li>
                 <li className="flex items-start"><span className="text-amber-500 mr-2">•</span>日吉大社（もみじのトンネル）</li>
@@ -164,11 +163,11 @@ export default function Page() {
               </ul>
             </div>
             <div className="bg-stone-50 p-5 rounded-lg border border-stone-200">
-              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 旬の味覚・ご当地グルメ（琵琶湖・おごと温泉と比叡山延暦寺の紅葉）</h3>
+              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 旬の味覚・ご当地グルメ</h3>
               <p className="text-sm text-stone-700 leading-relaxed mb-3">
                 A5ランク認証近江牛のすき焼き・しゃぶしゃぶ・琵琶湖産ビワマス・子持ち鮎の塩焼き・近江新米
               </p>
-              <h3 className="text-base font-bold text-stone-900 mb-1 flex items-center"><span className="text-amber-600 mr-2">◆</span> 温泉の特徴（琵琶湖・おごと温泉と比叡山延暦寺の紅葉）</h3>
+              <h3 className="text-base font-bold text-stone-900 mb-1 flex items-center"><span className="text-amber-600 mr-2">◆</span> 温泉の特徴</h3>
               <p className="text-sm text-stone-700 leading-relaxed">
                 おごと温泉（アルカリ性単純温泉・pH9.0の美肌の湯）と琵琶湖レイクビュー露天風呂
               </p>
@@ -333,7 +332,7 @@ export default function Page() {
           </h2>
           <div className="space-y-6">
             <div className="border-l-2 border-amber-500 pl-4 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base">【1日目】錦秋の絶景巡りと極上温泉チェックイン（琵琶湖・おごと温泉と比叡山延暦寺の紅葉）</h3>
+              <h3 className="font-bold text-stone-900 text-base">【1日目】錦秋の絶景巡りと極上温泉チェックイン</h3>
               <ul className="text-sm text-stone-700 space-y-2">
                 <li><span className="font-semibold text-amber-700">10:00</span> - 現地到着後、世界遺産 比叡山延暦寺（根本中堂）を散策。澄んだ秋空と鮮やかな景観を堪能</li>
                 <li><span className="font-semibold text-amber-700">12:30</span> - ご当地名店にて旬の味覚（A5ランク認証近江牛のすき焼きなど）の贅沢ランチ</li>
@@ -343,7 +342,7 @@ export default function Page() {
               </ul>
             </div>
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base">【2日目】朝の清涼な空気と名所・お土産巡り（琵琶湖・おごと温泉と比叡山延暦寺の紅葉）</h3>
+              <h3 className="font-bold text-stone-900 text-base">【2日目】朝の清涼な空気と名所・お土産巡り</h3>
               <ul className="text-sm text-stone-700 space-y-2">
                 <li><span className="font-semibold text-emerald-700">07:30</span> - 朝風呂で爽やかな目覚め＆地場産食材が並ぶ和朝食（琵琶湖・おごと温泉と比叡山延暦寺の紅葉）</li>
                 <li><span className="font-semibold text-emerald-700">09:30</span> - チェックアウト後、びわ湖テラス（絶景パノラマ）を訪問</li>
@@ -359,7 +358,7 @@ export default function Page() {
 
         {/* 関連特集リンク */}
         <section className="bg-amber-50/50 p-6 rounded-xl border border-amber-200 space-y-4">
-          <h2 className="text-lg font-bold text-stone-900">こちらもチェック！秋のふるさと納税特集｜琵琶湖・おごと温泉と比叡山延暦寺の紅葉</h2>
+          <h2 className="text-lg font-bold text-stone-900">こちらもチェック！秋のふるさと納税特集</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs md:text-sm">
             <Link href="/furusato-tax-echigo-tsumari-tokamachi-autumn-stay/" className="text-emerald-800 hover:underline">
               → 新潟・十日町星峠の棚田雲海＆松之山温泉特集
@@ -504,7 +503,7 @@ export default function Page() {
         </section>
 
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -603,7 +602,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>滋賀県おごと温泉、琵琶湖畔の旅館、露天風呂付客室や近江牛のプラン、家族・カップルに人気の旅館。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 滋賀県大津市雄琴6-1-6 ／ 最寄り駅：雄琴 ／ 交通案内：名神京都東Ｉ．Ｃから湖西道路経由で20分。ＪＲおごと温泉駅から送迎あり（要電話）</p>
-                  <p>【琵琶湖・おごと温泉と比叡山延暦寺の紅葉】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.59 ／ 部屋 ★4.62 ／ 設備 ★4.62 ／ 風呂 ★4.63 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「1歳・3歳連れでも安心。子どもへの配慮と食事が良かったです1歳と3歳の子どもを連れて家族で宿泊しました。小さな子どもが2人いると、部屋での過ごし方や食事、お風呂など何かと気を遣いますが、こちらでは…」
@@ -633,56 +632,14 @@ export default function Page() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「琵琶湖・おごと温泉と比叡山延暦寺の紅葉（近江牛会席＆最澄開湯1200年の名湯）」とあわせて巡りたい秋田県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「琵琶湖・おごと温泉と比叡山延暦寺の紅葉！近江牛会席＆最澄開湯1200年の名湯｜ふるさと納税で泊まれる名宿ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Pathway_to_the_Qkamura_Nyuto_Onsenkyo.jpg/1280px-Pathway_to_the_Qkamura_Nyuto_Onsenkyo.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="乳頭温泉郷" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">乳頭温泉郷</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">十和田八幡平国立公園のブナ原生林に点在する7つの秘湯温泉郷。独自のお湯と茅葺き屋根の木造旅籠が醸し出すノスタルジーは、全国の温泉ファン憧れの聖地です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">角館の武家屋敷通り</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「みちのくの小京都」と称される歴史情緒あふれる城下町。黒板塀が続く静かな通りと、春には塀越しに垂れ下がる垂れ桜、秋には紅葉のコントラストが実に映えます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Lake_Tazawa_and_Kansa-g%C5%AB_20210213.jpg/1280px-Lake_Tazawa_and_Kansa-g%C5%AB_20210213.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="田沢湖" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">田沢湖</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本一の水深（423.4m）を誇る円形の淡水湖。水深ゆえの深い瑠璃色の水面と、金色の辰子姫像が神秘的な美しさを漂わせています。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">男鹿半島・入道崎</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">日本海の絶壁と緑の芝生がコントラストを成す男鹿半島の最北端。北緯40度線上に位置し、白黒ラインの入道崎灯台から眺める夕日は日本の灯台50選に選ばれています。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       </main>
 
       {/* フッター */}
       <footer className="bg-stone-900 text-stone-400 py-8 px-4 text-center text-xs space-y-2 border-t border-stone-800">
         <p>© 2026 クラウドトラベル All Rights Reserved.</p>
-        <p>【琵琶湖・おごと温泉と比叡山延暦寺の紅葉】 ※掲載のホテル情報・料金・評価は楽天トラベルAPIより取得した最新データに基づきます。最新の空室状況はリンク先の各プラン詳細をご確認ください。</p>
+        <p>※掲載のホテル情報・料金・評価は楽天トラベルAPIより取得した最新データに基づきます。最新の空室状況はリンク先の各プラン詳細をご確認ください。</p>
       </footer>
     
       <HubRelatedPosts currentSlug="furusato-tax-shiga-biwako-otsu-ogoto-autumn-stay" />

@@ -136,11 +136,10 @@ export default function Page() {
           <p className="text-stone-700 leading-relaxed">
             秋風が心地よく吹き抜け、木々が鮮やかに色づく10月・11月。日本各地がもっとも美しく、実り豊かな季節を迎えます。なかでも「長野・安曇野＆穂高温泉郷」は、北アルプス初冠雪と安曇野紅葉・大王わさび農場秋晴れ・安曇野新そば祭りなど、この時期にしか出逢えない息を呑む絶景と旬の味覚が凝縮された屈指の名所です。
           </p>
-          <p className="text-stone-700 leading-relaxed">【長野・安曇野の田園紅葉＆北アルプス眺望】 
-            さらに賢く贅沢に旅を楽しむ方法として今もっとも注目されているのが「楽天ふるさと納税トラベルクーポン」の活用です。地域の自治体に寄付を行うことで返礼品として宿泊割引クーポンを獲得でき、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級旅館やリゾートホテルへの宿泊が実現します。
+          <p className="text-stone-700 leading-relaxed">さらに賢く贅沢に旅を楽しむ方法として今もっとも注目されているのが「楽天ふるさと納税トラベルクーポン」の活用です。地域の自治体に寄付を行うことで返礼品として宿泊割引クーポンを獲得でき、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級旅館やリゾートホテルへの宿泊が実現します。
           </p>
           <div className="bg-amber-50 border border-amber-200 p-4 rounded-lg mt-4">
-            <h3 className="font-bold text-amber-900 text-sm mb-1">【秋旅のポイント】ふるさと納税トラベルクーポンの特徴（長野・安曇野の田園紅葉＆北アルプス眺望）</h3>
+            <h3 className="font-bold text-amber-900 text-sm mb-1">【秋旅のポイント】ふるさと納税トラベルクーポンの特徴</h3>
             <ul className="list-disc list-inside text-xs md:text-sm text-amber-800 space-y-1">
               <li>寄付金額に応じた宿泊補助（最大30%相当のクーポン付与）（長野・安曇野の田園紅葉＆北アルプス眺望）</li>
               <li>楽天ポイントも通常通り付与（お買い物マラソンやSPUでさらにお得）（長野・安曇野の田園紅葉＆北アルプス眺望）</li>
@@ -151,10 +150,10 @@ export default function Page() {
 
         {/* 季節の見どころと味覚 */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-6">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">10月・11月に訪れたい絶景スポットと秋の味覚｜長野・安曇野の田園紅葉＆北アルプス眺望</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">10月・11月に訪れたい絶景スポットと秋の味覚</h2>
           <div className="grid md:grid-cols-2 gap-6">
             <div className="bg-stone-50 p-5 rounded-lg border border-stone-200">
-              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 周辺の見どころ・名所（長野・安曇野の田園紅葉＆北アルプス眺望）</h3>
+              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 周辺の見どころ・名所</h3>
               <ul className="text-sm text-stone-600 space-y-2">
                 <li className="flex items-start"><span className="text-amber-500 mr-2">•</span>大王わさび農場（水車小屋と清流・紅葉）</li>
                 <li className="flex items-start"><span className="text-amber-500 mr-2">•</span>穂高神社（日本アルプスの総鎮守）</li>
@@ -164,11 +163,11 @@ export default function Page() {
               </ul>
             </div>
             <div className="bg-stone-50 p-5 rounded-lg border border-stone-200">
-              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 旬の味覚・ご当地グルメ（長野・安曇野の田園紅葉＆北アルプス眺望）</h3>
+              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 旬の味覚・ご当地グルメ</h3>
               <p className="text-sm text-stone-700 leading-relaxed mb-3">
                 信州プレミアム牛ステーキ・大王わさび一本付き信州サーモン丼・安曇野新そば・信州りんごスイーツ
               </p>
-              <h3 className="text-base font-bold text-stone-900 mb-1 flex items-center"><span className="text-amber-600 mr-2">◆</span> 温泉の特徴（長野・安曇野の田園紅葉＆北アルプス眺望）</h3>
+              <h3 className="text-base font-bold text-stone-900 mb-1 flex items-center"><span className="text-amber-600 mr-2">◆</span> 温泉の特徴</h3>
               <p className="text-sm text-stone-700 leading-relaxed">
                 穂高温泉郷（単純硫黄温泉、北アルプス中房渓谷から引湯する肌触り柔らかな美肌温泉）と森の露天風呂
               </p>
@@ -333,7 +332,7 @@ export default function Page() {
           </h2>
           <div className="space-y-6">
             <div className="border-l-2 border-amber-500 pl-4 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base">【1日目】錦秋の絶景巡りと極上温泉チェックイン（長野・安曇野の田園紅葉＆北アルプス眺望）</h3>
+              <h3 className="font-bold text-stone-900 text-base">【1日目】錦秋の絶景巡りと極上温泉チェックイン</h3>
               <ul className="text-sm text-stone-700 space-y-2">
                 <li><span className="font-semibold text-amber-700">10:00</span> - 現地到着後、大王わさび農場（水車小屋と清流・紅葉）を散策。澄んだ秋空と鮮やかな景観を堪能</li>
                 <li><span className="font-semibold text-amber-700">12:30</span> - ご当地名店にて旬の味覚（信州プレミアム牛ステーキなど）の贅沢ランチ</li>
@@ -343,7 +342,7 @@ export default function Page() {
               </ul>
             </div>
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base">【2日目】朝の清涼な空気と名所・お土産巡り（長野・安曇野の田園紅葉＆北アルプス眺望）</h3>
+              <h3 className="font-bold text-stone-900 text-base">【2日目】朝の清涼な空気と名所・お土産巡り</h3>
               <ul className="text-sm text-stone-700 space-y-2">
                 <li><span className="font-semibold text-emerald-700">07:30</span> - 朝風呂で爽やかな目覚め＆地場産食材が並ぶ和朝食（長野・安曇野の田園紅葉＆北アルプス眺望）</li>
                 <li><span className="font-semibold text-emerald-700">09:30</span> - チェックアウト後、安曇野アートライン（美術館・ギャラリー巡り）を訪問</li>
@@ -359,7 +358,7 @@ export default function Page() {
 
         {/* 関連特集リンク */}
         <section className="bg-amber-50/50 p-6 rounded-xl border border-amber-200 space-y-4">
-          <h2 className="text-lg font-bold text-stone-900">こちらもチェック！秋のふるさと納税特集｜長野・安曇野の田園紅葉＆北アルプス眺望</h2>
+          <h2 className="text-lg font-bold text-stone-900">こちらもチェック！秋のふるさと納税特集</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs md:text-sm">
             <Link href="/furusato-tax-kyoto-kurama-kifune-autumn-stay/" className="text-emerald-800 hover:underline">
               → 京都・洛北 貴船＆鞍馬（もみじトンネル＆ぼたん鍋）特集
@@ -504,7 +503,7 @@ export default function Page() {
         </section>
 
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -625,7 +624,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>本格フレンチと自然に癒される、安曇野の小さなオーベルジュ。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 長野県安曇野市穂高有明3613-14 ／ 最寄り駅：穂高 ／ 交通案内：穂高駅よりお車で約１０分、長野自動車道 安曇野インターより約２５分</p>
-                  <p>【長野・安曇野の田園紅葉＆北アルプス眺望】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>森のオーベルジュ　ｇｒｅｅｎ　ｂｅｌｌの滞在ポイント：</strong>「長野・安曇野の田園紅葉＆北アルプス眺望！穂高温泉郷の秘湯と名水わさび・信州サーモン｜ふるさと納税で泊まれる名宿ガイドエリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
@@ -633,56 +632,14 @@ export default function Page() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「長野・安曇野の田園紅葉＆北アルプス眺望（穂高温泉郷の秘湯と名水わさび・信州サーモン）」とあわせて巡りたい福島県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「長野・安曇野の田園紅葉＆北アルプス眺望！穂高温泉郷の秘湯と名水わさび・信州サーモン｜ふるさと納税で泊まれる名宿ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">大内宿</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">江戸時代の宿場町の面影をそのまま残す国の重要伝統的建造物群保存地区。茅葺き屋根の民家が街道沿いに並び、名物の「高遠そば（一本ねぎそば）」を味わえます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">鶴ヶ城（会津若松城）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">戊辰戦争の激戦に耐え抜いた難攻不落の名城。赤瓦を纏った天守閣は日本唯一であり、内部の歴史資料館や最上階からの城下町一望が見どころです。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">五色沼湖沼群（裏磐梯）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">磐梯山の噴火によって形成された無数の神秘的な沼群。水に含まれる鉱物や気象条件により、エメラルドグリーンやコバルトブルーに色彩が変わるハイキングコースです。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">猪苗代湖</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「天鏡湖」とも称される日本第4位の面積を誇る美しい湖。雄大な磐梯山を水面に映し出し、冬には飛来するハクチョウやしぶき氷の絶景が見られます。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       </main>
 
       {/* フッター */}
       <footer className="bg-stone-900 text-stone-400 py-8 px-4 text-center text-xs space-y-2 border-t border-stone-800">
         <p>© 2026 クラウドトラベル All Rights Reserved.</p>
-        <p>【長野・安曇野の田園紅葉＆北アルプス眺望】 ※掲載のホテル情報・料金・評価は楽天トラベルAPIより取得した最新データに基づきます。最新の空室状況はリンク先の各プラン詳細をご確認ください。</p>
+        <p>※掲載のホテル情報・料金・評価は楽天トラベルAPIより取得した最新データに基づきます。最新の空室状況はリンク先の各プラン詳細をご確認ください。</p>
       </footer>
     
       <HubRelatedPosts currentSlug="furusato-tax-nagano-azumino-hotaka-autumn-stay" />

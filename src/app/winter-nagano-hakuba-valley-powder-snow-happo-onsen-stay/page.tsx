@@ -146,49 +146,14 @@ export default function WinterFeaturePage() {
           </div>
         </section>
 
-        {/* 観光地ガイド・公式Wikipedia写真＆解説 */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl border border-stone-200/90 overflow-hidden shadow-sm">
-            <div className="bg-gradient-to-r from-stone-900 to-slate-800 text-white px-6 py-4 flex items-center justify-between">
-              <div className="flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-cyan-400 animate-pulse" />
-                <h2 className="text-base md:text-lg font-bold tracking-wide">冬の観光名所ガイド：白馬八方尾根スキー場（HAKUBA VALLEY）</h2>
-              </div>
-              <span className="text-[11px] text-stone-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/10">地域名所解説</span>
-            </div>
-            <div className="flex flex-col gap-6 p-6">
-              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100 border border-stone-200/60 shadow-inner">
-                <Image
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Hakuba_Happo-one_Winter_Resort.JPG/1280px-Hakuba_Happo-one_Winter_Resort.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="白馬八方尾根スキー場（HAKUBA VALLEY）"
-                  fill
-                  className="object-cover hover:scale-105 transition duration-500"
-                  sizes="(max-width: 768px) 100vw, 400px"
-                />
-                <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/75 to-transparent p-2 text-right">
-                  <span className="text-[10px] text-white/90">写真出典: Wikimedia Commons</span>
-                </div>
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">白馬八方尾根スキー場（HAKUBA VALLEY）の歴史と見どころ</h3>
-                <p className="text-xs md:text-sm text-stone-600 leading-relaxed">白馬八方尾根スキー場（はくばはっぽうおねスキーじょう）は、長野県北安曇郡白馬村八方にあるスキー場で、単体のスキー場としては日本国内最大級のスキー場である。「八方尾根スキー場」と呼ばれることが多い。1998年長野オリンピックの際にはアルペンスキーの高速系種目および複合の競技会場となった。 経営母体は八方尾根開発株式会社と白馬観光開発株式会社の2社。 営業期間は積雪の具合により異なるが、通常の場合は12月上旬から翌年5月のゴールデンウィーク最終日までとなる（ただし、最後まで営業す…</p>
-                <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                  <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                  <span className="text-cyan-700 font-semibold">冬の探訪推奨スポット</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
+        
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
             <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
               白馬・八方尾根・栂池高原 厳選の温泉＆リゾート宿5選
             </h2>
-            <p className="text-xs sm:text-sm text-stone-500">【HAKUBA VALLEY極上パウダースノーと白馬八】 
-              楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
+            <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
 
@@ -665,8 +630,7 @@ export default function WinterFeaturePage() {
                 <h3 className="text-xl sm:text-2xl font-bold">
                   長野県の宿に実質2,000円で泊まる賢い方法
                 </h3>
-                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">【HAKUBA VALLEY極上パウダースノーと白馬八】 
-                  楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
+                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
               <a

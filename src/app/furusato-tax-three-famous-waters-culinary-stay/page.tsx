@@ -76,7 +76,7 @@ export default function Page() {
       />
         {/* Intro Card */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">はじめに｜日本三大名水＆清冽な湧水仕込みの美食宿×ふるさと納税</h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">はじめに</h2>
           <p className="text-slate-700 leading-relaxed text-base sm:text-lg">
             日本列島の豊かな森林と火山灰地層が生み出す世界最高品質のミネラルウォーター――環境省の名水百選の中でも圧倒的な湧水量を誇り常温14度の清水が湧き出す熊本の「南阿蘇白川水源」、花崗岩層をくぐり抜けウイスキーの仕込み水としても世界に知られる山梨の「八ヶ岳南麓・白州名水」、そして千利休をはじめ歴代茶人や酒蔵がこよなく愛した京都の「伏見の伏水」。カルキ臭が一切ない清冽な名水で出汁を取り、炊き上げたご飯や手打ち蕎麦、そして名水仕込みの純米酒は、素材のポテンシャルを極限まで引き出します。名水の郷に湧く名湯に浸かり、心洗われる美食滞在を楽天ふるさと納税でお楽しみください。
           </p>
@@ -85,9 +85,8 @@ export default function Page() {
             <div className="flex items-start gap-4">
               <span className="text-3xl">💡</span>
               <div>
-                <h3 className="text-base sm:text-lg font-bold text-amber-900 mb-1">楽天ふるさと納税「トラベルクーポン」賢い活用法（日本三大名水＆清冽な湧水仕込みの美食宿×ふるさと納税）</h3>
-                <p className="text-sm sm:text-base text-amber-800 leading-relaxed">【日本三大名水＆清冽な湧水仕込みの美食宿×ふるさと納税】 
-                  寄付額の最大30%分の宿泊クーポンが付与され、寄付当日から予約に即時利用可能。通常の楽天ポイント還元やお買い物マラソンとも併用できるため、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級リゾートや名湯旅館に泊まれる最強の制度です。
+                <h3 className="text-base sm:text-lg font-bold text-amber-900 mb-1">楽天ふるさと納税「トラベルクーポン」賢い活用法</h3>
+                <p className="text-sm sm:text-base text-amber-800 leading-relaxed">寄付額の最大30%分の宿泊クーポンが付与され、寄付当日から予約に即時利用可能。通常の楽天ポイント還元やお買い物マラソンとも併用できるため、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級リゾートや名湯旅館に泊まれる最強の制度です。
                 </p>
               </div>
             </div>
@@ -96,7 +95,7 @@ export default function Page() {
 
         {/* 3 Merits */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 border-l-4 border-indigo-600 pl-4">この特集ならではの3大魅力｜日本三大名水＆清冽な湧水仕込みの美食宿×ふるさと納税</h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 border-l-4 border-indigo-600 pl-4">この特集ならではの3大魅力</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             
             <div key="0" className="bg-slate-50 rounded-xl p-5 border border-slate-200 hover:border-indigo-300 transition-colors">
@@ -601,9 +600,8 @@ export default function Page() {
             <span>🎟️</span>
             <span>楽天ふるさと納税×楽天トラベル 公式連携</span>
           </div>
-          <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold mb-4 leading-tight">ふるさと納税で賢くお得に、憧れの極上宿へ｜日本三大名水＆清冽な湧水仕込みの美食宿×ふるさと納税</h2>
-          <p className="text-slate-300 text-sm sm:text-base max-w-2xl mx-auto mb-8 leading-relaxed">【日本三大名水＆清冽な湧水仕込みの美食宿×ふるさと納税】 
-            返礼品の宿泊クーポンは翌年以降の旅行にも活用でき、ポイント還元もフル適用。控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）ワンランク上の滞在をお楽しみください。
+          <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold mb-4 leading-tight">ふるさと納税で賢くお得に、憧れの極上宿へ</h2>
+          <p className="text-slate-300 text-sm sm:text-base max-w-2xl mx-auto mb-8 leading-relaxed">返礼品の宿泊クーポンは翌年以降の旅行にも活用でき、ポイント還元もフル適用。控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）ワンランク上の滞在をお楽しみください。
           </p>
           <div className="flex flex-col sm:flex-row justify-center items-center gap-4 max-w-md mx-auto">
             <a
@@ -619,7 +617,7 @@ export default function Page() {
 
         {/* Cross Links Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
-          <h2 className="text-lg sm:text-xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">あわせて読みたい関連特集ガイド｜日本三大名水＆清冽な湧水仕込みの美食宿×ふるさと納税</h2>
+          <h2 className="text-lg sm:text-xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">あわせて読みたい関連特集ガイド</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             
             <Link

@@ -608,7 +608,7 @@ export default function HakoneSengokuharaWinterPage() {
               className="bg-stone-900/90 hover:bg-stone-800 p-4 rounded-2xl transition border border-stone-800 block group"
             >
               <span className="text-xs text-amber-300 font-semibold block mb-1">特集一覧</span>
-              <h3 className="text-sm font-bold group-hover:text-amber-200 transition">全国の厳選温泉・旬旅特集まとめを見る（箱根仙石原温泉の冬旅・名湯美食ガイド！）</h3>
+              <h3 className="text-sm font-bold group-hover:text-amber-200 transition">全国の厳選温泉・旬旅特集まとめを見る</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-kanagawa-hakone-sengokuhara-onsen-susuki-nigori-stay" />

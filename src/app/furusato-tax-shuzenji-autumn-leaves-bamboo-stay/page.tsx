@@ -128,12 +128,12 @@ export default function FeatureArticlePage() {
           {/* エリア概要セクション */}
           <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-stone-200/80">
             <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 pb-3 border-b border-stone-200 flex items-center gap-3"><span className="text-2xl">🍂</span>
-              秋の風情と旬の味覚を堪能する特別な旅｜伊豆修善寺温泉の竹林の小径紅葉＆桂川の朱塗りの橋</h2>
+              秋の風情と旬の味覚を堪能する特別な旅</h2>
             <p className="text-stone-700 leading-relaxed text-sm md:text-base mb-6">
               伊豆半島の山間に位置する修善寺温泉は、弘法大師が開湯したと伝わる伊豆屈指の歴史ある名湯地。「伊豆の小京都」とも称され、桂川沿いの「竹林の小径」や朱塗りの橋、修禅寺境内が深紅や黄金のモミジで彩られます。文豪たちがこよなく愛した風情ある数寄屋造りの名旅館で、滑らかなアルカリ性単純温泉に浸かり、駿河湾の地魚や伊豆牛の贅を味わえます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2"><span>💡</span> 10月〜11月の旅を満喫する3大ポイント（伊豆修善寺温泉の竹林の小径紅葉＆桂川の朱塗りの橋）</h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2"><span>💡</span> 10月〜11月の旅を満喫する3大ポイント</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
                 <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（伊豆修善寺温泉の竹林の小径紅葉＆桂川の朱塗りの橋）</li>
                 <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（伊豆修善寺温泉の竹林の小径紅葉＆桂川の朱塗りの橋）</li>
@@ -327,10 +327,9 @@ export default function FeatureArticlePage() {
 
           {/* ふるさと納税活用法 */}
           <section className="bg-gradient-to-r from-amber-500 to-orange-600 text-white rounded-2xl p-6 md:p-8 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で控除上限内で実質2,000円自己負担・ふるさと納税クーポンで宿泊する方法｜伊豆修善寺温泉の竹林の小径紅葉＆桂川の朱塗りの橋</h2>
+            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で控除上限内で実質2,000円自己負担・ふるさと納税クーポンで宿泊する方法</h2>
             <div className="space-y-4 text-xs md:text-sm text-amber-50 leading-relaxed">
-              <p>【伊豆修善寺温泉の竹林の小径紅葉＆桂川の朱塗りの橋】 
-                楽天ふるさと納税の「トラベルクーポン（宿泊補助券）」を利用すると、寄付金額に応じた割引クーポンが即時または後日発行され、楽天トラベルでの宿泊予約時に直接利用できます。
+              <p>楽天ふるさと納税の「トラベルクーポン（宿泊補助券）」を利用すると、寄付金額に応じた割引クーポンが即時または後日発行され、楽天トラベルでの宿泊予約時に直接利用できます。
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-3 pt-2 text-stone-900">
                 <div className="bg-white rounded-xl p-3.5 text-center shadow-sm">
@@ -356,7 +355,7 @@ export default function FeatureArticlePage() {
         {/* サイドバー */}
         <aside className="space-y-6">
           <div className="bg-white rounded-2xl p-6 shadow-sm border border-stone-200/80 sticky top-6">
-            <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2"><span>📌</span> この特集で紹介した宿（伊豆修善寺温泉の竹林の小径紅葉＆桂川の朱塗りの橋）</h3>
+            <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2"><span>📌</span> この特集で紹介した宿</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.shuzenji_katsuragawa.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">

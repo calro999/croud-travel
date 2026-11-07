@@ -100,7 +100,7 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
         {/* 3つの醍醐味セクション */}
         <section className="mb-16">
           <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-6 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
-            この旅で体感したい3つの醍醐味｜客室露天風呂付き客室で過ごす大人のプライベート温泉ス</h2>
+            この旅で体感したい3つの醍醐味</h2>
           <div className="grid gap-6">
 
             <div className="bg-white rounded-2xl p-6 md:p-8 border border-stone-200/80 shadow-xs">
@@ -154,9 +154,8 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
         <section className="mb-16">
           <div className="mb-8">
             <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-3 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
-              ふるさと納税で泊まる厳選名宿｜客室露天風呂付き客室で過ごす大人のプライベート温泉ス</h2>
-            <p className="text-stone-600 text-sm leading-relaxed">【客室露天風呂付き客室で過ごす大人のプライベート温泉ス】 
-              楽天トラベルAPIから最新の実在宿データを取得。対象自治体のふるさと納税クーポンを利用して控除上限内で実質2,000円自己負担（最大30%クーポン還元）で泊まれる名宿です。
+              ふるさと納税で泊まる厳選名宿</h2>
+            <p className="text-stone-600 text-sm leading-relaxed">楽天トラベルAPIから最新の実在宿データを取得。対象自治体のふるさと納税クーポンを利用して控除上限内で実質2,000円自己負担（最大30%クーポン還元）で泊まれる名宿です。
             </p>
           </div>
 
@@ -251,8 +250,7 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     箱根の塔ノ澤の豊かな森に抱かれ、専用の吊り橋を渡ってアプローチする静寂に包まれた大人のための隠れ宿。「竹取物語」をデザインコンセプトに創られた館内は、水盤に浮かぶバーラウンジや幻想的な竹林が広がる非日常の世界。全客室のテラスに自家源泉かけ流しの天然温泉露天風呂を備え、肌に優しく吸い付くようなアルカリ性単純温泉にいつでも浸かることができます。厳選された京都の食材と旬の味覚を融合させた本格京懐石を堪能し、日常の喧騒から完全に隔絶された静謐な大人の贅沢を満喫できます。
                   </p>
-                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">【客室露天風呂付き客室で過ごす大人のプライベート温泉ス】 
-                    訪れるすべてのお客様に心安らぐ贅沢な寛ぎの時間を提供し、高い評価を獲得している極上宿です。
+                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">訪れるすべてのお客様に心安らぐ贅沢な寛ぎの時間を提供し、高い評価を獲得している極上宿です。
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -312,8 +310,7 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     平安貴族の避暑地として栄えた京都・嵐山、大堰川（保津川）のほとりに佇み、歴史的建造物と現代ラグジュアリーが調和する世界的ホテルブランドの名宿。プライベート露天風呂付き客室「柚葉」などでは、嵐山温泉の肌触り豊かな天然温泉を部屋の専用湯船に湛え、中庭の緑を眺めながら至福の湯浴みが叶います。歴史ある延命閣での伝統的な京会席とフレンチが融合したディナー、川沿いのカフェ「茶寮 八翠」でのシャンパンディライトなど、古都の雅と世界最高水準のホスピタリティが融合した至高の京都ステイを体験できます。
                   </p>
-                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">【客室露天風呂付き客室で過ごす大人のプライベート温泉ス】 
-                    訪れるすべてのお客様に心安らぐ贅沢な寛ぎの時間を提供し、高い評価を獲得している極上宿です。
+                  <p className="text-stone-500 text-xs italic bg-stone-50 p-3 rounded-xl border border-stone-100 mb-4 leading-relaxed">訪れるすべてのお客様に心安らぐ贅沢な寛ぎの時間を提供し、高い評価を獲得している極上宿です。
                   </p>
                   
                   <div className="bg-stone-50 rounded-xl p-3.5 border border-stone-200/60 mb-6 text-xs text-stone-600 space-y-1">
@@ -351,7 +348,7 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
 
         {/* 関連特集クロスリンク */}
         <section className="bg-stone-50 rounded-3xl p-8 border border-stone-200/80 mb-16">
-          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">あわせて読みたい関連特集｜客室露天風呂付き客室で過ごす大人のプライベート温泉ス</h2>
+          <h2 className="text-lg md:text-xl font-bold font-serif text-stone-800 mb-4">あわせて読みたい関連特集</h2>
           <ul className="grid sm:grid-cols-2 gap-2">
 
               <li key="furusato-tax-anniversary-luxury-suite-villa-stay">
@@ -390,9 +387,8 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
 
         {/* ハブページへの誘導フッター */}
         <div className="bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 text-white rounded-3xl p-8 md:p-10 shadow-xl border border-amber-900/40 text-center mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">もっとお得に旅を楽しむためのハブページへ｜客室露天風呂付き客室で過ごす大人のプライベート温泉ス</h2>
-          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">【客室露天風呂付き客室で過ごす大人のプライベート温泉ス】 
-            全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
+          <h2 className="text-xl sm:text-2xl font-bold font-serif mb-3 text-amber-50">もっとお得に旅を楽しむためのハブページへ</h2>
+          <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-xl mx-auto">全国のテーマ別宿特集や、旅行費を最大30％安くする裏ワザを網羅した総合ガイドを公開中。
           </p>
           <Link
             href="/travel-savings-guide/"

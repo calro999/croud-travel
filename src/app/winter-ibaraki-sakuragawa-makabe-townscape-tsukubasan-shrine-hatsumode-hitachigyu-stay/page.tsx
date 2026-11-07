@@ -260,45 +260,7 @@ export default function FeaturePage() {
             </div>
           </section>
 
-          {/* Wikipedia 近隣観光名所紹介 */}
-          <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
-            <div className="flex items-center gap-2 border-b border-stone-100 pb-4">
-              <Info className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                近隣の必見名所：常陸国の蔵の街・真壁の町並み（重要伝統的建造物群保存地区・潮田家見世蔵と筑波山神社初詣）
-              </h2>
-            </div>
-            <div className="flex flex-col gap-6">
-              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
-                <img
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Ushioda-ke_House.JPG/1280px-Ushioda-ke_House.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="真壁町"
-                  className="w-full h-full object-cover"
-                  loading="eager" fetchPriority="high"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-lg">
-                  真壁町
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  真壁町（まかべまち）は茨城県桜川市内の町である。市町村合併の前は、真壁郡にあった。
-                </p>
-                <div className="pt-2 text-xs">
-                  <a
-                    href="https://ja.wikipedia.org/wiki/%E7%9C%9F%E5%A3%81%E7%94%BA"
-                    target="_blank"
-                    rel="noopener noreferrer nofollow"
-                    className="inline-flex items-center gap-1 text-cyan-700 hover:text-cyan-900 underline"
-                  >
-                    <span>出典：Wikipedia公式『真壁町』詳細情報を見る</span>
-                    <ExternalLink className="w-3 h-3" />
-                  </a>
-                </div>
-              </div>
-            </div>
-          </section>
-
+          
           {/* 厳選名宿5選 */}
           <section className="space-y-8">
             <div className="border-b border-stone-200 pb-4">

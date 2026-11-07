@@ -128,12 +128,12 @@ export default function FeatureArticlePage() {
           {/* エリア概要セクション */}
           <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-stone-200/80">
             <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 pb-3 border-b border-stone-200 flex items-center gap-3"><span className="text-2xl">🍂</span>
-              秋の風情と旬の味覚を堪能する特別な旅｜山寺立石寺の奇岩絶壁紅葉＆開運千段石段</h2>
+              秋の風情と旬の味覚を堪能する特別な旅</h2>
             <p className="text-stone-700 leading-relaxed text-sm md:text-base mb-6">
               山形県中央部に位置する山寺（宝珠山立石寺）は、断崖絶壁に堂宇が建ち並ぶ東北屈指の霊場。秋には全山が赤や黄色に染まり、1,015段の石段を登りきった「五大堂」からは絵画のような錦秋のパノラマが広がります。参拝の後は、車で約15分の将棋駒の街・天童温泉へ。肌に優しい弱アルカリ性硫酸塩温泉に浸かり、実りの秋を迎える山形牛や名物芋煮鍋に舌鼓を打てます。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border border-amber-200/80">
-              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2"><span>💡</span> 10月〜11月の旅を満喫する3大ポイント（山寺立石寺の奇岩絶壁紅葉＆開運千段石段）</h3>
+              <h3 className="font-bold text-amber-950 text-sm md:text-base mb-2 flex items-center gap-2"><span>💡</span> 10月〜11月の旅を満喫する3大ポイント</h3>
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
                 <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（山寺立石寺の奇岩絶壁紅葉＆開運千段石段）</li>
                 <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（山寺立石寺の奇岩絶壁紅葉＆開運千段石段）</li>
@@ -327,10 +327,9 @@ export default function FeatureArticlePage() {
 
           {/* ふるさと納税活用法 */}
           <section className="bg-gradient-to-r from-amber-500 to-orange-600 text-white rounded-2xl p-6 md:p-8 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で控除上限内で実質2,000円自己負担・ふるさと納税クーポンで宿泊する方法｜山寺立石寺の奇岩絶壁紅葉＆開運千段石段</h2>
+            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で控除上限内で実質2,000円自己負担・ふるさと納税クーポンで宿泊する方法</h2>
             <div className="space-y-4 text-xs md:text-sm text-amber-50 leading-relaxed">
-              <p>【山寺立石寺の奇岩絶壁紅葉＆開運千段石段】 
-                楽天ふるさと納税の「トラベルクーポン（宿泊補助券）」を利用すると、寄付金額に応じた割引クーポンが即時または後日発行され、楽天トラベルでの宿泊予約時に直接利用できます。
+              <p>楽天ふるさと納税の「トラベルクーポン（宿泊補助券）」を利用すると、寄付金額に応じた割引クーポンが即時または後日発行され、楽天トラベルでの宿泊予約時に直接利用できます。
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-3 pt-2 text-stone-900">
                 <div className="bg-white rounded-xl p-3.5 text-center shadow-sm">
@@ -356,7 +355,7 @@ export default function FeatureArticlePage() {
         {/* サイドバー */}
         <aside className="space-y-6">
           <div className="bg-white rounded-2xl p-6 shadow-sm border border-stone-200/80 sticky top-6">
-            <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2"><span>📌</span> この特集で紹介した宿（山寺立石寺の奇岩絶壁紅葉＆開運千段石段）</h3>
+            <h3 className="font-bold text-stone-900 mb-4 pb-2 border-b border-stone-200 flex items-center gap-2"><span>📌</span> この特集で紹介した宿</h3>
             <ul className="space-y-4 text-xs md:text-sm">
               <li>
                 <a href={HOTEL_DATA.tendo_matsunoyu.url} target="_blank" rel="noopener noreferrer" className="block p-3 rounded-xl hover:bg-stone-50 transition border border-stone-100 hover:border-amber-200">

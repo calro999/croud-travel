@@ -124,7 +124,7 @@ export default function UltraLuxuryWinterFeaturePage() {
         {/* 導入解説 */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600 shrink-0" />
-            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>｜2026-2027年11-12月の北海道・支笏湖</h2>
+            <span>初冬にこの地を訪れるべき理由と風土の魅力</span></h2>
           <p className="text-xs md:text-sm text-slate-700 leading-relaxed whitespace-pre-line">
             新千歳空港から車でわずか40分、原生林を抜けた先に突如として広がる紺碧のカルデラ湖『支笏湖（しこつこ）』。環境省の水質測定調査で幾度も全国1位に輝く驚異的な透明度を誇り、水深が360mを超えるため真冬でも湖水が凍結しない『日本最北の不凍湖』として知られます。11月から12月にかけての初冬は、夏のカヌー客や紅葉観光の賑わいが去り、ピンと張り詰めた清冽な大気の中に『支笏湖ブルー』と冠雪した恵庭岳（標高1320m）の静寂が広がる年間で最も神聖なシーズン。湖畔に湧き出る支笏湖温泉は、重曹と食塩を豊富に含み『美肌の湯』として名高く、とろみのある湯が冬の冷えた肌をしっとりと包み込みます。この静寂の湖畔に誕生した北海道のラグジュアリーの頂点が、鶴雅グループのフラッグシップ『しこつ湖 鶴雅別荘 碧の座（あおのざ）』。全室が100平米を超えるレイクビューの温泉露天風呂付きスイートで構成され、縄文文化やアイヌ文様の美意識を取り入れた調度品に囲まれながら、オールインクルーシブで極上の美酒と美食に浸ることができます。夕食には、厳しい寒さの中で脂の乗りが最高潮に達する噴火湾・オホーツク海の活毛ガニやウニ、そして洞爺湖サミットの晩餐会でも称賛された最高級ブランド『白老牛（しらおいぎゅう）』の炭火焼きステーキ。湖のさざ波と木々のざわめきだけが響く完全プライベート空間で過ごす初冬の支笏湖は、日常のすべてをリセットし魂を満たす至高の隠れ里です。
           </p>
@@ -171,41 +171,7 @@ export default function UltraLuxuryWinterFeaturePage() {
           </div>
         </section>
 
-        {/* Wikipedia連携 観光地紹介 */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
-          <div className="flex items-center justify-between border-b border-slate-100 pb-3">
-            <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2">
-              <MapPin className="w-5 h-5 text-rose-600 shrink-0" />
-              <span>近隣の必見名所：支笏湖</span>
-            </h2>
-            <span className="text-[11px] text-slate-400">Wikipedia・公式解説連携</span>
-          </div>
-
-          <div className="grid md:grid-cols-12 gap-6 items-center">
-            <div className="md:col-span-5 relative h-52 md:h-60 rounded-xl overflow-hidden bg-slate-100 border border-slate-200">
-              <Image
-                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Lake_Shikotsu_Mt_Eniwa-dake03n4272.jpg/1280px-Lake_Shikotsu_Mt_Eniwa-dake03n4272.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                alt="日本屈指の透明度を誇るカルデラ湖・支笏湖（日本最北の不凍湖・支笏湖ブルーと恵庭岳の冬景色）"
-                fill
-                className="object-cover"
-                sizes="(max-width: 768px) 100vw, 360px"
-              />
-            </div>
-            <div className="md:col-span-7 space-y-2.5">
-              <h3 className="text-base font-bold text-slate-900 leading-snug">
-                日本屈指の透明度を誇るカルデラ湖・支笏湖（日本最北の不凍湖・支笏湖ブルーと恵庭岳の冬景色）
-              </h3>
-              <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
-                支笏湖（しこつこ）は、北海道千歳市にある淡水湖。支笏洞爺国立公園に属し、日本最北の不凍湖となっている。...
-              </p>
-              <div className="bg-amber-50 rounded-lg p-3 border border-amber-200/60 text-[11px] md:text-xs text-amber-900 leading-relaxed">
-                <span className="font-bold block mb-0.5">💡 周辺観光のポイント</span>
-                各高級旅館からスムーズにアクセス可能。初冬の澄んだ大気のもとで、静寂と壮大な自然美を心ゆくまで堪能できます。
-              </div>
-            </div>
-          </div>
-        </section>
-
+        
         {/* 楽天API厳選宿 5選 */}
         <section className="space-y-6">
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
@@ -559,7 +525,7 @@ export default function UltraLuxuryWinterFeaturePage() {
         {/* アクセス＆見頃情報 */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 md:p-8 space-y-4">
           <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300"><Train className="w-5 h-5 shrink-0" />
-            <span>アクセスガイド・気候と服装のポイント</span>｜2026-2027年11-12月の北海道・支笏湖</h2>
+            <span>アクセスガイド・気候と服装のポイント</span></h2>
           <div className="text-xs md:text-sm text-slate-300 leading-relaxed whitespace-pre-line">
             【エリアへのアクセス】
 ・飛行機・空港から：新千歳空港より車・レンタカーまたはタクシーで国道36号線・道道16号線（支笏湖公園線）を経由して約40分。空港発の北海道中央バス（支笏湖行き）で約55分。
@@ -576,7 +542,7 @@ export default function UltraLuxuryWinterFeaturePage() {
         {/* よくある質問 (FAQ) */}
         <section className="bg-slate-100 rounded-2xl p-6 md:p-8 space-y-4">
           <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
-            <span>よくある質問（FAQ）</span>｜2026-2027年11-12月の北海道・支笏湖</h2>
+            <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
             <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
@@ -610,7 +576,7 @@ export default function UltraLuxuryWinterFeaturePage() {
 
         {/* ふるさと納税・関連リンク */}
         <section className="bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 rounded-2xl p-6 md:p-8 space-y-3 text-center">
-          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！｜2026-2027年11-12月の北海道・支笏湖</h2>
+          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！</h2>
           <p className="text-xs md:text-sm max-w-xl mx-auto font-medium">
             高価格帯の高級宿だからこそ、楽天トラベルふるさと納税クーポンの割引効果は絶大。控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）憧れのスイートルームに宿泊できます。
           </p>

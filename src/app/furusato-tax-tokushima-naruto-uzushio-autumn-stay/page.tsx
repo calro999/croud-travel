@@ -136,11 +136,10 @@ export default function Page() {
           <p className="text-stone-700 leading-relaxed">
             秋風が心地よく吹き抜け、山海の恵みが豊かに実る10月・11月。日本各地がもっとも美しく鮮やかな彩りに包まれる季節を迎えます。なかでも「徳島・鳴門＆大毛島・鳴門海峡」は、秋の大潮鳴門うずしおクルーズ・大塚国際美術館アート散策・鳴門海峡サンライズなど、この時期にしか出逢えない息を呑む情景と極上の味覚が凝縮された屈指の旅先です。
           </p>
-          <p className="text-stone-700 leading-relaxed">【徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート】 
-            さらに賢く贅沢に旅を楽しむ方法として今もっとも注目されているのが「楽天ふるさと納税トラベルクーポン」の活用です。地域の自治体に寄付を行うことで返礼品として宿泊割引クーポンを獲得でき、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級旅館やリゾートホテルへの宿泊が実現します。
+          <p className="text-stone-700 leading-relaxed">さらに賢く贅沢に旅を楽しむ方法として今もっとも注目されているのが「楽天ふるさと納税トラベルクーポン」の活用です。地域の自治体に寄付を行うことで返礼品として宿泊割引クーポンを獲得でき、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級旅館やリゾートホテルへの宿泊が実現します。
           </p>
           <div className="bg-amber-50 border border-amber-200 p-4 rounded-lg mt-4">
-            <h3 className="font-bold text-amber-900 text-sm mb-1">【秋旅のポイント】ふるさと納税トラベルクーポンの特徴（徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート）</h3>
+            <h3 className="font-bold text-amber-900 text-sm mb-1">【秋旅のポイント】ふるさと納税トラベルクーポンの特徴</h3>
             <ul className="list-disc list-inside text-xs md:text-sm text-amber-800 space-y-1">
               <li>寄付金額に応じた宿泊補助（最大30%相当のクーポン付与）（徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート）</li>
               <li>楽天ポイントも通常通り付与（お買い物マラソンやSPUでさらにお得）（徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート）</li>
@@ -151,10 +150,10 @@ export default function Page() {
 
         {/* 季節の見どころと味覚 */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-6">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">10月・11月に訪れたい絶景スポットと秋の味覚｜徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">10月・11月に訪れたい絶景スポットと秋の味覚</h2>
           <div className="grid md:grid-cols-2 gap-6">
             <div className="bg-stone-50 p-5 rounded-lg border border-stone-200">
-              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 周辺の見どころ・名所（徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート）</h3>
+              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 周辺の見どころ・名所</h3>
               <ul className="text-sm text-stone-600 space-y-2">
                 <li className="flex items-start"><span className="text-amber-500 mr-2">•</span>渦の道・大鳴門橋遊歩道（海上45mから覗く渦潮）</li>
                 <li className="flex items-start"><span className="text-amber-500 mr-2">•</span>うずしお観潮船（わんだーなると）</li>
@@ -164,11 +163,11 @@ export default function Page() {
               </ul>
             </div>
             <div className="bg-stone-50 p-5 rounded-lg border border-stone-200">
-              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 旬の味覚・ご当地グルメ（徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート）</h3>
+              <h3 className="text-base font-bold text-stone-900 mb-2 flex items-center"><span className="text-amber-600 mr-2">◆</span> 旬の味覚・ご当地グルメ</h3>
               <p className="text-sm text-stone-700 leading-relaxed mb-3">
                 一本釣り天然鳴門鯛の宝楽焼き・鯛飯・阿波牛フィレステーキ・鳴門金時スイーツ・すだち鰤
               </p>
-              <h3 className="text-base font-bold text-stone-900 mb-1 flex items-center"><span className="text-amber-600 mr-2">◆</span> 温泉の特徴（徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート）</h3>
+              <h3 className="text-base font-bold text-stone-900 mb-1 flex items-center"><span className="text-amber-600 mr-2">◆</span> 温泉の特徴</h3>
               <p className="text-sm text-stone-700 leading-relaxed">
                 鳴門温泉（ナトリウム-塩化物泉、美肌と保湿に優れたミネラル豊富な海洋性温泉）と海一望の展望露天風呂
               </p>
@@ -333,7 +332,7 @@ export default function Page() {
           </h2>
           <div className="space-y-6">
             <div className="border-l-2 border-amber-500 pl-4 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base">【1日目】錦秋の絶景巡りと極上温泉チェックイン（徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート）</h3>
+              <h3 className="font-bold text-stone-900 text-base">【1日目】錦秋の絶景巡りと極上温泉チェックイン</h3>
               <ul className="text-sm text-stone-700 space-y-2">
                 <li><span className="font-semibold text-amber-700">10:00</span> - 現地到着後、渦の道・大鳴門橋遊歩道（海上45mから覗く渦潮）を散策。澄んだ秋空と鮮やかな景観を堪能</li>
                 <li><span className="font-semibold text-amber-700">12:30</span> - ご当地名店にて旬の味覚（一本釣り天然鳴門鯛の宝楽焼きなど）の贅沢ランチ</li>
@@ -343,7 +342,7 @@ export default function Page() {
               </ul>
             </div>
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base">【2日目】朝の清涼な空気と名所・お土産巡り（徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート）</h3>
+              <h3 className="font-bold text-stone-900 text-base">【2日目】朝の清涼な空気と名所・お土産巡り</h3>
               <ul className="text-sm text-stone-700 space-y-2">
                 <li><span className="font-semibold text-emerald-700">07:30</span> - 朝風呂で爽やかな目覚め＆地場産食材が並ぶ和朝食（徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート）</li>
                 <li><span className="font-semibold text-emerald-700">09:30</span> - チェックアウト後、大塚国際美術館（世界の名画陶板再現）を訪問</li>
@@ -359,7 +358,7 @@ export default function Page() {
 
         {/* 関連特集リンク */}
         <section className="bg-amber-50/50 p-6 rounded-xl border border-amber-200 space-y-4">
-          <h2 className="text-lg font-bold text-stone-900">こちらもチェック！秋のふるさと納税特集｜徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート</h2>
+          <h2 className="text-lg font-bold text-stone-900">こちらもチェック！秋のふるさと納税特集</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs md:text-sm">
             <Link href="/furusato-tax-mie-ise-matsusaka-autumn-stay/" className="text-emerald-800 hover:underline">
               → 三重・松阪（松阪城跡紅葉＆松阪牛会席）特集
@@ -504,7 +503,7 @@ export default function Page() {
         </section>
 
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -581,7 +580,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>「徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート（鳴門鯛・阿波牛と絶景オーシャンビュー温泉）」の旅の拠点として、落ち着いた客室環境と丁寧なおもてなしを備えた人気の宿泊施設です。</p>
                   <p><strong>【所在地・アクセス】</strong>〒  ／ 最寄り駅：主要駅 ／ 交通案内：神戸淡路鳴門自動車道 鳴門北ＩＣより１分 ＪＲ鳴門駅より車で約１０分 大塚美術館まで車で3分</p>
-                  <p>【徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「子供も大人も大満足、海辺の遊びと食事を満喫家族で伺いました。チェックインは15時でしたが.12時にホテルにつきチェックインまで海辺や、釣りぼり、職業体験などでとても楽しむことができました。…」
@@ -625,7 +624,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>アワード受賞！徳島の幸満載の会席料理が食べ放題のブッフェ！鳴門海峡の絶景！大浴場には露天風呂も</p>
                   <p><strong>【所在地・アクセス】</strong>〒 徳島県鳴門市鳴門町土佐泊浦大毛82-88 ／ 最寄り駅：鳴門 ／ 交通案内：神戸淡路鳴門自動車道：鳴門北ＩＣより２分。ＪＲ鳴門駅より車で約１０分。大塚国際美術館まで車で約２分。</p>
-                  <p>【徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も眺め最高。奥さんも大喜びの四国旅行全て最高でした。今まで泊まった中で1番です。食事はバイキングで大変美味しかったです～。部屋からの眺めもすぐ目の前が海で最高の長めでした。奥さんも大喜びでした…」
@@ -633,56 +632,14 @@ export default function Page() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート（鳴門鯛・阿波牛と絶景オーシャンビュー温泉）」とあわせて巡りたい大阪府の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート！鳴門鯛・阿波牛と絶景オーシャンビュー温泉｜ふるさと納税で泊まれる名宿ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">大阪城公園（大阪城天守閣）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">豊臣秀吉公が築城した天下の名城。黄金の飾りが映える重厚な天守閣と、壮大な石垣・巨石、春には桜が咲き誇る広大な都会のオアシスです。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">道頓堀・グリコサイン</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">食い倒れの街・大阪を象徴するネオン街。グリコの巨大看板前での記念撮影や、道頓堀川沿いでのたこ焼き・串カツ食べ歩きで活気にあふれています。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">ユニバーサル・スタジオ・ジャパン（USJ）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">「ウィザーディング・ワールド・オブ・ハリー・ポッター」や「スーパー・ニンテンドー・ワールド」など世界最高峰のエンターテインメントが体験できる世界級テーマパーク。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">通天閣・新世界</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">なにわのシンボルタワー「通天閣」と、昭和レトロな雰囲気が色濃く残る新世界。幸運の神様「ビリケンさん」の足の裏を撫でて幸運を祈願できます。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       </main>
 
       {/* フッター */}
       <footer className="bg-stone-900 text-stone-400 py-8 px-4 text-center text-xs space-y-2 border-t border-stone-800">
         <p>© 2026 クラウドトラベル All Rights Reserved.</p>
-        <p>【徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート】 ※掲載のホテル情報・料金・評価は楽天トラベルAPIより取得した最新データに基づきます。最新の空室状況はリンク先の各プラン詳細をご確認ください。</p>
+        <p>※掲載のホテル情報・料金・評価は楽天トラベルAPIより取得した最新データに基づきます。最新の空室状況はリンク先の各プラン詳細をご確認ください。</p>
       </footer>
     
       <HubRelatedPosts currentSlug="furusato-tax-tokushima-naruto-uzushio-autumn-stay" />

@@ -106,14 +106,6 @@ export default function FeaturePage() {
     }
   ]
 };
-  const touristAttractionSchema = {
-  "@context": "https://schema.org",
-  "@type": "TouristAttraction",
-  "name": "霧島連山の秀峰と白銀パノラマ・えびの高原",
-  "description": "えびの高原（えびのこうげん）は、九州南部に連なる霧島山の韓国岳、蝦野岳、白鳥山、甑岳に囲まれた盆地状の高原である。",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Ebino_Plateau.jpg/1280px-Ebino_Plateau.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-};
-
   return (
     <>
       <script
@@ -123,10 +115,6 @@ export default function FeaturePage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(touristAttractionSchema) }}
       />
 
       <main className="min-h-screen bg-stone-50 pb-20">
@@ -213,102 +201,13 @@ export default function FeaturePage() {
         </section>
 
         {/* 現地アクセス・服装ガイド */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <div className="flex items-center justify-between border-b border-stone-100 pb-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <Calendar className="w-4 h-4 text-cyan-700" />
-                アクセス・気候・おすすめの服装
-              </h3>
-            </div>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
-              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
-                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                  <span>エリアへのアクセス</span>
-                </h4>
-                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">飛行機・空港：</strong>鹿児島空港より車・レンタカーでえびの高原まで約45分、宮崎空港から宮崎自動車道経由で約1時間15分。</span>
-                  </li>
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">車・マイカー：</strong>九州自動車道「えびのIC」または「小林IC」より県道30号・県道1号（えびのスカイライン）経由でえびの高原まで約30分。熊本・福岡方面からも九州道一本でアクセス良好。</span>
-                  </li>
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">JR・鉄道：</strong>JR吉都線「えびの駅」「京町温泉駅」よりタクシーまたは路線バス。新幹線利用の場合は「鹿児島中央駅」または「新八代駅」経由。</span>
-                  </li>
-                </ul>
-              </div>
-              <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
-                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                  <span>見頃・気候・おすすめの服装</span>
-                </h4>
-                <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">ベストシーズン：</strong>11月下旬〜1月下旬（えびの高原の霧氷鑑賞、白鳥神社新春初詣、温泉と宮崎牛グルメの最盛期）。</span>
-                  </li>
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">気温の目安：</strong>平野部は日中10〜14℃前後と温暖ですが、標高1,200mのえびの高原は真冬の朝晩に氷点下5℃〜10℃近くまで下がり、日中でも0〜5℃前後と厳冬の気候になります。</span>
-                  </li>
-                  <li className="flex items-start gap-1.5">
-                    <span className="text-cyan-700 font-bold shrink-0">・</span>
-                    <span><strong className="text-stone-800 font-semibold">服装のポイント：</strong>高原のトレッキングや屋外見学には、防風性の高い本格的なダウンジャケット、フリース、手袋、マフラー、ニット帽が必須。遊歩道や道路は積雪・凍結することがあるため、防滑仕様のトレッキングシューズでお出かけください。えびのスカイラインなど山岳道路を走る際はスタッドレスタイヤの装着またはチェーン携行が必須です。</span>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* Wikipedia公式連携スポットセクション */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <div className="flex items-center justify-between">
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                近隣名所アーカイブ：霧島連山の秀峰と白銀パノラマ・えびの高原
-              </h2>
-              <span className="text-[11px] text-stone-400">Wikipedia公式情報連携</span>
-            </div>
-
-            <div className="flex flex-col gap-5">
-              <div className="w-full overflow-hidden rounded-xl border border-stone-200 bg-stone-100 aspect-[16/9] sm:aspect-[21/9]">
-                <img
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Ebino_Plateau.jpg/1280px-Ebino_Plateau.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="霧島連山の秀峰と白銀パノラマ・えびの高原"
-                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="eager" fetchPriority="high"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                  霧島連山の秀峰と白銀パノラマ・えびの高原 の見どころと歴史
-                </h3>
-                <p className="text-sm sm:text-base text-stone-600 leading-relaxed">
-                  えびの高原（えびのこうげん）は、九州南部に連なる霧島山の韓国岳、蝦野岳、白鳥山、甑岳に囲まれた盆地状の高原である。
-                </p>
-                <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                  <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                  <span className="text-cyan-700 font-semibold">冬の探訪推奨スポット</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
             <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
               えびの高原・生駒高原・小林 厳選の温泉＆名宿5選
             </h2>
-            <p className="text-xs sm:text-sm text-stone-500">【霧島連山樹氷と西郷隆盛癒やしの白鳥温泉：2026-2】 
-              楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
+            <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
 
@@ -625,8 +524,7 @@ export default function FeaturePage() {
                 <h3 className="text-xl sm:text-2xl font-bold">
                   宮崎県の宿に実質2,000円で泊まる賢い方法
                 </h3>
-                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">【霧島連山樹氷と西郷隆盛癒やしの白鳥温泉：2026-2】 
-                  楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
+                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
               <a

@@ -294,47 +294,7 @@ export default function Page() {
             </div>
           </section>
 
-          {/* Wikipedia 近隣観光名所セクション */}
-          <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
-            <div className="border-b border-stone-100 pb-4">
-              <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Wikipedia Spot Archive</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2 mt-1">
-                <Heart className="w-6 h-6 text-rose-500" />
-                <span>近隣名所アーカイブ：土佐の小京都・野良時計と土居廓中武家屋敷（手作り大時計の響きと室戸岬だるま朝日）</span>
-              </h2>
-            </div>
-
-            <div className="flex flex-col gap-6">
-              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9]">
-                <img
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Noradokei_02.JPG/1280px-Noradokei_02.JPG?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="土佐の小京都・野良時計と土居廓中武家屋敷（手作り大時計の響きと室戸岬だるま朝日）"
-                  className="w-full h-full object-cover"
-                  loading="lazy"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-base">
-                  【土佐の小京都・野良時計と土居廓中武家屋敷（手作り大時計の響きと室戸岬だるま朝日）の見どころと歴史】
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  野良時計（のらどけい）は、高知県安芸市にある時計台である。明治時代に作製され、その地の地主宅に据えられた。安芸平野のほぼ中央に位置し田園風景にたたずむ姿は安芸市の観光名所の一つとなっている。国の登録有形文化財。
-                </p>
-                <div className="pt-2 text-xs text-stone-700">
-                  <a
-                    href="https://ja.wikipedia.org/wiki/%E9%87%8E%E8%89%AF%E6%99%82%E8%A8%88"
-                    target="_blank"
-                    rel="noopener noreferrer nofollow"
-                    className="inline-flex items-center gap-1 text-cyan-700 hover:text-cyan-900 underline"
-                  >
-                    <span>出典：Wikipedia公式『野良時計』詳細情報を見る</span>
-                    <ExternalLink className="w-3 h-3" />
-                  </a>
-                </div>
-              </div>
-            </div>
-          </section>
-
+          
           {/* 厳選名宿5選 */}
           <section className="space-y-8">
             <div className="border-b border-stone-200 pb-4">

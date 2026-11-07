@@ -124,7 +124,7 @@ export default function WinterFeaturePage() {
         {/* 導入解説 */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600 shrink-0" />
-            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>｜2026-2027年11-12月初冬の福島・飯坂</h2>
+            <span>初冬にこの地を訪れるべき理由と風土の魅力</span></h2>
           <p className="text-xs md:text-sm text-slate-700 leading-relaxed whitespace-pre-line">
             福島市街地から福島交通飯坂線に揺られること約20分。吾妻連峰の裾野を流れる摺上川の渓谷沿いに、湯煙をもうもうと立ち上げる古湯が『飯坂温泉』です。鳴子温泉、秋保温泉と並び称される『奥州三名湯』の一角を占め、神話の時代に日本武尊が東征の折に湯浴みして病を治したという伝説をはじめ、文治5年（1189年）には松尾芭蕉が『おくのほそ道』の旅路で立ち寄ったことでも広く知られています。飯坂温泉の最大の個性は、何と言っても湧出温度が最高60℃を超える天然源泉と、共同浴場に代表される『熱湯（あつゆ）』の文化です。現在も温泉街には9つの共同浴場が点在し、地元の人々が日常的に利用する共同湯は湯船の温度が45℃から47℃に達することも珍しくありません。最初はその熱さに息を呑みますが、掛け湯を十数回重ねて肩まで浸かると、肌がピンと引き締まり、体の芯から血管が大きく拡張してぽかぽかと温まりが持続します。特にシンボル的存在である『鯖湖湯（さばこゆ）』は、元禄2年に芭蕉が訪れた湯元であり、現在の建物は明治時代の風情ある木造建築を総ヒバ造りで忠実に再現したもの。高い天井の湯気抜きから冬の柔らかな光が差し込むなか、無色透明で清冽な単純温泉に浸かる時間は格別です。そして飯坂の夜を彩るもうひとつの主役が、名物の『円盤餃子』です。フライパン一面に隙間なく丸く並べて多めの油でパリッと焼き上げ、中央に茹でモヤシを添えたこのスタイルは飯坂が発祥。小ぶりで薄皮の餃子はパリパリの香ばしさとキャベツと国産豚肉のジューシーな甘みが広がり、熱湯上がりの渇いた喉に地酒やビールとともに染み渡ります。夕食にはきめ細やかなサシが入った最高級ブランド『福島牛』のすき焼きやしゃぶしゃぶを味わい、摺上川のせせらぎを聞きながら過ごす飯坂温泉の初冬は、心身の活力を極限まで高めてくれる贅沢な癒やしの時間となります。
           </p>
@@ -171,41 +171,7 @@ export default function WinterFeaturePage() {
           </div>
         </section>
 
-        {/* Wikipedia連携 観光地紹介 */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
-          <div className="flex items-center justify-between border-b border-slate-100 pb-3">
-            <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2">
-              <MapPin className="w-5 h-5 text-rose-600 shrink-0" />
-              <span>近隣の必見名所：飯坂温泉</span>
-            </h2>
-            <span className="text-[11px] text-slate-400">Wikipedia・公式解説連携</span>
-          </div>
-
-          <div className="grid md:grid-cols-12 gap-6 items-center">
-            <div className="md:col-span-5 relative h-52 md:h-60 rounded-xl overflow-hidden bg-slate-100 border border-slate-200">
-              <Image
-                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Iizaka_Onsen_26-Aug-2018.jpg/1280px-Iizaka_Onsen_26-Aug-2018.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                alt="奥州三名湯の歴史を誇る名湯・飯坂温泉（日本最古級木造共同浴場・鯖湖湯と摺上川渓谷の初冬風情）"
-                fill
-                className="object-cover"
-                sizes="(max-width: 768px) 100vw, 360px"
-              />
-            </div>
-            <div className="md:col-span-7 space-y-2.5">
-              <h3 className="text-base font-bold text-slate-900 leading-snug">
-                奥州三名湯の歴史を誇る名湯・飯坂温泉（日本最古級木造共同浴場・鯖湖湯と摺上川渓谷の初冬風情）
-              </h3>
-              <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
-                飯坂温泉（いいざかおんせん）は、福島県福島市飯坂地域（旧国：陸奥国、明治以降は岩代国）にある温泉。歴史・規模ともに日本を代表する名泉の一つである。...
-              </p>
-              <div className="bg-amber-50 rounded-lg p-3 border border-amber-200/60 text-[11px] md:text-xs text-amber-900 leading-relaxed">
-                <span className="font-bold block mb-0.5">💡 周辺観光のポイント</span>
-                各宿泊施設からアクセス良好。早朝や夕暮れ時は観光客が落ち着き、初冬ならではの静寂と美しい景色を心ゆくまで堪能できます。
-              </div>
-            </div>
-          </div>
-        </section>
-
+        
         {/* 楽天API厳選宿 5選 */}
         <section className="space-y-6">
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
@@ -559,7 +525,7 @@ export default function WinterFeaturePage() {
         {/* アクセス＆見頃情報 */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 md:p-8 space-y-4">
           <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300"><Train className="w-5 h-5 shrink-0" />
-            <span>アクセスガイド・気候と服装のポイント</span>｜2026-2027年11-12月初冬の福島・飯坂</h2>
+            <span>アクセスガイド・気候と服装のポイント</span></h2>
           <div className="text-xs md:text-sm text-slate-300 leading-relaxed whitespace-pre-line">
             【エリアへのアクセス】
 ・電車：東北新幹線「JR福島駅」にて福島交通飯坂線へ乗り換え、終点「飯坂温泉駅」まで約23分。駅前から温泉街中心部へは徒歩すぐ。各旅館への無料送迎も充実しています。
@@ -576,7 +542,7 @@ export default function WinterFeaturePage() {
         {/* よくある質問 (FAQ) */}
         <section className="bg-slate-100 rounded-2xl p-6 md:p-8 space-y-4">
           <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
-            <span>よくある質問（FAQ）</span>｜2026-2027年11-12月初冬の福島・飯坂</h2>
+            <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
             <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
@@ -610,7 +576,7 @@ export default function WinterFeaturePage() {
 
         {/* ふるさと納税・関連リンク */}
         <section className="bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 rounded-2xl p-6 md:p-8 space-y-3 text-center">
-          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！｜2026-2027年11-12月初冬の福島・飯坂</h2>
+          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！</h2>
           <p className="text-xs md:text-sm max-w-xl mx-auto font-medium">
             寄附翌日から使える楽天トラベルクーポンで、今回の宿泊予約が控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）楽しめます。年末の控除枠活用にも最適です。
           </p>

@@ -124,7 +124,7 @@ export default function WinterFeaturePage() {
         {/* 導入解説 */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
           <h2 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600 shrink-0" />
-            <span>初冬にこの地を訪れるべき理由と風土の魅力</span>｜2026-2027年11-12月初冬の山形・小野川温</h2>
+            <span>初冬にこの地を訪れるべき理由と風土の魅力</span></h2>
           <p className="text-xs md:text-sm text-slate-700 leading-relaxed whitespace-pre-line">
             山形県南部に位置する米沢盆地の奥座敷、大樽川の清流沿いに湯煙を上げる歴史ある温泉地が『小野川温泉（おのがわおんせん）』です。その開湯は平安時代初期の承和元年（834年）、絶世の美女と謳われた歌人・小野小町が父を探して京都から東北へ旅する途中、病に倒れた際に薬師如来のお告げによって霊泉を発見し、湯治によって病を癒やし美しさを取り戻したという伝説に始まります。小野川温泉の最大の特徴は、毎分1,000リットルを超える自噴泉を誇る類稀な泉質にあります。含硫黄-ナトリウム・カルシウム-塩化物温泉の泉質は、温泉街に足を踏み入れた瞬間にふわりと漂う硫黄の香りが旅情をそそり、美肌の天然保湿成分『メタケイ酸』を基準値の3倍近く含有。さらに国内有数の高濃度ラジウムを含んでいることから、肌をつるつるにしつつ血行を促して内側から免疫力を高める『温まりの湯』『美人の湯』として1200年にわたり愛され続けています。そして初冬の11月から12月にかけて、この温泉街でしか味わえない冬の奇跡の味覚が『小野川豆もやし』です。300年以上前の江戸時代から受け継がれるこのもやしは、真冬の雪の下、温泉の熱を利用した室（むろ）で清らかな温泉水と砂だけで一週間かけて手作業で栽培されます。一般的な大豆もやしの数倍にあたる約30cmもの長さを持ち、太い茎のシャキシャキとした驚異的な歯ごたえと独特の香ばしさは唯一無二。地元ラーメン店で供される『豆もやしラーメン』は、熱々の醤油スープにシャキシャキの豆もやしが山盛りに乗り、冬の寒さに冷え切った体を芯から温めてくれます。夜には、きめ細やかな霜降りと人肌でとろける脂の融点の低さを誇る日本三大和牛の最高峰『米沢牛』のすき焼き会席に舌鼓。白銀の初雪が温泉街の屋根をうっすらと白く染め始める中、湯気の立ち上る露天風呂で雪見酒を楽しむひとときは、みちのくの冬ならではの極上の贅沢です。
           </p>
@@ -171,42 +171,7 @@ export default function WinterFeaturePage() {
           </div>
         </section>
 
-        {/* Wikipedia連携 観光地紹介 */}
-        <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-4">
-          <div className="flex items-center justify-between border-b border-slate-100 pb-3">
-            <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2">
-              <MapPin className="w-5 h-5 text-rose-600 shrink-0" />
-              <span>近隣の必見名所：小野川温泉</span>
-            </h2>
-            <span className="text-[11px] text-slate-400">Wikipedia・公式解説連携</span>
-          </div>
-
-          <div className="grid md:grid-cols-12 gap-6 items-center">
-            <div className="md:col-span-5 relative h-52 md:h-60 rounded-xl overflow-hidden bg-slate-100 border border-slate-200">
-              <Image
-                src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Onogawa_onsen%2C_Amayu.jpg/1280px-Onogawa_onsen%2C_Amayu.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                alt="小野小町ゆかりの美肌ラジウム泉・小野川温泉（開湯1200年の雪見名湯・名物小野川豆もやし）"
-                fill
-                className="object-cover"
-                sizes="(max-width: 768px) 100vw, 360px"
-              />
-            </div>
-            <div className="md:col-span-7 space-y-2.5">
-              <h3 className="text-base font-bold text-slate-900 leading-snug">
-                小野小町ゆかりの美肌ラジウム泉・小野川温泉（開湯1200年の雪見名湯・名物小野川豆もやし）
-              </h3>
-              <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
-                小野川温泉（おのがわおんせん）は、山形県米沢市小野川町（旧国出羽国、明治以降は羽前国）に湧出する温泉である。米沢八湯の1つに数えられ、複数の温泉旅館が「温泉米沢八湯会」に加盟している。
-温泉街は米沢の市街地から近く「米沢の奥座敷」と呼ばれている。地元以外には知名度の低い温泉地だったが、小野小町に由来すると言われる美人湯を核に、温泉街の活性化が試みられている。...
-              </p>
-              <div className="bg-amber-50 rounded-lg p-3 border border-amber-200/60 text-[11px] md:text-xs text-amber-900 leading-relaxed">
-                <span className="font-bold block mb-0.5">💡 周辺観光のポイント</span>
-                各宿泊施設からアクセス良好。早朝や夕暮れ時は観光客が落ち着き、初冬ならではの静寂と美しい景色を心ゆくまで堪能できます。
-              </div>
-            </div>
-          </div>
-        </section>
-
+        
         {/* 楽天API厳選宿 5選 */}
         <section className="space-y-6">
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
@@ -560,7 +525,7 @@ export default function WinterFeaturePage() {
         {/* アクセス＆見頃情報 */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 md:p-8 space-y-4">
           <h2 className="text-lg md:text-xl font-bold flex items-center gap-2 text-amber-300"><Train className="w-5 h-5 shrink-0" />
-            <span>アクセスガイド・気候と服装のポイント</span>｜2026-2027年11-12月初冬の山形・小野川温</h2>
+            <span>アクセスガイド・気候と服装のポイント</span></h2>
           <div className="text-xs md:text-sm text-slate-300 leading-relaxed whitespace-pre-line">
             【エリアへのアクセス】
 ・電車：山形新幹線「JR米沢駅」下車。米沢駅前より山交バス「白布温泉・小野川温泉行き」で約25分、「小野川温泉」下車すぐ。各旅館による米沢駅からの送迎サービスも多数あります。
@@ -577,7 +542,7 @@ export default function WinterFeaturePage() {
         {/* よくある質問 (FAQ) */}
         <section className="bg-slate-100 rounded-2xl p-6 md:p-8 space-y-4">
           <h2 className="text-lg md:text-xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-indigo-600 shrink-0" />
-            <span>よくある質問（FAQ）</span>｜2026-2027年11-12月初冬の山形・小野川温</h2>
+            <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
             <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
@@ -611,7 +576,7 @@ export default function WinterFeaturePage() {
 
         {/* ふるさと納税・関連リンク */}
         <section className="bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 rounded-2xl p-6 md:p-8 space-y-3 text-center">
-          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！｜2026-2027年11-12月初冬の山形・小野川温</h2>
+          <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！</h2>
           <p className="text-xs md:text-sm max-w-xl mx-auto font-medium">
             寄附翌日から使える楽天トラベルクーポンで、今回の宿泊予約が控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）楽しめます。年末の控除枠活用にも最適です。
           </p>

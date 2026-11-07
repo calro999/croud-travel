@@ -106,14 +106,6 @@ export default function FeaturePage() {
     }
   ]
 };
-  const touristAttractionSchema = {
-  "@context": "https://schema.org",
-  "@type": "TouristAttraction",
-  "name": "奇岩霊山・宝珠山立石寺（山寺・冬の白銀水墨画パノラマ）",
-  "description": "立石寺（りっしゃくじ）は、山形県山形市にある、天台宗の仏教寺院。山寺（やまでら）の通称で知られ、古くは「りゅうしゃくじ」と称した。正式には宝珠山阿所川院立石寺（ほうじゅさんあそかわいんりっしゃくじ）と称する。本尊は薬師如来。 蔵王国定公園（第2種特別地域）に指定されており、円仁が開山した四寺（他は中尊寺・毛越寺、瑞巌寺）を巡る「四寺廻廊」を構成しているほか、若松寺と慈恩寺を含めて巡る出羽名刹三寺まいりを構成する。",
-  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Risshaku-ji_konponchudo.jpg/1280px-Risshaku-ji_konponchudo.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-};
-
   return (
     <>
       <script
@@ -123,10 +115,6 @@ export default function FeaturePage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(touristAttractionSchema) }}
       />
 
       <main className="min-h-screen bg-stone-50 pb-20">
@@ -292,50 +280,7 @@ export default function FeaturePage() {
           </div>
         </section>
 
-        {/* Wikipedia 公式アーカイブ連携スポット */}
-        <section className="max-w-4xl mx-auto px-4 mb-12">
-          <div className="bg-stone-900 text-white rounded-2xl overflow-hidden shadow-lg border border-stone-800">
-            <div className="flex flex-col">
-              <div className="md:col-span-6 relative min-h-[240px]">
-                <img
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Risshaku-ji_konponchudo.jpg/1280px-Risshaku-ji_konponchudo.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="奇岩霊山・宝珠山立石寺（山寺・冬の白銀水墨画パノラマ）"
-                  className="w-full h-full object-cover"
-                  loading="eager" fetchPriority="high"
-                />
-                <div className="absolute top-3 left-3 bg-cyan-600/90 text-white text-[10px] font-bold px-2 py-0.5 rounded">
-                  名所アーカイブ
-                </div>
-              </div>
-              <div className="md:col-span-6 p-6 flex flex-col justify-between space-y-3">
-                <div className="space-y-2">
-                  <div className="text-xs text-cyan-400 font-semibold">
-                    近隣の主要観光地
-                  </div>
-                  <h3 className="text-lg md:text-xl font-bold">
-                    奇岩霊山・宝珠山立石寺（山寺・冬の白銀水墨画パノラマ）
-                  </h3>
-                  <p className="text-xs text-stone-300 leading-relaxed">
-                    立石寺（りっしゃくじ）は、山形県山形市にある、天台宗の仏教寺院。山寺（やまでら）の通称で知られ、古くは「りゅうしゃくじ」と称した。正式には宝珠山阿所川院立石寺（ほうじゅさんあそかわいんりっしゃくじ）と称する。本尊は薬師如来。 蔵王国定公園（第2種特別地域）に指定されており、円仁が開山した四寺（他は中尊寺・毛越寺、瑞巌寺）を巡る「四寺廻廊」を構成しているほか、若松寺と慈恩寺を含めて巡る出羽名刹三寺まいりを構成する。
-                  </p>
-                </div>
-                <div className="text-[11px] text-stone-400 pt-2 border-t border-stone-800 flex items-center justify-between">
-                  <span>出典：ウィキペディア（Wikipedia）</span>
-                  <a
-                    href="https://ja.wikipedia.org/wiki/立石寺"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-cyan-400 hover:underline flex items-center gap-1"
-                  >
-                    <span>詳細百科事典</span>
-                    <ExternalLink className="w-3 h-3" />
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
+        
         {/* 厳選名宿一覧 */}
         <section className="max-w-4xl mx-auto px-4 space-y-6 mb-14">
           <div className="border-l-4 border-cyan-800 pl-3">

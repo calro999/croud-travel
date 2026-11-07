@@ -31,17 +31,6 @@ export default function Page() {
     '@context': 'https://schema.org',
     '@graph': [
       {
-        '@type': 'TouristAttraction',
-        name: '奇跡の清流・仁淀川（冬に透明度極まる仁淀ブルー）',
-        description: '仁淀川（によどがわ）は、四国の愛媛県・高知県を流れる一級河川で、愛媛県内では面河川（おもごがわ）と呼ばれる。流域面積1,560km2、石鎚山などの源流から太平洋に注ぐ河口までの幹川流路延長は124km、流域内市町村の数は3市6町1村である。 吉野川・四万十川に次ぐ四国第三の河川とされる。水質は全国1位（2010年）で、水面が青く美しい「仁淀ブルー」と呼ばれる淵や滝壺などがある。 中流域には四国で第2の規模である多目的ダム「大渡ダム」をはじめとして治水や水力発電のための施設も多い。',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/e/ea/Niyodogawa-2.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled',
-        address: {
-          '@type': 'PostalAddress',
-          addressRegion: '高知県',
-          addressCountry: 'JP'
-        }
-      },
-      {
         '@type': 'FAQPage',
         mainEntity: [
           {
@@ -137,116 +126,13 @@ export default function Page() {
         </header>
 
         {/* 導入解説セクション */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
-            <div className="space-y-3">
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                冬の仁淀川・いの町・中津渓谷探訪：静寂と温もりに包まれる旅の魅力
-              </h2>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                国土交通省の全国一級河川水質調査において幾度も日本一に輝き、「奇跡の清流」と称えられる高知県・仁淀川（によどがわ）。光の反射と極限まで澄んだ水が生み出す神秘の青は「仁淀ブルー」と呼ばれ世界中の人々を魅了していますが、その仁淀ブルーが一年で最も美しく青く輝くのが、実は雨が少なく水量が安定する11月から1月の冬期です。夏場のような濁りが一切なく、水底の小石の一粒一粒や泳ぐ川魚の影までくっきり透けて見える透明度は圧巻。流域に位置する名勝「中津渓谷」や「安居渓谷」では、冬の冷気によって滝のしぶきが凍りつき、ブルーの淵と純白の氷瀑（ひょうばく）が織りなす息を呑む奇跡の冬絶景に出逢えます。さらに冬の高知・仁淀川流域のグルメの最高峰が、年間数百頭しか出荷されない幻の和牛「土佐あかうし（褐毛和種）」。赤身の濃厚な旨味と上質なサシが溶け合うあかうしのすき焼きやステーキ、仁淀川の清流で育った川魚料理を味わい、渓谷から湧き出る天然温泉の露天風呂に浸かる、五感すべてが研ぎ澄まされる至高の冬旅をご案内します。
-              </p>
-            </div>
-
-            <div className="space-y-3 pt-2">
-              <h3 className="text-sm sm:text-base font-bold text-stone-800">
-                この冬、仁淀川・いの町・中津渓谷を訪れるべき3つの理由
-              </h3>
-              <div className="grid grid-cols-1 gap-3">
-              <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  年間で最も透明度が高まりエメラルドに輝く「冬の仁淀ブルー」の真髄
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  冬は降水量が少なく水中の不純物が徹底的に沈殿するため、仁淀ブルーの青さがピークを迎えます。太陽光が差し込むとコバルトブルーからエメラルドグリーンへと刻一刻と表情を変える水面は、寒さを忘れて見惚れるほどの神聖さです。
-                </p>
-              </div>
-              <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  名勝「中津渓谷」の雨竜の滝と冬限定の氷瀑・奇岩トレッキング
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  巨岩が連なる中津渓谷の遊歩道。落差約20mの「雨竜の滝」では、厳冬期に水しぶきが凍りついて氷のカーテンのような氷瀑が出現します。神秘の滝壺のブルーと白氷のコントラストは冬にしか出逢えない絶景です。
-                </p>
-              </div>
-              <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  幻の和牛「土佐あかうし」鍋と清流沿いの名湯露天風呂で心身を解き放つ
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  肉本来のジューシーな赤身肉の旨味が凝縮された「土佐あかうし」。冬の特製すき焼きや網焼きステーキで味わう贅沢は格別。仁淀川のせせらぎを聞きながら浸かる天然温泉が、トレッキング後の身体を芯まで温めてくれます。
-                </p>
-              </div>
-              </div>
-            </div>
-
-            <div className="p-4 rounded-xl bg-cyan-50/60 border border-cyan-100 space-y-2 text-xs sm:text-sm text-stone-700 leading-relaxed">
-              <h3 className="font-bold text-cyan-950 flex items-center gap-1.5 text-sm">
-                <Calendar className="w-4 h-4 text-cyan-700" />
-                アクセス・気候・おすすめの服装
-              </h3>
-              <div className="whitespace-pre-line text-xs text-stone-600">
-                【エリアへのアクセス】
-・飛行機・空港から：高知龍馬空港より車・レンタカーで高知東部道路経由約45分でいの町、約1時間15分で中津渓谷（仁淀川町）へ。
-・JR・鉄道：JR土讃線「高知駅」より特急「あしずり」で「伊野駅」まで約15分。伊野駅より仁淀川沿いを走る「とさでん交通バス」や町民バスへ乗り換え可能。
-・車：高知自動車道「伊野IC」より国道33号線を仁淀川沿いに西へ。土佐和紙工芸村くらうどまで約20分、中津渓谷まで約50分。
-
-【見頃・気候・おすすめの服装】
-・ベストシーズン：11月中旬〜1月（降水量が少なく仁淀ブルーの透明度が年間最高潮、中津渓谷の氷瀑鑑賞、土佐あかうし鍋の旬）。
-・気温の目安：高知市街地は温暖ですが、仁淀川の中・上流域（いの町上八川や仁淀川町中津など）は標高が高く山に囲まれているため、冬の日中は8〜12℃、朝晩は0〜2℃程度まで冷え込みます。
-・服装のポイント：中津渓谷や安居渓谷の遊歩道は水辺沿いで濡れた岩場や階段があるため、グリップ力の高いスニーカーやトレッキングシューズが必須です。防風性の高いダウンジャケット、フリース、手袋、ニット帽を着用してください。車での移動は国道33号は整備されていますが、寒波到来時の山間部道路凍結に備えてスタッドレスタイヤ装着が推奨されます。
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* Wikipedia公式連携スポットセクション */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <div className="flex items-center justify-between">
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                近隣名所アーカイブ：奇跡の清流・仁淀川（冬に透明度極まる仁淀ブルー）
-              </h2>
-              <span className="text-[11px] text-stone-400">Wikipedia公式情報連携</span>
-            </div>
-
-            <div className="flex flex-col gap-5">
-              <div className="w-full overflow-hidden rounded-xl border border-stone-200 bg-stone-100 aspect-[16/9] sm:aspect-[21/9]">
-                <img
-                  src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Niyodogawa-2.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-                  alt="奇跡の清流・仁淀川（冬に透明度極まる仁淀ブルー）"
-                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="eager" fetchPriority="high"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                  奇跡の清流・仁淀川（冬に透明度極まる仁淀ブルー） の見どころと歴史
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  仁淀川（によどがわ）は、四国の愛媛県・高知県を流れる一級河川で、愛媛県内では面河川（おもごがわ）と呼ばれる。流域面積1,560km2、石鎚山などの源流から太平洋に注ぐ河口までの幹川流路延長は124km、流域内市町村の数は3市6町1村である。 吉野川・四万十川に次ぐ四国第三の河川とされる。水質は全国1位（2010年）で、水面が青く美しい「仁淀ブルー」と呼ばれる淵や滝壺などがある。 中流域には四国で第2の規模である多目的ダム「大渡ダム」をはじめとして治水や水力発電のための施設も多い。
-                </p>
-                <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                  <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                  <span className="text-cyan-700 font-semibold">冬の探訪推奨スポット</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
             <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
               仁淀川・いの町・中津渓谷 厳選の温泉＆名宿5選
             </h2>
-            <p className="text-xs sm:text-sm text-stone-500">【冬に透明度極まる仁淀ブルーと中津渓谷：2026-20】 
-              楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
+            <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
 
@@ -594,8 +480,7 @@ export default function Page() {
                 <h3 className="text-xl sm:text-2xl font-bold">
                   高知県の宿に実質2,000円で泊まる賢い方法
                 </h3>
-                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">【冬に透明度極まる仁淀ブルーと中津渓谷：2026-20】 
-                  楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
+                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
               <a

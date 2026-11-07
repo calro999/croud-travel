@@ -142,8 +142,7 @@ export default function Page() {
               岐阜県を代表する景勝地・温泉地である下呂・飛騨金山・益田川は、秋の訪れとともに最も華やかで風情あふれる季節を迎えます。
               澄み渡る秋空の下、木々が鮮やかなグラデーションに包まれ、雄大な自然美と歴史情緒が旅人の心を深く魅了します。
             </p>
-            <p>【下呂温泉の紅葉合掌村と飛騨金山巨石群】 
-              この時期は気候も穏やかで、散策やアクティビティ、そして冷え込む朝夕の温泉浴にまさに最高のコンディション。
+            <p>この時期は気候も穏やかで、散策やアクティビティ、そして冷え込む朝夕の温泉浴にまさに最高のコンディション。
               さらに秋は収穫の季節であり、地元の旬の恵みをふんだんに使った会席料理や名物グルメが食卓を彩ります。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-5 border-l-4 border-amber-500 mt-6 space-y-2">
@@ -167,16 +166,14 @@ export default function Page() {
             <div className="border-l-2 border-amber-400 pl-4 sm:pl-6 space-y-6">
               <div>
                 <span className="bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-1 rounded">1日目：絶景散策と夕暮れの湯浴み</span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mt-2">紅葉名所巡りと名湯チェックイン（下呂温泉の紅葉合掌村と飛騨金山巨石群）</h3>
-                <p className="text-stone-600 text-xs sm:text-sm mt-1 leading-relaxed">【下呂温泉の紅葉合掌村と飛騨金山巨石群】 
-                  午前中に現地へ到着。秋色に染まる代表的な絶景スポットを散策し、ランチには地元名物グルメを堪能。午後は温泉街の散策やお土産選びを楽しみ、早めにお宿へチェックイン。夕暮れに染まる景色を眺めながら露天風呂で旅の疲れを癒やします。
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mt-2">紅葉名所巡りと名湯チェックイン</h3>
+                <p className="text-stone-600 text-xs sm:text-sm mt-1 leading-relaxed">午前中に現地へ到着。秋色に染まる代表的な絶景スポットを散策し、ランチには地元名物グルメを堪能。午後は温泉街の散策やお土産選びを楽しみ、早めにお宿へチェックイン。夕暮れに染まる景色を眺めながら露天風呂で旅の疲れを癒やします。
                 </p>
               </div>
               <div>
                 <span className="bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-1 rounded">2日目：清々しい朝風呂と旬の味覚探訪</span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mt-2">朝の澄んだ空気と産直ショッピング（下呂温泉の紅葉合掌村と飛騨金山巨石群）</h3>
-                <p className="text-stone-600 text-xs sm:text-sm mt-1 leading-relaxed">【下呂温泉の紅葉合掌村と飛騨金山巨石群】 
-                  小鳥のさえずりと澄んだ空気の中で目覚めの朝風呂。地元食材をたっぷり使った朝食を味わった後は、近隣の景勝地や産直市場に立ち寄り、採れたての秋の味覚や伝統工芸品をお買い物。思い出いっぱいの帰路へ。
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mt-2">朝の澄んだ空気と産直ショッピング</h3>
+                <p className="text-stone-600 text-xs sm:text-sm mt-1 leading-relaxed">小鳥のさえずりと澄んだ空気の中で目覚めの朝風呂。地元食材をたっぷり使った朝食を味わった後は、近隣の景勝地や産直市場に立ち寄り、採れたての秋の味覚や伝統工芸品をお買い物。思い出いっぱいの帰路へ。
                 </p>
               </div>
             </div>
@@ -187,9 +184,8 @@ export default function Page() {
         <section className="space-y-10">
           <div className="border-b border-stone-300 pb-4">
             <span className="text-xs font-bold uppercase tracking-wider text-amber-600">Rakuten Travel &amp; Furusato Tax</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">楽天トラベル＆ふるさと納税で泊まる！厳選おすすめ宿3選｜下呂温泉の紅葉合掌村と飛騨金山巨石群</h2>
-            <p className="text-stone-600 text-sm mt-2">【下呂温泉の紅葉合掌村と飛騨金山巨石群】 
-              高評価の口コミを獲得し、ふるさと納税トラベルクーポンの対象となっている名宿を厳選紹介。
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">楽天トラベル＆ふるさと納税で泊まる！厳選おすすめ宿3選</h2>
+            <p className="text-stone-600 text-sm mt-2">高評価の口コミを獲得し、ふるさと納税トラベルクーポンの対象となっている名宿を厳選紹介。
             </p>
           </div>
 
@@ -360,10 +356,9 @@ export default function Page() {
         {/* Furusato Guide */}
         <section className="bg-gradient-to-br from-amber-500/10 via-orange-500/5 to-amber-500/10 rounded-2xl p-6 sm:p-10 border border-amber-200/60 shadow-sm">
           <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-3 border-b border-amber-200/80 pb-4"><span className="text-2xl">💡</span>
-            楽天ふるさと納税トラベルクーポンの賢い使い方｜下呂温泉の紅葉合掌村と飛騨金山巨石群</h2>
+            楽天ふるさと納税トラベルクーポンの賢い使い方</h2>
           <div className="space-y-6 text-stone-700 text-sm sm:text-base leading-relaxed">
-            <p>【下呂温泉の紅葉合掌村と飛騨金山巨石群】 
-              ふるさと納税の返礼品として提供されている「楽天トラベルクーポン」を利用すれば、実質自己負担2,000円で寄附額の最大30%相当が宿泊料金から直接割引されます。
+            <p>ふるさと納税の返礼品として提供されている「楽天トラベルクーポン」を利用すれば、実質自己負担2,000円で寄附額の最大30%相当が宿泊料金から直接割引されます。
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 my-6">
               <div className="bg-white p-5 rounded-xl border border-amber-100 shadow-xs text-center">
@@ -382,8 +377,7 @@ export default function Page() {
                 <div className="text-stone-500 text-xs">楽天トラベルで対象宿の予約時にクーポンを適用して割引完了</div>
               </div>
             </div>
-            <p className="text-xs sm:text-sm text-stone-600">【下呂温泉の紅葉合掌村と飛騨金山巨石群】 
-              ※楽天スーパーSALEやお買い物マラソン等の買いまわりイベント期間中に寄附を行うと、楽天ポイント還元率が大幅にアップしてさらにお得です。
+            <p className="text-xs sm:text-sm text-stone-600">※楽天スーパーSALEやお買い物マラソン等の買いまわりイベント期間中に寄附を行うと、楽天ポイント還元率が大幅にアップしてさらにお得です。
             </p>
           </div>
         </section>
@@ -391,24 +385,22 @@ export default function Page() {
         {/* FAQ */}
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-stone-200/80">
           <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-3 border-b border-stone-200 pb-4"><span className="text-2xl">❓</span>
-            よくある質問（FAQ）｜下呂温泉の紅葉合掌村と飛騨金山巨石群</h2>
+            よくある質問（FAQ）</h2>
           <div className="space-y-6 text-stone-700 text-sm sm:text-base">
             <div className="border-b border-stone-100 pb-4">
-              <h3 className="font-bold text-stone-900 mb-2">Q. 10月〜11月の紅葉や混雑の状況は？（下呂温泉の紅葉合掌村と飛騨金山巨石群）</h3>
+              <h3 className="font-bold text-stone-900 mb-2">Q. 10月〜11月の紅葉や混雑の状況は？</h3>
               <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">
                 紅葉の見頃ピーク（10月中旬〜11月下旬（下呂温泉合掌村の紅葉ライトアップ、温泉街の湯めぐり手形、飛騨牛・新栗スイーツ））は週末を中心に観光客で賑わいます。ゆっくり散策や温泉を楽しみたい方は平日の宿泊や、早朝の観光スポット訪問がおすすめです。
               </p>
             </div>
             <div className="border-b border-stone-100 pb-4">
-              <h3 className="font-bold text-stone-900 mb-2">Q. クーポンを利用した予約のキャンセル規定はどうなっていますか？（下呂温泉の紅葉合掌村と飛騨金山巨石群）</h3>
-              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">【下呂温泉の紅葉合掌村と飛騨金山巨石群】 
-                通常の楽天トラベルのキャンセル規定に準じます。期限内であればキャンセル時にクーポンは返還され、有効期限内であれば別の予約で再利用可能です。
+              <h3 className="font-bold text-stone-900 mb-2">Q. クーポンを利用した予約のキャンセル規定はどうなっていますか？</h3>
+              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">通常の楽天トラベルのキャンセル規定に準じます。期限内であればキャンセル時にクーポンは返還され、有効期限内であれば別の予約で再利用可能です。
               </p>
             </div>
             <div>
-              <h3 className="font-bold text-stone-900 mb-2">Q. ふるさと納税クーポンとポイントは併用できますか？（下呂温泉の紅葉合掌村と飛騨金山巨石群）</h3>
-              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">【下呂温泉の紅葉合掌村と飛騨金山巨石群】 
-                はい、楽天ふるさと納税トラベルクーポンと通常の楽天ポイントは同時に併用して利用いただけます。
+              <h3 className="font-bold text-stone-900 mb-2">Q. ふるさと納税クーポンとポイントは併用できますか？</h3>
+              <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">はい、楽天ふるさと納税トラベルクーポンと通常の楽天ポイントは同時に併用して利用いただけます。
               </p>
             </div>
           </div>
@@ -446,7 +438,7 @@ export default function Page() {
         </section>
 
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -567,7 +559,7 @@ export default function Page() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>天然温泉付会員制リゾートホテルでのんびり。下呂を眼下に望む眺望と料理人の技を楽しむ料理の品々も大好評</p>
                   <p><strong>【所在地・アクセス】</strong>〒 岐阜県下呂市萩原町西上田2259-9 ／ 最寄り駅：下呂 ／ 交通案内：JR　高山本線　下呂駅／中央自動車道　中津川ICより国道２５７線を下呂方面へ</p>
-                  <p>【下呂温泉の紅葉合掌村と飛騨金山巨石群】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★3.8 ／ 部屋 ★3.91 ／ 設備 ★3.91 ／ 風呂 ★4.2 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💬 <strong>宿泊者クチコミ抜粋：</strong>「サウナ付きのお風呂が最高でした!お風呂にサウナがあって最高でした!」
@@ -575,49 +567,7 @@ export default function Page() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「下呂温泉の紅葉合掌村と飛騨金山巨石群（日本三名泉の美肌湯と極上飛騨牛すき焼きを味わう秋旅）」とあわせて巡りたい岐阜県の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「下呂温泉の紅葉合掌村と飛騨金山巨石群！日本三名泉の美肌湯と極上飛騨牛すき焼きを味わう秋旅｜ふるさと納税で泊まれる名宿ガイド」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">白川郷 合掌造り集落</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">豪雪地帯ならではの急勾配の茅葺き屋根が立ち並ぶ世界文化遺産の村。春の新緑、秋の紅葉、冬の幻想的な雪景色ライトアップと日本の原風景が広がります。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">飛騨高山（古い町並み）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">江戸時代の出格子と用水路が流れる景観が保存された「飛騨の小京都」。名物の飛騨牛串焼きや地酒の酒蔵巡り、朝市散策が全国の旅人に大人気です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">岐阜城・長良川鵜飼</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">金華山頂に聳え立つ織田信長公ゆかりの岐阜城と、1300年以上の歴史を誇る長良川の伝統鵜飼。篝火の明かりが川面を照らす幽玄の世界は必見です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/260125_Gero_Onsen_Gero_Gifu_pref_Japan01s3.jpg/1280px-260125_Gero_Onsen_Gero_Gifu_pref_Japan01s3.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="下呂温泉" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">下呂温泉</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">草津・有馬と並ぶ日本三名泉の一つ。滑らかな肌触りの「美人の湯」で知られ、飛騨川のせせらぎを聞きながら足湯巡りや温泉街のグルメを堪能できます。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       </main>
 

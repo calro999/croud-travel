@@ -160,7 +160,7 @@ export default function Page() {
             </div>
           </section>
 
-          {/* 周辺観光スポット情報（Wikipedia連携実写） */}
+          
           <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-6">
             <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3">
               周辺観光スポット：桂川のせせらぎと幽玄な青竹が続く小径・修善寺温泉（伊豆の小京都・弘法大師開湯の古湯）

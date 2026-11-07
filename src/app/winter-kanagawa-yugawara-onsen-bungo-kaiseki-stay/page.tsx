@@ -351,7 +351,7 @@ export default function YugawaraWinterPage() {
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-orange-700" />
-            目次・インデックス｜湯河原温泉の冬旅・名湯美食ガイド！</h2>
+            目次・インデックス</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#autumn-leaves" className="hover:text-orange-700 hover:underline flex items-center gap-1.5">
               <span>1. 関東最遅！11月下旬〜12月上旬の奥湯河原紅葉ガイド</span>
@@ -640,7 +640,7 @@ export default function YugawaraWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜湯河原温泉の冬旅・名湯美食ガイド！</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">

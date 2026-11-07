@@ -103,9 +103,8 @@ export default function FurusatoTaxPage() {
         {/* メリット3選 */}
         <section className="space-y-6">
           <div className="text-center">
-            <h2 className="text-xl md:text-3xl font-black text-white">楽天ふるさと納税トラベルクーポンが圧倒的にお得な3つの理由｜雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガ</h2>
-            <p className="text-slate-400 text-xs md:text-sm mt-2">【雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガ】 
-              予約前の獲得はもちろん、予約後の「あとから適用」も可能な最高峰の使い勝手
+            <h2 className="text-xl md:text-3xl font-black text-white">楽天ふるさと納税トラベルクーポンが圧倒的にお得な3つの理由</h2>
+            <p className="text-slate-400 text-xs md:text-sm mt-2">予約前の獲得はもちろん、予約後の「あとから適用」も可能な最高峰の使い勝手
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -158,9 +157,8 @@ export default function FurusatoTaxPage() {
         {/* 自治体＆厳選宿セクション */}
         <section className="space-y-12">
           <div className="border-l-4 border-amber-500 pl-4">
-            <h2 className="text-2xl md:text-3xl font-black text-white">ふるさと納税対象・厳選おすすめ宿泊施設｜雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガ</h2>
-            <p className="text-slate-400 text-xs md:text-sm mt-1">【雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガ】 
-              楽天トラベルAPIより最新の料金・宿泊プラン・空室情報をリアルタイム反映中
+            <h2 className="text-2xl md:text-3xl font-black text-white">ふるさと納税対象・厳選おすすめ宿泊施設</h2>
+            <p className="text-slate-400 text-xs md:text-sm mt-1">楽天トラベルAPIより最新の料金・宿泊プラン・空室情報をリアルタイム反映中
             </p>
           </div>
 
@@ -480,8 +478,8 @@ export default function FurusatoTaxPage() {
         {/* 関連・相互リンク集 */}
         <section className="bg-slate-900/60 border border-slate-800 rounded-3xl p-6 md:p-8 space-y-6">
           <div className="border-l-4 border-amber-500 pl-3">
-            <h3 className="text-lg md:text-xl font-black text-white">あわせて読みたいふるさと納税トラベル特集（雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガ）</h3>
-            <p className="text-slate-400 text-xs mt-1">【雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガ】 目的や同伴者に合わせて最適な宿泊クーポンを活用しよう</p>
+            <h3 className="text-lg md:text-xl font-black text-white">あわせて読みたいふるさと納税トラベル特集</h3>
+            <p className="text-slate-400 text-xs mt-1">目的や同伴者に合わせて最適な宿泊クーポンを活用しよう</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             
@@ -530,9 +528,8 @@ export default function FurusatoTaxPage() {
         {/* クーポン獲得CTA */}
         <section className="bg-gradient-to-br from-amber-500/20 via-slate-900 to-slate-900 border border-amber-500/30 rounded-3xl p-8 text-center space-y-6 shadow-2xl">
           <span className="text-3xl">🎫</span>
-          <h2 className="text-xl md:text-3xl font-black text-white">楽天トラベルふるさと納税クーポンで、一生の思い出に残るプレミアムステイへ｜雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガ</h2>
-          <p className="text-slate-300 text-xs md:text-base max-w-2xl mx-auto leading-relaxed">【雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガ】 
-            返礼品クーポンは寄付手続き完了後、数分で楽天トラベルのアカウントに即時付与されます。今年の寄付上限枠を賢く使って、家族みんなの最高の笑顔とくつろぎを手に入れましょう。
+          <h2 className="text-xl md:text-3xl font-black text-white">楽天トラベルふるさと納税クーポンで、一生の思い出に残るプレミアムステイへ</h2>
+          <p className="text-slate-300 text-xs md:text-base max-w-2xl mx-auto leading-relaxed">返礼品クーポンは寄付手続き完了後、数分で楽天トラベルのアカウントに即時付与されます。今年の寄付上限枠を賢く使って、家族みんなの最高の笑顔とくつろぎを手に入れましょう。
           </p>
           <div>
             <a
@@ -674,7 +671,7 @@ export default function FurusatoTaxPage() {
         </section>
 
       
-        {/* Enriched Rakuten API & Wikipedia Tourist Guide */}
+        {/* Enriched Rakuten Travel Hotel Specs */}
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-8 my-10">
           <div className="space-y-2 border-b border-stone-200 pb-4">
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
@@ -769,7 +766,7 @@ export default function FurusatoTaxPage() {
                 <div className="md:col-span-2 space-y-2 text-xs text-stone-700 leading-relaxed">
                   <p><strong>【宿の特徴・魅力】</strong>大自然に囲まれ、豊富なアウトドアメニューが四季を通し楽しめる。清潔・清楚な温泉付きペンション。</p>
                   <p><strong>【所在地・アクセス】</strong>〒 北海道勇払郡占冠村上トマム ／ 最寄り駅：トマム ／ 交通案内：富良野から：約６０ｋｍ/札幌・小樽から高速・道東道トマムＩＣ下車５分/</p>
-                  <p>【雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガ】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
+                  <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
                     💡 <strong>ペンション　イング・トマムの滞在ポイント：</strong>「雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガイドトマム・志賀高原・蔵王の雲上絶景ホテルエリアの散策拠点に適した立地。客室タイプや食事の有無・駐車場条件を旅程に合わせて比較するのがおすすめです。」
@@ -865,49 +862,7 @@ export default function FurusatoTaxPage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          <div className="space-y-4 pt-6 border-t border-stone-200">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-teal-600 pl-3">
-              🗺️ 「雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガイドトマム・志賀高原・蔵王の雲上絶景ホテル」とあわせて巡りたい北海道の代表観光スポット案内
-            </h3>
-            <p className="text-xs text-stone-600 leading-relaxed">「雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガイドトマム・志賀高原・蔵王の雲上絶景ホテル」の旅とあわせて立ち寄りたい周辺の名所・定番スポットです。チェックイン前後の時間帯や翌朝の出発ルートに組み込むことで、移動のロスを抑えた周遊プランが組めます。</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Wide_view_of_Mount_Hakodate_from_Mashu-Maru.jpg/1280px-Wide_view_of_Mount_Hakodate_from_Mashu-Maru.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="函館山（夜景）" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #1</span>
-                <h3 className="text-base font-bold text-stone-900">函館山（夜景）（雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガ）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #2</span>
-                <h3 className="text-base font-bold text-stone-900">富良野 ファーム富田（雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガ）</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">一面に広がる鮮やかな紫色のラベンダー畑と、虹色に彩られた花畑が織りなすパノラマロード。富良野の雄大な自然と爽やかな香りに包まれる絶好の観光名所です。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Otaru_Hokkaido_Japan.jpg/1280px-Otaru_Hokkaido_Japan.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail" alt="小樽運河" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #3</span>
-                <h3 className="text-base font-bold text-stone-900">小樽運河</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">大正時代に造られたノスタルジックな石造り倉庫群が立ち並ぶ小樽のシンボル。夕暮れ時にはガス灯が灯り、幻想的な雰囲気の中で散策やナイトクルーズを楽しめます。</p>
-              </div>
-            </div>
-            <div className="bg-stone-50 rounded-2xl overflow-hidden border border-stone-200 flex flex-col">
-              <div className="aspect-video relative overflow-hidden bg-stone-200"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Asahikawa_Montage.jpg?utm_source=ja.wikipedia.org&amp;utm_campaign=api&amp;utm_content=thumbnail_unscaled" alt="旭川市旭山動物園" className="w-full h-full object-cover" loading="lazy" /></div>
-              <div className="p-5 space-y-2 flex-1">
-                <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full">周辺観光スポット #4</span>
-                <h3 className="text-base font-bold text-stone-900">旭川市旭山動物園</h3>
-                <p className="text-xs text-stone-600 leading-relaxed">行動展示で全国的に有名な日本最北の動物園。水中でダイナミックに泳ぐホッキョクグマや、円柱水槽を行き来するアザラシなど、生き生きとした動物たちの姿を間近で観察できます。</p>
-              </div>
-            </div>
-            </div>
-          </div>
-        </section>
+          </div></section>
 
       </main>
     

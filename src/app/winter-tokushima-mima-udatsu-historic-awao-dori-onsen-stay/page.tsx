@@ -31,17 +31,6 @@ export default function Page() {
     '@context': 'https://schema.org',
     '@graph': [
       {
-        '@type': 'TouristAttraction',
-        name: '国選定重伝建・脇町うだつの町並み（藍商の歴史建築）',
-        description: '脇町南町（わきまちみなみまち）は徳島県美馬市脇町大字脇町にある名勝。うだつの町並みともよばれる。 国の重要伝統的建造物群保存地区に昭和63年（1988年）12月16日選定 ・四国八十八景8番・とくしま88景・にし阿波お勧めビューポイント100選・都市景観100選・日本の道100選・美しい日本の歴史的風土100選に選定。阿波歴史文化道に指定。 「うだつと白壁の町並」で、昭和61年度手づくり郷土賞（人と風土が育てた家並）受賞。平成17年度同賞大賞。',
-        image: 'https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Wakimati_minamimati_20250828_1.jpg/1280px-Wakimati_minamimati_20250828_1.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail',
-        address: {
-          '@type': 'PostalAddress',
-          addressRegion: '徳島県',
-          addressCountry: 'JP'
-        }
-      },
-      {
         '@type': 'FAQPage',
         mainEntity: [
           {
@@ -137,116 +126,13 @@ export default function Page() {
         </header>
 
         {/* 導入解説セクション */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
-            <div className="space-y-3">
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                冬の美馬・脇町・吉野川探訪：静寂と温もりに包まれる旅の魅力
-              </h2>
-              <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                四国三郎の名で知られる大河・吉野川の中流域に位置する徳島県美馬市（みまし）。江戸時代から明治にかけて、吉野川の水運を活かした藍染めの染料「阿波藍（あわあい）」の集散地として莫大な富を築いた脇町（わきまち）には、国の重要伝統的建造物群保存地区に選定された「うだつの町並み」が今も美しく残されています。隣家との境界に設けた防火壁に贅を尽くした装飾瓦を施した「うだつ」は、当時の藍商人たちの富と誇りの象徴。11月から1月の冬、白壁と本瓦葺きの町家が凛とした寒気の中に並び、雪がうっすらと瓦を化粧する情景は言葉を失うほどの風情を醸し出します。また、この冬の美馬・吉野川流域の食の主役は、徳島が全国に誇る最高級地鶏「阿波尾鶏（あわおどり）」。コクのある旨味と適度な歯ごたえが特徴の地鶏肉を、地元名産の冬野菜とともにぐつぐつ煮込む熱々の水炊きやすき焼き鍋は、冷えた身体に染み渡る極上のごちそう。吉野川を見晴らす名湯露天風呂に浸かり、藍商の栄華に思いを馳せる、深みある冬の歴史美食旅をお届けします。
-              </p>
-            </div>
-
-            <div className="space-y-3 pt-2">
-              <h3 className="text-sm sm:text-base font-bold text-stone-800">
-                この冬、美馬・脇町・吉野川を訪れるべき3つの理由
-              </h3>
-              <div className="grid grid-cols-1 gap-3">
-              <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  白壁と装飾瓦が白銀に映える「重伝建・脇町うだつの町並み」の冬情景
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  約430mにわたって続く重厚な商家群。冬の澄んだ青空と白壁のコントラスト、装飾瓦に刻まれた鬼瓦や鳥衾（とりぶすま）の美しさは息を呑むほど。伝統の藍染め体験や町家カフェでのひとときも、冬の静けさの中で格別の趣があります。
-                </p>
-              </div>
-              <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  極上地鶏「阿波尾鶏」の滋味あふれる鍋料理と祖谷そばの温もり
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  徳島の大自然で丹精込めて育てられた「阿波尾鶏」。脂の乗りと締まりのある肉質は地鶏出荷数日本一を誇り、冬の鍋料理でその真価を発揮します。濃厚な鶏ガラ出汁で煮込む水炊きや、つなぎを使わない素朴な祖谷そば・美馬そばの味わいは格別です。
-                </p>
-              </div>
-              <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  吉野川の雄大な流れを眼下に望む天然展望温泉と大歩危・剣山への動線
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  吉野川流域には、豊かな湯量を誇る天然温泉が点在。渓谷や大河を見渡す露天風呂で手足を伸ばせば、冬の旅の疲れが一瞬でほどけていきます。西へ向かえば雪化粧の大歩危・祖谷渓、南へ向かえば霊峰剣山の山並みが広がる絶好のロケーションです。
-                </p>
-              </div>
-              </div>
-            </div>
-
-            <div className="p-4 rounded-xl bg-cyan-50/60 border border-cyan-100 space-y-2 text-xs sm:text-sm text-stone-700 leading-relaxed">
-              <h3 className="font-bold text-cyan-950 flex items-center gap-1.5 text-sm">
-                <Calendar className="w-4 h-4 text-cyan-700" />
-                アクセス・気候・おすすめの服装
-              </h3>
-              <div className="whitespace-pre-line text-xs text-stone-600">
-                【エリアへのアクセス】
-・飛行機・空港から：徳島阿波おどり空港より車・レンタカーで徳島自動車道経由約45分。高松空港からも国道193号経由で約50分と好アクセス。
-・JR・鉄道：JR徳島線（よしの川ブルーライン）「穴吹駅」下車、タクシーまたは路線バスで約5〜10分で脇町うだつの町並みへ。徳島駅からは特急「剣山」で穴吹駅まで約40分。
-・車：徳島自動車道「脇町IC」より県道12号線経由でわずか約5分。無料市営駐車場（道の駅 藍ランドうだつ併設）が利用可能。
-
-【見頃・気候・おすすめの服装】
-・ベストシーズン：11月中旬〜1月（町並みの静寂散策、新春の初詣、阿波尾鶏鍋の旬）。
-・気温の目安：日中は10〜13℃程度ですが、吉野川から吹き付ける川風（吉野川おろし）により体感温度は低くなります。朝晩は2〜4℃前後まで冷え込みます。
-・服装のポイント：歴史ある町並みは石畳やアスファルトを歩行するため、歩きやすいフラットシューズやスニーカーが適しています。風を通さない防風ダウンジャケット、マフラー、手袋を着用してください。大歩危や祖谷方面へ足を延ばす場合は、路面凍結に備えた冬用タイヤの装着が推奨されます。
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* Wikipedia公式連携スポットセクション */}
-        <section className="max-w-4xl mx-auto px-4 mb-10">
-          <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <div className="flex items-center justify-between">
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                近隣名所アーカイブ：国選定重伝建・脇町うだつの町並み（藍商の歴史建築）
-              </h2>
-              <span className="text-[11px] text-stone-400">Wikipedia公式情報連携</span>
-            </div>
-
-            <div className="flex flex-col gap-5">
-              <div className="w-full overflow-hidden rounded-xl border border-stone-200 bg-stone-100 aspect-[16/9] sm:aspect-[21/9]">
-                <img
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Wakimati_minamimati_20250828_1.jpg/1280px-Wakimati_minamimati_20250828_1.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="国選定重伝建・脇町うだつの町並み（藍商の歴史建築）"
-                  className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                  loading="eager" fetchPriority="high"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                  国選定重伝建・脇町うだつの町並み（藍商の歴史建築） の見どころと歴史
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  脇町南町（わきまちみなみまち）は徳島県美馬市脇町大字脇町にある名勝。うだつの町並みともよばれる。 国の重要伝統的建造物群保存地区に昭和63年（1988年）12月16日選定 ・四国八十八景8番・とくしま88景・にし阿波お勧めビューポイント100選・都市景観100選・日本の道100選・美しい日本の歴史的風土100選に選定。阿波歴史文化道に指定。 「うだつと白壁の町並」で、昭和61年度手づくり郷土賞（人と風土が育てた家並）受賞。平成17年度同賞大賞。
-                </p>
-                <div className="pt-2 border-t border-stone-100 flex items-center justify-between text-[11px] text-stone-400">
-                  <span>出典: フリー百科事典『ウィキペディア（Wikipedia）』</span>
-                  <span className="text-cyan-700 font-semibold">冬の探訪推奨スポット</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
             <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
               美馬・脇町・吉野川 厳選の温泉＆名宿5選
             </h2>
-            <p className="text-xs sm:text-sm text-stone-500">【藍商のうだつの町並みと阿波尾鶏鍋：2026-2027】 
-              楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
+            <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
 
@@ -594,8 +480,7 @@ export default function Page() {
                 <h3 className="text-xl sm:text-2xl font-bold">
                   徳島県の宿に実質2,000円で泊まる賢い方法
                 </h3>
-                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">【藍商のうだつの町並みと阿波尾鶏鍋：2026-2027】 
-                  楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
+                <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
               <a

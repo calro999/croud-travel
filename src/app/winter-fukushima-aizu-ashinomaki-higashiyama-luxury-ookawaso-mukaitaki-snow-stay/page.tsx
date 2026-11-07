@@ -160,7 +160,7 @@ export default function Page() {
             </div>
           </section>
 
-          {/* 周辺観光スポット情報（Wikipedia連携実写） */}
+          
           <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-6">
             <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3">
               周辺観光スポット：湯川の渓流沿いに湧く会津藩の奥座敷・東山温泉（竹久夢二や与謝野晶子も愛した歴史の湯）

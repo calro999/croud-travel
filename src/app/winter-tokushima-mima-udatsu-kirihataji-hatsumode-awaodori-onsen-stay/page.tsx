@@ -252,91 +252,6 @@ export default function Page() {
           </section>
 
           {/* 訪れるべき3つの理由 */}
-          <section className="space-y-4">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2">
-              <ShieldCheck className="w-5 h-5 text-cyan-800" />
-              <span>この冬、美馬・吉野川・阿波を訪れるべき3つの理由</span>
-            </h2>
-            <div className="grid grid-cols-1 gap-4">
-          <div className="bg-white p-5 sm:p-6 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <div className="flex items-center gap-2">
-              <span className="w-6 h-6 rounded-full bg-cyan-100 text-cyan-800 text-xs font-bold flex items-center justify-center">
-                1
-              </span>
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                富と格式の象徴！国の重伝建「脇町・うだつの上がる町並み」冬の白壁散歩
-              </h3>
-            </div>
-            <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
-              阿波藍の富を今に伝える豪壮な商家が連なる脇町南町。漆喰の白壁、格子窓、重厚な本瓦葺きの屋根の上にそびえる「うだつ」の装飾美は圧巻です。冬の澄んだ陽光が白壁に陰影を落とす中、藍染め体験や歴史ある芝居小屋「オデオン座（脇町劇場）」を巡る風情豊かな散策が楽しめます。
-            </p>
-          </div>
-
-          <div className="bg-white p-5 sm:p-6 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <div className="flex items-center gap-2">
-              <span className="w-6 h-6 rounded-full bg-cyan-100 text-cyan-800 text-xs font-bold flex items-center justify-center">
-                2
-              </span>
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                女人得道の聖地！四国霊場第十番「切幡寺」新春開運初詣と壮麗な国重文大塔
-              </h3>
-            </div>
-            <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
-              弘法大師空海が開創した四国八十八箇所の名刹・切幡寺。333段の石段を登り切った境内からは吉野川平野の大パノラマが一望でき、日本で唯一の木造方形二重塔として知られる国重文の大塔が冬の空にそびえ立ちます。善女成仏・厄除け・家内安全を祈願する新春初詣に最適な霊場です。
-            </p>
-          </div>
-
-          <div className="bg-white p-5 sm:p-6 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <div className="flex items-center gap-2">
-              <span className="w-6 h-6 rounded-full bg-cyan-100 text-cyan-800 text-xs font-bold flex items-center justify-center">
-                3
-              </span>
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                コクと歯ごたえが段違い！徳島の名地鶏「阿波尾鶏」の滋味鍋と吉野川の名湯
-              </h3>
-            </div>
-            <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
-              徳島の大自然の中で通常の約2倍の期間をかけて丹念に育てられる地鶏「阿波尾鶏」。低脂肪で適度な歯ごたえがあり、噛むほどに溢れる濃厚な旨味は冬の鍋料理に最適です。白菜や鳴門レンコンとともに味わう阿波尾鶏の水炊きやすき焼きは絶品。清流を望む天然温泉とともに心身を温めてくれます。
-            </p>
-          </div>
-            </div>
-          </section>
-
-          {/* 近隣名所アーカイブ（Wikipedia公式連携） */}
-          <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-4">
-            <div className="flex items-center justify-between border-b border-stone-100 pb-3">
-              <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <MapPin className="w-5 h-5 text-cyan-800" />
-                <span>近隣名所アーカイブ：国指定重要伝統的建造物群保存地区・脇町うだつの町並み（藍商人の繁栄美と冬情話）</span>
-              </h2>
-              <span className="text-[11px] bg-stone-100 text-stone-600 px-2 py-0.5 rounded">
-                Wikipedia公式連携
-              </span>
-            </div>
-
-            <div className="flex flex-col gap-5">
-              <div className="w-full relative aspect-[16/9] sm:aspect-[21/9] rounded-xl overflow-hidden bg-stone-100">
-                <img
-                  src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Wakimati_minamimati_20250828_1.jpg/1280px-Wakimati_minamimati_20250828_1.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-                  alt="国指定重要伝統的建造物群保存地区・脇町うだつの町並み（藍商人の繁栄美と冬情話）"
-                  className="w-full h-full object-cover"
-                  loading="lazy"
-                />
-              </div>
-              <div className="w-full space-y-3">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                  【国指定重要伝統的建造物群保存地区・脇町うだつの町並み（藍商人の繁栄美と冬情話）の見どころと歴史】
-                </h3>
-                <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
-                  脇町南町（わきまちみなみまち）は徳島県美馬市脇町大字脇町にある名勝。うだつの町並みともよばれる。 国の重要伝統的建造物群保存地区に昭和63年（1988年）12月16日選定 ・四国八十八景8番・とくしま88景・にし阿波お勧めビューポイント100選・都市景観100選・日本の道100選・美しい日本の歴史的風土100選に選定。阿波歴史文化道に指定。 「うだつと白壁の町並」で、昭和61年度手づくり郷土賞（人と風土が育てた家並）受賞。平成17年度同賞大賞。
-                </p>
-                <div className="text-[11px] text-stone-400">
-                  出典：フリー百科事典『ウィキペディア（Wikipedia）』より
-                </div>
-              </div>
-            </div>
-          </section>
-
           {/* 厳選名宿5選 */}
           <section className="space-y-6">
             <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-2">
@@ -768,7 +683,7 @@ export default function Page() {
 
           {/* 内部リンク */}
           <section className="bg-stone-100/70 rounded-2xl p-6 border border-stone-200 space-y-3 text-xs sm:text-sm">
-            <h3 className="font-bold text-stone-800">あわせて読みたい関連特集（藍商人の白壁美・うだつの町並みと四国霊場切幡寺初詣：）</h3>
+            <h3 className="font-bold text-stone-800">あわせて読みたい関連特集</h3>
             <ul className="space-y-1.5 text-cyan-800">
               <li>
                 <Link href="/prefectures/tokushima/" className="hover:underline flex items-center gap-1">

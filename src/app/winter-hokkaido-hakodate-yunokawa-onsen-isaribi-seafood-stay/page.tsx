@@ -364,7 +364,7 @@ export default function HakodateYunokawaWinterPage() {
         {/* Table of Contents */}
         <section className="bg-slate-100/80 rounded-2xl p-6 border border-slate-200">
           <h2 className="text-base font-bold text-slate-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-cyan-800" />
-            目次・インデックス｜函館湯の冬旅・名湯美食ガイド！</h2>
+            目次・インデックス</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-slate-700">
             <a href="#spring-feature" className="hover:text-cyan-800 hover:underline flex items-center gap-1.5">
               <span>1. 湯の川温泉の魅力：360年の名湯と津軽海峡の絶景インフィニティ</span>
@@ -647,7 +647,7 @@ export default function HakodateYunokawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜函館湯の冬旅・名湯美食ガイド！</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">

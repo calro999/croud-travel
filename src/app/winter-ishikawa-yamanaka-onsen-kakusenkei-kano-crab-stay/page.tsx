@@ -364,7 +364,7 @@ export default function YamanakaWinterPage() {
         {/* Table of Contents */}
         <section className="bg-stone-100/80 rounded-2xl p-6 border border-stone-200">
           <h2 className="text-base font-bold text-stone-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-rose-800" />
-            目次・インデックス｜加賀山中温泉の冬旅・名湯美食ガイド！</h2>
+            目次・インデックス</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-stone-700">
             <a href="#spring-feature" className="hover:text-rose-800 hover:underline flex items-center gap-1.5">
               <span>1. 山中温泉の魅力：松尾芭蕉が称えた名湯と鶴仙渓の初冬渓谷美</span>
@@ -647,7 +647,7 @@ export default function YamanakaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）｜加賀山中温泉の冬旅・名湯美食ガイド！</h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">よくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
